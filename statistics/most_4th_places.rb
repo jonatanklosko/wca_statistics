@@ -4,21 +4,25 @@ class Most4thPlaces < Statistic
   def initialize
     @title = "Most 4th places"
     @note = "Only finals are taken into account."
-    @header = { "Count" => :right, "Person" => :left }
+    @header = { "4th places" => :right, "Person" => :left }
   end
 
   def query
     <<-SQL
       SELECT
-        COUNT(*) 4th_places_count,
+        4th_places_count,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link
-      FROM Results
-      JOIN Persons person ON person.id = personId AND person.subId = 1
-      WHERE 1
-        AND roundTypeId IN ('c', 'f')
-        AND pos = 4
-      GROUP BY person.id, person.name -- Same as gruping by id, but lets us use person.name
-      HAVING 4th_places_count >= 30
+      FROM (
+        SELECT
+          personId wca_id,
+          COUNT(*) 4th_places_count
+        FROM Results
+        JOIN RoundTypes round_type ON round_type.id = roundTypeId
+        WHERE round_type.final = 1 AND pos = 4
+        GROUP BY personId
+        HAVING 4th_places_count >= 30
+      ) AS 4th_places_count_by_person
+      JOIN Persons person ON person.id = wca_id AND person.subId = 1
       ORDER BY 4th_places_count DESC
     SQL
   end

@@ -15,11 +15,12 @@ class MostPodiumsTogether < Statistic
         )
       FROM Results
       JOIN Persons person ON person.id = personId AND person.subId = 1
+      JOIN RoundTypes round_type ON round_type.id = roundTypeId
       WHERE 1
-        AND roundTypeId IN ('f', 'c')
+        AND round_type.final = 1
+        AND pos <= 3
         AND best > 0
-        AND pos IN (1, 2, 3)
-      GROUP BY competitionId, eventId
+      GROUP BY eventId, competitionId
     SQL
   end
 

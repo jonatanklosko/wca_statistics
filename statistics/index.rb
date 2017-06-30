@@ -8,4 +8,5 @@ STATISTICS = {
   "most_podiums_together" => MostPodiumsTogether.new,
   "most_visited_countries" => MostVisitedCountries.new,
   "world_championship_podiums_by_country" => WorldChampionshipPodiumsByCountry.new,
+  "world_championship_podiums_by_person" => WorldChampionshipPodiumsByPerson.new,
 }

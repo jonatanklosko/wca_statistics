@@ -20,10 +20,10 @@ class Most4thPlaces < Statistic
         JOIN RoundTypes round_type ON round_type.id = roundTypeId
         WHERE round_type.final = 1 AND pos = 4
         GROUP BY personId
-        HAVING 4th_places_count >= 30
+        ORDER BY 4th_places_count DESC
+        LIMIT 100
       ) AS 4th_places_count_by_person
       JOIN Persons person ON person.id = wca_id AND person.subId = 1
-      ORDER BY 4th_places_count DESC
     SQL
   end
 end

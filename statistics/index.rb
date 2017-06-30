@@ -5,4 +5,5 @@ STATISTICS = {
   "most_4th_places" => Most4thPlaces.new,
   "most_finals" => MostFinals.new,
   "most_podiums_together" => MostPodiumsTogether.new,
+  "most_visited_countries" => MostVisitedCountries.new,
 }

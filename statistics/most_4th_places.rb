@@ -10,7 +10,7 @@ class Most4thPlaces < Statistic
   def query
     <<-SQL
       SELECT
-        COUNT(*) count,
+        COUNT(*) 4th_places_count,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link
       FROM Results
       JOIN Persons person ON person.id = personId AND person.subId = 1
@@ -18,8 +18,8 @@ class Most4thPlaces < Statistic
         AND roundTypeId IN ('c', 'f')
         AND pos = 4
       GROUP BY person.id, person.name -- Same as gruping by id, but lets us use person.name
-      HAVING count >= 30
-      ORDER BY count DESC
+      HAVING 4th_places_count >= 30
+      ORDER BY 4th_places_count DESC
     SQL
   end
 end

@@ -18,7 +18,7 @@ class Statistic
     data = transform(query_results.each(as: :array))
     markdown = "## #{@title}\n\n"
     markdown += "*Note: #{@note}*\n" if @note
-    markdown += Time.now.strftime("*Computed on %d %B %Y*\n\n")
+    markdown += Time.now.strftime("*Computed on %e %B %Y*\n\n")
     markdown += "| #{@header.keys.join(' | ')} |\n"
     alignments = { left: ":---", center: ":--:", right: "---:" }
     markdown += "| #{@header.values.map { |alignment| alignments[alignment] }.join(' | ')} |\n"

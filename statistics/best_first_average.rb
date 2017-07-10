@@ -5,7 +5,7 @@ class BestFirstAverage < GroupedStatistic
   def initialize
     @title = "Best first average"
     @note = "In other words, it's the best average done when participating for the first time in the given event."
-    @header = { "First average" => :right, "Person": :left }
+    @table_header = { "First average" => :right, "Person": :left }
   end
 
   def query

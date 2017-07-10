@@ -25,7 +25,7 @@ class Statistic
   end
 
   def markdown
-    top + markdown_table(@header, data)
+    top + markdown_table(@table_header, data)
   end
 
   def markdown_table(header, data)

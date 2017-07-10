@@ -4,7 +4,7 @@ class Most4thPlaces < Statistic
   def initialize
     @title = "Most 4th places"
     @note = "Only finals are taken into account."
-    @header = { "4th places" => :right, "Person" => :left }
+    @table_header = { "4th places" => :right, "Person" => :left }
   end
 
   def query

@@ -4,7 +4,7 @@ class <<<CLASS_NAME>>> < Statistic
   def initialize
     @title = "Title"
     @note = "Optional note"
-    @header = {  }
+    @table_header = {  }
   end
 
   def query

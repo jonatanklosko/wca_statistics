@@ -25,7 +25,7 @@ class MostPodiumsTogether < Statistic
   end
 
   def transform(query_results)
-    query_results
+    query_results.each(as: :array)
       .flatten!
       .map! { |people| people.split(',').combination(2).to_a }
       .flatten!(1)

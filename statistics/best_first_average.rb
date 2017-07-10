@@ -1,5 +1,6 @@
 require_relative "../core/grouped_statistic"
 require_relative "../core/events"
+require_relative "../core/solve_time"
 
 class BestFirstAverage < GroupedStatistic
   def initialize
@@ -32,8 +33,7 @@ class BestFirstAverage < GroupedStatistic
         .sort_by! { |result| result["average"] }
         .first(10)
         .map! do |result|
-          # average_solve_time = SolveTime.new(event_id, :average, average).clock_format
-          average_solve_time = result["average"]
+          average_solve_time = SolveTime.new(event_id, :average, result["average"]).clock_format
           [average_solve_time, result["person_link"]]
         end
       [event_name, results]

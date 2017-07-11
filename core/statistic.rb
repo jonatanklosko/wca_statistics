@@ -1,10 +1,6 @@
-require "mysql2"
+require_relative "database"
 
 class Statistic
-  def self.client
-    @@client ||= Mysql2::Client.new(host: "localhost", username: "root", database: "wca_development")
-  end
-
   def query
     raise "Must implement #query"
   end
@@ -14,7 +10,7 @@ class Statistic
   end
 
   def data
-    query_results = Statistic.client.query(query)
+    query_results = Database::CLIENT.query(query)
     @data ||= transform(query_results)
   end
 

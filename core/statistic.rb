@@ -1,6 +1,8 @@
 require_relative "database"
 
 class Statistic
+  attr_reader :title
+
   def query
     raise "Must implement #query"
   end

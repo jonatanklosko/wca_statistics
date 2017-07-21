@@ -11,6 +11,7 @@ STATISTICS = {
   "most_podiums_at_single_competition" => MostPodiumsAtSingleCompetition.new,
   "most_podiums_together" => MostPodiumsTogether.new,
   "most_records_at_single_competition" => MostRecordsAtSingleCompetition.new,
+  "most_solves_before_bld_success" => MostSolvesBeforeBldSuccess.new,
   "most_visited_countries" => MostVisitedCountries.new,
   "world_championship_podiums_by_country" => WorldChampionshipPodiumsByCountry.new,
   "world_championship_podiums_by_person" => WorldChampionshipPodiumsByPerson.new,

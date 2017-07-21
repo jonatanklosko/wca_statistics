@@ -24,4 +24,6 @@ module Events
   }
 
   OFFICIAL = ALL.first(18).to_h
+
+  BLD = ALL.select { |event_id, event_name| %w(333bf 444bf 555bf 333mbf).include?(event_id) }.to_h
 end

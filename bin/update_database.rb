@@ -18,12 +18,13 @@ Dir.mktmpdir do |tmp_direcory|
     zip_filename = "WCA_export.sql.zip"
     filename = "WCA_export.sql"
     config = Database::DATABASE_CONFIG
+    client = Database.client
 
     timed_task("Downloadig #{database_export_url}") { `wget #{database_export_url}` }
     timed_task("Unzipping #{zip_filename}") { `unzip #{zip_filename}` }
     timed_task("Importing #{filename} into #{config["database"]}") do
-      Database::CLIENT.query("DROP DATABASE IF EXISTS #{config["database"]}")
-      Database::CLIENT.query("CREATE DATABASE #{config["database"]}")
+      client.query("DROP DATABASE IF EXISTS #{config["database"]}")
+      client.query("CREATE DATABASE #{config["database"]}")
       `mysql --user=#{config["username"]} --password=#{config["password"]} #{config["database"]} < #{filename}`
     end
   end

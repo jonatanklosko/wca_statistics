@@ -12,7 +12,7 @@ class Statistic
   end
 
   def data
-    query_results = Database::CLIENT.query(query)
+    query_results = Database.client.query(query)
     @data ||= transform(query_results)
   end
 

@@ -8,6 +8,7 @@ STATISTICS = {
   "dnf_rate_by_event" => DnfRateByEvent.new,
   "fewest_competitors_contest" => FewestCompetitorsContest.new,
   "most_4th_places" => Most4thPlaces.new,
+  "most_attended_competitions_in_single_month" => MostAttendedCompetitionsInSingleMonth.new,
   "most_competitions_abroad" => MostCompetitionsAbroad.new,
   "most_finals" => MostFinals.new,
   "most_podiums_at_single_competition" => MostPodiumsAtSingleCompetition.new,

@@ -11,13 +11,14 @@ Dir.mktmpdir do |tmp_direcory|
     zip_filename = "wca-developer-database-dump.zip"
     filename = "wca-developer-database-dump.sql"
     config = Database::DATABASE_CONFIG
-    client = Database.client
+    mysql_with_credentials = "mysql --user=#{config["username"]} --password=#{config["password"]}"
+    filter_out_mysql_warning = '2>&1 | grep -v "[Warning] Using a password on the command line interface can be insecure."'
 
     Helpers.timed_task("Downloadig #{database_export_url}") { `wget #{database_export_url}` }
     Helpers.timed_task("Unzipping #{zip_filename}") { `unzip #{zip_filename}` }
     Helpers.timed_task("Importing #{filename} into #{config["database"]}") do
-      client.query("DROP DATABASE IF EXISTS #{config["database"]}")
-      client.query("CREATE DATABASE #{config["database"]}")
+      `#{mysql_with_credentials} -e "DROP DATABASE IF EXISTS #{config["database"]}"`
+      `#{mysql_with_credentials} -e "CREATE DATABASE #{config["database"]}"`
       sql = File.read(filename)
       Database::REQUIRED_TABLES.each do |table_name|
         puts "  - Importing table #{table_name}"
@@ -32,8 +33,7 @@ Dir.mktmpdir do |tmp_direcory|
         table_sql += index_creations
         table_filename = "#{table_name}.sql"
         File.write(table_filename, table_sql)
-        filter_out_mysql_warning = '2>&1 | grep -v "[Warning] Using a password on the command line interface can be insecure."'
-        `mysql --user=#{config["username"]} --password=#{config["password"]} #{config["database"]} < #{table_filename} #{filter_out_mysql_warning}`
+        `#{mysql_with_credentials} #{config["database"]} < #{table_filename} #{filter_out_mysql_warning}`
       end
     end
   end

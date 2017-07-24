@@ -25,16 +25,7 @@ Dir.mktmpdir do |tmp_direcory|
     timed_task("Importing #{filename} into #{config["database"]}") do
       client.query("DROP DATABASE IF EXISTS #{config["database"]}")
       client.query("CREATE DATABASE #{config["database"]}")
-      %w(
-        Competitions
-        Countries
-        Events
-        Formats
-        Persons
-        preferred_formats
-        RoundTypes
-        Results
-      ).each do |table_name|
+      Database::REQUIRED_TABLES.each do |table_name|
         puts "  - Importing table #{table_name}"
         table_filename = "#{table_name}.sql"
         # Extract SQL for the given table into a separate file.

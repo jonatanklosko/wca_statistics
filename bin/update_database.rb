@@ -25,19 +25,19 @@ Dir.mktmpdir do |tmp_direcory|
     timed_task("Importing #{filename} into #{config["database"]}") do
       client.query("DROP DATABASE IF EXISTS #{config["database"]}")
       client.query("CREATE DATABASE #{config["database"]}")
+      sql = File.read(filename)
       Database::REQUIRED_TABLES.each do |table_name|
         puts "  - Importing table #{table_name}"
-        table_filename = "#{table_name}.sql"
-        # Extract SQL for the given table into a separate file.
-        `cat #{filename} | sed --quiet  "/Table structure for table .#{table_name}./,/Table structure for table/p" > #{table_filename}`
+        # Extract SQL for the given table.
+        table_sql = sql.match(/-- Table structure for table .#{table_name}.(.*?)-- Table structure for table/m)[1]
         # Get rid of indexes within the table definition in favour of index creations after all the INSERT statements.
-        table_sql = File.read(table_filename)
         index_creations = ""
         table_sql.gsub!(/,\s*KEY (.\w+.) (\([^)]*\))/m) do
           index_creations += "CREATE INDEX #{$1} ON #{table_name} #{$2};\n"
           ""
         end
         table_sql += index_creations
+        table_filename = "#{table_name}.sql"
         File.write(table_filename, table_sql)
         filter_out_mysql_warning = '2>&1 | grep -v "[Warning] Using a password on the command line interface can be insecure."'
         `mysql --user=#{config["username"]} --password=#{config["password"]} #{config["database"]} < #{table_filename} #{filter_out_mysql_warning}`

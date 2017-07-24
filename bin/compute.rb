@@ -8,7 +8,7 @@ statistic_id = File.basename(statistic_path, ".rb")
 statistic_object = STATISTICS[statistic_id]
 Helpers.timed_task("Computing: #{statistic_object.title}") do
   markdown_result = statistic_object.markdown
-  destination_path = File.expand_path("../tmp/#{statistic_id}.md", __dir__)
+  destination_path = File.expand_path("../build/#{statistic_id}.md", __dir__)
   File.write(destination_path, markdown_result)
   puts "File generated at #{destination_path}"
 end

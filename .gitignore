@@ -1,4 +1,4 @@
 # Temporary files
-tmp/
+build/
 database.yml
 !bin/templates/database.yml

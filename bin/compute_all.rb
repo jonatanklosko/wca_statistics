@@ -1,17 +1,17 @@
 #!/usr/bin/env ruby
 
-require_relative "../statistics/index.rb"
+require_relative "helpers"
+require_relative "../statistics/index"
 
-start = Time.now
-STATISTICS
-  .map do |statistics_id, statistics_object|
-    Thread.new do
-      markdown_result = statistics_object.markdown
-      file_path = File.expand_path("../tmp/#{statistics_id}.md", __dir__)
-      File.write(file_path, markdown_result)
-      puts "File generated at #{file_path}"
+Helpers.timed_task("Computing all statistics") do
+  STATISTICS
+    .map do |statistic_id, statistic_object|
+      Thread.new do
+        markdown_result = statistic_object.markdown
+        destination_path = File.expand_path("../tmp/#{statistic_id}.md", __dir__)
+        File.write(destination_path, markdown_result)
+        puts "File generated at #{destination_path}"
+      end
     end
-  end
-  .each(&:join)
-duration = Time.now - start
-puts ("Took %0.2f seconds" % duration)
+    .each(&:join)
+end

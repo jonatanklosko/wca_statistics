@@ -2,15 +2,8 @@
 
 require 'tmpdir'
 require 'fileutils'
+require_relative "helpers"
 require_relative "../core/database"
-
-def timed_task(message)
-  puts message
-  task_start = Time.now
-  yield
-  task_end = Time.now
-  puts ("Took %0.2f seconds" % (task_end - task_start))
-end
 
 Dir.mktmpdir do |tmp_direcory|
   FileUtils.cd tmp_direcory do
@@ -20,9 +13,9 @@ Dir.mktmpdir do |tmp_direcory|
     config = Database::DATABASE_CONFIG
     client = Database.client
 
-    timed_task("Downloadig #{database_export_url}") { `wget #{database_export_url}` }
-    timed_task("Unzipping #{zip_filename}") { `unzip #{zip_filename}` }
-    timed_task("Importing #{filename} into #{config["database"]}") do
+    Helpers.timed_task("Downloadig #{database_export_url}") { `wget #{database_export_url}` }
+    Helpers.timed_task("Unzipping #{zip_filename}") { `unzip #{zip_filename}` }
+    Helpers.timed_task("Importing #{filename} into #{config["database"]}") do
       client.query("DROP DATABASE IF EXISTS #{config["database"]}")
       client.query("CREATE DATABASE #{config["database"]}")
       sql = File.read(filename)

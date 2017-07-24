@@ -1,0 +1,13 @@
+language: ruby
+cache: bundler
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: build
+  on:
+    branch: master
+script:
+  - bin/init.rb
+  - bin/update_database.rb
+  - bin/compute_all.rb

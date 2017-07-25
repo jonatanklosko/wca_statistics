@@ -17,8 +17,8 @@ Dir.mktmpdir do |tmp_direcory|
     Helpers.timed_task("Downloading #{database_export_url}") { `wget #{database_export_url}` }
     Helpers.timed_task("Unzipping #{zip_filename}") { `unzip #{zip_filename}` }
     Helpers.timed_task("Importing #{filename} into #{config["database"]}") do
-      `#{mysql_with_credentials} -e "DROP DATABASE IF EXISTS #{config["database"]}"`
-      `#{mysql_with_credentials} -e "CREATE DATABASE #{config["database"]}"`
+      `#{mysql_with_credentials} -e "DROP DATABASE IF EXISTS #{config["database"]}" #{filter_out_mysql_warning}`
+      `#{mysql_with_credentials} -e "CREATE DATABASE #{config["database"]}" #{filter_out_mysql_warning}`
       sql = File.read(filename)
       Database::REQUIRED_TABLES.each do |table_name|
         puts "  - Importing table #{table_name}"

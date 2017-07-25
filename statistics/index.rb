@@ -20,6 +20,7 @@ STATISTICS = {
   "most_visited_countries" => MostVisitedCountries.new,
   "world_championship_podiums_by_country" => WorldChampionshipPodiumsByCountry.new,
   "world_championship_podiums_by_person" => WorldChampionshipPodiumsByPerson.new,
+  "world_records_by_country" => WorldRecordsByCountry.new,
   "world_records_by_person" => WorldRecordsByPerson.new,
   "worst_result_on_podium" => WorstResultOnPodium.new,
 }

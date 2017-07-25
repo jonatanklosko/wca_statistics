@@ -14,7 +14,7 @@ Dir.mktmpdir do |tmp_direcory|
     mysql_with_credentials = "mysql --user=#{config["username"]} --password=#{config["password"]}"
     filter_out_mysql_warning = '2>&1 | grep -v "[Warning] Using a password on the command line interface can be insecure."'
 
-    Helpers.timed_task("Downloadig #{database_export_url}") { `wget #{database_export_url}` }
+    Helpers.timed_task("Downloading #{database_export_url}") { `wget #{database_export_url}` }
     Helpers.timed_task("Unzipping #{zip_filename}") { `unzip #{zip_filename}` }
     Helpers.timed_task("Importing #{filename} into #{config["database"]}") do
       `#{mysql_with_credentials} -e "DROP DATABASE IF EXISTS #{config["database"]}"`

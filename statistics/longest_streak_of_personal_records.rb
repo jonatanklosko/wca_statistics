@@ -3,14 +3,20 @@ require_relative "../core/statistic"
 class LongestStreakOfPersonalRecords < Statistic
   def initialize
     @title = "Longest streak of competitions with a personal record done"
-    @table_header = { "Longest PBs streak" => :right, "Person" => :left, "Ongoing" => :left }
+    @table_header = {
+      "Competitions" => :right,
+      "Person" => :left,
+      "First competition" => :left,
+      "Last competition" => :left,
+      "Ongoing" => :center
+    }
   end
 
   def query
     <<-SQL
       SELECT
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
-        competitionId competition_id,
+        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         eventId event_id,
         best single,
         average
@@ -31,9 +37,9 @@ class LongestStreakOfPersonalRecords < Statistic
       .group_by { |result| result["person_link"] }
       .map do |person_link, person_results|
         pbs_by_event = Hash.new { |hash, key| hash[key] = Hash.new(SolveTime::DNF) }
-        longest_pbs_streak = 0
-        current_pbs_streak = 0
-        person_results.group_by { |result| result["competition_id"] }.each do |competition_id, person_competition_results|
+        longest_pbs_streak = { count: 0 }
+        current_pbs_streak = { count: 0 }
+        person_results.group_by { |result| result["competition_link"] }.each do |competition_link, person_competition_results|
           competition_with_pbs = false
           person_competition_results.each do |result|
             pbs = pbs_by_event[result["event_id"]]
@@ -45,15 +51,18 @@ class LongestStreakOfPersonalRecords < Statistic
             end
           end
           if competition_with_pbs
-            current_pbs_streak += 1
-            longest_pbs_streak = [longest_pbs_streak, current_pbs_streak].max
+            current_pbs_streak[:first_competition] = competition_link if current_pbs_streak[:count] == 0
+            current_pbs_streak[:last_competition] = competition_link
+            current_pbs_streak[:count] += 1
+            longest_pbs_streak = [longest_pbs_streak, current_pbs_streak].max_by { |pbs_streak| pbs_streak[:count] }
           else
-            current_pbs_streak = 0
+            current_pbs_streak = { count: 0 }
           end
         end
-        [longest_pbs_streak, person_link, (longest_pbs_streak == current_pbs_streak ? "Yes" : "No")]
+        ongoing = (longest_pbs_streak == current_pbs_streak ? "Yes" : "No")
+        [longest_pbs_streak[:count], person_link, longest_pbs_streak[:first_competition], longest_pbs_streak[:last_competition], ongoing]
       end
-      .sort_by! { |longest_pbs_streak, _, _| -longest_pbs_streak }
+      .sort_by! { |longest_pbs_streak, _, _, _, _| -longest_pbs_streak }
       .first(100)
   end
 end

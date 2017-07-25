@@ -18,6 +18,7 @@ STATISTICS = {
   "most_solves_before_bld_success" => MostSolvesBeforeBldSuccess.new,
   "most_visited_continents" => MostVisitedContinents.new,
   "most_visited_countries" => MostVisitedCountries.new,
+  "records_in_most_events" => RecordsInMostEvents.new,
   "world_championship_podiums_by_country" => WorldChampionshipPodiumsByCountry.new,
   "world_championship_podiums_by_person" => WorldChampionshipPodiumsByPerson.new,
   "world_records_by_country" => WorldRecordsByCountry.new,

@@ -1,6 +1,8 @@
 # A modified version of https://github.com/thewca/worldcubeassociation.org/blob/master/WcaOnRails/lib/solve_time.rb
 
 class SolveTime
+  include Comparable
+
   CLOCK_FORMAT = "%d:%02d:%02d.%02d"
   QUESTION_STRING = "?:??:??"
   DOT_STRING = "."

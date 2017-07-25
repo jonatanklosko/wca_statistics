@@ -25,9 +25,9 @@ class WorldChampionshipPodiumsByPerson < Statistic
           AND pos IN (1, 2, 3)
           AND best > 0
         GROUP BY personId
-        ORDER BY podiums_count DESC
       ) AS podiums_count_by_person
       JOIN Persons person ON person.id = wca_id AND person.subId = 1
+      ORDER BY podiums_count DESC
     SQL
   end
 end

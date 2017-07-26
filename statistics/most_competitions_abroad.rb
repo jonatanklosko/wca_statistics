@@ -8,16 +8,18 @@ class MostCompetitionsAbroad < Statistic
 
   def query
     <<-SQL
-    SELECT
-      competitions_abroad,
-      CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_name
+      SELECT
+        competitions_abroad,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_name
       FROM (
         SELECT
           personId,
           COUNT(DISTINCT competitionId) competitions_abroad
         FROM Results result
         JOIN Competitions competition ON competition.id = competitionId
-        WHERE result.countryId != competition.countryId
+        WHERE 1
+          AND result.countryId != competition.countryId
+          AND competition.countryId NOT IN ('XA', 'XE', 'XS') -- Ignore Multiple Countries used for continental FMC competitions.
         GROUP BY personId
         ORDER BY competitions_abroad DESC
         LIMIT 100

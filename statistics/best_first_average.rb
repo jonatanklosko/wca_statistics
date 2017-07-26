@@ -38,6 +38,5 @@ class BestFirstAverage < GroupedStatistic
         end
       [event_name, results]
     end
-    .reject { |event_name, results| results.empty? }
   end
 end

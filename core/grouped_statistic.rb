@@ -4,8 +4,10 @@ class GroupedStatistic < Statistic
   def markdown
     markdown = top
     data.each do |header, subdata|
-      markdown += "\n### #{header}\n\n"
-      markdown += markdown_table(@table_header, subdata)
+      unless subdata.empty?
+        markdown += "\n### #{header}\n\n"
+        markdown += markdown_table(@table_header, subdata)
+      end
     end
     markdown
   end

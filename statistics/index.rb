@@ -3,6 +3,7 @@ Dir["#{__dir__}/*.rb"].reject { |path| path.end_with?(__FILE__) }.each { |file| 
 
 STATISTICS = {
   "best_first_average" => BestFirstAverage.new,
+  "competitions_count_by_week" => CompetitionsCountByWeek.new,
   "competitions_per_year_by_country" => CompetitionsPerYearByCountry.new,
   "competitions_per_year_by_person" => CompetitionsPerYearByPerson.new,
   "dnf_rate_by_event" => DnfRateByEvent.new,

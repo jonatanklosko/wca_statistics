@@ -21,6 +21,7 @@ STATISTICS = {
   "most_visited_countries" => MostVisitedCountries.new,
   "records_in_most_events" => RecordsInMostEvents.new,
   "shortest_time_to_reach_milestone_in_comps_count" => ShortestTimeToReachMilestoneInCompsCount.new,
+  "smallest_diff_between_single_and_average" => SmallestDiffBetweenSingleAndAverage.new,
   "world_championship_podiums_by_country" => WorldChampionshipPodiumsByCountry.new,
   "world_championship_podiums_by_person" => WorldChampionshipPodiumsByPerson.new,
   "world_records_by_country" => WorldRecordsByCountry.new,

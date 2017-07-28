@@ -17,13 +17,13 @@ class CompetitionsPerYearByCountry < Statistic
           SELECT
             COUNT(DISTINCT competitionId) competitions,
             (DATEDIFF(CURDATE(), MIN(start_date)) / 365.25) years,
-            competition.countryId country_id
+            competition.countryId
           FROM Results result
           JOIN Competitions competition ON competition.id = competitionId
-          GROUP BY country_id
+          GROUP BY countryId
           HAVING years >= 1
       ) AS data_by_country
-      JOIN Countries country ON country.id = country_id
+      JOIN Countries country ON country.id = countryId
       ORDER BY competitions_per_year DESC
     SQL
   end

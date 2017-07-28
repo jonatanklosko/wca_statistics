@@ -13,6 +13,7 @@ STATISTICS = {
   "most_attended_competitions_in_single_month" => MostAttendedCompetitionsInSingleMonth.new,
   "most_competitions_abroad" => MostCompetitionsAbroad.new,
   "most_finals" => MostFinals.new,
+  "most_frequent_results" => MostFrequentResults.new,
   "most_podiums_at_single_competition" => MostPodiumsAtSingleCompetition.new,
   "most_podiums_together" => MostPodiumsTogether.new,
   "most_records_at_single_competition" => MostRecordsAtSingleCompetition.new,

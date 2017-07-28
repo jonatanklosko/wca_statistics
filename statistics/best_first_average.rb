@@ -29,7 +29,7 @@ class BestFirstAverage < GroupedStatistic
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }
         .map { |person_link, results| results.first }
-        .reject { |result| result["average"].nil? || result["average"] <= 0 }
+        .select! { |result| result["average"] > 0 }
         .sort_by! { |result| result["average"] }
         .first(10)
         .map! do |result|

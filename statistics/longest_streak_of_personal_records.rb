@@ -30,13 +30,9 @@ class LongestStreakOfPersonalRecords < Statistic
 
   def transform(query_results)
     query_results
-      .each do |result|
-        result["single"] = SolveTime.new(result["event_id"], :single, result["single"])
-        result["average"] = SolveTime.new(result["event_id"], :average, result["average"])
-      end
       .group_by { |result| result["person_link"] }
       .map do |person_link, person_results|
-        pbs_by_event = Hash.new { |hash, key| hash[key] = Hash.new(SolveTime::DNF) }
+        pbs_by_event = Hash.new { |hash, key| hash[key] = Hash.new(Float::INFINITY) }
         longest_pbs_streak = { count: 0 }
         current_pbs_streak = { count: 0 }
         person_results.group_by { |result| result["competition_link"] }.each do |competition_link, person_competition_results|
@@ -44,7 +40,7 @@ class LongestStreakOfPersonalRecords < Statistic
           person_competition_results.each do |result|
             pbs = pbs_by_event[result["event_id"]]
             %w(single average).each do |type|
-              if result[type].complete? && result[type] <= pbs[type]
+              if result[type] > 0 && result[type] <= pbs[type]
                 pbs[type] = result[type]
                 competition_with_pbs = true
               end

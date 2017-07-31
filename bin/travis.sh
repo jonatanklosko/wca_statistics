@@ -14,7 +14,7 @@ else
   else
     # Copy existing files from gh-pages to the build directory.
     git checkout gh-pages .
-    mv `git ls-tree -r --name-only gh-pages` build
+    mv `git ls-tree --name-only gh-pages | grep '.md'` build
     echo "$changed_statistic_files" | while read line; do
       bin/compute.rb $line
     done

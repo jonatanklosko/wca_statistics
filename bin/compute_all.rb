@@ -3,13 +3,15 @@
 require_relative "helpers"
 require_relative "../statistics/index"
 
+$stdout.sync = true # Make sure the output is printed immediately, so that Travis doesn't timeout.
+
 build_path = File.expand_path("../build", __dir__)
 Helpers.timed_task("Computing all statistics") do
-  # Generate statistic files.
   STATISTICS.each do |statistic_id, statistic_object|
-    markdown_result = statistic_object.markdown
     destination_path = File.join(build_path, "#{statistic_id}.md")
-    File.write(destination_path, markdown_result)
-    puts "File generated at #{destination_path}"
+    Helpers.timed_task("Generating file at #{destination_path}") do
+      markdown_result = statistic_object.markdown
+      File.write(destination_path, markdown_result)
+    end
   end
 end

@@ -17,7 +17,7 @@ class SolveTime
 
   def initialize(event_id, field, wca_value)
     @event_id = event_id
-    @field = field
+    @field = field&.to_sym
     self.wca_value = wca_value
   end
 

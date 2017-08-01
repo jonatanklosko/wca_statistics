@@ -5,7 +5,7 @@ require_relative "../core/events"
 class WorldChampionshipRecords < GroupedStatistic
   def initialize
     @title = "World Championship records"
-    @note = "This is a list of best results from all World Championships. It corresponds to Olympic records for Olympic sports."
+    @note = "This is a list of the best results from all World Championships. It corresponds to Olympic records for Olympic sports."
     @table_header = { "Event" => :left, "Result" => :right, "Person" => :left, "Citizen of" => :left, "Competition" => :left }
   end
 
@@ -36,7 +36,7 @@ class WorldChampionshipRecords < GroupedStatistic
             records_by_event[result["event_id"]] = result
           end
         end
-      records = Events::ALL
+      records = Events::OFFICIAL
         .map { |event_id, event_name| [event_name, records_by_event[event_id]] }
         .select { |event_name, result| result[type].complete? }
         .map! do |event_name, result|

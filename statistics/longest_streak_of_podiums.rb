@@ -3,7 +3,9 @@ require_relative "../core/statistic"
 class LongestStreakOfPodiums < Statistic
   def initialize
     @title = "Longest streak of podiums"
-    @note = "All competitions that did not hold the given event are ignored. Only finals are taken into account."
+    @note = "All competitions that did not hold the given event are ignored. "\
+            "Results without any completed attempt are not eligible for podium. "\
+            "Only finals are taken into account."
     @table_header = { "Count" => :right, "Person" => :left, "Event" => :left, "Started at" => :left, "Ended at" => :left }
   end
 
@@ -14,7 +16,8 @@ class LongestStreakOfPodiums < Statistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
         CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         round_type.final is_final,
-        pos place
+        pos place,
+        best single
       FROM Results
       JOIN Events event ON event.id = eventId
       JOIN Persons person ON person.id = personId AND person.subId = 1
@@ -38,7 +41,7 @@ class LongestStreakOfPodiums < Statistic
             }
             current_podiums_streak = current_podiums_streak_by_event[event_name]
             last_round_result = person_competition_event_results.last
-            if last_round_result["is_final"] == 1 && last_round_result["place"] <= 3
+            if last_round_result["is_final"] == 1 && last_round_result["place"] <= 3 && last_round_result["single"] > 0
               current_podiums_streak[:count] += 1
             else
               current_podiums_streak[:last_competition] = competition_link

@@ -5,6 +5,7 @@ STATISTICS = {
   "best_first_average" => BestFirstAverage.new,
   "best_potential_fmc_mean" => BestPotentialFmcMean.new,
   "best_result_off_podium" => BestResultOffPodium.new,
+  "best_single_counting_into_average" => BestSingleCountingIntoAverage.new,
   "competitions_count_by_week" => CompetitionsCountByWeek.new,
   "competitions_per_year_by_country" => CompetitionsPerYearByCountry.new,
   "competitions_per_year_by_person" => CompetitionsPerYearByPerson.new,

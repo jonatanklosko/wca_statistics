@@ -3,24 +3,34 @@ require_relative "../core/statistic"
 class WorldChampionshipPodiumsByCountry < Statistic
   def initialize
     @title = "World Championship podiums by country"
-    @table_header = { "Podiums" => :right, "Country" => :left }
+    @table_header = { "Country" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
   end
 
   def query
     <<-SQL
       SELECT
-        COUNT(*) podiums_count,
-        country.name
-      FROM Results result
-      JOIN Competitions competition ON competition.id = competitionId
-      JOIN Countries country ON country.id = result.countryId
-      WHERE 1
-        AND competition.cellName LIKE 'World Championship %'
-        AND roundTypeId IN ('f', 'c')
-        AND pos IN (1, 2, 3)
-        AND best > 0
-      GROUP BY country.name
-      ORDER BY podiums_count DESC
+        country.name,
+        CONCAT('**', gold_medals, '**'),
+        silver_medals,
+        bronze_medals,
+        gold_medals + silver_medals + bronze_medals total
+      FROM (
+        SELECT
+          result.countryId,
+          SUM(IF(pos = 1, 1, 0)) gold_medals,
+          SUM(IF(pos = 2, 1, 0)) silver_medals,
+          SUM(IF(pos = 3, 1, 0)) bronze_medals
+        FROM Results result
+        JOIN Competitions competition ON competition.id = competitionId
+        WHERE 1
+          AND roundTypeId IN ('c', 'f')
+          AND best > 0
+          AND competition.cellName LIKE 'World Championship %'
+        GROUP BY result.countryId
+      ) AS medals_by_country
+      JOIN Countries country ON country.id = countryId
+      WHERE gold_medals + silver_medals + bronze_medals > 0
+      ORDER BY gold_medals DESC, silver_medals DESC, bronze_medals DESC, country.name
     SQL
   end
 end

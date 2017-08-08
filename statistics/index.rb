@@ -4,6 +4,7 @@ Dir["#{__dir__}/*.rb"].reject { |path| path.end_with?(__FILE__) }.each { |file| 
 STATISTICS = {
   "best_first_average" => BestFirstAverage.new,
   "best_medal_collection_from_abroad_by_country" => BestMedalCollectionFromAbroadByCountry.new,
+  "best_medal_collection_from_abroad_by_person" => BestMedalCollectionFromAbroadByPerson.new,
   "best_potential_fmc_mean" => BestPotentialFmcMean.new,
   "best_result_off_podium" => BestResultOffPodium.new,
   "best_single_counting_into_average" => BestSingleCountingIntoAverage.new,

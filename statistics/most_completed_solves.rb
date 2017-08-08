@@ -34,17 +34,17 @@ class MostCompletedSolves < GroupedStatistic
       "Continent" => "continent",
       "Year" => "year",
       "Event" => "event"
-    }.map do |group_name, group_id|
+    }.map do |group_name, group_field|
       count_by_group = query_results
-        .group_by { |result| result[group_id] }
-        .map do |group_id, results|
+        .group_by { |result| result[group_field] }
+        .map do |group_value, results|
           completed_count = results.sum { |result| result["completed_count"] }
           attempts_count = completed_count + results.sum { |result| result["dnfs_count"] } # Completed and DNFs.
-          [group_id, completed_count, attempts_count]
+          [group_value, completed_count, attempts_count]
         end
-        .sort_by! { |group_id, completed_count, attempts_count| [-completed_count, attempts_count, group_id] }
+        .sort_by! { |group_value, completed_count, attempts_count| [-completed_count, attempts_count, group_value] }
         .first(20)
-        .map! { |group_id, completed_count, attempts_count| [group_id, "**#{completed_count}**", attempts_count] }
+        .map! { |group_value, completed_count, attempts_count| [group_value, "**#{completed_count}**", attempts_count] }
       [group_name, count_by_group]
     end
   end

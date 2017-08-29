@@ -7,6 +7,7 @@ module Database
   DATABASE_CONFIG = YAML.load_file(DATABASE_CONFIG_PATH)
   REQUIRED_TABLES = %w(
     Competitions
+    competition_delegates
     Continents
     Countries
     Events
@@ -15,6 +16,7 @@ module Database
     preferred_formats
     RoundTypes
     Results
+    users
   )
 
   def self.client

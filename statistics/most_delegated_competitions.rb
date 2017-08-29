@@ -3,14 +3,15 @@ require_relative "../core/statistic"
 class MostDelegatedCompetitions < Statistic
   def initialize
     @title = "Most delegated competitions"
-    @table_header = { "Delegated" => :right, "Person" => :left }
+    @table_header = { "Delegated" => :right, "Person" => :left, "List on WCA" => :center }
   end
 
   def query
     <<-SQL
       SELECT
         delegated_count,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=', user.id, ')') list_link
       FROM (
         SELECT
           COUNT(DISTINCT competition_id) delegated_count,

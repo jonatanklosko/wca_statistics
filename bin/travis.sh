@@ -16,6 +16,7 @@ else
     git checkout gh-pages .
     mv `git ls-tree --name-only gh-pages | grep '.md'` build
     echo "$changed_statistic_files" | while read line; do
+      echo "File has changed: $line"
       bin/compute.rb $line
     done
   fi

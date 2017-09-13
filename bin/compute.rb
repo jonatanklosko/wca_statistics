@@ -3,6 +3,8 @@
 require_relative "helpers"
 require_relative "../statistics/index"
 
+$stdout.sync = true
+
 statistic_path = ARGV[0] || abort("Please provide the statistic file path.")
 statistic_id = File.basename(statistic_path, ".rb")
 statistic_object = STATISTICS[statistic_id]

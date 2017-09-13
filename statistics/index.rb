@@ -13,6 +13,7 @@ STATISTICS = {
   "competitions_per_year_by_person" => CompetitionsPerYearByPerson.new,
   "dnf_rate_by_event" => DnfRateByEvent.new,
   "fewest_competitors_contest" => FewestCompetitorsContest.new,
+  "longest_streak_of_competitions_in_own_country" => LongestStreakOfCompetitionsInOwnCountry.new,
   "longest_streak_of_personal_records" => LongestStreakOfPersonalRecords.new,
   "longest_streak_of_podiums" => LongestStreakOfPodiums.new,
   "most_4th_places" => Most4thPlaces.new,

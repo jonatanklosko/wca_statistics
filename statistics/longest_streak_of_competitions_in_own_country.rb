@@ -13,7 +13,10 @@ class LongestStreakOfCompetitionsInOwnCountry < Statistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
         CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         country.name country
-      FROM Results
+      FROM (
+        SELECT DISTINCT personId, competitionId
+        FROM Results
+      ) AS people_with_competitions
       JOIN Persons person ON person.id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN Countries country ON country.id = competition.countryId

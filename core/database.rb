@@ -6,6 +6,7 @@ module Database
   DATABASE_CONFIG_PATH = File.expand_path("../database.yml", __dir__)
   DATABASE_CONFIG = YAML.load_file(DATABASE_CONFIG_PATH)
   REQUIRED_TABLES = %w(
+    championships
     Competitions
     competition_delegates
     Continents

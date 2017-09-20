@@ -22,7 +22,8 @@ class WorldChampionshipRecords < GroupedStatistic
       JOIN Persons person ON person.id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN Countries country ON country.id = person.countryId
-      WHERE competition.cellName LIKE 'World Championship %'
+      JOIN championships ON championships.competition_id = competitionId
+      WHERE championship_type = 'world'
     SQL
   end
 

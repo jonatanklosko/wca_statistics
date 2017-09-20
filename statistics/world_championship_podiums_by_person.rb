@@ -22,10 +22,11 @@ class WorldChampionshipPodiumsByPerson < Statistic
           SUM(IF(pos = 3, 1, 0)) bronze_medals
         FROM Results result
         JOIN Competitions competition ON competition.id = competitionId
+        JOIN championships ON championships.competition_id = competitionId
         WHERE 1
           AND roundTypeId IN ('c', 'f')
           AND best > 0
-          AND competition.cellName LIKE 'World Championship %'
+          AND championship_type = 'world'
         GROUP BY personId
       ) AS medals_by_country
       JOIN Persons person ON person.id = personId AND subId = 1

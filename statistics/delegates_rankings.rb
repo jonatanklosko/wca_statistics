@@ -6,7 +6,8 @@ require_relative "../core/solve_time"
 class DelegatesRankings < GroupedStatistic
   def initialize
     @title = "Delegates rankings"
-    @table_header = { "Person" => :left, "Result" => :right, "Country" => :left, "Competition" => :center, "Details" => :left }
+    @note = "Only present delegates are taken into account."
+    @table_header = { "Person" => :left, "Result" => :right, "Country" => :left, "Competition" => :left, "Details" => :left }
   end
 
   def query

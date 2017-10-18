@@ -11,6 +11,7 @@ STATISTICS = {
   "competitions_count_by_week" => CompetitionsCountByWeek.new,
   "competitions_per_year_by_country" => CompetitionsPerYearByCountry.new,
   "competitions_per_year_by_person" => CompetitionsPerYearByPerson.new,
+  "delegates_rankings" => DelegatesRankings.new,
   "dnf_rate_by_event" => DnfRateByEvent.new,
   "fewest_competitors_contest" => FewestCompetitorsContest.new,
   "longest_streak_of_competitions_in_own_country" => LongestStreakOfCompetitionsInOwnCountry.new,

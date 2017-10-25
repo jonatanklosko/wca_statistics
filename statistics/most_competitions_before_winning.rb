@@ -15,7 +15,8 @@ class MostCompetitionsBeforeWinning < GroupedStatistic
         CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         eventId event_id,
         pos place,
-        round_type.final is_final
+        round_type.final is_final,
+        best
       FROM Results
       JOIN Persons person ON person.id = personId AND subId = 1
       JOIN Competitions competition ON competition.id = competitionId
@@ -33,7 +34,7 @@ class MostCompetitionsBeforeWinning < GroupedStatistic
           competitions_with_outcomes = results
             .group_by { |result| result["competition_link"] }
             .map do |competition_link, results|
-              won = results.any? { |result| result["is_final"] == 1 && result["place"] == 1 }
+              won = results.any? { |result| result["is_final"] == 1 && result["place"] == 1 && result["best"] > 0 }
               [competition_link, won]
             end
           first_win_index = competitions_with_outcomes.find_index { |competition_link, won| won }

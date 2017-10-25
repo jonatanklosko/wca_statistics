@@ -4,7 +4,7 @@ require_relative "../core/events"
 class MostCompetitionsBeforeWinning < GroupedStatistic
   def initialize
     @title = "Most competitions before winning"
-    @note = "Only those competitions counts, which held the given event."
+    @note = "Only those competitions count, which held the given event."
     @table_header = { "Competitions" => :right, "Person" => :left, "First win" => :left }
   end
 

@@ -20,6 +20,7 @@ STATISTICS = {
   "most_4th_places" => Most4thPlaces.new,
   "most_attended_competitions_in_single_month" => MostAttendedCompetitionsInSingleMonth.new,
   "most_competitions_abroad" => MostCompetitionsAbroad.new,
+  "most_competitions_before_winning" => MostCompetitionsBeforeWinning.new,
   "most_completed_solves" => MostCompletedSolves.new,
   "most_delegated_competitions" => MostDelegatedCompetitions.new,
   "most_finals" => MostFinals.new,

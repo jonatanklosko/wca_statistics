@@ -16,7 +16,7 @@ class LongestStandingRecords < GroupedStatistic
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
-        CONCAT('[', competition.name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.id, ')') results_link,
+        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.id, ')') results_link,
         competition.start_date competition_date,
         eventId event_id,
         continent.name continent

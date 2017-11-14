@@ -11,7 +11,7 @@ class MostPodiumsAtSingleCompetition < Statistic
       SELECT
         podiums_count,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person,
-        CONCAT('[', competition.name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/podiums)') competition
+        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/podiums)') competition
       FROM (
         SELECT
           COUNT(*) podiums_count,

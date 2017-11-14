@@ -12,7 +12,7 @@ class MostRecordsAtSingleCompetition < GroupedStatistic
         regionalSingleRecord regional_single_record,
         regionalAverageRecord regional_average_record,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
-        CONCAT('[', competition.name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.id, ')') results_link
+        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.id, ')') results_link
       FROM Results
       JOIN Persons person ON person.id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId

@@ -10,7 +10,7 @@ class FewestCompetitorsContest < Statistic
     <<-SQL
       SELECT
         competitors_count,
-        CONCAT('[', competition.name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition
+        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition
       FROM (
         SELECT
           COUNT(DISTINCT personId) competitors_count,

@@ -15,6 +15,7 @@ STATISTICS = {
   "delegates_rankings" => DelegatesRankings.new,
   "dnf_rate_by_event" => DnfRateByEvent.new,
   "fewest_competitors_contest" => FewestCompetitorsContest.new,
+  "longest_standing_records" => LongestStandingRecords.new,
   "longest_streak_of_competitions_in_own_country" => LongestStreakOfCompetitionsInOwnCountry.new,
   "longest_streak_of_personal_records" => LongestStreakOfPersonalRecords.new,
   "longest_streak_of_podiums" => LongestStreakOfPodiums.new,

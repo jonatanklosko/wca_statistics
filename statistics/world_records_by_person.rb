@@ -20,7 +20,7 @@ class WorldRecordsByPerson < Statistic
         HAVING wrs_count > 0
       ) AS wrs_count_by_person
       JOIN Persons person ON person.id = personId AND subId = 1
-      ORDER BY wrs_count DESC, person.name;
+      ORDER BY wrs_count DESC, person.name
     SQL
   end
 end

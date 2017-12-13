@@ -20,7 +20,7 @@ class FewestCompetitorsContest < Statistic
         HAVING competitors_count <= 15
       ) AS competitors_count_by_competition
       JOIN Competitions competition ON competition.id = competitionId
-      ORDER BY competitors_count;
+      ORDER BY competitors_count
     SQL
   end
 end

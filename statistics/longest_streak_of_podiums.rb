@@ -23,7 +23,7 @@ class LongestStreakOfPodiums < Statistic
       JOIN Persons person ON person.id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN RoundTypes round_type ON round_type.id = roundTypeId
-      ORDER BY competition.start_date, round_type.rank;
+      ORDER BY competition.start_date, round_type.rank
     SQL
   end
 

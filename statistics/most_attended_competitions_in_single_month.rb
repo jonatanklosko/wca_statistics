@@ -33,7 +33,7 @@ class MostAttendedCompetitionsInSingleMonth < Statistic
         HAVING attended_within_month >= 4
       ) AS comps_within_single_month_by_person
       JOIN Persons person ON person.id = personId AND subId = 1
-      ORDER BY attended_within_month DESC, person.name;
+      ORDER BY attended_within_month DESC, person.name
     SQL
   end
 end

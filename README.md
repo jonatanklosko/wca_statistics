@@ -8,7 +8,8 @@ and they are accessible [here](https://jonatanklosko.github.io/wca_statistics).
 
 Requirements: Ruby and MySQL.
 
-- Clone the repository: `git clone https://github.com/jonatanklosko/wca_statistics.git`
+- Clone the repository and cd into it: `git clone https://github.com/jonatanklosko/wca_statistics.git && cd wca_statistics`
+- Install third party dependencies: `bundle`
 - Run the initialization script: `bin/init.rb`
 - If necessary edit the `database.yml` file in the project root directory. It is created by the initialization script and is not stored in the git.
 - Download the WCA database: `bin/update_database.rb`

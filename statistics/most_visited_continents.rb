@@ -18,6 +18,7 @@ class MostVisitedContinents < Statistic
         FROM Results
         JOIN Competitions competition ON competition.id = competitionId
         JOIN Countries country ON country.id = competition.countryId
+        WHERE continentId != "_Multiple Continents"
         GROUP BY personId
         HAVING visited_continents >= 4
       ) AS people_with_visited_continents

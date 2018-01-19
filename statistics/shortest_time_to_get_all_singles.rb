@@ -3,7 +3,8 @@ require_relative "../core/events"
 
 class ShortestTimeToGetAllSingles < Statistic
   def initialize
-    @title = "Shortest Time to Get All Singles"
+    @title = "Shortest time to get all singles"
+    @note = "Only current official events are taken into account."
     @table_header = { "Days" => :right, "Person" => :left }
   end
 
@@ -14,10 +15,13 @@ class ShortestTimeToGetAllSingles < Statistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
         start_date,
         best
-      FROM Results
-      JOIN Persons person ON person.id = personId and person.subId = 1
+      FROM (
+        -- People who have single for every official event.
+        SELECT personId FROM RanksSingle GROUP BY personId HAVING COUNT(eventId) = #{Events::OFFICIAL.length}
+      ) AS all_events_people
+      JOIN Results result ON result.personId = all_events_people.personId
+      JOIN Persons person ON person.id = result.personId and person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
-      JOIN Events event ON event.id = eventId
       ORDER BY start_date
     SQL
   end
@@ -28,17 +32,11 @@ class ShortestTimeToGetAllSingles < Statistic
       .map do |person_link, results|
         first_competition_date = results[0]["start_date"]
         first_successes = results
-          .select { |result| result["best"] > 0 && Events::OFFICIAL.include?(result["event_id"]) }
+          .select { |result| result["best"] > 0 }
           .group_by { |result| result["event_id"] }
           .map { |event_id, results| results.map { |result| result["start_date"] }.min }
-        days = if first_successes.length == Events::OFFICIAL.length
-                 (first_successes.max - first_competition_date).to_i
-               else
-                 nil
-               end
-        [person_link, days]
+        [(first_successes.max - first_competition_date).to_i, person_link]
       end
-      .select { |person_link, days| !days.nil? }
-      .sort_by { |person_link, days| days }
+      .sort_by! { |days, person_link| days }
   end
 end

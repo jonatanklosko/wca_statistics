@@ -15,8 +15,10 @@ module Database
     Formats
     Persons
     preferred_formats
-    RoundTypes
+    RanksSingle
+    RanksAverage
     Results
+    RoundTypes
     users
   )
 

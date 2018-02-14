@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class LongestStreakOfWorldRecords < Statistic
   def initialize
     @title = "Longest streak of world records of the same type in the given event"
-    @table_header = { "Records" => :right, "Event" => :left, "Type" => :left, "Person" => :left, "First" => :right, "Last" => :right }
+    @table_header = { "Records" => :right, "Event" => :left, "Type" => :left, "Person" => :left, "Started at" => :left, "Ended at" => :left }
   end
 
   def query
@@ -14,7 +14,7 @@ class LongestStreakOfWorldRecords < Statistic
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.id, ')') results_link,
+        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         competition.start_date competition_date,
         eventId event_id
       FROM Results result
@@ -32,17 +32,16 @@ class LongestStreakOfWorldRecords < Statistic
           .sort_by! { |result| [result["competition_date"], -result[type]] }
           .reduce([]) do |wr_streaks, result|
             current_wrs_streak = wr_streaks.last || {}
-            solve_time = SolveTime.new(result["event_id"], type, result[type])
             if result["person_link"] == current_wrs_streak[:person_link]
               current_wrs_streak[:count] += 1
-              current_wrs_streak[:last] = solve_time.clock_format
+              current_wrs_streak[:last_competition] = result["competition_link"]
             else
               wr_streaks << {
                 count: 1,
                 event: event_name,
-                type: type,
+                type: type.capitalize,
                 person_link: result["person_link"],
-                first: solve_time.clock_format
+                first_competition: result["competition_link"]
               }
             end
             wr_streaks
@@ -52,7 +51,7 @@ class LongestStreakOfWorldRecords < Statistic
     .select { |wr_streak| wr_streak[:count] > 1 }
     .sort_by! { |wr_streak| -wr_streak[:count] }
     .map! do |wr_streak|
-      [wr_streak[:count], wr_streak[:event], wr_streak[:type], wr_streak[:person_link], wr_streak[:first], wr_streak[:last]]
+      [wr_streak[:count], wr_streak[:event], wr_streak[:type], wr_streak[:person_link], wr_streak[:first_competition], wr_streak[:last_competition]]
     end
   end
 end

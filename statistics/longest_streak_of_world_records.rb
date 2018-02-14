@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class LongestStreakOfWorldRecords < Statistic
   def initialize
     @title = "Longest streak of world records of the same type in the given event"
-    @table_header = { "Records" => :right, "Event" => :left, "Type" => :left, "Person" => :left, "Started at" => :left, "Ended at" => :left, "Days" => :right }
+    @table_header = { "Records" => :right, "Event" => :left, "Type" => :left, "Person" => :left, "Started at" => :left, "Ended at" => :left, "Years" => :right }
   end
 
   def query
@@ -26,7 +26,7 @@ class LongestStreakOfWorldRecords < Statistic
 
   def transform(query_results)
     Events::ALL.flat_map do |event_id, event_name|
-      results = %w(single average).flat_map do |type|
+      %w(single average).flat_map do |type|
         query_results
           .select { |result| result["event_id"] == event_id && result["regional_#{type}_record"] == "WR" }
           .sort_by! { |result| [result["competition_date"], -result[type]] }

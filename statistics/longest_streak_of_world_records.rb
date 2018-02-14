@@ -34,8 +34,8 @@ class LongestStreakOfWorldRecords < Statistic
             current_wrs_streak = wr_streaks.last || {}
             if result["person_link"] == current_wrs_streak[:person_link]
               current_wrs_streak[:count] += 1
-              current_wrs_streak[:last_competition] = result["competition_link"]
             else
+              current_wrs_streak[:last_competition] = result["competition_link"]
               wr_streaks << {
                 count: 1,
                 event: event_name,

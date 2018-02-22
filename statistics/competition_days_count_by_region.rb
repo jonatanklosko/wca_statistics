@@ -1,6 +1,6 @@
 require_relative "../core/grouped_statistic"
 
-class CompetitionDaysCount < GroupedStatistic
+class CompetitionDaysCountByRegion < GroupedStatistic
   def initialize
     @title = "Competition days count by region"
     @table_header = { "Days" => :right, "Region" => :left, "Competitions" => :right }
@@ -15,6 +15,7 @@ class CompetitionDaysCount < GroupedStatistic
       FROM Competitions
       JOIN Countries country ON country.id = countryId
       JOIN Continents continent ON continent.id = continentId
+      WHERE countryId NOT IN ('XA', 'XE', 'XS') AND continentId != "_Multiple Continents"
     SQL
   end
 

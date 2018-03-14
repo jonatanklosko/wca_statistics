@@ -7,12 +7,15 @@ class Statistic
     raise "Must implement #query"
   end
 
+  def query_results
+    Database.client.query(query)
+  end
+
   def transform(query_results)
     query_results.each(as: :array)
   end
 
   def data
-    query_results = Database.client.query(query)
     @data ||= transform(query_results)
   end
 

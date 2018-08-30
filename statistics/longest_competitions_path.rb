@@ -34,6 +34,9 @@ class LongestCompetitionsPath < Statistic
         [person_link, distance_km.round]
       end
       .sort_by! { |person_link, distance_km| -distance_km }
+      .map! do |person_link, distance_km|
+        [person_link, distance_km.to_s.gsub(/(\d)(?=\d{3}+$)/, '\1 ') + " km"]
+      end
       .first(1000)
   end
 end

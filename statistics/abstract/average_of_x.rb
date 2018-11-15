@@ -3,13 +3,12 @@ require_relative "../../core/events"
 require_relative "../../core/solve_time"
 
 class AverageOfX < GroupedStatistic
-  def initialize(solves_count:, trimmed_count:)
-    @solves_count = solves_count
-    @trimmed_count = trimmed_count
+  def initialize(solve_count:)
+    @solve_count = solve_count
 
-    @title = "Average of #{@solves_count}"
-    @note = "#{@solves_count} consecutive official attempts are considered. Only people from top 100 single are taken into account."
-    @table_header = { "Ao#{@solves_count}" => :right, "Person" => :left, "Times" => :left }
+    @title = "Average of #{@solve_count}"
+    @note = "#{@solve_count} consecutive official attempts are considered. Only people from top 100 single are taken into account."
+    @table_header = { "Ao#{@solve_count}" => :right, "Person" => :left, "Times" => :left }
   end
 
   # Cache result of the query as it's the same for each subclass
@@ -47,7 +46,7 @@ class AverageOfX < GroupedStatistic
               next if value == SolveTime::SKIPPED_VALUE
               # Here we use raw values instead of SolveTime to improve the performance.
               data[:last_x_solves] << (value > 0 ? value : Float::INFINITY)
-              if data[:last_x_solves].length == @solves_count
+              if data[:last_x_solves].length == @solve_count
                 current_aox = average(data[:last_x_solves], event_id)
                 if current_aox < data[:best_aox]
                   data[:best_aox] = current_aox
@@ -72,7 +71,8 @@ class AverageOfX < GroupedStatistic
   end
 
   def average(solves, event_id)
-    untrimmed_solves = solves.sort.slice!(@trimmed_count...-@trimmed_count)
+    trimmed_per_side = (solves.length * 0.05).ceil
+    untrimmed_solves = solves.sort.slice!(trimmed_per_side...-trimmed_per_side)
     return SolveTime::DNF if untrimmed_solves.last == Float::INFINITY
     values = untrimmed_solves
     mean_value = values.reduce(:+) / values.count.to_f

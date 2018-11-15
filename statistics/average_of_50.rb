@@ -2,6 +2,6 @@ require_relative "abstract/average_of_x"
 
 class AverageOf50 < AverageOfX
   def initialize
-    super(solves_count: 50, trimmed_count: 3)
+    super(solve_count: 50)
   end
 end

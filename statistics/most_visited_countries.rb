@@ -17,7 +17,7 @@ class MostVisitedCountries < Statistic
           COUNT(DISTINCT competition.countryId) visited_countries
         FROM Results result
         JOIN Competitions competition ON competition.id = competitionId
-        WHERE competition.countryId NOT IN ('XA', 'XE', 'XS') -- Ignore Multiple Countries used for continental FMC competitions.
+        WHERE competition.countryId NOT IN ('XA', 'XE', 'XM', 'XS') -- Ignore Multiple Countries used for continental FMC competitions.
         GROUP BY personId
         ORDER BY visited_countries DESC
         LIMIT 100

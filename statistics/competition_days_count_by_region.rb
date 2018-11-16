@@ -15,7 +15,7 @@ class CompetitionDaysCountByRegion < GroupedStatistic
       FROM Competitions
       JOIN Countries country ON country.id = countryId
       JOIN Continents continent ON continent.id = continentId
-      WHERE countryId NOT IN ('XA', 'XE', 'XS') AND continentId != "_Multiple Continents"
+      WHERE countryId NOT IN ('XA', 'XE', 'XM', 'XS') AND continentId != "_Multiple Continents"
     SQL
   end
 

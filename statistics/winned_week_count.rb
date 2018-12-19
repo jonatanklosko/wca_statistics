@@ -45,7 +45,7 @@ class WinnedWeekCount < GroupedStatistic
         .sort_by! do |result|
           -result["winned_weeks"]
         end
-        .first(50)
+        .first(20)
         .map! do |result|
           [result["person_link"], result["winned_weeks"]]
         end

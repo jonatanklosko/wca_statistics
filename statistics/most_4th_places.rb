@@ -18,7 +18,7 @@ class Most4thPlaces < Statistic
           COUNT(*) 4th_places_count
         FROM Results
         JOIN RoundTypes round_type ON round_type.id = roundTypeId
-        WHERE round_type.final = 1 AND pos = 4
+        WHERE round_type.final = 1 AND pos = 4 AND best > 0
         GROUP BY personId
         ORDER BY 4th_places_count DESC
         LIMIT 100

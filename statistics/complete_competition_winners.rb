@@ -17,7 +17,7 @@ class CompleteCompetitionWinners < Statistic
       FROM (
         SELECT
           competitionId,
-          personId,
+          GROUP_CONCAT(personId) personId,
           COUNT(DISTINCT eventId) events_count
         FROM Results
         WHERE roundTypeId IN ('c', 'f') AND pos = 1 AND best > 0

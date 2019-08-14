@@ -1,5 +1,7 @@
 language: ruby
 cache: bundler
+services:
+  - mysql
 deploy:
   provider: pages
   skip_cleanup: true

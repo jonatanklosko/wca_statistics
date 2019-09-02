@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 changed_statistic_files=`git diff --name-only $TRAVIS_COMMIT_RANGE | grep 'statistics/' | grep -v 'statistics/index.rb'`
 
 if [[ "$TRAVIS_EVENT_TYPE" != "cron" && "$changed_statistic_files" == "" ]]; then

@@ -20,10 +20,12 @@ Dir.mktmpdir do |tmp_direcory|
       `#{mysql_with_credentials} -e "DROP DATABASE IF EXISTS #{config["database"]}" #{filter_out_mysql_warning}`
       `#{mysql_with_credentials} -e "CREATE DATABASE #{config["database"]}" #{filter_out_mysql_warning}`
       sql = File.read(filename)
+      header = sql.match(/\A(.*?)-- Table structure for table/m)[1]
       Database::REQUIRED_TABLES.each do |table_name|
         puts "  - Importing table #{table_name}"
+        table_sql = header
         # Extract SQL for the given table.
-        table_sql = sql.match(/-- Table structure for table .#{table_name}.(.*?)-- Table structure for table/m)[1]
+        table_sql += sql.match(/-- Table structure for table .#{table_name}.(.*?)-- Table structure for table/m)[1]
         # Get rid of indexes within the table definition in favour of index creations after all the INSERT statements.
         index_creations = ""
         table_sql.gsub!(/,\s*KEY (.\w+.) (\([^)]*\))/m) do

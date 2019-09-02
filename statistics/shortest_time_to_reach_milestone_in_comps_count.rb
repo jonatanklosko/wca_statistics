@@ -28,7 +28,7 @@ class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
     [100, 50, 25, 10, 5].map do |competitions_count|
       days_with_people = query_results
         .group_by { |result| result["person_link"] }
-        .select! { |person_link, results| results.count >= competitions_count }
+        .select { |person_link, results| results.count >= competitions_count }
         .map do |person_link, results|
           first_competition_date = results[0]["start_date"]
           milestone_competition_date = results[competitions_count - 1]["start_date"]

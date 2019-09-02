@@ -51,7 +51,7 @@ class LongestStreakOfPodiums < Statistic
           end
         podiums_streaks.concat(current_podiums_streak_by_event.values) # Add remaining, ongoing streaks to the list.
       end
-      .flatten!
+      .flatten
       .sort_by! { |podiums_streak| -podiums_streak[:count] }
       .first(100)
       .map! do |streak|

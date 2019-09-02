@@ -29,7 +29,7 @@ class BestFirstSingle < GroupedStatistic
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }
         .map { |person_link, results| results.first }
-        .select! { |result| result["single"] > 0 }
+        .select { |result| result["single"] > 0 }
         .sort_by! { |result| result["single"] }
         .first(10)
         .map! do |result|

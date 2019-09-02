@@ -47,8 +47,12 @@ class MostRecordsAtSingleCompetition < GroupedStatistic
 end
 
 def take_top_n_with_ties(xs, n, value_index)
-  boundary_value = xs.fetch(n - 1, [])[value_index]
-  xs.first(n).concat(
-    xs[n..-1].take_while { |x| x[value_index] == boundary_value }
-  )
+  if xs.length > n
+    boundary_value = xs[n - 1][value_index]
+    xs.first(n).concat(
+      xs[n..-1].take_while { |x| x[value_index] == boundary_value }
+    )
+  else
+    xs
+  end
 end

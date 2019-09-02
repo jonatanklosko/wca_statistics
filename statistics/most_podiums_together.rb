@@ -29,7 +29,7 @@ class MostPodiumsTogether < GroupedStatistic
     { 2 => "Pairs", 3 => "Triples" }.map do |people_count, header|
       people_with_podiums_together = podiums
         .map { |people| people.combination(people_count).to_a }
-        .flatten!(1)
+        .flatten(1)
         .reduce(Hash.new(0)) do |hash, people|
           hash[people] += 1
           hash

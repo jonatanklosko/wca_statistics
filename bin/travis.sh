@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 changed_statistic_files=`git diff --name-only $TRAVIS_COMMIT_RANGE | grep 'statistics/' | grep -v 'statistics/index.rb'`
 
 if [[ "$TRAVIS_EVENT_TYPE" != "cron" && "$changed_statistic_files" == "" ]]; then
@@ -12,14 +10,14 @@ else
   bin/update_database.rb
   # When a cron job compute all statistics, otherwise just the updated and new ones.
   if [[ "$TRAVIS_EVENT_TYPE" == "cron" ]]; then
-    bin/compute_all.rb
+    bin/compute_all.rb || exit 1
   else
     # Copy existing files from gh-pages to the build directory.
     git checkout gh-pages .
     mv `git ls-tree --name-only gh-pages | grep '.md'` build
     echo "$changed_statistic_files" | while read file; do
       echo "File has changed: $file"
-      bin/compute.rb $file
+      bin/compute.rb $file || exit 1
     done
   fi
   # Update the index file in both cases.

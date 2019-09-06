@@ -10,8 +10,8 @@ class MovingAverage < GroupedStatistic
       This computes exponentially moving average (EMA) of competitor averages.
       EMA is a weighted average, with weights decreasing exponentially,
       meaning that more recent values contribute more to the computed average.
-      Here we use α = 0.95, meaning that we average over ~20 last values
-      (i.e. older values are pretty much ignored).
+      Here we use α = 0.8, meaning that the average emphasizes last ~5 results
+      (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).
     NOTE
     .strip
@@ -55,7 +55,7 @@ class MovingAverage < GroupedStatistic
 
   # Exponentially weighted average with bias correction.
   def moving_average(numbers)
-    alpha = 0.95 # 1 / (1 - alpha) = 20 so we take around 20 past numbers into account.
+    alpha = 0.8
     average = numbers.reduce(0) do |average, number|
       average * alpha + (1 - alpha) * number
     end

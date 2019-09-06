@@ -13,6 +13,7 @@ class MovingAverage < GroupedStatistic
       Here we use α = 0.95, meaning that we average over ~20 last values
       (i.e. older values are pretty much ignored).
     NOTE
+    .strip
     @table_header = { "Moving average" => :right, "Person" => :left }
   end
 

@@ -20,7 +20,7 @@ class CompetitionsPerYearByCountry < Statistic
             competition.countryId
           FROM Results result
           JOIN Competitions competition ON competition.id = competitionId
-          GROUP BY countryId
+          GROUP BY competition.countryId
           HAVING years >= 1
       ) AS data_by_country
       JOIN Countries country ON country.id = countryId

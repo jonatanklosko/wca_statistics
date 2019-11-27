@@ -21,6 +21,9 @@ module Database
     RoundTypes
     users
   )
+  INDICES = [
+    "CREATE INDEX index_Results_on_competitionId_personId ON Results (competitionId, personId);",
+  ]
 
   def self.client
     Mysql2::Client.new(DATABASE_CONFIG)

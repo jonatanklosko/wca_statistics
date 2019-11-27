@@ -33,6 +33,8 @@ Dir.mktmpdir do |tmp_direcory|
           ""
         end
         table_sql += index_creations
+        # Custom indices.
+        table_sql += Database::INDICES.join("\n")
         table_filename = "#{table_name}.sql"
         File.write(table_filename, table_sql)
         `#{mysql_with_credentials} #{config["database"]} < #{table_filename} #{filter_out_mysql_warning}`

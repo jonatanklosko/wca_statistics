@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    mysql2 (0.4.6)
+    mysql2 (0.5.3)
 
 PLATFORMS
   ruby
@@ -10,4 +10,4 @@ DEPENDENCIES
   mysql2
 
 BUNDLED WITH
-   1.15.1
+   1.17.2

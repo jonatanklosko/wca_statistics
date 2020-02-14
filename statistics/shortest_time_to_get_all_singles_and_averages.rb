@@ -8,8 +8,8 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
     @table_header = { "Days" => :right, "Person" => :left }
   end
 
-  # All non-blind events and 3BLD have an average.
-  NUM_EVENTS_WITH_AVERAGES = Events::OFFICIAL.length - Events::BLD.length + 1
+  # All events except 3x3x3 MBLD have an average.
+  NUM_EVENTS_WITH_AVERAGES = Events::OFFICIAL.length - 1
 
   def query
     <<-SQL

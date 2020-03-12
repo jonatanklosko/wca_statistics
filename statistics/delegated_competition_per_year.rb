@@ -3,7 +3,8 @@ require_relative "../core/statistic"
 class DelegatedCompetitionPerYear < Statistic
   def initialize
     @title = "Delegated competitions per year"
-    @note = "Only delegates with at least 5 competitions are taken into account."
+    @note = "Only delegates with at least 5 competitions are taken into account.
+             Delegate period is calculated as the difference between first and last delegated competition."
     @table_header = { "Delegated per year" => :right, "Delegated" => :right, "Years" => :right, "Person" => :left, "List on WCA" => :center }
   end
 
@@ -18,7 +19,7 @@ class DelegatedCompetitionPerYear < Statistic
       FROM (
         SELECT
           COUNT(DISTINCT competition_id) delegated_count,
-          (DATEDIFF(CURDATE(), MIN(start_date)) / 365.25) years,
+          (DATEDIFF(MAX(end_date), MIN(start_date)) / 365.25) years,
           delegate_id
         FROM competition_delegates
         JOIN Competitions competition ON competition.id = competition_id

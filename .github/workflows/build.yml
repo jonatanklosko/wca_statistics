@@ -1,0 +1,29 @@
+name: Build
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          # We need the previous commit to determine which stats source changed
+          fetch-depth: 2
+      - name: Activate MySQL # as per https://github.com/actions/virtual-environments/blob/main/images/linux/Ubuntu2004-README.md#mysql
+        run: sudo systemctl start mysql.service
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: Build pages
+        run: bin/ci.sh
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          keep_files: true
+          enable_jekyll: true

@@ -35,7 +35,7 @@ class DnfRateByEvent < Statistic
       .each { |result| result["dnf_rate"] = 100.0 * result["dnfs"] / result["attempts"] }
       .sort_by! { |result| -result["dnf_rate"] }
       .map! do |result|
-        ["%0.2f %" % result["dnf_rate"], Events::ALL[result["event_id"]], result["dnfs"], result["attempts"]]
+        ["%0.2f %%" % result["dnf_rate"], Events::ALL[result["event_id"]], result["dnfs"], result["attempts"]]
       end
   end
 end

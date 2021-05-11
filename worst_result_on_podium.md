@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on 30 November 2020*
+*Computed on 11 May 2021*
 
 
 ### Rubik's Cube
@@ -61,8 +61,8 @@
 | [John Louis](https://www.worldcubeassociation.org/persons/2006LOUI01) | 6:00.68 | **7:02.48** | [Delhi Open 2011](https://www.worldcubeassociation.org/competitions/DelhiOpen2011/results/podiums#e555) | 3 |
 | [Christy Morris](https://www.worldcubeassociation.org/persons/2004COCK01) | 5:32.18 | **6:43.39** | [Idaho Open 2005](https://www.worldcubeassociation.org/competitions/IdahoOpen2005/results/podiums#e555) | 3 |
 | [Carl-Johan Kjellander](https://www.worldcubeassociation.org/persons/2005KJEL01) | 5:35.88 | **6:22.55** | [Chalmers Open 2005](https://www.worldcubeassociation.org/competitions/ChalmersOpen2005/results/podiums#e555) | 3 |
+| [Mishka Kiessling](https://www.worldcubeassociation.org/persons/2021KIES01) | 5:19.08 | **6:12.56** | [April in Alice Springs 2021](https://www.worldcubeassociation.org/competitions/AprilinAliceSprings2021/results/podiums#e555) | 3 |
 | [Rahul Kadukar](https://www.worldcubeassociation.org/persons/2009KADU01) | 5:56.28 | **6:05.59** | [Indian Open 2009](https://www.worldcubeassociation.org/competitions/IndianOpen2009/results/podiums#e555) | 3 |
-| [Syoji Takamatsu (高松唱司)](https://www.worldcubeassociation.org/persons/2005TAKA02) | 5:33.31 | **6:01.76** | [Kyoto 2005](https://www.worldcubeassociation.org/competitions/Kyoto2005/results/podiums#e555) | 3 |
 
 ### 6x6x6 Cube
 
@@ -159,6 +159,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Felipe Andres Rojas Garces](https://www.worldcubeassociation.org/persons/2009GARC02) | 18.27 | **1:19.52** | [Santiago Open 2009](https://www.worldcubeassociation.org/competitions/SantiagoOpen2009/results/podiums#epyram) | 3 |
+| [Jason Young](https://www.worldcubeassociation.org/persons/2021YOUN01) | 32.95 | **1:00.54** | [April in Alice Springs 2021](https://www.worldcubeassociation.org/competitions/AprilinAliceSprings2021/results/podiums#epyram) | 3 |
 | [Sachin Kumar Singh](https://www.worldcubeassociation.org/persons/2009SING08) | 41.50 | **56.18** | [Shristi Open 2009](https://www.worldcubeassociation.org/competitions/ShristiOpen2009/results/podiums#epyram) | 3 |
 | [Lucas Felipe de Almeida Lima](https://www.worldcubeassociation.org/persons/2015LIMA11) | 28.55 | **52.48** | [Santarém Open 2015](https://www.worldcubeassociation.org/competitions/SantaremOpen2015/results/podiums#epyram) | 3 |
 | [Anti Ingel](https://www.worldcubeassociation.org/persons/2009INGE01) | 24.05 | **51.11** | [Estonian Open 2014](https://www.worldcubeassociation.org/competitions/EstonianOpen2014/results/podiums#epyram) | 3 |
@@ -167,7 +168,6 @@
 | [Shane Rowland](https://www.worldcubeassociation.org/persons/2010ROWL01) | 24.06 | **40.88** | [Drexel Winter 2010](https://www.worldcubeassociation.org/competitions/DrexelWinter2010/results/podiums#epyram) | 3 |
 | [Mayumi Hori (堀真由美)](https://www.worldcubeassociation.org/persons/2006HORI02) | 32.33 | **38.93** | [OGU Open 2006](https://www.worldcubeassociation.org/competitions/OGU2006/results/podiums#epyram) | 3 |
 | [Helmi Gaaloul](https://www.worldcubeassociation.org/persons/2014GAAL01) | 30.24 | **37.30** | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014/results/podiums#epyram) | 3 |
-| [Caio José Lafetá](https://www.worldcubeassociation.org/persons/2007LAFE01) | 10.86 | **33.06** | [Minas Open 2008](https://www.worldcubeassociation.org/competitions/MinasOpen2008/results/podiums#epyram) | 3 |
 
 ### Rubik's Clock
 
@@ -248,6 +248,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | **16/32 1:00:00** |  | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021/results/podiums#e333mbf) | 3 |
 | [Harish Chandramouleeswaran](https://www.worldcubeassociation.org/persons/2010CHAN13) | **7/14 1:00:00** |  | [Waves Cube Challenge 2015](https://www.worldcubeassociation.org/competitions/WavesCubeChallenge2015/results/podiums#e333mbf) | 3 |
 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | **5/10 1:00:00** |  | [Indialantic Open 2018](https://www.worldcubeassociation.org/competitions/IndialanticOpen2018/results/podiums#e333mbf) | 1 |
 | [Yiqun Fan (樊轶群)](https://www.worldcubeassociation.org/persons/2010FANY01) | **4/8 1:00:00** |  | [Hefei Summer 2012](https://www.worldcubeassociation.org/competitions/HefeiSummer2012/results/podiums#e333mbf) | 3 |
@@ -257,7 +258,6 @@
 | [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | **3/6 59:25** |  | [Estonian Open 2018](https://www.worldcubeassociation.org/competitions/EstonianOpen2018/results/podiums#e333mbf) | 3 |
 | [Artem Savosik](https://www.worldcubeassociation.org/persons/2013SAVO01) | **4/8 59:13** |  | [Dvina OH Edition 2014](https://www.worldcubeassociation.org/competitions/DvinaOHEdition2014/results/podiums#e333mbf) | 3 |
 | [Oliver Jenks](https://www.worldcubeassociation.org/persons/2015JENK02) | **3/6 58:35** |  | [Supreme South Open 2017](https://www.worldcubeassociation.org/competitions/SupremeSouthOpen2017/results/podiums#e333mbf) | 2 |
-| [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) | **3/6 57:40** |  | [Unionville Open Spring 2017](https://www.worldcubeassociation.org/competitions/UnionvilleOpenSpring2017/results/podiums#e333mbf) | 1 |
 
 ### 3x3x3 With Feet
 

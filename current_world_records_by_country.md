@@ -1,18 +1,16 @@
 ## Current world records count by country
 
-*Computed on 30 November 2020*
+*Computed on 11 May 2021*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
 | 18 | United States | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08), [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 5 | China | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01), [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
+| 6 | China | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01), [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 4 | Poland | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01), [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01), [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 2 | Australia | [Andrew Huang](https://www.worldcubeassociation.org/persons/2016HUAN43), [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
+| 3 | Australia | [Andrew Huang](https://www.worldcubeassociation.org/persons/2016HUAN43), [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02), [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 2 | Denmark | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 2 | Germany | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02), [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 2 | Peru | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
-| 1 | Brazil | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
-| 1 | Hong Kong | [Suen Ming Chi (孫銘志)](https://www.worldcubeassociation.org/persons/2017CHIS02) |
 | 1 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |
 | 1 | Italy | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 1 | Malaysia | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |

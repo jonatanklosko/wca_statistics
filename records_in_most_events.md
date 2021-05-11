@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Computed on 30 November 2020*
+*Computed on 11 May 2021*
 
 
 ### World

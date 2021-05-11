@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Computed on 30 November 2020*
+*Computed on 11 May 2021*
 
 | Days | Person |
 | ---: | :--- |
@@ -165,9 +165,11 @@
 | 1666 | [Jiawei Shou (寿佳伟)](https://www.worldcubeassociation.org/persons/2009SHOU01) |
 | 1673 | [Peter Chau](https://www.worldcubeassociation.org/persons/2011CHAU05) |
 | 1687 | [Shonathon Collins](https://www.worldcubeassociation.org/persons/2011COLL02) |
+| 1692 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) |
 | 1694 | [Jorge Augusto Siqueira Pinto](https://www.worldcubeassociation.org/persons/2012PINT01) |
 | 1722 | [Austin Thielemier](https://www.worldcubeassociation.org/persons/2009THIE03) |
 | 1722 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
+| 1729 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) |
 | 1734 | [Pengju Li (李鹏举)](https://www.worldcubeassociation.org/persons/2010LIPE01) |
 | 1742 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
 | 1749 | [Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01) |

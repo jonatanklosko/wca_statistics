@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Computed on 30 November 2020*
+*Computed on 11 May 2021*
 
 
 ### Rubik's Cube
@@ -132,12 +132,12 @@
 | 0.13 | [Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01) | 1:20.65 | 1:20.78 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2015PADG01) |
 | 0.14 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | 39.29 | 39.43 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012LEWI01) |
 | 0.14 | [Theo Iván Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 1:11.10 | 1:11.24 | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018/results/by_person#2017GOLU01) |
+| 0.14 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 1:26.82 | 1:26.96 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021/results/by_person#2015FENG12) |
 | 0.16 | [Zaiyang Zhang (张在旸)](https://www.worldcubeassociation.org/persons/2017ZHAZ09) | 1:24.57 | 1:24.73 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2017ZHAZ09) |
 | 0.17 | [Jiahe Dai (戴嘉禾)](https://www.worldcubeassociation.org/persons/2016DAIJ01) | 58.10 | 58.27 | [Xi'an 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Xian10thAnniversary2019/results/by_person#2016DAIJ01) |
 | 0.18 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 2:29.36 | 2:29.54 | [BW Open 2012](https://www.worldcubeassociation.org/competitions/BWOpen2012/results/by_person#2010DEIM01) |
 | 0.19 | [Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01) | 1:22.86 | 1:23.05 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/by_person#2015PADG01) |
 | 0.20 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 37.47 | 37.67 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2013HUAN30) |
-| 0.25 | [Andrey Mishin](https://www.worldcubeassociation.org/persons/2017MISH06) | 54.76 | 55.01 | [Volga Nizhny Novgorod 2020](https://www.worldcubeassociation.org/competitions/VolgaNizhnyNovgorod2020/results/by_person#2017MISH06) |
 
 ### Pyraminx
 
@@ -197,12 +197,13 @@
 | 0.13 | [Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02) | 9.21 | 9.34 | [Kansai Open 2018](https://www.worldcubeassociation.org/competitions/KansaiOpen2018/results/by_person#2013TAKA02) |
 | 0.13 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 11.00 | 11.13 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2013JOHN10) |
 | 0.13 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | 37.11 | 37.24 | [UIUC Fall 2012](https://www.worldcubeassociation.org/competitions/UIUCFall2012/results/by_person#2010BREC01) |
-| 0.14 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | 16.56 | 16.70 | [Michigan 2018](https://www.worldcubeassociation.org/competitions/Michigan2018/results/by_person#2015XION03) |
+| 0.14 | [Zhenyu Wang (王振宇)](https://www.worldcubeassociation.org/persons/2018WANG40) | 8.46 | 8.60 | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021/results/by_person#2018WANG40) |
 
 ### 4x4x4 Blindfolded
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 1.01 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:19.07 | 1:20.08 | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2013LINK01) |
 | 1.71 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2:00.90 | 2:02.61 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2014SCHO02) |
 | 3.24 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) | 2:54.96 | 2:58.20 | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/by_person#2010YAMA04) |
 | 3.85 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 1:08.70 | 1:12.55 | [Florida Fall Fest 2019](https://www.worldcubeassociation.org/competitions/FloridaFallFest2019/results/by_person#2016CHAP04) |
@@ -212,7 +213,6 @@
 | 4.29 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 2:56.36 | 3:00.65 | [Minnesota Cube Melt 2017](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2017/results/by_person#2014BOYA01) |
 | 5.00 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 6:19.22 | 6:24.22 | [Italian Championship 2017](https://www.worldcubeassociation.org/competitions/ItalianChampionship2017/results/by_person#2005KOCZ01) |
 | 5.02 | [Yang Li (李扬)](https://www.worldcubeassociation.org/persons/2012LIYA01) | 9:48.01 | 9:53.03 | [Shanghai Memory Nightmare 2019](https://www.worldcubeassociation.org/competitions/ShanghaiMemoryNightmare2019/results/by_person#2012LIYA01) |
-| 5.58 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:37.55 | 1:43.13 | [Nanchang Open 2017](https://www.worldcubeassociation.org/competitions/NanchangOpen2017/results/by_person#2013LINK01) |
 
 ### 5x5x5 Blindfolded
 

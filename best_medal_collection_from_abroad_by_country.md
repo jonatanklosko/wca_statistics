@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on 30 November 2020*
+*Computed on 11 May 2021*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -9,33 +9,33 @@
 | Netherlands | **709** | 585 | 479 | 1773 |
 | Germany | **704** | 684 | 691 | 2079 |
 | United States | **637** | 533 | 456 | 1626 |
-| France | **607** | 520 | 429 | 1556 |
+| France | **609** | 520 | 430 | 1559 |
 | Russia | **509** | 353 | 292 | 1154 |
 | Poland | **323** | 216 | 157 | 696 |
-| Malaysia | **319** | 296 | 267 | 882 |
-| China | **313** | 280 | 248 | 841 |
+| Malaysia | **319** | 296 | 268 | 883 |
+| China | **316** | 281 | 249 | 846 |
 | Canada | **300** | 311 | 331 | 942 |
-| Denmark | **285** | 232 | 168 | 685 |
-| Australia | **275** | 120 | 80 | 475 |
-| United Kingdom | **272** | 304 | 307 | 883 |
+| Denmark | **288** | 233 | 168 | 689 |
+| United Kingdom | **276** | 306 | 310 | 892 |
+| Australia | **275** | 120 | 81 | 476 |
 | Sweden | **258** | 315 | 318 | 891 |
 | Republic of Korea | **211** | 216 | 176 | 603 |
 | Finland | **192** | 139 | 112 | 443 |
 | Japan | **185** | 106 | 106 | 397 |
 | Taiwan | **182** | 154 | 149 | 485 |
-| India | **174** | 143 | 130 | 447 |
+| India | **174** | 143 | 131 | 448 |
 | Switzerland | **170** | 250 | 224 | 644 |
+| Hong Kong | **163** | 201 | 170 | 534 |
 | Italy | **163** | 150 | 136 | 449 |
-| Hong Kong | **160** | 197 | 169 | 526 |
-| Spain | **148** | 130 | 155 | 433 |
+| Spain | **148** | 131 | 155 | 434 |
 | Ukraine | **144** | 135 | 135 | 414 |
 | Argentina | **141** | 109 | 101 | 351 |
 | Peru | **141** | 70 | 85 | 296 |
-| Indonesia | **123** | 116 | 100 | 339 |
+| Indonesia | **126** | 116 | 101 | 343 |
 | Slovenia | **118** | 142 | 142 | 402 |
 | Greece | **117** | 139 | 99 | 355 |
 | Belgium | **116** | 175 | 157 | 448 |
-| Colombia | **109** | 74 | 77 | 260 |
+| Colombia | **115** | 74 | 77 | 266 |
 | Singapore | **107** | 115 | 119 | 341 |
 | Belarus | **105** | 63 | 72 | 240 |
 | Austria | **100** | 145 | 165 | 410 |
@@ -43,7 +43,7 @@
 | Latvia | **83** | 127 | 114 | 324 |
 | Kazakhstan | **82** | 75 | 67 | 224 |
 | Ireland | **77** | 49 | 34 | 160 |
-| Thailand | **74** | 74 | 34 | 182 |
+| Thailand | **74** | 75 | 34 | 183 |
 | Romania | **65** | 62 | 50 | 177 |
 | Lithuania | **60** | 70 | 79 | 209 |
 | Philippines | **54** | 64 | 60 | 178 |

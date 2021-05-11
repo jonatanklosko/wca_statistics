@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 30 November 2020*
+*Computed on 11 May 2021*
 
 
 ### Rubik's Cube
@@ -10,13 +10,13 @@
 | 4.92 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Cube for Cambodia 2018](https://www.worldcubeassociation.org/competitions/CubeforCambodia2018/results/by_person#2009ZEMD01) |
 | 4.99 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Odd Day in Sydney 2019](https://www.worldcubeassociation.org/competitions/OddDayinSydney2019/results/by_person#2009ZEMD01) |
 | 5.04 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Odd Day in Sydney 2019](https://www.worldcubeassociation.org/competitions/OddDayinSydney2019/results/by_person#2009ZEMD01) |
+| 5.09 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017XURU04) |
 | 5.13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2017GARR05) |
 | 5.16 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 22 2019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin222019/results/by_person#2012PARK03) |
+| 5.20 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021/results/by_person#2009ZEMD01) |
+| 5.24 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017XURU04) |
 | 5.26 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [ABCD 2018](https://www.worldcubeassociation.org/competitions/ABCD2018/results/by_person#2012PARK03) |
 | 5.28 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Malaysia Cube Open 2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017/results/by_person#2009ZEMD01) |
-| 5.35 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | [Bonifacio Memorial 2018](https://www.worldcubeassociation.org/competitions/BonifacioMemorial2018/results/by_person#2015BORR01) |
-| 5.37 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Santa Barbara Fall 2019](https://www.worldcubeassociation.org/competitions/SantaBarbaraFall2019/results/by_person#2012PARK03) |
-| 5.38 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Surf Coast Cubing 2019](https://www.worldcubeassociation.org/competitions/SurfCoastCubing2019/results/by_person#2009ZEMD01) |
 
 ### 2x2x2 Cube
 
@@ -27,11 +27,11 @@
 | 0.93 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018/results/by_person#2013EGDA02) |
 | 1.00 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2012CALL01) |
 | 1.01 | [Caleb Clark](https://www.worldcubeassociation.org/persons/2014CLAR03) | [Canberra Autumn 2018](https://www.worldcubeassociation.org/competitions/CanberraAutumn2018/results/by_person#2014CLAR03) |
+| 1.02 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | [Beijing Spring AM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringAM2021/results/by_person#2016LIJI05) |
 | 1.02 | [Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06) | [Kunshan Open 2019](https://www.worldcubeassociation.org/competitions/KunshanOpen2019/results/by_person#2017LIXU06) |
+| 1.06 | [Sky Guo (郭建欣)](https://www.worldcubeassociation.org/persons/2016GUOS02) | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021/results/by_person#2016GUOS02) |
 | 1.07 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Kjeller Open 2018](https://www.worldcubeassociation.org/competitions/KjellerOpen2018/results/by_person#2013EGDA02) |
 | 1.08 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | [Polish Championship 2019](https://www.worldcubeassociation.org/competitions/PolishChampionship2019/results/by_person#2014CZAP01) |
-| 1.09 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Kjeller Open 2018](https://www.worldcubeassociation.org/competitions/KjellerOpen2018/results/by_person#2013EGDA02) |
-| 1.09 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2015VANL01) |
 
 ### 4x4x4 Cube
 
@@ -68,6 +68,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 8.30 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Horsham Winter 2018](https://www.worldcubeassociation.org/competitions/HorshamWinter2018/results/by_person#2009ZEMD01) |
+| 8.64 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Turn Around Tassie 2020](https://www.worldcubeassociation.org/competitions/TurnAroundTassie2020/results/by_person#2009ZEMD01) |
 | 8.70 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2019](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2019/results/by_person#2009ZEMD01) |
 | 8.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Berkeley Summer 2018](https://www.worldcubeassociation.org/competitions/BerkeleySummer2018/results/by_person#2012PARK03) |
 | 8.93 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Summer 2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019/results/by_person#2012PARK03) |
@@ -75,8 +76,7 @@
 | 8.96 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) | [Selangor Cube Open 2019](https://www.worldcubeassociation.org/competitions/SelangorCubeOpen2019/results/by_person#2017YANG59) |
 | 8.97 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [WCCT Reno 2018](https://www.worldcubeassociation.org/competitions/WCCTReno2018/results/by_person#2012PARK03) |
 | 9.02 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012PARK03) |
-| 9.11 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2012PONC02) |
-| 9.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing V 2018](https://www.worldcubeassociation.org/competitions/SacCubingV2018/results/by_person#2012PARK03) |
+| 9.06 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | [Xi'an Cherry Blossom AM 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomAM2021/results/by_person#2018WANG39) |
 
 ### Megaminx
 
@@ -112,16 +112,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 3.54 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
+| 3.76 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 | 3.92 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Shenzhen Open 2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018/results/by_person#2017LOUY01) |
+| 4.03 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021/results/by_person#2017LOUY01) |
+| 4.04 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017LOUY01) |
+| 4.07 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017LOUY01) |
+| 4.07 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017LOUY01) |
 | 4.16 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Hangzhou Autumn 2019](https://www.worldcubeassociation.org/competitions/HangzhouAutumn2019/results/by_person#2017LOUY01) |
 | 4.17 | [Suen Ming Chi (孫銘志)](https://www.worldcubeassociation.org/persons/2017CHIS02) | [GDSY Open 2019](https://www.worldcubeassociation.org/competitions/GDSYOpen2019/results/by_person#2017CHIS02) |
 | 4.17 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Hangzhou Autumn 2019](https://www.worldcubeassociation.org/competitions/HangzhouAutumn2019/results/by_person#2017LOUY01) |
-| 4.21 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) | [China Championship 2019](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/by_person#2013ZHON04) |
-| 4.28 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Wuhan Open 2019](https://www.worldcubeassociation.org/competitions/WuhanOpen2019/results/by_person#2017LOUY01) |
-| 4.30 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Special Puzzles Guangzhou 2019](https://www.worldcubeassociation.org/competitions/SpecialPuzzlesinGuangzhou2019/results/by_person#2017LOUY01) |
-| 4.31 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | [Taipei Almost Without NxN 2019](https://www.worldcubeassociation.org/competitions/TaipeiAlmostWithoutNxN2019/results/by_person#2011HUNG02) |
-| 4.35 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Hangzhou Autumn 2019](https://www.worldcubeassociation.org/competitions/HangzhouAutumn2019/results/by_person#2017LOUY01) |
-| 4.38 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Shenzhen 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Shenzhen10thAnniversary2019/results/by_person#2017LOUY01) |
 
 ### Skewb
 
@@ -142,16 +142,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 5.32 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021/results/by_person#2016EPST02) |
 | 5.38 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Gislev Side Events 2019](https://www.worldcubeassociation.org/competitions/GislevSideEvents2019/results/by_person#2014DETL01) |
 | 5.60 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [I Itapê Open 2019](https://www.worldcubeassociation.org/competitions/IItapeOpen2019/results/by_person#2015CECC01) |
+| 5.77 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021/results/by_person#2016EPST02) |
 | 5.98 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Østerhøj Open 2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019/results/by_person#2014DETL01) |
 | 6.03 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Project Jastrzębie-Zdrój 2018](https://www.worldcubeassociation.org/competitions/ProjectJastrzebieZdroj2018/results/by_person#2013KRAS02) |
 | 6.10 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019/results/by_person#2013KRAS02) |
 | 6.10 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020/results/by_person#2014DETL01) |
 | 6.11 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Bernô Feet Friendship 2019](https://www.worldcubeassociation.org/competitions/BernoFeetFriendship2019/results/by_person#2015CECC01) |
 | 6.15 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Bernô Feet Friendship 2019](https://www.worldcubeassociation.org/competitions/BernoFeetFriendship2019/results/by_person#2015CECC01) |
-| 6.16 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [MLS Warszawa 2020](https://www.worldcubeassociation.org/competitions/MLSWarszawa2020/results/by_person#2013KRAS02) |
-| 6.22 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Dragon Cubing 2020](https://www.worldcubeassociation.org/competitions/DragonCubing2020/results/by_person#2013KRAS02) |
 
 ### 3x3x3 With Feet
 

@@ -1,498 +1,487 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Computed on 30 November 2020*
+*Computed on 11 May 2021*
 
 
 ### Rubik's Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **4.16** | Australia | [Auckland Summer Open 2020](https://www.worldcubeassociation.org/competitions/AucklandSummerOpen2020) | 6.38, 4.16, 7.60, 6.67, 8.27 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **4.74** | Poland | [Berlin Winter Cubing 2020](https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2020) | 7.93, 4.74, 7.06, 5.96, 5.87 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **4.76** | United States | [UCSD Winter 2020](https://www.worldcubeassociation.org/competitions/UCSDWinter2020) | 6.26, 6.22, 7.26, 4.76, 6.11 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **4.78** | United States | [Canandaigua Winter 2020](https://www.worldcubeassociation.org/competitions/CanandaiguaWinter2020) | 8.33, 6.65, 8.31, 4.78, 7.21 |
-| [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | **4.80** | Finland | [Operation NxN Myrbacka 2020](https://www.worldcubeassociation.org/competitions/OperationNxNMyrbacka2020) | 8.56, 9.63, 8.38, 9.11, 4.80 |
-| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **4.84** | China | [ Shenzhen Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/ShenzhenGoodAfternoon2020) | 6.74, 6.15, 6.83, 4.84, 7.03 |
-| [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **5.01** | United States | [Hawaii Big Island 2020](https://www.worldcubeassociation.org/competitions/HawaiiBigIsland2020) | 5.01, 7.04, 9.22, 6.64, 7.27 |
-| [Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01) | **5.08** | United States | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020) | 9.57, 5.08, 7.82, 6.54, 7.17 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **5.12** | Denmark | [Basel Open 2020](https://www.worldcubeassociation.org/competitions/BaselOpen2020) | 7.72, 6.37, 5.12, 7.34, 8.98 |
-| [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **5.20** | Germany | [Berlin Winter Cubing 2020](https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2020) | 6.86, 6.98, 5.20, 6.50, 6.03 |
+| [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) | **4.42** | Denmark | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 8.51, 4.42, 7.24, 8.52, 6.83 |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **4.45** | China | [Guangzhou Panyu Morning 2021](https://www.worldcubeassociation.org/competitions/GuangzhouPanyuMorning2021) | 5.62, 4.45, 7.76, 6.32, 6.46 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **4.65** | Australia | [Sydney Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/SydneyReOpenSaturday2021) | 6.24, 6.41, 6.34, 6.30, 4.65 |
+| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **4.86** | China | [Beijing Spring AM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringAM2021) | 8.30, 9.30, 4.86, 6.74, 8.81 |
+| [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | **4.88** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 6.65, 8.04, 6.00, 4.88, 6.43 |
+| [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) | **5.39** | China | [Shenzhen Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenGoodAfternoon2021) | 6.37, 5.39, 6.83, 8.73, 6.64 |
+| [Lianhao Zhu (褚连皓)](https://www.worldcubeassociation.org/persons/2017ZHUL02) | **5.52** | China | [Shaoxing Morning 2021](https://www.worldcubeassociation.org/competitions/ShaoxingMorning2021) | 8.04, 7.94, 7.36, 9.57, 5.52 |
+| [Zhiyuan Ma (马之元)](https://www.worldcubeassociation.org/persons/2017MAZH04) | **5.55** | China | [Nanchang Good Morning 2021](https://www.worldcubeassociation.org/competitions/NanchangGoodMorning2021) | 9.51, 11.27, 5.55, 9.60, 9.31 |
+| [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **5.58** | United Kingdom | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 6.86, 8.27, 7.34, 5.58, 6.11 |
+| [Zixuan Yang (杨子轩)](https://www.worldcubeassociation.org/persons/2017YANG55) | **5.65** | China | [Shenzhen Nanshan Morning 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanMorning2021) | 8.11, 7.46, 5.90, 5.65, 7.71 |
 
 ### Rubik's Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **5.59** | United States | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020) | 4.90, 5.72, 6.53, 5.50, 5.56 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **5.86** | Australia | [Bendigo Cube Blitz 2020](https://www.worldcubeassociation.org/competitions/BendigoCubeBlitz2020) | 7.12, 6.32, 5.87, 5.39, 5.38 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **6.18** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 7.09, 5.88, 6.50, 6.15, 4.90 |
-| [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | **6.19** | United States | [Princeton Winter 2020](https://www.worldcubeassociation.org/competitions/PrincetonWinter2020) | 7.34, 5.42, 5.81, 5.30, 9.33 |
-| [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) | **6.42** | United States | [Arnold Classic NA B 2020](https://www.worldcubeassociation.org/competitions/ArnoldClassicNorthAmericaB2020) | 5.48, 6.23, 6.94, 6.49, 6.55 |
-| [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **6.46** | Germany | [Berlin Winter Cubing 2020](https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2020) | 6.86, 6.98, 5.20, 6.50, 6.03 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **6.50** | United States | [Slow N Steady Winter 2020](https://www.worldcubeassociation.org/competitions/SlowNSteadyWinter2020) | 6.12, 6.01, 5.99, 7.36, 8.16 |
-| [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **6.51** | Netherlands | [Happy New Year Cubing Hoorn 2020](https://www.worldcubeassociation.org/competitions/HappyNewYearCubingHoorn2020) | 7.94, 6.19, 5.70, 7.31, 6.04 |
-| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **6.56** | China | [ Shenzhen Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/ShenzhenGoodAfternoon2020) | 6.37, 6.37, 8.38, 6.78, 6.53 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **6.62** | Germany | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) | 6.14, 6.42, 7.32, 6.68, 6.75 |
+| [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | **5.57** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 5.87, 5.42, 5.30, 7.53, 5.42 |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **5.69** | China | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021) | 5.56, 6.47, 5.95, 5.48, 5.56 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **6.06** | Australia | [Sydney Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/SydneyReOpenSaturday2021) | 6.21, 5.85, 5.47, 6.11, 6.57 |
+| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **6.28** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 6.25, 6.42, 7.49, 6.16, 5.99 |
+| [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) | **6.31** | Denmark | [Kunshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/KunshanAfternoon2021) | 5.92, 6.60, 6.90, 6.16, 6.18 |
+| [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **6.52** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 5.90, 6.74, 6.98, 6.51, 6.31 |
+| [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) | **6.61** | China | [Shenzhen Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenGoodAfternoon2021) | 6.37, 5.39, 6.83, 8.73, 6.64 |
+| [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **6.62** | Australia | [Barwon Cube for the Kids 2021](https://www.worldcubeassociation.org/competitions/BarwonCubefortheKids2021) | 7.64, 6.78, 6.51, 6.56, 6.04 |
+| [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | **6.64** | China | [Beijing Spring PM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringPM2021) | 6.85, 6.58, 6.48, 6.41, 9.74 |
+| [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **6.77** | United Kingdom | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 6.86, 8.27, 7.34, 5.58, 6.11 |
 
 ### 2x2x2 Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **0.69** | Netherlands | [Annuntia Open 2020](https://www.worldcubeassociation.org/competitions/AnnuntiaOpen2020) | 0.69, 3.69, 1.77, 2.56, 1.83 |
-| [Sergey Marin (Сергей Марьин)](https://www.worldcubeassociation.org/persons/2018MARI08) | **0.73** | Russia | [Ural Winter 2020](https://www.worldcubeassociation.org/competitions/UralWinter2020) | 2.13, 3.01, 3.73, 0.73, 2.04 |
-| [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **0.74** | United States | [UBC Open 2020](https://www.worldcubeassociation.org/competitions/UBCOpen2020) | 2.78, 3.22, 2.03, 1.49, 0.74 |
-| [Hsiang-Kuang Zhuang (莊翔光)](https://www.worldcubeassociation.org/persons/2015ZHUA02) | **0.82** | Taiwan | [UCSD Winter 2020](https://www.worldcubeassociation.org/competitions/UCSDWinter2020) | 2.28, 2.05, 0.82, 2.04, 2.78 |
-| [Oscar Watson](https://www.worldcubeassociation.org/persons/2017WATS07) | **0.83** | Australia | [Adelaide Summer 2020](https://www.worldcubeassociation.org/competitions/AdelaideSummer2020) | 3.64, 3.92, 0.83, 4.22, 4.09 |
-| [Kyle Van Straaten](https://www.worldcubeassociation.org/persons/2017STRA03) | **0.86** | Canada | [UBC Open 2020](https://www.worldcubeassociation.org/competitions/UBCOpen2020) | 2.41, 2.49, 2.83, 0.86, 2.68 |
-| [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | **0.86** | Turkey | [Turkish Summer 2020](https://www.worldcubeassociation.org/competitions/TurkishSummer2020) | 3.40, 0.86, 3.72, 3.15, 3.65 |
-| [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | **0.86** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 3.64, 2.17, 2.29, 1.72, 0.86 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **0.89** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 2.71, 2.82, 5.97, 2.16, 0.89 |
-| [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | **0.89** | Sweden | [Popular 'n Blind Flen 2020](https://www.worldcubeassociation.org/competitions/PopularnBlindFlen2020) | 1.67, 2.15, 0.89, 1.60, 1.59 |
+| [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **0.89** | Australia | [Barwon Cube for the Kids 2021](https://www.worldcubeassociation.org/competitions/BarwonCubefortheKids2021) | 0.89, 2.85, 1.33, 2.19, 2.25 |
+| [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | **0.92** | China | [Chengdu New Year Afternoon 2021](https://www.worldcubeassociation.org/competitions/ChengduNewYearAfternoon2021) | 2.94, 1.88, 3.67, 0.92, 2.97 |
+| [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **0.92** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 3.92, 1.46, 0.92, 2.44, 3.35 |
+| [Jiekang Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) | **0.93** | China | [Kunshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/KunshanAfternoon2021) | 1.77, 2.69, 1.20, 1.82, 0.93 |
+| [Yinghao Wang (王鹰豪)](https://www.worldcubeassociation.org/persons/2010WANG07) | **0.99** | China | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021) | 2.58, 1.38, 1.44, 2.04, 0.99 |
+| [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **1.01** | Australia | [Brisbane Is Back On 2021](https://www.worldcubeassociation.org/competitions/BrisbaneIsBackOn2021) | 2.34, 1.01, 1.85, 3.90, 2.01 |
+| [Benjamin Warry](https://www.worldcubeassociation.org/persons/2017WARR04) | **1.04** | Australia | [Brisbane Is Back On 2021](https://www.worldcubeassociation.org/competitions/BrisbaneIsBackOn2021) | 2.26, 2.22, 1.04, 2.36, 3.37 |
+| [Ivan Polkanov (Иван Полканов)](https://www.worldcubeassociation.org/persons/2018POLK03) | **1.04** | Russia | [Ural Spring 2021](https://www.worldcubeassociation.org/competitions/UralSpring2021) | 1.84, 1.04, 2.97, 2.08, 2.32 |
+| [Sky Guo (郭建欣)](https://www.worldcubeassociation.org/persons/2016GUOS02) | **1.04** | Hong Kong | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021) | 1.64, 1.06, 1.17, 1.65, 1.04 |
+| [Guanbo Wang (王冠博)](https://www.worldcubeassociation.org/persons/2018WANG35) | **1.05** | China | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021) | 2.57, 1.38, 1.55, 2.09, 1.05 |
 
 ### 2x2x2 Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [John Bacouël](https://www.worldcubeassociation.org/persons/2018BACO01) | **1.39** | France | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) | 1.56, 1.68, 0.99, 1.35, 1.27 |
-| [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **1.39** | United States | [Slow N Steady Winter 2020](https://www.worldcubeassociation.org/competitions/SlowNSteadyWinter2020) | 1.57, 1.31, 1.32, 1.54, 1.27 |
-| [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **1.42** | Russia | [CCC Qualification Kazan 2020](https://www.worldcubeassociation.org/competitions/CCCQualificationKazan2020) | 1.66, 1.85, 1.28, 1.11, 1.33 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **1.46** | Denmark | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | 1.50, 1.02, 1.42, 1.45, 2.00 |
-| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **1.47** | Netherlands | [Annuntia Open 2020](https://www.worldcubeassociation.org/competitions/AnnuntiaOpen2020) | 1.94, 1.21, 1.24, 1.68, 1.48 |
-| [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | **1.55** | United States | [Garrettsville G-Men Classic 2020](https://www.worldcubeassociation.org/competitions/GarrettsvilleGMenClassic2020) | 1.55, 1.47, 1.60, 1.92, 1.50 |
-| [Mika Smulders](https://www.worldcubeassociation.org/persons/2016SMUL01) | **1.55** | Netherlands | [Star Cubing Nijmegen 2020](https://www.worldcubeassociation.org/competitions/StarCubingNijmegen2020) | 4.12, 1.36, 1.74, 1.54, 1.25 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **1.56** | United States | [Downtown Vancouver Winter 2020](https://www.worldcubeassociation.org/competitions/DowntownVancouverWinter2020) | 2.05, 1.58, 1.61, 1.45, 1.48 |
-| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **1.57** | United States | [Charlotte Winter 2020](https://www.worldcubeassociation.org/competitions/CharlotteWinter2020) | 1.76, 3.91, 1.32, 1.52, 1.44 |
-| [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **1.57** | United Kingdom | [Guildford Open 2020](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020) | 1.41, 1.76, 1.54, 1.37, 2.35 |
+| [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **1.27** | China | [Beijing Spring AM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringAM2021) | 1.68, 1.02, 0.95, DNF, 1.11 |
+| [Sky Guo (郭建欣)](https://www.worldcubeassociation.org/persons/2016GUOS02) | **1.29** | Hong Kong | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021) | 1.64, 1.06, 1.17, 1.65, 1.04 |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **1.49** | China | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021) | 1.08, 2.08, 1.34, 1.89, 1.25 |
+| [Zhiyuan Ma (马之元)](https://www.worldcubeassociation.org/persons/2017MAZH04) | **1.54** | China | [Xi'an Cherry Blossom PM 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomPM2021) | 1.43, 2.06, 5.67, 1.14, 1.14 |
+| [Yinghao Wang (王鹰豪)](https://www.worldcubeassociation.org/persons/2010WANG07) | **1.59** | China | [Kunshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/KunshanAfternoon2021) | 1.51, 1.77, 3.84, 1.48, 1.45 |
+| [Jiekang Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) | **1.60** | China | [Kunshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/KunshanAfternoon2021) | 1.77, 2.69, 1.20, 1.82, 0.93 |
+| [Guanbo Wang (王冠博)](https://www.worldcubeassociation.org/persons/2018WANG35) | **1.65** | China | [Xi'an Cherry Blossom PM 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomPM2021) | 1.40, 1.99, 1.82, 1.44, 1.68 |
+| [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | **1.69** | China | [Nanchang Good Morning 2021](https://www.worldcubeassociation.org/competitions/NanchangGoodMorning2021) | 1.77, 2.73, 1.78, 1.40, 1.53 |
+| [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | **1.74** | Australia | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) | 1.55, 4.63, 1.55, 1.95, 1.71 |
+| [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **1.76** | Russia | [SPB Muffin Mini 2021](https://www.worldcubeassociation.org/competitions/SPBMuffinMini2021) | 1.71, 1.64, 1.31, 1.94, 46.91 |
 
 ### 4x4x4 Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **19.03** | Germany | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) | 19.03, 21.50, 24.78, 23.95, 22.61 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **20.06** | Ireland | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) | 23.67, 26.10, 25.90, 20.06, 22.81 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **20.14** | United States | [Mudd Winter 2020](https://www.worldcubeassociation.org/competitions/MuddWinter2020) | 26.51, 20.14, 22.76, 23.77, 20.52 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **21.27** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 27.80, 30.43, 23.35, 21.27, 22.34 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **22.03** | United States | [Scranton Scramble 2020](https://www.worldcubeassociation.org/competitions/ScrantonScramble2020) | 25.74, 25.07, 34.47, 29.34, 22.03 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **22.28** | Poland | [MLS Warszawa 2020](https://www.worldcubeassociation.org/competitions/MLSWarszawa2020) | 24.87, 28.12, 24.76, 22.28, 28.76 |
-| [Mahith Bandi](https://www.worldcubeassociation.org/persons/2014BAND04) | **22.63** | United States | [DFW NxN Winter 2020](https://www.worldcubeassociation.org/competitions/DFWNxNWinter2020) | 30.27, 34.65, 22.63, 31.41, 33.92 |
-| [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | **22.63** | Philippines | [Cebu Open 2020](https://www.worldcubeassociation.org/competitions/CebuOpen2020) | 31.40, 22.63, 29.00, 26.62, 31.89 |
-| [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) | **22.87** | United States | [Country Roads Martinsburg 2020](https://www.worldcubeassociation.org/competitions/CountryRoadsMartinsburg2020) | 31.39, 1:05.25, 34.28, 22.87, 32.19 |
-| [Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01) | **22.97** | Russia | [CCC Qualification Kazan 2020](https://www.worldcubeassociation.org/competitions/CCCQualificationKazan2020) | 30.35, 32.90, 34.30, 33.36, 22.97 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **17.98** | Australia | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) | 22.36, 26.61, 21.30, 17.98, 21.05 |
+| [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **23.32** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 29.71, 27.84, 26.20, 23.32, 29.57 |
+| [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | **23.91** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 26.69, DNF, 28.93, 29.13, 23.91 |
+| [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) | **24.05** | China | [Shenzhen Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenGoodAfternoon2021) | 31.66, 31.43, 35.85, 24.05, 30.32 |
+| [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | **24.58** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 24.58, 25.34, 25.28, 26.05, 30.98 |
+| [Yuxuan Guo (郭雨轩)](https://www.worldcubeassociation.org/persons/2014GUOY04) | **25.36** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.39, 33.93, 25.36, 31.06, 40.50 |
+| [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **25.77** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 29.12, 25.77, 31.75, 32.95, 31.90 |
+| [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **25.83** | Russia | [Ural Spring 2021](https://www.worldcubeassociation.org/competitions/UralSpring2021) | 33.61, 32.91, 25.83, 34.78, 31.43 |
+| [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **25.95** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 29.87, 29.72, 41.25, 29.22, 25.95 |
+| [Sheng Cao (曹晟)](https://www.worldcubeassociation.org/persons/2011CAOS01) | **26.04** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 26.04, 31.87, 32.29, 26.13, 35.46 |
 
 ### 4x4x4 Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **22.18** | Germany | [Franconia Winter 2020](https://www.worldcubeassociation.org/competitions/FranconiaWinter2020) | 25.93, 19.37, 23.83, 22.10, 20.62 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **22.35** | United States | [Mudd Winter 2020](https://www.worldcubeassociation.org/competitions/MuddWinter2020) | 26.51, 20.14, 22.76, 23.77, 20.52 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **23.73** | Australia | [Auckland Summer Open 2020](https://www.worldcubeassociation.org/competitions/AucklandSummerOpen2020) | 22.99, 25.06, 23.26, 24.95, 22.26 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **24.13** | Ireland | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) | 23.67, 26.10, 25.90, 20.06, 22.81 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **24.68** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 24.47, 26.84, 24.11, 25.37, 24.20 |
-| [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **25.94** | Netherlands | [Veenendaal Open 2020](https://www.worldcubeassociation.org/competitions/VeenendaalOpen2020) | 24.16, 27.21, 23.10, 50.16, 26.45 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **26.72** | United States | [Scranton Scramble 2020](https://www.worldcubeassociation.org/competitions/ScrantonScramble2020) | 25.74, 25.07, 34.47, 29.34, 22.03 |
-| [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) | **27.02** | United States | [Central Washington Winter 2020](https://www.worldcubeassociation.org/competitions/CentralWashingtonWinter2020) | 26.87, 27.93, 31.41, 26.27, 25.71 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **27.20** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 27.04, 25.26, 27.58, 34.89, 26.98 |
-| [Ho Hsieh (謝合)](https://www.worldcubeassociation.org/persons/2015HSIE02) | **27.73** | Taiwan | [Pingtung Cubing Open 2020](https://www.worldcubeassociation.org/competitions/PingtungCubingOpen2020) | 27.55, 26.22, 26.24, 30.92, 29.39 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **21.57** | Australia | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) | 22.36, 26.61, 21.30, 17.98, 21.05 |
+| [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | **25.56** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 24.58, 25.34, 25.28, 26.05, 30.98 |
+| [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **27.87** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 29.71, 27.84, 26.20, 23.32, 29.57 |
+| [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | **28.25** | China | [Nanchang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/NanchangGoodAfternoon2021) | 26.66, DNF, 27.45, 26.11, 30.64 |
+| [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **29.26** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 30.74, 35.55, 29.90, 26.34, 27.15 |
+| [Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01) | **29.26** | Russia | [SPB Muffin Mini 2021](https://www.worldcubeassociation.org/competitions/SPBMuffinMini2021) | 28.44, 31.30, 30.81, 28.54, 28.31 |
+| [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) | **29.56** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.59, 29.09, 28.78, 29.99, 34.38 |
+| [Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01) | **29.56** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.96, 35.97, 27.19, 30.36, 28.36 |
+| [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **29.60** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 29.87, 29.72, 41.25, 29.22, 25.95 |
+| [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **29.84** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 29.97, 28.78, 31.47, 30.24, 29.31 |
 
 ### 5x5x5 Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **34.92** | United States | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020) | 42.20, 38.60, 34.92, 39.72, 41.88 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **38.55** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 44.07, 41.70, 38.55, 40.78, 43.80 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **39.82** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 46.48, 39.82, 40.45, 43.43, 43.17 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **40.35** | Ireland | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) | 54.64, 45.73, 1:02.99, 49.58, 40.35 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **42.91** | Germany | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) | 52.44, 52.31, 54.56, 42.91, 47.78 |
-| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **43.77** | Romania | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 58.56, 43.77, 47.40, 56.54, 44.18 |
-| [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **43.99** | United States | [Hawaii Big Island 2020](https://www.worldcubeassociation.org/competitions/HawaiiBigIsland2020) | 50.51, 43.99, 55.21, 46.63, 47.62 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **44.62** | United States | [Scranton Scramble 2020](https://www.worldcubeassociation.org/competitions/ScrantonScramble2020) | 44.62, 50.38, 46.46, 49.74, 47.51 |
-| [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | **44.69** | United States | [Princeton Winter 2020](https://www.worldcubeassociation.org/competitions/PrincetonWinter2020) | 47.36, 48.75, 52.28, 44.69, 52.44 |
-| [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **45.23** | Netherlands | [Star Cubing Nijmegen 2020](https://www.worldcubeassociation.org/competitions/StarCubingNijmegen2020) | 52.87, 50.34, 45.23, 55.11, 52.78 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **42.55** | Australia | [Sydney Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/SydneyReOpenSaturday2021) | 44.93, 43.97, 45.90, 42.55, 46.04 |
+| [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **44.12** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 52.85, 53.68, 1:07.85, 45.68, 44.12 |
+| [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **45.49** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 51.22, 45.49, 55.44, 48.94, DNF |
+| [Ivan Polkanov (Иван Полканов)](https://www.worldcubeassociation.org/persons/2018POLK03) | **46.05** | Russia | [Ural Spring 2021](https://www.worldcubeassociation.org/competitions/UralSpring2021) | 1:00.61, 1:03.44, 56.55, 46.05, 51.00 |
+| [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) | **46.86** | China | [Shenzhen Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenGoodAfternoon2021) | 1:07.42, 46.86, 1:05.75, 1:05.31, 59.48 |
+| [Yu Feng (冯煜)](https://www.worldcubeassociation.org/persons/2017FENG09) | **48.29** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 56.39, 48.29, 56.15, 1:00.39, 53.81 |
+| [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **48.55** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 54.15, 59.26, 48.55, 50.06, 58.96 |
+| [Zejun Chen (陈泽鋆)](https://www.worldcubeassociation.org/persons/2018CHEZ21) | **48.87** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 59.31, 1:07.36, 57.71, 48.87, 1:08.59 |
+| [Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07) | **49.06** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:00.14, 1:00.04, 59.59, 49.06, 57.54 |
+| [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **50.35** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 59.46, 57.56, 50.35, 59.62, 59.72 |
 
 ### 5x5x5 Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **40.07** | United States | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020) | 42.20, 38.60, 34.92, 39.72, 41.88 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **42.09** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 44.07, 41.70, 38.55, 40.78, 43.80 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **42.35** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 46.48, 39.82, 40.45, 43.43, 43.17 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **45.41** | Ireland | [Hamburg International 2020](https://www.worldcubeassociation.org/competitions/HamburgInternational2020) | 51.59, 42.28, 46.48, 43.86, 45.90 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **47.90** | United States | [Scranton Scramble 2020](https://www.worldcubeassociation.org/competitions/ScrantonScramble2020) | 44.62, 50.38, 46.46, 49.74, 47.51 |
-| [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **48.25** | United States | [Hawaii Big Island 2020](https://www.worldcubeassociation.org/competitions/HawaiiBigIsland2020) | 50.51, 43.99, 55.21, 46.63, 47.62 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **48.78** | Germany | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) | 43.23, 54.24, 48.01, 52.46, 45.87 |
-| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **49.37** | Romania | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 58.56, 43.77, 47.40, 56.54, 44.18 |
-| [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | **49.46** | United States | [Princeton Winter 2020](https://www.worldcubeassociation.org/competitions/PrincetonWinter2020) | 47.36, 48.75, 52.28, 44.69, 52.44 |
-| [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) | **51.23** | Italy | [Salzburg Open 2020](https://www.worldcubeassociation.org/competitions/SalzburgOpen2020) | 54.25, 59.49, 50.47, 45.38, 48.96 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **44.93** | Australia | [Sydney Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/SydneyReOpenSaturday2021) | 44.93, 43.97, 45.90, 42.55, 46.04 |
+| [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **47.55** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 50.53, 54.78, 44.83, 44.86, 47.25 |
+| [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **51.87** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 51.22, 45.49, 55.44, 48.94, DNF |
+| [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) | **54.24** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 59.81, 48.78, 47.11, 57.26, 56.68 |
+| [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **54.39** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 54.15, 59.26, 48.55, 50.06, 58.96 |
+| [Yu Feng (冯煜)](https://www.worldcubeassociation.org/persons/2017FENG09) | **55.45** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 56.39, 48.29, 56.15, 1:00.39, 53.81 |
+| [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | **55.58** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 52.87, 51.89, 58.84, 56.50, 57.36 |
+| [Ivan Polkanov (Иван Полканов)](https://www.worldcubeassociation.org/persons/2018POLK03) | **56.05** | Russia | [Ural Spring 2021](https://www.worldcubeassociation.org/competitions/UralSpring2021) | 1:00.61, 1:03.44, 56.55, 46.05, 51.00 |
+| [Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01) | **57.51** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 57.24, 1:03.86, 55.16, 1:00.13, 54.89 |
+| [Zihan Zhang (张子涵)](https://www.worldcubeassociation.org/persons/2015ZHAN85) | **57.55** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 58.23, 52.64, 59.82, 54.60, 1:04.52 |
 
 ### 6x6x6 Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **1:09.51** | United States | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020) | 1:09.51, 1:23.93, 1:14.27 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **1:18.95** | Australia | [Auckland Summer Open 2020](https://www.worldcubeassociation.org/competitions/AucklandSummerOpen2020) | 1:18.95, 1:28.09, 1:20.07 |
-| [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | **1:21.67** | United States | [Princeton Winter 2020](https://www.worldcubeassociation.org/competitions/PrincetonWinter2020) | 1:29.53, 1:42.03, 1:21.67 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:22.22** | Ireland | [Hamburg International 2020](https://www.worldcubeassociation.org/competitions/HamburgInternational2020) | 1:25.03, 1:23.40, 1:22.22 |
-| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **1:24.00** | Romania | [Dragon Cubing 2020](https://www.worldcubeassociation.org/competitions/DragonCubing2020) | 1:26.05, 1:24.00, 1:24.38 |
-| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:27.10** | Republic of Korea | [ByeolLae Open 2020](https://www.worldcubeassociation.org/competitions/ByeolLaeOpen2020) | 1:34.01, 1:28.90, 1:27.10 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **1:27.74** | China | [Parity at Charis 2020](https://www.worldcubeassociation.org/competitions/ParityatCharis2020) | 1:44.61, 1:40.09, 1:27.74 |
-| [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **1:28.51** | China | [PBQ Toronto Winter 2020](https://www.worldcubeassociation.org/competitions/PBQTorontoWinter2020) | 1:48.76, 1:38.57, 1:28.51 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:29.73** | Poland | [Berlin Winter Cubing 2020](https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2020) | 1:31.27, 1:29.73, 1:36.94 |
-| [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | **1:29.96** | United States | [Scranton Scramble 2020](https://www.worldcubeassociation.org/competitions/ScrantonScramble2020) | 1:39.22, 1:40.62, 1:29.96 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **1:19.92** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1:37.25, 1:38.81, 1:19.92 |
+| [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) | **1:25.19** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:31.54, 1:38.36, 1:25.19 |
+| [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **1:29.44** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:29.44, 1:37.53, 1:37.01 |
+| [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **1:32.30** | Hong Kong | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:49.72, 1:48.99, 1:32.30 |
+| [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) | **1:32.88** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1:32.88, 1:34.57, 1:39.94 |
+| [Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07) | **1:34.88** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:40.15, 1:49.22, 1:34.88 |
+| [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) | **1:35.17** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:35.17, 1:42.43, 1:49.86 |
+| [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **1:35.96** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1:46.31, 1:46.39, 1:35.96 |
+| [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **1:36.94** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:43.05, 1:36.94, 1:42.32 |
+| [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **1:38.65** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:38.65, 2:08.43, 1:53.13 |
 
 ### 6x6x6 Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **1:15.90** | United States | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020) | 1:09.51, 1:23.93, 1:14.27 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **1:22.37** | Australia | [Auckland Summer Open 2020](https://www.worldcubeassociation.org/competitions/AucklandSummerOpen2020) | 1:18.95, 1:28.09, 1:20.07 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:23.55** | Ireland | [Hamburg International 2020](https://www.worldcubeassociation.org/competitions/HamburgInternational2020) | 1:25.03, 1:23.40, 1:22.22 |
-| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **1:24.81** | Romania | [Dragon Cubing 2020](https://www.worldcubeassociation.org/competitions/DragonCubing2020) | 1:26.05, 1:24.00, 1:24.38 |
-| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:30.00** | Republic of Korea | [ByeolLae Open 2020](https://www.worldcubeassociation.org/competitions/ByeolLaeOpen2020) | 1:34.01, 1:28.90, 1:27.10 |
-| [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | **1:31.08** | United States | [Princeton Winter 2020](https://www.worldcubeassociation.org/competitions/PrincetonWinter2020) | 1:29.53, 1:42.03, 1:21.67 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:32.65** | Poland | [Berlin Winter Cubing 2020](https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2020) | 1:31.27, 1:29.73, 1:36.94 |
-| [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | **1:36.60** | United States | [Scranton Scramble 2020](https://www.worldcubeassociation.org/competitions/ScrantonScramble2020) | 1:39.22, 1:40.62, 1:29.96 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **1:37.48** | China | [Parity at Charis 2020](https://www.worldcubeassociation.org/competitions/ParityatCharis2020) | 1:44.61, 1:40.09, 1:27.74 |
-| [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **1:38.61** | China | [PBQ Toronto Winter 2020](https://www.worldcubeassociation.org/competitions/PBQTorontoWinter2020) | 1:48.76, 1:38.57, 1:28.51 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **1:27.59** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1:26.31, 1:30.92, 1:25.55 |
+| [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) | **1:31.70** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:31.54, 1:38.36, 1:25.19 |
+| [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **1:34.66** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:29.44, 1:37.53, 1:37.01 |
+| [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) | **1:35.80** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1:32.88, 1:34.57, 1:39.94 |
+| [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **1:40.77** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:43.05, 1:36.94, 1:42.32 |
+| [Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07) | **1:41.42** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:40.15, 1:49.22, 1:34.88 |
+| [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) | **1:42.49** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:35.17, 1:42.43, 1:49.86 |
+| [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **1:42.89** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1:46.31, 1:46.39, 1:35.96 |
+| [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **1:43.67** | Hong Kong | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:49.72, 1:48.99, 1:32.30 |
+| [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **1:46.15** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1:51.07, 1:47.58, 1:39.79 |
 
 ### 7x7x7 Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **1:42.12** | United States | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020) | 1:54.24, 1:42.12, 1:43.34 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **1:56.60** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 2:16.10, 2:09.69, 1:56.60 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:59.74** | Ireland | [Hamburg International 2020](https://www.worldcubeassociation.org/competitions/HamburgInternational2020) | 1:59.74, 2:13.48, 2:17.87 |
-| [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | **2:06.26** | United States | [Scranton Scramble 2020](https://www.worldcubeassociation.org/competitions/ScrantonScramble2020) | 2:11.46, 2:10.69, 2:06.26 |
-| [Mahith Bandi](https://www.worldcubeassociation.org/persons/2014BAND04) | **2:07.51** | United States | [DFW NxN Winter 2020](https://www.worldcubeassociation.org/competitions/DFWNxNWinter2020) | 2:27.47, 2:35.45, 2:07.51 |
-| [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) | **2:10.78** | Italy | [Salzburg Open 2020](https://www.worldcubeassociation.org/competitions/SalzburgOpen2020) | 2:10.78, 2:26.91, 2:10.89 |
-| [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **2:11.12** | China | [PBQ Toronto Winter 2020](https://www.worldcubeassociation.org/competitions/PBQTorontoWinter2020) | 2:15.37, 2:14.74, 2:11.12 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **2:11.67** | China | [Parity at Charis 2020](https://www.worldcubeassociation.org/competitions/ParityatCharis2020) | 2:19.22, 2:24.17, 2:11.67 |
-| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **2:12.55** | Romania | [Budapest Open 2020](https://www.worldcubeassociation.org/competitions/BudapestOpen2020) | 2:24.97, 2:12.55, 2:16.36 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **2:13.28** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 2:13.28, 2:23.96, 2:19.99 |
+| [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) | **1:54.40** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 2:04.65, 1:58.88, 1:54.40 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **2:00.94** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 2:08.20, 2:13.13, 2:00.94 |
+| [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **2:08.00** | Hong Kong | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 2:25.73, 2:21.46, 2:08.00 |
+| [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) | **2:11.36** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 2:24.63, 2:23.90, 2:11.36 |
+| [Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07) | **2:18.02** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 2:33.50, 2:19.81, 2:18.02 |
+| [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **2:20.84** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 2:20.84, 2:34.80, 2:38.37 |
+| [Ryan Driscoll](https://www.worldcubeassociation.org/persons/2015DRIS02) | **2:21.15** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 2:29.36, 2:21.15, 2:49.70 |
+| [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **2:21.97** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 2:27.52, 2:22.25, 2:21.97 |
+| [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **2:26.34** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 2:57.76, 2:51.27, 2:26.34 |
+| [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) | **2:33.25** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 2:41.15, 2:33.25, 2:35.92 |
 
 ### 7x7x7 Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **1:46.57** | United States | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020) | 1:54.24, 1:42.12, 1:43.34 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **2:02.98** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 2:02.22, 2:01.53, 2:05.20 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **2:07.84** | Ireland | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) | 2:12.11, 2:07.01, 2:04.41 |
-| [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | **2:09.47** | United States | [Scranton Scramble 2020](https://www.worldcubeassociation.org/competitions/ScrantonScramble2020) | 2:11.46, 2:10.69, 2:06.26 |
-| [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **2:13.74** | China | [PBQ Toronto Winter 2020](https://www.worldcubeassociation.org/competitions/PBQTorontoWinter2020) | 2:15.37, 2:14.74, 2:11.12 |
-| [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) | **2:16.19** | Italy | [Salzburg Open 2020](https://www.worldcubeassociation.org/competitions/SalzburgOpen2020) | 2:10.78, 2:26.91, 2:10.89 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **2:16.28** | China | [Parity at Charis 2020](https://www.worldcubeassociation.org/competitions/ParityatCharis2020) | 2:17.85, 2:14.48, 2:16.50 |
-| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **2:16.90** | Romania | [Salzburg Open 2020](https://www.worldcubeassociation.org/competitions/SalzburgOpen2020) | 2:17.33, 2:20.37, 2:13.00 |
-| [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **2:18.78** | Poland | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020) | 2:18.16, 2:24.49, 2:13.68 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **2:19.08** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 2:13.28, 2:23.96, 2:19.99 |
+| [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) | **1:59.31** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 2:04.65, 1:58.88, 1:54.40 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **2:05.40** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 2:04.76, 2:08.84, 2:02.59 |
+| [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **2:18.40** | Hong Kong | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 2:25.73, 2:21.46, 2:08.00 |
+| [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) | **2:19.96** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 2:24.63, 2:23.90, 2:11.36 |
+| [Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07) | **2:22.76** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 2:22.53, 2:26.65, 2:19.11 |
+| [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **2:23.91** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 2:27.52, 2:22.25, 2:21.97 |
+| [Ryan Driscoll](https://www.worldcubeassociation.org/persons/2015DRIS02) | **2:30.04** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 2:31.34, 2:33.10, 2:25.67 |
+| [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **2:30.92** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 2:27.52, 2:31.53, 2:33.71 |
+| [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) | **2:36.77** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 2:41.15, 2:33.25, 2:35.92 |
+| [Wenxuan Tang (唐文轩)](https://www.worldcubeassociation.org/persons/2014TANG07) | **2:39.04** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 2:39.76, 2:38.56, 2:38.80 |
 
 ### 3x3x3 Blindfolded - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **16.92** | United States | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020) | DNF, DNF, 16.92 |
-| [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | **17.00** | Peru | [Lima Cuberano 2020](https://www.worldcubeassociation.org/competitions/LimaCuberano2020) | 17.00, DNF, DNF |
-| [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | **17.04** | Canada | [Alberta 5th Anniversary 2020](https://www.worldcubeassociation.org/competitions/Alberta5thAnniversary2020) | 17.90, 22.80, 17.04 |
-| [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | **17.23** | Sweden | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | 21.18, 17.23, 24.12 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **17.68** | Denmark | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | 18.22, 17.68, 19.18 |
-| [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **17.90** | France | [Mémorial François Courtès 2020](https://www.worldcubeassociation.org/competitions/MemorialFrancoisCourtes2020) | 26.15, 29.09, 17.90 |
-| [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) | **18.11** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 18.11, 20.45, 25.17 |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **19.03** | United States | [Michigan Cubing Club Alpha 2020](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2020) | 25.96, DNF, 19.03 |
-| [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **19.18** | United States | [Northern Neck Winter 2020](https://www.worldcubeassociation.org/competitions/NorthernNeckWinter2020) | 19.18, 20.17, 22.53 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **19.72** | Sweden | [Popular 'n Blind Flen 2020](https://www.worldcubeassociation.org/competitions/PopularnBlindFlen2020) | DNF, 19.72, 26.81 |
+| [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) | **17.18** | Australia | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) | DNF, 19.99, 17.18 |
+| [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **17.55** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 18.93, 19.64, 17.55 |
+| [Bowen Xiao (肖博文)](https://www.worldcubeassociation.org/persons/2017XIAO09) | **17.68** | China | [Xi'an Cherry Blossom PM 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomPM2021) | 22.09, 26.95, 17.68 |
+| [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **18.45** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 18.45, DNF, 23.65 |
+| [Yichuan Xie (谢逸川)](https://www.worldcubeassociation.org/persons/2016XIEY08) | **20.28** | China | [Nanchang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/NanchangGoodAfternoon2021) | 26.29, 21.32, 20.28 |
+| [Ethan Pan](https://www.worldcubeassociation.org/persons/2015PANE01) | **22.35** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | DNF, 22.35, DNF |
+| [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | **22.41** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 29.78, 22.41, DNF |
+| [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **22.41** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 25.15, 22.41, DNF |
+| [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) | **22.42** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 37.41, 27.41, 22.42 |
+| [Xin Shi (石欣)](https://www.worldcubeassociation.org/persons/2010SHIX01) | **22.56** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | DNF, 22.56, 28.12 |
 
 ### 3x3x3 Blindfolded - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **18.36** | Denmark | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | 18.22, 17.68, 19.18 |
-| [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | **19.25** | Canada | [Alberta 5th Anniversary 2020](https://www.worldcubeassociation.org/competitions/Alberta5thAnniversary2020) | 17.90, 22.80, 17.04 |
-| [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **20.63** | United States | [Northern Neck Winter 2020](https://www.worldcubeassociation.org/competitions/NorthernNeckWinter2020) | 19.18, 20.17, 22.53 |
-| [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | **20.84** | Sweden | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | 21.18, 17.23, 24.12 |
-| [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) | **21.24** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 18.11, 20.45, 25.17 |
-| [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | **22.85** | United States | [Please Be Quiet Frisco 2020](https://www.worldcubeassociation.org/competitions/PleaseBeQuietFrisco2020) | 19.93, 24.86, 23.77 |
-| [Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01) | **23.14** | India | [Mémorial François Courtès 2020](https://www.worldcubeassociation.org/competitions/MemorialFrancoisCourtes2020) | 22.36, 21.70, 25.36 |
-| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **23.36** | United States | [West LA Winter 2020](https://www.worldcubeassociation.org/competitions/WestLAWinter2020) | 20.90, 26.10, 23.08 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **23.49** | Poland | [BrizZon Poznań Side Open 2020](https://www.worldcubeassociation.org/competitions/BrizZonPoznanSideOpen2020) | 24.11, 24.35, 22.00 |
-| [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | **24.09** | Germany | [Franconia Winter 2020](https://www.worldcubeassociation.org/competitions/FranconiaWinter2020) | 23.85, 25.38, 23.04 |
+| [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **18.71** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 18.93, 19.64, 17.55 |
+| [Bowen Xiao (肖博文)](https://www.worldcubeassociation.org/persons/2017XIAO09) | **19.47** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 19.04, 18.65, 20.72 |
+| [Yichuan Xie (谢逸川)](https://www.worldcubeassociation.org/persons/2016XIEY08) | **22.63** | China | [Nanchang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/NanchangGoodAfternoon2021) | 26.29, 21.32, 20.28 |
+| [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **25.88** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 22.82, 30.58, 24.25 |
+| [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **27.65** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 26.11, 28.35, 28.48 |
+| [Zhaoxuan Ning (宁照轩)](https://www.worldcubeassociation.org/persons/2019NING06) | **29.01** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 25.50, 33.24, 28.30 |
+| [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) | **29.08** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 37.41, 27.41, 22.42 |
+| [Guoliang Wang (王国梁)](https://www.worldcubeassociation.org/persons/2017WAGU02) | **30.46** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 29.93, 31.42, 30.04 |
+| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **30.89** | Australia | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) | 32.71, 35.65, 24.32 |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **31.40** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 31.68, 25.42, 37.11 |
 
 ### 3x3x3 Fewest Moves - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **18** | United States | [North Star Cubing Challenge 2020](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020) | 23, 18, 22 |
-| [Mauro Moises López](https://www.worldcubeassociation.org/persons/2016LOPE44) | **19** | Spain | [Only FMC 2020](https://www.worldcubeassociation.org/competitions/OnlyFMC2020) | 24, 19, 30 |
-| [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | **20** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 25, 20, 23 |
-| [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | **21** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 25, 30 |
-| [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | **21** | Canada | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 42, 38 |
-| [Dylan Wang](https://www.worldcubeassociation.org/persons/2014WANG48) | **21** | Canada | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 29, 25 |
-| [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | **21** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 32, 33 |
-| [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | **21** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 34, 34 |
-| [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **21** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 28, 37 |
-| [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) | **21** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 43, 40 |
+| [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | **24** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 24, 25, 26 |
+| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | **25** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 25, DNF, DNF |
+| [Peiyan Li (利沛焰)](https://www.worldcubeassociation.org/persons/2013LIPE01) | **25** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 35, 25, 31 |
+| [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **26** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 26, 31, 33 |
+| [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **27** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 32, DNF, 27 |
+| [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **29** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 32, 31, 29 |
+| [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **29** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 29, 36, 31 |
+| [Cole Campbell](https://www.worldcubeassociation.org/persons/2018CAMP15) | **29** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 38, 29, DNF |
+| [Cheng-Ru Yang](https://www.worldcubeassociation.org/persons/2015YANG23) | **29** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 29, 44, DNF |
+| [Ruohan Qiu (邱若寒)](https://www.worldcubeassociation.org/persons/2012QIUR01) | **29** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 31, 35, 29 |
 
 ### 3x3x3 Fewest Moves - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **21.00** | United States | [North Star Cubing Challenge 2020](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020) | 23, 18, 22 |
-| [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | **22.67** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 25, 20, 23 |
-| [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **22.67** | United States | [Blue Ridge Mountains 2020](https://www.worldcubeassociation.org/competitions/BlueRidgeMountains2020) | 23, 23, 22 |
-| [Mauro Moises López](https://www.worldcubeassociation.org/persons/2016LOPE44) | **23.67** | Spain | [Only FMC 2020](https://www.worldcubeassociation.org/competitions/OnlyFMC2020) | 25, 23, 23 |
-| [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **24.00** | Germany | [Berlin Winter Cubing 2020](https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2020) | 25, 24, 23 |
-| [Dylan Wang](https://www.worldcubeassociation.org/persons/2014WANG48) | **25.00** | Canada | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 29, 25 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **25.33** | Germany | [Berlin Winter Cubing 2020](https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2020) | 24, 26, 26 |
-| [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | **25.33** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 25, 30 |
-| [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) | **25.67** | Germany | [Berlin Winter Cubing 2020](https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2020) | 28, 24, 25 |
-| [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) | **25.67** | France | [Only FMC 2020](https://www.worldcubeassociation.org/competitions/OnlyFMC2020) | 26, 22, 29 |
+| [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | **25.00** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 24, 25, 26 |
+| [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **30.00** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 26, 31, 33 |
+| [Peiyan Li (利沛焰)](https://www.worldcubeassociation.org/persons/2013LIPE01) | **30.33** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 35, 25, 31 |
+| [Zhiyuan Ma (马之元)](https://www.worldcubeassociation.org/persons/2017MAZH04) | **30.33** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 30, 30, 31 |
+| [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **30.67** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 32, 31, 29 |
+| [Ruohan Qiu (邱若寒)](https://www.worldcubeassociation.org/persons/2012QIUR01) | **31.67** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 31, 35, 29 |
+| [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **32.00** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 29, 36, 31 |
+| [Yan Luo (骆彦)](https://www.worldcubeassociation.org/persons/2017LUOY05) | **35.33** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 44, 29, 33 |
+| [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) | **35.67** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 30, 38, 39 |
+| [Qihan Chen (陈启晗)](https://www.worldcubeassociation.org/persons/2019CHEQ05) | **35.67** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 35, 37, 35 |
 
 ### 3x3x3 One-Handed - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **7.40** | United States | [Canandaigua Winter 2020](https://www.worldcubeassociation.org/competitions/CanandaiguaWinter2020) | 11.42, 12.55, 7.40, 13.83, 9.97 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **7.72** | United States | [UCSD Winter 2020](https://www.worldcubeassociation.org/competitions/UCSDWinter2020) | 10.19, 12.23, 10.05, 10.88, 7.72 |
-| [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **8.62** | Poland | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | 12.64, 10.47, 8.62, 12.17, 10.95 |
-| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **8.64** | France | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) | 11.19, 10.75, 8.64, 11.43, 10.19 |
-| [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | **8.81** | United States | [Northern Neck Winter 2020](https://www.worldcubeassociation.org/competitions/NorthernNeckWinter2020) | 8.81, 14.02, 12.45, 10.50, 11.98 |
-| [Simon Kalhofer](https://www.worldcubeassociation.org/persons/2012KALH01) | **8.92** | Germany | [Frankfurt Cube Days 2020](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2020) | 12.91, 12.30, 10.37, 15.89, 8.92 |
-| [Pavel Yushkevich](https://www.worldcubeassociation.org/persons/2013YUSH01) | **8.94** | Belarus | [Black Pawn in Brest 2020](https://www.worldcubeassociation.org/competitions/BlackPawninBrest2020) | 12.57, 20.07, 14.08, 8.94, 13.79 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **9.00** | Denmark | [Basel Open 2020](https://www.worldcubeassociation.org/competitions/BaselOpen2020) | 14.61, 13.04, 15.05, 12.44, 9.00 |
-| [Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06) | **9.02** | Brazil | [Summer Kube Vila Velha 2020](https://www.worldcubeassociation.org/competitions/SummerKubeVilaVelha2020) | 13.34, 14.60, 9.02, 13.30, 11.05 |
-| [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) | **9.19** | France | [Rouen Open 2020](https://www.worldcubeassociation.org/competitions/RouenOpen2020) | 13.32, 14.79, 14.06, 14.62, 9.19 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **7.71** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 11.94, 12.01, 11.45, 9.61, 7.71 |
+| [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **8.18** | China | [Chengdu New Year Afternoon 2021](https://www.worldcubeassociation.org/competitions/ChengduNewYearAfternoon2021) | 10.92, 8.18, 11.38, 10.02, 10.54 |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **8.61** | China | [Beijing Spring PM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringPM2021) | 10.67, 12.50, 9.94, 9.20, 8.61 |
+| [Ruohan Qiu (邱若寒)](https://www.worldcubeassociation.org/persons/2012QIUR01) | **8.74** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 10.99, 15.29, 14.85, 8.74, 15.31 |
+| [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **8.79** | China | [Xi'an Cherry Blossom AM 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomAM2021) | 11.49, 10.38, 9.06, 12.63, 8.79 |
+| [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **8.87** | Australia | [Brisbane Is Back On 2021](https://www.worldcubeassociation.org/competitions/BrisbaneIsBackOn2021) | 12.17, 8.87, 16.47, 15.43, 12.97 |
+| [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | **9.09** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 13.70, 12.91, 12.81, 16.08, 9.09 |
+| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **9.20** | New Zealand | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 9.66, 11.70, 11.94, 9.84, 9.20 |
+| [Yiqun Lin (林逸群)](https://www.worldcubeassociation.org/persons/2014LINY02) | **9.31** | China | [Beijing Spring PM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringPM2021) | 12.61, 14.72, 9.31, 12.13, 12.05 |
+| [Vincent Wong](https://www.worldcubeassociation.org/persons/2014WONG08) | **9.37** | Australia | [Sydney Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/SydneyReOpenSaturday2021) | 9.44, 10.16, 11.93, 9.37, 11.58 |
 
 ### 3x3x3 One-Handed - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **9.73** | United States | [Slow N Steady Winter 2020](https://www.worldcubeassociation.org/competitions/SlowNSteadyWinter2020) | 9.10, 10.05, 9.36, 9.77, 11.62 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **9.75** | Australia | [Bendigo Cube Blitz 2020](https://www.worldcubeassociation.org/competitions/BendigoCubeBlitz2020) | 9.28, 9.73, 10.34, 9.43, 10.09 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **10.37** | United States | [UCSD Winter 2020](https://www.worldcubeassociation.org/competitions/UCSDWinter2020) | 10.19, 12.23, 10.05, 10.88, 7.72 |
-| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **10.71** | France | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) | 11.19, 10.75, 8.64, 11.43, 10.19 |
-| [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | **10.90** | Argentina | [UTN Bisiesto 2020](https://www.worldcubeassociation.org/competitions/UTNBisiesto2020) | 9.64, 10.86, 12.49, 9.63, 12.20 |
-| [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | **11.01** | Philippines | [Cebu Open 2020](https://www.worldcubeassociation.org/competitions/CebuOpen2020) | 14.41, 9.27, 10.30, 12.15, 10.58 |
-| [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | **11.06** | India | [Amrita Cube Open 2020](https://www.worldcubeassociation.org/competitions/AmritaCubeOpen2020) | 9.60, 12.10, 10.03, 11.05, 15.56 |
-| [Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06) | **11.07** | Brazil | [Summer Kube Vila Velha 2020](https://www.worldcubeassociation.org/competitions/SummerKubeVilaVelha2020) | 10.01, 11.64, 10.54, 11.39, 11.28 |
-| [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **11.20** | Poland | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | 12.64, 10.47, 8.62, 12.17, 10.95 |
-| [Zibo Xu (徐子博)](https://www.worldcubeassociation.org/persons/2014XUZI01) | **11.31** | China | [Jieyang Winter 2020](https://www.worldcubeassociation.org/competitions/JieyangWinter2020) | 11.81, 11.38, 12.15, 10.75, 9.40 |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **9.94** | China | [Beijing Spring PM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringPM2021) | 10.67, 12.50, 9.94, 9.20, 8.61 |
+| [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **10.31** | China | [Xi'an Cherry Blossom AM 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomAM2021) | 11.49, 10.38, 9.06, 12.63, 8.79 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **10.32** | Australia | [Sydney Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/SydneyReOpenSaturday2021) | 11.86, 9.91, 9.71, 11.33, 8.38 |
+| [Vincent Wong](https://www.worldcubeassociation.org/persons/2014WONG08) | **10.39** | Australia | [Sydney Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/SydneyReOpenSaturday2021) | 9.44, 10.16, 11.93, 9.37, 11.58 |
+| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **10.40** | New Zealand | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 9.66, 11.70, 11.94, 9.84, 9.20 |
+| [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **10.47** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 10.53, 10.57, 11.32, 10.30, 9.91 |
+| [Lei Liu (刘磊)](https://www.worldcubeassociation.org/persons/2018LIUL01) | **11.19** | China | [Kunshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/KunshanAfternoon2021) | 10.02, 12.00, 11.55, 13.57, 9.92 |
+| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **11.31** | Russia | [SPB Muffin Mini 2021](https://www.worldcubeassociation.org/competitions/SPBMuffinMini2021) | 12.45, 15.83, 10.00, 10.32, 11.15 |
+| [Yiqun Lin (林逸群)](https://www.worldcubeassociation.org/persons/2014LINY02) | **11.90** | China | [Beijing Spring PM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringPM2021) | 11.55, 11.84, 12.30, 11.21, 14.04 |
+| [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **12.12** | Australia | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 10.25, 13.49, 12.17, 12.47, 11.71 |
 
 ### Megaminx - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | **28.84** | Finland | [Helsinki Open 2020](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2020) | 30.63, 34.61, 37.20, 28.84, 35.79 |
-| [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | **33.13** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 42.19, 33.13, 42.61, 37.64, 36.57 |
-| [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | **33.22** | United States | [Skewbadelphia Winter 2020](https://www.worldcubeassociation.org/competitions/SkewbadelphiaWinter2020) | 38.18, 34.80, 33.22, 38.74, 35.19 |
-| [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | **33.37** | Peru | [A Romper Tu PB Lima 2020](https://www.worldcubeassociation.org/competitions/ARomperTuPBLima2020) | 34.12, 33.37, 34.14, 35.28, DNF |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **33.61** | Australia | [Auckland Summer Open 2020](https://www.worldcubeassociation.org/competitions/AucklandSummerOpen2020) | 37.51, 37.56, 43.84, 33.61, 41.51 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **34.44** | Poland | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020) | 47.28, 34.44, 41.33, 46.37, 38.47 |
-| [John Bacouël](https://www.worldcubeassociation.org/persons/2018BACO01) | **34.94** | France | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) | 37.12, 35.07, 34.94, 39.70, 36.61 |
-| [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | **35.68** | Argentina | [UTN Bisiesto 2020](https://www.worldcubeassociation.org/competitions/UTNBisiesto2020) | 35.68, 39.51, 36.66, 40.89, 42.16 |
-| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **35.68** | Poland | [Dragon Cubing 2020](https://www.worldcubeassociation.org/competitions/DragonCubing2020) | 39.12, 42.48, 43.21, 35.68, 39.59 |
-| [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) | **35.82** | India | [Oculus Cube Open 2020](https://www.worldcubeassociation.org/competitions/OculusCubeOpen2020) | 40.88, 40.01, 37.65, 35.82, 45.45 |
+| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **29.67** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 34.30, 34.50, 33.17, 33.88, 29.67 |
+| [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | **30.32** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 40.86, 39.67, DNF, 36.27, 30.32 |
+| [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | **30.89** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 30.89, 35.70, DNF, 32.45, 36.09 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **35.84** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 38.83, 41.68, 38.16, 37.11, 35.84 |
+| [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **36.12** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 50.72, 43.23, 40.37, 36.12, 39.95 |
+| [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **37.04** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | 37.04, 44.49, 44.67, 53.15, 39.77 |
+| [Shang Liu (刘尚)](https://www.worldcubeassociation.org/persons/2017LIUS01) | **37.44** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 39.35, 40.72, 49.72, 47.83, 37.44 |
+| [Jinxuan Ni (倪锦旋)](https://www.worldcubeassociation.org/persons/2019NIJI01) | **38.57** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 48.27, 38.57, 49.09, 48.16, 49.68 |
+| [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | **39.07** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 43.97, 41.59, 39.07, 48.56, 47.56 |
+| [Zejun Chen (陈泽鋆)](https://www.worldcubeassociation.org/persons/2018CHEZ21) | **39.08** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 43.01, 53.25, 39.08, 47.80, 44.37 |
 
 ### Megaminx - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | **32.48** | Finland | [Minx C-Open-hagen 2020](https://www.worldcubeassociation.org/competitions/MinxCOpenhagen2020) | 31.53, 32.84, 36.09, 30.84, 33.06 |
-| [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | **34.51** | Peru | [A Romper Tu PB Lima 2020](https://www.worldcubeassociation.org/competitions/ARomperTuPBLima2020) | 34.12, 33.37, 34.14, 35.28, DNF |
-| [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | **36.06** | United States | [Skewbadelphia Winter 2020](https://www.worldcubeassociation.org/competitions/SkewbadelphiaWinter2020) | 38.18, 34.80, 33.22, 38.74, 35.19 |
-| [John Bacouël](https://www.worldcubeassociation.org/persons/2018BACO01) | **36.27** | France | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) | 37.12, 35.07, 34.94, 39.70, 36.61 |
-| [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | **36.32** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 39.19, 47.92, 34.20, 34.24, 35.52 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **37.55** | Australia | [Auckland Summer Open 2020](https://www.worldcubeassociation.org/competitions/AucklandSummerOpen2020) | 38.77, 36.97, 36.92, 40.62, 34.77 |
-| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **38.18** | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | 37.19, 36.90, 36.79, 40.44, 43.91 |
-| [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | **39.02** | Argentina | [UTN Bisiesto 2020](https://www.worldcubeassociation.org/competitions/UTNBisiesto2020) | 35.68, 39.51, 36.66, 40.89, 42.16 |
-| [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) | **39.51** | India | [Oculus Cube Open 2020](https://www.worldcubeassociation.org/competitions/OculusCubeOpen2020) | 40.88, 40.01, 37.65, 35.82, 45.45 |
-| [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **40.15** | United Kingdom | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) | 38.73, 39.19, 40.66, 44.18, 40.59 |
+| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **33.78** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 34.30, 34.50, 33.17, 33.88, 29.67 |
+| [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | **34.45** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 35.51, 34.32, 31.91, 41.49, 33.51 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **38.03** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 38.83, 41.68, 38.16, 37.11, 35.84 |
+| [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | **38.65** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 44.50, 32.98, 36.69, 39.64, 39.62 |
+| [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **41.18** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 50.72, 43.23, 40.37, 36.12, 39.95 |
+| [Shang Liu (刘尚)](https://www.worldcubeassociation.org/persons/2017LIUS01) | **41.61** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 44.57, 39.20, 46.47, 39.12, 41.06 |
+| [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **42.98** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | 37.04, 44.49, 44.67, 53.15, 39.77 |
+| [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | **43.46** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 46.05, 42.42, 43.19, 44.77, 41.82 |
+| [Zejun Chen (陈泽鋆)](https://www.worldcubeassociation.org/persons/2018CHEZ21) | **43.58** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 39.95, 42.90, 47.88, 48.86, 39.34 |
+| [Chenxiao He (何辰骁)](https://www.worldcubeassociation.org/persons/2015HECH02) | **44.54** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 42.85, 44.56, 45.55, 43.50, 46.03 |
 
 ### Pyraminx - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **1.10** | Poland | [MLS Warszawa 2020](https://www.worldcubeassociation.org/competitions/MLSWarszawa2020) | 3.69, 3.33, 2.18, 3.04, 1.10 |
-| [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | **1.14** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 2.08, 6.97, 1.14, 3.35, 2.29 |
-| [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **1.21** | Denmark | [Lonely Denmark 2020](https://www.worldcubeassociation.org/competitions/LonelyDenmark2020) | 2.76, 6.09, 4.18, 3.98, 1.21 |
-| [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | **1.27** | Poland | [MLS Warszawa 2020](https://www.worldcubeassociation.org/competitions/MLSWarszawa2020) | 3.73, 6.04, 2.78, 3.15, 1.27 |
-| [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **1.30** | Poland | [MLS Warszawa 2020](https://www.worldcubeassociation.org/competitions/MLSWarszawa2020) | 3.28, 2.97, 2.15, 2.18, 1.30 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1.30** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 1.30, 2.75, 2.92, 1.56, 2.05 |
-| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **1.33** | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | 2.10, 1.33, 3.77, 6.93, 4.54 |
-| [John Hornacek](https://www.worldcubeassociation.org/persons/2018HORN05) | **1.33** | United States | [Minnesota Cube Days 2020](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDays2020) | 4.00, 1.33, 6.90, 8.52, 4.22 |
-| [Theo Iván Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | **1.40** | Argentina | [Hernando Summer 2020](https://www.worldcubeassociation.org/competitions/HernandoSummer2020) | 7.73, 4.29, 1.40, 5.47, 6.16 |
-| [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | **1.43** | Russia | [Volga Nizhny Novgorod 2020](https://www.worldcubeassociation.org/competitions/VolgaNizhnyNovgorod2020) | 3.11, 2.45, 1.43, 1.98, 3.01 |
+| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **1.22** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 6.42, 1.72, 1.22, 4.59, 5.81 |
+| [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **1.40** | Australia | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 5.12, 3.28, 2.55, 3.00, 1.40 |
+| [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | **1.50** | China | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 2.26, 3.11, 2.81, 1.69, 1.50 |
+| [Kaiden Ziegler](https://www.worldcubeassociation.org/persons/2018ZIEG02) | **1.51** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 5.25, 3.03, 1.51, 4.49, DNF |
+| [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **1.67** | China | [Beijing Spring AM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringAM2021) | 2.59, DNF, 3.24, 3.46, 1.67 |
+| [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | **1.68** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1.68, 1.79, 4.43, 4.35, 3.02 |
+| [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **1.74** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1.74, 3.81, 4.64, 4.74, 2.64 |
+| [Yinuo Zhao (赵伊诺)](https://www.worldcubeassociation.org/persons/2017ZHAO10) | **1.79** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | 4.48, 4.63, 3.38, 1.79, 2.29 |
+| [Zhenyu Wang (王振宇)](https://www.worldcubeassociation.org/persons/2018WANG40) | **1.82** | China | [Jieyang Good Morning 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodMorning2021) | 2.86, DNF, 3.62, 1.82, 2.96 |
+| [Yilin Miao (苗宜琳)](https://www.worldcubeassociation.org/persons/2015MIAO02) | **1.82** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | 1.82, 3.54, 3.19, 3.12, 3.07 |
 
 ### Pyraminx - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | **1.88** | United States | [Garrettsville G-Men Classic 2020](https://www.worldcubeassociation.org/competitions/GarrettsvilleGMenClassic2020) | 1.76, 1.86, 2.01, 1.68, 4.42 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **2.12** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 1.30, 2.75, 2.92, 1.56, 2.05 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **2.14** | United States | [Copper Country Winter 2020](https://www.worldcubeassociation.org/competitions/CopperCountryWinter2020) | 1.56, 2.16, 1.75, 2.52, 2.70 |
-| [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) | **2.15** | Sweden | [Popular 'n Blind Flen 2020](https://www.worldcubeassociation.org/competitions/PopularnBlindFlen2020) | 2.26, 1.52, 2.17, 2.47, 2.03 |
-| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **2.22** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 2.35, 2.24, 2.08, 1.77, 3.47 |
-| [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | **2.27** | France | [Swisscubing Cup IV 2020](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2020) | 3.43, 1.77, 3.30, 1.64, 1.74 |
-| [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | **2.36** | Republic of Korea | [Princeton Winter 2020](https://www.worldcubeassociation.org/competitions/PrincetonWinter2020) | 2.43, 2.35, 2.29, 3.35, 2.19 |
-| [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **2.36** | Poland | [MLS Warszawa 2020](https://www.worldcubeassociation.org/competitions/MLSWarszawa2020) | 2.27, 2.16, 2.66, 1.63, 2.87 |
-| [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | **2.40** | Russia | [CCC Qualification Kazan 2020](https://www.worldcubeassociation.org/competitions/CCCQualificationKazan2020) | 3.51, 2.35, 2.03, 2.81, 1.90 |
-| [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | **2.40** | United States | [Olde Town Parker 2020](https://www.worldcubeassociation.org/competitions/OldeTownParker2020) | 2.99, 2.06, 2.14, 3.84, 2.01 |
+| [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | **2.25** | China | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 2.26, 3.11, 2.81, 1.69, 1.50 |
+| [Xuyang Chen (陈徐洋)](https://www.worldcubeassociation.org/persons/2019CHEN43) | **2.25** | China | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021) | 2.17, 4.41, 1.94, 2.64, 1.92 |
+| [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **2.28** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1.84, 3.07, 1.70, 5.00, 1.92 |
+| [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **2.37** | New Zealand | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 3.15, 2.36, 2.14, 2.07, 2.62 |
+| [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | **2.38** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 2.92, 2.14, 4.17, 1.86, 2.07 |
+| [Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | **2.47** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 2.42, 3.05, 2.36, 2.04, 2.62 |
+| [Wenrui Qian (钱文睿)](https://www.worldcubeassociation.org/persons/2017QIAN08) | **2.49** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 2.18, 2.56, 5.97, 2.47, 2.45 |
+| [Yilin Miao (苗宜琳)](https://www.worldcubeassociation.org/persons/2015MIAO02) | **2.59** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | 3.10, 2.09, 3.10, 2.18, 2.49 |
+| [Fanyang Zeng (曾凡洋)](https://www.worldcubeassociation.org/persons/2017ZENG04) | **2.62** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | 2.49, 2.32, 2.78, 2.58, 3.17 |
+| [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | **2.62** | New Zealand | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 2.76, 3.49, 2.31, 2.15, 2.78 |
 
 ### Rubik's Clock - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | **3.96** | Russia | [Volga Nizhny Novgorod 2020](https://www.worldcubeassociation.org/competitions/VolgaNizhnyNovgorod2020) | 6.92, 3.96, 7.15, 5.00, 6.72 |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **4.38** | United States | [Constitution State Winter 2020](https://www.worldcubeassociation.org/competitions/ConstitutionStateWinter2020) | 5.77, 6.61, 4.62, 6.09, 4.38 |
-| [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **4.41** | United Kingdom | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) | 6.51, 5.70, 6.84, 6.36, 4.41 |
-| [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | **4.42** | United States | [Blue Ridge Mountains 2020](https://www.worldcubeassociation.org/competitions/BlueRidgeMountains2020) | 6.43, 4.79, 4.42, 7.03, 5.10 |
-| [Maxim Brednev (Максим Бреднев)](https://www.worldcubeassociation.org/persons/2018BRED02) | **4.45** | Russia | [Siberia Open 2020](https://www.worldcubeassociation.org/competitions/SiberiaOpen2020) | 5.57, 6.64, 7.20, 4.45, 4.64 |
-| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **4.53** | United States | [Charlotte Winter 2020](https://www.worldcubeassociation.org/competitions/CharlotteWinter2020) | 6.73, 4.53, 4.74, 5.59, DNF |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **4.61** | United States | [Michigan Cubing Club Alpha 2020](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2020) | 4.61, 6.79, 5.52, 5.66, 5.52 |
-| [Lucas Nieuwland](https://www.worldcubeassociation.org/persons/2018NIEU01) | **4.71** | Canada | [Canandaigua Winter 2020](https://www.worldcubeassociation.org/competitions/CanandaiguaWinter2020) | DNF, 6.23, 6.39, 6.84, 4.71 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **4.75** | Poland | [BrizZon Poznań Side Open 2020](https://www.worldcubeassociation.org/competitions/BrizZonPoznanSideOpen2020) | 5.13, 7.64, 6.49, 4.75, 7.10 |
-| [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) | **4.81** | United States | [Cubing Peoria 2020](https://www.worldcubeassociation.org/competitions/CubingPeoria2020) | 6.24, DNF, 4.81, 7.37, 5.36 |
+| [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | **2.87** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 4.67, 4.04, 6.06, 2.87, 4.47 |
+| [Oliver Hoy](https://www.worldcubeassociation.org/persons/2019HOYO02) | **4.39** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 5.31, 4.39, 7.02, 4.94, 5.06 |
+| [Nachuan Sun (孙纳川)](https://www.worldcubeassociation.org/persons/2017SUNN02) | **4.75** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 4.75, 5.84, 5.40, 6.06, 5.54 |
+| [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) | **4.90** | New Zealand | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 5.47, 6.32, 7.29, 8.18, 4.90 |
+| [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) | **5.14** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 5.92, 10.15, 7.33, 7.69, 5.14 |
+| [Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | **5.31** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 5.31, 5.39, 7.35, 7.30, 11.07 |
+| [Qiyu Hou (侯启予)](https://www.worldcubeassociation.org/persons/2015HOUQ01) | **5.36** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 7.19, DNF, 7.48, 5.36, 6.54 |
+| [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) | **5.37** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 5.37, 6.56, 8.17, 8.54, DNF |
+| [Dongzhe Li (李东哲)](https://www.worldcubeassociation.org/persons/2014LIDO01) | **5.38** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 6.08, DNF, 5.98, 5.70, 5.38 |
+| [Siheng Chen (陈思衡)](https://www.worldcubeassociation.org/persons/2021CHEN15) | **5.46** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | DNF, 5.99, 8.32, 6.20, 5.46 |
 
 ### Rubik's Clock - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | **5.37** | United States | [Blue Ridge Mountains 2020](https://www.worldcubeassociation.org/competitions/BlueRidgeMountains2020) | 5.14, 5.50, 5.48, 6.13, 4.99 |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **5.49** | United States | [Constitution State Winter 2020](https://www.worldcubeassociation.org/competitions/ConstitutionStateWinter2020) | 5.77, 6.61, 4.62, 6.09, 4.38 |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **5.57** | United States | [Michigan Cubing Club Alpha 2020](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2020) | 4.61, 6.79, 5.52, 5.66, 5.52 |
-| [Maxim Brednev (Максим Бреднев)](https://www.worldcubeassociation.org/persons/2018BRED02) | **5.62** | Russia | [Siberia Open 2020](https://www.worldcubeassociation.org/competitions/SiberiaOpen2020) | 5.57, 6.64, 7.20, 4.45, 4.64 |
-| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **5.69** | United States | [Charlotte Winter 2020](https://www.worldcubeassociation.org/competitions/CharlotteWinter2020) | 6.73, 4.53, 4.74, 5.59, DNF |
-| [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **5.92** | United States | [Cubing Peoria 2020](https://www.worldcubeassociation.org/competitions/CubingPeoria2020) | 5.12, 6.55, DNF, 5.19, 6.02 |
-| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **6.04** | Poland | [Dragon Cubing 2020](https://www.worldcubeassociation.org/competitions/DragonCubing2020) | 4.84, 6.51, DNF, 6.62, 5.00 |
-| [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **6.05** | United Kingdom | [Don't DNF Dublin 2020](https://www.worldcubeassociation.org/competitions/DontDNFDublin2020) | 6.83, 6.45, 6.02, 5.68, 5.33 |
-| [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) | **6.14** | United States | [Cubing Peoria 2020](https://www.worldcubeassociation.org/competitions/CubingPeoria2020) | 5.99, 6.16, 6.00, 6.26, 7.77 |
-| [Ryan Pin Harry](https://www.worldcubeassociation.org/persons/2015HARR01) | **6.19** | Mauritius | [Canandaigua Winter 2020](https://www.worldcubeassociation.org/competitions/CanandaiguaWinter2020) | 5.37, 6.09, 5.96, 7.97, 6.52 |
+| [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | **4.39** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 4.67, 4.04, 6.06, 2.87, 4.47 |
+| [Oliver Hoy](https://www.worldcubeassociation.org/persons/2019HOYO02) | **5.10** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 5.31, 4.39, 7.02, 4.94, 5.06 |
+| [Nachuan Sun (孙纳川)](https://www.worldcubeassociation.org/persons/2017SUNN02) | **5.59** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 4.75, 5.84, 5.40, 6.06, 5.54 |
+| [Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | **5.85** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 5.54, 5.67, 6.21, 5.66, 6.38 |
+| [Dongzhe Li (李东哲)](https://www.worldcubeassociation.org/persons/2014LIDO01) | **5.92** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 6.08, DNF, 5.98, 5.70, 5.38 |
+| [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) | **6.36** | New Zealand | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 5.47, 6.32, 7.29, 8.18, 4.90 |
+| [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) | **6.41** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 6.16, 8.29, 5.89, 5.49, 7.19 |
+| [Yueyang Hu (胡越洋)](https://www.worldcubeassociation.org/persons/2021HUYU01) | **6.51** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | DNF, 6.15, 7.16, 6.18, 6.20 |
+| [Siheng Chen (陈思衡)](https://www.worldcubeassociation.org/persons/2021CHEN15) | **6.56** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 5.96, 6.93, 8.38, 6.56, 6.20 |
+| [Ziyue Chen (陈子悦)](https://www.worldcubeassociation.org/persons/2017CHEZ05) | **6.69** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | 6.72, 6.97, 6.36, 6.45, 6.89 |
 
 ### Skewb - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.02** | United States | [Minnesota Cube Days 2020](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDays2020) | 1.02, 3.71, 7.28, 4.24, 3.17 |
-| [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **1.44** | United States | [Constitution State Winter 2020](https://www.worldcubeassociation.org/competitions/ConstitutionStateWinter2020) | 2.20, 3.54, 1.85, 1.44, 3.26 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **1.55** | Denmark | [Hvidovre Sommerhygge 2020](https://www.worldcubeassociation.org/competitions/HvidovreSommerhygge2020) | 3.44, 3.33, 6.31, 1.55, 3.53 |
-| [Mikhail Glazov (Михаил Глазов)](https://www.worldcubeassociation.org/persons/2018GLAZ03) | **1.57** | Russia | [Izhevsk Winter Cube 2020](https://www.worldcubeassociation.org/competitions/IzhevskWinterCube2020) | 3.65, 3.85, 1.57, 5.29, 3.40 |
-| [Maxence Baudry](https://www.worldcubeassociation.org/persons/2014BAUD02) | **1.58** | France | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) | 3.10, 1.58, 3.28, 3.59, 2.87 |
-| [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | **1.59** | Finland | [Helsinki Open 2020](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2020) | 4.28, 2.92, 4.47, 1.59, 3.64 |
-| [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | **1.60** | China | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 1.60, 3.08, 3.13, DNF, 4.33 |
-| [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | **1.63** | Sweden | [Popular 'n Blind Flen 2020](https://www.worldcubeassociation.org/competitions/PopularnBlindFlen2020) | 3.21, 1.63, 2.71, 6.41, 3.49 |
-| [Federico Da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) | **1.66** | Argentina | [Hernando Summer 2020](https://www.worldcubeassociation.org/competitions/HernandoSummer2020) | 3.98, 2.59, 3.80, 3.66, 1.66 |
-| [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) | **1.68** | Netherlands | [Star Cubing Nijmegen 2020](https://www.worldcubeassociation.org/competitions/StarCubingNijmegen2020) | 2.14, 2.39, 4.70, 1.68, 4.13 |
+| [Yifan Chen (陈一凡)](https://www.worldcubeassociation.org/persons/2019CHEY46) | **1.49** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 6.42, 7.31, 5.88, 1.49, 6.56 |
+| [Benjamin Warry](https://www.worldcubeassociation.org/persons/2017WARR04) | **1.63** | Australia | [Brisbane Is Back On 2021](https://www.worldcubeassociation.org/competitions/BrisbaneIsBackOn2021) | 5.13, 7.74, 4.51, 1.63, 4.32 |
+| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **1.69** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 1.69, 3.53, 3.91, 2.71, 5.75 |
+| [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | **1.78** | China | [Nanchang Good Morning 2021](https://www.worldcubeassociation.org/competitions/NanchangGoodMorning2021) | 2.85, 1.78, 4.94, 2.52, 2.07 |
+| [Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | **1.84** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 2.60, 2.39, 4.58, 1.84, 2.00 |
+| [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **1.87** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 4.11, 1.87, 3.68, 4.07, 4.97 |
+| [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **1.94** | New Zealand | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 5.16, 5.39, 6.47, 4.22, 1.94 |
+| [Isaac Latta](https://www.worldcubeassociation.org/persons/2017LATT01) | **1.96** | New Zealand | [Twisty Taranaki 2021](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2021) | 3.68, 8.53, 3.88, 8.08, 1.96 |
+| [Mingze Yang (杨明泽)](https://www.worldcubeassociation.org/persons/2018YANG76) | **1.96** | China | [Beijing Spring PM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringPM2021) | 1.96, 3.49, 3.61, 3.72, 3.74 |
+| [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | **1.99** | Australia | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 1.99, 5.87, 3.43, 2.37, 3.78 |
 
 ### Skewb - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **2.38** | United States | [Minnesota Cube Days 2020](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDays2020) | 2.44, 3.52, 2.15, 2.47, 2.22 |
-| [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **2.44** | United States | [Constitution State Winter 2020](https://www.worldcubeassociation.org/competitions/ConstitutionStateWinter2020) | 2.20, 3.54, 1.85, 1.44, 3.26 |
-| [Marcus Moberg](https://www.worldcubeassociation.org/persons/2016MOBE01) | **2.55** | Sweden | [Södertälje New Year 2020](https://www.worldcubeassociation.org/competitions/SodertaljeNewYear2020) | 5.52, 1.99, 2.15, 2.41, 3.08 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **2.57** | United States | [Minnesota Cube Days 2020](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDays2020) | 2.05, 2.79, 2.52, 3.05, 2.40 |
-| [Elias Malomgré](https://www.worldcubeassociation.org/persons/2017MALO02) | **2.65** | Belgium | [Star Cubing Nijmegen 2020](https://www.worldcubeassociation.org/competitions/StarCubingNijmegen2020) | 2.52, 2.51, 3.29, 1.77, 2.93 |
-| [Maxence Baudry](https://www.worldcubeassociation.org/persons/2014BAUD02) | **2.74** | France | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) | 1.91, 2.84, 2.31, 5.24, 3.08 |
-| [Conor Sullivan](https://www.worldcubeassociation.org/persons/2018SULL05) | **2.76** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 2.63, 3.04, 1.76, 2.81, 2.83 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **2.79** | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | 2.92, 2.49, 5.32, 2.44, 2.95 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **2.81** | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | 2.86, 2.56, 3.27, 2.59, 2.98 |
-| [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | **2.83** | France | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) | 2.76, 1.86, 2.89, 2.83, 5.26 |
+| [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | **2.32** | China | [Chengdu New Year Afternoon 2021](https://www.worldcubeassociation.org/competitions/ChengduNewYearAfternoon2021) | 2.33, 2.50, 2.12, DNF, 1.81 |
+| [Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | **2.33** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 2.60, 2.39, 4.58, 1.84, 2.00 |
+| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **2.54** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 2.68, 2.29, 2.87, 2.63, 2.30 |
+| [Yihao Zhao (赵羿皓)](https://www.worldcubeassociation.org/persons/2012ZHAO05) | **2.67** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | 2.20, 2.94, 4.08, 2.74, 2.34 |
+| [Shangtong Fu (傅上桐)](https://www.worldcubeassociation.org/persons/2017FUSH01) | **2.76** | China | [Guangzhou Panyu Afternoon 2021](https://www.worldcubeassociation.org/competitions/GuangzhouPanyuAfternoon2021) | 3.02, 2.15, 2.37, 2.88, 3.98 |
+| [Zongyang Li (李宗阳)](https://www.worldcubeassociation.org/persons/2013LIZO01) | **2.80** | China | [Beijing Spring PM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringPM2021) | 2.20, 5.01, 2.92, 3.12, 2.35 |
+| [Dylan Johnston](https://www.worldcubeassociation.org/persons/2018JOHN34) | **2.83** | Australia | [Sydney Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/SydneyReOpenSaturday2021) | 3.48, 3.84, 2.70, 2.29, 2.32 |
+| [Mingze Yang (杨明泽)](https://www.worldcubeassociation.org/persons/2018YANG76) | **2.85** | China | [Beijing Spring PM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringPM2021) | 2.17, 3.61, 3.46, 2.92, 2.04 |
+| [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | **2.92** | Australia | [York Cube Day 2021](https://www.worldcubeassociation.org/competitions/YorkCubeDay2021) | 3.72, 2.84, 3.22, 2.70, 2.60 |
+| [Qi Zhou (周祺)](https://www.worldcubeassociation.org/persons/2015ZHOU07) | **2.95** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 2.72, 3.99, 3.34, 2.43, 2.79 |
 
 ### Square-1 - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **4.59** | Denmark | [Danish Championship 2020](https://www.worldcubeassociation.org/competitions/DanishChampionship2020) | 7.98, 4.59, 9.12, 9.77, 9.46 |
-| [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | **5.11** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 12.64, 7.58, 10.68, 7.52, 5.11 |
-| [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | **5.64** | United States | [UBC Open 2020](https://www.worldcubeassociation.org/competitions/UBCOpen2020) | 8.65, 8.16, 10.85, 5.64, 9.52 |
-| [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **5.69** | Denmark | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | 9.28, 5.69, 6.77, 6.10, 7.15 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **5.82** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 8.66, 9.20, 7.53, 12.49, 5.82 |
-| [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | **5.85** | United States | [Michigan Cubing Club Alpha 2020](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2020) | 5.85, 7.42, 9.15, 9.46, 11.20 |
-| [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | **5.85** | Sweden | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | 7.53, 5.85, 9.57, 6.63, 7.46 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **5.86** | Poland | [MLS Warszawa 2020](https://www.worldcubeassociation.org/competitions/MLSWarszawa2020) | 6.16, 5.86, 9.03, 8.14, 7.33 |
-| [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **6.08** | United States | [Oregon State Leap Day 2020](https://www.worldcubeassociation.org/competitions/OregonStateLeapDay2020) | 13.26, 12.20, 8.78, 6.08, 12.30 |
-| [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | **6.18** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 11.35, 10.95, 7.62, 6.18, 8.27 |
+| [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | **5.24** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 6.81, 7.68, 7.69, 7.95, 5.24 |
+| [Zhibo Xuan (禤志博)](https://www.worldcubeassociation.org/persons/2017XUAN01) | **5.86** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 10.22, 8.29, 5.86, 9.41, DNF |
+| [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **6.29** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 8.88, 9.31, 10.72, 6.29, 7.40 |
+| [Wang Ma (马旺)](https://www.worldcubeassociation.org/persons/2016MAWA01) | **6.54** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 6.94, 7.16, 6.54, 7.87, 9.92 |
+| [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) | **6.73** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 8.32, 15.01, 8.08, 6.73, 9.52 |
+| [Xuechao Zhang (张学超)](https://www.worldcubeassociation.org/persons/2017ZHAX02) | **6.75** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 7.29, 6.75, 8.72, 9.03, 7.64 |
+| [Zhenyu Wang (王振宇)](https://www.worldcubeassociation.org/persons/2018WANG40) | **7.25** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 12.04, 10.44, 7.25, 12.30, 12.59 |
+| [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | **7.35** | Australia | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 7.99, 12.54, 12.18, 11.34, 7.35 |
+| [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **7.59** | Australia | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 7.59, 15.03, 8.34, 10.51, 12.22 |
+| [An Li (李安)](https://www.worldcubeassociation.org/persons/2018LIAN23) | **7.71** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 8.86, 7.71, 11.97, 11.22, 9.79 |
 
 ### Square-1 - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **6.67** | Denmark | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | 9.28, 5.69, 6.77, 6.10, 7.15 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **6.74** | Poland | [Dragon Cubing 2020](https://www.worldcubeassociation.org/competitions/DragonCubing2020) | 7.63, 6.22, 6.15, 6.36, 8.50 |
-| [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | **7.10** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 6.61, 7.60, 9.82, 6.60, 7.08 |
-| [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | **7.20** | United States | [Oregon State Leap Day 2020](https://www.worldcubeassociation.org/competitions/OregonStateLeapDay2020) | 7.60, 7.27, 8.37, 5.75, 6.74 |
-| [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | **7.21** | Sweden | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | 7.53, 5.85, 9.57, 6.63, 7.46 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **7.37** | United States | [UBC Open 2020](https://www.worldcubeassociation.org/competitions/UBCOpen2020) | 7.22, 7.01, 7.87, 6.48, 8.44 |
-| [Jackey Zheng](https://www.worldcubeassociation.org/persons/2017ZHEN10) | **7.60** | United States | [Country Roads Martinsburg 2020](https://www.worldcubeassociation.org/competitions/CountryRoadsMartinsburg2020) | 11.29, 7.32, 7.88, 7.59, 6.99 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **7.71** | Denmark | [DSF Generalforsamlingen 2020](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2020) | 7.00, 7.09, 10.63, 8.45, 7.58 |
-| [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | **7.93** | United States | [Babylon Winter 2020](https://www.worldcubeassociation.org/competitions/BabylonWinter2020) | 7.88, 11.88, 9.23, 6.67, 6.39 |
-| [Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04) | **7.95** | United States | [SacCubing IX 2020](https://www.worldcubeassociation.org/competitions/SacCubingIX2020) | 8.43, 7.97, 7.46, 7.34, 9.35 |
+| [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | **6.34** | Australia | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 11.79, 6.69, 5.40, 6.56, 5.77 |
+| [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **7.15** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 8.08, 7.44, 6.57, 7.20, 6.80 |
+| [Wang Ma (马旺)](https://www.worldcubeassociation.org/persons/2016MAWA01) | **7.32** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 6.94, 7.16, 6.54, 7.87, 9.92 |
+| [Xuechao Zhang (张学超)](https://www.worldcubeassociation.org/persons/2017ZHAX02) | **7.88** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 7.29, 6.75, 8.72, 9.03, 7.64 |
+| [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) | **8.44** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 8.85, 8.49, 10.27, 7.87, 7.97 |
+| [Zhenyu Wang (王振宇)](https://www.worldcubeassociation.org/persons/2018WANG40) | **8.60** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | 8.55, 8.46, 8.61, 8.65, 14.15 |
+| [An Li (李安)](https://www.worldcubeassociation.org/persons/2018LIAN23) | **9.11** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 8.52, 8.19, 10.16, 10.43, 8.65 |
+| [Zhibo Xuan (禤志博)](https://www.worldcubeassociation.org/persons/2017XUAN01) | **9.31** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 10.22, 8.29, 5.86, 9.41, DNF |
+| [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | **9.78** | Australia | [Pinjarra Puzzle Party 2021](https://www.worldcubeassociation.org/competitions/PinjarraPuzzleParty2021) | 10.11, 9.12, 10.12, 8.90, 10.84 |
+| [Sora Sato](https://www.worldcubeassociation.org/persons/2018SATO01) | **9.88** | Australia | [Sydney Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/SydneyReOpenSunday2021) | 8.37, 13.27, 8.23, 11.07, 10.19 |
 
 ### 4x4x4 Blindfolded - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **1:08.46** | United States | [Princeton Winter 2020](https://www.worldcubeassociation.org/competitions/PrincetonWinter2020) | 1:08.46, 1:09.78, DNF |
-| [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **1:53.99** | United States | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020) | 1:53.99, DNF, DNF |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **2:09.18** | Denmark | [Danish Championship 2020](https://www.worldcubeassociation.org/competitions/DanishChampionship2020) | 2:21.14, 2:09.18, 4:06.20 |
-| [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) | **2:09.23** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | DNF, 4:34.12, 2:09.23 |
-| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **2:21.47** | Poland | [Kiev Super Blind 2020](https://www.worldcubeassociation.org/competitions/KievSuperBlind2020) | 2:29.73, 2:21.47, DNF |
-| [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | **2:21.96** | Brazil | [Tchê Aquieta 2020](https://www.worldcubeassociation.org/competitions/TcheAquieta2020) | 3:14.09, DNF, 2:21.96 |
-| [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **2:37.03** | Denmark | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | 2:37.03, DNF, DNF |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **2:38.07** | Poland | [Kiev Super Blind 2020](https://www.worldcubeassociation.org/competitions/KievSuperBlind2020) | 3:11.15, 2:54.50, 2:38.07 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **2:38.53** | Sweden | [Side 'n Blind Forserum 2020](https://www.worldcubeassociation.org/competitions/SidenBlindForserum2020) | DNF, 2:38.53, 2:42.67 |
-| [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | **2:57.63** | United Kingdom | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) | 2:57.63, DNF, DNF |
+| [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **1:19.07** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1:19.22, 1:19.07, 1:21.94 |
+| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | **2:02.85** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 2:02.85, 3:16.09, DNF |
+| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **2:31.33** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | DNF, 2:31.33, DNF |
+| [Haijun Tan (谭海俊)](https://www.worldcubeassociation.org/persons/2011TANH01) | **3:12.22** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | DNF, 3:22.99, 3:12.22 |
+| [Wenxuan Yue (岳文轩)](https://www.worldcubeassociation.org/persons/2015YUEW01) | **3:38.36** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | DNF, DNF, 3:38.36 |
+| [Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21) | **3:45.59** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 4:33.56, 3:45.59, 4:02.59 |
+| [Haozhen Ding (丁昊桢)](https://www.worldcubeassociation.org/persons/2019DING22) | **3:56.97** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | DNF, 3:56.97, DNF |
+| [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) | **4:18.06** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 4:18.06, DNF, DNF |
+| [Xin Shi (石欣)](https://www.worldcubeassociation.org/persons/2010SHIX01) | **4:46.79** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | DNF, 4:46.79, DNF |
+| [Ethan Pan](https://www.worldcubeassociation.org/persons/2015PANE01) | **5:08.60** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 5:08.60, DNF, DNF |
 
 ### 4x4x4 Blindfolded - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **2:20.16** | United States | [North Star Cubing Challenge 2020](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020) | 2:06.49, 2:30.17, 2:23.82 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **2:52.17** | Denmark | [Danish Championship 2020](https://www.worldcubeassociation.org/competitions/DanishChampionship2020) | 2:21.14, 2:09.18, 4:06.20 |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **2:54.57** | Poland | [Kiev Super Blind 2020](https://www.worldcubeassociation.org/competitions/KievSuperBlind2020) | 3:11.15, 2:54.50, 2:38.07 |
-| [Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01) | **3:36.42** | India | [Mémorial François Courtès 2020](https://www.worldcubeassociation.org/competitions/MemorialFrancoisCourtes2020) | 3:19.30, 4:28.62, 3:01.35 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **3:39.25** | Sweden | [Welcome Back Jönköping 2020](https://www.worldcubeassociation.org/competitions/WelcomeBackJonkoping2020) | 2:44.97, 5:00.09, 3:12.70 |
-| [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) | **3:58.82** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 3:51.36, 4:09.48, 3:55.63 |
-| [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | **4:07.76** | United States | [Oregon State Leap Day 2020](https://www.worldcubeassociation.org/competitions/OregonStateLeapDay2020) | 4:19.69, 3:57.20, 4:06.40 |
-| [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) | **4:16.42** | India | [CMI Tessellate Cube Open 2020](https://www.worldcubeassociation.org/competitions/CMITessellateCubeOpen2020) | 3:33.52, 4:25.44, 4:50.29 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **4:26.93** | United States | [North Star Cubing Challenge 2020](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020) | 4:53.03, 3:51.49, 4:36.28 |
-| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **4:36.55** | China | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) | 3:52.91, 4:39.14, 5:17.61 |
+| [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **1:20.08** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1:19.22, 1:19.07, 1:21.94 |
+| [Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21) | **4:07.25** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 4:33.56, 3:45.59, 4:02.59 |
+| [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | **13:02.00** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 17:35.00, 12:30.00, 9:01.02 |
+| [David Pearce](https://www.worldcubeassociation.org/persons/2015PEAR02) | **15:26.00** | Australia | [Please Be Quiet Brisbane 2021](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2021) | 13:33.00, 17:51.00, 14:55.00 |
+| [Ming Dao Ting](https://www.worldcubeassociation.org/persons/2018TING05) | **18:39.00** | Australia | [Please Be Quiet Brisbane 2021](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2021) | 19:00.00, 16:29.00, 20:29.00 |
 
 ### 5x5x5 Blindfolded - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **4:44.59** | United States | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020) | DNF, DNF, 4:44.59 |
-| [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **5:32.00** | United States | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020) | DNF, 5:32.00, DNF |
-| [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **6:40.77** | Canada | [PBQ Toronto Winter 2020](https://www.worldcubeassociation.org/competitions/PBQTorontoWinter2020) | 6:40.77, 7:23.40, DNF |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **6:52.53** | Sweden | [Side 'n Blind Forserum 2020](https://www.worldcubeassociation.org/competitions/SidenBlindForserum2020) | DNF, 6:52.53, DNF |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **7:19.69** | Denmark | [Danish Championship 2020](https://www.worldcubeassociation.org/competitions/DanishChampionship2020) | DNF, 7:19.69, DNS |
-| [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **7:55.72** | United Kingdom | [Swisscubing Cup I 2020](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2020) | 7:55.72, 9:13.68, DNF |
-| [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | **8:14.33** | Brazil | [Tchê Aquieta 2020](https://www.worldcubeassociation.org/competitions/TcheAquieta2020) | DNF, 8:14.33, DNS |
-| [Jaden Lim](https://www.worldcubeassociation.org/persons/2017LIMJ02) | **8:50.36** | Philippines | [Parity at Charis 2020](https://www.worldcubeassociation.org/competitions/ParityatCharis2020) | DNF, 8:50.36, DNF |
-| [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | **9:09.60** | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | 14:34.00, DNF, 9:09.60 |
-| [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **9:34.81** | Denmark | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | DNF, DNF, 9:34.81 |
+| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | **4:41.76** | New Zealand | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | DNF, DNF, 4:41.76 |
+| [Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) | **6:41.05** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 6:41.05, DNF, DNF |
+| [Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21) | **7:08.50** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 14:54.00, DNF, 7:08.50 |
+| [Haozhen Ding (丁昊桢)](https://www.worldcubeassociation.org/persons/2019DING22) | **10:17.00** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | DNF, DNF, 10:17.00 |
+| [Haijun Tan (谭海俊)](https://www.worldcubeassociation.org/persons/2011TANH01) | **10:32.00** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 10:32.00, DNF, DNF |
+| [Alex Taylor](https://www.worldcubeassociation.org/persons/2020TAYL02) | **15:11.00** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 15:11.00, DNF, DNS |
+| [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | **20:20.00** | Australia | [Please Be Quiet Brisbane 2021](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2021) | 20:20.00, 23:07.00, 23:11.00 |
+| [Yinhao Ding](https://www.worldcubeassociation.org/persons/2019DING02) | **26:46.00** | Australia | [Please Be Quiet Brisbane 2021](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2021) | DNF, 26:46.00, DNF |
 
 ### 5x5x5 Blindfolded - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) | **12:47.00** | India | [CMI Tessellate Cube Open 2020](https://www.worldcubeassociation.org/competitions/CMITessellateCubeOpen2020) | 12:47.00, 11:38.00, 13:55.00 |
-| [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) | **12:52.00** | Germany | [Happy New Year Cubing Hoorn 2020](https://www.worldcubeassociation.org/competitions/HappyNewYearCubingHoorn2020) | 11:29.00, 12:30.00, 14:36.00 |
-| [Marcos Ferreira Semolini](https://www.worldcubeassociation.org/persons/2017SEMO02) | **16:25.00** | Brazil | [Tchê Aquieta 2020](https://www.worldcubeassociation.org/competitions/TcheAquieta2020) | 17:17.00, 15:58.00, 16:01.00 |
-| [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | **18:47.00** | United States | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020) | 20:54.00, 17:54.00, 17:34.00 |
-| [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | **20:50.00** | Sweden | [Welcome Back Jönköping 2020](https://www.worldcubeassociation.org/competitions/WelcomeBackJonkoping2020) | 19:22.00, 20:25.00, 22:44.00 |
+| [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | **22:13.00** | Australia | [Please Be Quiet Brisbane 2021](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2021) | 20:20.00, 23:07.00, 23:11.00 |
 
 ### 3x3x3 Multi-Blind - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **46/51 59:02** | United States | [Michigan Cubing Club Alpha 2020](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2020) | 46/51 59:02 |
-| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **42/49 58:14** | Poland | [Kiev Super Blind 2020](https://www.worldcubeassociation.org/competitions/KievSuperBlind2020) | 42/49 58:14, 33/49 58:58, 37/42 58:26 |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **39/44 58:27** | Poland | [Kiev Super Blind 2020](https://www.worldcubeassociation.org/competitions/KievSuperBlind2020) | 39/44 58:27, DNF, 34/44 1:00:02 |
-| [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) | **37/40 58:35** | India | [MathSoc Delhi Open 2020](https://www.worldcubeassociation.org/competitions/MathSocDelhiOpen2020) | 37/40 58:35 |
-| [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **33/33 58:01** | Republic of Korea | [Cebu Open 2020](https://www.worldcubeassociation.org/competitions/CebuOpen2020) | 33/33 58:01 |
-| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **48/63 1:00:00** | United States | [Mudd Winter 2020](https://www.worldcubeassociation.org/competitions/MuddWinter2020) | 48/63 1:00:00 |
-| [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | **32/33 57:07** | Finland | [Kiev Super Blind 2020](https://www.worldcubeassociation.org/competitions/KievSuperBlind2020) | 32/33 57:07, 22/34 59:30, 29/36 1:00:00 |
-| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | **36/42 58:16** | Poland | [BrizZon Poznań Side Open 2020](https://www.worldcubeassociation.org/competitions/BrizZonPoznanSideOpen2020) | 36/42 58:16, 24/42 57:29 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **36/42 59:54** | Poland | [BrizZon Poznań Side Open 2020](https://www.worldcubeassociation.org/competitions/BrizZonPoznanSideOpen2020) | 35/42 58:16, 36/42 59:54 |
-| [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) | **29/29 53:02** | India | [CMI Tessellate Cube Open 2020](https://www.worldcubeassociation.org/competitions/CMITessellateCubeOpen2020) | 29/29 53:02 |
+| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **34/36 58:45** | Australia | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 34/36 58:45 |
+| [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **37/49 1:00:02** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 37/49 1:00:02 |
+| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | **25/30 56:57** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 25/30 56:57 |
+| [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) | **15/15 53:36** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 15/15 53:36 |
+| [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) | **16/20 51:19** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 16/20 51:19 |
+| [Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02) | **18/24 56:28** | Australia | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) | 18/24 56:28 |
+| [Benjamin Paul](https://www.worldcubeassociation.org/persons/2014PAUL05) | **14/16 1:00:00** | Australia | [Please Be Quiet Brisbane 2021](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2021) | 14/16 1:00:00, DNF |
+| [Yinhao Ding](https://www.worldcubeassociation.org/persons/2019DING02) | **10/10 53:56** | Australia | [Please Be Quiet Brisbane 2021](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2021) | 8/8 45:57, 10/10 53:56 |
+| [Haijun Tan (谭海俊)](https://www.worldcubeassociation.org/persons/2011TANH01) | **15/20 57:45** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 15/20 57:45 |
+| [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | **9/9 47:16** | Australia | [Please Be Quiet Brisbane 2021](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2021) | 9/9 47:16, 8/10 46:23 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

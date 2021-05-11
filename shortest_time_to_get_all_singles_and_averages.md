@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Computed on 30 November 2020*
+*Computed on 11 May 2021*
 
 | Days | Person |
 | ---: | :--- |
@@ -15,12 +15,14 @@
 | 1589 | [Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48) |
 | 1637 | [Juan Juli Andika Chandra](https://www.worldcubeassociation.org/persons/2009CHAN15) |
 | 1673 | [Peter Chau](https://www.worldcubeassociation.org/persons/2011CHAU05) |
+| 1729 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) |
 | 1772 | [James Hamory](https://www.worldcubeassociation.org/persons/2009HAMO01) |
 | 1834 | [Alrimar Dias Rocha Sobrinho](https://www.worldcubeassociation.org/persons/2011SOBR01) |
 | 1862 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) |
 | 1931 | [Jiawei Shou (寿佳伟)](https://www.worldcubeassociation.org/persons/2009SHOU01) |
 | 1994 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 2044 | [Guanghua Wang (王光华)](https://www.worldcubeassociation.org/persons/2009WANG21) |
+| 2079 | [David Pearce](https://www.worldcubeassociation.org/persons/2015PEAR02) |
 | 2155 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 2225 | [Shikai Jiang (江侍锴)](https://www.worldcubeassociation.org/persons/2012JIAN07) |
 | 2254 | [John Edison Ubaldo](https://www.worldcubeassociation.org/persons/2010UBAL01) |

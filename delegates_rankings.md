@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Computed on 11 May 2021*
+*Computed on 12 May 2021*
 
 
 ### Rubik's Cube - Single

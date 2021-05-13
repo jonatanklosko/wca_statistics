@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Computed on 12 May 2021*
+*Computed on 13 May 2021*
 
 
 ### Competition
@@ -49,7 +49,7 @@
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **8553** | 9059 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **8509** | 8977 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **8275** | 8404 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **8195** | 8545 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **8274** | 8625 |
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | **8139** | 8576 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **8136** | 8460 |
 
@@ -57,17 +57,17 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **2158565** | 2268656 |
+| United States | **2158563** | 2268656 |
 | China | **1203039** | 1262488 |
 | India | **578496** | 609518 |
 | Poland | **545244** | 572461 |
-| Russia | **418253** | 442463 |
+| Russia | **419630** | 443897 |
 | Germany | **416563** | 437372 |
 | Spain | **393145** | 413000 |
 | Brazil | **324190** | 338729 |
 | Canada | **317019** | 331165 |
 | France | **314100** | 330622 |
-| Australia | **305541** | 323146 |
+| Australia | **306872** | 324523 |
 | United Kingdom | **264155** | 278706 |
 | Philippines | **225151** | 234713 |
 | Indonesia | **189864** | 200975 |
@@ -82,11 +82,11 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **4242849** | 4461123 |
+| Europe | **4244226** | 4462557 |
 | Asia | **3112156** | 3265351 |
-| North America | **2789153** | 2927587 |
+| North America | **2789151** | 2927587 |
 | South America | **951571** | 997524 |
-| Oceania | **377136** | 398775 |
+| Oceania | **378467** | 400152 |
 | Africa | **57124** | 59796 |
 | Multiple Continents | **1674** | 2229 |
 
@@ -94,7 +94,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 2019 | **2537755** | 2657069 |
+| 2019 | **2537753** | 2657069 |
 | 2018 | **2221617** | 2327686 |
 | 2017 | **1754566** | 1838128 |
 | 2016 | **1196511** | 1253828 |
@@ -107,7 +107,7 @@
 | 2010 | **259785** | 277256 |
 | 2009 | **172080** | 183283 |
 | 2008 | **86491** | 92666 |
-| 2021 | **79206** | 82754 |
+| 2021 | **81914** | 85565 |
 | 2007 | **34623** | 36799 |
 | 2006 | **16507** | 17543 |
 | 2005 | **8487** | 8954 |
@@ -119,21 +119,21 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **3626378** | 3710954 |
-| 2x2x2 Cube | **2021127** | 2074213 |
-| Pyraminx | **1224509** | 1258665 |
-| 4x4x4 Cube | **1086831** | 1130613 |
-| 3x3x3 One-Handed | **1048675** | 1085438 |
-| Skewb | **709997** | 730700 |
-| 5x5x5 Cube | **552665** | 570423 |
+| 3x3x3 Cube | **3627146** | 3711744 |
+| 2x2x2 Cube | **2021655** | 2074762 |
+| Pyraminx | **1224883** | 1259045 |
+| 4x4x4 Cube | **1087069** | 1130862 |
+| 3x3x3 One-Handed | **1048851** | 1085617 |
+| Skewb | **710309** | 731020 |
+| 5x5x5 Cube | **552727** | 570489 |
 | Megaminx | **299569** | 313621 |
-| Square-1 | **270872** | 284035 |
-| Clock | **162742** | 190254 |
+| Square-1 | **270988** | 284154 |
+| Clock | **162861** | 190395 |
 | 6x6x6 Cube | **110159** | 114594 |
 | 7x7x7 Cube | **92362** | 96474 |
 | 3x3x3 Blindfolded | **80606** | 228551 |
 | Magic | **78268** | 86498 |
-| 3x3x3 Fewest Moves | **51937** | 74611 |
+| 3x3x3 Fewest Moves | **51950** | 74629 |
 | 3x3x3 With Feet | **51903** | 56672 |
 | Master Magic | **39964** | 41445 |
 | 3x3x3 Multi-Blind | **13804** | 24878 |

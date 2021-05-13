@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 12 May 2021*
+*Computed on 13 May 2021*
 
 
 ### Rubik's Cube
@@ -40,7 +40,7 @@
 | ---: | :--- | :--- |
 | 21.02 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 21.81, 19.41, 23.62, 21.68, 19.57 |
 | 21.26 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 22.04, 20.99, 27.07, 20.76, 20.54 |
-| 21.57 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 22.36, 26.61, 21.30, 17.98, 21.05 |
+| 21.44 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 26.61, 21.30, 17.98, 21.05, 21.97 |
 | 23.30 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 23.08, 21.53, 19.87, 27.44, 25.30 |
 | 23.36 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 22.56, 31.90, 23.21, 23.55, 23.34 |
 | 23.41 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 24.96, 30.41, 23.88, 21.40, 20.63 |

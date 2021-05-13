@@ -1,13 +1,13 @@
 ## Competition days count by region
 
-*Computed on 12 May 2021*
+*Computed on 13 May 2021*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 7292 |
+| 1.50 | World | 7296 |
 
 ### Continents
 
@@ -15,9 +15,9 @@
 | ---: | :--- | ---: |
 | 1.77 | Europe | 2328 |
 | 1.59 | South America | 828 |
-| 1.46 | Oceania | 248 |
-| 1.42 | Asia | 1971 |
-| 1.22 | North America | 1837 |
+| 1.46 | Oceania | 249 |
+| 1.41 | Asia | 1973 |
+| 1.22 | North America | 1838 |
 | 1.16 | Africa | 80 |
 
 ### Countries
@@ -78,19 +78,19 @@
 | 1.50 | Ghana | 2 |
 | 1.50 | Luxembourg | 2 |
 | 1.50 | Tajikistan | 2 |
+| 1.48 | New Zealand | 54 |
 | 1.47 | Peru | 134 |
 | 1.47 | Romania | 66 |
 | 1.47 | Ecuador | 15 |
 | 1.46 | Australia | 195 |
 | 1.45 | Italy | 130 |
-| 1.45 | New Zealand | 53 |
 | 1.43 | Iceland | 7 |
 | 1.43 | Israel | 14 |
 | 1.43 | Paraguay | 14 |
 | 1.40 | Philippines | 186 |
 | 1.38 | Hong Kong | 13 |
 | 1.35 | Nepal | 17 |
-| 1.34 | Taiwan | 100 |
+| 1.33 | Taiwan | 102 |
 | 1.32 | Chile | 76 |
 | 1.31 | Venezuela | 52 |
 | 1.30 | Estonia | 33 |
@@ -111,7 +111,7 @@
 | 1.17 | United States | 1460 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | Canada | 184 |
-| 1.12 | El Salvador | 16 |
+| 1.12 | El Salvador | 17 |
 | 1.10 | Azerbaijan | 31 |
 | 1.00 | Albania | 2 |
 | 1.00 | Algeria | 7 |

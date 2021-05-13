@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 12 May 2021*
+*Computed on 13 May 2021*
 
 
 ### Rubik's Cube
@@ -57,11 +57,11 @@
 | 38.60 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020/results/by_person#2012PARK03) |
 | 39.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Summer 2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019/results/by_person#2012PARK03) |
 | 39.45 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012PARK03) |
+| 39.60 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021/results/by_person#2009ZEMD01) |
 | 39.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Reno Fall 2018](https://www.worldcubeassociation.org/competitions/RenoFall2018/results/by_person#2012PARK03) |
 | 39.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2012PARK03) |
 | 39.72 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020/results/by_person#2012PARK03) |
 | 40.03 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2012PARK03) |
-| 40.07 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 

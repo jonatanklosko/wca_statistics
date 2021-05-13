@@ -1,6 +1,6 @@
 ## Most finals
 
-*Computed on 12 May 2021*
+*Computed on 13 May 2021*
 
 | Finals | Person |
 | ---: | :--- |
@@ -26,7 +26,7 @@
 | 960 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 954 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 954 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
-| 944 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
+| 951 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 929 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
@@ -45,11 +45,11 @@
 | 765 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 754 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 753 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
+| 746 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 745 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 743 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 742 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 739 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 738 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 731 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 729 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 727 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |

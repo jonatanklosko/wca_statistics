@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Computed on 15 May 2021*
+*Computed on 16 May 2021*
 
 | Person | Distance |
 | :--- | ---: |
@@ -325,7 +325,7 @@
 | [Mohammad Almoumen](https://www.worldcubeassociation.org/persons/2017ALMO03) | 70 663 km |
 | [Sam Schultz](https://www.worldcubeassociation.org/persons/2011SCHU06) | 70 654 km |
 | [Ramesh Vidyasagar](https://www.worldcubeassociation.org/persons/2013VIDY01) | 70 558 km |
-| [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 70 165 km |
+| [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 70 453 km |
 | [Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17) | 70 097 km |
 | [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 69 841 km |
 | [Ryouga Hayashi (林竜河)](https://www.worldcubeassociation.org/persons/2011HAYA02) | 69 696 km |
@@ -378,10 +378,10 @@
 | [Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01) | 65 747 km |
 | [Simon Liang](https://www.worldcubeassociation.org/persons/2016LIAN22) | 65 563 km |
 | [John Eppley](https://www.worldcubeassociation.org/persons/2014EPPL01) | 65 503 km |
+| [Hua-Ting Lee (李華庭)](https://www.worldcubeassociation.org/persons/2013LIHU01) | 65 455 km |
 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | 65 451 km |
 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | 65 418 km |
 | [Jerich Lee (李再圆)](https://www.worldcubeassociation.org/persons/2015LEEJ02) | 65 281 km |
-| [Hua-Ting Lee (李華庭)](https://www.worldcubeassociation.org/persons/2013LIHU01) | 65 167 km |
 | [Federico Da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) | 65 034 km |
 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) | 65 027 km |
 | [Dylan Hughlett](https://www.worldcubeassociation.org/persons/2012HUGH01) | 64 946 km |
@@ -561,6 +561,7 @@
 | [Akula Pavan Kumar](https://www.worldcubeassociation.org/persons/2011KUMA01) | 51 421 km |
 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) | 51 344 km |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 51 230 km |
+| [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | 51 168 km |
 | [Han Wu (吳翰)](https://www.worldcubeassociation.org/persons/2008WUHA01) | 51 095 km |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 51 085 km |
 | [Lang Yuan (袁朗)](https://www.worldcubeassociation.org/persons/2011YUAN05) | 51 084 km |
@@ -568,7 +569,6 @@
 | [Shonathon Collins](https://www.worldcubeassociation.org/persons/2011COLL02) | 50 948 km |
 | [Einar Kvam Lundberg](https://www.worldcubeassociation.org/persons/2015LUND03) | 50 944 km |
 | [Hui Hing Ho (許鑫豪)](https://www.worldcubeassociation.org/persons/2007HOHU01) | 50 928 km |
-| [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | 50 880 km |
 | [Xinnan Ye (叶新楠)](https://www.worldcubeassociation.org/persons/2009YEXI01) | 50 844 km |
 | [Saumya Bansal](https://www.worldcubeassociation.org/persons/2014BANS01) | 50 749 km |
 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) | 50 731 km |
@@ -578,6 +578,7 @@
 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) | 50 351 km |
 | [Mitsuki Gunji (郡司光貴)](https://www.worldcubeassociation.org/persons/2006GUNJ01) | 50 333 km |
 | [Sachio Iwasaki (岩崎幸生)](https://www.worldcubeassociation.org/persons/2009IWAS01) | 50 318 km |
+| [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) | 50 283 km |
 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | 50 282 km |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 50 257 km |
 | [Tanzer Balimtas](https://www.worldcubeassociation.org/persons/2013BALI01) | 50 246 km |
@@ -586,18 +587,17 @@
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 50 135 km |
 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | 50 079 km |
 | [Angela Braganza](https://www.worldcubeassociation.org/persons/2015BRAG01) | 50 042 km |
-| [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) | 49 995 km |
 | [Michael Conard](https://www.worldcubeassociation.org/persons/2013CONA01) | 49 989 km |
 | [Bo Wang (王擘)](https://www.worldcubeassociation.org/persons/2013WANG69) | 49 883 km |
 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) | 49 678 km |
 | [Heike Zbierski](https://www.worldcubeassociation.org/persons/2009ZBIE01) | 49 663 km |
 | [Theo Iván Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 49 655 km |
+| [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 49 555 km |
 | [Zibo Xu (徐子博)](https://www.worldcubeassociation.org/persons/2014XUZI01) | 49 501 km |
 | [Damian Bias](https://www.worldcubeassociation.org/persons/2014BIAS01) | 49 452 km |
 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 49 414 km |
 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 49 372 km |
 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) | 49 346 km |
-| [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 49 267 km |
 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) | 49 265 km |
 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) | 49 200 km |
 | [Jeremy Benik](https://www.worldcubeassociation.org/persons/2016BENI05) | 49 150 km |

@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Computed on 15 May 2021*
+*Computed on 16 May 2021*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -15,13 +15,13 @@
 | 47 | [Andy Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | United Kingdom | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) | [Manchester Open 2020](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020) |
 | 45 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | United Kingdom | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) |
 | 43 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) | Sweden | [Swedish Championship 2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012) | [SSL 1 Åkers Styckebruk 2019](https://www.worldcubeassociation.org/competitions/SSL1AkersStyckebruk2019) |
-| 42 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) | Taiwan | [Maru Cube Day 2016](https://www.worldcubeassociation.org/competitions/MaruCubeDay2016) |  |
+| 43 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) | Taiwan | [Maru Cube Day 2016](https://www.worldcubeassociation.org/competitions/MaruCubeDay2016) |  |
 | 42 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | Denmark | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015) |  |
 | 42 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | Denmark | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015) |  |
 | 41 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) | Japan | [JRCA Kansai Summer 2009](https://www.worldcubeassociation.org/competitions/JRCAKansaiSummer2009) | [East Osaka 2012](https://www.worldcubeassociation.org/competitions/EastOsaka2012) |
 | 39 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | Poland | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
 | 39 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | Romania | [U.R.A. Back to School 2016](https://www.worldcubeassociation.org/competitions/URABacktoSchool2016) |  |
-| 37 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Taiwan | [Taipei Open 2017](https://www.worldcubeassociation.org/competitions/TaipeiOpen2017) |  |
+| 38 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Taiwan | [Taipei Open 2017](https://www.worldcubeassociation.org/competitions/TaipeiOpen2017) |  |
 | 37 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | Australia | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | [Canberra Autumn 2015](https://www.worldcubeassociation.org/competitions/CanberraAutumn2015) |
 | 36 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | United Kingdom | [WGC Open 2014](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2014) | [Guildford Open 2018](https://www.worldcubeassociation.org/competitions/GuildfordOpen2018) |
 | 34 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) | Germany | [German Big Cube Open 2017](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2017) | [Franconia X 2019](https://www.worldcubeassociation.org/competitions/FranconiaX2019) |
@@ -99,9 +99,9 @@
 | 19 | [Greg Austin](https://www.worldcubeassociation.org/persons/2006AUST01) | United Kingdom | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012) | [Edinburgh Spring 2015](https://www.worldcubeassociation.org/competitions/EdinburghSpring2015) |
 | 19 | [Manuel Bühler](https://www.worldcubeassociation.org/persons/2014BUEH01) | Switzerland | [Swiss Science Open 2014](https://www.worldcubeassociation.org/competitions/SwissScienceOpen2014) | [Ticino Open 2017](https://www.worldcubeassociation.org/competitions/TicinoOpen2017) |
 | 19 | [Anton Rostovikov](https://www.worldcubeassociation.org/persons/2009ROST01) | Russia | [Moscow Open 2009](https://www.worldcubeassociation.org/competitions/MoscowOpen2009) | [Tomsk Blind Weekend 2014](https://www.worldcubeassociation.org/competitions/TomskBlindWeekend2014) |
+| 19 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 19 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 19 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
-| 19 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 19 | [Branko Kobal](https://www.worldcubeassociation.org/persons/2009KOBA03) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 19 | [Teodor Toma](https://www.worldcubeassociation.org/persons/2015TOMA04) | Romania | [Mioveni Rubik's Open 2015](https://www.worldcubeassociation.org/competitions/MioveniRubikOpen2015) | [Oradea Cubing Open 2018](https://www.worldcubeassociation.org/competitions/OradeaCubingOpen2018) |
 | 18 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) | [Hungarian Open 2018](https://www.worldcubeassociation.org/competitions/HungarianOpen2018) |

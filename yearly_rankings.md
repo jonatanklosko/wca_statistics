@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Computed on 15 May 2021*
+*Computed on 16 May 2021*
 
 
 ### Rubik's Cube - Single
@@ -71,13 +71,13 @@
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **17.98** | Australia | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) | 22.36, 26.61, 21.30, 17.98, 21.05 |
 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **23.32** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 29.71, 27.84, 26.20, 23.32, 29.57 |
 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | **23.91** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 26.69, DNF, 28.93, 29.13, 23.91 |
+| [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **24.01** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 24.01, 28.69, 32.59, 27.49, 28.71 |
 | [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) | **24.05** | China | [Shenzhen Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenGoodAfternoon2021) | 31.66, 31.43, 35.85, 24.05, 30.32 |
 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | **24.58** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 24.58, 25.34, 25.28, 26.05, 30.98 |
 | [Yuxuan Guo (郭雨轩)](https://www.worldcubeassociation.org/persons/2014GUOY04) | **25.36** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.39, 33.93, 25.36, 31.06, 40.50 |
 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **25.77** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 29.12, 25.77, 31.75, 32.95, 31.90 |
 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **25.83** | Russia | [Ural Spring 2021](https://www.worldcubeassociation.org/competitions/UralSpring2021) | 33.61, 32.91, 25.83, 34.78, 31.43 |
 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **25.95** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 29.87, 29.72, 41.25, 29.22, 25.95 |
-| [Sheng Cao (曹晟)](https://www.worldcubeassociation.org/persons/2011CAOS01) | **26.04** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 26.04, 31.87, 32.29, 26.13, 35.46 |
 
 ### 4x4x4 Cube - Average
 
@@ -87,12 +87,12 @@
 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | **25.56** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 24.58, 25.34, 25.28, 26.05, 30.98 |
 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **27.87** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 29.71, 27.84, 26.20, 23.32, 29.57 |
 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | **28.25** | China | [Nanchang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/NanchangGoodAfternoon2021) | 26.66, DNF, 27.45, 26.11, 30.64 |
+| [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **28.30** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 24.01, 28.69, 32.59, 27.49, 28.71 |
 | [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **29.26** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 30.74, 35.55, 29.90, 26.34, 27.15 |
 | [Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01) | **29.26** | Russia | [SPB Muffin Mini 2021](https://www.worldcubeassociation.org/competitions/SPBMuffinMini2021) | 28.44, 31.30, 30.81, 28.54, 28.31 |
-| [Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01) | **29.56** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.96, 35.97, 27.19, 30.36, 28.36 |
 | [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) | **29.56** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.59, 29.09, 28.78, 29.99, 34.38 |
+| [Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01) | **29.56** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.96, 35.97, 27.19, 30.36, 28.36 |
 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **29.60** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 29.87, 29.72, 41.25, 29.22, 25.95 |
-| [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **29.84** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 29.97, 28.78, 31.47, 30.24, 29.31 |
 
 ### 5x5x5 Cube - Single
 
@@ -105,9 +105,9 @@
 | [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) | **46.86** | China | [Shenzhen Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenGoodAfternoon2021) | 1:07.42, 46.86, 1:05.75, 1:05.31, 59.48 |
 | [Yu Feng (冯煜)](https://www.worldcubeassociation.org/persons/2017FENG09) | **48.29** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 56.39, 48.29, 56.15, 1:00.39, 53.81 |
 | [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **48.55** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 54.15, 59.26, 48.55, 50.06, 58.96 |
+| [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **48.66** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 49.06, 48.66, 51.12, 53.38, 57.53 |
 | [Zejun Chen (陈泽鋆)](https://www.worldcubeassociation.org/persons/2018CHEZ21) | **48.87** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 59.31, 1:07.36, 57.71, 48.87, 1:08.59 |
 | [Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07) | **49.06** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:00.14, 1:00.04, 59.59, 49.06, 57.54 |
-| [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **50.35** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 59.46, 57.56, 50.35, 59.62, 59.72 |
 
 ### 5x5x5 Cube - Average
 
@@ -115,6 +115,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **43.97** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 48.64, 39.01, 39.60, 45.93, 46.38 |
 | [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **47.55** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 50.53, 54.78, 44.83, 44.86, 47.25 |
+| [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **51.19** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 49.06, 48.66, 51.12, 53.38, 57.53 |
 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **51.87** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 51.22, 45.49, 55.44, 48.94, DNF |
 | [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) | **54.24** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 59.81, 48.78, 47.11, 57.26, 56.68 |
 | [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **54.39** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 54.15, 59.26, 48.55, 50.06, 58.96 |
@@ -122,7 +123,6 @@
 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | **55.58** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 52.87, 51.89, 58.84, 56.50, 57.36 |
 | [Ivan Polkanov (Иван Полканов)](https://www.worldcubeassociation.org/persons/2018POLK03) | **56.05** | Russia | [Ural Spring 2021](https://www.worldcubeassociation.org/competitions/UralSpring2021) | 1:00.61, 1:03.44, 56.55, 46.05, 51.00 |
 | [Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01) | **57.51** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 57.24, 1:03.86, 55.16, 1:00.13, 54.89 |
-| [Zihan Zhang (张子涵)](https://www.worldcubeassociation.org/persons/2015ZHAN85) | **57.55** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 58.23, 52.64, 59.82, 54.60, 1:04.52 |
 
 ### 6x6x6 Cube - Single
 
@@ -131,13 +131,13 @@
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **1:19.92** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1:37.25, 1:38.81, 1:19.92 |
 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) | **1:25.19** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:31.54, 1:38.36, 1:25.19 |
 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **1:29.44** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:29.44, 1:37.53, 1:37.01 |
+| [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **1:31.32** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 1:39.54, 1:42.79, 1:31.32 |
 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **1:32.30** | Hong Kong | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:49.72, 1:48.99, 1:32.30 |
 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) | **1:32.88** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1:32.88, 1:34.57, 1:39.94 |
+| [Shih-Hao Wang (王士豪)](https://www.worldcubeassociation.org/persons/2015WANG46) | **1:34.04** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 1:34.04, 1:38.30, 1:47.55 |
 | [Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07) | **1:34.88** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:40.15, 1:49.22, 1:34.88 |
 | [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) | **1:35.17** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:35.17, 1:42.43, 1:49.86 |
 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **1:35.96** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1:46.31, 1:46.39, 1:35.96 |
-| [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **1:36.94** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:43.05, 1:36.94, 1:42.32 |
-| [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **1:38.65** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:38.65, 2:08.43, 1:53.13 |
 
 ### 6x6x6 Cube - Average
 
@@ -147,12 +147,12 @@
 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) | **1:31.70** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:31.54, 1:38.36, 1:25.19 |
 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **1:34.66** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:29.44, 1:37.53, 1:37.01 |
 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) | **1:35.80** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1:32.88, 1:34.57, 1:39.94 |
+| [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **1:37.88** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 1:39.54, 1:42.79, 1:31.32 |
+| [Shih-Hao Wang (王士豪)](https://www.worldcubeassociation.org/persons/2015WANG46) | **1:39.96** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 1:34.04, 1:38.30, 1:47.55 |
 | [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) | **1:40.77** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:43.05, 1:36.94, 1:42.32 |
 | [Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07) | **1:41.42** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:40.15, 1:49.22, 1:34.88 |
 | [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) | **1:42.49** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:35.17, 1:42.43, 1:49.86 |
 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **1:42.89** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1:46.31, 1:46.39, 1:35.96 |
-| [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **1:43.67** | Hong Kong | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:49.72, 1:48.99, 1:32.30 |
-| [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **1:46.15** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1:51.07, 1:47.58, 1:39.79 |
 
 ### 7x7x7 Cube - Single
 
@@ -227,7 +227,7 @@
 | [Benjamin Warry](https://www.worldcubeassociation.org/persons/2017WARR04) | **28** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 30, 30, 28 |
 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **29** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 32, 31, 29 |
 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **29** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 29, 36, 31 |
-| [Cheng-Ru Yang](https://www.worldcubeassociation.org/persons/2015YANG23) | **29** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 29, 44, DNF |
+| [Cole Campbell](https://www.worldcubeassociation.org/persons/2018CAMP15) | **29** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 38, 29, DNF |
 
 ### 3x3x3 Fewest Moves - Average
 

@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Computed on 15 May 2021*
+*Computed on 16 May 2021*
 
 
 ### Rubik's Cube
@@ -144,6 +144,7 @@
 | 29.30 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) |
 | 29.32 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 29.81 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
+| 29.85 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 29.88 | [Jonah Crosby](https://www.worldcubeassociation.org/persons/2012CROS01) |
 | 29.88 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) |
 | 30.18 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
@@ -151,7 +152,6 @@
 | 30.33 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 30.34 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) |
 | 30.44 | [Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01) |
-| 30.47 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 30.47 | [Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03) |
 | 30.55 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) |
 | 30.55 | [Ari Randers-Pehrson](https://www.worldcubeassociation.org/persons/2017RAND06) |
@@ -202,11 +202,11 @@
 | 54.37 | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) |
 | 54.42 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) |
 | 54.58 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) |
+| 54.61 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 55.06 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
 | 55.25 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 55.38 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 55.89 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) |
-| 55.90 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 56.12 | [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) |
 | 56.47 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 56.53 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
@@ -255,6 +255,7 @@
 | 1:44.60 | [Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35) |
 | 1:44.80 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 1:45.04 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) |
+| 1:45.64 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 1:45.80 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |
 | 1:46.01 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) |
 | 1:46.25 | [Manfred Siew Ee Sheng (蕭奕晟)](https://www.worldcubeassociation.org/persons/2009SIEW03) |
@@ -262,7 +263,6 @@
 | 1:47.22 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) |
 | 1:47.46 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 1:47.47 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 1:47.59 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 1:47.76 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 1:48.49 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 1:48.57 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |

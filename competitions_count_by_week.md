@@ -1,7 +1,7 @@
 ## Competitions count by week
 
 *Note: Week is considered to start on Monday and end on Sunday.*
-*Computed on 15 May 2021*
+*Computed on 16 May 2021*
 
 | Competitions | Week start | Week end | List on WCA |
 | :--: | ---: | ---: | :--: |
@@ -695,6 +695,7 @@
 | 1 | 12 Jul 2021 | 18 Jul 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-07-17&to_date=2021-07-18) |
 | 1 |  5 Jul 2021 | 11 Jul 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-07-10&to_date=2021-07-11) |
 | 1 | 28 Jun 2021 |  4 Jul 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-07-03&to_date=2021-07-04) |
+| 1 | 14 Jun 2021 | 20 Jun 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-06-19&to_date=2021-06-19) |
 | 1 |  8 Mar 2021 | 14 Mar 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-03-14&to_date=2021-03-14) |
 | 1 | 15 Feb 2021 | 21 Feb 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-02-20&to_date=2021-02-21) |
 | 1 |  1 Feb 2021 |  7 Feb 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-02-06&to_date=2021-02-06) |

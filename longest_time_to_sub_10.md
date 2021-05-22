@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Computed on 21 May 2021*
+*Computed on 22 May 2021*
 
 | Person | Years |
 | :--- | ---: |

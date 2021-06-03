@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on  2 June 2021*
+*Computed on  3 June 2021*
 
 
 ### Rubik's Cube
@@ -147,7 +147,7 @@
 | 33.12 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.84, 31.53, 32.84, 36.09, 30.84, 33.06, 34.66, 34.78, 33.54, 36.18, 33.04, 30.63 |
 | 33.28 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 36.22, 30.94, 31.24, 35.78, 30.12, 33.90, 30.89, 30.57, 40.52, 34.27, 34.52, 34.55 |
 | 33.72 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 34.22, 34.88, 29.22, 36.69, 34.90, 31.08, 31.20, 34.42, 31.79, 38.18, 34.80, 33.22 |
-| 34.05 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 33.46, 35.58, 40.89, 34.30, 34.50, 33.17, 33.88, 29.67, 36.92, 36.16, 32.68, 29.85 |
+| 33.76 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 34.30, 34.50, 33.17, 33.88, 29.67, 36.92, 36.16, 32.68, 29.85, 33.79, 34.13, 35.22 |
 | 35.52 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | 35.07, 34.82, 37.14, 37.57, 37.39, 38.00, 35.51, 34.32, 31.91, 41.49, 33.51, 30.89 |
 | 36.87 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 35.10, 36.16, 40.29, 38.88, 37.81, 38.72, 36.11, 34.44, 39.35, 34.67, 35.69, 36.25 |
 | 37.18 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 42.89, 34.27, 38.87, 39.34, 37.21, 36.75, 35.75, 35.35, 41.63, 33.98, 38.67, 32.09 |
@@ -174,15 +174,15 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 4.40 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 4.02, 4.35, 3.52, 4.28, 4.57, 3.54, 3.76, DNF, 5.96, 4.80, 5.12, 3.67 |
+| 4.80 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 3.50, 4.23, 5.00, 6.41, 4.76, 6.34, 3.93, 4.12, 9.30, 4.27, 4.49, 4.46 |
 | 4.94 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) | 4.83, 4.77, 6.50, 4.62, 4.26, 6.34, 5.28, 5.71, 4.55, 4.21, 4.15, 4.83 |
-| 5.24 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 3.67, 5.06, 6.12, 5.95, 3.34, 4.55, 4.47, 6.92, 3.96, 7.15, 5.00, 6.72 |
 | 5.27 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 5.60, 5.20, 4.83, 5.36, 5.45, 6.53, 4.75, 5.14, 5.85, 5.04, 5.20, 5.09 |
 | 5.30 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 5.16, 5.90, 5.35, 4.89, 5.58, DNF, 5.66, 4.99, 5.21, 5.35, 4.93, 4.72 |
 | 5.41 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | 5.30, 4.31, 6.43, 8.14, 4.15, 6.14, 5.37, 4.67, 6.21, 4.80, 5.06, 5.81 |
 | 5.56 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 5.02, 5.21, 5.37, DNF, 6.68, 6.05, 4.54, 5.05, 5.66, 5.46, 6.08, 5.10 |
 | 5.63 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 4.63, 5.89, 5.63, 5.48, DNF, 6.92, 6.00, 4.80, 5.55, 6.73, 4.53, 4.74 |
 | 5.65 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 5.88, 4.91, 7.74, 5.11, 6.24, 5.12, 5.84, 4.61, 6.79, 5.52, 5.66, 5.52 |
-| 5.75 | [Suen Ming Chi (孫銘志)](https://www.worldcubeassociation.org/persons/2017CHIS02) | 5.85, 6.35, 4.75, 5.27, 5.76, 5.18, 6.89, 5.46, 6.01, 6.48, 5.63, 5.55 |
+| 5.70 | [Maxim Brednev (Максим Бреднев)](https://www.worldcubeassociation.org/persons/2018BRED02) | 5.16, 6.52, 5.42, 5.57, 6.64, 7.20, 4.45, 4.64, 5.59, 6.28, 6.62, 4.60 |
 
 ### Skewb
 

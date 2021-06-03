@@ -1,6 +1,6 @@
 ## Most finals
 
-*Computed on  2 June 2021*
+*Computed on  3 June 2021*
 
 | Finals | Person |
 | ---: | :--- |
@@ -23,10 +23,10 @@
 | 1036 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 988 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 968 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
+| 962 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 960 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 954 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 954 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
-| 951 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 929 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
@@ -76,10 +76,10 @@
 | 633 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 627 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 626 | [Yinghao Wang (王鹰豪)](https://www.worldcubeassociation.org/persons/2010WANG07) |
+| 623 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 620 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 618 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 616 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 614 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 611 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 609 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
 | 608 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |

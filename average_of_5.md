@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on  2 June 2021*
+*Computed on  3 June 2021*
 
 
 ### Rubik's Cube
@@ -166,15 +166,15 @@
 | 2.02 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 1.30, 2.27, 2.16, 2.66, 1.63 |
 | 2.02 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 2.09, 2.05, 1.94, 2.36, 1.79 |
 | 2.02 | [John Gaynor](https://www.worldcubeassociation.org/persons/2017GAYN01) | 2.17, 1.04, 6.17, 2.13, 1.76 |
+| 2.03 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | 1.88, 4.64, 2.01, 2.16, 1.92 |
 | 2.04 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | 1.52, 1.70, 2.26, 3.21, 2.17 |
-| 2.06 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.95, 2.51, 3.09, 1.72, 1.74 |
 
 ### Rubik's Clock
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 3.86 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 3.52, 4.28, 4.57, 3.54, 3.76 |
-| 4.32 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 3.34, 4.55, 4.47, 6.92, 3.96 |
+| 4.29 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 3.93, 4.12, 9.30, 4.27, 4.49 |
 | 4.53 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) | 5.71, 4.55, 4.21, 4.15, 4.83 |
 | 4.64 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 4.77, 4.51, DNF, 4.61, 4.56 |
 | 4.88 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 4.76, 5.19, DNF, 4.70, 4.42 |

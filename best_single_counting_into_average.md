@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on  2 June 2021*
+*Computed on  3 June 2021*
 
 
 ### Rubik's Cube
@@ -119,9 +119,9 @@
 | 4.04 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017LOUY01) |
 | 4.07 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017LOUY01) |
 | 4.07 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017LOUY01) |
+| 4.12 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Bogoroditsk Open 2021](https://www.worldcubeassociation.org/competitions/BogoroditskOpen2021/results/by_person#2016GUND05) |
 | 4.16 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Hangzhou Autumn 2019](https://www.worldcubeassociation.org/competitions/HangzhouAutumn2019/results/by_person#2017LOUY01) |
 | 4.17 | [Suen Ming Chi (孫銘志)](https://www.worldcubeassociation.org/persons/2017CHIS02) | [GDSY Open 2019](https://www.worldcubeassociation.org/competitions/GDSYOpen2019/results/by_person#2017CHIS02) |
-| 4.17 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Hangzhou Autumn 2019](https://www.worldcubeassociation.org/competitions/HangzhouAutumn2019/results/by_person#2017LOUY01) |
 
 ### Skewb
 

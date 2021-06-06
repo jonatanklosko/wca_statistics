@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Computed on  5 June 2021*
+*Computed on  6 June 2021*
 
 
 ### Rubik's Cube
@@ -63,7 +63,7 @@
 | 7.82 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 7.83 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 7.84 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) |
-| 7.86 | [Dmitry Dobrjakov](https://www.worldcubeassociation.org/persons/2011DOBR01) |
+| 7.86 | [Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01) |
 
 ### 2x2x2 Cube
 

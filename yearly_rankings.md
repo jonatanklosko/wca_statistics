@@ -1,15 +1,15 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Computed on  8 June 2021*
+*Computed on  9 June 2021*
 
 
 ### Rubik's Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **4.06** | China | [Wuhan Open 2021](https://www.worldcubeassociation.org/competitions/WuhanOpen2021) | 5.48, 5.52, 5.45, 4.06, 7.51 |
 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) | **4.42** | Denmark | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 8.51, 4.42, 7.24, 8.52, 6.83 |
-| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **4.45** | China | [Guangzhou Panyu Morning 2021](https://www.worldcubeassociation.org/competitions/GuangzhouPanyuMorning2021) | 5.62, 4.45, 7.76, 6.32, 6.46 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **4.65** | Australia | [Sydney Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/SydneyReOpenSaturday2021) | 6.24, 6.41, 6.34, 6.30, 4.65 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **4.86** | China | [Beijing Spring AM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringAM2021) | 8.30, 9.30, 4.86, 6.74, 8.81 |
 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | **4.88** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 6.65, 8.04, 6.00, 4.88, 6.43 |
@@ -23,16 +23,16 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **5.48** | China | [Wuhan Open 2021](https://www.worldcubeassociation.org/competitions/WuhanOpen2021) | 5.48, 5.52, 5.45, 4.06, 7.51 |
 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | **5.57** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 5.87, 5.42, 5.30, 7.53, 5.42 |
-| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **5.69** | China | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021) | 5.56, 6.47, 5.95, 5.48, 5.56 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **6.06** | Australia | [Sydney Re-Open Saturday 2021](https://www.worldcubeassociation.org/competitions/SydneyReOpenSaturday2021) | 6.21, 5.85, 5.47, 6.11, 6.57 |
+| [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | **6.16** | China | [Wuhan Open 2021](https://www.worldcubeassociation.org/competitions/WuhanOpen2021) | 6.80, 5.88, 5.66, 5.93, 6.67 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **6.28** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 6.25, 6.42, 7.49, 6.16, 5.99 |
 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) | **6.31** | Denmark | [Kunshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/KunshanAfternoon2021) | 5.92, 6.60, 6.90, 6.16, 6.18 |
 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **6.52** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 5.90, 6.74, 6.98, 6.51, 6.31 |
 | [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) | **6.61** | China | [Shenzhen Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenGoodAfternoon2021) | 6.37, 5.39, 6.83, 8.73, 6.64 |
 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **6.62** | Australia | [Barwon Cube for the Kids 2021](https://www.worldcubeassociation.org/competitions/BarwonCubefortheKids2021) | 7.64, 6.78, 6.51, 6.56, 6.04 |
 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | **6.64** | China | [Beijing Spring PM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringPM2021) | 6.85, 6.58, 6.48, 6.41, 9.74 |
-| [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **6.77** | United Kingdom | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 6.86, 8.27, 7.34, 5.58, 6.11 |
 
 ### 2x2x2 Cube - Single
 
@@ -86,12 +86,12 @@
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **21.57** | Australia | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021) | 22.36, 26.61, 21.30, 17.98, 21.05 |
 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | **25.56** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 24.58, 25.34, 25.28, 26.05, 30.98 |
 | [Hua Huang (黄华)](https://www.worldcubeassociation.org/persons/2018HUAN08) | **26.48** | China | [Guilin Open 2021](https://www.worldcubeassociation.org/competitions/GuilinOpen2021) | 28.10, 26.25, 28.60, 25.10, 24.27 |
+| [Heng Wu (吴恒)](https://www.worldcubeassociation.org/persons/2017WUHE01) | **27.34** | China | [Wuhan Open 2021](https://www.worldcubeassociation.org/competitions/WuhanOpen2021) | 27.07, 28.84, 25.76, 42.07, 26.12 |
 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **27.87** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 29.71, 27.84, 26.20, 23.32, 29.57 |
 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | **28.25** | China | [Nanchang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/NanchangGoodAfternoon2021) | 26.66, DNF, 27.45, 26.11, 30.64 |
 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **28.30** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 24.01, 28.69, 32.59, 27.49, 28.71 |
 | [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **29.26** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 30.74, 35.55, 29.90, 26.34, 27.15 |
 | [Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01) | **29.26** | Russia | [SPB Muffin Mini 2021](https://www.worldcubeassociation.org/competitions/SPBMuffinMini2021) | 28.44, 31.30, 30.81, 28.54, 28.31 |
-| [Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01) | **29.56** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.96, 35.97, 27.19, 30.36, 28.36 |
 | [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) | **29.56** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.59, 29.09, 28.78, 29.99, 34.38 |
 
 ### 5x5x5 Cube - Single
@@ -248,11 +248,11 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **6.90** | China | [Wuhan Open 2021](https://www.worldcubeassociation.org/competitions/WuhanOpen2021) | 6.90, 11.82, 11.62, 11.02, 12.00 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **7.67** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 16.42, 11.82, 16.72, 10.90, 7.67 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **7.71** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 11.94, 12.01, 11.45, 9.61, 7.71 |
 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **8.18** | China | [Chengdu New Year Afternoon 2021](https://www.worldcubeassociation.org/competitions/ChengduNewYearAfternoon2021) | 10.92, 8.18, 11.38, 10.02, 10.54 |
 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **8.53** | China | [Xuzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/XuzhouOpenPM2021) | 13.34, 8.53, 16.40, 12.09, 13.81 |
-| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **8.61** | China | [Beijing Spring PM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringPM2021) | 10.67, 12.50, 9.94, 9.20, 8.61 |
 | [Ruohan Qiu (邱若寒)](https://www.worldcubeassociation.org/persons/2012QIUR01) | **8.74** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 10.99, 15.29, 14.85, 8.74, 15.31 |
 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | **9.09** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 13.70, 12.91, 12.81, 16.08, 9.09 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **9.20** | New Zealand | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 9.66, 11.70, 11.94, 9.84, 9.20 |
@@ -293,7 +293,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **33.78** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 34.30, 34.50, 33.17, 33.88, 29.67 |
+| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **33.73** | China | [Wuhan Open 2021](https://www.worldcubeassociation.org/competitions/WuhanOpen2021) | 34.18, 32.82, 32.83, 34.19, 38.79 |
 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | **34.45** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 35.51, 34.32, 31.91, 41.49, 33.51 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **38.03** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 38.83, 41.68, 38.16, 37.11, 35.84 |
 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | **38.65** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 44.50, 32.98, 36.69, 39.64, 39.62 |
@@ -302,7 +302,7 @@
 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **42.98** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | 37.04, 44.49, 44.67, 53.15, 39.77 |
 | [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | **43.46** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 46.05, 42.42, 43.19, 44.77, 41.82 |
 | [Zejun Chen (陈泽鋆)](https://www.worldcubeassociation.org/persons/2018CHEZ21) | **43.58** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 39.95, 42.90, 47.88, 48.86, 39.34 |
-| [Chenxiao He (何辰骁)](https://www.worldcubeassociation.org/persons/2015HECH02) | **44.54** | China | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021) | 42.85, 44.56, 45.55, 43.50, 46.03 |
+| [Dongzhe Li (李东哲)](https://www.worldcubeassociation.org/persons/2014LIDO01) | **43.78** | China | [Wuhan Open 2021](https://www.worldcubeassociation.org/competitions/WuhanOpen2021) | 42.35, 45.05, 43.83, 42.46, 52.09 |
 
 ### Pyraminx - Single
 
@@ -460,7 +460,7 @@
 | [Haijun Tan (谭海俊)](https://www.worldcubeassociation.org/persons/2011TANH01) | **10:32.00** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 10:32.00, DNF, DNF |
 | [Alex Taylor](https://www.worldcubeassociation.org/persons/2020TAYL02) | **15:11.00** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 15:11.00, DNF, DNS |
 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | **20:20.00** | Australia | [Please Be Quiet Brisbane 2021](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2021) | 20:20.00, 23:07.00, 23:11.00 |
-| [Yinhao Ding](https://www.worldcubeassociation.org/persons/2019DING02) | **26:46.00** | Australia | [Please Be Quiet Brisbane 2021](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2021) | DNF, 26:46.00, DNF |
+| [Yinhao Ding](https://www.worldcubeassociation.org/persons/2019DING02) | **21:47.00** | Australia | [SA State Championship 2021](https://www.worldcubeassociation.org/competitions/SAStateChampionship2021) | 21:47.00, DNS, DNS |
 
 ### 5x5x5 Blindfolded - Average
 

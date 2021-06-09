@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on  8 June 2021*
+*Computed on  9 June 2021*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -13,7 +13,7 @@
 | Russia | **509** | 353 | 292 | 1154 |
 | Poland | **323** | 220 | 157 | 700 |
 | Malaysia | **319** | 296 | 268 | 883 |
-| China | **316** | 281 | 250 | 847 |
+| China | **316** | 282 | 250 | 848 |
 | Canada | **300** | 311 | 331 | 942 |
 | Denmark | **289** | 233 | 168 | 690 |
 | United Kingdom | **278** | 306 | 312 | 896 |
@@ -25,7 +25,7 @@
 | Taiwan | **182** | 154 | 149 | 485 |
 | India | **174** | 143 | 131 | 448 |
 | Switzerland | **170** | 250 | 224 | 644 |
-| Hong Kong | **163** | 201 | 170 | 534 |
+| Hong Kong | **168** | 201 | 172 | 541 |
 | Italy | **163** | 150 | 136 | 449 |
 | Spain | **148** | 131 | 155 | 434 |
 | Ukraine | **144** | 135 | 135 | 414 |
@@ -50,9 +50,9 @@
 | Slovakia | **47** | 47 | 61 | 155 |
 | Guatemala | **41** | 28 | 32 | 101 |
 | Norway | **30** | 36 | 48 | 114 |
+| Vietnam | **27** | 38 | 38 | 103 |
 | Chile | **27** | 20 | 17 | 64 |
 | Croatia | **26** | 48 | 37 | 111 |
-| Vietnam | **25** | 38 | 38 | 101 |
 | Brazil | **25** | 30 | 16 | 71 |
 | Uzbekistan | **25** | 21 | 22 | 68 |
 | Belize | **24** | 6 | 1 | 31 |

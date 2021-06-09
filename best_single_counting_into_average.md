@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on  8 June 2021*
+*Computed on  9 June 2021*
 
 
 ### Rubik's Cube
@@ -12,11 +12,11 @@
 | 5.04 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Odd Day in Sydney 2019](https://www.worldcubeassociation.org/competitions/OddDayinSydney2019/results/by_person#2009ZEMD01) |
 | 5.09 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017XURU04) |
 | 5.13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2017GARR05) |
+| 5.15 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | [Wuhan Open 2021](https://www.worldcubeassociation.org/competitions/WuhanOpen2021/results/by_person#2017XURU04) |
 | 5.16 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 22 2019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin222019/results/by_person#2012PARK03) |
 | 5.20 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021/results/by_person#2009ZEMD01) |
 | 5.24 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017XURU04) |
 | 5.26 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [ABCD 2018](https://www.worldcubeassociation.org/competitions/ABCD2018/results/by_person#2012PARK03) |
-| 5.28 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Malaysia Cube Open 2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017/results/by_person#2009ZEMD01) |
 
 ### 2x2x2 Cube
 

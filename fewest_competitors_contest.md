@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Computed on 10 June 2021*
+*Computed on 11 June 2021*
 
 | Competitors | Competition |
 | ---: | :--- |

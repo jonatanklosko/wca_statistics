@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Computed on 10 June 2021*
+*Computed on 11 June 2021*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -26,7 +26,7 @@
 | 5 | 7x7x7 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [COpen2 2018](https://www.worldcubeassociation.org/competitions/Cerritos2018) |  | 3.16 |
 | 5 | 3x3x3 Fewest Moves | Average | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Moves are for n00bs 2012](https://www.worldcubeassociation.org/competitions/MovesN00bs2012) | [US Nationals 2014](https://www.worldcubeassociation.org/competitions/USNationals2014) | 1.93 |
 | 5 | Megaminx | Single | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | 2.45 |
-| 5 | Megaminx | Single | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Rubik Pro 2017](https://www.worldcubeassociation.org/competitions/RubikPro2017) |  | 4.05 |
+| 5 | Megaminx | Single | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Rubik Pro 2017](https://www.worldcubeassociation.org/competitions/RubikPro2017) |  | 4.06 |
 | 5 | Megaminx | Average | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) | 2.55 |
 | 5 | Pyraminx | Average | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Pabianice Open 2008](https://www.worldcubeassociation.org/competitions/PabianiceOpen2008) | 1.65 |
 | 5 | Rubik's Clock | Average | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Shenzhen Open 2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018) |  | 2.89 |
@@ -80,7 +80,7 @@
 | 3 | 4x4x4 Blindfolded | Single | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | [US Nationals 2006](https://www.worldcubeassociation.org/competitions/US2006) | [Swedish Cube Day 2008](https://www.worldcubeassociation.org/competitions/SwedishCubeDay2008) | 2.34 |
 | 3 | 4x4x4 Blindfolded | Single | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | [Shanghai Winter is Coming 2016](https://www.worldcubeassociation.org/competitions/ShanghaiWinterisComing2016) | [Great Lakes Championship 2018](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2018) | 1.53 |
 | 3 | 5x5x5 Blindfolded | Single | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) | [Finnish Open 2010](https://www.worldcubeassociation.org/competitions/FinnishOpen2010) | [Austrian Open 2012](https://www.worldcubeassociation.org/competitions/AustrianOpen2012) | 1.59 |
-| 3 | 3x3x3 Multi-Blind | Single | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | [Silence in the Grove 2019](https://www.worldcubeassociation.org/competitions/SilenceInTheGrove2019) |  | 2.04 |
+| 3 | 3x3x3 Multi-Blind | Single | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | [Silence in the Grove 2019](https://www.worldcubeassociation.org/competitions/SilenceInTheGrove2019) |  | 2.05 |
 | 3 | 3x3x3 With Feet | Single | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) | [Suwon 2008](https://www.worldcubeassociation.org/competitions/Suwon2008) | 2.41 |
 | 3 | 3x3x3 With Feet | Average | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) | [Suwon 2008](https://www.worldcubeassociation.org/competitions/Suwon2008) | 2.41 |
 | 3 | 3x3x3 With Feet | Average | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | [Tampere Open 2008](https://www.worldcubeassociation.org/competitions/TampereOpen2008) | [Cubing Korea Xmas Eve 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaXmasEve2011) | 3.16 |

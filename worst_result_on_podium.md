@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on 13 June 2021*
+*Computed on 14 June 2021*
 
 
 ### Rubik's Cube

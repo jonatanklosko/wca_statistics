@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Computed on 17 June 2021*
+*Computed on 18 June 2021*
 
 
 ### Rubik's Cube - Single
@@ -522,10 +522,10 @@
 | [Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01) | **44.14** | China | [Wuhan Open 2019](https://www.worldcubeassociation.org/competitions/WuhanOpen2019) | 44.19, 53.68, 35.68, 44.84, 43.38 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **45.05** | Sweden | [Blind in the Water Tower 2019](https://www.worldcubeassociation.org/competitions/BlindintheWaterTower2019) | 36.72, 44.25, 44.22, 53.17, 46.69 |
 | [Daniel James](https://www.worldcubeassociation.org/persons/2012JAME04) | **45.23** | India | [SCMU 2014](https://www.worldcubeassociation.org/competitions/SCMU2014) | 43.37, 55.60, 36.73 |
+| [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) | **45.47** | United States | [Lexington Feet Fest 2019](https://www.worldcubeassociation.org/competitions/LexingtonFeetFest2019) | 48.52, 44.29, 46.02, 42.68, 46.10 |
 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **46.24** | United States | [Rocky Top 2019](https://www.worldcubeassociation.org/competitions/RockyTop2019) | 43.67, 47.72, 39.41, 48.57, 47.34 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **47.42** | United States | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016) | 54.33, 43.07, 44.87 |
 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) | **50.16** | Latvia | [Latvian Open 2019](https://www.worldcubeassociation.org/competitions/LatvianOpen2019) | 1:08.56, 47.76, 45.64, 56.78, 45.93 |
-| [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **50.54** | United States | [Big Cheese 2019](https://www.worldcubeassociation.org/competitions/BigCheese2019) | 42.96, 53.89, 1:01.97, 44.47, 53.25 |
 
 ### Rubik's Magic - Single
 

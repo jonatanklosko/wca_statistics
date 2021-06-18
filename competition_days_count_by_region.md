@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Computed on 17 June 2021*
+*Computed on 18 June 2021*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 7315 |
+| 1.50 | World | 7327 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2332 |
+| 1.77 | Europe | 2339 |
 | 1.59 | South America | 828 |
 | 1.46 | Oceania | 253 |
 | 1.41 | Asia | 1974 |
-| 1.22 | North America | 1848 |
+| 1.21 | North America | 1853 |
 | 1.16 | Africa | 80 |
 
 ### Countries
@@ -35,18 +35,18 @@
 | 1.99 | United Kingdom | 94 |
 | 1.98 | Germany | 150 |
 | 1.95 | Slovakia | 22 |
-| 1.94 | Russia | 212 |
 | 1.94 | Belgium | 50 |
+| 1.94 | Russia | 215 |
 | 1.93 | Belarus | 42 |
 | 1.93 | Croatia | 14 |
 | 1.92 | Ireland | 13 |
 | 1.92 | Finland | 74 |
+| 1.89 | Serbia | 9 |
 | 1.89 | Uzbekistan | 9 |
 | 1.89 | Turkey | 35 |
-| 1.88 | Serbia | 8 |
 | 1.87 | Switzerland | 69 |
-| 1.84 | France | 192 |
 | 1.84 | Ukraine | 87 |
+| 1.84 | France | 194 |
 | 1.83 | Brazil | 292 |
 | 1.83 | Spain | 207 |
 | 1.82 | Austria | 17 |
@@ -68,7 +68,7 @@
 | 1.64 | Argentina | 45 |
 | 1.64 | Indonesia | 161 |
 | 1.63 | India | 374 |
-| 1.60 | Poland | 256 |
+| 1.60 | Poland | 257 |
 | 1.58 | Singapore | 19 |
 | 1.57 | Colombia | 109 |
 | 1.56 | Bolivia | 63 |
@@ -109,7 +109,7 @@
 | 1.20 | Portugal | 15 |
 | 1.18 | Honduras | 11 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | United States | 1470 |
+| 1.17 | United States | 1475 |
 | 1.16 | Canada | 184 |
 | 1.12 | El Salvador | 17 |
 | 1.10 | Azerbaijan | 31 |

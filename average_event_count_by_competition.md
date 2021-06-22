@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Computed on 21 June 2021*
+*Computed on 22 June 2021*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |

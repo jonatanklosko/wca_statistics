@@ -1,13 +1,13 @@
 ## Name parts count
 
 *Note: Local names within parentheses are ignored.*
-*Computed on 26 June 2021*
+*Computed on 27 June 2021*
 
 | Parts | People | Countries of origin |
 | :--: | ---: | :--- |
 | 1 | 233 | Indonesia *(40.34 %)*, India *(25.75 %)*, China *(12.45 %)*, United States *(5.15 %)*, Malaysia *(2.15 %)* |
-| 2 | 114806 | United States *(22.03 %)*, China *(19.98 %)*, India *(8.75 %)*, Russia *(5.63 %)*, Canada *(3.76 %)* |
-| 3 | 22695 | India *(10.57 %)*, Spain *(8.79 %)*, United States *(8.41 %)*, Brazil *(8.15 %)*, Philippines *(7.56 %)* |
+| 2 | 114815 | United States *(22.03 %)*, China *(19.99 %)*, India *(8.75 %)*, Russia *(5.63 %)*, Canada *(3.76 %)* |
+| 3 | 22696 | India *(10.57 %)*, Spain *(8.79 %)*, United States *(8.40 %)*, Brazil *(8.15 %)*, Philippines *(7.56 %)* |
 | 4 | 11173 | Brazil *(17.29 %)*, Mexico *(11.36 %)*, Peru *(10.84 %)*, Colombia *(10.23 %)*, Philippines *(5.86 %)* |
 | 5 | 1620 | Brazil *(59.44 %)*, Malaysia *(12.22 %)*, Peru *(4.07 %)*, Mexico *(3.64 %)*, Guatemala *(3.27 %)* |
 | 6 | 327 | Brazil *(44.95 %)*, Malaysia *(33.64 %)*, Peru *(5.20 %)*, Mexico *(4.89 %)*, Spain *(1.53 %)* |

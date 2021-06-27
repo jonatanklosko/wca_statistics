@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 26 June 2021*
+*Computed on 27 June 2021*
 
 
 ### Rubik's Cube
@@ -16,7 +16,7 @@
 | 5.16 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 22 2019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin222019/results/by_person#2012PARK03) |
 | 5.20 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021/results/by_person#2009ZEMD01) |
 | 5.24 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017XURU04) |
-| 5.26 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [ABCD 2018](https://www.worldcubeassociation.org/competitions/ABCD2018/results/by_person#2012PARK03) |
+| 5.25 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021/results/by_person#2017KONG05) |
 
 ### 2x2x2 Cube
 

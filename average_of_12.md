@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 26 June 2021*
+*Computed on 27 June 2021*
 
 
 ### Rubik's Cube
@@ -12,12 +12,12 @@
 | 5.89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.76, 6.11, 5.69, 5.03, 7.22, 6.53, 5.63, 5.40, 5.98, 6.18, 6.00, 6.40 |
 | 5.94 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 5.53, 6.32, 5.81, DNF, 6.38, 5.35, 7.21, 5.38, 5.98, 5.76, 5.40, 5.72 |
 | 6.15 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | 6.17, 5.16, 8.31, 5.87, 5.42, 5.30, 7.53, 5.42, 6.65, 8.04, 6.00, 4.88 |
+| 6.16 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | 5.64, 6.73, 6.80, 5.88, 5.66, 5.93, 6.67, 5.51, 8.67, 5.76, 6.02, 6.59 |
 | 6.28 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6.69, 6.12, 5.51, 6.51, 6.45, 6.74, 7.09, 5.88, 6.50, 6.15, 4.90, 6.29 |
 | 6.34 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | 6.27, 6.42, 6.10, 6.43, 7.05, 5.84, 6.36, 6.30, 6.68, 6.54, 6.54, 5.60 |
 | 6.34 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 6.38, 6.08, 7.67, 5.72, 5.99, 5.52, 6.23, 6.27, 7.46, 6.50, 6.05, 6.75 |
-| 6.43 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | 6.02, 7.70, 7.24, 6.26, 6.96, 6.85, 5.64, 6.73, 6.80, 5.88, 5.66, 5.93 |
+| 6.38 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 5.66, 6.01, 6.71, 6.25, 6.42, 7.49, 6.16, 5.99, 6.18, 6.19, 6.74, 7.24 |
 | 6.45 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | 6.72, 6.27, 6.21, 6.25, 6.18, 7.13, 5.77, 6.15, 7.71, 7.44, 5.97, 6.19 |
-| 6.49 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 5.69, 6.02, 7.22, 6.31, 6.97, 6.43, 6.87, 6.71, 8.23, 5.66, 6.01, 6.71 |
 
 ### 2x2x2 Cube
 

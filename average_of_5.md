@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 26 June 2021*
+*Computed on 27 June 2021*
 
 
 ### Rubik's Cube
@@ -9,6 +9,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 5.34 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.52, 6.03, 4.89, 5.61, 4.58 |
+| 5.45 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | 5.25, 5.23, 6.72, 5.79, 5.32 |
 | 5.52 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 7.16, 5.04, 4.67, 6.55, 4.99 |
 | 5.53 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | 5.16, 8.31, 5.87, 5.42, 5.30 |
 | 5.58 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 5.52, 4.90, 5.72, 6.53, 5.50 |
@@ -17,7 +18,6 @@
 | 5.84 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 6.11, 5.44, 7.14, 5.98, 4.86 |
 | 5.89 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.66, 6.04, 5.32, 6.76, 5.97 |
 | 5.93 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 6.08, 7.67, 5.72, 5.99, 5.52 |
-| 5.95 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.92, 5.94, 6.00, 7.26, 5.81 |
 
 ### 2x2x2 Cube
 

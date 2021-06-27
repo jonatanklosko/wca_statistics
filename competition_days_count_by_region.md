@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Computed on 26 June 2021*
+*Computed on 27 June 2021*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 7329 |
+| 1.50 | World | 7341 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2340 |
+| 1.77 | Europe | 2344 |
 | 1.59 | South America | 828 |
-| 1.46 | Oceania | 253 |
-| 1.41 | Asia | 1974 |
-| 1.21 | North America | 1854 |
+| 1.46 | Oceania | 254 |
+| 1.41 | Asia | 1976 |
+| 1.21 | North America | 1859 |
 | 1.16 | Africa | 80 |
 
 ### Countries
@@ -27,7 +27,7 @@
 | 2.27 | Hungary | 26 |
 | 2.23 | Czech Republic | 26 |
 | 2.00 | Bosnia and Herzegovina | 7 |
-| 2.00 | Kazakhstan | 22 |
+| 2.00 | Kazakhstan | 23 |
 | 2.00 | Liechtenstein | 2 |
 | 2.00 | Lithuania | 12 |
 | 2.00 | Nigeria | 1 |
@@ -53,8 +53,8 @@
 | 1.82 | Mexico | 84 |
 | 1.81 | Thailand | 27 |
 | 1.80 | San Marino | 5 |
-| 1.79 | Denmark | 84 |
 | 1.78 | Guatemala | 41 |
+| 1.77 | Denmark | 86 |
 | 1.76 | Slovenia | 21 |
 | 1.74 | Sweden | 97 |
 | 1.74 | Norway | 58 |
@@ -68,7 +68,7 @@
 | 1.64 | Argentina | 45 |
 | 1.64 | Indonesia | 161 |
 | 1.63 | India | 374 |
-| 1.60 | Poland | 257 |
+| 1.60 | Poland | 258 |
 | 1.58 | Singapore | 19 |
 | 1.57 | Colombia | 109 |
 | 1.56 | Bolivia | 63 |
@@ -78,9 +78,9 @@
 | 1.50 | Ghana | 2 |
 | 1.50 | Luxembourg | 2 |
 | 1.50 | Tajikistan | 2 |
-| 1.48 | New Zealand | 56 |
+| 1.49 | New Zealand | 57 |
+| 1.48 | Romania | 67 |
 | 1.47 | Peru | 134 |
-| 1.47 | Romania | 66 |
 | 1.47 | Ecuador | 15 |
 | 1.46 | Italy | 131 |
 | 1.46 | Australia | 197 |
@@ -95,7 +95,7 @@
 | 1.31 | Venezuela | 52 |
 | 1.30 | Estonia | 33 |
 | 1.29 | Mongolia | 14 |
-| 1.26 | China | 610 |
+| 1.26 | China | 611 |
 | 1.25 | Bahrain | 4 |
 | 1.25 | Bulgaria | 8 |
 | 1.25 | Greece | 12 |
@@ -109,7 +109,7 @@
 | 1.20 | Portugal | 15 |
 | 1.18 | Honduras | 11 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | United States | 1476 |
+| 1.17 | United States | 1481 |
 | 1.16 | Canada | 184 |
 | 1.12 | El Salvador | 17 |
 | 1.10 | Azerbaijan | 31 |

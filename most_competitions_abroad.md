@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Computed on 26 June 2021*
+*Computed on 27 June 2021*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -53,10 +53,10 @@
 | 51 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 51 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
 | 51 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
+| 49 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
 | 49 | [Nora Christ](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 49 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 48 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
 | 48 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 47 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |

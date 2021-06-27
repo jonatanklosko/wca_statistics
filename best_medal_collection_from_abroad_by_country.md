@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on 26 June 2021*
+*Computed on 27 June 2021*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -15,7 +15,7 @@
 | Malaysia | **319** | 296 | 268 | 883 |
 | China | **316** | 282 | 250 | 848 |
 | Canada | **300** | 311 | 331 | 942 |
-| Denmark | **289** | 233 | 168 | 690 |
+| Denmark | **289** | 233 | 169 | 691 |
 | United Kingdom | **278** | 306 | 312 | 896 |
 | Australia | **275** | 120 | 81 | 476 |
 | Sweden | **258** | 315 | 318 | 891 |

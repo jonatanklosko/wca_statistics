@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Computed on 26 June 2021*
+*Computed on 27 June 2021*
 
 
 ### 100 Competitions
@@ -96,12 +96,12 @@
 | 161 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 168 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 168 | [Santhosh Sabarinathan](https://www.worldcubeassociation.org/persons/2018SABA02) |
+| 170 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) |
 | 176 | [Klaudia Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK02) |
 | 176 | [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) |
 | 176 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
 | 180 | [Roger Kirchner](https://www.worldcubeassociation.org/persons/2019KIRC01) |
 | 183 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) |
-| 196 | [Alistair Robequin](https://www.worldcubeassociation.org/persons/2019ROBE01) |
 
 ### 5 Competitions
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 29 June 2021*
+*Computed on 30 June 2021*
 
 
 ### Rubik's Cube
@@ -161,13 +161,13 @@
 | 1.76 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 1.91, 1.62, 1.67, 5.49, 1.71 |
 | 1.84 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.17, 2.53, 1.72, 1.64, 2.18 |
 | 1.87 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 5.04, 1.76, 1.86, 2.01, 1.68 |
+| 1.91 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.83, 1.77, 3.06, 2.14, 1.68 |
 | 1.99 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 4.12, 2.07, 1.56, 2.16, 1.75 |
 | 2.00 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 2.22, 2.57, 2.04, 1.74, 1.51 |
 | 2.02 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 1.30, 2.27, 2.16, 2.66, 1.63 |
 | 2.02 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 2.09, 2.05, 1.94, 2.36, 1.79 |
 | 2.02 | [John Gaynor](https://www.worldcubeassociation.org/persons/2017GAYN01) | 2.17, 1.04, 6.17, 2.13, 1.76 |
 | 2.03 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | 1.88, 4.64, 2.01, 2.16, 1.92 |
-| 2.04 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | 1.52, 1.70, 2.26, 3.21, 2.17 |
 
 ### Rubik's Clock
 

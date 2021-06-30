@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Computed on 29 June 2021*
+*Computed on 30 June 2021*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 7341 |
+| 1.50 | World | 7345 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2344 |
+| 1.77 | Europe | 2347 |
 | 1.59 | South America | 828 |
 | 1.46 | Oceania | 254 |
 | 1.41 | Asia | 1976 |
-| 1.21 | North America | 1859 |
+| 1.21 | North America | 1860 |
 | 1.16 | Africa | 80 |
 
 ### Countries
@@ -29,7 +29,7 @@
 | 2.00 | Bosnia and Herzegovina | 7 |
 | 2.00 | Kazakhstan | 23 |
 | 2.00 | Liechtenstein | 2 |
-| 2.00 | Lithuania | 12 |
+| 2.00 | Lithuania | 13 |
 | 2.00 | Nigeria | 1 |
 | 2.00 | Palestine | 1 |
 | 1.99 | United Kingdom | 94 |
@@ -46,7 +46,7 @@
 | 1.89 | Turkey | 35 |
 | 1.87 | Switzerland | 69 |
 | 1.84 | Ukraine | 87 |
-| 1.84 | France | 194 |
+| 1.83 | France | 195 |
 | 1.83 | Brazil | 292 |
 | 1.83 | Spain | 207 |
 | 1.82 | Austria | 17 |
@@ -56,8 +56,8 @@
 | 1.78 | Guatemala | 41 |
 | 1.77 | Denmark | 86 |
 | 1.76 | Slovenia | 21 |
+| 1.75 | Norway | 59 |
 | 1.74 | Sweden | 97 |
-| 1.74 | Norway | 58 |
 | 1.71 | Bangladesh | 7 |
 | 1.69 | Iran | 29 |
 | 1.67 | Costa Rica | 9 |
@@ -109,7 +109,7 @@
 | 1.20 | Portugal | 15 |
 | 1.18 | Honduras | 11 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | United States | 1481 |
+| 1.17 | United States | 1482 |
 | 1.16 | Canada | 184 |
 | 1.12 | El Salvador | 17 |
 | 1.10 | Azerbaijan | 31 |

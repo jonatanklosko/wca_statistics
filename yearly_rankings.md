@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Computed on 29 June 2021*
+*Computed on 30 June 2021*
 
 
 ### Rubik's Cube - Single
@@ -221,13 +221,13 @@
 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **17** | China | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021) | 25, 23, 17 |
 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | **22** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 27, 23, 22 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **23** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 30, 26, 23 |
+| [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **24** | United States | [Back to Cambridge B 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeB2021) | DNF, 25, 24 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | **25** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 25, DNF, DNF |
 | [Peiyan Li (利沛焰)](https://www.worldcubeassociation.org/persons/2013LIPE01) | **25** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 35, 25, 31 |
 | [Aleksandr Beznogov](https://www.worldcubeassociation.org/persons/2017BEZN01) | **25** | Russia | [Welcome to Murmansk 2021](https://www.worldcubeassociation.org/competitions/WelcometoMurmansk2021) | 25 |
 | [Zhiyuan Zhang (张质源)](https://www.worldcubeassociation.org/persons/2018ZHAZ08) | **25** | China | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021) | 25, 28, 31 |
-| [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **26** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 26, 31, 33 |
-| [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) | **27** | China | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021) | 34, 28, 27 |
-| [Maosheng Chen (陈茂盛)](https://www.worldcubeassociation.org/persons/2012CHEN44) | **27** | China | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021) | 35, 27, 33 |
+| [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | **25** | United States | [Back to Cambridge A 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeA2021) | 25, 26, 29 |
+| [Vincent Trang](https://www.worldcubeassociation.org/persons/2019TRAN10) | **25** | United States | [Back to Cambridge A 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeA2021) | 30, 25, 29 |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -236,13 +236,13 @@
 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **21.67** | China | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021) | 25, 23, 17 |
 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | **24.00** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 27, 23, 22 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **26.33** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 30, 26, 23 |
+| [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | **26.67** | United States | [Back to Cambridge A 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeA2021) | 25, 26, 29 |
 | [Zhiyuan Zhang (张质源)](https://www.worldcubeassociation.org/persons/2018ZHAZ08) | **28.00** | China | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021) | 25, 28, 31 |
+| [Vincent Trang](https://www.worldcubeassociation.org/persons/2019TRAN10) | **28.00** | United States | [Back to Cambridge A 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeA2021) | 30, 25, 29 |
 | [Benjamin Warry](https://www.worldcubeassociation.org/persons/2017WARR04) | **29.33** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 30, 30, 28 |
 | [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) | **29.67** | China | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021) | 34, 28, 27 |
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **30.00** | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) | 26, 31, 33 |
 | [Peiyan Li (利沛焰)](https://www.worldcubeassociation.org/persons/2013LIPE01) | **30.33** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 35, 25, 31 |
-| [Zhiyuan Ma (马之元)](https://www.worldcubeassociation.org/persons/2017MAZH04) | **30.33** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 30, 30, 31 |
-| [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **30.67** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 32, 31, 29 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -314,10 +314,10 @@
 | [Kaiden Ziegler](https://www.worldcubeassociation.org/persons/2018ZIEG02) | **1.51** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 5.25, 3.03, 1.51, 4.49, DNF |
 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **1.67** | China | [Beijing Spring AM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringAM2021) | 2.59, DNF, 3.24, 3.46, 1.67 |
 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | **1.68** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1.68, 1.79, 4.43, 4.35, 3.02 |
+| [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **1.68** | New Zealand | [Nimble Napier 2021](https://www.worldcubeassociation.org/competitions/NimbleNapier2021) | 1.77, 3.06, 2.14, 1.68, DNF |
 | [Zhiyi Lin (林之逸)](https://www.worldcubeassociation.org/persons/2019LINZ01) | **1.69** | China | [Guilin Open 2021](https://www.worldcubeassociation.org/competitions/GuilinOpen2021) | 3.13, 3.09, 2.39, 2.80, 1.69 |
 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | **1.70** | Russia | [Bogoroditsk Open 2021](https://www.worldcubeassociation.org/competitions/BogoroditskOpen2021) | 3.76, 1.70, 3.31, 3.82, 3.31 |
 | [Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | **1.70** | China | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021) | 2.89, 3.10, 2.90, 2.81, 1.70 |
-| [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | **1.74** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1.74, 3.81, 4.64, 4.74, 2.64 |
 
 ### Pyraminx - Average
 
@@ -327,7 +327,7 @@
 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | **2.25** | China | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 2.26, 3.11, 2.81, 1.69, 1.50 |
 | [Xuyang Chen (陈徐洋)](https://www.worldcubeassociation.org/persons/2019CHEN43) | **2.25** | China | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021) | 2.17, 4.41, 1.94, 2.64, 1.92 |
 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **2.28** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1.84, 3.07, 1.70, 5.00, 1.92 |
-| [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **2.37** | New Zealand | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 3.15, 2.36, 2.14, 2.07, 2.62 |
+| [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **2.32** | New Zealand | [Nimble Napier 2021](https://www.worldcubeassociation.org/competitions/NimbleNapier2021) | 1.77, 3.06, 2.14, 1.68, DNF |
 | [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | **2.38** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 2.92, 2.14, 4.17, 1.86, 2.07 |
 | [Zhiyi Lin (林之逸)](https://www.worldcubeassociation.org/persons/2019LINZ01) | **2.44** | China | [Guilin Open 2021](https://www.worldcubeassociation.org/competitions/GuilinOpen2021) | 2.06, 2.54, 2.31, 2.46, 3.31 |
 | [Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | **2.47** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 2.42, 3.05, 2.36, 2.04, 2.62 |

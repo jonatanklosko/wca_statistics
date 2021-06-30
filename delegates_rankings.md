@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Computed on 29 June 2021*
+*Computed on 30 June 2021*
 
 
 ### Rubik's Cube - Single
@@ -389,10 +389,10 @@
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **3.67** | Finland | [Kirkkonummi Open 2019](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2019) | 3.60, 4.14, 3.27, 5.07, 3.19 |
 | [Kirby Jay Caragan](https://www.worldcubeassociation.org/persons/2017CARA04) | **3.68** | Philippines | [Bonifacio Memorial 2018](https://www.worldcubeassociation.org/competitions/BonifacioMemorial2018) | 3.42, 4.36, 3.27, 4.69, 2.33 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **3.71** | United States | [Constitution State Winter 2020](https://www.worldcubeassociation.org/competitions/ConstitutionStateWinter2020) | 3.13, 4.74, 3.11, 3.25, 4.88 |
+| [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **3.80** | United States | [I Hope I Qualify 2018](https://www.worldcubeassociation.org/competitions/IHopeIQualify2018) | 4.78, 2.37, 3.88, 3.77, 3.74 |
 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | **3.86** | United States | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017) | 3.59, 5.51, 3.73, 3.30, 4.27 |
 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | **3.93** | United States | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) | 3.09, 3.59, 3.67, 7.67, 4.52 |
 | [Kristopher De Asis](https://www.worldcubeassociation.org/persons/2008ASIS01) | **4.01** | Canada | [Vancouver Summer 2015](https://www.worldcubeassociation.org/competitions/VancouverOpenSummer2015) | 10.52, 3.22, 4.86, 3.96, 2.84 |
-| [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | **4.01** | Norway | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) | 4.48, 4.93, 4.75, 2.80, 2.36 |
 
 ### Square-1 - Single
 
@@ -525,7 +525,7 @@
 | [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) | **45.47** | United States | [Lexington Feet Fest 2019](https://www.worldcubeassociation.org/competitions/LexingtonFeetFest2019) | 48.52, 44.29, 46.02, 42.68, 46.10 |
 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **46.24** | United States | [Rocky Top 2019](https://www.worldcubeassociation.org/competitions/RockyTop2019) | 43.67, 47.72, 39.41, 48.57, 47.34 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **47.42** | United States | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016) | 54.33, 43.07, 44.87 |
-| [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) | **50.16** | Latvia | [Latvian Open 2019](https://www.worldcubeassociation.org/competitions/LatvianOpen2019) | 1:08.56, 47.76, 45.64, 56.78, 45.93 |
+| [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **49.89** | United States | [Michigan 2019](https://www.worldcubeassociation.org/competitions/Michigan2019) | 1:15.35, 46.95, 47.35, 55.36, 44.63 |
 
 ### Rubik's Magic - Single
 

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Computed on 29 June 2021*
+*Computed on 30 June 2021*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -34,6 +34,7 @@
 | 9 | [April in Alice Springs 2021](https://www.worldcubeassociation.org/competitions/AprilinAliceSprings2021) |
 | 9 | [Arena Bernô 2 City FM 2019](https://www.worldcubeassociation.org/competitions/ArenaBerno2CityFM2019) |
 | 9 | [Avalon 2013](https://www.worldcubeassociation.org/competitions/AvalonOpen2013) |
+| 9 | [Back to Cambridge B 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeB2021) |
 | 9 | [Bogor Open 2013](https://www.worldcubeassociation.org/competitions/BogorOpen2013) |
 | 9 | [Cambridge Challenge 2020](https://www.worldcubeassociation.org/competitions/CambridgeChallenge2020) |
 | 9 | [Chalmers Open 2005](https://www.worldcubeassociation.org/competitions/ChalmersOpen2005) |
@@ -51,6 +52,7 @@
 | 10 | [ACA League II 2019](https://www.worldcubeassociation.org/competitions/ACALeagueII2019) |
 | 10 | [ABCD 2015](https://www.worldcubeassociation.org/competitions/AnotherBaliCubeDay2015) |
 | 10 | [Arctic Open 2015](https://www.worldcubeassociation.org/competitions/ArcticOpen2015) |
+| 10 | [Back to Cambridge A 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeA2021) |
 | 10 | [Bergshamra 2013](https://www.worldcubeassociation.org/competitions/BergshamraBlind2013) |
 | 10 | [Clock N' FMC Wisconsin 2019](https://www.worldcubeassociation.org/competitions/ClockNFMCWisconsin2019) |
 | 10 | [Cowboys FMC Party 2017](https://www.worldcubeassociation.org/competitions/CowboysFMCParty2017) |

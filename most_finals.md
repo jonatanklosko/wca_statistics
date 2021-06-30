@@ -1,6 +1,6 @@
 ## Most finals
 
-*Computed on 29 June 2021*
+*Computed on 30 June 2021*
 
 | Finals | Person |
 | ---: | :--- |
@@ -20,7 +20,7 @@
 | 1082 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 1061 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1059 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 1036 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
+| 1037 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 988 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 968 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 962 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |

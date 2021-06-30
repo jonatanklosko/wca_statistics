@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Computed on 29 June 2021*
+*Computed on 30 June 2021*
 
 
 ### Rubik's Cube
@@ -42,7 +42,7 @@
 | 7.42 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
 | 7.47 | [Zixuan Yang (杨子轩)](https://www.worldcubeassociation.org/persons/2017YANG55) |
 | 7.50 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) |
-| 7.52 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
+| 7.53 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 7.54 | [Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01) |
 | 7.55 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) |
 | 7.55 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
@@ -375,6 +375,7 @@
 | 28.26 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 28.41 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 28.41 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) |
+| 28.46 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) |
 | 28.53 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 28.59 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 28.74 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
@@ -382,7 +383,6 @@
 | 28.88 | [Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01) |
 | 28.90 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 28.93 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2017RAFA02) |
-| 28.95 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) |
 | 28.98 | [João Pedro Batista Ribeiro Costa](https://www.worldcubeassociation.org/persons/2013COST02) |
 | 28.98 | [Aleksandr Beznogov](https://www.worldcubeassociation.org/persons/2017BEZN01) |
 | 29.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
@@ -474,9 +474,9 @@
 | 43.16 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) |
 | 43.21 | [Masayuki Hirai (平井雅之)](https://www.worldcubeassociation.org/persons/2014HIRA05) |
 | 43.26 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
+| 43.33 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
 | 43.34 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) |
 | 43.41 | [Yun-Rui Chiang (江昀叡)](https://www.worldcubeassociation.org/persons/2015CHIA07) |
-| 43.48 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
 | 43.67 | [Junze Zhao (赵俊泽)](https://www.worldcubeassociation.org/persons/2016ZHAO28) |
 | 44.17 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 44.45 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) |
@@ -515,6 +515,7 @@
 | 2.62 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 2.66 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) |
 | 2.67 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) |
+| 2.70 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
 | 2.75 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) |
 | 2.79 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) |
 | 2.81 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) |
@@ -525,7 +526,6 @@
 | 2.89 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 2.89 | [Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) |
 | 2.90 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) |
-| 2.91 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
 | 2.92 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) |
 | 2.92 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) |
 | 2.95 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Computed on  3 July 2021*
+*Computed on  4 July 2021*
 
 
 ### Rubik's Cube - Single
@@ -92,7 +92,7 @@
 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **28.30** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 24.01, 28.69, 32.59, 27.49, 28.71 |
 | [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **29.26** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 30.74, 35.55, 29.90, 26.34, 27.15 |
 | [Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01) | **29.26** | Russia | [SPB Muffin Mini 2021](https://www.worldcubeassociation.org/competitions/SPBMuffinMini2021) | 28.44, 31.30, 30.81, 28.54, 28.31 |
-| [Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01) | **29.56** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.96, 35.97, 27.19, 30.36, 28.36 |
+| [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) | **29.56** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.59, 29.09, 28.78, 29.99, 34.38 |
 
 ### 5x5x5 Cube - Single
 

@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Computed on  6 July 2021*
+*Computed on  7 July 2021*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 7345 |
+| 1.50 | World | 7353 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2347 |
+| 1.77 | Europe | 2348 |
 | 1.59 | South America | 828 |
-| 1.46 | Oceania | 254 |
+| 1.46 | Oceania | 256 |
 | 1.41 | Asia | 1976 |
-| 1.21 | North America | 1860 |
+| 1.21 | North America | 1865 |
 | 1.16 | Africa | 80 |
 
 ### Countries
@@ -41,11 +41,11 @@
 | 1.93 | Croatia | 14 |
 | 1.92 | Ireland | 13 |
 | 1.92 | Finland | 74 |
+| 1.91 | Turkey | 35 |
 | 1.89 | Serbia | 9 |
 | 1.89 | Uzbekistan | 9 |
-| 1.89 | Turkey | 35 |
 | 1.87 | Switzerland | 69 |
-| 1.84 | Ukraine | 87 |
+| 1.84 | Ukraine | 88 |
 | 1.83 | France | 195 |
 | 1.83 | Brazil | 292 |
 | 1.83 | Spain | 207 |
@@ -77,13 +77,13 @@
 | 1.52 | Dominican Republic | 25 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Luxembourg | 2 |
+| 1.50 | New Zealand | 58 |
 | 1.50 | Tajikistan | 2 |
-| 1.49 | New Zealand | 57 |
 | 1.48 | Romania | 67 |
 | 1.47 | Peru | 134 |
 | 1.47 | Ecuador | 15 |
 | 1.46 | Italy | 131 |
-| 1.46 | Australia | 197 |
+| 1.45 | Australia | 198 |
 | 1.43 | Iceland | 7 |
 | 1.43 | Israel | 14 |
 | 1.43 | Paraguay | 14 |
@@ -109,7 +109,7 @@
 | 1.20 | Portugal | 15 |
 | 1.18 | Honduras | 11 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | United States | 1482 |
+| 1.16 | United States | 1487 |
 | 1.16 | Canada | 184 |
 | 1.12 | El Salvador | 17 |
 | 1.10 | Azerbaijan | 31 |

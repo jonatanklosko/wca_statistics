@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on  6 July 2021*
+*Computed on  7 July 2021*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -53,8 +53,8 @@
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **45** | 31 | 23 | 99 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | **45** | 8 | 8 | 61 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | **44** | 72 | 46 | 162 |
+| [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **44** | 19 | 7 | 70 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **43** | 50 | 46 | 139 |
-| [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **43** | 19 | 6 | 68 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | **42** | 43 | 51 | 136 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **42** | 18 | 15 | 75 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | **42** | 1 | 0 | 43 |

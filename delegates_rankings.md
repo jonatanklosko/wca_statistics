@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Computed on  6 July 2021*
+*Computed on  7 July 2021*
 
 
 ### Rubik's Cube - Single
@@ -286,8 +286,8 @@
 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | **44.09** | Colombia | [Melgar Summer 2018](https://www.worldcubeassociation.org/competitions/MelgarSummer2018) | 51.41, 1:02.39, 44.09, 47.93, 49.03 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **45.37** | Sweden | [Skottegårdsskolen Open 2018](https://www.worldcubeassociation.org/competitions/SkottegardsskolenOpen2018) | 53.47, 1:07.02, 45.37, 56.44, 1:01.12 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **45.64** | Denmark | [Tårnby Cube Træf 2019](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019) | 55.34, 1:03.39, 57.54, 45.64, 1:00.19 |
+| [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) | **46.80** | United States | [Garrettsville G-Men Classic 2020](https://www.worldcubeassociation.org/competitions/GarrettsvilleGMenClassic2020) | 1:06.69, 1:09.55, 46.80, 1:04.26, 1:01.35 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **47.19** | Switzerland | [Xlingen Open 2019](https://www.worldcubeassociation.org/competitions/XlingenOpen2019) | 1:00.02, 1:01.85, 53.02, 47.19, 1:12.21 |
-| [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | **47.37** | India | [MathSoc Open 2019](https://www.worldcubeassociation.org/competitions/MathSocOpen2019) | 47.37, 1:00.22, 55.02, 1:01.71, 1:02.87 |
 
 ### Megaminx - Average
 

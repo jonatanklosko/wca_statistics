@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Computed on  6 July 2021*
+*Computed on  7 July 2021*
 
 
 ### Rubik's Cube - Single
@@ -92,7 +92,7 @@
 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **28.30** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 24.01, 28.69, 32.59, 27.49, 28.71 |
 | [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | **29.26** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 30.74, 35.55, 29.90, 26.34, 27.15 |
 | [Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01) | **29.26** | Russia | [SPB Muffin Mini 2021](https://www.worldcubeassociation.org/competitions/SPBMuffinMini2021) | 28.44, 31.30, 30.81, 28.54, 28.31 |
-| [Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01) | **29.56** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.96, 35.97, 27.19, 30.36, 28.36 |
+| [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) | **29.56** | China | [Shenzhen Nanshan Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShenzhenNanshanAfternoon2021) | 29.59, 29.09, 28.78, 29.99, 34.38 |
 
 ### 5x5x5 Cube - Single
 
@@ -369,15 +369,15 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Yifan Chen (陈一凡)](https://www.worldcubeassociation.org/persons/2019CHEY46) | **1.49** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 6.42, 7.31, 5.88, 1.49, 6.56 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **1.60** | Poland | [Happy Cubing Acton 2021](https://www.worldcubeassociation.org/competitions/HappyCubingActon2021) | 5.70, 7.32, 4.47, 4.57, 1.60 |
 | [Benjamin Warry](https://www.worldcubeassociation.org/persons/2017WARR04) | **1.63** | Australia | [Brisbane Is Back On 2021](https://www.worldcubeassociation.org/competitions/BrisbaneIsBackOn2021) | 5.13, 7.74, 4.51, 1.63, 4.32 |
+| [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **1.64** | Colombia | [Happy Cubing Acton 2021](https://www.worldcubeassociation.org/competitions/HappyCubingActon2021) | 5.02, 7.62, 2.86, 4.51, 1.64 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **1.69** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 1.69, 3.53, 3.91, 2.71, 5.75 |
 | [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | **1.78** | China | [Nanchang Good Morning 2021](https://www.worldcubeassociation.org/competitions/NanchangGoodMorning2021) | 2.85, 1.78, 4.94, 2.52, 2.07 |
 | [Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | **1.84** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 2.60, 2.39, 4.58, 1.84, 2.00 |
 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **1.87** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 4.11, 1.87, 3.68, 4.07, 4.97 |
 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **1.94** | New Zealand | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | 5.16, 5.39, 6.47, 4.22, 1.94 |
-| [Isaac Latta](https://www.worldcubeassociation.org/persons/2017LATT01) | **1.96** | New Zealand | [Twisty Taranaki 2021](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2021) | 3.68, 8.53, 3.88, 8.08, 1.96 |
-| [Mingze Yang (杨明泽)](https://www.worldcubeassociation.org/persons/2018YANG76) | **1.96** | China | [Beijing Spring PM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringPM2021) | 1.96, 3.49, 3.61, 3.72, 3.74 |
-| [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | **1.99** | Australia | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 1.99, 5.87, 3.43, 2.37, 3.78 |
+| [José Eduardo Palacios Castro](https://www.worldcubeassociation.org/persons/2019CAST34) | **1.94** | El Salvador | [Happy Cubing Acton 2021](https://www.worldcubeassociation.org/competitions/HappyCubingActon2021) | 4.89, 8.12, 4.51, 9.47, 1.94 |
 
 ### Skewb - Average
 

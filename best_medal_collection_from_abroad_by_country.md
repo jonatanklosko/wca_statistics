@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on  6 July 2021*
+*Computed on  7 July 2021*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -11,7 +11,7 @@
 | United States | **637** | 533 | 456 | 1626 |
 | France | **609** | 520 | 430 | 1559 |
 | Russia | **509** | 353 | 292 | 1154 |
-| Poland | **323** | 220 | 157 | 700 |
+| Poland | **324** | 222 | 157 | 703 |
 | Malaysia | **319** | 296 | 268 | 883 |
 | China | **316** | 282 | 250 | 848 |
 | Canada | **300** | 311 | 331 | 942 |
@@ -35,7 +35,7 @@
 | Slovenia | **118** | 142 | 142 | 402 |
 | Greece | **117** | 139 | 99 | 355 |
 | Belgium | **116** | 175 | 157 | 448 |
-| Colombia | **115** | 74 | 77 | 266 |
+| Colombia | **116** | 74 | 78 | 268 |
 | Singapore | **107** | 115 | 120 | 342 |
 | Belarus | **106** | 63 | 72 | 241 |
 | Austria | **100** | 145 | 165 | 410 |
@@ -59,7 +59,7 @@
 | Portugal | **21** | 17 | 17 | 55 |
 | Venezuela | **20** | 20 | 20 | 60 |
 | Mongolia | **19** | 18 | 14 | 51 |
-| New Zealand | **18** | 52 | 38 | 108 |
+| New Zealand | **18** | 52 | 39 | 109 |
 | Costa Rica | **18** | 17 | 18 | 53 |
 | El Salvador | **15** | 17 | 13 | 45 |
 | South Africa | **15** | 16 | 35 | 66 |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 12 July 2021*
+*Computed on 13 July 2021*
 
 
 ### Rubik's Cube
@@ -56,12 +56,12 @@
 | 38.60 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012PARK03) |
 | 38.60 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020/results/by_person#2012PARK03) |
 | 39.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Summer 2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019/results/by_person#2012PARK03) |
+| 39.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2016KOLA02) |
 | 39.45 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012PARK03) |
 | 39.60 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021/results/by_person#2009ZEMD01) |
 | 39.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Reno Fall 2018](https://www.worldcubeassociation.org/competitions/RenoFall2018/results/by_person#2012PARK03) |
 | 39.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2012PARK03) |
 | 39.72 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020/results/by_person#2012PARK03) |
-| 40.03 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 
@@ -99,14 +99,14 @@
 | ---: | :--- | :--- |
 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
 | 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
+| 1.53 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2015GORN01) |
 | 1.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020/results/by_person#2016KOLA02) |
 | 1.61 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) | [SSL Final Stockholm 2019](https://www.worldcubeassociation.org/competitions/SSLFinalStockholm2019/results/by_person#2016THOR08) |
 | 1.62 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018/results/by_person#2016KOLA02) |
+| 1.63 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/by_person#2015KAME02) |
 | 1.65 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017/results/by_person#2016KOLA02) |
 | 1.66 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2010BRAD01) |
 | 1.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [GLS Cup I 2018](https://www.worldcubeassociation.org/competitions/GLSCupI2018/results/by_person#2016KOLA02) |
-| 1.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [MLS Warszawa 2020](https://www.worldcubeassociation.org/competitions/MLSWarszawa2020/results/by_person#2016KOLA02) |
-| 1.67 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | [Newmarket Open 2019](https://www.worldcubeassociation.org/competitions/NewmarketOpen2019/results/by_person#2016KYLE01) |
 
 ### Rubik's Clock
 

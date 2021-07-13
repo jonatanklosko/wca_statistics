@@ -1,15 +1,15 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on 12 July 2021*
+*Computed on 13 July 2021*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1235** | 1000 | 862 | 3097 |
 | Netherlands | **709** | 585 | 479 | 1773 |
-| Germany | **704** | 684 | 691 | 2079 |
+| Germany | **706** | 688 | 691 | 2085 |
 | United States | **637** | 533 | 456 | 1626 |
-| France | **609** | 520 | 430 | 1559 |
+| France | **609** | 520 | 431 | 1560 |
 | Russia | **509** | 353 | 292 | 1154 |
 | Poland | **324** | 222 | 157 | 703 |
 | Malaysia | **319** | 296 | 268 | 883 |
@@ -19,7 +19,7 @@
 | United Kingdom | **280** | 309 | 314 | 903 |
 | Australia | **275** | 120 | 81 | 476 |
 | Sweden | **258** | 315 | 318 | 891 |
-| Republic of Korea | **211** | 216 | 176 | 603 |
+| Republic of Korea | **211** | 216 | 177 | 604 |
 | Finland | **192** | 139 | 112 | 443 |
 | Japan | **185** | 106 | 106 | 397 |
 | Taiwan | **182** | 154 | 149 | 485 |
@@ -44,7 +44,7 @@
 | Kazakhstan | **82** | 75 | 68 | 225 |
 | Ireland | **77** | 49 | 34 | 160 |
 | Thailand | **74** | 75 | 34 | 183 |
-| Romania | **65** | 62 | 50 | 177 |
+| Romania | **70** | 64 | 50 | 184 |
 | Lithuania | **60** | 70 | 79 | 209 |
 | Philippines | **54** | 64 | 60 | 178 |
 | Slovakia | **47** | 47 | 61 | 155 |
@@ -66,9 +66,9 @@
 | Nicaragua | **14** | 5 | 10 | 29 |
 | Estonia | **13** | 10 | 17 | 40 |
 | Kosovo | **12** | 16 | 16 | 44 |
-| Israel | **12** | 12 | 11 | 35 |
+| Israel | **12** | 12 | 13 | 37 |
+| North Macedonia | **11** | 12 | 19 | 42 |
 | Tunisia | **10** | 9 | 7 | 26 |
-| North Macedonia | **9** | 11 | 16 | 36 |
 | Bulgaria | **8** | 25 | 18 | 51 |
 | Serbia | **8** | 11 | 13 | 32 |
 | Nigeria | **8** | 10 | 4 | 22 |
@@ -80,7 +80,7 @@
 | Uruguay | **7** | 2 | 16 | 25 |
 | Mexico | **6** | 10 | 12 | 28 |
 | Pakistan | **6** | 9 | 7 | 22 |
-| Bosnia and Herzegovina | **6** | 7 | 4 | 17 |
+| Bosnia and Herzegovina | **6** | 8 | 5 | 19 |
 | Honduras | **6** | 3 | 5 | 14 |
 | Haiti | **5** | 8 | 8 | 21 |
 | Georgia | **5** | 0 | 3 | 8 |

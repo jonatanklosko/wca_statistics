@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Computed on 12 July 2021*
+*Computed on 13 July 2021*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 7355 |
+| 1.49 | World | 7362 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2349 |
+| 1.77 | Europe | 2352 |
 | 1.59 | South America | 828 |
 | 1.46 | Oceania | 256 |
-| 1.41 | Asia | 1977 |
-| 1.21 | North America | 1865 |
+| 1.41 | Asia | 1980 |
+| 1.21 | North America | 1866 |
 | 1.16 | Africa | 80 |
 
 ### Countries
@@ -44,7 +44,7 @@
 | 1.91 | Turkey | 35 |
 | 1.89 | Serbia | 9 |
 | 1.89 | Uzbekistan | 9 |
-| 1.87 | Switzerland | 69 |
+| 1.85 | Switzerland | 71 |
 | 1.84 | Ukraine | 88 |
 | 1.83 | France | 195 |
 | 1.83 | Brazil | 292 |
@@ -93,13 +93,13 @@
 | 1.33 | Taiwan | 102 |
 | 1.32 | Chile | 76 |
 | 1.31 | Venezuela | 52 |
-| 1.30 | Estonia | 33 |
+| 1.29 | Estonia | 34 |
 | 1.29 | Mongolia | 14 |
-| 1.26 | China | 611 |
+| 1.26 | China | 613 |
 | 1.25 | Bahrain | 4 |
 | 1.25 | Bulgaria | 8 |
 | 1.25 | Greece | 12 |
-| 1.25 | Japan | 190 |
+| 1.25 | Japan | 191 |
 | 1.25 | Republic of Korea | 61 |
 | 1.24 | Vietnam | 49 |
 | 1.23 | United Arab Emirates | 13 |
@@ -109,7 +109,7 @@
 | 1.20 | Portugal | 15 |
 | 1.18 | Honduras | 11 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 1487 |
+| 1.16 | United States | 1488 |
 | 1.16 | Canada | 184 |
 | 1.12 | El Salvador | 17 |
 | 1.10 | Azerbaijan | 31 |

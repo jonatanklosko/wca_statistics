@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on 12 July 2021*
+*Computed on 13 July 2021*
 
 
 ### Rubik's Cube
@@ -159,15 +159,15 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.99 | **2.67** | [Flag City Fall 2019](https://www.worldcubeassociation.org/competitions/FlagCityFall2019/results/all#epyram_f) | 4 |
+| [Kevin Min](https://www.worldcubeassociation.org/persons/2015MINK04) | 1.73 | **2.70** | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/all#epyram_f) | 4 |
 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 2.47 | **2.71** | [Liberty Science Center Open 2019](https://www.worldcubeassociation.org/competitions/LibertyScienceCenterOpen2019/results/all#epyram_f) | 4 |
 | [Marko Striieshyn](https://www.worldcubeassociation.org/persons/2014STRI01) | 2.49 | **2.71** | [Speed Days Kielce 2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKielce2017/results/all#epyram_f) | 4 |
+| [Daniel Porter](https://www.worldcubeassociation.org/persons/2017PORT04) | 2.02 | **2.72** | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/all#epyram_f) | 5 |
+| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 2.41 | **2.77** | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/all#epyram_f) | 4 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2.43 | **2.78** | [Project Jastrzębie-Zdrój 2018](https://www.worldcubeassociation.org/competitions/ProjectJastrzebieZdroj2018/results/all#epyram_f) | 4 |
+| [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | 2.42 | **2.82** | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/all#epyram_f) | 5 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 1.84 | **2.83** | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#epyram_f) | 4 |
 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | 2.25 | **2.87** | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021/results/all#epyram_f) | 4 |
-| [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 2.09 | **2.92** | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#epyram_f) | 4 |
-| [Yinuo Zhao (赵伊诺)](https://www.worldcubeassociation.org/persons/2017ZHAO10) | 2.47 | **2.92** | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021/results/all#epyram_f) | 5 |
-| [Ryan Minjun Cho](https://www.worldcubeassociation.org/persons/2014CHOR01) | 2.08 | **2.94** | [Canadian Championship 2019](https://www.worldcubeassociation.org/competitions/CanadianChampionship2019/results/all#epyram_f) | 4 |
-| [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) | 2.44 | **2.94** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 
@@ -180,9 +180,9 @@
 | [Jacob Fanikos](https://www.worldcubeassociation.org/persons/2017FANI01) | 5.69 | **6.40** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eclock_f) | 5 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 5.63 | **6.45** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#eclock_f) | 5 |
 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 5.33 | **6.47** | [Shanghai Winter 2018](https://www.worldcubeassociation.org/competitions/ShanghaiWinter2018/results/all#eclock_f) | 4 |
+| [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | 5.71 | **6.53** | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/all#eclock_f) | 4 |
 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 5.35 | **6.55** | [Hefei Summer 2018](https://www.worldcubeassociation.org/competitions/HefeiSummer2018/results/all#eclock_f) | 4 |
 | [Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | 5.91 | **6.55** | [China Championship 2019](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all#eclock_f) | 4 |
-| [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 5.02 | **6.60** | [Shanghai Winter 2018](https://www.worldcubeassociation.org/competitions/ShanghaiWinter2018/results/all#eclock_f) | 5 |
 
 ### Skewb
 

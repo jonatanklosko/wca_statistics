@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Computed on 12 July 2021*
+*Computed on 13 July 2021*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -27,6 +27,7 @@
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Altbier 2012](https://www.worldcubeassociation.org/competitions/Altbier2012/results/podiums) |
 | 10 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) | [Americana Open 2018](https://www.worldcubeassociation.org/competitions/AmericanaOpen2018/results/podiums) |
 | 10 | [Artem Melikian (Артем Мелікян)](https://www.worldcubeassociation.org/persons/2011MELI01) | [Anatoliy Moroz Open 2015](https://www.worldcubeassociation.org/competitions/AnatoliyMorozOpen2015/results/podiums) |
+| 10 | [Samir Homsi](https://www.worldcubeassociation.org/persons/2018HOMS01) | [Ankara Summer 2021](https://www.worldcubeassociation.org/competitions/AnkaraSummer2021/results/podiums) |
 | 13 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Annecy Open 2016](https://www.worldcubeassociation.org/competitions/AnnecyOpen2016/results/podiums) |
 | 10 | [Anish Rajesh](https://www.worldcubeassociation.org/persons/2014RAJE03) | [Anokha Cubing Royale 2017](https://www.worldcubeassociation.org/competitions/AnokhaCubingRoyale2017/results/podiums) |
 | 11 | [Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02) | [Arctic Open 2018](https://www.worldcubeassociation.org/competitions/ArcticOpen2018/results/podiums) |

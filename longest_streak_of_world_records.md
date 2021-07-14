@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Computed on 13 July 2021*
+*Computed on 14 July 2021*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -8,7 +8,7 @@
 | 11 | 5x5x5 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2012](https://www.worldcubeassociation.org/competitions/AustralianNationals2012) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) | 5.73 |
 | 9 | Rubik's Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | [OCSEF 2017](https://www.worldcubeassociation.org/competitions/OCSEFOpen2017) | 7.23 |
 | 8 | 7x7x7 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | [Puget Sound Fall 2017](https://www.worldcubeassociation.org/competitions/PugetSoundFall2017) | 2.19 |
-| 8 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) |  | 2.96 |
+| 8 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) |  | 2.97 |
 | 8 | 3x3x3 Multi-Blind | Single | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | [Keep Portland Quiet 2018](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2018) | 5.73 |
 | 7 | Rubik's Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Day 2010](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2010) | [Zonhoven Open 2013](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2013) | 2.30 |
 | 6 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) |  | 3.50 |
@@ -80,7 +80,7 @@
 | 3 | 4x4x4 Blindfolded | Single | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | [US Nationals 2006](https://www.worldcubeassociation.org/competitions/US2006) | [Swedish Cube Day 2008](https://www.worldcubeassociation.org/competitions/SwedishCubeDay2008) | 2.34 |
 | 3 | 4x4x4 Blindfolded | Single | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | [Shanghai Winter is Coming 2016](https://www.worldcubeassociation.org/competitions/ShanghaiWinterisComing2016) | [Great Lakes Championship 2018](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2018) | 1.53 |
 | 3 | 5x5x5 Blindfolded | Single | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) | [Finnish Open 2010](https://www.worldcubeassociation.org/competitions/FinnishOpen2010) | [Austrian Open 2012](https://www.worldcubeassociation.org/competitions/AustrianOpen2012) | 1.59 |
-| 3 | 3x3x3 Multi-Blind | Single | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | [Silence in the Grove 2019](https://www.worldcubeassociation.org/competitions/SilenceInTheGrove2019) |  | 2.13 |
+| 3 | 3x3x3 Multi-Blind | Single | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | [Silence in the Grove 2019](https://www.worldcubeassociation.org/competitions/SilenceInTheGrove2019) |  | 2.14 |
 | 3 | 3x3x3 With Feet | Single | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) | [Suwon 2008](https://www.worldcubeassociation.org/competitions/Suwon2008) | 2.41 |
 | 3 | 3x3x3 With Feet | Average | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) | [Suwon 2008](https://www.worldcubeassociation.org/competitions/Suwon2008) | 2.41 |
 | 3 | 3x3x3 With Feet | Average | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | [Tampere Open 2008](https://www.worldcubeassociation.org/competitions/TampereOpen2008) | [Cubing Korea Xmas Eve 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaXmasEve2011) | 3.16 |

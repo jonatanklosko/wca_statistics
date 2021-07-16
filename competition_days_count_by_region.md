@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Computed on 15 July 2021*
+*Computed on 16 July 2021*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 7362 |
+| 1.49 | World | 7371 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2352 |
+| 1.77 | Europe | 2355 |
 | 1.59 | South America | 828 |
-| 1.46 | Oceania | 256 |
-| 1.41 | Asia | 1980 |
-| 1.21 | North America | 1866 |
+| 1.46 | Oceania | 257 |
+| 1.41 | Asia | 1982 |
+| 1.21 | North America | 1869 |
 | 1.16 | Africa | 80 |
 
 ### Countries
@@ -46,7 +46,7 @@
 | 1.89 | Uzbekistan | 9 |
 | 1.85 | Switzerland | 71 |
 | 1.84 | Ukraine | 88 |
-| 1.83 | France | 195 |
+| 1.83 | France | 196 |
 | 1.83 | Brazil | 292 |
 | 1.83 | Spain | 207 |
 | 1.82 | Austria | 17 |
@@ -57,7 +57,7 @@
 | 1.77 | Denmark | 86 |
 | 1.76 | Slovenia | 21 |
 | 1.75 | Norway | 59 |
-| 1.74 | Sweden | 97 |
+| 1.74 | Sweden | 98 |
 | 1.71 | Bangladesh | 7 |
 | 1.67 | Costa Rica | 9 |
 | 1.67 | Iran | 30 |
@@ -68,7 +68,7 @@
 | 1.64 | Argentina | 45 |
 | 1.64 | Indonesia | 161 |
 | 1.63 | India | 374 |
-| 1.61 | Poland | 259 |
+| 1.61 | Poland | 260 |
 | 1.58 | Singapore | 19 |
 | 1.57 | Colombia | 109 |
 | 1.56 | Bolivia | 63 |
@@ -83,7 +83,7 @@
 | 1.47 | Peru | 134 |
 | 1.47 | Ecuador | 15 |
 | 1.46 | Italy | 131 |
-| 1.45 | Australia | 198 |
+| 1.45 | Australia | 199 |
 | 1.43 | Iceland | 7 |
 | 1.43 | Israel | 14 |
 | 1.43 | Paraguay | 14 |
@@ -99,9 +99,9 @@
 | 1.25 | Bahrain | 4 |
 | 1.25 | Bulgaria | 8 |
 | 1.25 | Greece | 12 |
-| 1.25 | Japan | 191 |
 | 1.25 | Republic of Korea | 61 |
 | 1.24 | Vietnam | 49 |
+| 1.24 | Japan | 193 |
 | 1.23 | United Arab Emirates | 13 |
 | 1.21 | Uruguay | 28 |
 | 1.21 | South Africa | 33 |
@@ -109,9 +109,9 @@
 | 1.20 | Portugal | 15 |
 | 1.18 | Honduras | 11 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 1488 |
+| 1.16 | United States | 1490 |
 | 1.16 | Canada | 184 |
-| 1.12 | El Salvador | 17 |
+| 1.11 | El Salvador | 18 |
 | 1.10 | Azerbaijan | 31 |
 | 1.00 | Albania | 2 |
 | 1.00 | Algeria | 7 |

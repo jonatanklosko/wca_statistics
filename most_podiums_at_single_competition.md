@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Computed on 21 July 2021*
+*Computed on 22 July 2021*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -734,6 +734,7 @@
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
 | 10 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Southeast Championship 2019](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2019/results/podiums) |
 | 12 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Southern Championship 2019](https://www.worldcubeassociation.org/competitions/SouthernChampionship2019/results/podiums) |
+| 10 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Southern Scramble Dunedin 2021](https://www.worldcubeassociation.org/competitions/SouthernScrambleDunedin2021/results/podiums) |
 | 11 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Spanish Championship 2012](https://www.worldcubeassociation.org/competitions/SpanishChampionship2012/results/podiums) |
 | 10 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014/results/podiums) |
 | 10 | [Ivan Torgashov (Иван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014/results/podiums) |
@@ -866,6 +867,7 @@
 | 10 | [David Lim](https://www.worldcubeassociation.org/persons/2010LIMD01) | [Waikato Summer 2011](https://www.worldcubeassociation.org/competitions/WaikatoSummerOpen2011/results/podiums) |
 | 10 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) | [Waikato Summer 2011](https://www.worldcubeassociation.org/competitions/WaikatoSummerOpen2011/results/podiums) |
 | 14 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020/results/podiums) |
+| 11 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [WA State Championship 2021](https://www.worldcubeassociation.org/competitions/WAStateChampionship2021/results/podiums) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015/results/podiums) |
 | 10 | [Grigoriy Barashkin](https://www.worldcubeassociation.org/persons/2017BARA05) | [Welcome to Murmansk 2021](https://www.worldcubeassociation.org/competitions/WelcometoMurmansk2021/results/podiums) |
 | 10 | [Artem Yashkov](https://www.worldcubeassociation.org/persons/2014YASH01) | [Welcome to Saratov 2017](https://www.worldcubeassociation.org/competitions/WelcometoSaratov2017/results/podiums) |

@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Computed on 21 July 2021*
+*Computed on 22 July 2021*
 
 | WRs | Person |
 | ---: | :--- |
@@ -38,8 +38,8 @@
 | 94 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 93 | [Adam Zamora](https://www.worldcubeassociation.org/persons/2004ZAMO01) |
 | 93 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) |
+| 91 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 90 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
-| 90 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 90 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) |
 | 90 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |
 | 90 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
@@ -62,8 +62,8 @@
 | 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
+| 79 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 79 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 78 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 77 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 75 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |

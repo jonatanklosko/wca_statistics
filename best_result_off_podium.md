@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on 21 July 2021*
+*Computed on 22 July 2021*
 
 
 ### Rubik's Cube
@@ -251,13 +251,13 @@
 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **45/51 58:07** |  | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333mbf_f) | 4 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **39/42 55:43** |  | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333mbf_f) | 5 |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **35/36 59:08** |  | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e333mbf_f) | 4 |
+| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | **36/42 57:42** |  | [BrizZon Side Open 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2021/results/all#e333mbf_f) | 4 |
 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | **30/30 57:45** |  | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333mbf_f) | 6 |
 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **34/39 59:51** |  | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e333mbf_c) | 4 |
 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) | **33/37 1:00:00** |  | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e333mbf_f) | 5 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | **29/31 57:09** |  | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333mbf_f) | 7 |
 | [Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02) | **28/29 58:27** |  | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e333mbf_f) | 6 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **26/27 56:52** |  | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#e333mbf_f) | 4 |
-| [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | **26/28 53:27** |  | [Asian Championship 2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016/results/all#e333mbf_f) | 4 |
 
 ### 3x3x3 With Feet
 

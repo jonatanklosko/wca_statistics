@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 21 July 2021*
+*Computed on 22 July 2021*
 
 
 ### Rubik's Cube
@@ -146,12 +146,12 @@
 | 5.38 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Gislev Side Events 2019](https://www.worldcubeassociation.org/competitions/GislevSideEvents2019/results/by_person#2014DETL01) |
 | 5.60 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [I Itapê Open 2019](https://www.worldcubeassociation.org/competitions/IItapeOpen2019/results/by_person#2015CECC01) |
 | 5.77 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021/results/by_person#2016EPST02) |
+| 5.92 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021/results/by_person#2013KRAS02) |
 | 5.98 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Østerhøj Open 2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019/results/by_person#2014DETL01) |
 | 6.03 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Project Jastrzębie-Zdrój 2018](https://www.worldcubeassociation.org/competitions/ProjectJastrzebieZdroj2018/results/by_person#2013KRAS02) |
 | 6.10 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019/results/by_person#2013KRAS02) |
 | 6.10 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020/results/by_person#2014DETL01) |
 | 6.11 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Bernô Feet Friendship 2019](https://www.worldcubeassociation.org/competitions/BernoFeetFriendship2019/results/by_person#2015CECC01) |
-| 6.15 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Bernô Feet Friendship 2019](https://www.worldcubeassociation.org/competitions/BernoFeetFriendship2019/results/by_person#2015CECC01) |
 
 ### 3x3x3 With Feet
 

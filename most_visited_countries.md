@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Computed on 21 July 2021*
+*Computed on 22 July 2021*
 
 | Countries | Person |
 | ---: | :--- |
@@ -87,6 +87,7 @@
 | 13 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) |
 | 13 | [Fabian Auroux](https://www.worldcubeassociation.org/persons/2009AURO01) |
 | 13 | [Gaël Dusser](https://www.worldcubeassociation.org/persons/2007DUSS01) |
+| 13 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 13 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
 | 13 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
 | 13 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
@@ -99,7 +100,6 @@
 | 12 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 12 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
 | 12 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
-| 12 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 12 | [Tomas Kristiansson](https://www.worldcubeassociation.org/persons/2007KRIS01) |
 | 12 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 12 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |

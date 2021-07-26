@@ -1,7 +1,7 @@
 ## Name parts count
 
 *Note: Local names within parentheses are ignored.*
-*Computed on 25 July 2021*
+*Computed on 26 July 2021*
 
 | Parts | People | Countries of origin |
 | :--: | ---: | :--- |

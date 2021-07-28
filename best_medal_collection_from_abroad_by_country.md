@@ -1,17 +1,17 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on 27 July 2021*
+*Computed on 28 July 2021*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1235** | 1000 | 862 | 3097 |
 | Netherlands | **709** | 585 | 479 | 1773 |
-| Germany | **706** | 688 | 691 | 2085 |
+| Germany | **706** | 688 | 692 | 2086 |
 | United States | **637** | 533 | 456 | 1626 |
 | France | **610** | 521 | 431 | 1562 |
 | Russia | **509** | 353 | 292 | 1154 |
-| Poland | **324** | 222 | 157 | 703 |
+| Poland | **324** | 223 | 157 | 704 |
 | Malaysia | **319** | 298 | 268 | 885 |
 | China | **316** | 282 | 250 | 848 |
 | Canada | **300** | 311 | 331 | 942 |
@@ -22,7 +22,7 @@
 | Republic of Korea | **211** | 216 | 177 | 604 |
 | Finland | **192** | 139 | 112 | 443 |
 | Japan | **185** | 106 | 106 | 397 |
-| Taiwan | **182** | 154 | 149 | 485 |
+| Taiwan | **184** | 155 | 149 | 488 |
 | India | **174** | 143 | 131 | 448 |
 | Switzerland | **170** | 250 | 224 | 644 |
 | Hong Kong | **168** | 201 | 172 | 541 |

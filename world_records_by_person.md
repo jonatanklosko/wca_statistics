@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Computed on 27 July 2021*
+*Computed on 28 July 2021*
 
 | WRs | Person |
 | ---: | :--- |
@@ -145,6 +145,7 @@
 | 2 | [Thibaut Jacquinot](https://www.worldcubeassociation.org/persons/2006JACQ01) |
 | 2 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) |
 | 2 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
+| 2 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 2 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) |
 | 2 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
 | 2 | [Vincent Sheu](https://www.worldcubeassociation.org/persons/2006SHEU01) |
@@ -244,7 +245,6 @@
 | 1 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) |
 | 1 | [Toby Mao (毛台立)](https://www.worldcubeassociation.org/persons/2004MAOT01) |
-| 1 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 1 | [Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01) |
 | 1 | [Tong Jiang (蒋彤)](https://www.worldcubeassociation.org/persons/2009JIAN03) |
 | 1 | [Ty Marshall](https://www.worldcubeassociation.org/persons/2014MARS04) |

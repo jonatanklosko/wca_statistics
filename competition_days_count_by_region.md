@@ -1,22 +1,22 @@
 ## Competition days count by region
 
-*Computed on 27 July 2021*
+*Computed on 28 July 2021*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 7377 |
+| 1.49 | World | 7381 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2360 |
+| 1.77 | Europe | 2361 |
 | 1.59 | South America | 828 |
-| 1.46 | Oceania | 257 |
-| 1.41 | Asia | 1982 |
+| 1.46 | Oceania | 258 |
+| 1.41 | Asia | 1984 |
 | 1.21 | North America | 1870 |
 | 1.16 | Africa | 80 |
 
@@ -68,7 +68,7 @@
 | 1.64 | Argentina | 45 |
 | 1.64 | Indonesia | 161 |
 | 1.63 | India | 374 |
-| 1.61 | Poland | 262 |
+| 1.61 | Poland | 263 |
 | 1.58 | Singapore | 19 |
 | 1.57 | Colombia | 109 |
 | 1.56 | Bolivia | 63 |
@@ -83,7 +83,7 @@
 | 1.47 | Peru | 134 |
 | 1.47 | Ecuador | 15 |
 | 1.46 | Italy | 131 |
-| 1.45 | Australia | 199 |
+| 1.45 | Australia | 200 |
 | 1.43 | Iceland | 7 |
 | 1.43 | Israel | 14 |
 | 1.43 | Paraguay | 14 |
@@ -95,7 +95,7 @@
 | 1.31 | Venezuela | 52 |
 | 1.29 | Estonia | 34 |
 | 1.29 | Mongolia | 14 |
-| 1.26 | China | 613 |
+| 1.26 | China | 615 |
 | 1.25 | Bahrain | 4 |
 | 1.25 | Bulgaria | 8 |
 | 1.25 | Greece | 12 |

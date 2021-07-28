@@ -1,10 +1,10 @@
 ## Current world records count by country
 
-*Computed on 27 July 2021*
+*Computed on 28 July 2021*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
-| 18 | United States | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08), [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 18 | United States | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 7 | China | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04), [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01), [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 4 | Poland | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01), [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01), [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 2 | Australia | [Andrew Huang](https://www.worldcubeassociation.org/persons/2016HUAN43), [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |

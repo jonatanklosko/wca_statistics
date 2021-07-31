@@ -1,6 +1,6 @@
 ## Longest standing records
 
-*Computed on 30 July 2021*
+*Computed on 31 July 2021*
 
 
 ### World
@@ -8,15 +8,15 @@
 | Event | Type | Days | Result | Person | Competition |
 | :--- | :--- | ---: | ---: | :--- | :--- |
 | Rubik's Cube | Single | **7749** | 22.95 | [Minh Thai](https://www.worldcubeassociation.org/persons/1982THAI01) | [World Championship 1982](https://www.worldcubeassociation.org/competitions/WC1982/results/by_person#1982THAI01) |
-| 2x2x2 Cube | Single | **1959** | 0.49 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | [Grudziądz Open 2016](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2016/results/by_person#2014CZAP01) |
+| 2x2x2 Cube | Single | **1960** | 0.49 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | [Grudziądz Open 2016](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2016/results/by_person#2014CZAP01) |
 | 3x3x3 One-Handed | Single | **1617** | 6.88 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Canberra Autumn 2015](https://www.worldcubeassociation.org/competitions/CanberraAutumn2015/results/by_person#2009ZEMD01) |
 | 3x3x3 Multi-Blind | Single | **1589** | 41/41 54:14 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [SLS Swierklany 2013](https://www.worldcubeassociation.org/competitions/SLSSwierklany2013/results/by_person#2011KOWA01) |
 | Skewb | Single | **1363** | 1.10 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | [ŚLS Wodzisław Śląski 2015](https://www.worldcubeassociation.org/competitions/SLSWodzislawSlaski2015/results/by_person#2013KOSK01) |
-| Skewb | Average | **1322** | 2.03 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017/results/by_person#2013BURL01) |
+| Skewb | Average | **1323** | 2.03 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017/results/by_person#2013BURL01) |
 | 2x2x2 Cube | Single | **1302** | 0.69 | [Christian Kaserer](https://www.worldcubeassociation.org/persons/2009KASE02) | [Trentin Open 2011](https://www.worldcubeassociation.org/competitions/TrentinOpen2011/results/by_person#2009KASE02) |
 | Megaminx | Single | **1204** | 42.28 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011/results/by_person#2008WEST02) |
 | Rubik's Clock | Single | **1156** | 5.65 | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) | [Shanghai Winter 2011](https://www.worldcubeassociation.org/competitions/ShanghaiWinter2011/results/by_person#2009WANG19) |
-| Pyraminx | Single | **1133** | 0.91 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [Byczy Cube Race 2018](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2018/results/by_person#2015GORN01) |
+| Pyraminx | Single | **1134** | 0.91 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [Byczy Cube Race 2018](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2018/results/by_person#2015GORN01) |
 
 ### Africa
 
@@ -27,11 +27,11 @@
 | 5x5x5 Cube | Single | **2135** | 1:31.61 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Motor City Open 2009](https://www.worldcubeassociation.org/competitions/MotorCityOpen2009/results/by_person#2007COMP01) |
 | Square-1 | Average | **1925** | 27.70 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Toronto Spring 2010](https://www.worldcubeassociation.org/competitions/TorontoSpring2010/results/by_person#2007COMP01) |
 | Megaminx | Average | **1784** | 2:15.00 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Canadian Open 2009](https://www.worldcubeassociation.org/competitions/CanadianOpen2009/results/by_person#2007COMP01) |
-| Pyraminx | Single | **1661** | 2.39 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Winter Open 2017](https://www.worldcubeassociation.org/competitions/TunisiaWinterOpen2017/results/by_person#2015BOUS02) |
+| Pyraminx | Single | **1662** | 2.39 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Winter Open 2017](https://www.worldcubeassociation.org/competitions/TunisiaWinterOpen2017/results/by_person#2015BOUS02) |
 | 3x3x3 One-Handed | Average | **1653** | 22.03 | [Jacobus Philip Haupt](https://www.worldcubeassociation.org/persons/2011HAUP01) | [Vancouver Winter 2011](https://www.worldcubeassociation.org/competitions/VancouverWinter2011/results/by_person#2011HAUP01) |
 | 3x3x3 Fewest Moves | Single | **1646** | 34 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2007COMP01) |
 | Megaminx | Single | **1617** | 2:00.05 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Canadian Open 2009](https://www.worldcubeassociation.org/competitions/CanadianOpen2009/results/by_person#2007COMP01) |
-| 7x7x7 Cube | Single | **1609** | 3:51.09 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) | [Peterborough Open 2017](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2017/results/by_person#2013CRON01) |
+| 7x7x7 Cube | Single | **1610** | 3:51.09 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) | [Peterborough Open 2017](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2017/results/by_person#2013CRON01) |
 
 ### Asia
 
@@ -42,8 +42,8 @@
 | 3x3x3 Multi-Blind | Single | **1490** | 17/17 53:09 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | [Ohio Open 2011](https://www.worldcubeassociation.org/competitions/OhioOpen2011/results/by_person#2009LIAN03) |
 | 3x3x3 Fewest Moves | Single | **1436** | 20 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012/results/by_person#2009OKAY01) |
 | 3x3x3 Blindfolded | Average | **1379** | 33.02 | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) | [Xi'an Spring 2010](https://www.worldcubeassociation.org/competitions/XianSpring2010/results/by_person#2008ZHUA01) |
+| 2x2x2 Cube | Single | **1331** | 0.61 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | [Taiwan Championship 2017](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2017/results/by_person#2015WANG09) |
 | Pyraminx | Single | **1331** | 1.93 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) | [Japan Open 2011](https://www.worldcubeassociation.org/competitions/JapanOpen2011/results/by_person#2006OKAY01) |
-| 2x2x2 Cube | Single | **1330** | 0.61 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | [Taiwan Championship 2017](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2017/results/by_person#2015WANG09) |
 | Square-1 | Single | **1323** | 8.65 | [Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01) | [Guangdong Open 2010](https://www.worldcubeassociation.org/competitions/GuangdongOpen2010/results/by_person#2008LIBI01) |
 | Square-1 | Single | **1287** | 6.96 | [Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01) | [Guangzhou Wushan Open 2014](https://www.worldcubeassociation.org/competitions/GuangzhouWushanOpen2014/results/by_person#2008LIBI01) |
 | Square-1 | Single | **1253** | 5.87 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | [Jiaozuo Open 2017](https://www.worldcubeassociation.org/competitions/JiaozuoOpen2017/results/by_person#2013FENG02) |
@@ -53,9 +53,9 @@
 | Event | Type | Days | Result | Person | Competition |
 | :--- | :--- | ---: | ---: | :--- | :--- |
 | Rubik's Cube | Single | **7749** | 24.32 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) | [World Championship 1982](https://www.worldcubeassociation.org/competitions/WC1982/results/by_person#1982RAZO01) |
-| 3x3x3 Multi-Blind | Single | **2813** | 41/41 54:14 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [SLS Swierklany 2013](https://www.worldcubeassociation.org/competitions/SLSSwierklany2013/results/by_person#2011KOWA01) |
+| 3x3x3 Multi-Blind | Single | **2814** | 41/41 54:14 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [SLS Swierklany 2013](https://www.worldcubeassociation.org/competitions/SLSSwierklany2013/results/by_person#2011KOWA01) |
 | Megaminx | Single | **2003** | 42.28 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011/results/by_person#2008WEST02) |
-| 2x2x2 Cube | Single | **1959** | 0.49 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | [Grudziądz Open 2016](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2016/results/by_person#2014CZAP01) |
+| 2x2x2 Cube | Single | **1960** | 0.49 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | [Grudziądz Open 2016](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2016/results/by_person#2014CZAP01) |
 | Pyraminx | Single | **1750** | 1.36 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | [Danish Special 2013](https://www.worldcubeassociation.org/competitions/DanishSpecial2013/results/by_person#2008ANDE02) |
 | Rubik's Clock | Single | **1596** | 3.73 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | [Danish Open 2015](https://www.worldcubeassociation.org/competitions/DanishOpen2015/results/by_person#2012BERG04) |
 | 2x2x2 Cube | Single | **1589** | 0.69 | [Christian Kaserer](https://www.worldcubeassociation.org/persons/2009KASE02) | [Trentin Open 2011](https://www.worldcubeassociation.org/competitions/TrentinOpen2011/results/by_person#2009KASE02) |
@@ -71,7 +71,7 @@
 | Pyraminx | Single | **1393** | 14.09 | [Andy Bellenir](https://www.worldcubeassociation.org/persons/2003BELL01) | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003/results/by_person#2003BELL01) |
 | 2x2x2 Cube | Single | **1253** | 0.96 | [Vincent Sheu](https://www.worldcubeassociation.org/persons/2006SHEU01) | [Berkeley Winter 2011](https://www.worldcubeassociation.org/competitions/BerkeleyWinter2011/results/by_person#2006SHEU01) |
 | 3x3x3 Fewest Moves | Single | **1183** | 36 | [David Barr](https://www.worldcubeassociation.org/persons/2003BARR01) | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003/results/by_person#2003BARR01) |
-| 4x4x4 Cube | Single | **1160** | 18.42 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018/results/by_person#2012PARK03) |
+| 4x4x4 Cube | Single | **1161** | 18.42 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018/results/by_person#2012PARK03) |
 | 2x2x2 Cube | Single | **1141** | 0.58 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) | [Canadian Open 2015](https://www.worldcubeassociation.org/competitions/CanadianOpen2015/results/by_person#2011SBAH01) |
 | 3x3x3 Fewest Moves | Single | **1111** | 19 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) | [Irvine Fall 2015](https://www.worldcubeassociation.org/competitions/IrvineFall2015/results/by_person#2007WONG02) |
 | 4x4x4 Blindfolded | Single | **1106** | 4:46.19 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | [Chattahoochee Spring 2009](https://www.worldcubeassociation.org/competitions/ChattahoocheeSpring2009/results/by_person#2003HARD01) |
@@ -82,7 +82,7 @@
 
 | Event | Type | Days | Result | Person | Competition |
 | :--- | :--- | ---: | ---: | :--- | :--- |
-| 3x3x3 One-Handed | Single | **2274** | 6.88 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Canberra Autumn 2015](https://www.worldcubeassociation.org/competitions/CanberraAutumn2015/results/by_person#2009ZEMD01) |
+| 3x3x3 One-Handed | Single | **2275** | 6.88 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Canberra Autumn 2015](https://www.worldcubeassociation.org/competitions/CanberraAutumn2015/results/by_person#2009ZEMD01) |
 | 3x3x3 Multi-Blind | Single | **2135** | 23/25 57:48 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) | [Melbourne Cube Day 2011](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2011/results/by_person#2010CARN01) |
 | 4x4x4 Blindfolded | Single | **1940** | 3:37.80 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer 2011](https://www.worldcubeassociation.org/competitions/MelbourneSummer2011/results/by_person#2009ZEMD01) |
 | Square-1 | Single | **1918** | 11.15 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) | [Melbourne Summer 2011](https://www.worldcubeassociation.org/competitions/MelbourneSummer2011/results/by_person#2009BEAR01) |
@@ -98,14 +98,14 @@
 | Event | Type | Days | Result | Person | Competition |
 | :--- | :--- | ---: | ---: | :--- | :--- |
 | Rubik's Cube | Single | **9253** | 29.62 | [Eduardo Valdivia Chacon](https://www.worldcubeassociation.org/persons/1982VALD01) | [World Championship 1982](https://www.worldcubeassociation.org/competitions/WC1982/results/by_person#1982VALD01) |
-| Rubik's Clock | Single | **1904** | 4.91 | [Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01) | [ULA Rubiks 2016](https://www.worldcubeassociation.org/competitions/ULARubiks2016/results/by_person#2013FILI01) |
-| 3x3x3 Multi-Blind | Single | **1560** | 29/30 57:47 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | [Aventura Cúbica IV 2017](https://www.worldcubeassociation.org/competitions/AventuraCubicaIV2017/results/by_person#2013HUAN29) |
-| Pyraminx | Average | **1469** | 2.86 | [Freddy Fernández Córdova](https://www.worldcubeassociation.org/persons/2014CORD04) | [LTC Cube Fest 2017](https://www.worldcubeassociation.org/competitions/LTCCubeFest2017/results/by_person#2014CORD04) |
+| Rubik's Clock | Single | **1905** | 4.91 | [Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01) | [ULA Rubiks 2016](https://www.worldcubeassociation.org/competitions/ULARubiks2016/results/by_person#2013FILI01) |
+| 3x3x3 Multi-Blind | Single | **1561** | 29/30 57:47 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | [Aventura Cúbica IV 2017](https://www.worldcubeassociation.org/competitions/AventuraCubicaIV2017/results/by_person#2013HUAN29) |
+| Pyraminx | Average | **1470** | 2.86 | [Freddy Fernández Córdova](https://www.worldcubeassociation.org/persons/2014CORD04) | [LTC Cube Fest 2017](https://www.worldcubeassociation.org/competitions/LTCCubeFest2017/results/by_person#2014CORD04) |
 | 3x3x3 Fewest Moves | Single | **1380** | 30 | [Carlos Alberto de Alcântara Jr.](https://www.worldcubeassociation.org/persons/2007ALCA01) | [SESC Santos 2010](https://www.worldcubeassociation.org/competitions/SESCSantos2010/results/by_person#2007ALCA01) |
-| 2x2x2 Cube | Single | **1378** | 0.72 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | [Sunmarke Dubai Open II 2017](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpenII2017/results/by_person#2012HAML01) |
+| 2x2x2 Cube | Single | **1379** | 0.72 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | [Sunmarke Dubai Open II 2017](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpenII2017/results/by_person#2012HAML01) |
 | 4x4x4 Blindfolded | Single | **1357** | 9:56.22 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [UNESP Open 2009](https://www.worldcubeassociation.org/competitions/UNESPOpen2009/results/by_person#2007GUIM01) |
 | Square-1 | Single | **1324** | 12.59 | [Gabriel Bucsan](https://www.worldcubeassociation.org/persons/2008BUCS01) | [SESC Santos 2011](https://www.worldcubeassociation.org/competitions/SESCSantos2011/results/by_person#2008BUCS01) |
-| Skewb | Single | **1322** | 1.32 | [Jhon Alexander Taboada Temple](https://www.worldcubeassociation.org/persons/2013TEMP01) | [Crazy Cubes Christmas 2017](https://www.worldcubeassociation.org/competitions/CrazyCubesChristmas2017/results/by_person#2013TEMP01) |
+| Skewb | Single | **1323** | 1.32 | [Jhon Alexander Taboada Temple](https://www.worldcubeassociation.org/persons/2013TEMP01) | [Crazy Cubes Christmas 2017](https://www.worldcubeassociation.org/competitions/CrazyCubesChristmas2017/results/by_person#2013TEMP01) |
 | 2x2x2 Cube | Single | **1267** | 0.93 | [Pedro Roque](https://www.worldcubeassociation.org/persons/2012ROQU01) | [Novo Hamburgo 2013](https://www.worldcubeassociation.org/competitions/NovoHamburgo2013/results/by_person#2012ROQU01) |
 
 

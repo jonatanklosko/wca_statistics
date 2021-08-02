@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Computed on  1 August 2021*
+*Computed on  2 August 2021*
 
 
 ### Competition

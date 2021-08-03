@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Computed on  2 August 2021*
+*Computed on  3 August 2021*
 
 
 ### 100 Competitions

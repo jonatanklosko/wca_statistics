@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on  3 August 2021*
+*Computed on  4 August 2021*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |

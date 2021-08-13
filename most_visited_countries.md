@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Computed on 12 August 2021*
+*Computed on 13 August 2021*
 
 | Countries | Person |
 | ---: | :--- |

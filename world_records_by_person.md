@@ -254,6 +254,7 @@
 | 1 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
 | 1 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) |
 | 1 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
+| 1 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 1 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) |
 

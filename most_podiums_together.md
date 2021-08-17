@@ -74,13 +74,13 @@
 | 60 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) & [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) |
 | 60 | [Gabriel Dechichi Barbar](https://www.worldcubeassociation.org/persons/2009BARB01) & [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) |
 | 60 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) & [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 59 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) & [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 59 | [Gabriel Bergue Campos Borges](https://www.worldcubeassociation.org/persons/2017BORG02) & [João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66) |
 | 59 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) & [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 59 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) & [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
 | 59 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) & [Nathan Soria](https://www.worldcubeassociation.org/persons/2012SORI01) |
 | 59 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) & [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 58 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) & [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) |
-| 58 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) & [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 58 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) & [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 57 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) & [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 57 | [Hassen Kallala](https://www.worldcubeassociation.org/persons/2016KALL01) & [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) |

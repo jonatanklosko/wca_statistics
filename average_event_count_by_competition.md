@@ -68,8 +68,8 @@
 | [Northwest Championship 2019](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2019) | 8.41 | 49 | United States |
 | [SSL 4 Sundsvall 2019](https://www.worldcubeassociation.org/competitions/SSL4Sundsvall2019) | 8.41 | 37 | Sweden |
 | [Slovenian Open 2016](https://www.worldcubeassociation.org/competitions/SlovenianOpen2016) | 8.38 | 29 | Slovenia |
-| [Montpellier Open 2010](https://www.worldcubeassociation.org/competitions/MontpellierOpen2010) | 8.36 | 33 | France |
 | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | 8.36 | 110 | Poland |
+| [Montpellier Open 2010](https://www.worldcubeassociation.org/competitions/MontpellierOpen2010) | 8.36 | 33 | France |
 | [Dutch Open 2010](https://www.worldcubeassociation.org/competitions/DutchOpen2010) | 8.36 | 53 | Netherlands |
 | [Alania Open 2010](https://www.worldcubeassociation.org/competitions/AlaniaOpen2010) | 8.36 | 28 | Germany |
 | [SSL 2 Skurup 2019](https://www.worldcubeassociation.org/competitions/SSL2Skurup2019) | 8.34 | 64 | Sweden |
@@ -97,11 +97,11 @@
 | [MCC 2017](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2017) | 8.03 | 91 | Germany |
 | [Saarland Open 2012](https://www.worldcubeassociation.org/competitions/SaarlandOpen2012) | 8.03 | 63 | Germany |
 | [Danish Championship 2020](https://www.worldcubeassociation.org/competitions/DanishChampionship2020) | 8.02 | 45 | Denmark |
+| [Breizh Open 2012](https://www.worldcubeassociation.org/competitions/BreizhOpen2012) | 8.00 | 22 | France |
 | [Danish Special 2009](https://www.worldcubeassociation.org/competitions/DanishSpecial2009) | 8.00 | 14 | Denmark |
 | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018) | 8.00 | 19 | Argentina |
 | [Pitic Open 2020](https://www.worldcubeassociation.org/competitions/PiticOpen2020) | 8.00 | 33 | Mexico |
 | [Altbier 2012](https://www.worldcubeassociation.org/competitions/Altbier2012) | 8.00 | 38 | Germany |
-| [Breizh Open 2012](https://www.worldcubeassociation.org/competitions/BreizhOpen2012) | 8.00 | 22 | France |
 | [Danish Open 2013](https://www.worldcubeassociation.org/competitions/DanishOpen2013) | 8.00 | 35 | Denmark |
 | [Dåstrup Sleepover 2018](https://www.worldcubeassociation.org/competitions/DastrupSleepover2018) | 7.98 | 52 | Denmark |
 | [Croatian Open 2016](https://www.worldcubeassociation.org/competitions/CroatianOpen2016) | 7.98 | 49 | Croatia |

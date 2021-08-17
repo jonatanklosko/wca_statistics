@@ -91,7 +91,7 @@
 | 66 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 66 | [David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01) |
-| 65 | [Nora Christ](https://www.worldcubeassociation.org/persons/2009CHRI03) |
+| 65 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 65 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 65 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 65 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |

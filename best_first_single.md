@@ -29,10 +29,10 @@
 | 1.58 | [Metin Durucu](https://www.worldcubeassociation.org/persons/2018DURU03) |
 | 1.61 | [Ilan Doubrovkine-Paskar](https://www.worldcubeassociation.org/persons/2020DOUB01) |
 | 1.68 | [Yuanhao Wu (吴元皓)](https://www.worldcubeassociation.org/persons/2017WUYU08) |
-| 1.70 | [Chele Ianis-Costin](https://www.worldcubeassociation.org/persons/2021IANI01) |
 | 1.76 | [Halid Keskin](https://www.worldcubeassociation.org/persons/2020KESK01) |
 | 1.77 | [Christopher J. Yuh](https://www.worldcubeassociation.org/persons/2019YUHC01) |
 | 1.79 | [Yingjian Gong (龚英健)](https://www.worldcubeassociation.org/persons/2021GONG02) |
+| 1.80 | [Erick Fernando Flores Contreras](https://www.worldcubeassociation.org/persons/2016CONT03) |
 
 ### 4x4x4 Cube
 
@@ -163,7 +163,7 @@
 | 2.40 | [Andrew Chai](https://www.worldcubeassociation.org/persons/2021CHAI01) |
 | 2.77 | [Yuanming Liu (刘元铭)](https://www.worldcubeassociation.org/persons/2017LIUY16) |
 | 2.93 | [Kyle McDonald Trejos](https://www.worldcubeassociation.org/persons/2017TREJ03) |
-| 2.97 | [Ianis Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
+| 2.97 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 2.99 | [Tristan Jansen](https://www.worldcubeassociation.org/persons/2018JANS03) |
 | 3.00 | [Bùi Minh Đức](https://www.worldcubeassociation.org/persons/2020DUCB01) |
 | 3.01 | [Krzysztof Dybich](https://www.worldcubeassociation.org/persons/2019DYBI01) |
@@ -179,10 +179,10 @@
 | 6.30 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 6.38 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |
 | 6.48 | [Tingxiao Zhang (张庭箫)](https://www.worldcubeassociation.org/persons/2021ZHAN16) |
+| 6.60 | [Camerone Chin](https://www.worldcubeassociation.org/persons/2019CHIN08) |
+| 6.63 | [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) |
 | 6.88 | [Eric Zahid López Parra](https://www.worldcubeassociation.org/persons/2018PARR02) |
 | 6.99 | [Alex Taylor](https://www.worldcubeassociation.org/persons/2020TAYL02) |
-| 7.07 | [Zuhan Zhang (张祖瀚)](https://www.worldcubeassociation.org/persons/2019ZHAZ25) |
-| 7.07 | [Siheng Chen (陈思衡)](https://www.worldcubeassociation.org/persons/2021CHEN15) |
 
 ### Skewb
 

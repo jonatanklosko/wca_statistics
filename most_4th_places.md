@@ -19,7 +19,7 @@
 | 111 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 110 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
-| 105 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
+| 106 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 104 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 103 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
@@ -60,15 +60,15 @@
 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 65 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 65 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
+| 65 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 65 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) |
 | 65 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 65 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 64 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
-| 64 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 64 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 63 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 63 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
 | 63 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
-| 63 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 62 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
 | 62 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 62 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |

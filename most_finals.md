@@ -30,14 +30,14 @@
 | 937 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
+| 906 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 903 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 900 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 887 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 864 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
-| 858 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 861 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 833 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 831 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
-| 831 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 826 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 811 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 804 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
@@ -53,7 +53,7 @@
 | 732 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 731 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 729 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 721 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
+| 724 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 709 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 697 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 692 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
@@ -81,9 +81,9 @@
 | 618 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 616 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 611 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
+| 609 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 609 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
 | 608 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
-| 605 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 598 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 588 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 584 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
@@ -96,10 +96,10 @@
 | 574 | [Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01) |
 | 574 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 574 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
-| 568 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) |
+| 571 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) |
+| 571 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 568 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 565 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
-| 565 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 559 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 559 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 558 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
 | 556 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |

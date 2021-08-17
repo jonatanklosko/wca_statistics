@@ -23,6 +23,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 2.25 | [Marco Giordano](https://www.worldcubeassociation.org/persons/2019GIOR02) |
 | 2.62 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) |
 | 2.63 | [Hua Huang (黄华)](https://www.worldcubeassociation.org/persons/2018HUAN08) |
 | 2.63 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
@@ -31,8 +32,7 @@
 | 2.86 | [Jeremy Sheng](https://www.worldcubeassociation.org/persons/2019SHEN10) |
 | 2.89 | [Miguel Angel Edelman Vindel](https://www.worldcubeassociation.org/persons/2018VIND01) |
 | 3.05 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) |
-| 3.08 | [Chele Ianis-Costin](https://www.worldcubeassociation.org/persons/2021IANI01) |
-| 3.09 | [Isaiah Hopkins](https://www.worldcubeassociation.org/persons/2015HOPK01) |
+| 3.06 | [Andrew Y. Feng](https://www.worldcubeassociation.org/persons/2020FENG02) |
 
 ### 4x4x4 Cube
 
@@ -178,11 +178,11 @@
 | 6.97 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 7.08 | [Zuhan Zhang (张祖瀚)](https://www.worldcubeassociation.org/persons/2019ZHAZ25) |
 | 7.10 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |
+| 7.12 | [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) |
 | 7.19 | [Mason Klewin](https://www.worldcubeassociation.org/persons/2018KLEW01) |
 | 7.19 | [Chengyang Du (杜成洋)](https://www.worldcubeassociation.org/persons/2017DUCH02) |
 | 7.23 | [Xianghua Zhao (赵祥华)](https://www.worldcubeassociation.org/persons/2019ZHAO60) |
 | 7.27 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
-| 7.58 | [Eric Zahid López Parra](https://www.worldcubeassociation.org/persons/2018PARR02) |
 
 ### Skewb
 

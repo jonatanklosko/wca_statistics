@@ -67,7 +67,7 @@
 | 847 | [Timon Veurink](https://www.worldcubeassociation.org/persons/2017VEUR01) |
 | 855 | [Matěj Mužátko](https://www.worldcubeassociation.org/persons/2013MUAT01) |
 | 860 | [José David Castiblanco Marin](https://www.worldcubeassociation.org/persons/2012MARI04) |
-| 875 | [Noah Joiner](https://www.worldcubeassociation.org/persons/2015JOIN01) |
+| 875 | [Kyra Joiner](https://www.worldcubeassociation.org/persons/2015JOIN01) |
 | 882 | [Angel Alexis Carrillo Ramirez](https://www.worldcubeassociation.org/persons/2017RAMI08) |
 | 888 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) |
 | 889 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |

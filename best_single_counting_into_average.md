@@ -31,7 +31,7 @@
 | 1.01 | [Caleb Clark](https://www.worldcubeassociation.org/persons/2014CLAR03) | [Canberra Autumn 2018](https://www.worldcubeassociation.org/competitions/CanberraAutumn2018/results/by_person#2014CLAR03) |
 | 1.02 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | [Beijing Spring AM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringAM2021/results/by_person#2016LIJI05) |
 | 1.02 | [Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06) | [Kunshan Open 2019](https://www.worldcubeassociation.org/competitions/KunshanOpen2019/results/by_person#2017LIXU06) |
-| 1.06 | [Sky Guo (郭建欣)](https://www.worldcubeassociation.org/persons/2016GUOS02) | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021/results/by_person#2016GUOS02) |
+| 1.02 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Empire State Summer B 2021](https://www.worldcubeassociation.org/competitions/EmpireStateSummerB2021/results/by_person#2018KHAN28) |
 
 ### 4x4x4 Cube
 
@@ -57,11 +57,11 @@
 | 38.60 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020/results/by_person#2012PARK03) |
 | 39.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Summer 2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019/results/by_person#2012PARK03) |
 | 39.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2016KOLA02) |
+| 39.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021/results/by_person#2016KOLA02) |
 | 39.45 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012PARK03) |
 | 39.60 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021/results/by_person#2009ZEMD01) |
 | 39.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Reno Fall 2018](https://www.worldcubeassociation.org/competitions/RenoFall2018/results/by_person#2012PARK03) |
 | 39.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2012PARK03) |
-| 39.72 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 

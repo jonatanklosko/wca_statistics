@@ -53,7 +53,7 @@
 | 51 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
 | 51 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 51 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 49 | [Nora Christ](https://www.worldcubeassociation.org/persons/2009CHRI03) |
+| 49 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 49 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 49 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
 | 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
@@ -80,13 +80,13 @@
 | 42 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 42 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 41 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) |
+| 41 | [Pauline Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 41 | [Raphaël Pihet](https://www.worldcubeassociation.org/persons/2011PIHE01) |
 | 41 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 41 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 41 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |
 | 40 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 40 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
-| 40 | [Pauline Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 40 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 40 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 40 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |

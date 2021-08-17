@@ -4,12 +4,12 @@
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
-| 79.65 | 1399 | 17.56 | United States |
+| 79.88 | 1403 | 17.56 | United States |
 | 43.38 | 602 | 13.88 | China |
 | 27.11 | 366 | 13.50 | India |
 | 20.89 | 286 | 13.69 | Brazil |
 | 16.31 | 203 | 12.44 | Russia |
-| 15.84 | 252 | 15.91 | Poland |
+| 15.90 | 253 | 15.91 | Poland |
 | 13.86 | 160 | 11.55 | Australia |
 | 13.46 | 161 | 11.96 | Indonesia |
 | 12.80 | 179 | 13.98 | Philippines |
@@ -20,9 +20,9 @@
 | 10.27 | 105 | 10.22 | Colombia |
 | 9.81 | 61 | 6.22 | Bolivia |
 | 9.79 | 176 | 17.98 | Canada |
-| 9.00 | 128 | 14.23 | Italy |
+| 9.07 | 129 | 14.23 | Italy |
 | 8.37 | 145 | 17.31 | Germany |
-| 8.19 | 84 | 10.26 | Ukraine |
+| 8.28 | 85 | 10.26 | Ukraine |
 | 6.64 | 100 | 15.07 | Taiwan |
 | 6.48 | 82 | 12.66 | Mexico |
 | 6.47 | 51 | 7.88 | Venezuela |
@@ -38,12 +38,12 @@
 | 5.07 | 74 | 14.59 | Finland |
 | 4.77 | 29 | 6.08 | Azerbaijan |
 | 4.71 | 84 | 17.85 | Netherlands |
-| 4.47 | 54 | 12.08 | New Zealand |
+| 4.55 | 55 | 12.08 | New Zealand |
 | 4.34 | 33 | 7.60 | South Africa |
 | 4.27 | 50 | 11.72 | Malaysia |
 | 4.26 | 47 | 11.03 | Vietnam |
+| 4.22 | 57 | 13.50 | Norway |
 | 4.21 | 35 | 8.31 | Turkey |
-| 4.15 | 56 | 13.50 | Norway |
 | 4.09 | 28 | 6.85 | Uruguay |
 | 4.08 | 43 | 10.53 | Argentina |
 | 3.85 | 60 | 15.57 | Republic of Korea |
@@ -66,8 +66,8 @@
 | 1.68 | 19 | 11.32 | Slovenia |
 | 1.66 | 25 | 15.07 | Czech Republic |
 | 1.64 | 6 | 3.65 | Bangladesh |
+| 1.60 | 13 | 8.13 | Lithuania |
 | 1.54 | 17 | 11.05 | Austria |
-| 1.48 | 12 | 8.13 | Lithuania |
 | 1.44 | 18 | 12.47 | Singapore |
 | 1.44 | 14 | 9.74 | Croatia |
 | 1.40 | 7 | 4.99 | Algeria |

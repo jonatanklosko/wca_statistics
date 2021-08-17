@@ -249,6 +249,7 @@
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 43 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | [Telšiai Open 2019](https://www.worldcubeassociation.org/competitions/TelsiaiOpen2019) |
+| 28 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) | [Vilnius Open 2021](https://www.worldcubeassociation.org/competitions/VilniusOpen2021) |
 | 24 | [John Edison Ubaldo](https://www.worldcubeassociation.org/persons/2010UBAL01) | [Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/VisayasChampionship2019) |
 | 22 | [Jael Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG02) | [Yura Speedcubers 2017](https://www.worldcubeassociation.org/competitions/YuraSpeedcubers2017) |
 | 22 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | [Euskadi Open Portugalete 2018](https://www.worldcubeassociation.org/competitions/EuskadiOpenPortugalete2018) |
@@ -257,7 +258,6 @@
 | 19 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) | [Xi'an NY 2015](https://www.worldcubeassociation.org/competitions/XianNewYear2015) |
 | 19 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Madison Summer 2019](https://www.worldcubeassociation.org/competitions/MadisonSummer2019) |
 | 19 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | [Peach State 2019](https://www.worldcubeassociation.org/competitions/PeachState2019) |
-| 18 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | [Slovenian Open 2012](https://www.worldcubeassociation.org/competitions/SlovenianOpen2012) |
 
 ### 3x3x3 With Feet
 
@@ -295,7 +295,7 @@
 | ---: | :--- | :--- |
 | 56 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Dolmen Open 2012](https://www.worldcubeassociation.org/competitions/DolmenOpen2012) |
 | 47 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) | [Waikato Summer 2011](https://www.worldcubeassociation.org/competitions/WaikatoSummerOpen2011) |
-| 23 | [Nora Christ](https://www.worldcubeassociation.org/persons/2009CHRI03) | [Moves are for n00bs 2012](https://www.worldcubeassociation.org/competitions/MovesN00bs2012) |
+| 23 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) | [Moves are for n00bs 2012](https://www.worldcubeassociation.org/competitions/MovesN00bs2012) |
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | [Benelux Open 2009](https://www.worldcubeassociation.org/competitions/BeneluxOpen2009) |
 | 17 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | [Barcelona Winter Open 2012](https://www.worldcubeassociation.org/competitions/BarcelonaWinterOpen2012) |
 | 17 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) | [Twente Open 2012](https://www.worldcubeassociation.org/competitions/TwenteOpen2012) |

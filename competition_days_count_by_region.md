@@ -7,17 +7,17 @@
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 7381 |
+| 1.49 | World | 7393 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2361 |
-| 1.59 | South America | 828 |
-| 1.46 | Oceania | 258 |
+| 1.77 | Europe | 2367 |
+| 1.59 | South America | 829 |
+| 1.46 | Oceania | 261 |
 | 1.41 | Asia | 1984 |
-| 1.21 | North America | 1870 |
+| 1.21 | North America | 1872 |
 | 1.16 | Africa | 80 |
 
 ### Countries
@@ -58,7 +58,7 @@
 | 1.76 | Slovenia | 21 |
 | 1.75 | North Macedonia | 4 |
 | 1.75 | Norway | 59 |
-| 1.74 | Sweden | 98 |
+| 1.73 | Sweden | 100 |
 | 1.71 | Bangladesh | 7 |
 | 1.67 | Costa Rica | 9 |
 | 1.67 | Iran | 30 |
@@ -68,22 +68,22 @@
 | 1.64 | Argentina | 45 |
 | 1.64 | Indonesia | 161 |
 | 1.63 | India | 374 |
-| 1.61 | Poland | 263 |
+| 1.61 | Poland | 266 |
 | 1.58 | Singapore | 19 |
 | 1.57 | Colombia | 109 |
 | 1.56 | Bolivia | 63 |
 | 1.55 | Malaysia | 53 |
 | 1.53 | Latvia | 17 |
 | 1.52 | Dominican Republic | 25 |
+| 1.51 | New Zealand | 59 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Luxembourg | 2 |
-| 1.50 | New Zealand | 58 |
 | 1.50 | Tajikistan | 2 |
 | 1.48 | Romania | 67 |
 | 1.47 | Peru | 134 |
 | 1.47 | Ecuador | 15 |
-| 1.46 | Italy | 131 |
-| 1.45 | Australia | 200 |
+| 1.46 | Italy | 132 |
+| 1.45 | Australia | 202 |
 | 1.43 | Iceland | 7 |
 | 1.43 | Israel | 14 |
 | 1.43 | Paraguay | 14 |
@@ -103,14 +103,14 @@
 | 1.24 | Vietnam | 49 |
 | 1.24 | Japan | 193 |
 | 1.23 | United Arab Emirates | 13 |
-| 1.21 | Uruguay | 28 |
 | 1.21 | South Africa | 33 |
+| 1.21 | Uruguay | 29 |
 | 1.20 | Panama | 5 |
 | 1.20 | Portugal | 15 |
 | 1.18 | Honduras | 11 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | United States | 1491 |
-| 1.16 | Canada | 184 |
+| 1.16 | Canada | 186 |
 | 1.11 | El Salvador | 18 |
 | 1.10 | Azerbaijan | 31 |
 | 1.00 | Albania | 2 |

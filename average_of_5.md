@@ -23,10 +23,10 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 1.13 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.02, 1.73, 0.90, 1.26, 1.11 |
 | 1.20 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 0.91, 2.00, 1.07, 1.27, 1.26 |
 | 1.21 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | 1.20, 1.20, 1.21, 2.85, 1.22 |
 | 1.23 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 0.79, 1.78, 1.17, 1.00, 1.52 |
-| 1.24 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.22, 1.13, 1.30, 2.47, 1.21 |
 | 1.26 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.24, 2.14, 1.20, 1.29, 1.26 |
 | 1.27 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2.02, 1.26, 1.25, 1.14, 1.31 |
 | 1.28 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.10, 2.07, 1.56, 1.07, 1.19 |
@@ -46,8 +46,8 @@
 | 23.41 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 24.96, 30.41, 23.88, 21.40, 20.63 |
 | 23.74 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 25.90, 20.06, 22.81, 25.08, 23.34 |
 | 23.97 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 24.91, 24.66, 23.02, 24.24, 22.85 |
+| 24.36 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 24.14, 34.72, 22.87, 21.36, 26.08 |
 | 24.50 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 24.69, 21.71, 34.49, 25.32, 23.51 |
-| 24.71 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 27.50, 23.97, 24.80, 25.37, 20.97 |
 
 ### 5x5x5 Cube
 

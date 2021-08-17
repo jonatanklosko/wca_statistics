@@ -263,7 +263,7 @@
 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) | 21 |
 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | 21 |
 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | 20 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 19 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 20 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 15 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 13 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 12 |
@@ -320,6 +320,7 @@
 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) | 5 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 4 |
 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | 4 |
+| [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | 4 |
 | [Zeyu Hu (胡泽宇)](https://www.worldcubeassociation.org/persons/2014HUZE01) | 4 |
 | [Clara Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO02) | 4 |
 | [Carsten Matheus](https://www.worldcubeassociation.org/persons/2014MATH02) | 4 |
@@ -327,7 +328,6 @@
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 4 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 4 |
 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | 4 |
-| [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 4 |
 
 ### Square-1
 
@@ -362,9 +362,9 @@
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 24 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 16 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 16 |
+| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 15 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 14 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 14 |
-| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 14 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 13 |
 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 12 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 12 |
@@ -387,7 +387,7 @@
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 28 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 27 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 20 |
-| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 13 |
+| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 14 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 12 |
 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) | 11 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 10 |
@@ -424,8 +424,8 @@
 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | 8 |
 | [Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01) | 8 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | 8 |
+| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 8 |
 | [Walter Pereira Rodrigues de Souza](https://www.worldcubeassociation.org/persons/2010SOUZ01) | 7 |
-| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 7 |
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | 6 |
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 5 |
 

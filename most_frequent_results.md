@@ -1,6 +1,6 @@
 ## Most frequent results
 
-*Computed on 31 August 2021*
+*Computed on  1 September 2021*
 
 
 ### Rubik's Cube

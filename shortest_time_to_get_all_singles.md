@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Computed on 14 September 2021*
+*Computed on 15 September 2021*
 
 | Days | Person |
 | ---: | :--- |

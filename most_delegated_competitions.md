@@ -1,6 +1,6 @@
 ## Most delegated competitions
 
-*Computed on 14 September 2021*
+*Computed on 15 September 2021*
 
 | Delegated | Person | List on WCA |
 | ---: | :--- | :--: |

@@ -1,6 +1,6 @@
 ## Competition days count by region
 
-*Computed on 17 September 2021*
+*Computed on 18 September 2021*
 
 
 ### World

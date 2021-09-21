@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Computed on 20 September 2021*
+*Computed on 21 September 2021*
 
 | Continents | Person |
 | ---: | :--- |

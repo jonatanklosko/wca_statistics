@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Computed on 21 September 2021*
+*Computed on 22 September 2021*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |

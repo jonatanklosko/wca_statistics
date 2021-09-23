@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Computed on 22 September 2021*
+*Computed on 23 September 2021*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -155,6 +155,7 @@
 | 13 | [Pasuruan Mini 2014](https://www.worldcubeassociation.org/competitions/PasuruanMiniCompetition2014) |
 | 13 | [Please Be Solved Vancouver 2019](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2019) |
 | 13 | [Shamkir Open 2018](https://www.worldcubeassociation.org/competitions/ShamkirOpen2018) |
+| 13 | [Slow Down Swanbourne 2021](https://www.worldcubeassociation.org/competitions/SlowDownSwanbourne2021) |
 | 13 | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) |
 | 13 | [Swedish CubeDay 2004](https://www.worldcubeassociation.org/competitions/Sweden2004) |
 | 13 | [Swedish CubeDay 2005](https://www.worldcubeassociation.org/competitions/SwedishCubeday2005) |

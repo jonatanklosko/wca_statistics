@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Computed on 22 September 2021*
+*Computed on 23 September 2021*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -513,6 +513,7 @@
 | 11 | [Dmitry Matthew Yaquinto](https://www.worldcubeassociation.org/persons/2018YAQU01) | [Vladivostok Is Back On 2021](https://www.worldcubeassociation.org/competitions/VladivostokIsBackOn2021/results/podiums) |
 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [TAS State Championship 2021](https://www.worldcubeassociation.org/competitions/TASStateChampionship2021/results/podiums) |
 | 11 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [WA State Championship 2021](https://www.worldcubeassociation.org/competitions/WAStateChampionship2021/results/podiums) |
+| 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021/results/podiums) |
 | 10 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008/results/podiums) |
 | 10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Madrid Open 2008](https://www.worldcubeassociation.org/competitions/MadridOpen2008/results/podiums) |
 | 10 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | [Beijing Spring Open 2008](https://www.worldcubeassociation.org/competitions/BeijingSpringOpen2008/results/podiums) |
@@ -618,7 +619,7 @@
 | 10 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Swedish Championship 2014](https://www.worldcubeassociation.org/competitions/SwedishChampionship2014/results/podiums) |
 | 10 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Dutch Open 2014](https://www.worldcubeassociation.org/competitions/DutchOpen2014/results/podiums) |
 | 10 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014/results/podiums) |
-| 10 | [Ivan Torgashov (Иван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014/results/podiums) |
+| 10 | [Ivan Torgashov (Іван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014/results/podiums) |
 | 10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Eat Sleep Cube Repeat 2014](https://www.worldcubeassociation.org/competitions/EatSleepCubeRepeat2014/results/podiums) |
 | 10 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Vantaa Open 2014](https://www.worldcubeassociation.org/competitions/VantaaOpen2014/results/podiums) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014/results/podiums) |

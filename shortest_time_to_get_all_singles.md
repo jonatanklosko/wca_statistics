@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Computed on 22 September 2021*
+*Computed on 23 September 2021*
 
 | Days | Person |
 | ---: | :--- |
@@ -108,6 +108,7 @@
 | 1141 | [Jimmy Coll](https://www.worldcubeassociation.org/persons/2006COLL01) |
 | 1160 | [Yash Mehta](https://www.worldcubeassociation.org/persons/2015MEHT08) |
 | 1162 | [David Pearce](https://www.worldcubeassociation.org/persons/2015PEAR02) |
+| 1169 | [Hannes Müller](https://www.worldcubeassociation.org/persons/2018MULL07) |
 | 1182 | [Dennis Strehlau](https://www.worldcubeassociation.org/persons/2007STRE01) |
 | 1183 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) |
 | 1189 | [Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01) |
@@ -131,6 +132,7 @@
 | 1309 | [Shu Kasuga (春日柊)](https://www.worldcubeassociation.org/persons/2010KASU01) |
 | 1329 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) |
 | 1343 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) |
+| 1344 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) |
 | 1345 | [Volodymyr Korol (Володимир Король)](https://www.worldcubeassociation.org/persons/2015KORO02) |
 | 1352 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 1357 | [Jhon Edinson Arias Parra](https://www.worldcubeassociation.org/persons/2011PARR02) |
@@ -164,6 +166,7 @@
 | 1665 | [Hyun-Kyoo Rah (나현규)](https://www.worldcubeassociation.org/persons/2015RAHH01) |
 | 1666 | [Jiawei Shou (寿佳伟)](https://www.worldcubeassociation.org/persons/2009SHOU01) |
 | 1673 | [Peter Chau](https://www.worldcubeassociation.org/persons/2011CHAU05) |
+| 1680 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 1687 | [Shonathon Collins](https://www.worldcubeassociation.org/persons/2011COLL02) |
 | 1692 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) |
 | 1694 | [Jorge Augusto Siqueira Pinto](https://www.worldcubeassociation.org/persons/2012PINT01) |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Computed on 22 September 2021*
+*Computed on 23 September 2021*
 
 
 ### Rubik's Cube
@@ -106,8 +106,8 @@
 | 0.23 | [Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02) | 27.53 | 27.76 | [Bratislava Open 2016](https://www.worldcubeassociation.org/competitions/BratislavaOpen2016/results/by_person#2009BART02) |
 | 0.24 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | 23.26 | 23.50 | [Elsass Open 2019](https://www.worldcubeassociation.org/competitions/ElsassOpen2019/results/by_person#2018HABE02) |
 | 0.24 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 23.87 | 24.11 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2013WALL03) |
+| 0.28 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 20.49 | 20.77 | [BrizZon Side Open II 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2021/results/by_person#2017DEBS01) |
 | 0.28 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 22.64 | 22.92 | [Inner Mongolia Summer 2017](https://www.worldcubeassociation.org/competitions/InnerMongoliaSummer2017/results/by_person#2013LINK01) |
-| 0.29 | [Jonas Di Dier](https://www.worldcubeassociation.org/persons/2018DIER01) | 55.78 | 56.07 | [Belgian Open 2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019/results/by_person#2018DIER01) |
 
 ### 3x3x3 One-Handed
 
@@ -227,7 +227,7 @@
 | 15.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 3:08.88 | 3:23.92 | [Warm Up Canberra 2019](https://www.worldcubeassociation.org/competitions/WarmUpCanberra2019/results/by_person#2016CHAP04) |
 | 15.19 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 2:48.02 | 3:03.21 | [Thailand Championship 2019](https://www.worldcubeassociation.org/competitions/ThailandChampionship2019/results/by_person#2013LINK01) |
 | 15.74 | [Grigorii Alekseev](https://www.worldcubeassociation.org/persons/2015ALEK01) | 4:58.43 | 5:14.17 | [CCC Open Moscow 2019](https://www.worldcubeassociation.org/competitions/CCCOpenMoscow2019/results/by_person#2015ALEK01) |
-| 17.81 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 6:43.19 | 7:01.00 | [Field of Cubes 2015](https://www.worldcubeassociation.org/competitions/FieldOfCubes2015/results/by_person#2014SCHO02) |
+| 17.00 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 29:04.00 | 29:21.00 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021/results/by_person#2016DURA09) |
 
 ### 3x3x3 With Feet
 

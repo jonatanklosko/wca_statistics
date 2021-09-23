@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Computed on 22 September 2021*
+*Computed on 23 September 2021*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -46,13 +46,13 @@
 | 44 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) | [River Hill Summer 2014](https://www.worldcubeassociation.org/competitions/RiverHillSummer2014) | [Richmond Spring 2019](https://www.worldcubeassociation.org/competitions/RichmondSpring2019) |
 | 44 | [Josh Bloch](https://www.worldcubeassociation.org/persons/2014BLOC01) | [FMC USA 2014](https://www.worldcubeassociation.org/competitions/FMCUSA2014) |  |
 | 44 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | [Idaho Open 2014](https://www.worldcubeassociation.org/competitions/IdahoOpen2014) | [Resticker Utah 2019](https://www.worldcubeassociation.org/competitions/RestickerUtah2019) |
+| 44 | [Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01) | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) |  |
 | 44 | [Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01) | [Zonhoven Open 2016](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2016) | [Dutch Masters 2019](https://www.worldcubeassociation.org/competitions/DutchMasters2019) |
 | 43 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | [Rutgers Fall 2006](https://www.worldcubeassociation.org/competitions/RutgersFall2006) |  |
 | 43 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) | [Twin Cities 2009](https://www.worldcubeassociation.org/competitions/TwinCities2009) | [Field of Cubes 2015](https://www.worldcubeassociation.org/competitions/FieldOfCubes2015) |
 | 43 | [Robbie Villarica](https://www.worldcubeassociation.org/persons/2010VILL03) | [Philippines Open 2010](https://www.worldcubeassociation.org/competitions/PhilippinesOpen2010) | [Nisei Week 2018](https://www.worldcubeassociation.org/competitions/NiseiWeek2018) |
 | 43 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | [Schio Open 2012](https://www.worldcubeassociation.org/competitions/SchioOpen2012) | [Milan Saturday 2018](https://www.worldcubeassociation.org/competitions/MilanSaturday2018) |
 | 43 | [Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01) | [Yale Fall 2013](https://www.worldcubeassociation.org/competitions/YaleFall2013) | [Hudson Valley Fall 2017](https://www.worldcubeassociation.org/competitions/HudsonValleyFall2017) |
-| 43 | [Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01) | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) |  |
 | 43 | [Jan van Dorst](https://www.worldcubeassociation.org/persons/2016DORS01) | [Cubelonia 2016](https://www.worldcubeassociation.org/competitions/Cubelonia2016) |  |
 | 43 | [Caleb Hoover](https://www.worldcubeassociation.org/persons/2016HOOV01) | [PDX Cubing Alpha 2016](https://www.worldcubeassociation.org/competitions/PDXCubingAlpha2016) |  |
 | 43 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | [INTI Open 2016](https://www.worldcubeassociation.org/competitions/IntiOpen2016) |  |
@@ -66,9 +66,11 @@
 | 41 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Swedish Open 2008](https://www.worldcubeassociation.org/competitions/SwedishOpen2008) | [FMC Europe 2018](https://www.worldcubeassociation.org/competitions/FMCEurope2018) |
 | 41 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009) | [Welcome Thay Cambridge 2015](https://www.worldcubeassociation.org/competitions/WelcomeThayCambridge2015) |
 | 41 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | [Hungarian Open 2009](https://www.worldcubeassociation.org/competitions/HungarianOpen2009) | [FMC Europe 2015](https://www.worldcubeassociation.org/competitions/FMCEurope2015) |
+| 41 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Pécs Open 2017](https://www.worldcubeassociation.org/competitions/PecsOpen2017) |  |
 | 41 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) | [Slow N Steady Summer 2018](https://www.worldcubeassociation.org/competitions/SlowNSteadySummer2018) |  |
 | 40 | [Karina Grandjean Beck](https://www.worldcubeassociation.org/persons/2010BECK01) | [Skårup Cube Day 2010](https://www.worldcubeassociation.org/competitions/SkarupCubeDay2010) | [Vestegnen Open 2017](https://www.worldcubeassociation.org/competitions/VestegnenOpen2017) |
 | 40 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | [UIndy Open 2011](https://www.worldcubeassociation.org/competitions/UIndyOpen2011) | [Marietta Mystery 2016](https://www.worldcubeassociation.org/competitions/MariettaMystery2016) |
+| 40 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [White City Cubing 2017](https://www.worldcubeassociation.org/competitions/WhiteCityCubing2017) |  |
 | 40 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Argentino de Invierno 2014](https://www.worldcubeassociation.org/competitions/ArgentinoDeInvierno2014) |  |
 | 40 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) | [Dayton 2015](https://www.worldcubeassociation.org/competitions/Dayton2015) | [Michigan Cubing Club Delta 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubDelta2019) |
 | 40 | [Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01) | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015) |  |
@@ -86,7 +88,6 @@
 | 39 | [Eder Olivencia Gonzalez](https://www.worldcubeassociation.org/persons/2012GONZ10) | [Basauri Open 2012](https://www.worldcubeassociation.org/competitions/BasauriOpen2012) |  |
 | 39 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | [Princeton Winter 2014](https://www.worldcubeassociation.org/competitions/PrincetonWinter2014) | [EZ Cubes Spring 2017](https://www.worldcubeassociation.org/competitions/EZCubesSpring2017) |
 | 39 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | [Caltech Winter 2014](https://www.worldcubeassociation.org/competitions/CaltechWinter2014) |  |
-| 39 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [White City Cubing 2017](https://www.worldcubeassociation.org/competitions/WhiteCityCubing2017) |  |
 | 39 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Munich Open 2014](https://www.worldcubeassociation.org/competitions/MunichOpen2014) |  |
 | 39 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) | [SCMU 2015](https://www.worldcubeassociation.org/competitions/SCMU2015) | [Saraswati Open 2019](https://www.worldcubeassociation.org/competitions/SaraswatiOpen2019) |
 | 39 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Puget Sound Winter 2017](https://www.worldcubeassociation.org/competitions/PugetSoundWinter2017) | [Lincoln City 2019](https://www.worldcubeassociation.org/competitions/LincolnCity2019) |
@@ -101,9 +102,8 @@
 | 38 | [Samuel Knoll](https://www.worldcubeassociation.org/persons/2015KNOL01) | [US Nationals 2015](https://www.worldcubeassociation.org/competitions/USNationals2015) |  |
 | 38 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | [Wiscube 2015](https://www.worldcubeassociation.org/competitions/Wiscube2ndEdition2015) |  |
 | 38 | [Max Chan](https://www.worldcubeassociation.org/persons/2015CHAN37) | [Manhasset 2015](https://www.worldcubeassociation.org/competitions/ManhassetFall2015) |  |
+| 38 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [Perth Summer 2016](https://www.worldcubeassociation.org/competitions/PerthSummer2016) | [Rockingham Rapid 2021](https://www.worldcubeassociation.org/competitions/RockinghamRapid2021) |
 | 38 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) | [POPS Open 2016](https://www.worldcubeassociation.org/competitions/POPSOpen2016) |  |
-| 38 | [Jackey Zheng](https://www.worldcubeassociation.org/persons/2017ZHEN10) | [Silent Spring 2017](https://www.worldcubeassociation.org/competitions/SilentSpring2017) | [Bridgeport Side Events 2019](https://www.worldcubeassociation.org/competitions/BridgeportSideEvents2019) |
-| 38 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Pécs Open 2017](https://www.worldcubeassociation.org/competitions/PecsOpen2017) |  |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

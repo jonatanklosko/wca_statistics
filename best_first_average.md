@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Computed on 22 September 2021*
+*Computed on 23 September 2021*
 
 
 ### Rubik's Cube
@@ -14,10 +14,10 @@
 | 8.87 | [Andrew Chen](https://www.worldcubeassociation.org/persons/2018CHEA05) |
 | 8.93 | [Taosif Amin Sahil](https://www.worldcubeassociation.org/persons/2017SAHI01) |
 | 9.06 | [Timothy Yang](https://www.worldcubeassociation.org/persons/2019YANT03) |
+| 9.14 | [Mikhail Tokarev](https://www.worldcubeassociation.org/persons/2021TOKA01) |
 | 9.26 | [Mark Cheung](https://www.worldcubeassociation.org/persons/2017CHEU01) |
 | 9.32 | [Chengnuo Han (韩承诺)](https://www.worldcubeassociation.org/persons/2021HANC01) |
 | 9.36 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
-| 9.38 | [Zeren Lei (雷泽人)](https://www.worldcubeassociation.org/persons/2021LEIZ01) |
 
 ### 2x2x2 Cube
 
@@ -147,12 +147,12 @@
 | 45.96 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) |
 | 48.69 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) |
 | 50.16 | [Hiroaki Okamoto (岡本裕陽)](https://www.worldcubeassociation.org/persons/2018OKAM01) |
+| 53.18 | [Brian Hambeck](https://www.worldcubeassociation.org/persons/2016HAMB02) |
 | 53.61 | [Changhee Yeh (예창희)](https://www.worldcubeassociation.org/persons/2019YEHC02) |
 | 54.46 | [Hilarry Henry](https://www.worldcubeassociation.org/persons/2017HENR03) |
 | 54.51 | [Haohan Zheng (郑皓涵)](https://www.worldcubeassociation.org/persons/2019ZHEN38) |
 | 54.56 | [Yuhang Sun (孙煜航)](https://www.worldcubeassociation.org/persons/2019SUNY09) |
 | 55.08 | [Anqi Dai (戴安琪)](https://www.worldcubeassociation.org/persons/2019DAIA01) |
-| 55.37 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) |
 
 ### Pyraminx
 
@@ -223,11 +223,11 @@
 | 7:00.25 | [Beomseok Ryu (류범석)](https://www.worldcubeassociation.org/persons/2019RYUB01) |
 | 10:30.00 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 11:08.00 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) |
+| 11:17.00 | [Dominik Obara](https://www.worldcubeassociation.org/persons/2021OBAR01) |
+| 11:32.00 | [Jens Grieme](https://www.worldcubeassociation.org/persons/2019GRIE05) |
 | 13:14.00 | [Zheng Shen (申正)](https://www.worldcubeassociation.org/persons/2017SHEN06) |
 | 14:50.00 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 16:47.00 | [Mayur Ukey](https://www.worldcubeassociation.org/persons/2014UKEY01) |
-| 18:39.00 | [Ming Dao Ting](https://www.worldcubeassociation.org/persons/2018TING05) |
-| 21:05.00 | [Daniel Kottenstette](https://www.worldcubeassociation.org/persons/2012KOTT01) |
 
 ### 5x5x5 Blindfolded
 

@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Computed on 22 September 2021*
+*Computed on 23 September 2021*
 
 | Countries | Person |
 | ---: | :--- |
@@ -52,16 +52,17 @@
 | 17 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 16 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 16 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
+| 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 16 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 16 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 16 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 16 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 15 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 15 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |
-| 15 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 15 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 15 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 15 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
+| 15 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 15 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
 | 15 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 15 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
@@ -71,11 +72,11 @@
 | 14 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
 | 14 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 14 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |
+| 14 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 14 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 14 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 14 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 14 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
-| 14 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 14 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 14 | [Jesús Masanet García](https://www.worldcubeassociation.org/persons/2004MASA01) |
 | 14 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
@@ -84,10 +85,10 @@
 | 13 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 13 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 13 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
-| 13 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 13 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) |
 | 13 | [Fabian Auroux](https://www.worldcubeassociation.org/persons/2009AURO01) |
 | 13 | [Gaël Dusser](https://www.worldcubeassociation.org/persons/2007DUSS01) |
+| 13 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 13 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
 | 13 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
 | 13 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
@@ -99,7 +100,6 @@
 | 12 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 12 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 12 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
-| 12 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 12 | [Tomas Kristiansson](https://www.worldcubeassociation.org/persons/2007KRIS01) |
 | 12 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 12 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |

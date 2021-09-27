@@ -1,20 +1,20 @@
 ## Competition days count by region
 
-*Computed on 26 September 2021*
+*Computed on 27 September 2021*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 7417 |
+| 1.50 | World | 7421 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2384 |
-| 1.59 | South America | 832 |
+| 1.77 | Europe | 2387 |
+| 1.59 | South America | 833 |
 | 1.46 | Oceania | 262 |
 | 1.41 | Asia | 1985 |
 | 1.21 | North America | 1874 |
@@ -40,7 +40,7 @@
 | 1.93 | Croatia | 15 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Ireland | 13 |
-| 1.92 | Finland | 74 |
+| 1.92 | Finland | 75 |
 | 1.91 | Turkey | 35 |
 | 1.89 | Serbia | 9 |
 | 1.89 | Uzbekistan | 9 |
@@ -81,8 +81,8 @@
 | 1.50 | Tajikistan | 2 |
 | 1.48 | Romania | 67 |
 | 1.47 | Italy | 133 |
+| 1.47 | Peru | 136 |
 | 1.47 | Ecuador | 15 |
-| 1.47 | Peru | 135 |
 | 1.44 | Australia | 203 |
 | 1.43 | Iceland | 7 |
 | 1.43 | Israel | 14 |
@@ -93,7 +93,7 @@
 | 1.33 | Taiwan | 102 |
 | 1.31 | Chile | 77 |
 | 1.31 | Venezuela | 52 |
-| 1.29 | Estonia | 34 |
+| 1.29 | Estonia | 35 |
 | 1.29 | Mongolia | 14 |
 | 1.26 | China | 615 |
 | 1.25 | Bahrain | 4 |
@@ -108,6 +108,7 @@
 | 1.20 | Panama | 5 |
 | 1.20 | Portugal | 15 |
 | 1.18 | Honduras | 11 |
+| 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | United States | 1493 |
 | 1.16 | Canada | 186 |
@@ -115,7 +116,6 @@
 | 1.10 | Azerbaijan | 31 |
 | 1.00 | Albania | 2 |
 | 1.00 | Algeria | 7 |
-| 1.00 | Andorra | 5 |
 | 1.00 | Armenia | 1 |
 | 1.00 | Cambodia | 1 |
 | 1.00 | Cuba | 1 |

@@ -1,6 +1,6 @@
 ## Most finals
 
-*Computed on 27 September 2021*
+*Computed on 28 September 2021*
 
 | Finals | Person |
 | ---: | :--- |

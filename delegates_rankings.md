@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Computed on 29 September 2021*
+*Computed on 30 September 2021*
 
 
 ### Rubik's Cube - Single
@@ -326,7 +326,7 @@
 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) | **2.45** | India | [Midcoast Cubing 2018](https://www.worldcubeassociation.org/competitions/MidcoastCubing2018) | 4.69, 2.42, 2.54, 2.40, 2.21 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **2.56** | United States | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021) | 2.20, 3.16, 2.88, 2.27, 2.52 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **3.10** | Denmark | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018) | 3.15, 3.11, 3.04, 4.00, 2.94 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **3.12** | Poland | [LLS IV 2019](https://www.worldcubeassociation.org/competitions/LubelskaLigaSpeedcubinguIV2019) | 3.49, 5.48, 2.77, 2.91, 2.97 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **3.10** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 3.41, 3.01, 4.59, 2.57, 2.87 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **3.12** | Sweden | [Norwegian Championship 2019](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2019) | 3.30, 5.26, 2.67, 3.15, 2.92 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **3.29** | United States | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016) | 3.19, 3.63, 3.40, 3.13, 3.28 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **3.31** | United States | [Minnesota Qualifier 2019](https://www.worldcubeassociation.org/competitions/MinnesotaQualifier2019) | 4.23, 2.92, 3.38, 2.81, 3.62 |

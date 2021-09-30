@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 29 September 2021*
+*Computed on 30 September 2021*
 
 
 ### Rubik's Cube
@@ -39,9 +39,9 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 21.02 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 21.81, 19.41, 23.62, 21.68, 19.57 |
+| 21.25 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 20.46, 20.48, 22.80, 29.61, 20.49 |
 | 21.26 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 22.04, 20.99, 27.07, 20.76, 20.54 |
 | 21.44 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 26.61, 21.30, 17.98, 21.05, 21.97 |
-| 21.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 21.22, 18.70, 23.76, 20.73, 22.74 |
 | 23.30 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 23.08, 21.53, 19.87, 27.44, 25.30 |
 | 23.41 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 24.96, 30.41, 23.88, 21.40, 20.63 |
 | 23.74 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 25.90, 20.06, 22.81, 25.08, 23.34 |
@@ -161,9 +161,9 @@
 | 1.72 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.27, 1.84, 2.51, 1.15, 2.07 |
 | 1.76 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 1.91, 1.62, 1.67, 5.49, 1.71 |
 | 1.79 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.85, 1.66, 2.86, 1.87, 1.65 |
+| 1.84 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.17, 3.99, 1.39, 1.80, 2.33 |
 | 1.87 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 5.04, 1.76, 1.86, 2.01, 1.68 |
 | 1.91 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.83, 1.77, 3.06, 2.14, 1.68 |
-| 1.93 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.53, 1.53, 2.20, 2.07, 1.35 |
 | 1.99 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 4.12, 2.07, 1.56, 2.16, 1.75 |
 | 2.00 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 2.22, 2.57, 2.04, 1.74, 1.51 |
 | 2.02 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 1.30, 2.27, 2.16, 2.66, 1.63 |

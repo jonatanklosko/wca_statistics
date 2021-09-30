@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on 29 September 2021*
+*Computed on 30 September 2021*
 
 
 ### Rubik's Cube
@@ -158,6 +158,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.33 | **2.52** | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/all#epyram_f) | 4 |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 2.32 | **2.56** | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021/results/all#epyram_f) | 4 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 2.51 | **2.64** | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/all#epyram_f) | 4 |
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.99 | **2.67** | [Flag City Fall 2019](https://www.worldcubeassociation.org/competitions/FlagCityFall2019/results/all#epyram_f) | 4 |
@@ -167,7 +168,6 @@
 | [Daniel Porter](https://www.worldcubeassociation.org/persons/2017PORT04) | 2.02 | **2.72** | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/all#epyram_f) | 5 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 2.41 | **2.77** | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/all#epyram_f) | 4 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2.43 | **2.78** | [Project Jastrzębie-Zdrój 2018](https://www.worldcubeassociation.org/competitions/ProjectJastrzebieZdroj2018/results/all#epyram_f) | 4 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1.79 | **2.79** | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021/results/all#epyram_f) | 5 |
 
 ### Rubik's Clock
 

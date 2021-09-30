@@ -1,6 +1,6 @@
 ## Most finals
 
-*Computed on 29 September 2021*
+*Computed on 30 September 2021*
 
 | Finals | Person |
 | ---: | :--- |
@@ -36,7 +36,7 @@
 | 887 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 864 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 861 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
-| 839 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 843 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 833 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 826 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 813 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
@@ -85,8 +85,8 @@
 | 609 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
 | 608 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
 | 598 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
+| 592 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 588 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 586 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 584 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
 | 584 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |
 | 583 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
@@ -99,8 +99,8 @@
 | 574 | [Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01) |
 | 574 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 571 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) |
+| 567 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 565 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
-| 563 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 559 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 559 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 558 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |

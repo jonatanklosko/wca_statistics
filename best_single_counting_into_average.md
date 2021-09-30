@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 29 September 2021*
+*Computed on 30 September 2021*
 
 
 ### Rubik's Cube
@@ -97,6 +97,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 1.39 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/by_person#2015GORN01) |
 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
 | 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
 | 1.53 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2015GORN01) |
@@ -106,7 +107,6 @@
 | 1.62 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018/results/by_person#2016KOLA02) |
 | 1.63 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/by_person#2015KAME02) |
 | 1.65 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017/results/by_person#2016KOLA02) |
-| 1.66 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2010BRAD01) |
 
 ### Rubik's Clock
 

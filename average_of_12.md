@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 29 September 2021*
+*Computed on 30 September 2021*
 
 
 ### Rubik's Cube
@@ -87,10 +87,10 @@
 | 2:04.83 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:04.14, 2:00.82, 2:16.10, 2:09.69, 1:56.60, 2:02.22, 2:01.53, 2:05.20, 2:09.70, 2:00.79, 2:09.45, 2:04.76 |
 | 2:05.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:06.82, 2:14.34, 2:04.65, 2:08.86, 1:59.56, 2:09.94, 1:59.28, 1:56.89, 2:12.11, 2:07.01, 2:04.41, 1:59.74 |
 | 2:08.87 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 2:01.25, 2:10.65, 2:12.56, 2:17.29, 2:13.71, 2:08.79, 2:02.53, 2:12.07, 2:00.18, 2:10.52, 2:07.71, 2:08.92 |
+| 2:09.02 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:56.31, 2:01.34, 2:09.72, 2:15.90, 2:23.72, 2:25.59, 2:06.90, 2:04.56, 2:02.57, 2:15.12, 1:59.24, 2:11.18 |
 | 2:09.87 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 2:15.66, 2:11.69, 2:14.47, 2:09.48, 2:13.64, 2:11.81, 2:06.83, 2:14.14, 2:05.64, 2:04.46, 2:06.56, 2:04.21 |
 | 2:10.05 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 2:11.68, 2:13.22, 2:10.52, 2:25.30, 2:16.17, 2:04.29, 2:10.37, 2:09.57, 2:06.19, 2:03.07, 2:15.45, 2:01.93 |
 | 2:11.64 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 2:11.04, 2:14.82, 2:15.05, 2:06.41, 2:15.04, 2:14.74, 2:01.73, 2:10.54, 2:34.41, 2:19.59, 1:58.49, 2:07.46 |
-| 2:14.29 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 2:28.75, 2:13.28, 2:23.96, 2:19.99, 2:15.26, 2:00.56, 2:19.24, 1:56.31, 2:01.34, 2:09.72, 2:15.90, 2:23.72 |
 | 2:16.77 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 2:26.59, 2:40.67, 2:08.90, 2:14.07, 2:18.72, 2:31.84, 2:21.08, 2:10.27, 2:14.12, 2:11.46, 2:10.69, 2:06.26 |
 | 2:16.89 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | 2:15.25, 2:17.48, 2:15.37, 2:14.29, 2:31.82, 2:17.70, 2:12.47, 2:22.71, 2:23.52, 2:15.37, 2:14.74, 2:11.12 |
 
@@ -159,8 +159,8 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 1.99 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 2.17, 1.69, 2.24, 2.06, 2.82, 1.85, 1.66, 2.86, 1.87, 1.65, 1.97, 1.50 |
+| 2.12 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.27, 1.45, 2.01, 2.29, 2.54, 2.64, 2.52, 1.17, 3.99, 1.39, 1.80, 2.33 |
 | 2.13 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 2.04, 2.46, 1.92, 2.85, DNF, 1.27, 1.84, 2.51, 1.15, 2.07, 2.08, 2.30 |
-| 2.14 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 3.05, 1.93, 2.15, 1.87, 2.85, 2.59, 1.72, 2.53, 1.53, 2.20, 2.07, 1.35 |
 | 2.20 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.73, 2.31, 2.55, 2.68, 1.84, 2.48, 1.95, 2.60, DNF, 1.55, 1.89, 2.05 |
 | 2.23 | [John Gaynor](https://www.worldcubeassociation.org/persons/2017GAYN01) | 1.76, 2.66, 1.75, 2.28, 4.18, 2.41, 2.12, 2.23, 2.64, 2.17, 2.05, 2.03 |
 | 2.26 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | 2.12, 2.85, 2.60, 2.49, 1.52, 1.70, 2.26, 3.21, 2.17, 2.24, 2.53, 1.71 |
@@ -182,7 +182,7 @@
 | 5.56 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 5.02, 5.21, 5.37, DNF, 6.68, 6.05, 4.54, 5.05, 5.66, 5.46, 6.08, 5.10 |
 | 5.63 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 4.63, 5.89, 5.63, 5.48, DNF, 6.92, 6.00, 4.80, 5.55, 6.73, 4.53, 4.74 |
 | 5.65 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 5.88, 4.91, 7.74, 5.11, 6.24, 5.12, 5.84, 4.61, 6.79, 5.52, 5.66, 5.52 |
-| 5.70 | [Maxim Brednev (Максим Бреднев)](https://www.worldcubeassociation.org/persons/2018BRED02) | 5.16, 6.52, 5.42, 5.57, 6.64, 7.20, 4.45, 4.64, 5.59, 6.28, 6.62, 4.60 |
+| 5.68 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 5.41, 5.61, 6.79, 4.72, 5.49, 4.85, 6.49, 6.37, 5.19, 10.06, 5.13, 5.48 |
 
 ### Skewb
 

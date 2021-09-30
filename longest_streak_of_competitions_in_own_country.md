@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Computed on 29 September 2021*
+*Computed on 30 September 2021*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -74,6 +74,7 @@
 | 22 | [Denys Haidaichuk](https://www.worldcubeassociation.org/persons/2011HAID01) | Ukraine | [Kyiv Open 2011](https://www.worldcubeassociation.org/competitions/KyivOpen2011) | [Beit Dan Open 2014](https://www.worldcubeassociation.org/competitions/BeitDanOpen2014) |
 | 22 | [Christian Goñi](https://www.worldcubeassociation.org/persons/2014GONI01) | Uruguay | [Montevideo Open 2014](https://www.worldcubeassociation.org/competitions/MontevideoOpen2014) | [Montevideo Palace 2018](https://www.worldcubeassociation.org/competitions/MontevideoPalace2018) |
 | 22 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) | Bolivia | [Speed Challenge Santa Cruz 2019](https://www.worldcubeassociation.org/competitions/SpeedChallengeSantaCruz2019) |  |
+| 21 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) |  |
 | 21 | [Choi Go-Ho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | Republic of Korea | [Spring Comes 2015](https://www.worldcubeassociation.org/competitions/SpringComes2015) | [CWR Fall 2018](https://www.worldcubeassociation.org/competitions/CWRFall2018) |
 | 21 | [Manuel Ernesto Torres Vega](https://www.worldcubeassociation.org/persons/2015VEGA02) | Chile | [La Florida Open 2015](https://www.worldcubeassociation.org/competitions/LaFloridaOpen2015) | [Open La Florida 2017](https://www.worldcubeassociation.org/competitions/OpenFlorida2017) |
 | 21 | [Alfred Saidlo](https://www.worldcubeassociation.org/persons/2014SAID02) | Estonia | [Estonian Open 2014](https://www.worldcubeassociation.org/competitions/EstonianOpen2014) | [Estonian Open 2020](https://www.worldcubeassociation.org/competitions/EstonianOpen2020) |
@@ -81,7 +82,6 @@
 | 20 | [Ágoston Török](https://www.worldcubeassociation.org/persons/2009TORO03) | Hungary | [Mammut Open 2009](https://www.worldcubeassociation.org/competitions/MammutOpen2009) | [Hungarian Open 2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019) |
 | 20 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) | Netherlands | [Dutch Open 2003](https://www.worldcubeassociation.org/competitions/DutchOpen2003) | [Dutch Nationals 2010](https://www.worldcubeassociation.org/competitions/DutchNationals2010) |
 | 20 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | Sweden | [Kristianstad Open 2009](https://www.worldcubeassociation.org/competitions/KristianstadOpen2009) | [LeanNova Cube Day 2014](https://www.worldcubeassociation.org/competitions/LeannovaCubeDay2014) |
-| 20 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) |  |
 | 20 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | Republic of Korea | [Korean Style 2013](https://www.worldcubeassociation.org/competitions/KoreanStyle2013) | [Korean Spring Picnic 2017](https://www.worldcubeassociation.org/competitions/KoreanSpringPicnic2017) |
 | 20 | [Lars Van den broeck](https://www.worldcubeassociation.org/persons/2011BROE01) | Belgium | [Hasselt Open 2013](https://www.worldcubeassociation.org/competitions/HasseltOpen2013) | [Belgian Easter 2018](https://www.worldcubeassociation.org/competitions/BelgianEaster2018) |
 | 20 | [Shu-Yii Luo (駱書翊)](https://www.worldcubeassociation.org/persons/2012LUOS01) | Taiwan | [Taiwan Summer 2013](https://www.worldcubeassociation.org/competitions/TaiwanSummer2013) | [Magic Revenge 2015](https://www.worldcubeassociation.org/competitions/MagicRevenge2015) |

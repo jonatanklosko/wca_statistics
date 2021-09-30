@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Computed on 29 September 2021*
+*Computed on 30 September 2021*
 
 
 ### Rubik's Cube - Single
@@ -74,10 +74,10 @@
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **21.36** | United States | [Empire State Summer A 2021](https://www.worldcubeassociation.org/competitions/EmpireStateSummerA2021) | 22.87, 21.36, 26.08, 29.17, 27.56 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **22.70** | Taiwan | [Florida Returns 2021](https://www.worldcubeassociation.org/competitions/FloridaReturns2021) | 31.03, 27.79, 33.85, 31.01, 22.70 |
 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **23.32** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 29.71, 27.84, 26.20, 23.32, 29.57 |
+| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **23.35** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 32.49, 30.27, 32.50, 23.35, 28.78 |
 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | **23.53** | China | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021) | 23.53, 28.64, 27.06, 27.80, 28.86 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **23.76** | Romania | [Bucharest Cubing Days 2021](https://www.worldcubeassociation.org/competitions/BucharestCubingDays2021) | 31.97, 28.42, 32.90, 23.76, 26.67 |
 | [Ari Randers-Pehrson](https://www.worldcubeassociation.org/persons/2017RAND06) | **23.76** | United States | [Empire State Summer A 2021](https://www.worldcubeassociation.org/competitions/EmpireStateSummerA2021) | 23.76, 27.27, 28.70, 24.16, 29.82 |
-| [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **23.79** | United States | [Idaho Summer B 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerB2021) | 28.09, 32.25, 23.79, 28.87, DNF |
 
 ### 4x4x4 Cube - Average
 
@@ -98,7 +98,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **37.89** | Poland | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | 45.45, 39.31, 37.89, 42.38, 44.66 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **37.28** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 45.70, 49.46, 37.28, 50.99, 42.23 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **38.84** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 43.00, 38.84, 48.39, 49.42, 47.45 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **41.84** | Romania | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | 55.63, 41.84, 50.48, 42.94, 46.09 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **43.38** | United States | [Empire State Summer A 2021](https://www.worldcubeassociation.org/competitions/EmpireStateSummerA2021) | 57.50, 51.22, 53.68, 43.38, 53.48 |
@@ -132,12 +132,12 @@
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **1:18.96** | Romania | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | 1:18.96, 1:31.96, 1:29.36 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **1:19.92** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 1:37.25, 1:38.81, 1:19.92 |
 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) | **1:25.19** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:31.54, 1:38.36, 1:25.19 |
+| [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **1:29.06** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 1:33.87, 1:48.24, 1:29.06 |
 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **1:29.44** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:29.44, 1:37.53, 1:37.01 |
 | [Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01) | **1:31.21** | Slovakia | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | 1:43.45, 1:37.42, 1:31.21 |
 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **1:31.32** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 1:39.54, 1:42.79, 1:31.32 |
 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **1:32.30** | Hong Kong | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:49.72, 1:48.99, 1:32.30 |
 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) | **1:32.88** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1:32.88, 1:34.57, 1:39.94 |
-| [Shih-Hao Wang (王士豪)](https://www.worldcubeassociation.org/persons/2015WANG46) | **1:34.04** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 1:34.04, 1:38.30, 1:47.55 |
 
 ### 6x6x6 Cube - Average
 
@@ -149,10 +149,10 @@
 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) | **1:31.70** | China | [Shaoxing Afternoon 2021](https://www.worldcubeassociation.org/competitions/ShaoxingAfternoon2021) | 1:31.54, 1:38.36, 1:25.19 |
 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **1:34.66** | China | [Jieyang Good Afternoon 2021](https://www.worldcubeassociation.org/competitions/JieyangGoodAfternoon2021) | 1:29.44, 1:37.53, 1:37.01 |
 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) | **1:35.80** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 1:32.88, 1:34.57, 1:39.94 |
+| [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **1:37.06** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 1:33.87, 1:48.24, 1:29.06 |
 | [Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01) | **1:37.36** | Slovakia | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | 1:43.45, 1:37.42, 1:31.21 |
 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **1:37.88** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 1:39.54, 1:42.79, 1:31.32 |
 | [Shih-Hao Wang (王士豪)](https://www.worldcubeassociation.org/persons/2015WANG46) | **1:39.96** | Taiwan | [Welcome Back Kaohsiung 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackKaohsiung2021) | 1:34.04, 1:38.30, 1:47.55 |
-| [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **1:39.98** | Poland | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | 1:35.00, 1:47.04, 1:37.89 |
 
 ### 7x7x7 Cube - Single
 
@@ -195,9 +195,9 @@
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **17.55** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 18.93, 19.64, 17.55 |
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **17.65** | France | [BrizZon Side Open II 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2021) | 17.65, DNF, DNF |
 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **18.45** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 18.45, DNF, 23.65 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **18.67** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 18.67, 21.60, DNF |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **18.82** | Sweden | [Flen - Stora Manschetten 2021](https://www.worldcubeassociation.org/competitions/FlenStoraManschetten2021) | 18.82, DNF, DNF |
 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | **19.09** | United States | [No 333 Frisco PM 2021](https://www.worldcubeassociation.org/competitions/No333FriscoPM2021) | DNF, 19.09, DNF |
-| [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | **19.15** | Spain | [Flen - Stora Manschetten 2021](https://www.worldcubeassociation.org/competitions/FlenStoraManschetten2021) | DNF, 19.15, 22.50 |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -224,8 +224,8 @@
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **21** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 21, 29, 26 |
 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | **22** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 27, 23, 22 |
 | [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) | **22** | France | [Bologna Back from Holidays 2021](https://www.worldcubeassociation.org/competitions/BolognaBackfromHolidays2021) | 22, 26, 24 |
-| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **22** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 22, 28, 27 |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | **22** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 22, 29, 25 |
+| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **22** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 22, 28, 27 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **23** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 30, 26, 23 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **23** | United States | [Copper Country Summer 2021](https://www.worldcubeassociation.org/competitions/CopperCountryCubingSummer2021) | 23 |
 
@@ -238,9 +238,9 @@
 | [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) | **24.00** | France | [Bologna Back from Holidays 2021](https://www.worldcubeassociation.org/competitions/BolognaBackfromHolidays2021) | 22, 26, 24 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **24.33** | Germany | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 26, 26, 21 |
 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | **25.00** | Italy | [Bologna Back from Holidays 2021](https://www.worldcubeassociation.org/competitions/BolognaBackfromHolidays2021) | 26, 28, 21 |
+| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **25.33** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 21, 29, 26 |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | **25.33** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 22, 29, 25 |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | **25.33** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 27, 24, 25 |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **25.33** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 21, 29, 26 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **25.67** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 22, 28, 27 |
 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2017RAFA02) | **26.00** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 23, 27, 28 |
 
@@ -309,30 +309,30 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | **1.04** | Poland | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021) | 2.36, 2.34, 3.22, 2.55, 1.04 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **1.10** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 4.18, 1.10, 2.52, 2.47, 3.14 |
 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | **1.15** | United States | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021) | 1.15, 2.07, 2.08, 2.30, 2.30 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **1.22** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 6.42, 1.72, 1.22, 4.59, 5.81 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | **1.23** | United States | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021) | 2.30, 2.29, 1.23, 2.38, 3.43 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1.26** | Poland | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021) | 2.59, 1.90, 1.97, 4.09, 1.26 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **1.38** | United States | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021) | 3.50, 4.78, 1.38, 7.03, 3.80 |
 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **1.40** | Australia | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 5.12, 3.28, 2.55, 3.00, 1.40 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **1.44** | Poland | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021) | 3.44, 2.55, 4.48, 1.44, 2.15 |
 | [Kevin Min](https://www.worldcubeassociation.org/persons/2015MINK04) | **1.45** | Republic of Korea | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021) | 3.26, 3.66, 1.45, 3.07, 3.48 |
-| [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | **1.50** | China | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 2.26, 3.11, 2.81, 1.69, 1.50 |
+| [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | **1.45** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 3.66, 1.45, 4.16, 2.11, 2.47 |
 
 ### Pyraminx - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1.83** | Poland | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | 1.66, 2.86, 1.87, 1.65, 1.97 |
-| [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | **1.93** | Poland | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | 1.53, 2.20, 2.07, 1.35, 3.77 |
+| [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | **1.90** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 2.52, 1.17, 3.99, 1.39, 1.80 |
 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | **2.03** | Russia | [Bogoroditsk Open 2021](https://www.worldcubeassociation.org/competitions/BogoroditskOpen2021) | 1.88, 4.64, 2.01, 2.16, 1.92 |
 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **2.15** | New Zealand | [Southern Scramble Dunedin 2021](https://www.worldcubeassociation.org/competitions/SouthernScrambleDunedin2021) | 1.95, 2.60, DNF, 1.55, 1.89 |
 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | **2.15** | United States | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021) | 1.15, 2.07, 2.08, 2.30, 2.30 |
+| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **2.17** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 1.84, 1.55, 2.16, 3.60, 2.51 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **2.22** | Poland | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021) | 3.60, 1.77, 2.56, 2.03, 2.08 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | **2.23** | United States | [Idaho Summer A 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerA2021) | 2.19, 1.61, 2.25, 2.65, 2.26 |
 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | **2.25** | China | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 2.26, 3.11, 2.81, 1.69, 1.50 |
 | [Xuyang Chen (陈徐洋)](https://www.worldcubeassociation.org/persons/2019CHEN43) | **2.25** | China | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021) | 2.17, 4.41, 1.94, 2.64, 1.92 |
-| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **2.25** | Poland | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021) | 2.29, 1.91, 2.24, 2.52, 2.22 |
 
 ### Rubik's Clock - Single
 
@@ -368,13 +368,13 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **1.37** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 2.83, 2.03, 2.25, 4.11, 1.37 |
 | [Yifan Chen (陈一凡)](https://www.worldcubeassociation.org/persons/2019CHEY46) | **1.49** | China | [Hangzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenPM2021) | 6.42, 7.31, 5.88, 1.49, 6.56 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **1.52** | Poland | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | 2.42, 1.52, 2.33, 3.06, 2.59 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **1.60** | Poland | [Happy Cubing Acton 2021](https://www.worldcubeassociation.org/competitions/HappyCubingActon2021) | 5.70, 7.32, 4.47, 4.57, 1.60 |
 | [Benjamin Warry](https://www.worldcubeassociation.org/persons/2017WARR04) | **1.63** | Australia | [Brisbane Is Back On 2021](https://www.worldcubeassociation.org/competitions/BrisbaneIsBackOn2021) | 5.13, 7.74, 4.51, 1.63, 4.32 |
 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | **1.63** | Ukraine | [Cubes Masters Zhytomyr 2021](https://www.worldcubeassociation.org/competitions/CubesMastersZhytomyr2021) | 5.16, 1.63, 4.08, 8.22, 2.92 |
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **1.64** | Colombia | [Happy Cubing Acton 2021](https://www.worldcubeassociation.org/competitions/HappyCubingActon2021) | 5.02, 7.62, 2.86, 4.51, 1.64 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **1.68** | Poland | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | 3.01, 1.68, 2.61, 2.82, 2.92 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **1.69** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 1.69, 3.53, 3.91, 2.71, 5.75 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **1.75** | Poland | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | 4.52, 1.75, 4.09, 3.99, 4.08 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **1.76** | United States | [Empire State Summer B 2021](https://www.worldcubeassociation.org/competitions/EmpireStateSummerB2021) | 2.82, 2.31, 1.92, 4.53, 1.76 |
@@ -386,8 +386,8 @@
 | [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | **2.32** | China | [Chengdu New Year Afternoon 2021](https://www.worldcubeassociation.org/competitions/ChengduNewYearAfternoon2021) | 2.33, 2.50, 2.12, DNF, 1.81 |
 | [Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | **2.33** | China | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) | 2.60, 2.39, 4.58, 1.84, 2.00 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **2.35** | United States | [Empire State Summer B 2021](https://www.worldcubeassociation.org/competitions/EmpireStateSummerB2021) | 2.82, 2.31, 1.92, 4.53, 1.76 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **2.45** | Poland | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | 2.42, 1.52, 2.33, 3.06, 2.59 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **2.48** | Poland | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | 1.78, 2.49, 6.37, 2.34, 2.60 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **2.37** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 2.83, 2.03, 2.25, 4.11, 1.37 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **2.43** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 2.37, 2.27, 5.15, 2.64, 2.11 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **2.54** | New Zealand | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) | 2.68, 2.29, 2.87, 2.63, 2.30 |
 | [Yihao Zhao (赵羿皓)](https://www.worldcubeassociation.org/persons/2012ZHAO05) | **2.67** | China | [Xi'an Cherry Blossom SP 2021](https://www.worldcubeassociation.org/competitions/XianCherryBlossomSpecial2021) | 2.20, 2.94, 4.08, 2.74, 2.34 |
 | [Shangtong Fu (傅上桐)](https://www.worldcubeassociation.org/persons/2017FUSH01) | **2.76** | China | [Guangzhou Panyu Afternoon 2021](https://www.worldcubeassociation.org/competitions/GuangzhouPanyuAfternoon2021) | 3.02, 2.15, 2.37, 2.88, 3.98 |

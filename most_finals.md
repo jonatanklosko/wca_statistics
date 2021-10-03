@@ -1,6 +1,6 @@
 ## Most finals
 
-*Computed on  2 October 2021*
+*Computed on  3 October 2021*
 
 | Finals | Person |
 | ---: | :--- |
@@ -17,7 +17,7 @@
 | 1131 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1125 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 1082 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 1089 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 1061 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1059 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 1037 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |

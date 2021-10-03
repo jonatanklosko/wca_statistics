@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Computed on  2 October 2021*
+*Computed on  3 October 2021*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -33,7 +33,7 @@
 | 89 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 87 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 86 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 85 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 86 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 83 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 82 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |

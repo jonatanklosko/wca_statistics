@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on  2 October 2021*
+*Computed on  3 October 2021*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -68,6 +68,7 @@
 | [Ivan Torgashov (Іван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) | **36** | 15 | 21 | 72 |
 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | **36** | 12 | 9 | 57 |
 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **35** | 48 | 24 | 107 |
+| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **35** | 23 | 12 | 70 |
 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **35** | 16 | 9 | 60 |
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **34** | 45 | 17 | 96 |
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **34** | 32 | 17 | 83 |
@@ -75,7 +76,6 @@
 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) | **34** | 8 | 13 | 55 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **33** | 33 | 23 | 89 |
 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) | **33** | 22 | 32 | 87 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **33** | 21 | 9 | 63 |
 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | **32** | 33 | 31 | 96 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **32** | 22 | 16 | 70 |
 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | **32** | 14 | 10 | 56 |

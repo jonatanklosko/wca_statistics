@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Computed on  2 October 2021*
+*Computed on  3 October 2021*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 7424 |
+| 1.50 | World | 7435 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2389 |
+| 1.77 | Europe | 2392 |
 | 1.59 | South America | 833 |
 | 1.46 | Oceania | 262 |
 | 1.41 | Asia | 1985 |
-| 1.21 | North America | 1875 |
+| 1.21 | North America | 1883 |
 | 1.16 | Africa | 80 |
 
 ### Countries
@@ -35,7 +35,7 @@
 | 1.99 | United Kingdom | 94 |
 | 1.95 | Germany | 155 |
 | 1.95 | Slovakia | 22 |
-| 1.94 | Belgium | 50 |
+| 1.94 | Belgium | 51 |
 | 1.94 | Russia | 216 |
 | 1.93 | Croatia | 15 |
 | 1.93 | Belarus | 42 |
@@ -44,12 +44,12 @@
 | 1.91 | Turkey | 35 |
 | 1.89 | Serbia | 9 |
 | 1.89 | Uzbekistan | 9 |
-| 1.85 | Switzerland | 71 |
 | 1.84 | Ukraine | 91 |
 | 1.83 | France | 198 |
 | 1.83 | Brazil | 292 |
 | 1.83 | Spain | 207 |
 | 1.82 | Austria | 17 |
+| 1.82 | Switzerland | 73 |
 | 1.82 | Mexico | 84 |
 | 1.81 | Thailand | 27 |
 | 1.80 | San Marino | 5 |
@@ -110,7 +110,7 @@
 | 1.18 | Honduras | 11 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 1494 |
+| 1.16 | United States | 1502 |
 | 1.16 | Canada | 186 |
 | 1.11 | El Salvador | 18 |
 | 1.10 | Azerbaijan | 31 |

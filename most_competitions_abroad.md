@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Computed on  2 October 2021*
+*Computed on  3 October 2021*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -30,7 +30,7 @@
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
-| 67 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 68 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 67 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 67 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 66 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |

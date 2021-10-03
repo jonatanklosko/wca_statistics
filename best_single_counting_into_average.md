@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on  2 October 2021*
+*Computed on  3 October 2021*
 
 
 ### Rubik's Cube
@@ -8,6 +8,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 4.92 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Cube for Cambodia 2018](https://www.worldcubeassociation.org/competitions/CubeforCambodia2018/results/by_person#2009ZEMD01) |
+| 4.92 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | [BCCC A 2021](https://www.worldcubeassociation.org/competitions/BCCubingComebackA2021/results/by_person#2016INAB01) |
 | 4.99 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Odd Day in Sydney 2019](https://www.worldcubeassociation.org/competitions/OddDayinSydney2019/results/by_person#2009ZEMD01) |
 | 5.04 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Odd Day in Sydney 2019](https://www.worldcubeassociation.org/competitions/OddDayinSydney2019/results/by_person#2009ZEMD01) |
 | 5.06 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/by_person#2016KOLA02) |
@@ -16,7 +17,6 @@
 | 5.15 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | [Wuhan Open 2021](https://www.worldcubeassociation.org/competitions/WuhanOpen2021/results/by_person#2017XURU04) |
 | 5.16 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 22 2019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin222019/results/by_person#2012PARK03) |
 | 5.20 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021/results/by_person#2009ZEMD01) |
-| 5.23 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 

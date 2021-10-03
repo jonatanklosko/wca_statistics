@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on  2 October 2021*
+*Computed on  3 October 2021*
 
 
 ### Rubik's Cube
@@ -12,12 +12,12 @@
 | 5.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.92, 6.17, 6.44, 5.34, 5.81, 6.06, 5.48, 5.07, 5.68, 5.40, 5.53, 5.27 |
 | 5.89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.76, 6.11, 5.69, 5.03, 7.22, 6.53, 5.63, 5.40, 5.98, 6.18, 6.00, 6.40 |
 | 5.94 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 5.53, 6.32, 5.81, DNF, 6.38, 5.35, 7.21, 5.38, 5.98, 5.76, 5.40, 5.72 |
+| 5.95 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 7.38, 5.80, 5.76, 5.78, 5.23, 6.20, 6.66, 6.01, 6.12, 4.76, 7.05, 4.92 |
 | 6.15 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | 6.17, 5.16, 8.31, 5.87, 5.42, 5.30, 7.53, 5.42, 6.65, 8.04, 6.00, 4.88 |
 | 6.16 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | 5.64, 6.73, 6.80, 5.88, 5.66, 5.93, 6.67, 5.51, 8.67, 5.76, 6.02, 6.59 |
 | 6.21 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.61, 5.92, 5.26, 7.23, 6.14, 5.43, 6.46, 6.81, 6.20, 6.87, 5.79, 6.93 |
 | 6.34 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | 6.27, 6.42, 6.10, 6.43, 7.05, 5.84, 6.36, 6.30, 6.68, 6.54, 6.54, 5.60 |
 | 6.34 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 6.38, 6.08, 7.67, 5.72, 5.99, 5.52, 6.23, 6.27, 7.46, 6.50, 6.05, 6.75 |
-| 6.36 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.52, 6.02, 6.57, 7.10, 5.89, 7.05, 7.94, 5.94, 5.20, 5.41, 7.43, 6.69 |
 
 ### 2x2x2 Cube
 
@@ -45,9 +45,9 @@
 | 24.52 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 22.17, 27.12, 23.23, 22.53, 26.91, 24.40, 26.33, 24.64, 22.46, 25.30, 25.26, 24.17 |
 | 24.69 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 20.06, 22.81, 25.08, 23.34, 27.65, 27.42, 25.16, 23.63, 25.83, 23.58, 30.14, 22.42 |
 | 24.78 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 25.98, 24.69, 24.11, 25.55, 23.77, 24.90, 23.81, 25.75, 24.72, 21.42, 28.31, 24.54 |
+| 24.95 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 28.06, 27.18, 27.68, 24.50, 24.60, 24.16, 30.46, 23.85, 22.61, 22.98, 23.87, 22.69 |
 | 25.51 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 25.20, 27.09, 22.74, 27.32, 22.11, 25.76, 25.26, 25.38, 31.09, 22.88, 26.22, 27.31 |
 | 25.67 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 24.30, 24.56, 24.96, 40.49, 29.04, 24.44, 22.45, 24.19, 26.47, 27.30, 26.50, 24.94 |
-| 25.99 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 25.67, 23.03, 27.46, 26.52, 27.22, 23.55, 30.24, 26.52, 26.03, 25.72, 24.58, 26.70 |
 
 ### 5x5x5 Cube
 
@@ -206,7 +206,7 @@
 | 6.67 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 8.72, 5.94, 7.77, 5.32, 7.50, 7.04, 5.32, 11.79, 6.69, 5.40, 6.56, 5.77 |
 | 6.74 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.92, 6.68, 7.75, 6.65, 5.64, 8.39, 7.53, 5.52, 7.27, 6.46, 6.16, 7.43 |
 | 6.92 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 5.69, 6.77, 6.10, 7.15, 7.26, 7.32, 7.57, 7.45, 6.51, 7.23, 12.01, 5.85 |
-| 7.14 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 8.08, 6.97, 8.47, 6.87, 6.40, 6.85, 5.32, 5.87, 8.63, 10.50, 7.77, 5.50 |
+| 7.13 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 6.40, 6.85, 5.32, 5.87, 8.63, 10.50, 7.77, 5.50, 11.23, 7.65, 5.78, 6.41 |
 | 7.16 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | 6.42, 7.42, 7.60, 7.79, 5.37, 7.89, 7.77, 7.01, 7.56, 7.12, 6.57, 6.36 |
 | 7.20 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 8.52, 8.40, 5.95, 11.12, 8.45, 6.53, 6.79, 5.00, 6.87, 6.39, 6.68, 7.44 |
 | 7.39 | [Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02) | 7.27, 7.19, 6.66, 8.25, 7.28, 9.40, 6.57, 6.81, 7.33, 6.67, 10.70, 7.13 |

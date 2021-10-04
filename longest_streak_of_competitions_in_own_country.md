@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Computed on  3 October 2021*
+*Computed on  4 October 2021*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -39,8 +39,8 @@
 | 29 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | Germany | [German Nationals 2009](https://www.worldcubeassociation.org/competitions/Germany2009) | [Schleswig-Holstein Open 2012](https://www.worldcubeassociation.org/competitions/SHOpen2012) |
 | 28 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) | Switzerland | [Swiss Open 2014](https://www.worldcubeassociation.org/competitions/SwissOpen2014) | [Swisscubing Mental 2018](https://www.worldcubeassociation.org/competitions/SwisscubingMentalBreakdown2018) |
 | 27 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | Netherlands | [Dutch Open 2003](https://www.worldcubeassociation.org/competitions/DutchOpen2003) | [Moves are for n00bs 2012](https://www.worldcubeassociation.org/competitions/MovesN00bs2012) |
-| 27 | [Jr-Wei Jang (張智瑋)](https://www.worldcubeassociation.org/persons/2010JANG01) | Taiwan | [All is Well 2015](https://www.worldcubeassociation.org/competitions/AllIsWell2015) | [Maru Cube Day 2017](https://www.worldcubeassociation.org/competitions/MaruCubeDay2017) |
 | 27 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | Taiwan | [Taiwan Summer 2014](https://www.worldcubeassociation.org/competitions/TaiwanSummerOpen2014) | [Kaohsiung Winter Open 2016](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2016) |
+| 27 | [Jr-Wei Jang (張智瑋)](https://www.worldcubeassociation.org/persons/2010JANG01) | Taiwan | [All is Well 2015](https://www.worldcubeassociation.org/competitions/AllIsWell2015) | [Maru Cube Day 2017](https://www.worldcubeassociation.org/competitions/MaruCubeDay2017) |
 | 27 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | United Kingdom | [UK Open 2010](https://www.worldcubeassociation.org/competitions/UKOpen2010) | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) |
 | 27 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) | Italy | [Italian Championship 2017](https://www.worldcubeassociation.org/competitions/ItalianChampionship2017) | [Salento Cubing Open 2020](https://www.worldcubeassociation.org/competitions/SalentoCubingOpen2020) |
 | 27 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | Chile | [LMDL 2015](https://www.worldcubeassociation.org/competitions/LMDLOpen2015) | [Akiba Expo Open 2018](https://www.worldcubeassociation.org/competitions/AkibaExpoOpen2018) |
@@ -100,10 +100,10 @@
 | 19 | [Greg Austin](https://www.worldcubeassociation.org/persons/2006AUST01) | United Kingdom | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012) | [Edinburgh Spring 2015](https://www.worldcubeassociation.org/competitions/EdinburghSpring2015) |
 | 19 | [Manuel Bühler](https://www.worldcubeassociation.org/persons/2014BUEH01) | Switzerland | [Swiss Science Open 2014](https://www.worldcubeassociation.org/competitions/SwissScienceOpen2014) | [Ticino Open 2017](https://www.worldcubeassociation.org/competitions/TicinoOpen2017) |
 | 19 | [Anton Rostovikov](https://www.worldcubeassociation.org/persons/2009ROST01) | Russia | [Moscow Open 2009](https://www.worldcubeassociation.org/competitions/MoscowOpen2009) | [Tomsk Blind Weekend 2014](https://www.worldcubeassociation.org/competitions/TomskBlindWeekend2014) |
-| 19 | [Branko Kobal](https://www.worldcubeassociation.org/persons/2009KOBA03) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 19 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 19 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 19 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
+| 19 | [Branko Kobal](https://www.worldcubeassociation.org/persons/2009KOBA03) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 19 | [Teodor Toma](https://www.worldcubeassociation.org/persons/2015TOMA04) | Romania | [Mioveni Rubik's Open 2015](https://www.worldcubeassociation.org/competitions/MioveniRubikOpen2015) | [Oradea Cubing Open 2018](https://www.worldcubeassociation.org/competitions/OradeaCubingOpen2018) |
 
 

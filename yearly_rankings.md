@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Computed on 10 October 2021*
+*Computed on 11 October 2021*
 
 
 ### Rubik's Cube - Single
@@ -224,8 +224,8 @@
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **21** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 21, 29, 26 |
 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | **22** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 27, 23, 22 |
 | [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) | **22** | France | [Bologna Back from Holidays 2021](https://www.worldcubeassociation.org/competitions/BolognaBackfromHolidays2021) | 22, 26, 24 |
-| [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | **22** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 22, 29, 25 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **22** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 22, 28, 27 |
+| [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | **22** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 22, 29, 25 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **23** | Australia | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021) | 30, 26, 23 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **23** | United States | [Copper Country Summer 2021](https://www.worldcubeassociation.org/competitions/CopperCountryCubingSummer2021) | 23 |
 
@@ -238,9 +238,9 @@
 | [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) | **24.00** | France | [Bologna Back from Holidays 2021](https://www.worldcubeassociation.org/competitions/BolognaBackfromHolidays2021) | 22, 26, 24 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **24.33** | Germany | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 26, 26, 21 |
 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | **25.00** | Italy | [Bologna Back from Holidays 2021](https://www.worldcubeassociation.org/competitions/BolognaBackfromHolidays2021) | 26, 28, 21 |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **25.33** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 21, 29, 26 |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | **25.33** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 22, 29, 25 |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | **25.33** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 27, 24, 25 |
+| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **25.33** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 21, 29, 26 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **25.67** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 22, 28, 27 |
 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2017RAFA02) | **26.00** | Poland | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | 23, 27, 28 |
 

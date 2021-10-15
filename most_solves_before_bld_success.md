@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Computed on 14 October 2021*
+*Computed on 15 October 2021*
 
 
 ### 3x3x3 Blindfolded

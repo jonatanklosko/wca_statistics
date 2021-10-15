@@ -99,6 +99,7 @@
 | First single | Person |
 | ---: | :--- |
 | 25.50 | [Zhaoxuan Ning (宁照轩)](https://www.worldcubeassociation.org/persons/2019NING06) |
+| 27.21 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) |
 | 28.93 | [Lim Jun Heng](https://www.worldcubeassociation.org/persons/2019HENG02) |
 | 29.98 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) |
 | 34.05 | [Haozhen Ding (丁昊桢)](https://www.worldcubeassociation.org/persons/2019DING22) |
@@ -107,7 +108,6 @@
 | 45.06 | [Gang Yang (杨港)](https://www.worldcubeassociation.org/persons/2016YANG22) |
 | 45.42 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 49.88 | [Chen Zhu (朱晨)](https://www.worldcubeassociation.org/persons/2013ZHUC01) |
-| 50.31 | [Alessandro Solito](https://www.worldcubeassociation.org/persons/2013SOLI02) |
 
 ### 3x3x3 Fewest Moves
 
@@ -119,8 +119,8 @@
 | 25 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 25 | [Inha Woo (우인하)](https://www.worldcubeassociation.org/persons/2010INHA01) |
 | 26 | [Ali Salavati (علی صلواتی)](https://www.worldcubeassociation.org/persons/2011SALA04) |
-| 27 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 27 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
+| 27 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 27 | [Claudio Müller](https://www.worldcubeassociation.org/persons/2010MLLE01) |
 | 27 | [Tan Yan Shun](https://www.worldcubeassociation.org/persons/2016SHUN03) |
 

@@ -7,17 +7,17 @@
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 7435 |
+| 1.50 | World | 7451 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2392 |
-| 1.59 | South America | 833 |
-| 1.46 | Oceania | 262 |
+| 1.77 | Europe | 2400 |
+| 1.59 | South America | 835 |
+| 1.46 | Oceania | 263 |
 | 1.41 | Asia | 1985 |
-| 1.21 | North America | 1883 |
+| 1.21 | North America | 1888 |
 | 1.16 | Africa | 80 |
 
 ### Countries
@@ -40,25 +40,25 @@
 | 1.93 | Croatia | 15 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Ireland | 13 |
-| 1.92 | Finland | 75 |
 | 1.91 | Turkey | 35 |
+| 1.91 | Finland | 76 |
 | 1.89 | Serbia | 9 |
 | 1.89 | Uzbekistan | 9 |
 | 1.84 | Ukraine | 91 |
 | 1.83 | France | 198 |
 | 1.83 | Brazil | 292 |
-| 1.83 | Spain | 207 |
 | 1.82 | Austria | 17 |
-| 1.82 | Switzerland | 73 |
+| 1.82 | Spain | 208 |
 | 1.82 | Mexico | 84 |
 | 1.81 | Thailand | 27 |
+| 1.81 | Switzerland | 74 |
 | 1.80 | San Marino | 5 |
-| 1.78 | Denmark | 87 |
 | 1.78 | Guatemala | 41 |
+| 1.77 | Denmark | 88 |
+| 1.77 | Norway | 61 |
 | 1.76 | Slovenia | 21 |
 | 1.75 | North Macedonia | 4 |
-| 1.75 | Norway | 60 |
-| 1.75 | Sweden | 102 |
+| 1.75 | Sweden | 103 |
 | 1.71 | Bangladesh | 7 |
 | 1.67 | Costa Rica | 9 |
 | 1.67 | Iran | 30 |
@@ -68,11 +68,11 @@
 | 1.64 | Argentina | 45 |
 | 1.64 | Indonesia | 161 |
 | 1.63 | India | 374 |
-| 1.62 | Poland | 269 |
+| 1.62 | Poland | 271 |
+| 1.59 | Colombia | 111 |
 | 1.58 | Singapore | 19 |
-| 1.57 | Colombia | 110 |
-| 1.56 | Bolivia | 63 |
 | 1.55 | Malaysia | 53 |
+| 1.55 | Bolivia | 64 |
 | 1.53 | Latvia | 17 |
 | 1.52 | Dominican Republic | 25 |
 | 1.51 | New Zealand | 59 |
@@ -83,7 +83,7 @@
 | 1.47 | Italy | 133 |
 | 1.47 | Peru | 136 |
 | 1.47 | Ecuador | 15 |
-| 1.44 | Australia | 203 |
+| 1.44 | Australia | 204 |
 | 1.43 | Iceland | 7 |
 | 1.43 | Israel | 14 |
 | 1.43 | Paraguay | 14 |
@@ -110,7 +110,7 @@
 | 1.18 | Honduras | 11 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 1502 |
+| 1.17 | United States | 1507 |
 | 1.16 | Canada | 186 |
 | 1.11 | El Salvador | 18 |
 | 1.10 | Azerbaijan | 31 |

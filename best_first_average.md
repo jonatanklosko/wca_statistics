@@ -101,13 +101,13 @@
 | 29.01 | [Zhaoxuan Ning (宁照轩)](https://www.worldcubeassociation.org/persons/2019NING06) |
 | 37.70 | [Haozhen Ding (丁昊桢)](https://www.worldcubeassociation.org/persons/2019DING22) |
 | 41.14 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 52.16 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) |
 | 58.74 | [Su Xu (徐粟)](https://www.worldcubeassociation.org/persons/2014XUSU01) |
 | 1:10.79 | [Haruka Kitamura (北村晴香)](https://www.worldcubeassociation.org/persons/2017KITA03) |
 | 1:11.88 | [Jiahao Ye (叶佳浩)](https://www.worldcubeassociation.org/persons/2016YEJI01) |
 | 1:12.34 | [Benjamin Meco](https://www.worldcubeassociation.org/persons/2012MECO01) |
 | 1:13.95 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 1:22.28 | [Jun Xu (徐俊)](https://www.worldcubeassociation.org/persons/2011XUJU01) |
-| 1:23.60 | [Wu Chun Chung (吳俊聰)](https://www.worldcubeassociation.org/persons/2010CHUN04) |
 
 ### 3x3x3 Fewest Moves
 
@@ -159,6 +159,7 @@
 | First average | Person |
 | ---: | :--- |
 | 3.06 | [Yixuan Li (李逸轩)](https://www.worldcubeassociation.org/persons/2018LIYI14) |
+| 3.41 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
 | 3.91 | [Haoze Liu (刘浩泽)](https://www.worldcubeassociation.org/persons/2019LIUH04) |
 | 4.21 | [Josué Pardo Chambi](https://www.worldcubeassociation.org/persons/2017CHAM06) |
 | 4.28 | [Lim Chun Yik](https://www.worldcubeassociation.org/persons/2018YIKL01) |
@@ -167,7 +168,6 @@
 | 4.48 | [Marcelino Cortés Gómez](https://www.worldcubeassociation.org/persons/2017GOME23) |
 | 4.48 | [Dias Krykbaev (Диас Крыкбаев)](https://www.worldcubeassociation.org/persons/2019KRYK01) |
 | 4.53 | [Jinpeng Jia (贾锦鹏)](https://www.worldcubeassociation.org/persons/2018JIAJ01) |
-| 4.59 | [Yichen Sun (孙艺晨)](https://www.worldcubeassociation.org/persons/2021SUNY01) |
 
 ### Rubik's Clock
 

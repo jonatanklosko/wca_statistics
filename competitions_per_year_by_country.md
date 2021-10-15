@@ -4,34 +4,34 @@
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
-| 79.15 | 1403 | 17.72 | United States |
+| 79.27 | 1405 | 17.72 | United States |
 | 42.88 | 602 | 14.04 | China |
 | 26.79 | 366 | 13.66 | India |
 | 20.64 | 286 | 13.85 | Brazil |
+| 16.36 | 263 | 16.07 | Poland |
 | 16.18 | 204 | 12.61 | Russia |
-| 16.18 | 260 | 16.07 | Poland |
-| 14.01 | 164 | 11.71 | Australia |
+| 14.09 | 165 | 11.71 | Australia |
 | 13.28 | 161 | 12.13 | Indonesia |
 | 12.66 | 179 | 14.14 | Philippines |
 | 12.52 | 131 | 10.46 | Peru |
 | 11.94 | 202 | 16.92 | Spain |
 | 11.56 | 188 | 16.27 | Japan |
-| 10.74 | 188 | 17.50 | France |
-| 10.11 | 105 | 10.38 | Colombia |
+| 10.80 | 189 | 17.50 | France |
+| 10.21 | 106 | 10.38 | Colombia |
 | 9.81 | 178 | 18.15 | Canada |
 | 9.56 | 61 | 6.38 | Bolivia |
 | 9.03 | 130 | 14.39 | Italy |
+| 8.35 | 87 | 10.42 | Ukraine |
 | 8.30 | 145 | 17.48 | Germany |
-| 8.25 | 86 | 10.42 | Ukraine |
 | 6.57 | 100 | 15.23 | Taiwan |
 | 6.40 | 82 | 12.82 | Mexico |
 | 6.34 | 51 | 8.04 | Venezuela |
 | 5.98 | 75 | 12.55 | Chile |
-| 5.83 | 79 | 13.55 | Denmark |
+| 5.91 | 80 | 13.55 | Denmark |
 | 5.77 | 86 | 14.91 | United Kingdom |
 | 5.67 | 64 | 11.29 | Romania |
+| 5.39 | 91 | 16.88 | Sweden |
 | 5.33 | 69 | 12.93 | Switzerland |
-| 5.33 | 90 | 16.88 | Sweden |
 | 5.22 | 21 | 4.02 | Kazakhstan |
 | 5.08 | 41 | 8.07 | Belarus |
 | 5.08 | 40 | 7.87 | Guatemala |
@@ -114,8 +114,8 @@
 | 0.38 | 3 | 7.82 | Georgia |
 | 0.36 | 1 | 2.76 | Kenya |
 | 0.34 | 1 | 2.93 | Luxembourg |
+| 0.31 | 3 | 9.54 | Jordan |
 | 0.27 | 1 | 3.69 | Armenia |
-| 0.21 | 2 | 9.54 | Jordan |
 | 0.18 | 1 | 5.52 | Cuba |
 | 0.18 | 1 | 5.71 | Multiple Countries (South America) |
 | 0.08 | 1 | 12.17 | Macau |

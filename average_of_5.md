@@ -54,10 +54,10 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 39.07 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 36.06, 42.65, 40.82, 37.80, 38.60 |
+| 39.79 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 39.72, 38.97, 47.85, 36.10, 40.69 |
 | 40.39 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 38.55, 40.78, 43.80, 38.82, 41.59 |
-| 40.48 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 39.31, 37.89, 42.38, 44.66, 39.77 |
+| 42.95 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 45.11, 42.73, 43.86, 42.16, 42.27 |
 | 43.04 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 42.48, 40.66, 46.57, 44.93, 41.72 |
-| 43.81 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 50.91, 45.84, 42.22, 43.39, 41.59 |
 | 44.85 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 45.34, 41.60, 47.88, 42.56, 46.66 |
 | 45.12 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 53.62, 42.36, 43.02, 47.13, 45.21 |
 | 45.58 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 43.55, 46.47, 41.72, 59.83, 46.74 |
@@ -73,7 +73,7 @@
 | 1:22.45 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:22.21, 1:18.78, 1:24.70, 1:34.90, 1:20.45 |
 | 1:23.24 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:19.23, 1:25.94, 1:23.57, 1:25.81, 1:20.35 |
 | 1:23.49 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:24.38, 1:26.87, 1:23.41, 1:21.93, 1:22.68 |
-| 1:23.70 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:19.84, 1:25.90, 1:23.76, 1:28.38, 1:21.45 |
+| 1:23.55 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:25.03, 1:23.40, 1:22.22, 1:31.18, 1:14.43 |
 | 1:25.82 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:24.61, 1:26.86, 1:38.33, 1:26.00, 1:24.12 |
 | 1:31.03 | [Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01) | 1:28.16, 1:26.28, 1:41.62, 1:34.10, 1:30.85 |
 | 1:31.83 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 1:35.59, 1:47.11, 1:30.90, 1:29.00, 1:21.68 |
@@ -204,15 +204,15 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 6.05 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 8.73, 5.83, 5.98, 6.34, 5.65 |
+| 6.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.88, 5.56, 8.56, 6.19, 5.49 |
 | 6.21 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 5.32, 11.79, 6.69, 5.40, 6.56 |
 | 6.37 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 6.87, 6.40, 6.85, 5.32, 5.87 |
-| 6.41 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.92, 6.68, 7.75, 6.65, 5.64 |
 | 6.53 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 7.35, 6.15, 7.37, 6.04, 6.11 |
+| 6.64 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 6.36, 8.43, 6.71, 6.70, 6.53 |
 | 6.70 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) | 6.76, 6.77, 5.50, 13.20, 6.58 |
 | 6.77 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 5.74, 7.11, 7.79, 6.55, 6.65 |
 | 6.87 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 5.11, 7.60, 7.27, 8.37, 5.75 |
 | 6.90 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | 7.01, 7.56, 7.12, 6.57, 6.36 |
-| 6.93 | [Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02) | 9.40, 6.57, 6.81, 7.33, 6.67 |
 
 ### 4x4x4 Blindfolded
 
@@ -224,10 +224,10 @@
 | 2:09.78 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 1:55.58, 2:14.32, 2:07.26, 2:49.89, 2:07.78 |
 | 2:12.65 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 2:09.65, 2:15.58, 2:12.74, DNF, 2:06.18 |
 | 2:24.19 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 2:18.31, DNF, 2:10.47, 2:20.51, 2:33.75 |
+| 2:26.50 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 2:21.14, 2:09.18, 4:06.20, 2:34.15, 2:24.21 |
 | 2:27.40 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | DNF, 1:48.16, 2:37.55, 2:32.98, 2:11.67 |
 | 2:30.99 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 2:36.32, 2:34.00, 2:43.42, 2:22.67, 2:10.47 |
 | 2:33.85 | [Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01) | 2:40.87, 2:27.41, 2:33.28, DNF, 2:19.43 |
-| 2:43.64 | [Hui Cai (蔡辉)](https://www.worldcubeassociation.org/persons/2018CAIH01) | 2:38.92, 2:41.06, 2:14.16, DNF, 2:50.94 |
 
 ### 5x5x5 Blindfolded
 

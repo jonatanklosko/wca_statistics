@@ -204,8 +204,8 @@
 | 2101 | [Justin Choi](https://www.worldcubeassociation.org/persons/2013CHOI04) |
 | 2121 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 2163 | [Robin Deun](https://www.worldcubeassociation.org/persons/2009DEUN01) |
-| 2183 | [Dániel Kui](https://www.worldcubeassociation.org/persons/2008KUID01) |
 | 2183 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) |
+| 2183 | [Dániel Kui](https://www.worldcubeassociation.org/persons/2008KUID01) |
 | 2191 | [Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02) |
 | 2191 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 2198 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |

@@ -10,6 +10,7 @@
 | 17 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Oregon 2016](https://www.worldcubeassociation.org/competitions/Oregon2016/results/podiums) |
 | 17 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Open 2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019/results/podiums) |
 | 17 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2020](https://www.worldcubeassociation.org/competitions/DanishChampionship2020/results/podiums) |
+| 17 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021/results/podiums) |
 | 16 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Lyon Open 2011](https://www.worldcubeassociation.org/competitions/LyonOpen2011/results/podiums) |
 | 16 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Swedish Cubedays 2011](https://www.worldcubeassociation.org/competitions/SwedishCubedays2011/results/podiums) |
 | 16 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012/results/podiums) |

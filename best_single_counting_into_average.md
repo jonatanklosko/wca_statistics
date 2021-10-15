@@ -55,13 +55,13 @@
 | 37.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2019](https://www.worldcubeassociation.org/competitions/WesternChampionship2019/results/by_person#2012PARK03) |
 | 38.60 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012PARK03) |
 | 38.60 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020/results/by_person#2012PARK03) |
+| 38.97 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/by_person#2016KOLA02) |
 | 39.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Summer 2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019/results/by_person#2012PARK03) |
 | 39.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2016KOLA02) |
 | 39.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021/results/by_person#2016KOLA02) |
 | 39.45 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012PARK03) |
 | 39.60 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021/results/by_person#2009ZEMD01) |
 | 39.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Reno Fall 2018](https://www.worldcubeassociation.org/competitions/RenoFall2018/results/by_person#2012PARK03) |
-| 39.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 
@@ -144,6 +144,7 @@
 | ---: | :--- | :--- |
 | 5.32 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021/results/by_person#2016EPST02) |
 | 5.38 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Gislev Side Events 2019](https://www.worldcubeassociation.org/competitions/GislevSideEvents2019/results/by_person#2014DETL01) |
+| 5.56 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [SST Warszawa 2021](https://www.worldcubeassociation.org/competitions/SSTWarszawa2021/results/by_person#2013KRAS02) |
 | 5.60 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [I Itapê Open 2019](https://www.worldcubeassociation.org/competitions/IItapeOpen2019/results/by_person#2015CECC01) |
 | 5.77 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021/results/by_person#2016EPST02) |
 | 5.87 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Idaho Summer B 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerB2021/results/by_person#2017SIAU02) |
@@ -151,7 +152,6 @@
 | 5.95 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [BrizZon Side Open II 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2021/results/by_person#2013KRAS02) |
 | 5.98 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Østerhøj Open 2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019/results/by_person#2014DETL01) |
 | 6.03 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Project Jastrzębie-Zdrój 2018](https://www.worldcubeassociation.org/competitions/ProjectJastrzebieZdroj2018/results/by_person#2013KRAS02) |
-| 6.10 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019/results/by_person#2013KRAS02) |
 
 ### 3x3x3 With Feet
 

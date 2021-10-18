@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Computed on 17 October 2021*
+*Computed on 18 October 2021*
 
 
 ### Rubik's Cube
@@ -225,9 +225,9 @@
 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | 9 |
 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) | 9 |
 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | 9 |
+| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 9 |
 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | 8 |
 | [Pavan Ravindra](https://www.worldcubeassociation.org/persons/2013RAVI06) | 8 |
-| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 8 |
 
 ### Megaminx
 

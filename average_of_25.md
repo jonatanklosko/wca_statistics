@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 17 October 2021*
+*Computed on 18 October 2021*
 
 
 ### Rubik's Cube
@@ -157,11 +157,11 @@
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 2.01 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.75, 1.54, 1.96, 4.05, 1.74, 1.80, 4.55, 1.64, 2.83, 1.68, 1.78, 2.01, 2.23, 2.17, 1.69, 2.24, 2.06, 2.82, 1.85, 1.66, 2.86, 1.87, 1.65, 1.97, 1.50 |
+| 2.21 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.85, 2.12, 2.24, 2.78, 2.46, 1.75, 2.01, 2.23, 2.74, 2.97, 2.38, 2.30, 1.86, 2.06, 2.55, 4.44, 1.79, 2.20, 2.27, 2.36, 2.39, 2.22, 1.93, 1.76, 1.36 |
 | 2.29 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.04, 2.70, 2.38, 2.55, 2.32, 2.48, 2.29, 2.08, 2.18, 4.63, 2.14, 2.34, 1.42, 3.67, 2.50, 2.27, 1.45, 2.01, 2.29, 2.54, 2.64, 2.52, 1.17, 3.99, 1.39 |
 | 2.33 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 2.18, 1.83, 1.77, 3.06, 2.14, 1.68, DNF, 2.45, 2.39, 2.25, 4.49, 1.73, 2.31, 2.55, 2.68, 1.84, 2.48, 1.95, 2.60, DNF, 1.55, 1.89, 2.05, 2.55, 1.90 |
 | 2.35 | [John Gaynor](https://www.worldcubeassociation.org/persons/2017GAYN01) | 1.86, 2.17, 1.04, 6.17, 2.13, 1.76, 2.66, 1.75, 2.28, 4.18, 2.41, 2.12, 2.23, 2.64, 2.17, 2.05, 2.03, 2.63, 2.17, 2.99, 3.10, 2.65, 2.62, 3.07, 1.66 |
 | 2.36 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 2.01, 1.99, 2.84, 2.43, 2.12, 3.14, 2.30, 2.29, 1.23, 2.38, 3.43, 1.55, 2.46, 1.63, 2.70, 3.16, 2.45, 2.26, DNF, 2.37, 2.50, 2.19, 1.61, 2.25, 2.65 |
-| 2.37 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 2.00, 2.68, 2.40, 2.72, 2.97, 4.59, 2.37, 1.85, 2.12, 2.24, 2.78, 2.46, 1.75, 2.01, 2.23, 2.74, 2.97, 2.38, 2.30, 1.86, 2.06, 2.55, 4.44, 1.79, 2.20 |
 | 2.40 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 2.26, 1.85, 2.16, 2.19, 2.20, 3.76, 2.05, 1.63, DNF, 2.88, 2.84, 2.48, 2.40, 2.40, 2.20, 2.14, 2.34, 2.63, 2.28, 2.92, 2.04, 3.40, 2.29, 2.19, 2.26 |
 | 2.48 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) | 3.02, 1.95, 2.14, 2.44, 2.82, 2.31, 2.65, 2.28, 4.68, 2.96, 2.06, 2.43, 1.94, 2.20, 2.52, 3.95, 2.57, 1.45, 4.95, 2.96, 2.26, 1.52, 2.17, 2.47, 2.03 |
 | 2.49 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | 2.03, 2.81, 1.90, 3.11, 2.45, 1.43, 1.98, 3.01, 2.57, 4.04, 2.78, 2.04, 2.63, 2.59, 2.28, 2.25, 4.10, 2.09, 1.88, 4.64, 2.01, 2.16, 1.92, 3.76, 1.70 |

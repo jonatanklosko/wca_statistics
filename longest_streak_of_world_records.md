@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Computed on 17 October 2021*
+*Computed on 18 October 2021*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -45,7 +45,7 @@
 | 4 | Megaminx | Single | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | [Amagasaki Open 2009](https://www.worldcubeassociation.org/competitions/AmagasakiOpen2009) | 1.27 |
 | 4 | Pyraminx | Average | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) | [Tokyo Open 2008](https://www.worldcubeassociation.org/competitions/TokyoOpen2008) | [Skårup Spring 2010](https://www.worldcubeassociation.org/competitions/SkarupSpring2010) | 1.73 |
 | 4 | Pyraminx | Average | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | [Indiana 2014](https://www.worldcubeassociation.org/competitions/Indiana2014) | [Czech Open 2016](https://www.worldcubeassociation.org/competitions/CzechOpen2016) | 1.91 |
-| 4 | Pyraminx | Average | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017) |  | 3.85 |
+| 4 | Pyraminx | Average | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017) |  | 3.86 |
 | 4 | 4x4x4 Blindfolded | Average | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) | 3.29 |
 | 4 | 4x4x4 Blindfolded | Average | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |  | 2.27 |
 | 4 | 5x5x5 Blindfolded | Single | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | [Zune Open 2012](https://www.worldcubeassociation.org/competitions/ZuneOpen2012) | [Welcome To Cambridge 2014](https://www.worldcubeassociation.org/competitions/WelcomeToCambridge2014) | 2.20 |
@@ -56,7 +56,7 @@
 | 3 | 4x4x4 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Kubaroo Open 2011](https://www.worldcubeassociation.org/competitions/KubarooOpen2011) | [Dutch Nationals 2011](https://www.worldcubeassociation.org/competitions/DutchNationals2011) | 0.61 |
 | 3 | 4x4x4 Cube | Average | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008) | [Tokyo Open 2008](https://www.worldcubeassociation.org/competitions/TokyoOpen2008) | 0.50 |
 | 3 | 4x4x4 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) | [German Open 2012](https://www.worldcubeassociation.org/competitions/GermanOpen2012) | 0.50 |
-| 3 | 4x4x4 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks for the InFive 2018](https://www.worldcubeassociation.org/competitions/ThanksfortheInFive2018) |  | 3.43 |
+| 3 | 4x4x4 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks for the InFive 2018](https://www.worldcubeassociation.org/competitions/ThanksfortheInFive2018) |  | 3.44 |
 | 3 | 5x5x5 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) |  | 3.39 |
 | 3 | 7x7x7 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | [Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017) | 1.84 |
 | 3 | 7x7x7 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [WCCT Fresno 2018](https://www.worldcubeassociation.org/competitions/WCCTFresno2018) |  | 3.26 |
@@ -166,7 +166,7 @@
 | 2 | Pyraminx | Average | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | [Indiana 2014](https://www.worldcubeassociation.org/competitions/Indiana2014) | 2.11 |
 | 2 | Pyraminx | Average | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | [US Nationals 2016](https://www.worldcubeassociation.org/competitions/USNationals2016) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017) | 1.36 |
 | 2 | Rubik's Clock | Single | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) | [Shanghai Winter 2011](https://www.worldcubeassociation.org/competitions/ShanghaiWinter2011) | [Generalen 2015](https://www.worldcubeassociation.org/competitions/Generalforsamlingen2015) | 3.16 |
-| 2 | Rubik's Clock | Single | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) |  | 0.46 |
+| 2 | Rubik's Clock | Single | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) |  | 0.47 |
 | 2 | Rubik's Clock | Average | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007) | [Japan Open 2010](https://www.worldcubeassociation.org/competitions/JapanOpen2010) | 2.70 |
 | 2 | Rubik's Clock | Average | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) | [Japan Open 2010](https://www.worldcubeassociation.org/competitions/JapanOpen2010) | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) | 1.34 |
 | 2 | Rubik's Clock | Average | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) | [Asian Championship 2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014) | [Xi'an Cherry Blossom 2015](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2015) | 0.42 |

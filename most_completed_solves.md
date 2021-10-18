@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Computed on 17 October 2021*
+*Computed on 18 October 2021*
 
 
 ### Competition
@@ -32,14 +32,14 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **15689** | 16304 |
+| [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **15734** | 16349 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **15500** | 16115 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **15079** | 15502 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **10680** | 11233 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **10659** | 11085 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **10483** | 10798 |
 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | **10342** | 10471 |
-| [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **10029** | 10732 |
+| [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **10078** | 10782 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **9838** | 10360 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **9827** | 10743 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **9675** | 10261 |
@@ -62,7 +62,7 @@
 | Poland | **579650** | 608764 |
 | India | **578496** | 609518 |
 | Russia | **429198** | 453929 |
-| Germany | **416563** | 437372 |
+| Germany | **419092** | 439974 |
 | Spain | **393145** | 413000 |
 | Australia | **324427** | 342946 |
 | Brazil | **324190** | 338729 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **4320792** | 4543064 |
+| Europe | **4323321** | 4545666 |
 | Asia | **3124818** | 3278563 |
 | North America | **2805365** | 2944463 |
 | South America | **954607** | 1000679 |
@@ -105,7 +105,7 @@
 | 2012 | **388118** | 410674 |
 | 2011 | **333789** | 355414 |
 | 2010 | **259785** | 277256 |
-| 2021 | **218949** | 229263 |
+| 2021 | **221478** | 231865 |
 | 2009 | **172080** | 183283 |
 | 2008 | **86491** | 92666 |
 | 2007 | **34623** | 36799 |
@@ -119,16 +119,16 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **3665221** | 3750591 |
-| 2x2x2 Cube | **2045133** | 2098808 |
-| Pyraminx | **1241539** | 1276144 |
-| 4x4x4 Cube | **1100726** | 1144998 |
-| 3x3x3 One-Handed | **1059061** | 1096181 |
+| 3x3x3 Cube | **3665956** | 3751341 |
+| 2x2x2 Cube | **2045710** | 2099393 |
+| Pyraminx | **1241815** | 1276429 |
+| 4x4x4 Cube | **1101087** | 1145373 |
+| 3x3x3 One-Handed | **1059311** | 1096438 |
 | Skewb | **721252** | 742222 |
-| 5x5x5 Cube | **558928** | 576886 |
+| 5x5x5 Cube | **559145** | 577110 |
 | Megaminx | **304306** | 318562 |
 | Square-1 | **276128** | 289503 |
-| Clock | **166931** | 195092 |
+| Clock | **167044** | 195218 |
 | 6x6x6 Cube | **111272** | 115757 |
 | 7x7x7 Cube | **93243** | 97401 |
 | 3x3x3 Blindfolded | **81772** | 231671 |

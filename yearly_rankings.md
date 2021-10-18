@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Computed on 17 October 2021*
+*Computed on 18 October 2021*
 
 
 ### Rubik's Cube - Single
@@ -253,11 +253,11 @@
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **7.71** | Australia | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) | 11.94, 12.01, 11.45, 9.61, 7.71 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **8.11** | United States | [Florida Returns 2021](https://www.worldcubeassociation.org/competitions/FloridaReturns2021) | 12.66, 12.88, 10.70, 8.11, 10.15 |
 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **8.18** | China | [Chengdu New Year Afternoon 2021](https://www.worldcubeassociation.org/competitions/ChengduNewYearAfternoon2021) | 10.92, 8.18, 11.38, 10.02, 10.54 |
+| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **8.20** | France | [Rhein-Neckar Open A 2021](https://www.worldcubeassociation.org/competitions/RheinNeckarOpenA2021) | 12.15, 10.74, 12.83, 8.20, 9.71 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | **8.41** | Poland | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021) | 11.89, 8.41, 12.89, 11.96, 12.65 |
 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | **8.53** | China | [Xuzhou Open PM 2021](https://www.worldcubeassociation.org/competitions/XuzhouOpenPM2021) | 13.34, 8.53, 16.40, 12.09, 13.81 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **8.65** | Russia | [Cubing Ekat Open 2021](https://www.worldcubeassociation.org/competitions/CubingEkatOpen2021) | 14.32, 8.65, 10.72, 12.41, 15.71 |
 | [Ruohan Qiu (邱若寒)](https://www.worldcubeassociation.org/persons/2012QIUR01) | **8.74** | China | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | 10.99, 15.29, 14.85, 8.74, 15.31 |
-| [Andrew Bae](https://www.worldcubeassociation.org/persons/2014BAEA01) | **8.88** | United States | [Empire State Summer B 2021](https://www.worldcubeassociation.org/competitions/EmpireStateSummerB2021) | 18.08, 12.52, 8.88, 12.63, 12.82 |
 
 ### 3x3x3 One-Handed - Average
 
@@ -316,8 +316,8 @@
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | **1.23** | United States | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021) | 2.30, 2.29, 1.23, 2.38, 3.43 |
 | [Theo Skoog](https://www.worldcubeassociation.org/persons/2018SKOO01) | **1.25** | Sweden | [Norrkubing 2021](https://www.worldcubeassociation.org/competitions/Norrkubing2021) | 3.80, 4.65, 5.60, 4.76, 1.25 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1.26** | Poland | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021) | 2.59, 1.90, 1.97, 4.09, 1.26 |
+| [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | **1.36** | France | [Rhein-Neckar Open A 2021](https://www.worldcubeassociation.org/competitions/RheinNeckarOpenA2021) | 2.22, 1.93, 1.76, 1.36, 2.73 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **1.38** | United States | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021) | 3.50, 4.78, 1.38, 7.03, 3.80 |
-| [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **1.40** | Australia | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 5.12, 3.28, 2.55, 3.00, 1.40 |
 
 ### Pyraminx - Average
 
@@ -325,6 +325,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1.83** | Poland | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | 1.66, 2.86, 1.87, 1.65, 1.97 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | **1.90** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 2.52, 1.17, 3.99, 1.39, 1.80 |
+| [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | **1.97** | France | [Rhein-Neckar Open A 2021](https://www.worldcubeassociation.org/competitions/RheinNeckarOpenA2021) | 2.22, 1.93, 1.76, 1.36, 2.73 |
 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | **2.03** | Russia | [Bogoroditsk Open 2021](https://www.worldcubeassociation.org/competitions/BogoroditskOpen2021) | 1.88, 4.64, 2.01, 2.16, 1.92 |
 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **2.15** | New Zealand | [Southern Scramble Dunedin 2021](https://www.worldcubeassociation.org/competitions/SouthernScrambleDunedin2021) | 1.95, 2.60, DNF, 1.55, 1.89 |
 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | **2.15** | United States | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021) | 1.15, 2.07, 2.08, 2.30, 2.30 |
@@ -332,7 +333,6 @@
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **2.22** | Poland | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021) | 3.60, 1.77, 2.56, 2.03, 2.08 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | **2.23** | United States | [Idaho Summer A 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerA2021) | 2.19, 1.61, 2.25, 2.65, 2.26 |
 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | **2.25** | China | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 2.26, 3.11, 2.81, 1.69, 1.50 |
-| [Xuyang Chen (陈徐洋)](https://www.worldcubeassociation.org/persons/2019CHEN43) | **2.25** | China | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021) | 2.17, 4.41, 1.94, 2.64, 1.92 |
 
 ### Rubik's Clock - Single
 

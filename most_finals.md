@@ -1,10 +1,10 @@
 ## Most finals
 
-*Computed on 20 October 2021*
+*Computed on 21 October 2021*
 
 | Finals | Person |
 | ---: | :--- |
-| 2020 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 2026 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2015 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 1932 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 1576 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
@@ -48,7 +48,7 @@
 | 753 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 | 748 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 746 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
-| 742 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
+| 744 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 739 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 739 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 731 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
@@ -57,8 +57,8 @@
 | 709 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 702 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 692 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
+| 690 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 689 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 684 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 676 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 674 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 674 | [Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |

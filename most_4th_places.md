@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Computed on 25 October 2021*
+*Computed on 26 October 2021*
 
 | 4th places | Person |
 | ---: | :--- |

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 | WRs | Person |
 | ---: | :--- |
@@ -107,6 +107,7 @@
 | 3 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 3 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) |
+| 3 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 2 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
 | 2 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
@@ -254,7 +255,6 @@
 | 1 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
 | 1 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) |
 | 1 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
-| 1 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 1 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) |
 

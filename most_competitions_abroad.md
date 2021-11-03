@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -62,9 +62,9 @@
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 47 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
 | 47 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
+| 46 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 46 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
-| 45 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
-| 45 | [Aramayis Adloyan (Արամայիս Ադլոյան)](https://www.worldcubeassociation.org/persons/2012ADLO01) |
+| 46 | [Aramayis Adloyan (Արամայիս Ադլոյան)](https://www.worldcubeassociation.org/persons/2012ADLO01) |
 | 44 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 44 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 44 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
@@ -86,6 +86,7 @@
 | 41 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 41 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 41 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |
+| 40 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 40 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
 | 40 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 40 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
@@ -94,7 +95,6 @@
 | 40 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 40 | [Thomas Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 40 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 39 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 39 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 38 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
 | 38 | [Zolboo Erelkhegbaatar](https://www.worldcubeassociation.org/persons/2013EREL01) |

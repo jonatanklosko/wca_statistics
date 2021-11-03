@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 | Person | Years |
 | :--- | ---: |
@@ -25,12 +25,12 @@
 | [James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01) | 9.18 |
 | [Zeqin Chen (陈泽钦)](https://www.worldcubeassociation.org/persons/2010CHEN37) | 9.16 |
 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | 9.06 |
-| [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
+| [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 8.97 |
-| [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
+| [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
 | [Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08) | 8.82 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
 | [Daniel Gloppestad Bajer](https://www.worldcubeassociation.org/persons/2009GLOP01) | 8.66 |
@@ -46,8 +46,8 @@
 | [Derek Tat](https://www.worldcubeassociation.org/persons/2009TATD01) | 8.36 |
 | [Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03) | 8.35 |
 | [Guus de Wit](https://www.worldcubeassociation.org/persons/2008WITG01) | 8.30 |
-| [Chenge Liu (刘晨舸)](https://www.worldcubeassociation.org/persons/2011LIUC02) | 8.28 |
 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | 8.28 |
+| [Chenge Liu (刘晨舸)](https://www.worldcubeassociation.org/persons/2011LIUC02) | 8.28 |
 | [Simon Lim (林少秋)](https://www.worldcubeassociation.org/persons/2008LIMS01) | 8.24 |
 | [Weston Mizumoto](https://www.worldcubeassociation.org/persons/2008MIZU01) | 8.24 |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 8.19 |
@@ -90,13 +90,13 @@
 | [Ian Bourn](https://www.worldcubeassociation.org/persons/2009BOUR01) | 7.11 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 7.09 |
 | [Diego Fraile](https://www.worldcubeassociation.org/persons/2013FRAI01) | 7.05 |
-| [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | 7.03 |
-| [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) | 7.03 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7.03 |
+| [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) | 7.03 |
+| [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | 7.03 |
 | [Ravi Fernando](https://www.worldcubeassociation.org/persons/2005FERN01) | 7.00 |
 | [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01) | 6.99 |
-| [Joe Nowak](https://www.worldcubeassociation.org/persons/2012NOWA01) | 6.92 |
 | [Michael Wittwer](https://www.worldcubeassociation.org/persons/2011WITT02) | 6.92 |
+| [Joe Nowak](https://www.worldcubeassociation.org/persons/2012NOWA01) | 6.92 |
 | [Timo Ludwig](https://www.worldcubeassociation.org/persons/2011LUDW01) | 6.92 |
 | [Deniz Atak](https://www.worldcubeassociation.org/persons/2010ATAK01) | 6.90 |
 | [Farras Ahmad Fajari](https://www.worldcubeassociation.org/persons/2011FAJA03) | 6.88 |

@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 
 ### Rubik's Cube - Single
@@ -449,10 +449,10 @@
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **5:30.20** | Switzerland | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019) | 4:22.91, 6:04.46, 6:03.22 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **5:36.19** | Malaysia | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) | 4:26.44, 6:11.06, 6:11.08 |
 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | **5:46.52** | United States | [Hendersonville Winter 2019](https://www.worldcubeassociation.org/competitions/HendersonvilleWinter2019) | 5:40.58, 4:44.99, 6:53.99 |
+| [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | **6:22.01** | Finland | [Finnish Championship 2021](https://www.worldcubeassociation.org/competitions/FinnishChampionship2021) | 4:46.90, 7:59.91, 6:19.23 |
 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) | **6:38.57** | United States | [US Nationals 2014](https://www.worldcubeassociation.org/competitions/USNationals2014) | 7:23.38, 6:37.88, 5:54.44 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **6:40.80** | United States | [Indiana 2019](https://www.worldcubeassociation.org/competitions/Indiana2019) | 6:59.39, 7:22.81, 5:40.20 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | **7:15.14** | Belgium | [CBNBC 2015](https://www.worldcubeassociation.org/competitions/CBNBC2015) | 7:36.53, 7:26.63, 6:42.25 |
-| [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | **7:21.42** | Canada | [Please Be Solved Vancouver 2019](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2019) | 6:24.47, 8:30.22, 7:09.56 |
 
 ### 5x5x5 Blindfolded - Single
 

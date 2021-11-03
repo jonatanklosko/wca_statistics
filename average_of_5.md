@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 
 ### Rubik's Cube
@@ -23,7 +23,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1.13 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.02, 1.73, 0.90, 1.26, 1.11 |
+| 1.02 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.16, 0.83, 1.26, 0.80, 1.09 |
 | 1.20 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 0.91, 2.00, 1.07, 1.27, 1.26 |
 | 1.21 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | 1.20, 1.20, 1.21, 2.85, 1.22 |
 | 1.23 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 0.79, 1.78, 1.17, 1.00, 1.52 |
@@ -162,12 +162,12 @@
 | 1.76 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 1.91, 1.62, 1.67, 5.49, 1.71 |
 | 1.79 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.85, 1.66, 2.86, 1.87, 1.65 |
 | 1.84 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.17, 3.99, 1.39, 1.80, 2.33 |
+| 1.85 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | 1.83, 1.55, 1.54, 4.00, 2.17 |
 | 1.87 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 5.04, 1.76, 1.86, 2.01, 1.68 |
 | 1.91 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.83, 1.77, 3.06, 2.14, 1.68 |
 | 1.97 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 2.39, 2.22, 1.93, 1.76, 1.36 |
 | 1.99 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 4.12, 2.07, 1.56, 2.16, 1.75 |
 | 2.00 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 2.22, 2.57, 2.04, 1.74, 1.51 |
-| 2.02 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 1.30, 2.27, 2.16, 2.66, 1.63 |
 
 ### Rubik's Clock
 
@@ -188,6 +188,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 1.93 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.80, 1.62, 3.33, 2.06, 1.95 |
 | 1.99 | [Zeyu Hu (胡泽宇)](https://www.worldcubeassociation.org/persons/2014HUZE01) | 1.71, 2.15, 2.13, 3.32, 1.55 |
 | 2.03 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 3.32, 2.48, 1.91, 1.71, 1.39 |
 | 2.04 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 2.06, 2.02, 2.33, 1.96, 2.05 |
@@ -197,7 +198,6 @@
 | 2.18 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.30, 2.25, 2.55, 1.90, 2.01 |
 | 2.18 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 1.61, 2.29, 1.92, 3.50, 2.35 |
 | 2.23 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 5.97, 2.19, 2.19, 1.83, 2.32 |
-| 2.29 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 1.54, 3.60, 2.96, 2.39, 1.27 |
 
 ### Square-1
 
@@ -206,7 +206,7 @@
 | 6.05 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 8.73, 5.83, 5.98, 6.34, 5.65 |
 | 6.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.88, 5.56, 8.56, 6.19, 5.49 |
 | 6.21 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 5.32, 11.79, 6.69, 5.40, 6.56 |
-| 6.37 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 6.87, 6.40, 6.85, 5.32, 5.87 |
+| 6.32 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 6.53, 5.52, 10.83, 6.40, 6.03 |
 | 6.53 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 7.35, 6.15, 7.37, 6.04, 6.11 |
 | 6.64 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 6.36, 8.43, 6.71, 6.70, 6.53 |
 | 6.70 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) | 6.76, 6.77, 5.50, 13.20, 6.58 |

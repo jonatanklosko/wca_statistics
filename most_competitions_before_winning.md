@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 
 ### Rubik's Cube
@@ -13,11 +13,11 @@
 | 106 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | [Yellowstone 2018](https://www.worldcubeassociation.org/competitions/Yellowstone2018) |
 | 93 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [Copper Country Cubing 2019](https://www.worldcubeassociation.org/competitions/CopperCountryCubing2019) |
 | 77 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | [LLS II 2020](https://www.worldcubeassociation.org/competitions/LLSII2020) |
+| 75 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | [Cobb Cubes Comeback 2A 2021](https://www.worldcubeassociation.org/competitions/CobbCubesComeback2A2021) |
 | 73 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | [Gdańsk Rubik's Cube Day 2016](https://www.worldcubeassociation.org/competitions/GdanskRubiksCubeDay2016) |
 | 71 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Hotel Cube 2018](https://www.worldcubeassociation.org/competitions/HotelCube2018) |
 | 69 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | [MLWGS Spring 2019](https://www.worldcubeassociation.org/competitions/MLWGSSpring2019) |
 | 66 | [Nobuaki Suga (菅信昭)](https://www.worldcubeassociation.org/persons/2007SUGA01) | [Hokuriku Eve 2013](https://www.worldcubeassociation.org/competitions/HokurikuEveOpen2013) |
-| 66 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Gessate Open 2017](https://www.worldcubeassociation.org/competitions/GessateOpen2017) |
 
 ### 2x2x2 Cube
 

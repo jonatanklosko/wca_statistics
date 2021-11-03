@@ -1,17 +1,17 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| Hungary | **1245** | 1011 | 864 | 3120 |
-| Germany | **714** | 690 | 694 | 2098 |
+| Hungary | **1245** | 1013 | 865 | 3123 |
+| Germany | **714** | 691 | 695 | 2100 |
 | Netherlands | **709** | 585 | 479 | 1773 |
-| United States | **651** | 543 | 463 | 1657 |
+| United States | **657** | 546 | 467 | 1670 |
 | France | **628** | 537 | 447 | 1612 |
-| Russia | **515** | 355 | 296 | 1166 |
-| Poland | **326** | 226 | 163 | 715 |
+| Russia | **517** | 356 | 296 | 1169 |
+| Poland | **328** | 227 | 164 | 719 |
 | Malaysia | **319** | 298 | 268 | 885 |
 | China | **316** | 282 | 251 | 849 |
 | Canada | **300** | 311 | 331 | 942 |
@@ -22,7 +22,7 @@
 | Republic of Korea | **211** | 216 | 177 | 604 |
 | Finland | **192** | 139 | 112 | 443 |
 | Japan | **185** | 106 | 106 | 397 |
-| Taiwan | **184** | 155 | 149 | 488 |
+| Taiwan | **184** | 156 | 150 | 490 |
 | India | **174** | 144 | 131 | 449 |
 | Switzerland | **171** | 252 | 225 | 648 |
 | Hong Kong | **168** | 201 | 172 | 541 |
@@ -40,17 +40,17 @@
 | Belarus | **106** | 63 | 72 | 241 |
 | Austria | **100** | 145 | 165 | 410 |
 | Czech Republic | **85** | 100 | 108 | 293 |
-| Latvia | **84** | 128 | 116 | 328 |
+| Latvia | **84** | 128 | 118 | 330 |
 | Kazakhstan | **82** | 75 | 68 | 225 |
 | Ireland | **82** | 49 | 34 | 165 |
 | Thailand | **74** | 75 | 34 | 183 |
-| Romania | **73** | 69 | 52 | 194 |
+| Romania | **73** | 72 | 53 | 198 |
 | Lithuania | **60** | 70 | 79 | 209 |
 | Philippines | **54** | 65 | 62 | 181 |
-| Slovakia | **48** | 48 | 64 | 160 |
+| Slovakia | **49** | 49 | 65 | 163 |
 | Guatemala | **41** | 28 | 32 | 101 |
 | Norway | **32** | 36 | 50 | 118 |
-| Vietnam | **27** | 38 | 39 | 104 |
+| Vietnam | **28** | 40 | 40 | 108 |
 | Chile | **27** | 20 | 17 | 64 |
 | Croatia | **26** | 48 | 37 | 111 |
 | Brazil | **25** | 30 | 16 | 71 |

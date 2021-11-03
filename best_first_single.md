@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 
 ### Rubik's Cube
@@ -10,6 +10,7 @@
 | ---: | :--- |
 | 7.52 | [John Carlo Magallon](https://www.worldcubeassociation.org/persons/2015MAGA02) |
 | 7.68 | [Ruihao Qian (钱睿昊)](https://www.worldcubeassociation.org/persons/2019QIAN10) |
+| 8.22 | [David Matoušek](https://www.worldcubeassociation.org/persons/2021MATO01) |
 | 8.30 | [Zhenyang Liu (刘振洋)](https://www.worldcubeassociation.org/persons/2018LIUZ14) |
 | 8.53 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 8.62 | [Mark Cheung](https://www.worldcubeassociation.org/persons/2017CHEU01) |
@@ -17,7 +18,6 @@
 | 8.75 | [Zhuo Zhang (张卓)](https://www.worldcubeassociation.org/persons/2021ZHAN08) |
 | 8.75 | [Mikhail Tokarev](https://www.worldcubeassociation.org/persons/2021TOKA01) |
 | 8.76 | [Davide Camilleri](https://www.worldcubeassociation.org/persons/2019CAMI03) |
-| 8.82 | [Yingjian Gong (龚英健)](https://www.worldcubeassociation.org/persons/2021GONG02) |
 
 ### 2x2x2 Cube
 
@@ -57,12 +57,12 @@
 | 58.94 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
 | 1:01.86 | [Joel Gaxiola Castro](https://www.worldcubeassociation.org/persons/2018CAST35) |
 | 1:01.89 | [Zhengwu Piao (朴正武)](https://www.worldcubeassociation.org/persons/2019PIAO01) |
+| 1:02.05 | [Nathan Phillips](https://www.worldcubeassociation.org/persons/2021PHIL05) |
 | 1:02.92 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
 | 1:03.93 | [Zhi Li (李志)](https://www.worldcubeassociation.org/persons/2016LIZH05) |
 | 1:07.43 | [Jostin Alvarez](https://www.worldcubeassociation.org/persons/2017ALVA27) |
 | 1:07.98 | [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) |
 | 1:08.15 | [Erik Bryland](https://www.worldcubeassociation.org/persons/2018BRYL02) |
-| 1:08.38 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) |
 
 ### 6x6x6 Cube
 
@@ -210,9 +210,9 @@
 | 11.33 | [Tom Wilkinson](https://www.worldcubeassociation.org/persons/2019WILK04) |
 | 11.44 | [Alexander Persaud](https://www.worldcubeassociation.org/persons/2019PERS02) |
 | 11.50 | [Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01) |
+| 11.53 | [Daniel Forejtek](https://www.worldcubeassociation.org/persons/2021FORE01) |
 | 11.65 | [Canzheng Cao (曹参政)](https://www.worldcubeassociation.org/persons/2017CAOC01) |
 | 12.14 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) |
-| 12.17 | [Po-Hsien Ou (歐柏賢)](https://www.worldcubeassociation.org/persons/2020OUPO01) |
 
 ### 4x4x4 Blindfolded
 

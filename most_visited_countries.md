@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 | Countries | Person |
 | ---: | :--- |
@@ -57,6 +57,7 @@
 | 16 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 16 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 16 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
+| 16 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 15 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 15 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |
 | 15 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
@@ -65,7 +66,6 @@
 | 15 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 15 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
 | 15 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
-| 15 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 15 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 15 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 15 | [Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01) |

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 
 ### Rubik's Cube
@@ -16,8 +16,8 @@
 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | 6.47 | **7.13** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e333_f) | 5 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 6.69 | **7.19** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e333_f) | 6 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6.24 | **7.21** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333_f) | 7 |
+| [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | 6.33 | **7.23** | [Utah Fall 2021](https://www.worldcubeassociation.org/competitions/UtahFall2021/results/all#e333_f) | 4 |
 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 6.39 | **7.25** | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#e333_f) | 4 |
-| [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 6.54 | **7.26** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e333_f) | 7 |
 
 ### 2x2x2 Cube
 

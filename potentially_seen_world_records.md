@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 | WRs | Person |
 | ---: | :--- |
@@ -74,10 +74,10 @@
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
+| 72 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 71 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |
-| 71 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
-| 71 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 70 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 70 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
 | 69 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |

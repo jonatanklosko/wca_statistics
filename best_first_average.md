@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 
 ### Rubik's Cube
@@ -13,11 +13,11 @@
 | 8.66 | [Heidi Chan](https://www.worldcubeassociation.org/persons/2018CHAN50) |
 | 8.87 | [Andrew Chen](https://www.worldcubeassociation.org/persons/2018CHEA05) |
 | 8.93 | [Taosif Amin Sahil](https://www.worldcubeassociation.org/persons/2017SAHI01) |
+| 8.96 | [Reed Tran](https://www.worldcubeassociation.org/persons/2021TRAN06) |
 | 9.06 | [Timothy Yang](https://www.worldcubeassociation.org/persons/2019YANT03) |
 | 9.14 | [Mikhail Tokarev](https://www.worldcubeassociation.org/persons/2021TOKA01) |
 | 9.26 | [Mark Cheung](https://www.worldcubeassociation.org/persons/2017CHEU01) |
 | 9.32 | [Chengnuo Han (韩承诺)](https://www.worldcubeassociation.org/persons/2021HANC01) |
-| 9.36 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 
 ### 2x2x2 Cube
 
@@ -61,8 +61,8 @@
 | 1:05.24 | [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) |
 | 1:05.74 | [Chengyang Zhang (张承阳)](https://www.worldcubeassociation.org/persons/2017ZHAC04) |
 | 1:08.54 | [Kai-Lun Cheng (鄭凱倫)](https://www.worldcubeassociation.org/persons/2020CHEN31) |
+| 1:08.80 | [Nathan Phillips](https://www.worldcubeassociation.org/persons/2021PHIL05) |
 | 1:10.27 | [Gamaliel Jimenez Oropeza](https://www.worldcubeassociation.org/persons/2018OROP01) |
-| 1:10.39 | [Yi Liu (刘艺)](https://www.worldcubeassociation.org/persons/2019LIUY42) |
 
 ### 6x6x6 Cube
 

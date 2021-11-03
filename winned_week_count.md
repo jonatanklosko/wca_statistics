@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 
 ### Rubik's Cube
@@ -60,7 +60,7 @@
 | :--- | ---: |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 77 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 59 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 40 |
+| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 41 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 35 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 34 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 23 |
@@ -74,10 +74,10 @@
 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 9 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 9 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 8 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8 |
 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) | 7 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 7 |
 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 7 |
-| [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | 7 |
 
 ### 5x5x5 Cube
 
@@ -85,7 +85,7 @@
 | :--- | ---: |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 74 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 49 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 36 |
+| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 37 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 35 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 33 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 27 |
@@ -237,8 +237,8 @@
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 36 |
 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | 23 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | 22 |
+| [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 19 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 18 |
-| [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 18 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | 16 |
 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) | 13 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 12 |

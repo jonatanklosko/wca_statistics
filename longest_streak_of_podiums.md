@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -26,10 +26,10 @@
 | 47 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3x3x3 Blindfolded | [Guangdong Open 2014](https://www.worldcubeassociation.org/competitions/GuangdongOpen2014) | [Chongqing Open 2017](https://www.worldcubeassociation.org/competitions/ChongqingOpen2017) |
 | 46 | [David Remolina Amórtegui](https://www.worldcubeassociation.org/persons/2011AMOR01) | 4x4x4 Cube | [IV Bogota 2012](https://www.worldcubeassociation.org/competitions/IVBogota2012) | [Martelli Open Otoño 2019](https://www.worldcubeassociation.org/competitions/MartelliOpenOtono2019) |
 | 46 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | Megaminx | [Colombia MetodoGenius 2011](https://www.worldcubeassociation.org/competitions/ColombiaMetodoGenius2011) |  |
+| 46 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 5x5x5 Cube | [Caltech Fall 2016](https://www.worldcubeassociation.org/competitions/CaltechFall2016) |  |
+| 46 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4x4x4 Cube | [SacCubing II 2017](https://www.worldcubeassociation.org/competitions/SacCubingII2017) |  |
 | 46 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | Megaminx | [Cochabamba Open 2015](https://www.worldcubeassociation.org/competitions/CochabambaOpen2015) |  |
 | 45 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 6x6x6 Cube | [Australian Nationals 2013](https://www.worldcubeassociation.org/competitions/AustralianNationals2013) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 45 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 5x5x5 Cube | [Caltech Fall 2016](https://www.worldcubeassociation.org/competitions/CaltechFall2016) |  |
-| 45 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4x4x4 Cube | [SacCubing II 2017](https://www.worldcubeassociation.org/competitions/SacCubingII2017) |  |
 | 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
 | 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 6x6x6 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
 | 43 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | Square-1 | [Xi'an New Year 2016](https://www.worldcubeassociation.org/competitions/XianNewYear2016) | [Wuhan Open 2019](https://www.worldcubeassociation.org/competitions/WuhanOpen2019) |
@@ -57,18 +57,18 @@
 | 34 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 With Feet | [Rybnik Open 2013](https://www.worldcubeassociation.org/competitions/RybnikOpen2013) |  |
 | 34 | [Ruohan Qiu (邱若寒)](https://www.worldcubeassociation.org/persons/2012QIUR01) | 3x3x3 With Feet | [Guangdong Open 2014](https://www.worldcubeassociation.org/competitions/GuangdongOpen2014) | [Maoming Open 2019](https://www.worldcubeassociation.org/competitions/MaomingOpen2019) |
 | 34 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 3x3x3 One-Handed | [GLS Cup II 2018](https://www.worldcubeassociation.org/competitions/GLSCupII2018) |  |
+| 34 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | 4x4x4 Cube | [Lomas 2015](https://www.worldcubeassociation.org/competitions/LasLomas2015) |  |
 | 33 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 5x5x5 Cube | [Japan Open 2011](https://www.worldcubeassociation.org/competitions/JapanOpen2011) |  |
 | 33 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 6x6x6 Cube | [Hungarian Open 2009](https://www.worldcubeassociation.org/competitions/HungarianOpen2009) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
 | 33 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | Pyraminx | [Ohio Fall 2011](https://www.worldcubeassociation.org/competitions/OhioFall2011) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) |
-| 33 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | 4x4x4 Cube | [Lomas 2015](https://www.worldcubeassociation.org/competitions/LasLomas2015) |  |
+| 33 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | Skewb | [Ukrainian Nationals 2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017) |  |
 | 32 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) | Square-1 | [Cube Camp in Kanazawa 2012](https://www.worldcubeassociation.org/competitions/CubeCampKanazawa2012) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 32 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 3x3x3 Cube | [Dutch Nationals 2014](https://www.worldcubeassociation.org/competitions/DutchNationals2014) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) |
 | 32 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 7x7x7 Cube | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 32 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 4x4x4 Cube | [Hsinchu Winter Open 2014](https://www.worldcubeassociation.org/competitions/HsinchuWinterOpen2014) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) |
 | 32 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3x3x3 Blindfolded | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013) |  |
-| 32 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | Skewb | [Ukrainian Nationals 2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017) |  |
+| 32 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 3x3x3 One-Handed | [UPenn Fall 2017](https://www.worldcubeassociation.org/competitions/UPennCubeDayFall2017) |  |
 | 32 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 3x3x3 One-Handed | [Swiss Nationals 2018](https://www.worldcubeassociation.org/competitions/SwissNationals2018) |  |
-| 31 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 3x3x3 One-Handed | [UPenn Fall 2017](https://www.worldcubeassociation.org/competitions/UPennCubeDayFall2017) |  |
 | 31 | [Richmond Mico Rigor](https://www.worldcubeassociation.org/persons/2013RIGO01) | 4x4x4 Cube | [ACO 2013](https://www.worldcubeassociation.org/competitions/ArtCapitalOpen2013) | [PSC Open 2018](https://www.worldcubeassociation.org/competitions/PSCOpen2018) |
 | 31 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | 5x5x5 Cube | [Changsha Xiangmo 2018](https://www.worldcubeassociation.org/competitions/ChangshaXiangmo2018) |  |
 | 31 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | Megaminx | [Zhenjiang Open 2016](https://www.worldcubeassociation.org/competitions/ZhenjiangOpen2016) |  |
@@ -86,6 +86,7 @@
 | 29 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) | 2x2x2 Cube | [Dixon Spring 2014](https://www.worldcubeassociation.org/competitions/DixonSpring2014) | [US Nationals 2016](https://www.worldcubeassociation.org/competitions/USNationals2016) |
 | 29 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 5x5x5 Cube | [Couve Cubing 2012](https://www.worldcubeassociation.org/competitions/Couve2012) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 29 | [Weixing Zhang (张炜星)](https://www.worldcubeassociation.org/persons/2009ZHAN53) | 4x4x4 Cube | [Guangdong Open 2013](https://www.worldcubeassociation.org/competitions/GuangdongOpen2013) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
+| 29 | [Leopoldo Andrés Ibarra Fuentes](https://www.worldcubeassociation.org/persons/2010FUEN01) | Megaminx | [Invierno 2010](https://www.worldcubeassociation.org/competitions/CampeonatoInvierno2010) |  |
 | 29 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | 4x4x4 Cube | [Bandung Dua Tujuh 2011](https://www.worldcubeassociation.org/competitions/BandungDuaTujuh2011) | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018) |
 | 29 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | Clock | [Taiwan Summer 2012](https://www.worldcubeassociation.org/competitions/TaiwanSummer2012) |  |
 | 29 | [Yi Wang (王旖)](https://www.worldcubeassociation.org/persons/2011WANG33) | Pyraminx | [Guangdong Open 2012](https://www.worldcubeassociation.org/competitions/Guangdong2012) | [Nanjing Autumn 2016](https://www.worldcubeassociation.org/competitions/NanjingAutumn2016) |
@@ -95,7 +96,6 @@
 | 28 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | 3x3x3 With Feet | [SESC Santos 2015](https://www.worldcubeassociation.org/competitions/SESCSantos2015) |  |
 | 28 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 3x3x3 Fewest Moves | [Twente Open 2013](https://www.worldcubeassociation.org/competitions/TwenteOpen2013) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
 | 28 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) | 3x3x3 With Feet | [Japan Open 2009](https://www.worldcubeassociation.org/competitions/JapanOpen2009) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
-| 28 | [Leopoldo Andrés Ibarra Fuentes](https://www.worldcubeassociation.org/persons/2010FUEN01) | Megaminx | [Invierno 2010](https://www.worldcubeassociation.org/competitions/CampeonatoInvierno2010) |  |
 | 28 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | Pyraminx | [La Montagne Open 2013](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2013) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 28 | [Jacky Koo Chun Ki (顧俊祺)](https://www.worldcubeassociation.org/persons/2010KIKO01) | Megaminx | [Guangzhou Haizhu 2011](https://www.worldcubeassociation.org/competitions/GuangzhouHaizhu2011) | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018) |
 | 28 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 7x7x7 Cube | [SacCubing II 2017](https://www.worldcubeassociation.org/competitions/SacCubingII2017) |  |

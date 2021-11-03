@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on  2 November 2021*
+*Computed on  3 November 2021*
 
 
 ### Rubik's Cube
@@ -22,6 +22,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 0.83 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Utah Fall 2021](https://www.worldcubeassociation.org/competitions/UtahFall2021/results/by_person#2018KHAN28) |
 | 0.91 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Clash at Carlisle Fall 2019](https://www.worldcubeassociation.org/competitions/ClashatCarlisleFall2019/results/by_person#2018KHAN28) |
 | 0.92 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Idaho Summer B 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerB2021/results/by_person#2018KHAN28) |
 | 0.93 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | [Tea Time Spring 2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018/results/by_person#2012CALL01) |
@@ -29,9 +30,8 @@
 | 0.98 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Idaho Summer B 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerB2021/results/by_person#2018KHAN28) |
 | 1.00 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2012CALL01) |
 | 1.01 | [Caleb Clark](https://www.worldcubeassociation.org/persons/2014CLAR03) | [Canberra Autumn 2018](https://www.worldcubeassociation.org/competitions/CanberraAutumn2018/results/by_person#2014CLAR03) |
+| 1.01 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Finnish Championship 2021](https://www.worldcubeassociation.org/competitions/FinnishChampionship2021/results/by_person#2018KHAN28) |
 | 1.02 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | [Beijing Spring AM 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringAM2021/results/by_person#2016LIJI05) |
-| 1.02 | [Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06) | [Kunshan Open 2019](https://www.worldcubeassociation.org/competitions/KunshanOpen2019/results/by_person#2017LIXU06) |
-| 1.02 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Empire State Summer B 2021](https://www.worldcubeassociation.org/competitions/EmpireStateSummerB2021/results/by_person#2018KHAN28) |
 
 ### 4x4x4 Cube
 
@@ -46,7 +46,7 @@
 | 20.32 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Munich Open 2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019/results/by_person#2010WEYE02) |
 | 20.41 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks for the InFive 2018](https://www.worldcubeassociation.org/competitions/ThanksfortheInFive2018/results/by_person#2012PARK03) |
 | 20.48 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [SST Rzeszów 2021](https://www.worldcubeassociation.org/competitions/SSTRzeszow2021/results/by_person#2016KOLA02) |
-| 20.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Mudd Winter 2020](https://www.worldcubeassociation.org/competitions/MuddWinter2020/results/by_person#2012PARK03) |
+| 20.50 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Utah Fall 2021](https://www.worldcubeassociation.org/competitions/UtahFall2021/results/by_person#2012PARK03) |
 
 ### 5x5x5 Cube
 
@@ -101,12 +101,12 @@
 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
 | 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
 | 1.53 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2015GORN01) |
+| 1.55 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | [Ural Autumn 2021](https://www.worldcubeassociation.org/competitions/UralAutumn2021/results/by_person#2017MESY01) |
 | 1.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020/results/by_person#2016KOLA02) |
 | 1.60 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021/results/by_person#2016KOLA02) |
 | 1.61 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) | [SSL Final Stockholm 2019](https://www.worldcubeassociation.org/competitions/SSLFinalStockholm2019/results/by_person#2016THOR08) |
 | 1.62 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018/results/by_person#2016KOLA02) |
 | 1.63 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/by_person#2015KAME02) |
-| 1.65 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017/results/by_person#2016KOLA02) |
 
 ### Rubik's Clock
 
@@ -132,11 +132,11 @@
 | 1.71 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017/results/by_person#2013BURL01) |
 | 1.71 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Fargo Fall 2018](https://www.worldcubeassociation.org/competitions/FargoFall2018/results/by_person#2015KUCA01) |
 | 1.80 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018/results/by_person#2013BURL01) |
+| 1.80 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Finnish Championship 2021](https://www.worldcubeassociation.org/competitions/FinnishChampionship2021/results/by_person#2018KHAN28) |
 | 1.82 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Wrocław Open 2019](https://www.worldcubeassociation.org/competitions/WroclawOpen2019/results/by_person#2013BURL01) |
 | 1.84 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Horse City 2021](https://www.worldcubeassociation.org/competitions/HorseCity2021/results/by_person#2014HOLU01) |
 | 1.85 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | [ŚLS Jastrzębie Zdrój 2017](https://www.worldcubeassociation.org/competitions/SLSJastrzebieZdroj2017/results/by_person#2013KOSK01) |
 | 1.85 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | [Constitution State Winter 2020](https://www.worldcubeassociation.org/competitions/ConstitutionStateWinter2020/results/by_person#2014CHIC01) |
-| 1.89 | [Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02) | [Newmarket Open 2019](https://www.worldcubeassociation.org/competitions/NewmarketOpen2019/results/by_person#2017ABAR02) |
 
 ### Square-1
 

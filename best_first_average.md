@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Computed on  5 November 2021*
+*Computed on  6 November 2021*
 
 
 ### Rubik's Cube

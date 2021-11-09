@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Computed on  8 November 2021*
+*Computed on  9 November 2021*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -74,6 +74,7 @@
 | 40 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | [UIndy Open 2011](https://www.worldcubeassociation.org/competitions/UIndyOpen2011) | [Marietta Mystery 2016](https://www.worldcubeassociation.org/competitions/MariettaMystery2016) |
 | 40 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Argentino de Invierno 2014](https://www.worldcubeassociation.org/competitions/ArgentinoDeInvierno2014) |  |
 | 40 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) | [Dayton 2015](https://www.worldcubeassociation.org/competitions/Dayton2015) | [Michigan Cubing Club Delta 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubDelta2019) |
+| 40 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) | [Chambéry Cube Open 2015](https://www.worldcubeassociation.org/competitions/ChamberyCube2015) |  |
 | 40 | [Evan Mann](https://www.worldcubeassociation.org/persons/2016MANN01) | [Berkeley Winter 2016](https://www.worldcubeassociation.org/competitions/BerkeleyWinter2016) |  |
 | 40 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016) |  |
 | 40 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | [Michigan 2016](https://www.worldcubeassociation.org/competitions/Michigan2016) |  |
@@ -101,7 +102,6 @@
 | 38 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Hessen Open 2013](https://www.worldcubeassociation.org/competitions/HessenOpen2013) | [Hessen Open 2019](https://www.worldcubeassociation.org/competitions/HessenOpen2019) |
 | 38 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) | [Melaka Open 2014](https://www.worldcubeassociation.org/competitions/MelakaOpen2014) | [Please Be Quiet Merdeka 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019) |
 | 38 | [Samuel Knoll](https://www.worldcubeassociation.org/persons/2015KNOL01) | [US Nationals 2015](https://www.worldcubeassociation.org/competitions/USNationals2015) |  |
-| 38 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) | [Chambéry Cube Open 2015](https://www.worldcubeassociation.org/competitions/ChamberyCube2015) |  |
 | 38 | [Max Chan](https://www.worldcubeassociation.org/persons/2015CHAN37) | [Manhasset 2015](https://www.worldcubeassociation.org/competitions/ManhassetFall2015) |  |
 | 38 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [Perth Summer 2016](https://www.worldcubeassociation.org/competitions/PerthSummer2016) | [Rockingham Rapid 2021](https://www.worldcubeassociation.org/competitions/RockinghamRapid2021) |
 

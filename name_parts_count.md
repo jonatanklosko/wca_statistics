@@ -1,15 +1,15 @@
 ## Name parts count
 
 *Note: Local names within parentheses are ignored.*
-*Computed on  8 November 2021*
+*Computed on  9 November 2021*
 
 | Parts | People | Countries of origin |
 | :--: | ---: | :--- |
 | 1 | 236 | Indonesia *(39.83 %)*, India *(25.85 %)*, China *(12.29 %)*, United States *(5.08 %)*, Malaysia *(2.12 %)* |
-| 2 | 115767 | United States *(22.02 %)*, China *(19.82 %)*, India *(8.68 %)*, Russia *(5.61 %)*, Canada *(3.75 %)* |
-| 3 | 22833 | India *(10.53 %)*, Spain *(8.74 %)*, United States *(8.54 %)*, Brazil *(8.10 %)*, Philippines *(7.52 %)* |
-| 4 | 11210 | Brazil *(17.23 %)*, Mexico *(11.32 %)*, Peru *(10.80 %)*, Colombia *(10.29 %)*, Philippines *(5.84 %)* |
-| 5 | 1620 | Brazil *(59.44 %)*, Malaysia *(12.22 %)*, Peru *(4.07 %)*, Mexico *(3.64 %)*, Guatemala *(3.27 %)* |
+| 2 | 115861 | United States *(22.00 %)*, China *(19.80 %)*, India *(8.68 %)*, Russia *(5.60 %)*, Canada *(3.75 %)* |
+| 3 | 22853 | India *(10.52 %)*, Spain *(8.76 %)*, United States *(8.52 %)*, Brazil *(8.10 %)*, Philippines *(7.51 %)* |
+| 4 | 11234 | Brazil *(17.20 %)*, Mexico *(11.30 %)*, Peru *(10.98 %)*, Colombia *(10.27 %)*, Philippines *(5.83 %)* |
+| 5 | 1621 | Brazil *(59.41 %)*, Malaysia *(12.21 %)*, Peru *(4.13 %)*, Mexico *(3.64 %)*, Guatemala *(3.27 %)* |
 | 6 | 328 | Brazil *(44.82 %)*, Malaysia *(33.54 %)*, Peru *(5.18 %)*, Mexico *(4.88 %)*, Spain *(1.52 %)* |
 | 7 | 34 | Malaysia *(50.00 %)*, Brazil *(41.18 %)*, Spain *(2.94 %)*, Guatemala *(2.94 %)*, Egypt *(2.94 %)* |
 | 8 | 6 | Brazil *(50.00 %)*, Malaysia *(16.67 %)*, Dominican Republic *(16.67 %)*, Egypt *(16.67 %)* |

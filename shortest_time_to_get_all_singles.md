@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Computed on  8 November 2021*
+*Computed on  9 November 2021*
 
 | Days | Person |
 | ---: | :--- |
@@ -143,7 +143,9 @@
 | 1400 | [Luiz Fellipe Oliuza Leal Silva](https://www.worldcubeassociation.org/persons/2016SILV02) |
 | 1401 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 1423 | [Anirudh Sureshram](https://www.worldcubeassociation.org/persons/2014SURE11) |
+| 1464 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 1470 | [Ishaan Lal](https://www.worldcubeassociation.org/persons/2014LALI01) |
+| 1470 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 1490 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
 | 1491 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 1498 | [Jonathan Midjord Shapira](https://www.worldcubeassociation.org/persons/2010SHAP01) |
@@ -221,7 +223,6 @@
 | 2323 | [Yongyi Xiong (熊永一)](https://www.worldcubeassociation.org/persons/2010XION04) |
 | 2360 | [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) |
 | 2407 | [Huan Yuan (袁欢)](https://www.worldcubeassociation.org/persons/2010YUAN08) |
-| 2407 | [Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02) |
 | 2430 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) |
 | 2464 | [Yang Li (李扬)](https://www.worldcubeassociation.org/persons/2012LIYA01) |
 | 2485 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) |

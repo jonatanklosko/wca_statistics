@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on  8 November 2021*
+*Computed on  9 November 2021*
 
 
 ### Rubik's Cube
@@ -60,8 +60,8 @@
 | 44.94 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 42.16, 45.14, 45.36, 46.04, 45.84, 44.25, 46.30, 53.88, 46.97, 44.88, 42.48, 40.66 |
 | 46.63 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 42.31, 49.99, 44.32, 46.09, 47.98, 46.86, 47.45, 51.67, 46.59, 53.62, 42.36, 43.02 |
 | 46.92 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 44.56, 46.55, 48.00, 42.73, 46.30, 47.37, 49.89, 46.09, 49.58, 46.08, 48.70, 45.98 |
+| 46.93 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 41.84, 50.48, 42.94, 46.09, 44.91, 47.86, 44.98, 47.08, 51.63, 50.49, 45.60, 48.92 |
 | 47.18 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 43.91, 46.40, 53.92, 44.98, 53.59, 50.58, 49.90, 45.34, 41.60, 47.88, 42.56, 46.66 |
-| 47.93 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 47.71, 49.40, 50.15, 46.91, 46.49, 51.65, 46.69, 49.47, 46.62, 44.28, 46.99, 48.87 |
 | 48.45 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 46.16, 49.14, 45.85, 49.40, 53.96, 48.12, 51.81, 44.62, 50.38, 46.46, 49.74, 47.51 |
 
 ### 6x6x6 Cube
@@ -88,8 +88,8 @@
 | 2:05.23 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:06.82, 2:14.34, 2:04.65, 2:08.86, 1:59.56, 2:09.94, 1:59.28, 1:56.89, 2:12.11, 2:07.01, 2:04.41, 1:59.74 |
 | 2:08.87 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 2:01.25, 2:10.65, 2:12.56, 2:17.29, 2:13.71, 2:08.79, 2:02.53, 2:12.07, 2:00.18, 2:10.52, 2:07.71, 2:08.92 |
 | 2:09.02 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:56.31, 2:01.34, 2:09.72, 2:15.90, 2:23.72, 2:25.59, 2:06.90, 2:04.56, 2:02.57, 2:15.12, 1:59.24, 2:11.18 |
+| 2:09.74 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 2:13.22, 2:10.52, 2:25.30, 2:16.17, 2:04.29, 2:10.37, 2:09.57, 2:06.19, 2:03.07, 2:15.45, 2:01.93, 2:08.57 |
 | 2:09.87 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 2:15.66, 2:11.69, 2:14.47, 2:09.48, 2:13.64, 2:11.81, 2:06.83, 2:14.14, 2:05.64, 2:04.46, 2:06.56, 2:04.21 |
-| 2:10.05 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 2:11.68, 2:13.22, 2:10.52, 2:25.30, 2:16.17, 2:04.29, 2:10.37, 2:09.57, 2:06.19, 2:03.07, 2:15.45, 2:01.93 |
 | 2:11.64 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 2:11.04, 2:14.82, 2:15.05, 2:06.41, 2:15.04, 2:14.74, 2:01.73, 2:10.54, 2:34.41, 2:19.59, 1:58.49, 2:07.46 |
 | 2:16.77 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 2:26.59, 2:40.67, 2:08.90, 2:14.07, 2:18.72, 2:31.84, 2:21.08, 2:10.27, 2:14.12, 2:11.46, 2:10.69, 2:06.26 |
 | 2:16.89 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | 2:15.25, 2:17.48, 2:15.37, 2:14.29, 2:31.82, 2:17.70, 2:12.47, 2:22.71, 2:23.52, 2:15.37, 2:14.74, 2:11.12 |
@@ -209,10 +209,10 @@
 | 6.92 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 5.69, 6.77, 6.10, 7.15, 7.26, 7.32, 7.57, 7.45, 6.51, 7.23, 12.01, 5.85 |
 | 7.16 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | 6.42, 7.42, 7.60, 7.79, 5.37, 7.89, 7.77, 7.01, 7.56, 7.12, 6.57, 6.36 |
 | 7.20 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 8.52, 8.40, 5.95, 11.12, 8.45, 6.53, 6.79, 5.00, 6.87, 6.39, 6.68, 7.44 |
+| 7.26 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 6.65, 6.99, 9.08, 7.04, 7.88, 7.94, 6.39, DNF, 8.04, 6.37, 6.28, 5.94 |
 | 7.39 | [Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02) | 7.27, 7.19, 6.66, 8.25, 7.28, 9.40, 6.57, 6.81, 7.33, 6.67, 10.70, 7.13 |
 | 7.58 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.52, 5.11, 7.60, 7.27, 8.37, 5.75, 6.74, 7.81, 9.62, 8.84, 8.90, 7.01 |
 | 7.70 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) | 6.98, 5.98, 8.27, 5.75, 9.21, 6.35, 7.26, 10.24, 9.12, 12.34, 5.51, 7.90 |
-| 7.86 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 7.59, 8.66, 9.68, 8.64, 10.44, 8.98, 5.74, 7.11, 7.79, 6.55, 6.65, 6.99 |
 
 ### 4x4x4 Blindfolded
 

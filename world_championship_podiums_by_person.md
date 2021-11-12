@@ -1,6 +1,6 @@
 ## World Championship podiums by person
 
-*Computed on 11 November 2021*
+*Computed on 12 November 2021*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |

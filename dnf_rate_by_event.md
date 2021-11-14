@@ -1,6 +1,6 @@
 ## DNF rate by event
 
-*Computed on 13 November 2021*
+*Computed on 14 November 2021*
 
 | DNF rate | Event | DNFs | Attempts |
 | ---: | :--- | ---: | ---: |

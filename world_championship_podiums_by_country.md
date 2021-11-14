@@ -1,6 +1,6 @@
 ## World Championship podiums by country
 
-*Computed on 13 November 2021*
+*Computed on 14 November 2021*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |

@@ -2,7 +2,7 @@
 
 *Note: Only delegates with at least 5 competitions are taken into account.
              Delegate period is calculated as the difference between first and last delegated competition.*
-*Computed on 14 November 2021*
+*Computed on 15 November 2021*
 
 | Delegated per year | Delegated | Years | Person | List on WCA |
 | ---: | ---: | ---: | :--- | :--: |
@@ -50,7 +50,7 @@
 | 13.49 | 29 | 2.15 | [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=10778) |
 | 13.48 | 23 | 1.71 | [Hikmət Mürsəlzadə](https://www.worldcubeassociation.org/persons/2015MURS01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=7161) |
 | 13.46 | 65 | 4.83 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=7184) |
-| 13.11 | 47 | 3.58 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1547) |
+| 13.38 | 48 | 3.59 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1547) |
 | 13.04 | 13 | 1.00 | [Nitin Subramanian](https://www.worldcubeassociation.org/persons/2014SUBR04) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=22440) |
 | 13.04 | 83 | 6.37 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=341) |
 | 13.02 | 22 | 1.69 | [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=9754) |
@@ -154,11 +154,11 @@
 | 7.91 | 5 | 0.63 | [Eiji Okeda (桶田英次)](https://www.worldcubeassociation.org/persons/2009OKED01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1615) |
 | 7.79 | 99 | 12.71 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=280) |
 | 7.77 | 13 | 1.67 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=17503) |
-| 7.76 | 50 | 6.44 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=15) |
 | 7.76 | 57 | 7.34 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=312) |
 | 7.76 | 65 | 8.38 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=14) |
 | 7.75 | 83 | 10.72 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=277) |
 | 7.63 | 15 | 1.97 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=5324) |
+| 7.62 | 51 | 6.69 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=15) |
 | 7.60 | 22 | 2.90 | [Andrey Robota](https://www.worldcubeassociation.org/persons/2012ROBO02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=5294) |
 | 7.58 | 32 | 4.22 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=9241) |
 | 7.55 | 79 | 10.47 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=293) |

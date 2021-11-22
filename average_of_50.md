@@ -1,7 +1,7 @@
 ## Average of 50
 
 *Note: 50 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 21 November 2021*
+*Computed on 22 November 2021*
 
 
 ### Rubik's Cube

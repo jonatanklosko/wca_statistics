@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Computed on 28 November 2021*
+*Computed on 20 December 2021*
 
 
 ### Rubik's Cube
@@ -182,7 +182,7 @@
 | 0.04 | [Andrew Tyberg](https://www.worldcubeassociation.org/persons/2016TYBE01) | 5.74 | 5.78 | [Mega Minnesota Winter 2018](https://www.worldcubeassociation.org/competitions/MegaMinnesotaWinter2018/results/by_person#2016TYBE01) |
 | 0.05 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 3.88 | 3.93 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/by_person#2013BARC03) |
 | 0.05 | [Mo Ji (季默)](https://www.worldcubeassociation.org/persons/2010JIMO01) | 4.66 | 4.71 | [Guangzhou SCUT 2017](https://www.worldcubeassociation.org/competitions/GuangzhouSCUT2017/results/by_person#2010JIMO01) |
-| 0.05 | [Bo Huang (黄镈)](https://www.worldcubeassociation.org/persons/2013HUAN16) | 7.30 | 7.35 | [Nanchang Winter 2015](https://www.worldcubeassociation.org/competitions/NanchangWinter2015/results/by_person#2013HUAN16) |
+| 0.05 | [Daniël Kassab](https://www.worldcubeassociation.org/persons/2012KASS01) | 6.51 | 6.56 | [Seraing Open 2021](https://www.worldcubeassociation.org/competitions/SeraingOpen2021/results/by_person#2012KASS01) |
 
 ### Square-1
 

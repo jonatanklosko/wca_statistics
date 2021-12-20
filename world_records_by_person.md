@@ -1,16 +1,16 @@
 ## World records count by person
 
-*Computed on 28 November 2021*
+*Computed on 20 December 2021*
 
 | WRs | Person |
 | ---: | :--- |
 | 121 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 41 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 47 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 33 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) |
+| 22 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 21 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 21 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) |
-| 21 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 21 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 20 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 18 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
@@ -164,6 +164,7 @@
 | 1 | [Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01) |
 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 1 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) |
+| 1 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1 | [Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01) |
 | 1 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 1 | [Christian Kaserer](https://www.worldcubeassociation.org/persons/2009KASE02) |

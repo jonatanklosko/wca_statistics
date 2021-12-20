@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Computed on 28 November 2021*
+*Computed on 20 December 2021*
 
 
 ### 3x3x3 Blindfolded
@@ -46,12 +46,12 @@
 | 17 | [Lee Jia Yong (李伽榮)](https://www.worldcubeassociation.org/persons/2009YONG02) |
 | 17 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 17 | [Yongqiang Peng (彭永强)](https://www.worldcubeassociation.org/persons/2013PENG02) |
+| 17 | [Peter Andersson](https://www.worldcubeassociation.org/persons/2013ANDE01) |
 | 16 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) |
 | 16 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 16 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 16 | [Liudi Sun (孙柳笛)](https://www.worldcubeassociation.org/persons/2012SUNL03) |
 | 16 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
-| 15 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
 
 ### 5x5x5 Blindfolded
 

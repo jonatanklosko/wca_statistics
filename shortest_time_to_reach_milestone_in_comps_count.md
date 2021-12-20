@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Computed on 28 November 2021*
+*Computed on 20 December 2021*
 
 
 ### 100 Competitions
@@ -63,6 +63,7 @@
 | 400 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
 | 427 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 435 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
+| 441 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 449 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
 | 455 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 463 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
@@ -76,7 +77,6 @@
 | 491 | [Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04) |
 | 499 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) |
 | 505 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
-| 506 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 
 ### 10 Competitions
 

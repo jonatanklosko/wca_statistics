@@ -1,16 +1,16 @@
 ## Current world records count by country
 
-*Computed on 28 November 2021*
+*Computed on 20 December 2021*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
-| 19 | United States | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07), [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 7 | China | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04), [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01), [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
-| 4 | Poland | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01), [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01), [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 22 | United States | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02), [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07), [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 6 | China | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01), [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
+| 3 | Poland | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01), [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 2 | Australia | [Andrew Huang](https://www.worldcubeassociation.org/persons/2016HUAN43), [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
-| 2 | Germany | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02), [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 2 | Peru | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
 | 1 | Denmark | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
+| 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |
 | 1 | Italy | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 1 | Malaysia | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |

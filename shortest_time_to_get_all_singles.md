@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Computed on 28 November 2021*
+*Computed on 20 December 2021*
 
 | Days | Person |
 | ---: | :--- |
@@ -75,10 +75,10 @@
 | 901 | [Axel Flordal](https://www.worldcubeassociation.org/persons/2016FLOR24) |
 | 903 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 903 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) |
-| 909 | [DongSu Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
+| 909 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
 | 910 | [Yusheng Liu (刘雨生)](https://www.worldcubeassociation.org/persons/2010LIUY04) |
 | 910 | [Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01) |
-| 910 | [Jae Hyun Jeong](https://www.worldcubeassociation.org/persons/2016JEON02) |
+| 910 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) |
 | 938 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
 | 944 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
 | 944 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
@@ -106,6 +106,7 @@
 | 1106 | [Arvid Skarrie](https://www.worldcubeassociation.org/persons/2008SKAR01) |
 | 1113 | [Robert Paus](https://www.worldcubeassociation.org/persons/2015PAUS01) |
 | 1141 | [Jimmy Coll](https://www.worldcubeassociation.org/persons/2006COLL01) |
+| 1155 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) |
 | 1160 | [Yash Mehta](https://www.worldcubeassociation.org/persons/2015MEHT08) |
 | 1162 | [David Pearce](https://www.worldcubeassociation.org/persons/2015PEAR02) |
 | 1169 | [Hannes Müller](https://www.worldcubeassociation.org/persons/2018MULL07) |
@@ -125,6 +126,7 @@
 | 1267 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) |
 | 1274 | [Boriss Benzerruki](https://www.worldcubeassociation.org/persons/2011BENZ01) |
 | 1288 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
+| 1288 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) |
 | 1295 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 1295 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 1295 | [Marco Edoardo Cittar](https://www.worldcubeassociation.org/persons/2015CITT01) |
@@ -138,6 +140,7 @@
 | 1357 | [Jhon Edinson Arias Parra](https://www.worldcubeassociation.org/persons/2011PARR02) |
 | 1358 | [Steve Greer](https://www.worldcubeassociation.org/persons/2016GREE04) |
 | 1358 | [Cheung-Hao Tu](https://www.worldcubeassociation.org/persons/2016TUCH02) |
+| 1372 | [Adam Ahmad](https://www.worldcubeassociation.org/persons/2018AHMA02) |
 | 1379 | [Will Cerne](https://www.worldcubeassociation.org/persons/2015CERN01) |
 | 1387 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 1400 | [Luiz Fellipe Oliuza Leal Silva](https://www.worldcubeassociation.org/persons/2016SILV02) |
@@ -161,7 +164,6 @@
 | 1555 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 1561 | [Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48) |
 | 1583 | [Fucong Fei (费付聪)](https://www.worldcubeassociation.org/persons/2009FEIF01) |
-| 1602 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |
 | 1609 | [Kaiyang Gao (高凯阳)](https://www.worldcubeassociation.org/persons/2012GAOK01) |
 | 1637 | [Jure Gregorc](https://www.worldcubeassociation.org/persons/2010GREG01) |
 | 1652 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
@@ -186,6 +188,7 @@
 | 1841 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 1848 | [Hilmar Magnusson](https://www.worldcubeassociation.org/persons/2009MAGN02) |
 | 1848 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
+| 1856 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 1862 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) |
 | 1869 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 1876 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
@@ -195,6 +198,7 @@
 | 1931 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 1964 | [Shuai Liu (刘帅)](https://www.worldcubeassociation.org/persons/2008LIUS01) |
 | 1974 | [Uriel Gayosso Ruiz](https://www.worldcubeassociation.org/persons/2007RUIZ01) |
+| 2002 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 2016 | [Andrii Kompaniiets (Андрій Компанієць)](https://www.worldcubeassociation.org/persons/2009KOMP01) |
 | 2030 | [Bryson Azzopardi](https://www.worldcubeassociation.org/persons/2011AZZO01) |
 | 2050 | [Chia-Liang Tai (戴嘉良)](https://www.worldcubeassociation.org/persons/2008TAIC01) |
@@ -236,7 +240,7 @@
 | 2793 | [Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01) |
 | 2829 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
 | 2885 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
-| 3016 | [Choi Go-Ho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
+| 3016 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
 | 3031 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) |
 | 3036 | [Ting-Xian Lin (林廷縣)](https://www.worldcubeassociation.org/persons/2011LINJ04) |
 | 3038 | [Muhammad Syahmi](https://www.worldcubeassociation.org/persons/2010SYAH03) |

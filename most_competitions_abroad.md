@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Computed on 20 December 2021*
+*Computed on 21 December 2021*
 
 | Competitions | Person |
 | ---: | :--- |

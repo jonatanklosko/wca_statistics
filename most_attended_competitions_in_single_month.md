@@ -1,6 +1,6 @@
 ## Most attended competitions in a single month
 
-*Computed on 23 December 2021*
+*Computed on 24 December 2021*
 
 | Competitions | Person | Month | Year | List |
 | ---: | :--- | :--- | :--- | :--- |

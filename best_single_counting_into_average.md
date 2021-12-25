@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 24 December 2021*
+*Computed on 25 December 2021*
 
 
 ### Rubik's Cube

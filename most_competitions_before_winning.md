@@ -24,6 +24,7 @@
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 98 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | [Cuban Open 2016](https://www.worldcubeassociation.org/competitions/CubanOpen2016) |
+| 76 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [Idaho Spudcubing II 2021](https://www.worldcubeassociation.org/competitions/IdahoSpudcubingII2021) |
 | 63 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Dolmen Open 2012](https://www.worldcubeassociation.org/competitions/DolmenOpen2012) |
 | 63 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [Copper Country Cubing 2019](https://www.worldcubeassociation.org/competitions/CopperCountryCubing2019) |
 | 62 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | [Kalmykia Open 2017](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2017) |
@@ -32,7 +33,6 @@
 | 52 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | [Idaho Speedcubing 2016](https://www.worldcubeassociation.org/competitions/IdahoSpeedcubing2016) |
 | 52 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | [Santarém Open 2015](https://www.worldcubeassociation.org/competitions/SantaremOpen2015) |
 | 52 | [Niño Francis S. Reyes](https://www.worldcubeassociation.org/persons/2012REYE04) | [Naga City Cube Open 2019](https://www.worldcubeassociation.org/competitions/NagaCityCubeOpen2019) |
-| 50 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) | [April in Alice Springs 2021](https://www.worldcubeassociation.org/competitions/AprilinAliceSprings2021) |
 
 ### 4x4x4 Cube
 

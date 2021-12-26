@@ -92,7 +92,7 @@
 | 2:55.93 | [Aleksandr Nedelko](https://www.worldcubeassociation.org/persons/2020NEDE01) |
 | 2:56.98 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) |
 | 3:01.86 | [Shanfeng Tu (涂善锋)](https://www.worldcubeassociation.org/persons/2015TUSH01) |
-| 3:04.83 | [Xin Luo (罗鑫)](https://www.worldcubeassociation.org/persons/2013LUOX01) |
+| 3:03.28 | [Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01) |
 
 ### 3x3x3 Blindfolded
 
@@ -132,12 +132,12 @@
 | 15.39 | [Wade Hawkins](https://www.worldcubeassociation.org/persons/2021HAWK02) |
 | 15.43 | [Vincent Wong](https://www.worldcubeassociation.org/persons/2014WONG08) |
 | 15.61 | [Ye Xu (许烨)](https://www.worldcubeassociation.org/persons/2015XUYE01) |
+| 15.65 | [Albert Luthje](https://www.worldcubeassociation.org/persons/2020LUTH01) |
 | 15.77 | [You Hyeon-Dong (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) |
 | 15.80 | [Huai Huang (黄怀)](https://www.worldcubeassociation.org/persons/2017HUAN26) |
 | 16.13 | [Yiting Chen (陈怡廷)](https://www.worldcubeassociation.org/persons/2017CHEY18) |
 | 16.20 | [Hyo-Min Seo (서효민)](https://www.worldcubeassociation.org/persons/2013SEOH01) |
 | 16.37 | [Zachary Walden](https://www.worldcubeassociation.org/persons/2018WALD04) |
-| 16.41 | [Zyx Orcine](https://www.worldcubeassociation.org/persons/2015ORCI01) |
 
 ### Megaminx
 
@@ -177,12 +177,12 @@
 | 5.16 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) |
 | 6.39 | [Daniil Samusev (Даниил Самусев)](https://www.worldcubeassociation.org/persons/2019SAMU07) |
 | 6.51 | [Yueyang Hu (胡越洋)](https://www.worldcubeassociation.org/persons/2021HUYU01) |
+| 6.65 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 6.83 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) |
 | 6.93 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) |
 | 6.97 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 7.08 | [Zuhan Zhang (张祖瀚)](https://www.worldcubeassociation.org/persons/2019ZHAZ25) |
 | 7.10 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |
-| 7.12 | [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) |
 
 ### Skewb
 
@@ -210,9 +210,9 @@
 | 11.75 | [Boqin Zhao (赵博钦)](https://www.worldcubeassociation.org/persons/2017ZHAO32) |
 | 12.28 | [Paul Becsi](https://www.worldcubeassociation.org/persons/2016BECS01) |
 | 13.02 | [Noah Melita](https://www.worldcubeassociation.org/persons/2018MELI05) |
+| 13.04 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) |
 | 13.08 | [Ethan Lai](https://www.worldcubeassociation.org/persons/2019LAIE01) |
 | 13.21 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
-| 13.32 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) |
 
 ### 4x4x4 Blindfolded
 

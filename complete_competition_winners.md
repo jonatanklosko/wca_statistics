@@ -26,6 +26,7 @@
 | 7 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | Indonesia | [Sumatra Open 2017](https://www.worldcubeassociation.org/competitions/SumatraOpen2017) |
 | 7 | [Jendry Patrick Rimachi Dulanto](https://www.worldcubeassociation.org/persons/2016DULA01) | Peru | [Iquitos Cuber 2019](https://www.worldcubeassociation.org/competitions/IquitosCuber2019) |
 | 7 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) | United States | [Boise 2019](https://www.worldcubeassociation.org/competitions/Boise2019) |
+| 7 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | United States | [Richmond Open A 2021](https://www.worldcubeassociation.org/competitions/RichmondOpenA2021) |
 | 7 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | Spain | [CCPA Open 2019](https://www.worldcubeassociation.org/competitions/CCPAOpen2019) |
 | 6 | [Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01) | India | [Waves Cube Challenge 2015](https://www.worldcubeassociation.org/competitions/WavesCubeChallenge2015) |
 | 6 | [Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02) | India | [Cube Jatra 2017](https://www.worldcubeassociation.org/competitions/CubeJatra2017) |
@@ -92,6 +93,7 @@
 | 2 | [Fubo Wang (王富博)](https://www.worldcubeassociation.org/persons/2007FUBO01) | China | [Beijing Mangshan Open 2010](https://www.worldcubeassociation.org/competitions/BeijingMangshanOpen2010) |
 | 2 | [Jeon Jae-Min (전재민)](https://www.worldcubeassociation.org/persons/2011JAEM01) | Republic of Korea | [Magics Korea 2012](https://www.worldcubeassociation.org/competitions/MagicsKorea2012) |
 | 2 | [Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01) | Netherlands | [Netherlands 2005](https://www.worldcubeassociation.org/competitions/Netherlands2005) |
+| 2 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [Westview Winter B 2021](https://www.worldcubeassociation.org/competitions/WestviewWinterB2021) |
 | 2 | [Muhammed Enes Ertaş](https://www.worldcubeassociation.org/persons/2013ERTA01) | Turkey | [İstanbul FMC and BLD 2019](https://www.worldcubeassociation.org/competitions/IstanbulFMCandBLD2019) |
 | 2 | [Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11) | United States | [No Stress Solving 2017](https://www.worldcubeassociation.org/competitions/NoStressSolving2017) |
 | 2 | [Parham Saeed Nia (پرهام سعیدنیا)](https://www.worldcubeassociation.org/persons/2011NIAP01) | Iran | [Iran FMC 2019](https://www.worldcubeassociation.org/competitions/IranFMC2019) |
@@ -154,7 +156,7 @@
 | 1 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) | Germany | [FMC Europe 2016](https://www.worldcubeassociation.org/competitions/FMCEurope2016) |
 | 1 | [Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02) | Brazil | [FMC Brasil 2017](https://www.worldcubeassociation.org/competitions/FMCBrasil2017) |
 | 1 | [Matthew Shay](https://www.worldcubeassociation.org/persons/2015SHAY01) | United States | [Nisei Week 2018](https://www.worldcubeassociation.org/competitions/NiseiWeek2018) |
-| 1 | [Mauro Moises López](https://www.worldcubeassociation.org/persons/2016LOPE44) | Spain | [Only FMC 2020](https://www.worldcubeassociation.org/competitions/OnlyFMC2020) |
+| 1 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | Spain | [Only FMC 2020](https://www.worldcubeassociation.org/competitions/OnlyFMC2020) |
 | 1 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [Nisei Week 2016](https://www.worldcubeassociation.org/competitions/NiseiWeek2016) |
 | 1 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [Nisei Week 2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019) |
 | 1 | [Maximiliano Rojas Zaputovich](https://www.worldcubeassociation.org/persons/2016ZAPU01) | Mexico | [TimerTon 2018](https://www.worldcubeassociation.org/competitions/TimerTon2018) |

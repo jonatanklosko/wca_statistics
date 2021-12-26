@@ -204,15 +204,15 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.09 | **7.39** | [SnoCo Goes Back to Square-1 2021](https://www.worldcubeassociation.org/competitions/SnoCoGoesBacktoSquare12021/results/all#esq1_f) | 4 |
+| [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.40 | **7.65** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 7.34 | **7.98** | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/all#esq1_f) | 4 |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.89 | **8.18** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 4 |
+| [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.36 | **8.19** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 5 |
+| [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 7.30 | **8.20** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 6 |
 | [Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01) | 7.77 | **8.30** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 5 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 8.13 | **8.52** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 6 |
 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | 6.49 | **8.67** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 7 |
 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 6.53 | **8.68** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 8 |
-| [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) | 7.84 | **8.72** | [SnoCo Goes Back to Square-1 2021](https://www.worldcubeassociation.org/competitions/SnoCoGoesBacktoSquare12021/results/all#esq1_f) | 5 |
-| [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 6.41 | **9.16** | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/all#esq1_f) | 5 |
-| [Jackey Zheng](https://www.worldcubeassociation.org/persons/2017ZHEN10) | 8.02 | **9.21** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 9 |
 
 ### 4x4x4 Blindfolded
 

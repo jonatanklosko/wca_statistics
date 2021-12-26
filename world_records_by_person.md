@@ -77,6 +77,7 @@
 | 4 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 4 | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) |
 | 4 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
+| 4 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 4 | [Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01) |
 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
 | 3 | [Alexander Yu](https://www.worldcubeassociation.org/persons/2007YUAL01) |
@@ -146,7 +147,6 @@
 | 2 | [Thibaut Jacquinot](https://www.worldcubeassociation.org/persons/2006JACQ01) |
 | 2 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) |
 | 2 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
-| 2 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 2 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) |
 | 2 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
 | 2 | [Vincent Sheu](https://www.worldcubeassociation.org/persons/2006SHEU01) |
@@ -231,6 +231,7 @@
 | 1 | [Quinn Lewis](https://www.worldcubeassociation.org/persons/2005LEWI01) |
 | 1 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 1 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) |
+| 1 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 1 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) |
 | 1 | [Santosh Tantravahi](https://www.worldcubeassociation.org/persons/2013TANT02) |
 | 1 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) |

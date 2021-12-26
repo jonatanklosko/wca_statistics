@@ -14,9 +14,9 @@
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **119** | 131 | 93 | 343 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **111** | 58 | 36 | 205 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **109** | 98 | 81 | 288 |
-| [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **106** | 41 | 22 | 169 |
+| [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **106** | 42 | 22 | 170 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **105** | 122 | 108 | 335 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **104** | 40 | 18 | 162 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **105** | 40 | 19 | 164 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **104** | 37 | 12 | 153 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **101** | 123 | 113 | 337 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **95** | 102 | 87 | 284 |
@@ -57,6 +57,7 @@
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **44** | 19 | 7 | 70 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **43** | 50 | 46 | 139 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | **42** | 43 | 51 | 136 |
+| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **42** | 23 | 12 | 77 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | **42** | 1 | 0 | 43 |
 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | **41** | 27 | 9 | 77 |
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |
@@ -69,7 +70,6 @@
 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | **36** | 12 | 9 | 57 |
 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **35** | 48 | 24 | 107 |
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **35** | 47 | 18 | 100 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **35** | 23 | 12 | 70 |
 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **35** | 16 | 9 | 60 |
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **34** | 32 | 17 | 83 |
 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | **34** | 24 | 37 | 95 |

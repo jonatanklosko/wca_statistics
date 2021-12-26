@@ -34,6 +34,7 @@
 | ---: | :--- |
 | 40 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
 | 36 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
+| 27 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) |
 | 25 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 24 | [Vinit Nalhe](https://www.worldcubeassociation.org/persons/2012NALH01) |
 | 21 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) |
@@ -51,7 +52,6 @@
 | 16 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 16 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 16 | [Liudi Sun (孙柳笛)](https://www.worldcubeassociation.org/persons/2012SUNL03) |
-| 16 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
 
 ### 5x5x5 Blindfolded
 

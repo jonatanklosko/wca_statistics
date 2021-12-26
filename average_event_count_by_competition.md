@@ -99,11 +99,11 @@
 | [Saarland Open 2012](https://www.worldcubeassociation.org/competitions/SaarlandOpen2012) | 8.03 | 63 | Germany |
 | [Danish Championship 2020](https://www.worldcubeassociation.org/competitions/DanishChampionship2020) | 8.02 | 45 | Denmark |
 | [Danish Open 2013](https://www.worldcubeassociation.org/competitions/DanishOpen2013) | 8.00 | 35 | Denmark |
-| [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018) | 8.00 | 19 | Argentina |
 | [Danish Special 2009](https://www.worldcubeassociation.org/competitions/DanishSpecial2009) | 8.00 | 14 | Denmark |
-| [Altbier 2012](https://www.worldcubeassociation.org/competitions/Altbier2012) | 8.00 | 38 | Germany |
-| [Pitic Open 2020](https://www.worldcubeassociation.org/competitions/PiticOpen2020) | 8.00 | 33 | Mexico |
 | [Breizh Open 2012](https://www.worldcubeassociation.org/competitions/BreizhOpen2012) | 8.00 | 22 | France |
+| [Altbier 2012](https://www.worldcubeassociation.org/competitions/Altbier2012) | 8.00 | 38 | Germany |
+| [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018) | 8.00 | 19 | Argentina |
+| [Pitic Open 2020](https://www.worldcubeassociation.org/competitions/PiticOpen2020) | 8.00 | 33 | Mexico |
 | [Dåstrup Sleepover 2018](https://www.worldcubeassociation.org/competitions/DastrupSleepover2018) | 7.98 | 52 | Denmark |
 
 

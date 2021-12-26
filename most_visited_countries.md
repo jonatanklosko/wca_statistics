@@ -44,6 +44,7 @@
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 17 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 17 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
+| 17 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 17 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 17 | [Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 17 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
@@ -72,7 +73,6 @@
 | 15 | [Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01) |
 | 14 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
 | 14 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
-| 14 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 14 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |
 | 14 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 14 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |

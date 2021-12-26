@@ -113,8 +113,8 @@
 
 | First single | Person |
 | ---: | :--- |
-| 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
 | 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
+| 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
 | 25 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) |
 | 25 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 25 | [Inha Woo (우인하)](https://www.worldcubeassociation.org/persons/2010INHA01) |
@@ -135,9 +135,9 @@
 | 13.98 | [Avshalom Sharavani](https://www.worldcubeassociation.org/persons/2016SHAR16) |
 | 14.19 | [Zyx Orcine](https://www.worldcubeassociation.org/persons/2015ORCI01) |
 | 14.56 | [Enmeng Zhang (张恩萌)](https://www.worldcubeassociation.org/persons/2013ZHAN62) |
+| 14.56 | [Albert Luthje](https://www.worldcubeassociation.org/persons/2020LUTH01) |
 | 14.64 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
 | 14.86 | [Xyruss Gatchalian](https://www.worldcubeassociation.org/persons/2019GATC01) |
-| 14.86 | [Anrui Cen (岑广瑞)](https://www.worldcubeassociation.org/persons/2017CENA01) |
 
 ### Megaminx
 
@@ -175,6 +175,7 @@
 | ---: | :--- |
 | 4.33 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 5.44 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) |
+| 5.58 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 6.15 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) |
 | 6.22 | [Daniil Samusev (Даниил Самусев)](https://www.worldcubeassociation.org/persons/2019SAMU07) |
 | 6.28 | [Xianghua Zhao (赵祥华)](https://www.worldcubeassociation.org/persons/2019ZHAO60) |
@@ -182,7 +183,6 @@
 | 6.38 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |
 | 6.48 | [Tingxiao Zhang (张庭箫)](https://www.worldcubeassociation.org/persons/2021ZHAN16) |
 | 6.60 | [Camerone Chin](https://www.worldcubeassociation.org/persons/2019CHIN08) |
-| 6.63 | [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) |
 
 ### Skewb
 

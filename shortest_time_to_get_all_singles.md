@@ -184,6 +184,7 @@
 | 1778 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 1822 | [Ray Leung Ka Ho (梁家浩)](https://www.worldcubeassociation.org/persons/2012HOLE01) |
 | 1827 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
+| 1833 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) |
 | 1834 | [Heron Sato](https://www.worldcubeassociation.org/persons/2011SATO01) |
 | 1841 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 1848 | [Hilmar Magnusson](https://www.worldcubeassociation.org/persons/2009MAGN02) |
@@ -259,6 +260,7 @@
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 4165 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) |
 | 4170 | [Han Wu (吳翰)](https://www.worldcubeassociation.org/persons/2008WUHA01) |
+| 4200 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 4501 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 5123 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 

@@ -127,16 +127,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 1.61 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Sioux Falls Winter 2021](https://www.worldcubeassociation.org/competitions/SiouxFallsWinter2021/results/by_person#2015KUCA01) |
 | 1.66 | [Mykhailo Lagoida (Михайло Лагойда)](https://www.worldcubeassociation.org/persons/2016LAGO04) | [Frankivsk Open 2019](https://www.worldcubeassociation.org/competitions/FrankivskOpen2019/results/by_person#2016LAGO04) |
 | 1.67 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Project Będzin 2019](https://www.worldcubeassociation.org/competitions/ProjectBedzin2019/results/by_person#2013BURL01) |
 | 1.71 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017/results/by_person#2013BURL01) |
 | 1.71 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Fargo Fall 2018](https://www.worldcubeassociation.org/competitions/FargoFall2018/results/by_person#2015KUCA01) |
 | 1.73 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Cubetcha A 2021](https://www.worldcubeassociation.org/competitions/CubetchaA2021/results/by_person#2015KUCA01) |
+| 1.79 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Sioux Falls Winter 2021](https://www.worldcubeassociation.org/competitions/SiouxFallsWinter2021/results/by_person#2015KUCA01) |
 | 1.80 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018/results/by_person#2013BURL01) |
 | 1.80 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Finnish Championship 2021](https://www.worldcubeassociation.org/competitions/FinnishChampionship2021/results/by_person#2018KHAN28) |
 | 1.82 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Wrocław Open 2019](https://www.worldcubeassociation.org/competitions/WroclawOpen2019/results/by_person#2013BURL01) |
-| 1.82 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Rocky Top 2021](https://www.worldcubeassociation.org/competitions/RockyTop2021/results/by_person#2018KHAN28) |
-| 1.83 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Cubetcha A 2021](https://www.worldcubeassociation.org/competitions/CubetchaA2021/results/by_person#2015KUCA01) |
 
 ### Square-1
 
@@ -146,12 +146,12 @@
 | 5.37 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2017SIAU02) |
 | 5.38 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Gislev Side Events 2019](https://www.worldcubeassociation.org/competitions/GislevSideEvents2019/results/by_person#2014DETL01) |
 | 5.56 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [SST Warszawa 2021](https://www.worldcubeassociation.org/competitions/SSTWarszawa2021/results/by_person#2013KRAS02) |
+| 5.56 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Richmond Open B 2021](https://www.worldcubeassociation.org/competitions/RichmondOpenB2021/results/by_person#2017AGGA01) |
 | 5.60 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [I Itapê Open 2019](https://www.worldcubeassociation.org/competitions/IItapeOpen2019/results/by_person#2015CECC01) |
 | 5.70 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [SacCubing X 2021](https://www.worldcubeassociation.org/competitions/SacCubingX2021/results/by_person#2017SIAU02) |
 | 5.77 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021/results/by_person#2016EPST02) |
-| 5.87 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Idaho Summer B 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerB2021/results/by_person#2017SIAU02) |
-| 5.92 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021/results/by_person#2013KRAS02) |
-| 5.95 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [BrizZon Side Open II 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2021/results/by_person#2013KRAS02) |
+| 5.80 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/by_person#2019BAUM02) |
+| 5.82 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/by_person#2017AGGA01) |
 
 ### 3x3x3 With Feet
 

@@ -7,17 +7,17 @@
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 7539 |
+| 1.49 | World | 7558 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2424 |
-| 1.59 | South America | 852 |
-| 1.46 | Oceania | 274 |
-| 1.41 | Asia | 1995 |
-| 1.21 | North America | 1913 |
+| 1.77 | Europe | 2428 |
+| 1.59 | South America | 854 |
+| 1.46 | Oceania | 278 |
+| 1.41 | Asia | 1996 |
+| 1.21 | North America | 1921 |
 | 1.16 | Africa | 81 |
 
 ### Countries
@@ -50,17 +50,16 @@
 | 1.82 | Spain | 209 |
 | 1.82 | Mexico | 84 |
 | 1.81 | Thailand | 27 |
-| 1.81 | Switzerland | 74 |
+| 1.81 | Switzerland | 75 |
 | 1.80 | Ireland | 15 |
 | 1.80 | San Marino | 5 |
-| 1.79 | Denmark | 89 |
 | 1.79 | Guatemala | 42 |
+| 1.78 | Denmark | 91 |
 | 1.77 | Norway | 61 |
 | 1.76 | Slovenia | 21 |
 | 1.75 | Sweden | 109 |
 | 1.75 | North Macedonia | 4 |
 | 1.71 | Bangladesh | 7 |
-| 1.67 | Costa Rica | 9 |
 | 1.67 | Iran | 30 |
 | 1.67 | Kyrgyzstan | 3 |
 | 1.67 | Montenegro | 3 |
@@ -69,28 +68,29 @@
 | 1.64 | Indonesia | 161 |
 | 1.63 | India | 376 |
 | 1.62 | Iceland | 8 |
-| 1.62 | Poland | 273 |
+| 1.62 | Poland | 274 |
+| 1.60 | Costa Rica | 10 |
 | 1.59 | Colombia | 113 |
 | 1.58 | Singapore | 19 |
-| 1.55 | Bolivia | 65 |
+| 1.56 | Bolivia | 66 |
 | 1.55 | Malaysia | 53 |
 | 1.53 | Latvia | 17 |
 | 1.52 | Dominican Republic | 25 |
-| 1.51 | New Zealand | 59 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Luxembourg | 2 |
 | 1.50 | Tajikistan | 2 |
+| 1.49 | New Zealand | 61 |
 | 1.48 | Romania | 67 |
 | 1.47 | Italy | 136 |
-| 1.46 | Peru | 138 |
-| 1.45 | Australia | 215 |
+| 1.46 | Peru | 139 |
+| 1.45 | Australia | 217 |
 | 1.43 | Israel | 14 |
 | 1.41 | Ecuador | 17 |
 | 1.40 | Paraguay | 15 |
 | 1.40 | Philippines | 186 |
 | 1.38 | Hong Kong | 13 |
 | 1.35 | Nepal | 17 |
-| 1.33 | Taiwan | 104 |
+| 1.34 | Taiwan | 105 |
 | 1.31 | Chile | 78 |
 | 1.31 | Venezuela | 52 |
 | 1.29 | Mongolia | 14 |
@@ -111,7 +111,7 @@
 | 1.17 | Andorra | 6 |
 | 1.17 | Panama | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | United States | 1525 |
+| 1.17 | United States | 1532 |
 | 1.16 | El Salvador | 19 |
 | 1.15 | Canada | 190 |
 | 1.10 | Azerbaijan | 31 |

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Computed on 30 December 2021*
+*Computed on 31 December 2021*
 
 | WRs | Person |
 | ---: | :--- |
@@ -50,6 +50,7 @@
 | 6 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
+| 6 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |
@@ -60,7 +61,6 @@
 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
-| 5 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 4 | [Brandon Lin](https://www.worldcubeassociation.org/persons/2011LINB01) |
 | 4 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) |

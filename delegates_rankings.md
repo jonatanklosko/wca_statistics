@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Computed on 30 December 2021*
+*Computed on 31 December 2021*
 
 
 ### Rubik's Cube - Single
@@ -341,8 +341,8 @@
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **3.51** | United States | [George School Open 2019](https://www.worldcubeassociation.org/competitions/GeorgeSchoolOpen2019) | 7.41, 5.27, 7.09, DNF, 3.51 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | **3.98** | United Kingdom | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019) | 3.98, 7.26, 7.64, 8.71, DNF |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **4.09** | United States | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021) | 6.99, 5.73, 4.09, 5.99, 9.11 |
+| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **4.13** | Poland | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | 5.38, 4.66, 4.13, 5.05, 5.46 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **4.24** | Poland | [LLS IV Świdnik 2021](https://www.worldcubeassociation.org/competitions/LLSIVSwidnik2021) | 6.01, 4.24, 6.79, 7.05, 6.03 |
-| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **4.29** | Poland | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021) | 5.28, 7.68, 4.29, 5.88, 5.92 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **4.38** | United Kingdom | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019) | 4.38, 8.95, DNF, 8.25, 6.72 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **4.42** | Belarus | [Sergach Winter 2019](https://www.worldcubeassociation.org/competitions/SergachWinter2019) | 6.75, 5.66, DNF, 6.19, 4.42 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **4.51** | United States | [GA Cubers Feet Fest 2019](https://www.worldcubeassociation.org/competitions/GACubersFeetFest2019) | 6.30, 5.72, 6.44, 4.51, 5.55 |
@@ -353,13 +353,13 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **5.14** | Poland | [BrizZon Side Open II 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2021) | 4.84, DNF, 5.15, 5.44, 4.74 |
+| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **4.93** | Poland | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | 4.19, 5.11, 4.32, 6.71, 5.35 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **5.33** | United States | [Birmingham Open 2016](https://www.worldcubeassociation.org/competitions/BirminghamOpen2016) | 5.21, 7.10, 5.77, 4.95, 5.02 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **5.57** | Sweden | [Flen - Stora Manschetten 2021](https://www.worldcubeassociation.org/competitions/FlenStoraManschetten2021) | 5.63, 5.66, 13.39, 5.08, 5.43 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **5.59** | Poland | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | 5.23, 4.65, 5.93, DNF, 5.60 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **5.77** | United States | [Cobb Cubes Again 2018](https://www.worldcubeassociation.org/competitions/CobbCubesAgain2018) | 5.26, 5.78, 7.56, 5.27, 6.26 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **5.86** | United States | [GA Cubers Feet Fest 2019](https://www.worldcubeassociation.org/competitions/GACubersFeetFest2019) | 6.30, 5.72, 6.44, 4.51, 5.55 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **5.89** | Belarus | [Welcome to Brest 2018](https://www.worldcubeassociation.org/competitions/WelcometoBrest2018) | 5.50, 5.00, 6.57, 5.81, 6.37 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **6.02** | Poland | [LLS IV Świdnik 2021](https://www.worldcubeassociation.org/competitions/LLSIVSwidnik2021) | 6.08, 6.70, 5.28, 5.09, DNF |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **6.35** | Finland | [Finnish Championship 2017](https://www.worldcubeassociation.org/competitions/FinnishChampionship2017) | 5.81, 6.55, 7.13, 6.20, 6.29 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | **6.46** | United Kingdom | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) | 7.67, 6.14, 7.03, 5.70, 6.21 |
 | [Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01) | **6.51** | Indonesia | [Jakarta Open 2020](https://www.worldcubeassociation.org/competitions/JakartaOpen2020) | 8.06, 6.48, 6.79, 5.40, 6.25 |

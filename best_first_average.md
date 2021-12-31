@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Computed on 30 December 2021*
+*Computed on 31 December 2021*
 
 
 ### Rubik's Cube
@@ -107,7 +107,7 @@
 | 1:11.88 | [Jiahao Ye (叶佳浩)](https://www.worldcubeassociation.org/persons/2016YEJI01) |
 | 1:12.34 | [Benjamin Meco](https://www.worldcubeassociation.org/persons/2012MECO01) |
 | 1:13.95 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
-| 1:22.28 | [Jun Xu (徐俊)](https://www.worldcubeassociation.org/persons/2011XUJU01) |
+| 1:16.48 | [Theo Iván Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
 
 ### 3x3x3 Fewest Moves
 
@@ -209,10 +209,10 @@
 | 11.65 | [Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01) |
 | 11.75 | [Boqin Zhao (赵博钦)](https://www.worldcubeassociation.org/persons/2017ZHAO32) |
 | 12.28 | [Paul Becsi](https://www.worldcubeassociation.org/persons/2016BECS01) |
+| 12.50 | [Felipe Maierowicz](https://www.worldcubeassociation.org/persons/2019MAIE01) |
 | 13.02 | [Noah Melita](https://www.worldcubeassociation.org/persons/2018MELI05) |
 | 13.04 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) |
 | 13.08 | [Ethan Lai](https://www.worldcubeassociation.org/persons/2019LAIE01) |
-| 13.21 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 
 ### 4x4x4 Blindfolded
 

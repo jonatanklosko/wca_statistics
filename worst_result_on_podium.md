@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on 30 December 2021*
+*Computed on 31 December 2021*
 
 
 ### Rubik's Cube
@@ -258,66 +258,6 @@
 | [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | **3/6 59:25** |  | [Estonian Open 2018](https://www.worldcubeassociation.org/competitions/EstonianOpen2018/results/podiums#e333mbf) | 3 |
 | [Artem Savosik](https://www.worldcubeassociation.org/persons/2013SAVO01) | **4/8 59:13** |  | [Dvina OH Edition 2014](https://www.worldcubeassociation.org/competitions/DvinaOHEdition2014/results/podiums#e333mbf) | 3 |
 | [Oliver Jenks](https://www.worldcubeassociation.org/persons/2015JENK02) | **3/6 58:35** |  | [Supreme South Open 2017](https://www.worldcubeassociation.org/competitions/SupremeSouthOpen2017/results/podiums#e333mbf) | 2 |
-
-### 3x3x3 With Feet
-
-| Person | Single | Average | Competition | Place |
-| :--- | ---: | ---: | :--- | :--: |
-| [Pablo Cristian Duarte de Sousa](https://www.worldcubeassociation.org/persons/2012SOUS01) | 3:16.41 | **9:59.34** | [Mossoró Open 2013](https://www.worldcubeassociation.org/competitions/MossoroOpen2013/results/podiums#e333ft) | 2 |
-| [Elisabet Delgado Mas](https://www.worldcubeassociation.org/persons/2011DELG01) | 7:21.54 | **7:48.29** | [Plentzia Open 2014](https://www.worldcubeassociation.org/competitions/PlentziaOpen2014/results/podiums#e333ft) | 3 |
-| [Boriss Benzerruki](https://www.worldcubeassociation.org/persons/2011BENZ01) | 4:18.55 | **7:16.55** | [Latvian Open 2014](https://www.worldcubeassociation.org/competitions/LatvianOpen2014/results/podiums#e333ft) | 3 |
-| [Michael Czerpak](https://www.worldcubeassociation.org/persons/2009CZER01) | 5:44.25 | **7:06.57** | [Ohio Open 2009](https://www.worldcubeassociation.org/competitions/OhioOpen2009/results/podiums#e333ft) | 2 |
-| [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) | 5:39.93 | **7:01.92** | [Bulacan Open 2009](https://www.worldcubeassociation.org/competitions/BulacanOpen2009/results/podiums#e333ft) | 3 |
-| [Rodrigo Gómez Araya](https://www.worldcubeassociation.org/persons/2010ARAY01) | 6:13.48 | **6:51.45** | [SSCC Open 2011](https://www.worldcubeassociation.org/competitions/SSCCOpen2011/results/podiums#e333ft) | 3 |
-| [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | 5:51.58 | **6:47.11** | [Neptune Open 2011](https://www.worldcubeassociation.org/competitions/NeptuneOpen2011/results/podiums#e333ft) | 1 |
-| [Harris Karsch](https://www.worldcubeassociation.org/persons/2007KARS01) | 4:57.75 | **6:42.75** | [Cornell Spring 2012](https://www.worldcubeassociation.org/competitions/CornellOpenSpring2012/results/podiums#e333ft) | 3 |
-| [Amaia de Pablo](https://www.worldcubeassociation.org/persons/2012PABL01) | 5:11.69 | **6:41.62** | [Plentzia Open 2014](https://www.worldcubeassociation.org/competitions/PlentziaOpen2014/results/podiums#e333ft) | 2 |
-| [Myles Brophy](https://www.worldcubeassociation.org/persons/2010BROP01) | 6:15.93 | **6:38.59** | [Caltech Fall 2010](https://www.worldcubeassociation.org/competitions/CaltechFall2010/results/podiums#e333ft) | 2 |
-
-### Rubik's Magic
-
-| Person | Single | Average | Competition | Place |
-| :--- | ---: | ---: | :--- | :--: |
-| [Awangluosang (阿旺洛桑)](https://www.worldcubeassociation.org/persons/2012AWAN01) | 10.67 | **12.40** | [Tibet Open 2012](https://www.worldcubeassociation.org/competitions/TibetOpen2012/results/podiums#emagic) | 3 |
-| [Suolangwangdui (索朗旺堆)](https://www.worldcubeassociation.org/persons/2012SUOL02) | 7.90 | **9.69** | [Tibet Open 2012](https://www.worldcubeassociation.org/competitions/TibetOpen2012/results/podiums#emagic) | 2 |
-| [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 2.10 | **8.03** | [Swedish Open 2005](https://www.worldcubeassociation.org/competitions/SwedishOpen2005/results/podiums#emagic) | 3 |
-| [Cameron Hobbs](https://www.worldcubeassociation.org/persons/2009HOBB01) | 6.59 | **7.78** | [Waikato Autumn Open 2010](https://www.worldcubeassociation.org/competitions/WaikatoAutumnOpen2010/results/podiums#emagic) | 3 |
-| [Amy-Leigh Allain](https://www.worldcubeassociation.org/persons/2011ALLA01) | 5.58 | **7.02** | [Cube Canada Day 2011](https://www.worldcubeassociation.org/competitions/CubeCanadaDay2011/results/podiums#emagic) | 3 |
-| [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 4.64 | **6.11** | [Svekub 2005](https://www.worldcubeassociation.org/competitions/Svekub2005/results/podiums#emagic) | 2 |
-| [Gustav Fredell](https://www.worldcubeassociation.org/persons/2004FRED01) | 2.94 | **5.68** | [Svekub 2005](https://www.worldcubeassociation.org/competitions/Svekub2005/results/podiums#emagic) | 1 |
-| [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 3.25 | **5.38** | [Uberlândia Open 2010](https://www.worldcubeassociation.org/competitions/Uberlandia2010/results/podiums#emagic) | 3 |
-| [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 3.94 | **5.21** | [German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004/results/podiums#emagic) | 3 |
-| [Vincent Yim](https://www.worldcubeassociation.org/persons/2008YIMV01) | 4.61 | **4.90** | [Vancouver Open Summer 2008](https://www.worldcubeassociation.org/competitions/VancouverOpenSummer2008/results/podiums#emagic) | 3 |
-
-### Master Magic
-
-| Person | Single | Average | Competition | Place |
-| :--- | ---: | ---: | :--- | :--: |
-| [Kanneti Sae Han (คันธ์เนตี แซ่ห่าน)](https://www.worldcubeassociation.org/persons/2008HANK01) | 4.73 | **23.41** | [Clermont Open 2008](https://www.worldcubeassociation.org/competitions/ClermontOpen2008/results/podiums#emmagic) | 3 |
-| [Pantazis Constantine Houlis](https://www.worldcubeassociation.org/persons/2010HOUL01) | 17.22 | **23.20** | [Perth Puzzle Championship 2011](https://www.worldcubeassociation.org/competitions/PerthPuzzle2011/results/podiums#emmagic) | 1 |
-| [Felipe Andres Rojas Garces](https://www.worldcubeassociation.org/persons/2009GARC02) | 14.13 | **21.67** | [Santiago Winter Open 2009](https://www.worldcubeassociation.org/competitions/SantiagoWinterOpen2009/results/podiums#emmagic) | 1 |
-| [Gilberto Caracciolo Morelli](https://www.worldcubeassociation.org/persons/2008CARA01) | 14.93 | **18.69** | [ABC Open 2010](https://www.worldcubeassociation.org/competitions/ABCOpen2010/results/podiums#emmagic) | 3 |
-| [Bryan Logan](https://www.worldcubeassociation.org/persons/2007LOGA01) | 6.21 | **16.62** | [Cubetcha 2009](https://www.worldcubeassociation.org/competitions/Cubetcha2009/results/podiums#emmagic) | 3 |
-| [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | 12.22 | **15.01** | [Brasília Open 2009](https://www.worldcubeassociation.org/competitions/BrasiliaOpen2009/results/podiums#emmagic) | 3 |
-| [Adam Zamora](https://www.worldcubeassociation.org/persons/2004ZAMO01) | 10.25 | **14.19** | [Caltech Fall 2009](https://www.worldcubeassociation.org/competitions/CaltechFall2009/results/podiums#emmagic) | 3 |
-| [Renan Mondini Cerpe](https://www.worldcubeassociation.org/persons/2007CERP02) | 11.40 | **13.76** | [ABC Open 2010](https://www.worldcubeassociation.org/competitions/ABCOpen2010/results/podiums#emmagic) | 2 |
-| [Renan Mondini Cerpe](https://www.worldcubeassociation.org/persons/2007CERP02) | 12.43 | **13.64** | [Uberlândia Open 2010](https://www.worldcubeassociation.org/competitions/Uberlandia2010/results/podiums#emmagic) | 2 |
-| [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 6.02 | **13.26** | [Swedish CubeDay 2006](https://www.worldcubeassociation.org/competitions/SwedishCubeDay2006/results/podiums#emmagic) | 3 |
-
-### Rubik's Cube: Multiple blind old style
-
-| Person | Single | Average | Competition | Place |
-| :--- | ---: | ---: | :--- | :--: |
-| [Daniel Beyer](https://www.worldcubeassociation.org/persons/2006BEYE01) | **0/8 1:33:47** |  | [Rutgers Spring 2007](https://www.worldcubeassociation.org/competitions/RutgersSpring2007/results/podiums#e333mbo) | 1 |
-| [Mats Luthman](https://www.worldcubeassociation.org/persons/2007LUTH01) | **0/3 43:00** |  | [Västervik 2008](https://www.worldcubeassociation.org/competitions/Vastervik2008/results/podiums#e333mbo) | 1 |
-| [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) | **0/2 ?:??:??** |  | [Lyon Open 2007](https://www.worldcubeassociation.org/competitions/LyonOpen2007/results/podiums#e333mbo) | 3 |
-| [Aurelien Souchet (高凡)](https://www.worldcubeassociation.org/persons/2006SOUC01) | **0/2 ?:??:??** |  | [Lyon Open 2007](https://www.worldcubeassociation.org/competitions/LyonOpen2007/results/podiums#e333mbo) | 3 |
-| [Georges Poinsot](https://www.worldcubeassociation.org/persons/2007POIN01) | **0/2 ?:??:??** |  | [Lyon Open 2007](https://www.worldcubeassociation.org/competitions/LyonOpen2007/results/podiums#e333mbo) | 3 |
-| [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) | **0/2 24:43** |  | [Italian Open 2007](https://www.worldcubeassociation.org/competitions/ItalianOpen2007/results/podiums#e333mbo) | 3 |
-| [Erik Johnson](https://www.worldcubeassociation.org/persons/2007JOHN02) | **0/2 17:46** |  | [Pleasantville Fall 2007](https://www.worldcubeassociation.org/competitions/PleasantvilleFall2007/results/podiums#e333mbo) | 3 |
-| [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | **0/2 10:30** |  | [Pleasantville Fall 2007](https://www.worldcubeassociation.org/competitions/PleasantvilleFall2007/results/podiums#e333mbo) | 2 |
-| [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **1/9 1:32:00** |  | [Lyon Open 2007](https://www.worldcubeassociation.org/competitions/LyonOpen2007/results/podiums#e333mbo) | 2 |
-| [Thomas Kohn](https://www.worldcubeassociation.org/persons/2005KOHN01) | **1/5 2:03:40** |  | [German Open 2006](https://www.worldcubeassociation.org/competitions/GermanOpen2006/results/podiums#e333mbo) | 2 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

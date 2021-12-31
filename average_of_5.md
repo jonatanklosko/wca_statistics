@@ -1,14 +1,14 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 30 December 2021*
+*Computed on 31 December 2021*
 
 
 ### Rubik's Cube
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 5.30 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.91, 4.44, 5.75, 5.23, 4.93 |
+| 5.09 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.73, 4.83, 5.24, 6.57, 5.20 |
 | 5.32 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 5.76, 5.34, 5.50, 5.12, 4.54 |
 | 5.34 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.52, 6.03, 4.89, 5.61, 4.58 |
 | 5.39 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.58, 5.30, 6.19, 4.93, 5.31 |
@@ -165,9 +165,9 @@
 | 1.85 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | 1.83, 1.55, 1.54, 4.00, 2.17 |
 | 1.87 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 5.04, 1.76, 1.86, 2.01, 1.68 |
 | 1.91 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.83, 1.77, 3.06, 2.14, 1.68 |
+| 1.93 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.84, 1.87, 2.61, 1.47, 2.08 |
 | 1.94 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.89, 1.99, 1.83, 3.54, 1.96 |
 | 1.97 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 2.39, 2.22, 1.93, 1.76, 1.36 |
-| 1.98 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 2.30, 3.57, 1.83, 1.29, 1.81 |
 
 ### Rubik's Clock
 
@@ -178,11 +178,11 @@
 | 4.40 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 4.86, 5.35, 4.25, 4.06, 4.11 |
 | 4.53 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) | 5.71, 4.55, 4.21, 4.15, 4.83 |
 | 4.62 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 4.09, 4.38, 5.17, 4.50, 4.99 |
+| 4.68 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 4.62, 6.69, 4.19, 5.11, 4.32 |
 | 4.77 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 3.79, 4.39, 4.77, 8.08, 5.17 |
 | 4.79 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 4.95, 6.18, 4.53, 4.89, 4.25 |
 | 4.88 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 4.76, 5.19, DNF, 4.70, 4.42 |
 | 4.90 | [Jacob Evarts](https://www.worldcubeassociation.org/persons/2018EVAR01) | 5.42, 4.20, 5.22, 4.67, 4.83 |
-| 5.03 | [Suen Ming Chi (孫銘志)](https://www.worldcubeassociation.org/persons/2017CHIS02) | 4.17, 3.29, 5.76, 7.35, 5.18 |
 
 ### Skewb
 

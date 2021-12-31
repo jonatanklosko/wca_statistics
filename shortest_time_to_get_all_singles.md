@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Computed on 30 December 2021*
+*Computed on 31 December 2021*
 
 | Days | Person |
 | ---: | :--- |
@@ -186,6 +186,7 @@
 | 1827 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 1833 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) |
 | 1834 | [Heron Sato](https://www.worldcubeassociation.org/persons/2011SATO01) |
+| 1835 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 1841 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 1848 | [Hilmar Magnusson](https://www.worldcubeassociation.org/persons/2009MAGN02) |
 | 1848 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |

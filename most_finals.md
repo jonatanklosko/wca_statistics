@@ -1,6 +1,6 @@
 ## Most finals
 
-*Computed on 30 December 2021*
+*Computed on 31 December 2021*
 
 | Finals | Person |
 | ---: | :--- |
@@ -36,7 +36,7 @@
 | 888 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 872 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 864 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
-| 853 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 854 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 848 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 840 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 818 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
@@ -80,14 +80,14 @@
 | 623 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 620 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 620 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
+| 619 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 619 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
-| 614 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 611 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 609 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 609 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
 | 608 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
 | 604 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 599 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 601 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 598 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 595 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 590 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |

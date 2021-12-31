@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 30 December 2021*
+*Computed on 31 December 2021*
 
 
 ### Rubik's Cube
@@ -8,6 +8,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 4.74 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Dragon Cubing 2021](https://www.worldcubeassociation.org/competitions/DragonCubing2021/results/by_person#2016KOLA02) |
+| 4.83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021/results/by_person#2016KOLA02) |
 | 4.92 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Cube for Cambodia 2018](https://www.worldcubeassociation.org/competitions/CubeforCambodia2018/results/by_person#2009ZEMD01) |
 | 4.92 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | [BCCC A 2021](https://www.worldcubeassociation.org/competitions/BCCubingComebackA2021/results/by_person#2016INAB01) |
 | 4.99 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Odd Day in Sydney 2019](https://www.worldcubeassociation.org/competitions/OddDayinSydney2019/results/by_person#2009ZEMD01) |
@@ -16,7 +17,6 @@
 | 5.06 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/by_person#2016KOLA02) |
 | 5.09 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017XURU04) |
 | 5.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Missoula 2021](https://www.worldcubeassociation.org/competitions/Missoula2021/results/by_person#2012PARK03) |
-| 5.13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2017GARR05) |
 
 ### 2x2x2 Cube
 

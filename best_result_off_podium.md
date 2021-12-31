@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on 30 December 2021*
+*Computed on 31 December 2021*
 
 
 ### Rubik's Cube
@@ -163,11 +163,11 @@
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 2.29 | **2.64** | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/all#epyram_f) | 4 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 2.51 | **2.64** | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/all#epyram_f) | 4 |
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.99 | **2.67** | [Flag City Fall 2019](https://www.worldcubeassociation.org/competitions/FlagCityFall2019/results/all#epyram_f) | 4 |
+| [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 2.20 | **2.68** | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021/results/all#epyram_f) | 4 |
 | [Kevin Min](https://www.worldcubeassociation.org/persons/2015MINK04) | 1.73 | **2.70** | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/all#epyram_f) | 4 |
 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 2.47 | **2.71** | [Liberty Science Center Open 2019](https://www.worldcubeassociation.org/competitions/LibertyScienceCenterOpen2019/results/all#epyram_f) | 4 |
 | [Marko Striyeshyn](https://www.worldcubeassociation.org/persons/2014STRI01) | 2.49 | **2.71** | [Speed Days Kielce 2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKielce2017/results/all#epyram_f) | 4 |
 | [Daniel Porter](https://www.worldcubeassociation.org/persons/2017PORT04) | 2.02 | **2.72** | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/all#epyram_f) | 5 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 2.41 | **2.77** | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 
@@ -258,66 +258,6 @@
 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) | **33/37 1:00:00** |  | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e333mbf_f) | 5 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **33/37 1:00:00** |  | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/all#e333mbf_f) | 4 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **31/34 55:03** |  | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/all#e333mbf_f) | 5 |
-
-### 3x3x3 With Feet
-
-| Person | Single | Average | Competition | Place |
-| :--- | ---: | ---: | :--- | :--: |
-| [Daniel Gutierrez](https://www.worldcubeassociation.org/persons/2016GUTI23) | 26.55 | **30.11** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e333ft_f) | 4 |
-| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 22.78 | **31.32** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333ft_f) | 4 |
-| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 24.43 | **32.56** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e333ft_f) | 5 |
-| [Mahith Bandi](https://www.worldcubeassociation.org/persons/2014BAND04) | 25.06 | **32.67** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e333ft_f) | 6 |
-| [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 27.63 | **32.71** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e333ft_f) | 7 |
-| [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 30.49 | **32.88** | [Brooklyn Fall 2019](https://www.worldcubeassociation.org/competitions/BrooklynFall2019/results/all#e333ft_f) | 4 |
-| [Nolan Wood](https://www.worldcubeassociation.org/persons/2016WOOD01) | 29.62 | **33.35** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e333ft_f) | 8 |
-| [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) | 28.77 | **33.48** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333ft_f) | 5 |
-| [Viljo Elo](https://www.worldcubeassociation.org/persons/2016ELOV01) | 29.10 | **33.68** | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019/results/all#e333ft_f) | 4 |
-| [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | 27.62 | **33.78** | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e333ft_f) | 4 |
-
-### Rubik's Magic
-
-| Person | Single | Average | Competition | Place |
-| :--- | ---: | ---: | :--- | :--: |
-| [Yang Liu (刘洋)](https://www.worldcubeassociation.org/persons/2009LIUY06) | 0.96 | **1.00** | [Henan Open 2010](https://www.worldcubeassociation.org/competitions/HenanOpen2010/results/all#emagic_f) | 4 |
-| [Yu Chen (陈瑜)](https://www.worldcubeassociation.org/persons/2009CHEN36) | 1.03 | **1.05** | [Beijing Summer Open 2011](https://www.worldcubeassociation.org/competitions/BeijingSummer2011/results/all#emagic_f) | 4 |
-| [Fan Yang (杨帆)](https://www.worldcubeassociation.org/persons/2009YANG02) | 1.03 | **1.05** | [Beijing Summer Open 2011](https://www.worldcubeassociation.org/competitions/BeijingSummer2011/results/all#emagic_f) | 4 |
-| [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 1.03 | **1.09** | [World Championship 2009](https://www.worldcubeassociation.org/competitions/WC2009/results/all#emagic_f) | 4 |
-| [Wei Zhou (周威)](https://www.worldcubeassociation.org/persons/2011ZHOU02) | 0.97 | **1.10** | [Hefei Summer 2012](https://www.worldcubeassociation.org/competitions/HefeiSummer2012/results/all#emagic_f) | 4 |
-| [Feng Jia (贾峰)](https://www.worldcubeassociation.org/persons/2010JIAF01) | 1.05 | **1.11** | [Henan Open 2010](https://www.worldcubeassociation.org/competitions/HenanOpen2010/results/all#emagic_f) | 5 |
-| [Yu Shi (时宇)](https://www.worldcubeassociation.org/persons/2011SHIY02) | 0.96 | **1.12** | [Beijing Summer Open 2011](https://www.worldcubeassociation.org/competitions/BeijingSummer2011/results/all#emagic_f) | 6 |
-| [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 1.06 | **1.14** | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011/results/all#emagic_f) | 4 |
-| [Ng Chi Chung](https://www.worldcubeassociation.org/persons/2009CHUN04) | 1.08 | **1.14** | [Macau Rubik's Open 2009](https://www.worldcubeassociation.org/competitions/MacauOpen2009/results/all#emagic_f) | 4 |
-| [Péter Pozsgai](https://www.worldcubeassociation.org/persons/2009POZS01) | 1.13 | **1.16** | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011/results/all#emagic_f) | 5 |
-
-### Master Magic
-
-| Person | Single | Average | Competition | Place |
-| :--- | ---: | ---: | :--- | :--: |
-| [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | 2.43 | **2.54** | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012/results/all#emmagic_f) | 4 |
-| [Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01) | 2.16 | **2.55** | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012/results/all#emmagic_f) | 5 |
-| [Qirun Zhong (钟奇润)](https://www.worldcubeassociation.org/persons/2008ZHON01) | 2.25 | **2.65** | [Beijing Winter 2012](https://www.worldcubeassociation.org/competitions/BeijingWinter2012/results/all#emmagic_f) | 4 |
-| [Endre Kovács](https://www.worldcubeassociation.org/persons/2008KOVA01) | 2.41 | **2.65** | [Hungarian Open 2010](https://www.worldcubeassociation.org/competitions/HungarianOpen2010/results/all#emmagic_f) | 4 |
-| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 2.19 | **2.66** | [Hungarian Open 2010](https://www.worldcubeassociation.org/competitions/HungarianOpen2010/results/all#emmagic_f) | 5 |
-| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 2.30 | **2.72** | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011/results/all#emmagic_f) | 4 |
-| [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 2.44 | **2.73** | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012/results/all#emmagic_f) | 6 |
-| [Mateusz Adamczyk](https://www.worldcubeassociation.org/persons/2011ADAM03) | 2.70 | **2.76** | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/all#emmagic_f) | 4 |
-| [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | 2.31 | **2.77** | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012/results/all#emmagic_f) | 4 |
-| [Fubo Wang (王富博)](https://www.worldcubeassociation.org/persons/2007FUBO01) | 2.50 | **2.78** | [Beijing Summer Open 2009](https://www.worldcubeassociation.org/competitions/BeijingSummerOpen2009/results/all#emmagic_f) | 4 |
-
-### Rubik's Cube: Multiple blind old style
-
-| Person | Single | Average | Competition | Place |
-| :--- | ---: | ---: | :--- | :--: |
-| [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **3/3 18:28** |  | [Danish Open 2008](https://www.worldcubeassociation.org/competitions/DanishOpen2008/results/all#e333mbo_f) | 4 |
-| [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | **3/3 23:29** |  | [Danish Open 2008](https://www.worldcubeassociation.org/competitions/DanishOpen2008/results/all#e333mbo_f) | 5 |
-| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | **3/3 23:32** |  | [Czech Open 2008](https://www.worldcubeassociation.org/competitions/CzechOpen2008/results/all#e333mbo_f) | 4 |
-| [Lars Vennike Nielsson](https://www.worldcubeassociation.org/persons/2008NIEL01) | **3/3 25:24** |  | [Danish Open 2008](https://www.worldcubeassociation.org/competitions/DanishOpen2008/results/all#e333mbo_f) | 6 |
-| [Péter Róka](https://www.worldcubeassociation.org/persons/2007ROKA01) | **4/5 46:45** |  | [Czech Open 2008](https://www.worldcubeassociation.org/competitions/CzechOpen2008/results/all#e333mbo_f) | 5 |
-| [Manuel López Sheriff](https://www.worldcubeassociation.org/persons/2007LOPE01) | **5/7 1:00:40** |  | [US Nationals and Open 2008](https://www.worldcubeassociation.org/competitions/USOpen2008/results/all#e333mbo_f) | 4 |
-| [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | **2/2 4:13** |  | [Czech Open 2008](https://www.worldcubeassociation.org/competitions/CzechOpen2008/results/all#e333mbo_f) | 6 |
-| [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) | **2/2 7:37** |  | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008/results/all#e333mbo_f) | 4 |
-| [Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01) | **2/2 7:57** |  | [German Open 2008](https://www.worldcubeassociation.org/competitions/GermanOpen2008/results/all#e333mbo_f) | 4 |
-| [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | **2/2 8:17** |  | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008/results/all#e333mbo_f) | 5 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

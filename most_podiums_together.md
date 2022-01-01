@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Computed on 31 December 2021*
+*Computed on  1 January 2022*
 
 
 ### Pairs

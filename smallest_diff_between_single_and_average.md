@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Computed on  1 January 2022*
+*Computed on  2 January 2022*
 
 
 ### Rubik's Cube

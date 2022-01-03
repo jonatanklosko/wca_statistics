@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Computed on  2 January 2022*
+*Computed on  3 January 2022*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -65,10 +65,10 @@
 | 66 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 65 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 65 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) |
+| 65 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 64 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 64 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 64 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
-| 64 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 63 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 63 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
 | 63 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |

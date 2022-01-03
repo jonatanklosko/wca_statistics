@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Computed on  2 January 2022*
+*Computed on  3 January 2022*
 
 
 ### Competition
@@ -46,10 +46,10 @@
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **9637** | 10295 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **9219** | 9606 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **8772** | 9251 |
-| [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **8712** | 8846 |
+| [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **8725** | 8861 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **8682** | 8933 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **8678** | 9191 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **8372** | 8725 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **8451** | 8808 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **8330** | 8757 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **8197** | 8524 |
 
@@ -59,12 +59,12 @@
 | :--- | ---: | ---: |
 | United States | **2209094** | 2321398 |
 | China | **1212800** | 1272685 |
-| Poland | **587432** | 616956 |
+| Poland | **587787** | 617376 |
 | India | **579073** | 610111 |
 | Russia | **429851** | 454592 |
 | Germany | **426962** | 448210 |
 | Spain | **394056** | 413941 |
-| Australia | **329346** | 348098 |
+| Australia | **332295** | 351177 |
 | Brazil | **324515** | 339059 |
 | Canada | **322652** | 337061 |
 | France | **322379** | 339468 |
@@ -82,11 +82,11 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **4389754** | 4615173 |
+| Europe | **4390109** | 4615593 |
 | Asia | **3132927** | 3286931 |
-| North America | **2846820** | 2987780 |
+| North America | **2847733** | 2988730 |
 | South America | **973592** | 1020486 |
-| Oceania | **414316** | 437732 |
+| Oceania | **417265** | 440811 |
 | Africa | **58151** | 60872 |
 | Multiple Continents | **1674** | 2229 |
 
@@ -103,7 +103,7 @@
 | 2013 | **447093** | 473664 |
 | 2020 | **426787** | 446541 |
 | 2012 | **388118** | 410674 |
-| 2021 | **364779** | 381572 |
+| 2021 | **368996** | 386021 |
 | 2011 | **333789** | 355414 |
 | 2010 | **259785** | 277256 |
 | 2009 | **172080** | 183283 |
@@ -119,19 +119,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **3705959** | 3792086 |
-| 2x2x2 Cube | **2068362** | 2122600 |
-| Pyraminx | **1255942** | 1290885 |
-| 4x4x4 Cube | **1115928** | 1160637 |
-| 3x3x3 One-Handed | **1071758** | 1109205 |
-| Skewb | **733425** | 754686 |
-| 5x5x5 Cube | **565948** | 584105 |
-| Megaminx | **309272** | 323690 |
-| Square-1 | **282124** | 295687 |
-| Clock | **171363** | 200107 |
+| 3x3x3 Cube | **3706982** | 3793121 |
+| 2x2x2 Cube | **2069134** | 2123390 |
+| Pyraminx | **1256447** | 1291400 |
+| 4x4x4 Cube | **1116371** | 1161090 |
+| 3x3x3 One-Handed | **1072111** | 1109567 |
+| Skewb | **733840** | 755114 |
+| 5x5x5 Cube | **566124** | 584289 |
+| Megaminx | **309386** | 323805 |
+| Square-1 | **282379** | 295947 |
+| Clock | **171436** | 200196 |
 | 6x6x6 Cube | **113114** | 117681 |
 | 7x7x7 Cube | **94555** | 98789 |
-| 3x3x3 Blindfolded | **82890** | 234679 |
+| 3x3x3 Blindfolded | **82978** | 234897 |
 | Magic | **78268** | 86498 |
 | 3x3x3 Fewest Moves | **52829** | 75871 |
 | 3x3x3 With Feet | **51903** | 56672 |

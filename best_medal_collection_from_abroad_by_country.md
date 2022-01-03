@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on  2 January 2022*
+*Computed on  3 January 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -12,7 +12,7 @@
 | France | **646** | 553 | 462 | 1661 |
 | Russia | **526** | 364 | 298 | 1188 |
 | Poland | **332** | 228 | 166 | 726 |
-| China | **321** | 287 | 256 | 864 |
+| China | **322** | 287 | 256 | 865 |
 | Malaysia | **319** | 298 | 269 | 886 |
 | Canada | **300** | 311 | 334 | 945 |
 | United Kingdom | **295** | 322 | 334 | 951 |
@@ -61,7 +61,7 @@
 | Mongolia | **19** | 18 | 14 | 51 |
 | New Zealand | **18** | 52 | 39 | 109 |
 | Costa Rica | **18** | 17 | 18 | 53 |
-| El Salvador | **15** | 17 | 13 | 45 |
+| El Salvador | **16** | 17 | 13 | 46 |
 | South Africa | **15** | 16 | 35 | 66 |
 | Kosovo | **15** | 16 | 19 | 50 |
 | Estonia | **14** | 17 | 19 | 50 |

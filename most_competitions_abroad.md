@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Computed on  2 January 2022*
+*Computed on  3 January 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -79,8 +79,8 @@
 | 43 | [Pauline Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 43 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 43 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
-| 42 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 42 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
+| 42 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 42 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 42 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 41 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) |

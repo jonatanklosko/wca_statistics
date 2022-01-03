@@ -1,13 +1,13 @@
 ## Competition days count by region
 
-*Computed on  2 January 2022*
+*Computed on  3 January 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 7562 |
+| 1.49 | World | 7565 |
 
 ### Continents
 
@@ -17,7 +17,7 @@
 | 1.59 | South America | 854 |
 | 1.46 | Oceania | 279 |
 | 1.41 | Asia | 1996 |
-| 1.21 | North America | 1922 |
+| 1.21 | North America | 1925 |
 | 1.16 | Africa | 81 |
 
 ### Countries
@@ -111,7 +111,7 @@
 | 1.17 | Andorra | 6 |
 | 1.17 | Panama | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | United States | 1533 |
+| 1.16 | United States | 1536 |
 | 1.16 | El Salvador | 19 |
 | 1.15 | Canada | 190 |
 | 1.10 | Azerbaijan | 31 |

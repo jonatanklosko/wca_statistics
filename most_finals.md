@@ -1,6 +1,6 @@
 ## Most finals
 
-*Computed on  2 January 2022*
+*Computed on  3 January 2022*
 
 | Finals | Person |
 | ---: | :--- |
@@ -22,8 +22,8 @@
 | 1065 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 1064 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1037 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
+| 972 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 969 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
-| 965 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 961 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 961 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 960 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
@@ -36,7 +36,7 @@
 | 888 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 872 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 864 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
-| 854 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 857 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 848 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 840 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 818 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
@@ -86,8 +86,8 @@
 | 609 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 609 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
 | 608 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
+| 605 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 604 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 601 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 598 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 595 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 590 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |

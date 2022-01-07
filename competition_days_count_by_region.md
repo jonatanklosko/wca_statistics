@@ -1,6 +1,6 @@
 ## Competition days count by region
 
-*Computed on  6 January 2022*
+*Computed on  7 January 2022*
 
 
 ### World

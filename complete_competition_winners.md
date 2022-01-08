@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Computed on  7 January 2022*
+*Computed on  8 January 2022*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |

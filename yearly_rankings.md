@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Computed on 16 January 2022*
+*Computed on 17 January 2022*
 
 
 

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Computed on 17 January 2022*
+*Computed on 18 January 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -239,6 +239,7 @@
 | 1 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1 | [Shuang Chen (陈霜)](https://www.worldcubeassociation.org/persons/2008CHEN27) |
 | 1 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) |
+| 1 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 1 | [Suen Ming Chi (孫銘志)](https://www.worldcubeassociation.org/persons/2017CHIS02) |
 | 1 | [Sunil Pedapudi](https://www.worldcubeassociation.org/persons/2004PEDA01) |
 | 1 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |

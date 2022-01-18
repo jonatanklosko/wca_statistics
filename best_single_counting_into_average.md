@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 17 January 2022*
+*Computed on 18 January 2022*
 
 
 ### Rubik's Cube
@@ -73,10 +73,10 @@
 | 8.74 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Lyttelton Spring 2021](https://www.worldcubeassociation.org/competitions/LytteltonSpring2021/results/by_person#2019RAMO05) |
 | 8.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Berkeley Summer 2018](https://www.worldcubeassociation.org/competitions/BerkeleySummer2018/results/by_person#2012PARK03) |
 | 8.82 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Missoula 2021](https://www.worldcubeassociation.org/competitions/Missoula2021/results/by_person#2012PARK03) |
+| 8.87 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022/results/by_person#2017GARR05) |
 | 8.93 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Summer 2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019/results/by_person#2012PARK03) |
 | 8.96 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [WCCT Fresno 2018](https://www.worldcubeassociation.org/competitions/WCCTFresno2018/results/by_person#2009ZEMD01) |
 | 8.96 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) | [Selangor Cube Open 2019](https://www.worldcubeassociation.org/competitions/SelangorCubeOpen2019/results/by_person#2017YANG59) |
-| 8.97 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [WCCT Reno 2018](https://www.worldcubeassociation.org/competitions/WCCTReno2018/results/by_person#2012PARK03) |
 
 ### Megaminx
 
@@ -101,12 +101,12 @@
 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
 | 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
 | 1.53 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2015GORN01) |
+| 1.55 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/by_person#2015KAME02) |
 | 1.55 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | [Ural Autumn 2021](https://www.worldcubeassociation.org/competitions/UralAutumn2021/results/by_person#2017MESY01) |
 | 1.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020/results/by_person#2016KOLA02) |
+| 1.59 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/by_person#2016KELL12) |
 | 1.60 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021/results/by_person#2016KOLA02) |
 | 1.61 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) | [SSL Final Stockholm 2019](https://www.worldcubeassociation.org/competitions/SSLFinalStockholm2019/results/by_person#2016THOR08) |
-| 1.62 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018/results/by_person#2016KOLA02) |
-| 1.63 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/by_person#2015KAME02) |
 
 ### Rubik's Clock
 
@@ -127,6 +127,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 1.43 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022/results/by_person#2018KHAN28) |
 | 1.61 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Sioux Falls Winter 2021](https://www.worldcubeassociation.org/competitions/SiouxFallsWinter2021/results/by_person#2015KUCA01) |
 | 1.66 | [Mykhailo Lagoida (Михайло Лагойда)](https://www.worldcubeassociation.org/persons/2016LAGO04) | [Frankivsk Open 2019](https://www.worldcubeassociation.org/competitions/FrankivskOpen2019/results/by_person#2016LAGO04) |
 | 1.67 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Project Będzin 2019](https://www.worldcubeassociation.org/competitions/ProjectBedzin2019/results/by_person#2013BURL01) |
@@ -135,8 +136,7 @@
 | 1.73 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Cubetcha A 2021](https://www.worldcubeassociation.org/competitions/CubetchaA2021/results/by_person#2015KUCA01) |
 | 1.79 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Sioux Falls Winter 2021](https://www.worldcubeassociation.org/competitions/SiouxFallsWinter2021/results/by_person#2015KUCA01) |
 | 1.80 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018/results/by_person#2013BURL01) |
-| 1.80 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Finnish Championship 2021](https://www.worldcubeassociation.org/competitions/FinnishChampionship2021/results/by_person#2018KHAN28) |
-| 1.82 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Wrocław Open 2019](https://www.worldcubeassociation.org/competitions/WroclawOpen2019/results/by_person#2013BURL01) |
+| 1.80 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/by_person#2016KELL12) |
 
 ### Square-1
 

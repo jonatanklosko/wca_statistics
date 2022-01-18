@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on 17 January 2022*
+*Computed on 18 January 2022*
 
 
 ### Rubik's Cube
@@ -158,16 +158,16 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.18 | **2.44** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 4 |
+| [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.50 | **2.48** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 5 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.33 | **2.52** | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/all#epyram_f) | 4 |
+| [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 0.98 | **2.56** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 6 |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 2.32 | **2.56** | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021/results/all#epyram_f) | 4 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 2.29 | **2.64** | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/all#epyram_f) | 4 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 2.51 | **2.64** | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/all#epyram_f) | 4 |
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.99 | **2.67** | [Flag City Fall 2019](https://www.worldcubeassociation.org/competitions/FlagCityFall2019/results/all#epyram_f) | 4 |
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 2.20 | **2.68** | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021/results/all#epyram_f) | 4 |
 | [Kevin Min](https://www.worldcubeassociation.org/persons/2015MINK04) | 1.73 | **2.70** | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/all#epyram_f) | 4 |
-| [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 2.47 | **2.71** | [Liberty Science Center Open 2019](https://www.worldcubeassociation.org/competitions/LibertyScienceCenterOpen2019/results/all#epyram_f) | 4 |
-| [Marko Striyeshyn](https://www.worldcubeassociation.org/persons/2014STRI01) | 2.49 | **2.71** | [Speed Days Kielce 2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKielce2017/results/all#epyram_f) | 4 |
-| [Daniel Porter](https://www.worldcubeassociation.org/persons/2017PORT04) | 2.02 | **2.72** | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/all#epyram_f) | 5 |
 
 ### Rubik's Clock
 
@@ -192,12 +192,12 @@
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 2.15 | **3.15** | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018/results/all#eskewb_f) | 4 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 2.44 | **3.16** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#eskewb_f) | 4 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 2.71 | **3.20** | [Polish Championship 2019](https://www.worldcubeassociation.org/competitions/PolishChampionship2019/results/all#eskewb_f) | 4 |
+| [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 2.30 | **3.22** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#eskewb_f) | 4 |
 | [Eduardo Antonio Lara Martínez](https://www.worldcubeassociation.org/persons/2016MART09) | 2.82 | **3.22** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#eskewb_f) | 5 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 2.54 | **3.25** | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eskewb_f) | 4 |
 | [Zongyang Li (李宗阳)](https://www.worldcubeassociation.org/persons/2013LIZO01) | 2.68 | **3.26** | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#eskewb_f) | 5 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 2.47 | **3.29** | [Great Lakes Championship 2019](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2019/results/all#eskewb_f) | 4 |
 | [Rui Ma (马睿)](https://www.worldcubeassociation.org/persons/2017MARU05) | 3.15 | **3.31** | [Guangzhou Panyu Afternoon 2021](https://www.worldcubeassociation.org/competitions/GuangzhouPanyuAfternoon2021/results/all#eskewb_f) | 4 |
-| [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 1.91 | **3.33** | [Skewbadelphia Winter 2020](https://www.worldcubeassociation.org/competitions/SkewbadelphiaWinter2020/results/all#eskewb_f) | 4 |
 
 ### Square-1
 

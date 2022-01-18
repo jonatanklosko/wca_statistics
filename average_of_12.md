@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 17 January 2022*
+*Computed on 18 January 2022*
 
 
 ### Rubik's Cube
@@ -158,6 +158,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 1.99 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.35, 2.19, 1.78, 2.52, 2.32, 1.98, 3.86, 1.74, 1.98, 1.69, 2.40, 1.18 |
 | 1.99 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 2.17, 1.69, 2.24, 2.06, 2.82, 1.85, 1.66, 2.86, 1.87, 1.65, 1.97, 1.50 |
 | 2.12 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.27, 1.45, 2.01, 2.29, 2.54, 2.64, 2.52, 1.17, 3.99, 1.39, 1.80, 2.33 |
 | 2.13 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 2.04, 2.46, 1.92, 2.85, DNF, 1.27, 1.84, 2.51, 1.15, 2.07, 2.08, 2.30 |
@@ -166,8 +167,7 @@
 | 2.20 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.73, 2.31, 2.55, 2.68, 1.84, 2.48, 1.95, 2.60, DNF, 1.55, 1.89, 2.05 |
 | 2.23 | [John Gaynor](https://www.worldcubeassociation.org/persons/2017GAYN01) | 1.76, 2.66, 1.75, 2.28, 4.18, 2.41, 2.12, 2.23, 2.64, 2.17, 2.05, 2.03 |
 | 2.26 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | 2.12, 2.85, 2.60, 2.49, 1.52, 1.70, 2.26, 3.21, 2.17, 2.24, 2.53, 1.71 |
-| 2.27 | [Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | 2.05, 1.87, 2.25, 2.26, 3.33, 2.73, 2.11, 2.31, 2.47, 1.92, 2.39, 2.22 |
-| 2.28 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 2.19, 1.68, 2.73, 2.42, 2.26, 2.12, 2.15, 3.35, 2.08, 2.77, 1.30, 2.42 |
+| 2.26 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 1.68, 1.29, 3.85, 4.15, 2.83, 2.38, 1.90, 1.95, 2.55, 2.19, 1.76, 1.54 |
 
 ### Rubik's Clock
 

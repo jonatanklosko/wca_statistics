@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Computed on 17 January 2022*
+*Computed on 18 January 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -558,6 +558,7 @@
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Kvissel Fall 2017](https://www.worldcubeassociation.org/competitions/KvisselFall2017/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Royal Corner Twist 2018](https://www.worldcubeassociation.org/competitions/RoyalCornerTwist2018/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019/results/podiums) |
+| 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [DSF Generalforsamlingen 2022](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2022/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [SSL 1 Jönköping 2017](https://www.worldcubeassociation.org/competitions/SSL1Jonkoping2017/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Tårnby Cube Træf 2018](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2018/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Open 2018](https://www.worldcubeassociation.org/competitions/DanishOpen2018/results/podiums) |
@@ -813,6 +814,7 @@
 | 10 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Indiana 2019](https://www.worldcubeassociation.org/competitions/Indiana2019/results/podiums) |
 | 11 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [WA State Championship 2021](https://www.worldcubeassociation.org/competitions/WAStateChampionship2021/results/podiums) |
 | 10 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [Darwin Open 2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019/results/podiums) |
+| 10 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Adelaide Summer 2022](https://www.worldcubeassociation.org/competitions/AdelaideSummer2022/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021/results/podiums) |
 | 11 | [Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02) | [Sandnes Open 2017](https://www.worldcubeassociation.org/competitions/SandnesOpen2017/results/podiums) |
@@ -821,6 +823,7 @@
 | 10 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020/results/podiums) |
 | 15 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [TAS State Championship 2021](https://www.worldcubeassociation.org/competitions/TASStateChampionship2021/results/podiums) |
 | 11 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Hobart Hoedown 2019](https://www.worldcubeassociation.org/competitions/HobartHoedown2019/results/podiums) |
+| 10 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Summer - Sorell 2022](https://www.worldcubeassociation.org/competitions/Sorell2022/results/podiums) |
 | 10 | [Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01) | [Pönde Open 2019](https://www.worldcubeassociation.org/competitions/PondeOpen2019/results/podiums) |
 | 10 | [Marcos Masini](https://www.worldcubeassociation.org/persons/2016MASI01) | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018/results/podiums) |
 | 11 | [Andrey da Conceição Santos](https://www.worldcubeassociation.org/persons/2016SANT03) | [Cariri Open 2016](https://www.worldcubeassociation.org/competitions/CaririOpen2016/results/podiums) |

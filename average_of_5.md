@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 17 January 2022*
+*Computed on 18 January 2022*
 
 
 ### Rubik's Cube
@@ -160,14 +160,14 @@
 | ---: | :--- | :--- |
 | 1.72 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.27, 1.84, 2.51, 1.15, 2.07 |
 | 1.76 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 1.91, 1.62, 1.67, 5.49, 1.71 |
+| 1.78 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | DNF, 1.24, 1.67, 1.59, 2.10 |
 | 1.79 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.85, 1.66, 2.86, 1.87, 1.65 |
+| 1.80 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.74, 1.98, 1.69, 2.40, 1.18 |
 | 1.84 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.17, 3.99, 1.39, 1.80, 2.33 |
 | 1.85 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | 1.83, 1.55, 1.54, 4.00, 2.17 |
-| 1.87 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 5.04, 1.76, 1.86, 2.01, 1.68 |
 | 1.91 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.83, 1.77, 3.06, 2.14, 1.68 |
 | 1.93 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.84, 1.87, 2.61, 1.47, 2.08 |
 | 1.94 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.89, 1.99, 1.83, 3.54, 1.96 |
-| 1.97 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 2.39, 2.22, 1.93, 1.76, 1.36 |
 
 ### Rubik's Clock
 

@@ -1,18 +1,18 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on 17 January 2022*
+*Computed on 18 January 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| Hungary | **1256** | 1022 | 876 | 3154 |
-| Germany | **719** | 693 | 699 | 2111 |
+| Hungary | **1258** | 1022 | 876 | 3156 |
+| Germany | **719** | 694 | 699 | 2112 |
 | Netherlands | **715** | 593 | 485 | 1793 |
-| United States | **680** | 559 | 479 | 1718 |
-| France | **646** | 553 | 462 | 1661 |
+| United States | **680** | 560 | 479 | 1719 |
+| France | **652** | 555 | 463 | 1670 |
 | Russia | **526** | 364 | 298 | 1188 |
 | Poland | **332** | 228 | 166 | 726 |
-| China | **322** | 287 | 256 | 865 |
+| China | **323** | 288 | 256 | 867 |
 | Malaysia | **319** | 298 | 269 | 886 |
 | Canada | **300** | 311 | 334 | 945 |
 | United Kingdom | **295** | 322 | 334 | 951 |
@@ -34,11 +34,11 @@
 | Indonesia | **128** | 117 | 101 | 346 |
 | Slovenia | **118** | 145 | 142 | 405 |
 | Greece | **117** | 139 | 99 | 355 |
-| Belgium | **116** | 175 | 157 | 448 |
+| Belgium | **116** | 175 | 158 | 449 |
 | Colombia | **116** | 74 | 78 | 268 |
 | Singapore | **107** | 115 | 120 | 342 |
 | Belarus | **106** | 63 | 72 | 241 |
-| Austria | **100** | 149 | 166 | 415 |
+| Austria | **100** | 151 | 167 | 418 |
 | Latvia | **88** | 133 | 123 | 344 |
 | Czech Republic | **85** | 100 | 108 | 293 |
 | Kazakhstan | **82** | 75 | 68 | 225 |
@@ -51,7 +51,7 @@
 | Guatemala | **41** | 28 | 32 | 101 |
 | Norway | **33** | 36 | 50 | 119 |
 | Croatia | **28** | 51 | 38 | 117 |
-| Vietnam | **28** | 40 | 41 | 109 |
+| Vietnam | **28** | 40 | 42 | 110 |
 | Chile | **27** | 20 | 17 | 64 |
 | Brazil | **25** | 30 | 16 | 71 |
 | Uzbekistan | **25** | 21 | 22 | 68 |
@@ -59,7 +59,7 @@
 | Portugal | **21** | 18 | 17 | 56 |
 | Venezuela | **20** | 23 | 21 | 64 |
 | Mongolia | **19** | 18 | 14 | 51 |
-| New Zealand | **18** | 52 | 39 | 109 |
+| New Zealand | **18** | 53 | 39 | 110 |
 | Costa Rica | **18** | 17 | 18 | 53 |
 | El Salvador | **16** | 17 | 13 | 46 |
 | South Africa | **15** | 16 | 35 | 66 |

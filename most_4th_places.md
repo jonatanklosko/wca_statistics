@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Computed on 21 January 2022*
+*Computed on 22 January 2022*
 
 | 4th places | Person |
 | ---: | :--- |

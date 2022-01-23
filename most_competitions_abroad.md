@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Computed on 22 January 2022*
+*Computed on 23 January 2022*
 
 | Competitions | Person |
 | ---: | :--- |

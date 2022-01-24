@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Computed on 23 January 2022*
+*Computed on 24 January 2022*
 
 
 ### Rubik's Cube
@@ -42,12 +42,12 @@
 | 0.06 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | 47.44 | 47.50 | [Cali Cube 2018](https://www.worldcubeassociation.org/competitions/CaliCube2018/results/by_person#2011EDUA01) |
 | 0.09 | [Geovanny Cueva](https://www.worldcubeassociation.org/persons/2018CUEV01) | 44.94 | 45.03 | [Guayaquil Championship 2018](https://www.worldcubeassociation.org/competitions/GuayaquilChampionship2018/results/by_person#2018CUEV01) |
 | 0.11 | [Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01) | 35.14 | 35.25 | [Helsinki Open 2020](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2020/results/by_person#2016LAUR01) |
+| 0.12 | [Zachary Garber](https://www.worldcubeassociation.org/persons/2014GARB01) | 56.38 | 56.50 | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2014GARB01) |
 | 0.12 | [Nick Young](https://www.worldcubeassociation.org/persons/2006YOUN03) | 1:26.34 | 1:26.46 | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2006YOUN03) |
 | 0.13 | [Sheng Cao (曹晟)](https://www.worldcubeassociation.org/persons/2011CAOS01) | 31.56 | 31.69 | [Shenyang Summer 2018](https://www.worldcubeassociation.org/competitions/ShenyangSummer2018/results/by_person#2011CAOS01) |
 | 0.15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 26.22 | 26.37 | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020/results/by_person#2012BEAH01) |
 | 0.15 | [Jun-Hao Hu (胡峻豪)](https://www.worldcubeassociation.org/persons/2017HUJU01) | 37.64 | 37.79 | [Taiwan Championship 2018](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2018/results/by_person#2017HUJU01) |
 | 0.15 | [Darya Belonogova](https://www.worldcubeassociation.org/persons/2017BELO05) | 43.50 | 43.65 | [Eka Cube Days 2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019/results/by_person#2017BELO05) |
-| 0.15 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | 45.16 | 45.31 | [Fuenlabrada Open 2017](https://www.worldcubeassociation.org/competitions/FuenlabradaOpen2017/results/by_person#2008PIAU01) |
 
 ### 5x5x5 Cube
 
@@ -136,8 +136,8 @@
 | 0.16 | [Zaiyang Zhang (张在旸)](https://www.worldcubeassociation.org/persons/2017ZHAZ09) | 1:24.57 | 1:24.73 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2017ZHAZ09) |
 | 0.17 | [Jiahe Dai (戴嘉禾)](https://www.worldcubeassociation.org/persons/2016DAIJ01) | 58.10 | 58.27 | [Xi'an 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Xian10thAnniversary2019/results/by_person#2016DAIJ01) |
 | 0.18 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 2:29.36 | 2:29.54 | [BW Open 2012](https://www.worldcubeassociation.org/competitions/BWOpen2012/results/by_person#2010DEIM01) |
+| 0.19 | [Brandon Harris](https://www.worldcubeassociation.org/persons/2018HARR12) | 42.42 | 42.61 | [Popping Off Pukekohe A 2022](https://www.worldcubeassociation.org/competitions/PoppingOffPukekoheA2022/results/by_person#2018HARR12) |
 | 0.19 | [Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01) | 1:22.86 | 1:23.05 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/by_person#2015PADG01) |
-| 0.20 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 37.47 | 37.67 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2013HUAN30) |
 
 ### Pyraminx
 

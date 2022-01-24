@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Computed on 23 January 2022*
+*Computed on 24 January 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 7591 |
+| 1.49 | World | 7599 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2437 |
-| 1.59 | South America | 860 |
-| 1.46 | Oceania | 281 |
-| 1.41 | Asia | 1998 |
-| 1.21 | North America | 1934 |
+| 1.77 | Europe | 2441 |
+| 1.59 | South America | 861 |
+| 1.46 | Oceania | 282 |
+| 1.41 | Asia | 1999 |
+| 1.21 | North America | 1935 |
 | 1.16 | Africa | 81 |
 
 ### Countries
@@ -32,7 +32,7 @@
 | 2.00 | Lithuania | 13 |
 | 2.00 | Nigeria | 1 |
 | 2.00 | Palestine | 1 |
-| 1.99 | United Kingdom | 96 |
+| 1.98 | United Kingdom | 98 |
 | 1.95 | Germany | 155 |
 | 1.95 | Slovakia | 22 |
 | 1.94 | Belgium | 51 |
@@ -53,24 +53,24 @@
 | 1.81 | Switzerland | 75 |
 | 1.80 | Ireland | 15 |
 | 1.80 | San Marino | 5 |
-| 1.79 | Guatemala | 42 |
 | 1.78 | Denmark | 92 |
 | 1.77 | Norway | 61 |
+| 1.77 | Guatemala | 43 |
 | 1.76 | Slovenia | 21 |
 | 1.75 | Sweden | 109 |
 | 1.75 | North Macedonia | 4 |
 | 1.71 | Bangladesh | 7 |
-| 1.67 | Iran | 30 |
 | 1.67 | Kyrgyzstan | 3 |
 | 1.67 | Montenegro | 3 |
 | 1.65 | Netherlands | 88 |
 | 1.65 | Argentina | 48 |
+| 1.65 | Iran | 31 |
 | 1.64 | Indonesia | 161 |
+| 1.63 | Poland | 277 |
 | 1.63 | India | 376 |
-| 1.63 | Poland | 276 |
 | 1.62 | Iceland | 8 |
 | 1.60 | Costa Rica | 10 |
-| 1.59 | Colombia | 113 |
+| 1.60 | Colombia | 114 |
 | 1.58 | Singapore | 19 |
 | 1.57 | Bolivia | 67 |
 | 1.55 | Malaysia | 53 |
@@ -79,9 +79,9 @@
 | 1.50 | Ghana | 2 |
 | 1.50 | Luxembourg | 2 |
 | 1.50 | Tajikistan | 2 |
+| 1.48 | New Zealand | 64 |
+| 1.48 | Italy | 138 |
 | 1.48 | Romania | 67 |
-| 1.48 | New Zealand | 63 |
-| 1.47 | Italy | 137 |
 | 1.46 | Peru | 139 |
 | 1.45 | Australia | 218 |
 | 1.43 | Israel | 14 |

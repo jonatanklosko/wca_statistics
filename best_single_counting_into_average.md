@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 23 January 2022*
+*Computed on 24 January 2022*
 
 
 ### Rubik's Cube
@@ -8,15 +8,15 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 4.74 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Dragon Cubing 2021](https://www.worldcubeassociation.org/competitions/DragonCubing2021/results/by_person#2016KOLA02) |
+| 4.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
 | 4.83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021/results/by_person#2016KOLA02) |
 | 4.92 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Cube for Cambodia 2018](https://www.worldcubeassociation.org/competitions/CubeforCambodia2018/results/by_person#2009ZEMD01) |
 | 4.92 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | [BCCC A 2021](https://www.worldcubeassociation.org/competitions/BCCubingComebackA2021/results/by_person#2016INAB01) |
 | 4.99 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Odd Day in Sydney 2019](https://www.worldcubeassociation.org/competitions/OddDayinSydney2019/results/by_person#2009ZEMD01) |
+| 5.01 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
 | 5.02 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2012PARK03) |
 | 5.04 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Odd Day in Sydney 2019](https://www.worldcubeassociation.org/competitions/OddDayinSydney2019/results/by_person#2009ZEMD01) |
 | 5.06 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/by_person#2016KOLA02) |
-| 5.09 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017XURU04) |
-| 5.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Missoula 2021](https://www.worldcubeassociation.org/competitions/Missoula2021/results/by_person#2012PARK03) |
 
 ### 2x2x2 Cube
 
@@ -37,6 +37,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 18.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
 | 19.67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2012PARK03) |
 | 19.74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012PARK03) |
 | 19.81 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018/results/by_person#2012PARK03) |
@@ -46,7 +47,6 @@
 | 20.06 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Manchester Open 2018](https://www.worldcubeassociation.org/competitions/ManchesterOpen2018/results/by_person#2010WEYE02) |
 | 20.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Missoula 2021](https://www.worldcubeassociation.org/competitions/Missoula2021/results/by_person#2012PARK03) |
 | 20.26 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Athens SNFestival Cubing 2019](https://www.worldcubeassociation.org/competitions/AthensSNFestivalCubing2019/results/by_person#2010WEYE02) |
-| 20.31 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 21 2019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin212019/results/by_person#2012PARK03) |
 
 ### 5x5x5 Cube
 
@@ -56,12 +56,12 @@
 | 38.36 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2012PARK03) |
 | 38.60 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012PARK03) |
 | 38.60 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020/results/by_person#2012PARK03) |
+| 38.89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
 | 38.97 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/by_person#2016KOLA02) |
 | 39.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Summer 2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019/results/by_person#2012PARK03) |
 | 39.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2016KOLA02) |
 | 39.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021/results/by_person#2016KOLA02) |
-| 39.45 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2012PARK03) |
-| 39.56 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2012PARK03) |
+| 39.37 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 
@@ -85,13 +85,13 @@
 | 29.42 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2013HUAN30) |
 | 29.97 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Wuxi Open 2019](https://www.worldcubeassociation.org/competitions/WuxiOpen2019/results/by_person#2013HUAN30) |
 | 30.12 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Wuxi Open 2019](https://www.worldcubeassociation.org/competitions/WuxiOpen2019/results/by_person#2013HUAN30) |
+| 30.54 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Empire State Winter A 2022](https://www.worldcubeassociation.org/competitions/EmpireStateWinterA2022/results/by_person#2015NAIN01) |
 | 30.55 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Comas Speedsolving 2019](https://www.worldcubeassociation.org/competitions/ComasSpeedsolving2019/results/by_person#2013HUAN30) |
 | 30.63 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | [Helsinki Open 2020](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2020/results/by_person#2014NORD02) |
 | 30.67 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2013HUAN30) |
 | 30.89 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018/results/by_person#2008YUDA01) |
 | 30.94 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | [CWR Winter 2018](https://www.worldcubeassociation.org/competitions/CWRWinter2018/results/by_person#2008YUDA01) |
 | 30.96 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Argentina ReOpen 2021](https://www.worldcubeassociation.org/competitions/ArgentinaReOpen2021/results/by_person#2018LOPE22) |
-| 31.07 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Wuxi Open 2019](https://www.worldcubeassociation.org/competitions/WuxiOpen2019/results/by_person#2013HUAN30) |
 
 ### Pyraminx
 
@@ -129,6 +129,7 @@
 | ---: | :--- | :--- |
 | 1.43 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022/results/by_person#2018KHAN28) |
 | 1.61 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Sioux Falls Winter 2021](https://www.worldcubeassociation.org/competitions/SiouxFallsWinter2021/results/by_person#2015KUCA01) |
+| 1.63 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | [Taiwan Open 2022](https://www.worldcubeassociation.org/competitions/TaiwanOpen2022/results/by_person#2019YANG94) |
 | 1.66 | [Mykhailo Lagoida (Михайло Лагойда)](https://www.worldcubeassociation.org/persons/2016LAGO04) | [Frankivsk Open 2019](https://www.worldcubeassociation.org/competitions/FrankivskOpen2019/results/by_person#2016LAGO04) |
 | 1.67 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Project Będzin 2019](https://www.worldcubeassociation.org/competitions/ProjectBedzin2019/results/by_person#2013BURL01) |
 | 1.71 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017/results/by_person#2013BURL01) |
@@ -136,7 +137,6 @@
 | 1.73 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Cubetcha A 2021](https://www.worldcubeassociation.org/competitions/CubetchaA2021/results/by_person#2015KUCA01) |
 | 1.79 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Sioux Falls Winter 2021](https://www.worldcubeassociation.org/competitions/SiouxFallsWinter2021/results/by_person#2015KUCA01) |
 | 1.80 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018/results/by_person#2013BURL01) |
-| 1.80 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/by_person#2016KELL12) |
 
 ### Square-1
 

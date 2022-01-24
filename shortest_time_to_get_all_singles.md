@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Computed on 23 January 2022*
+*Computed on 24 January 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -252,6 +252,7 @@
 | 3276 | [James Markey Jr.](https://www.worldcubeassociation.org/persons/2009MARK03) |
 | 3333 | [Gerson Natanael](https://www.worldcubeassociation.org/persons/2010NATA01) |
 | 3339 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
+| 3429 | [Zi-Xian Liao (廖子賢)](https://www.worldcubeassociation.org/persons/2012LIAO03) |
 | 3527 | [Jonathan Tan Wei Xiat](https://www.worldcubeassociation.org/persons/2009XIAT02) |
 | 3534 | [Manfred Siew Ee Sheng (蕭奕晟)](https://www.worldcubeassociation.org/persons/2009SIEW03) |
 | 3605 | [Tamara Macadam](https://www.worldcubeassociation.org/persons/2010MACA01) |

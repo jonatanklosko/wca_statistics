@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Computed on 23 January 2022*
+*Computed on 24 January 2022*
 
 | Countries | Person |
 | ---: | :--- |
@@ -37,6 +37,7 @@
 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
+| 18 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
 | 18 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
@@ -44,7 +45,6 @@
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 17 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 17 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
-| 17 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 17 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 17 | [Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 17 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |

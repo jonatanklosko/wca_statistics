@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Computed on 23 January 2022*
+*Computed on 24 January 2022*
 
 
 ### Rubik's Cube - Single
@@ -99,8 +99,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | **43.34** | Japan | [JRCA Kansai Winter 2019](https://www.worldcubeassociation.org/competitions/JRCAKansaiWinter2019) | 58.86, 44.04, 1:00.13, 43.34, 58.25 |
+| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **47.36** | United States | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022) | 58.53, 47.36, 53.22, 55.53, 52.62 |
 | [Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01) | **49.37** | Mongolia | [Umnugovi Autumn 2018](https://www.worldcubeassociation.org/competitions/UmnugoviAutumn2018) | 59.65, 1:05.30, 1:04.10, 1:03.80, 49.37 |
-| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **50.15** | United States | [Florida Fall 2021](https://www.worldcubeassociation.org/competitions/FloridaFall2021) | 50.15, 1:05.91, 53.10, 1:02.83, 56.26 |
 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | **50.50** | United States | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) | 54.22, 1:00.41, 57.78, 57.49, 50.50 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **50.73** | United States | [Pittsburgh Spring 2019](https://www.worldcubeassociation.org/competitions/PittsburghSpring2019) | 50.73, 1:04.56, 59.12, 1:04.56, 58.46 |
 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | **51.10** | United States | [Cubetcha A 2021](https://www.worldcubeassociation.org/competitions/CubetchaA2021) | 52.15, 52.07, 57.68, 51.10, 1:07.84 |
@@ -114,9 +114,9 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | **52.43** | Japan | [Japan Championship 2018](https://www.worldcubeassociation.org/competitions/JapanChampionship2018) | 56.12, 48.78, 50.97, 54.23, 52.10 |
+| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **53.79** | United States | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022) | 58.53, 47.36, 53.22, 55.53, 52.62 |
 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | **53.97** | United States | [Cubetcha A 2021](https://www.worldcubeassociation.org/competitions/CubetchaA2021) | 52.15, 52.07, 57.68, 51.10, 1:07.84 |
-| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **56.20** | United States | [Florida Fall 2021](https://www.worldcubeassociation.org/competitions/FloridaFall2021) | 57.93, 52.83, 57.83, 50.56, 1:11.32 |
-| [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | **56.36** | United States | [Dallas Warm Up 2019](https://www.worldcubeassociation.org/competitions/DallasWarmUp2019) | 1:00.50, 55.18, 56.95, 56.58, 55.54 |
+| [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | **54.54** | United States | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022) | 55.78, 51.92, 55.16, 1:00.83, 52.69 |
 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | **57.59** | United States | [Bala Big and Blind 2019](https://www.worldcubeassociation.org/competitions/BalaBigandBlind2019) | 59.51, 59.56, 52.97, 57.29, 55.98 |
 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) | **58.17** | United States | [Florida Winter Break 2019](https://www.worldcubeassociation.org/competitions/FloridaWinterBreak2019) | 57.56, 56.19, 58.35, 59.88, 58.61 |
 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) | **58.57** | Japan | [Kyoto Open 2019](https://www.worldcubeassociation.org/competitions/KyotoOpen2019) | 57.84, 58.19, 59.67, 58.86, 58.67 |
@@ -151,7 +151,7 @@
 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) | **1:51.10** | Germany | [Monnem City Cubing 2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019) | 1:50.33, 1:56.40, 1:46.56 |
 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | **1:51.48** | United States | [Western Championship 2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018) | 1:55.65, 1:52.71, 1:46.08 |
 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | **1:51.73** | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) | 1:54.75, 1:49.88, 1:50.56 |
-| [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **1:52.87** | United States | [Minnesota Qualifier 2019](https://www.worldcubeassociation.org/competitions/MinnesotaQualifier2019) | 1:48.28, 1:53.37, 1:56.96 |
+| [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **1:52.66** | United States | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022) | 1:59.17, 1:47.71, 1:51.11 |
 | [Chris Deng](https://www.worldcubeassociation.org/persons/2015DENG08) | **1:53.69** | United States | [DFW NxN Winter 2020](https://www.worldcubeassociation.org/competitions/DFWNxNWinter2020) | 1:52.73, 1:57.12, 1:51.22 |
 
 ### 7x7x7 Cube - Single

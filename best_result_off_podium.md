@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on 23 January 2022*
+*Computed on 24 January 2022*
 
 
 ### Rubik's Cube
@@ -115,6 +115,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22 | **23.67** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 4 |
 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 21 | **24.33** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 5 |
+| [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 22 | **24.67** | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022/results/all#e333fm_f) | 4 |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 24 | **25.33** | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021/results/all#e333fm_f) | 4 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 22 | **25.67** | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021/results/all#e333fm_f) | 5 |
 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 23 | **25.67** | [FMC Asia 2019](https://www.worldcubeassociation.org/competitions/FMCAsia2019/results/all#e333fm_f) | 4 |
@@ -122,7 +123,6 @@
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 21 | **26.00** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 7 |
 | [Andrew Nathenson](https://www.worldcubeassociation.org/persons/2011NATH02) | 23 | **26.00** | [FMC Americas 2019](https://www.worldcubeassociation.org/competitions/FMCAmericas2019/results/all#e333fm_f) | 4 |
 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2017RAFA02) | 23 | **26.00** | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021/results/all#e333fm_f) | 6 |
-| [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | 24 | **26.00** | [FMC Asia 2019](https://www.worldcubeassociation.org/competitions/FMCAsia2019/results/all#e333fm_f) | 5 |
 
 ### 3x3x3 One-Handed
 
@@ -182,7 +182,7 @@
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 5.11 | **6.36** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#eclock_f) | 5 |
 | [Jacob Fanikos](https://www.worldcubeassociation.org/persons/2017FANI01) | 5.69 | **6.40** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eclock_f) | 5 |
 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) | 5.79 | **6.43** | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/all#eclock_f) | 4 |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 5.63 | **6.45** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#eclock_f) | 5 |
+| [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) | 4.99 | **6.45** | [Empire State Winter B 2022](https://www.worldcubeassociation.org/competitions/EmpireStateWinterB2022/results/all#eclock_f) | 4 |
 
 ### Skewb
 

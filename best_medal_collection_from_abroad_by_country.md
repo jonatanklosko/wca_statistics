@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on 26 January 2022*
+*Computed on 27 January 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -9,10 +9,10 @@
 | Germany | **719** | 694 | 699 | 2112 |
 | Netherlands | **715** | 593 | 485 | 1793 |
 | United States | **680** | 560 | 479 | 1719 |
-| France | **652** | 555 | 463 | 1670 |
+| France | **654** | 562 | 466 | 1682 |
 | Russia | **526** | 364 | 298 | 1188 |
 | Poland | **338** | 232 | 167 | 737 |
-| China | **323** | 290 | 257 | 870 |
+| China | **324** | 290 | 258 | 872 |
 | Malaysia | **319** | 298 | 269 | 886 |
 | Canada | **300** | 311 | 334 | 945 |
 | United Kingdom | **295** | 325 | 335 | 955 |
@@ -43,7 +43,7 @@
 | Czech Republic | **85** | 100 | 108 | 293 |
 | Kazakhstan | **82** | 75 | 68 | 225 |
 | Ireland | **82** | 49 | 34 | 165 |
-| Romania | **76** | 74 | 56 | 206 |
+| Romania | **79** | 74 | 57 | 210 |
 | Thailand | **74** | 75 | 35 | 184 |
 | Lithuania | **60** | 70 | 79 | 209 |
 | Philippines | **54** | 66 | 62 | 182 |

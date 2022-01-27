@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Computed on 26 January 2022*
+*Computed on 27 January 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -19,7 +19,6 @@
 | 440 | [Lakshay Modi](https://www.worldcubeassociation.org/persons/2014MODI01) |
 | 441 | [Petr Michovský](https://www.worldcubeassociation.org/persons/2015MICH01) |
 | 503 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) |
-| 518 | [Aaron Spiller](https://www.worldcubeassociation.org/persons/2018SPIL01) |
 | 531 | [M Aashrit Krishna Sankaran](https://www.worldcubeassociation.org/persons/2013MAHE02) |
 | 540 | [Vladimir Korovin](https://www.worldcubeassociation.org/persons/2014KORO02) |
 | 553 | [Preston Duke](https://www.worldcubeassociation.org/persons/2018DUKE01) |
@@ -54,6 +53,7 @@
 | 727 | [Acchyut Jolly](https://www.worldcubeassociation.org/persons/2015JOLL02) |
 | 730 | [Marcos Masini](https://www.worldcubeassociation.org/persons/2016MASI01) |
 | 734 | [Corentin Furet](https://www.worldcubeassociation.org/persons/2014FURE01) |
+| 741 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 748 | [Jēkabs Janovs](https://www.worldcubeassociation.org/persons/2016JANO01) |
 | 763 | [Francis Daniels Veğeris](https://www.worldcubeassociation.org/persons/2017VEGE01) |
 | 784 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) |
@@ -153,6 +153,7 @@
 | 1491 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 1498 | [Jonathan Midjord Shapira](https://www.worldcubeassociation.org/persons/2010SHAP01) |
 | 1498 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
+| 1505 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |
 | 1513 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 1518 | [Juan Camilo Vargas](https://www.worldcubeassociation.org/persons/2011VARG01) |
 | 1519 | [Isaac Langer](https://www.worldcubeassociation.org/persons/2014LANG02) |
@@ -211,6 +212,7 @@
 | 2100 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) |
 | 2101 | [Justin Choi](https://www.worldcubeassociation.org/persons/2013CHOI04) |
 | 2121 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 2134 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) |
 | 2163 | [Robin Deun](https://www.worldcubeassociation.org/persons/2009DEUN01) |
 | 2183 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) |
 | 2183 | [Dániel Kui](https://www.worldcubeassociation.org/persons/2008KUID01) |

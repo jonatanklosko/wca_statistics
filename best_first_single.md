@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Computed on 27 January 2022*
+*Computed on 28 January 2022*
 
 
 ### Rubik's Cube

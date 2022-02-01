@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Computed on 31 January 2022*
+*Computed on  1 February 2022*
 
 
 ### Rubik's Cube

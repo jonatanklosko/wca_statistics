@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Computed on  4 February 2022*
+*Computed on  5 February 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 7599 |
+| 1.49 | World | 7614 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2441 |
-| 1.59 | South America | 861 |
-| 1.46 | Oceania | 282 |
-| 1.41 | Asia | 1999 |
-| 1.21 | North America | 1935 |
+| 1.77 | Europe | 2445 |
+| 1.59 | South America | 863 |
+| 1.46 | Oceania | 285 |
+| 1.41 | Asia | 2000 |
+| 1.21 | North America | 1940 |
 | 1.16 | Africa | 81 |
 
 ### Countries
@@ -44,17 +44,17 @@
 | 1.90 | Serbia | 10 |
 | 1.89 | Uzbekistan | 9 |
 | 1.84 | Ukraine | 91 |
-| 1.84 | France | 200 |
+| 1.83 | France | 201 |
 | 1.83 | Brazil | 298 |
+| 1.82 | Spain | 211 |
 | 1.82 | Austria | 17 |
-| 1.82 | Spain | 209 |
 | 1.82 | Mexico | 84 |
 | 1.81 | Thailand | 27 |
 | 1.81 | Switzerland | 75 |
 | 1.80 | Ireland | 15 |
 | 1.80 | San Marino | 5 |
 | 1.78 | Denmark | 92 |
-| 1.77 | Norway | 61 |
+| 1.77 | Norway | 62 |
 | 1.77 | Guatemala | 43 |
 | 1.76 | Slovenia | 21 |
 | 1.75 | Sweden | 109 |
@@ -67,13 +67,13 @@
 | 1.65 | Iran | 31 |
 | 1.64 | Indonesia | 161 |
 | 1.63 | Poland | 277 |
-| 1.63 | India | 376 |
+| 1.63 | India | 377 |
 | 1.62 | Iceland | 8 |
-| 1.60 | Costa Rica | 10 |
 | 1.60 | Colombia | 114 |
 | 1.58 | Singapore | 19 |
 | 1.57 | Bolivia | 67 |
 | 1.55 | Malaysia | 53 |
+| 1.55 | Costa Rica | 11 |
 | 1.53 | Latvia | 17 |
 | 1.52 | Dominican Republic | 25 |
 | 1.50 | Ghana | 2 |
@@ -82,10 +82,10 @@
 | 1.48 | New Zealand | 64 |
 | 1.48 | Italy | 138 |
 | 1.48 | Romania | 67 |
-| 1.46 | Peru | 139 |
-| 1.45 | Australia | 218 |
+| 1.46 | Peru | 140 |
+| 1.45 | Australia | 221 |
+| 1.44 | Ecuador | 18 |
 | 1.43 | Israel | 14 |
-| 1.41 | Ecuador | 17 |
 | 1.40 | Paraguay | 15 |
 | 1.40 | Philippines | 186 |
 | 1.38 | Hong Kong | 13 |
@@ -111,7 +111,7 @@
 | 1.17 | Andorra | 6 |
 | 1.17 | Panama | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 1544 |
+| 1.16 | United States | 1548 |
 | 1.15 | Canada | 190 |
 | 1.15 | El Salvador | 20 |
 | 1.10 | Azerbaijan | 31 |

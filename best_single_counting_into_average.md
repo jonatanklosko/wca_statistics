@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on  4 February 2022*
+*Computed on  5 February 2022*
 
 
 ### Rubik's Cube
@@ -28,10 +28,10 @@
 | 0.92 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Idaho Summer B 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerB2021/results/by_person#2018KHAN28) |
 | 0.93 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | [Tea Time Spring 2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018/results/by_person#2012CALL01) |
 | 0.93 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018/results/by_person#2013EGDA02) |
+| 0.95 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [GA Cubers Greetings 2022](https://www.worldcubeassociation.org/competitions/GACubersGreetings2022/results/by_person#2018KHAN28) |
 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Swedish Championship 2021](https://www.worldcubeassociation.org/competitions/SwedishChampionship2021/results/by_person#2018KHAN28) |
 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/by_person#2018KHAN28) |
 | 0.98 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Idaho Summer B 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerB2021/results/by_person#2018KHAN28) |
-| 0.98 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Rocky Top 2021](https://www.worldcubeassociation.org/competitions/RockyTop2021/results/by_person#2018KHAN28) |
 
 ### 4x4x4 Cube
 
@@ -71,12 +71,12 @@
 | 8.64 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Turn Around Tassie 2020](https://www.worldcubeassociation.org/competitions/TurnAroundTassie2020/results/by_person#2009ZEMD01) |
 | 8.70 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2019](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2019/results/by_person#2009ZEMD01) |
 | 8.74 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Lyttelton Spring 2021](https://www.worldcubeassociation.org/competitions/LytteltonSpring2021/results/by_person#2019RAMO05) |
+| 8.79 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022/results/by_person#2012PONC02) |
 | 8.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Berkeley Summer 2018](https://www.worldcubeassociation.org/competitions/BerkeleySummer2018/results/by_person#2012PARK03) |
 | 8.82 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Missoula 2021](https://www.worldcubeassociation.org/competitions/Missoula2021/results/by_person#2012PARK03) |
 | 8.87 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022/results/by_person#2017GARR05) |
 | 8.92 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer 2022](https://www.worldcubeassociation.org/competitions/MelbourneSummer2022/results/by_person#2009ZEMD01) |
 | 8.93 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Summer 2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019/results/by_person#2012PARK03) |
-| 8.96 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [WCCT Fresno 2018](https://www.worldcubeassociation.org/competitions/WCCTFresno2018/results/by_person#2009ZEMD01) |
 
 ### Megaminx
 

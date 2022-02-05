@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Computed on  4 February 2022*
+*Computed on  5 February 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -18,7 +18,6 @@
 | 429 | [Gang Yong-Jin](https://www.worldcubeassociation.org/persons/2015YONG02) |
 | 440 | [Lakshay Modi](https://www.worldcubeassociation.org/persons/2014MODI01) |
 | 441 | [Petr Michovský](https://www.worldcubeassociation.org/persons/2015MICH01) |
-| 503 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) |
 | 531 | [M Aashrit Krishna Sankaran](https://www.worldcubeassociation.org/persons/2013MAHE02) |
 | 540 | [Vladimir Korovin](https://www.worldcubeassociation.org/persons/2014KORO02) |
 | 553 | [Preston Duke](https://www.worldcubeassociation.org/persons/2018DUKE01) |

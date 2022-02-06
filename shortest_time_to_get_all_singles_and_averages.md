@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Computed on  5 February 2022*
+*Computed on  6 February 2022*
 
 | Days | Person |
 | ---: | :--- |

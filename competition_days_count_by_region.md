@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Computed on  7 February 2022*
+*Computed on  8 February 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 7614 |
+| 1.49 | World | 7622 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2445 |
+| 1.77 | Europe | 2446 |
 | 1.59 | South America | 863 |
 | 1.46 | Oceania | 285 |
 | 1.41 | Asia | 2000 |
-| 1.21 | North America | 1940 |
-| 1.16 | Africa | 81 |
+| 1.21 | North America | 1946 |
+| 1.16 | Africa | 82 |
 
 ### Countries
 
@@ -66,7 +66,7 @@
 | 1.65 | Argentina | 48 |
 | 1.65 | Iran | 31 |
 | 1.64 | Indonesia | 161 |
-| 1.63 | Poland | 277 |
+| 1.63 | Poland | 278 |
 | 1.63 | India | 377 |
 | 1.62 | Iceland | 8 |
 | 1.60 | Colombia | 114 |
@@ -103,15 +103,15 @@
 | 1.24 | Republic of Korea | 62 |
 | 1.24 | Japan | 195 |
 | 1.23 | United Arab Emirates | 13 |
-| 1.21 | South Africa | 34 |
 | 1.20 | Bahrain | 5 |
 | 1.20 | Portugal | 15 |
+| 1.20 | South Africa | 35 |
 | 1.19 | Uruguay | 32 |
 | 1.18 | Honduras | 11 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Panama | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 1548 |
+| 1.16 | United States | 1554 |
 | 1.15 | Canada | 190 |
 | 1.15 | El Salvador | 20 |
 | 1.10 | Azerbaijan | 31 |

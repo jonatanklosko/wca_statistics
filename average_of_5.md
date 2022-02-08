@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on  7 February 2022*
+*Computed on  8 February 2022*
 
 
 ### Rubik's Cube
@@ -189,15 +189,15 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1.61 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.29, 1.79, 1.88, 1.45, 1.61 |
-| 1.93 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.80, 1.62, 3.33, 2.06, 1.95 |
+| 1.76 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.70, DNF, 1.87, 1.70, 1.72 |
 | 1.99 | [Zeyu Hu (胡泽宇)](https://www.worldcubeassociation.org/persons/2014HUZE01) | 1.71, 2.15, 2.13, 3.32, 1.55 |
 | 2.03 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 3.32, 2.48, 1.91, 1.71, 1.39 |
 | 2.04 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 2.06, 2.02, 2.33, 1.96, 2.05 |
 | 2.09 | [Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02) | 2.08, 2.32, 1.40, 4.41, 1.89 |
+| 2.14 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | 2.91, 2.16, 2.05, 2.21, 1.91 |
 | 2.15 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 1.04, 2.00, 3.51, 3.00, 1.46 |
 | 2.17 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 2.22, 1.79, 7.18, 2.47, 1.83 |
 | 2.18 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.30, 2.25, 2.55, 1.90, 2.01 |
-| 2.18 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 1.61, 2.29, 1.92, 3.50, 2.35 |
 
 ### Square-1
 
@@ -209,10 +209,10 @@
 | 6.05 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 6.94, 5.56, 5.96, 4.91, 6.65 |
 | 6.14 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.44, 7.12, 7.02, 5.80, 5.60 |
 | 6.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.88, 5.56, 8.56, 6.19, 5.49 |
+| 6.40 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | 6.19, 6.81, 6.20, 8.95, 6.00 |
 | 6.53 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 7.35, 6.15, 7.37, 6.04, 6.11 |
 | 6.62 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 6.17, 7.42, 6.28, 8.12, 5.99 |
 | 6.63 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.44, 7.94, 6.44, 6.58, 6.88 |
-| 6.63 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 8.04, 6.37, 6.28, 5.94, 7.24 |
 
 ### 4x4x4 Blindfolded
 

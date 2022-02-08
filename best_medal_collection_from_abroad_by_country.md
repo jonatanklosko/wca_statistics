@@ -1,17 +1,17 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on  7 February 2022*
+*Computed on  8 February 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1258** | 1022 | 876 | 3156 |
-| Germany | **721** | 696 | 703 | 2120 |
+| Germany | **724** | 698 | 704 | 2126 |
 | Netherlands | **715** | 593 | 485 | 1793 |
-| United States | **685** | 561 | 484 | 1730 |
+| United States | **685** | 561 | 485 | 1731 |
 | France | **656** | 567 | 470 | 1693 |
 | Russia | **526** | 364 | 298 | 1188 |
-| Poland | **338** | 232 | 169 | 739 |
+| Poland | **342** | 233 | 169 | 744 |
 | China | **325** | 290 | 258 | 873 |
 | Malaysia | **319** | 298 | 269 | 886 |
 | Canada | **300** | 311 | 334 | 945 |
@@ -21,11 +21,11 @@
 | Sweden | **268** | 323 | 331 | 922 |
 | Republic of Korea | **213** | 216 | 179 | 608 |
 | Finland | **193** | 140 | 114 | 447 |
-| Taiwan | **186** | 160 | 150 | 496 |
+| Taiwan | **186** | 161 | 151 | 498 |
 | Japan | **185** | 106 | 106 | 397 |
 | India | **180** | 146 | 135 | 461 |
 | Switzerland | **172** | 253 | 227 | 652 |
-| Italy | **170** | 155 | 148 | 473 |
+| Italy | **170** | 156 | 148 | 474 |
 | Hong Kong | **169** | 202 | 173 | 544 |
 | Spain | **159** | 142 | 167 | 468 |
 | Ukraine | **148** | 135 | 136 | 419 |
@@ -34,7 +34,7 @@
 | Indonesia | **128** | 117 | 101 | 346 |
 | Slovenia | **118** | 145 | 142 | 405 |
 | Greece | **117** | 139 | 100 | 356 |
-| Belgium | **116** | 175 | 158 | 449 |
+| Belgium | **116** | 175 | 159 | 450 |
 | Colombia | **116** | 74 | 78 | 268 |
 | Singapore | **107** | 115 | 120 | 342 |
 | Belarus | **106** | 63 | 72 | 241 |
@@ -46,7 +46,7 @@
 | Romania | **81** | 74 | 60 | 215 |
 | Thailand | **74** | 75 | 35 | 184 |
 | Lithuania | **60** | 70 | 79 | 209 |
-| Philippines | **54** | 66 | 62 | 182 |
+| Philippines | **56** | 66 | 62 | 184 |
 | Slovakia | **49** | 49 | 65 | 163 |
 | Guatemala | **41** | 28 | 32 | 101 |
 | Norway | **33** | 36 | 50 | 119 |

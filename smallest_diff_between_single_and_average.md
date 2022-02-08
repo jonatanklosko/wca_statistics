@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Computed on  7 February 2022*
+*Computed on  8 February 2022*
 
 
 ### Rubik's Cube
@@ -129,6 +129,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.10 | [Vito Kosasih (高耀梁)](https://www.worldcubeassociation.org/persons/2011KOSA01) | 52.00 | 52.10 | [Lanyang Open 2019](https://www.worldcubeassociation.org/competitions/LanyangOpen2019/results/by_person#2011KOSA01) |
+| 0.13 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | 50.45 | 50.58 | [Seminario 2022](https://www.worldcubeassociation.org/competitions/Seminario2022/results/by_person#2011CAST02) |
 | 0.13 | [Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01) | 1:20.65 | 1:20.78 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2015PADG01) |
 | 0.14 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | 39.29 | 39.43 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012LEWI01) |
 | 0.14 | [Theo Iván Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 1:11.10 | 1:11.24 | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018/results/by_person#2017GOLU01) |
@@ -137,7 +138,6 @@
 | 0.17 | [Jiahe Dai (戴嘉禾)](https://www.worldcubeassociation.org/persons/2016DAIJ01) | 58.10 | 58.27 | [Xi'an 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Xian10thAnniversary2019/results/by_person#2016DAIJ01) |
 | 0.18 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 2:29.36 | 2:29.54 | [BW Open 2012](https://www.worldcubeassociation.org/competitions/BWOpen2012/results/by_person#2010DEIM01) |
 | 0.19 | [Brandon Harris](https://www.worldcubeassociation.org/persons/2018HARR12) | 42.42 | 42.61 | [Popping Off Pukekohe A 2022](https://www.worldcubeassociation.org/competitions/PoppingOffPukekoheA2022/results/by_person#2018HARR12) |
-| 0.19 | [Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01) | 1:22.86 | 1:23.05 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/by_person#2015PADG01) |
 
 ### Pyraminx
 

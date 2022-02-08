@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on  7 February 2022*
+*Computed on  8 February 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -14,9 +14,9 @@
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **119** | 131 | 93 | 343 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **111** | 58 | 36 | 205 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **109** | 98 | 81 | 288 |
-| [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **106** | 42 | 22 | 170 |
+| [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **106** | 43 | 23 | 172 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **106** | 42 | 20 | 168 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **105** | 122 | 108 | 335 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **105** | 40 | 19 | 164 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **104** | 37 | 12 | 153 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **101** | 123 | 113 | 337 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **95** | 102 | 87 | 284 |
@@ -44,9 +44,9 @@
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **49** | 50 | 38 | 137 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | **49** | 44 | 40 | 133 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **48** | 58 | 61 | 167 |
+| [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **48** | 42 | 22 | 112 |
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **47** | 31 | 20 | 98 |
 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | **46** | 61 | 31 | 138 |
-| [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **46** | 42 | 22 | 110 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | **46** | 36 | 26 | 108 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **46** | 32 | 27 | 105 |
 | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) | **46** | 19 | 14 | 79 |

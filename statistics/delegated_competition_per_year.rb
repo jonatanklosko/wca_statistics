@@ -23,7 +23,7 @@ class DelegatedCompetitionPerYear < Statistic
           delegate_id
         FROM competition_delegates
         JOIN Competitions competition ON competition.id = competition_id
-        WHERE showAtAll = 1 AND start_date < CURDATE()
+        WHERE showAtAll = 1 AND cancelled_at IS NULL AND start_date < CURDATE()
         GROUP BY delegate_id
       ) AS delegated_count_by_user
       JOIN users user ON user.id = delegate_id

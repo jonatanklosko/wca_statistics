@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Computed on 10 February 2022*
+*Computed on 11 February 2022*
 
 
 ### Rubik's Cube - Single

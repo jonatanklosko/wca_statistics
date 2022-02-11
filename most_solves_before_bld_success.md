@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Computed on 10 February 2022*
+*Computed on 11 February 2022*
 
 
 ### 3x3x3 Blindfolded
@@ -82,7 +82,7 @@
 
 | Attempts | Person |
 | ---: | :--- |
-| 19 | [Pauline Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
+| 19 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 15 | [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 13 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 11 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |

@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Computed on 10 February 2022*
+*Computed on 11 February 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 7622 |
+| 1.49 | World | 7637 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2446 |
-| 1.59 | South America | 863 |
+| 1.76 | Europe | 2456 |
+| 1.59 | South America | 864 |
 | 1.46 | Oceania | 285 |
 | 1.41 | Asia | 2000 |
-| 1.21 | North America | 1946 |
+| 1.21 | North America | 1950 |
 | 1.16 | Africa | 82 |
 
 ### Countries
@@ -32,14 +32,14 @@
 | 2.00 | Lithuania | 13 |
 | 2.00 | Nigeria | 1 |
 | 2.00 | Palestine | 1 |
-| 1.98 | United Kingdom | 98 |
 | 1.95 | Germany | 155 |
 | 1.95 | Slovakia | 22 |
 | 1.94 | Belgium | 51 |
+| 1.94 | United Kingdom | 102 |
 | 1.93 | Croatia | 15 |
 | 1.93 | Belarus | 42 |
-| 1.93 | Russia | 218 |
-| 1.92 | Turkey | 36 |
+| 1.92 | Russia | 219 |
+| 1.92 | Turkey | 37 |
 | 1.91 | Finland | 78 |
 | 1.90 | Serbia | 10 |
 | 1.89 | Uzbekistan | 9 |
@@ -51,7 +51,6 @@
 | 1.82 | Mexico | 84 |
 | 1.81 | Thailand | 27 |
 | 1.81 | Switzerland | 75 |
-| 1.80 | Ireland | 15 |
 | 1.80 | San Marino | 5 |
 | 1.78 | Denmark | 92 |
 | 1.77 | Norway | 62 |
@@ -60,6 +59,7 @@
 | 1.75 | Sweden | 109 |
 | 1.75 | North Macedonia | 4 |
 | 1.71 | Bangladesh | 7 |
+| 1.71 | Ireland | 17 |
 | 1.67 | Kyrgyzstan | 3 |
 | 1.67 | Montenegro | 3 |
 | 1.65 | Netherlands | 88 |
@@ -82,19 +82,19 @@
 | 1.48 | New Zealand | 64 |
 | 1.48 | Italy | 138 |
 | 1.48 | Romania | 67 |
-| 1.46 | Peru | 140 |
+| 1.47 | Israel | 15 |
+| 1.46 | Peru | 141 |
 | 1.45 | Australia | 221 |
 | 1.44 | Ecuador | 18 |
-| 1.43 | Israel | 14 |
 | 1.40 | Paraguay | 15 |
 | 1.40 | Philippines | 186 |
 | 1.38 | Hong Kong | 13 |
 | 1.35 | Nepal | 17 |
 | 1.35 | Taiwan | 106 |
+| 1.32 | Estonia | 37 |
 | 1.32 | Venezuela | 53 |
 | 1.31 | Chile | 78 |
 | 1.29 | Mongolia | 14 |
-| 1.28 | Estonia | 36 |
 | 1.26 | China | 615 |
 | 1.25 | Bulgaria | 8 |
 | 1.25 | Greece | 12 |
@@ -111,7 +111,7 @@
 | 1.17 | Andorra | 6 |
 | 1.17 | Panama | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 1554 |
+| 1.16 | United States | 1558 |
 | 1.15 | Canada | 190 |
 | 1.15 | El Salvador | 20 |
 | 1.10 | Azerbaijan | 31 |

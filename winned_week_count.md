@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Computed on 10 February 2022*
+*Computed on 11 February 2022*
 
 
 ### Rubik's Cube

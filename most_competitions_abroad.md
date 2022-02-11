@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Computed on 10 February 2022*
+*Computed on 11 February 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -77,7 +77,7 @@
 | 43 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 43 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 43 | [Geert Bicler](https://www.worldcubeassociation.org/persons/2010BICL01) |
-| 43 | [Pauline Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
+| 43 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 43 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 43 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 42 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |

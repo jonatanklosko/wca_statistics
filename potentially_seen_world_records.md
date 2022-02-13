@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Computed on 12 February 2022*
+*Computed on 13 February 2022*
 
 | WRs | Person |
 | ---: | :--- |

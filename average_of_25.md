@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 12 February 2022*
+*Computed on 13 February 2022*
 
 
 ### Rubik's Cube

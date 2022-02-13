@@ -1,6 +1,6 @@
 ## World Championship podiums by person
 
-*Computed on 12 February 2022*
+*Computed on 13 February 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |

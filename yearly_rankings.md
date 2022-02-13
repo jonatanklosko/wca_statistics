@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Computed on 12 February 2022*
+*Computed on 13 February 2022*
 
 
 ### Rubik's Cube - Single

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Computed on 15 February 2022*
+*Computed on 16 February 2022*
 
 | Competitors | Competition |
 | ---: | :--- |

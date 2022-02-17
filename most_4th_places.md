@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Computed on 16 February 2022*
+*Computed on 17 February 2022*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -41,9 +41,9 @@
 | 81 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 | 80 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 80 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
+| 79 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 78 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 77 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
-| 76 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 74 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
 | 74 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) |
 | 74 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
@@ -69,10 +69,10 @@
 | 65 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 64 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 64 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 64 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 63 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
 | 63 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 63 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
-| 63 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 62 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
 | 62 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 62 | [José Antonio Navarro Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |

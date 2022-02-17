@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on 16 February 2022*
+*Computed on 17 February 2022*
 
 
 ### Rubik's Cube
@@ -173,6 +173,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 5.46 | **6.11** | [Dragon Side Open 2022](https://www.worldcubeassociation.org/competitions/DragonSideOpen2022/results/all#eclock_f) | 4 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 4.35 | **6.13** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eclock_f) | 4 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5.55 | **6.22** | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/all#eclock_f) | 4 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 4.75 | **6.26** | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/all#eclock_f) | 5 |
@@ -182,7 +183,6 @@
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 5.11 | **6.36** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#eclock_f) | 5 |
 | [Jacob Fanikos](https://www.worldcubeassociation.org/persons/2017FANI01) | 5.69 | **6.40** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eclock_f) | 5 |
 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) | 5.79 | **6.43** | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/all#eclock_f) | 4 |
-| [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) | 4.99 | **6.45** | [Empire State Winter B 2022](https://www.worldcubeassociation.org/competitions/EmpireStateWinterB2022/results/all#eclock_f) | 4 |
 
 ### Skewb
 

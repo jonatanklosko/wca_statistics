@@ -1,12 +1,12 @@
 ## Most competitions abroad
 
-*Computed on 16 February 2022*
+*Computed on 17 February 2022*
 
 | Competitions | Person |
 | ---: | :--- |
 | 147 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 138 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 126 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
+| 127 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 113 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 111 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 110 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
@@ -24,9 +24,9 @@
 | 85 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 83 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 81 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
+| 81 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 80 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 80 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
-| 80 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
@@ -68,9 +68,9 @@
 | 45 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 45 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
 | 44 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
+| 44 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 44 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 43 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
-| 43 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 43 | [Billy Burier](https://www.worldcubeassociation.org/persons/2014BURI01) |
 | 43 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 43 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |

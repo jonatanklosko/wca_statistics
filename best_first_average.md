@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Computed on 16 February 2022*
+*Computed on 17 February 2022*
 
 
 ### Rubik's Cube
@@ -44,10 +44,10 @@
 | 34.41 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
 | 34.75 | [Tianzuo Du (杜天佐)](https://www.worldcubeassociation.org/persons/2021DUTI01) |
 | 34.98 | [Hua Huang (黄华)](https://www.worldcubeassociation.org/persons/2018HUAN08) |
+| 35.73 | [Thomas Liao](https://www.worldcubeassociation.org/persons/2017LIAO09) |
 | 36.40 | [Chengnuo Han (韩承诺)](https://www.worldcubeassociation.org/persons/2021HANC01) |
 | 36.61 | [Isaac Wong Chang Man](https://www.worldcubeassociation.org/persons/2015MANI01) |
 | 36.76 | [Yixiang Gao (高翊翔)](https://www.worldcubeassociation.org/persons/2019GAOY05) |
-| 36.89 | [Kai-Lun Cheng (鄭凱倫)](https://www.worldcubeassociation.org/persons/2020CHEN31) |
 
 ### 5x5x5 Cube
 
@@ -162,12 +162,12 @@
 | 3.06 | [Yixuan Li (李逸轩)](https://www.worldcubeassociation.org/persons/2018LIYI14) |
 | 3.33 | [Bo-Yan Wu (吳柏彥)](https://www.worldcubeassociation.org/persons/2019WUBO01) |
 | 3.41 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
+| 3.47 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) |
 | 3.56 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 3.91 | [Haoze Liu (刘浩泽)](https://www.worldcubeassociation.org/persons/2019LIUH04) |
 | 4.21 | [Josué Pardo Chambi](https://www.worldcubeassociation.org/persons/2017CHAM06) |
 | 4.28 | [Lim Chun Yik](https://www.worldcubeassociation.org/persons/2018YIKL01) |
 | 4.29 | [Roman Shilov (Роман Шилов)](https://www.worldcubeassociation.org/persons/2021SHIL01) |
-| 4.32 | [Jeyson Paul Espinoza Diaz](https://www.worldcubeassociation.org/persons/2021DIAZ01) |
 
 ### Rubik's Clock
 
@@ -175,6 +175,7 @@
 | ---: | :--- |
 | 5.15 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 5.16 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) |
+| 6.29 | [Miles Christopher Walcott](https://www.worldcubeassociation.org/persons/2021WALC02) |
 | 6.39 | [Daniil Samusev (Даниил Самусев)](https://www.worldcubeassociation.org/persons/2019SAMU07) |
 | 6.51 | [Yueyang Hu (胡越洋)](https://www.worldcubeassociation.org/persons/2021HUYU01) |
 | 6.65 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
@@ -182,7 +183,6 @@
 | 6.92 | [Edward Scholey](https://www.worldcubeassociation.org/persons/2020SCHO03) |
 | 6.93 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) |
 | 6.96 | [Benjamin Warry](https://www.worldcubeassociation.org/persons/2017WARR04) |
-| 6.97 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 
 ### Skewb
 

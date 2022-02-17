@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Computed on 16 February 2022*
+*Computed on 17 February 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -145,6 +145,7 @@
 | 1400 | [Luiz Fellipe Oliuza Leal Silva](https://www.worldcubeassociation.org/persons/2016SILV02) |
 | 1401 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 1423 | [Anirudh Sureshram](https://www.worldcubeassociation.org/persons/2014SURE11) |
+| 1435 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) |
 | 1464 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 1470 | [Ishaan Lal](https://www.worldcubeassociation.org/persons/2014LALI01) |
 | 1470 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
@@ -211,7 +212,6 @@
 | 2100 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) |
 | 2101 | [Justin Choi](https://www.worldcubeassociation.org/persons/2013CHOI04) |
 | 2121 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 2134 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) |
 | 2163 | [Robin Deun](https://www.worldcubeassociation.org/persons/2009DEUN01) |
 | 2183 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) |
 | 2183 | [Dániel Kui](https://www.worldcubeassociation.org/persons/2008KUID01) |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 16 February 2022*
+*Computed on 17 February 2022*
 
 
 ### Rubik's Cube
@@ -112,16 +112,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 3.28 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
 | 3.54 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 | 3.76 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 | 3.92 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Shenzhen Open 2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018/results/by_person#2017LOUY01) |
+| 3.95 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
 | 4.01 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Tyumen Alpaca 2022](https://www.worldcubeassociation.org/competitions/TyumenAlpaca2022/results/by_person#2016GUND05) |
 | 4.03 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021/results/by_person#2017LOUY01) |
 | 4.04 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017LOUY01) |
 | 4.07 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017LOUY01) |
 | 4.07 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2017LOUY01) |
-| 4.11 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021/results/by_person#2017CHAM09) |
-| 4.12 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Bogoroditsk Open 2021](https://www.worldcubeassociation.org/competitions/BogoroditskOpen2021/results/by_person#2016GUND05) |
 
 ### Skewb
 

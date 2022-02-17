@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 16 February 2022*
+*Computed on 17 February 2022*
 
 
 ### Rubik's Cube
@@ -173,8 +173,8 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 3.69 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 3.84, 3.28, 5.13, 3.95, 3.28 |
 | 3.86 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 3.52, 4.28, 4.57, 3.54, 3.76 |
-| 4.29 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 3.93, 4.12, 9.30, 4.27, 4.49 |
 | 4.40 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 4.86, 5.35, 4.25, 4.06, 4.11 |
 | 4.53 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) | 5.71, 4.55, 4.21, 4.15, 4.83 |
 | 4.62 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 4.09, 4.38, 5.17, 4.50, 4.99 |
@@ -235,6 +235,7 @@
 | ---: | :--- | :--- |
 | 2:33.18 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | DNF, 2:32.48, 2:28.80, 2:21.62, 2:38.27 |
 | 3:27.89 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:21.84, 3:33.47, 3:06.91, DNF, 3:28.38 |
+| 4:18.48 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | DNF, 4:00.53, 4:25.98, 4:28.94, 3:33.98 |
 | 4:27.14 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 4:30.47, 4:08.12, 3:52.32, DNF, 4:42.85 |
 | 4:36.31 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 4:15.89, DNF, 4:31.71, 5:01.35, 4:15.67 |
 | 5:14.17 | [Grigorii Alekseev](https://www.worldcubeassociation.org/persons/2015ALEK01) | DNF, 4:49.36, 5:21.42, 5:22.67, 4:58.43 |
@@ -242,7 +243,6 @@
 | 6:35.21 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4:07.88, DNF, 6:06.01, 4:34.30, 9:05.32 |
 | 6:52.92 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 7:05.52, 6:26.86, 8:04.53, 7:06.38, 6:06.41 |
 | 6:57.55 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 6:30.67, DNF, 6:01.26, 5:50.93, 8:20.73 |
-| 7:09.86 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | DNF, 7:08.47, 6:48.97, 7:32.16, 6:27.93 |
 
 ### 3x3x3 With Feet
 

@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Computed on 18 February 2022*
+*Computed on 19 February 2022*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |

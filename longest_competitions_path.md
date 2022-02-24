@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Computed on 23 February 2022*
+*Computed on 24 February 2022*
 
 | Person | Distance |
 | :--- | ---: |

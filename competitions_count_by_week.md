@@ -1,7 +1,7 @@
 ## Competitions count by week
 
 *Note: Week is considered to start on Monday and end on Sunday.*
-*Computed on 23 February 2022*
+*Computed on 24 February 2022*
 
 | Competitions | Week start | Week end | List on WCA |
 | :--: | ---: | ---: | :--: |

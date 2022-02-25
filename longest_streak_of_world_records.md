@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Computed on 24 February 2022*
+*Computed on 25 February 2022*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -11,7 +11,7 @@
 | 8 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) |  | 3.58 |
 | 8 | 3x3x3 Multi-Blind | Single | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | [Keep Portland Quiet 2018](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2018) | 5.73 |
 | 7 | Rubik's Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Day 2010](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2010) | [Zonhoven Open 2013](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2013) | 2.30 |
-| 7 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) |  | 4.11 |
+| 7 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) |  | 4.12 |
 | 7 | 4x4x4 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Mental Breakdown Washington 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownWashington2019) |  | 2.83 |
 | 6 | 7x7x7 Cube | Average | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | [Hefei Spring 2012](https://www.worldcubeassociation.org/competitions/HefeiSpring2012) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) | 1.38 |
 | 6 | 3x3x3 Blindfolded | Single | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) | [Beijing Metropolis Open 2009](https://www.worldcubeassociation.org/competitions/BeijingMetropolisOpen2009) | [Tulancingo Open 2010](https://www.worldcubeassociation.org/competitions/TulancingoOpen2010) | 1.61 |
@@ -28,7 +28,7 @@
 | 5 | 7x7x7 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [COpen2 2018](https://www.worldcubeassociation.org/competitions/Cerritos2018) |  | 3.87 |
 | 5 | 3x3x3 Fewest Moves | Average | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Moves are for n00bs 2012](https://www.worldcubeassociation.org/competitions/MovesN00bs2012) | [US Nationals 2014](https://www.worldcubeassociation.org/competitions/USNationals2014) | 1.93 |
 | 5 | Megaminx | Single | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | 2.45 |
-| 5 | Megaminx | Single | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Rubik Pro 2017](https://www.worldcubeassociation.org/competitions/RubikPro2017) |  | 4.76 |
+| 5 | Megaminx | Single | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Rubik Pro 2017](https://www.worldcubeassociation.org/competitions/RubikPro2017) |  | 4.77 |
 | 5 | Megaminx | Average | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) | 2.55 |
 | 5 | Pyraminx | Average | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Pabianice Open 2008](https://www.worldcubeassociation.org/competitions/PabianiceOpen2008) | 1.65 |
 | 5 | Rubik's Clock | Average | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Shenzhen Open 2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018) |  | 3.60 |

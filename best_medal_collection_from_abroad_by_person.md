@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -54,13 +54,13 @@
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **45** | 32 | 24 | 101 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | **45** | 8 | 8 | 61 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | **44** | 72 | 46 | 162 |
+| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **44** | 22 | 11 | 77 |
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **44** | 19 | 7 | 70 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **43** | 50 | 46 | 139 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | **42** | 43 | 51 | 136 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **42** | 23 | 12 | 77 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | **42** | 1 | 0 | 43 |
 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | **41** | 27 | 9 | 77 |
-| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **41** | 21 | 11 | 73 |
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **38** | 74 | 157 | 269 |
 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | **38** | 12 | 5 | 55 |

@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 
 ### Rubik's Cube
@@ -23,7 +23,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1.21 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.43, 1.25, 1.54, 0.95, 0.89, 1.75, 3.86, 1.14, 1.08, 1.00, 1.03, 0.98 |
+| 1.18 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.07, 0.67, 1.07, 0.98, 3.18, 2.19, 1.58, 1.11, 0.71, 1.04, 0.90, 1.21 |
 | 1.37 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.55, 1.04, 1.67, 1.46, 1.24, 1.44, 1.53, 1.84, 1.16, 1.62, 1.02, 0.97 |
 | 1.41 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 1.37, 1.24, 1.44, 1.41, 1.71, 6.18, 1.49, 1.27, 0.93, 1.59, 1.48, 1.17 |
 | 1.46 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 1.09, 1.64, 1.47, 1.07, 1.80, 2.13, 0.81, 2.63, 0.93, 1.80, 1.85, 0.88 |
@@ -107,7 +107,7 @@
 | 22.52 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | DNF, 18.92, 25.36, 21.52, 24.72, 22.21, 21.47, 25.64, 21.13, 20.61, 23.02, 19.60 |
 | 23.38 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 23.14, 21.70, 23.24, 21.52, 25.11, 23.91, 22.74, 25.54, DNF, 20.77, 26.22, 20.55 |
 | 23.90 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 23.32, 23.51, 23.77, 28.14, 25.87, 22.89, 22.16, 23.90, 24.41, 20.90, 26.10, 23.08 |
-| 24.69 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | DNF, 20.75, 31.06, 25.83, 24.98, 24.62, 21.79, 23.08, 18.44, 25.50, 26.54, 22.81 |
+| 24.56 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 26.15, 24.12, 27.41, 22.47, 28.26, 22.95, 27.99, 20.04, 25.41, 22.00, 23.06, 24.06 |
 
 ### 3x3x3 Fewest Moves
 
@@ -180,9 +180,9 @@
 | 4.95 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 5.08, 5.67, 4.09, 4.38, 5.17, 4.50, 4.99, 3.59, 6.71, 7.34, 4.53, 4.39 |
 | 5.03 | [Jacob Evarts](https://www.worldcubeassociation.org/persons/2018EVAR01) | 5.42, 4.20, 5.22, 4.67, 4.83, DNF, 4.48, 5.22, 6.44, 3.52, 4.66, 5.24 |
 | 5.07 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 4.19, 5.11, 4.32, 6.71, 5.35, 5.38, 4.66, 4.13, 5.05, 5.46, 10.57, 4.56 |
+| 5.14 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.12, 5.07, 4.75, 6.77, 5.18, 4.05, 8.38, 5.68, 4.89, 4.83, 5.36, 4.82 |
+| 5.23 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | 4.49, 5.35, 5.47, 5.24, 5.55, 4.61, 4.18, DNF, 6.29, 5.57, 3.82, 5.57 |
 | 5.27 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 5.60, 5.20, 4.83, 5.36, 5.45, 6.53, 4.75, 5.14, 5.85, 5.04, 5.20, 5.09 |
-| 5.39 | [Joshua Marriott](https://www.worldcubeassociation.org/persons/2019MARR04) | 5.18, 5.78, 4.73, 6.33, DNF, 4.87, 5.74, 5.56, 4.70, 5.89, 4.80, 5.04 |
-| 5.40 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 5.41, 3.91, 5.52, 5.90, 6.09, 4.78, 5.39, 6.19, DNF, 4.42, 4.01, 6.34 |
 
 ### Skewb
 

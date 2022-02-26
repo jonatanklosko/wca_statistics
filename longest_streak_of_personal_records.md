@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -77,13 +77,13 @@
 | 41 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009) | [Welcome Thay Cambridge 2015](https://www.worldcubeassociation.org/competitions/WelcomeThayCambridge2015) |
 | 41 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | [Hungarian Open 2009](https://www.worldcubeassociation.org/competitions/HungarianOpen2009) | [FMC Europe 2015](https://www.worldcubeassociation.org/competitions/FMCEurope2015) |
 | 41 | [Eder Olivencia Gonzalez](https://www.worldcubeassociation.org/persons/2012GONZ10) | [Basauri Open 2012](https://www.worldcubeassociation.org/competitions/BasauriOpen2012) |  |
+| 40 | [Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01) | [Utah Open 2008](https://www.worldcubeassociation.org/competitions/UtahOpen2008) |  |
 | 40 | [Karina Grandjean Beck](https://www.worldcubeassociation.org/persons/2010BECK01) | [Skårup Cube Day 2010](https://www.worldcubeassociation.org/competitions/SkarupCubeDay2010) | [Vestegnen Open 2017](https://www.worldcubeassociation.org/competitions/VestegnenOpen2017) |
 | 40 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | [UIndy Open 2011](https://www.worldcubeassociation.org/competitions/UIndyOpen2011) | [Marietta Mystery 2016](https://www.worldcubeassociation.org/competitions/MariettaMystery2016) |
 | 40 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) | [Dayton 2015](https://www.worldcubeassociation.org/competitions/Dayton2015) | [Michigan Cubing Club Delta 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubDelta2019) |
 | 40 | [Evan Mann](https://www.worldcubeassociation.org/persons/2016MANN01) | [Berkeley Winter 2016](https://www.worldcubeassociation.org/competitions/BerkeleyWinter2016) | [SacCubing X 2021](https://www.worldcubeassociation.org/competitions/SacCubingX2021) |
 | 40 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Slow N Steady Spring 2016](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2016) |  |
 | 39 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Hungary 2005](https://www.worldcubeassociation.org/competitions/Hungary2005) | [Romanian Open 2012](https://www.worldcubeassociation.org/competitions/RomanianOpen2012) |
-| 39 | [Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01) | [Utah Open 2008](https://www.worldcubeassociation.org/competitions/UtahOpen2008) |  |
 | 39 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Dutch Masters 2008](https://www.worldcubeassociation.org/competitions/DutchMasters2008) | [Zonhoven Open 2012](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2012) |
 | 39 | [Nikhil Mande](https://www.worldcubeassociation.org/persons/2008MAND01) | [Shaastra Open 2008](https://www.worldcubeassociation.org/competitions/ShaastraOpen2008) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 39 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) | [Drexel Fall 2008](https://www.worldcubeassociation.org/competitions/DrexelFall2008) | [BarbeCubing Spring 2019](https://www.worldcubeassociation.org/competitions/BarbeCubingSpring2019) |

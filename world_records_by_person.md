@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -61,6 +61,7 @@
 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
+| 5 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 4 | [Brandon Lin](https://www.worldcubeassociation.org/persons/2011LINB01) |
 | 4 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) |
@@ -79,7 +80,6 @@
 | 4 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
 | 4 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 4 | [Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01) |
-| 4 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
 | 3 | [Alexander Yu](https://www.worldcubeassociation.org/persons/2007YUAL01) |
 | 3 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |

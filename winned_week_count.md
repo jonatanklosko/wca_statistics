@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 
 ### Rubik's Cube
@@ -33,15 +33,15 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 19 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 18 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 18 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 17 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 17 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 15 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | 15 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 14 |
+| [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 14 |
 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) | 13 |
-| [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 13 |
 | [Justin Jaffray](https://www.worldcubeassociation.org/persons/2008JAFF01) | 11 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 10 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 9 |

@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 
 ### Rubik's Cube - Single
@@ -45,9 +45,9 @@
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **0.93** | Spain | [Murcia 2018](https://www.worldcubeassociation.org/competitions/Murcia2018) | 0.93, 2.91, 1.93, 1.65, 1.40 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **0.94** | United States | [Saint Mary Scramble 2016](https://www.worldcubeassociation.org/competitions/SaintMaryScramble2016) | 2.16, 7.66, 0.94, 4.91, 3.05 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **0.94** | United States | [Copper Country Summer 2021](https://www.worldcubeassociation.org/competitions/CopperCountryCubingSummer2021) | 6.13, 1.84, 1.67, 1.47, 0.94 |
+| [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **0.98** | United States | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022) | 1.63, 0.98, 1.96, 4.08, 3.88 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **0.99** | United Kingdom | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017) | 4.45, 3.81, 2.21, 0.99, 3.97 |
 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | **0.99** | Romania | [ICHB Back To School 2019](https://www.worldcubeassociation.org/competitions/ICHBBackToSchool2019) | 4.03, 6.56, 5.35, 6.51, 0.99 |
-| [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) | **1.00** | Italy | [Trentin Open 2011](https://www.worldcubeassociation.org/competitions/TrentinOpen2011) | 6.94, 4.47, 1.00, 5.38, 5.88 |
 
 ### 2x2x2 Cube - Average
 
@@ -203,7 +203,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **21.16** | Poland | [BrizZon Side Open 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2022) | 26.33, 20.74, 16.40 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **21.14** | Poland | [WLTD Poznań Side Open 2022](https://www.worldcubeassociation.org/competitions/WLTDPoznanSideOpen2022) | 19.48, 19.13, 24.80 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **22.79** | Sweden | [PoliMi Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoliMiMentalBreakdown2022) | 25.53, 22.72, 20.13 |
 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) | **24.50** | United Kingdom | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019) | 22.80, 29.72, 20.98 |
 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **30.60** | Denmark | [SSL 2 Skurup 2019](https://www.worldcubeassociation.org/competitions/SSL2Skurup2019) | 35.18, 28.28, 28.33 |

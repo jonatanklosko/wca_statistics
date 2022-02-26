@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 
 ### Rubik's Cube
@@ -24,6 +24,7 @@
 | ---: | :--- | :--- |
 | 0.83 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Utah Fall 2021](https://www.worldcubeassociation.org/competitions/UtahFall2021/results/by_person#2018KHAN28) |
 | 0.83 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Babylon Fall 2021](https://www.worldcubeassociation.org/competitions/BabylonFall2021/results/by_person#2018KHAN28) |
+| 0.90 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/by_person#2018KHAN28) |
 | 0.91 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Clash at Carlisle Fall 2019](https://www.worldcubeassociation.org/competitions/ClashatCarlisleFall2019/results/by_person#2018KHAN28) |
 | 0.92 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Idaho Summer B 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerB2021/results/by_person#2018KHAN28) |
 | 0.93 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | [Tea Time Spring 2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018/results/by_person#2012CALL01) |
@@ -31,7 +32,6 @@
 | 0.95 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [GA Cubers Greetings 2022](https://www.worldcubeassociation.org/competitions/GACubersGreetings2022/results/by_person#2018KHAN28) |
 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Swedish Championship 2021](https://www.worldcubeassociation.org/competitions/SwedishChampionship2021/results/by_person#2018KHAN28) |
 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/by_person#2018KHAN28) |
-| 0.98 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Idaho Summer B 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerB2021/results/by_person#2018KHAN28) |
 
 ### 4x4x4 Cube
 
@@ -149,9 +149,9 @@
 | 5.56 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [SST Warszawa 2021](https://www.worldcubeassociation.org/competitions/SSTWarszawa2021/results/by_person#2013KRAS02) |
 | 5.56 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Richmond Open B 2021](https://www.worldcubeassociation.org/competitions/RichmondOpenB2021/results/by_person#2017AGGA01) |
 | 5.60 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [I Itapê Open 2019](https://www.worldcubeassociation.org/competitions/IItapeOpen2019/results/by_person#2015CECC01) |
+| 5.61 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Going Fast in Idaho 2022](https://www.worldcubeassociation.org/competitions/GoingFastinIdaho2022/results/by_person#2017SIAU02) |
 | 5.65 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Melbourne Summer 2022](https://www.worldcubeassociation.org/competitions/MelbourneSummer2022/results/by_person#2016EPST02) |
 | 5.70 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [SacCubing X 2021](https://www.worldcubeassociation.org/competitions/SacCubingX2021/results/by_person#2017SIAU02) |
-| 5.77 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021/results/by_person#2016EPST02) |
 
 ### 3x3x3 With Feet
 

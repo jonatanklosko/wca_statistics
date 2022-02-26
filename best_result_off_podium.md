@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 
 ### Rubik's Cube
@@ -31,8 +31,8 @@
 | [Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01) | 1.51 | **1.82** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e222_f) | 4 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 1.11 | **1.84** | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021/results/all#e222_f) | 4 |
 | [Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01) | 1.57 | **1.84** | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019/results/all#e222_f) | 4 |
+| [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.29 | **1.85** | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/all#e222_f) | 4 |
 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | 1.58 | **1.85** | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e222_f) | 4 |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 1.74 | **1.85** | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e222_f) | 5 |
 
 ### 4x4x4 Cube
 
@@ -173,6 +173,8 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | 3.90 | **5.93** | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/all#eclock_f) | 4 |
+| [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.40 | **6.01** | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/all#eclock_f) | 5 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 5.46 | **6.11** | [Dragon Side Open 2022](https://www.worldcubeassociation.org/competitions/DragonSideOpen2022/results/all#eclock_f) | 4 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 4.35 | **6.13** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eclock_f) | 4 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5.55 | **6.22** | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/all#eclock_f) | 4 |
@@ -181,8 +183,6 @@
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 5.67 | **6.28** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#eclock_f) | 4 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 4.98 | **6.31** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#eclock_f) | 4 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 5.11 | **6.36** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#eclock_f) | 5 |
-| [Jacob Fanikos](https://www.worldcubeassociation.org/persons/2017FANI01) | 5.69 | **6.40** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eclock_f) | 5 |
-| [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) | 5.79 | **6.43** | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/all#eclock_f) | 4 |
 
 ### Skewb
 

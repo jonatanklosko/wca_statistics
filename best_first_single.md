@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 
 ### Rubik's Cube
@@ -119,10 +119,10 @@
 | 25 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 25 | [Inha Woo (우인하)](https://www.worldcubeassociation.org/persons/2010INHA01) |
 | 26 | [Ali Salavati (علی صلواتی)](https://www.worldcubeassociation.org/persons/2011SALA04) |
+| 26 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 27 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 27 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
 | 27 | [Claudio Müller](https://www.worldcubeassociation.org/persons/2010MLLE01) |
-| 27 | [Tan Yan Shun](https://www.worldcubeassociation.org/persons/2016SHUN03) |
 
 ### 3x3x3 One-Handed
 

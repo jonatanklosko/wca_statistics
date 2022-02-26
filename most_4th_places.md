@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -60,8 +60,8 @@
 | 68 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 68 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
+| 68 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 67 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
-| 67 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 66 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 65 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |

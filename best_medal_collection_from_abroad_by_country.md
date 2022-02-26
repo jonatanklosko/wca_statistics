@@ -1,15 +1,15 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1258** | 1022 | 879 | 3159 |
 | Germany | **724** | 701 | 704 | 2129 |
 | Netherlands | **715** | 593 | 485 | 1793 |
-| United States | **685** | 561 | 485 | 1731 |
-| France | **657** | 567 | 470 | 1694 |
+| United States | **686** | 563 | 487 | 1736 |
+| France | **660** | 568 | 470 | 1698 |
 | Russia | **526** | 364 | 298 | 1188 |
 | Poland | **342** | 233 | 169 | 744 |
 | China | **325** | 290 | 258 | 873 |
@@ -23,7 +23,7 @@
 | Finland | **193** | 140 | 114 | 447 |
 | Taiwan | **186** | 161 | 151 | 498 |
 | Japan | **185** | 106 | 106 | 397 |
-| India | **180** | 146 | 135 | 461 |
+| India | **181** | 146 | 135 | 462 |
 | Switzerland | **172** | 253 | 227 | 652 |
 | Italy | **170** | 156 | 148 | 474 |
 | Hong Kong | **169** | 202 | 173 | 544 |
@@ -49,7 +49,7 @@
 | Philippines | **56** | 66 | 62 | 184 |
 | Slovakia | **49** | 49 | 65 | 163 |
 | Guatemala | **45** | 33 | 33 | 111 |
-| Norway | **33** | 36 | 50 | 119 |
+| Norway | **33** | 37 | 52 | 122 |
 | Croatia | **28** | 51 | 38 | 117 |
 | Vietnam | **28** | 40 | 42 | 110 |
 | Chile | **27** | 20 | 17 | 64 |
@@ -61,7 +61,7 @@
 | Mongolia | **19** | 18 | 14 | 51 |
 | New Zealand | **18** | 53 | 39 | 110 |
 | Costa Rica | **18** | 17 | 18 | 53 |
-| El Salvador | **16** | 17 | 13 | 46 |
+| El Salvador | **16** | 18 | 13 | 47 |
 | South Africa | **15** | 16 | 35 | 66 |
 | Kosovo | **15** | 16 | 19 | 50 |
 | Estonia | **14** | 17 | 19 | 50 |

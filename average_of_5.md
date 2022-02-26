@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 
 ### Rubik's Cube
@@ -23,7 +23,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1.02 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.16, 0.83, 1.26, 0.80, 1.09 |
+| 1.01 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.58, 1.11, 0.71, 1.04, 0.90 |
 | 1.18 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.02, 0.97, DNF, 1.25, 1.28 |
 | 1.20 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 0.91, 2.00, 1.07, 1.27, 1.26 |
 | 1.21 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | 1.20, 1.20, 1.21, 2.85, 1.22 |
@@ -204,7 +204,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 5.71 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 8.08, 6.08, 5.38, 5.65, 5.41 |
-| 5.91 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.91, 6.19, 7.42, 5.54, 5.64 |
+| 5.84 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.61, 8.48, 5.92, 5.08, 5.99 |
 | 6.05 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 8.73, 5.83, 5.98, 6.34, 5.65 |
 | 6.05 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 6.94, 5.56, 5.96, 4.91, 6.65 |
 | 6.14 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.44, 7.12, 7.02, 5.80, 5.60 |

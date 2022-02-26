@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Computed on 25 February 2022*
+*Computed on 26 February 2022*
 
 
 ### Rubik's Cube
@@ -14,10 +14,10 @@
 | 8.83 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 8.87 | [Andrew Chen](https://www.worldcubeassociation.org/persons/2018CHEA05) |
 | 8.93 | [Taosif Amin Sahil](https://www.worldcubeassociation.org/persons/2017SAHI01) |
+| 8.94 | [Hossein Roshan (حسین بوداغی روشن)](https://www.worldcubeassociation.org/persons/2022ROSH01) |
 | 8.96 | [Reed Tran](https://www.worldcubeassociation.org/persons/2021TRAN06) |
 | 9.06 | [Timothy Yang](https://www.worldcubeassociation.org/persons/2019YANT03) |
 | 9.14 | [Mikhail Tokarev](https://www.worldcubeassociation.org/persons/2021TOKA01) |
-| 9.26 | [Mark Cheung](https://www.worldcubeassociation.org/persons/2017CHEU01) |
 
 ### 2x2x2 Cube
 
@@ -113,6 +113,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 26.67 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 30.00 | [Inha Woo (우인하)](https://www.worldcubeassociation.org/persons/2010INHA01) |
 | 30.33 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) |
 | 30.33 | [Viljo Elo](https://www.worldcubeassociation.org/persons/2016ELOV01) |
@@ -122,7 +123,6 @@
 | 31.00 | [Han Su (苏涵)](https://www.worldcubeassociation.org/persons/2021SUHA01) |
 | 31.33 | [Nitheesh Kumar Elangovan](https://www.worldcubeassociation.org/persons/2016ELAN01) |
 | 31.33 | [Zhiyuan Zhang (张质源)](https://www.worldcubeassociation.org/persons/2018ZHAZ08) |
-| 31.67 | [Kun Zhu (朱坤)](https://www.worldcubeassociation.org/persons/2011ZHUK01) |
 
 ### 3x3x3 One-Handed
 

@@ -1,6 +1,6 @@
 ## Most finals
 
-*Computed on 27 February 2022*
+*Computed on 28 February 2022*
 
 | Finals | Person |
 | ---: | :--- |

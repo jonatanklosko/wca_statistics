@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Computed on  3 March 2022*
+*Computed on  4 March 2022*
 
 
 ### Rubik's Cube

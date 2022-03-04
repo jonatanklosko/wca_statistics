@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Computed on  3 March 2022*
+*Computed on  4 March 2022*
 
 
 ### Rubik's Cube
@@ -211,8 +211,8 @@
 | 6.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.88, 5.56, 8.56, 6.19, 5.49 |
 | 6.40 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | 6.19, 6.81, 6.20, 8.95, 6.00 |
 | 6.53 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 7.35, 6.15, 7.37, 6.04, 6.11 |
+| 6.55 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 6.66, 5.56, 8.75, 6.22, 6.77 |
 | 6.62 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 6.17, 7.42, 6.28, 8.12, 5.99 |
-| 6.63 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.44, 7.94, 6.44, 6.58, 6.88 |
 
 ### 4x4x4 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Computed on  3 March 2022*
+*Computed on  4 March 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -241,6 +241,7 @@
 | 2667 | [Andrew Nathenson](https://www.worldcubeassociation.org/persons/2011NATH02) |
 | 2793 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) |
 | 2793 | [Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01) |
+| 2806 | [Victor Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
 | 2829 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
 | 2885 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 3016 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |

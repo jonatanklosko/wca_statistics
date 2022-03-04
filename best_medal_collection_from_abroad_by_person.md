@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Computed on  3 March 2022*
+*Computed on  4 March 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -13,14 +13,14 @@
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **119** | 131 | 93 | 343 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **111** | 58 | 36 | 205 |
-| [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **109** | 98 | 84 | 291 |
+| [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **109** | 99 | 85 | 293 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **106** | 43 | 23 | 172 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **106** | 42 | 20 | 168 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **105** | 122 | 108 | 335 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **104** | 37 | 12 | 153 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **101** | 126 | 113 | 340 |
+| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **102** | 126 | 114 | 342 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **96** | 85 | 61 | 242 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **95** | 102 | 87 | 284 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **94** | 85 | 59 | 238 |
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | **94** | 34 | 27 | 155 |
 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | **92** | 99 | 67 | 258 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
@@ -54,7 +54,7 @@
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **45** | 32 | 24 | 101 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | **45** | 8 | 8 | 61 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | **44** | 72 | 46 | 162 |
-| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **44** | 22 | 11 | 77 |
+| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **44** | 25 | 12 | 81 |
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **44** | 19 | 7 | 70 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **43** | 50 | 46 | 139 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | **42** | 43 | 51 | 136 |

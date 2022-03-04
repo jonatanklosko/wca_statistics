@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Computed on  3 March 2022*
+*Computed on  4 March 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 7676 |
+| 1.49 | World | 7687 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2471 |
-| 1.59 | South America | 866 |
-| 1.46 | Oceania | 292 |
-| 1.41 | Asia | 2003 |
-| 1.21 | North America | 1962 |
+| 1.77 | Europe | 2474 |
+| 1.59 | South America | 867 |
+| 1.46 | Oceania | 293 |
+| 1.41 | Asia | 2004 |
+| 1.21 | North America | 1967 |
 | 1.16 | Africa | 82 |
 
 ### Countries
@@ -34,7 +34,7 @@
 | 2.00 | Palestine | 1 |
 | 1.95 | Germany | 155 |
 | 1.95 | Slovakia | 22 |
-| 1.94 | United Kingdom | 104 |
+| 1.94 | United Kingdom | 105 |
 | 1.94 | Belgium | 51 |
 | 1.94 | Croatia | 16 |
 | 1.93 | Belarus | 42 |
@@ -45,15 +45,15 @@
 | 1.89 | Uzbekistan | 9 |
 | 1.84 | France | 204 |
 | 1.84 | Ukraine | 91 |
-| 1.83 | Brazil | 298 |
+| 1.83 | Brazil | 299 |
 | 1.83 | Spain | 212 |
 | 1.82 | Austria | 17 |
 | 1.82 | Mexico | 84 |
 | 1.82 | Switzerland | 76 |
 | 1.81 | Thailand | 27 |
 | 1.80 | San Marino | 5 |
-| 1.78 | Denmark | 93 |
-| 1.77 | Norway | 62 |
+| 1.79 | Denmark | 94 |
+| 1.78 | Norway | 63 |
 | 1.77 | Guatemala | 43 |
 | 1.76 | Slovenia | 21 |
 | 1.75 | Sweden | 109 |
@@ -84,7 +84,7 @@
 | 1.48 | Romania | 67 |
 | 1.47 | Israel | 15 |
 | 1.46 | Peru | 141 |
-| 1.46 | Australia | 228 |
+| 1.46 | Australia | 229 |
 | 1.44 | Ecuador | 18 |
 | 1.40 | Paraguay | 15 |
 | 1.40 | Philippines | 186 |
@@ -94,7 +94,7 @@
 | 1.32 | Estonia | 37 |
 | 1.32 | Venezuela | 53 |
 | 1.31 | Chile | 78 |
-| 1.29 | Mongolia | 14 |
+| 1.27 | Mongolia | 15 |
 | 1.26 | China | 615 |
 | 1.25 | Bulgaria | 8 |
 | 1.25 | Greece | 12 |
@@ -111,7 +111,7 @@
 | 1.17 | Andorra | 6 |
 | 1.17 | Panama | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 1570 |
+| 1.16 | United States | 1575 |
 | 1.15 | Canada | 190 |
 | 1.15 | El Salvador | 20 |
 | 1.10 | Azerbaijan | 31 |

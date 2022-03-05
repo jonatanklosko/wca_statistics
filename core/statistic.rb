@@ -1,3 +1,4 @@
+require "time"
 require_relative "database"
 
 class Statistic
@@ -20,9 +21,11 @@ class Statistic
   end
 
   def top
+    timestamp = Time.parse(Database.metadata["export_timestamp"])
+
     markdown = "## #{@title}\n\n"
     markdown += "*Note: #{@note}*\n" if @note
-    markdown + Time.now.strftime("*Computed on %e %B %Y*\n\n")
+    markdown + timestamp.strftime("*Updated on %e %B %Y*\n\n")
   end
 
   def markdown

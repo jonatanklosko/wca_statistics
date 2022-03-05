@@ -28,4 +28,11 @@ module Database
   def self.client
     Mysql2::Client.new(DATABASE_CONFIG)
   end
+
+  def self.metadata
+    self.client
+      .query("SELECT * FROM wca_statistics_metadata")
+      .map { |row| [row["field"], row["value"]] }
+      .to_h
+  end
 end

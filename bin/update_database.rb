@@ -2,6 +2,7 @@
 
 require 'tmpdir'
 require 'fileutils'
+require 'time'
 require_relative "helpers"
 require_relative "../core/database"
 
@@ -40,5 +41,10 @@ Dir.mktmpdir do |tmp_direcory|
         `#{mysql_with_credentials} #{config["database"]} < #{table_filename} #{filter_out_mysql_warning}`
       end
     end
+
+    # Store the export timestamp
+    export_timestamp = File.mtime(filename)
+    store_metadata_sql = "CREATE TABLE wca_statistics_metadata (field varchar(255), value varchar(255)); INSERT INTO wca_statistics_metadata (field, value) VALUES ('export_timestamp', '#{export_timestamp.iso8601}')"
+    `#{mysql_with_credentials} #{config["database"]} -e "#{store_metadata_sql}" #{filter_out_mysql_warning}`
   end
 end

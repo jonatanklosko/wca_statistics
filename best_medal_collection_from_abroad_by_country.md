@@ -1,14 +1,14 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  3 March 2022*
+*Updated on 10 March 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1258** | 1023 | 880 | 3161 |
-| Germany | **725** | 701 | 705 | 2131 |
+| Germany | **725** | 702 | 705 | 2132 |
 | Netherlands | **715** | 593 | 485 | 1793 |
-| United States | **686** | 563 | 488 | 1737 |
+| United States | **692** | 563 | 488 | 1743 |
 | France | **660** | 571 | 471 | 1702 |
 | Russia | **526** | 364 | 298 | 1188 |
 | Poland | **342** | 233 | 169 | 744 |
@@ -16,7 +16,7 @@
 | Malaysia | **319** | 298 | 269 | 886 |
 | Canada | **300** | 311 | 334 | 945 |
 | United Kingdom | **295** | 329 | 338 | 962 |
-| Denmark | **292** | 234 | 171 | 697 |
+| Denmark | **292** | 234 | 172 | 698 |
 | Australia | **275** | 121 | 81 | 477 |
 | Sweden | **274** | 323 | 333 | 930 |
 | Republic of Korea | **213** | 216 | 179 | 608 |
@@ -47,7 +47,7 @@
 | Thailand | **74** | 75 | 35 | 184 |
 | Lithuania | **60** | 70 | 79 | 209 |
 | Philippines | **56** | 66 | 62 | 184 |
-| Slovakia | **49** | 49 | 65 | 163 |
+| Slovakia | **50** | 49 | 65 | 164 |
 | Guatemala | **45** | 33 | 33 | 111 |
 | Norway | **33** | 37 | 52 | 122 |
 | Croatia | **28** | 51 | 38 | 117 |
@@ -56,13 +56,13 @@
 | Brazil | **25** | 30 | 16 | 71 |
 | Uzbekistan | **25** | 21 | 22 | 68 |
 | Belize | **24** | 6 | 1 | 31 |
-| Portugal | **21** | 18 | 17 | 56 |
+| Portugal | **21** | 19 | 17 | 57 |
 | Venezuela | **20** | 25 | 22 | 67 |
+| Costa Rica | **19** | 18 | 19 | 56 |
 | Mongolia | **19** | 18 | 14 | 51 |
-| New Zealand | **18** | 53 | 39 | 110 |
-| Costa Rica | **18** | 17 | 18 | 53 |
-| El Salvador | **16** | 18 | 13 | 47 |
-| South Africa | **15** | 16 | 35 | 66 |
+| New Zealand | **18** | 53 | 40 | 111 |
+| El Salvador | **16** | 19 | 14 | 49 |
+| South Africa | **15** | 16 | 36 | 67 |
 | Kosovo | **15** | 16 | 19 | 50 |
 | Estonia | **14** | 17 | 19 | 50 |
 | Nicaragua | **14** | 5 | 10 | 29 |
@@ -72,7 +72,7 @@
 | Jordan | **9** | 2 | 9 | 20 |
 | Bulgaria | **8** | 25 | 18 | 51 |
 | Serbia | **8** | 13 | 13 | 34 |
-| Pakistan | **8** | 10 | 7 | 25 |
+| Pakistan | **8** | 11 | 7 | 26 |
 | Nigeria | **8** | 10 | 4 | 22 |
 | Bolivia | **8** | 9 | 16 | 33 |
 | Turkey | **8** | 8 | 9 | 25 |

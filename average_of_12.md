@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  3 March 2022*
+*Updated on 10 March 2022*
 
 
 ### Rubik's Cube
@@ -42,8 +42,8 @@
 | 22.54 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 20.88, 23.08, 22.79, 20.89, 25.38, 23.35, 22.88, 21.54, 24.07, 19.65, 24.85, 21.14 |
 | 22.63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 20.98, 29.15, 19.35, 25.46, 22.86, 22.92, 20.50, 22.79, 22.48, 21.66, 22.93, 23.81 |
 | 23.48 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 21.08, 23.49, 24.46, 21.90, 25.08, 24.63, 21.51, 20.55, 27.06, 25.08, 24.19, 23.46 |
+| 24.06 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 23.04, 26.17, 23.06, 25.17, 24.15, 25.42, 23.93, 24.03, 25.21, 21.71, 21.13, 24.89 |
 | 24.29 | [Ari Randers-Pehrson](https://www.worldcubeassociation.org/persons/2017RAND06) | 25.13, 25.21, 25.03, 23.92, 26.19, 21.81, 23.84, 22.81, 22.58, 27.48, 22.99, 25.22 |
-| 24.41 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 20.80, 24.79, 31.46, 25.53, 21.46, 25.29, 25.33, 31.84, 21.62, 21.00, 23.49, 24.13 |
 | 24.45 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 24.50, 24.60, 24.16, 30.46, 23.85, 22.61, 22.98, 23.87, 22.69, 26.65, 27.26, 23.98 |
 | 24.52 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 22.17, 27.12, 23.23, 22.53, 26.91, 24.40, 26.33, 24.64, 22.46, 25.30, 25.26, 24.17 |
 | 24.69 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 20.06, 22.81, 25.08, 23.34, 27.65, 27.42, 25.16, 23.63, 25.83, 23.58, 30.14, 22.42 |
@@ -203,7 +203,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 6.35 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.91, 6.19, 7.42, 5.54, 5.64, 7.29, 6.18, 6.53, 9.15, 6.13, 6.68, 5.15 |
+| 6.27 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.61, 8.48, 5.92, 5.08, 5.99, 7.43, 6.37, 6.06, 5.95, 7.40, 6.82, 5.24 |
 | 6.41 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 6.08, 5.38, 5.65, 5.41, 6.61, 8.06, 6.32, 7.72, 6.44, 6.78, 7.47, 5.69 |
 | 6.56 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 5.84, 6.70, 6.58, 6.31, 9.98, 6.94, 5.56, 5.96, 4.91, 6.65, 7.68, 7.47 |
 | 6.68 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 6.36, 8.43, 6.71, 6.70, 6.53, 12.54, 6.53, 5.44, 7.12, 7.02, 5.80, 5.60 |

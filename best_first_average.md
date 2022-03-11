@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  3 March 2022*
+*Updated on 10 March 2022*
 
 
 ### Rubik's Cube
@@ -15,9 +15,9 @@
 | 8.87 | [Andrew Chen](https://www.worldcubeassociation.org/persons/2018CHEA05) |
 | 8.87 | [Mateo Aguirre](https://www.worldcubeassociation.org/persons/2022AGUI03) |
 | 8.93 | [Taosif Amin Sahil](https://www.worldcubeassociation.org/persons/2017SAHI01) |
-| 8.94 | [Hossein Roshan (حسین بوداغی روشن)](https://www.worldcubeassociation.org/persons/2022ROSH01) |
 | 8.96 | [Reed Tran](https://www.worldcubeassociation.org/persons/2021TRAN06) |
 | 9.06 | [Timothy Yang](https://www.worldcubeassociation.org/persons/2019YANT03) |
+| 9.14 | [Mikhail Tokarev](https://www.worldcubeassociation.org/persons/2021TOKA01) |
 
 ### 2x2x2 Cube
 

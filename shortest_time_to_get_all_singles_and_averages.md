@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  3 March 2022*
+*Updated on 10 March 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -13,6 +13,7 @@
 | 1197 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) |
 | 1198 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
 | 1589 | [Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48) |
+| 1624 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) |
 | 1637 | [Juan Juli Andika Chandra](https://www.worldcubeassociation.org/persons/2009CHAN15) |
 | 1673 | [Peter Chau](https://www.worldcubeassociation.org/persons/2011CHAU05) |
 | 1729 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) |

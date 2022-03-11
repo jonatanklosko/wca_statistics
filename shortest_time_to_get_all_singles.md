@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  3 March 2022*
+*Updated on 10 March 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -14,6 +14,7 @@
 | 361 | [Cesare Paulin](https://www.worldcubeassociation.org/persons/2010PAUL02) |
 | 364 | [Shintaro Nishijo](https://www.worldcubeassociation.org/persons/2014NISH04) |
 | 377 | [Assylkhan Meirkhanov (Асылхан Мейрханов)](https://www.worldcubeassociation.org/persons/2018MEIR04) |
+| 406 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 420 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) |
 | 429 | [Gang Yong-Jin](https://www.worldcubeassociation.org/persons/2015YONG02) |
 | 440 | [Lakshay Modi](https://www.worldcubeassociation.org/persons/2014MODI01) |

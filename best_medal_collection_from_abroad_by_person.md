@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  3 March 2022*
+*Updated on 10 March 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -100,7 +100,7 @@
 | [Manfred Siew Ee Sheng (蕭奕晟)](https://www.worldcubeassociation.org/persons/2009SIEW03) | **24** | 7 | 10 | 41 |
 | [David Remolina Amórtegui](https://www.worldcubeassociation.org/persons/2011AMOR01) | **24** | 3 | 4 | 31 |
 | [Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13) | **23** | 70 | 43 | 136 |
-| [Thomas Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) | **23** | 38 | 30 | 91 |
+| [Thomas Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) | **23** | 38 | 31 | 92 |
 | [Nitin Nathan](https://www.worldcubeassociation.org/persons/2015NATH02) | **23** | 24 | 19 | 66 |
 | [Daniel Grabski](https://www.worldcubeassociation.org/persons/2010GRAB01) | **23** | 23 | 20 | 66 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **23** | 10 | 6 | 39 |

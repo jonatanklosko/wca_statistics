@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  3 March 2022*
+*Updated on 10 March 2022*
 
 
 ### Rubik's Cube
@@ -146,12 +146,12 @@
 | 5.37 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2017SIAU02) |
 | 5.38 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Gislev Side Events 2019](https://www.worldcubeassociation.org/competitions/GislevSideEvents2019/results/by_person#2014DETL01) |
 | 5.44 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/by_person#2014KARN02) |
+| 5.53 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Let's Try Again Spokane 2022](https://www.worldcubeassociation.org/competitions/LetsTryAgainSpokane2022/results/by_person#2017AGGA01) |
 | 5.56 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [SST Warszawa 2021](https://www.worldcubeassociation.org/competitions/SSTWarszawa2021/results/by_person#2013KRAS02) |
 | 5.56 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Richmond Open B 2021](https://www.worldcubeassociation.org/competitions/RichmondOpenB2021/results/by_person#2017AGGA01) |
 | 5.60 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [I Itapê Open 2019](https://www.worldcubeassociation.org/competitions/IItapeOpen2019/results/by_person#2015CECC01) |
 | 5.61 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Going Fast in Idaho 2022](https://www.worldcubeassociation.org/competitions/GoingFastinIdaho2022/results/by_person#2017SIAU02) |
 | 5.65 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Melbourne Summer 2022](https://www.worldcubeassociation.org/competitions/MelbourneSummer2022/results/by_person#2016EPST02) |
-| 5.70 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [SacCubing X 2021](https://www.worldcubeassociation.org/competitions/SacCubingX2021/results/by_person#2017SIAU02) |
 
 ### 3x3x3 With Feet
 

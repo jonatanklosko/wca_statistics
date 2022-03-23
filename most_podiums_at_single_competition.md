@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 March 2022*
+*Updated on 22 March 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -523,6 +523,7 @@
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
 | 11 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Güemes Open 2022](https://www.worldcubeassociation.org/competitions/GuemesOpen2022/results/podiums) |
+| 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/podiums) |
 | 10 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008/results/podiums) |
 | 10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Madrid Open 2008](https://www.worldcubeassociation.org/competitions/MadridOpen2008/results/podiums) |
 | 10 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | [Beijing Spring Open 2008](https://www.worldcubeassociation.org/competitions/BeijingSpringOpen2008/results/podiums) |

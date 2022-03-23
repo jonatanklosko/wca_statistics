@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 March 2022*
+*Updated on 22 March 2022*
 
 
 ### Rubik's Cube
@@ -173,6 +173,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) | 4.57 | **5.83** | [Pittsburgh Winter 2022](https://www.worldcubeassociation.org/competitions/PittsburghWinter2022/results/all#eclock_f) | 4 |
 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | 3.90 | **5.93** | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/all#eclock_f) | 4 |
 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.40 | **6.01** | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/all#eclock_f) | 5 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 5.46 | **6.11** | [Dragon Side Open 2022](https://www.worldcubeassociation.org/competitions/DragonSideOpen2022/results/all#eclock_f) | 4 |
@@ -182,7 +183,6 @@
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 4.95 | **6.26** | [GA Cubers Quiet Quarrel 2021](https://www.worldcubeassociation.org/competitions/GACubersQuietQuarrel2021/results/all#eclock_f) | 4 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 5.67 | **6.28** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#eclock_f) | 4 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 4.98 | **6.31** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#eclock_f) | 4 |
-| [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 5.11 | **6.36** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#eclock_f) | 5 |
 
 ### Skewb
 
@@ -206,13 +206,13 @@
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.09 | **7.39** | [SnoCo Goes Back to Square-1 2021](https://www.worldcubeassociation.org/competitions/SnoCoGoesBacktoSquare12021/results/all#esq1_f) | 4 |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.40 | **7.65** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 7.34 | **7.98** | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/all#esq1_f) | 4 |
+| [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.36 | **8.01** | [Welcome Back Portland 2022](https://www.worldcubeassociation.org/competitions/WelcomeBackPortland2022/results/all#esq1_f) | 4 |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.89 | **8.18** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 4 |
 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.36 | **8.19** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 5 |
 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 7.30 | **8.20** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 6 |
 | [Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01) | 7.77 | **8.30** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 5 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 8.13 | **8.52** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 6 |
 | [Ian Southa](https://www.worldcubeassociation.org/persons/2018SOUT01) | 8.11 | **8.65** | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/all#esq1_f) | 4 |
-| [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.00 | **8.66** | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/all#esq1_f) | 5 |
 
 ### 4x4x4 Blindfolded
 

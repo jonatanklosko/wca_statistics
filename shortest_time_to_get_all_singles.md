@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 March 2022*
+*Updated on 22 March 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -127,6 +127,7 @@
 | 1274 | [Boriss Benzerruki](https://www.worldcubeassociation.org/persons/2011BENZ01) |
 | 1288 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1288 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) |
+| 1288 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 1295 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 1295 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 1295 | [Marco Edoardo Cittar](https://www.worldcubeassociation.org/persons/2015CITT01) |
@@ -184,6 +185,7 @@
 | 1749 | [Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01) |
 | 1765 | [Guanghua Wang (王光华)](https://www.worldcubeassociation.org/persons/2009WANG21) |
 | 1778 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
+| 1806 | [Thor Muto Asmund](https://www.worldcubeassociation.org/persons/2017ASMU01) |
 | 1822 | [Ray Leung Ka Ho (梁家浩)](https://www.worldcubeassociation.org/persons/2012HOLE01) |
 | 1827 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 1833 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) |

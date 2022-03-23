@@ -1,11 +1,11 @@
 ## World records count by person
 
-*Updated on 10 March 2022*
+*Updated on 22 March 2022*
 
 | WRs | Person |
 | ---: | :--- |
 | 121 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 49 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 33 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) |
 | 22 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
@@ -17,8 +17,8 @@
 | 17 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) |
 | 16 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 16 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) |
+| 15 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
 | 15 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) |
-| 14 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
 | 14 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
 | 13 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) |
 | 13 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
@@ -61,6 +61,7 @@
 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
+| 5 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 5 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 4 | [Brandon Lin](https://www.worldcubeassociation.org/persons/2011LINB01) |
@@ -78,7 +79,6 @@
 | 4 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 4 | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) |
 | 4 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
-| 4 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 4 | [Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01) |
 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
 | 3 | [Alexander Yu](https://www.worldcubeassociation.org/persons/2007YUAL01) |
@@ -140,6 +140,7 @@
 | 2 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 2 | [Oskar Åsbrink](https://www.worldcubeassociation.org/persons/2009ASBR01) |
 | 2 | [Patrick Jameson](https://www.worldcubeassociation.org/persons/2007JAME01) |
+| 2 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 2 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) |
 | 2 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 2 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
@@ -223,7 +224,6 @@
 | 1 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) |
 | 1 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
 | 1 | [Olivier Gaucher](https://www.worldcubeassociation.org/persons/2004GAUC01) |
-| 1 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 1 | [Pierre Bouvier](https://www.worldcubeassociation.org/persons/2010BOUV01) |
 | 1 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) |
 | 1 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2009TOMC01) |

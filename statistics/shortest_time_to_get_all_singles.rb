@@ -17,7 +17,12 @@ class ShortestTimeToGetAllSingles < Statistic
         best
       FROM (
         -- People who have single for every official event.
-        SELECT personId FROM RanksSingle GROUP BY personId HAVING COUNT(eventId) = #{Events::OFFICIAL.length}
+        SELECT personId
+        FROM RanksSingle
+        JOIN Events event ON event.id = eventId
+        WHERE event.rank < 900
+        GROUP BY personId
+        HAVING COUNT(eventId) = #{Events::OFFICIAL.length}
       ) AS all_events_people
       JOIN Results result ON result.personId = all_events_people.personId
       JOIN Persons person ON person.id = result.personId and person.subId = 1

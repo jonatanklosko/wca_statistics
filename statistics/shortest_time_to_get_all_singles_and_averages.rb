@@ -21,11 +21,21 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
         average
       FROM (
         -- People who have single for every official event.
-        SELECT personId FROM RanksSingle GROUP BY personId HAVING COUNT(eventId) = #{Events::OFFICIAL.length}
+        SELECT personId
+        FROM RanksSingle
+        JOIN Events event ON event.id = eventId
+        WHERE event.rank < 900
+        GROUP BY personId
+        HAVING COUNT(eventId) = #{Events::OFFICIAL.length}
       ) AS all_events_people
       JOIN (
         -- People who have average for every official event.
-        SELECT personId FROM RanksAverage GROUP BY personId HAVING COUNT(eventId) = #{NUM_EVENTS_WITH_AVERAGES}
+        SELECT personId
+        FROM RanksAverage
+        JOIN Events event ON event.id = eventId
+        WHERE event.rank < 900
+        GROUP BY personId
+        HAVING COUNT(eventId) = #{NUM_EVENTS_WITH_AVERAGES}
       ) AS all_average_people ON all_average_people.personId = all_events_people.personId
       JOIN Results result ON result.personId = all_events_people.personId
       JOIN Persons person ON person.id = result.personId and person.subId = 1

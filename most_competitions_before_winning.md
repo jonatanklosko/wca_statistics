@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 22 March 2022*
+*Updated on 17 April 2022*
 
 
 ### Rubik's Cube
@@ -17,7 +17,7 @@
 | 73 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | [Gdańsk Rubik's Cube Day 2016](https://www.worldcubeassociation.org/competitions/GdanskRubiksCubeDay2016) |
 | 71 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Hotel Cube 2018](https://www.worldcubeassociation.org/competitions/HotelCube2018) |
 | 69 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | [MLWGS Spring 2019](https://www.worldcubeassociation.org/competitions/MLWGSSpring2019) |
-| 66 | [Nobuaki Suga (菅信昭)](https://www.worldcubeassociation.org/persons/2007SUGA01) | [Hokuriku Eve 2013](https://www.worldcubeassociation.org/competitions/HokurikuEveOpen2013) |
+| 67 | [Tyler Howlett](https://www.worldcubeassociation.org/persons/2014HOWL02) | [Bay Area Speedcubin' 29 AM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29AM2022) |
 
 ### 2x2x2 Cube
 

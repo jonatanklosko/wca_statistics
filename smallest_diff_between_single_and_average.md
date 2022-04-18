@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 March 2022*
+*Updated on 17 April 2022*
 
 
 ### Rubik's Cube
@@ -90,9 +90,9 @@
 | 0.10 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) | 6:25.15 | 6:25.25 | [Oregon 2016](https://www.worldcubeassociation.org/competitions/Oregon2016/results/by_person#2007WOOR01) |
 | 0.11 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 3:07.96 | 3:08.07 | [Albany Fall 2019](https://www.worldcubeassociation.org/competitions/AlbanyFall2019/results/by_person#2011FERA01) |
 | 0.15 | [Vadym Perestiuk (Вадим Перестюк)](https://www.worldcubeassociation.org/persons/2016PERE15) | 4:18.29 | 4:18.44 | [Lviv Cube Cup 2017](https://www.worldcubeassociation.org/competitions/LvivCubeCup2017/results/by_person#2016PERE15) |
+| 0.16 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3:06.62 | 3:06.78 | [C4fun League III Lubartów 2022](https://www.worldcubeassociation.org/competitions/C4funLeagueIIILubartow2022/results/by_person#2013OWCZ01) |
 | 0.16 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | 3:51.01 | 3:51.17 | [MCC Alpha 2015](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2015/results/by_person#2009HILD01) |
 | 0.17 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) | 3:03.12 | 3:03.29 | [National Capital Region 2019](https://www.worldcubeassociation.org/competitions/NationalCapitalRegion2019/results/by_person#2010CORM02) |
-| 0.21 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:27.55 | 2:27.76 | [Peterborough Open 2018](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018/results/by_person#2012BEAH01) |
 
 ### 3x3x3 Blindfolded
 
@@ -107,7 +107,7 @@
 | 0.24 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | 23.26 | 23.50 | [Elsass Open 2019](https://www.worldcubeassociation.org/competitions/ElsassOpen2019/results/by_person#2018HABE02) |
 | 0.24 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 23.87 | 24.11 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2013WALL03) |
 | 0.28 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 20.49 | 20.77 | [BrizZon Side Open II 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2021/results/by_person#2017DEBS01) |
-| 0.28 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 22.64 | 22.92 | [Inner Mongolia Summer 2017](https://www.worldcubeassociation.org/competitions/InnerMongoliaSummer2017/results/by_person#2013LINK01) |
+| 0.28 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | 22.54 | 22.82 | [Silent Sydney 2022](https://www.worldcubeassociation.org/competitions/SilentSydney2022/results/by_person#2019EGGI02) |
 
 ### 3x3x3 One-Handed
 
@@ -121,8 +121,8 @@
 | 0.05 | [Naman Jain](https://www.worldcubeassociation.org/persons/2016JAIN04) | 21.24 | 21.29 | [Guwahati Summer Open 2019](https://www.worldcubeassociation.org/competitions/GuwahatiSummerOpen2019/results/by_person#2016JAIN04) |
 | 0.05 | [Trần Hữu Phổ](https://www.worldcubeassociation.org/persons/2017PHTR01) | 29.51 | 29.56 | [Da Nang Open 2018](https://www.worldcubeassociation.org/competitions/DaNangOpen2018/results/by_person#2017PHTR01) |
 | 0.06 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 15.06 | 15.12 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2010WUIF01) |
+| 0.07 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 14.32 | 14.39 | [Ohio State Expo Open 2022](https://www.worldcubeassociation.org/competitions/OhioStateExpoOpen2022/results/by_person#2013LANG03) |
 | 0.07 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) | 15.37 | 15.44 | [Swedish Championship 2019](https://www.worldcubeassociation.org/competitions/SwedishChampionship2019/results/by_person#2011BERG02) |
-| 0.07 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 22.65 | 22.72 | [Berkeley Fall 2014](https://www.worldcubeassociation.org/competitions/BerkeleyFall2014/results/by_person#2011ALVI01) |
 
 ### Megaminx
 
@@ -191,13 +191,13 @@
 | 0.07 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 11.27 | 11.34 | [Hangzhou Autumn 2016](https://www.worldcubeassociation.org/competitions/HangzhouAutumn2016/results/by_person#2013FENG02) |
 | 0.07 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | 33.02 | 33.09 | [Dixon Winter 2013](https://www.worldcubeassociation.org/competitions/DixonWinter2013/results/by_person#2010BREC01) |
 | 0.09 | [Muhammad Hafizuddin Akhtar Bin Mohd Zainal Abidin](https://www.worldcubeassociation.org/persons/2017ABID02) | 12.03 | 12.12 | [Malaysia Cube Championship 2019](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2019/results/by_person#2017ABID02) |
+| 0.09 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 14.42 | 14.51 | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022/results/by_person#2014ZYCH01) |
 | 0.09 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | 16.03 | 16.12 | [Martelli Open Otoño 2019](https://www.worldcubeassociation.org/competitions/MartelliOpenOtono2019/results/by_person#2014BONA02) |
 | 0.10 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) | 11.47 | 11.57 | [Twist 'n Turn Tallinn 2022](https://www.worldcubeassociation.org/competitions/TwistNTurnTallinn2022/results/by_person#2017PIHE01) |
 | 0.12 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) | 8.30 | 8.42 | [Cube Camp in Wonju 2019](https://www.worldcubeassociation.org/competitions/CubeCampinWonju2019/results/by_person#2017KIMJ02) |
 | 0.12 | [Ignacio Ortiz](https://www.worldcubeassociation.org/persons/2015ORTI02) | 21.58 | 21.70 | [Rubik Soletta Concepción 2017](https://www.worldcubeassociation.org/competitions/RubikSolettaConcepcion2017/results/by_person#2015ORTI02) |
 | 0.13 | [Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02) | 9.21 | 9.34 | [Kansai Open 2018](https://www.worldcubeassociation.org/competitions/KansaiOpen2018/results/by_person#2013TAKA02) |
 | 0.13 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 11.00 | 11.13 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2013JOHN10) |
-| 0.13 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | 37.11 | 37.24 | [UIUC Fall 2012](https://www.worldcubeassociation.org/competitions/UIUCFall2012/results/by_person#2010BREC01) |
 
 ### 4x4x4 Blindfolded
 
@@ -223,11 +223,11 @@
 | 7.78 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 8:41.99 | 8:49.77 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019/results/by_person#2016FANG01) |
 | 8.15 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:46.56 | 3:54.71 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/by_person#2013LINK01) |
 | 10.05 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 2:39.12 | 2:49.17 | [Selangor Cube Open 2019](https://www.worldcubeassociation.org/competitions/SelangorCubeOpen2019/results/by_person#2013LINK01) |
+| 12.76 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:33.16 | 6:45.92 | [Farnworth Spring A 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringA2022/results/by_person#2019HIRS01) |
 | 13.18 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 8:49.83 | 9:03.01 | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019/results/by_person#2012HALE01) |
 | 14.82 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 8:29.70 | 8:44.52 | [Jönköping Side Events 2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019/results/by_person#2012HALE01) |
 | 15.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 3:08.88 | 3:23.92 | [Warm Up Canberra 2019](https://www.worldcubeassociation.org/competitions/WarmUpCanberra2019/results/by_person#2016CHAP04) |
 | 15.19 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 2:48.02 | 3:03.21 | [Thailand Championship 2019](https://www.worldcubeassociation.org/competitions/ThailandChampionship2019/results/by_person#2013LINK01) |
-| 15.74 | [Grigorii Alekseev](https://www.worldcubeassociation.org/persons/2015ALEK01) | 4:58.43 | 5:14.17 | [CCC Open Moscow 2019](https://www.worldcubeassociation.org/competitions/CCCOpenMoscow2019/results/by_person#2015ALEK01) |
 
 ### 3x3x3 With Feet
 

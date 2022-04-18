@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 March 2022*
+*Updated on 17 April 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -617,6 +617,7 @@
 | 11 | [Dominik Vidaković](https://www.worldcubeassociation.org/persons/2013VIDA03) | [Montenegro Nationals 2019](https://www.worldcubeassociation.org/competitions/MontenegroNationals2019/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Croatian Open 2018](https://www.worldcubeassociation.org/competitions/CroatianOpen2018/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norwegian Championship 2021](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2021/results/podiums) |
+| 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Vännäs & Friends 2022](https://www.worldcubeassociation.org/competitions/VannasFriends2022/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Ark 2018](https://www.worldcubeassociation.org/competitions/Ark2018/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [SSL 2 Stockholm 2017](https://www.worldcubeassociation.org/competitions/SSL2Stockholm2017/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [SSL 4 Sundsvall 2019](https://www.worldcubeassociation.org/competitions/SSL4Sundsvall2019/results/podiums) |
@@ -818,6 +819,7 @@
 | 10 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Indiana 2019](https://www.worldcubeassociation.org/competitions/Indiana2019/results/podiums) |
 | 11 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [WA State Championship 2021](https://www.worldcubeassociation.org/competitions/WAStateChampionship2021/results/podiums) |
 | 10 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [Darwin Open 2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019/results/podiums) |
+| 13 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
 | 10 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Adelaide Summer 2022](https://www.worldcubeassociation.org/competitions/AdelaideSummer2022/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
@@ -826,6 +828,7 @@
 | 11 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019/results/podiums) |
 | 10 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020/results/podiums) |
 | 15 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [TAS State Championship 2021](https://www.worldcubeassociation.org/competitions/TASStateChampionship2021/results/podiums) |
+| 12 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
 | 11 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Hobart Hoedown 2019](https://www.worldcubeassociation.org/competitions/HobartHoedown2019/results/podiums) |
 | 10 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Summer - Sorell 2022](https://www.worldcubeassociation.org/competitions/Sorell2022/results/podiums) |
 | 10 | [Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01) | [Pönde Open 2019](https://www.worldcubeassociation.org/competitions/PondeOpen2019/results/podiums) |
@@ -892,6 +895,7 @@
 | 10 | [Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15) | [TCG Spring 2019](https://www.worldcubeassociation.org/competitions/TCGSpring2019/results/podiums) |
 | 10 | [Shukrullo Ibragimov](https://www.worldcubeassociation.org/persons/2017IBRA05) | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019/results/podiums) |
 | 10 | [Gerardo Varela](https://www.worldcubeassociation.org/persons/2017VARE01) | [Copa Inframundo HN 2019](https://www.worldcubeassociation.org/competitions/CopaInframundoHN2019/results/podiums) |
+| 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Faria Brito Open 2022](https://www.worldcubeassociation.org/competitions/FariaBritoOpen2022/results/podiums) |
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Arena BSB de Cubo Mágico 2019](https://www.worldcubeassociation.org/competitions/ArenaBSBdeCuboMagico2019/results/podiums) |
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Summer Kube Vila Velha 2020](https://www.worldcubeassociation.org/competitions/SummerKubeVilaVelha2020/results/podiums) |
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Uberlândia Open 2019](https://www.worldcubeassociation.org/competitions/UberlandiaOpen2019/results/podiums) |

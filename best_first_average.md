@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 22 March 2022*
+*Updated on 17 April 2022*
 
 
 ### Rubik's Cube
@@ -31,8 +31,8 @@
 | 2.63 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 2.64 | [Josué Esteban Bacilio Chicoma](https://www.worldcubeassociation.org/persons/2013CHIC01) |
 | 2.65 | [Boris McCoy](https://www.worldcubeassociation.org/persons/2021MCCO01) |
+| 2.66 | [Raihan Sadr](https://www.worldcubeassociation.org/persons/2021SADR01) |
 | 2.82 | [Ellery Dillon](https://www.worldcubeassociation.org/persons/2021DILL03) |
-| 2.86 | [Jeremy Sheng](https://www.worldcubeassociation.org/persons/2019SHEN10) |
 
 ### 4x4x4 Cube
 
@@ -73,11 +73,11 @@
 | 1:46.52 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
 | 1:59.58 | [Semen Artyukhov](https://www.worldcubeassociation.org/persons/2018ARTY01) |
 | 1:59.81 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) |
+| 2:00.38 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 2:02.05 | [Wenjie Lan (兰文杰)](https://www.worldcubeassociation.org/persons/2019LANW02) |
 | 2:07.11 | [Tao Sun (孙涛)](https://www.worldcubeassociation.org/persons/2019SUNT02) |
 | 2:07.29 | [Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) |
 | 2:08.64 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
-| 2:09.29 | [Yi Liu (刘艺)](https://www.worldcubeassociation.org/persons/2019LIUY42) |
 
 ### 7x7x7 Cube
 
@@ -160,6 +160,7 @@
 | ---: | :--- |
 | 2.99 | [Heath Flick](https://www.worldcubeassociation.org/persons/2020FLIC01) |
 | 3.06 | [Yixuan Li (李逸轩)](https://www.worldcubeassociation.org/persons/2018LIYI14) |
+| 3.25 | [Ilario Joaquín Chiacchiarini](https://www.worldcubeassociation.org/persons/2022CHIA06) |
 | 3.33 | [Bo-Yan Wu (吳柏彥)](https://www.worldcubeassociation.org/persons/2019WUBO01) |
 | 3.41 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
 | 3.47 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) |
@@ -167,7 +168,6 @@
 | 3.89 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 3.91 | [Haoze Liu (刘浩泽)](https://www.worldcubeassociation.org/persons/2019LIUH04) |
 | 4.21 | [Josué Pardo Chambi](https://www.worldcubeassociation.org/persons/2017CHAM06) |
-| 4.28 | [Lim Chun Yik](https://www.worldcubeassociation.org/persons/2018YIKL01) |
 
 ### Rubik's Clock
 
@@ -227,7 +227,7 @@
 | 11:08.00 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) |
 | 11:17.00 | [Dominik Obara](https://www.worldcubeassociation.org/persons/2021OBAR01) |
 | 11:32.00 | [Jens Grieme](https://www.worldcubeassociation.org/persons/2019GRIE05) |
-| 13:14.00 | [Zheng Shen (申正)](https://www.worldcubeassociation.org/persons/2017SHEN06) |
+| 12:28.00 | [Alistair Miller](https://www.worldcubeassociation.org/persons/2017MILL12) |
 
 ### 5x5x5 Blindfolded
 

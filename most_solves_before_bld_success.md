@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 22 March 2022*
+*Updated on 17 April 2022*
 
 
 ### 3x3x3 Blindfolded
@@ -25,7 +25,7 @@
 | 27 | [Kymberlyn Calderon](https://www.worldcubeassociation.org/persons/2015CALD02) |
 | 26 | [Emmet Hobbs](https://www.worldcubeassociation.org/persons/2016HOBB01) |
 | 25 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
-| 25 | [Jessica Moens](https://www.worldcubeassociation.org/persons/2015MOEN01) |
+| 25 | [Jesse Moens](https://www.worldcubeassociation.org/persons/2015MOEN01) |
 | 24 | [Mikhail Kuzin](https://www.worldcubeassociation.org/persons/2015KUZI01) |
 
 ### 4x4x4 Blindfolded

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 22 March 2022*
+*Updated on 17 April 2022*
 
 
 ### Rubik's Cube
@@ -40,6 +40,7 @@
 | ---: | :--- |
 | 31.17 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 31.25 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
+| 31.47 | [Aditya Bareja](https://www.worldcubeassociation.org/persons/2022BARE01) |
 | 32.68 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
 | 34.60 | [Melvin Tan](https://www.worldcubeassociation.org/persons/2021TANM01) |
 | 34.72 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
@@ -47,7 +48,6 @@
 | 35.07 | [Aleksandr Nedelko](https://www.worldcubeassociation.org/persons/2020NEDE01) |
 | 35.11 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) |
 | 35.28 | [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) |
-| 35.38 | [Jaime Botello García](https://www.worldcubeassociation.org/persons/2016GARC52) |
 
 ### 5x5x5 Cube
 
@@ -92,7 +92,7 @@
 | 2:49.73 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2017TUNG04) |
 | 2:49.76 | [Aleksandr Nedelko](https://www.worldcubeassociation.org/persons/2020NEDE01) |
 | 2:53.80 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) |
-| 3:02.05 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) |
+| 3:00.49 | [Nathan Phillips](https://www.worldcubeassociation.org/persons/2021PHIL05) |
 
 ### 3x3x3 Blindfolded
 
@@ -113,15 +113,15 @@
 
 | First single | Person |
 | ---: | :--- |
-| 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
 | 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
+| 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
 | 25 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) |
 | 25 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 25 | [Inha Woo (우인하)](https://www.worldcubeassociation.org/persons/2010INHA01) |
 | 26 | [Ali Salavati (علی صلواتی)](https://www.worldcubeassociation.org/persons/2011SALA04) |
 | 26 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
-| 27 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
 | 27 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
+| 27 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
 | 27 | [Claudio Müller](https://www.worldcubeassociation.org/persons/2010MLLE01) |
 
 ### 3x3x3 One-Handed
@@ -206,13 +206,13 @@
 | 8.70 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
 | 9.01 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 9.46 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) |
+| 10.18 | [Caique Crispim de Lima](https://www.worldcubeassociation.org/persons/2018LIMA24) |
 | 10.29 | [Boqin Zhao (赵博钦)](https://www.worldcubeassociation.org/persons/2017ZHAO32) |
 | 10.63 | [Tatsuya Kusanagi (草彅達也)](https://www.worldcubeassociation.org/persons/2018KUSA02) |
 | 10.80 | [Zhibo Xuan (禤志博)](https://www.worldcubeassociation.org/persons/2017XUAN01) |
+| 11.28 | [Pedro Lobeto Miyamoto](https://www.worldcubeassociation.org/persons/2019MIYA05) |
 | 11.33 | [Tom Wilkinson](https://www.worldcubeassociation.org/persons/2019WILK04) |
 | 11.44 | [Alexander Persaud](https://www.worldcubeassociation.org/persons/2019PERS02) |
-| 11.50 | [Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01) |
-| 11.53 | [Daniel Forejtek](https://www.worldcubeassociation.org/persons/2021FORE01) |
 
 ### 4x4x4 Blindfolded
 

@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 17 April 2022*
+*Updated on 18 April 2022*
 
 | Finals | Person |
 | ---: | :--- |
@@ -19,8 +19,8 @@
 | 1125 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1105 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
+| 1066 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1065 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 1064 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1045 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 1002 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 981 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
@@ -39,8 +39,8 @@
 | 878 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 857 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 841 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
+| 825 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 818 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
-| 814 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 810 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 788 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 773 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
@@ -52,12 +52,12 @@
 | 746 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 746 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 745 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
+| 734 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 731 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
+| 729 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 729 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 725 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 718 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
+| 709 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 709 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
-| 708 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 695 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 692 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 692 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
@@ -86,10 +86,10 @@
 | 623 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 620 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 619 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
-| 614 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
+| 618 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 611 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 609 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 609 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
+| 609 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 608 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
 | 598 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
 | 598 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |

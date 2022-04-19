@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 17 April 2022*
+*Updated on 18 April 2022*
 
 
 ### Rubik's Cube - Single
@@ -32,7 +32,7 @@
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **6.06** | United States | [Port Huron Speedcubing 2022](https://www.worldcubeassociation.org/competitions/PortHuronSpeedcubing2022) | 5.71, 7.97, 5.38, 5.91, 6.57 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **6.10** | Australia | [Adelaide Summer 2022](https://www.worldcubeassociation.org/competitions/AdelaideSummer2022) | 6.50, 6.81, 5.97, 5.82, 5.58 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **6.12** | United States | [NA Stadium Series - Gree... 2022](https://www.worldcubeassociation.org/competitions/NAStadiumSeriesGreenBay2022) | 7.96, 6.15, 5.35, 6.35, 5.87 |
-| [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **6.32** | United States | [PLU NxN 2022](https://www.worldcubeassociation.org/competitions/PLUNxN2022) | 6.14, 6.07, 6.69, 6.33, 6.49 |
+| [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | **6.22** | Netherlands | [Dutch Spring 2022](https://www.worldcubeassociation.org/competitions/DutchSpring2022) | 6.58, 5.97, 5.59, 6.12, 6.91 |
 
 ### 2x2x2 Cube - Single
 
@@ -62,7 +62,7 @@
 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) | **1.46** | Israel | [Kubiat Esther 2022](https://www.worldcubeassociation.org/competitions/KubiatEsther2022) | 1.28, 1.70, 1.16, 1.40, 1.96 |
 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | **1.47** | Canada | [Port Huron Speedcubing 2022](https://www.worldcubeassociation.org/competitions/PortHuronSpeedcubing2022) | 1.72, 1.41, 4.57, 1.12, 1.27 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | **1.50** | United States | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022) | 1.58, 0.94, 1.20, 2.12, 1.72 |
-| [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | **1.55** | Australia | [Melbourne Mini Sunday 2022](https://www.worldcubeassociation.org/competitions/MelbourneMiniSunday2022) | 1.34, 1.62, 1.65, 1.38, 2.27 |
+| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **1.54** | Denmark | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022) | 2.63, 1.08, 1.09, 1.76, 1.78 |
 
 ### 4x4x4 Cube - Single
 
@@ -135,8 +135,8 @@
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **1:22.01** | Australia | [Melbourne Summer 2022](https://www.worldcubeassociation.org/competitions/MelbourneSummer2022) | 1:22.01, 1:25.75, 1:30.36 |
 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **1:27.11** | United States | [GA Cubers Big Goobers 2022](https://www.worldcubeassociation.org/competitions/GACubersBigGoobers2022) | 1:35.43, 1:27.11, 1:45.29 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **1:27.13** | United States | [PLU NxN 2022](https://www.worldcubeassociation.org/competitions/PLUNxN2022) | 1:46.13, 1:27.13, 1:39.50 |
+| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **1:27.36** | Denmark | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022) | 1:46.10, 1:27.36, 1:35.40 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | **1:27.38** | United Kingdom | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) | 1:48.90, 1:37.02, 1:27.38 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **1:27.64** | Denmark | [Roskilde by Night 2022](https://www.worldcubeassociation.org/competitions/RoskildeByNight2022) | 1:48.64, 1:27.64, 1:48.94 |
 | [Peter Grassard](https://www.worldcubeassociation.org/persons/2016GRAS01) | **1:28.84** | France | [Montpellier Open 2022](https://www.worldcubeassociation.org/competitions/MontpellierOpen2022) | 1:42.01, 1:41.91, 1:28.84 |
 
 ### 6x6x6 Cube - Average
@@ -151,8 +151,8 @@
 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | **1:35.27** | United States | [GA Cubers Big Goobers 2022](https://www.worldcubeassociation.org/competitions/GACubersBigGoobers2022) | 1:30.99, 1:37.45, 1:37.38 |
 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **1:35.94** | United States | [GA Cubers Big Goobers 2022](https://www.worldcubeassociation.org/competitions/GACubersBigGoobers2022) | 1:35.43, 1:27.11, 1:45.29 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | **1:36.07** | United Kingdom | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) | 1:35.27, 1:44.12, 1:28.81 |
+| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **1:36.29** | Denmark | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022) | 1:46.10, 1:27.36, 1:35.40 |
 | [Shih-Hao Wang (王士豪)](https://www.worldcubeassociation.org/persons/2015WANG46) | **1:36.94** | Taiwan | [Kaohsiung Winter Open 2022](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2022) | 1:35.58, 1:40.88, 1:34.37 |
-| [Kunal Oak](https://www.worldcubeassociation.org/persons/2015OAKK01) | **1:37.49** | India | [Cubing Returns Ghaziabad 2022](https://www.worldcubeassociation.org/competitions/CubingReturnsGhaziabad2022) | 1:32.53, 1:38.38, 1:41.57 |
 
 ### 7x7x7 Cube - Single
 
@@ -237,8 +237,8 @@
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **22.33** | United States | [Mini Minnesota Spring 2022](https://www.worldcubeassociation.org/competitions/MiniMinnesotaSpring2022) | 23, 23, 21 |
 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) | **22.67** | United States | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) | 20, 25, 23 |
 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | **23.00** | United States | [Mini Minnesota Spring 2022](https://www.worldcubeassociation.org/competitions/MiniMinnesotaSpring2022) | 24, 23, 22 |
-| [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **23.67** | United States | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) | 23, 25, 23 |
 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | **23.67** | United States | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) | 25, 24, 22 |
+| [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **23.67** | United States | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) | 23, 25, 23 |
 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | **24.00** | United States | [GA Cubers Celebration 2022](https://www.worldcubeassociation.org/competitions/GACubersCelebration2022) | 22, 21, 29 |
 | [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | **24.00** | France | [PoliMi Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoliMiMentalBreakdown2022) | 24, 24, 24 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **24.00** | Poland | [WLTD Poznań Side Open 2022](https://www.worldcubeassociation.org/competitions/WLTDPoznanSideOpen2022) | 24, 23, 25 |
@@ -375,9 +375,9 @@
 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | **1.41** | Italy | [One Looking in Cavarzere 2022](https://www.worldcubeassociation.org/competitions/OneLookinginCavarzere2022) | 1.41, 2.84, 4.05, 4.08, 3.64 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.43** | United States | [Deerfield Winter 2022](https://www.worldcubeassociation.org/competitions/DeerfieldWinter2022) | 1.43, 2.05, 2.25, 2.25, 1.58 |
 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | **1.46** | United States | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022) | 3.48, 5.68, 1.47, 1.46, 2.98 |
+| [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | **1.55** | United States | [Cubing in Craig 2022](https://www.worldcubeassociation.org/competitions/CubinginCraig2022) | 4.36, 2.86, 1.55, 1.97, DNF |
 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | **1.63** | Australia | [Darwin Open 2022](https://www.worldcubeassociation.org/competitions/DarwinOpen2022) | 4.15, 3.59, 1.63, 3.29, 5.81 |
 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | **1.68** | France | [Dontrien Open 2022](https://www.worldcubeassociation.org/competitions/DontrienOpen2022) | 1.68, 3.00, 4.17, 2.06, 5.61 |
-| [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | **1.70** | United States | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022) | 2.85, 3.41, 1.87, 1.70, 1.88 |
 
 ### Skewb - Average
 
@@ -388,11 +388,11 @@
 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | **2.14** | France | [Dontrien Open 2022](https://www.worldcubeassociation.org/competitions/DontrienOpen2022) | 2.91, 2.16, 2.05, 2.21, 1.91 |
 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | **2.20** | United States | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022) | 2.85, 3.41, 1.87, 1.70, 1.88 |
 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | **2.42** | Finland | [Tietomaa Open 2022](https://www.worldcubeassociation.org/competitions/TietomaaOpen2022) | 2.51, 3.41, 2.82, 1.93, 1.91 |
+| [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | **2.52** | United States | [Cubing in Craig 2022](https://www.worldcubeassociation.org/competitions/CubinginCraig2022) | 2.03, 3.93, 2.30, 2.01, 3.22 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **2.53** | United States | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022) | 3.46, 1.63, 2.57, 1.80, 3.21 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **2.58** | New Zealand | [Palmerston North 2022](https://www.worldcubeassociation.org/competitions/PalmerstonNorth2022) | 2.47, 2.03, 2.55, 2.72, 5.29 |
 | [Maxence Baudry](https://www.worldcubeassociation.org/persons/2014BAUD02) | **2.64** | France | [Dontrien Open 2022](https://www.worldcubeassociation.org/competitions/DontrienOpen2022) | 2.64, 3.47, 3.34, 1.95, 1.84 |
 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | **2.64** | United States | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022) | 3.48, 5.68, 1.47, 1.46, 2.98 |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **2.64** | Spain | [Cervantes Cubea 2022](https://www.worldcubeassociation.org/competitions/CervantesCubea2022) | 2.55, 5.44, 2.54, 2.83, 2.31 |
 
 ### Square-1 - Single
 
@@ -420,9 +420,9 @@
 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **6.56** | Denmark | [DSF Generalforsamlingen 2022](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2022) | 6.27, 8.90, 6.49, 6.28, 6.92 |
 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | **6.81** | United States | [Welcome Back Portland 2022](https://www.worldcubeassociation.org/competitions/WelcomeBackPortland2022) | 5.58, 6.81, 10.39, 7.74, 5.89 |
 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | **7.01** | Italy | [Pesaro Open 2022](https://www.worldcubeassociation.org/competitions/PesaroOpen2022) | 5.56, 8.75, 6.22, 6.77, 8.03 |
+| [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | **7.22** | United States | [Cubing in Craig 2022](https://www.worldcubeassociation.org/competitions/CubinginCraig2022) | 7.85, 7.18, 6.62, 10.29, 6.47 |
 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | **7.48** | United Kingdom | [Farnworth Spring D 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringD2022) | 7.16, 7.69, 10.31, 7.58, 6.96 |
 | [Yi-Ho Hsueh (薛以和)](https://www.worldcubeassociation.org/persons/2016HSUE01) | **7.50** | Taiwan | [Kaohsiung Winter Open 2022](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2022) | 7.69, 6.92, 6.71, 10.22, 7.88 |
-| [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | **7.54** | New Zealand | [Popping Off Pukekohe A 2022](https://www.worldcubeassociation.org/competitions/PoppingOffPukekoheA2022) | 7.36, 9.34, 7.03, 8.16, 7.10 |
 
 ### 4x4x4 Blindfolded - Single
 

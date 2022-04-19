@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 17 April 2022*
+*Updated on 18 April 2022*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -13,8 +13,8 @@
 | 149 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 135 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 130 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 128 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 126 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 124 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 120 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 116 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 115 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |

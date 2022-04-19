@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 17 April 2022*
+*Updated on 18 April 2022*
 
 
 ### Rubik's Cube - Single
@@ -299,7 +299,7 @@
 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | **47.56** | United States | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018) | 46.71, 46.19, 47.73, 48.25, 58.91 |
 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | **48.87** | Colombia | [Bogotá Winter Cube 2018](https://www.worldcubeassociation.org/competitions/BogotaWinterCube2018) | 44.76, 51.57, 50.27, 44.16, DNF |
 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) | **49.69** | Germany | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019) | 50.18, 49.34, 46.93, 53.09, 49.56 |
-| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **51.39** | Denmark | [DSF Generalforsamlingen 2022](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2022) | 54.38, 47.78, 52.22, 54.17, 47.76 |
+| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **51.04** | Denmark | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022) | 48.02, 54.15, 59.51, 48.30, 50.68 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **52.09** | Poland | [Dragon Cubing 2019](https://www.worldcubeassociation.org/competitions/DragonCubing2019) | 49.19, 52.42, 1:00.96, 54.67, 46.54 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **52.35** | United States | [Minnesota Cube Melt 2019](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2019) | 53.41, 51.34, 50.09, 59.90, 52.30 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **52.77** | Sweden | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) | 48.17, 56.20, 1:01.09, 50.75, 51.35 |
@@ -413,7 +413,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | **7.85** | United States | [Missoula 2021](https://www.worldcubeassociation.org/competitions/Missoula2021) | 6.32, 8.09, 9.15, 19.38, 5.86 |
+| [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | **7.22** | United States | [Cubing in Craig 2022](https://www.worldcubeassociation.org/competitions/CubinginCraig2022) | 7.85, 7.18, 6.62, 10.29, 6.47 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **7.92** | United States | [Deerfield Winter 2022](https://www.worldcubeassociation.org/competitions/DeerfieldWinter2022) | 8.59, 6.39, 7.96, 7.82, 7.98 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **8.42** | United States | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019) | 7.18, 8.68, 8.11, 10.15, 8.47 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **8.46** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 9.30, 8.58, 7.48, 8.01, 8.80 |

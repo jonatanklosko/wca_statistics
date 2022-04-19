@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 17 April 2022*
+*Updated on 18 April 2022*
 
 
 ### Rubik's Cube
@@ -144,6 +144,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.02 | [Yi Wang (王旖)](https://www.worldcubeassociation.org/persons/2011WANG33) | 2.98 | 3.00 | [Suzhou Open 2017](https://www.worldcubeassociation.org/competitions/SuzhouOpen2017/results/by_person#2011WANG33) |
+| 0.02 | [Kasper Warberg Borg](https://www.worldcubeassociation.org/persons/2020BORG01) | 9.37 | 9.39 | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022/results/by_person#2020BORG01) |
 | 0.04 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 2.48 | 2.52 | [Liberty Science Center Open 2019](https://www.worldcubeassociation.org/competitions/LibertyScienceCenterOpen2019/results/by_person#2017HONG17) |
 | 0.04 | [Justin Andrew Dee](https://www.worldcubeassociation.org/persons/2015DEEJ02) | 3.12 | 3.16 | [Marikina City Open II 2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019/results/by_person#2015DEEJ02) |
 | 0.04 | [Nolan Wood](https://www.worldcubeassociation.org/persons/2016WOOD01) | 4.21 | 4.25 | [Arnold Classic NA 2019](https://www.worldcubeassociation.org/competitions/ArnoldClassicNorthAmerica2019/results/by_person#2016WOOD01) |
@@ -152,7 +153,6 @@
 | 0.04 | [Aaryan Mehta](https://www.worldcubeassociation.org/persons/2015MEHT02) | 8.61 | 8.65 | [SCMU ICT Open 2016](https://www.worldcubeassociation.org/competitions/SCMUICTOpen2016/results/by_person#2015MEHT02) |
 | 0.04 | [Seungmin Lee](https://www.worldcubeassociation.org/persons/2017LEES10) | 9.05 | 9.09 | [Atlantic Open Fall 2017](https://www.worldcubeassociation.org/competitions/AOF2017/results/by_person#2017LEES10) |
 | 0.04 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | 21.21 | 21.25 | [III Masovian Open 2019](https://www.worldcubeassociation.org/competitions/IIIMasovianOpen2019/results/by_person#2016SALA18) |
-| 0.05 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 2.59 | 2.64 | [Wuxi Autumn 2018](https://www.worldcubeassociation.org/competitions/WuxiAutumn2018/results/by_person#2015FENG12) |
 
 ### Rubik's Clock
 

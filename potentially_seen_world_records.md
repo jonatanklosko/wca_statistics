@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 18 April 2022*
+*Updated on  3 May 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -40,10 +40,10 @@
 | 93 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) |
 | 92 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 91 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
+| 91 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
 | 90 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
 | 90 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) |
 | 90 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |
-| 90 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
 | 89 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
 | 89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 88 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |

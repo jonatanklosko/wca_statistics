@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 18 April 2022*
+*Updated on  3 May 2022*
 
 
 ### Rubik's Cube
@@ -32,7 +32,7 @@
 | 0.02 | [John Mackie](https://www.worldcubeassociation.org/persons/2016MACK07) | 6.77 | 6.79 | [Phillips Exeter Cube Day 2016](https://www.worldcubeassociation.org/competitions/PhillipsExeterCubeDay2016/results/by_person#2016MACK07) |
 | 0.02 | [Elijahquim Rafael Peñafiel](https://www.worldcubeassociation.org/persons/2019PENA04) | 7.07 | 7.09 | [Luzon Championship 2019](https://www.worldcubeassociation.org/competitions/LuzonChampionship2019/results/by_person#2019PENA04) |
 | 0.02 | [Marilena Tsakonopoulou](https://www.worldcubeassociation.org/persons/2017TSAK01) | 7.32 | 7.34 | [Greece Spring Open 2017](https://www.worldcubeassociation.org/competitions/GreeceSpringOpen2017/results/by_person#2017TSAK01) |
-| 0.03 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 2.09 | 2.12 | [Virginia Open Winter 2017](https://www.worldcubeassociation.org/competitions/VirginiaOpenWinter2017/results/by_person#2012CALL01) |
+| 0.03 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 1.49 | 1.52 | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/by_person#2017HERN11) |
 
 ### 4x4x4 Cube
 
@@ -101,13 +101,13 @@
 | 0.02 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 34.14 | 34.16 | [Battle of Waterloo 2017](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2017/results/by_person#2010WANG68) |
 | 0.11 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 24.64 | 24.75 | [Arnold Open 2018](https://www.worldcubeassociation.org/competitions/ArnoldOpen2018/results/by_person#2014PARR02) |
 | 0.13 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | 36.81 | 36.94 | [Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017/results/by_person#2014ZHAO12) |
+| 0.14 | [Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02) | 41.36 | 41.50 | [Wonderful Williamstown 2022](https://www.worldcubeassociation.org/competitions/WonderfulWilliamstown2022/results/by_person#2015SRIN02) |
 | 0.21 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 23.32 | 23.53 | [UCSD Winter 2020](https://www.worldcubeassociation.org/competitions/UCSDWinter2020/results/by_person#2016SIGG01) |
 | 0.21 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 23.92 | 24.13 | [China's 10th Anniversary 2017](https://www.worldcubeassociation.org/competitions/China10years2017/results/by_person#2013LINK01) |
 | 0.23 | [Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02) | 27.53 | 27.76 | [Bratislava Open 2016](https://www.worldcubeassociation.org/competitions/BratislavaOpen2016/results/by_person#2009BART02) |
 | 0.24 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | 23.26 | 23.50 | [Elsass Open 2019](https://www.worldcubeassociation.org/competitions/ElsassOpen2019/results/by_person#2018HABE02) |
 | 0.24 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 23.87 | 24.11 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2013WALL03) |
 | 0.28 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 20.49 | 20.77 | [BrizZon Side Open II 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2021/results/by_person#2017DEBS01) |
-| 0.28 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | 22.54 | 22.82 | [Silent Sydney 2022](https://www.worldcubeassociation.org/competitions/SilentSydney2022/results/by_person#2019EGGI02) |
 
 ### 3x3x3 One-Handed
 

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 18 April 2022*
+*Updated on  3 May 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -118,6 +118,7 @@
 | 2 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) |
 | 2 | [Dan Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA03) |
 | 2 | [Dan Knights](https://www.worldcubeassociation.org/persons/2003KNIG01) |
+| 2 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
 | 2 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
 | 2 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 2 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
@@ -173,7 +174,6 @@
 | 1 | [Constantin Ceausu](https://www.worldcubeassociation.org/persons/2006CEAU01) |
 | 1 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) |
 | 1 | [Danyang Chen (陈丹阳)](https://www.worldcubeassociation.org/persons/2007DANY01) |
-| 1 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
 | 1 | [Fakhri Raihaan](https://www.worldcubeassociation.org/persons/2010RAIH01) |
 | 1 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
 | 1 | [Grant Tregay](https://www.worldcubeassociation.org/persons/2003TREG02) |
@@ -189,6 +189,7 @@
 | 1 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 1 | [Jackey Zheng](https://www.worldcubeassociation.org/persons/2017ZHEN10) |
 | 1 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) |
+| 1 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
 | 1 | [Javier París](https://www.worldcubeassociation.org/persons/2005PARI01) |
 | 1 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 1 | [Jess Bonde](https://www.worldcubeassociation.org/persons/2003BOND01) |

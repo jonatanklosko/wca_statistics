@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 18 April 2022*
+*Updated on  3 May 2022*
 
 | Countries | Person |
 | ---: | :--- |
@@ -23,17 +23,17 @@
 | 23 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
+| 22 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 21 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 21 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 21 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 21 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 20 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 20 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 20 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 20 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 20 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 20 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
-| 20 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 19 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
@@ -63,6 +63,7 @@
 | 16 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 16 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
+| 15 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 15 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 15 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 15 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
@@ -71,7 +72,6 @@
 | 15 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 15 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 15 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |
-| 14 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 14 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 14 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 14 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |

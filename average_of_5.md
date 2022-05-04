@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 18 April 2022*
+*Updated on  3 May 2022*
 
 
 ### Rubik's Cube
@@ -143,31 +143,31 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 29.60 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 28.09, 28.00, 26.50, 34.26, 32.72 |
 | 30.12 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 28.50, 31.19, 29.97, 31.07, 29.34 |
 | 30.53 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 29.93, 34.35, 31.70, 29.98, 28.57 |
-| 30.65 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 30.81, 32.86, 31.15, 30.00, 29.96 |
 | 31.73 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.84, 31.53, 32.84, 36.09, 30.84 |
 | 31.74 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 30.84, 36.43, 30.89, 32.94, 31.41 |
 | 32.89 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 29.67, 36.92, 36.16, 32.68, 29.85 |
 | 33.24 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | 34.32, 31.91, 41.49, 33.51, 30.89 |
 | 33.77 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 34.69, 35.26, 32.26, 32.84, 33.78 |
-| 34.65 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 34.20, 34.24, 35.52, 42.19, 33.13 |
-| 35.02 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 35.64, 38.91, 32.46, 35.63, 33.79 |
+| 34.02 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 33.82, 41.36, 34.28, 31.75, 33.96 |
+| 34.42 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 35.05, 41.50, 34.18, 34.04, 32.56 |
 
 ### Pyraminx
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 1.63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.74, 1.39, 2.69, 1.76, 1.33 |
+| 1.65 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.82, 1.15, 1.53, 1.86, 1.62 |
 | 1.72 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.27, 1.84, 2.51, 1.15, 2.07 |
 | 1.76 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 1.91, 1.62, 1.67, 5.49, 1.71 |
 | 1.78 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | DNF, 1.24, 1.67, 1.59, 2.10 |
-| 1.79 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.85, 1.66, 2.86, 1.87, 1.65 |
 | 1.80 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.74, 1.98, 1.69, 2.40, 1.18 |
 | 1.84 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.17, 3.99, 1.39, 1.80, 2.33 |
 | 1.85 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | 1.83, 1.55, 1.54, 4.00, 2.17 |
+| 1.87 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.81, 2.02, 1.87, 1.42, 1.95 |
 | 1.89 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.80, 2.12, 3.01, 1.75, 1.31 |
-| 1.91 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.83, 1.77, 3.06, 2.14, 1.68 |
-| 1.93 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.84, 1.87, 2.61, 1.47, 2.08 |
 
 ### Rubik's Clock
 
@@ -210,8 +210,8 @@
 | 6.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.88, 5.56, 8.56, 6.19, 5.49 |
 | 6.23 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | 5.89, 8.42, 6.02, 6.26, 6.41 |
 | 6.25 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.44, 8.39, 5.12, 6.28, 7.05 |
+| 6.43 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 6.17, 6.83, 6.31, 7.52, 6.07 |
 | 6.45 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 6.53, 5.44, 7.12, 7.02, 5.80 |
-| 6.53 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 7.35, 6.15, 7.37, 6.04, 6.11 |
 | 6.55 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 6.66, 5.56, 8.75, 6.22, 6.77 |
 
 ### 4x4x4 Blindfolded

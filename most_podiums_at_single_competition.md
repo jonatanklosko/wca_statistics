@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 18 April 2022*
+*Updated on  3 May 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -150,6 +150,7 @@
 | 13 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Chachya Open 2017](https://www.worldcubeassociation.org/competitions/ChachyaOpen2017/results/podiums) |
 | 13 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Campeonato Brasileiro 2019](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2019/results/podiums) |
 | 13 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [II Mineirim Open 2019](https://www.worldcubeassociation.org/competitions/IIMineirimOpen2019/results/podiums) |
+| 13 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Oficina Open 2022](https://www.worldcubeassociation.org/competitions/OficinaOpen2022/results/podiums) |
 | 13 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesian Championship 2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019/results/podiums) |
 | 13 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Bulldog Qualifier 2019](https://www.worldcubeassociation.org/competitions/BulldogQualifier2019/results/podiums) |
 | 13 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
@@ -646,6 +647,7 @@
 | 10 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | [Bosnia and Herzegovina Open 2016](https://www.worldcubeassociation.org/competitions/BosniaandHerzegovinaOpen2016/results/podiums) |
 | 10 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | [Osijek Open 2016](https://www.worldcubeassociation.org/competitions/OsijekOpen2016/results/podiums) |
 | 10 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | [Slovenian Nationals 2019](https://www.worldcubeassociation.org/competitions/SlovenianNationals2019/results/podiums) |
+| 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [ACA 7th Anniversary 2022](https://www.worldcubeassociation.org/competitions/ACA7thAnniversary2022/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Helsinki Open 2017](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2017/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2017](https://www.worldcubeassociation.org/competitions/OuluOpen2017/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Pulmapelipäivät 2018](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2018/results/podiums) |

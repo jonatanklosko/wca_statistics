@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 18 April 2022*
+*Updated on  3 May 2022*
 
 
 ### Rubik's Cube
@@ -24,6 +24,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06) | 1.22 | **1.57** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e222_f) | 4 |
+| [Derek Hsieh](https://www.worldcubeassociation.org/persons/2016HSIE02) | 1.45 | **1.71** | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/all#e222_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.32 | **1.77** | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/all#e222_f) | 4 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 1.36 | **1.80** | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/all#e222_f) | 4 |
 | [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | 1.73 | **1.80** | [China Championship 2019](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all#e222_f) | 4 |
@@ -32,7 +33,6 @@
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.61 | **1.83** | [Slow N Steady Spring 2022](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2022/results/all#e222_f) | 4 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 1.11 | **1.84** | [Hangzhou Open AM 2021](https://www.worldcubeassociation.org/competitions/HangzhouOpenAM2021/results/all#e222_f) | 4 |
 | [Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01) | 1.57 | **1.84** | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019/results/all#e222_f) | 4 |
-| [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.29 | **1.85** | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/all#e222_f) | 4 |
 
 ### 4x4x4 Cube
 
@@ -158,6 +158,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2.04 | **2.40** | [Cube4fun Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022/results/all#epyram_f) | 4 |
 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.18 | **2.44** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 4 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.50 | **2.48** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 5 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.33 | **2.52** | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/all#epyram_f) | 4 |
@@ -167,7 +168,6 @@
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 2.51 | **2.64** | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/all#epyram_f) | 4 |
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.99 | **2.67** | [Flag City Fall 2019](https://www.worldcubeassociation.org/competitions/FlagCityFall2019/results/all#epyram_f) | 4 |
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 2.20 | **2.68** | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021/results/all#epyram_f) | 4 |
-| [Kevin Min](https://www.worldcubeassociation.org/persons/2015MINK04) | 1.73 | **2.70** | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 
@@ -205,14 +205,14 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.09 | **7.39** | [SnoCo Goes Back to Square-1 2021](https://www.worldcubeassociation.org/competitions/SnoCoGoesBacktoSquare12021/results/all#esq1_f) | 4 |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.40 | **7.65** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 4 |
+| [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.77 | **7.92** | [Bothell Spring 2022](https://www.worldcubeassociation.org/competitions/BothellSpring2022/results/all#esq1_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 7.34 | **7.98** | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/all#esq1_f) | 4 |
+| [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) | 7.08 | **8.01** | [Bothell Spring 2022](https://www.worldcubeassociation.org/competitions/BothellSpring2022/results/all#esq1_f) | 5 |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.36 | **8.01** | [Welcome Back Portland 2022](https://www.worldcubeassociation.org/competitions/WelcomeBackPortland2022/results/all#esq1_f) | 4 |
+| [Christopher Fandrich](https://www.worldcubeassociation.org/persons/2019FAND01) | 6.80 | **8.15** | [Bothell Spring 2022](https://www.worldcubeassociation.org/competitions/BothellSpring2022/results/all#esq1_f) | 6 |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.89 | **8.18** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 4 |
 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.36 | **8.19** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 5 |
 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 7.30 | **8.20** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 6 |
-| [Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01) | 7.77 | **8.30** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 5 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 8.13 | **8.52** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 6 |
-| [Ian Southa](https://www.worldcubeassociation.org/persons/2018SOUT01) | 8.11 | **8.65** | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/all#esq1_f) | 4 |
 
 ### 4x4x4 Blindfolded
 

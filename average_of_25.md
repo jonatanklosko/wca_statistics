@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  3 May 2022*
+*Updated on  6 May 2022*
 
 
 ### Rubik's Cube
@@ -110,13 +110,13 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 23.47 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 24, 26, 22, 25, 27, 23, 26, 25, 22, 25, 23, 18, 22, 27, 26, 22, 23, 22, 23, 23, 23, 21, 21, 24, 23 |
+| 23.23 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 25, 27, 23, 26, 25, 22, 25, 23, 18, 22, 27, 26, 22, 23, 22, 23, 23, 23, 21, 21, 24, 23, 23, 22 |
 | 25.23 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 25, 26, 25, 29, 25, 23, 23, 24, 28, 23, 26, 25, 28, 26, 22, 27, 21, 26, 25, DNF, 26, 26, 22, 25, 26 |
+| 25.33 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 29, 25, 26, 29, 28, 24, 22, 24, 25, 27, 26, DNF, 27, 27, 27, 26, 24, 23, 22, 22, 24, 25, 25, 24, 24 |
 | 25.38 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 27, 26, 23, 37, 19, 27, 26, 26, 26, 26, 28, 17, 28, 22, 23, 24, 26, 21, 28, 24, 26, 24, 29, 25, 27 |
 | 25.52 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 24, 28, 25, 25, 27, 27, 28, 26, 24, 24, 29, 29, 27, 31, 17, 25, 25, 23, 24, 30, 25, 21, 26, 22, 23 |
 | 25.52 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 20, 23, 26, 28, 26, 29, 33, 38, 24, DNF, 25, 27, 24, 25, 26, 26, 21, 26, 29, 22, 24, 25, 23, 23, 22 |
 | 25.71 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 27, 25, 28, DNF, 27, 30, 24, 18, 23, 27, 26, 27, 27, 27, 26, 23, 25, 25, 27, 27, 16, 26, 24, 25, 24 |
-| 25.80 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 27, 27, 29, 29, 25, 26, 29, 28, 24, 22, 24, 25, 27, 26, DNF, 27, 27, 27, 26, 24, 23, 22, 22, 24, 25 |
 | 25.85 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | DNF, 27, 23, 33, DNF, 24, 26, 25, 30, 26, 27, 26, 26, 26, 25, 28, 21, 23, 25, 25, 20, 23, 25, 25, 25 |
 | 26.00 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 26, 24, 27, 25, 30, 26, 25, 28, 26, 28, 23, 26, 26, 28, 25, 24, 25, 28, 27, 27, 25, 28, 24, 24, 26 |
 | 26.04 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) | 22, 26, 33, 24, 24, 33, 25, 28, 25, 25, 19, 29, 31, 30, 28, 24, 25, 29, 25, 23, 24, 25, 24, 28, 25 |
@@ -126,7 +126,7 @@
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 9.44 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 13.35, 9.70, 8.98, 7.87, 11.57, 7.94, 8.79, 9.29, 8.97, 9.12, 10.61, 7.69, 11.31, 9.81, 11.24, 8.99, 10.58, 8.66, 8.67, 9.11, 9.19, 10.06, 7.39, 10.61, 8.82 |
-| 10.04 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 11.82, 12.26, 9.32, 9.57, 10.31, DNF, 8.66, 7.96, 12.03, 9.48, 7.75, 10.81, 10.75, 8.13, 11.20, 8.56, 8.94, 10.92, 9.16, 10.38, 11.08, 8.17, 11.29, 8.84, 11.47 |
+| 9.69 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.13, 11.20, 8.56, 8.94, 10.92, 9.16, 10.38, 11.08, 8.17, 11.29, 8.84, 11.47, 17.22, 8.77, 9.41, 11.50, 10.35, 9.90, 8.86, 9.11, 7.77, 7.98, 10.81, 8.47, 9.80 |
 | 10.48 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 11.79, 10.46, 10.05, 11.57, 11.47, 10.16, 10.81, 9.98, 9.71, 10.74, 12.76, 11.02, 11.20, 9.86, 9.28, 9.73, 10.34, 9.43, 10.09, 10.45, 9.27, 12.07, 15.31, 9.87, 9.31 |
 | 10.56 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 8.11, 10.15, 9.14, 10.77, 10.48, 12.14, 9.39, 8.81, 12.11, 11.05, 11.84, 13.53, 9.71, 12.21, 10.06, 8.12, 10.91, 9.84, 9.45, 9.93, 12.09, DNF, 10.14, 12.72, 8.85 |
 | 10.77 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 8.85, 8.70, 9.87, 12.94, 10.58, 12.07, 9.12, 9.59, 8.87, 15.43, 9.91, 13.59, 10.26, 11.56, 11.83, 11.92, 11.11, 8.49, 10.88, 11.10, 11.20, 11.74, 13.54, 10.53, 8.82 |

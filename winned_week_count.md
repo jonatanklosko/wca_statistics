@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  3 May 2022*
+*Updated on  6 May 2022*
 
 
 ### Rubik's Cube
@@ -16,7 +16,7 @@
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 17 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | 17 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 15 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 14 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 15 |
 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | 12 |
 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) | 12 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 12 |
@@ -67,7 +67,7 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 15 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | 13 |
 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | 13 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 12 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 13 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 11 |
 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 11 |
 | [Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01) | 10 |
@@ -212,8 +212,8 @@
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 30 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 23 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | 21 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 20 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 19 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 19 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 17 |
 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) | 15 |
 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) | 13 |
@@ -309,8 +309,8 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 26 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 18 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 17 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 17 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 10 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 8 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 7 |
@@ -369,7 +369,7 @@
 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 12 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 12 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | 11 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 10 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 11 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 8 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 8 |
 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | 7 |
@@ -388,7 +388,7 @@
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 27 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 21 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 15 |
-| [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 12 |
+| [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 13 |
 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) | 11 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 11 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 10 |
@@ -409,7 +409,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 33 |
-| [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 31 |
+| [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 32 |
 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | 28 |
 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | 23 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 22 |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  3 May 2022*
+*Updated on  6 May 2022*
 
 
 ### Rubik's Cube
@@ -164,10 +164,10 @@
 | 0.07 | [Chenwei Li (李琛炜)](https://www.worldcubeassociation.org/persons/2012LICH04) | 6.27 | 6.34 | [Shanghai Love In ECNU 2017](https://www.worldcubeassociation.org/competitions/ShanghaiLoveInECNU2017/results/by_person#2012LICH04) |
 | 0.07 | [Charles Jerome](https://www.worldcubeassociation.org/persons/2016JERO01) | 10.00 | 10.07 | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019/results/by_person#2016JERO01) |
 | 0.07 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) | 15.50 | 15.57 | [Dutch Open 2008](https://www.worldcubeassociation.org/competitions/DutchOpen2008/results/by_person#2005OOMS01) |
+| 0.08 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 8.14 | 8.22 | [Popular 'n Blind Flen 2022](https://www.worldcubeassociation.org/competitions/PopularnBlindFlen2022/results/by_person#2021ELIA01) |
 | 0.08 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 12.16 | 12.24 | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011/results/by_person#2008PADL01) |
 | 0.08 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 21.18 | 21.26 | [Alania Open 2010](https://www.worldcubeassociation.org/competitions/AlaniaOpen2010/results/by_person#2005AKKE01) |
 | 0.09 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | 6.45 | 6.54 | [GA Cubers February B 2022](https://www.worldcubeassociation.org/competitions/GACubersFebruaryB2022/results/by_person#2016OCHS01) |
-| 0.09 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) | 8.52 | 8.61 | [Hamburg Open 2017](https://www.worldcubeassociation.org/competitions/HamburgOpen2017/results/by_person#2009OHRN01) |
 
 ### Skewb
 

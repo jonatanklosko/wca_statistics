@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  3 May 2022*
+*Updated on  6 May 2022*
 
 
 ### Rubik's Cube
@@ -114,13 +114,13 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 22.30 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | 27, 23, 22, 21, 22, 22, 22, 23, 22, 21, 23, 23 |
-| 22.60 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 18, 22, 27, 26, 22, 23, 22, 23, 23, 23, 21, 21 |
+| 22.50 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 23, 22, 23, 23, 23, 21, 21, 24, 23, 23, 22 |
 | 24.00 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 26, 26, 21, 26, 29, 22, 24, 25, 23, 23, 22, 23 |
 | 24.30 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 26, 25, 28, 21, 23, 25, 25, 20, 23, 25, 25, 25 |
 | 24.40 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 31, 17, 25, 25, 23, 24, 30, 25, 21, 26, 22, 23 |
+| 24.40 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 27, 27, 26, 24, 23, 22, 22, 24, 25, 25, 24, 24 |
 | 24.60 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 28, 17, 28, 22, 23, 24, 26, 21, 28, 24, 26, 24 |
 | 24.70 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 23, 23, 24, 28, 23, 26, 25, 28, 26, 22, 27, 21 |
-| 25.10 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 26, DNF, 27, 27, 27, 26, 24, 23, 22, 22, 24, 25 |
 | 25.20 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 27, 26, 23, 25, 25, 27, 27, 16, 26, 24, 25, 24 |
 | 25.20 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | 22, 26, 27, 33, 27, 28, 23, 23, 22, 24, 28, 24 |
 
@@ -129,11 +129,11 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 9.25 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 9.70, 8.98, 7.87, 11.57, 7.94, 8.79, 9.29, 8.97, 9.12, 10.61, 7.69, 11.31 |
-| 9.54 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.66, 7.96, 12.03, 9.48, 7.75, 10.81, 10.75, 8.13, 11.20, 8.56, 8.94, 10.92 |
+| 9.34 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.77, 9.41, 11.50, 10.35, 9.90, 8.86, 9.11, 7.77, 7.98, 10.81, 8.47, 9.80 |
 | 10.04 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 9.86, 9.28, 9.73, 10.34, 9.43, 10.09, 10.45, 9.27, 12.07, 15.31, 9.87, 9.31 |
 | 10.19 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 10.10, 8.85, 8.70, 9.87, 12.94, 10.58, 12.07, 9.12, 9.59, 8.87, 15.43, 9.91 |
 | 10.32 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 11.59, 10.60, 11.09, 9.46, 10.03, 9.83, 8.74, 14.25, 8.05, 10.62, 9.23, 12.09 |
-| 10.44 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 10.70, 8.11, 10.15, 9.14, 10.77, 10.48, 12.14, 9.39, 8.81, 12.11, 11.05, 11.84 |
+| 10.40 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 9.61, 10.04, 10.01, 10.65, 10.32, 10.49, 10.67, 12.01, 11.65, 9.19, 11.21, 9.43 |
 | 10.47 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 9.86, 10.24, 8.59, 9.75, 9.90, 10.87, 11.81, 10.41, 14.09, 9.53, 9.38, 13.04 |
 | 10.65 | [Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06) | 9.80, 10.95, 10.74, 9.99, 9.17, 9.75, 17.45, 9.08, 10.81, 10.92, 13.19, 11.19 |
 | 10.68 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | 10.48, 9.66, 11.89, 10.86, 10.70, 10.26, 12.23, 9.87, 11.27, 11.59, 9.53, 10.24 |

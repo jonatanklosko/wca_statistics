@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  3 May 2022*
+*Updated on  6 May 2022*
 
 
 ### Rubik's Cube
@@ -107,7 +107,7 @@
 | 18.61 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | DNF, 17.96, 20.21, 16.78, 17.66 |
 | 19.01 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) | 19.18, 19.09, DNF, 18.78, 16.93 |
 | 19.12 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 18.79, 20.93, 18.93, 19.64, 17.55 |
-| 19.64 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 19.56, 20.74, 17.40, DNF, 18.63 |
+| 19.36 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | DNF, 17.37, 19.79, 20.16, 18.14 |
 
 ### 3x3x3 Fewest Moves
 
@@ -128,8 +128,8 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 8.52 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 9.11, 7.77, 7.98, 10.81, 8.47 |
 | 8.57 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.98, 7.87, 11.57, 7.94, 8.79 |
-| 8.70 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.66, 7.96, 12.03, 9.48, 7.75 |
 | 9.24 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 9.21, 8.70, 8.52, 11.73, 9.83 |
 | 9.53 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 10.03, 9.83, 8.74, 14.25, 8.05 |
 | 9.54 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 9.12, 9.59, 8.87, 15.43, 9.91 |

@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  3 May 2022*
+*Updated on  6 May 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -22,7 +22,7 @@
 | 115 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 115 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
 | 111 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 108 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
+| 109 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 108 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
 | 108 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 107 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
@@ -32,8 +32,8 @@
 | 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 97 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
+| 96 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 95 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
-| 95 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 94 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 94 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 93 | [Adam Zamora](https://www.worldcubeassociation.org/persons/2004ZAMO01) |
@@ -101,8 +101,8 @@
 | 64 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 64 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 64 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
+| 64 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 64 | [Kirt Protacio](https://www.worldcubeassociation.org/persons/2010PROT01) |
-| 63 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 62 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 62 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 

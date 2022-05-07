@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  3 May 2022*
+*Updated on  6 May 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -50,8 +50,8 @@
 | 54 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 53 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
+| 53 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 53 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
-| 52 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 51 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
 | 51 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 50 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
@@ -72,11 +72,11 @@
 | 45 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 44 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 44 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
+| 44 | [Thomas Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 44 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 44 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 43 | [Geert Bicler](https://www.worldcubeassociation.org/persons/2010BICL01) |
 | 43 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
-| 43 | [Thomas Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 43 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 43 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 43 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |

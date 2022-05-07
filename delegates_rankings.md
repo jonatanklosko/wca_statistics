@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  3 May 2022*
+*Updated on  6 May 2022*
 
 
 ### Rubik's Cube - Single
@@ -15,9 +15,9 @@
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **5.22** | Spain | [Cervantes Cubea 2022](https://www.worldcubeassociation.org/competitions/CervantesCubea2022) | 7.30, 5.22, 8.65, 8.60, 9.77 |
 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | **5.37** | United States | [Slow N Steady Summer 2017](https://www.worldcubeassociation.org/competitions/SlowNSteadySummer2017) | 9.28, 11.94, 10.09, 9.08, 5.37 |
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **5.44** | United States | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) | 7.41, 7.38, 7.52, 5.44, 7.74 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **5.50** | United States | [Heartland Championship 2022](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2022) | 7.47, 8.01, 7.60, 5.50, 8.92 |
 | [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) | **5.52** | Canada | [Oakville Limited Fall 2017](https://www.worldcubeassociation.org/competitions/OakvilleLimitedFall2017) | 8.76, 12.26, 8.38, 10.16, 5.52 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **5.52** | Sweden | [Valborg Cubing 2019](https://www.worldcubeassociation.org/competitions/ValborgCubing2019) | 10.52, 7.18, 5.52, 10.13, 10.04 |
-| [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | **5.57** | India | [Delhi Cubing Heat Wave 2018](https://www.worldcubeassociation.org/competitions/DelhiCubingHeatWave2018) | 6.72, 5.57, 8.41, 10.45, 8.32 |
 
 ### Rubik's Cube - Average
 
@@ -150,9 +150,9 @@
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **1:43.60** | Poland | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 1:36.64, 1:52.62, 1:41.55 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **1:43.84** | Australia | [Northside Duology Part 1 2022](https://www.worldcubeassociation.org/competitions/NorthsideDuologyPart12022) | 1:44.82, 1:48.85, 1:37.86 |
 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | **1:43.94** | United States | [Brooklyn Fall 2019](https://www.worldcubeassociation.org/competitions/BrooklynFall2019) | 1:41.60, 1:42.05, 1:48.16 |
+| [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | **1:44.49** | United States | [Heartland Championship 2022](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2022) | 1:45.71, 1:48.03, 1:39.74 |
 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | **1:47.33** | Japan | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019) | 1:38.98, 1:48.27, 1:54.75 |
 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) | **1:51.10** | Germany | [Monnem City Cubing 2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019) | 1:50.33, 1:56.40, 1:46.56 |
-| [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | **1:51.48** | United States | [Western Championship 2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018) | 1:55.65, 1:52.71, 1:46.08 |
 
 ### 7x7x7 Cube - Single
 
@@ -252,8 +252,8 @@
 | [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) | **7.57** | Canada | [Oakville Limited Winter 2018](https://www.worldcubeassociation.org/competitions/OakvilleLimitedWinter2018) | 12.62, 10.83, 15.23, 7.57, 12.73 |
 | [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | **8.52** | India | [Delhi Cubing Heat Wave 2018](https://www.worldcubeassociation.org/competitions/DelhiCubingHeatWave2018) | 8.52, 12.80, 19.58, 15.93, 10.78 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **8.63** | Poland | [Byczy Cube Race 2019](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2019) | 11.82, 8.63, 13.38, 13.99, 13.90 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **8.73** | United States | [Heartland Championship 2022](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2022) | 11.80, 17.40, 8.73, 9.44, 14.91 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **8.84** | Sweden | [SSL Final Stockholm 2019](https://www.worldcubeassociation.org/competitions/SSLFinalStockholm2019) | 15.83, 14.33, 14.36, 16.20, 8.84 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **9.02** | United States | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021) | 9.02, 10.97, 11.28, 17.84, 15.26 |
 | [Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01) | **9.08** | Mongolia | [Umnugovi Cube Day 2019](https://www.worldcubeassociation.org/competitions/UmnugoviCubeDay2019) | 11.24, 11.60, 11.33, 9.08, 16.57 |
 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | **9.14** | Norway | [Lier Open 2018](https://www.worldcubeassociation.org/competitions/LierOpen2018) | 15.99, 18.95, 9.14, 13.71, 13.35 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **9.95** | Spain | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) | 14.71, 28.73, 9.95, 16.47, 16.86 |
@@ -301,8 +301,8 @@
 | [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | **49.66** | Australia | [Showground Showdown 2021](https://www.worldcubeassociation.org/competitions/ShowgroundShowdown2021) | 47.36, 54.13, 47.48, 44.77, 55.44 |
 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) | **49.69** | Germany | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019) | 50.18, 49.34, 46.93, 53.09, 49.56 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **51.04** | Denmark | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022) | 48.02, 54.15, 59.51, 48.30, 50.68 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **51.37** | United States | [Heartland Championship 2022](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2022) | 49.86, 53.12, 57.47, 50.39, 50.60 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **52.09** | Poland | [Dragon Cubing 2019](https://www.worldcubeassociation.org/competitions/DragonCubing2019) | 49.19, 52.42, 1:00.96, 54.67, 46.54 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **52.35** | United States | [Minnesota Cube Melt 2019](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2019) | 53.41, 51.34, 50.09, 59.90, 52.30 |
 
 ### Pyraminx - Single
 
@@ -419,10 +419,10 @@
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **8.46** | Poland | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | 9.30, 8.58, 7.48, 8.01, 8.80 |
 | [Vincent Chen](https://www.worldcubeassociation.org/persons/2018CHEN17) | **8.57** | United States | [Oklahoma Fall 2019](https://www.worldcubeassociation.org/competitions/OklahomaFall2019) | 6.73, 9.15, 8.28, 8.28, 11.32 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **8.97** | Sweden | [German Nationals 2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018) | 8.04, 7.08, 9.00, 9.88, 18.50 |
+| [Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03) | **9.01** | Peru | [TCG Nueva Generación 2022](https://www.worldcubeassociation.org/competitions/TCGNuevaGeneracion2022) | 7.35, 13.98, 8.76, 9.26, 9.00 |
 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | **9.56** | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) | 9.30, 9.41, 14.70, 8.91, 9.97 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **9.72** | Denmark | [Denmark & Friends 2019](https://www.worldcubeassociation.org/competitions/DenmarkFriends2019) | 9.09, 9.95, 10.13, 11.31, 8.87 |
 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) | **9.78** | United States | [Pickering 2017](https://www.worldcubeassociation.org/competitions/Pickering2017) | 8.61, 13.12, 8.92, 11.50, 8.91 |
-| [Ivan Vanek](https://www.worldcubeassociation.org/persons/2015VANE01) | **9.84** | United States | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) | 9.19, 9.70, 13.72, 10.64, 8.96 |
 
 ### 4x4x4 Blindfolded - Single
 

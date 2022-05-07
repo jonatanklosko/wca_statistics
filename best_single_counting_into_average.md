@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  3 May 2022*
+*Updated on  6 May 2022*
 
 
 ### Rubik's Cube
@@ -68,6 +68,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 7.96 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012PONC02) |
+| 7.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022/results/by_person#2012PONC02) |
 | 8.30 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Horsham Winter 2018](https://www.worldcubeassociation.org/competitions/HorshamWinter2018/results/by_person#2009ZEMD01) |
 | 8.56 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2022](https://www.worldcubeassociation.org/competitions/BaztanOpen2022/results/by_person#2012PONC02) |
 | 8.64 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Turn Around Tassie 2020](https://www.worldcubeassociation.org/competitions/TurnAroundTassie2020/results/by_person#2009ZEMD01) |
@@ -76,7 +77,6 @@
 | 8.70 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2019](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2019/results/by_person#2009ZEMD01) |
 | 8.74 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Lyttelton Spring 2021](https://www.worldcubeassociation.org/competitions/LytteltonSpring2021/results/by_person#2019RAMO05) |
 | 8.79 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Florida Spring B 2022](https://www.worldcubeassociation.org/competitions/FloridaSpringB2022/results/by_person#2012PARK03) |
-| 8.79 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022/results/by_person#2012PONC02) |
 
 ### Megaminx
 

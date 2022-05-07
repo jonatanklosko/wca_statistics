@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  3 May 2022*
+*Updated on  6 May 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -98,6 +98,7 @@
 | 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 3 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
 | 3 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
+| 3 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 3 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 3 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
 | 3 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
@@ -141,7 +142,6 @@
 | 2 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 2 | [Oskar Åsbrink](https://www.worldcubeassociation.org/persons/2009ASBR01) |
 | 2 | [Patrick Jameson](https://www.worldcubeassociation.org/persons/2007JAME01) |
-| 2 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 2 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) |
 | 2 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 2 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |

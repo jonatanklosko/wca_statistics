@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on  6 May 2022*
+*Updated on  9 May 2022*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -21,8 +21,8 @@
 | 43 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Taiwan | [Taipei Open 2017](https://www.worldcubeassociation.org/competitions/TaipeiOpen2017) |  |
 | 41 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) | Japan | [JRCA Kansai Summer 2009](https://www.worldcubeassociation.org/competitions/JRCAKansaiSummer2009) | [East Osaka 2012](https://www.worldcubeassociation.org/competitions/EastOsaka2012) |
 | 39 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | Poland | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
+| 39 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) |  |
 | 39 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | Romania | [U.R.A. Back to School 2016](https://www.worldcubeassociation.org/competitions/URABacktoSchool2016) | [Bucharest Cubing Days 2021](https://www.worldcubeassociation.org/competitions/BucharestCubingDays2021) |
-| 38 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) |  |
 | 37 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | Australia | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | [Canberra Autumn 2015](https://www.worldcubeassociation.org/competitions/CanberraAutumn2015) |
 | 36 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | United Kingdom | [WGC Open 2014](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2014) | [Guildford Open 2018](https://www.worldcubeassociation.org/competitions/GuildfordOpen2018) |
 | 35 | [Andreas Pung](https://www.worldcubeassociation.org/persons/2009PUNG01) | Estonia | [Estonian Open 2009](https://www.worldcubeassociation.org/competitions/EstonianOpen2009) | [Twist 'n Turn Tallinn 2022](https://www.worldcubeassociation.org/competitions/TwistNTurnTallinn2022) |
@@ -77,6 +77,7 @@
 | 22 | [Christian Goñi](https://www.worldcubeassociation.org/persons/2014GONI01) | Uruguay | [Montevideo Open 2014](https://www.worldcubeassociation.org/competitions/MontevideoOpen2014) | [Montevideo Palace 2018](https://www.worldcubeassociation.org/competitions/MontevideoPalace2018) |
 | 22 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) | Bolivia | [Speed Challenge Santa Cruz 2019](https://www.worldcubeassociation.org/competitions/SpeedChallengeSantaCruz2019) | [Cocha Cubing 2021](https://www.worldcubeassociation.org/competitions/CochaCubing2021) |
 | 21 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | Republic of Korea | [Spring Comes 2015](https://www.worldcubeassociation.org/competitions/SpringComes2015) | [CWR Fall 2018](https://www.worldcubeassociation.org/competitions/CWRFall2018) |
+| 21 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | Italy | [Bologna NxN Spring 2019](https://www.worldcubeassociation.org/competitions/BolognaNxNSpring2019) |  |
 | 21 | [Manuel Ernesto Torres Vega](https://www.worldcubeassociation.org/persons/2015VEGA02) | Chile | [La Florida Open 2015](https://www.worldcubeassociation.org/competitions/LaFloridaOpen2015) | [Open La Florida 2017](https://www.worldcubeassociation.org/competitions/OpenFlorida2017) |
 | 21 | [Alfred Saidlo](https://www.worldcubeassociation.org/persons/2014SAID02) | Estonia | [Estonian Open 2014](https://www.worldcubeassociation.org/competitions/EstonianOpen2014) | [Estonian Open 2020](https://www.worldcubeassociation.org/competitions/EstonianOpen2020) |
 | 21 | [Jan Erik Soosaar](https://www.worldcubeassociation.org/persons/2016SOOS01) | Estonia | [Estonian Open 2016](https://www.worldcubeassociation.org/competitions/EstonianOpen2016) |  |
@@ -88,7 +89,6 @@
 | 20 | [Lars Van den broeck](https://www.worldcubeassociation.org/persons/2011BROE01) | Belgium | [Hasselt Open 2013](https://www.worldcubeassociation.org/competitions/HasseltOpen2013) | [Belgian Easter 2018](https://www.worldcubeassociation.org/competitions/BelgianEaster2018) |
 | 20 | [Shu-Yii Luo (駱書翊)](https://www.worldcubeassociation.org/persons/2012LUOS01) | Taiwan | [Taiwan Summer 2013](https://www.worldcubeassociation.org/competitions/TaiwanSummer2013) | [Magic Revenge 2015](https://www.worldcubeassociation.org/competitions/MagicRevenge2015) |
 | 20 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | Finland | [Vantaa Open 2013](https://www.worldcubeassociation.org/competitions/VantaaOpen2013) | [Tietomaa Open 2017](https://www.worldcubeassociation.org/competitions/TietomaaOpen2017) |
-| 20 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | Italy | [Bologna NxN Spring 2019](https://www.worldcubeassociation.org/competitions/BolognaNxNSpring2019) |  |
 | 20 | [Mads Mohr Christensen](https://www.worldcubeassociation.org/persons/2007CHRI02) | Denmark | [Danish Open 2008](https://www.worldcubeassociation.org/competitions/DanishOpen2008) | [Ballerup Open 2012](https://www.worldcubeassociation.org/competitions/BallerupOpen2012) |
 | 20 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) | Switzerland | [Ticino Open 2018](https://www.worldcubeassociation.org/competitions/TicinoOpen2018) | [Offline Schwyz Saturday 2021](https://www.worldcubeassociation.org/competitions/OfflineSchwyzSaturday2021) |
 | 20 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | Malaysia | [Malaysia Cube Open 2016](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2016) | [UiTM Speedcubing Challenge 2019](https://www.worldcubeassociation.org/competitions/UiTMSpeedcubingChallenge2019) |

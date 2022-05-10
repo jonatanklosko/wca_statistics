@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Updated on  6 May 2022*
+*Updated on  9 May 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 7888 |
+| 1.50 | World | 7898 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2549 |
+| 1.77 | Europe | 2552 |
 | 1.59 | South America | 891 |
-| 1.49 | Oceania | 309 |
+| 1.48 | Oceania | 310 |
 | 1.41 | Asia | 2022 |
-| 1.21 | North America | 2032 |
+| 1.21 | North America | 2038 |
 | 1.18 | Africa | 85 |
 
 ### Countries
@@ -52,9 +52,9 @@
 | 1.82 | Norway | 66 |
 | 1.82 | Switzerland | 77 |
 | 1.81 | Thailand | 27 |
+| 1.81 | Denmark | 99 |
 | 1.80 | North Macedonia | 5 |
 | 1.80 | San Marino | 5 |
-| 1.80 | Denmark | 98 |
 | 1.76 | Guatemala | 45 |
 | 1.75 | Sweden | 114 |
 | 1.73 | Slovenia | 22 |
@@ -74,15 +74,15 @@
 | 1.58 | Singapore | 19 |
 | 1.58 | Bolivia | 71 |
 | 1.54 | Malaysia | 54 |
-| 1.53 | Israel | 17 |
 | 1.52 | Dominican Republic | 25 |
 | 1.51 | New Zealand | 69 |
 | 1.50 | Costa Rica | 12 |
 | 1.50 | Ghana | 2 |
-| 1.50 | Latvia | 18 |
+| 1.50 | Israel | 18 |
 | 1.50 | Tajikistan | 2 |
-| 1.48 | Australia | 240 |
 | 1.48 | Italy | 142 |
+| 1.48 | Australia | 241 |
+| 1.47 | Latvia | 19 |
 | 1.47 | Romania | 68 |
 | 1.46 | Peru | 143 |
 | 1.40 | Ecuador | 20 |
@@ -108,7 +108,7 @@
 | 1.20 | Portugal | 15 |
 | 1.18 | Honduras | 11 |
 | 1.18 | Uruguay | 33 |
-| 1.17 | United States | 1625 |
+| 1.17 | United States | 1631 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | Canada | 200 |

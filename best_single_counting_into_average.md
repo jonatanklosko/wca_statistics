@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  9 May 2022*
+*Updated on 21 May 2022*
 
 
 ### Rubik's Cube
@@ -14,9 +14,9 @@
 | 4.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
 | 4.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
 | 4.83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021/results/by_person#2016KOLA02) |
+| 4.87 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
 | 4.88 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
 | 4.92 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Cube for Cambodia 2018](https://www.worldcubeassociation.org/competitions/CubeforCambodia2018/results/by_person#2009ZEMD01) |
-| 4.92 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Lille Friheden 2022](https://www.worldcubeassociation.org/competitions/LilleFriheden2022/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 
@@ -71,18 +71,19 @@
 | 7.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022/results/by_person#2012PONC02) |
 | 8.18 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Wakefield Spring 2022](https://www.worldcubeassociation.org/competitions/WakefieldSpring2022/results/by_person#2012PONC02) |
 | 8.30 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Horsham Winter 2018](https://www.worldcubeassociation.org/competitions/HorshamWinter2018/results/by_person#2009ZEMD01) |
+| 8.50 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
 | 8.56 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2022](https://www.worldcubeassociation.org/competitions/BaztanOpen2022/results/by_person#2012PONC02) |
 | 8.64 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Turn Around Tassie 2020](https://www.worldcubeassociation.org/competitions/TurnAroundTassie2020/results/by_person#2009ZEMD01) |
+| 8.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
+| 8.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
 | 8.66 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012PONC02) |
-| 8.67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Cal Poly SLO Spring 2022](https://www.worldcubeassociation.org/competitions/CalPolySLOSpring2022/results/by_person#2012PARK03) |
-| 8.70 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2019](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2019/results/by_person#2009ZEMD01) |
-| 8.74 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Lyttelton Spring 2021](https://www.worldcubeassociation.org/competitions/LytteltonSpring2021/results/by_person#2019RAMO05) |
 
 ### Megaminx
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 28.09 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Utah PfA 2022](https://www.worldcubeassociation.org/competitions/UtahPfA2022/results/by_person#2015NAIN01) |
+| 29.35 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Madryn al Cubo 2022](https://www.worldcubeassociation.org/competitions/MadrynAlCubo2022/results/by_person#2018LOPE22) |
 | 29.42 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2013HUAN30) |
 | 29.77 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Open 2022](https://www.worldcubeassociation.org/competitions/SantaFeOpen2022/results/by_person#2018LOPE22) |
 | 29.96 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Pittsburgh Winter 2022](https://www.worldcubeassociation.org/competitions/PittsburghWinter2022/results/by_person#2015NAIN01) |
@@ -91,7 +92,6 @@
 | 30.00 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Pittsburgh Winter 2022](https://www.worldcubeassociation.org/competitions/PittsburghWinter2022/results/by_person#2015NAIN01) |
 | 30.12 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Wuxi Open 2019](https://www.worldcubeassociation.org/competitions/WuxiOpen2019/results/by_person#2013HUAN30) |
 | 30.13 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Open 2022](https://www.worldcubeassociation.org/competitions/SantaFeOpen2022/results/by_person#2018LOPE22) |
-| 30.54 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Empire State Winter A 2022](https://www.worldcubeassociation.org/competitions/EmpireStateWinterA2022/results/by_person#2015NAIN01) |
 
 ### Pyraminx
 
@@ -147,11 +147,11 @@
 | 5.38 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Gislev Side Events 2019](https://www.worldcubeassociation.org/competitions/GislevSideEvents2019/results/by_person#2014DETL01) |
 | 5.44 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/by_person#2014KARN02) |
 | 5.53 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Let's Try Again Spokane 2022](https://www.worldcubeassociation.org/competitions/LetsTryAgainSpokane2022/results/by_person#2017AGGA01) |
+| 5.55 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Long Beach Spring 2022](https://www.worldcubeassociation.org/competitions/LongBeachSpring2022/results/by_person#2021DUNA01) |
 | 5.56 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [SST Warszawa 2021](https://www.worldcubeassociation.org/competitions/SSTWarszawa2021/results/by_person#2013KRAS02) |
 | 5.56 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Richmond Open B 2021](https://www.worldcubeassociation.org/competitions/RichmondOpenB2021/results/by_person#2017AGGA01) |
 | 5.60 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [I Itapê Open 2019](https://www.worldcubeassociation.org/competitions/IItapeOpen2019/results/by_person#2015CECC01) |
 | 5.60 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Spring 2022](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2022/results/by_person#2019BAUM02) |
-| 5.61 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Going Fast in Idaho 2022](https://www.worldcubeassociation.org/competitions/GoingFastinIdaho2022/results/by_person#2017SIAU02) |
 
 ### 3x3x3 With Feet
 

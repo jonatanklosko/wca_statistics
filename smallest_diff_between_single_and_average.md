@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  9 May 2022*
+*Updated on 21 May 2022*
 
 
 ### Rubik's Cube
@@ -132,7 +132,7 @@
 | 0.13 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | 50.45 | 50.58 | [Seminario 2022](https://www.worldcubeassociation.org/competitions/Seminario2022/results/by_person#2011CAST02) |
 | 0.13 | [Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01) | 1:20.65 | 1:20.78 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2015PADG01) |
 | 0.14 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | 39.29 | 39.43 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012LEWI01) |
-| 0.14 | [Theo Iván Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 1:11.10 | 1:11.24 | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018/results/by_person#2017GOLU01) |
+| 0.14 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 1:11.10 | 1:11.24 | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018/results/by_person#2017GOLU01) |
 | 0.14 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 1:26.82 | 1:26.96 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021/results/by_person#2015FENG12) |
 | 0.16 | [Zaiyang Zhang (张在旸)](https://www.worldcubeassociation.org/persons/2017ZHAZ09) | 1:24.57 | 1:24.73 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2017ZHAZ09) |
 | 0.17 | [Jiahe Dai (戴嘉禾)](https://www.worldcubeassociation.org/persons/2016DAIJ01) | 58.10 | 58.27 | [Xi'an 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Xian10thAnniversary2019/results/by_person#2016DAIJ01) |

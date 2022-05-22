@@ -1,15 +1,15 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  9 May 2022*
+*Updated on 21 May 2022*
 
 
 ### Rubik's Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 5.23 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.09, 4.24, 7.01, 5.89, 5.28, 4.70, 6.14, 5.55, 4.18, 5.75, 5.72, 4.87 |
 | 5.27 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.69, 4.54, 5.13, 7.24, 6.28, 6.04, 5.55, 4.24, 4.66, 5.16, 5.04, 4.64 |
-| 5.50 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 5.31, 4.67, 6.29, 4.84, 5.70, 6.57, 6.17, 5.86, 5.60, 6.36, 4.09, 4.24 |
 | 5.59 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.62, 5.59, 5.48, 5.52, 5.45, 4.06, 7.51, 5.77, 6.41, 5.15, 5.88, 5.04 |
 | 5.84 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 6.01, 6.12, 4.76, 7.05, 4.92, 6.45, 6.20, 5.39, 6.48, 4.34, 6.41, 5.72 |
 | 5.94 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 5.53, 6.32, 5.81, DNF, 6.38, 5.35, 7.21, 5.38, 5.98, 5.76, 5.40, 5.72 |
@@ -39,7 +39,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 20.21 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 21.36, 21.19, 16.79, 26.52, 22.85, 20.01, 17.56, 19.21, 21.55, 21.78, 17.81, 18.87 |
-| 22.54 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 20.88, 23.08, 22.79, 20.89, 25.38, 23.35, 22.88, 21.54, 24.07, 19.65, 24.85, 21.14 |
+| 21.78 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 18.17, 22.76, 21.65, 22.36, 21.83, 24.60, 21.13, 20.88, 17.21, 23.76, 24.73, 20.70 |
 | 22.63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 20.98, 29.15, 19.35, 25.46, 22.86, 22.92, 20.50, 22.79, 22.48, 21.66, 22.93, 23.81 |
 | 23.48 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 21.08, 23.49, 24.46, 21.90, 25.08, 24.63, 21.51, 20.55, 27.06, 25.08, 24.19, 23.46 |
 | 24.03 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 23.93, 24.03, 25.21, 21.71, 21.13, 24.89, 24.77, 27.07, 25.02, 23.76, 23.56, 23.42 |
@@ -128,7 +128,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 9.25 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 9.70, 8.98, 7.87, 11.57, 7.94, 8.79, 9.29, 8.97, 9.12, 10.61, 7.69, 11.31 |
+| 9.17 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 9.15, 9.63, 12.42, 8.65, 8.66, 8.27, 9.35, 8.36, 10.23, 10.02, 9.16, 8.50 |
 | 9.34 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.77, 9.41, 11.50, 10.35, 9.90, 8.86, 9.11, 7.77, 7.98, 10.81, 8.47, 9.80 |
 | 10.04 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 9.86, 9.28, 9.73, 10.34, 9.43, 10.09, 10.45, 9.27, 12.07, 15.31, 9.87, 9.31 |
 | 10.19 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 10.10, 8.85, 8.70, 9.87, 12.94, 10.58, 12.07, 9.12, 9.59, 8.87, 15.43, 9.91 |
@@ -143,9 +143,9 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 31.08 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 30.13, 29.93, 34.35, 31.70, 29.98, 28.57, 32.06, 32.37, 31.18, 29.77, 35.15, 29.35 |
 | 31.25 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 29.16, 32.81, 31.78, 34.48, 33.62, 33.47, 30.12, 28.50, 31.19, 29.97, 31.07, 29.34 |
 | 31.53 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 31.15, 30.00, 29.96, DNF, 38.24, 28.06, 32.45, 34.59, 34.80, 28.09, 28.00, 26.50 |
-| 31.86 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 37.16, 44.24, 30.13, 29.93, 34.35, 31.70, 29.98, 28.57, 32.06, 32.37, 31.18, 29.77 |
 | 33.12 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.84, 31.53, 32.84, 36.09, 30.84, 33.06, 34.66, 34.78, 33.54, 36.18, 33.04, 30.63 |
 | 33.28 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 36.22, 30.94, 31.24, 35.78, 30.12, 33.90, 30.89, 30.57, 40.52, 34.27, 34.52, 34.55 |
 | 33.76 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 34.30, 34.50, 33.17, 33.88, 29.67, 36.92, 36.16, 32.68, 29.85, 33.79, 34.13, 35.22 |
@@ -204,8 +204,8 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 6.27 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.61, 8.48, 5.92, 5.08, 5.99, 7.43, 6.37, 6.06, 5.95, 7.40, 6.82, 5.24 |
+| 6.27 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 6.29, 6.85, 6.85, 5.38, 6.14, 6.24, 5.99, 6.28, 6.66, 5.58, 8.60, 5.82 |
 | 6.41 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 6.08, 5.38, 5.65, 5.41, 6.61, 8.06, 6.32, 7.72, 6.44, 6.78, 7.47, 5.69 |
-| 6.42 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 6.96, 7.68, 6.00, 6.29, 6.85, 6.85, 5.38, 6.14, 6.24, 5.99, 6.28, 6.66 |
 | 6.74 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.92, 6.68, 7.75, 6.65, 5.64, 8.39, 7.53, 5.52, 7.27, 6.46, 6.16, 7.43 |
 | 6.92 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 5.69, 6.77, 6.10, 7.15, 7.26, 7.32, 7.57, 7.45, 6.51, 7.23, 12.01, 5.85 |
 | 7.05 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | 5.92, 4.82, 8.37, 7.84, 6.37, 7.14, 6.33, 7.70, 7.77, 8.61, 6.79, 6.34 |
@@ -228,6 +228,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 6:57.44 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 7:38.43, 7:08.81, DNF, 6:53.15, 7:03.70, 7:03.67, 6:55.16, 6:33.16, 6:49.43, 6:03.21, 6:32.35, 6:56.63 |
 | 10:19.57 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 11:40.00, 8:36.88, 10:32.00, DNF, 9:10.54, 8:49.83, 9:08.65, 9:07.15, 8:36.70, 8:29.70, 14:29.00, 13:05.00 |
 
 ### 3x3x3 With Feet

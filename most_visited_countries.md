@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  9 May 2022*
+*Updated on 21 May 2022*
 
 | Countries | Person |
 | ---: | :--- |
@@ -10,10 +10,10 @@
 | 37 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 32 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
+| 26 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 26 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 26 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 25 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 25 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 25 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |

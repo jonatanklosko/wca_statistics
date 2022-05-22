@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  9 May 2022*
+*Updated on 21 May 2022*
 
 
 ### Rubik's Cube
@@ -43,11 +43,11 @@
 | 34.03 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 34.41 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
 | 34.75 | [Tianzuo Du (杜天佐)](https://www.worldcubeassociation.org/persons/2021DUTI01) |
+| 34.90 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) |
+| 34.94 | [Hasnain Reza Bilal](https://www.worldcubeassociation.org/persons/2019BILA05) |
 | 34.98 | [Hua Huang (黄华)](https://www.worldcubeassociation.org/persons/2018HUAN08) |
 | 35.73 | [Thomas Liao](https://www.worldcubeassociation.org/persons/2017LIAO09) |
 | 36.40 | [Chengnuo Han (韩承诺)](https://www.worldcubeassociation.org/persons/2021HANC01) |
-| 36.61 | [Isaac Wong Chang Man](https://www.worldcubeassociation.org/persons/2015MANI01) |
-| 36.76 | [Yixiang Gao (高翊翔)](https://www.worldcubeassociation.org/persons/2019GAOY05) |
 
 ### 5x5x5 Cube
 
@@ -107,7 +107,7 @@
 | 1:11.88 | [Jiahao Ye (叶佳浩)](https://www.worldcubeassociation.org/persons/2016YEJI01) |
 | 1:12.34 | [Benjamin Meco](https://www.worldcubeassociation.org/persons/2012MECO01) |
 | 1:13.95 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
-| 1:16.48 | [Theo Iván Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
+| 1:16.48 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
 
 ### 3x3x3 Fewest Moves
 
@@ -212,7 +212,7 @@
 | 11.94 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) |
 | 12.28 | [Paul Becsi](https://www.worldcubeassociation.org/persons/2016BECS01) |
 | 12.50 | [Felipe Maierowicz](https://www.worldcubeassociation.org/persons/2019MAIE01) |
-| 13.02 | [Noah Melita](https://www.worldcubeassociation.org/persons/2018MELI05) |
+| 12.64 | [Osman Badroodin](https://www.worldcubeassociation.org/persons/2019BADR01) |
 
 ### 4x4x4 Blindfolded
 

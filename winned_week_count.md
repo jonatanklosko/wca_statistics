@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  9 May 2022*
+*Updated on 21 May 2022*
 
 
 ### Rubik's Cube
@@ -58,7 +58,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 77 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 78 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 60 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 49 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 35 |
@@ -92,7 +92,7 @@
 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 20 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 19 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 19 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 17 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 18 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 16 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 16 |
 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) | 13 |
@@ -309,7 +309,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 26 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 18 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 19 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 17 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 10 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 8 |
@@ -371,10 +371,10 @@
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | 11 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 11 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 8 |
+| [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 8 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 8 |
 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | 7 |
 | [Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01) | 7 |
-| [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 7 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 7 |
 | [Andreas Pohl](https://www.worldcubeassociation.org/persons/2012POHL01) | 7 |
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | 6 |

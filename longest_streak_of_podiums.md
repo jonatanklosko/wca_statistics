@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on  9 May 2022*
+*Updated on 21 May 2022*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -10,7 +10,7 @@
 | 78 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 4x4x4 Cube | [Aachen Open 2011](https://www.worldcubeassociation.org/competitions/AachenOpen2011) | [Rhein-Neckar Open 2019](https://www.worldcubeassociation.org/competitions/RheinNeckarOpen2019) |
 | 65 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 3x3x3 One-Handed | [Melbourne Summer 2012](https://www.worldcubeassociation.org/competitions/MelbourneSummer2012) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) |
 | 64 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 4x4x4 Cube | [Melbourne Summer 2012](https://www.worldcubeassociation.org/competitions/MelbourneSummer2012) | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018) |
-| 60 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 3x3x3 One-Handed | [Berkeley Summer 2016](https://www.worldcubeassociation.org/competitions/BerkeleySummer2016) |  |
+| 61 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 3x3x3 One-Handed | [Berkeley Summer 2016](https://www.worldcubeassociation.org/competitions/BerkeleySummer2016) |  |
 | 59 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) | Pyraminx | [OGU Open 2006](https://www.worldcubeassociation.org/competitions/OGU2006) | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018) |
 | 59 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 2x2x2 Cube | [Dutch Nationals 2014](https://www.worldcubeassociation.org/competitions/DutchNationals2014) |  |
 | 56 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | 3x3x3 With Feet | [Brazil Open 2007](https://www.worldcubeassociation.org/competitions/BrazilOpen2007) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
@@ -71,19 +71,19 @@
 | 32 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3x3x3 Blindfolded | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013) |  |
 | 32 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 7x7x7 Cube | [SacCubing II 2017](https://www.worldcubeassociation.org/competitions/SacCubingII2017) |  |
 | 32 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | Square-1 | [Northwest Championship 2018](https://www.worldcubeassociation.org/competitions/CubingUSANorthwestChamps2018) |  |
+| 31 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 4x4x4 Cube | [Athens SNFestival Cubing 2019](https://www.worldcubeassociation.org/competitions/AthensSNFestivalCubing2019) |  |
 | 31 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | Clock | [Taiwan Summer 2012](https://www.worldcubeassociation.org/competitions/TaiwanSummer2012) |  |
 | 31 | [Richmond Mico Rigor](https://www.worldcubeassociation.org/persons/2013RIGO01) | 4x4x4 Cube | [ACO 2013](https://www.worldcubeassociation.org/competitions/ArtCapitalOpen2013) | [PSC Open 2018](https://www.worldcubeassociation.org/competitions/PSCOpen2018) |
 | 31 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | 5x5x5 Cube | [Changsha Xiangmo 2018](https://www.worldcubeassociation.org/competitions/ChangshaXiangmo2018) |  |
 | 31 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | Megaminx | [Zhenjiang Open 2016](https://www.worldcubeassociation.org/competitions/ZhenjiangOpen2016) |  |
 | 31 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 3x3x3 Multi-Blind | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) | [BrizZon Side Open 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2021) |
+| 31 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 2x2x2 Cube | [Clash at Carlisle Fall 2019](https://www.worldcubeassociation.org/competitions/ClashatCarlisleFall2019) |  |
 | 30 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 5x5x5 Cube | [Dutch Open 2007](https://www.worldcubeassociation.org/competitions/DutchOpen2007) | [The Hague Open 2009](https://www.worldcubeassociation.org/competitions/TheHagueOpen2009) |
 | 30 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 2x2x2 Cube | [Madrid Open 2013](https://www.worldcubeassociation.org/competitions/MadridOpen2013) | [Bratislava Open 2015](https://www.worldcubeassociation.org/competitions/BratislavaOpen2015) |
-| 30 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 4x4x4 Cube | [Athens SNFestival Cubing 2019](https://www.worldcubeassociation.org/competitions/AthensSNFestivalCubing2019) |  |
 | 30 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 3x3x3 Blindfolded | [MPEI Open 2012](https://www.worldcubeassociation.org/competitions/MPEIOpen2012) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 30 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 2x2x2 Cube | [Australian Nationals 2013](https://www.worldcubeassociation.org/competitions/AustralianNationals2013) | [Michigan 2016](https://www.worldcubeassociation.org/competitions/Michigan2016) |
 | 30 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | Skewb | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017) | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) |
 | 30 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 3x3x3 Blindfolded | [Bratislava Open 2017](https://www.worldcubeassociation.org/competitions/BratislavaOpen2017) | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019) |
-| 30 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 2x2x2 Cube | [Clash at Carlisle Fall 2019](https://www.worldcubeassociation.org/competitions/ClashatCarlisleFall2019) |  |
 | 29 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | Megaminx | [Euro 2006](https://www.worldcubeassociation.org/competitions/Euro2006) | [World Championship 2009](https://www.worldcubeassociation.org/competitions/WC2009) |
 | 29 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 4x4x4 Cube | [Dutch Open 2010](https://www.worldcubeassociation.org/competitions/DutchOpen2010) | [US Nationals 2014](https://www.worldcubeassociation.org/competitions/USNationals2014) |
 | 29 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 6x6x6 Cube | [Czech Open 2017](https://www.worldcubeassociation.org/competitions/CzechOpen2017) | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019) |

@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on  9 May 2022*
+*Updated on 21 May 2022*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -69,6 +69,7 @@
 | 23 | [Mateo Rodríguez](https://www.worldcubeassociation.org/persons/2013RODR11) | Uruguay | [Montevideo Open 2014](https://www.worldcubeassociation.org/competitions/MontevideoOpen2014) | [Stickers Open 2018](https://www.worldcubeassociation.org/competitions/StickersPuntadelEsteOpen2018) |
 | 22 | [Justin Jaffray](https://www.worldcubeassociation.org/persons/2008JAFF01) | Canada | [Toronto Open Fall 2008](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2008) | [Vancouver Winter 2011](https://www.worldcubeassociation.org/competitions/VancouverWinter2011) |
 | 22 | [Hung Lo (羅鴻)](https://www.worldcubeassociation.org/persons/2009LOHU01) | Taiwan | [Taiwan Summer 2013](https://www.worldcubeassociation.org/competitions/TaiwanSummer2013) | [ Twisting Fingers 2015](https://www.worldcubeassociation.org/competitions/TwistingFingers2015) |
+| 22 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | Italy | [Bologna NxN Spring 2019](https://www.worldcubeassociation.org/competitions/BolognaNxNSpring2019) |  |
 | 22 | [Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)](https://www.worldcubeassociation.org/persons/2009CHAR03) | Thailand | [Thailand Open 2009](https://www.worldcubeassociation.org/competitions/ThailandOpen2009) | [Bangkok Open 2019](https://www.worldcubeassociation.org/competitions/BangkokOpen2019) |
 | 22 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | Thailand | [TCA Championship 2011](https://www.worldcubeassociation.org/competitions/TCAChampionship2011) |  |
 | 22 | [Rodrigo Lucas Pardo](https://www.worldcubeassociation.org/persons/2015CABE01) | Chile | [Instituto Nacional Open 2016](https://www.worldcubeassociation.org/competitions/InstitutoNacionalOpen2016) | [Akiba Expo Open 2018](https://www.worldcubeassociation.org/competitions/AkibaExpoOpen2018) |
@@ -77,7 +78,6 @@
 | 22 | [Christian Goñi](https://www.worldcubeassociation.org/persons/2014GONI01) | Uruguay | [Montevideo Open 2014](https://www.worldcubeassociation.org/competitions/MontevideoOpen2014) | [Montevideo Palace 2018](https://www.worldcubeassociation.org/competitions/MontevideoPalace2018) |
 | 22 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) | Bolivia | [Speed Challenge Santa Cruz 2019](https://www.worldcubeassociation.org/competitions/SpeedChallengeSantaCruz2019) | [Cocha Cubing 2021](https://www.worldcubeassociation.org/competitions/CochaCubing2021) |
 | 21 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | Republic of Korea | [Spring Comes 2015](https://www.worldcubeassociation.org/competitions/SpringComes2015) | [CWR Fall 2018](https://www.worldcubeassociation.org/competitions/CWRFall2018) |
-| 21 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | Italy | [Bologna NxN Spring 2019](https://www.worldcubeassociation.org/competitions/BolognaNxNSpring2019) |  |
 | 21 | [Manuel Ernesto Torres Vega](https://www.worldcubeassociation.org/persons/2015VEGA02) | Chile | [La Florida Open 2015](https://www.worldcubeassociation.org/competitions/LaFloridaOpen2015) | [Open La Florida 2017](https://www.worldcubeassociation.org/competitions/OpenFlorida2017) |
 | 21 | [Alfred Saidlo](https://www.worldcubeassociation.org/persons/2014SAID02) | Estonia | [Estonian Open 2014](https://www.worldcubeassociation.org/competitions/EstonianOpen2014) | [Estonian Open 2020](https://www.worldcubeassociation.org/competitions/EstonianOpen2020) |
 | 21 | [Jan Erik Soosaar](https://www.worldcubeassociation.org/persons/2016SOOS01) | Estonia | [Estonian Open 2016](https://www.worldcubeassociation.org/competitions/EstonianOpen2016) |  |

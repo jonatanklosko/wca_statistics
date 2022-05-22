@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  9 May 2022*
+*Updated on 21 May 2022*
 
 
 ### Rubik's Cube
@@ -17,7 +17,7 @@
 | 8.53 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 8.62 | [Mark Cheung](https://www.worldcubeassociation.org/persons/2017CHEU01) |
 | 8.62 | [Shinsuke Akahane (赤羽真祐)](https://www.worldcubeassociation.org/persons/2020AKAH01) |
-| 8.75 | [Zhuo Zhang (张卓)](https://www.worldcubeassociation.org/persons/2021ZHAN08) |
+| 8.69 | [Sanjay Adireddi](https://www.worldcubeassociation.org/persons/2022ADIR01) |
 
 ### 2x2x2 Cube
 
@@ -42,12 +42,12 @@
 | 31.25 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 31.47 | [Aditya Bareja](https://www.worldcubeassociation.org/persons/2022BARE01) |
 | 32.68 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
+| 33.02 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) |
 | 34.60 | [Melvin Tan](https://www.worldcubeassociation.org/persons/2021TANM01) |
 | 34.72 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
 | 34.83 | [Zhengtao Yu (俞正涛)](https://www.worldcubeassociation.org/persons/2017YUZH02) |
 | 35.07 | [Aleksandr Nedelko](https://www.worldcubeassociation.org/persons/2020NEDE01) |
 | 35.11 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) |
-| 35.28 | [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) |
 
 ### 5x5x5 Cube
 

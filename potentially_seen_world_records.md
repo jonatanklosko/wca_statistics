@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 21 May 2022*
+*Updated on  2 June 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -19,7 +19,7 @@
 | 126 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) |
 | 124 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 121 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 115 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
+| 117 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 115 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
 | 111 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 109 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
@@ -30,7 +30,7 @@
 | 102 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 102 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
-| 97 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
+| 99 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 96 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 95 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
@@ -67,11 +67,11 @@
 | 79 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 77 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
+| 75 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 75 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
 | 73 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 73 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
@@ -93,14 +93,14 @@
 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 66 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 66 | [David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01) |
-| 65 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 65 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
+| 65 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 65 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 65 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 64 | [Peter Jansen](https://www.worldcubeassociation.org/persons/2003JANS01) |
-| 64 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
-| 64 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 64 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
+| 64 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
+| 64 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 64 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 64 | [Kirt Protacio](https://www.worldcubeassociation.org/persons/2010PROT01) |
 | 62 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |

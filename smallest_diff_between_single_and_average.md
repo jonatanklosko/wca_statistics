@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 21 May 2022*
+*Updated on  2 June 2022*
 
 
 ### Rubik's Cube
@@ -197,7 +197,7 @@
 | 0.12 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) | 8.30 | 8.42 | [Cube Camp in Wonju 2019](https://www.worldcubeassociation.org/competitions/CubeCampinWonju2019/results/by_person#2017KIMJ02) |
 | 0.12 | [Ignacio Ortiz](https://www.worldcubeassociation.org/persons/2015ORTI02) | 21.58 | 21.70 | [Rubik Soletta Concepción 2017](https://www.worldcubeassociation.org/competitions/RubikSolettaConcepcion2017/results/by_person#2015ORTI02) |
 | 0.13 | [Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02) | 9.21 | 9.34 | [Kansai Open 2018](https://www.worldcubeassociation.org/competitions/KansaiOpen2018/results/by_person#2013TAKA02) |
-| 0.13 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 11.00 | 11.13 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2013JOHN10) |
+| 0.13 | [Lucas Jacobs](https://www.worldcubeassociation.org/persons/2018JACO10) | 10.39 | 10.52 | [Hamilton Side Events 2022](https://www.worldcubeassociation.org/competitions/HamiltonSideEvents2022/results/by_person#2018JACO10) |
 
 ### 4x4x4 Blindfolded
 

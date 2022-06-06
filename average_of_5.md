@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  2 June 2022*
+*Updated on  5 June 2022*
 
 
 ### Rubik's Cube
@@ -162,11 +162,11 @@
 | 1.65 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.82, 1.15, 1.53, 1.86, 1.62 |
 | 1.72 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.27, 1.84, 2.51, 1.15, 2.07 |
 | 1.76 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 1.91, 1.62, 1.67, 5.49, 1.71 |
+| 1.78 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.68, 1.57, 2.05, 5.04, 1.62 |
 | 1.78 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | DNF, 1.24, 1.67, 1.59, 2.10 |
 | 1.80 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.74, 1.98, 1.69, 2.40, 1.18 |
 | 1.84 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.17, 3.99, 1.39, 1.80, 2.33 |
 | 1.85 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | 1.83, 1.55, 1.54, 4.00, 2.17 |
-| 1.87 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.92, 1.78, 2.12, 1.74, 1.91 |
 | 1.87 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.81, 2.02, 1.87, 1.42, 1.95 |
 
 ### Rubik's Clock
@@ -177,12 +177,12 @@
 | 3.86 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 3.52, 4.28, 4.57, 3.54, 3.76 |
 | 4.19 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 8.27, 4.52, 4.08, 3.98, 3.95 |
 | 4.37 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | 3.92, 4.67, 4.52, 5.75, 3.87 |
+| 4.38 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.33, 4.17, 4.80, 4.20, 4.63 |
 | 4.38 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) | 4.07, 4.07, 4.48, 5.13, 4.60 |
 | 4.52 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 6.84, 4.61, 4.68, 4.28, 4.00 |
 | 4.53 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) | 5.71, 4.55, 4.21, 4.15, 4.83 |
 | 4.62 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 4.09, 4.38, 5.17, 4.50, 4.99 |
 | 4.68 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 4.62, 6.69, 4.19, 5.11, 4.32 |
-| 4.77 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 3.79, 4.39, 4.77, 8.08, 5.17 |
 
 ### Skewb
 

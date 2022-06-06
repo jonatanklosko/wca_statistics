@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  2 June 2022*
+*Updated on  5 June 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -133,6 +133,7 @@
 | 1113 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
 | 1127 | [Samuel Hernandez Castro](https://www.worldcubeassociation.org/persons/2016CAST31) |
 | 1128 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
+| 1133 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
 | 1147 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) |
 | 1155 | [Paris Dorn](https://www.worldcubeassociation.org/persons/2015DORN02) |
 | 1155 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) |
@@ -257,11 +258,13 @@
 | 2156 | [Sanae Yamashita (山下佐苗)](https://www.worldcubeassociation.org/persons/2008OMYO01) |
 | 2156 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) |
 | 2163 | [Michael Conard](https://www.worldcubeassociation.org/persons/2013CONA01) |
+| 2176 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 2177 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) |
 | 2197 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
 | 2219 | [Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01) |
 | 2232 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
 | 2245 | [Yan Xuan (宣炎)](https://www.worldcubeassociation.org/persons/2009XUAN03) |
+| 2248 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) |
 | 2269 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 2310 | [Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02) |
 | 2323 | [Can Mao (毛灿)](https://www.worldcubeassociation.org/persons/2010MAOC01) |

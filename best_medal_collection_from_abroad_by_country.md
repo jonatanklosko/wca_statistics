@@ -1,25 +1,25 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  2 June 2022*
+*Updated on  5 June 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1263** | 1034 | 886 | 3183 |
 | Germany | **742** | 727 | 724 | 2193 |
 | Netherlands | **727** | 600 | 495 | 1822 |
-| United States | **723** | 580 | 503 | 1806 |
+| United States | **723** | 583 | 503 | 1809 |
 | France | **680** | 590 | 492 | 1762 |
 | Russia | **530** | 366 | 301 | 1197 |
-| Poland | **353** | 245 | 180 | 778 |
+| Poland | **358** | 247 | 180 | 785 |
 | China | **336** | 298 | 268 | 902 |
-| Malaysia | **319** | 298 | 273 | 890 |
-| Canada | **310** | 318 | 339 | 967 |
+| Malaysia | **320** | 298 | 273 | 891 |
+| Canada | **310** | 318 | 340 | 968 |
 | United Kingdom | **300** | 333 | 348 | 981 |
 | Denmark | **294** | 242 | 175 | 711 |
 | Sweden | **280** | 323 | 336 | 939 |
 | Australia | **275** | 122 | 81 | 478 |
-| Republic of Korea | **220** | 219 | 180 | 619 |
+| Republic of Korea | **221** | 219 | 180 | 620 |
 | Finland | **206** | 147 | 124 | 477 |
 | Taiwan | **186** | 161 | 152 | 499 |
 | Japan | **185** | 106 | 106 | 397 |
@@ -40,7 +40,7 @@
 | Singapore | **108** | 115 | 120 | 343 |
 | Austria | **107** | 160 | 171 | 438 |
 | Belarus | **106** | 63 | 73 | 242 |
-| Ireland | **91** | 52 | 38 | 181 |
+| Ireland | **92** | 55 | 39 | 186 |
 | Latvia | **89** | 138 | 125 | 352 |
 | Czech Republic | **86** | 100 | 108 | 294 |
 | Kazakhstan | **82** | 75 | 68 | 225 |
@@ -87,12 +87,12 @@
 | Macau | **4** | 7 | 9 | 20 |
 | Kuwait | **4** | 6 | 10 | 20 |
 | Armenia | **4** | 6 | 8 | 18 |
-| Panama | **4** | 5 | 5 | 14 |
+| Panama | **4** | 5 | 8 | 17 |
 | Ecuador | **4** | 4 | 9 | 17 |
 | Bangladesh | **3** | 9 | 4 | 16 |
 | Cyprus | **3** | 8 | 3 | 14 |
 | Paraguay | **2** | 1 | 4 | 7 |
-| Lebanon | **1** | 8 | 5 | 14 |
+| Lebanon | **1** | 12 | 10 | 23 |
 | Iceland | **1** | 7 | 9 | 17 |
 | Tajikistan | **1** | 4 | 3 | 8 |
 | Saudi Arabia | **1** | 3 | 0 | 4 |

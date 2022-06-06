@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  2 June 2022*
+*Updated on  5 June 2022*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -18,18 +18,18 @@
 | 125 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 119 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 115 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
+| 113 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 112 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
-| 112 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 104 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 102 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 98 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
+| 95 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 93 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 92 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 92 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 91 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 87 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 87 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |

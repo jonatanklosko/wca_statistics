@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  2 June 2022*
+*Updated on  5 June 2022*
 
 
 ### Rubik's Cube
@@ -160,7 +160,7 @@
 | ---: | :--- | :--- |
 | 1.77 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 2.25, 1.79, 1.82, 1.15, 1.53, 1.86, 1.62, 1.98, 1.19, 2.75, 1.87, 1.79 |
 | 1.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.79, 2.21, 1.74, 1.39, 2.69, 1.76, 1.33, 1.87, 2.02, 2.34, 1.35, 1.77 |
-| 1.97 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 2.05, 2.34, 1.92, 1.78, 2.12, 1.74, 1.91, 2.40, 2.20, 1.68, 1.57, 2.05 |
+| 1.94 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.92, 1.78, 2.12, 1.74, 1.91, 2.40, 2.20, 1.68, 1.57, 2.05, 5.04, 1.62 |
 | 1.99 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.35, 2.19, 1.78, 2.52, 2.32, 1.98, 3.86, 1.74, 1.98, 1.69, 2.40, 1.18 |
 | 2.04 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.80, 1.80, 2.12, 3.01, 1.75, 1.31, 2.24, 2.42, 2.16, 1.82, 2.31, 2.00 |
 | 2.12 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.27, 1.45, 2.01, 2.29, 2.54, 2.64, 2.52, 1.17, 3.99, 1.39, 1.80, 2.33 |

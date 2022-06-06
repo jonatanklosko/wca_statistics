@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  2 June 2022*
+*Updated on  5 June 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -25,8 +25,8 @@
 | 85 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 85 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 83 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
+| 83 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 83 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
-| 82 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 70 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
@@ -38,11 +38,11 @@
 | 66 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 65 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
 | 62 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
+| 61 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 60 | [Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13) |
 | 60 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
 | 60 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 60 | [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) |
-| 60 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 56 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 56 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 55 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
@@ -82,13 +82,13 @@
 | 43 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 43 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 43 | [Billy Burier](https://www.worldcubeassociation.org/persons/2014BURI01) |
+| 42 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 42 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 42 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 41 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 41 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 41 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) |
 | 41 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |
-| 41 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 41 | [Raphaël Pihet](https://www.worldcubeassociation.org/persons/2011PIHE01) |
 | 41 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 41 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |

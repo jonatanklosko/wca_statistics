@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  5 June 2022*
+*Updated on  8 June 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -668,6 +668,7 @@
 | 12 | [Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02) | [GCC 2015](https://www.worldcubeassociation.org/competitions/GuatemalaCubeChallenge2015/results/podiums) |
 | 10 | [Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02) | [Mazate Open 2016](https://www.worldcubeassociation.org/competitions/MazateOpen2016/results/podiums) |
 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Slovakian Summer 2019](https://www.worldcubeassociation.org/competitions/SlovakianSummer2019/results/podiums) |
+| 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Tallinn Open 2022](https://www.worldcubeassociation.org/competitions/TallinnOpen2022/results/podiums) |
 | 14 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [German Open 2019](https://www.worldcubeassociation.org/competitions/GermanOpen2019/results/podiums) |
 | 11 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [Danish Open 2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019/results/podiums) |
 | 10 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [GamMa Spring 2022](https://www.worldcubeassociation.org/competitions/GamMaSpring2022/results/podiums) |

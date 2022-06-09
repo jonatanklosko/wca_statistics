@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  5 June 2022*
+*Updated on  8 June 2022*
 
 
 ### Competition
@@ -49,7 +49,7 @@
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **8964** | 9217 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **8834** | 9278 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **8804** | 9174 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **8748** | 9020 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **8799** | 9076 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **8725** | 8861 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **8719** | 9234 |
 
@@ -59,13 +59,13 @@
 | :--- | ---: | ---: |
 | United States | **2353242** | 2471779 |
 | China | **1212800** | 1272685 |
-| Poland | **614050** | 645632 |
+| Poland | **616840** | 648669 |
 | India | **588180** | 619630 |
 | Germany | **438791** | 460506 |
 | Russia | **430990** | 455782 |
-| Spain | **405570** | 425937 |
-| Australia | **384845** | 406392 |
-| France | **341878** | 359975 |
+| Spain | **406943** | 427370 |
+| Australia | **390087** | 411997 |
+| France | **346942** | 365300 |
 | Brazil | **333301** | 348317 |
 | Canada | **331621** | 346374 |
 | United Kingdom | **302652** | 319281 |
@@ -82,11 +82,11 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **4600739** | 4837076 |
-| Asia | **3168530** | 3323937 |
+| Europe | **4616423** | 4853575 |
+| Asia | **3168594** | 3324096 |
 | North America | **3007719** | 3155525 |
 | South America | **1015728** | 1064445 |
-| Oceania | **477428** | 504051 |
+| Oceania | **482670** | 509656 |
 | Africa | **62903** | 65819 |
 | Multiple Continents | **1674** | 2229 |
 
@@ -100,7 +100,7 @@
 | 2016 | **1196511** | 1253828 |
 | 2015 | **885839** | 929324 |
 | 2014 | **679130** | 717373 |
-| 2022 | **511480** | 535613 |
+| 2022 | **532470** | 557876 |
 | 2013 | **447093** | 473664 |
 | 2020 | **426787** | 446541 |
 | 2012 | **388118** | 410674 |
@@ -119,26 +119,26 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **3864668** | 3953966 |
-| 2x2x2 Cube | **2155892** | 2212332 |
-| Pyraminx | **1315783** | 1352171 |
-| 4x4x4 Cube | **1165257** | 1211690 |
-| 3x3x3 One-Handed | **1109428** | 1148019 |
-| Skewb | **772553** | 794788 |
-| 5x5x5 Cube | **589523** | 608455 |
-| Megaminx | **325812** | 341070 |
-| Square-1 | **298234** | 312487 |
-| Clock | **183791** | 214452 |
-| 6x6x6 Cube | **118682** | 123461 |
-| 7x7x7 Cube | **98940** | 103378 |
-| 3x3x3 Blindfolded | **87035** | 245807 |
+| 3x3x3 Cube | **3871003** | 3960466 |
+| 2x2x2 Cube | **2160562** | 2217126 |
+| Pyraminx | **1317701** | 1354128 |
+| 4x4x4 Cube | **1167278** | 1213800 |
+| 3x3x3 One-Handed | **1110948** | 1149610 |
+| Skewb | **773870** | 796140 |
+| 5x5x5 Cube | **590425** | 609388 |
+| Megaminx | **326390** | 341681 |
+| Square-1 | **298637** | 312899 |
+| Clock | **184453** | 215194 |
+| 6x6x6 Cube | **118836** | 123626 |
+| 7x7x7 Cube | **99056** | 103506 |
+| 3x3x3 Blindfolded | **87309** | 246518 |
 | Magic | **78268** | 86498 |
-| 3x3x3 Fewest Moves | **54373** | 77940 |
+| 3x3x3 Fewest Moves | **54456** | 78073 |
 | 3x3x3 With Feet | **51903** | 56672 |
 | Master Magic | **39964** | 41445 |
-| 3x3x3 Multi-Blind | **14710** | 26224 |
-| 4x4x4 Blindfolded | **6802** | 27479 |
-| 5x5x5 Blindfolded | **2698** | 14157 |
+| 3x3x3 Multi-Blind | **14723** | 26243 |
+| 4x4x4 Blindfolded | **6818** | 27541 |
+| 5x5x5 Blindfolded | **2706** | 14200 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

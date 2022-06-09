@@ -1,22 +1,22 @@
 ## Competition days count by region
 
-*Updated on  5 June 2022*
+*Updated on  8 June 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 7996 |
+| 1.49 | World | 7999 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2588 |
+| 1.77 | Europe | 2590 |
 | 1.58 | South America | 898 |
 | 1.47 | Oceania | 330 |
-| 1.41 | Asia | 2037 |
+| 1.41 | Asia | 2038 |
 | 1.21 | North America | 2058 |
 | 1.18 | Africa | 85 |
 
@@ -64,8 +64,8 @@
 | 1.67 | Montenegro | 3 |
 | 1.65 | Ireland | 20 |
 | 1.65 | Iran | 31 |
-| 1.64 | Poland | 294 |
 | 1.64 | Netherlands | 91 |
+| 1.64 | Poland | 295 |
 | 1.63 | Indonesia | 164 |
 | 1.63 | Argentina | 51 |
 | 1.62 | Iceland | 8 |
@@ -81,8 +81,8 @@
 | 1.50 | Singapore | 22 |
 | 1.50 | Tajikistan | 2 |
 | 1.49 | Italy | 145 |
+| 1.48 | Romania | 69 |
 | 1.47 | Latvia | 19 |
-| 1.47 | Romania | 68 |
 | 1.47 | Peru | 144 |
 | 1.46 | Australia | 260 |
 | 1.40 | Jordan | 5 |
@@ -125,7 +125,7 @@
 | 1.00 | Georgia | 3 |
 | 1.00 | Kenya | 1 |
 | 1.00 | Kosovo | 2 |
-| 1.00 | Kuwait | 2 |
+| 1.00 | Kuwait | 3 |
 | 1.00 | Macau | 1 |
 | 1.00 | Madagascar | 1 |
 | 1.00 | Malta | 1 |

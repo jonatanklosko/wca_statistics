@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  8 June 2022*
+*Updated on 11 June 2022*
 
 
 ### Rubik's Cube
@@ -252,7 +252,7 @@
 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | 8 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 8 |
 | [Jacky Koo Chun Ki (顧俊祺)](https://www.worldcubeassociation.org/persons/2010KIKO01) | 8 |
-| [Nick Rech](https://www.worldcubeassociation.org/persons/2011RECH01) | 7 |
+| [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 8 |
 
 ### Pyraminx
 
@@ -351,8 +351,8 @@
 | [Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01) | 10 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 10 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 9 |
+| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 9 |
 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 8 |
-| [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | 8 |
 
 ### 4x4x4 Blindfolded
 

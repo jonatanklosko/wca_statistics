@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 June 2022*
+*Updated on 11 June 2022*
 
 
 ### Rubik's Cube
@@ -150,9 +150,9 @@
 | 33.28 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 36.22, 30.94, 31.24, 35.78, 30.12, 33.90, 30.89, 30.57, 40.52, 34.27, 34.52, 34.55 |
 | 33.76 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 34.30, 34.50, 33.17, 33.88, 29.67, 36.92, 36.16, 32.68, 29.85, 33.79, 34.13, 35.22 |
 | 34.95 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 32.39, 30.46, 41.73, 37.02, 37.41, 34.60, 36.25, 34.92, 34.79, 34.69, 35.26, 32.26 |
+| 35.07 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 34.28, 31.75, 33.96, 42.60, 34.25, 41.01, 34.21, 34.45, 34.64, 36.32, 32.40, 35.24 |
 | 35.21 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 33.83, 34.38, 31.71, 34.83, 36.36, 34.55, 33.01, 36.31, 35.34, 38.92, 40.46, 34.61 |
 | 35.52 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | 35.07, 34.82, 37.14, 37.57, 37.39, 38.00, 35.51, 34.32, 31.91, 41.49, 33.51, 30.89 |
-| 35.70 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 35.05, 41.50, 34.18, 34.04, 32.56, 35.70, 36.08, 34.66, 39.13, 36.54, 34.53, 37.16 |
 
 ### Pyraminx
 
@@ -203,7 +203,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 5.54 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 4.91, 6.20, 6.34, 5.23, 9.73, 4.97, 4.84, 4.86, 4.84, 7.02, 5.74, 5.29 |
+| 5.50 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 6.34, 5.23, 9.73, 4.97, 4.84, 4.86, 4.84, 7.02, 5.74, 5.29, 5.70, 5.10 |
 | 5.78 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 6.56, 9.94, 5.63, 5.52, 4.88, 5.94, 5.61, 5.45, 5.68, 7.45, 5.16, 4.37 |
 | 6.41 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 6.08, 5.38, 5.65, 5.41, 6.61, 8.06, 6.32, 7.72, 6.44, 6.78, 7.47, 5.69 |
 | 6.74 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.92, 6.68, 7.75, 6.65, 5.64, 8.39, 7.53, 5.52, 7.27, 6.46, 6.16, 7.43 |

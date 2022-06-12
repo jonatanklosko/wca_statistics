@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  8 June 2022*
+*Updated on 11 June 2022*
 
 
 ### Rubik's Cube
@@ -163,11 +163,11 @@
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1.57 | **2.45** | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/all#epyram_f) | 4 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.50 | **2.48** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 5 |
 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.52 | **2.51** | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/all#epyram_f) | 5 |
+| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1.71 | **2.52** | [Cube4fun Jasło 2022](https://www.worldcubeassociation.org/competitions/Cube4funJaslo2022/results/all#epyram_f) | 4 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.33 | **2.52** | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/all#epyram_f) | 4 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1.54 | **2.53** | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/all#epyram_f) | 6 |
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 0.98 | **2.56** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 6 |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 2.32 | **2.56** | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021/results/all#epyram_f) | 4 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 2.29 | **2.64** | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 
@@ -209,10 +209,10 @@
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.82 | **7.57** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#esq1_f) | 6 |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.40 | **7.65** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 4 |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.77 | **7.92** | [Bothell Spring 2022](https://www.worldcubeassociation.org/competitions/BothellSpring2022/results/all#esq1_f) | 4 |
+| [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.33 | **7.95** | [School's Out PLU 2022](https://www.worldcubeassociation.org/competitions/SchoolsOutPLU2022/results/all#esq1_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 7.34 | **7.98** | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/all#esq1_f) | 4 |
 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) | 7.08 | **8.01** | [Bothell Spring 2022](https://www.worldcubeassociation.org/competitions/BothellSpring2022/results/all#esq1_f) | 5 |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.36 | **8.01** | [Welcome Back Portland 2022](https://www.worldcubeassociation.org/competitions/WelcomeBackPortland2022/results/all#esq1_f) | 4 |
-| [Christopher Fandrich](https://www.worldcubeassociation.org/persons/2019FAND01) | 6.80 | **8.15** | [Bothell Spring 2022](https://www.worldcubeassociation.org/competitions/BothellSpring2022/results/all#esq1_f) | 6 |
 
 ### 4x4x4 Blindfolded
 

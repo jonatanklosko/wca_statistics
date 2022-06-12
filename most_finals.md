@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  8 June 2022*
+*Updated on 11 June 2022*
 
 | Finals | Person |
 | ---: | :--- |
@@ -28,7 +28,7 @@
 | 978 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 971 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 965 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
-| 946 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 951 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 913 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
@@ -72,12 +72,12 @@
 | 665 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 663 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 662 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 660 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 659 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
-| 655 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 657 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 655 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 654 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 652 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 651 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 651 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) |
 | 645 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 641 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) |

@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 11 June 2022*
+*Updated on 14 June 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -12,7 +12,7 @@
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **120** | 132 | 97 | 349 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **112** | 50 | 23 | 185 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **115** | 51 | 23 | 189 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **111** | 58 | 36 | 205 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **110** | 99 | 86 | 295 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **107** | 132 | 117 | 356 |
@@ -39,11 +39,11 @@
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 23 | 17 | 94 |
+| [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **50** | 43 | 24 | 117 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | **50** | 20 | 10 | 80 |
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **50** | 16 | 3 | 69 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **49** | 50 | 38 | 137 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | **49** | 44 | 40 | 133 |
-| [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **49** | 42 | 24 | 115 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **48** | 58 | 61 | 167 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **48** | 29 | 15 | 92 |
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **47** | 31 | 20 | 98 |

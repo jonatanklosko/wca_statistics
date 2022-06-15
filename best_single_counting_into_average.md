@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 11 June 2022*
+*Updated on 14 June 2022*
 
 
 ### Rubik's Cube
@@ -115,13 +115,13 @@
 | 3.28 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
 | 3.54 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 | 3.76 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
+| 3.84 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [GA Cubers Big & Blind Time 2022](https://www.worldcubeassociation.org/competitions/GACubersBigBlindTime2022/results/by_person#2015TREL02) |
 | 3.92 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Shenzhen Open 2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018/results/by_person#2017LOUY01) |
 | 3.93 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2017CHAM09) |
 | 3.94 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2017CHAM09) |
 | 3.95 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
 | 3.98 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wakefield Spring 2022](https://www.worldcubeassociation.org/competitions/WakefieldSpring2022/results/by_person#2017CHAM09) |
-| 4.01 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Tyumen Alpaca 2022](https://www.worldcubeassociation.org/competitions/TyumenAlpaca2022/results/by_person#2016GUND05) |
-| 4.03 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021/results/by_person#2017LOUY01) |
+| 3.98 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | [GA Cubers Big & Blind Time 2022](https://www.worldcubeassociation.org/competitions/GACubersBigBlindTime2022/results/by_person#2018CREE01) |
 
 ### Skewb
 
@@ -129,6 +129,7 @@
 | ---: | :--- | :--- |
 | 1.43 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022/results/by_person#2018KHAN28) |
 | 1.47 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/by_person#2015ROBI04) |
+| 1.49 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [Sioux Falls Spring 2022](https://www.worldcubeassociation.org/competitions/SiouxFallsSpring2022/results/by_person#2015ROBI04) |
 | 1.58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Deerfield Winter 2022](https://www.worldcubeassociation.org/competitions/DeerfieldWinter2022/results/by_person#2015KUCA01) |
 | 1.61 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Sioux Falls Winter 2021](https://www.worldcubeassociation.org/competitions/SiouxFallsWinter2021/results/by_person#2015KUCA01) |
 | 1.63 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | [Taiwan Open 2022](https://www.worldcubeassociation.org/competitions/TaiwanOpen2022/results/by_person#2019YANG94) |
@@ -136,7 +137,6 @@
 | 1.66 | [Mykhailo Lagoida (Михайло Лагойда)](https://www.worldcubeassociation.org/persons/2016LAGO04) | [Frankivsk Open 2019](https://www.worldcubeassociation.org/competitions/FrankivskOpen2019/results/by_person#2016LAGO04) |
 | 1.67 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Project Będzin 2019](https://www.worldcubeassociation.org/competitions/ProjectBedzin2019/results/by_person#2013BURL01) |
 | 1.68 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Cube4fun Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022/results/by_person#2013BURL01) |
-| 1.71 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017/results/by_person#2013BURL01) |
 
 ### Square-1
 

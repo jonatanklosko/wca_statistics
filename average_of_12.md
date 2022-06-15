@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 11 June 2022*
+*Updated on 14 June 2022*
 
 
 ### Rubik's Cube
@@ -15,9 +15,9 @@
 | 5.94 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 5.53, 6.32, 5.81, DNF, 6.38, 5.35, 7.21, 5.38, 5.98, 5.76, 5.40, 5.72 |
 | 5.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.22, 5.70, 5.81, 6.51, 5.89, 6.93, 5.45, 5.24, 6.16, 6.65, 8.19, 5.48 |
 | 6.06 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 6.28, 4.77, 6.31, 5.62, 7.52, 6.49, 5.59, 6.26, 6.72, 6.98, 5.53, 4.89 |
+| 6.12 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.79, 5.58, 5.98, 6.39, 8.27, 6.22, 6.30, 6.78, 6.05, 5.61, 6.52, 5.44 |
 | 6.15 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | 6.17, 5.16, 8.31, 5.87, 5.42, 5.30, 7.53, 5.42, 6.65, 8.04, 6.00, 4.88 |
 | 6.16 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | 5.64, 6.73, 6.80, 5.88, 5.66, 5.93, 6.67, 5.51, 8.67, 5.76, 6.02, 6.59 |
-| 6.16 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.93, 5.95, 8.44, 7.52, 6.11, 5.15, 6.69, 5.74, 5.49, 6.67, 6.38, 4.98 |
 
 ### 2x2x2 Cube
 
@@ -175,21 +175,21 @@
 | ---: | :--- | :--- |
 | 4.40 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 4.02, 4.35, 3.52, 4.28, 4.57, 3.54, 3.76, DNF, 5.96, 4.80, 5.12, 3.67 |
 | 4.43 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 4.01, 5.96, 3.84, 3.28, 5.13, 3.95, 3.28, 4.61, 4.32, DNF, 4.56, 4.71 |
+| 4.46 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.33, 4.17, 4.80, 4.20, 4.63, 5.32, 4.90, 4.13, 4.06, 4.29, 4.51, 4.67 |
 | 4.56 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.96, 4.25, 4.86, 5.35, 4.25, 4.06, 4.11, 6.09, 5.36, 4.58, 3.41, 4.91 |
 | 4.70 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | 4.72, 4.98, 4.06, 4.78, 5.32, 5.96, 4.36, 3.92, 4.67, 4.52, 5.75, 3.87 |
 | 4.80 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) | 4.07, 4.07, 4.48, 5.13, 4.60, 4.19, 4.82, 5.39, 6.20, 4.35, DNF, 4.84 |
+| 4.88 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 4.50, 5.10, 6.60, 5.50, 5.67, 3.98, 3.49, 6.67, 4.34, 3.92, 4.58, 4.64 |
 | 4.94 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) | 4.83, 4.77, 6.50, 4.62, 4.26, 6.34, 5.28, 5.71, 4.55, 4.21, 4.15, 4.83 |
-| 4.95 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 5.08, 5.67, 4.09, 4.38, 5.17, 4.50, 4.99, 3.59, 6.71, 7.34, 4.53, 4.39 |
 | 5.02 | [Joshua Marriott](https://www.worldcubeassociation.org/persons/2019MARR04) | 5.14, 4.00, 4.92, 5.39, 4.61, 5.44, 5.32, 5.16, 5.19, 4.89, 5.30, 4.32 |
 | 5.03 | [Jacob Evarts](https://www.worldcubeassociation.org/persons/2018EVAR01) | 5.42, 4.20, 5.22, 4.67, 4.83, DNF, 4.48, 5.22, 6.44, 3.52, 4.66, 5.24 |
-| 5.07 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 4.19, 5.11, 4.32, 6.71, 5.35, 5.38, 4.66, 4.13, 5.05, 5.46, 10.57, 4.56 |
 
 ### Skewb
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 2.01 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.84, 1.83, 2.43, 2.27, 2.07, 2.02, 1.32, 1.83, 3.29, 1.73, 2.09, 2.07 |
-| 2.18 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.80, 2.11, 2.35, 2.98, 2.24, 3.31, 1.91, 2.13, 2.27, 2.17, 1.85, 1.22 |
+| 2.09 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 4.58, 2.00, 2.00, 1.78, 1.73, 1.42, 3.71, 2.24, 1.85, 2.12, 1.10, 2.06 |
 | 2.41 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.61, 2.18, 2.31, 3.58, 2.30, 2.25, 2.55, 1.90, 2.01, 2.42, 2.61, 2.91 |
 | 2.47 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 5.16, 1.75, 2.11, 2.31, 2.37, 2.46, 2.40, 2.28, 3.16, 2.28, 2.99, 2.36 |
 | 2.47 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 2.81, 1.78, 4.45, 2.65, 2.73, 2.68, 2.22, 2.36, 2.20, 2.33, 2.79, 1.97 |

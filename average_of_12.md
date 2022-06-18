@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 14 June 2022*
+*Updated on 17 June 2022*
 
 
 ### Rubik's Cube
@@ -115,6 +115,7 @@
 | ---: | :--- | :--- |
 | 22.30 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | 27, 23, 22, 21, 22, 22, 22, 23, 22, 21, 23, 23 |
 | 22.50 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 23, 22, 23, 23, 23, 21, 21, 24, 23, 23, 22 |
+| 23.50 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 19, 30, 25, 23, 23, 24, 22, 20, 25, 26, 24, 23 |
 | 24.00 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 26, 26, 21, 26, 29, 22, 24, 25, 23, 23, 22, 23 |
 | 24.10 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 31, 24, 26, 25, 24, 22, 24, 25, 21, 24, 26, 21 |
 | 24.20 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 27, 26, 24, 23, 22, 22, 24, 25, 25, 24, 24, 25 |
@@ -122,7 +123,6 @@
 | 24.40 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 31, 17, 25, 25, 23, 24, 30, 25, 21, 26, 22, 23 |
 | 24.60 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 28, 17, 28, 22, 23, 24, 26, 21, 28, 24, 26, 24 |
 | 24.70 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 23, 23, 24, 28, 23, 26, 25, 28, 26, 22, 27, 21 |
-| 25.10 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) | 28, 28, 29, 28, 23, 24, 20, 25, 23, 22, 24, 26 |
 
 ### 3x3x3 One-Handed
 
@@ -143,7 +143,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 31.08 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 30.13, 29.93, 34.35, 31.70, 29.98, 28.57, 32.06, 32.37, 31.18, 29.77, 35.15, 29.35 |
+| 30.88 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 31.18, 29.77, 35.15, 29.35, 33.31, 29.01, 34.83, 28.28, 33.57, 28.44, 28.86, 30.51 |
 | 31.25 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 29.16, 32.81, 31.78, 34.48, 33.62, 33.47, 30.12, 28.50, 31.19, 29.97, 31.07, 29.34 |
 | 31.53 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 31.15, 30.00, 29.96, DNF, 38.24, 28.06, 32.45, 34.59, 34.80, 28.09, 28.00, 26.50 |
 | 33.12 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.84, 31.53, 32.84, 36.09, 30.84, 33.06, 34.66, 34.78, 33.54, 36.18, 33.04, 30.63 |

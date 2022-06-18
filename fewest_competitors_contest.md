@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 14 June 2022*
+*Updated on 17 June 2022*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -16,6 +16,7 @@
 | 6 | [Mega FMC Helsinki 2022](https://www.worldcubeassociation.org/competitions/MegaFMCHelsinki2022) |
 | 6 | [VilaVelhaQuiet 2019](https://www.worldcubeassociation.org/competitions/VilaVelhaQuiet2019) |
 | 6 | [Yay Yarışları - Lənkəran 2022](https://www.worldcubeassociation.org/competitions/YayYarislariILankaran2022) |
+| 6 | [Yay Yarışları - Balakən 2022](https://www.worldcubeassociation.org/competitions/YayYarislarilBalakan2022) |
 | 7 | [Balakən Qış 2019](https://www.worldcubeassociation.org/competitions/BalakanQis2019) |
 | 7 | [Dutch Open 2003](https://www.worldcubeassociation.org/competitions/DutchOpen2003) |
 | 7 | [Fantabulous MI Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMichigan2015) |

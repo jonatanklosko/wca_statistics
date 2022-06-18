@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 14 June 2022*
+*Updated on 17 June 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -26,6 +26,7 @@
 | 1771 | [Hanns Hub](https://www.worldcubeassociation.org/persons/2013HUBH01) |
 | 1804 | [Jiachi Han (韩佳池)](https://www.worldcubeassociation.org/persons/2014HANJ02) |
 | 1868 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
+| 1939 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
 | 2084 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 2155 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 2196 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) |

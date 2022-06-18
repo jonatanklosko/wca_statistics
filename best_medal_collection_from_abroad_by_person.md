@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 14 June 2022*
+*Updated on 17 June 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -57,10 +57,10 @@
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | **45** | 8 | 8 | 61 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | **44** | 72 | 46 | 162 |
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **44** | 19 | 7 | 70 |
+| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **43** | 53 | 20 | 116 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **43** | 50 | 46 | 139 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | **42** | 43 | 51 | 136 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | **42** | 1 | 0 | 43 |
-| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **41** | 53 | 19 | 113 |
 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | **41** | 27 | 9 | 77 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **41** | 10 | 7 | 58 |
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |

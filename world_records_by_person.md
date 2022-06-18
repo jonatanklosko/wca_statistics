@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 14 June 2022*
+*Updated on 17 June 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -209,6 +209,7 @@
 | 1 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 1 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) |
 | 1 | [Kristopher De Asis](https://www.worldcubeassociation.org/persons/2008ASIS01) |
+| 1 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 1 | [Lee Chiang (蔣礪)](https://www.worldcubeassociation.org/persons/2013CHIA02) |
 | 1 | [Lee Chun Hin (李震軒)](https://www.worldcubeassociation.org/persons/2008HINL01) |
 | 1 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |

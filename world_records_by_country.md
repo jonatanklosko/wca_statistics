@@ -1,6 +1,6 @@
 ## World records count by country
 
-*Updated on 14 June 2022*
+*Updated on 17 June 2022*
 
 | WRs | Country |
 | ---: | :--- |
@@ -34,6 +34,7 @@
 | 2 | Mexico |
 | 2 | Spain |
 | 2 | Thailand |
+| 1 | Argentina |
 | 1 | Belarus |
 | 1 | New Zealand |
 | 1 | Philippines |

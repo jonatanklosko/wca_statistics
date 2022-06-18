@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 14 June 2022*
+*Updated on 17 June 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -82,9 +82,9 @@
 | 43 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 43 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 43 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
+| 43 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 42 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 42 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 42 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 42 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 41 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 41 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |

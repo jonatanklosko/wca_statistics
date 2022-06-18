@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 14 June 2022*
+*Updated on 17 June 2022*
 
 | Finals | Person |
 | ---: | :--- |
@@ -54,7 +54,7 @@
 | 753 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 | 748 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 748 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
-| 731 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
+| 735 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 729 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 712 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 709 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
@@ -70,7 +70,7 @@
 | 671 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 670 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 670 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
-| 665 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
+| 669 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 663 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 663 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 661 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
@@ -98,8 +98,8 @@
 | 596 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 595 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 594 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
+| 590 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 590 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |
-| 586 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 585 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 585 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
 | 581 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) |

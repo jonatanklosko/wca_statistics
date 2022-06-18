@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 14 June 2022*
+*Updated on 17 June 2022*
 
 
 ### Rubik's Cube
@@ -115,6 +115,7 @@
 | ---: | :--- | :--- |
 | 22.00 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | 23, 22, 21, 22, 22 |
 | 22.33 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 25, 23, 18, 22 |
+| 22.66 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 23, 23, 24, 22, 20 |
 | 23.00 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 17, 28, 22, 23, 24 |
 | 23.00 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 21, 23, 25, 25, 20 |
 | 23.00 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 25, 23, 23, 22, 23 |
@@ -122,7 +123,6 @@
 | 23.00 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) | 24, 20, 25, 23, 22 |
 | 23.33 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | 26, 28, 21, 20, 23 |
 | 23.33 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 23, 23, 24, 28, 23 |
-| 23.33 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 25, 21, 26, 22, 23 |
 
 ### 3x3x3 One-Handed
 
@@ -143,9 +143,9 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 29.27 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 28.28, 33.57, 28.44, 28.86, 30.51 |
 | 29.60 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 28.09, 28.00, 26.50, 34.26, 32.72 |
 | 30.12 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 28.50, 31.19, 29.97, 31.07, 29.34 |
-| 30.53 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 29.93, 34.35, 31.70, 29.98, 28.57 |
 | 31.42 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 34.63, 31.25, 28.43, 34.59, 28.09 |
 | 31.74 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 30.84, 36.43, 30.89, 32.94, 31.41 |
 | 32.89 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 29.67, 36.92, 36.16, 32.68, 29.85 |

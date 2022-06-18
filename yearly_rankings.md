@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 14 June 2022*
+*Updated on 17 June 2022*
 
 
 ### Rubik's Cube - Single
@@ -222,12 +222,12 @@
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **19** | Poland | [UPP Poznań Cubing 2022](https://www.worldcubeassociation.org/competitions/UPPPoznanCubing2022) | 19, 25, 27 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **20** | Germany | [PoliMi Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoliMiMentalBreakdown2022) | 28, 27, 20 |
 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) | **20** | United States | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) | 20, 25, 23 |
+| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | **20** | Spain | [Aldeílla Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/AldeillaMentalBreakdown2022) | 22, 20, 25 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **21** | United Kingdom | [Chester Spring 2022](https://www.worldcubeassociation.org/competitions/ChesterSpring2022) | 21 |
 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **21** | United States | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 21, 29, 23 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **21** | United States | [Mini Minnesota Spring 2022](https://www.worldcubeassociation.org/competitions/MiniMinnesotaSpring2022) | 23, 23, 21 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **21** | United Kingdom | [Kidderminster Summer BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterSummerBBO2022) | 29, 21, 30 |
 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | **21** | United States | [MSU Quiet Qualifier 2022](https://www.worldcubeassociation.org/competitions/MSUQuietQualifier2022) | 24, 25, 21 |
-| [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | **21** | United States | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 21, 30, 25 |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -235,14 +235,14 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | **21.67** | Australia | [Silent Sydney 2022](https://www.worldcubeassociation.org/competitions/SilentSydney2022) | 21, 22, 22 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **22.33** | United States | [Mini Minnesota Spring 2022](https://www.worldcubeassociation.org/competitions/MiniMinnesotaSpring2022) | 23, 23, 21 |
+| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | **22.33** | Spain | [Aldeílla Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/AldeillaMentalBreakdown2022) | 22, 20, 25 |
 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) | **22.67** | United States | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) | 20, 25, 23 |
 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | **23.00** | United States | [Mini Minnesota Spring 2022](https://www.worldcubeassociation.org/competitions/MiniMinnesotaSpring2022) | 24, 23, 22 |
 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | **23.33** | United States | [MSU Quiet Qualifier 2022](https://www.worldcubeassociation.org/competitions/MSUQuietQualifier2022) | 24, 25, 21 |
 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **23.67** | United States | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) | 23, 25, 23 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **23.67** | Poland | [UPP Poznań Cubing 2022](https://www.worldcubeassociation.org/competitions/UPPPoznanCubing2022) | 19, 25, 27 |
 | [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | **24.00** | France | [PoliMi Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoliMiMentalBreakdown2022) | 24, 24, 24 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **24.00** | United States | [Mini Minnesota Spring 2022](https://www.worldcubeassociation.org/competitions/MiniMinnesotaSpring2022) | 23, 23, 26 |
-| [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | **24.00** | United States | [GA Cubers Celebration 2022](https://www.worldcubeassociation.org/competitions/GACubersCelebration2022) | 22, 21, 29 |
+| [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **24.00** | Argentina | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022) | 24, 25, 23 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -281,7 +281,7 @@
 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | **25.24** | Peru | [Lima Cuberano 2022](https://www.worldcubeassociation.org/competitions/LimaCuberano2022) | 35.21, 34.53, 35.07, 25.24, 32.72 |
 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | **26.50** | United States | [Utah PfA 2022](https://www.worldcubeassociation.org/competitions/UtahPfA2022) | 26.50, 34.26, 32.72, 38.27, 34.28 |
 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | **28.09** | Finland | [Mega FMC Helsinki 2022](https://www.worldcubeassociation.org/competitions/MegaFMCHelsinki2022) | 34.63, 31.25, 28.43, 34.59, 28.09 |
-| [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | **28.57** | Argentina | [Santa Fe Open 2022](https://www.worldcubeassociation.org/competitions/SantaFeOpen2022) | 28.57, 32.06, 32.37, 31.18, 29.77 |
+| [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | **28.28** | Argentina | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022) | 28.28, 33.57, 28.44, 28.86, 30.51 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **30.46** | Poland | [Cube4fun Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) | 39.01, 34.18, 32.39, 30.46, 41.73 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **31.06** | United States | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022) | 39.42, 34.47, 36.48, 40.92, 31.06 |
 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | **31.71** | United States | [Empire State Spring 2022](https://www.worldcubeassociation.org/competitions/EmpireStateSpring2022) | 31.71, 34.83, 36.36, 34.55, 33.01 |
@@ -293,7 +293,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | **30.60** | Argentina | [Santa Fe Open 2022](https://www.worldcubeassociation.org/competitions/SantaFeOpen2022) | 30.13, 29.93, 34.35, 31.70, 29.98 |
+| [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | **29.27** | Argentina | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022) | 28.28, 33.57, 28.44, 28.86, 30.51 |
 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | **31.42** | Finland | [Mega FMC Helsinki 2022](https://www.worldcubeassociation.org/competitions/MegaFMCHelsinki2022) | 34.63, 31.25, 28.43, 34.59, 28.09 |
 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | **31.71** | United States | [Utah PfA 2022](https://www.worldcubeassociation.org/competitions/UtahPfA2022) | 32.45, 34.59, 34.80, 28.09, 28.00 |
 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | **33.49** | Peru | [TCG Summer Arequipa 2022](https://www.worldcubeassociation.org/competitions/TCGSummerArequipa2022) | 33.80, 35.83, 30.84, DNF, 30.75 |
@@ -476,6 +476,7 @@
 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **4:18.48** | Australia | [Melbourne Summer 2022](https://www.worldcubeassociation.org/competitions/MelbourneSummer2022) | 4:00.53, 4:25.98, 4:28.94 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **6:30.73** | Switzerland | [Chester Spring 2022](https://www.worldcubeassociation.org/competitions/ChesterSpring2022) | 6:03.21, 6:32.35, 6:56.63 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **9:03.77** | United Kingdom | [Chester Spring 2022](https://www.worldcubeassociation.org/competitions/ChesterSpring2022) | 8:47.22, 9:22.66, 9:01.44 |
+| [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **10:40.00** | Argentina | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022) | 10:36.00, 8:29.34, 12:56.00 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **10:52.00** | Malaysia | [Kidderminster - BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterBlindOff2022) | 9:29.34, 11:05.00, 12:02.00 |
 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) | **16:24.00** | Australia | [Melbourne Mental Mania 2022](https://www.worldcubeassociation.org/competitions/MelbourneMentalMania2022) | 15:02.00, 14:58.00, 19:13.00 |
 

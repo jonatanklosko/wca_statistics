@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 17 June 2022*
+*Updated on 20 June 2022*
 
 
 ### Rubik's Cube
@@ -13,11 +13,11 @@
 | 7.68 | [Ruihao Qian (钱睿昊)](https://www.worldcubeassociation.org/persons/2019QIAN10) |
 | 8.02 | [Vrishab Anurag Venkataraghavan](https://www.worldcubeassociation.org/persons/2022VENK01) |
 | 8.22 | [David Matoušek](https://www.worldcubeassociation.org/persons/2021MATO01) |
+| 8.24 | [Palash Gwalia](https://www.worldcubeassociation.org/persons/2022GWAL01) |
 | 8.30 | [Zhenyang Liu (刘振洋)](https://www.worldcubeassociation.org/persons/2018LIUZ14) |
 | 8.44 | [Robert Yomi Cadenas Nuñez](https://www.worldcubeassociation.org/persons/2022NUNE01) |
 | 8.50 | [Perrin Colquhoun](https://www.worldcubeassociation.org/persons/2022COLQ02) |
 | 8.53 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
-| 8.62 | [Mark Cheung](https://www.worldcubeassociation.org/persons/2017CHEU01) |
 
 ### 2x2x2 Cube
 
@@ -133,11 +133,11 @@
 | 12.99 | [SeungYoon Hyeon](https://www.worldcubeassociation.org/persons/2013HYEO01) |
 | 13.77 | [You Hyeon-Dong (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) |
 | 13.98 | [Avshalom Sharavani](https://www.worldcubeassociation.org/persons/2016SHAR16) |
+| 14.00 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) |
 | 14.08 | [Mateo Aguirre](https://www.worldcubeassociation.org/persons/2022AGUI03) |
 | 14.19 | [Zyx Orcine](https://www.worldcubeassociation.org/persons/2015ORCI01) |
 | 14.26 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
 | 14.56 | [Enmeng Zhang (张恩萌)](https://www.worldcubeassociation.org/persons/2013ZHAN62) |
-| 14.56 | [Albert Luthje](https://www.worldcubeassociation.org/persons/2020LUTH01) |
 
 ### Megaminx
 
@@ -148,11 +148,11 @@
 | 49.11 | [Changhee Yeh (예창희)](https://www.worldcubeassociation.org/persons/2019YEHC02) |
 | 49.12 | [Hilarry Henry](https://www.worldcubeassociation.org/persons/2017HENR03) |
 | 49.23 | [Mingyu Liu (刘铭宇)](https://www.worldcubeassociation.org/persons/2018LIUM02) |
+| 49.35 | [Lee Yu Zhe](https://www.worldcubeassociation.org/persons/2019ZHEL01) |
 | 49.43 | [Yuhang Sun (孙煜航)](https://www.worldcubeassociation.org/persons/2019SUNY09) |
 | 49.61 | [Breton MacDonald](https://www.worldcubeassociation.org/persons/2019MACD02) |
 | 50.78 | [Gáspár Árvai](https://www.worldcubeassociation.org/persons/2019ARVA02) |
 | 51.64 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
-| 51.96 | [Alicia Yu](https://www.worldcubeassociation.org/persons/2015YUAL01) |
 
 ### Pyraminx
 

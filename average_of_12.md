@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 17 June 2022*
+*Updated on 20 June 2022*
 
 
 ### Rubik's Cube
@@ -146,13 +146,13 @@
 | 30.88 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 31.18, 29.77, 35.15, 29.35, 33.31, 29.01, 34.83, 28.28, 33.57, 28.44, 28.86, 30.51 |
 | 31.25 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 29.16, 32.81, 31.78, 34.48, 33.62, 33.47, 30.12, 28.50, 31.19, 29.97, 31.07, 29.34 |
 | 31.53 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 31.15, 30.00, 29.96, DNF, 38.24, 28.06, 32.45, 34.59, 34.80, 28.09, 28.00, 26.50 |
+| 31.81 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 43.07, 40.12, 32.34, 29.77, 29.63, 31.69, 34.23, 26.95, 29.05, 30.21, 31.04, 30.11 |
 | 33.12 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.84, 31.53, 32.84, 36.09, 30.84, 33.06, 34.66, 34.78, 33.54, 36.18, 33.04, 30.63 |
 | 33.28 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 36.22, 30.94, 31.24, 35.78, 30.12, 33.90, 30.89, 30.57, 40.52, 34.27, 34.52, 34.55 |
 | 33.76 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 34.30, 34.50, 33.17, 33.88, 29.67, 36.92, 36.16, 32.68, 29.85, 33.79, 34.13, 35.22 |
 | 34.95 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 32.39, 30.46, 41.73, 37.02, 37.41, 34.60, 36.25, 34.92, 34.79, 34.69, 35.26, 32.26 |
 | 35.07 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 34.28, 31.75, 33.96, 42.60, 34.25, 41.01, 34.21, 34.45, 34.64, 36.32, 32.40, 35.24 |
 | 35.21 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 33.83, 34.38, 31.71, 34.83, 36.36, 34.55, 33.01, 36.31, 35.34, 38.92, 40.46, 34.61 |
-| 35.52 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | 35.07, 34.82, 37.14, 37.57, 37.39, 38.00, 35.51, 34.32, 31.91, 41.49, 33.51, 30.89 |
 
 ### Pyraminx
 

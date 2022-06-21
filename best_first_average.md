@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 17 June 2022*
+*Updated on 20 June 2022*
 
 
 ### Rubik's Cube
@@ -9,6 +9,7 @@
 | First average | Person |
 | ---: | :--- |
 | 7.86 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
+| 8.20 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) |
 | 8.54 | [Zhenyang Liu (刘振洋)](https://www.worldcubeassociation.org/persons/2018LIUZ14) |
 | 8.58 | [Yoshiki Ando (安藤尭輝)](https://www.worldcubeassociation.org/persons/2022ANDO01) |
 | 8.58 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
@@ -17,7 +18,6 @@
 | 8.76 | [Caleb Chen](https://www.worldcubeassociation.org/persons/2022CHEN37) |
 | 8.80 | [Shunsuke Komoda (古茂田俊介)](https://www.worldcubeassociation.org/persons/2022KOMO01) |
 | 8.83 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
-| 8.87 | [Andrew Chen](https://www.worldcubeassociation.org/persons/2018CHEA05) |
 
 ### 2x2x2 Cube
 
@@ -128,6 +128,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 14.08 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) |
 | 14.63 | [Mateo Aguirre](https://www.worldcubeassociation.org/persons/2022AGUI03) |
 | 14.76 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
 | 14.98 | [Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02) |
@@ -137,7 +138,6 @@
 | 15.57 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 15.61 | [Ye Xu (许烨)](https://www.worldcubeassociation.org/persons/2015XUYE01) |
 | 15.65 | [Albert Luthje](https://www.worldcubeassociation.org/persons/2020LUTH01) |
-| 15.77 | [You Hyeon-Dong (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) |
 
 ### Megaminx
 

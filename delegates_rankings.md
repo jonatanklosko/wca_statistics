@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 17 June 2022*
+*Updated on 20 June 2022*
 
 
 ### Rubik's Cube - Single
@@ -88,11 +88,11 @@
 | [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | **27.92** | India | [Cube Mahotsav 2018](https://www.worldcubeassociation.org/competitions/CubeMahotsav2018) | 27.12, 28.40, 28.24, 26.51, 40.45 |
 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | **27.94** | Japan | [Kyoto Open 2019](https://www.worldcubeassociation.org/competitions/KyotoOpen2019) | 25.69, 30.55, 35.58, 27.59, 23.74 |
 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | **28.49** | United States | [Sioux Falls Spring 2022](https://www.worldcubeassociation.org/competitions/SiouxFallsSpring2022) | 26.53, 27.31, 32.50, 31.19, 26.96 |
+| [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **28.55** | France | [Sorgues 2022](https://www.worldcubeassociation.org/competitions/SorguesOpen2022) | 25.34, 29.09, 30.61, 27.24, 29.32 |
 | [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) | **28.91** | Canada | [No 3x3x3 Waterloo 2018](https://www.worldcubeassociation.org/competitions/No3x3x3Waterloo2018) | 28.58, 29.60, 28.56, 32.56, 28.36 |
-| [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **29.58** | France | [Montpellier Open 2022](https://www.worldcubeassociation.org/competitions/MontpellierOpen2022) | 29.46, 32.40, 28.42, 26.41, 30.87 |
+| [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **29.09** | Australia | [NSW Central West Winter 2022](https://www.worldcubeassociation.org/competitions/NSWCentralWestWinter2022) | 25.87, 30.22, 26.42, 30.62, 33.58 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **30.19** | Poland | [SST Rzeszów 2021](https://www.worldcubeassociation.org/competitions/SSTRzeszow2021) | 28.53, 27.72, 31.82, 30.23, 33.84 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **30.23** | Sweden | [Swedish Decathlon Challenge 2018](https://www.worldcubeassociation.org/competitions/SwedishDecathlonChallenge2018) | 31.81, 30.86, 30.80, 27.35, 29.02 |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **30.33** | United States | [Arcadia Summer 2019](https://www.worldcubeassociation.org/competitions/ArcadiaSummer2019) | 32.34, 28.45, 30.19, 27.85, 38.73 |
 
 ### 5x5x5 Cube - Single
 
@@ -370,9 +370,9 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.02** | United States | [Minnesota Cube Days 2020](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDays2020) | 1.02, 3.71, 7.28, 4.24, 3.17 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **1.04** | Denmark | [Tårnby Cube Træf 2019](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019) | 3.01, 1.04, 2.00, 3.51, 3.00 |
+| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **1.24** | Spain | [Dacada San Fernando Open 2022](https://www.worldcubeassociation.org/competitions/DacadaSanFernandoOpen2022) | 3.34, DNF, 1.24, 4.85, 3.04 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **1.38** | United States | [Massachusetts Championship 2019](https://www.worldcubeassociation.org/competitions/MassachusettsChampionship2019) | 6.14, 6.17, 1.38, 6.46, 5.29 |
 | [Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01) | **1.45** | Indonesia | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) | 1.45, 6.83, 6.77, 5.98, 14.24 |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **1.63** | Spain | [Aldeílla Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/AldeillaMentalBreakdown2022) | 4.14, 4.11, 2.99, 1.63, 3.45 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1.65** | Sweden | [Kubvasan 2016](https://www.worldcubeassociation.org/competitions/Kubvasan2016) | 4.55, 2.26, DNF, 1.65, 4.47 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **1.66** | United States | [Pittsburgh Spring 2019](https://www.worldcubeassociation.org/competitions/PittsburghSpring2019) | 5.19, 1.66, 4.86, 6.77, 5.45 |
 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) | **1.73** | Brazil | [South American Championship 2018](https://www.worldcubeassociation.org/competitions/SouthAmericanChampionship2018) | 5.13, 5.42, 9.72, 4.60, 1.73 |

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 17 June 2022*
+*Updated on 20 June 2022*
 
 
 ### Rubik's Cube
@@ -173,8 +173,8 @@
 | [Sreeram Venkatarao](https://www.worldcubeassociation.org/persons/2008VENK01) | 11 |
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | 10 |
 | [Yuxin Wang (王宇欣)](https://www.worldcubeassociation.org/persons/2009WANG62) | 10 |
+| [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | 10 |
 | [Yuhui Xu (许宇辉)](https://www.worldcubeassociation.org/persons/2007XUYU01) | 9 |
-| [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | 9 |
 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | 9 |
 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) | 8 |
 | [Francisco Javier Lemes Sáez](https://www.worldcubeassociation.org/persons/2009SAEZ01) | 8 |

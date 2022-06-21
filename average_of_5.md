@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 17 June 2022*
+*Updated on 20 June 2022*
 
 
 ### Rubik's Cube
@@ -145,6 +145,7 @@
 | ---: | :--- | :--- |
 | 29.27 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 28.28, 33.57, 28.44, 28.86, 30.51 |
 | 29.60 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 28.09, 28.00, 26.50, 34.26, 32.72 |
+| 29.79 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 26.95, 29.05, 30.21, 31.04, 30.11 |
 | 30.12 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 28.50, 31.19, 29.97, 31.07, 29.34 |
 | 31.42 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 34.63, 31.25, 28.43, 34.59, 28.09 |
 | 31.74 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 30.84, 36.43, 30.89, 32.94, 31.41 |
@@ -152,7 +153,6 @@
 | 33.24 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | 34.32, 31.91, 41.49, 33.51, 30.89 |
 | 33.77 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 34.69, 35.26, 32.26, 32.84, 33.78 |
 | 33.83 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 40.92, 31.06, 34.28, 32.46, 34.77 |
-| 34.02 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 33.82, 41.36, 34.28, 31.75, 33.96 |
 
 ### Pyraminx
 

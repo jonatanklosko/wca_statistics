@@ -1,22 +1,22 @@
 ## Competition days count by region
 
-*Updated on 17 June 2022*
+*Updated on 20 June 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8031 |
+| 1.50 | World | 8037 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2603 |
-| 1.58 | South America | 900 |
+| 1.77 | Europe | 2605 |
+| 1.58 | South America | 903 |
 | 1.47 | Oceania | 330 |
-| 1.41 | Asia | 2046 |
+| 1.41 | Asia | 2047 |
 | 1.21 | North America | 2066 |
 | 1.17 | Africa | 86 |
 
@@ -40,7 +40,7 @@
 | 1.93 | Lithuania | 14 |
 | 1.93 | Finland | 81 |
 | 1.92 | Russia | 220 |
-| 1.91 | Serbia | 11 |
+| 1.92 | Serbia | 12 |
 | 1.89 | Uzbekistan | 9 |
 | 1.87 | Belgium | 55 |
 | 1.85 | France | 213 |
@@ -49,9 +49,9 @@
 | 1.83 | Spain | 224 |
 | 1.82 | Austria | 17 |
 | 1.82 | Mexico | 85 |
-| 1.82 | Brazil | 305 |
 | 1.82 | Thailand | 28 |
 | 1.82 | Switzerland | 78 |
+| 1.82 | Brazil | 306 |
 | 1.80 | North Macedonia | 5 |
 | 1.80 | San Marino | 5 |
 | 1.79 | Denmark | 101 |
@@ -67,11 +67,11 @@
 | 1.64 | Poland | 297 |
 | 1.64 | Netherlands | 91 |
 | 1.63 | Argentina | 52 |
-| 1.63 | Indonesia | 164 |
 | 1.63 | India | 391 |
 | 1.62 | Iceland | 8 |
+| 1.62 | Indonesia | 165 |
 | 1.59 | Colombia | 121 |
-| 1.57 | Bolivia | 72 |
+| 1.58 | Bolivia | 73 |
 | 1.55 | Malaysia | 55 |
 | 1.53 | Israel | 19 |
 | 1.52 | Dominican Republic | 25 |
@@ -80,10 +80,10 @@
 | 1.50 | Ghana | 2 |
 | 1.50 | Singapore | 22 |
 | 1.50 | Tajikistan | 2 |
-| 1.49 | Italy | 145 |
+| 1.49 | Italy | 146 |
 | 1.48 | Romania | 69 |
+| 1.48 | Peru | 145 |
 | 1.47 | Latvia | 19 |
-| 1.47 | Peru | 144 |
 | 1.46 | Australia | 260 |
 | 1.40 | Jordan | 5 |
 | 1.39 | Philippines | 190 |

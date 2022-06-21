@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 17 June 2022*
+*Updated on 20 June 2022*
 
 
 ### Rubik's Cube
@@ -86,12 +86,12 @@
 | 28.43 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | [Mega FMC Helsinki 2022](https://www.worldcubeassociation.org/competitions/MegaFMCHelsinki2022/results/by_person#2014NORD02) |
 | 28.44 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022/results/by_person#2018LOPE22) |
 | 28.86 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022/results/by_person#2018LOPE22) |
+| 29.05 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Mofun & FIS 2022](https://www.worldcubeassociation.org/competitions/SingaporeMofunandFIS2022/results/by_person#2016YONG02) |
 | 29.35 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Madryn al Cubo 2022](https://www.worldcubeassociation.org/competitions/MadrynAlCubo2022/results/by_person#2018LOPE22) |
 | 29.42 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2013HUAN30) |
+| 29.77 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Mofun & FIS 2022](https://www.worldcubeassociation.org/competitions/SingaporeMofunandFIS2022/results/by_person#2016YONG02) |
 | 29.77 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Open 2022](https://www.worldcubeassociation.org/competitions/SantaFeOpen2022/results/by_person#2018LOPE22) |
 | 29.96 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Pittsburgh Winter 2022](https://www.worldcubeassociation.org/competitions/PittsburghWinter2022/results/by_person#2015NAIN01) |
-| 29.97 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Wuxi Open 2019](https://www.worldcubeassociation.org/competitions/WuxiOpen2019/results/by_person#2013HUAN30) |
-| 29.98 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Open 2022](https://www.worldcubeassociation.org/competitions/SantaFeOpen2022/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 

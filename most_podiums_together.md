@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 17 June 2022*
+*Updated on 20 June 2022*
 
 
 ### Pairs
@@ -55,7 +55,7 @@
 | 72 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) & [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 72 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) & [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 70 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) & [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
-| 69 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) & [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
+| 70 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) & [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 69 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) & [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 68 | [Daniel Wannamaker](https://www.worldcubeassociation.org/persons/2011WANN01) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 68 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) & [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) |
@@ -87,6 +87,7 @@
 | 59 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) & [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 59 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) & [Nathan Soria](https://www.worldcubeassociation.org/persons/2012SORI01) |
 | 59 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) & [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
+| 58 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) & [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 58 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) & [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 57 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) & [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 57 | [Hassen Kallala](https://www.worldcubeassociation.org/persons/2016KALL01) & [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) |
@@ -98,7 +99,6 @@
 | 56 | [Gustavo Penaforte Brito](https://www.worldcubeassociation.org/persons/2013BRIT01) & [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 56 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 55 | [David Remolina Amórtegui](https://www.worldcubeassociation.org/persons/2011AMOR01) & [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
-| 55 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) & [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 55 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) & [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 55 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) & [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 55 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |

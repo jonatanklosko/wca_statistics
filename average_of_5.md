@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 20 June 2022*
+*Updated on 23 June 2022*
 
 
 ### Rubik's Cube
@@ -75,9 +75,9 @@
 | 1:22.45 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:22.21, 1:18.78, 1:24.70, 1:34.90, 1:20.45 |
 | 1:23.24 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:19.23, 1:25.94, 1:23.57, 1:25.81, 1:20.35 |
 | 1:25.82 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:24.61, 1:26.86, 1:38.33, 1:26.00, 1:24.12 |
+| 1:30.43 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | 1:28.91, 1:44.88, 1:31.30, 1:31.09, 1:27.29 |
 | 1:31.03 | [Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01) | 1:28.16, 1:26.28, 1:41.62, 1:34.10, 1:30.85 |
-| 1:31.60 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 1:29.96, 1:29.28, 1:33.57, 1:38.66, 1:31.29 |
-| 1:31.83 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 1:35.59, 1:47.11, 1:30.90, 1:29.00, 1:21.68 |
+| 1:31.35 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:33.63, 1:31.64, 1:31.14, 1:31.28, 1:25.58 |
 
 ### 7x7x7 Cube
 
@@ -182,7 +182,7 @@
 | 4.38 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) | 4.07, 4.07, 4.48, 5.13, 4.60 |
 | 4.52 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 6.84, 4.61, 4.68, 4.28, 4.00 |
 | 4.53 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) | 5.71, 4.55, 4.21, 4.15, 4.83 |
-| 4.68 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 4.62, 6.69, 4.19, 5.11, 4.32 |
+| 4.59 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 4.85, 4.88, 6.01, 4.06, 3.98 |
 
 ### Skewb
 

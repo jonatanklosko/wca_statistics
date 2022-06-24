@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 20 June 2022*
+*Updated on 23 June 2022*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -59,16 +59,16 @@
 | 70 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 70 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) |
 | 69 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
-| 68 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 68 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 68 | [José Antonio Navarro Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 68 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
+| 68 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 67 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
+| 67 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 66 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 65 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
-| 65 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 65 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) |
 | 65 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 64 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |

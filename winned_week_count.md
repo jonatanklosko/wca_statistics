@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 20 June 2022*
+*Updated on 23 June 2022*
 
 
 ### Rubik's Cube
@@ -58,7 +58,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 80 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 81 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 60 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 49 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 35 |
@@ -120,10 +120,10 @@
 | [Vladislav Shavelskiy](https://www.worldcubeassociation.org/persons/2012SHAV01) | 11 |
 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | 10 |
 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | 9 |
+| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 9 |
 | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) | 9 |
 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 8 |
 | [Niko Paavilainen](https://www.worldcubeassociation.org/persons/2011PAAV01) | 8 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 8 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 7 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 7 |
 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 6 |
@@ -273,11 +273,11 @@
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 7 |
 | [Yi Wang (王旖)](https://www.worldcubeassociation.org/persons/2011WANG33) | 7 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 7 |
+| [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 7 |
 | [Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01) | 6 |
 | [Yulun Wu (吴宇伦)](https://www.worldcubeassociation.org/persons/2010WUYU02) | 6 |
 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 6 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 6 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 6 |
 
 ### Rubik's Clock
 
@@ -345,11 +345,11 @@
 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 13 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 11 |
 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) | 11 |
+| [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 11 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 10 |
 | [Raúl Low Beattie](https://www.worldcubeassociation.org/persons/2011BEAT01) | 10 |
 | [Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02) | 10 |
 | [Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01) | 10 |
-| [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 10 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 9 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 9 |
 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 8 |

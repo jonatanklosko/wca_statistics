@@ -1,18 +1,18 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 20 June 2022*
+*Updated on 23 June 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| Hungary | **1266** | 1038 | 888 | 3192 |
-| Germany | **751** | 739 | 735 | 2225 |
-| Netherlands | **727** | 600 | 495 | 1822 |
+| Hungary | **1267** | 1040 | 889 | 3196 |
+| Germany | **755** | 741 | 737 | 2233 |
+| Netherlands | **728** | 605 | 498 | 1831 |
 | United States | **724** | 587 | 504 | 1815 |
-| France | **680** | 590 | 492 | 1762 |
+| France | **683** | 590 | 496 | 1769 |
 | Russia | **530** | 366 | 302 | 1198 |
 | Poland | **360** | 251 | 182 | 793 |
-| China | **338** | 301 | 269 | 908 |
+| China | **342** | 301 | 269 | 912 |
 | Malaysia | **321** | 300 | 273 | 894 |
 | Canada | **315** | 320 | 342 | 977 |
 | United Kingdom | **302** | 333 | 349 | 984 |
@@ -26,7 +26,7 @@
 | Taiwan | **186** | 161 | 152 | 499 |
 | Japan | **185** | 106 | 106 | 397 |
 | Hong Kong | **177** | 207 | 173 | 557 |
-| Italy | **175** | 159 | 152 | 486 |
+| Italy | **176** | 159 | 152 | 487 |
 | Spain | **163** | 147 | 170 | 480 |
 | Argentina | **160** | 119 | 103 | 382 |
 | Ukraine | **153** | 142 | 141 | 436 |
@@ -34,10 +34,10 @@
 | Indonesia | **129** | 120 | 102 | 351 |
 | Slovenia | **119** | 151 | 144 | 414 |
 | Belgium | **118** | 176 | 160 | 454 |
-| Greece | **118** | 139 | 101 | 358 |
+| Greece | **118** | 139 | 102 | 359 |
 | Colombia | **117** | 75 | 79 | 271 |
 | Romania | **114** | 86 | 78 | 278 |
-| Singapore | **109** | 115 | 121 | 345 |
+| Singapore | **110** | 115 | 121 | 346 |
 | Austria | **107** | 160 | 171 | 438 |
 | Belarus | **106** | 63 | 73 | 242 |
 | Ireland | **92** | 55 | 39 | 186 |
@@ -56,22 +56,22 @@
 | Brazil | **25** | 31 | 17 | 73 |
 | Uzbekistan | **25** | 21 | 22 | 68 |
 | Belize | **24** | 6 | 1 | 31 |
+| Kosovo | **22** | 19 | 20 | 61 |
 | Venezuela | **21** | 29 | 24 | 74 |
 | Portugal | **21** | 19 | 17 | 57 |
 | Mongolia | **21** | 18 | 14 | 53 |
 | Costa Rica | **19** | 18 | 19 | 56 |
 | New Zealand | **18** | 53 | 40 | 111 |
 | El Salvador | **17** | 19 | 15 | 51 |
-| Kosovo | **17** | 18 | 19 | 54 |
+| Estonia | **16** | 24 | 23 | 63 |
 | South Africa | **15** | 17 | 37 | 69 |
-| Estonia | **14** | 21 | 21 | 56 |
 | Nicaragua | **14** | 5 | 10 | 29 |
 | Israel | **13** | 13 | 17 | 43 |
+| Serbia | **11** | 15 | 21 | 47 |
 | North Macedonia | **11** | 12 | 19 | 42 |
-| Serbia | **10** | 14 | 20 | 44 |
 | Pakistan | **10** | 14 | 7 | 31 |
 | Tunisia | **10** | 9 | 7 | 26 |
-| Bulgaria | **9** | 27 | 21 | 57 |
+| Bulgaria | **9** | 30 | 22 | 61 |
 | Jordan | **9** | 2 | 9 | 20 |
 | Nigeria | **8** | 10 | 4 | 22 |
 | Bolivia | **8** | 9 | 16 | 33 |

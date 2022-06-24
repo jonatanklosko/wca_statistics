@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 20 June 2022*
+*Updated on 23 June 2022*
 
 
 ### Rubik's Cube
@@ -61,8 +61,8 @@
 | 1:03.24 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
 | 1:04.05 | [Aleksandr Nedelko](https://www.worldcubeassociation.org/persons/2020NEDE01) |
 | 1:04.19 | [Morgan Yeh](https://www.worldcubeassociation.org/persons/2017YEHM01) |
+| 1:04.51 | [Hasnain Reza Bilal](https://www.worldcubeassociation.org/persons/2019BILA05) |
 | 1:05.18 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |
-| 1:05.24 | [Yibo Xu (许一博)](https://www.worldcubeassociation.org/persons/2017XUYI03) |
 
 ### 6x6x6 Cube
 

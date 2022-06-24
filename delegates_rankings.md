@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 20 June 2022*
+*Updated on 23 June 2022*
 
 
 ### Rubik's Cube - Single
@@ -227,7 +227,7 @@
 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | **21** | Canada | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 42, 38 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **21** | Finland | [FMC Europe 2017](https://www.worldcubeassociation.org/competitions/FMCEurope2017) | 32, DNF, 21 |
 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | **21** | United States | [Northern Virginia Summer 2019](https://www.worldcubeassociation.org/competitions/NorthernVirginiaSummer2019) | DNF, DNF, 21 |
-| [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) | **21** | Germany | [Schwandorf Open 2018](https://www.worldcubeassociation.org/competitions/SchwandorfOpen2018) | 26, 29, 21 |
+| [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **21** | United States | [Heartland Championship 2019](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2019) | 21 |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -238,11 +238,11 @@
 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | **23.33** | Italy | [FMC Italy 2021](https://www.worldcubeassociation.org/competitions/FMCItaly2021) | 20, 23, 27 |
 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | **23.67** | China | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019) | 21, 23, 27 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **24.00** | Germany | [Only FMC 2017](https://www.worldcubeassociation.org/competitions/OnlyFMC2017) | 23, 26, 23 |
-| [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) | **24.00** | Germany | [Mental Breakdown Germany 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019) | 24, 27, 21 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **24.00** | United States | [FMC Americas 2017](https://www.worldcubeassociation.org/competitions/FMCAmericas2017) | 22, 23, 27 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **24.00** | Argentina | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022) | 24, 25, 23 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **24.00** | United States | [Mini Minnesota Spring 2022](https://www.worldcubeassociation.org/competitions/MiniMinnesotaSpring2022) | 23, 23, 26 |
 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | **25.33** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 25, 30 |
+| [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) | **25.67** | Germany | [Berlin Winter Cubing 2020](https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2020) | 28, 24, 25 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -281,13 +281,13 @@
 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) | **35.26** | United States | [Rocky Top 2021](https://www.worldcubeassociation.org/competitions/RockyTop2021) | 45.44, 43.48, 35.26, 39.56, 50.54 |
 | [Michael Chai (柴天方)](https://www.worldcubeassociation.org/persons/2016CHAI03) | **36.51** | United States | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022) | 36.51, 48.07, 54.83, 56.85, 47.55 |
 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) | **39.92** | Germany | [German Big Cube Open 2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019) | 48.47, 57.68, 50.56, 1:00.91, 39.92 |
+| [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | **40.31** | Australia | [Slow Down Perth 2022](https://www.worldcubeassociation.org/competitions/SlowDownPerth2022) | 1:00.52, 40.31, 1:00.06, 44.10, 50.62 |
 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | **42.39** | United States | [Scranton Scramble 2020](https://www.worldcubeassociation.org/competitions/ScrantonScramble2020) | 49.65, 52.05, 42.39, 59.12, 55.82 |
 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) | **42.56** | Brazil | [Pirapora 2019](https://www.worldcubeassociation.org/competitions/Pirapora2019) | 57.07, 50.13, 57.12, 58.99, 42.56 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **42.72** | Denmark | [Borupgaard Autumn 2021](https://www.worldcubeassociation.org/competitions/BorupgaardAutumn2021) | 57.44, 42.72, 52.49, 54.68, 51.37 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | **43.35** | Malaysia | [Malaysia 10th Cube Open 2019](https://www.worldcubeassociation.org/competitions/Malaysia10thCubeOpen2019) | 48.50, 53.42, 43.35, 55.73, 47.11 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **43.72** | Argentina | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022) | 46.61, 50.55, 43.72, 56.06, 46.34 |
 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | **43.83** | Colombia | [Nacionales Fénix Colombia 2021](https://www.worldcubeassociation.org/competitions/NacionalesFenixColombia2021) | 49.07, 51.88, 43.83, 47.25, 52.20 |
-| [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | **44.41** | United States | [Keep Portland Weird 2019](https://www.worldcubeassociation.org/competitions/KeepPortlandWeird2019) | 50.13, 1:00.13, 55.23, 52.49, 44.41 |
 
 ### Megaminx - Average
 
@@ -360,7 +360,7 @@
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **5.77** | United States | [Cobb Cubes Again 2018](https://www.worldcubeassociation.org/competitions/CobbCubesAgain2018) | 5.26, 5.78, 7.56, 5.27, 6.26 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **5.86** | United States | [GA Cubers Feet Fest 2019](https://www.worldcubeassociation.org/competitions/GACubersFeetFest2019) | 6.30, 5.72, 6.44, 4.51, 5.55 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **5.89** | Belarus | [Welcome to Brest 2018](https://www.worldcubeassociation.org/competitions/WelcometoBrest2018) | 5.50, 5.00, 6.57, 5.81, 6.37 |
-| [Jake Buckley](https://www.worldcubeassociation.org/persons/2017BUCK01) | **6.07** | United States | [Heartland Championship 2022](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2022) | 8.18, 6.09, 5.77, 5.65, 6.36 |
+| [Jake Buckley](https://www.worldcubeassociation.org/persons/2017BUCK01) | **5.99** | United States | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022) | DNF, 6.12, 5.90, 5.36, 5.96 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **6.35** | Finland | [Finnish Championship 2017](https://www.worldcubeassociation.org/competitions/FinnishChampionship2017) | 5.81, 6.55, 7.13, 6.20, 6.29 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **6.42** | United States | [Ohio State Expo Open 2022](https://www.worldcubeassociation.org/competitions/OhioStateExpoOpen2022) | 6.66, 6.20, 6.40, 7.08, 5.61 |
 
@@ -431,13 +431,13 @@
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1:37.19** | Sweden | [Vännäs & Friends 2022](https://www.worldcubeassociation.org/competitions/VannasFriends2022) | DNF, DNF, 1:37.19 |
 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **2:13.23** | Denmark | [Roskilde by Night 2022](https://www.worldcubeassociation.org/competitions/RoskildeByNight2022) | DNF, DNF, 2:13.23 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **2:27.56** | Argentina | [Baires Centro Open 2018](https://www.worldcubeassociation.org/competitions/BairesCentroOpen2018) | DNF, 2:27.56, DNF |
-| [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) | **2:47.61** | Germany | [Sébra Open 2014](https://www.worldcubeassociation.org/competitions/SebraOpen2014) | DNF, 2:47.61, DNF |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **2:54.69** | Russia | [Swiss Nats 2016](https://www.worldcubeassociation.org/competitions/SwissNationals2016) | DNF, DNF, 2:54.69 |
 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | **3:03.53** | Finland | [Pikkujoulut 2018](https://www.worldcubeassociation.org/competitions/Pikkujoulut2018) | DNF, DNF, 3:03.53 |
 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | **3:15.05** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 3:15.05, DNF, DNF |
 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) | **3:51.36** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 3:51.36, 4:09.48, 3:55.63 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **3:51.49** | United States | [North Star Cubing Challenge 2020](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020) | 4:53.03, 3:51.49, 4:36.28 |
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | **3:54.35** | United Kingdom | [Tårnby Cube Træf 2018](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2018) | DNF, DNF, 3:54.35 |
+| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **4:18.15** | Malaysia | [Farnworth Spring A 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringA2022) | DNF, 5:06.32, 4:18.15 |
 
 ### 4x4x4 Blindfolded - Average
 
@@ -461,13 +461,13 @@
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4:17.47** | Sweden | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021) | 4:17.47, DNF, DNF |
 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **5:49.80** | Denmark | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021) | 5:49.80, DNF, DNF |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **6:24.11** | Russia | [Kharkiv Open 2014](https://www.worldcubeassociation.org/competitions/KharkivOpen2014) | 6:24.11, DNF, DNF |
-| [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) | **6:41.78** | Germany | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) | 6:41.78, DNF, DNF |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **7:36.42** | Argentina | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022) | DNF, 7:36.42, DNS |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **8:53.24** | Malaysia | [Chester Spring 2022](https://www.worldcubeassociation.org/competitions/ChesterSpring2022) | 9:43.38, 8:53.24, DNF |
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | **8:55.85** | United Kingdom | [Clact-On Socks Off 2019](https://www.worldcubeassociation.org/competitions/ClactOnSocksOff2019) | DNF, 9:33.72, 8:55.85 |
 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | **9:03.29** | United States | [OSU Blind Weekend 2019](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2019) | DNF, 9:03.29, DNF |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **9:48.55** | United States | [Madison Summer 2019](https://www.worldcubeassociation.org/competitions/MadisonSummer2019) | 9:48.55, DNF, DNF |
 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | **9:50.71** | Canada | [PBQ UCLA 2017](https://www.worldcubeassociation.org/competitions/PBQUCLA2017) | DNF, DNF, 9:50.71 |
+| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **10:13.00** | United States | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) | DNF, DNF, 10:13.00 |
 
 ### 5x5x5 Blindfolded - Average
 

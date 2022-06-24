@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 20 June 2022*
+*Updated on 23 June 2022*
 
 
 ### Rubik's Cube
@@ -173,16 +173,16 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 5.11 | **5.58** | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022/results/all#eclock_f) | 4 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 5.29 | **5.81** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#eclock_f) | 4 |
 | [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) | 4.57 | **5.83** | [Pittsburgh Winter 2022](https://www.worldcubeassociation.org/competitions/PittsburghWinter2022/results/all#eclock_f) | 4 |
+| [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) | 4.66 | **5.88** | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022/results/all#eclock_f) | 5 |
 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | 3.90 | **5.93** | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/all#eclock_f) | 4 |
+| [Jake Buckley](https://www.worldcubeassociation.org/persons/2017BUCK01) | 5.36 | **5.99** | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022/results/all#eclock_f) | 6 |
 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.40 | **6.01** | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/all#eclock_f) | 5 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 4.69 | **6.09** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#eclock_f) | 5 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 5.46 | **6.11** | [Dragon Side Open 2022](https://www.worldcubeassociation.org/competitions/DragonSideOpen2022/results/all#eclock_f) | 4 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 4.35 | **6.13** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eclock_f) | 4 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5.55 | **6.22** | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021/results/all#eclock_f) | 4 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 6.06 | **6.22** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#eclock_f) | 6 |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 3.83 | **6.25** | [Ohio State Expo Open 2022](https://www.worldcubeassociation.org/competitions/OhioStateExpoOpen2022/results/all#eclock_f) | 4 |
 
 ### Skewb
 

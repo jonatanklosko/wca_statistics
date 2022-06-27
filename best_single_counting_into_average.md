@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 23 June 2022*
+*Updated on 26 June 2022*
 
 
 ### Rubik's Cube
@@ -130,13 +130,13 @@
 | 1.43 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022/results/by_person#2018KHAN28) |
 | 1.47 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/by_person#2015ROBI04) |
 | 1.49 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [Sioux Falls Spring 2022](https://www.worldcubeassociation.org/competitions/SiouxFallsSpring2022/results/by_person#2015ROBI04) |
+| 1.55 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [MCC Alpha 2022](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2022/results/by_person#2018KHAN28) |
 | 1.58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Deerfield Winter 2022](https://www.worldcubeassociation.org/competitions/DeerfieldWinter2022/results/by_person#2015KUCA01) |
 | 1.61 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Sioux Falls Winter 2021](https://www.worldcubeassociation.org/competitions/SiouxFallsWinter2021/results/by_person#2015KUCA01) |
 | 1.63 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | [Taiwan Open 2022](https://www.worldcubeassociation.org/competitions/TaiwanOpen2022/results/by_person#2019YANG94) |
 | 1.65 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2018KHAN28) |
 | 1.66 | [Mykhailo Lagoida (Михайло Лагойда)](https://www.worldcubeassociation.org/persons/2016LAGO04) | [Frankivsk Open 2019](https://www.worldcubeassociation.org/competitions/FrankivskOpen2019/results/by_person#2016LAGO04) |
 | 1.67 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Project Będzin 2019](https://www.worldcubeassociation.org/competitions/ProjectBedzin2019/results/by_person#2013BURL01) |
-| 1.68 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Cube4fun Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022/results/by_person#2013BURL01) |
 
 ### Square-1
 

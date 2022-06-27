@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 23 June 2022*
+*Updated on 26 June 2022*
 
 
 ### Rubik's Cube
@@ -12,12 +12,12 @@
 | 5.08 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.88, 5.70, 5.56, 4.53, 4.80 |
 | 5.08 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 4.84, 6.48, 5.68, 4.74, 4.52 |
 | 5.34 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.52, 6.03, 4.89, 5.61, 4.58 |
+| 5.45 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 5.53, 4.89, 7.08, 4.95, 5.89 |
 | 5.45 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | 5.25, 5.23, 6.72, 5.79, 5.32 |
 | 5.48 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.48, 5.46, 5.44, 7.23, 5.52 |
 | 5.52 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 7.16, 5.04, 4.67, 6.55, 4.99 |
 | 5.53 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | 5.16, 8.31, 5.87, 5.42, 5.30 |
 | 5.67 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | 5.80, 7.34, 5.42, 5.81, 5.30 |
-| 5.68 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.13, 6.43, 6.51, 5.27, 5.35 |
 
 ### 2x2x2 Cube
 
@@ -150,9 +150,9 @@
 | 31.42 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 34.63, 31.25, 28.43, 34.59, 28.09 |
 | 31.74 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 30.84, 36.43, 30.89, 32.94, 31.41 |
 | 32.89 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 29.67, 36.92, 36.16, 32.68, 29.85 |
+| 33.07 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 31.32, 34.16, 39.30, 32.05, 33.01 |
 | 33.24 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | 34.32, 31.91, 41.49, 33.51, 30.89 |
 | 33.77 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 34.69, 35.26, 32.26, 32.84, 33.78 |
-| 33.83 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 40.92, 31.06, 34.28, 32.46, 34.77 |
 
 ### Pyraminx
 
@@ -189,7 +189,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1.61 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.29, 1.79, 1.88, 1.45, 1.61 |
-| 1.76 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.70, DNF, 1.87, 1.70, 1.72 |
+| 1.74 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.10, 2.06, 2.61, 1.30, 1.88 |
 | 1.98 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.84, 1.87, 2.23, 2.75, 1.78 |
 | 1.99 | [Zeyu Hu (胡泽宇)](https://www.worldcubeassociation.org/persons/2014HUZE01) | 1.71, 2.15, 2.13, 3.32, 1.55 |
 | 2.04 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 2.06, 2.02, 2.33, 1.96, 2.05 |
@@ -211,8 +211,8 @@
 | 6.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.88, 5.56, 8.56, 6.19, 5.49 |
 | 6.23 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | 5.89, 8.42, 6.02, 6.26, 6.41 |
 | 6.25 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.44, 8.39, 5.12, 6.28, 7.05 |
+| 6.29 | [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | 7.57, 5.46, 8.22, 5.86, 4.67 |
 | 6.34 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 7.33, 6.71, 6.04, 6.27, 5.61 |
-| 6.34 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.90, 5.95, 6.18, 9.82, 4.45 |
 
 ### 4x4x4 Blindfolded
 

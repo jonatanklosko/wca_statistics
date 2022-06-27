@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 23 June 2022*
+*Updated on 26 June 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -509,6 +509,7 @@
 | 12 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | [Lisboa Open 2018](https://www.worldcubeassociation.org/competitions/LisboaOpen2018/results/podiums) |
 | 12 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Lithuanian Open 2016](https://www.worldcubeassociation.org/competitions/LithuanianOpen2016/results/podiums) |
 | 10 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) | [Lithuanian Open 2017](https://www.worldcubeassociation.org/competitions/LithuanianOpen2017/results/podiums) |
+| 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [Lleida Open 2022](https://www.worldcubeassociation.org/competitions/LleidaOpen2022/results/podiums) |
 | 12 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019/results/podiums) |
 | 11 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [South Italian Open 2010](https://www.worldcubeassociation.org/competitions/LOLSouthItalianOpen2010/results/podiums) |
 | 10 | [Aharon Campoli Tono](https://www.worldcubeassociation.org/persons/2014TONO01) | [Londrina Open 2017](https://www.worldcubeassociation.org/competitions/LondrinaOpen2017/results/podiums) |
@@ -609,6 +610,7 @@
 | 10 | [Eric Fernandes Monteiro](https://www.worldcubeassociation.org/persons/2011MONT01) | [Novo Hamburgo II 2012](https://www.worldcubeassociation.org/competitions/NovoHamburgoII2012/results/podiums) |
 | 12 | [Felipe de Carvalho Diniz](https://www.worldcubeassociation.org/persons/2009DINI01) | [Novo Hamburgo Open 2011](https://www.worldcubeassociation.org/competitions/NovoHamburgoOpen2011/results/podiums) |
 | 11 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [Novo Hamburgo Open 2011](https://www.worldcubeassociation.org/competitions/NovoHamburgoOpen2011/results/podiums) |
+| 11 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022/results/podiums) |
 | 10 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) | [Oculus Cube Open 2020](https://www.worldcubeassociation.org/competitions/OculusCubeOpen2020/results/podiums) |
 | 13 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Odense Open 2010](https://www.worldcubeassociation.org/competitions/OdenseOpen2010/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022/results/podiums) |
@@ -910,6 +912,8 @@
 | 12 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [West Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2019/results/podiums) |
 | 12 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
 | 12 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
+| 12 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |
+| 10 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |
 | 10 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | [Winona 2013](https://www.worldcubeassociation.org/competitions/WinonaOpen2013/results/podiums) |
 | 10 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) | [WWU 2015](https://www.worldcubeassociation.org/competitions/WinterWestUkraine2015/results/podiums) |
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Wiscube 2018](https://www.worldcubeassociation.org/competitions/Wiscube2018/results/podiums) |

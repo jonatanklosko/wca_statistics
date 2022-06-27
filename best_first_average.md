@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 23 June 2022*
+*Updated on 26 June 2022*
 
 
 ### Rubik's Cube
@@ -204,6 +204,7 @@
 | First average | Person |
 | ---: | :--- |
 | 7.84 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
+| 10.15 | [Ray Ng Qi Rui (黄启瑞)](https://www.worldcubeassociation.org/persons/2022RUIR01) |
 | 10.18 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
 | 11.05 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) |
 | 11.44 | [Tatsuya Kusanagi (草彅達也)](https://www.worldcubeassociation.org/persons/2018KUSA02) |
@@ -212,7 +213,6 @@
 | 11.94 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) |
 | 12.28 | [Paul Becsi](https://www.worldcubeassociation.org/persons/2016BECS01) |
 | 12.50 | [Felipe Maierowicz](https://www.worldcubeassociation.org/persons/2019MAIE01) |
-| 12.64 | [Osman Badroodin](https://www.worldcubeassociation.org/persons/2019BADR01) |
 
 ### 4x4x4 Blindfolded
 
@@ -233,6 +233,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 14:19.00 | [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01) |
 | 17:14.00 | [Jareth Soong](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 22:13.00 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 

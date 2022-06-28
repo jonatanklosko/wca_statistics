@@ -1,14 +1,14 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 26 June 2022*
+*Updated on 27 June 2022*
 
 
 ### Rubik's Cube
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 4.78 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.24, 4.66, 5.16, 5.04, 4.64 |
+| 4.74 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.45, 4.22, 4.69, 5.44, 5.08 |
 | 5.08 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.88, 5.70, 5.56, 4.53, 4.80 |
 | 5.08 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 4.84, 6.48, 5.68, 4.74, 4.52 |
 | 5.34 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.52, 6.03, 4.89, 5.61, 4.58 |

@@ -1,10 +1,10 @@
 ## Most finals
 
-*Updated on 26 June 2022*
+*Updated on 27 June 2022*
 
 | Finals | Person |
 | ---: | :--- |
-| 2096 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 2101 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2037 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 1983 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 1595 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
@@ -14,7 +14,7 @@
 | 1275 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1267 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1201 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 1169 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 1186 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1151 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1126 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1105 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
@@ -70,15 +70,15 @@
 | 674 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 672 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 671 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
+| 670 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 670 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
-| 663 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 663 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 661 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 659 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
+| 657 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 657 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 655 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 655 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 652 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 651 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) |
 | 641 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) |
 | 633 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |

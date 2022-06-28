@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 26 June 2022*
+*Updated on 27 June 2022*
 
 
 ### Rubik's Cube
@@ -11,8 +11,8 @@
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 61 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 32 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 31 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 20 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 19 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 19 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 17 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | 17 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 15 |
@@ -184,7 +184,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 51 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 21 |
+| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 22 |
 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | 19 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 17 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 16 |
@@ -391,8 +391,8 @@
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 13 |
 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) | 11 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 11 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 11 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 10 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 10 |
 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 9 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 8 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 8 |

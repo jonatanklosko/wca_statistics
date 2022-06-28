@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 26 June 2022*
+*Updated on 27 June 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -14,12 +14,12 @@
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **121** | 137 | 98 | 356 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **118** | 52 | 23 | 193 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **111** | 58 | 36 | 205 |
+| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **110** | 134 | 118 | 362 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **110** | 99 | 86 | 295 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **107** | 132 | 118 | 357 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **107** | 88 | 69 | 264 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **106** | 43 | 23 | 172 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **105** | 122 | 108 | 335 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **105** | 37 | 14 | 156 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **101** | 85 | 63 | 249 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **95** | 102 | 87 | 284 |
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | **94** | 34 | 27 | 155 |
 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | **92** | 99 | 67 | 258 |

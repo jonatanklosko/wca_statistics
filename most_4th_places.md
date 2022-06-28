@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 26 June 2022*
+*Updated on 27 June 2022*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -45,8 +45,8 @@
 | 80 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 78 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 78 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
+| 76 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 76 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
-| 75 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 74 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 74 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 74 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) |

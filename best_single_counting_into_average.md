@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 26 June 2022*
+*Updated on 27 June 2022*
 
 
 ### Rubik's Cube
@@ -8,6 +8,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 4.24 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/by_person#2012PARK03) |
+| 4.45 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2016KOLA02) |
 | 4.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022/results/by_person#2016KOLA02) |
 | 4.69 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022/results/by_person#2016KOLA02) |
 | 4.74 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Dragon Cubing 2021](https://www.worldcubeassociation.org/competitions/DragonCubing2021/results/by_person#2016KOLA02) |
@@ -16,7 +17,6 @@
 | 4.83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021/results/by_person#2016KOLA02) |
 | 4.84 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2016INAB01) |
 | 4.87 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
-| 4.88 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
 
 ### 2x2x2 Cube
 

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 26 June 2022*
+*Updated on 27 June 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -636,6 +636,7 @@
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Osijek Open 2018](https://www.worldcubeassociation.org/competitions/OsijekOpen2018/results/podiums) |
 | 12 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Osijek Open 2019](https://www.worldcubeassociation.org/competitions/OsijeKOpen2019/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Osijek Open 2019](https://www.worldcubeassociation.org/competitions/OsijeKOpen2019/results/podiums) |
+| 15 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2017](https://www.worldcubeassociation.org/competitions/OuluOpen2017/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019/results/podiums) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014/results/podiums) |

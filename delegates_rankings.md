@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 26 June 2022*
+*Updated on 27 June 2022*
 
 
 ### Rubik's Cube - Single
@@ -443,7 +443,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **2:01.73** | Sweden | [Kubkvarna 2022](https://www.worldcubeassociation.org/competitions/Kubkvarna2022) | 1:37.93, 2:09.85, 2:17.42 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1:52.96** | Sweden | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022) | 1:49.58, 1:57.99, 1:51.32 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **3:35.62** | Russia | [Kharkiv Open 2014](https://www.worldcubeassociation.org/competitions/KharkivOpen2014) | 3:27.66, 3:55.48, 3:23.72 |
 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) | **3:58.82** | Australia | [Melbourne Summer 2020](https://www.worldcubeassociation.org/competitions/MelbourneSummer2020) | 3:51.36, 4:09.48, 3:55.63 |
 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | **4:07.76** | United States | [Oregon State Leap Day 2020](https://www.worldcubeassociation.org/competitions/OregonStateLeapDay2020) | 4:19.69, 3:57.20, 4:06.40 |
@@ -458,7 +458,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4:17.47** | Sweden | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021) | 4:17.47, DNF, DNF |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4:13.39** | Sweden | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022) | DNF, DNF, 4:13.39 |
 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **5:49.80** | Denmark | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021) | 5:49.80, DNF, DNF |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **6:24.11** | Russia | [Kharkiv Open 2014](https://www.worldcubeassociation.org/competitions/KharkivOpen2014) | 6:24.11, DNF, DNF |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **7:36.42** | Argentina | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022) | DNF, 7:36.42, DNS |

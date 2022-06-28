@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 26 June 2022*
+*Updated on 27 June 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -21,7 +21,7 @@
 | 94 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 89 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 87 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
-| 86 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 87 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 86 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 84 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
@@ -64,8 +64,8 @@
 | 48 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
 | 47 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
 | 47 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
+| 47 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
-| 46 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 46 | [Thomas Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 46 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 46 | [Aramayis Adloyan (Արամայիս Ադլոյան)](https://www.worldcubeassociation.org/persons/2012ADLO01) |

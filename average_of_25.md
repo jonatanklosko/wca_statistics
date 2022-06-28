@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 26 June 2022*
+*Updated on 27 June 2022*
 
 
 ### Rubik's Cube
@@ -117,9 +117,9 @@
 | 25.52 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 24, 28, 25, 25, 27, 27, 28, 26, 24, 24, 29, 29, 27, 31, 17, 25, 25, 23, 24, 30, 25, 21, 26, 22, 23 |
 | 25.52 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 20, 23, 26, 28, 26, 29, 33, 38, 24, DNF, 25, 27, 24, 25, 26, 26, 21, 26, 29, 22, 24, 25, 23, 23, 22 |
 | 25.71 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 27, 25, 28, DNF, 27, 30, 24, 18, 23, 27, 26, 27, 27, 27, 26, 23, 25, 25, 27, 27, 16, 26, 24, 25, 24 |
+| 25.85 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 28, 30, 25, 26, 26, 21, 22, 30, 32, 26, 23, 26, 28, 27, 20, 27, 29, 26, 24, 24, 24, 28, 22, 28, 24 |
 | 25.85 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | DNF, 27, 23, 33, DNF, 24, 26, 25, 30, 26, 27, 26, 26, 26, 25, 28, 21, 23, 25, 25, 20, 23, 25, 25, 25 |
 | 26.00 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 26, 24, 27, 25, 30, 26, 25, 28, 26, 28, 23, 26, 26, 28, 25, 24, 25, 28, 27, 27, 25, 28, 24, 24, 26 |
-| 26.04 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) | 22, 26, 33, 24, 24, 33, 25, 28, 25, 25, 19, 29, 31, 30, 28, 24, 25, 29, 25, 23, 24, 25, 24, 28, 25 |
 
 ### 3x3x3 One-Handed
 

@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 26 June 2022*
+*Updated on 27 June 2022*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -17,9 +17,9 @@
 | 49 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) | Bolivia | [Santa Cruz Open 2015](https://www.worldcubeassociation.org/competitions/SantaCruzOpen2015) | [Unifranz Santa Cruz 2019](https://www.worldcubeassociation.org/competitions/UnifranzSantaCruz2019) |
 | 47 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | United Kingdom | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) | [Manchester Open 2020](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020) |
 | 45 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | United Kingdom | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) |
+| 44 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 44 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Taiwan | [Taipei Open 2017](https://www.worldcubeassociation.org/competitions/TaipeiOpen2017) |  |
 | 43 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) | Sweden | [Swedish Championship 2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012) | [SSL 1 Åkers Styckebruk 2019](https://www.worldcubeassociation.org/competitions/SSL1AkersStyckebruk2019) |
-| 43 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 41 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) | Japan | [JRCA Kansai Summer 2009](https://www.worldcubeassociation.org/competitions/JRCAKansaiSummer2009) | [East Osaka 2012](https://www.worldcubeassociation.org/competitions/EastOsaka2012) |
 | 39 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | Poland | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
 | 39 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | Romania | [U.R.A. Back to School 2016](https://www.worldcubeassociation.org/competitions/URABacktoSchool2016) | [Bucharest Cubing Days 2021](https://www.worldcubeassociation.org/competitions/BucharestCubingDays2021) |
@@ -66,7 +66,7 @@
 | 23 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) |  |
 | 23 | [Berit Brüster](https://www.worldcubeassociation.org/persons/2009BRUS01) | Germany | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009) | [Munich Open 2011](https://www.worldcubeassociation.org/competitions/MunichOpen2011) |
 | 23 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | Japan | [Osaka 2011](https://www.worldcubeassociation.org/competitions/Osaka2011) | [Hiroshima 2012](https://www.worldcubeassociation.org/competitions/HiroshimaOpen2012) |
-| 23 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | Italy | [Bologna NxN Spring 2019](https://www.worldcubeassociation.org/competitions/BolognaNxNSpring2019) |  |
+| 23 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | Italy | [Bologna NxN Spring 2019](https://www.worldcubeassociation.org/competitions/BolognaNxNSpring2019) | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022) |
 | 23 | [Mateo Rodríguez](https://www.worldcubeassociation.org/persons/2013RODR11) | Uruguay | [Montevideo Open 2014](https://www.worldcubeassociation.org/competitions/MontevideoOpen2014) | [Stickers Open 2018](https://www.worldcubeassociation.org/competitions/StickersPuntadelEsteOpen2018) |
 | 22 | [Justin Jaffray](https://www.worldcubeassociation.org/persons/2008JAFF01) | Canada | [Toronto Open Fall 2008](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2008) | [Vancouver Winter 2011](https://www.worldcubeassociation.org/competitions/VancouverWinter2011) |
 | 22 | [Hung Lo (羅鴻)](https://www.worldcubeassociation.org/persons/2009LOHU01) | Taiwan | [Taiwan Summer 2013](https://www.worldcubeassociation.org/competitions/TaiwanSummer2013) | [ Twisting Fingers 2015](https://www.worldcubeassociation.org/competitions/TwistingFingers2015) |

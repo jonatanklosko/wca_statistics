@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 | Person | Years |
 | :--- | ---: |
@@ -30,8 +30,8 @@
 | [James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01) | 9.18 |
 | [Zeqin Chen (陈泽钦)](https://www.worldcubeassociation.org/persons/2010CHEN37) | 9.16 |
 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | 9.06 |
-| [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
+| [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 8.97 |
 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
@@ -53,9 +53,9 @@
 | [Derek Tat](https://www.worldcubeassociation.org/persons/2009TATD01) | 8.36 |
 | [Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03) | 8.35 |
 | [Guus de Wit](https://www.worldcubeassociation.org/persons/2008WITG01) | 8.30 |
-| [Konstantin Krämer](https://www.worldcubeassociation.org/persons/2014KRAM02) | 8.28 |
 | [Chenge Liu (刘晨舸)](https://www.worldcubeassociation.org/persons/2011LIUC02) | 8.28 |
 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | 8.28 |
+| [Konstantin Krämer](https://www.worldcubeassociation.org/persons/2014KRAM02) | 8.28 |
 | [Simon Lim (林少秋)](https://www.worldcubeassociation.org/persons/2008LIMS01) | 8.24 |
 | [Weston Mizumoto](https://www.worldcubeassociation.org/persons/2008MIZU01) | 8.24 |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 8.19 |
@@ -75,8 +75,8 @@
 | [Andreas Gröbmayr](https://www.worldcubeassociation.org/persons/2010GROB02) | 7.91 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | 7.90 |
 | [Ivan Torgashov (Іван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) | 7.82 |
-| [Renxin Tang (汤任欣)](https://www.worldcubeassociation.org/persons/2013TANG02) | 7.80 |
 | [Kuo-Hau Wu (吳國豪)](https://www.worldcubeassociation.org/persons/2008WUKU01) | 7.80 |
+| [Renxin Tang (汤任欣)](https://www.worldcubeassociation.org/persons/2013TANG02) | 7.80 |
 | [Tiancheng Feng (冯天成)](https://www.worldcubeassociation.org/persons/2009FENG08) | 7.80 |
 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 7.77 |
 | [Jiajun Wu (吴佳骏)](https://www.worldcubeassociation.org/persons/2013WUJI03) | 7.76 |

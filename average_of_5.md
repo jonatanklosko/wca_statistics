@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 
 ### Rubik's Cube
@@ -136,8 +136,8 @@
 | 9.55 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 10.54, 9.12, 9.35, 10.17, 9.15 |
 | 9.63 | [Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06) | 9.99, 9.17, 9.75, 17.45, 9.08 |
 | 9.69 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | 9.30, 9.46, 9.60, 12.10, 10.03 |
+| 9.72 | [Pranav Gadge](https://www.worldcubeassociation.org/persons/2017GADG01) | 8.44, 13.53, 10.79, 9.04, 9.35 |
 | 9.74 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 8.12, 10.91, 9.84, 9.45, 9.93 |
-| 9.77 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 9.94, 9.20, 8.61, 14.08, 10.18 |
 
 ### Megaminx
 

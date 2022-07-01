@@ -1,13 +1,13 @@
 ## Competition days count by region
 
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8073 |
+| 1.50 | World | 8077 |
 
 ### Continents
 
@@ -16,9 +16,9 @@
 | 1.77 | Europe | 2612 |
 | 1.58 | South America | 910 |
 | 1.48 | Oceania | 332 |
-| 1.41 | Asia | 2051 |
-| 1.21 | North America | 2080 |
-| 1.19 | Africa | 88 |
+| 1.41 | Asia | 2052 |
+| 1.21 | North America | 2082 |
+| 1.20 | Africa | 89 |
 
 ### Countries
 
@@ -65,8 +65,8 @@
 | 1.64 | Poland | 297 |
 | 1.64 | Netherlands | 91 |
 | 1.63 | Argentina | 52 |
-| 1.63 | India | 391 |
 | 1.62 | Iceland | 8 |
+| 1.62 | India | 392 |
 | 1.62 | Indonesia | 165 |
 | 1.59 | Ireland | 22 |
 | 1.58 | Colombia | 125 |
@@ -96,7 +96,7 @@
 | 1.31 | Venezuela | 54 |
 | 1.31 | Chile | 81 |
 | 1.31 | Greece | 13 |
-| 1.28 | South Africa | 39 |
+| 1.30 | South Africa | 40 |
 | 1.26 | China | 615 |
 | 1.25 | Georgia | 4 |
 | 1.25 | Mongolia | 16 |
@@ -109,7 +109,7 @@
 | 1.20 | Portugal | 15 |
 | 1.18 | Uruguay | 33 |
 | 1.17 | Canada | 206 |
-| 1.17 | United States | 1661 |
+| 1.17 | United States | 1663 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Honduras | 12 |
 | 1.17 | Tunisia | 24 |

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 
 ### Rubik's Cube
@@ -297,12 +297,12 @@
 | [Ernesto Fernández Regueira](https://www.worldcubeassociation.org/persons/2004FERN01) | 12 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 11 |
 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 11 |
+| [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 11 |
 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | 10 |
 | [Gaël Dusser](https://www.worldcubeassociation.org/persons/2007DUSS01) | 10 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 10 |
 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | 10 |
 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) | 10 |
-| [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 10 |
 
 ### Skewb
 
@@ -391,8 +391,8 @@
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 13 |
 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) | 11 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 11 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 11 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 10 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 10 |
 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 9 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 8 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 8 |
@@ -418,7 +418,7 @@
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 14 |
 | [Fabrizio Cirnigliaro](https://www.worldcubeassociation.org/persons/2008CIRN01) | 13 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | 13 |
-| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 12 |
+| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 13 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 11 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 9 |
 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | 8 |

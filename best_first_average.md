@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 
 ### Rubik's Cube
@@ -39,6 +39,7 @@
 | First average | Person |
 | ---: | :--- |
 | 31.63 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
+| 32.83 | [Siddhesh Pore](https://www.worldcubeassociation.org/persons/2022PORE01) |
 | 34.00 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
 | 34.03 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 34.41 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
@@ -47,7 +48,6 @@
 | 34.94 | [Hasnain Reza Bilal](https://www.worldcubeassociation.org/persons/2019BILA05) |
 | 34.98 | [Hua Huang (黄华)](https://www.worldcubeassociation.org/persons/2018HUAN08) |
 | 35.73 | [Thomas Liao](https://www.worldcubeassociation.org/persons/2017LIAO09) |
-| 36.08 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
 
 ### 5x5x5 Cube
 
@@ -73,11 +73,11 @@
 | 1:44.96 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
 | 1:46.52 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
 | 1:51.30 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
+| 1:54.25 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
 | 1:59.58 | [Semen Artyukhov](https://www.worldcubeassociation.org/persons/2018ARTY01) |
 | 1:59.81 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) |
 | 2:00.38 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 2:02.05 | [Wenjie Lan (兰文杰)](https://www.worldcubeassociation.org/persons/2019LANW02) |
-| 2:07.11 | [Tao Sun (孙涛)](https://www.worldcubeassociation.org/persons/2019SUNT02) |
 
 ### 7x7x7 Cube
 
@@ -159,6 +159,7 @@
 | First average | Person |
 | ---: | :--- |
 | 2.99 | [Heath Flick](https://www.worldcubeassociation.org/persons/2020FLIC01) |
+| 3.04 | [Peter Li (李致远)](https://www.worldcubeassociation.org/persons/2022LIPE01) |
 | 3.06 | [Yixuan Li (李逸轩)](https://www.worldcubeassociation.org/persons/2018LIYI14) |
 | 3.25 | [Ilario Joaquín Chiacchiarini](https://www.worldcubeassociation.org/persons/2022CHIA06) |
 | 3.26 | [Hajime Miyazaki (宮崎朔)](https://www.worldcubeassociation.org/persons/2022MIYA01) |
@@ -167,7 +168,6 @@
 | 3.47 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) |
 | 3.56 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 3.89 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
-| 3.91 | [Haoze Liu (刘浩泽)](https://www.worldcubeassociation.org/persons/2019LIUH04) |
 
 ### Rubik's Clock
 
@@ -233,6 +233,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 13:56.00 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) |
 | 14:19.00 | [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01) |
 | 17:14.00 | [Jareth Soong](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 22:13.00 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |

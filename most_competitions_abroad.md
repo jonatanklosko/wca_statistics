@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -69,19 +69,19 @@
 | 46 | [Thomas Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 46 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 46 | [Aramayis Adloyan (Արամայիս Ադլոյան)](https://www.worldcubeassociation.org/persons/2012ADLO01) |
-| 45 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 45 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 45 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
+| 45 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 45 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 44 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 44 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 44 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 43 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |
 | 43 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 43 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
+| 43 | [Billy Burier](https://www.worldcubeassociation.org/persons/2014BURI01) |
 | 43 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 43 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
-| 43 | [Billy Burier](https://www.worldcubeassociation.org/persons/2014BURI01) |
+| 43 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 43 | [Geert Bicler](https://www.worldcubeassociation.org/persons/2010BICL01) |
 | 43 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 42 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
@@ -92,11 +92,11 @@
 | 41 | [Raphaël Pihet](https://www.worldcubeassociation.org/persons/2011PIHE01) |
 | 41 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 41 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
+| 40 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 40 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
 | 40 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 40 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
 | 40 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
-| 40 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 40 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 39 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 38 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |

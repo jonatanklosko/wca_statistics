@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -116,8 +116,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -327,6 +327,7 @@
 | 4221 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 4318 | [Koh Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) |
 | 4383 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) |
+| 4583 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 4767 | [Zachary McWilliams](https://www.worldcubeassociation.org/persons/2009MCWI01) |
 | 4794 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
 | 4795 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 
 ### Rubik's Cube
@@ -223,11 +223,11 @@
 | 7.78 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 8:41.99 | 8:49.77 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019/results/by_person#2016FANG01) |
 | 8.15 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:46.56 | 3:54.71 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/by_person#2013LINK01) |
 | 10.05 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 2:39.12 | 2:49.17 | [Selangor Cube Open 2019](https://www.worldcubeassociation.org/competitions/SelangorCubeOpen2019/results/by_person#2013LINK01) |
+| 11.00 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 13:45.00 | 13:56.00 | [Blind Is Back LA 2022](https://www.worldcubeassociation.org/competitions/BlindIsBackLA2022/results/by_person#2012LAUR02) |
 | 12.76 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:33.16 | 6:45.92 | [Farnworth Spring A 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringA2022/results/by_person#2019HIRS01) |
 | 13.18 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 8:49.83 | 9:03.01 | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019/results/by_person#2012HALE01) |
 | 14.82 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 8:29.70 | 8:44.52 | [Jönköping Side Events 2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019/results/by_person#2012HALE01) |
 | 15.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 3:08.88 | 3:23.92 | [Warm Up Canberra 2019](https://www.worldcubeassociation.org/competitions/WarmUpCanberra2019/results/by_person#2016CHAP04) |
-| 15.19 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 2:48.02 | 3:03.21 | [Thailand Championship 2019](https://www.worldcubeassociation.org/competitions/ThailandChampionship2019/results/by_person#2013LINK01) |
 
 ### 3x3x3 With Feet
 

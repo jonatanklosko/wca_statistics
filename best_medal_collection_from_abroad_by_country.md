@@ -1,18 +1,18 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1267** | 1040 | 889 | 3196 |
 | Germany | **760** | 743 | 738 | 2241 |
-| United States | **731** | 596 | 514 | 1841 |
+| United States | **732** | 596 | 515 | 1843 |
 | Netherlands | **728** | 605 | 499 | 1832 |
 | France | **683** | 590 | 496 | 1769 |
 | Russia | **530** | 369 | 304 | 1203 |
 | Poland | **360** | 251 | 182 | 793 |
-| China | **349** | 304 | 272 | 925 |
+| China | **356** | 307 | 274 | 937 |
 | Malaysia | **325** | 300 | 273 | 898 |
 | Canada | **320** | 321 | 344 | 985 |
 | United Kingdom | **302** | 333 | 349 | 984 |
@@ -21,12 +21,12 @@
 | Australia | **275** | 123 | 81 | 479 |
 | Republic of Korea | **221** | 220 | 180 | 621 |
 | Finland | **207** | 148 | 124 | 479 |
-| India | **189** | 157 | 142 | 488 |
+| India | **189** | 158 | 142 | 489 |
 | Switzerland | **188** | 262 | 233 | 683 |
 | Taiwan | **186** | 161 | 152 | 499 |
-| Japan | **185** | 106 | 106 | 397 |
+| Japan | **185** | 106 | 107 | 398 |
 | Hong Kong | **177** | 207 | 173 | 557 |
-| Italy | **176** | 159 | 152 | 487 |
+| Italy | **176** | 160 | 152 | 488 |
 | Spain | **164** | 150 | 174 | 488 |
 | Argentina | **160** | 119 | 103 | 382 |
 | Ukraine | **157** | 149 | 145 | 451 |
@@ -61,7 +61,7 @@
 | Portugal | **21** | 19 | 17 | 57 |
 | Mongolia | **21** | 18 | 14 | 53 |
 | Costa Rica | **20** | 18 | 19 | 57 |
-| El Salvador | **19** | 19 | 16 | 54 |
+| El Salvador | **19** | 20 | 16 | 55 |
 | New Zealand | **18** | 53 | 40 | 111 |
 | Estonia | **16** | 24 | 23 | 63 |
 | South Africa | **15** | 17 | 37 | 69 |

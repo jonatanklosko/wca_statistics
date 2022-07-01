@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 
 ### Rubik's Cube
@@ -38,6 +38,7 @@
 
 | First single | Person |
 | ---: | :--- |
+| 29.79 | [Siddhesh Pore](https://www.worldcubeassociation.org/persons/2022PORE01) |
 | 31.17 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 31.25 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 31.47 | [Aditya Bareja](https://www.worldcubeassociation.org/persons/2022BARE01) |
@@ -47,7 +48,6 @@
 | 33.90 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
 | 34.46 | [John Michael Chua](https://www.worldcubeassociation.org/persons/2022CHUA03) |
 | 34.60 | [Melvin Tan](https://www.worldcubeassociation.org/persons/2021TANM01) |
-| 34.72 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
 
 ### 5x5x5 Cube
 
@@ -69,6 +69,7 @@
 | First single | Person |
 | ---: | :--- |
 | 1:35.17 | [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) |
+| 1:45.53 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
 | 1:45.78 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) |
 | 1:48.56 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
 | 1:51.55 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
@@ -77,7 +78,6 @@
 | 1:56.30 | [Diego Rodriguez-Ramirez](https://www.worldcubeassociation.org/persons/2019RODR11) |
 | 1:57.60 | [Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) |
 | 2:02.75 | [Semen Artyukhov](https://www.worldcubeassociation.org/persons/2018ARTY01) |
-| 2:03.32 | [Jeremy Sheng](https://www.worldcubeassociation.org/persons/2019SHEN10) |
 
 ### 7x7x7 Cube
 
@@ -242,7 +242,7 @@
 | 12:50.00 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) |
 | 12:52.00 | [Jia-Hong Lu (陸嘉宏)](https://www.worldcubeassociation.org/persons/2007LUJI01) |
 | 13:50.00 | [Toma Kishimoto (岸本到馬)](https://www.worldcubeassociation.org/persons/2019KISH01) |
-| 14:44.00 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 14:07.00 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) |
 
 ### 3x3x3 Multi-Blind
 

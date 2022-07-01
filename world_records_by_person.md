@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -68,6 +68,7 @@
 | 4 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) |
 | 4 | [Craig Bouchard](https://www.worldcubeassociation.org/persons/2005BOUC01) |
 | 4 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
+| 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
 | 4 | [Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09) |
 | 4 | [Keisuke Hiraya (平谷啓輔)](https://www.worldcubeassociation.org/persons/2007HIRA02) |
 | 4 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) |
@@ -92,7 +93,6 @@
 | 3 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) |
 | 3 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
 | 3 | [Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01) |
-| 3 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
 | 3 | [Haixu Zhang (张海旭)](https://www.worldcubeassociation.org/persons/2008ZHAN06) |
 | 3 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
 | 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |

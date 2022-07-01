@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -63,6 +63,7 @@
 | 44 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) | [River Hill Summer 2014](https://www.worldcubeassociation.org/competitions/RiverHillSummer2014) | [Richmond Spring 2019](https://www.worldcubeassociation.org/competitions/RichmondSpring2019) |
 | 44 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | [Idaho Open 2014](https://www.worldcubeassociation.org/competitions/IdahoOpen2014) | [Resticker Utah 2019](https://www.worldcubeassociation.org/competitions/RestickerUtah2019) |
 | 44 | [Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01) | [Zonhoven Open 2016](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2016) | [Dutch Masters 2019](https://www.worldcubeassociation.org/competitions/DutchMasters2019) |
+| 44 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) | [Sunmarke Dubai Open II 2017](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpenII2017) |  |
 | 43 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | [Rutgers Fall 2006](https://www.worldcubeassociation.org/competitions/RutgersFall2006) |  |
 | 43 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) | [Twin Cities 2009](https://www.worldcubeassociation.org/competitions/TwinCities2009) | [Field of Cubes 2015](https://www.worldcubeassociation.org/competitions/FieldOfCubes2015) |
 | 43 | [Robbie Villarica](https://www.worldcubeassociation.org/persons/2010VILL03) | [Philippines Open 2010](https://www.worldcubeassociation.org/competitions/PhilippinesOpen2010) | [Nisei Week 2018](https://www.worldcubeassociation.org/competitions/NiseiWeek2018) |
@@ -72,7 +73,6 @@
 | 43 | [Caleb Hoover](https://www.worldcubeassociation.org/persons/2016HOOV01) | [PDX Cubing Alpha 2016](https://www.worldcubeassociation.org/competitions/PDXCubingAlpha2016) | [SnoCo Goes Back to Square-1 2021](https://www.worldcubeassociation.org/competitions/SnoCoGoesBacktoSquare12021) |
 | 43 | [Daniel Gutierrez](https://www.worldcubeassociation.org/persons/2016GUTI23) | [UMass ODS Fall 2016](https://www.worldcubeassociation.org/competitions/UMassODSFall2016) | [SBU Fall 2019](https://www.worldcubeassociation.org/competitions/SBUFall2019) |
 | 43 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Rocket City 2.0 2017](https://www.worldcubeassociation.org/competitions/RocketCity202017) | [Mishawaka Summer 2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019) |
-| 43 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) | [Sunmarke Dubai Open II 2017](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpenII2017) |  |
 | 42 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [German Open 2008](https://www.worldcubeassociation.org/competitions/GermanOpen2008) | [GHS Ingenhovenpark Open 2011](https://www.worldcubeassociation.org/competitions/GHSIngenhovenparkOpen2011) |
 | 42 | [Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01) | [Utah Open 2008](https://www.worldcubeassociation.org/competitions/UtahOpen2008) |  |
 | 42 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |

@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -57,6 +57,7 @@
 | 5 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | Romania | [Craiova Rubik Open 2017](https://www.worldcubeassociation.org/competitions/CraiovaRubikOpen2017) |
 | 5 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [COpen2 2018](https://www.worldcubeassociation.org/competitions/Cerritos2018) |
 | 5 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [Grossmont Fall 2019](https://www.worldcubeassociation.org/competitions/GrossmontFall2019) |
+| 5 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | United States | [Spokane Summer 2022](https://www.worldcubeassociation.org/competitions/SpokaneSummer2022) |
 | 5 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | Brazil | [Roraima 2012](https://www.worldcubeassociation.org/competitions/Roraima2012) |
 | 5 | [Saravanan Gowthaman](https://www.worldcubeassociation.org/persons/2015GOWT01) | India | [Virudhunagar KCET Cube Open 2018](https://www.worldcubeassociation.org/competitions/VirudhunagarKCETCubeOpen2018) |
 | 5 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | Japan | [Kansai Star 2013](https://www.worldcubeassociation.org/competitions/KansaiStarFestival2013) |

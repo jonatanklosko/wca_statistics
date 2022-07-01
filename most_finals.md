@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 27 June 2022*
+*Updated on 30 June 2022*
 
 | Finals | Person |
 | ---: | :--- |
@@ -88,12 +88,12 @@
 | 621 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 620 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 611 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
+| 610 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
 | 610 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 609 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 609 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
 | 608 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
 | 604 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
-| 604 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
 | 598 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 596 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 595 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |

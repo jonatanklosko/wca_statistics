@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 30 June 2022*
+*Updated on  7 July 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8077 |
+| 1.50 | World | 8092 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2612 |
+| 1.77 | Europe | 2618 |
 | 1.58 | South America | 910 |
 | 1.48 | Oceania | 332 |
 | 1.41 | Asia | 2052 |
-| 1.21 | North America | 2082 |
-| 1.20 | Africa | 89 |
+| 1.21 | North America | 2090 |
+| 1.20 | Africa | 90 |
 
 ### Countries
 
@@ -36,24 +36,24 @@
 | 1.93 | Turkey | 45 |
 | 1.93 | Belarus | 42 |
 | 1.93 | Lithuania | 14 |
-| 1.93 | Finland | 81 |
 | 1.92 | Russia | 220 |
 | 1.92 | Serbia | 12 |
+| 1.91 | Finland | 82 |
 | 1.90 | Uzbekistan | 10 |
 | 1.88 | Croatia | 17 |
 | 1.87 | Belgium | 55 |
-| 1.85 | France | 213 |
+| 1.85 | France | 214 |
 | 1.84 | Norway | 69 |
 | 1.84 | Spain | 225 |
 | 1.84 | Ukraine | 91 |
+| 1.83 | Mexico | 86 |
 | 1.82 | Austria | 17 |
-| 1.82 | Mexico | 85 |
 | 1.82 | Thailand | 28 |
 | 1.82 | Switzerland | 78 |
 | 1.82 | Brazil | 307 |
 | 1.80 | North Macedonia | 5 |
 | 1.80 | San Marino | 5 |
-| 1.79 | Denmark | 101 |
+| 1.80 | Denmark | 103 |
 | 1.77 | Guatemala | 47 |
 | 1.75 | Sweden | 116 |
 | 1.73 | Slovenia | 22 |
@@ -62,7 +62,7 @@
 | 1.67 | Luxembourg | 3 |
 | 1.67 | Montenegro | 3 |
 | 1.65 | Iran | 31 |
-| 1.64 | Poland | 297 |
+| 1.64 | Poland | 298 |
 | 1.64 | Netherlands | 91 |
 | 1.63 | Argentina | 52 |
 | 1.62 | Iceland | 8 |
@@ -96,7 +96,8 @@
 | 1.31 | Venezuela | 54 |
 | 1.31 | Chile | 81 |
 | 1.31 | Greece | 13 |
-| 1.30 | South Africa | 40 |
+| 1.30 | Bulgaria | 10 |
+| 1.29 | South Africa | 41 |
 | 1.26 | China | 615 |
 | 1.25 | Georgia | 4 |
 | 1.25 | Mongolia | 16 |
@@ -104,15 +105,14 @@
 | 1.25 | Vietnam | 52 |
 | 1.24 | Japan | 198 |
 | 1.23 | United Arab Emirates | 13 |
-| 1.22 | Bulgaria | 9 |
 | 1.20 | Bahrain | 5 |
 | 1.20 | Portugal | 15 |
 | 1.18 | Uruguay | 33 |
-| 1.17 | Canada | 206 |
-| 1.17 | United States | 1663 |
+| 1.17 | Canada | 207 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Honduras | 12 |
 | 1.17 | Tunisia | 24 |
+| 1.17 | United States | 1669 |
 | 1.14 | Panama | 7 |
 | 1.14 | El Salvador | 22 |
 | 1.13 | Azerbaijan | 39 |

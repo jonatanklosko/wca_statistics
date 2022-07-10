@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Updated on  7 July 2022*
+*Updated on  9 July 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8092 |
+| 1.50 | World | 8096 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2618 |
+| 1.77 | Europe | 2619 |
 | 1.58 | South America | 910 |
 | 1.48 | Oceania | 332 |
-| 1.41 | Asia | 2052 |
-| 1.21 | North America | 2090 |
+| 1.42 | Asia | 2054 |
+| 1.21 | North America | 2091 |
 | 1.20 | Africa | 90 |
 
 ### Countries
@@ -44,7 +44,7 @@
 | 1.87 | Belgium | 55 |
 | 1.85 | France | 214 |
 | 1.84 | Norway | 69 |
-| 1.84 | Spain | 225 |
+| 1.84 | Spain | 226 |
 | 1.84 | Ukraine | 91 |
 | 1.83 | Mexico | 86 |
 | 1.82 | Austria | 17 |
@@ -65,13 +65,13 @@
 | 1.64 | Poland | 298 |
 | 1.64 | Netherlands | 91 |
 | 1.63 | Argentina | 52 |
+| 1.63 | Indonesia | 166 |
 | 1.62 | Iceland | 8 |
 | 1.62 | India | 392 |
-| 1.62 | Indonesia | 165 |
 | 1.59 | Ireland | 22 |
 | 1.58 | Colombia | 125 |
 | 1.58 | Bolivia | 74 |
-| 1.55 | Malaysia | 55 |
+| 1.57 | Malaysia | 56 |
 | 1.54 | New Zealand | 71 |
 | 1.53 | Israel | 19 |
 | 1.52 | Dominican Republic | 25 |
@@ -112,7 +112,7 @@
 | 1.17 | Andorra | 6 |
 | 1.17 | Honduras | 12 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | United States | 1669 |
+| 1.17 | United States | 1670 |
 | 1.14 | Panama | 7 |
 | 1.14 | El Salvador | 22 |
 | 1.13 | Azerbaijan | 39 |

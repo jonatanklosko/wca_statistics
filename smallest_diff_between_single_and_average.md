@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  9 July 2022*
+*Updated on 15 July 2022*
 
 
 ### Rubik's Cube
@@ -102,12 +102,12 @@
 | 0.11 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 24.64 | 24.75 | [Arnold Open 2018](https://www.worldcubeassociation.org/competitions/ArnoldOpen2018/results/by_person#2014PARR02) |
 | 0.13 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | 36.81 | 36.94 | [Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017/results/by_person#2014ZHAO12) |
 | 0.14 | [Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02) | 41.36 | 41.50 | [Wonderful Williamstown 2022](https://www.worldcubeassociation.org/competitions/WonderfulWilliamstown2022/results/by_person#2015SRIN02) |
+| 0.18 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 15.20 | 15.38 | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2015CHER07) |
 | 0.21 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 23.32 | 23.53 | [UCSD Winter 2020](https://www.worldcubeassociation.org/competitions/UCSDWinter2020/results/by_person#2016SIGG01) |
 | 0.21 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 23.92 | 24.13 | [China's 10th Anniversary 2017](https://www.worldcubeassociation.org/competitions/China10years2017/results/by_person#2013LINK01) |
 | 0.23 | [Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02) | 27.53 | 27.76 | [Bratislava Open 2016](https://www.worldcubeassociation.org/competitions/BratislavaOpen2016/results/by_person#2009BART02) |
 | 0.24 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | 23.26 | 23.50 | [Elsass Open 2019](https://www.worldcubeassociation.org/competitions/ElsassOpen2019/results/by_person#2018HABE02) |
 | 0.24 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 23.87 | 24.11 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2013WALL03) |
-| 0.28 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 20.49 | 20.77 | [BrizZon Side Open II 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2021/results/by_person#2017DEBS01) |
 
 ### 3x3x3 One-Handed
 
@@ -165,9 +165,9 @@
 | 0.07 | [Charles Jerome](https://www.worldcubeassociation.org/persons/2016JERO01) | 10.00 | 10.07 | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019/results/by_person#2016JERO01) |
 | 0.07 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) | 15.50 | 15.57 | [Dutch Open 2008](https://www.worldcubeassociation.org/competitions/DutchOpen2008/results/by_person#2005OOMS01) |
 | 0.08 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 8.14 | 8.22 | [Popular 'n Blind Flen 2022](https://www.worldcubeassociation.org/competitions/PopularnBlindFlen2022/results/by_person#2021ELIA01) |
+| 0.08 | [Emil Ott](https://www.worldcubeassociation.org/persons/2019OTTE02) | 10.41 | 10.49 | [Rhein-Neckar Open 2022](https://www.worldcubeassociation.org/competitions/RheinNeckarOpen2022/results/by_person#2019OTTE02) |
 | 0.08 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 12.16 | 12.24 | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011/results/by_person#2008PADL01) |
 | 0.08 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 21.18 | 21.26 | [Alania Open 2010](https://www.worldcubeassociation.org/competitions/AlaniaOpen2010/results/by_person#2005AKKE01) |
-| 0.09 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | 6.45 | 6.54 | [GA Cubers February B 2022](https://www.worldcubeassociation.org/competitions/GACubersFebruaryB2022/results/by_person#2016OCHS01) |
 
 ### Skewb
 
@@ -194,10 +194,10 @@
 | 0.09 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 14.42 | 14.51 | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022/results/by_person#2014ZYCH01) |
 | 0.09 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | 16.03 | 16.12 | [Martelli Open Otoño 2019](https://www.worldcubeassociation.org/competitions/MartelliOpenOtono2019/results/by_person#2014BONA02) |
 | 0.10 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) | 11.47 | 11.57 | [Twist 'n Turn Tallinn 2022](https://www.worldcubeassociation.org/competitions/TwistNTurnTallinn2022/results/by_person#2017PIHE01) |
+| 0.12 | [Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01) | 7.63 | 7.75 | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2016CRES01) |
 | 0.12 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) | 8.30 | 8.42 | [Cube Camp in Wonju 2019](https://www.worldcubeassociation.org/competitions/CubeCampinWonju2019/results/by_person#2017KIMJ02) |
 | 0.12 | [Ignacio Ortiz](https://www.worldcubeassociation.org/persons/2015ORTI02) | 21.58 | 21.70 | [Rubik Soletta Concepción 2017](https://www.worldcubeassociation.org/competitions/RubikSolettaConcepcion2017/results/by_person#2015ORTI02) |
 | 0.13 | [Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02) | 9.21 | 9.34 | [Kansai Open 2018](https://www.worldcubeassociation.org/competitions/KansaiOpen2018/results/by_person#2013TAKA02) |
-| 0.13 | [Lucas Jacobs](https://www.worldcubeassociation.org/persons/2018JACO10) | 10.39 | 10.52 | [Hamilton Side Events 2022](https://www.worldcubeassociation.org/competitions/HamiltonSideEvents2022/results/by_person#2018JACO10) |
 
 ### 4x4x4 Blindfolded
 

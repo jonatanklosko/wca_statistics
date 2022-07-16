@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  9 July 2022*
+*Updated on 15 July 2022*
 
 
 ### Rubik's Cube
@@ -73,7 +73,7 @@
 | [Bruna Fernanda Barbado Migliozzi](https://www.worldcubeassociation.org/persons/2015MIGL01) | 10:36.00 | **11:11.00** | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017/results/podiums#e666) | 3 |
 | [Tommy Gustavsson](https://www.worldcubeassociation.org/persons/2005GUST02) | 9:09.46 | **10:40.00** | [Swedish Cubedays 2011](https://www.worldcubeassociation.org/competitions/SwedishCubedays2011/results/podiums#e666) | 3 |
 | [Akshay Rao](https://www.worldcubeassociation.org/persons/2010RAOA01) | 9:38.96 | **10:01.00** | [Mumbai Open 2012](https://www.worldcubeassociation.org/competitions/MumbaiOpen2012/results/podiums#e666) | 3 |
-| [Rafik Sarwat Naeem Ragheb](https://www.worldcubeassociation.org/persons/2019RAGH04) | 7:56.75 | **9:50.92** | [Egyptian Championship 2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019/results/podiums#e666) | 2 |
+| [Rafik Eskandar](https://www.worldcubeassociation.org/persons/2019RAGH04) | 7:56.75 | **9:50.92** | [Egyptian Championship 2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019/results/podiums#e666) | 2 |
 | [José Pablo Márquez](https://www.worldcubeassociation.org/persons/2010MARQ03) | 8:35.65 | **9:32.99** | [Aplicarubick Open 2011](https://www.worldcubeassociation.org/competitions/Aplicarubick2011/results/podiums#e666) | 3 |
 | [Javier Espinosa García](https://www.worldcubeassociation.org/persons/2010ESPI01) | 7:36.40 | **8:58.71** | [Basauri Open 2010](https://www.worldcubeassociation.org/competitions/BasauriOpen2010/results/podiums#e666) | 2 |
 | [Clarke Hawkinson](https://www.worldcubeassociation.org/persons/2009HAWK01) | 8:03.36 | **8:54.37** | [Yellowstone 2018](https://www.worldcubeassociation.org/competitions/Yellowstone2018/results/podiums#e666) | 3 |

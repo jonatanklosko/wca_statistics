@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Updated on  9 July 2022*
+*Updated on 15 July 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8096 |
+| 1.50 | World | 8107 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2619 |
-| 1.58 | South America | 910 |
-| 1.48 | Oceania | 332 |
-| 1.42 | Asia | 2054 |
-| 1.21 | North America | 2091 |
+| 1.77 | Europe | 2620 |
+| 1.59 | South America | 911 |
+| 1.47 | Oceania | 333 |
+| 1.42 | Asia | 2058 |
+| 1.21 | North America | 2095 |
 | 1.20 | Africa | 90 |
 
 ### Countries
@@ -67,24 +67,24 @@
 | 1.63 | Argentina | 52 |
 | 1.63 | Indonesia | 166 |
 | 1.62 | Iceland | 8 |
-| 1.62 | India | 392 |
+| 1.62 | India | 393 |
+| 1.60 | Israel | 20 |
 | 1.59 | Ireland | 22 |
 | 1.58 | Colombia | 125 |
 | 1.58 | Bolivia | 74 |
-| 1.57 | Malaysia | 56 |
+| 1.56 | Malaysia | 57 |
 | 1.54 | New Zealand | 71 |
-| 1.53 | Israel | 19 |
 | 1.52 | Dominican Republic | 25 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Nigeria | 2 |
 | 1.50 | Tajikistan | 2 |
 | 1.49 | Italy | 146 |
-| 1.48 | Peru | 146 |
+| 1.48 | Peru | 147 |
 | 1.48 | Romania | 69 |
 | 1.48 | Singapore | 23 |
 | 1.47 | Latvia | 19 |
 | 1.46 | Costa Rica | 13 |
-| 1.46 | Australia | 261 |
+| 1.46 | Australia | 262 |
 | 1.40 | Jordan | 5 |
 | 1.39 | Philippines | 190 |
 | 1.39 | Nepal | 18 |
@@ -92,16 +92,16 @@
 | 1.38 | Paraguay | 16 |
 | 1.37 | Estonia | 38 |
 | 1.36 | Ecuador | 22 |
-| 1.34 | Taiwan | 109 |
+| 1.34 | Taiwan | 110 |
 | 1.31 | Venezuela | 54 |
 | 1.31 | Chile | 81 |
 | 1.31 | Greece | 13 |
 | 1.30 | Bulgaria | 10 |
 | 1.29 | South Africa | 41 |
+| 1.28 | Republic of Korea | 65 |
 | 1.26 | China | 615 |
 | 1.25 | Georgia | 4 |
 | 1.25 | Mongolia | 16 |
-| 1.25 | Republic of Korea | 64 |
 | 1.25 | Vietnam | 52 |
 | 1.24 | Japan | 198 |
 | 1.23 | United Arab Emirates | 13 |
@@ -109,12 +109,12 @@
 | 1.20 | Portugal | 15 |
 | 1.18 | Uruguay | 33 |
 | 1.17 | Canada | 207 |
+| 1.17 | United States | 1673 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Honduras | 12 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | United States | 1670 |
 | 1.14 | Panama | 7 |
-| 1.14 | El Salvador | 22 |
+| 1.13 | El Salvador | 23 |
 | 1.13 | Azerbaijan | 39 |
 | 1.00 | Albania | 3 |
 | 1.00 | Algeria | 7 |

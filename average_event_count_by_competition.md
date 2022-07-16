@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  9 July 2022*
+*Updated on 15 July 2022*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -62,8 +62,8 @@
 | [Dvina OH Edition 2014](https://www.worldcubeassociation.org/competitions/DvinaOHEdition2014) | 8.50 | 32 | Belarus |
 | [Dvina Open 2015](https://www.worldcubeassociation.org/competitions/DvinaOpen2015) | 8.48 | 33 | Belarus |
 | [Skanderborg 2014](https://www.worldcubeassociation.org/competitions/SkanderborgOpen2014) | 8.46 | 28 | Denmark |
-| [South Italian Open 2010](https://www.worldcubeassociation.org/competitions/LOLSouthItalianOpen2010) | 8.45 | 20 | Italy |
 | [Krivbass Open 2016](https://www.worldcubeassociation.org/competitions/KrivbassOpen2016) | 8.45 | 20 | Ukraine |
+| [South Italian Open 2010](https://www.worldcubeassociation.org/competitions/LOLSouthItalianOpen2010) | 8.45 | 20 | Italy |
 | [Lent Open 2015](https://www.worldcubeassociation.org/competitions/LentOpen2015) | 8.44 | 25 | Slovenia |
 | [Fuglsangpark Open 2009](https://www.worldcubeassociation.org/competitions/FuglsangparkOpen2009) | 8.43 | 30 | Denmark |
 | [Medan Lunar New Year 2019](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2019) | 8.41 | 22 | Indonesia |
@@ -102,8 +102,8 @@
 | [Saarland Open 2012](https://www.worldcubeassociation.org/competitions/SaarlandOpen2012) | 8.03 | 63 | Germany |
 | [Danish Championship 2020](https://www.worldcubeassociation.org/competitions/DanishChampionship2020) | 8.02 | 45 | Denmark |
 | [Danish Special 2009](https://www.worldcubeassociation.org/competitions/DanishSpecial2009) | 8.00 | 14 | Denmark |
-| [Altbier 2012](https://www.worldcubeassociation.org/competitions/Altbier2012) | 8.00 | 38 | Germany |
-| [Pitic Open 2020](https://www.worldcubeassociation.org/competitions/PiticOpen2020) | 8.00 | 33 | Mexico |
+| [Breizh Open 2012](https://www.worldcubeassociation.org/competitions/BreizhOpen2012) | 8.00 | 22 | France |
+| [Danish Open 2013](https://www.worldcubeassociation.org/competitions/DanishOpen2013) | 8.00 | 35 | Denmark |
 | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018) | 8.00 | 19 | Argentina |
 
 

@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on  9 July 2022*
+*Updated on 15 July 2022*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -16,8 +16,8 @@
 | 49 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) | Taiwan | [Maru Cube Day 2016](https://www.worldcubeassociation.org/competitions/MaruCubeDay2016) |  |
 | 49 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) | Bolivia | [Santa Cruz Open 2015](https://www.worldcubeassociation.org/competitions/SantaCruzOpen2015) | [Unifranz Santa Cruz 2019](https://www.worldcubeassociation.org/competitions/UnifranzSantaCruz2019) |
 | 47 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | United Kingdom | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) | [Manchester Open 2020](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020) |
+| 45 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 45 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | United Kingdom | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) |
-| 44 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 44 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Taiwan | [Taipei Open 2017](https://www.worldcubeassociation.org/competitions/TaipeiOpen2017) |  |
 | 43 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) | Sweden | [Swedish Championship 2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012) | [SSL 1 Åkers Styckebruk 2019](https://www.worldcubeassociation.org/competitions/SSL1AkersStyckebruk2019) |
 | 41 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) | Japan | [JRCA Kansai Summer 2009](https://www.worldcubeassociation.org/competitions/JRCAKansaiSummer2009) | [East Osaka 2012](https://www.worldcubeassociation.org/competitions/EastOsaka2012) |
@@ -54,8 +54,8 @@
 | 25 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | Brazil | [Mogi Open 2014](https://www.worldcubeassociation.org/competitions/MogiOpen2014) | [CBS Open 2015](https://www.worldcubeassociation.org/competitions/CBSOpen2015) |
 | 25 | [Uku Kruusamägi](https://www.worldcubeassociation.org/persons/2009KRUU01) | Estonia | [Estonian Open 2009](https://www.worldcubeassociation.org/competitions/EstonianOpen2009) | [Narva Winter 2019](https://www.worldcubeassociation.org/competitions/NarvaWinter2019) |
 | 25 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | Belarus | [Minsk Open 2013](https://www.worldcubeassociation.org/competitions/MinskOpen2013) | [Spring Cube In Minsk 2018](https://www.worldcubeassociation.org/competitions/SpringCubeInMinsk2018) |
-| 25 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 25 | [Rafael Gregorio Martinez Paredes](https://www.worldcubeassociation.org/persons/2013PARE02) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
+| 25 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 24 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | Netherlands | [Netherlands 2005](https://www.worldcubeassociation.org/competitions/Netherlands2005) | [Eindhoven Open 2012](https://www.worldcubeassociation.org/competitions/EindhovenOpen2012) |
 | 24 | [Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01) | Netherlands | [2 AVG 2014](https://www.worldcubeassociation.org/competitions/2AVG2014) | [St. Michielsgestel 2018](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2018) |
 | 24 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | Poland | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Kociewie Open 2010](https://www.worldcubeassociation.org/competitions/KociewieOpen2010) |
@@ -94,9 +94,9 @@
 | 20 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | Malaysia | [Malaysia Cube Open 2016](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2016) | [UiTM Speedcubing Challenge 2019](https://www.worldcubeassociation.org/competitions/UiTMSpeedcubingChallenge2019) |
 | 20 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [Shepparton Winter 2013](https://www.worldcubeassociation.org/competitions/SheppartonWinter2013) | [Newcastle Winter 2015](https://www.worldcubeassociation.org/competitions/NewcastleWinter2015) |
 | 20 | [Branko Kobal](https://www.worldcubeassociation.org/persons/2009KOBA03) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
+| 20 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 20 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 20 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
-| 20 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 20 | [Sepehr Lotfi (سپهر لطفی)](https://www.worldcubeassociation.org/persons/2014LOTF01) | Iran | [CubeComp I Iran 2014](https://www.worldcubeassociation.org/competitions/IranCubeCompI2014) | [Iran FMC 2019](https://www.worldcubeassociation.org/competitions/IranFMC2019) |
 | 20 | [Vladislav Kaminskiy](https://www.worldcubeassociation.org/persons/2013KAMI03) | Belarus | [Minsk Open 2013](https://www.worldcubeassociation.org/competitions/MinskOpen2013) | [PSU Winter 2017](https://www.worldcubeassociation.org/competitions/PSUWinter2017) |
 | 20 | [Sebastiano Benato](https://www.worldcubeassociation.org/persons/2014BENA03) | Uruguay | [Nacionales Uruguayas UCHI 2017](https://www.worldcubeassociation.org/competitions/NacionalesUruguayasUCHI2017) |  |

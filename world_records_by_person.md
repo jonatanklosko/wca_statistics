@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  9 July 2022*
+*Updated on 15 July 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -35,6 +35,7 @@
 | 8 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 8 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) |
 | 8 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
+| 8 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 7 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 7 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) |
 | 7 | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) |
@@ -52,7 +53,6 @@
 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
 | 6 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
-| 6 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |
 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |

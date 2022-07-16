@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  9 July 2022*
+*Updated on 15 July 2022*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -81,6 +81,7 @@
 | 10 | [Silencio Total 2018](https://www.worldcubeassociation.org/competitions/SilencioTotal2018) |
 | 10 | [U.R.A. Big Cubes and FMC 2019](https://www.worldcubeassociation.org/competitions/URABigCubesandFMC2019) |
 | 10 | [Warden of the West 2019](https://www.worldcubeassociation.org/competitions/WardenoftheWest2019) |
+| 11 | [Abbotsford Blind Challenge 2022](https://www.worldcubeassociation.org/competitions/AbbotsfordBlindChallenge2022) |
 | 11 | [BASC 33 But it's Quiet 2022](https://www.worldcubeassociation.org/competitions/BASC33butitsquiet2022) |
 | 11 | [Chennai Mind Over Matter 2018](https://www.worldcubeassociation.org/competitions/ChennaiMindOverMatter2018) |
 | 11 | [Destino Maya Honduras 2019](https://www.worldcubeassociation.org/competitions/DestinoMayaHonduras2019) |

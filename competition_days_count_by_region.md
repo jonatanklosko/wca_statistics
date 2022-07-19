@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Updated on 15 July 2022*
+*Updated on 18 July 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8107 |
+| 1.50 | World | 8117 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2620 |
-| 1.59 | South America | 911 |
+| 1.77 | Europe | 2622 |
+| 1.59 | South America | 915 |
 | 1.47 | Oceania | 333 |
-| 1.42 | Asia | 2058 |
-| 1.21 | North America | 2095 |
+| 1.42 | Asia | 2059 |
+| 1.21 | North America | 2098 |
 | 1.20 | Africa | 90 |
 
 ### Countries
@@ -33,9 +33,9 @@
 | 1.96 | Slovakia | 23 |
 | 1.95 | United Kingdom | 113 |
 | 1.94 | Germany | 164 |
-| 1.93 | Turkey | 45 |
+| 1.93 | Turkey | 46 |
+| 1.93 | Lithuania | 15 |
 | 1.93 | Belarus | 42 |
-| 1.93 | Lithuania | 14 |
 | 1.92 | Russia | 220 |
 | 1.92 | Serbia | 12 |
 | 1.91 | Finland | 82 |
@@ -63,14 +63,14 @@
 | 1.67 | Montenegro | 3 |
 | 1.65 | Iran | 31 |
 | 1.64 | Poland | 298 |
+| 1.64 | Argentina | 53 |
 | 1.64 | Netherlands | 91 |
-| 1.63 | Argentina | 52 |
 | 1.63 | Indonesia | 166 |
 | 1.62 | Iceland | 8 |
-| 1.62 | India | 393 |
+| 1.62 | India | 394 |
 | 1.60 | Israel | 20 |
 | 1.59 | Ireland | 22 |
-| 1.58 | Colombia | 125 |
+| 1.59 | Colombia | 126 |
 | 1.58 | Bolivia | 74 |
 | 1.56 | Malaysia | 57 |
 | 1.54 | New Zealand | 71 |
@@ -85,13 +85,13 @@
 | 1.47 | Latvia | 19 |
 | 1.46 | Costa Rica | 13 |
 | 1.46 | Australia | 262 |
+| 1.43 | Ecuador | 23 |
 | 1.40 | Jordan | 5 |
 | 1.39 | Philippines | 190 |
 | 1.39 | Nepal | 18 |
 | 1.38 | Hong Kong | 13 |
 | 1.38 | Paraguay | 16 |
 | 1.37 | Estonia | 38 |
-| 1.36 | Ecuador | 22 |
 | 1.34 | Taiwan | 110 |
 | 1.31 | Venezuela | 54 |
 | 1.31 | Chile | 81 |
@@ -105,11 +105,11 @@
 | 1.25 | Vietnam | 52 |
 | 1.24 | Japan | 198 |
 | 1.23 | United Arab Emirates | 13 |
+| 1.21 | Uruguay | 34 |
 | 1.20 | Bahrain | 5 |
 | 1.20 | Portugal | 15 |
-| 1.18 | Uruguay | 33 |
 | 1.17 | Canada | 207 |
-| 1.17 | United States | 1673 |
+| 1.17 | United States | 1676 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Honduras | 12 |
 | 1.17 | Tunisia | 24 |

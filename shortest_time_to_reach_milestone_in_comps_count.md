@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 15 July 2022*
+*Updated on 18 July 2022*
 
 
 ### 100 Competitions
@@ -17,6 +17,8 @@
 | 2192 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 2218 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) |
 | 2241 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 2259 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 2267 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 2297 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 2310 | [Lauren Clement](https://www.worldcubeassociation.org/persons/2013KLEM01) |
 | 2325 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
@@ -25,8 +27,6 @@
 | 2333 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 2345 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 2444 | [Ryan DeLine](https://www.worldcubeassociation.org/persons/2012DELI01) |
-| 2458 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
-| 2464 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 
 ### 50 Competitions
 

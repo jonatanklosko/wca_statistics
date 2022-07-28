@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 18 July 2022*
+*Updated on 27 July 2022*
 
 
 ### Rubik's Cube
@@ -68,6 +68,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.01 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | 1:56.22 | 1:56.23 | [Edukent Weekend 2022](https://www.worldcubeassociation.org/competitions/EdukentWeekend2022/results/by_person#2018ABLA01) |
 | 0.04 | [Jascha Bakarinow](https://www.worldcubeassociation.org/persons/2009BAKA01) | 1:57.09 | 1:57.13 | [German Big Cube Open 2018](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2018/results/by_person#2009BAKA01) |
 | 0.04 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) | 2:20.54 | 2:20.58 | [Oceania 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Oceania10thAnniversary2019/results/by_person#2016STAN05) |
 | 0.05 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 2:03.37 | 2:03.42 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/by_person#2012MCNE01) |
@@ -77,7 +78,6 @@
 | 0.11 | [Geovanny Cueva](https://www.worldcubeassociation.org/persons/2018CUEV01) | 2:58.25 | 2:58.36 | [Ecuador Nationals 2019](https://www.worldcubeassociation.org/competitions/EcuadorNationals2019/results/by_person#2018CUEV01) |
 | 0.12 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:35.44 | 1:35.56 | [NW Champs 2017](https://www.worldcubeassociation.org/competitions/NorthwestChampionships2017/results/by_person#2009HAYS01) |
 | 0.12 | [Martin Šebesta](https://www.worldcubeassociation.org/persons/2015SEBE01) | 3:11.88 | 3:12.00 | [Slovakian Open 2016](https://www.worldcubeassociation.org/competitions/SlovakianOpen2016/results/by_person#2015SEBE01) |
-| 0.15 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 1:58.52 | 1:58.67 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/by_person#2015FUSH01) |
 
 ### 7x7x7 Cube
 
@@ -193,11 +193,11 @@
 | 0.09 | [Muhammad Hafizuddin Akhtar Bin Mohd Zainal Abidin](https://www.worldcubeassociation.org/persons/2017ABID02) | 12.03 | 12.12 | [Malaysia Cube Championship 2019](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2019/results/by_person#2017ABID02) |
 | 0.09 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 14.42 | 14.51 | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022/results/by_person#2014ZYCH01) |
 | 0.09 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | 16.03 | 16.12 | [Martelli Open Otoño 2019](https://www.worldcubeassociation.org/competitions/MartelliOpenOtono2019/results/by_person#2014BONA02) |
+| 0.10 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 7.71 | 7.81 | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/by_person#2014NIEL03) |
 | 0.10 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) | 11.47 | 11.57 | [Twist 'n Turn Tallinn 2022](https://www.worldcubeassociation.org/competitions/TwistNTurnTallinn2022/results/by_person#2017PIHE01) |
 | 0.12 | [Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01) | 7.63 | 7.75 | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2016CRES01) |
 | 0.12 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) | 8.30 | 8.42 | [Cube Camp in Wonju 2019](https://www.worldcubeassociation.org/competitions/CubeCampinWonju2019/results/by_person#2017KIMJ02) |
 | 0.12 | [Ignacio Ortiz](https://www.worldcubeassociation.org/persons/2015ORTI02) | 21.58 | 21.70 | [Rubik Soletta Concepción 2017](https://www.worldcubeassociation.org/competitions/RubikSolettaConcepcion2017/results/by_person#2015ORTI02) |
-| 0.13 | [Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02) | 9.21 | 9.34 | [Kansai Open 2018](https://www.worldcubeassociation.org/competitions/KansaiOpen2018/results/by_person#2013TAKA02) |
 
 ### 4x4x4 Blindfolded
 

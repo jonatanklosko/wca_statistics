@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 18 July 2022*
+*Updated on 27 July 2022*
 
 
 ### Rubik's Cube
@@ -119,10 +119,10 @@
 | [Hannu Vanhatalo](https://www.worldcubeassociation.org/persons/2018VANH04) | 61 | **62.00** | [Pulmapelipäivät 2019](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2019/results/podiums#e333fm) | 2 |
 | [Aidan Proietto](https://www.worldcubeassociation.org/persons/2016PROI01) | 56 | **59.67** | [Last Minute Qualifier 2017](https://www.worldcubeassociation.org/competitions/LastMinuteQualifier2017/results/podiums#e333fm) | 2 |
 | [Benito Benítez Ruiz](https://www.worldcubeassociation.org/persons/2015RUIZ08) | 51 | **59.67** | [Quijote Open 2016](https://www.worldcubeassociation.org/competitions/QuijoteOpen2016/results/podiums#e333fm) | 2 |
+| [Ryan Xiao](https://www.worldcubeassociation.org/persons/2022XIAO03) | 57 | **59.33** | [Please Be Solved Vancouver 2022](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2022/results/podiums#e333fm) | 3 |
 | [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | 57 | **58.67** | [1st Jorhat Open 2019](https://www.worldcubeassociation.org/competitions/1stJorhatOpen2019/results/podiums#e333fm) | 3 |
 | [David Arturo Díaz](https://www.worldcubeassociation.org/persons/2016DIAZ14) | 47 | **58.67** | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums#e333fm) | 2 |
 | [Evgeniy Lee](https://www.worldcubeassociation.org/persons/2018LEEE03) | 54 | **57.67** | [Silent Winter Tashkent 2020](https://www.worldcubeassociation.org/competitions/SilentWinterTashkent2020/results/podiums#e333fm) | 3 |
-| [Salvador Martinez Sandoval](https://www.worldcubeassociation.org/persons/2016SAND04) | 54 | **57.67** | [Clasico 2016](https://www.worldcubeassociation.org/competitions/Clasico2016/results/podiums#e333fm) | 3 |
 
 ### 3x3x3 One-Handed
 

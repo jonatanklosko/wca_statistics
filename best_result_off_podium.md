@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 18 July 2022*
+*Updated on 27 July 2022*
 
 
 ### Rubik's Cube
@@ -14,7 +14,7 @@
 | [Jerry Yao](https://www.worldcubeassociation.org/persons/2019YAOJ01) | 6.42 | **6.72** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e333_f) | 4 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 6.42 | **6.83** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333_f) | 4 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 6.45 | **6.84** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333_f) | 5 |
-| [Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13) | 6.03 | **6.85** | [SacCubing X 2021](https://www.worldcubeassociation.org/competitions/SacCubingX2021/results/all#e333_f) | 4 |
+| [Danny Sungin Park](https://www.worldcubeassociation.org/persons/2015PARK13) | 6.03 | **6.85** | [SacCubing X 2021](https://www.worldcubeassociation.org/competitions/SacCubingX2021/results/all#e333_f) | 4 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 6.33 | **6.85** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333_f) | 6 |
 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | 6.34 | **6.89** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333_f) | 5 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.79 | **6.91** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e333_f) | 4 |
@@ -212,7 +212,7 @@
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.40 | **7.65** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 4 |
 | [Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01) | 6.59 | **7.67** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#esq1_f) | 5 |
 | [Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01) | 7.63 | **7.75** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#esq1_f) | 5 |
-| [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.77 | **7.92** | [Bothell Spring 2022](https://www.worldcubeassociation.org/competitions/BothellSpring2022/results/all#esq1_f) | 4 |
+| [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 7.71 | **7.81** | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/all#esq1_f) | 4 |
 
 ### 4x4x4 Blindfolded
 

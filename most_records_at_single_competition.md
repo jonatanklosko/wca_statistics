@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 18 July 2022*
+*Updated on 27 July 2022*
 
 
 ### World
@@ -79,6 +79,7 @@
 | 21 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009/results/by_person#2009BAUM01) |
 | 21 | [Anatoly Kim](https://www.worldcubeassociation.org/persons/2009KIMA01) | [Russia Open 2010](https://www.worldcubeassociation.org/competitions/RussiaOpen2010/results/by_person#2009KIMA01) |
 | 21 | [Anup Adhikari](https://www.worldcubeassociation.org/persons/2016ADHI01) | [Indian Nationals 2017](https://www.worldcubeassociation.org/competitions/IndianNationals2017/results/by_person#2016ADHI01) |
+| 21 | [Benjamin Chetcuti Cauchi](https://www.worldcubeassociation.org/persons/2022CAUC02) | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022/results/by_person#2022CAUC02) |
 | 20 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007/results/by_person#2006ORLA01) |
 | 20 | [Lukas Vaitkevičius](https://www.worldcubeassociation.org/persons/2011VAIT01) | [Hessen Open 2012](https://www.worldcubeassociation.org/competitions/HessenOpen2012/results/by_person#2011VAIT01) |
 | 20 | [Andrey Lopez Rodríguez](https://www.worldcubeassociation.org/persons/2017RODR26) | [Villa Nueva 2017](https://www.worldcubeassociation.org/competitions/VillaNuevaOpen2017/results/by_person#2017RODR26) |

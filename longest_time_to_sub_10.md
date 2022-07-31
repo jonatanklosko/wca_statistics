@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 27 July 2022*
+*Updated on 30 July 2022*
 
 | Person | Years |
 | :--- | ---: |
@@ -72,8 +72,8 @@
 | [Rowan Kinneavy](https://www.worldcubeassociation.org/persons/2008KINN01) | 7.99 |
 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 7.99 |
 | [Pei Pan (潘霈)](https://www.worldcubeassociation.org/persons/2010PANP01) | 7.97 |
-| [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) | 7.95 |
 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) | 7.95 |
+| [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) | 7.95 |
 | [Andreas Gröbmayr](https://www.worldcubeassociation.org/persons/2010GROB02) | 7.91 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | 7.90 |
 | [Ivan Torgashov (Іван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) | 7.82 |
@@ -82,16 +82,16 @@
 | [Tiancheng Feng (冯天成)](https://www.worldcubeassociation.org/persons/2009FENG08) | 7.80 |
 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 7.77 |
 | [Jiajun Wu (吴佳骏)](https://www.worldcubeassociation.org/persons/2013WUJI03) | 7.76 |
-| [Paarth Chhabra](https://www.worldcubeassociation.org/persons/2014CHHA01) | 7.74 |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 7.74 |
+| [Paarth Chhabra](https://www.worldcubeassociation.org/persons/2014CHHA01) | 7.74 |
 | [CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02) | 7.67 |
 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | 7.65 |
 | [Victor Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) | 7.63 |
 | [Wataru Hashimura (端村航)](https://www.worldcubeassociation.org/persons/2008HASH02) | 7.61 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 7.61 |
 | [Jay Benedict Alfaras](https://www.worldcubeassociation.org/persons/2009ALFA01) | 7.61 |
-| [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 7.57 |
 | [Dalton Nichols](https://www.worldcubeassociation.org/persons/2014NICH02) | 7.57 |
+| [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 7.57 |
 | [Hao-Zheng Lin (林浩正)](https://www.worldcubeassociation.org/persons/2008LINH01) | 7.55 |
 | [Marc Mariano](https://www.worldcubeassociation.org/persons/2014MARI11) | 7.51 |
 | [Shunnosuke Takahashi (高橋峻之介)](https://www.worldcubeassociation.org/persons/2012TAKA01) | 7.50 |

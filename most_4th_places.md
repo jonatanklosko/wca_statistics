@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 27 July 2022*
+*Updated on 30 July 2022*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -37,16 +37,16 @@
 | 86 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 86 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 84 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 83 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 82 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
 | 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 82 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 82 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 81 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
-| 81 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 79 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 78 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
+| 77 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
 | 77 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 76 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
 | 75 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 74 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 74 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) |

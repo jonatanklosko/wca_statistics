@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 27 July 2022*
+*Updated on 30 July 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -32,7 +32,7 @@
 | 71 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
-| 69 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
+| 70 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 67 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 66 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 66 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |

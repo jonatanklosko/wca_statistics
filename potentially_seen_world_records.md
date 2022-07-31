@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 27 July 2022*
+*Updated on 30 July 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -44,10 +44,10 @@
 | 90 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) |
 | 90 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
 | 90 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |
+| 90 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 89 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
-| 89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 89 | [Devin Corr-Robinett](https://www.worldcubeassociation.org/persons/2006CORR01) |
 | 88 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
-| 88 | [Devin Corr-Robinett](https://www.worldcubeassociation.org/persons/2006CORR01) |
 | 88 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |
 | 87 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
 | 87 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) |
@@ -75,7 +75,7 @@
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
-| 72 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
+| 73 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 71 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |

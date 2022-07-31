@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 27 July 2022*
+*Updated on 30 July 2022*
 
 
 ### Rubik's Cube
@@ -121,8 +121,8 @@
 | 0.05 | [Naman Jain](https://www.worldcubeassociation.org/persons/2016JAIN04) | 21.24 | 21.29 | [Guwahati Summer Open 2019](https://www.worldcubeassociation.org/competitions/GuwahatiSummerOpen2019/results/by_person#2016JAIN04) |
 | 0.05 | [Trần Hữu Phổ](https://www.worldcubeassociation.org/persons/2017PHTR01) | 29.51 | 29.56 | [Da Nang Open 2018](https://www.worldcubeassociation.org/competitions/DaNangOpen2018/results/by_person#2017PHTR01) |
 | 0.06 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 15.06 | 15.12 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2010WUIF01) |
+| 0.07 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | 12.87 | 12.94 | [SAC 2022](https://www.worldcubeassociation.org/competitions/SAC2022/results/by_person#2018LAPE01) |
 | 0.07 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 14.32 | 14.39 | [Ohio State Expo Open 2022](https://www.worldcubeassociation.org/competitions/OhioStateExpoOpen2022/results/by_person#2013LANG03) |
-| 0.07 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) | 15.37 | 15.44 | [Swedish Championship 2019](https://www.worldcubeassociation.org/competitions/SwedishChampionship2019/results/by_person#2011BERG02) |
 
 ### Megaminx
 
@@ -166,8 +166,8 @@
 | 0.07 | [Charles Jerome](https://www.worldcubeassociation.org/persons/2016JERO01) | 10.00 | 10.07 | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019/results/by_person#2016JERO01) |
 | 0.07 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) | 15.50 | 15.57 | [Dutch Open 2008](https://www.worldcubeassociation.org/competitions/DutchOpen2008/results/by_person#2005OOMS01) |
 | 0.08 | [Patrick Drew Dwyer](https://www.worldcubeassociation.org/persons/2019DWYE01) | 6.76 | 6.84 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2019DWYE01) |
+| 0.08 | [Gabriel Lincon Souza](https://www.worldcubeassociation.org/persons/2017SOUZ10) | 7.68 | 7.76 | [SAC 2022](https://www.worldcubeassociation.org/competitions/SAC2022/results/by_person#2017SOUZ10) |
 | 0.08 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 8.14 | 8.22 | [Popular 'n Blind Flen 2022](https://www.worldcubeassociation.org/competitions/PopularnBlindFlen2022/results/by_person#2021ELIA01) |
-| 0.08 | [Emil Ott](https://www.worldcubeassociation.org/persons/2019OTTE02) | 10.41 | 10.49 | [Rhein-Neckar Open 2022](https://www.worldcubeassociation.org/competitions/RheinNeckarOpen2022/results/by_person#2019OTTE02) |
 
 ### Skewb
 

@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 27 July 2022*
+*Updated on 30 July 2022*
 
 
 ### Rubik's Cube - Single
@@ -220,6 +220,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | **19** | China | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018) | 19 |
 | [Saeed Mostafavi Layegh (سعید مصطفوی لایق)](https://www.worldcubeassociation.org/persons/2011LAYE01) | **20** | Iran | [FMC Asia 2017](https://www.worldcubeassociation.org/competitions/FMCAsia2017) | 20, 34, 36 |
+| [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **20** | Argentina | [SAC 2022](https://www.worldcubeassociation.org/competitions/SAC2022) | 29, 25, 20 |
 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | **20** | Italy | [FMC Italy 2021](https://www.worldcubeassociation.org/competitions/FMCItaly2021) | 20, 23, 27 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **21** | Germany | [Velbert Easter Open 2014](https://www.worldcubeassociation.org/competitions/VelbertEasterOpen2014) | 27, 27, 21 |
 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | **21** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 25, 30 |
@@ -227,7 +228,6 @@
 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | **21** | Canada | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 21, 42, 38 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **21** | Finland | [FMC Europe 2017](https://www.worldcubeassociation.org/competitions/FMCEurope2017) | 32, DNF, 21 |
 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | **21** | United States | [Northern Virginia Summer 2019](https://www.worldcubeassociation.org/competitions/NorthernVirginiaSummer2019) | DNF, DNF, 21 |
-| [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **21** | United States | [Heartland Championship 2019](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2019) | 21 |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -460,8 +460,8 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **3:38.68** | Sweden | [Mental Warm Up Arlanda 2022](https://www.worldcubeassociation.org/competitions/MentalWarmUpArlanda2022) | 3:56.30, 3:38.68, DNF |
 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **5:49.80** | Denmark | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021) | 5:49.80, DNF, DNF |
+| [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **6:09.47** | Argentina | [SAC 2022](https://www.worldcubeassociation.org/competitions/SAC2022) | 9:26.07, DNF, 6:09.47 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **6:24.11** | Russia | [Kharkiv Open 2014](https://www.worldcubeassociation.org/competitions/KharkivOpen2014) | 6:24.11, DNF, DNF |
-| [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **7:36.42** | Argentina | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022) | DNF, 7:36.42, DNS |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **8:53.24** | Malaysia | [Chester Spring 2022](https://www.worldcubeassociation.org/competitions/ChesterSpring2022) | 9:43.38, 8:53.24, DNF |
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | **8:55.85** | United Kingdom | [Clact-On Socks Off 2019](https://www.worldcubeassociation.org/competitions/ClactOnSocksOff2019) | DNF, 9:33.72, 8:55.85 |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | **8:56.28** | United Kingdom | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019) | 8:56.28, DNF, DNF |

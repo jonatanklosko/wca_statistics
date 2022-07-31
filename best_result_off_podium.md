@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 27 July 2022*
+*Updated on 30 July 2022*
 
 
 ### Rubik's Cube
@@ -28,11 +28,11 @@
 | [Diego Fraile](https://www.worldcubeassociation.org/persons/2013FRAI01) | 1.57 | **1.74** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e222_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.32 | **1.77** | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/all#e222_f) | 4 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 1.41 | **1.77** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e222_f) | 4 |
+| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.60 | **1.77** | [Howland Returns 2022](https://www.worldcubeassociation.org/competitions/HowlandReturns2022/results/all#e222_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.61 | **1.77** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e222_f) | 5 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 0.93 | **1.78** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e222_f) | 6 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 1.36 | **1.80** | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/all#e222_f) | 4 |
 | [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | 1.73 | **1.80** | [China Championship 2019](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all#e222_f) | 4 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.37 | **1.81** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e222_f) | 5 |
 
 ### 4x4x4 Cube
 

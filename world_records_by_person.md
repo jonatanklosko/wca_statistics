@@ -1,11 +1,11 @@
 ## World records count by person
 
-*Updated on 30 July 2022*
+*Updated on  8 August 2022*
 
 | WRs | Person |
 | ---: | :--- |
 | 121 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 57 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 61 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 33 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) |
 | 22 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
@@ -42,6 +42,7 @@
 | 7 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) |
 | 7 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 7 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
+| 7 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 7 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) |
 | 7 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 6 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) |
@@ -51,7 +52,7 @@
 | 6 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
-| 6 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 6 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |
@@ -62,7 +63,6 @@
 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
-| 5 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 4 | [Brandon Lin](https://www.worldcubeassociation.org/persons/2011LINB01) |
 | 4 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) |
@@ -167,6 +167,7 @@
 | 1 | [Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01) |
 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 1 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) |
+| 1 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) |
 | 1 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1 | [Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01) |
 | 1 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |

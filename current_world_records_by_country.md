@@ -1,12 +1,12 @@
 ## Current world records count by country
 
-*Updated on 30 July 2022*
+*Updated on  8 August 2022*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
-| 25 | United States | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02), [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02), [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07), [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 6 | China | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01), [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
-| 2 | Poland | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01), [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
+| 25 | United States | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02), [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02), [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02), [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07), [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 5 | China | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01), [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
+| 3 | Poland | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01), [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 1 | Argentina | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |

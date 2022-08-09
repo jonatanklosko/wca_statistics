@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 30 July 2022*
+*Updated on  8 August 2022*
 
 
 ### Rubik's Cube
@@ -163,11 +163,11 @@
 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) | 2.16 | **2.24** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 5 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 2.01 | **2.29** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 6 |
 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 1.61 | **2.31** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 7 |
+| [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 2.07 | **2.31** | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/all#epyram_f) | 4 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2.04 | **2.40** | [Cube4fun Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022/results/all#epyram_f) | 4 |
 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.18 | **2.44** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 4 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1.57 | **2.45** | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/all#epyram_f) | 4 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.50 | **2.48** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 5 |
-| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 2.13 | **2.49** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#epyram_f) | 5 |
 
 ### Rubik's Clock
 
@@ -177,12 +177,12 @@
 | [Lucas Nieuwland](https://www.worldcubeassociation.org/persons/2018NIEU01) | 4.52 | **5.29** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 5 |
 | [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) | 4.45 | **5.57** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 6 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 5.11 | **5.58** | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022/results/all#eclock_f) | 4 |
+| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.47 | **5.75** | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/all#eclock_f) | 4 |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 4.72 | **5.75** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 7 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 5.29 | **5.81** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#eclock_f) | 4 |
+| [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 4.92 | **5.82** | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/all#eclock_f) | 5 |
 | [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) | 4.57 | **5.83** | [Pittsburgh Winter 2022](https://www.worldcubeassociation.org/competitions/PittsburghWinter2022/results/all#eclock_f) | 4 |
 | [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) | 4.66 | **5.88** | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022/results/all#eclock_f) | 5 |
-| [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | 3.90 | **5.93** | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/all#eclock_f) | 4 |
-| [Jake Buckley](https://www.worldcubeassociation.org/persons/2017BUCK01) | 5.36 | **5.99** | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022/results/all#eclock_f) | 6 |
 
 ### Skewb
 

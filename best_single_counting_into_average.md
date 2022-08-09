@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 30 July 2022*
+*Updated on  8 August 2022*
 
 
 ### Rubik's Cube
@@ -9,14 +9,14 @@
 | ---: | :--- | :--- |
 | 4.24 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/by_person#2012PARK03) |
 | 4.45 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2016KOLA02) |
+| 4.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022/results/by_person#2016KOLA02) |
 | 4.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022/results/by_person#2016KOLA02) |
 | 4.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2016KOLA02) |
+| 4.68 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022/results/by_person#2016KOLA02) |
 | 4.69 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022/results/by_person#2016KOLA02) |
 | 4.74 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Dragon Cubing 2021](https://www.worldcubeassociation.org/competitions/DragonCubing2021/results/by_person#2016KOLA02) |
 | 4.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
 | 4.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
-| 4.83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021/results/by_person#2016KOLA02) |
-| 4.84 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2016INAB01) |
 
 ### 2x2x2 Cube
 
@@ -42,11 +42,11 @@
 | 18.87 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
 | 19.21 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
 | 19.67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2012PARK03) |
+| 19.69 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 | 19.74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012PARK03) |
 | 19.81 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018/results/by_person#2012PARK03) |
 | 19.88 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Danish Open 2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019/results/by_person#2010WEYE02) |
 | 19.89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Missoula 2021](https://www.worldcubeassociation.org/competitions/Missoula2021/results/by_person#2012PARK03) |
-| 19.91 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2012PARK03) |
 
 ### 5x5x5 Cube
 
@@ -55,13 +55,13 @@
 | 35.33 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Colorado Cubing Weekend 2022](https://www.worldcubeassociation.org/competitions/ColoradoCubingWeekend2022/results/by_person#2012PARK03) |
 | 35.54 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Florida Big & Blind Time 2022](https://www.worldcubeassociation.org/competitions/FloridaBigBlindTime2022/results/by_person#2012PARK03) |
 | 36.60 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2016KOLA02) |
+| 36.88 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 | 36.98 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [BASC 34 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC34SanRamon2022/results/by_person#2012PARK03) |
 | 37.58 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Anaheim A 2022](https://www.worldcubeassociation.org/competitions/AnaheimA2022/results/by_person#2012PARK03) |
 | 37.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2019](https://www.worldcubeassociation.org/competitions/WesternChampionship2019/results/by_person#2012PARK03) |
 | 38.00 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Anaheim A 2022](https://www.worldcubeassociation.org/competitions/AnaheimA2022/results/by_person#2012PARK03) |
 | 38.36 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2012PARK03) |
-| 38.43 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Cal Poly SLO Spring 2022](https://www.worldcubeassociation.org/competitions/CalPolySLOSpring2022/results/by_person#2012PARK03) |
-| 38.46 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [BASC 34 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC34SanRamon2022/results/by_person#2012PARK03) |
+| 38.36 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 
@@ -70,13 +70,13 @@
 | 7.71 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2012PONC02) |
 | 7.96 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012PONC02) |
 | 7.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022/results/by_person#2012PONC02) |
+| 8.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 | 8.18 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Wakefield Spring 2022](https://www.worldcubeassociation.org/competitions/WakefieldSpring2022/results/by_person#2012PONC02) |
 | 8.30 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Horsham Winter 2018](https://www.worldcubeassociation.org/competitions/HorshamWinter2018/results/by_person#2009ZEMD01) |
+| 8.34 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 | 8.50 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
 | 8.56 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2022](https://www.worldcubeassociation.org/competitions/BaztanOpen2022/results/by_person#2012PONC02) |
 | 8.56 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | [CC Mini Sunday 2022](https://www.worldcubeassociation.org/competitions/CCMiniSunday2022/results/by_person#2016RACH01) |
-| 8.64 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Turn Around Tassie 2020](https://www.worldcubeassociation.org/competitions/TurnAroundTassie2020/results/by_person#2009ZEMD01) |
-| 8.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
 
 ### Megaminx
 
@@ -114,14 +114,14 @@
 | ---: | :--- | :--- |
 | 3.28 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
 | 3.54 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
+| 3.66 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/by_person#2015TREL02) |
 | 3.73 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/by_person#2021DUNA01) |
 | 3.76 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 | 3.84 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [GA Cubers Big & Blind Time 2022](https://www.worldcubeassociation.org/competitions/GACubersBigBlindTime2022/results/by_person#2015TREL02) |
 | 3.84 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [GA Cubers Warm Up 2022](https://www.worldcubeassociation.org/competitions/GACubersWarmUp2022/results/by_person#2015TREL02) |
-| 3.89 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [GA Cubers Warm Up 2022](https://www.worldcubeassociation.org/competitions/GACubersWarmUp2022/results/by_person#2015TREL02) |
-| 3.89 | [Jacob Evarts](https://www.worldcubeassociation.org/persons/2018EVAR01) | [GA Cubers Warm Up 2022](https://www.worldcubeassociation.org/competitions/GACubersWarmUp2022/results/by_person#2018EVAR01) |
-| 3.92 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Shenzhen Open 2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018/results/by_person#2017LOUY01) |
-| 3.93 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2017CHAM09) |
+| 3.85 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/by_person#2015TREL02) |
+| 3.87 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2015TREL02) |
+| 3.88 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2015TREL02) |
 
 ### Skewb
 

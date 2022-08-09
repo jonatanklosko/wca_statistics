@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 30 July 2022*
+*Updated on  8 August 2022*
 
 | Person | Years |
 | :--- | ---: |
@@ -36,8 +36,8 @@
 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 8.97 |
-| [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
+| [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
 | [Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08) | 8.82 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
 | [Altanbagana Altangerel (Алтангэрэл Алтанбагана)](https://www.worldcubeassociation.org/persons/2013ALTA01) | 8.68 |
@@ -55,9 +55,9 @@
 | [Derek Tat](https://www.worldcubeassociation.org/persons/2009TATD01) | 8.36 |
 | [Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03) | 8.35 |
 | [Guus de Wit](https://www.worldcubeassociation.org/persons/2008WITG01) | 8.30 |
+| [Chenge Liu (刘晨舸)](https://www.worldcubeassociation.org/persons/2011LIUC02) | 8.28 |
 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | 8.28 |
 | [Konstantin Krämer](https://www.worldcubeassociation.org/persons/2014KRAM02) | 8.28 |
-| [Chenge Liu (刘晨舸)](https://www.worldcubeassociation.org/persons/2011LIUC02) | 8.28 |
 | [Weston Mizumoto](https://www.worldcubeassociation.org/persons/2008MIZU01) | 8.24 |
 | [Simon Lim (林少秋)](https://www.worldcubeassociation.org/persons/2008LIMS01) | 8.24 |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 8.19 |
@@ -66,14 +66,14 @@
 | [Alexandre de Siqueira Júnior](https://www.worldcubeassociation.org/persons/2010JUNI02) | 8.11 |
 | [Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01) | 8.11 |
 | [Alex Thielemier](https://www.worldcubeassociation.org/persons/2009THIE02) | 8.09 |
-| [Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01) | 8.07 |
 | [Yu Byeong-Seon (유병선)](https://www.worldcubeassociation.org/persons/2008BYEO01) | 8.07 |
+| [Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01) | 8.07 |
 | [Aaron Abramowitz](https://www.worldcubeassociation.org/persons/2009ABRA01) | 8.03 |
 | [Rowan Kinneavy](https://www.worldcubeassociation.org/persons/2008KINN01) | 7.99 |
 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 7.99 |
 | [Pei Pan (潘霈)](https://www.worldcubeassociation.org/persons/2010PANP01) | 7.97 |
-| [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) | 7.95 |
 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) | 7.95 |
+| [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) | 7.95 |
 | [Andreas Gröbmayr](https://www.worldcubeassociation.org/persons/2010GROB02) | 7.91 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | 7.90 |
 | [Ivan Torgashov (Іван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) | 7.82 |
@@ -82,16 +82,16 @@
 | [Tiancheng Feng (冯天成)](https://www.worldcubeassociation.org/persons/2009FENG08) | 7.80 |
 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 7.77 |
 | [Jiajun Wu (吴佳骏)](https://www.worldcubeassociation.org/persons/2013WUJI03) | 7.76 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 7.74 |
 | [Paarth Chhabra](https://www.worldcubeassociation.org/persons/2014CHHA01) | 7.74 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 7.74 |
 | [CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02) | 7.67 |
 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | 7.65 |
 | [Victor Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) | 7.63 |
 | [Wataru Hashimura (端村航)](https://www.worldcubeassociation.org/persons/2008HASH02) | 7.61 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 7.61 |
 | [Jay Benedict Alfaras](https://www.worldcubeassociation.org/persons/2009ALFA01) | 7.61 |
-| [Dalton Nichols](https://www.worldcubeassociation.org/persons/2014NICH02) | 7.57 |
 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 7.57 |
+| [Dalton Nichols](https://www.worldcubeassociation.org/persons/2014NICH02) | 7.57 |
 | [Hao-Zheng Lin (林浩正)](https://www.worldcubeassociation.org/persons/2008LINH01) | 7.55 |
 | [Marc Mariano](https://www.worldcubeassociation.org/persons/2014MARI11) | 7.51 |
 | [Shunnosuke Takahashi (高橋峻之介)](https://www.worldcubeassociation.org/persons/2012TAKA01) | 7.50 |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 30 July 2022*
+*Updated on  8 August 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -33,6 +33,7 @@
 | 2196 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) |
 | 2232 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
 | 2462 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
+| 2512 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 2660 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 2833 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 2926 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |

@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 30 July 2022*
+*Updated on  8 August 2022*
 
 | Countries | Person |
 | ---: | :--- |
@@ -80,6 +80,7 @@
 | 14 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 14 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 14 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
+| 14 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) |
 | 14 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 14 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
 | 14 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
@@ -91,7 +92,6 @@
 | 14 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |
 | 13 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
 | 13 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
-| 13 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) |
 | 13 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 13 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 13 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |

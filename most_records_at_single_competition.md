@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 30 July 2022*
+*Updated on  8 August 2022*
 
 
 ### World
@@ -37,6 +37,7 @@
 | 4 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018/results/by_person#2012PARK03) |
 | 4 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [MCC Epsilon 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubEpsilon2019/results/by_person#2016CHAP04) |
 | 4 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020/results/by_person#2012PARK03) |
+| 4 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 
 ### Continental
 

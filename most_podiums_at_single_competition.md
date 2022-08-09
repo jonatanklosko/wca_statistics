@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 30 July 2022*
+*Updated on  8 August 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -111,6 +111,7 @@
 | 10 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Belgium Summer 2015](https://www.worldcubeassociation.org/competitions/BelgiumSummer2015/results/podiums) |
 | 10 | [Dmitry Aniskin](https://www.worldcubeassociation.org/persons/2011ANIS01) | [Belgorod Open 2015](https://www.worldcubeassociation.org/competitions/BelgorodOpen2015/results/podiums) |
 | 12 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Belgorod Open 2018](https://www.worldcubeassociation.org/competitions/BelgorodOpen2018/results/podiums) |
+| 10 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Belgrade Summer 2022](https://www.worldcubeassociation.org/competitions/BelgradeSummer2022/results/podiums) |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Benelux Open 2009](https://www.worldcubeassociation.org/competitions/BeneluxOpen2009/results/podiums) |
 | 10 | [Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02) | [Bengaluru Championship 2018](https://www.worldcubeassociation.org/competitions/BengaluruChampionship2018/results/podiums) |
 | 10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Berlin Open 2013](https://www.worldcubeassociation.org/competitions/BerlinOpen2013/results/podiums) |
@@ -228,6 +229,7 @@
 | 12 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | [Cubing Mérida 2013](https://www.worldcubeassociation.org/competitions/CubingMerida2013/results/podiums) |
 | 10 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) | [Cubing Mérida 2013](https://www.worldcubeassociation.org/competitions/CubingMerida2013/results/podiums) |
 | 10 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | [Cubing Semey Open 2019](https://www.worldcubeassociation.org/competitions/CubingSemeyOpen2019/results/podiums) |
+| 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/podiums) |
 | 12 | [Christian Saenz Valdivia](https://www.worldcubeassociation.org/persons/2013VALD02) | [Cultural Open 2014](https://www.worldcubeassociation.org/competitions/CulturalOpen2014/results/podiums) |
 | 12 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Cuthberts Open 2014](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2014/results/podiums) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Cuthberts Open 2015](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2015/results/podiums) |

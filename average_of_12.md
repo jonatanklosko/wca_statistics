@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 August 2022*
+*Updated on 11 August 2022*
 
 
 ### Rubik's Cube
@@ -27,11 +27,11 @@
 | 1.37 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.55, 1.04, 1.67, 1.46, 1.24, 1.44, 1.53, 1.84, 1.16, 1.62, 1.02, 0.97 |
 | 1.41 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 1.37, 1.24, 1.44, 1.41, 1.71, 6.18, 1.49, 1.27, 0.93, 1.59, 1.48, 1.17 |
 | 1.43 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | 1.42, 1.67, 1.78, 1.72, 1.41, 4.57, 1.12, 1.27, 1.32, 1.22, 1.03, 1.40 |
+| 1.43 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.38, 1.45, 1.48, 1.54, 1.51, 1.09, 1.84, 1.47, 1.50, 0.98, 1.60, 1.29 |
 | 1.44 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 1.65, 1.69, 1.66, 1.13, 2.23, 1.56, 1.57, 1.41, 1.12, 0.81, 1.58, 1.10 |
 | 1.46 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 1.09, 1.64, 1.47, 1.07, 1.80, 2.13, 0.81, 2.63, 0.93, 1.80, 1.85, 0.88 |
 | 1.50 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.67, 1.47, 0.94, 1.35, 1.60, 1.48, 2.47, 1.50, 1.37, 1.35, 2.27, 1.03 |
 | 1.51 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 1.31, 1.33, 3.47, 1.59, 1.58, 1.74, 1.22, 1.81, 1.74, 1.14, 1.70, 1.15 |
-| 1.51 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.65, 1.62, 1.54, 1.24, 1.52, 1.07, 2.27, 2.52, 1.67, 1.13, 1.47, 1.05 |
 | 1.54 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.62, 2.81, 1.34, 1.14, 1.66, 1.11, 1.97, 1.37, 2.08, 1.18, 1.67, 1.44 |
 
 ### 4x4x4 Cube
@@ -136,8 +136,8 @@
 | 10.28 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 9.19, 11.21, 9.43, 11.26, 8.91, 11.36, 9.16, 10.49, 9.67, 15.71, 11.27, 9.80 |
 | 10.42 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 13.25, 13.81, 9.42, 10.21, 8.56, 8.39, 8.97, 12.37, 11.30, 10.13, 10.44, 9.60 |
 | 10.46 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 11.78, 11.38, 10.54, 9.12, 9.35, 10.17, 9.15, 10.81, 9.69, 12.88, 12.61, 8.52 |
+| 10.49 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | 10.79, 11.33, 11.02, 11.97, 9.94, 10.31, 9.65, 12.36, 9.82, 9.97, 10.12, 9.15 |
 | 10.60 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | 11.14, 9.90, 10.58, 11.79, 9.00, 10.27, 12.74, 10.25, 11.32, 11.21, 10.62, 6.85 |
-| 10.65 | [Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06) | 9.80, 10.95, 10.74, 9.99, 9.17, 9.75, 17.45, 9.08, 10.81, 10.92, 13.19, 11.19 |
 
 ### Megaminx
 
@@ -150,9 +150,9 @@
 | 33.12 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.84, 31.53, 32.84, 36.09, 30.84, 33.06, 34.66, 34.78, 33.54, 36.18, 33.04, 30.63 |
 | 33.28 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 36.22, 30.94, 31.24, 35.78, 30.12, 33.90, 30.89, 30.57, 40.52, 34.27, 34.52, 34.55 |
 | 33.76 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 34.30, 34.50, 33.17, 33.88, 29.67, 36.92, 36.16, 32.68, 29.85, 33.79, 34.13, 35.22 |
+| 34.20 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 32.89, 36.64, 36.52, 34.82, 34.82, 33.15, 33.07, 36.19, 35.05, 31.95, 33.56, 31.15 |
 | 34.76 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 30.14, 37.03, 32.74, 38.18, 41.28, 32.60, 37.96, 31.72, 34.64, 32.63, 35.20, 34.95 |
 | 34.76 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 34.45, 35.28, 35.77, 30.11, 42.22, 46.50, 33.97, 32.53, 31.92, 35.54, 32.34, 33.64 |
-| 34.95 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 32.39, 30.46, 41.73, 37.02, 37.41, 34.60, 36.25, 34.92, 34.79, 34.69, 35.26, 32.26 |
 
 ### Pyraminx
 
@@ -228,7 +228,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 6:57.44 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 7:38.43, 7:08.81, DNF, 6:53.15, 7:03.70, 7:03.67, 6:55.16, 6:33.16, 6:49.43, 6:03.21, 6:32.35, 6:56.63 |
+| 6:22.08 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:53.15, 7:03.70, 7:03.67, 6:55.16, 6:33.16, 6:49.43, 6:03.21, 6:32.35, 6:56.63, 4:39.12, 4:20.84, 5:14.92 |
 | 10:19.57 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 11:40.00, 8:36.88, 10:32.00, DNF, 9:10.54, 8:49.83, 9:08.65, 9:07.15, 8:36.70, 8:29.70, 14:29.00, 13:05.00 |
 
 ### 3x3x3 With Feet

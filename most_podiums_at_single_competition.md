@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  8 August 2022*
+*Updated on 11 August 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -768,6 +768,8 @@
 | 10 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | [SoCal 2016](https://www.worldcubeassociation.org/competitions/SoCal2016/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
 | 10 | [Will Gurnett](https://www.worldcubeassociation.org/persons/2016GURN01) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
+| 16 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Sønderjysk Sommercubing 2022](https://www.worldcubeassociation.org/competitions/SonderjyskSommercubing2022/results/podiums) |
+| 10 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Sønderjysk Sommercubing 2022](https://www.worldcubeassociation.org/competitions/SonderjyskSommercubing2022/results/podiums) |
 | 10 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Summer - Sorell 2022](https://www.worldcubeassociation.org/competitions/Sorell2022/results/podiums) |
 | 10 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Southeast Championship 2019](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2019/results/podiums) |
 | 12 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Southern Championship 2019](https://www.worldcubeassociation.org/competitions/SouthernChampionship2019/results/podiums) |
@@ -852,6 +854,7 @@
 | 10 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Winter Open Day 2017](https://www.worldcubeassociation.org/competitions/TunisiaWinterOpenDay2017/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Cubing Tour Ankara 2020](https://www.worldcubeassociation.org/competitions/TurkishCubingTourAnkara2020/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Summer 2020](https://www.worldcubeassociation.org/competitions/TurkishSummer2020/results/podiums) |
+| 10 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Turning in Townsville 2022](https://www.worldcubeassociation.org/competitions/TurninginTownsville2022/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Twist and Shout Summer 2017](https://www.worldcubeassociation.org/competitions/TwistandShoutSummer2017/results/podiums) |
 | 12 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [UAM Open 2013](https://www.worldcubeassociation.org/competitions/UAMOpen2013/results/podiums) |
 | 11 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [Uberlândia Open 2010](https://www.worldcubeassociation.org/competitions/Uberlandia2010/results/podiums) |

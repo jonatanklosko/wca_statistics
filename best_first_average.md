@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  8 August 2022*
+*Updated on 11 August 2022*
 
 
 ### Rubik's Cube
@@ -161,13 +161,13 @@
 | 2.99 | [Heath Flick](https://www.worldcubeassociation.org/persons/2020FLIC01) |
 | 3.04 | [Peter Li (李致远)](https://www.worldcubeassociation.org/persons/2022LIPE01) |
 | 3.06 | [Yixuan Li (李逸轩)](https://www.worldcubeassociation.org/persons/2018LIYI14) |
+| 3.23 | [Giorgi Minasiani (გიორგი მინასიანი)](https://www.worldcubeassociation.org/persons/2022MINA01) |
 | 3.25 | [Ilario Joaquín Chiacchiarini](https://www.worldcubeassociation.org/persons/2022CHIA06) |
 | 3.26 | [Hajime Miyazaki (宮崎朔)](https://www.worldcubeassociation.org/persons/2022MIYA01) |
 | 3.33 | [Bo-Yan Wu (吳柏彥)](https://www.worldcubeassociation.org/persons/2019WUBO01) |
 | 3.37 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) |
 | 3.41 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
 | 3.47 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) |
-| 3.56 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 
 ### Rubik's Clock
 

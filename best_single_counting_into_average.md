@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  8 August 2022*
+*Updated on 11 August 2022*
 
 
 ### Rubik's Cube
@@ -38,6 +38,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 17.56 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
+| 18.31 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Summer 2022](https://www.worldcubeassociation.org/competitions/CircleCitySummer2022/results/by_person#2012PARK03) |
 | 18.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
 | 18.87 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
 | 19.21 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
@@ -46,7 +47,6 @@
 | 19.74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012PARK03) |
 | 19.81 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018/results/by_person#2012PARK03) |
 | 19.88 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Danish Open 2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019/results/by_person#2010WEYE02) |
-| 19.89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Missoula 2021](https://www.worldcubeassociation.org/competitions/Missoula2021/results/by_person#2012PARK03) |
 
 ### 5x5x5 Cube
 

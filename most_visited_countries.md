@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  8 August 2022*
+*Updated on 11 August 2022*
 
 | Countries | Person |
 | ---: | :--- |
@@ -37,6 +37,7 @@
 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 19 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
+| 18 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 18 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 18 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
@@ -47,7 +48,6 @@
 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 18 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
-| 17 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 17 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 17 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 17 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  8 August 2022*
+*Updated on 11 August 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -189,6 +189,7 @@
 | 1477 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 1483 | [Will Belote](https://www.worldcubeassociation.org/persons/2015BELO03) |
 | 1484 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 1484 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 1490 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
 | 1490 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) |
 | 1498 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
@@ -204,6 +205,7 @@
 | 1561 | [Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48) |
 | 1568 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 1581 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) |
+| 1610 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) |
 | 1638 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 1660 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
 | 1680 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |

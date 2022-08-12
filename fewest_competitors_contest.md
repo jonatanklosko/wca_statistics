@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  8 August 2022*
+*Updated on 11 August 2022*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -49,6 +49,7 @@
 | 9 | [Jordan Open 2012](https://www.worldcubeassociation.org/competitions/JordanOpen2012) |
 | 9 | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018) |
 | 9 | [Llanocentro Open 2019](https://www.worldcubeassociation.org/competitions/LlanocentroOpen2019) |
+| 9 | [PBQ CBC 2022](https://www.worldcubeassociation.org/competitions/PBQCBC2022) |
 | 9 | [PBQ UCLA 2017](https://www.worldcubeassociation.org/competitions/PBQUCLA2017) |
 | 9 | [Please Be Quiet Frisco 2020](https://www.worldcubeassociation.org/competitions/PleaseBeQuietFrisco2020) |
 | 9 | [Puy de Dome Open 2010](https://www.worldcubeassociation.org/competitions/PuyDeDomeOpen2010) |

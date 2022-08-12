@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 August 2022*
+*Updated on 11 August 2022*
 
 
 ### Rubik's Cube
@@ -152,7 +152,7 @@
 | 32.83 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 32.53, 31.92, 35.54, 32.34, 33.64 |
 | 32.89 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 29.67, 36.92, 36.16, 32.68, 29.85 |
 | 33.07 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 31.32, 34.16, 39.30, 32.05, 33.01 |
-| 33.24 | [Isaac Lai Yin Chung](https://www.worldcubeassociation.org/persons/2015LAII01) | 33.72, 30.01, 34.72, 37.22, 31.28 |
+| 33.11 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 35.05, 31.95, 33.56, 31.15, 33.84 |
 
 ### Pyraminx
 
@@ -241,8 +241,8 @@
 | 4:36.31 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 4:15.89, DNF, 4:31.71, 5:01.35, 4:15.67 |
 | 4:48.58 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 5:05.57, 4:34.88, DNF, 4:45.30, 3:53.91 |
 | 5:14.17 | [Grigorii Alekseev](https://www.worldcubeassociation.org/persons/2015ALEK01) | DNF, 4:49.36, 5:21.42, 5:22.67, 4:58.43 |
+| 5:28.79 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:32.35, 6:56.63, 4:39.12, 4:20.84, 5:14.92 |
 | 6:34.42 | [Enoch Gray](https://www.worldcubeassociation.org/persons/2012GRAY01) | 7:08.58, DNF, 5:46.03, 6:03.20, 6:31.50 |
-| 6:35.21 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4:07.88, DNF, 6:06.01, 4:34.30, 9:05.32 |
 
 ### 3x3x3 With Feet
 

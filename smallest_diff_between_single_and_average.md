@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  8 August 2022*
+*Updated on 11 August 2022*
 
 
 ### Rubik's Cube
@@ -41,13 +41,13 @@
 | 0.05 | [Matteo Pauli](https://www.worldcubeassociation.org/persons/2019PAUL05) | 1:06.55 | 1:06.60 | [German Big Cube Open 2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019/results/by_person#2019PAUL05) |
 | 0.06 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | 47.44 | 47.50 | [Cali Cube 2018](https://www.worldcubeassociation.org/competitions/CaliCube2018/results/by_person#2011EDUA01) |
 | 0.09 | [Geovanny Cueva](https://www.worldcubeassociation.org/persons/2018CUEV01) | 44.94 | 45.03 | [Guayaquil Championship 2018](https://www.worldcubeassociation.org/competitions/GuayaquilChampionship2018/results/by_person#2018CUEV01) |
+| 0.11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 34.94 | 35.05 | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022/results/by_person#2013OWCZ01) |
 | 0.11 | [Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01) | 35.14 | 35.25 | [Helsinki Open 2020](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2020/results/by_person#2016LAUR01) |
 | 0.12 | [Zachary Garber](https://www.worldcubeassociation.org/persons/2014GARB01) | 56.38 | 56.50 | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2014GARB01) |
 | 0.12 | [Nick Young](https://www.worldcubeassociation.org/persons/2006YOUN03) | 1:26.34 | 1:26.46 | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2006YOUN03) |
 | 0.13 | [Sheng Cao (曹晟)](https://www.worldcubeassociation.org/persons/2011CAOS01) | 31.56 | 31.69 | [Shenyang Summer 2018](https://www.worldcubeassociation.org/competitions/ShenyangSummer2018/results/by_person#2011CAOS01) |
 | 0.15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 26.22 | 26.37 | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020/results/by_person#2012BEAH01) |
 | 0.15 | [Jun-Hao Hu (胡峻豪)](https://www.worldcubeassociation.org/persons/2017HUJU01) | 37.64 | 37.79 | [Taiwan Championship 2018](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2018/results/by_person#2017HUJU01) |
-| 0.15 | [Darya Belonogova](https://www.worldcubeassociation.org/persons/2017BELO05) | 43.50 | 43.65 | [Eka Cube Days 2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019/results/by_person#2017BELO05) |
 
 ### 5x5x5 Cube
 
@@ -207,12 +207,12 @@
 | 1.71 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2:00.90 | 2:02.61 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2014SCHO02) |
 | 3.24 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) | 2:54.96 | 2:58.20 | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/by_person#2010YAMA04) |
 | 3.38 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 1:49.58 | 1:52.96 | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022/results/by_person#2013WALL03) |
+| 3.53 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 2:01.51 | 2:05.04 | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022/results/by_person#2019HIRS01) |
 | 3.85 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 1:08.70 | 1:12.55 | [Florida Fall Fest 2019](https://www.worldcubeassociation.org/competitions/FloridaFallFest2019/results/by_person#2016CHAP04) |
 | 4.13 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 4:24.90 | 4:29.03 | [Chester Open 2019](https://www.worldcubeassociation.org/competitions/ChesterOpen2019/results/by_person#2018SHEN07) |
 | 4.19 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:35.33 | 1:39.52 | [Weihai Open 2019](https://www.worldcubeassociation.org/competitions/WeihaiOpen2019/results/by_person#2013LINK01) |
 | 4.25 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:30.82 | 1:35.07 | [Hangzhou Open 2018](https://www.worldcubeassociation.org/competitions/HangzhouOpen2018/results/by_person#2013LINK01) |
 | 4.29 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 2:56.36 | 3:00.65 | [Minnesota Cube Melt 2017](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2017/results/by_person#2014BOYA01) |
-| 5.00 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 6:19.22 | 6:24.22 | [Italian Championship 2017](https://www.worldcubeassociation.org/competitions/ItalianChampionship2017/results/by_person#2005KOCZ01) |
 
 ### 5x5x5 Blindfolded
 
@@ -226,8 +226,8 @@
 | 11.00 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 13:45.00 | 13:56.00 | [Blind Is Back LA 2022](https://www.worldcubeassociation.org/competitions/BlindIsBackLA2022/results/by_person#2012LAUR02) |
 | 12.76 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:33.16 | 6:45.92 | [Farnworth Spring A 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringA2022/results/by_person#2019HIRS01) |
 | 13.18 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 8:49.83 | 9:03.01 | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019/results/by_person#2012HALE01) |
+| 14.59 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 7:37.38 | 7:51.97 | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022/results/by_person#2018SHEN07) |
 | 14.82 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 8:29.70 | 8:44.52 | [Jönköping Side Events 2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019/results/by_person#2012HALE01) |
-| 15.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 3:08.88 | 3:23.92 | [Warm Up Canberra 2019](https://www.worldcubeassociation.org/competitions/WarmUpCanberra2019/results/by_person#2016CHAP04) |
 
 ### 3x3x3 With Feet
 

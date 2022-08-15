@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 11 August 2022*
+*Updated on 14 August 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -17,7 +17,7 @@
 | 106 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 105 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 103 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 101 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 102 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 94 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 91 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 90 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |

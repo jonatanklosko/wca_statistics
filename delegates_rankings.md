@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 11 August 2022*
+*Updated on 14 August 2022*
 
 
 ### Rubik's Cube - Single
@@ -32,7 +32,7 @@
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **7.27** | United States | [PDX Cubing for Causes 2019](https://www.worldcubeassociation.org/competitions/PDXCubingforCauses2019) | 8.87, 7.84, 6.57, 6.37, 7.40 |
 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | **7.28** | United States | [Scranton Scramble 2020](https://www.worldcubeassociation.org/competitions/ScrantonScramble2020) | 7.49, 6.76, 7.60, 5.98, 9.37 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **7.32** | Sweden | [Vännäs & Friends 2022](https://www.worldcubeassociation.org/competitions/VannasFriends2022) | 7.75, 6.75, 7.45, 6.58, 8.58 |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **7.37** | Spain | [Archena Open 2022](https://www.worldcubeassociation.org/competitions/ArchenaOpen2022) | 7.59, 7.23, 7.29, 8.50, 6.93 |
+| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **7.36** | Denmark | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022) | 9.19, 7.71, 7.46, 6.64, 6.92 |
 
 ### 2x2x2 Cube - Single
 
@@ -120,9 +120,9 @@
 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | **53.97** | United States | [Cubetcha A 2021](https://www.worldcubeassociation.org/competitions/CubetchaA2021) | 52.15, 52.07, 57.68, 51.10, 1:07.84 |
 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | **54.54** | United States | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022) | 55.78, 51.92, 55.16, 1:00.83, 52.69 |
 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | **55.79** | United States | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 57.62, 1:17.40, 54.03, 53.24, 55.73 |
+| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **56.82** | Denmark | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022) | 54.34, 59.90, 54.91, 1:04.72, 55.65 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **57.15** | Australia | [NSW Open 2022](https://www.worldcubeassociation.org/competitions/NSWOpen2022) | 1:00.81, 52.97, 54.55, 57.63, 59.27 |
 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) | **58.17** | United States | [Florida Winter Break 2019](https://www.worldcubeassociation.org/competitions/FloridaWinterBreak2019) | 57.56, 56.19, 58.35, 59.88, 58.61 |
-| [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) | **58.57** | Japan | [Kyoto Open 2019](https://www.worldcubeassociation.org/competitions/KyotoOpen2019) | 57.84, 58.19, 59.67, 58.86, 58.67 |
 
 ### 6x6x6 Cube - Single
 
@@ -429,7 +429,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1:31.40** | Sweden | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) | DNF, 2:03.94, 1:31.40 |
-| [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **2:06.70** | Denmark | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) | DNF, 2:33.23, 2:06.70 |
+| [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **1:49.66** | Denmark | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022) | 1:49.66, DNF, DNF |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **2:27.56** | Argentina | [Baires Centro Open 2018](https://www.worldcubeassociation.org/competitions/BairesCentroOpen2018) | DNF, 2:27.56, DNF |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **2:54.69** | Russia | [Swiss Nats 2016](https://www.worldcubeassociation.org/competitions/SwissNationals2016) | DNF, DNF, 2:54.69 |
 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | **3:03.53** | Finland | [Pikkujoulut 2018](https://www.worldcubeassociation.org/competitions/Pikkujoulut2018) | DNF, DNF, 3:03.53 |

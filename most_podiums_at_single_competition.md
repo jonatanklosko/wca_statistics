@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 11 August 2022*
+*Updated on 14 August 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -390,6 +390,7 @@
 | 10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Hamburg Open 2011](https://www.worldcubeassociation.org/competitions/HamburgOpen2011/results/podiums) |
 | 11 | [Daniel Grabski](https://www.worldcubeassociation.org/persons/2010GRAB01) | [Haute-Patate Open 2012](https://www.worldcubeassociation.org/competitions/HautePatateOpen2012/results/podiums) |
 | 10 | [Alexandre Philiponet](https://www.worldcubeassociation.org/persons/2011PHIL01) | [Haute-Patate Open 2012](https://www.worldcubeassociation.org/competitions/HautePatateOpen2012/results/podiums) |
+| 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022/results/podiums) |
 | 14 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Helsinki Open 2011](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2011/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Helsinki Open 2017](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2017/results/podiums) |
 | 10 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Helsinki Open 2017](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2017/results/podiums) |

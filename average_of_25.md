@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 11 August 2022*
+*Updated on 14 August 2022*
 
 
 ### Rubik's Cube
@@ -194,7 +194,7 @@
 | 2.67 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.75, 2.11, 2.31, 2.37, 2.46, 2.40, 2.28, 3.16, 2.28, 2.99, 2.36, 3.59, 2.47, 2.66, 3.15, 2.24, 4.90, 2.64, 2.15, 2.50, 3.63, 3.16, 2.30, 5.58, 3.10 |
 | 2.70 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 2.51, 3.41, 2.82, 1.93, 1.91, 1.81, 3.44, 3.65, 2.68, 3.55, 2.88, 1.85, 3.08, 2.37, 2.07, 2.72, 2.21, 5.06, 2.92, 2.83, 2.84, 2.80, 4.89, 2.35, 1.87 |
 | 2.70 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 3.04, 2.55, 3.13, 4.09, 2.63, 3.11, 1.49, 2.78, 2.99, 2.63, 3.00, 2.61, DNF, 2.57, 2.50, 2.01, 2.68, 3.56, 2.08, 2.54, 2.60, 3.01, 1.67, 2.68, 2.19 |
-| 2.76 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 2.01, 3.22, 4.36, 2.86, 1.55, 1.97, DNF, 5.28, 5.07, 2.36, 2.81, 1.78, 4.45, 2.65, 2.73, 2.68, 2.22, 2.36, 2.20, 2.33, 2.79, 1.97, 3.10, 1.94, 2.05 |
+| 2.75 | [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 1.43, 2.55, 4.05, DNF, 1.97, 2.70, 1.86, 3.04, 2.71, 3.94, 3.26, 2.73, 3.00, 2.60, 3.79, 2.29, 2.58, 3.55, 1.72, 2.70, 2.53, 2.61, 1.75, 4.53, 1.17 |
 
 ### Square-1
 

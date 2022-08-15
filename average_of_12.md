@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 11 August 2022*
+*Updated on 14 August 2022*
 
 
 ### Rubik's Cube
@@ -130,11 +130,11 @@
 | ---: | :--- | :--- |
 | 9.17 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 9.15, 9.63, 12.42, 8.65, 8.66, 8.27, 9.35, 8.36, 10.23, 10.02, 9.16, 8.50 |
 | 9.34 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.77, 9.41, 11.50, 10.35, 9.90, 8.86, 9.11, 7.77, 7.98, 10.81, 8.47, 9.80 |
+| 9.95 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 9.42, 10.21, 8.56, 8.39, 8.97, 12.37, 11.30, 10.13, 10.44, 9.60, 9.92, 11.03 |
 | 10.04 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 9.86, 9.28, 9.73, 10.34, 9.43, 10.09, 10.45, 9.27, 12.07, 15.31, 9.87, 9.31 |
 | 10.12 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 9.27, 8.91, 10.57, 9.88, 9.44, 10.49, DNF, 9.88, 9.65, 11.57, 11.58, 7.66 |
 | 10.19 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 10.10, 8.85, 8.70, 9.87, 12.94, 10.58, 12.07, 9.12, 9.59, 8.87, 15.43, 9.91 |
 | 10.28 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 9.19, 11.21, 9.43, 11.26, 8.91, 11.36, 9.16, 10.49, 9.67, 15.71, 11.27, 9.80 |
-| 10.42 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 13.25, 13.81, 9.42, 10.21, 8.56, 8.39, 8.97, 12.37, 11.30, 10.13, 10.44, 9.60 |
 | 10.46 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 11.78, 11.38, 10.54, 9.12, 9.35, 10.17, 9.15, 10.81, 9.69, 12.88, 12.61, 8.52 |
 | 10.49 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | 10.79, 11.33, 11.02, 11.97, 9.94, 10.31, 9.65, 12.36, 9.82, 9.97, 10.12, 9.15 |
 | 10.60 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | 11.14, 9.90, 10.58, 11.79, 9.00, 10.27, 12.74, 10.25, 11.32, 11.21, 10.62, 6.85 |

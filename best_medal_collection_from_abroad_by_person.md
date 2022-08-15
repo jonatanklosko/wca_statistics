@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 11 August 2022*
+*Updated on 14 August 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -43,10 +43,10 @@
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **52** | 36 | 22 | 110 |
 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **51** | 43 | 25 | 119 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | **51** | 20 | 11 | 82 |
+| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **50** | 30 | 21 | 101 |
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **50** | 16 | 3 | 69 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **49** | 50 | 38 | 137 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | **49** | 44 | 40 | 133 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **49** | 27 | 20 | 96 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **48** | 58 | 61 | 167 |
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **47** | 36 | 25 | 108 |
 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | **46** | 61 | 31 | 138 |

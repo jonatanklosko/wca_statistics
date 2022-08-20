@@ -92,8 +92,8 @@
 | [Wataru Hashimura (端村航)](https://www.worldcubeassociation.org/persons/2008HASH02) | 7.61 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 7.61 |
 | [Jay Benedict Alfaras](https://www.worldcubeassociation.org/persons/2009ALFA01) | 7.61 |
-| [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 7.57 |
 | [Dalton Nichols](https://www.worldcubeassociation.org/persons/2014NICH02) | 7.57 |
+| [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 7.57 |
 | [Hao-Zheng Lin (林浩正)](https://www.worldcubeassociation.org/persons/2008LINH01) | 7.55 |
 | [Marc Mariano](https://www.worldcubeassociation.org/persons/2014MARI11) | 7.51 |
 | [Shunnosuke Takahashi (高橋峻之介)](https://www.worldcubeassociation.org/persons/2012TAKA01) | 7.50 |

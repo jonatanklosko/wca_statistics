@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 14 August 2022*
+*Updated on 20 August 2022*
 
 
 ### Rubik's Cube
@@ -57,11 +57,11 @@
 | 36.60 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2016KOLA02) |
 | 36.88 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 | 36.98 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [BASC 34 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC34SanRamon2022/results/by_person#2012PARK03) |
+| 37.51 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2012PARK03) |
 | 37.58 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Anaheim A 2022](https://www.worldcubeassociation.org/competitions/AnaheimA2022/results/by_person#2012PARK03) |
 | 37.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2019](https://www.worldcubeassociation.org/competitions/WesternChampionship2019/results/by_person#2012PARK03) |
 | 38.00 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Anaheim A 2022](https://www.worldcubeassociation.org/competitions/AnaheimA2022/results/by_person#2012PARK03) |
-| 38.36 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2012PARK03) |
-| 38.36 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
+| 38.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 
@@ -99,6 +99,7 @@
 | ---: | :--- | :--- |
 | 1.32 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2017NIEL03) |
 | 1.39 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/by_person#2015GORN01) |
+| 1.48 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [Silver Spring Summer 2022](https://www.worldcubeassociation.org/competitions/SilverSpringSummer2022/results/by_person#2017NIEL03) |
 | 1.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016KOLA02) |
 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
 | 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
@@ -106,7 +107,6 @@
 | 1.53 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Twisty Taranaki 2022](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2022/results/by_person#2018MURR03) |
 | 1.55 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/by_person#2015KAME02) |
 | 1.55 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | [Ural Autumn 2021](https://www.worldcubeassociation.org/competitions/UralAutumn2021/results/by_person#2017MESY01) |
-| 1.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020/results/by_person#2016KOLA02) |
 
 ### Rubik's Clock
 
@@ -117,11 +117,11 @@
 | 3.66 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/by_person#2015TREL02) |
 | 3.73 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/by_person#2021DUNA01) |
 | 3.76 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
+| 3.76 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Carlisle Summer 2022](https://www.worldcubeassociation.org/competitions/CarlisleSummer2022/results/by_person#2017CHAM09) |
 | 3.84 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [GA Cubers Big & Blind Time 2022](https://www.worldcubeassociation.org/competitions/GACubersBigBlindTime2022/results/by_person#2015TREL02) |
 | 3.84 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [GA Cubers Warm Up 2022](https://www.worldcubeassociation.org/competitions/GACubersWarmUp2022/results/by_person#2015TREL02) |
 | 3.85 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/by_person#2015TREL02) |
 | 3.87 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2015TREL02) |
-| 3.88 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2015TREL02) |
 
 ### Skewb
 
@@ -148,10 +148,10 @@
 | 4.97 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
 | 5.10 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2017AGGA01) |
 | 5.13 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2017AGGA01) |
+| 5.14 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2017AGGA01) |
 | 5.16 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017AGGA01) |
 | 5.21 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2017SIAU02) |
 | 5.22 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022/results/by_person#2017SIAU02) |
-| 5.23 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
 
 ### 3x3x3 With Feet
 

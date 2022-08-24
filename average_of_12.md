@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 20 August 2022*
+*Updated on 23 August 2022*
 
 
 ### Rubik's Cube
@@ -16,8 +16,8 @@
 | 5.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.22, 5.70, 5.81, 6.51, 5.89, 6.93, 5.45, 5.24, 6.16, 6.65, 8.19, 5.48 |
 | 6.00 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 6.56, 5.52, 6.06, 6.57, 5.31, 6.64, 5.62, 5.39, 7.74, 5.54, 6.53, 5.66 |
 | 6.04 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.70, 6.62, 5.89, 6.85, 7.68, 5.68, 5.14, 5.49, 8.30, 4.28, 5.77, 5.65 |
+| 6.13 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 6.64, 5.96, 7.33, 5.31, 5.50, 6.71, 5.72, 5.66, 5.78, 5.87, 8.16, 6.20 |
 | 6.15 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | 6.17, 5.16, 8.31, 5.87, 5.42, 5.30, 7.53, 5.42, 6.65, 8.04, 6.00, 4.88 |
-| 6.16 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | 5.64, 6.73, 6.80, 5.88, 5.66, 5.93, 6.67, 5.51, 8.67, 5.76, 6.02, 6.59 |
 
 ### 2x2x2 Cube
 
@@ -128,7 +128,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 9.17 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 9.15, 9.63, 12.42, 8.65, 8.66, 8.27, 9.35, 8.36, 10.23, 10.02, 9.16, 8.50 |
+| 8.98 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.76, 8.00, 8.92, 9.37, 9.17, 9.36, 9.83, 8.08, 8.92, 9.48, 9.74, 7.30 |
 | 9.34 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.77, 9.41, 11.50, 10.35, 9.90, 8.86, 9.11, 7.77, 7.98, 10.81, 8.47, 9.80 |
 | 9.95 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 9.42, 10.21, 8.56, 8.39, 8.97, 12.37, 11.30, 10.13, 10.44, 9.60, 9.92, 11.03 |
 | 10.04 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 9.86, 9.28, 9.73, 10.34, 9.43, 10.09, 10.45, 9.27, 12.07, 15.31, 9.87, 9.31 |
@@ -221,6 +221,7 @@
 | 4:20.11 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 6:29.53, 4:13.01, 3:46.86, 4:35.71, 5:19.05, 3:41.19, 4:18.33, 4:05.88, DNF, 3:10.18, 3:38.16, 3:13.42 |
 | 4:27.90 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 4:33.80, 4:33.99, 4:24.46, 5:19.08, 4:15.64, 3:35.47, DNF, 3:52.91, 4:39.14, 5:17.61, 3:42.18, 4:00.27 |
 | 5:29.47 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 5:11.20, 5:07.43, 4:32.17, 6:02.19, 6:28.49, 4:26.44, 6:11.06, 6:11.08, 4:48.49, 4:51.15, DNF, 5:31.46 |
+| 5:40.57 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) | 12:48.00, 10:17.00, DNF, 3:54.26, 4:14.18, 4:56.83, 3:57.92, 3:59.95, 4:29.77, 3:41.16, 3:53.24, 4:14.62 |
 | 5:54.11 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | 5:51.91, 6:39.05, 5:40.37, 5:13.11, 6:32.23, DNF, 5:09.36, 5:41.39, 7:00.38, 5:52.96, 4:40.80, 5:20.43 |
 | 8:33.96 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 8:25.33, 6:15.18, 6:09.85, DNF, 9:48.55, 7:51.73, 7:03.30, 7:47.05, 8:58.75, 8:25.50, 9:21.22, 11:43.00 |
 

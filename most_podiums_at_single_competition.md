@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 20 August 2022*
+*Updated on 23 August 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -848,6 +848,7 @@
 | 12 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
 | 11 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Hobart Hoedown 2019](https://www.worldcubeassociation.org/competitions/HobartHoedown2019/results/podiums) |
 | 10 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Summer - Sorell 2022](https://www.worldcubeassociation.org/competitions/Sorell2022/results/podiums) |
+| 10 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Twist Off 2022](https://www.worldcubeassociation.org/competitions/TassieTwistOff2022/results/podiums) |
 | 10 | [Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01) | [Pönde Open 2019](https://www.worldcubeassociation.org/competitions/PondeOpen2019/results/podiums) |
 | 10 | [Marcos Masini](https://www.worldcubeassociation.org/persons/2016MASI01) | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018/results/podiums) |
 | 11 | [Andrey da Conceição Santos](https://www.worldcubeassociation.org/persons/2016SANT03) | [Cariri Open 2016](https://www.worldcubeassociation.org/competitions/CaririOpen2016/results/podiums) |
@@ -861,6 +862,7 @@
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/podiums) |
 | 10 | [Hassen Kallala](https://www.worldcubeassociation.org/persons/2016KALL01) | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019/results/podiums) |
 | 10 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |
+| 12 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2022](https://www.worldcubeassociation.org/competitions/IsraelChampionship2022/results/podiums) |
 | 10 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | [Pittsburgh Fall 2019](https://www.worldcubeassociation.org/competitions/PittsburghFall2019/results/podiums) |
 | 11 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019/results/podiums) |
 | 11 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Pahang Cube Open 2019](https://www.worldcubeassociation.org/competitions/PahangCubeOpen2019/results/podiums) |

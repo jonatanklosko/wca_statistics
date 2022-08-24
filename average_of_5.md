@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 20 August 2022*
+*Updated on 23 August 2022*
 
 
 ### Rubik's Cube
@@ -220,6 +220,7 @@
 | ---: | :--- | :--- |
 | 1:10.00 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | DNF, 1:06.23, 1:02.51, 1:14.05, 1:09.72 |
 | 1:23.60 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:29.64, 1:40.45, 1:19.22, 1:19.07, 1:21.94 |
+| 1:33.49 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 2:03.94, 1:31.40, 1:23.27, 1:25.83, 1:43.26 |
 | 1:52.17 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 1:56.35, 1:43.11, 1:51.85, DNF, 1:48.32 |
 | 2:04.47 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | DNF, 2:00.90, 2:03.09, 2:03.85, 2:06.49 |
 | 2:09.78 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 1:55.58, 2:14.32, 2:07.26, 2:49.89, 2:07.78 |
@@ -227,7 +228,6 @@
 | 2:24.19 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 2:18.31, DNF, 2:10.47, 2:20.51, 2:33.75 |
 | 2:26.50 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 2:21.14, 2:09.18, 4:06.20, 2:34.15, 2:24.21 |
 | 2:27.40 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | DNF, 1:48.16, 2:37.55, 2:32.98, 2:11.67 |
-| 2:30.99 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 2:36.32, 2:34.00, 2:43.42, 2:22.67, 2:10.47 |
 
 ### 5x5x5 Blindfolded
 

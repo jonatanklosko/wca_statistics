@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 23 August 2022*
+*Updated on  1 September 2022*
 
 
 ### Rubik's Cube
@@ -41,13 +41,13 @@
 | 31.59 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
 | 31.63 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 32.83 | [Siddhesh Pore](https://www.worldcubeassociation.org/persons/2022PORE01) |
+| 33.32 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 34.00 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
 | 34.03 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 34.41 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
 | 34.47 | [Steve Jourdane Saputra](https://www.worldcubeassociation.org/persons/2022SAPU01) |
 | 34.75 | [Tianzuo Du (杜天佐)](https://www.worldcubeassociation.org/persons/2021DUTI01) |
 | 34.90 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) |
-| 34.94 | [Hasnain Reza Bilal](https://www.worldcubeassociation.org/persons/2019BILA05) |
 
 ### 5x5x5 Cube
 
@@ -115,6 +115,7 @@
 | ---: | :--- |
 | 26.67 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 30.00 | [Inha Woo (우인하)](https://www.worldcubeassociation.org/persons/2010INHA01) |
+| 30.00 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) |
 | 30.33 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) |
 | 30.33 | [Viljo Elo](https://www.worldcubeassociation.org/persons/2016ELOV01) |
 | 30.33 | [Roy Tamir](https://www.worldcubeassociation.org/persons/2014TAMI01) |
@@ -122,7 +123,6 @@
 | 30.67 | [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) |
 | 31.00 | [Han Su (苏涵)](https://www.worldcubeassociation.org/persons/2021SUHA01) |
 | 31.33 | [Nitheesh Kumar Elangovan](https://www.worldcubeassociation.org/persons/2016ELAN01) |
-| 31.33 | [Zhiyuan Zhang (张质源)](https://www.worldcubeassociation.org/persons/2018ZHAZ08) |
 
 ### 3x3x3 One-Handed
 
@@ -189,6 +189,7 @@
 | First average | Person |
 | ---: | :--- |
 | 2.83 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
+| 3.54 | [Jonah Hansen](https://www.worldcubeassociation.org/persons/2022HANS12) |
 | 4.01 | [Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01) |
 | 4.19 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) |
 | 4.20 | [Jiawei Zhang (张嘉伟)](https://www.worldcubeassociation.org/persons/2018ZHAJ17) |
@@ -197,7 +198,6 @@
 | 4.31 | [Jingyang Zhang (张敬阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ22) |
 | 4.39 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) |
 | 4.40 | [Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02) |
-| 4.45 | [Oleksandr Savchyn](https://www.worldcubeassociation.org/persons/2016SAVC02) |
 
 ### Square-1
 
@@ -236,6 +236,7 @@
 | 13:56.00 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) |
 | 14:19.00 | [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01) |
 | 17:14.00 | [Jareth Soong](https://www.worldcubeassociation.org/persons/2016SOON01) |
+| 18:41.00 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 18:54.00 | [Takeo Nagoshi (名越丈雄)](https://www.worldcubeassociation.org/persons/2022NAGO03) |
 | 22:13.00 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 

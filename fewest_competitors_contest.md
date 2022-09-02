@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 23 August 2022*
+*Updated on  1 September 2022*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -104,6 +104,7 @@
 | 11 | [PBQ Belgium 2018](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBelgium2018) |
 | 11 | [Please Be Quiet Reno 2017](https://www.worldcubeassociation.org/competitions/PleaseBeQuietReno2017) |
 | 11 | [Please Be Quiet WPI 2017](https://www.worldcubeassociation.org/competitions/PleaseBeQuietWPI2017) |
+| 11 | [Sides Bahia 2022](https://www.worldcubeassociation.org/competitions/SidesBahia2022) |
 | 11 | [Stadi FMC 2018](https://www.worldcubeassociation.org/competitions/StadiFMC2018) |
 | 11 | [Sucre Open 2019](https://www.worldcubeassociation.org/competitions/SucreOpen2019) |
 | 11 | [Svekub 2005](https://www.worldcubeassociation.org/competitions/Svekub2005) |
@@ -115,6 +116,7 @@
 | 12 | [Chalmers Open 2006](https://www.worldcubeassociation.org/competitions/ChalmersOpen2006) |
 | 12 | [Chia-yi Pyraminx Competition 2009](https://www.worldcubeassociation.org/competitions/ChiayiPyraminx2009) |
 | 12 | [Cowboys FMC Party 2016](https://www.worldcubeassociation.org/competitions/CowboysFMCParty2016) |
+| 12 | [El Cafecito Guatemala 2022](https://www.worldcubeassociation.org/competitions/ElCafecitoGuatemala2022) |
 | 12 | [Estonian Open 2016](https://www.worldcubeassociation.org/competitions/EstonianOpen2016) |
 | 12 | [Fabulous MN Comp 2017](https://www.worldcubeassociation.org/competitions/FabulousMNCompetition2017) |
 | 12 | [Finnish FMC Championship 2022](https://www.worldcubeassociation.org/competitions/FinnishFMCChampionship2022) |

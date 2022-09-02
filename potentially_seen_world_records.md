@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 23 August 2022*
+*Updated on  1 September 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -32,8 +32,8 @@
 | 101 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
+| 96 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 96 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 95 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 95 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 94 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 94 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
@@ -61,8 +61,8 @@
 | 81 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 81 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
 | 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
+| 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 79 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 79 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 77 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
@@ -72,34 +72,34 @@
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
 | 73 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 73 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
-| 73 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
-| 71 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |
+| 71 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 70 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 70 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 70 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
 | 69 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 69 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 69 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
-| 68 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
+| 69 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 68 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 68 | [Peter Still](https://www.worldcubeassociation.org/persons/2005STIL01) |
-| 68 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 68 | [David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01) |
+| 68 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
+| 68 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
 | 67 | [Fumiki Koseki (古関章記)](https://www.worldcubeassociation.org/persons/2005KOSE01) |
 | 66 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 65 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 65 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
-| 65 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 65 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
+| 65 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
+| 64 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 64 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 64 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
-| 64 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 64 | [Kirt Protacio](https://www.worldcubeassociation.org/persons/2010PROT01) |
 | 64 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 64 | [Peter Jansen](https://www.worldcubeassociation.org/persons/2003JANS01) |

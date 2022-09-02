@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 23 August 2022*
+*Updated on  1 September 2022*
 
 
 ### Rubik's Cube
@@ -203,6 +203,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.69 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 3:22.29 | 3:22.98 | [ABHC 2022](https://www.worldcubeassociation.org/competitions/ABHC2022/results/by_person#2018SHEN07) |
 | 1.01 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:19.07 | 1:20.08 | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2013LINK01) |
 | 1.71 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2:00.90 | 2:02.61 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2014SCHO02) |
 | 3.24 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) | 2:54.96 | 2:58.20 | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/by_person#2010YAMA04) |
@@ -212,7 +213,6 @@
 | 4.13 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 4:24.90 | 4:29.03 | [Chester Open 2019](https://www.worldcubeassociation.org/competitions/ChesterOpen2019/results/by_person#2018SHEN07) |
 | 4.19 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:35.33 | 1:39.52 | [Weihai Open 2019](https://www.worldcubeassociation.org/competitions/WeihaiOpen2019/results/by_person#2013LINK01) |
 | 4.25 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:30.82 | 1:35.07 | [Hangzhou Open 2018](https://www.worldcubeassociation.org/competitions/HangzhouOpen2018/results/by_person#2013LINK01) |
-| 4.29 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 2:56.36 | 3:00.65 | [Minnesota Cube Melt 2017](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2017/results/by_person#2014BOYA01) |
 
 ### 5x5x5 Blindfolded
 

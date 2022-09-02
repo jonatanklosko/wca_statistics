@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 23 August 2022*
+*Updated on  1 September 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -117,8 +117,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
+| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -148,6 +148,7 @@
 | 1190 | [Gianluca Placenti](https://www.worldcubeassociation.org/persons/2012PLAC01) |
 | 1197 | [Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01) |
 | 1199 | [Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01) |
+| 1204 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 | 1218 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1219 | [Mihály Horváth](https://www.worldcubeassociation.org/persons/2016HORV04) |
 | 1225 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
@@ -301,6 +302,7 @@
 | 2778 | [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01) |
 | 2807 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) |
 | 2843 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
+| 2855 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 2856 | [Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53) |
 | 2864 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 2891 | [Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01) |

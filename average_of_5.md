@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 23 August 2022*
+*Updated on  1 September 2022*
 
 
 ### Rubik's Cube
@@ -84,7 +84,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1:48.85 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:57.31, 1:48.98, 1:54.24, 1:42.12, 1:43.34 |
-| 1:56.97 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 2:15.50, 1:57.89, 1:58.24, 1:51.13, 1:54.79 |
+| 1:55.63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:58.24, 1:51.13, 1:54.79, 2:05.50, 1:53.87 |
 | 2:00.44 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) | 1:57.46, 1:58.47, 2:03.98, 2:04.65, 1:58.88 |
 | 2:01.37 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:01.49, 2:08.09, 1:59.29, 1:57.13, 2:03.33 |
 | 2:02.70 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 2:15.90, 1:54.68, 2:05.77, 2:07.67, 1:42.51 |
@@ -117,12 +117,12 @@
 | 22.00 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | 23, 22, 21, 22, 22 |
 | 22.33 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 25, 23, 18, 22 |
 | 22.66 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 23, 23, 24, 22, 20 |
+| 22.66 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 21, 26, 24, 23, 21 |
 | 22.66 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 24, 22, 21, 29, 22 |
 | 22.66 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 25, 24, 22, 21, 22 |
 | 23.00 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 17, 28, 22, 23, 24 |
 | 23.00 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 21, 23, 25, 25, 20 |
 | 23.00 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 26, 24, 23, 22, 22 |
-| 23.00 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 20, 23, 26, 24, 22 |
 
 ### 3x3x3 One-Handed
 
@@ -182,7 +182,7 @@
 | 4.34 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 3.73, 6.14, 4.69, 3.85, 4.50 |
 | 4.36 | [Jacob Evarts](https://www.worldcubeassociation.org/persons/2018EVAR01) | 3.17, 4.85, 6.01, 3.89, 4.35 |
 | 4.38 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) | 4.07, 4.07, 4.48, 5.13, 4.60 |
-| 4.53 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) | 5.71, 4.55, 4.21, 4.15, 4.83 |
+| 4.43 | [Virgile Perrot](https://www.worldcubeassociation.org/persons/2017PERR02) | 4.44, 4.16, 5.43, 4.38, 4.48 |
 
 ### Skewb
 

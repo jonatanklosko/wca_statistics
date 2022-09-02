@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 23 August 2022*
+*Updated on  1 September 2022*
 
 
 ### Rubik's Cube
@@ -68,6 +68,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 7.71 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2012PONC02) |
+| 7.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Marshall Middle Slice 2022](https://www.worldcubeassociation.org/competitions/MarshallMiddleSlice2022/results/by_person#2012PARK03) |
 | 7.96 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012PONC02) |
 | 7.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022/results/by_person#2012PONC02) |
 | 8.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
@@ -76,7 +77,6 @@
 | 8.34 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 | 8.50 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
 | 8.56 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2022](https://www.worldcubeassociation.org/competitions/BaztanOpen2022/results/by_person#2012PONC02) |
-| 8.56 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | [CC Mini Sunday 2022](https://www.worldcubeassociation.org/competitions/CCMiniSunday2022/results/by_person#2016RACH01) |
 
 ### Megaminx
 
@@ -145,13 +145,13 @@
 | 4.86 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
 | 4.87 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Abbotsford Begins 2022](https://www.worldcubeassociation.org/competitions/AbbotsfordBegins2022/results/by_person#2016EPST02) |
 | 4.91 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
+| 4.92 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Bellevue CfC 2022](https://www.worldcubeassociation.org/competitions/BellevueCubingforChildrens2022/results/by_person#2017SIAU02) |
 | 4.97 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
 | 5.10 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2017AGGA01) |
+| 5.12 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue CfC 2022](https://www.worldcubeassociation.org/competitions/BellevueCubingforChildrens2022/results/by_person#2017AGGA01) |
 | 5.13 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2017AGGA01) |
 | 5.14 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2017AGGA01) |
 | 5.16 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017AGGA01) |
-| 5.21 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2017SIAU02) |
-| 5.22 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022/results/by_person#2017SIAU02) |
 
 ### 3x3x3 With Feet
 

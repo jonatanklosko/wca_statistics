@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 23 August 2022*
+*Updated on  1 September 2022*
 
 
 ### Rubik's Cube
@@ -23,6 +23,7 @@
 
 | First single | Person |
 | ---: | :--- |
+| 1.14 | [Takumi Kawazoe (川添匠)](https://www.worldcubeassociation.org/persons/2022KAWA02) |
 | 1.19 | [Zachary Lam](https://www.worldcubeassociation.org/persons/2016LAMZ01) |
 | 1.28 | [Caleb Kinman](https://www.worldcubeassociation.org/persons/2017KINM02) |
 | 1.39 | [Zavian Valedon](https://www.worldcubeassociation.org/persons/2016VALE01) |
@@ -32,13 +33,13 @@
 | 1.61 | [Ilan Doubrovkine-Paskar](https://www.worldcubeassociation.org/persons/2020DOUB01) |
 | 1.62 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 1.67 | [Boris McCoy](https://www.worldcubeassociation.org/persons/2021MCCO01) |
-| 1.68 | [Yuanhao Wu (吴元皓)](https://www.worldcubeassociation.org/persons/2017WUYU08) |
 
 ### 4x4x4 Cube
 
 | First single | Person |
 | ---: | :--- |
 | 29.79 | [Siddhesh Pore](https://www.worldcubeassociation.org/persons/2022PORE01) |
+| 31.15 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 31.17 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 31.25 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 31.47 | [Aditya Bareja](https://www.worldcubeassociation.org/persons/2022BARE01) |
@@ -47,7 +48,6 @@
 | 33.02 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) |
 | 33.80 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
 | 33.90 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
-| 34.15 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) |
 
 ### 5x5x5 Cube
 
@@ -122,7 +122,7 @@
 | 26 | [Ali Salavati (علی صلواتی)](https://www.worldcubeassociation.org/persons/2011SALA04) |
 | 26 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 26 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) |
-| 27 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
+| 27 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
 
 ### 3x3x3 One-Handed
 
@@ -188,16 +188,16 @@
 
 | First single | Person |
 | ---: | :--- |
+| 1.93 | [Jonah Hansen](https://www.worldcubeassociation.org/persons/2022HANS12) |
 | 2.17 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
 | 2.30 | [Fei Shi (石飞)](https://www.worldcubeassociation.org/persons/2017SHIF03) |
 | 2.48 | [Max Walaszek](https://www.worldcubeassociation.org/persons/2018WALA01) |
 | 2.68 | [Callan Vellozzi](https://www.worldcubeassociation.org/persons/2019VELL04) |
 | 2.80 | [Germán Yesid Cardona Fajardo](https://www.worldcubeassociation.org/persons/2018FAJA02) |
 | 2.98 | [Slavomil Voloskov (Славомил Волосков)](https://www.worldcubeassociation.org/persons/2018VOLO05) |
+| 3.03 | [Alexis Petillon](https://www.worldcubeassociation.org/persons/2022PETI02) |
 | 3.09 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
 | 3.15 | [Heng Tian Xiang](https://www.worldcubeassociation.org/persons/2017XIAN13) |
-| 3.15 | [Isaac Lim](https://www.worldcubeassociation.org/persons/2017LIMI02) |
-| 3.15 | [Manuel Antonio Lugo Camacho](https://www.worldcubeassociation.org/persons/2018CAMA15) |
 
 ### Square-1
 

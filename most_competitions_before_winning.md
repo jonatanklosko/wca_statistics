@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 23 August 2022*
+*Updated on  1 September 2022*
 
 
 ### Rubik's Cube
@@ -70,6 +70,7 @@
 | ---: | :--- | :--- |
 | 49 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | [Idaho Megacomp 2019](https://www.worldcubeassociation.org/competitions/IdahoMegacomp2019) |
 | 40 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Lausanne Euro Qualifier 2018](https://www.worldcubeassociation.org/competitions/LausanneEuroQualifier2018) |
+| 37 | [Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01) | [Gulf Of Finland 2022](https://www.worldcubeassociation.org/competitions/GulfOfFinland2022) |
 | 36 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | [Finnish Championship 2016](https://www.worldcubeassociation.org/competitions/FinnishChampionship2016) |
 | 34 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | [UBC Side Events 2022](https://www.worldcubeassociation.org/competitions/UBCSideEvents2022) |
 | 34 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [BarbeCubing Spring 2019](https://www.worldcubeassociation.org/competitions/BarbeCubingSpring2019) |
@@ -77,12 +78,12 @@
 | 32 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | [Howland Winter 2018](https://www.worldcubeassociation.org/competitions/HowlandWinter2018) |
 | 31 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | [II CUBIFMA 2017](https://www.worldcubeassociation.org/competitions/IICUBIFMA2017) |
 | 30 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Belgian Open 2011](https://www.worldcubeassociation.org/competitions/BelgianOpen2011) |
-| 30 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | [Byczy Cube Race 2017](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2017) |
 
 ### 7x7x7 Cube
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 43 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Rheinland-Pfalz Open 2022](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2022) |
 | 36 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | [Banja Luka Open 2018](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2018) |
 | 36 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | [Rocky Top 2019](https://www.worldcubeassociation.org/competitions/RockyTop2019) |
 | 35 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Eagle of the East 2018](https://www.worldcubeassociation.org/competitions/EagleoftheEast2018) |
@@ -92,7 +93,6 @@
 | 32 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Xlingen Open 2018](https://www.worldcubeassociation.org/competitions/XlingenOpen2018) |
 | 30 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | [UBC Side Events 2022](https://www.worldcubeassociation.org/competitions/UBCSideEvents2022) |
 | 30 | [Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01) | [Slovakian Spring 2019](https://www.worldcubeassociation.org/competitions/SlovakianSpring2019) |
-| 29 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Belgian Open 2011](https://www.worldcubeassociation.org/competitions/BelgianOpen2011) |
 
 ### 3x3x3 Blindfolded
 

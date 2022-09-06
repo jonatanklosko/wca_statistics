@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  1 September 2022*
+*Updated on  5 September 2022*
 
 | Finals | Person |
 | ---: | :--- |
@@ -25,7 +25,7 @@
 | 1024 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 1015 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 1002 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
-| 995 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 999 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 985 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 971 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 965 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
@@ -61,8 +61,8 @@
 | 721 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 719 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 719 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
+| 719 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 715 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
-| 715 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 713 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 710 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 700 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |

@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  1 September 2022*
+*Updated on  5 September 2022*
 
 
 ### Rubik's Cube
@@ -206,13 +206,13 @@
 | 7.84 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 10.15 | [Ray Ng Qi Rui (黄启瑞)](https://www.worldcubeassociation.org/persons/2022RUIR01) |
 | 10.18 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
+| 10.52 | [Nikolas Palassis](https://www.worldcubeassociation.org/persons/2019PALA11) |
 | 10.68 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2017THUY01) |
 | 11.05 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) |
 | 11.44 | [Tatsuya Kusanagi (草彅達也)](https://www.worldcubeassociation.org/persons/2018KUSA02) |
 | 11.65 | [Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01) |
 | 11.75 | [Boqin Zhao (赵博钦)](https://www.worldcubeassociation.org/persons/2017ZHAO32) |
 | 11.83 | [Václav Maxa](https://www.worldcubeassociation.org/persons/2022MAXA01) |
-| 11.94 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) |
 
 ### 4x4x4 Blindfolded
 

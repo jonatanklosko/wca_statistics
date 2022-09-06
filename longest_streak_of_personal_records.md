@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  1 September 2022*
+*Updated on  5 September 2022*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -88,6 +88,7 @@
 | 41 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | [Hungarian Open 2009](https://www.worldcubeassociation.org/competitions/HungarianOpen2009) | [FMC Europe 2015](https://www.worldcubeassociation.org/competitions/FMCEurope2015) |
 | 40 | [Karina Grandjean Beck](https://www.worldcubeassociation.org/persons/2010BECK01) | [Skårup Cube Day 2010](https://www.worldcubeassociation.org/competitions/SkarupCubeDay2010) | [Vestegnen Open 2017](https://www.worldcubeassociation.org/competitions/VestegnenOpen2017) |
 | 40 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | [UIndy Open 2011](https://www.worldcubeassociation.org/competitions/UIndyOpen2011) | [Marietta Mystery 2016](https://www.worldcubeassociation.org/competitions/MariettaMystery2016) |
+| 40 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | [Yale Spring 2014](https://www.worldcubeassociation.org/competitions/YaleSpring2014) |  |
 | 40 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) | [Dayton 2015](https://www.worldcubeassociation.org/competitions/Dayton2015) | [Michigan Cubing Club Delta 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubDelta2019) |
 | 40 | [Evan Mann](https://www.worldcubeassociation.org/persons/2016MANN01) | [Berkeley Winter 2016](https://www.worldcubeassociation.org/competitions/BerkeleyWinter2016) | [SacCubing X 2021](https://www.worldcubeassociation.org/competitions/SacCubingX2021) |
 | 39 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Hungary 2005](https://www.worldcubeassociation.org/competitions/Hungary2005) | [Romanian Open 2012](https://www.worldcubeassociation.org/competitions/RomanianOpen2012) |
@@ -100,7 +101,6 @@
 | 39 | [Sam Schultz](https://www.worldcubeassociation.org/persons/2011SCHU06) | [Melrose Spring 2015](https://www.worldcubeassociation.org/competitions/MelroseSpring2015) | [Cubing with the Viking 2017](https://www.worldcubeassociation.org/competitions/CubingwiththeViking2017) |
 | 39 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | [Princeton Winter 2014](https://www.worldcubeassociation.org/competitions/PrincetonWinter2014) | [EZ Cubes Spring 2017](https://www.worldcubeassociation.org/competitions/EZCubesSpring2017) |
 | 39 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | [Caltech Winter 2014](https://www.worldcubeassociation.org/competitions/CaltechWinter2014) | [Seoul Summer 2022](https://www.worldcubeassociation.org/competitions/SeoulSummer2022) |
-| 39 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | [Yale Spring 2014](https://www.worldcubeassociation.org/competitions/YaleSpring2014) |  |
 | 39 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Munich Open 2014](https://www.worldcubeassociation.org/competitions/MunichOpen2014) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022) |
 | 39 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) | [SCMU 2015](https://www.worldcubeassociation.org/competitions/SCMU2015) | [Saraswati Open 2019](https://www.worldcubeassociation.org/competitions/SaraswatiOpen2019) |
 | 39 | [Tyler Halgren](https://www.worldcubeassociation.org/persons/2015HALG01) | [Rose City 2015](https://www.worldcubeassociation.org/competitions/RoseCity2015) |  |

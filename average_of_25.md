@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 September 2022*
+*Updated on  5 September 2022*
 
 
 ### Rubik's Cube
@@ -209,7 +209,7 @@
 | 6.86 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 9.01, 6.56, 6.05, 8.53, 8.44, 9.52, 5.55, 10.20, 5.48, 6.81, 5.96, 8.05, 7.85, 5.56, 6.20, 6.73, 8.41, 4.85, 6.15, 5.74, 4.75, 6.04, 7.56, 7.38, 6.05 |
 | 6.93 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.17, 5.95, 7.89, 6.78, 6.00, 9.06, 8.53, 6.60, 8.45, 12.98, 6.87, 6.30, 7.41, 5.95, DNF, 6.88, 7.38, 5.66, 7.53, 7.00, 6.47, 6.15, 5.27, 6.22, 5.96 |
 | 7.06 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 6.45, 8.59, 8.75, 9.79, 7.27, 7.03, 7.35, 6.15, 7.37, 6.04, 6.11, DNF, 7.00, 6.40, 11.85, 6.88, 7.02, 6.17, 6.83, 6.31, 7.52, 6.07, 7.17, 5.95, 5.27 |
-| 7.27 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 7.30, 12.01, 7.55, 8.03, 9.02, 7.30, 6.08, 7.59, 6.81, 7.57, 7.12, 13.53, 6.90, 7.33, 6.71, 6.04, 6.27, 5.61, 8.50, 8.02, 6.85, 8.08, 7.24, 4.45, 6.41 |
+| 7.12 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 7.55, 8.03, 9.02, 7.30, 6.08, 7.59, 6.81, 7.57, 7.12, 13.53, 6.90, 7.33, 6.71, 6.04, 6.27, 5.61, 8.50, 8.02, 6.85, 8.08, 7.24, 4.45, 6.41, 5.44, 7.67 |
 
 ### 4x4x4 Blindfolded
 

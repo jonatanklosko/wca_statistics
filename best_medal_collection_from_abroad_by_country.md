@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 September 2022*
+*Updated on  5 September 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -34,7 +34,7 @@
 | Romania | **136** | 100 | 94 | 330 |
 | Indonesia | **134** | 125 | 103 | 362 |
 | Slovenia | **121** | 154 | 146 | 421 |
-| Colombia | **119** | 84 | 82 | 285 |
+| Colombia | **120** | 88 | 82 | 290 |
 | Belgium | **118** | 177 | 160 | 455 |
 | Greece | **118** | 139 | 103 | 360 |
 | Austria | **114** | 163 | 177 | 454 |
@@ -55,16 +55,16 @@
 | Brazil | **28** | 32 | 18 | 78 |
 | Kosovo | **28** | 22 | 21 | 71 |
 | Chile | **28** | 20 | 17 | 65 |
+| Venezuela | **26** | 34 | 29 | 89 |
 | Uzbekistan | **25** | 21 | 22 | 68 |
 | Belize | **24** | 6 | 1 | 31 |
-| Venezuela | **22** | 32 | 26 | 80 |
 | Mongolia | **22** | 20 | 17 | 59 |
 | Portugal | **21** | 19 | 17 | 57 |
 | El Salvador | **20** | 21 | 16 | 57 |
 | Costa Rica | **20** | 18 | 19 | 57 |
 | New Zealand | **18** | 53 | 40 | 111 |
 | Estonia | **18** | 27 | 23 | 68 |
-| Israel | **16** | 14 | 19 | 49 |
+| Israel | **17** | 14 | 21 | 52 |
 | South Africa | **15** | 17 | 39 | 71 |
 | North Macedonia | **15** | 15 | 22 | 52 |
 | Nicaragua | **14** | 5 | 10 | 29 |

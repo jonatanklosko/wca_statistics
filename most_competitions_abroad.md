@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  1 September 2022*
+*Updated on  5 September 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -34,8 +34,8 @@
 | 70 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 67 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
-| 66 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
 | 66 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 66 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
 | 66 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 65 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 62 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
@@ -82,12 +82,12 @@
 | 44 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 43 | [Geert Bicler](https://www.worldcubeassociation.org/persons/2010BICL01) |
 | 43 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
-| 43 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |
-| 43 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
+| 43 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 43 | [Billy Burier](https://www.worldcubeassociation.org/persons/2014BURI01) |
 | 43 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
+| 43 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |
 | 43 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
-| 43 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
+| 43 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 42 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 42 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
 | 41 | [Raphaël Pihet](https://www.worldcubeassociation.org/persons/2011PIHE01) |
@@ -102,7 +102,7 @@
 | 40 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
 | 40 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 40 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
-| 39 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
+| 39 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 39 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 
 

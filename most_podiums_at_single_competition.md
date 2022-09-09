@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  5 September 2022*
+*Updated on  8 September 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -546,6 +546,7 @@
 | 16 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Sønderjysk Sommercubing 2022](https://www.worldcubeassociation.org/competitions/SonderjyskSommercubing2022/results/podiums) |
 | 15 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Kvissel Fall 2018](https://www.worldcubeassociation.org/competitions/KvisselFall2018/results/podiums) |
 | 15 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Swedish Championship 2019](https://www.worldcubeassociation.org/competitions/SwedishChampionship2019/results/podiums) |
+| 14 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2022](https://www.worldcubeassociation.org/competitions/DanishChampionship2022/results/podiums) |
 | 14 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Open 2017](https://www.worldcubeassociation.org/competitions/DanishOpen2017/results/podiums) |
 | 14 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [SSL 3 Varberg 2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Aarhus Spring 2019](https://www.worldcubeassociation.org/competitions/AarhusSpring2019/results/podiums) |
@@ -784,6 +785,7 @@
 | 14 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2022](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2022/results/podiums) |
 | 12 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | [Norwegian Championship 2018](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2018/results/podiums) |
 | 10 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | [Flen Christmas Sleepover 2018](https://www.worldcubeassociation.org/competitions/FlenChristmasSleepover2018/results/podiums) |
+| 10 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | [Gbg Summer Cubing 2022](https://www.worldcubeassociation.org/competitions/GbgSummerCubing2022/results/podiums) |
 | 12 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Fargo Fall 2019](https://www.worldcubeassociation.org/competitions/FargoFall2019/results/podiums) |
 | 10 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [North Star Cubing Challenge 2020](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020/results/podiums) |
 | 10 | [Kim Roger Høyland Larsen](https://www.worldcubeassociation.org/persons/2015LARS04) | [Sandnes Open 2018](https://www.worldcubeassociation.org/competitions/SandnesOpen2018/results/podiums) |

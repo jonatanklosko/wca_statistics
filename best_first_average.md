@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  5 September 2022*
+*Updated on  8 September 2022*
 
 
 ### Rubik's Cube
@@ -143,6 +143,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 44.01 | [Jingqi Zhang](https://www.worldcubeassociation.org/persons/2016ZHAJ08) |
 | 45.10 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) |
 | 45.67 | [Mingyu Liu (刘铭宇)](https://www.worldcubeassociation.org/persons/2018LIUM02) |
 | 45.96 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) |
@@ -152,14 +153,13 @@
 | 48.69 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) |
 | 48.89 | [Oscar Isaac Corona Munguía](https://www.worldcubeassociation.org/persons/2022MUNG01) |
 | 50.16 | [Hiroaki Okamoto (岡本裕陽)](https://www.worldcubeassociation.org/persons/2018OKAM01) |
-| 51.07 | [Alicia Yu](https://www.worldcubeassociation.org/persons/2015YUAL01) |
 
 ### Pyraminx
 
 | First average | Person |
 | ---: | :--- |
 | 2.99 | [Heath Flick](https://www.worldcubeassociation.org/persons/2020FLIC01) |
-| 3.04 | [Peter Li (李致远)](https://www.worldcubeassociation.org/persons/2022LIPE01) |
+| 3.04 | [Zhiyuan Peter Li (李致远)](https://www.worldcubeassociation.org/persons/2022LIPE01) |
 | 3.06 | [Yixuan Li (李逸轩)](https://www.worldcubeassociation.org/persons/2018LIYI14) |
 | 3.23 | [Giorgi Minasiani (გიორგი მინასიანი)](https://www.worldcubeassociation.org/persons/2022MINA01) |
 | 3.25 | [Ilario Joaquín Chiacchiarini](https://www.worldcubeassociation.org/persons/2022CHIA06) |
@@ -182,7 +182,7 @@
 | 6.65 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 6.70 | [Renji Earl Kurniawan](https://www.worldcubeassociation.org/persons/2019KURN01) |
 | 6.83 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) |
-| 6.92 | [Ed Scholey](https://www.worldcubeassociation.org/persons/2020SCHO03) |
+| 6.91 | [Yen-An Chen (陳彥安)](https://www.worldcubeassociation.org/persons/2019CHEY31) |
 
 ### Skewb
 
@@ -204,15 +204,15 @@
 | First average | Person |
 | ---: | :--- |
 | 7.84 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
+| 8.09 | [Yen-An Chen (陳彥安)](https://www.worldcubeassociation.org/persons/2019CHEY31) |
 | 10.15 | [Ray Ng Qi Rui (黄启瑞)](https://www.worldcubeassociation.org/persons/2022RUIR01) |
 | 10.18 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
 | 10.52 | [Nikolas Palassis](https://www.worldcubeassociation.org/persons/2019PALA11) |
 | 10.68 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2017THUY01) |
+| 10.87 | [Diogo Miguel Alves Guerreiro](https://www.worldcubeassociation.org/persons/2019GUER03) |
 | 11.05 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) |
 | 11.44 | [Tatsuya Kusanagi (草彅達也)](https://www.worldcubeassociation.org/persons/2018KUSA02) |
 | 11.65 | [Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01) |
-| 11.75 | [Boqin Zhao (赵博钦)](https://www.worldcubeassociation.org/persons/2017ZHAO32) |
-| 11.83 | [Václav Maxa](https://www.worldcubeassociation.org/persons/2022MAXA01) |
 
 ### 4x4x4 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  5 September 2022*
+*Updated on  8 September 2022*
 
 
 ### Rubik's Cube
@@ -46,8 +46,8 @@
 | 0.12 | [Zachary Garber](https://www.worldcubeassociation.org/persons/2014GARB01) | 56.38 | 56.50 | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2014GARB01) |
 | 0.12 | [Nick Young](https://www.worldcubeassociation.org/persons/2006YOUN03) | 1:26.34 | 1:26.46 | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2006YOUN03) |
 | 0.13 | [Sheng Cao (曹晟)](https://www.worldcubeassociation.org/persons/2011CAOS01) | 31.56 | 31.69 | [Shenyang Summer 2018](https://www.worldcubeassociation.org/competitions/ShenyangSummer2018/results/by_person#2011CAOS01) |
+| 0.13 | [Gabriel Tan](https://www.worldcubeassociation.org/persons/2018TANG33) | 35.02 | 35.15 | [YJ Malaysia Cube Open 2022](https://www.worldcubeassociation.org/competitions/YJMalaysiaCubeOpen2022/results/by_person#2018TANG33) |
 | 0.15 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 26.22 | 26.37 | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020/results/by_person#2012BEAH01) |
-| 0.15 | [Jun-Hao Hu (胡峻豪)](https://www.worldcubeassociation.org/persons/2017HUJU01) | 37.64 | 37.79 | [Taiwan Championship 2018](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2018/results/by_person#2017HUJU01) |
 
 ### 5x5x5 Cube
 
@@ -210,9 +210,9 @@
 | 3.38 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 1:49.58 | 1:52.96 | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022/results/by_person#2013WALL03) |
 | 3.53 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 2:01.51 | 2:05.04 | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022/results/by_person#2019HIRS01) |
 | 3.85 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 1:08.70 | 1:12.55 | [Florida Fall Fest 2019](https://www.worldcubeassociation.org/competitions/FloridaFallFest2019/results/by_person#2016CHAP04) |
+| 4.03 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 8:33.95 | 8:37.98 | [YJ Malaysia Cube Open 2022](https://www.worldcubeassociation.org/competitions/YJMalaysiaCubeOpen2022/results/by_person#2014WENW01) |
 | 4.13 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 4:24.90 | 4:29.03 | [Chester Open 2019](https://www.worldcubeassociation.org/competitions/ChesterOpen2019/results/by_person#2018SHEN07) |
 | 4.19 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:35.33 | 1:39.52 | [Weihai Open 2019](https://www.worldcubeassociation.org/competitions/WeihaiOpen2019/results/by_person#2013LINK01) |
-| 4.25 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:30.82 | 1:35.07 | [Hangzhou Open 2018](https://www.worldcubeassociation.org/competitions/HangzhouOpen2018/results/by_person#2013LINK01) |
 
 ### 5x5x5 Blindfolded
 

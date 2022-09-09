@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  5 September 2022*
+*Updated on  8 September 2022*
 
 
 ### Rubik's Cube
@@ -15,9 +15,9 @@
 | 7.57 | [Taeyeong Han](https://www.worldcubeassociation.org/persons/2022HANT02) |
 | 7.59 | [Cao Viết Tùng](https://www.worldcubeassociation.org/persons/2022TUNG01) |
 | 7.68 | [Ruihao Qian (钱睿昊)](https://www.worldcubeassociation.org/persons/2019QIAN10) |
+| 7.69 | [Nigel Sim](https://www.worldcubeassociation.org/persons/2022SIMN01) |
 | 7.74 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
 | 7.96 | [Trần Hoàng Bảo Nam](https://www.worldcubeassociation.org/persons/2022NAMT03) |
-| 8.02 | [Vrishab Anurag Venkataraghavan](https://www.worldcubeassociation.org/persons/2022VENK01) |
 
 ### 2x2x2 Cube
 
@@ -122,7 +122,7 @@
 | 26 | [Ali Salavati (علی صلواتی)](https://www.worldcubeassociation.org/persons/2011SALA04) |
 | 26 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 26 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) |
-| 27 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
+| 27 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 
 ### 3x3x3 One-Handed
 
@@ -148,11 +148,11 @@
 | 46.39 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) |
 | 47.47 | [Tyler Gee](https://www.worldcubeassociation.org/persons/2019GEET02) |
 | 47.78 | [Ida Putu Sucita Danuartha](https://www.worldcubeassociation.org/persons/2022DANU01) |
+| 48.17 | [Jingqi Zhang](https://www.worldcubeassociation.org/persons/2016ZHAJ08) |
 | 49.11 | [Changhee Yeh (예창희)](https://www.worldcubeassociation.org/persons/2019YEHC02) |
 | 49.12 | [Hilarry Henry](https://www.worldcubeassociation.org/persons/2017HENR03) |
 | 49.23 | [Mingyu Liu (刘铭宇)](https://www.worldcubeassociation.org/persons/2018LIUM02) |
 | 49.35 | [Lee Yu Zhe](https://www.worldcubeassociation.org/persons/2019ZHEL01) |
-| 49.43 | [Yuhang Sun (孙煜航)](https://www.worldcubeassociation.org/persons/2019SUNY09) |
 
 ### Pyraminx
 
@@ -203,6 +203,7 @@
 
 | First single | Person |
 | ---: | :--- |
+| 7.34 | [Yen-An Chen (陳彥安)](https://www.worldcubeassociation.org/persons/2019CHEY31) |
 | 8.07 | [Ray Ng Qi Rui (黄启瑞)](https://www.worldcubeassociation.org/persons/2022RUIR01) |
 | 8.70 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
 | 9.01 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
@@ -212,7 +213,6 @@
 | 10.29 | [Boqin Zhao (赵博钦)](https://www.worldcubeassociation.org/persons/2017ZHAO32) |
 | 10.63 | [Tatsuya Kusanagi (草彅達也)](https://www.worldcubeassociation.org/persons/2018KUSA02) |
 | 10.80 | [Zhibo Xuan (禤志博)](https://www.worldcubeassociation.org/persons/2017XUAN01) |
-| 11.28 | [Pedro Lobeto Miyamoto](https://www.worldcubeassociation.org/persons/2019MIYA05) |
 
 ### 4x4x4 Blindfolded
 

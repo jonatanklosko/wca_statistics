@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  5 September 2022*
+*Updated on  8 September 2022*
 
 
 ### Rubik's Cube
@@ -84,6 +84,7 @@
 | ---: | :--- | :--- |
 | 28.01 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Mega Open Ciudadela 2022](https://www.worldcubeassociation.org/competitions/MegaOpenCiudadela2022/results/by_person#2018LOPE22) |
 | 28.09 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Utah PfA 2022](https://www.worldcubeassociation.org/competitions/UtahPfA2022/results/by_person#2015NAIN01) |
+| 28.35 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [YJ Malaysia Cube Open 2022](https://www.worldcubeassociation.org/competitions/YJMalaysiaCubeOpen2022/results/by_person#2016YONG02) |
 | 28.43 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | [Mega FMC Helsinki 2022](https://www.worldcubeassociation.org/competitions/MegaFMCHelsinki2022/results/by_person#2014NORD02) |
 | 28.44 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022/results/by_person#2018LOPE22) |
 | 28.77 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Mega Open Ciudadela 2022](https://www.worldcubeassociation.org/competitions/MegaOpenCiudadela2022/results/by_person#2018LOPE22) |
@@ -91,7 +92,6 @@
 | 29.05 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Mofun & FIS 2022](https://www.worldcubeassociation.org/competitions/SingaporeMofunandFIS2022/results/by_person#2016YONG02) |
 | 29.28 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Mega Open Ciudadela 2022](https://www.worldcubeassociation.org/competitions/MegaOpenCiudadela2022/results/by_person#2018LOPE22) |
 | 29.32 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Mega Open Ciudadela 2022](https://www.worldcubeassociation.org/competitions/MegaOpenCiudadela2022/results/by_person#2018LOPE22) |
-| 29.35 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Madryn al Cubo 2022](https://www.worldcubeassociation.org/competitions/MadrynAlCubo2022/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 

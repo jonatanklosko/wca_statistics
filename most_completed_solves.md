@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  8 September 2022*
+*Updated on 11 September 2022*
 
 
 ### Competition
@@ -24,9 +24,9 @@
 | [US Nationals 2015](https://www.worldcubeassociation.org/competitions/USNationals2015) | **16335** | 17133 |
 | [US Nationals 2014](https://www.worldcubeassociation.org/competitions/USNationals2014) | **15511** | 16399 |
 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017) | **15393** | 15895 |
+| [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022) | **14723** | 15065 |
 | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | **13918** | 14567 |
 | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022) | **13684** | 14361 |
-| [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | **12551** | 13241 |
 
 ### Person
 
@@ -42,7 +42,7 @@
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **10631** | 11410 |
 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | **10421** | 10552 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **10376** | 11088 |
-| [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **9985** | 10494 |
+| [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **10014** | 10524 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **9827** | 10743 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **9815** | 10408 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **9590** | 9889 |
@@ -57,13 +57,13 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **2491664** | 2617197 |
+| United States | **2508962** | 2634958 |
 | China | **1212800** | 1272685 |
 | Poland | **653045** | 686743 |
-| India | **609784** | 642063 |
+| India | **610273** | 642568 |
 | Germany | **458862** | 481334 |
+| Australia | **432726** | 456663 |
 | Russia | **430990** | 455782 |
-| Australia | **430508** | 454373 |
 | Spain | **429700** | 451157 |
 | France | **366059** | 385433 |
 | Canada | **362162** | 378223 |
@@ -83,11 +83,11 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | Europe | **4898887** | 5149271 |
-| Asia | **3265112** | 3424265 |
-| North America | **3184990** | 3341508 |
+| Asia | **3266196** | 3425372 |
+| North America | **3206106** | 3363212 |
 | South America | **1069038** | 1120141 |
-| Oceania | **529745** | 558999 |
-| Africa | **69450** | 72639 |
+| Oceania | **536142** | 565656 |
+| Africa | **70059** | 73274 |
 | Multiple Continents | **1674** | 2229 |
 
 ### Year
@@ -97,8 +97,8 @@
 | 2019 | **2537752** | 2657069 |
 | 2018 | **2221617** | 2327686 |
 | 2017 | **1754566** | 1838128 |
+| 2022 | **1224861** | 1281686 |
 | 2016 | **1196511** | 1253828 |
-| 2022 | **1195655** | 1251583 |
 | 2015 | **885839** | 929324 |
 | 2014 | **679130** | 717373 |
 | 2013 | **447093** | 473664 |
@@ -119,26 +119,26 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **4070690** | 4164151 |
-| 2x2x2 Cube | **2271098** | 2330355 |
-| Pyraminx | **1389909** | 1428118 |
-| 4x4x4 Cube | **1229391** | 1278245 |
-| 3x3x3 One-Handed | **1162501** | 1202774 |
-| Skewb | **822764** | 846242 |
-| 5x5x5 Cube | **623892** | 643906 |
-| Megaminx | **349883** | 366166 |
-| Square-1 | **319701** | 334701 |
-| Clock | **201490** | 234842 |
-| 6x6x6 Cube | **126988** | 132023 |
-| 7x7x7 Cube | **105606** | 110356 |
-| 3x3x3 Blindfolded | **91884** | 258663 |
+| 3x3x3 Cube | **4077882** | 4171492 |
+| 2x2x2 Cube | **2276629** | 2336020 |
+| Pyraminx | **1394287** | 1432597 |
+| 4x4x4 Cube | **1232206** | 1281194 |
+| 3x3x3 One-Handed | **1164953** | 1205297 |
+| Skewb | **826089** | 849633 |
+| 5x5x5 Cube | **624548** | 644574 |
+| Megaminx | **350319** | 366611 |
+| Square-1 | **321061** | 336099 |
+| Clock | **201974** | 235402 |
+| 6x6x6 Cube | **127271** | 132317 |
+| 7x7x7 Cube | **105862** | 110618 |
+| 3x3x3 Blindfolded | **91912** | 258758 |
 | Magic | **78268** | 86498 |
 | 3x3x3 Fewest Moves | **56883** | 81385 |
 | 3x3x3 With Feet | **51903** | 56672 |
 | Master Magic | **39964** | 41445 |
-| 3x3x3 Multi-Blind | **15441** | 27418 |
-| 4x4x4 Blindfolded | **7319** | 29329 |
-| 5x5x5 Blindfolded | **2916** | 15172 |
+| 3x3x3 Multi-Blind | **15446** | 27427 |
+| 4x4x4 Blindfolded | **7322** | 29347 |
+| 5x5x5 Blindfolded | **2918** | 15178 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

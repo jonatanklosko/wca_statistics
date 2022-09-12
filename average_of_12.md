@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 September 2022*
+*Updated on 11 September 2022*
 
 
 ### Rubik's Cube
@@ -77,7 +77,7 @@
 | 1:25.92 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:26.04, 1:46.08, 1:25.12, 1:29.22, 1:26.51, 1:19.23, 1:25.94, 1:23.57, 1:25.81, 1:20.35, 1:26.07, 1:30.66 |
 | 1:28.97 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:30.81, 1:25.09, 1:24.98, 1:32.55, 1:32.92, 1:27.60, 1:40.34, 1:24.61, 1:26.86, 1:38.33, 1:26.00, 1:24.12 |
 | 1:29.30 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:29.74, 1:24.11, 1:29.43, 1:30.71, 1:29.11, 1:41.34, 1:29.41, 1:30.39, 1:23.24, 1:30.22, 1:24.60, 1:35.30 |
-| 1:31.75 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | 1:25.56, 1:36.68, 1:35.27, 1:36.65, 1:31.03, 1:28.91, 1:44.88, 1:31.30, 1:31.09, 1:27.29, 1:30.77, 1:28.58 |
+| 1:30.19 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:38.01, 1:28.27, 1:36.91, 1:33.55, 1:27.06, 1:28.34, 1:25.57, 1:27.60, 1:28.09, 1:40.27, 1:26.94, 1:27.19 |
 
 ### 7x7x7 Cube
 
@@ -88,11 +88,11 @@
 | 2:04.18 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:08.47, 2:04.14, 2:02.17, 2:09.62, 2:12.13, 2:03.54, 2:01.49, 2:08.09, 1:59.29, 1:57.13, 2:03.33, 2:01.68 |
 | 2:04.32 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:59.35, 2:01.87, 2:09.45, 2:06.53, 2:08.26, 2:03.53, 2:06.13, 2:15.90, 1:54.68, 2:05.77, 2:07.67, 1:42.51 |
 | 2:04.83 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:04.14, 2:00.82, 2:16.10, 2:09.69, 1:56.60, 2:02.22, 2:01.53, 2:05.20, 2:09.70, 2:00.79, 2:09.45, 2:04.76 |
+| 2:05.18 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 2:01.61, 2:02.32, 2:06.72, DNF, 1:57.55, 2:03.00, 2:12.03, 2:04.24, 1:57.78, 2:07.93, 2:13.39, 2:02.86 |
 | 2:06.65 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 2:09.21, 2:15.37, 2:10.94, 2:00.54, 2:04.91, 2:37.00, 2:08.92, 2:06.77, 2:05.84, 2:04.39, 1:59.68, 1:58.92 |
 | 2:06.67 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:56.84, 2:04.23, 2:11.21, 2:12.84, 2:11.93, 2:00.83, 2:04.55, 2:11.83, 2:09.17, 2:05.71, 2:06.87, 2:00.45 |
 | 2:07.22 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 2:11.46, 2:10.69, 2:06.26, 2:08.78, 2:11.88, 2:07.20, 2:02.37, 2:05.68, 2:04.05, 2:04.60, 2:04.78, 2:08.70 |
 | 2:07.80 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 2:09.48, 2:13.64, 2:11.81, 2:06.83, 2:14.14, 2:05.64, 2:04.46, 2:06.56, 2:04.21, 2:10.24, 2:02.76, 2:05.19 |
-| 2:09.05 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 2:21.12, 1:57.36, 2:04.66, 2:06.37, 2:21.22, 2:11.58, 2:07.14, 1:56.78, 2:14.61, 2:15.53, 1:58.77, 2:13.44 |
 
 ### 3x3x3 Blindfolded
 
@@ -165,9 +165,9 @@
 | 1.99 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.35, 2.19, 1.78, 2.52, 2.32, 1.98, 3.86, 1.74, 1.98, 1.69, 2.40, 1.18 |
 | 2.07 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.85, 1.93, 2.37, 2.40, 1.70, 2.36, 2.11, 2.56, 1.95, 1.88, 2.23, 1.64 |
 | 2.07 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.86, 2.28, 2.24, 2.49, 2.29, 1.64, 2.47, 2.14, 2.35, 1.67, 1.63, 1.85 |
+| 2.11 | [Wesley Allen](https://www.worldcubeassociation.org/persons/2015ALLE03) | 3.06, 1.77, 1.94, 2.28, 1.80, 2.19, 2.05, 2.08, 2.15, 2.23, 2.70, 1.76 |
 | 2.12 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.27, 1.45, 2.01, 2.29, 2.54, 2.64, 2.52, 1.17, 3.99, 1.39, 1.80, 2.33 |
 | 2.13 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 2.04, 2.46, 1.92, 2.85, DNF, 1.27, 1.84, 2.51, 1.15, 2.07, 2.08, 2.30 |
-| 2.16 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 2.03, 2.15, 1.79, 3.31, 1.78, 1.93, 2.31, 1.70, 2.00, 3.55, 2.18, 2.18 |
 
 ### Rubik's Clock
 
@@ -188,14 +188,14 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1.87 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.73, 1.42, 3.71, 2.24, 1.85, 2.12, 1.10, 2.06, 2.61, 1.30, 1.88, 1.55 |
+| 1.60 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.30, 1.20, 1.79, 1.60, 4.89, 1.41, 2.03, 1.35, 1.62, 1.82, 1.27, 1.85 |
 | 2.01 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.84, 1.83, 2.43, 2.27, 2.07, 2.02, 1.32, 1.83, 3.29, 1.73, 2.09, 2.07 |
 | 2.39 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 2.65, 2.73, 2.68, 2.22, 2.36, 2.20, 2.33, 2.79, 1.97, 3.10, 1.94, 2.05 |
 | 2.41 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.61, 2.18, 2.31, 3.58, 2.30, 2.25, 2.55, 1.90, 2.01, 2.42, 2.61, 2.91 |
+| 2.42 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 5.69, 2.18, 2.09, 2.23, 2.88, 2.73, 3.25, 1.56, 1.98, 2.12, 2.91, 1.92 |
 | 2.47 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 5.16, 1.75, 2.11, 2.31, 2.37, 2.46, 2.40, 2.28, 3.16, 2.28, 2.99, 2.36 |
 | 2.48 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 1.95, 2.16, 4.41, 2.57, 2.98, 3.18, 2.91, 2.13, 2.56, 2.23, 2.19, 1.57 |
 | 2.48 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2.57, 2.50, 2.01, 2.68, 3.56, 2.08, 2.54, 2.60, 3.01, 1.67, 2.68, 2.19 |
-| 2.49 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 2.49, 2.29, 1.87, 2.30, 2.77, 4.18, 2.77, 2.18, 1.45, 2.63, 1.66, 3.97 |
 | 2.50 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | 2.10, 1.68, 3.00, 4.17, 2.06, 5.61, 2.91, 2.16, 2.05, 2.21, 1.91, 2.45 |
 | 2.51 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 1.77, 3.02, 1.85, 3.03, 2.75, 2.78, 2.72, 2.10, 2.84, 2.24, 4.14, 1.84 |
 

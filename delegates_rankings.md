@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  8 September 2022*
+*Updated on 11 September 2022*
 
 
 ### Rubik's Cube - Single
@@ -39,6 +39,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **0.62** | United States | [Cubing in the Ville 2022](https://www.worldcubeassociation.org/competitions/CubingInTheVille2022) | 0.62, 1.81, 3.60, 1.25, 1.64 |
+| [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | **0.63** | United States | [Get To The Point 2022](https://www.worldcubeassociation.org/competitions/GetToThePoint2022) | 5.20, 0.63, 2.96, 2.52, 2.66 |
+| [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **0.66** | United States | [Get To The Point 2022](https://www.worldcubeassociation.org/competitions/GetToThePoint2022) | 2.35, 0.66, 2.83, DNF, 1.93 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **0.68** | Poland | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) | 3.83, 0.68, 3.07, 3.30, 5.11 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **0.74** | Australia | [Marrickville Autumn Sat 2021](https://www.worldcubeassociation.org/competitions/MarrickvilleAutumnSaturday2021) | 1.96, 2.04, 1.53, 0.74, 1.78 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **0.77** | Denmark | [Kjeller Open 2018](https://www.worldcubeassociation.org/competitions/KjellerOpen2018) | 0.77, 1.94, 2.25, 1.97, 1.79 |
@@ -46,8 +48,6 @@
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **0.85** | United States | [Cubing in the Ville 2022](https://www.worldcubeassociation.org/competitions/CubingInTheVille2022) | 0.85, 5.45, 3.72, 3.59, 2.95 |
 | [Tyler Williams](https://www.worldcubeassociation.org/persons/2017WILL05) | **0.86** | Australia | [Rockingham Rapid 2022](https://www.worldcubeassociation.org/competitions/RockinghamRapid2022) | 2.52, 2.73, 0.86, 3.12, 3.28 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **0.87** | United States | [Clifton Winter 2017](https://www.worldcubeassociation.org/competitions/CliftonWinter2017) | 2.68, 0.87, 3.11, 2.27, 5.44 |
-| [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | **0.91** | United States | [Howland 2017](https://www.worldcubeassociation.org/competitions/HowlandHighSpring2017) | 3.80, 3.04, 3.02, 0.91, 3.13 |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **0.93** | Spain | [Murcia 2018](https://www.worldcubeassociation.org/competitions/Murcia2018) | 0.93, 2.91, 1.93, 1.65, 1.40 |
 
 ### 2x2x2 Cube - Average
 

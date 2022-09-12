@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  8 September 2022*
+*Updated on 11 September 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -12,7 +12,7 @@
 | France | **706** | 614 | 514 | 1834 |
 | Russia | **549** | 379 | 316 | 1244 |
 | Poland | **387** | 275 | 206 | 868 |
-| China | **376** | 332 | 296 | 1004 |
+| China | **379** | 332 | 296 | 1007 |
 | Malaysia | **334** | 316 | 283 | 933 |
 | Canada | **330** | 329 | 349 | 1008 |
 | United Kingdom | **316** | 350 | 362 | 1028 |
@@ -31,14 +31,14 @@
 | Spain | **166** | 151 | 178 | 495 |
 | Ukraine | **160** | 155 | 155 | 470 |
 | Peru | **142** | 71 | 87 | 300 |
-| Indonesia | **137** | 129 | 104 | 370 |
+| Indonesia | **138** | 131 | 105 | 374 |
 | Romania | **136** | 100 | 94 | 330 |
 | Slovenia | **121** | 154 | 146 | 421 |
 | Colombia | **120** | 88 | 82 | 290 |
 | Belgium | **118** | 178 | 160 | 456 |
 | Greece | **118** | 139 | 103 | 360 |
 | Austria | **114** | 163 | 177 | 454 |
-| Singapore | **113** | 118 | 128 | 359 |
+| Singapore | **114** | 119 | 128 | 361 |
 | Belarus | **106** | 64 | 74 | 244 |
 | Ireland | **103** | 58 | 39 | 200 |
 | Latvia | **100** | 148 | 139 | 387 |

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  8 September 2022*
+*Updated on 11 September 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -30,8 +30,8 @@
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 72 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 72 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 71 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
-| 70 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 67 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 66 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -64,11 +64,11 @@
 | 48 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 48 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 48 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
+| 48 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 48 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 47 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
 | 47 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 47 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 47 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 46 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 46 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
@@ -90,6 +90,7 @@
 | 43 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 42 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 42 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
+| 41 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 41 | [Raphaël Pihet](https://www.worldcubeassociation.org/persons/2011PIHE01) |
 | 41 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 41 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |
@@ -99,7 +100,6 @@
 | 41 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 41 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 41 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) |
-| 40 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 40 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 40 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
 | 40 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |

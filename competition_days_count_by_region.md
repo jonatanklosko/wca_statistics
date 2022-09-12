@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Updated on  8 September 2022*
+*Updated on 11 September 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8331 |
+| 1.50 | World | 8349 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2703 |
-| 1.59 | South America | 932 |
+| 1.77 | Europe | 2710 |
+| 1.59 | South America | 933 |
 | 1.48 | Oceania | 341 |
-| 1.42 | Asia | 2089 |
-| 1.21 | North America | 2171 |
+| 1.42 | Asia | 2092 |
+| 1.21 | North America | 2178 |
 | 1.20 | Africa | 95 |
 
 ### Countries
@@ -32,7 +32,7 @@
 | 2.00 | Uzbekistan | 11 |
 | 1.96 | Slovakia | 23 |
 | 1.95 | United Kingdom | 122 |
-| 1.94 | Turkey | 49 |
+| 1.94 | Turkey | 51 |
 | 1.93 | Lithuania | 15 |
 | 1.93 | Belarus | 42 |
 | 1.93 | Germany | 167 |
@@ -41,21 +41,21 @@
 | 1.89 | Bosnia and Herzegovina | 9 |
 | 1.88 | Croatia | 17 |
 | 1.86 | Norway | 71 |
-| 1.85 | France | 222 |
+| 1.85 | France | 224 |
 | 1.85 | Serbia | 13 |
 | 1.84 | Belgium | 58 |
 | 1.84 | Switzerland | 81 |
-| 1.84 | Spain | 231 |
+| 1.84 | Spain | 232 |
 | 1.83 | Austria | 18 |
 | 1.83 | Mexico | 88 |
 | 1.82 | Thailand | 28 |
 | 1.82 | Ukraine | 93 |
-| 1.81 | Brazil | 313 |
+| 1.82 | Brazil | 314 |
 | 1.80 | North Macedonia | 5 |
 | 1.80 | San Marino | 5 |
-| 1.78 | Denmark | 106 |
+| 1.78 | Denmark | 107 |
 | 1.77 | Guatemala | 48 |
-| 1.76 | Sweden | 119 |
+| 1.76 | Sweden | 120 |
 | 1.75 | Bangladesh | 8 |
 | 1.74 | Slovenia | 23 |
 | 1.67 | Ireland | 24 |
@@ -66,15 +66,15 @@
 | 1.66 | Poland | 310 |
 | 1.65 | Argentina | 55 |
 | 1.65 | Iran | 31 |
+| 1.63 | Indonesia | 171 |
 | 1.62 | Iceland | 8 |
 | 1.62 | Netherlands | 93 |
-| 1.62 | Indonesia | 170 |
-| 1.62 | India | 401 |
+| 1.62 | India | 402 |
 | 1.59 | Colombia | 128 |
 | 1.57 | Bolivia | 77 |
-| 1.55 | Malaysia | 58 |
 | 1.55 | New Zealand | 73 |
 | 1.55 | Israel | 22 |
+| 1.54 | Malaysia | 59 |
 | 1.52 | Dominican Republic | 25 |
 | 1.51 | Italy | 150 |
 | 1.50 | Ghana | 2 |
@@ -109,11 +109,11 @@
 | 1.21 | Uruguay | 34 |
 | 1.20 | Bahrain | 5 |
 | 1.20 | Portugal | 15 |
-| 1.17 | United States | 1736 |
+| 1.17 | United States | 1740 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Honduras | 12 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | Canada | 215 |
+| 1.16 | Canada | 218 |
 | 1.13 | Azerbaijan | 39 |
 | 1.12 | El Salvador | 24 |
 | 1.12 | Panama | 8 |

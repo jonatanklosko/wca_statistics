@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 11 September 2022*
+*Updated on 14 September 2022*
 
 
 ### Rubik's Cube
@@ -130,11 +130,11 @@
 | ---: | :--- | :--- |
 | 8.52 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 9.11, 7.77, 7.98, 10.81, 8.47 |
 | 8.55 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.65, 8.66, 8.27, 9.35, 8.36 |
+| 8.97 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 10.82, 8.60, 8.74, 8.96, 9.22 |
 | 8.98 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 9.42, 10.21, 8.56, 8.39, 8.97 |
 | 9.24 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 9.21, 8.70, 8.52, 11.73, 9.83 |
 | 9.30 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 8.87, 8.94, 10.57, 8.80, 10.10 |
 | 9.32 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 12.35, 8.78, 10.35, 8.83, 8.13 |
-| 9.53 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 10.03, 9.83, 8.74, 14.25, 8.05 |
 | 9.54 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 9.12, 9.59, 8.87, 15.43, 9.91 |
 | 9.63 | [Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06) | 9.99, 9.17, 9.75, 17.45, 9.08 |
 | 9.69 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | 9.30, 9.46, 9.60, 12.10, 10.03 |
@@ -179,10 +179,10 @@
 | 3.87 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.45, 4.80, 3.76, 3.46, 4.41 |
 | 4.08 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 3.98, 3.49, 6.67, 4.34, 3.92 |
 | 4.31 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.90, 4.13, 4.06, 4.29, 4.51 |
+| 4.33 | [Joshua Marriott](https://www.worldcubeassociation.org/persons/2019MARR04) | DNF, 4.25, 4.36, 4.01, 4.38 |
 | 4.34 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 3.73, 6.14, 4.69, 3.85, 4.50 |
 | 4.36 | [Jacob Evarts](https://www.worldcubeassociation.org/persons/2018EVAR01) | 3.17, 4.85, 6.01, 3.89, 4.35 |
 | 4.38 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) | 4.07, 4.07, 4.48, 5.13, 4.60 |
-| 4.43 | [Virgile Perrot](https://www.worldcubeassociation.org/persons/2017PERR02) | 4.44, 4.16, 5.43, 4.38, 4.48 |
 
 ### Skewb
 

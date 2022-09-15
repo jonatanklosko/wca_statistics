@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 11 September 2022*
+*Updated on 14 September 2022*
 
 
 ### Rubik's Cube
@@ -105,8 +105,8 @@
 | 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
 | 1.53 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2015GORN01) |
 | 1.53 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Twisty Taranaki 2022](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2022/results/by_person#2018MURR03) |
+| 1.54 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Opawa Open 2022](https://www.worldcubeassociation.org/competitions/OpawaOpen2022/results/by_person#2018MURR03) |
 | 1.55 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/by_person#2015KAME02) |
-| 1.55 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) | [Ural Autumn 2021](https://www.worldcubeassociation.org/competitions/UralAutumn2021/results/by_person#2017MESY01) |
 
 ### Rubik's Clock
 
@@ -118,10 +118,10 @@
 | 3.73 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/by_person#2021DUNA01) |
 | 3.76 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 | 3.76 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Carlisle Summer 2022](https://www.worldcubeassociation.org/competitions/CarlisleSummer2022/results/by_person#2017CHAM09) |
+| 3.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wakefield Autumn 2022](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2022/results/by_person#2017CHAM09) |
+| 3.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wakefield Autumn 2022](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2022/results/by_person#2017CHAM09) |
 | 3.84 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [GA Cubers Big & Blind Time 2022](https://www.worldcubeassociation.org/competitions/GACubersBigBlindTime2022/results/by_person#2015TREL02) |
 | 3.84 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [GA Cubers Warm Up 2022](https://www.worldcubeassociation.org/competitions/GACubersWarmUp2022/results/by_person#2015TREL02) |
-| 3.85 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/by_person#2015TREL02) |
-| 3.87 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2015TREL02) |
 
 ### Skewb
 

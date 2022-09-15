@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 11 September 2022*
+*Updated on 14 September 2022*
 
 
 ### Competition
@@ -45,7 +45,7 @@
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **10014** | 10524 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **9827** | 10743 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **9815** | 10408 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **9590** | 9889 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **9676** | 9980 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **9319** | 9706 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **9205** | 9674 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **9114** | 9370 |
@@ -57,21 +57,21 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **2508962** | 2634958 |
+| United States | **2517931** | 2644304 |
 | China | **1212800** | 1272685 |
-| Poland | **653045** | 686743 |
-| India | **610273** | 642568 |
+| Poland | **656784** | 690746 |
+| India | **611464** | 643788 |
 | Germany | **458862** | 481334 |
-| Australia | **432726** | 456663 |
+| Spain | **433323** | 454981 |
+| Australia | **432726** | 456664 |
 | Russia | **430990** | 455782 |
-| Spain | **429700** | 451157 |
 | France | **366059** | 385433 |
 | Canada | **362162** | 378223 |
 | Brazil | **343759** | 359379 |
-| United Kingdom | **333485** | 351785 |
-| Philippines | **230065** | 239755 |
+| United Kingdom | **337658** | 356214 |
+| Philippines | **231490** | 241229 |
 | Taiwan | **212496** | 218637 |
-| Italy | **198027** | 209302 |
+| Italy | **201204** | 212635 |
 | Indonesia | **196224** | 207596 |
 | Sweden | **194249** | 205371 |
 | Colombia | **190681** | 201269 |
@@ -82,11 +82,11 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **4898887** | 5149271 |
-| Asia | **3266196** | 3425372 |
-| North America | **3206106** | 3363212 |
+| Europe | **4913666** | 5164939 |
+| Asia | **3268812** | 3428066 |
+| North America | **3215075** | 3372558 |
 | South America | **1069038** | 1120141 |
-| Oceania | **536142** | 565656 |
+| Oceania | **538419** | 568027 |
 | Africa | **70059** | 73274 |
 | Multiple Continents | **1674** | 2229 |
 
@@ -97,7 +97,7 @@
 | 2019 | **2537752** | 2657069 |
 | 2018 | **2221617** | 2327686 |
 | 2017 | **1754566** | 1838128 |
-| 2022 | **1224861** | 1281686 |
+| 2022 | **1253502** | 1311765 |
 | 2016 | **1196511** | 1253828 |
 | 2015 | **885839** | 929324 |
 | 2014 | **679130** | 717373 |
@@ -119,25 +119,25 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **4077882** | 4171492 |
-| 2x2x2 Cube | **2276629** | 2336020 |
-| Pyraminx | **1394287** | 1432597 |
-| 4x4x4 Cube | **1232206** | 1281194 |
-| 3x3x3 One-Handed | **1164953** | 1205297 |
-| Skewb | **826089** | 849633 |
-| 5x5x5 Cube | **624548** | 644574 |
-| Megaminx | **350319** | 366611 |
-| Square-1 | **321061** | 336099 |
-| Clock | **201974** | 235402 |
-| 6x6x6 Cube | **127271** | 132317 |
-| 7x7x7 Cube | **105862** | 110618 |
-| 3x3x3 Blindfolded | **91912** | 258758 |
+| 3x3x3 Cube | **4086749** | 4180552 |
+| 2x2x2 Cube | **2281061** | 2340565 |
+| Pyraminx | **1397772** | 1436168 |
+| 4x4x4 Cube | **1234574** | 1283656 |
+| 3x3x3 One-Handed | **1166877** | 1207286 |
+| Skewb | **828733** | 852343 |
+| 5x5x5 Cube | **625616** | 645698 |
+| Megaminx | **351380** | 367745 |
+| Square-1 | **321926** | 337005 |
+| Clock | **203306** | 236938 |
+| 6x6x6 Cube | **127483** | 132539 |
+| 7x7x7 Cube | **105925** | 110685 |
+| 3x3x3 Blindfolded | **92109** | 259332 |
 | Magic | **78268** | 86498 |
-| 3x3x3 Fewest Moves | **56883** | 81385 |
+| 3x3x3 Fewest Moves | **56999** | 81534 |
 | 3x3x3 With Feet | **51903** | 56672 |
 | Master Magic | **39964** | 41445 |
-| 3x3x3 Multi-Blind | **15446** | 27427 |
-| 4x4x4 Blindfolded | **7322** | 29347 |
+| 3x3x3 Multi-Blind | **15449** | 27433 |
+| 4x4x4 Blindfolded | **7326** | 29371 |
 | 5x5x5 Blindfolded | **2918** | 15178 |
 
 

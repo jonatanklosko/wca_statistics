@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 11 September 2022*
+*Updated on 14 September 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -825,6 +825,7 @@
 | 10 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | [Kaohsiung Winter Open 2016](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2016/results/podiums) |
 | 12 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
 | 14 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) | [Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/VisayasChampionship2019/results/podiums) |
+| 11 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) | [Cube Ta Bai sa Cebu 2022](https://www.worldcubeassociation.org/competitions/CubeTaBaisaCebu2022/results/podiums) |
 | 10 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) | [Cebu Speedcubing Year End 2019](https://www.worldcubeassociation.org/competitions/CebuSpeedcubingYearEnd2019/results/podiums) |
 | 15 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Michigan 2019](https://www.worldcubeassociation.org/competitions/Michigan2019/results/podiums) |
 | 14 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Florida Winter Break 2019](https://www.worldcubeassociation.org/competitions/FloridaWinterBreak2019/results/podiums) |

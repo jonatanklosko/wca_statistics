@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 11 September 2022*
+*Updated on 14 September 2022*
 
 
 ### Rubik's Cube
@@ -12,9 +12,9 @@
 | 5.23 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.09, 4.24, 7.01, 5.89, 5.28, 4.70, 6.14, 5.55, 4.18, 5.75, 5.72, 4.87 |
 | 5.50 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.23, 4.84, 6.48, 5.68, 4.74, 4.52, 4.88, 6.59, 6.43, 7.96, 4.62, 5.56 |
 | 5.59 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.62, 5.59, 5.48, 5.52, 5.45, 4.06, 7.51, 5.77, 6.41, 5.15, 5.88, 5.04 |
+| 5.75 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 5.10, 5.95, 5.39, 5.10, 6.41, 5.49, 6.40, 8.38, 5.73, 5.43, 5.59, 6.01 |
 | 5.94 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 5.53, 6.32, 5.81, DNF, 6.38, 5.35, 7.21, 5.38, 5.98, 5.76, 5.40, 5.72 |
 | 5.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.22, 5.70, 5.81, 6.51, 5.89, 6.93, 5.45, 5.24, 6.16, 6.65, 8.19, 5.48 |
-| 6.00 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 6.56, 5.52, 6.06, 6.57, 5.31, 6.64, 5.62, 5.39, 7.74, 5.54, 6.53, 5.66 |
 | 6.04 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.70, 6.62, 5.89, 6.85, 7.68, 5.68, 5.14, 5.49, 8.30, 4.28, 5.77, 5.65 |
 | 6.13 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 6.64, 5.96, 7.33, 5.31, 5.50, 6.71, 5.72, 5.66, 5.78, 5.87, 8.16, 6.20 |
 | 6.15 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | 6.17, 5.16, 8.31, 5.87, 5.42, 5.30, 7.53, 5.42, 6.65, 8.04, 6.00, 4.88 |
@@ -130,14 +130,14 @@
 | ---: | :--- | :--- |
 | 8.98 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.76, 8.00, 8.92, 9.37, 9.17, 9.36, 9.83, 8.08, 8.92, 9.48, 9.74, 7.30 |
 | 9.34 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.77, 9.41, 11.50, 10.35, 9.90, 8.86, 9.11, 7.77, 7.98, 10.81, 8.47, 9.80 |
+| 9.57 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 7.93, 10.48, 9.46, 10.67, 9.74, 10.09, 10.82, 8.60, 8.74, 8.96, 9.22, 9.80 |
 | 9.95 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 9.42, 10.21, 8.56, 8.39, 8.97, 12.37, 11.30, 10.13, 10.44, 9.60, 9.92, 11.03 |
 | 10.04 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 9.86, 9.28, 9.73, 10.34, 9.43, 10.09, 10.45, 9.27, 12.07, 15.31, 9.87, 9.31 |
-| 10.12 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 9.27, 8.91, 10.57, 9.88, 9.44, 10.49, DNF, 9.88, 9.65, 11.57, 11.58, 7.66 |
 | 10.17 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 9.04, 12.35, 8.78, 10.35, 8.83, 8.13, 11.05, 10.73, 11.88, 11.12, 8.37, 11.56 |
 | 10.19 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 10.10, 8.85, 8.70, 9.87, 12.94, 10.58, 12.07, 9.12, 9.59, 8.87, 15.43, 9.91 |
+| 10.23 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | 9.58, 9.80, 10.10, 10.84, 8.81, 11.25, 13.06, 10.96, 10.67, 10.25, 7.41, 10.11 |
 | 10.26 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 10.52, 9.99, 13.70, 7.84, 14.27, 8.87, 8.94, 10.57, 8.80, 10.10, 11.69, 9.43 |
 | 10.31 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | 9.84, 11.80, 10.76, 11.14, 7.52, 9.59, 10.94, 10.07, 10.73, 11.00, 9.28, 9.77 |
-| 10.49 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | 10.79, 11.33, 11.02, 11.97, 9.94, 10.31, 9.65, 12.36, 9.82, 9.97, 10.12, 9.15 |
 
 ### Megaminx
 

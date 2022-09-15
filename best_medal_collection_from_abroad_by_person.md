@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 11 September 2022*
+*Updated on 14 September 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -10,7 +10,7 @@
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **199** | 50 | 18 | 267 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **194** | 99 | 73 | 366 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
-| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **127** | 138 | 99 | 364 |
+| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **134** | 138 | 99 | 371 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **123** | 52 | 23 | 198 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **117** | 61 | 37 | 215 |
@@ -71,6 +71,7 @@
 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) | **37** | 20 | 49 | 106 |
 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | **36** | 31 | 19 | 86 |
 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | **36** | 29 | 25 | 90 |
+| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **36** | 20 | 30 | 86 |
 | [Ivan Torgashov (Іван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) | **36** | 15 | 22 | 73 |
 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | **36** | 12 | 9 | 57 |
 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **35** | 48 | 24 | 107 |
@@ -78,7 +79,6 @@
 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **35** | 16 | 9 | 60 |
 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | **34** | 34 | 31 | 99 |
 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | **34** | 24 | 39 | 97 |
-| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **34** | 19 | 28 | 81 |
 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) | **34** | 8 | 13 | 55 |
 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) | **33** | 22 | 32 | 87 |
 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) | **32** | 29 | 23 | 84 |

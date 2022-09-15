@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 11 September 2022*
+*Updated on 14 September 2022*
 
 
 ### 100 Competitions
@@ -63,6 +63,7 @@
 | 392 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 400 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
 | 427 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 428 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 435 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 441 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 449 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
@@ -76,7 +77,6 @@
 | 477 | [Luis Palomar París](https://www.worldcubeassociation.org/persons/2018PARI11) |
 | 490 | [Daniel Goldstein](https://www.worldcubeassociation.org/persons/2017GOLD01) |
 | 491 | [Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04) |
-| 499 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) |
 
 ### 10 Competitions
 
@@ -97,11 +97,11 @@
 | 162 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
 | 168 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 168 | [Santhosh Sabarinathan](https://www.worldcubeassociation.org/persons/2018SABA02) |
+| 168 | [Patrick Shi](https://www.worldcubeassociation.org/persons/2022SHIP01) |
 | 170 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) |
 | 176 | [Klaudia Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK02) |
 | 176 | [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) |
 | 176 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
-| 180 | [Roger Kirchner](https://www.worldcubeassociation.org/persons/2019KIRC01) |
 
 ### 5 Competitions
 

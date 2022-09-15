@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 11 September 2022*
+*Updated on 14 September 2022*
 
 
 ### Rubik's Cube
@@ -201,7 +201,7 @@
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | 9 |
 | [Javier Cabezuelo Sánchez](https://www.worldcubeassociation.org/persons/2007SANC01) | 9 |
 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) | 9 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 8 |
+| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 9 |
 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 7 |
 
 ### 3x3x3 One-Handed
@@ -294,8 +294,8 @@
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 16 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | 14 |
 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | 13 |
+| [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 13 |
 | [Ernesto Fernández Regueira](https://www.worldcubeassociation.org/persons/2004FERN01) | 12 |
-| [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 12 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 11 |
 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 11 |
 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | 10 |

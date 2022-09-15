@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 11 September 2022*
+*Updated on 14 September 2022*
 
 
 ### Rubik's Cube - Single
@@ -47,7 +47,7 @@
 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | **0.83** | Italy | [Trentin Open 2011](https://www.worldcubeassociation.org/competitions/TrentinOpen2011) | 5.28, 3.84, 0.83, 4.91, 3.94 |
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **0.85** | United States | [Cubing in the Ville 2022](https://www.worldcubeassociation.org/competitions/CubingInTheVille2022) | 0.85, 5.45, 3.72, 3.59, 2.95 |
 | [Tyler Williams](https://www.worldcubeassociation.org/persons/2017WILL05) | **0.86** | Australia | [Rockingham Rapid 2022](https://www.worldcubeassociation.org/competitions/RockinghamRapid2022) | 2.52, 2.73, 0.86, 3.12, 3.28 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **0.87** | United States | [Clifton Winter 2017](https://www.worldcubeassociation.org/competitions/CliftonWinter2017) | 2.68, 0.87, 3.11, 2.27, 5.44 |
+| [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | **0.87** | United States | [Berkeley Fall 2022](https://www.worldcubeassociation.org/competitions/BerkeleyFall2022) | 3.08, 3.30, 7.19, 2.64, 0.87 |
 
 ### 2x2x2 Cube - Average
 
@@ -353,9 +353,9 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **4.93** | United States | [Pittsburgh Summer B 2022](https://www.worldcubeassociation.org/competitions/PittsburghSummerB2022) | 4.51, 4.95, 4.96, 5.36, 4.88 |
+| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **4.92** | United States | [Amherst Open 2022](https://www.worldcubeassociation.org/competitions/AmherstSummer2022) | 4.49, 4.81, 4.43, 9.02, 5.47 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **4.93** | Poland | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | 4.19, 5.11, 4.32, 6.71, 5.35 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **5.50** | Poland | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | 5.18, DNF, 5.16, 5.69, 5.62 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **5.46** | Poland | [Gdańsk Open 2022](https://www.worldcubeassociation.org/competitions/GdanskOpen2022) | 5.29, 5.32, 5.75, 6.55, 5.30 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **5.57** | Sweden | [Flen - Stora Manschetten 2021](https://www.worldcubeassociation.org/competitions/FlenStoraManschetten2021) | 5.63, 5.66, 13.39, 5.08, 5.43 |
 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) | **5.59** | Norway | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) | 5.52, 5.40, 5.80, 6.13, 5.44 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **5.77** | United States | [Cobb Cubes Again 2018](https://www.worldcubeassociation.org/competitions/CobbCubesAgain2018) | 5.26, 5.78, 7.56, 5.27, 6.26 |

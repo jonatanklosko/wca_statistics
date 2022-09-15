@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 11 September 2022*
+*Updated on 14 September 2022*
 
 
 ### Rubik's Cube
@@ -114,6 +114,7 @@
 | First average | Person |
 | ---: | :--- |
 | 26.67 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 29.67 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) |
 | 30.00 | [Inha Woo (우인하)](https://www.worldcubeassociation.org/persons/2010INHA01) |
 | 30.00 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) |
 | 30.33 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) |
@@ -122,7 +123,6 @@
 | 30.67 | [Xinyu Lu (卢鑫宇)](https://www.worldcubeassociation.org/persons/2014LUXI05) |
 | 30.67 | [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) |
 | 31.00 | [Han Su (苏涵)](https://www.worldcubeassociation.org/persons/2021SUHA01) |
-| 31.33 | [Nitheesh Kumar Elangovan](https://www.worldcubeassociation.org/persons/2016ELAN01) |
 
 ### 3x3x3 One-Handed
 

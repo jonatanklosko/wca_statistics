@@ -1,9 +1,10 @@
 ## Most visited continents
 
-*Updated on 14 September 2022*
+*Updated on 17 September 2022*
 
 | Continents | Person |
 | ---: | :--- |
+| 6 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 6 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 6 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
@@ -29,7 +30,6 @@
 | 5 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 5 | [Helmut Heilig](https://www.worldcubeassociation.org/persons/2010HEIL02) |
 | 5 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
-| 5 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 5 | [Donna Hays](https://www.worldcubeassociation.org/persons/2011HAYS02) |
 | 5 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 5 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 14 September 2022*
+*Updated on 17 September 2022*
 
 
 ### Rubik's Cube - Single
@@ -206,12 +206,12 @@
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **15.38** | United States | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 15.28, 15.20, 15.65 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **15.98** | Canada | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 15.27, 16.01, 16.65 |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **17.84** | Australia | [Abbotsford Blind Challenge 2022](https://www.worldcubeassociation.org/competitions/AbbotsfordBlindChallenge2022) | 18.40, 19.33, 15.78 |
+| [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **17.88** | United States | [Silver Spring Summer 2022](https://www.worldcubeassociation.org/competitions/SilverSpringSummer2022) | 16.49, 17.18, 19.98 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | **18.43** | Peru | [Real Cube 2022](https://www.worldcubeassociation.org/competitions/RealCube2022) | 18.42, 19.16, 17.72 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **18.60** | United States | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 19.08, 17.67, 19.06 |
 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | **18.94** | Sweden | [Gbg Summer Cubing 2022](https://www.worldcubeassociation.org/competitions/GbgSummerCubing2022) | 17.78, 18.38, 20.66 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **19.08** | Argentina | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 20.49, 17.26, 19.49 |
 | [Phillip Maxwell](https://www.worldcubeassociation.org/persons/2017MAXW01) | **19.22** | Indonesia | [Jakarta Speedcubing 2022](https://www.worldcubeassociation.org/competitions/JakartaSpeedcubing2022) | 18.21, 17.82, 21.63 |
-| [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **19.31** | United States | [Owings Mills Summer 2022](https://www.worldcubeassociation.org/competitions/OwingsMillsSummer2022) | 20.68, 19.22, 18.02 |
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **19.49** | United States | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 20.44, 18.97, 19.05 |
 
 ### 3x3x3 Fewest Moves - Single
@@ -434,10 +434,10 @@
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **1:34.08** | Canada | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 1:54.47, 1:34.08, DNF |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **1:36.88** | United States | [BASC 33 But it's Quiet 2022](https://www.worldcubeassociation.org/competitions/BASC33butitsquiet2022) | DNF, 1:36.88, 1:41.38 |
 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **1:41.19** | Australia | [Brilliant Ballarat 2022](https://www.worldcubeassociation.org/competitions/BrilliantBallarat2022) | DNF, 1:41.19, DNF |
+| [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **1:43.92** | Switzerland | [Swiss Nationals 2022](https://www.worldcubeassociation.org/competitions/SwissNationals2022) | 2:01.87, 1:43.92, 1:50.42 |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **1:44.44** | United States | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) | 2:47.91, 1:44.44, DNF |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **1:46.16** | Denmark | [Sønderjysk Sommercubing 2022](https://www.worldcubeassociation.org/competitions/SonderjyskSommercubing2022) | 2:43.11, 1:46.16, DNF |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **1:47.96** | Poland | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) | DNF, DNF, 1:47.96 |
-| [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **1:49.66** | Denmark | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022) | 1:49.66, DNF, DNF |
 
 ### 4x4x4 Blindfolded - Average
 
@@ -445,7 +445,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1:30.79** | Sweden | [Fyris Side 'n Blind 2022](https://www.worldcubeassociation.org/competitions/FyrisSidenBlind2022) | 1:23.27, 1:25.83, 1:43.26 |
 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | **1:42.27** | Malaysia | [Sunday Silence Singapore 2022](https://www.worldcubeassociation.org/competitions/SundaySilenceSingapore2022) | 1:38.67, 1:33.11, 1:55.04 |
-| [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **2:05.04** | Switzerland | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022) | 2:03.60, 2:01.51, 2:10.01 |
+| [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **1:52.07** | Switzerland | [Swiss Nationals 2022](https://www.worldcubeassociation.org/competitions/SwissNationals2022) | 2:01.87, 1:43.92, 1:50.42 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | **2:19.37** | New Zealand | [NZ North Island Champs 2022](https://www.worldcubeassociation.org/competitions/NZNorthIslandChamps2022) | 2:02.90, 2:22.54, 2:32.67 |
 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **2:31.02** | Germany | [German Nationals 2022](https://www.worldcubeassociation.org/competitions/GermanNationals2022) | 1:52.18, 2:37.15, 3:03.72 |
 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **2:31.89** | Australia | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022) | 2:11.81, 2:30.78, 2:53.08 |

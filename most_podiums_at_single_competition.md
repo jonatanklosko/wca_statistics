@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 14 September 2022*
+*Updated on 17 September 2022*
 
 | Podiums | Person |
 | ---: | :--- |

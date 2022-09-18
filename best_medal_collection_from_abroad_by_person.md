@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 14 September 2022*
+*Updated on 17 September 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -85,8 +85,8 @@
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **32** | 22 | 16 | 70 |
 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | **32** | 14 | 10 | 56 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **32** | 7 | 5 | 44 |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **31** | 25 | 29 | 85 |
 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | **31** | 24 | 9 | 64 |
-| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **31** | 23 | 27 | 81 |
 | [Eric Limeback](https://www.worldcubeassociation.org/persons/2007LIME01) | **31** | 20 | 19 | 70 |
 | [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) | **29** | 49 | 46 | 124 |
 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) | **29** | 26 | 14 | 69 |
@@ -95,6 +95,7 @@
 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) | **28** | 19 | 17 | 64 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **28** | 13 | 24 | 65 |
 | [Tomas Jankauskas](https://www.worldcubeassociation.org/persons/2013JANK02) | **27** | 30 | 18 | 75 |
+| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **27** | 22 | 22 | 71 |
 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **27** | 18 | 16 | 61 |
 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **27** | 16 | 5 | 48 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | **26** | 29 | 26 | 81 |
@@ -102,7 +103,6 @@
 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) | **26** | 23 | 10 | 59 |
 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | **26** | 14 | 12 | 52 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **26** | 13 | 6 | 45 |
-| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **25** | 20 | 20 | 65 |
 | [Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03) | **25** | 17 | 19 | 61 |
 | [Thomas Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) | **24** | 46 | 33 | 103 |
 

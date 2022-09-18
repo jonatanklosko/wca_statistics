@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 14 September 2022*
+*Updated on 17 September 2022*
 
 | Countries | Person |
 | ---: | :--- |
@@ -16,10 +16,10 @@
 | 26 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 26 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 26 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
+| 25 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 25 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 25 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 24 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 23 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 23 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |

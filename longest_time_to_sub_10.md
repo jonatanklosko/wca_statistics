@@ -34,8 +34,8 @@
 | [James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01) | 9.18 |
 | [Zeqin Chen (陈泽钦)](https://www.worldcubeassociation.org/persons/2010CHEN37) | 9.16 |
 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | 9.06 |
-| [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
+| [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 8.97 |
 | [Danang Adianto](https://www.worldcubeassociation.org/persons/2013DANA01) | 8.91 |
@@ -52,8 +52,8 @@
 | [Ryan McIlhenny](https://www.worldcubeassociation.org/persons/2010MCIL02) | 8.53 |
 | [Jialin Zhou](https://www.worldcubeassociation.org/persons/2013ZHOU19) | 8.51 |
 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) | 8.44 |
-| [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 8.39 |
 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 8.39 |
+| [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 8.39 |
 | [Shenchuan Mao (毛神川)](https://www.worldcubeassociation.org/persons/2011MAOS01) | 8.38 |
 | [Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01) | 8.38 |
 | [Bo Yu (庾博)](https://www.worldcubeassociation.org/persons/2013YUBO01) | 8.37 |
@@ -61,8 +61,8 @@
 | [Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03) | 8.35 |
 | [Guus de Wit](https://www.worldcubeassociation.org/persons/2008WITG01) | 8.30 |
 | [Konstantin Krämer](https://www.worldcubeassociation.org/persons/2014KRAM02) | 8.28 |
-| [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | 8.28 |
 | [Chenge Liu (刘晨舸)](https://www.worldcubeassociation.org/persons/2011LIUC02) | 8.28 |
+| [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | 8.28 |
 | [Simon Lim (林少秋)](https://www.worldcubeassociation.org/persons/2008LIMS01) | 8.24 |
 | [Weston Mizumoto](https://www.worldcubeassociation.org/persons/2008MIZU01) | 8.24 |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 8.19 |
@@ -77,8 +77,8 @@
 | [Rowan Kinneavy](https://www.worldcubeassociation.org/persons/2008KINN01) | 7.99 |
 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 7.99 |
 | [Pei Pan (潘霈)](https://www.worldcubeassociation.org/persons/2010PANP01) | 7.97 |
-| [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) | 7.95 |
 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) | 7.95 |
+| [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) | 7.95 |
 | [Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03) | 7.92 |
 | [Andreas Gröbmayr](https://www.worldcubeassociation.org/persons/2010GROB02) | 7.91 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | 7.90 |
@@ -86,8 +86,8 @@
 | [Abel Pérez Gisbert](https://www.worldcubeassociation.org/persons/2014GISB01) | 7.82 |
 | [Ivan Torgashov (Іван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) | 7.82 |
 | [Kuo-Hau Wu (吳國豪)](https://www.worldcubeassociation.org/persons/2008WUKU01) | 7.80 |
-| [Tiancheng Feng (冯天成)](https://www.worldcubeassociation.org/persons/2009FENG08) | 7.80 |
 | [Renxin Tang (汤任欣)](https://www.worldcubeassociation.org/persons/2013TANG02) | 7.80 |
+| [Tiancheng Feng (冯天成)](https://www.worldcubeassociation.org/persons/2009FENG08) | 7.80 |
 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 7.77 |
 | [Jiajun Wu (吴佳骏)](https://www.worldcubeassociation.org/persons/2013WUJI03) | 7.76 |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 7.74 |
@@ -98,12 +98,12 @@
 | [Wataru Hashimura (端村航)](https://www.worldcubeassociation.org/persons/2008HASH02) | 7.61 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 7.61 |
 | [Jay Benedict Alfaras](https://www.worldcubeassociation.org/persons/2009ALFA01) | 7.61 |
-| [Dalton Nichols](https://www.worldcubeassociation.org/persons/2014NICH02) | 7.57 |
 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 7.57 |
+| [Dalton Nichols](https://www.worldcubeassociation.org/persons/2014NICH02) | 7.57 |
 | [Hao-Zheng Lin (林浩正)](https://www.worldcubeassociation.org/persons/2008LINH01) | 7.55 |
 | [Marc Mariano](https://www.worldcubeassociation.org/persons/2014MARI11) | 7.51 |
 | [Shunnosuke Takahashi (高橋峻之介)](https://www.worldcubeassociation.org/persons/2012TAKA01) | 7.50 |
-| [Christian Foyle](https://www.worldcubeassociation.org/persons/2011FOYL01) | 7.47 |
+| [Jakub Tkaczyk](https://www.worldcubeassociation.org/persons/2015TKAC02) | 7.47 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

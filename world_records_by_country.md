@@ -1,6 +1,6 @@
 ## World records count by country
 
-*Updated on 17 September 2022*
+*Updated on 20 September 2022*
 
 | WRs | Country |
 | ---: | :--- |
@@ -17,7 +17,7 @@
 | 21 | France |
 | 18 | Peru |
 | 18 | Republic of Korea |
-| 17 | United Kingdom |
+| 18 | United Kingdom |
 | 15 | Belgium |
 | 15 | Denmark |
 | 14 | Canada |

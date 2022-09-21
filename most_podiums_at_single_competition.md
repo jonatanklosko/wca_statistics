@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 17 September 2022*
+*Updated on 20 September 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -925,6 +925,7 @@
 | 10 | [Gerardo Varela](https://www.worldcubeassociation.org/persons/2017VARE01) | [Copa Inframundo HN 2019](https://www.worldcubeassociation.org/competitions/CopaInframundoHN2019/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Faria Brito Open 2022](https://www.worldcubeassociation.org/competitions/FariaBritoOpen2022/results/podiums) |
+| 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Planetario Open 2022](https://www.worldcubeassociation.org/competitions/PlanetarioOpen2022/results/podiums) |
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Arena BSB de Cubo Mágico 2019](https://www.worldcubeassociation.org/competitions/ArenaBSBdeCuboMagico2019/results/podiums) |
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Summer Kube Vila Velha 2020](https://www.worldcubeassociation.org/competitions/SummerKubeVilaVelha2020/results/podiums) |
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Uberlândia Open 2019](https://www.worldcubeassociation.org/competitions/UberlandiaOpen2019/results/podiums) |

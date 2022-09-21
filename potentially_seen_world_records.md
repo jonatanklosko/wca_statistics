@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 17 September 2022*
+*Updated on 20 September 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -93,6 +93,7 @@
 | 67 | [Fumiki Koseki (古関章記)](https://www.worldcubeassociation.org/persons/2005KOSE01) |
 | 66 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
+| 65 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 65 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 65 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 65 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
@@ -101,7 +102,6 @@
 | 64 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 64 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 64 | [Kirt Protacio](https://www.worldcubeassociation.org/persons/2010PROT01) |
-| 64 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 64 | [Peter Jansen](https://www.worldcubeassociation.org/persons/2003JANS01) |
 | 63 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 63 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |

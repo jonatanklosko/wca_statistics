@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 17 September 2022*
+*Updated on 20 September 2022*
 
 | Countries | Person |
 | ---: | :--- |
@@ -10,7 +10,7 @@
 | 38 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 33 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 28 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
+| 29 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 26 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 26 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
@@ -49,6 +49,7 @@
 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 18 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
+| 17 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 17 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 17 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 17 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
@@ -61,7 +62,6 @@
 | 17 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
 | 16 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
 | 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 16 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 16 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 16 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 16 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |

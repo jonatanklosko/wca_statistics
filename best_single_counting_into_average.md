@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 17 September 2022*
+*Updated on 20 September 2022*
 
 
 ### Rubik's Cube
@@ -113,15 +113,15 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 3.28 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
+| 3.39 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
+| 3.46 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
 | 3.54 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 | 3.66 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/by_person#2015TREL02) |
+| 3.69 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Diamond Bar September 2022](https://www.worldcubeassociation.org/competitions/DiamondBarSeptember2022/results/by_person#2021DUNA01) |
 | 3.73 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/by_person#2021DUNA01) |
 | 3.76 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 | 3.76 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Carlisle Summer 2022](https://www.worldcubeassociation.org/competitions/CarlisleSummer2022/results/by_person#2017CHAM09) |
 | 3.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wakefield Autumn 2022](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2022/results/by_person#2017CHAM09) |
-| 3.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wakefield Autumn 2022](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2022/results/by_person#2017CHAM09) |
-| 3.84 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [GA Cubers Big & Blind Time 2022](https://www.worldcubeassociation.org/competitions/GACubersBigBlindTime2022/results/by_person#2015TREL02) |
-| 3.84 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [GA Cubers Warm Up 2022](https://www.worldcubeassociation.org/competitions/GACubersWarmUp2022/results/by_person#2015TREL02) |
 
 ### Skewb
 

@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 17 September 2022*
+*Updated on 20 September 2022*
 
 
 ### Rubik's Cube - Single
@@ -196,8 +196,8 @@
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **20.70** | United States | [Mini Minnesota Fall 2019](https://www.worldcubeassociation.org/competitions/MiniMinnesotaFall2019) | DNF, 20.70, DNF |
 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | **24.73** | Jordan | [Jordan Fall Open 2021](https://www.worldcubeassociation.org/competitions/JordanFallOpen2021) | 27.21, 1:44.53, 24.73 |
 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **26.94** | Denmark | [Gislev Side Events 2019](https://www.worldcubeassociation.org/competitions/GislevSideEvents2019) | 37.91, DNF, 26.94 |
+| [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | **27.84** | Canada | [Nanaimo Back to School 2022](https://www.worldcubeassociation.org/competitions/NanaimoBacktoSchool2022) | 35.23, 36.53, 27.84 |
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | **28.14** | United Kingdom | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019) | DNF, 36.00, 28.14 |
-| [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | **28.77** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 28.77, 35.00, DNF |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -210,8 +210,8 @@
 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) | **24.50** | United Kingdom | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019) | 22.80, 29.72, 20.98 |
 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **30.36** | Denmark | [Danish Championship 2022](https://www.worldcubeassociation.org/competitions/DanishChampionship2022) | 32.15, 28.63, 30.31 |
 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | **31.61** | Jordan | [Hello Q8Speedcubing 2022](https://www.worldcubeassociation.org/competitions/HelloQ8Speedcubing2022) | 31.71, 28.06, 35.06 |
+| [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | **33.20** | Canada | [Nanaimo Back to School 2022](https://www.worldcubeassociation.org/competitions/NanaimoBacktoSchool2022) | 35.23, 36.53, 27.84 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **34.52** | Russia | [D-City Cubing 2019](https://www.worldcubeassociation.org/competitions/DCityCubing2019) | 39.31, 31.45, 32.80 |
-| [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | **34.86** | Canada | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 41.20, 31.14, 32.24 |
 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | **35.21** | United States | [Puget Sound NxNxN 2019](https://www.worldcubeassociation.org/competitions/PugetSoundNxNxN2019) | 31.31, 37.63, 36.70 |
 
 ### 3x3x3 Fewest Moves - Single

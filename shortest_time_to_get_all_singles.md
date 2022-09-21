@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 17 September 2022*
+*Updated on 20 September 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -287,6 +287,7 @@
 | 2471 | [Nick Vu](https://www.worldcubeassociation.org/persons/2007VUNI01) |
 | 2485 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) |
 | 2490 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |
+| 2491 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2498 | [Enoch Gray](https://www.worldcubeassociation.org/persons/2012GRAY01) |
 | 2533 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |
 | 2540 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |

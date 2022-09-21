@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 17 September 2022*
+*Updated on 20 September 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -190,6 +190,7 @@
 | 1 | [Ishaan Agrawal](https://www.worldcubeassociation.org/persons/2015AGRA03) |
 | 1 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 1 | [Jackey Zheng](https://www.worldcubeassociation.org/persons/2017ZHEN10) |
+| 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 1 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) |
 | 1 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
 | 1 | [Javier París](https://www.worldcubeassociation.org/persons/2005PARI01) |

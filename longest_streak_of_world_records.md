@@ -1,13 +1,13 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 17 September 2022*
+*Updated on 20 September 2022*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
 | 21 | 5x5x5 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2010](https://www.worldcubeassociation.org/competitions/AustralianNationals2010) | [Western Championship 2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018) | 7.78 |
 | 11 | 5x5x5 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2012](https://www.worldcubeassociation.org/competitions/AustralianNationals2012) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) | 5.73 |
 | 9 | Rubik's Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | [OCSEF 2017](https://www.worldcubeassociation.org/competitions/OCSEFOpen2017) | 7.23 |
-| 9 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) |  | 4.68 |
+| 9 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) |  | 4.69 |
 | 8 | 7x7x7 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | [Puget Sound Fall 2017](https://www.worldcubeassociation.org/competitions/PugetSoundFall2017) | 2.19 |
 | 8 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) |  | 4.15 |
 | 8 | 3x3x3 Multi-Blind | Single | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | [Keep Portland Quiet 2018](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2018) | 5.73 |
@@ -18,7 +18,7 @@
 | 7 | 4x4x4 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Mental Breakdown Washington 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownWashington2019) |  | 3.40 |
 | 6 | 7x7x7 Cube | Average | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | [Hefei Spring 2012](https://www.worldcubeassociation.org/competitions/HefeiSpring2012) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) | 1.38 |
 | 6 | 3x3x3 Blindfolded | Single | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) | [Beijing Metropolis Open 2009](https://www.worldcubeassociation.org/competitions/BeijingMetropolisOpen2009) | [Tulancingo Open 2010](https://www.worldcubeassociation.org/competitions/TulancingoOpen2010) | 1.61 |
-| 6 | Megaminx | Single | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Rubik Pro 2017](https://www.worldcubeassociation.org/competitions/RubikPro2017) |  | 5.33 |
+| 6 | Megaminx | Single | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Rubik Pro 2017](https://www.worldcubeassociation.org/competitions/RubikPro2017) |  | 5.34 |
 | 6 | Square-1 | Average | [Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01) | [Guangzhou Big Cubes 2010](https://www.worldcubeassociation.org/competitions/GuangzhouBigCubes2010) | [Slow N Steady Winter 2016](https://www.worldcubeassociation.org/competitions/SlowNSteadyWinter2016) | 5.56 |
 | 6 | 5x5x5 Blindfolded | Single | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | [Chattahoochee 2006](https://www.worldcubeassociation.org/competitions/Chattahoochee2006) | [Cat and Mouse 2010](https://www.worldcubeassociation.org/competitions/CatAndMouse2010) | 4.35 |
 | 5 | 2x2x2 Cube | Average | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Empire State Summer B 2021](https://www.worldcubeassociation.org/competitions/EmpireStateSummerB2021) |  | 1.14 |

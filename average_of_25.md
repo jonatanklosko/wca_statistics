@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 17 September 2022*
+*Updated on 20 September 2022*
 
 
 ### Rubik's Cube
@@ -25,7 +25,7 @@
 | ---: | :--- | :--- |
 | 1.18 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.08, 1.08, 1.44, 1.18, 1.42, 0.95, 1.03, 0.95, 1.70, 1.18, 0.99, 1.36, 0.88, 1.18, 2.95, 0.85, 0.79, 1.46, 1.02, 1.40, 1.15, 1.32, 1.08, 2.86, 0.94 |
 | 1.42 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.21, 1.24, 1.68, 1.48, 1.80, 1.90, 1.55, 1.04, 1.67, 1.46, 1.24, 1.44, 1.53, 1.84, 1.16, 1.62, 1.02, 0.97, DNF, 1.25, 1.28, 2.17, 1.30, 1.18, 1.04 |
-| 1.45 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.54, 1.51, 1.09, 1.84, 1.47, 1.50, 0.98, 1.60, 1.29, 1.56, 1.10, 1.21, 1.44, 1.48, 1.50, 1.93, 1.65, 3.81, 1.21, 2.14, 1.37, 1.78, 1.36, 1.08, 1.17 |
+| 1.42 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.50, 0.98, 1.60, 1.29, 1.56, 1.10, 1.21, 1.44, 1.48, 1.50, 1.93, 1.65, 3.81, 1.21, 2.14, 1.37, 1.78, 1.36, 1.08, 1.17, 1.35, 1.83, 1.19, 1.28, 1.12 |
 | 1.52 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 1.49, 2.37, 1.62, 1.05, 1.62, 1.34, 0.85, 1.73, 1.18, 1.40, 1.20, 3.25, 2.18, 9.52, 0.79, 1.78, 1.17, 1.00, 1.52, 1.81, 1.47, 1.69, 1.53, 1.29, 1.53 |
 | 1.54 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 1.08, 1.58, 1.76, 2.04, 1.56, 0.92, 1.75, 1.85, 1.68, 1.64, 1.22, 1.52, 1.20, 2.22, 1.20, 1.15, 1.60, 1.70, 1.32, 1.91, 3.21, 1.82, 1.23, 1.29, 1.52 |
 | 1.56 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | 1.32, 1.35, 1.76, DNF, 1.52, 1.82, 1.51, 2.25, 1.65, 1.23, 1.65, 1.73, 1.70, 1.52, 1.42, 1.67, 1.78, 1.72, 1.41, 4.57, 1.12, 1.27, 1.32, 1.22, 1.03 |
@@ -179,7 +179,7 @@
 | 5.08 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) | 4.61, 5.29, 5.67, 5.95, 6.96, 4.07, 4.07, 4.48, 5.13, 4.60, 4.19, 4.82, 5.39, 6.20, 4.35, DNF, 4.84, 6.28, 5.11, 6.43, 4.50, 5.21, 4.59, 4.49, 4.65 |
 | 5.19 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) | 4.43, 5.04, 8.31, 4.34, 4.55, 6.24, DNF, 5.53, 5.32, 4.60, 5.79, 4.66, 5.71, 5.09, 5.86, 5.30, 4.13, 4.44, 5.87, 5.47, 4.94, 4.46, 5.51, 5.36, 4.95 |
 | 5.19 | [Jacob Evarts](https://www.worldcubeassociation.org/persons/2018EVAR01) | 4.52, 4.30, 4.97, 5.36, 5.12, 5.38, 3.17, 4.85, 6.01, 3.89, 4.35, 6.14, DNF, 3.71, 5.20, 4.96, 5.43, 5.49, DNF, 6.93, 5.77, 5.06, 4.32, 5.65, 5.29 |
-| 5.31 | [Lucas Nieuwland](https://www.worldcubeassociation.org/persons/2018NIEU01) | 5.50, 6.31, 5.12, 5.12, 5.09, 5.57, 5.49, 4.87, 4.86, 5.97, 5.38, 5.83, 4.59, 6.22, 5.34, 4.52, 5.52, 5.39, 5.14, 5.61, 4.38, 5.17, 6.07, 5.32, 4.65 |
+| 5.27 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 4.00, DNF, 5.16, 4.52, 4.15, 9.26, 3.57, 8.73, 3.73, 6.14, 4.69, 3.85, 4.50, 4.96, 6.43, 5.30, 5.29, 4.97, DNF, 6.12, 7.11, 3.88, 4.24, 3.69, 3.50 |
 
 ### Skewb
 

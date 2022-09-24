@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 20 September 2022*
+*Updated on 23 September 2022*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -27,7 +27,7 @@
 | 86 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 84 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 73 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
+| 74 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 73 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 71 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
@@ -71,6 +71,7 @@
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 47 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
 | 46 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
+| 46 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 46 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 46 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 46 | [Aramayis Adloyan (Արամայիս Ադլոյան)](https://www.worldcubeassociation.org/persons/2012ADLO01) |
@@ -79,7 +80,6 @@
 | 45 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 45 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 45 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
-| 45 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 45 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 44 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 44 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 20 September 2022*
+*Updated on 23 September 2022*
 
 
 ### Rubik's Cube - Single
@@ -332,7 +332,7 @@
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **1.93** | Poland | [Cube4fun Bełżyce 2022](https://www.worldcubeassociation.org/competitions/Cube4funBelzyce2022) | 1.62, 2.75, 2.22, 1.90, 1.67 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | **1.94** | United States | [Country Roads Huntington 2022](https://www.worldcubeassociation.org/competitions/CountryRoadsHuntington2022) | 1.78, 2.12, 1.74, 1.91, 2.40 |
 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | **1.94** | France | [Swisscubing Cup IV 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2022) | 1.62, DNF, 1.79, 1.70, 2.34 |
-| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **1.96** | Poland | [Lužice Open 2022](https://www.worldcubeassociation.org/competitions/LuziceOpen2022) | 2.35, 1.67, 1.63, 1.85, 4.04 |
+| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **1.94** | Poland | [Cube4fun League X Rzeszów 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueXRzeszow2022) | 2.38, 2.53, 1.76, 1.64, 1.69 |
 
 ### Rubik's Clock - Single
 
@@ -373,11 +373,11 @@
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.10** | United States | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022) | 3.06, 1.10, 2.61, 3.62, 2.51 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **1.17** | Poland | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) | 1.17, 3.38, 1.39, 2.37, 3.36 |
 | [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | **1.17** | China | [Richmond Open Summer B 2022](https://www.worldcubeassociation.org/competitions/RichmondOpenSummerB2022) | 4.53, 1.17, 3.20, DNF, 1.83 |
+| [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | **1.22** | Spain | [Burjassot Open 2022](https://www.worldcubeassociation.org/competitions/BurjassotOpen2022) | 1.22, 2.78, 3.59, 2.44, 4.82 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.27** | United States | [Minnesota Cube Days 2022](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDay2022) | 2.72, 1.99, 2.33, 3.37, 1.27 |
 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | **1.28** | United States | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022) | 6.06, 2.11, 4.36, 1.28, 2.22 |
 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | **1.29** | Australia | [Melbourne Mini Sunday 2022](https://www.worldcubeassociation.org/competitions/MelbourneMiniSunday2022) | 5.59, 4.29, 5.09, 1.29, 3.85 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **1.31** | Poland | [Cube4fun Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022) | 1.68, 4.59, 4.31, 1.31, 2.33 |
-| [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | **1.35** | Spain | [Dacada San Fernando Open 2022](https://www.worldcubeassociation.org/competitions/DacadaSanFernandoOpen2022) | 3.53, 3.49, 1.35, 6.19, 4.11 |
 
 ### Skewb - Average
 

@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 20 September 2022*
+*Updated on 23 September 2022*
 
 
 ### Rubik's Cube - Single
@@ -330,9 +330,9 @@
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **2.93** | Poland | [Lužice Open 2022](https://www.worldcubeassociation.org/competitions/LuziceOpen2022) | 2.39, 3.86, 2.46, 3.06, 3.27 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **3.10** | Denmark | [Irish Championship 2018](https://www.worldcubeassociation.org/competitions/IrishChampionship2018) | 3.15, 3.11, 3.04, 4.00, 2.94 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **3.12** | Sweden | [Norwegian Championship 2019](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2019) | 3.30, 5.26, 2.67, 3.15, 2.92 |
+| [Emma Beranová](https://www.worldcubeassociation.org/persons/2019BERA01) | **3.19** | Czech Republic | [Lužice Open 2022](https://www.worldcubeassociation.org/competitions/LuziceOpen2022) | 2.92, 3.87, 2.21, 3.20, 3.44 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **3.29** | United States | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016) | 3.19, 3.63, 3.40, 3.13, 3.28 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **3.31** | United States | [Minnesota Qualifier 2019](https://www.worldcubeassociation.org/competitions/MinnesotaQualifier2019) | 4.23, 2.92, 3.38, 2.81, 3.62 |
-| [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **3.35** | Australia | [Geelong says So-Long 2021](https://www.worldcubeassociation.org/competitions/GeelongsaysSoLong2021) | 4.26, 3.05, 2.76, 4.02, 2.97 |
 
 ### Rubik's Clock - Single
 

@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 20 September 2022*
+*Updated on 23 September 2022*
 
 
 ### Rubik's Cube
@@ -58,11 +58,11 @@
 | 86 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) | [Swiss Science Open 2019](https://www.worldcubeassociation.org/competitions/SwissScienceOpen2019) |
 | 77 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) | [Kubekings Villanueva Open 2018](https://www.worldcubeassociation.org/competitions/KubekingsVillanuevaOpen2018) |
 | 65 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | [Lisboa Open 2018](https://www.worldcubeassociation.org/competitions/LisboaOpen2018) |
+| 61 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Cube4fun League X Rzeszów 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueXRzeszow2022) |
 | 56 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) | [Franconia Mini Open A 2022](https://www.worldcubeassociation.org/competitions/FranconiaMiniOpenA2022) |
 | 54 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) | [Minnesota Cube Melt 2018](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2018) |
 | 53 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Gessate Open 2017](https://www.worldcubeassociation.org/competitions/GessateOpen2017) |
 | 53 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Xlingen Open 2018](https://www.worldcubeassociation.org/competitions/XlingenOpen2018) |
-| 52 | [Justin Mallari](https://www.worldcubeassociation.org/persons/2010MALL01) | [Binghamton Winter 2019](https://www.worldcubeassociation.org/competitions/BinghamtonWinter2019) |
 
 ### 6x6x6 Cube
 

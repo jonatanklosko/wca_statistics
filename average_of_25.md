@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 20 September 2022*
+*Updated on 23 September 2022*
 
 
 ### Rubik's Cube
@@ -179,7 +179,7 @@
 | 5.08 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) | 4.61, 5.29, 5.67, 5.95, 6.96, 4.07, 4.07, 4.48, 5.13, 4.60, 4.19, 4.82, 5.39, 6.20, 4.35, DNF, 4.84, 6.28, 5.11, 6.43, 4.50, 5.21, 4.59, 4.49, 4.65 |
 | 5.19 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) | 4.43, 5.04, 8.31, 4.34, 4.55, 6.24, DNF, 5.53, 5.32, 4.60, 5.79, 4.66, 5.71, 5.09, 5.86, 5.30, 4.13, 4.44, 5.87, 5.47, 4.94, 4.46, 5.51, 5.36, 4.95 |
 | 5.19 | [Jacob Evarts](https://www.worldcubeassociation.org/persons/2018EVAR01) | 4.52, 4.30, 4.97, 5.36, 5.12, 5.38, 3.17, 4.85, 6.01, 3.89, 4.35, 6.14, DNF, 3.71, 5.20, 4.96, 5.43, 5.49, DNF, 6.93, 5.77, 5.06, 4.32, 5.65, 5.29 |
-| 5.27 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 4.00, DNF, 5.16, 4.52, 4.15, 9.26, 3.57, 8.73, 3.73, 6.14, 4.69, 3.85, 4.50, 4.96, 6.43, 5.30, 5.29, 4.97, DNF, 6.12, 7.11, 3.88, 4.24, 3.69, 3.50 |
+| 5.24 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 5.25, 4.54, 5.02, 5.58, 4.93, 4.63, 5.38, 6.56, 7.53, 5.43, 6.95, 6.09, 4.14, 5.21, 5.56, 4.62, 5.14, 5.93, 5.11, 5.22, 5.20, 4.73, 5.06, 4.90, 4.59 |
 
 ### Skewb
 

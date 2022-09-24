@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 20 September 2022*
+*Updated on 23 September 2022*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -63,7 +63,7 @@
 | 70 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
 | 70 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 70 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 68 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
+| 69 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 68 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 68 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
@@ -85,6 +85,7 @@
 | 64 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 63 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 63 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
+| 63 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 62 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
 | 62 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 62 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
@@ -92,7 +93,6 @@
 | 61 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) |
 | 61 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 61 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
-| 61 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 60 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 60 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 60 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |
@@ -101,8 +101,8 @@
 | 60 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 58 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 58 | [Ivan Torgashov (Іван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) |
-| 58 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 58 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
+| 58 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) |
 | 58 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 58 | [Pavel Galaktionov](https://www.worldcubeassociation.org/persons/2013GALA04) |
 

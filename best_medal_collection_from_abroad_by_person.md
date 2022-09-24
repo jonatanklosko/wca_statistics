@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 20 September 2022*
+*Updated on 23 September 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -10,7 +10,7 @@
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **199** | 50 | 18 | 267 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **196** | 100 | 74 | 370 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
-| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **134** | 138 | 99 | 371 |
+| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **140** | 139 | 99 | 378 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **123** | 52 | 23 | 198 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **117** | 61 | 37 | 215 |

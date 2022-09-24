@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 20 September 2022*
+*Updated on 23 September 2022*
 
 | Finals | Person |
 | ---: | :--- |
@@ -53,19 +53,19 @@
 | 768 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 767 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 753 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
+| 751 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 749 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
-| 741 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 738 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 732 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 729 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
+| 726 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 726 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
-| 724 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 725 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 724 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
-| 721 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 720 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 719 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 713 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 700 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 705 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 697 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 697 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 695 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 23 September 2022*
+*Updated on 10 October 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -404,6 +404,7 @@
 | 11 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Hessen Open 2017](https://www.worldcubeassociation.org/competitions/HessenOpen2017/results/podiums) |
 | 11 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Heureka Open 2014](https://www.worldcubeassociation.org/competitions/HeurekaOpen2014/results/podiums) |
 | 11 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Hobart Hoedown 2019](https://www.worldcubeassociation.org/competitions/HobartHoedown2019/results/podiums) |
+| 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Hono Luau Cube Off 2022](https://www.worldcubeassociation.org/competitions/HonoLuauCubeOff2022/results/podiums) |
 | 11 | [Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01) | [Huehue Open 2019](https://www.worldcubeassociation.org/competitions/HuehueOpen2019/results/podiums) |
 | 12 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Hungarian Nationals 2015](https://www.worldcubeassociation.org/competitions/HungarianNationals2015/results/podiums) |
 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008/results/podiums) |
@@ -591,6 +592,8 @@
 | 11 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | [N8W8 Summer 2012](https://www.worldcubeassociation.org/competitions/N8W8Summer2012/results/podiums) |
 | 10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [N8W8 Summer 2014](https://www.worldcubeassociation.org/competitions/N8W8Summer2014/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Nacionales Argentinas 2019](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2019/results/podiums) |
+| 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/podiums) |
+| 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/podiums) |
 | 10 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | [Nacionales El Salvador 2018](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2018/results/podiums) |
 | 10 | [Samuel Cuellar Ramirez](https://www.worldcubeassociation.org/persons/2015RAMI14) | [Nacionales El Salvador 2019](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2019/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Nacionales Uruguayas UCHI 2017](https://www.worldcubeassociation.org/competitions/NacionalesUruguayasUCHI2017/results/podiums) |
@@ -694,6 +697,7 @@
 | 12 | [Joonas Silvennoinen](https://www.worldcubeassociation.org/persons/2016SILV07) | [Pulmapelipäivät 2019](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2019/results/podiums) |
 | 13 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Pulmapelipäivät 2022](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2022/results/podiums) |
 | 10 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [QQQ 2018](https://www.worldcubeassociation.org/competitions/QuabbinQualifier2018/results/podiums) |
+| 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Qubes Don' Lie Bursa 2022](https://www.worldcubeassociation.org/competitions/QubesDonLieBursa2022/results/podiums) |
 | 10 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | [Québec City 2019](https://www.worldcubeassociation.org/competitions/QuebecCity2019/results/podiums) |
 | 11 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Quijote Open 2016](https://www.worldcubeassociation.org/competitions/QuijoteOpen2016/results/podiums) |
 | 10 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) | [Raipur Cube Carnival 2019](https://www.worldcubeassociation.org/competitions/RaipurCubeCarnival2019/results/podiums) |

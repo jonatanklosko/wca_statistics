@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -37,6 +37,7 @@
 | 2512 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 2660 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 2833 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 2897 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 2926 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 2982 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 3074 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |

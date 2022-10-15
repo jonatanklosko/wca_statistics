@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 
 ### Rubik's Cube - Single
@@ -384,7 +384,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.86** | United States | [Cubetcha A 2021](https://www.worldcubeassociation.org/competitions/CubetchaA2021) | 2.02, 1.32, 1.83, 3.29, 1.73 |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **2.31** | Spain | [Portugalete 700 Open 2022](https://www.worldcubeassociation.org/competitions/Portugalete700Open2022) | 3.19, 2.34, 2.42, 2.18, 1.97 |
+| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **2.12** | Spain | [Spanish Championship 2022](https://www.worldcubeassociation.org/competitions/SpanishChampionship2022) | 1.96, 1.40, 2.57, 1.84, 2.68 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **2.42** | Denmark | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) | 1.46, 3.13, 2.04, 4.24, 2.10 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **2.90** | Sweden | [German Nationals 2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018) | 2.05, 4.01, 3.68, 2.23, 2.78 |
 | [Tyler Williams](https://www.worldcubeassociation.org/persons/2017WILL05) | **3.06** | Australia | [Warm Up Mandurah 2022](https://www.worldcubeassociation.org/competitions/WarmUpMandurah2022) | 3.48, 6.72, 2.42, 3.25, 2.45 |
@@ -422,7 +422,7 @@
 | [Vincent Chen](https://www.worldcubeassociation.org/persons/2018CHEN17) | **8.57** | United States | [Oklahoma Fall 2019](https://www.worldcubeassociation.org/competitions/OklahomaFall2019) | 6.73, 9.15, 8.28, 8.28, 11.32 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **8.97** | Sweden | [German Nationals 2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018) | 8.04, 7.08, 9.00, 9.88, 18.50 |
 | [Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03) | **9.01** | Peru | [TCG Nueva Generación 2022](https://www.worldcubeassociation.org/competitions/TCGNuevaGeneracion2022) | 7.35, 13.98, 8.76, 9.26, 9.00 |
-| [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | **9.56** | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) | 9.30, 9.41, 14.70, 8.91, 9.97 |
+| [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | **9.48** | United States | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022) | 8.78, 9.38, 14.84, 9.98, 9.08 |
 
 ### 4x4x4 Blindfolded - Single
 

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -930,6 +930,7 @@
 | 10 | [David Lim](https://www.worldcubeassociation.org/persons/2010LIMD01) | [Waikato Summer 2011](https://www.worldcubeassociation.org/competitions/WaikatoSummerOpen2011/results/podiums) |
 | 14 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020/results/podiums) |
 | 11 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [WA State Championship 2021](https://www.worldcubeassociation.org/competitions/WAStateChampionship2021/results/podiums) |
+| 10 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [African Championship 2022](https://www.worldcubeassociation.org/competitions/WCAAfricanChampionship2022/results/podiums) |
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021/results/podiums) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015/results/podiums) |
 | 10 | [Grigoriy Barashkin](https://www.worldcubeassociation.org/persons/2017BARA05) | [Welcome to Murmansk 2021](https://www.worldcubeassociation.org/competitions/WelcometoMurmansk2021/results/podiums) |

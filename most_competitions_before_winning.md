@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 
 ### Rubik's Cube
@@ -98,6 +98,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 73 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | [Rockies Rager Fall 2022](https://www.worldcubeassociation.org/competitions/RockiesRagerFall2022) |
 | 66 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Hessen Open 2015](https://www.worldcubeassociation.org/competitions/HessenOpen2015) |
 | 65 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Eagle of the East 2018](https://www.worldcubeassociation.org/competitions/EagleoftheEast2018) |
 | 63 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [CCPA Open 2019](https://www.worldcubeassociation.org/competitions/CCPAOpen2019) |
@@ -107,7 +108,6 @@
 | 53 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | [IndalOpen 2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019) |
 | 52 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Hillcrest Cubing 2017](https://www.worldcubeassociation.org/competitions/HillcrestCubing2017) |
 | 50 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) | [Tassin-la-Demi-Cube Open 2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019) |
-| 43 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Swisscubing Cup III 2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2019) |
 
 ### 3x3x3 Fewest Moves
 

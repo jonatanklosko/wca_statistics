@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 
 ### Pairs
@@ -38,10 +38,10 @@
 | 89 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 88 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) & [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) |
 | 88 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) & [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) |
+| 88 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) & [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 87 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) & [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
 | 87 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) & [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 86 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) & [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
-| 85 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) & [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 82 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) & [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) |
 | 81 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) & [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 80 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) & [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |

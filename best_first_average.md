@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 
 ### Rubik's Cube
@@ -26,13 +26,13 @@
 | 1.75 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) |
 | 2.20 | [Tim Cents](https://www.worldcubeassociation.org/persons/2022CENT02) |
 | 2.25 | [Marco Giordano](https://www.worldcubeassociation.org/persons/2019GIOR02) |
+| 2.57 | [Charles Abemayor](https://www.worldcubeassociation.org/persons/2020ABEM01) |
 | 2.62 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) |
 | 2.63 | [Hua Huang (黄华)](https://www.worldcubeassociation.org/persons/2018HUAN08) |
 | 2.63 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 2.63 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 2.63 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) |
 | 2.64 | [Josué Esteban Bacilio Chicoma](https://www.worldcubeassociation.org/persons/2013CHIC01) |
-| 2.65 | [Boris McCoy](https://www.worldcubeassociation.org/persons/2021MCCO01) |
 
 ### 4x4x4 Cube
 
@@ -189,6 +189,7 @@
 | First average | Person |
 | ---: | :--- |
 | 2.83 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
+| 3.05 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 3.54 | [Jonah Hansen](https://www.worldcubeassociation.org/persons/2022HANS12) |
 | 4.01 | [Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01) |
 | 4.19 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) |
@@ -197,7 +198,6 @@
 | 4.27 | [Paul Park](https://www.worldcubeassociation.org/persons/2018PARK11) |
 | 4.31 | [Jingyang Zhang (张敬阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ22) |
 | 4.39 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) |
-| 4.40 | [Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02) |
 
 ### Square-1
 

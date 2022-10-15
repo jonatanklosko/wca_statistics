@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 
 ### Rubik's Cube
@@ -192,12 +192,12 @@
 | 2.17 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
 | 2.30 | [Fei Shi (石飞)](https://www.worldcubeassociation.org/persons/2017SHIF03) |
 | 2.48 | [Max Walaszek](https://www.worldcubeassociation.org/persons/2018WALA01) |
+| 2.59 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 2.68 | [Callan Vellozzi](https://www.worldcubeassociation.org/persons/2019VELL04) |
 | 2.80 | [Germán Yesid Cardona Fajardo](https://www.worldcubeassociation.org/persons/2018FAJA02) |
 | 2.98 | [Slavomil Voloskov (Славомил Волосков)](https://www.worldcubeassociation.org/persons/2018VOLO05) |
 | 3.03 | [Alexis Petillon](https://www.worldcubeassociation.org/persons/2022PETI02) |
 | 3.09 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
-| 3.15 | [Heng Tian Xiang](https://www.worldcubeassociation.org/persons/2017XIAN13) |
 
 ### Square-1
 

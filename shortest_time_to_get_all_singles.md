@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -120,8 +120,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
+| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -140,6 +140,7 @@
 | 1128 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 1133 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
 | 1147 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) |
+| 1147 | [Ryan Fong](https://www.worldcubeassociation.org/persons/2019FONG04) |
 | 1155 | [Paris Dorn](https://www.worldcubeassociation.org/persons/2015DORN02) |
 | 1155 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) |
 | 1156 | [Aniketh Arya](https://www.worldcubeassociation.org/persons/2015ARYA03) |

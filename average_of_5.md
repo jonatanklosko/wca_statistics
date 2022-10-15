@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 
 ### Rubik's Cube
@@ -23,11 +23,11 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 0.97 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 0.88, 1.18, 2.95, 0.85, 0.79 |
+| 0.92 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 2.23, 1.00, 0.98, 0.74, 0.80 |
 | 1.18 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.02, 0.97, DNF, 1.25, 1.28 |
+| 1.18 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 5.01, 0.94, 1.19, 1.09, 1.26 |
 | 1.20 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 0.91, 2.00, 1.07, 1.27, 1.26 |
 | 1.20 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | 1.12, 1.27, 1.32, 1.22, 1.03 |
-| 1.21 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.01, 1.19, 0.83, 2.66, 1.44 |
 | 1.21 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 1.41, 1.12, 0.81, 1.58, 1.10 |
 | 1.21 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | 1.20, 1.20, 1.21, 2.85, 1.22 |
 | 1.21 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.13, 1.47, 1.05, 2.65, 0.83 |
@@ -116,8 +116,8 @@
 | 22.00 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 23, 22, 23, 21, 21 |
 | 22.00 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | 23, 22, 21, 22, 22 |
 | 22.33 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 25, 23, 18, 22 |
+| 22.33 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 21, 27, 23, 21, 23 |
 | 22.66 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 26, 24, 22, 22, 22 |
-| 22.66 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 23, 23, 24, 22, 20 |
 | 22.66 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 21, 26, 24, 23, 21 |
 | 22.66 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 24, 22, 21, 29, 22 |
 | 22.66 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 25, 24, 22, 21, 22 |
@@ -129,7 +129,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 8.52 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 9.11, 7.77, 7.98, 10.81, 8.47 |
-| 8.55 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.65, 8.66, 8.27, 9.35, 8.36 |
+| 8.54 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.95, 6.20, 7.86, 9.68, 8.83 |
 | 8.97 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 10.82, 8.60, 8.74, 8.96, 9.22 |
 | 8.98 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 9.42, 10.21, 8.56, 8.39, 8.97 |
 | 9.24 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 9.21, 8.70, 8.52, 11.73, 9.83 |
@@ -191,13 +191,13 @@
 | 1.56 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 3.71, 1.30, 1.20, 1.79, 1.60 |
 | 1.61 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.29, 1.79, 1.88, 1.45, 1.61 |
 | 1.75 | [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 1.83, 2.83, 1.74, 1.37, 1.69 |
+| 1.80 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 1.62, 1.96, 1.40, 2.57, 1.84 |
 | 1.98 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.84, 1.87, 2.23, 2.75, 1.78 |
 | 1.99 | [Zeyu Hu (胡泽宇)](https://www.worldcubeassociation.org/persons/2014HUZE01) | 1.71, 2.15, 2.13, 3.32, 1.55 |
 | 2.00 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 1.56, 1.98, 2.12, 2.91, 1.92 |
 | 2.04 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 2.06, 2.02, 2.33, 1.96, 2.05 |
 | 2.07 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.46, 1.17, 3.38, 1.39, 2.37 |
 | 2.09 | [Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02) | 2.08, 2.32, 1.40, 4.41, 1.89 |
-| 2.10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 2.08, 2.51, 1.53, 4.01, 1.73 |
 
 ### Square-1
 

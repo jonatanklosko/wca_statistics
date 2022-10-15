@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8469 |
+| 1.50 | World | 8499 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2751 |
-| 1.59 | South America | 952 |
-| 1.48 | Oceania | 346 |
+| 1.77 | Europe | 2755 |
+| 1.59 | South America | 956 |
+| 1.48 | Oceania | 348 |
 | 1.42 | Asia | 2115 |
-| 1.21 | North America | 2209 |
+| 1.21 | North America | 2229 |
 | 1.21 | Africa | 96 |
 
 ### Countries
@@ -42,15 +42,15 @@
 | 1.89 | Bosnia and Herzegovina | 9 |
 | 1.88 | Croatia | 17 |
 | 1.86 | Norway | 74 |
-| 1.85 | France | 224 |
+| 1.85 | France | 227 |
 | 1.85 | Belgium | 59 |
 | 1.85 | Serbia | 13 |
 | 1.84 | Switzerland | 82 |
-| 1.84 | Spain | 236 |
+| 1.84 | Spain | 237 |
 | 1.83 | Austria | 18 |
-| 1.83 | Mexico | 88 |
 | 1.83 | Thailand | 29 |
-| 1.81 | Brazil | 320 |
+| 1.82 | Mexico | 89 |
+| 1.81 | Brazil | 321 |
 | 1.80 | North Macedonia | 5 |
 | 1.80 | San Marino | 5 |
 | 1.79 | Ukraine | 96 |
@@ -71,10 +71,10 @@
 | 1.62 | Indonesia | 173 |
 | 1.62 | Ireland | 26 |
 | 1.61 | India | 411 |
-| 1.61 | Colombia | 132 |
+| 1.61 | Colombia | 133 |
 | 1.57 | Bolivia | 79 |
+| 1.55 | New Zealand | 74 |
 | 1.55 | Latvia | 20 |
-| 1.55 | New Zealand | 73 |
 | 1.55 | Israel | 22 |
 | 1.54 | Malaysia | 59 |
 | 1.52 | Dominican Republic | 25 |
@@ -82,18 +82,18 @@
 | 1.50 | Ghana | 2 |
 | 1.50 | Sri Lanka | 2 |
 | 1.50 | Tajikistan | 2 |
-| 1.48 | Peru | 148 |
+| 1.48 | Peru | 149 |
 | 1.47 | Romania | 73 |
-| 1.46 | Australia | 273 |
+| 1.46 | Australia | 274 |
 | 1.44 | Singapore | 25 |
 | 1.43 | Costa Rica | 14 |
 | 1.41 | Paraguay | 17 |
 | 1.39 | Estonia | 41 |
 | 1.39 | Philippines | 195 |
 | 1.39 | Nepal | 18 |
-| 1.38 | Ecuador | 26 |
 | 1.38 | Hong Kong | 13 |
 | 1.38 | Jordan | 8 |
+| 1.37 | Ecuador | 27 |
 | 1.36 | Greece | 14 |
 | 1.34 | Taiwan | 112 |
 | 1.33 | Bahrain | 6 |
@@ -110,10 +110,10 @@
 | 1.20 | Georgia | 5 |
 | 1.20 | Portugal | 15 |
 | 1.20 | Uruguay | 35 |
-| 1.17 | Canada | 219 |
-| 1.17 | United States | 1767 |
+| 1.17 | Canada | 221 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
+| 1.17 | United States | 1784 |
 | 1.15 | Honduras | 13 |
 | 1.13 | Azerbaijan | 39 |
 | 1.12 | El Salvador | 24 |

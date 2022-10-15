@@ -1,20 +1,20 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **558** | 352 | 231 | 1141 |
+| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **558** | 353 | 231 | 1142 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **333** | 198 | 124 | 655 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **199** | 50 | 18 | 267 |
-| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **196** | 100 | 74 | 370 |
+| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **196** | 101 | 75 | 372 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
-| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **140** | 139 | 99 | 378 |
+| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **142** | 142 | 102 | 386 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **130** | 52 | 23 | 205 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **117** | 61 | 37 | 215 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **112** | 138 | 119 | 369 |
+| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **112** | 140 | 121 | 373 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **111** | 90 | 71 | 272 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **110** | 101 | 87 | 298 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **108** | 122 | 108 | 338 |
@@ -25,7 +25,7 @@
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | **94** | 34 | 27 | 155 |
 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | **92** | 99 | 67 | 258 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **78** | 111 | 70 | 259 |
+| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **80** | 112 | 71 | 263 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **76** | 28 | 24 | 128 |
 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **69** | 29 | 37 | 135 |
@@ -90,13 +90,13 @@
 | [Eric Limeback](https://www.worldcubeassociation.org/persons/2007LIME01) | **31** | 20 | 19 | 70 |
 | [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) | **29** | 49 | 46 | 124 |
 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) | **29** | 26 | 14 | 69 |
+| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **29** | 23 | 22 | 74 |
 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | **29** | 11 | 8 | 48 |
 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) | **28** | 49 | 51 | 128 |
 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | **28** | 40 | 12 | 80 |
 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) | **28** | 19 | 17 | 64 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **28** | 13 | 24 | 65 |
 | [Tomas Jankauskas](https://www.worldcubeassociation.org/persons/2013JANK02) | **27** | 30 | 18 | 75 |
-| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **27** | 22 | 22 | 71 |
 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **27** | 18 | 16 | 61 |
 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **27** | 16 | 5 | 48 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **27** | 13 | 7 | 47 |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 October 2022*
+*Updated on 14 October 2022*
 
 
 ### Rubik's Cube
@@ -23,6 +23,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 0.79 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2018KHAN28) |
+| 0.80 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/by_person#2018KHAN28) |
 | 0.82 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
 | 0.83 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Utah Fall 2021](https://www.worldcubeassociation.org/competitions/UtahFall2021/results/by_person#2018KHAN28) |
 | 0.83 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Babylon Fall 2021](https://www.worldcubeassociation.org/competitions/BabylonFall2021/results/by_person#2018KHAN28) |
@@ -31,7 +32,6 @@
 | 0.91 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Clash at Carlisle Fall 2019](https://www.worldcubeassociation.org/competitions/ClashatCarlisleFall2019/results/by_person#2018KHAN28) |
 | 0.92 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Idaho Summer B 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerB2021/results/by_person#2018KHAN28) |
 | 0.93 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | [Tea Time Spring 2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018/results/by_person#2012CALL01) |
-| 0.93 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018/results/by_person#2013EGDA02) |
 
 ### 4x4x4 Cube
 

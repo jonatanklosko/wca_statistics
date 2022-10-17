@@ -37,13 +37,13 @@
 | [James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01) | 9.18 |
 | [Zeqin Chen (陈泽钦)](https://www.worldcubeassociation.org/persons/2010CHEN37) | 9.16 |
 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | 9.06 |
-| [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
+| [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 8.97 |
 | [Danang Adianto](https://www.worldcubeassociation.org/persons/2013DANA01) | 8.91 |
-| [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
 | [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
+| [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
 | [Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08) | 8.82 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
 | [Choi Yeong-Jun](https://www.worldcubeassociation.org/persons/2013YEON01) | 8.72 |
@@ -65,9 +65,9 @@
 | [Derek Tat](https://www.worldcubeassociation.org/persons/2009TATD01) | 8.36 |
 | [Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03) | 8.35 |
 | [Guus de Wit](https://www.worldcubeassociation.org/persons/2008WITG01) | 8.30 |
+| [Konstantin Krämer](https://www.worldcubeassociation.org/persons/2014KRAM02) | 8.28 |
 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | 8.28 |
 | [Chenge Liu (刘晨舸)](https://www.worldcubeassociation.org/persons/2011LIUC02) | 8.28 |
-| [Konstantin Krämer](https://www.worldcubeassociation.org/persons/2014KRAM02) | 8.28 |
 | [Simon Lim (林少秋)](https://www.worldcubeassociation.org/persons/2008LIMS01) | 8.24 |
 | [Weston Mizumoto](https://www.worldcubeassociation.org/persons/2008MIZU01) | 8.24 |
 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) | 8.20 |
@@ -77,8 +77,8 @@
 | [Alexandre de Siqueira Júnior](https://www.worldcubeassociation.org/persons/2010JUNI02) | 8.11 |
 | [Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01) | 8.11 |
 | [Alex Thielemier](https://www.worldcubeassociation.org/persons/2009THIE02) | 8.09 |
-| [Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01) | 8.07 |
 | [Yu Byeong-Seon (유병선)](https://www.worldcubeassociation.org/persons/2008BYEO01) | 8.07 |
+| [Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01) | 8.07 |
 | [Aaron Abramowitz](https://www.worldcubeassociation.org/persons/2009ABRA01) | 8.03 |
 | [Rowan Kinneavy](https://www.worldcubeassociation.org/persons/2008KINN01) | 7.99 |
 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 7.99 |

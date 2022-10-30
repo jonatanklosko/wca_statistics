@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 14 October 2022*
+*Updated on 30 October 2022*
 
 
 ### Rubik's Cube
@@ -89,9 +89,9 @@
 | 28.35 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [YJ Malaysia Cube Open 2022](https://www.worldcubeassociation.org/competitions/YJMalaysiaCubeOpen2022/results/by_person#2016YONG02) |
 | 28.43 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | [Mega FMC Helsinki 2022](https://www.worldcubeassociation.org/competitions/MegaFMCHelsinki2022/results/by_person#2014NORD02) |
 | 28.44 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022/results/by_person#2018LOPE22) |
+| 28.45 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [DFW Cubing Fall 2022](https://www.worldcubeassociation.org/competitions/DFWCubingFall2022/results/by_person#2015NAIN01) |
 | 28.52 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/by_person#2018LOPE22) |
 | 28.77 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Mega Open Ciudadela 2022](https://www.worldcubeassociation.org/competitions/MegaOpenCiudadela2022/results/by_person#2018LOPE22) |
-| 28.86 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 
@@ -99,6 +99,7 @@
 | ---: | :--- | :--- |
 | 1.32 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2017NIEL03) |
 | 1.39 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/by_person#2015GORN01) |
+| 1.41 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Cubing Fall 2022](https://www.worldcubeassociation.org/competitions/DFWCubingFall2022/results/by_person#2016PILA03) |
 | 1.48 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [Silver Spring Summer 2022](https://www.worldcubeassociation.org/competitions/SilverSpringSummer2022/results/by_person#2017NIEL03) |
 | 1.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016KOLA02) |
 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
@@ -106,7 +107,6 @@
 | 1.53 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2015GORN01) |
 | 1.53 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Twisty Taranaki 2022](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2022/results/by_person#2018MURR03) |
 | 1.54 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Opawa Open 2022](https://www.worldcubeassociation.org/competitions/OpawaOpen2022/results/by_person#2018MURR03) |
-| 1.55 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/by_person#2015KAME02) |
 
 ### Rubik's Clock
 

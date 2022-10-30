@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 14 October 2022*
+*Updated on 30 October 2022*
 
 
 ### Rubik's Cube
@@ -29,10 +29,10 @@
 | [Deepthi Rathakrishnan](https://www.worldcubeassociation.org/persons/2009RATH01) | 13.81 | **30.03** | [Dubai Open 2009](https://www.worldcubeassociation.org/competitions/DubaiOpen2009/results/podiums#e222) | 2 |
 | [Rathakrishnan Mathan](https://www.worldcubeassociation.org/persons/2009MATH01) | 26.96 | **29.49** | [Dubai Open 2009](https://www.worldcubeassociation.org/competitions/DubaiOpen2009/results/podiums#e222) | 1 |
 | [Afef Thabet](https://www.worldcubeassociation.org/persons/2014THAB01) | 15.76 | **25.57** | [Tunisia Spring Open 2015](https://www.worldcubeassociation.org/competitions/TunisiaSpringOpen2015/results/podiums#e222) | 3 |
+| [Sahil Mirchandani](https://www.worldcubeassociation.org/persons/2022MIRC02) | 20.38 | **25.52** | [Curaçao Open 2022](https://www.worldcubeassociation.org/competitions/CuracaoOpen2022/results/podiums#e222) | 3 |
 | [Abdesalam Derdour](https://www.worldcubeassociation.org/persons/2014DERD01) | 16.02 | **24.35** | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014/results/podiums#e222) | 3 |
+| [Gavin Lopez Ramirez](https://www.worldcubeassociation.org/persons/2022RAMI17) | 13.66 | **23.03** | [Curaçao Open 2022](https://www.worldcubeassociation.org/competitions/CuracaoOpen2022/results/podiums#e222) | 2 |
 | [Venkatesh Subramanian](https://www.worldcubeassociation.org/persons/2008SUBR01) | 18.93 | **21.51** | [Indian Open 2008](https://www.worldcubeassociation.org/competitions/IndianOpen2008/results/podiums#e222) | 3 |
-| [Yu Araki (荒木由布)](https://www.worldcubeassociation.org/persons/2006ARAK02) | 10.90 | **20.93** | [Ibaraki 2007](https://www.worldcubeassociation.org/competitions/Ibaraki2007/results/podiums#e222) | 3 |
-| [Sachin Kumar Singh](https://www.worldcubeassociation.org/persons/2009SING08) | 13.06 | **20.43** | [Shristi Open 2009](https://www.worldcubeassociation.org/competitions/ShristiOpen2009/results/podiums#e222) | 3 |
 
 ### 4x4x4 Cube
 
@@ -59,10 +59,10 @@
 | [John Louis](https://www.worldcubeassociation.org/persons/2006LOUI01) | 6:01.19 | **7:21.76** | [Shristi Open 2009](https://www.worldcubeassociation.org/competitions/ShristiOpen2009/results/podiums#e555) | 3 |
 | [Jeff Soesbe](https://www.worldcubeassociation.org/persons/2005SOES01) | 6:11.33 | **7:16.30** | [Northern CA 2005](https://www.worldcubeassociation.org/competitions/NorthernCA2005/results/podiums#e555) | 3 |
 | [John Louis](https://www.worldcubeassociation.org/persons/2006LOUI01) | 6:00.68 | **7:02.48** | [Delhi Open 2011](https://www.worldcubeassociation.org/competitions/DelhiOpen2011/results/podiums#e555) | 3 |
+| [Munirudeen Abdullah Molade](https://www.worldcubeassociation.org/persons/2022MOLA02) | 6:01.30 | **6:47.29** | [Nigeria Championship 2022](https://www.worldcubeassociation.org/competitions/NigeriaChampionship2022/results/podiums#e555) | 3 |
 | [Christy Morris](https://www.worldcubeassociation.org/persons/2004COCK01) | 5:32.18 | **6:43.39** | [Idaho Open 2005](https://www.worldcubeassociation.org/competitions/IdahoOpen2005/results/podiums#e555) | 3 |
 | [Carl-Johan Kjellander](https://www.worldcubeassociation.org/persons/2005KJEL01) | 5:35.88 | **6:22.55** | [Chalmers Open 2005](https://www.worldcubeassociation.org/competitions/ChalmersOpen2005/results/podiums#e555) | 3 |
 | [Mishka Kiessling](https://www.worldcubeassociation.org/persons/2021KIES01) | 5:19.08 | **6:12.56** | [April in Alice Springs 2021](https://www.worldcubeassociation.org/competitions/AprilinAliceSprings2021/results/podiums#e555) | 3 |
-| [Rahul Kadukar](https://www.worldcubeassociation.org/persons/2009KADU01) | 5:56.28 | **6:05.59** | [Indian Open 2009](https://www.worldcubeassociation.org/competitions/IndianOpen2009/results/podiums#e555) | 3 |
 
 ### 6x6x6 Cube
 

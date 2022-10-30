@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 14 October 2022*
+*Updated on 30 October 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -11,6 +11,7 @@
 | 181 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 194 | [Weijie Fang (方伟杰)](https://www.worldcubeassociation.org/persons/2018FANG10) |
 | 203 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) |
+| 210 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) |
 | 239 | [Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36) |
 | 253 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
 | 266 | [Yikang Xie (谢轶康)](https://www.worldcubeassociation.org/persons/2016XIEY03) |
@@ -165,6 +166,7 @@
 | 1246 | [Sebastian Werb](https://www.worldcubeassociation.org/persons/2012WERB01) |
 | 1253 | [Victor Tang Yao Jun (湯曜駿)](https://www.worldcubeassociation.org/persons/2015JUNV01) |
 | 1254 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
+| 1260 | [Jeremy Sheng](https://www.worldcubeassociation.org/persons/2019SHEN10) |
 | 1267 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) |
 | 1267 | [Marcus Moberg](https://www.worldcubeassociation.org/persons/2016MOBE01) |
 | 1288 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
@@ -253,6 +255,7 @@
 | 1938 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) |
 | 1974 | [Deni Mintsaev (Дени Минцаев)](https://www.worldcubeassociation.org/persons/2013MINT01) |
 | 1980 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
+| 1996 | [Akifumi Sasaki (佐々木彰史)](https://www.worldcubeassociation.org/persons/2017SASA03) |
 | 2002 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 2009 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2036 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
@@ -263,6 +266,7 @@
 | 2065 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) |
 | 2071 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) |
 | 2072 | [Hong Zhang (张宏)](https://www.worldcubeassociation.org/persons/2008ZHAN13) |
+| 2073 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
 | 2085 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 2093 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 2105 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
@@ -294,6 +298,7 @@
 | 2491 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2498 | [Enoch Gray](https://www.worldcubeassociation.org/persons/2012GRAY01) |
 | 2533 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |
+| 2534 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 2540 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
 | 2547 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 2562 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 14 October 2022*
+*Updated on 30 October 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -182,6 +182,7 @@
 | 1 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 1 | [Haixin Yang (杨海鑫)](https://www.worldcubeassociation.org/persons/2014YANG11) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
+| 1 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 1 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 1 | [Henrik Bui](https://www.worldcubeassociation.org/persons/2009BUIH02) |
 | 1 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |

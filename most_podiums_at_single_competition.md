@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 14 October 2022*
+*Updated on 30 October 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -662,6 +662,7 @@
 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010/results/podiums) |
 | 11 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Pahang Cube Open 2019](https://www.worldcubeassociation.org/competitions/PahangCubeOpen2019/results/podiums) |
 | 11 | [Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01) | [Pão de Queijo Open 2017](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2017/results/podiums) |
+| 10 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums) |
 | 12 | [José Chávez](https://www.worldcubeassociation.org/persons/2016CHAV18) | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums) |
 | 10 | [Milko Sebastián Gutiérrez Arroyo](https://www.worldcubeassociation.org/persons/2016ARRO05) | [Paraguay Nationals 2019](https://www.worldcubeassociation.org/competitions/ParaguayNationals2019/results/podiums) |
 | 10 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [PB Smashathon 2015](https://www.worldcubeassociation.org/competitions/PBSmashathon2015/results/podiums) |
@@ -697,6 +698,7 @@
 | 12 | [Joonas Silvennoinen](https://www.worldcubeassociation.org/persons/2016SILV07) | [Pulmapelipäivät 2019](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2019/results/podiums) |
 | 13 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Pulmapelipäivät 2022](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2022/results/podiums) |
 | 10 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [QQQ 2018](https://www.worldcubeassociation.org/competitions/QuabbinQualifier2018/results/podiums) |
+| 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Qubes Don' Lie Ankara 2022](https://www.worldcubeassociation.org/competitions/QubesDonLieAnkara2022/results/podiums) |
 | 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Qubes Don' Lie Bursa 2022](https://www.worldcubeassociation.org/competitions/QubesDonLieBursa2022/results/podiums) |
 | 10 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | [Québec City 2019](https://www.worldcubeassociation.org/competitions/QuebecCity2019/results/podiums) |
 | 11 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Quijote Open 2016](https://www.worldcubeassociation.org/competitions/QuijoteOpen2016/results/podiums) |
@@ -899,6 +901,7 @@
 | 10 | [Oleg Martynov](https://www.worldcubeassociation.org/persons/2012MART05) | [Ural Winter 2015](https://www.worldcubeassociation.org/competitions/UralWinter2015/results/podiums) |
 | 10 | [Oleg Martynov](https://www.worldcubeassociation.org/persons/2012MART05) | [Ural Winter 2017](https://www.worldcubeassociation.org/competitions/UralWinter2017/results/podiums) |
 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [U.R.A. Spring of Colors 2018](https://www.worldcubeassociation.org/competitions/URASpringofColors2018/results/podiums) |
+| 13 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Utah Championship 2022](https://www.worldcubeassociation.org/competitions/UtahChampionship2022/results/podiums) |
 | 10 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Fall 2009](https://www.worldcubeassociation.org/competitions/UtahFall2009/results/podiums) |
 | 10 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Open 2009](https://www.worldcubeassociation.org/competitions/UtahOpen2009/results/podiums) |
 | 12 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Spring 2011](https://www.worldcubeassociation.org/competitions/UtahSpring2011/results/podiums) |

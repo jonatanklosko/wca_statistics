@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 14 October 2022*
+*Updated on 30 October 2022*
 
 
 ### Rubik's Cube
@@ -148,11 +148,11 @@
 | 46.39 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) |
 | 47.47 | [Tyler Gee](https://www.worldcubeassociation.org/persons/2019GEET02) |
 | 47.78 | [Ida Putu Sucita Danuartha](https://www.worldcubeassociation.org/persons/2022DANU01) |
+| 48.15 | [Matías Martínez](https://www.worldcubeassociation.org/persons/2022MART67) |
 | 48.17 | [Jingqi Zhang](https://www.worldcubeassociation.org/persons/2016ZHAJ08) |
 | 49.11 | [Changhee Yeh (예창희)](https://www.worldcubeassociation.org/persons/2019YEHC02) |
 | 49.12 | [Hilarry Henry](https://www.worldcubeassociation.org/persons/2017HENR03) |
 | 49.23 | [Mingyu Liu (刘铭宇)](https://www.worldcubeassociation.org/persons/2018LIUM02) |
-| 49.35 | [Lee Yu Zhe](https://www.worldcubeassociation.org/persons/2019ZHEL01) |
 
 ### Pyraminx
 
@@ -224,10 +224,10 @@
 | 4:17.65 | [Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01) |
 | 4:19.38 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) |
 | 4:38.33 | [Chunjie Shan (单淳劼)](https://www.worldcubeassociation.org/persons/2013SHAN02) |
+| 4:48.07 | [Bohdan Pylypchak (Богдан Пилипчак)](https://www.worldcubeassociation.org/persons/2017PYLY01) |
 | 4:53.74 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 5:06.59 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |
 | 5:22.65 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
-| 5:23.04 | [Yumeng Zhou (周雨萌)](https://www.worldcubeassociation.org/persons/2017ZHOU44) |
 
 ### 5x5x5 Blindfolded
 
@@ -248,6 +248,7 @@
 
 | First single | Person |
 | ---: | :--- |
+| 24/25 56:58 | [Jorian Meeuse](https://www.worldcubeassociation.org/persons/2022MEEU02) |
 | 23/23 59:01 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) |
 | 24/26 56:25 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 28/34 58:04 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
@@ -257,7 +258,6 @@
 | 16/16 53:28 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 17/18 1:00:00 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 15/15 52:01 | [Tong Jiang (蒋彤)](https://www.worldcubeassociation.org/persons/2009JIAN03) |
-| 17/19 57:08 | [Thiago Han](https://www.worldcubeassociation.org/persons/2022HANT01) |
 
 ### 3x3x3 With Feet
 

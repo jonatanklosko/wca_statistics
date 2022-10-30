@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 14 October 2022*
+*Updated on 30 October 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -30,6 +30,7 @@
 | 1939 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
 | 1945 | [Thor Muto Asmund](https://www.worldcubeassociation.org/persons/2017ASMU01) |
 | 2084 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 2100 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 2155 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 2196 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) |
 | 2232 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |

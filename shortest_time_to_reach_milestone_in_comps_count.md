@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 14 October 2022*
+*Updated on 30 October 2022*
 
 
 ### 100 Competitions
@@ -98,10 +98,10 @@
 | 168 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 168 | [Santhosh Sabarinathan](https://www.worldcubeassociation.org/persons/2018SABA02) |
 | 168 | [Patrick Shi](https://www.worldcubeassociation.org/persons/2022SHIP01) |
+| 169 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 170 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) |
 | 176 | [Klaudia Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK02) |
 | 176 | [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) |
-| 176 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
 
 ### 5 Competitions
 

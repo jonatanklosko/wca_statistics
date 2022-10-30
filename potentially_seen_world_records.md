@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 14 October 2022*
+*Updated on 30 October 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -85,7 +85,7 @@
 | 69 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 69 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 69 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 68 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 69 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 68 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
 | 68 | [Peter Still](https://www.worldcubeassociation.org/persons/2005STIL01) |
 | 68 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |

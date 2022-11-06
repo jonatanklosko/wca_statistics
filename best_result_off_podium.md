@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 30 October 2022*
+*Updated on  5 November 2022*
 
 
 ### Rubik's Cube
@@ -57,12 +57,12 @@
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 44.15 | **47.82** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e555_f) | 5 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 44.47 | **48.15** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e555_f) | 6 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 46.53 | **48.34** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e555_f) | 4 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 45.41 | **48.44** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e555_f) | 4 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 47.43 | **48.51** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e555_f) | 5 |
 | [Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05) | 46.32 | **48.66** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e555_f) | 4 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 46.83 | **48.90** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e555_f) | 7 |
+| [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | 47.91 | **49.07** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e555_f) | 5 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 46.47 | **49.21** | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#e555_f) | 4 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 47.31 | **49.25** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e555_f) | 6 |
-| [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 46.44 | **49.81** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e555_f) | 5 |
 
 ### 6x6x6 Cube
 
@@ -71,13 +71,13 @@
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 1:28.08 | **1:30.41** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e666_c) | 4 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:24.61 | **1:30.60** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 4 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:27.45 | **1:33.10** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 5 |
+| [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 1:33.11 | **1:35.42** | [Ajax NxNxN 2022](https://www.worldcubeassociation.org/competitions/AjaxNNN2022/results/all#e666_c) | 4 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 1:32.22 | **1:35.74** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 4 |
 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) | 1:31.12 | **1:35.98** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 5 |
 | [Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05) | 1:33.72 | **1:37.26** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e666_f) | 4 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 1:28.03 | **1:38.62** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e666_f) | 5 |
 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 1:35.44 | **1:38.67** | [Johor Big Cube Challenge 2022](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2022/results/all#e666_f) | 4 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 1:24.13 | **1:38.68** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 6 |
-| [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | 1:33.54 | **1:38.86** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 7 |
 
 ### 7x7x7 Cube
 
@@ -133,11 +133,11 @@
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 10.59 | **10.84** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333oh_f) | 5 |
 | [Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02) | 9.55 | **10.86** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333oh_f) | 6 |
 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) | 9.54 | **11.10** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333oh_f) | 7 |
+| [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | 7.44 | **11.30** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e333oh_f) | 4 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | 9.87 | **11.42** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333oh_f) | 4 |
 | [Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06) | 8.25 | **11.44** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333oh_f) | 5 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 7.86 | **11.50** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e333oh_f) | 4 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 10.65 | **11.55** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333oh_f) | 6 |
-| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 10.12 | **11.60** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e333oh_f) | 5 |
 
 ### Megaminx
 

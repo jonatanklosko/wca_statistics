@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 30 October 2022*
+*Updated on  5 November 2022*
 
 
 ### Rubik's Cube
@@ -62,7 +62,7 @@
 | 45.37 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | 42.23, 44.72, 48.08, 50.43, 44.37, 43.68, 46.60, 46.73, 49.03, 40.11, 45.71, 42.58 |
 | 46.08 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 43.65, 44.92, 46.81, 47.46, 39.52, 48.98, 55.41, 44.50, 49.10, 44.53, 45.88, 45.04 |
 | 46.68 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 43.22, 52.03, 46.78, 41.29, 48.66, 49.07, 41.95, 55.17, 46.49, 51.64, 45.71, 39.90 |
-| 46.92 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 44.56, 46.55, 48.00, 42.73, 46.30, 47.37, 49.89, 46.09, 49.58, 46.08, 48.70, 45.98 |
+| 46.85 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 43.35, 46.51, 46.51, 48.72, 43.33, 49.24, 47.01, 52.70, 46.88, 45.66, 47.21, 47.46 |
 
 ### 6x6x6 Cube
 
@@ -84,9 +84,9 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 1:49.21 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:43.97, 1:52.51, 2:01.98, 2:03.56, 1:45.41, 1:56.97, 1:35.68, 1:46.74, 1:43.95, 1:43.00, 1:50.77, 1:46.80 |
-| 1:58.74 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 2:15.50, 1:57.89, 1:58.24, 1:51.13, 1:54.79, 2:05.50, 1:53.87, 2:09.13, 2:02.38, 1:56.76, 1:56.18, 1:52.66 |
+| 1:57.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:57.89, 1:58.24, 1:51.13, 1:54.79, 2:05.50, 1:53.87, 2:09.13, 2:02.38, 1:56.76, 1:56.18, 1:52.66, 1:55.86 |
+| 2:04.02 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:54.68, 2:05.77, 2:07.67, 1:42.51, 2:14.34, 2:10.77, 2:01.21, 2:05.91, 1:56.46, 2:05.05, 2:04.27, 2:08.47 |
 | 2:04.18 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:08.47, 2:04.14, 2:02.17, 2:09.62, 2:12.13, 2:03.54, 2:01.49, 2:08.09, 1:59.29, 1:57.13, 2:03.33, 2:01.68 |
-| 2:04.32 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:59.35, 2:01.87, 2:09.45, 2:06.53, 2:08.26, 2:03.53, 2:06.13, 2:15.90, 1:54.68, 2:05.77, 2:07.67, 1:42.51 |
 | 2:04.83 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:04.14, 2:00.82, 2:16.10, 2:09.69, 1:56.60, 2:02.22, 2:01.53, 2:05.20, 2:09.70, 2:00.79, 2:09.45, 2:04.76 |
 | 2:05.18 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 2:01.61, 2:02.32, 2:06.72, DNF, 1:57.55, 2:03.00, 2:12.03, 2:04.24, 1:57.78, 2:07.93, 2:13.39, 2:02.86 |
 | 2:05.64 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 2:05.64, 2:04.46, 2:06.56, 2:04.21, 2:10.24, 2:02.76, 2:05.19, 2:11.50, 2:03.73, 2:08.78, 2:04.92, 1:41.29 |
@@ -113,8 +113,8 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 22.10 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 21, 21, 24, 23, 23, 22, 22, 24, 24, 19, 20, 21 |
 | 22.30 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | 27, 23, 22, 21, 22, 22, 22, 23, 22, 21, 23, 23 |
-| 22.50 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 23, 22, 23, 23, 23, 21, 21, 24, 23, 23, 22 |
 | 22.70 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 22, 21, 22, 25, 24, 26, 21, 25, 23, 24, 20, 20 |
 | 23.00 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 21, 26, 29, 22, 24, 25, 23, 23, 22, 23, 21, 21 |
 | 23.30 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 22, 24, 25, 21, 24, 26, 21, 26, 24, 23, 21, 23 |
@@ -137,15 +137,15 @@
 | 10.17 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 9.04, 12.35, 8.78, 10.35, 8.83, 8.13, 11.05, 10.73, 11.88, 11.12, 8.37, 11.56 |
 | 10.19 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 10.10, 8.85, 8.70, 9.87, 12.94, 10.58, 12.07, 9.12, 9.59, 8.87, 15.43, 9.91 |
 | 10.23 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | 9.58, 9.80, 10.10, 10.84, 8.81, 11.25, 13.06, 10.96, 10.67, 10.25, 7.41, 10.11 |
-| 10.31 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | 9.84, 11.80, 10.76, 11.14, 7.52, 9.59, 10.94, 10.07, 10.73, 11.00, 9.28, 9.77 |
+| 10.26 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 10.02, 9.67, 10.80, 10.73, 9.57, 13.40, 10.55, 10.40, 9.30, 9.56, 11.21, 10.15 |
 
 ### Megaminx
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 29.41 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 34.49, 30.79, 30.40, 29.36, 29.86, 29.32, 27.54, 30.68, 29.28, 28.01, 27.66, 28.77 |
+| 29.94 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 30.82, 35.30, 29.83, 27.99, 30.61, 28.45, 31.37, 28.33, 30.46, 29.96, 30.42, 29.20 |
 | 29.98 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 29.63, 31.69, 34.23, 26.95, 29.05, 30.21, 31.04, 30.11, 29.59, 26.66, 33.26, 28.35 |
-| 30.72 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 35.72, 28.90, 30.65, 30.71, 30.56, 30.82, 35.30, 29.83, 27.99, 30.61, 28.45, 31.37 |
 | 31.25 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 29.16, 32.81, 31.78, 34.48, 33.62, 33.47, 30.12, 28.50, 31.19, 29.97, 31.07, 29.34 |
 | 33.12 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.84, 31.53, 32.84, 36.09, 30.84, 33.06, 34.66, 34.78, 33.54, 36.18, 33.04, 30.63 |
 | 33.28 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 36.22, 30.94, 31.24, 35.78, 30.12, 33.90, 30.89, 30.57, 40.52, 34.27, 34.52, 34.55 |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 30 October 2022*
+*Updated on  5 November 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -349,6 +349,7 @@
 | 10 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020/results/podiums) |
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Florida Fall Fest 2019](https://www.worldcubeassociation.org/competitions/FloridaFallFest2019/results/podiums) |
 | 14 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Florida Winter Break 2019](https://www.worldcubeassociation.org/competitions/FloridaWinterBreak2019/results/podiums) |
+| 13 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Floripa ao Cubo 2022](https://www.worldcubeassociation.org/competitions/FloripaaoCubo2022/results/podiums) |
 | 11 | [Stephano Saucedo Reyes](https://www.worldcubeassociation.org/persons/2011REYE04) | [FNSM 2015](https://www.worldcubeassociation.org/competitions/FNSMOpen2015/results/podiums) |
 | 10 | [Alrimar Dias Rocha Sobrinho](https://www.worldcubeassociation.org/persons/2011SOBR01) | [Fortaleza 2014](https://www.worldcubeassociation.org/competitions/FortalezaOpen2014/results/podiums) |
 | 11 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | [Fort Lee Winter 2009](https://www.worldcubeassociation.org/competitions/FortLeeWinter2009/results/podiums) |

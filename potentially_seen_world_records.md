@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 30 October 2022*
+*Updated on  5 November 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -19,7 +19,7 @@
 | 126 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) |
 | 124 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 121 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 119 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
+| 120 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 117 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
 | 111 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 109 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |

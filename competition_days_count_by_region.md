@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Updated on  5 November 2022*
+*Updated on  8 November 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8661 |
+| 1.50 | World | 8671 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2834 |
-| 1.59 | South America | 965 |
+| 1.77 | Europe | 2836 |
+| 1.59 | South America | 967 |
 | 1.49 | Oceania | 360 |
-| 1.42 | Asia | 2131 |
-| 1.21 | North America | 2273 |
+| 1.42 | Asia | 2134 |
+| 1.21 | North America | 2276 |
 | 1.21 | Africa | 98 |
 
 ### Countries
@@ -26,7 +26,7 @@
 | ---: | :--- | ---: |
 | 2.26 | Hungary | 27 |
 | 2.16 | Czech Republic | 32 |
-| 2.07 | Kazakhstan | 30 |
+| 2.06 | Kazakhstan | 31 |
 | 2.00 | Belize | 1 |
 | 2.00 | Liechtenstein | 2 |
 | 2.00 | Palestine | 2 |
@@ -41,7 +41,7 @@
 | 1.91 | Finland | 89 |
 | 1.89 | Bosnia and Herzegovina | 9 |
 | 1.88 | Croatia | 17 |
-| 1.86 | Norway | 74 |
+| 1.85 | Norway | 75 |
 | 1.85 | France | 235 |
 | 1.85 | Belgium | 59 |
 | 1.85 | Serbia | 13 |
@@ -49,7 +49,7 @@
 | 1.84 | Spain | 246 |
 | 1.83 | Austria | 18 |
 | 1.82 | Mexico | 91 |
-| 1.81 | Brazil | 323 |
+| 1.81 | Brazil | 324 |
 | 1.80 | North Macedonia | 5 |
 | 1.80 | San Marino | 5 |
 | 1.80 | Thailand | 30 |
@@ -57,7 +57,7 @@
 | 1.78 | Iceland | 9 |
 | 1.78 | Ukraine | 98 |
 | 1.76 | Sweden | 126 |
-| 1.76 | Denmark | 109 |
+| 1.75 | Denmark | 110 |
 | 1.75 | Bangladesh | 8 |
 | 1.74 | Slovenia | 23 |
 | 1.67 | Poland | 331 |
@@ -70,7 +70,7 @@
 | 1.63 | Netherlands | 95 |
 | 1.63 | Indonesia | 176 |
 | 1.63 | Ireland | 27 |
-| 1.61 | India | 415 |
+| 1.61 | India | 416 |
 | 1.60 | Colombia | 135 |
 | 1.58 | Bolivia | 80 |
 | 1.57 | Malaysia | 60 |
@@ -106,11 +106,11 @@
 | 1.26 | Mongolia | 19 |
 | 1.26 | China | 615 |
 | 1.26 | Vietnam | 54 |
-| 1.23 | Japan | 202 |
+| 1.23 | Japan | 203 |
 | 1.22 | Panama | 9 |
 | 1.20 | Portugal | 15 |
-| 1.20 | Uruguay | 35 |
-| 1.17 | United States | 1815 |
+| 1.19 | Uruguay | 36 |
+| 1.17 | United States | 1818 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Canada | 228 |
 | 1.17 | Georgia | 6 |

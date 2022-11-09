@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  5 November 2022*
+*Updated on  8 November 2022*
 
 | Countries | Person |
 | ---: | :--- |
@@ -11,7 +11,7 @@
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 33 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 30 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
-| 27 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 28 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 26 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 26 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
@@ -37,6 +37,7 @@
 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 19 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 19 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
+| 19 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 19 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 18 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
@@ -45,7 +46,6 @@
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
 | 18 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 18 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
-| 18 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
 | 18 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  5 November 2022*
+*Updated on  8 November 2022*
 
 
 ### Rubik's Cube
@@ -75,9 +75,9 @@
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 1:32.22 | **1:35.74** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 4 |
 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) | 1:31.12 | **1:35.98** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 5 |
 | [Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05) | 1:33.72 | **1:37.26** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e666_f) | 4 |
+| [Wei-Ming Zeng (曾唯銘)](https://www.worldcubeassociation.org/persons/2019ZENG10) | 1:34.35 | **1:38.25** | [Taoyuan Cubing Open 2022](https://www.worldcubeassociation.org/competitions/TaoyuanCubingOpen2022/results/all#e666_f) | 4 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 1:28.03 | **1:38.62** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e666_f) | 5 |
 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 1:35.44 | **1:38.67** | [Johor Big Cube Challenge 2022](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2022/results/all#e666_f) | 4 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 1:24.13 | **1:38.68** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 6 |
 
 ### 7x7x7 Cube
 

@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  5 November 2022*
+*Updated on  8 November 2022*
 
 
 ### Rubik's Cube - Single
@@ -346,8 +346,8 @@
 | [Jake Buckley](https://www.worldcubeassociation.org/persons/2017BUCK01) | **4.26** | United States | [Great Lakes Championship 2019](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2019) | 4.26, 6.17, 8.16, 8.20, 8.44 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **4.38** | United Kingdom | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019) | 4.38, 8.95, DNF, 8.25, 6.72 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **4.42** | Belarus | [Sergach Winter 2019](https://www.worldcubeassociation.org/competitions/SergachWinter2019) | 6.75, 5.66, DNF, 6.19, 4.42 |
+| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **4.47** | Ireland | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | 5.32, 4.47, 6.13, 6.43, 8.05 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **4.51** | United States | [GA Cubers Feet Fest 2019](https://www.worldcubeassociation.org/competitions/GACubersFeetFest2019) | 6.30, 5.72, 6.44, 4.51, 5.55 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4.59** | Sweden | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) | 4.59, 7.00, 7.91, DNF, 6.81 |
 
 ### Rubik's Clock - Average
 
@@ -361,8 +361,8 @@
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **5.77** | United States | [Cobb Cubes Again 2018](https://www.worldcubeassociation.org/competitions/CobbCubesAgain2018) | 5.26, 5.78, 7.56, 5.27, 6.26 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **5.82** | United States | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022) | 6.29, 6.17, 4.92, 5.00, 8.26 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **5.89** | Belarus | [Welcome to Brest 2018](https://www.worldcubeassociation.org/competitions/WelcometoBrest2018) | 5.50, 5.00, 6.57, 5.81, 6.37 |
+| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **5.96** | Ireland | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | 5.32, 4.47, 6.13, 6.43, 8.05 |
 | [Jake Buckley](https://www.worldcubeassociation.org/persons/2017BUCK01) | **5.99** | United States | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022) | DNF, 6.12, 5.90, 5.36, 5.96 |
-| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **6.05** | Ireland | [Tuam Re-Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TuamSunday2021) | 5.88, 6.33, 6.16, 5.07, 6.12 |
 
 ### Skewb - Single
 

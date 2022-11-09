@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  5 November 2022*
+*Updated on  8 November 2022*
 
 
 ### Rubik's Cube
@@ -69,7 +69,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 1:11.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:04.77, 1:12.14, 1:11.70, 59.74, 1:16.25, 1:14.38, 1:16.87, 1:13.48, 1:13.15, 1:17.27, 1:06.11, 1:06.49 |
-| 1:22.16 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:20.91, 1:11.89, 1:17.90, 1:28.37, 1:18.87, 1:22.17, 1:25.50, 1:42.09, 1:27.56, 1:16.48, 1:21.40, 1:22.48 |
+| 1:21.95 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:19.08, 1:27.25, 1:23.01, 1:23.76, 1:25.60, 1:24.94, 1:16.21, 1:20.17, 1:17.44, 1:23.14, 1:24.85, 1:17.51 |
 | 1:22.76 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:26.26, 1:19.58, 1:16.79, 1:25.55, 1:18.83, 1:21.25, 1:31.69, 1:19.81, DNF, 1:29.96, 1:16.98, 1:17.77 |
 | 1:23.43 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:23.74, 1:28.76, 1:19.32, 1:26.21, 1:21.07, 1:27.91, 1:29.17, 1:21.01, 1:17.89, 1:19.08, 1:26.83, 1:20.39 |
 | 1:23.84 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:18.65, 1:20.91, 1:26.54, 1:29.68, 1:27.42, 1:25.39, 1:22.35, 1:22.21, 1:18.78, 1:24.70, 1:34.90, 1:20.45 |
@@ -191,7 +191,7 @@
 | 1.60 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.30, 1.20, 1.79, 1.60, 4.89, 1.41, 2.03, 1.35, 1.62, 1.82, 1.27, 1.85 |
 | 2.01 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.84, 1.83, 2.43, 2.27, 2.07, 2.02, 1.32, 1.83, 3.29, 1.73, 2.09, 2.07 |
 | 2.25 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 2.32, 2.81, 4.43, 3.03, 1.62, 1.96, 1.40, 2.57, 1.84, 2.68, 1.94, 1.76 |
-| 2.39 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 2.65, 2.73, 2.68, 2.22, 2.36, 2.20, 2.33, 2.79, 1.97, 3.10, 1.94, 2.05 |
+| 2.38 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.97, 1.92, 2.90, 2.19, 1.48, 3.85, 2.67, 4.69, 1.83, 1.96, 2.36, 2.17 |
 | 2.41 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.61, 2.18, 2.31, 3.58, 2.30, 2.25, 2.55, 1.90, 2.01, 2.42, 2.61, 2.91 |
 | 2.42 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 5.69, 2.18, 2.09, 2.23, 2.88, 2.73, 3.25, 1.56, 1.98, 2.12, 2.91, 1.92 |
 | 2.46 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 2.39, 2.82, 2.67, 1.49, 3.50, 2.81, 2.08, 2.51, 1.53, 4.01, 1.73, 2.58 |

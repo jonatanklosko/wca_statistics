@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  5 November 2022*
+*Updated on  8 November 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -243,6 +243,7 @@
 | 1841 | [Dongyun Yin (殷冬昀)](https://www.worldcubeassociation.org/persons/2012YIND01) |
 | 1841 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 1847 | [Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01) |
+| 1847 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) |
 | 1848 | [Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01) |
 | 1855 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 1874 | [Sergio Bulux](https://www.worldcubeassociation.org/persons/2014BULU01) |

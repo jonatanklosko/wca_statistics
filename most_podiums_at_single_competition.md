@@ -1,12 +1,13 @@
 ## Most podiums at a single competition
 
-*Updated on  5 November 2022*
+*Updated on  8 November 2022*
 
 | Podiums | Person |
 | ---: | :--- |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Aachen Open 2010](https://www.worldcubeassociation.org/competitions/AachenOpen2010/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019/results/podiums) |
 | 13 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Aarhus Open 2012](https://www.worldcubeassociation.org/competitions/AarhusOpen2012/results/podiums) |
+| 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Aarhus Open 2022](https://www.worldcubeassociation.org/competitions/AarhusOpen2022/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Aarhus Spring 2019](https://www.worldcubeassociation.org/competitions/AarhusSpring2019/results/podiums) |
 | 11 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [ABC Open 2010](https://www.worldcubeassociation.org/competitions/ABCOpen2010/results/podiums) |
 | 12 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [ABHC 2016](https://www.worldcubeassociation.org/competitions/ABHC2016/results/podiums) |

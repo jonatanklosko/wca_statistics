@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  8 November 2022*
+*Updated on 11 November 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -10,7 +10,7 @@
 | United States | **778** | 638 | 563 | 1979 |
 | Netherlands | **756** | 624 | 517 | 1897 |
 | France | **731** | 632 | 523 | 1886 |
-| Russia | **570** | 385 | 323 | 1278 |
+| Russia | **573** | 388 | 323 | 1284 |
 | Poland | **403** | 292 | 216 | 911 |
 | China | **393** | 346 | 307 | 1046 |
 | Malaysia | **339** | 322 | 287 | 948 |
@@ -25,7 +25,7 @@
 | Switzerland | **202** | 280 | 241 | 723 |
 | Taiwan | **191** | 164 | 157 | 512 |
 | Hong Kong | **187** | 220 | 179 | 586 |
-| Japan | **187** | 109 | 116 | 412 |
+| Japan | **187** | 110 | 116 | 413 |
 | Italy | **185** | 170 | 160 | 515 |
 | Argentina | **185** | 141 | 122 | 448 |
 | Spain | **167** | 155 | 181 | 503 |
@@ -39,7 +39,7 @@
 | Greece | **118** | 139 | 104 | 361 |
 | Austria | **115** | 164 | 178 | 457 |
 | Singapore | **114** | 119 | 128 | 361 |
-| Belarus | **106** | 64 | 74 | 244 |
+| Belarus | **107** | 65 | 75 | 247 |
 | Ireland | **104** | 61 | 40 | 205 |
 | Latvia | **103** | 155 | 145 | 403 |
 | Czech Republic | **89** | 102 | 109 | 300 |

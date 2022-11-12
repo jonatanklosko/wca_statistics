@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 November 2022*
+*Updated on 11 November 2022*
 
 
 ### Rubik's Cube
@@ -13,9 +13,9 @@
 | 5.50 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.23, 4.84, 6.48, 5.68, 4.74, 4.52, 4.88, 6.59, 6.43, 7.96, 4.62, 5.56 |
 | 5.59 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.62, 5.59, 5.48, 5.52, 5.45, 4.06, 7.51, 5.77, 6.41, 5.15, 5.88, 5.04 |
 | 5.75 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 5.10, 5.95, 5.39, 5.10, 6.41, 5.49, 6.40, 8.38, 5.73, 5.43, 5.59, 6.01 |
+| 5.85 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.57, 5.57, 6.92, 5.93, 5.85, 6.04, 5.89, 5.13, 5.49, 5.79, 7.09, 5.46 |
 | 5.94 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 5.53, 6.32, 5.81, DNF, 6.38, 5.35, 7.21, 5.38, 5.98, 5.76, 5.40, 5.72 |
 | 5.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.22, 5.70, 5.81, 6.51, 5.89, 6.93, 5.45, 5.24, 6.16, 6.65, 8.19, 5.48 |
-| 6.00 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 6.15, 5.95, 5.68, 4.57, 6.74, 5.95, 5.87, 6.09, 6.41, 6.17, 6.17, 5.58 |
 | 6.13 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 6.64, 5.96, 7.33, 5.31, 5.50, 6.71, 5.72, 5.66, 5.78, 5.87, 8.16, 6.20 |
 | 6.15 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | 6.17, 5.16, 8.31, 5.87, 5.42, 5.30, 7.53, 5.42, 6.65, 8.04, 6.00, 4.88 |
 
@@ -30,9 +30,9 @@
 | 1.41 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 1.37, 1.24, 1.44, 1.41, 1.71, 6.18, 1.49, 1.27, 0.93, 1.59, 1.48, 1.17 |
 | 1.43 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | 1.42, 1.67, 1.78, 1.72, 1.41, 4.57, 1.12, 1.27, 1.32, 1.22, 1.03, 1.40 |
 | 1.44 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 1.65, 1.69, 1.66, 1.13, 2.23, 1.56, 1.57, 1.41, 1.12, 0.81, 1.58, 1.10 |
+| 1.45 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.94, 1.34, 1.62, 1.11, 1.47, 1.54, 1.14, 1.24, 1.40, 1.63, 1.55, 1.58 |
 | 1.46 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 1.09, 1.64, 1.47, 1.07, 1.80, 2.13, 0.81, 2.63, 0.93, 1.80, 1.85, 0.88 |
 | 1.46 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | 3.56, 1.73, 1.45, 1.30, 1.09, 2.16, 1.30, 1.21, 1.37, 1.13, 1.48, 1.48 |
-| 1.50 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.67, 1.47, 0.94, 1.35, 1.60, 1.48, 2.47, 1.50, 1.37, 1.35, 2.27, 1.03 |
 
 ### 4x4x4 Cube
 

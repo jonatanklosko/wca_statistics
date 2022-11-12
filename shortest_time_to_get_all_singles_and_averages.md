@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  8 November 2022*
+*Updated on 11 November 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -19,6 +19,7 @@
 | 1198 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
 | 1449 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 1470 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
+| 1512 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) |
 | 1526 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 1589 | [Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48) |
 | 1624 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) |

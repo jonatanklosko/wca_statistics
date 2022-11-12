@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 November 2022*
+*Updated on 11 November 2022*
 
 
 ### Rubik's Cube
@@ -29,10 +29,10 @@
 | 1.52 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 1.49, 2.37, 1.62, 1.05, 1.62, 1.34, 0.85, 1.73, 1.18, 1.40, 1.20, 3.25, 2.18, 9.52, 0.79, 1.78, 1.17, 1.00, 1.52, 1.81, 1.47, 1.69, 1.53, 1.29, 1.53 |
 | 1.54 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 1.08, 1.58, 1.76, 2.04, 1.56, 0.92, 1.75, 1.85, 1.68, 1.64, 1.22, 1.52, 1.20, 2.22, 1.20, 1.15, 1.60, 1.70, 1.32, 1.91, 3.21, 1.82, 1.23, 1.29, 1.52 |
 | 1.56 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | 1.32, 1.35, 1.76, DNF, 1.52, 1.82, 1.51, 2.25, 1.65, 1.23, 1.65, 1.73, 1.70, 1.52, 1.42, 1.67, 1.78, 1.72, 1.41, 4.57, 1.12, 1.27, 1.32, 1.22, 1.03 |
+| 1.62 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.14, 2.09, 2.03, 3.59, 1.87, 1.74, 1.23, 1.10, 1.97, 1.12, 2.18, 1.87, 3.13, 2.10, 1.94, 1.34, 1.62, 1.11, 1.47, 1.54, 1.14, 1.24, 1.40, 1.63, 1.55 |
 | 1.65 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | 1.20, 1.90, 1.25, 2.03, 1.56, DNF, 1.17, 1.06, 2.66, 1.86, 1.63, 1.23, DNF, 3.56, 1.73, 1.45, 1.30, 1.09, 2.16, 1.30, 1.21, 1.37, 1.13, 1.48, 1.48 |
 | 1.67 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 1.88, 1.25, 4.09, 1.65, 1.59, 2.05, 1.86, 2.17, 1.55, 1.31, 1.33, 3.47, 1.59, 1.58, 1.74, 1.22, 1.81, 1.74, 1.14, 1.70, 1.15, 1.53, 2.21, 1.89, 1.60 |
 | 1.67 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | 1.89, 1.38, 1.85, 2.06, 1.45, 3.21, 1.99, 1.46, 1.02, 1.35, 1.36, 1.99, 1.91, 1.50, 2.15, 3.78, 1.68, 1.02, 0.95, DNF, 1.11, 1.61, 1.55, 1.17, 1.40 |
-| 1.68 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) | 2.18, 1.15, 1.57, 1.68, 3.71, 1.82, 1.87, 1.54, 1.98, 0.97, 1.50, 0.96, 2.01, 1.63, 3.43, 1.65, 2.37, 1.65, 0.93, 1.49, 1.57, 1.90, 1.87, 1.39, 1.65 |
 
 ### 4x4x4 Cube
 

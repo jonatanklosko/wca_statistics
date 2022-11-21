@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 11 November 2022*
+*Updated on 20 November 2022*
 
 
 ### Rubik's Cube
@@ -182,7 +182,7 @@
 | 6.04 | [Ed Scholey](https://www.worldcubeassociation.org/persons/2020SCHO03) |
 | 6.15 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) |
 | 6.17 | [Jay Lee See Kiat](https://www.worldcubeassociation.org/persons/2022KIAT01) |
-| 6.18 | [Trần Tuấn Minh](https://www.worldcubeassociation.org/persons/2022MINH23) |
+| 6.22 | [Daniil Samusev (Даниил Самусев)](https://www.worldcubeassociation.org/persons/2019SAMU07) |
 
 ### Skewb
 

@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 11 November 2022*
+*Updated on 20 November 2022*
 
 
 ### Rubik's Cube
@@ -162,12 +162,12 @@
 | 1.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.79, 2.21, 1.74, 1.39, 2.69, 1.76, 1.33, 1.87, 2.02, 2.34, 1.35, 1.77 |
 | 1.86 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.18, 2.65, 1.32, 2.41, 1.48, 1.36, 2.49, 1.76, 2.12, 1.99, 2.19, 1.57 |
 | 1.94 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.92, 1.78, 2.12, 1.74, 1.91, 2.40, 2.20, 1.68, 1.57, 2.05, 5.04, 1.62 |
+| 1.97 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.77, 1.83, 1.81, 2.65, 2.37, 2.20, 1.49, 1.74, 1.80, 2.56, 1.94, 1.69 |
 | 1.97 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.66, 2.88, 2.15, 1.96, 1.40, 1.78, DNF, 1.77, 1.86, 2.09, 1.82, 1.74 |
 | 1.99 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.35, 2.19, 1.78, 2.52, 2.32, 1.98, 3.86, 1.74, 1.98, 1.69, 2.40, 1.18 |
 | 2.05 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.96, 1.84, 1.39, 2.10, 2.39, 3.81, 1.49, 2.73, 2.02, 1.77, 2.11, 2.18 |
 | 2.07 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.85, 1.93, 2.37, 2.40, 1.70, 2.36, 2.11, 2.56, 1.95, 1.88, 2.23, 1.64 |
 | 2.11 | [Wesley Allen](https://www.worldcubeassociation.org/persons/2015ALLE03) | 3.06, 1.77, 1.94, 2.28, 1.80, 2.19, 2.05, 2.08, 2.15, 2.23, 2.70, 1.76 |
-| 2.12 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.27, 1.45, 2.01, 2.29, 2.54, 2.64, 2.52, 1.17, 3.99, 1.39, 1.80, 2.33 |
 
 ### Rubik's Clock
 

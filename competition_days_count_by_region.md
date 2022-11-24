@@ -1,22 +1,22 @@
 ## Competition days count by region
 
-*Updated on 20 November 2022*
+*Updated on 23 November 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8722 |
+| 1.50 | World | 8726 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2852 |
+| 1.77 | Europe | 2855 |
 | 1.58 | South America | 974 |
 | 1.49 | Oceania | 364 |
-| 1.42 | Asia | 2142 |
+| 1.42 | Asia | 2143 |
 | 1.21 | Africa | 98 |
 | 1.21 | North America | 2292 |
 
@@ -32,7 +32,7 @@
 | 2.00 | Liechtenstein | 2 |
 | 2.00 | Palestine | 2 |
 | 2.00 | Slovakia | 24 |
-| 1.96 | United Kingdom | 143 |
+| 1.96 | United Kingdom | 144 |
 | 1.95 | Turkey | 56 |
 | 1.94 | Lithuania | 16 |
 | 1.93 | Belarus | 42 |
@@ -43,16 +43,16 @@
 | 1.88 | Croatia | 17 |
 | 1.86 | Serbia | 14 |
 | 1.85 | Norway | 75 |
+| 1.85 | France | 237 |
 | 1.85 | Belgium | 59 |
-| 1.85 | France | 236 |
-| 1.84 | Spain | 247 |
+| 1.84 | Spain | 248 |
 | 1.83 | Austria | 18 |
 | 1.83 | Switzerland | 84 |
 | 1.83 | Mexico | 92 |
 | 1.81 | Brazil | 326 |
+| 1.81 | Thailand | 31 |
 | 1.80 | North Macedonia | 5 |
 | 1.80 | San Marino | 5 |
-| 1.80 | Thailand | 30 |
 | 1.80 | Guatemala | 49 |
 | 1.78 | Iceland | 9 |
 | 1.77 | Ukraine | 100 |

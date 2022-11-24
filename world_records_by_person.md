@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 20 November 2022*
+*Updated on 23 November 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -130,6 +130,7 @@
 | 2 | [Jean Pons](https://www.worldcubeassociation.org/persons/2004PONS01) |
 | 2 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) |
 | 2 | [Jianwei Zhu (朱剑伟)](https://www.worldcubeassociation.org/persons/2007ZHUJ01) |
+| 2 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 2 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) |
 | 2 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
 | 2 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) |
@@ -213,7 +214,6 @@
 | 1 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 1 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) |
 | 1 | [Kristopher De Asis](https://www.worldcubeassociation.org/persons/2008ASIS01) |
-| 1 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 1 | [Lee Chiang (蔣礪)](https://www.worldcubeassociation.org/persons/2013CHIA02) |
 | 1 | [Lee Chun Hin (李震軒)](https://www.worldcubeassociation.org/persons/2008HINL01) |
 | 1 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |

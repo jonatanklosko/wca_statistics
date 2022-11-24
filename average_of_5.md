@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 20 November 2022*
+*Updated on 23 November 2022*
 
 
 ### Rubik's Cube
@@ -77,7 +77,7 @@
 | 1:22.45 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:22.21, 1:18.78, 1:24.70, 1:34.90, 1:20.45 |
 | 1:23.24 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:19.23, 1:25.94, 1:23.57, 1:25.81, 1:20.35 |
 | 1:24.78 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:27.46, 1:24.94, 1:25.30, 1:24.12, 1:20.31 |
-| 1:27.54 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:25.57, 1:27.60, 1:28.09, 1:40.27, 1:26.94 |
+| 1:27.52 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:22.82, 1:29.28, 1:30.76, 1:27.04, 1:26.25 |
 
 ### 7x7x7 Cube
 
@@ -144,22 +144,22 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 28.31 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 27.54, 30.68, 29.28, 28.01, 27.66 |
+| 29.07 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 27.40, 27.80, 31.15, 29.76, 29.65 |
 | 29.13 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 27.99, 30.61, 28.45, 31.37, 28.33 |
-| 29.32 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 30.16, 30.62, 30.40, 27.42, 27.27 |
 | 30.12 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 28.50, 31.19, 29.97, 31.07, 29.34 |
 | 31.42 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 34.63, 31.25, 28.43, 34.59, 28.09 |
 | 31.74 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 30.84, 36.43, 30.89, 32.94, 31.41 |
+| 31.83 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 30.94, 33.06, 32.10, 31.20, 32.21 |
 | 32.46 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 31.95, 33.56, 31.15, 33.84, 31.89 |
+| 32.71 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 31.66, 32.33, 34.14, 40.75, 29.91 |
 | 32.83 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 32.53, 31.92, 35.54, 32.34, 33.64 |
-| 32.89 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 29.67, 36.92, 36.16, 32.68, 29.85 |
-| 33.07 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 31.32, 34.16, 39.30, 32.05, 33.01 |
 
 ### Pyraminx
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 1.57 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.34, 4.13, 1.68, 1.69, 1.29 |
 | 1.63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.74, 1.39, 2.69, 1.76, 1.33 |
-| 1.65 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.82, 1.15, 1.53, 1.86, 1.62 |
 | 1.72 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.27, 1.84, 2.51, 1.15, 2.07 |
 | 1.73 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.18, 2.65, 1.32, 2.41, 1.48 |
 | 1.76 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 1.91, 1.62, 1.67, 5.49, 1.71 |

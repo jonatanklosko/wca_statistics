@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 23 November 2022*
+*Updated on 26 November 2022*
 
 
 ### Rubik's Cube
@@ -142,6 +142,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 4.69 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Tri Cities Fall 2022](https://www.worldcubeassociation.org/competitions/TriCitiesFall2022/results/by_person#2017AGGA01) |
 | 4.86 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
 | 4.87 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Abbotsford Begins 2022](https://www.worldcubeassociation.org/competitions/AbbotsfordBegins2022/results/by_person#2016EPST02) |
 | 4.91 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
@@ -151,7 +152,6 @@
 | 5.12 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue CfC 2022](https://www.worldcubeassociation.org/competitions/BellevueCubingforChildrens2022/results/by_person#2017AGGA01) |
 | 5.13 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2017AGGA01) |
 | 5.14 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2017AGGA01) |
-| 5.16 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017AGGA01) |
 
 ### 3x3x3 With Feet
 

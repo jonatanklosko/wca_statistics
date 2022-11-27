@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 23 November 2022*
+*Updated on 26 November 2022*
 
 
 ### Rubik's Cube
@@ -178,8 +178,8 @@
 | 5.02 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 3.72, 5.91, 5.43, 6.62, 5.76, 4.61, 4.61, 6.81, DNF, DNF, 5.89, 4.33, 4.17, 4.80, 4.20, 4.63, 5.32, 4.90, 4.13, 4.06, 4.29, 4.51, 4.67, 4.44, 5.40 |
 | 5.02 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 3.85, 4.50, 4.96, 6.43, 5.30, 5.29, 4.97, DNF, 6.12, 7.11, 3.88, 4.24, 3.69, 3.50, 4.94, 5.04, 5.36, 4.99, 4.64, 7.91, 5.32, 5.97, 4.52, 4.39, 3.67 |
 | 5.03 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 4.14, 5.21, 5.56, 4.62, 5.14, 5.93, 5.11, 5.22, 5.20, 4.73, 5.06, 4.90, 4.59, 5.18, 5.52, 3.48, 5.02, 5.76, 4.96, 5.15, 5.59, 5.03, 5.23, 4.16, 4.63 |
+| 5.05 | [Joshua Marriott](https://www.worldcubeassociation.org/persons/2019MARR04) | 5.37, 4.58, 4.81, 4.89, 4.18, 5.19, 6.36, 4.53, 4.81, 5.07, 4.83, 7.33, 4.38, 5.50, 4.59, 3.37, DNF, 5.33, 5.64, 6.85, 4.66, 4.53, 5.31, 4.66, 4.17 |
 | 5.07 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) | 4.07, 4.07, 4.48, 5.13, 4.60, 4.19, 4.82, 5.39, 6.20, 4.35, DNF, 4.84, 6.28, 5.11, 6.43, 4.50, 5.21, 4.59, 4.49, 4.65, 8.79, 5.11, 5.66, 3.66, 6.38 |
-| 5.15 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.81, 4.75, 4.43, 5.21, 4.26, DNF, 5.19, 9.36, 5.58, 5.93, 4.48, 6.91, 5.31, 5.09, 5.65, 4.42, 5.49, 4.39, 5.31, 5.62, 5.28, 4.76, 3.91, 4.40, 5.34 |
 
 ### Skewb
 

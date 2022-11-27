@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 23 November 2022*
+*Updated on 26 November 2022*
 
 
 ### Rubik's Cube - Single
@@ -195,9 +195,9 @@
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **15.30** | United States | [Cuber Jackets Fall 2022](https://www.worldcubeassociation.org/competitions/CuberJacketsFall2022) | 19.04, DNF, 15.30 |
 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | **15.61** | Germany | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022) | 19.51, DNF, 15.61 |
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **16.09** | United States | [Silver Spring Summer 2022](https://www.worldcubeassociation.org/competitions/SilverSpringSummer2022) | 16.83, 16.09, DNF |
+| [Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04) | **16.32** | United States | [TGPBQ Burley 2022](https://www.worldcubeassociation.org/competitions/ThanksgivingPBQBurley2022) | DNF, 16.32, DNF |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **16.34** | Sweden | [Swedish Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishChampionship2022) | 28.15, 42.74, 16.34 |
 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | **16.39** | Spain | [Cervantes Cubea 2022](https://www.worldcubeassociation.org/competitions/CervantesCubea2022) | 23.81, 16.39, 26.29 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **16.40** | Poland | [BrizZon Side Open 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2022) | 26.33, 20.74, 16.40 |
 
 ### 3x3x3 Blindfolded - Average
 

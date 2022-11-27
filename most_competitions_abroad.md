@@ -1,14 +1,14 @@
 ## Most competitions abroad
 
-*Updated on 23 November 2022*
+*Updated on 26 November 2022*
 
 | Competitions | Person |
 | ---: | :--- |
-| 155 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
+| 156 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 146 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 133 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 117 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 115 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
+| 116 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 113 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 111 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 110 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |

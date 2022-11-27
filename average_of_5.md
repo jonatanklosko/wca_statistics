@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 23 November 2022*
+*Updated on 26 November 2022*
 
 
 ### Rubik's Cube
@@ -118,11 +118,11 @@
 | 22.00 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | 23, 22, 21, 22, 22 |
 | 22.00 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 23, 24, 20, 20, 23 |
 | 22.33 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 21, 27, 23, 21, 23 |
+| 22.66 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 24, 22, 22, 23, 23 |
 | 22.66 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 26, 24, 22, 22, 22 |
 | 22.66 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 21, 26, 24, 23, 21 |
 | 22.66 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 24, 22, 21, 29, 22 |
 | 22.66 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 26, 23, 23, 21, 22 |
-| 23.00 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 23, DNF, 24, 22, 22 |
 
 ### 3x3x3 One-Handed
 

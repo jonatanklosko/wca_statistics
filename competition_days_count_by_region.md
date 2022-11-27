@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 23 November 2022*
+*Updated on 26 November 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8726 |
+| 1.50 | World | 8736 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2855 |
-| 1.58 | South America | 974 |
+| 1.77 | Europe | 2858 |
+| 1.58 | South America | 975 |
 | 1.49 | Oceania | 364 |
 | 1.42 | Asia | 2143 |
 | 1.21 | Africa | 98 |
-| 1.21 | North America | 2292 |
+| 1.21 | North America | 2298 |
 
 ### Countries
 
@@ -32,7 +32,7 @@
 | 2.00 | Liechtenstein | 2 |
 | 2.00 | Palestine | 2 |
 | 2.00 | Slovakia | 24 |
-| 1.96 | United Kingdom | 144 |
+| 1.97 | United Kingdom | 146 |
 | 1.95 | Turkey | 56 |
 | 1.94 | Lithuania | 16 |
 | 1.93 | Belarus | 42 |
@@ -43,13 +43,13 @@
 | 1.88 | Croatia | 17 |
 | 1.86 | Serbia | 14 |
 | 1.85 | Norway | 75 |
-| 1.85 | France | 237 |
+| 1.85 | France | 238 |
 | 1.85 | Belgium | 59 |
 | 1.84 | Spain | 248 |
 | 1.83 | Austria | 18 |
 | 1.83 | Switzerland | 84 |
 | 1.83 | Mexico | 92 |
-| 1.81 | Brazil | 326 |
+| 1.81 | Brazil | 327 |
 | 1.81 | Thailand | 31 |
 | 1.80 | North Macedonia | 5 |
 | 1.80 | San Marino | 5 |
@@ -110,7 +110,7 @@
 | 1.22 | Panama | 9 |
 | 1.20 | Portugal | 15 |
 | 1.19 | Uruguay | 36 |
-| 1.17 | United States | 1832 |
+| 1.17 | United States | 1838 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Canada | 228 |
 | 1.17 | Tunisia | 24 |

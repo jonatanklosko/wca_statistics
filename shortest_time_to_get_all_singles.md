@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 26 November 2022*
+*Updated on 29 November 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -178,6 +178,7 @@
 | 1343 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 1344 | [Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17) |
 | 1350 | [Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01) |
+| 1351 | [Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01) |
 | 1372 | [Adam Ahmad](https://www.worldcubeassociation.org/persons/2018AHMA02) |
 | 1379 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 1379 | [Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
@@ -246,6 +247,7 @@
 | 1847 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) |
 | 1848 | [Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01) |
 | 1855 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
+| 1863 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 1874 | [Sergio Bulux](https://www.worldcubeassociation.org/persons/2014BULU01) |
 | 1898 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 1904 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |

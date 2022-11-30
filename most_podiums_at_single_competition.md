@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 26 November 2022*
+*Updated on 29 November 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -99,6 +99,7 @@
 | 11 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | [Basauri Open 2014](https://www.worldcubeassociation.org/competitions/BasauriOpen2014/results/podiums) |
 | 13 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) | [Basauri Open 2016](https://www.worldcubeassociation.org/competitions/BasauriOpen2016/results/podiums) |
 | 10 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) | [Basauri Open 2019](https://www.worldcubeassociation.org/competitions/BasauriOpen2019/results/podiums) |
+| 10 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | [Basauri Open 2022](https://www.worldcubeassociation.org/competitions/BasauriOpen2022/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Basel Open 2020](https://www.worldcubeassociation.org/competitions/BaselOpen2020/results/podiums) |
 | 10 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | [Batam Open 2018](https://www.worldcubeassociation.org/competitions/BatamOpen2018/results/podiums) |
 | 10 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | [BASC 5 2015](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin52015/results/podiums) |
@@ -662,6 +663,7 @@
 | 15 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2017](https://www.worldcubeassociation.org/competitions/OuluOpen2017/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019/results/podiums) |
+| 11 | [João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Oxente Open 2022](https://www.worldcubeassociation.org/competitions/OxenteOpen2022/results/podiums) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014/results/podiums) |
 | 12 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010/results/podiums) |
 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010/results/podiums) |

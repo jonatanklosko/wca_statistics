@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 26 November 2022*
+*Updated on 29 November 2022*
 
 
 ### Rubik's Cube - Single
@@ -41,13 +41,13 @@
 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | **0.62** | United States | [Tea Time Spring 2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018) | 1.54, 1.71, 2.11, 0.62, 0.93 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **0.62** | United States | [Cubing in the Ville 2022](https://www.worldcubeassociation.org/competitions/CubingInTheVille2022) | 0.62, 1.81, 3.60, 1.25, 1.64 |
 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | **0.63** | United States | [Get To The Point 2022](https://www.worldcubeassociation.org/competitions/GetToThePoint2022) | 5.20, 0.63, 2.96, 2.52, 2.66 |
+| [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | **0.63** | Australia | [Northside Spring Saturday 2022](https://www.worldcubeassociation.org/competitions/NorthsideSpringSaturday2022) | 0.63, 3.32, 3.16, 4.43, 7.03 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **0.66** | United States | [Get To The Point 2022](https://www.worldcubeassociation.org/competitions/GetToThePoint2022) | 2.35, 0.66, 2.83, DNF, 1.93 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **0.68** | Poland | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) | 3.83, 0.68, 3.07, 3.30, 5.11 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **0.69** | Australia | [Melbourne Winter 2018](https://www.worldcubeassociation.org/competitions/MelbourneWinter2018) | 3.68, 2.95, 1.67, 2.26, 0.69 |
 | [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) | **0.74** | Georgia | [Georgia Autumn Open 2022](https://www.worldcubeassociation.org/competitions/GeorgiaAutumnOpen2022) | 0.74, 3.77, 2.84, 1.62, 1.83 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **0.74** | Australia | [Marrickville Autumn Sat 2021](https://www.worldcubeassociation.org/competitions/MarrickvilleAutumnSaturday2021) | 1.96, 2.04, 1.53, 0.74, 1.78 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **0.76** | Hungary | [Eger Open 2017](https://www.worldcubeassociation.org/competitions/EgerOpen2017) | 2.65, 0.76, 2.42, 4.07, 3.58 |
-| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **0.77** | Denmark | [Kjeller Open 2018](https://www.worldcubeassociation.org/competitions/KjellerOpen2018) | 0.77, 1.94, 2.25, 1.97, 1.79 |
 
 ### 2x2x2 Cube - Average
 
@@ -62,7 +62,7 @@
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **1.66** | Spain | [Murcia 2018](https://www.worldcubeassociation.org/competitions/Murcia2018) | 0.93, 2.91, 1.93, 1.65, 1.40 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1.79** | Sweden | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019) | 1.29, 1.59, 1.92, 2.56, 1.87 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **1.82** | United States | [Minnesota Qualifier 2019](https://www.worldcubeassociation.org/competitions/MinnesotaQualifier2019) | 1.59, 4.91, 2.37, 1.49, 1.45 |
-| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **1.98** | Poland | [Prague Open 2022](https://www.worldcubeassociation.org/competitions/PragueOpen2022) | 1.36, 1.95, 2.10, 2.20, 1.89 |
+| [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) | **1.90** | Georgia | [Tbilisi Open 2022](https://www.worldcubeassociation.org/competitions/TbilisiOpen2022) | 1.49, 2.27, 1.31, 3.51, 1.93 |
 
 ### 4x4x4 Cube - Single
 
@@ -92,7 +92,7 @@
 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | **28.33** | United States | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 26.26, 29.61, 27.92, 31.42, 27.47 |
 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **28.55** | France | [Sorgues 2022](https://www.worldcubeassociation.org/competitions/SorguesOpen2022) | 25.34, 29.09, 30.61, 27.24, 29.32 |
 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | **28.57** | Norway | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) | 29.31, 27.81, 26.73, 41.14, 28.59 |
-| [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) | **28.91** | Canada | [No 3x3x3 Waterloo 2018](https://www.worldcubeassociation.org/competitions/No3x3x3Waterloo2018) | 28.58, 29.60, 28.56, 32.56, 28.36 |
+| [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) | **28.60** | Canada | [Oakville Fall A 2022](https://www.worldcubeassociation.org/competitions/OakvilleFallA2022) | 31.65, 28.38, 29.69, 26.39, 27.74 |
 
 ### 5x5x5 Cube - Single
 
@@ -299,9 +299,9 @@
 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | **46.99** | Colombia | [Tres en Línea Bogotá 2022](https://www.worldcubeassociation.org/competitions/TresenLineaBogota2022) | 46.44, 52.61, 46.23, 48.31, 44.21 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | **47.26** | Malaysia | [USM Penang Cube 2019](https://www.worldcubeassociation.org/competitions/USMPenangCube2019) | 45.66, 47.11, 51.02, 43.91, 49.01 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **47.29** | Argentina | [Mega Open Ciudadela 2022](https://www.worldcubeassociation.org/competitions/MegaOpenCiudadela2022) | 47.50, 45.22, 49.15, 43.18, 57.98 |
+| [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | **47.43** | Australia | [Butler Blitz 2022](https://www.worldcubeassociation.org/competitions/ButlerBlitz2022) | 44.04, 43.63, 51.54, 56.52, 46.72 |
 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | **47.56** | United States | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018) | 46.71, 46.19, 47.73, 48.25, 58.91 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **48.77** | Denmark | [Lejre Side Events 2022](https://www.worldcubeassociation.org/competitions/LejreSideEvents2022) | 56.34, 54.67, 45.66, 45.99, 43.41 |
-| [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | **48.81** | Australia | [Perth Puzzle Marathon 2022](https://www.worldcubeassociation.org/competitions/PerthPuzzleMarathon2022) | 50.37, 46.52, 58.14, 49.55, 46.27 |
 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) | **49.30** | Australia | [Marrickville Big Cubes Day 2022](https://www.worldcubeassociation.org/competitions/MarrickvilleBigCubesDay2022) | 50.40, 49.79, 48.84, 47.12, 49.27 |
 
 ### Pyraminx - Single
@@ -314,10 +314,10 @@
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **1.43** | Poland | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022) | 4.37, 3.11, 6.41, 3.63, 1.43 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.45** | United States | [SacCubing X 2021](https://www.worldcubeassociation.org/competitions/SacCubingX2021) | 3.13, 4.60, 2.18, 1.45, 3.51 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **1.50** | Denmark | [Lonely Denmark 2020](https://www.worldcubeassociation.org/competitions/LonelyDenmark2020) | 4.94, 4.93, 4.57, 6.01, 1.50 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **1.60** | Poland | [KoprCube 2022](https://www.worldcubeassociation.org/competitions/KoprCube2022) | 5.65, 3.84, 6.71, 3.95, 1.60 |
 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) | **1.77** | India | [WPI Fall Cube Fest 2017](https://www.worldcubeassociation.org/competitions/WPIFallCubeFest2017) | 2.07, 1.77, 5.15, 3.89, 2.81 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **1.78** | Australia | [Canberra Autumn 2018](https://www.worldcubeassociation.org/competitions/CanberraAutumn2018) | 4.82, 4.68, 6.07, 2.73, 1.78 |
 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) | **1.84** | United States | [South Enough 2018](https://www.worldcubeassociation.org/competitions/SouthEnough2018) | 5.76, 5.69, 1.84, 8.12, 5.73 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1.90** | Sweden | [Jönköping Side Events 2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019) | 3.08, 4.93, 3.74, 6.21, 1.90 |
 
 ### Pyraminx - Average
 
@@ -362,7 +362,7 @@
 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) | **5.59** | Norway | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) | 5.52, 5.40, 5.80, 6.13, 5.44 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **5.82** | United States | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022) | 6.29, 6.17, 4.92, 5.00, 8.26 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **5.89** | Belarus | [Welcome to Brest 2018](https://www.worldcubeassociation.org/competitions/WelcometoBrest2018) | 5.50, 5.00, 6.57, 5.81, 6.37 |
-| [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | **5.96** | Ireland | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | 5.32, 4.47, 6.13, 6.43, 8.05 |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **5.93** | Finland | [Level Up Uusimaa 2022](https://www.worldcubeassociation.org/competitions/LevelUpUusimaa2022) | 5.55, 6.28, DNF, 5.22, 5.96 |
 
 ### Skewb - Single
 

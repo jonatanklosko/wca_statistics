@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 26 November 2022*
+*Updated on 29 November 2022*
 
 | Countries | Person |
 | ---: | :--- |
@@ -76,6 +76,7 @@
 | 15 | [Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01) |
 | 15 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |
 | 15 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
+| 14 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 14 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 14 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 14 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
@@ -99,7 +100,6 @@
 | 13 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
 | 13 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 13 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
-| 13 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
 | 13 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
 | 13 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 13 | [Gaël Dusser](https://www.worldcubeassociation.org/persons/2007DUSS01) |

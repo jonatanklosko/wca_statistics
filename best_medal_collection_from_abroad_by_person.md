@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 26 November 2022*
+*Updated on 29 November 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -15,8 +15,8 @@
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **117** | 142 | 123 | 382 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **117** | 61 | 37 | 215 |
+| [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **111** | 101 | 88 | 300 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **111** | 90 | 71 | 272 |
-| [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **110** | 101 | 87 | 298 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **109** | 43 | 23 | 175 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **108** | 122 | 108 | 338 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **106** | 38 | 16 | 160 |
@@ -26,18 +26,18 @@
 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | **92** | 99 | 67 | 258 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **80** | 112 | 71 | 263 |
-| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **76** | 28 | 24 | 128 |
+| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **80** | 28 | 25 | 133 |
 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **69** | 29 | 37 | 135 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **67** | 72 | 42 | 181 |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **67** | 63 | 82 | 212 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | **67** | 44 | 49 | 160 |
+| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **67** | 18 | 17 | 102 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **63** | 82 | 71 | 216 |
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
-| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **63** | 17 | 16 | 96 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **59** | 37 | 17 | 113 |
-| [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **57** | 63 | 65 | 185 |
+| [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **57** | 63 | 66 | 186 |
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **54** | 36 | 24 | 114 |
@@ -45,12 +45,12 @@
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **53** | 30 | 22 | 105 |
 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **52** | 46 | 28 | 126 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | **51** | 20 | 11 | 82 |
+| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **50** | 66 | 25 | 141 |
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **50** | 16 | 3 | 69 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **49** | 50 | 38 | 137 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | **49** | 44 | 40 | 133 |
-| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **48** | 64 | 23 | 135 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **48** | 59 | 62 | 169 |
-| [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **47** | 36 | 27 | 110 |
+| [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **47** | 36 | 28 | 111 |
 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | **46** | 61 | 31 | 138 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | **46** | 36 | 26 | 108 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **46** | 32 | 27 | 105 |
@@ -69,10 +69,10 @@
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **38** | 75 | 157 | 270 |
 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) | **38** | 20 | 49 | 107 |
 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | **38** | 12 | 5 | 55 |
+| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **37** | 23 | 31 | 91 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **37** | 12 | 7 | 56 |
 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | **36** | 31 | 19 | 86 |
 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | **36** | 29 | 25 | 90 |
-| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **36** | 20 | 30 | 86 |
 | [Ivan Torgashov (Іван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) | **36** | 15 | 22 | 73 |
 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | **36** | 12 | 9 | 57 |
 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **35** | 48 | 24 | 107 |

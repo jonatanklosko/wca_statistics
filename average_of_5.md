@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 26 November 2022*
+*Updated on 29 November 2022*
 
 
 ### Rubik's Cube
@@ -160,13 +160,13 @@
 | ---: | :--- | :--- |
 | 1.57 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.34, 4.13, 1.68, 1.69, 1.29 |
 | 1.63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.74, 1.39, 2.69, 1.76, 1.33 |
+| 1.70 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.41, 2.30, 1.53, 1.88, 1.69 |
 | 1.72 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.27, 1.84, 2.51, 1.15, 2.07 |
 | 1.73 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.18, 2.65, 1.32, 2.41, 1.48 |
 | 1.76 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 1.91, 1.62, 1.67, 5.49, 1.71 |
 | 1.78 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.68, 1.57, 2.05, 5.04, 1.62 |
 | 1.78 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | DNF, 1.24, 1.67, 1.59, 2.10 |
 | 1.80 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.74, 1.98, 1.69, 2.40, 1.18 |
-| 1.80 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.40, 1.78, DNF, 1.77, 1.86 |
 | 1.84 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.17, 3.99, 1.39, 1.80, 2.33 |
 
 ### Rubik's Clock

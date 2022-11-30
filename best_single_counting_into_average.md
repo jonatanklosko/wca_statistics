@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 26 November 2022*
+*Updated on 29 November 2022*
 
 
 ### Rubik's Cube
@@ -106,7 +106,7 @@
 | 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
 | 1.53 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2015GORN01) |
 | 1.53 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Twisty Taranaki 2022](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2022/results/by_person#2018MURR03) |
-| 1.54 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Opawa Open 2022](https://www.worldcubeassociation.org/competitions/OpawaOpen2022/results/by_person#2018MURR03) |
+| 1.53 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/by_person#2018HIBS01) |
 
 ### Rubik's Clock
 
@@ -118,10 +118,10 @@
 | 3.46 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Stevenage Autumn B 2022](https://www.worldcubeassociation.org/competitions/StevenageAutumnB2022/results/by_person#2017CHAM09) |
 | 3.47 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Cubers Flood Watertown 2022](https://www.worldcubeassociation.org/competitions/CubersFloodWatertown2022/results/by_person#2015TREL02) |
 | 3.54 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
+| 3.62 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Texas Championship 2022](https://www.worldcubeassociation.org/competitions/TexasChampionship2022/results/by_person#2015TREL02) |
 | 3.66 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/by_person#2015TREL02) |
 | 3.69 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Diamond Bar September 2022](https://www.worldcubeassociation.org/competitions/DiamondBarSeptember2022/results/by_person#2021DUNA01) |
 | 3.73 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/by_person#2021DUNA01) |
-| 3.76 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 
 ### Skewb
 

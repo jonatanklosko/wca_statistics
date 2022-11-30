@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 26 November 2022*
+*Updated on 29 November 2022*
 
 
 ### Rubik's Cube
@@ -164,10 +164,10 @@
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 2.01 | **2.29** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 6 |
 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 1.61 | **2.31** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 7 |
 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 2.07 | **2.31** | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/all#epyram_f) | 4 |
+| [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.74 | **2.37** | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/all#epyram_f) | 4 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 2.17 | **2.37** | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022/results/all#epyram_f) | 4 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2.04 | **2.40** | [Cube4fun Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022/results/all#epyram_f) | 4 |
 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.18 | **2.44** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 4 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1.57 | **2.45** | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 

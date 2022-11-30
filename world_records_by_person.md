@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 26 November 2022*
+*Updated on 29 November 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -181,6 +181,7 @@
 | 1 | [Fakhri Raihaan](https://www.worldcubeassociation.org/persons/2010RAIH01) |
 | 1 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
 | 1 | [Grant Tregay](https://www.worldcubeassociation.org/persons/2003TREG02) |
+| 1 | [Guanbo Wang (王冠博)](https://www.worldcubeassociation.org/persons/2018WANG35) |
 | 1 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 1 | [Haixin Yang (杨海鑫)](https://www.worldcubeassociation.org/persons/2014YANG11) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |

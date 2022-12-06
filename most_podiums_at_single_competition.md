@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 29 November 2022*
+*Updated on  5 December 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -152,7 +152,7 @@
 | 11 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Bucaramanga Cultural 2017](https://www.worldcubeassociation.org/competitions/BucaramangaCultural2017/results/podiums) |
 | 13 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Bulldog Qualifier 2019](https://www.worldcubeassociation.org/competitions/BulldogQualifier2019/results/podiums) |
 | 10 | [Erwan de Lépinau](https://www.worldcubeassociation.org/persons/2012LEPI01) | [Bussières Open 2013](https://www.worldcubeassociation.org/competitions/BussieresOpen2013/results/podiums) |
-| 12 | [Gabriel Bergue Campos Borges](https://www.worldcubeassociation.org/persons/2017BORG02) | [Campeonato Baiano 2020](https://www.worldcubeassociation.org/competitions/CampeonatoBaiano2020/results/podiums) |
+| 12 | [Gabriel Bergue](https://www.worldcubeassociation.org/persons/2017BORG02) | [Campeonato Baiano 2020](https://www.worldcubeassociation.org/competitions/CampeonatoBaiano2020/results/podiums) |
 | 13 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Campeonato Brasileiro 2019](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2019/results/podiums) |
 | 13 | [Aharon Campoli Tono](https://www.worldcubeassociation.org/persons/2014TONO01) | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017/results/podiums) |
 | 10 | [Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01) | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017/results/podiums) |
@@ -171,7 +171,7 @@
 | 10 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Caracolí Open 2018](https://www.worldcubeassociation.org/competitions/CaracoliOpen2018/results/podiums) |
 | 10 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Caracolí Open 2018](https://www.worldcubeassociation.org/competitions/CaracoliOpen2018/results/podiums) |
 | 10 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Caribe Challenge 2018](https://www.worldcubeassociation.org/competitions/CaribeChallenge2018/results/podiums) |
-| 11 | [Andrey da Conceição Santos](https://www.worldcubeassociation.org/persons/2016SANT03) | [Cariri Open 2016](https://www.worldcubeassociation.org/competitions/CaririOpen2016/results/podiums) |
+| 11 | [Andrey Conceição](https://www.worldcubeassociation.org/persons/2016SANT03) | [Cariri Open 2016](https://www.worldcubeassociation.org/competitions/CaririOpen2016/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Casal Catalunya Baires Open 2019](https://www.worldcubeassociation.org/competitions/CasalCatalunyaBairesOpen2019/results/podiums) |
 | 11 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Castellon Open 2011](https://www.worldcubeassociation.org/competitions/CastellonOpen2011/results/podiums) |
 | 10 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Castellon Open 2011](https://www.worldcubeassociation.org/competitions/CastellonOpen2011/results/podiums) |
@@ -201,7 +201,7 @@
 | 11 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [III Torneo Nacional 2013](https://www.worldcubeassociation.org/competitions/ColombiaTercer2013/results/podiums) |
 | 10 | [AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01) | [Colorado Springs 2013](https://www.worldcubeassociation.org/competitions/ColoradoSprings2013/results/podiums) |
 | 14 | [João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Conquiste o Cubo 2019](https://www.worldcubeassociation.org/competitions/ConquisteoCubo2019/results/podiums) |
-| 12 | [Gabriel Bergue Campos Borges](https://www.worldcubeassociation.org/persons/2017BORG02) | [Conquiste o Cubo 2019](https://www.worldcubeassociation.org/competitions/ConquisteoCubo2019/results/podiums) |
+| 12 | [Gabriel Bergue](https://www.worldcubeassociation.org/persons/2017BORG02) | [Conquiste o Cubo 2019](https://www.worldcubeassociation.org/competitions/ConquisteoCubo2019/results/podiums) |
 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Constanța Cube Days 2017](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2017/results/podiums) |
 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Constanta Summer Open 2019](https://www.worldcubeassociation.org/competitions/ConstantaSummerOpen2019/results/podiums) |
 | 10 | [Gerardo Varela](https://www.worldcubeassociation.org/persons/2017VARE01) | [Copa Inframundo HN 2019](https://www.worldcubeassociation.org/competitions/CopaInframundoHN2019/results/podiums) |
@@ -227,7 +227,7 @@
 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Cubes Masters Zhytomyr 2019](https://www.worldcubeassociation.org/competitions/CubesMastersZhytomyr2019/results/podiums) |
 | 11 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) | [Cube Ta Bai sa Cebu 2022](https://www.worldcubeassociation.org/competitions/CubeTaBaisaCebu2022/results/podiums) |
 | 14 | [João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Cubing At PASB 2022](https://www.worldcubeassociation.org/competitions/CubingAtPASB2022/results/podiums) |
-| 11 | [Gabriel Bergue Campos Borges](https://www.worldcubeassociation.org/persons/2017BORG02) | [Cubing At PASB 2022](https://www.worldcubeassociation.org/competitions/CubingAtPASB2022/results/podiums) |
+| 11 | [Gabriel Bergue](https://www.worldcubeassociation.org/persons/2017BORG02) | [Cubing At PASB 2022](https://www.worldcubeassociation.org/competitions/CubingAtPASB2022/results/podiums) |
 | 11 | [Kyle McDonald Trejos](https://www.worldcubeassociation.org/persons/2017TREJ03) | [Cubing Chiriquí 2019](https://www.worldcubeassociation.org/competitions/CubingChiriqui2019/results/podiums) |
 | 11 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016/results/podiums) |
 | 10 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016/results/podiums) |
@@ -389,6 +389,8 @@
 | 10 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Great South Open 2016](https://www.worldcubeassociation.org/competitions/GreatSouthOpen2016/results/podiums) |
 | 11 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Greece Winter Open 2016](https://www.worldcubeassociation.org/competitions/GreeceWinterOpen2016/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020/results/podiums) |
+| 12 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Grizz Cubing 2022](https://www.worldcubeassociation.org/competitions/GrizzCubing2022/results/podiums) |
+| 10 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) | [Grizz Cubing 2022](https://www.worldcubeassociation.org/competitions/GrizzCubing2022/results/podiums) |
 | 10 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | [Guadalajara 2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017/results/podiums) |
 | 11 | [Uriel Gayosso Ruiz](https://www.worldcubeassociation.org/persons/2007RUIZ01) | [Guadalajara Open 2010](https://www.worldcubeassociation.org/competitions/GuadalajaraOpen2010/results/podiums) |
 | 12 | [Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02) | [GCC 2015](https://www.worldcubeassociation.org/competitions/GuatemalaCubeChallenge2015/results/podiums) |
@@ -428,6 +430,8 @@
 | 10 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2019](https://www.worldcubeassociation.org/competitions/IcelandicNationals2019/results/podiums) |
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
+| 12 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022/results/podiums) |
+| 10 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022/results/podiums) |
 | 10 | [Aziz Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS03) | [Idéale Nabeul Open 2018](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2018/results/podiums) |
 | 13 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019/results/podiums) |
 | 10 | [Hassen Kallala](https://www.worldcubeassociation.org/persons/2016KALL01) | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019/results/podiums) |

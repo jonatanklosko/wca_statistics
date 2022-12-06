@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 29 November 2022*
+*Updated on  5 December 2022*
 
 
 ### Rubik's Cube
@@ -151,8 +151,8 @@
 | 31.74 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 30.84, 36.43, 30.89, 32.94, 31.41 |
 | 31.83 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 30.94, 33.06, 32.10, 31.20, 32.21 |
 | 32.46 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 31.95, 33.56, 31.15, 33.84, 31.89 |
+| 32.70 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 32.36, 37.34, 32.34, 32.87, 32.88 |
 | 32.71 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 31.66, 32.33, 34.14, 40.75, 29.91 |
-| 32.83 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 32.53, 31.92, 35.54, 32.34, 33.64 |
 
 ### Pyraminx
 
@@ -160,9 +160,9 @@
 | ---: | :--- | :--- |
 | 1.57 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.34, 4.13, 1.68, 1.69, 1.29 |
 | 1.63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.74, 1.39, 2.69, 1.76, 1.33 |
+| 1.68 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | DNF, 1.55, 1.66, 1.85, 1.44 |
 | 1.70 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.41, 2.30, 1.53, 1.88, 1.69 |
 | 1.72 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.27, 1.84, 2.51, 1.15, 2.07 |
-| 1.73 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.18, 2.65, 1.32, 2.41, 1.48 |
 | 1.76 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 1.91, 1.62, 1.67, 5.49, 1.71 |
 | 1.78 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.68, 1.57, 2.05, 5.04, 1.62 |
 | 1.78 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | DNF, 1.24, 1.67, 1.59, 2.10 |

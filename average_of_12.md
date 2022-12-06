@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 29 November 2022*
+*Updated on  5 December 2022*
 
 
 ### Rubik's Cube
@@ -152,15 +152,15 @@
 | 33.55 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 32.70, 40.27, 34.62, 38.48, 32.20, 35.80, 33.16, 30.94, 33.06, 32.10, 31.20, 32.21 |
 | 33.76 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 34.30, 34.50, 33.17, 33.88, 29.67, 36.92, 36.16, 32.68, 29.85, 33.79, 34.13, 35.22 |
 | 33.83 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 36.52, 34.82, 34.82, 33.15, 33.07, 36.19, 35.05, 31.95, 33.56, 31.15, 33.84, 31.89 |
-| 34.76 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 30.14, 37.03, 32.74, 38.18, 41.28, 32.60, 37.96, 31.72, 34.64, 32.63, 35.20, 34.95 |
+| 34.21 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 32.53, 31.92, 35.54, 32.34, 33.64, 39.34, 31.20, 35.91, 39.15, 33.54, 35.21, 32.36 |
 
 ### Pyraminx
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 1.70 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.82, 1.15, 1.53, 1.86, 1.62, 1.98, 1.19, 2.75, 1.87, 1.79, 1.87, 1.55 |
+| 1.81 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.55, 1.66, 1.85, 1.44, 1.89, 2.08, 2.30, 1.17, 2.75, 1.72, 2.29, 1.32 |
 | 1.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.79, 2.21, 1.74, 1.39, 2.69, 1.76, 1.33, 1.87, 2.02, 2.34, 1.35, 1.77 |
-| 1.86 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.18, 2.65, 1.32, 2.41, 1.48, 1.36, 2.49, 1.76, 2.12, 1.99, 2.19, 1.57 |
 | 1.92 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.87, 1.69, 2.34, 2.84, 2.19, 1.41, 2.30, 1.53, 1.88, 1.69, 1.98, 1.82 |
 | 1.94 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.92, 1.78, 2.12, 1.74, 1.91, 2.40, 2.20, 1.68, 1.57, 2.05, 5.04, 1.62 |
 | 1.97 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.77, 1.83, 1.81, 2.65, 2.37, 2.20, 1.49, 1.74, 1.80, 2.56, 1.94, 1.69 |

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  5 December 2022*
+*Updated on  8 December 2022*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -14,7 +14,7 @@
 | 146 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 143 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 138 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 134 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
+| 136 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 134 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 127 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
@@ -68,8 +68,8 @@
 | 70 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) |
 | 69 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
 | 69 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
+| 69 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 69 | [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) |
-| 68 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 68 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 68 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |

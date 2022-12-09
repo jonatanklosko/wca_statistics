@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  5 December 2022*
+*Updated on  8 December 2022*
 
 
 ### Rubik's Cube
@@ -10,9 +10,9 @@
 | ---: | :--- | :--- |
 | 4.74 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.45, 4.22, 4.69, 5.44, 5.08 |
 | 4.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.62, 4.78, 5.68, 5.19, 4.50 |
+| 5.04 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.89, 5.36, 5.21, 5.02, 4.61 |
 | 5.08 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 4.84, 6.48, 5.68, 4.74, 4.52 |
 | 5.34 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.52, 6.03, 4.89, 5.61, 4.58 |
-| 5.43 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.68, 5.14, 5.49, 8.30, 4.28 |
 | 5.45 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 5.53, 4.89, 7.08, 4.95, 5.89 |
 | 5.45 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) | 5.25, 5.23, 6.72, 5.79, 5.32 |
 | 5.48 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.48, 5.46, 5.44, 7.23, 5.52 |
@@ -167,7 +167,7 @@
 | 1.78 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.68, 1.57, 2.05, 5.04, 1.62 |
 | 1.78 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | DNF, 1.24, 1.67, 1.59, 2.10 |
 | 1.80 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.74, 1.98, 1.69, 2.40, 1.18 |
-| 1.84 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.17, 3.99, 1.39, 1.80, 2.33 |
+| 1.82 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 3.62, 1.94, 1.39, 1.79, 1.73 |
 
 ### Rubik's Clock
 

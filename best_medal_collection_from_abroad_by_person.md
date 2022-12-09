@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  5 December 2022*
+*Updated on  8 December 2022*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -40,7 +40,7 @@
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **57** | 63 | 66 | 186 |
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
-| [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **54** | 38 | 24 | 116 |
+| [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **54** | 38 | 25 | 117 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 23 | 17 | 94 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **53** | 30 | 22 | 105 |
 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **52** | 46 | 28 | 126 |

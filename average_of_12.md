@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  5 December 2022*
+*Updated on  8 December 2022*
 
 
 ### Rubik's Cube
@@ -10,10 +10,10 @@
 | ---: | :--- | :--- |
 | 5.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6.15, 4.45, 4.22, 4.69, 5.44, 5.08, 5.04, 5.93, 4.53, 5.73, 4.66, 5.60 |
 | 5.22 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.62, 4.78, 5.68, 5.19, 4.50, 5.11, 6.09, 5.55, 5.14, 5.66, 4.82, 5.68 |
+| 5.47 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.89, 5.36, 5.21, 5.02, 4.61, 5.38, 6.57, 6.79, 5.65, 4.91, 6.29, 5.43 |
 | 5.50 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.23, 4.84, 6.48, 5.68, 4.74, 4.52, 4.88, 6.59, 6.43, 7.96, 4.62, 5.56 |
 | 5.59 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.62, 5.59, 5.48, 5.52, 5.45, 4.06, 7.51, 5.77, 6.41, 5.15, 5.88, 5.04 |
 | 5.75 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 5.10, 5.95, 5.39, 5.10, 6.41, 5.49, 6.40, 8.38, 5.73, 5.43, 5.59, 6.01 |
-| 5.85 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.57, 5.57, 6.92, 5.93, 5.85, 6.04, 5.89, 5.13, 5.49, 5.79, 7.09, 5.46 |
 | 5.94 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 5.53, 6.32, 5.81, DNF, 6.38, 5.35, 7.21, 5.38, 5.98, 5.76, 5.40, 5.72 |
 | 5.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.22, 5.70, 5.81, 6.51, 5.89, 6.93, 5.45, 5.24, 6.16, 6.65, 8.19, 5.48 |
 | 6.13 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 6.64, 5.96, 7.33, 5.31, 5.50, 6.71, 5.72, 5.66, 5.78, 5.87, 8.16, 6.20 |

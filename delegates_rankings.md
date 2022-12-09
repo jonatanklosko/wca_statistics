@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  5 December 2022*
+*Updated on  8 December 2022*
 
 
 ### Rubik's Cube - Single
@@ -279,7 +279,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **31.06** | United States | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022) | 39.42, 34.47, 36.48, 40.92, 31.06 |
-| [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) | **33.73** | United States | [GA Cubers Mashed Potatoes 2022](https://www.worldcubeassociation.org/competitions/GACubersMashedPotatoes2022) | 33.73, 34.14, 39.60, 37.12, 43.51 |
+| [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) | **31.84** | United States | [Rocky Top 2022](https://www.worldcubeassociation.org/competitions/RockyTop2022) | 31.84, 37.59, 37.95, 37.96, 43.80 |
 | [Michael Chai (柴天方)](https://www.worldcubeassociation.org/persons/2016CHAI03) | **36.51** | United States | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022) | 36.51, 48.07, 54.83, 56.85, 47.55 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **37.88** | Malaysia | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) | 58.12, 37.88, 53.71, 52.63, 44.41 |
 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) | **39.92** | Germany | [German Big Cube Open 2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019) | 48.47, 57.68, 50.56, 1:00.91, 39.92 |
@@ -357,8 +357,8 @@
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **4.93** | Poland | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | 4.19, 5.11, 4.32, 6.71, 5.35 |
 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | **5.03** | Australia | [Melbourne Trilogy Upstairs 2022](https://www.worldcubeassociation.org/competitions/MelbourneTrilogyUpstairs2022) | 4.51, 5.61, 4.98, 6.56, 4.51 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **5.46** | Poland | [Gdańsk Open 2022](https://www.worldcubeassociation.org/competitions/GdanskOpen2022) | 5.29, 5.32, 5.75, 6.55, 5.30 |
+| [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **5.54** | United States | [Rocky Top 2022](https://www.worldcubeassociation.org/competitions/RockyTop2022) | 4.84, 6.20, 5.38, 5.03, 9.18 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **5.57** | Sweden | [Flen - Stora Manschetten 2021](https://www.worldcubeassociation.org/competitions/FlenStoraManschetten2021) | 5.63, 5.66, 13.39, 5.08, 5.43 |
-| [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **5.59** | United States | [Carolina Clock 'Stravaganza 2022](https://www.worldcubeassociation.org/competitions/CarolinaClockStravaganza2022) | 5.37, 7.24, 6.13, 5.27, 4.85 |
 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) | **5.59** | Norway | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) | 5.52, 5.40, 5.80, 6.13, 5.44 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **5.82** | United States | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022) | 6.29, 6.17, 4.92, 5.00, 8.26 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **5.89** | Belarus | [Welcome to Brest 2018](https://www.worldcubeassociation.org/competitions/WelcometoBrest2018) | 5.50, 5.00, 6.57, 5.81, 6.37 |

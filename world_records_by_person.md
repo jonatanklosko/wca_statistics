@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  8 December 2022*
+*Updated on 11 December 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -137,6 +137,7 @@
 | 2 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 2 | [Masayuki Akimoto (秋元正行)](https://www.worldcubeassociation.org/persons/2003AKIM01) |
 | 2 | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) |
+| 2 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 2 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) |
 | 2 | [Mirek Goljan](https://www.worldcubeassociation.org/persons/2003GOLJ01) |
 | 2 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
@@ -221,7 +222,6 @@
 | 1 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
 | 1 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 1 | [Mario Laurent](https://www.worldcubeassociation.org/persons/2008LAUR01) |
-| 1 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 1 | [Mharr Justhinne Ampong](https://www.worldcubeassociation.org/persons/2012AMPO01) |
 | 1 | [Micael Hellberg](https://www.worldcubeassociation.org/persons/2004HELL01) |
 | 1 | [Mike Godfrey](https://www.worldcubeassociation.org/persons/2004GODF01) |

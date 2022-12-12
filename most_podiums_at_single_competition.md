@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  8 December 2022*
+*Updated on 11 December 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -171,6 +171,8 @@
 | 10 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Caracolí Open 2018](https://www.worldcubeassociation.org/competitions/CaracoliOpen2018/results/podiums) |
 | 10 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Caracolí Open 2018](https://www.worldcubeassociation.org/competitions/CaracoliOpen2018/results/podiums) |
 | 10 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Caribe Challenge 2018](https://www.worldcubeassociation.org/competitions/CaribeChallenge2018/results/podiums) |
+| 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/podiums) |
+| 11 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/podiums) |
 | 11 | [Andrey Conceição](https://www.worldcubeassociation.org/persons/2016SANT03) | [Cariri Open 2016](https://www.worldcubeassociation.org/competitions/CaririOpen2016/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Casal Catalunya Baires Open 2019](https://www.worldcubeassociation.org/competitions/CasalCatalunyaBairesOpen2019/results/podiums) |
 | 11 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Castellon Open 2011](https://www.worldcubeassociation.org/competitions/CastellonOpen2011/results/podiums) |
@@ -509,6 +511,7 @@
 | 10 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) | [Krivbass Open 2016](https://www.worldcubeassociation.org/competitions/KrivbassOpen2016/results/podiums) |
 | 10 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | [KSF Atyrau City 2019](https://www.worldcubeassociation.org/competitions/KSFAtyrauCity2019/results/podiums) |
 | 11 | [Shubham Kumar](https://www.worldcubeassociation.org/persons/2013KUMA15) | [Kshitij Open 2014](https://www.worldcubeassociation.org/competitions/KshitijOpen2014/results/podiums) |
+| 11 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) | [KSRCT Cube Open 2022](https://www.worldcubeassociation.org/competitions/KSRCTCubeOpen2022/results/podiums) |
 | 13 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | [KubeKings Weekend 2015](https://www.worldcubeassociation.org/competitions/KubeKingsWeekend2015/results/podiums) |
 | 11 | [Fernando Daniel Hernández Sánchez](https://www.worldcubeassociation.org/persons/2010SANC04) | [Kuikuiltik 2012](https://www.worldcubeassociation.org/competitions/Kuikuiltik2012/results/podiums) |
 | 11 | [David Arzamastsev](https://www.worldcubeassociation.org/persons/2016ARZA01) | [Kursk Open 2017](https://www.worldcubeassociation.org/competitions/KurskOpen2017/results/podiums) |

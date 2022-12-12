@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  8 December 2022*
+*Updated on 11 December 2022*
 
 | Countries | Person |
 | ---: | :--- |
@@ -41,6 +41,7 @@
 | 19 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 19 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
+| 19 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 18 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 18 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
@@ -49,7 +50,6 @@
 | 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
 | 18 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
-| 18 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 17 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 17 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |

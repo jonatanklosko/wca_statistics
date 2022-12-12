@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 December 2022*
+*Updated on 11 December 2022*
 
 
 ### Rubik's Cube
@@ -121,8 +121,8 @@
 | 23.50 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22 |
 | 23.50 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 19, 30, 25, 23, 23, 24, 22, 20, 25, 26, 24, 23 |
 | 23.60 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 26, 23, 23, 21, 22, 25, 31, 25, 23, 23, 21, 25 |
+| 24.00 | [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | 26, 22, 23, 25, 26, 23, 22, 22, 26, 25, 26, 22 |
 | 24.10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 23, 23, 25, 25, 23, 24, 23, 26, 24, 28, 25, 23 |
-| 24.20 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 27, 26, 24, 23, 22, 22, 24, 25, 25, 24, 24, 25 |
 
 ### 3x3x3 One-Handed
 
@@ -143,7 +143,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 29.29 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 27.96, 33.94, 28.48, 28.56, 27.98, 30.41, 28.63, 28.66, 30.21, 28.89, 32.60, 28.55 |
+| 29.16 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 28.48, 28.56, 27.98, 30.41, 28.63, 28.66, 30.21, 28.89, 32.60, 28.55, 27.58, 31.30 |
 | 29.94 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 30.82, 35.30, 29.83, 27.99, 30.61, 28.45, 31.37, 28.33, 30.46, 29.96, 30.42, 29.20 |
 | 29.95 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 27.42, 27.27, 30.53, 33.02, 30.13, 32.64, DNF, 27.40, 27.80, 31.15, 29.76, 29.65 |
 | 31.25 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 29.16, 32.81, 31.78, 34.48, 33.62, 33.47, 30.12, 28.50, 31.19, 29.97, 31.07, 29.34 |

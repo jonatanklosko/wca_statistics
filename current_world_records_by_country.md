@@ -1,10 +1,10 @@
 ## Current world records count by country
 
-*Updated on  8 December 2022*
+*Updated on 11 December 2022*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
-| 25 | United States | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02), [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02), [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07), [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 25 | United States | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02), [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07), [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 6 | China | [Guanbo Wang (王冠博)](https://www.worldcubeassociation.org/persons/2018WANG35), [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01), [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 2 | Poland | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 1 | Argentina | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |

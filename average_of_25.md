@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 11 December 2022*
+*Updated on 14 December 2022*
 
 
 ### Rubik's Cube
@@ -112,14 +112,14 @@
 | ---: | :--- | :--- |
 | 22.52 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 25, 23, 18, 22, 27, 26, 22, 23, 22, 23, 23, 23, 21, 21, 24, 23, 23, 22, 22, 24, 24, 19, 20, 21 |
 | 23.61 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 24, 19, 30, 25, 23, 23, 24, 22, 20, 25, 26, 24, 23, 24, 25, 26, 23, 24, 21, 27, 23, 21, 23, 23, 24 |
+| 24.47 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 25, 27, 24, 25, 26, 26, 21, 26, 29, 22, 24, 25, 23, 23, 22, 23, 21, 21, DNF, 26, 26, 26, 22, 29, 23 |
 | 24.61 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 26, 24, 23, 22, 22, 24, 25, 25, 24, 24, 25, 26, 27, 25, 28, 22, 27, 22, 28, 24, 29, 24, 24, 24, 24 |
 | 24.66 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 20, 29, 29, 24, 29, 19, 25, 27, 20, 34, 26, 22, 24, 33, 26, 23, 23, 21, 22, 25, 31, 25, 23, 23, 21 |
 | 24.76 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 20, 27, 29, 26, 24, 24, 24, 28, 22, 28, 24, 26, 23, 23, 25, 25, 23, 24, 23, 26, 24, 28, 25, 23, 25 |
 | 25.14 | [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | 24, 24, 24, 24, 23, DNF, 27, 30, 28, DNF, 22, 29, 24, 26, 27, 26, 25, 26, 22, 23, 25, 26, 23, 22, 22 |
 | 25.19 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 26, 28, 26, 22, 29, 25, 27, 33, 23, 30, 26, 28, 32, 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22 |
+| 25.23 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 25, 24, 24, 19, 25, 29, 26, 27, 22, 27, 22, 21, DNF, 34, 30, 25, 28, 22, 29, 25, 22, 29, 24, 23, 22 |
 | 25.23 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 25, 26, 25, 29, 25, 23, 23, 24, 28, 23, 26, 25, 28, 26, 22, 27, 21, 26, 25, DNF, 26, 26, 22, 25, 26 |
-| 25.28 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 28, 26, 29, 33, 38, 24, DNF, 25, 27, 24, 25, 26, 26, 21, 26, 29, 22, 24, 25, 23, 23, 22, 23, 21, 21 |
-| 25.28 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 23, 31, 24, 23, 25, 32, 22, 27, 27, 25, 27, 25, DNF, 22, 25, 23, 33, 26, 24, 26, 27, 21, 24, 22, 23 |
 
 ### 3x3x3 One-Handed
 
@@ -205,9 +205,9 @@
 | 5.97 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 4.40, 4.87, 6.76, 4.81, 9.35, 7.26, 5.69, 5.28, 7.28, 5.46, 6.07, 5.62, 5.42, 5.30, 5.56, 5.51, 4.85, 6.40, 6.44, 7.19, 6.22, 10.77, 5.94, 5.86, 6.55 |
 | 6.21 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.77, 6.45, 4.97, 5.83, 5.10, 6.22, 5.65, 6.58, 8.64, 5.31, 6.40, 5.45, 6.76, 6.17, 6.24, 6.15, 6.60, 6.54, 5.88, 7.21, 5.76, 6.17, 8.26, 7.33, 6.02 |
 | 6.60 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 5.48, 6.81, 5.96, 8.05, 7.85, 5.56, 6.20, 6.73, 8.41, 4.85, 6.15, 5.74, 4.75, 6.04, 7.56, 7.38, 6.05, 6.75, 9.28, 8.32, 6.65, 5.81, 8.56, 5.79, 5.44 |
-| 6.77 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 6.05, 6.35, 5.31, 6.93, 6.84, 6.30, 6.04, 6.88, 9.01, DNF, 8.36, 7.91, 6.24, 5.79, 6.00, 5.73, 8.00, 6.09, 7.61, 7.63, 5.97, 7.78, 7.99, 5.83, 5.50 |
+| 6.65 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 6.24, 5.79, 6.00, 5.73, 8.00, 6.09, 7.61, 7.63, 5.97, 7.78, 7.99, 5.83, 5.50, 8.20, 5.61, 7.56, 7.04, 5.80, 5.78, 9.02, 5.99, 7.11, 6.17, 6.01, 7.57 |
 | 6.84 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 6.76, 7.44, 6.59, 6.97, 6.11, 6.62, 7.33, 6.88, 6.93, 7.34, 8.93, 7.77, 8.84, 7.18, 7.83, 6.59, 6.48, 6.35, 5.37, 9.50, 5.39, 5.34, 6.12, 6.14, 6.11 |
-| 6.93 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.17, 5.95, 7.89, 6.78, 6.00, 9.06, 8.53, 6.60, 8.45, 12.98, 6.87, 6.30, 7.41, 5.95, DNF, 6.88, 7.38, 5.66, 7.53, 7.00, 6.47, 6.15, 5.27, 6.22, 5.96 |
+| 6.86 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.84, 9.20, 7.55, 6.73, 7.80, 6.12, 6.47, 6.11, 10.28, 7.66, 6.32, 6.54, 6.62, 8.00, 6.72, 5.00, 9.08, 6.38, 5.34, 11.36, 5.06, 5.20, 8.41, 5.18, 6.83 |
 | 7.06 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 6.45, 8.59, 8.75, 9.79, 7.27, 7.03, 7.35, 6.15, 7.37, 6.04, 6.11, DNF, 7.00, 6.40, 11.85, 6.88, 7.02, 6.17, 6.83, 6.31, 7.52, 6.07, 7.17, 5.95, 5.27 |
 | 7.12 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 7.55, 8.03, 9.02, 7.30, 6.08, 7.59, 6.81, 7.57, 7.12, 13.53, 6.90, 7.33, 6.71, 6.04, 6.27, 5.61, 8.50, 8.02, 6.85, 8.08, 7.24, 4.45, 6.41, 5.44, 7.67 |
 

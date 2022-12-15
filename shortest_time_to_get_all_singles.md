@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 11 December 2022*
+*Updated on 14 December 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -183,6 +183,7 @@
 | 1379 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 1379 | [Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 1379 | [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) |
+| 1387 | [Andrew Tan Jing Bang](https://www.worldcubeassociation.org/persons/2019BANG01) |
 | 1399 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1406 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
 | 1406 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) |
@@ -202,6 +203,7 @@
 | 1484 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |
 | 1490 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
 | 1490 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) |
+| 1492 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) |
 | 1498 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 1504 | [Fritz Löhr](https://www.worldcubeassociation.org/persons/2011LOHR01) |
 | 1505 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) |

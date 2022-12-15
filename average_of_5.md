@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 11 December 2022*
+*Updated on 14 December 2022*
 
 
 ### Rubik's Cube
@@ -130,7 +130,7 @@
 | ---: | :--- | :--- |
 | 8.52 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 9.11, 7.77, 7.98, 10.81, 8.47 |
 | 8.54 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.95, 6.20, 7.86, 9.68, 8.83 |
-| 8.97 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 10.82, 8.60, 8.74, 8.96, 9.22 |
+| 8.72 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 7.63, 8.62, 10.62, 9.30, 8.25 |
 | 8.98 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 9.42, 10.21, 8.56, 8.39, 8.97 |
 | 9.24 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 9.21, 8.70, 8.52, 11.73, 9.83 |
 | 9.30 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 8.87, 8.94, 10.57, 8.80, 10.10 |
@@ -181,8 +181,8 @@
 | 4.08 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 3.98, 3.49, 6.67, 4.34, 3.92 |
 | 4.21 | [Virgile Perrot](https://www.worldcubeassociation.org/persons/2017PERR02) | 4.22, 7.05, 4.24, 3.64, 4.18 |
 | 4.24 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 3.99, DNF, 4.20, 4.19, 4.35 |
+| 4.33 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 4.24, 7.56, 3.38, 4.18, 4.57 |
 | 4.33 | [Joshua Marriott](https://www.worldcubeassociation.org/persons/2019MARR04) | DNF, 4.25, 4.36, 4.01, 4.38 |
-| 4.36 | [Jacob Evarts](https://www.worldcubeassociation.org/persons/2018EVAR01) | 3.17, 4.85, 6.01, 3.89, 4.35 |
 
 ### Skewb
 
@@ -209,10 +209,10 @@
 | 5.52 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 4.97, 5.83, 5.10, 6.22, 5.65 |
 | 5.54 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 4.85, 6.15, 5.74, 4.75, 6.04 |
 | 5.62 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.37, 9.50, 5.39, 5.34, 6.12 |
+| 5.64 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.38, 5.34, 11.36, 5.06, 5.20 |
 | 5.93 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 7.51, 5.65, 6.11, 6.04, 4.34 |
 | 5.96 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 5.79, 6.00, 5.73, 8.00, 6.09 |
 | 6.05 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 8.73, 5.83, 5.98, 6.34, 5.65 |
-| 6.11 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.47, 6.15, 5.27, 6.22, 5.96 |
 
 ### 4x4x4 Blindfolded
 

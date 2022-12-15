@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 11 December 2022*
+*Updated on 14 December 2022*
 
 
 ### Rubik's Cube
@@ -120,8 +120,8 @@
 | 3.54 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 | 3.62 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Texas Championship 2022](https://www.worldcubeassociation.org/competitions/TexasChampionship2022/results/by_person#2015TREL02) |
 | 3.66 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/by_person#2015TREL02) |
+| 3.68 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [GA Cubers PBQ 2022](https://www.worldcubeassociation.org/competitions/GACubersPersonalBestQuest2022/results/by_person#2015CHER07) |
 | 3.69 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Diamond Bar September 2022](https://www.worldcubeassociation.org/competitions/DiamondBarSeptember2022/results/by_person#2021DUNA01) |
-| 3.73 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/by_person#2021DUNA01) |
 
 ### Skewb
 

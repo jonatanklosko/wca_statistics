@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 11 December 2022*
+*Updated on 14 December 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8778 |
+| 1.50 | World | 8790 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2870 |
-| 1.58 | South America | 981 |
-| 1.49 | Oceania | 366 |
-| 1.42 | Asia | 2148 |
+| 1.77 | Europe | 2877 |
+| 1.58 | South America | 982 |
+| 1.49 | Oceania | 367 |
+| 1.42 | Asia | 2149 |
 | 1.21 | Africa | 98 |
-| 1.21 | North America | 2315 |
+| 1.21 | North America | 2317 |
 
 ### Countries
 
@@ -32,19 +32,19 @@
 | 2.00 | Liechtenstein | 2 |
 | 2.00 | Palestine | 2 |
 | 2.00 | Slovakia | 24 |
-| 1.97 | United Kingdom | 147 |
+| 1.97 | United Kingdom | 149 |
 | 1.96 | Turkey | 57 |
-| 1.94 | Lithuania | 16 |
+| 1.94 | Lithuania | 17 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
-| 1.92 | Germany | 172 |
 | 1.91 | Finland | 89 |
+| 1.91 | Germany | 174 |
 | 1.89 | Bosnia and Herzegovina | 9 |
 | 1.88 | Croatia | 17 |
 | 1.87 | Norway | 76 |
 | 1.86 | Serbia | 14 |
-| 1.85 | France | 238 |
 | 1.85 | Belgium | 59 |
+| 1.84 | France | 240 |
 | 1.84 | Spain | 250 |
 | 1.83 | Austria | 18 |
 | 1.83 | Switzerland | 84 |
@@ -70,7 +70,7 @@
 | 1.63 | Netherlands | 95 |
 | 1.63 | Indonesia | 176 |
 | 1.63 | Ireland | 27 |
-| 1.61 | India | 422 |
+| 1.61 | India | 423 |
 | 1.59 | Colombia | 138 |
 | 1.58 | Bolivia | 81 |
 | 1.56 | Malaysia | 61 |
@@ -82,11 +82,11 @@
 | 1.50 | Sri Lanka | 2 |
 | 1.50 | Tajikistan | 2 |
 | 1.47 | Peru | 152 |
-| 1.47 | Australia | 290 |
+| 1.47 | Australia | 291 |
 | 1.46 | Israel | 26 |
 | 1.45 | Romania | 76 |
 | 1.44 | Singapore | 27 |
-| 1.43 | Costa Rica | 14 |
+| 1.40 | Costa Rica | 15 |
 | 1.39 | Nepal | 18 |
 | 1.39 | Paraguay | 18 |
 | 1.39 | Philippines | 197 |
@@ -109,8 +109,8 @@
 | 1.23 | Japan | 203 |
 | 1.22 | Panama | 9 |
 | 1.20 | Portugal | 15 |
-| 1.19 | Uruguay | 36 |
-| 1.17 | United States | 1851 |
+| 1.19 | Uruguay | 37 |
+| 1.17 | United States | 1852 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.17 | Canada | 230 |

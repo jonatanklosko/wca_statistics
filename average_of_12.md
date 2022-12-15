@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 11 December 2022*
+*Updated on 14 December 2022*
 
 
 ### Rubik's Cube
@@ -24,8 +24,8 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 1.07 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 0.92, 1.16, 0.79, 1.29, 1.15, 0.79, 1.16, 2.15, 1.00, 1.06, 1.01, 1.21 |
+| 1.34 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 0.87, 1.21, 1.23, 1.26, 1.14, 1.67, 1.31, 1.55, 1.36, DNF, 1.25, 1.42 |
 | 1.36 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.21, 2.14, 1.37, 1.78, 1.36, 1.08, 1.17, 1.35, 1.83, 1.19, 1.28, 1.12 |
-| 1.37 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.55, 1.04, 1.67, 1.46, 1.24, 1.44, 1.53, 1.84, 1.16, 1.62, 1.02, 0.97 |
 | 1.37 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 0.94, 1.19, 1.09, 1.26, 2.44, 1.12, 0.91, 2.61, 0.99, 1.81, 1.40, 1.55 |
 | 1.41 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 1.37, 1.24, 1.44, 1.41, 1.71, 6.18, 1.49, 1.27, 0.93, 1.59, 1.48, 1.17 |
 | 1.43 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | 1.42, 1.67, 1.78, 1.72, 1.41, 4.57, 1.12, 1.27, 1.32, 1.22, 1.03, 1.40 |
@@ -130,7 +130,7 @@
 | ---: | :--- | :--- |
 | 8.98 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.76, 8.00, 8.92, 9.37, 9.17, 9.36, 9.83, 8.08, 8.92, 9.48, 9.74, 7.30 |
 | 9.34 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.77, 9.41, 11.50, 10.35, 9.90, 8.86, 9.11, 7.77, 7.98, 10.81, 8.47, 9.80 |
-| 9.57 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 7.93, 10.48, 9.46, 10.67, 9.74, 10.09, 10.82, 8.60, 8.74, 8.96, 9.22, 9.80 |
+| 9.36 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 9.83, 9.10, 8.87, 11.56, 8.98, 9.25, 10.78, 7.63, 8.62, 10.62, 9.30, 8.25 |
 | 9.93 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 9.52, 10.57, 9.05, 9.74, 10.22, 10.02, 11.94, 10.99, 9.27, 9.43, 9.45, 10.16 |
 | 9.95 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 9.42, 10.21, 8.56, 8.39, 8.97, 12.37, 11.30, 10.13, 10.44, 9.60, 9.92, 11.03 |
 | 9.97 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 8.95, 10.73, 9.65, 9.77, 9.80, 11.63, 7.60, 9.78, 10.81, 9.90, 10.84, 9.51 |
@@ -152,7 +152,7 @@
 | 33.55 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 32.70, 40.27, 34.62, 38.48, 32.20, 35.80, 33.16, 30.94, 33.06, 32.10, 31.20, 32.21 |
 | 33.76 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 34.30, 34.50, 33.17, 33.88, 29.67, 36.92, 36.16, 32.68, 29.85, 33.79, 34.13, 35.22 |
 | 33.83 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 36.52, 34.82, 34.82, 33.15, 33.07, 36.19, 35.05, 31.95, 33.56, 31.15, 33.84, 31.89 |
-| 34.21 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 32.53, 31.92, 35.54, 32.34, 33.64, 39.34, 31.20, 35.91, 39.15, 33.54, 35.21, 32.36 |
+| 34.17 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 34.05, 39.66, 35.82, 32.38, 31.66, 32.33, 34.14, 40.75, 29.91, 37.90, 31.64, 32.16 |
 
 ### Pyraminx
 
@@ -209,8 +209,8 @@
 | 5.87 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.77, 6.45, 4.97, 5.83, 5.10, 6.22, 5.65, 6.58, 8.64, 5.31, 6.40, 5.45 |
 | 6.22 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 5.56, 6.20, 6.73, 8.41, 4.85, 6.15, 5.74, 4.75, 6.04, 7.56, 7.38, 6.05 |
 | 6.35 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 7.18, 7.83, 6.59, 6.48, 6.35, 5.37, 9.50, 5.39, 5.34, 6.12, 6.14, 6.11 |
-| 6.52 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.95, DNF, 6.88, 7.38, 5.66, 7.53, 7.00, 6.47, 6.15, 5.27, 6.22, 5.96 |
-| 6.53 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 6.22, 6.77, 8.03, 6.97, 6.05, 6.35, 5.31, 6.93, 6.84, 6.30, 6.04, 6.88 |
+| 6.47 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.72, 5.00, 9.08, 6.38, 5.34, 11.36, 5.06, 5.20, 8.41, 5.18, 6.83, 6.50 |
+| 6.50 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 5.83, 5.50, 8.20, 5.61, 7.56, 7.04, 5.80, 5.78, 9.02, 5.99, 7.11, 6.17 |
 | 6.63 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 6.40, 11.85, 6.88, 7.02, 6.17, 6.83, 6.31, 7.52, 6.07, 7.17, 5.95, 5.27 |
 | 6.66 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 6.71, 6.04, 6.27, 5.61, 8.50, 8.02, 6.85, 8.08, 7.24, 4.45, 6.41, 5.44 |
 

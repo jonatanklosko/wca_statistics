@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 11 December 2022*
+*Updated on 14 December 2022*
 
 | WRs | Person |
 | ---: | :--- |
@@ -42,6 +42,7 @@
 | 7 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) |
 | 7 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 7 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
+| 7 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 7 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 7 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) |
 | 7 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
@@ -52,7 +53,6 @@
 | 6 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
-| 6 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |

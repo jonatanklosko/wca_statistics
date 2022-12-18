@@ -1,43 +1,43 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 14 December 2022*
+*Updated on 17 December 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1298** | 1070 | 917 | 3285 |
-| Germany | **813** | 802 | 800 | 2415 |
+| Germany | **816** | 803 | 804 | 2423 |
 | United States | **788** | 645 | 577 | 2010 |
 | Netherlands | **775** | 631 | 523 | 1929 |
 | France | **748** | 647 | 542 | 1937 |
 | Russia | **580** | 392 | 325 | 1297 |
 | Poland | **408** | 297 | 222 | 927 |
-| China | **401** | 356 | 312 | 1069 |
+| China | **402** | 359 | 313 | 1074 |
 | Malaysia | **348** | 329 | 292 | 969 |
 | United Kingdom | **335** | 374 | 376 | 1085 |
 | Canada | **331** | 333 | 355 | 1019 |
-| Denmark | **310** | 260 | 183 | 753 |
+| Denmark | **310** | 260 | 184 | 754 |
 | Sweden | **296** | 336 | 355 | 987 |
 | Australia | **277** | 126 | 85 | 488 |
-| Republic of Korea | **235** | 229 | 191 | 655 |
+| Republic of Korea | **237** | 230 | 191 | 658 |
 | Finland | **227** | 162 | 136 | 525 |
 | India | **213** | 181 | 164 | 558 |
 | Switzerland | **204** | 282 | 243 | 729 |
 | Hong Kong | **193** | 228 | 179 | 600 |
 | Taiwan | **191** | 164 | 157 | 512 |
 | Italy | **188** | 174 | 162 | 524 |
-| Japan | **187** | 110 | 117 | 414 |
+| Japan | **188** | 113 | 119 | 420 |
 | Argentina | **185** | 141 | 123 | 449 |
 | Spain | **167** | 155 | 182 | 504 |
-| Ukraine | **160** | 160 | 158 | 478 |
+| Ukraine | **161** | 163 | 158 | 482 |
 | Romania | **151** | 104 | 99 | 354 |
 | Peru | **142** | 71 | 87 | 300 |
 | Indonesia | **140** | 133 | 105 | 378 |
 | Colombia | **124** | 90 | 83 | 297 |
 | Slovenia | **122** | 156 | 148 | 426 |
+| Singapore | **121** | 123 | 136 | 380 |
 | Belgium | **120** | 186 | 162 | 468 |
 | Greece | **118** | 139 | 104 | 361 |
-| Singapore | **118** | 123 | 136 | 377 |
 | Austria | **115** | 164 | 178 | 457 |
 | Belarus | **107** | 65 | 75 | 247 |
 | Latvia | **106** | 158 | 152 | 416 |

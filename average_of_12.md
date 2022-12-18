@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 14 December 2022*
+*Updated on 17 December 2022*
 
 
 ### Rubik's Cube
@@ -77,7 +77,7 @@
 | 1:25.62 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:32.45, 1:35.52, 1:28.00, 1:29.21, 1:26.05, 1:20.88, 1:29.11, 1:28.61, 1:21.20, 1:17.60, 1:23.17, 1:17.39 |
 | 1:25.92 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:26.04, 1:46.08, 1:25.12, 1:29.22, 1:26.51, 1:19.23, 1:25.94, 1:23.57, 1:25.81, 1:20.35, 1:26.07, 1:30.66 |
 | 1:27.37 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:28.28, 1:28.95, 1:29.12, 1:22.61, 1:28.55, 1:35.03, 1:34.42, 1:27.46, 1:24.94, 1:25.30, 1:24.12, 1:20.31 |
-| 1:29.28 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:33.88, 1:26.95, 1:28.95, 1:32.16, 1:22.82, 1:29.28, 1:30.76, 1:27.04, 1:26.25, 1:37.71, 1:29.13, 1:28.45 |
+| 1:28.33 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:22.82, 1:29.28, 1:30.76, 1:27.04, 1:26.25, 1:37.71, 1:29.13, 1:28.45, 1:35.30, 1:36.07, 1:17.84, 1:18.27 |
 
 ### 7x7x7 Cube
 
@@ -88,7 +88,7 @@
 | 2:04.02 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:54.68, 2:05.77, 2:07.67, 1:42.51, 2:14.34, 2:10.77, 2:01.21, 2:05.91, 1:56.46, 2:05.05, 2:04.27, 2:08.47 |
 | 2:04.18 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:08.47, 2:04.14, 2:02.17, 2:09.62, 2:12.13, 2:03.54, 2:01.49, 2:08.09, 1:59.29, 1:57.13, 2:03.33, 2:01.68 |
 | 2:04.83 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:04.14, 2:00.82, 2:16.10, 2:09.69, 1:56.60, 2:02.22, 2:01.53, 2:05.20, 2:09.70, 2:00.79, 2:09.45, 2:04.76 |
-| 2:05.18 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 2:01.61, 2:02.32, 2:06.72, DNF, 1:57.55, 2:03.00, 2:12.03, 2:04.24, 1:57.78, 2:07.93, 2:13.39, 2:02.86 |
+| 2:04.85 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 2:09.16, 2:07.25, 2:16.56, 2:13.78, 1:58.76, 2:02.04, 2:07.54, 1:55.12, 2:05.68, 2:05.46, 2:01.61, 1:57.31 |
 | 2:05.64 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 2:05.64, 2:04.46, 2:06.56, 2:04.21, 2:10.24, 2:02.76, 2:05.19, 2:11.50, 2:03.73, 2:08.78, 2:04.92, 1:41.29 |
 | 2:06.65 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 2:09.21, 2:15.37, 2:10.94, 2:00.54, 2:04.91, 2:37.00, 2:08.92, 2:06.77, 2:05.84, 2:04.39, 1:59.68, 1:58.92 |
 | 2:06.67 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:56.84, 2:04.23, 2:11.21, 2:12.84, 2:11.93, 2:00.83, 2:04.55, 2:11.83, 2:09.17, 2:05.71, 2:06.87, 2:00.45 |
@@ -148,11 +148,11 @@
 | 29.95 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 27.42, 27.27, 30.53, 33.02, 30.13, 32.64, DNF, 27.40, 27.80, 31.15, 29.76, 29.65 |
 | 31.25 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 29.16, 32.81, 31.78, 34.48, 33.62, 33.47, 30.12, 28.50, 31.19, 29.97, 31.07, 29.34 |
 | 33.12 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.84, 31.53, 32.84, 36.09, 30.84, 33.06, 34.66, 34.78, 33.54, 36.18, 33.04, 30.63 |
+| 33.24 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 35.49, 33.64, 43.77, 30.63, 32.67, 28.84, 32.08, 34.38, 29.72, 33.55, 34.96, 35.31 |
 | 33.28 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 36.22, 30.94, 31.24, 35.78, 30.12, 33.90, 30.89, 30.57, 40.52, 34.27, 34.52, 34.55 |
 | 33.55 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 32.70, 40.27, 34.62, 38.48, 32.20, 35.80, 33.16, 30.94, 33.06, 32.10, 31.20, 32.21 |
 | 33.76 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 34.30, 34.50, 33.17, 33.88, 29.67, 36.92, 36.16, 32.68, 29.85, 33.79, 34.13, 35.22 |
 | 33.83 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 36.52, 34.82, 34.82, 33.15, 33.07, 36.19, 35.05, 31.95, 33.56, 31.15, 33.84, 31.89 |
-| 34.17 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 34.05, 39.66, 35.82, 32.38, 31.66, 32.33, 34.14, 40.75, 29.91, 37.90, 31.64, 32.16 |
 
 ### Pyraminx
 

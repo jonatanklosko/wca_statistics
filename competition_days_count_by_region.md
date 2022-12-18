@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 14 December 2022*
+*Updated on 17 December 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8790 |
+| 1.50 | World | 8804 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2877 |
+| 1.77 | Europe | 2879 |
 | 1.58 | South America | 982 |
 | 1.49 | Oceania | 367 |
 | 1.42 | Asia | 2149 |
-| 1.21 | Africa | 98 |
-| 1.21 | North America | 2317 |
+| 1.22 | Africa | 99 |
+| 1.21 | North America | 2328 |
 
 ### Countries
 
@@ -55,13 +55,13 @@
 | 1.80 | Guatemala | 49 |
 | 1.78 | Thailand | 32 |
 | 1.78 | Iceland | 9 |
-| 1.77 | Ukraine | 100 |
+| 1.76 | Ukraine | 101 |
 | 1.75 | Bangladesh | 8 |
 | 1.75 | Denmark | 112 |
 | 1.74 | Sweden | 132 |
 | 1.74 | Slovenia | 23 |
 | 1.67 | Argentina | 58 |
-| 1.67 | Poland | 333 |
+| 1.67 | Poland | 334 |
 | 1.67 | Kyrgyzstan | 3 |
 | 1.67 | Luxembourg | 3 |
 | 1.67 | Montenegro | 3 |
@@ -98,8 +98,8 @@
 | 1.35 | Taiwan | 114 |
 | 1.33 | Bahrain | 6 |
 | 1.33 | United Arab Emirates | 15 |
+| 1.32 | South Africa | 47 |
 | 1.31 | Venezuela | 55 |
-| 1.30 | South Africa | 46 |
 | 1.30 | Chile | 86 |
 | 1.30 | Bulgaria | 10 |
 | 1.27 | Republic of Korea | 70 |
@@ -110,7 +110,7 @@
 | 1.22 | Panama | 9 |
 | 1.20 | Portugal | 15 |
 | 1.19 | Uruguay | 37 |
-| 1.17 | United States | 1852 |
+| 1.17 | United States | 1863 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.17 | Canada | 230 |

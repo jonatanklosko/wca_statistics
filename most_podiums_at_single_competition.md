@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 14 December 2022*
+*Updated on 17 December 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -549,6 +549,7 @@
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Madrid Open 2009](https://www.worldcubeassociation.org/competitions/MadridOpen2009/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Madrid Open 2013](https://www.worldcubeassociation.org/competitions/MadridOpen2013/results/podiums) |
 | 12 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Magic Cube Days 2012](https://www.worldcubeassociation.org/competitions/MagicCubeDays2012/results/podiums) |
+| 10 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | [Malaysia Cube Championship 2022](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2022/results/podiums) |
 | 13 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Malaysia Cube Open 2016](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2016/results/podiums) |
 | 11 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | [Malaysia Cube Open 2016](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2016/results/podiums) |
 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Malaysia Cube Open 2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017/results/podiums) |

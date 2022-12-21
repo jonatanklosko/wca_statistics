@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 17 December 2022*
+*Updated on 20 December 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -511,6 +511,7 @@
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [KMG Spring 2019](https://www.worldcubeassociation.org/competitions/KMGSpring2019/results/podiums) |
 | 10 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) | [Krivbass Open 2016](https://www.worldcubeassociation.org/competitions/KrivbassOpen2016/results/podiums) |
 | 10 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | [KSF Atyrau City 2019](https://www.worldcubeassociation.org/competitions/KSFAtyrauCity2019/results/podiums) |
+| 10 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | [KSF CLUB ALMATY 2022](https://www.worldcubeassociation.org/competitions/KSFCLUBALMATY2022/results/podiums) |
 | 11 | [Shubham Kumar](https://www.worldcubeassociation.org/persons/2013KUMA15) | [Kshitij Open 2014](https://www.worldcubeassociation.org/competitions/KshitijOpen2014/results/podiums) |
 | 11 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) | [KSRCT Cube Open 2022](https://www.worldcubeassociation.org/competitions/KSRCTCubeOpen2022/results/podiums) |
 | 13 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | [KubeKings Weekend 2015](https://www.worldcubeassociation.org/competitions/KubeKingsWeekend2015/results/podiums) |
@@ -678,6 +679,8 @@
 | 12 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010/results/podiums) |
 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010/results/podiums) |
 | 11 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Pahang Cube Open 2019](https://www.worldcubeassociation.org/competitions/PahangCubeOpen2019/results/podiums) |
+| 13 | [Andres Sanchez Ponce](https://www.worldcubeassociation.org/persons/2018PONC02) | [Panama Nationals 2022](https://www.worldcubeassociation.org/competitions/PanamaNationals2022/results/podiums) |
+| 10 | [Egdar Castillo](https://www.worldcubeassociation.org/persons/2017CAST48) | [Panama Nationals 2022](https://www.worldcubeassociation.org/competitions/PanamaNationals2022/results/podiums) |
 | 11 | [Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01) | [Pão de Queijo Open 2017](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2017/results/podiums) |
 | 10 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums) |
 | 12 | [José Chávez](https://www.worldcubeassociation.org/persons/2016CHAV18) | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums) |

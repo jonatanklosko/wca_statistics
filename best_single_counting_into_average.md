@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 17 December 2022*
+*Updated on 20 December 2022*
 
 
 ### Rubik's Cube
@@ -101,17 +101,18 @@
 | 1.32 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [Crystal City Fall 2022](https://www.worldcubeassociation.org/competitions/CrystalCityFall2022/results/by_person#2017NIEL03) |
 | 1.39 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/by_person#2015GORN01) |
 | 1.41 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Cubing Fall 2022](https://www.worldcubeassociation.org/competitions/DFWCubingFall2022/results/by_person#2016PILA03) |
+| 1.47 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/by_person#2018EYOU02) |
 | 1.48 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [Silver Spring Summer 2022](https://www.worldcubeassociation.org/competitions/SilverSpringSummer2022/results/by_person#2017NIEL03) |
 | 1.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016KOLA02) |
 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
 | 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
-| 1.53 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2015GORN01) |
-| 1.53 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Twisty Taranaki 2022](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2022/results/by_person#2018MURR03) |
+| 1.53 | [Wesley Allen](https://www.worldcubeassociation.org/persons/2015ALLE03) | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/by_person#2015ALLE03) |
 
 ### Rubik's Clock
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 3.27 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Naperville Winter B 2022](https://www.worldcubeassociation.org/competitions/NapervilleWinterB2022/results/by_person#2018THOM29) |
 | 3.28 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
 | 3.39 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
 | 3.46 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
@@ -121,7 +122,6 @@
 | 3.62 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Texas Championship 2022](https://www.worldcubeassociation.org/competitions/TexasChampionship2022/results/by_person#2015TREL02) |
 | 3.66 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/by_person#2015TREL02) |
 | 3.68 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [GA Cubers PBQ 2022](https://www.worldcubeassociation.org/competitions/GACubersPersonalBestQuest2022/results/by_person#2015CHER07) |
-| 3.69 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Diamond Bar September 2022](https://www.worldcubeassociation.org/competitions/DiamondBarSeptember2022/results/by_person#2021DUNA01) |
 
 ### Skewb
 

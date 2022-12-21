@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 17 December 2022*
+*Updated on 20 December 2022*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8804 |
+| 1.50 | World | 8809 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2879 |
+| 1.77 | Europe | 2882 |
 | 1.58 | South America | 982 |
 | 1.49 | Oceania | 367 |
 | 1.42 | Asia | 2149 |
 | 1.22 | Africa | 99 |
-| 1.21 | North America | 2328 |
+| 1.21 | North America | 2330 |
 
 ### Countries
 
@@ -37,7 +37,7 @@
 | 1.94 | Lithuania | 17 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
-| 1.91 | Finland | 89 |
+| 1.92 | Finland | 90 |
 | 1.91 | Germany | 174 |
 | 1.89 | Bosnia and Herzegovina | 9 |
 | 1.88 | Croatia | 17 |
@@ -77,7 +77,7 @@
 | 1.55 | New Zealand | 76 |
 | 1.55 | Latvia | 20 |
 | 1.52 | Dominican Republic | 25 |
-| 1.51 | Italy | 155 |
+| 1.51 | Italy | 156 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Sri Lanka | 2 |
 | 1.50 | Tajikistan | 2 |
@@ -110,10 +110,10 @@
 | 1.22 | Panama | 9 |
 | 1.20 | Portugal | 15 |
 | 1.19 | Uruguay | 37 |
-| 1.17 | United States | 1863 |
+| 1.17 | Canada | 231 |
+| 1.17 | United States | 1864 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | Canada | 230 |
 | 1.15 | El Salvador | 26 |
 | 1.15 | Honduras | 13 |
 | 1.14 | Georgia | 7 |
@@ -123,7 +123,7 @@
 | 1.00 | Armenia | 2 |
 | 1.00 | Cambodia | 1 |
 | 1.00 | Cuba | 1 |
-| 1.00 | Cyprus | 6 |
+| 1.00 | Cyprus | 7 |
 | 1.00 | Egypt | 4 |
 | 1.00 | Kenya | 2 |
 | 1.00 | Kosovo | 2 |

@@ -1,52 +1,52 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 20 December 2022*
+*Updated on 29 December 2022*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| Hungary | **1304** | 1076 | 920 | 3300 |
-| Germany | **817** | 803 | 805 | 2425 |
-| United States | **788** | 647 | 578 | 2013 |
-| Netherlands | **778** | 634 | 526 | 1938 |
-| France | **748** | 647 | 542 | 1937 |
-| Russia | **589** | 398 | 332 | 1319 |
-| Poland | **408** | 297 | 223 | 928 |
-| China | **403** | 360 | 314 | 1077 |
-| Malaysia | **348** | 329 | 292 | 969 |
-| United Kingdom | **335** | 374 | 376 | 1085 |
+| Hungary | **1304** | 1077 | 925 | 3306 |
+| Germany | **820** | 805 | 809 | 2434 |
+| United States | **789** | 647 | 578 | 2014 |
+| Netherlands | **778** | 634 | 527 | 1939 |
+| France | **748** | 648 | 542 | 1938 |
+| Russia | **598** | 400 | 334 | 1332 |
+| Poland | **412** | 300 | 227 | 939 |
+| China | **404** | 363 | 318 | 1085 |
+| Malaysia | **351** | 341 | 296 | 988 |
+| United Kingdom | **335** | 376 | 376 | 1087 |
 | Canada | **331** | 333 | 355 | 1019 |
-| Denmark | **310** | 260 | 184 | 754 |
+| Denmark | **310** | 261 | 189 | 760 |
 | Sweden | **296** | 336 | 355 | 987 |
 | Australia | **277** | 126 | 85 | 488 |
-| Republic of Korea | **237** | 230 | 191 | 658 |
+| Republic of Korea | **243** | 232 | 191 | 666 |
 | Finland | **231** | 164 | 137 | 532 |
-| India | **213** | 181 | 164 | 558 |
-| Switzerland | **204** | 282 | 243 | 729 |
-| Hong Kong | **193** | 228 | 180 | 601 |
+| India | **223** | 184 | 170 | 577 |
+| Switzerland | **204** | 286 | 244 | 734 |
+| Hong Kong | **193** | 229 | 180 | 602 |
 | Taiwan | **191** | 164 | 157 | 512 |
+| Japan | **191** | 116 | 125 | 432 |
 | Italy | **188** | 174 | 162 | 524 |
-| Japan | **188** | 113 | 119 | 420 |
-| Argentina | **186** | 141 | 123 | 450 |
+| Argentina | **187** | 150 | 124 | 461 |
 | Spain | **167** | 155 | 182 | 504 |
-| Ukraine | **161** | 163 | 158 | 482 |
+| Ukraine | **162** | 165 | 159 | 486 |
 | Romania | **154** | 106 | 99 | 359 |
 | Peru | **142** | 71 | 87 | 300 |
 | Indonesia | **140** | 133 | 105 | 378 |
 | Colombia | **124** | 90 | 83 | 297 |
 | Slovenia | **122** | 156 | 150 | 428 |
-| Singapore | **121** | 123 | 136 | 380 |
+| Singapore | **122** | 123 | 137 | 382 |
 | Belgium | **120** | 186 | 162 | 468 |
 | Greece | **118** | 139 | 105 | 362 |
-| Austria | **115** | 164 | 178 | 457 |
+| Austria | **115** | 164 | 179 | 458 |
 | Belarus | **107** | 65 | 75 | 247 |
 | Latvia | **106** | 160 | 154 | 420 |
 | Ireland | **104** | 62 | 41 | 207 |
-| Czech Republic | **91** | 104 | 109 | 304 |
+| Czech Republic | **92** | 104 | 109 | 305 |
 | Kazakhstan | **84** | 76 | 70 | 230 |
 | Thailand | **77** | 84 | 40 | 201 |
 | Lithuania | **69** | 72 | 81 | 222 |
-| Philippines | **58** | 72 | 66 | 196 |
+| Philippines | **59** | 72 | 66 | 197 |
 | Slovakia | **57** | 60 | 73 | 190 |
 | Guatemala | **55** | 37 | 39 | 131 |
 | Norway | **48** | 50 | 67 | 165 |
@@ -63,20 +63,20 @@
 | New Zealand | **22** | 59 | 46 | 127 |
 | Costa Rica | **22** | 25 | 25 | 72 |
 | Israel | **22** | 20 | 27 | 69 |
+| El Salvador | **21** | 24 | 18 | 63 |
 | Portugal | **21** | 19 | 18 | 58 |
-| El Salvador | **20** | 21 | 16 | 57 |
 | South Africa | **16** | 17 | 39 | 72 |
 | North Macedonia | **15** | 15 | 22 | 52 |
 | Pakistan | **15** | 15 | 12 | 42 |
 | Kyrgyzstan | **15** | 8 | 15 | 38 |
 | Nicaragua | **14** | 5 | 10 | 29 |
-| Jordan | **14** | 4 | 10 | 28 |
+| Jordan | **14** | 4 | 11 | 29 |
 | Serbia | **13** | 16 | 24 | 53 |
 | Bulgaria | **10** | 31 | 24 | 65 |
 | Mexico | **10** | 15 | 19 | 44 |
 | Tunisia | **10** | 9 | 7 | 26 |
 | Turkey | **9** | 10 | 10 | 29 |
-| Nigeria | **8** | 10 | 4 | 22 |
+| Nigeria | **8** | 11 | 4 | 23 |
 | Bolivia | **8** | 9 | 16 | 33 |
 | Iran | **8** | 7 | 6 | 21 |
 | Moldova | **7** | 8 | 3 | 18 |
@@ -93,7 +93,7 @@
 | Ecuador | **4** | 4 | 9 | 17 |
 | Egypt | **3** | 19 | 17 | 39 |
 | Bangladesh | **3** | 10 | 4 | 17 |
-| Bahrain | **2** | 7 | 6 | 15 |
+| Bahrain | **2** | 7 | 9 | 18 |
 | Morocco | **2** | 1 | 5 | 8 |
 | Paraguay | **2** | 1 | 4 | 7 |
 | Lebanon | **1** | 12 | 10 | 23 |

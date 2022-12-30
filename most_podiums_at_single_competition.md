@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 20 December 2022*
+*Updated on 29 December 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -460,6 +460,9 @@
 | 14 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Indonesian Championship 2017](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2017/results/podiums) |
 | 13 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Indonesian Championship 2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019/results/podiums) |
 | 13 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesian Championship 2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019/results/podiums) |
+| 14 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesian Championship 2022](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2022/results/podiums) |
+| 12 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesia Open 2022](https://www.worldcubeassociation.org/competitions/IndonesiaOpen2022/results/podiums) |
+| 11 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | [Indonesia Open 2022](https://www.worldcubeassociation.org/competitions/IndonesiaOpen2022/results/podiums) |
 | 10 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012/results/podiums) |
 | 10 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | [Iowa Open 2011](https://www.worldcubeassociation.org/competitions/IowaOpen2011/results/podiums) |
 | 10 | [Ewsey Obzherin](https://www.worldcubeassociation.org/persons/2017OBZH01) | [IQber - PB time 2018](https://www.worldcubeassociation.org/competitions/IQberPBtime2018/results/podiums) |
@@ -831,6 +834,7 @@
 | 12 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Sumatra Open 2018](https://www.worldcubeassociation.org/competitions/SumatraOpen2018/results/podiums) |
 | 10 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | [Sumatra Open 2018](https://www.worldcubeassociation.org/competitions/SumatraOpen2018/results/podiums) |
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Summer Kube Vila Velha 2020](https://www.worldcubeassociation.org/competitions/SummerKubeVilaVelha2020/results/podiums) |
+| 11 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | [Sunmarke Dubai Open 2022](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpen2022/results/podiums) |
 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006/results/podiums) |
 | 12 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Swedish Championship 2011](https://www.worldcubeassociation.org/competitions/SwedishChampionship2011/results/podiums) |
 | 12 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Swedish Championship 2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012/results/podiums) |
@@ -932,6 +936,7 @@
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Valborg Cubing 2019](https://www.worldcubeassociation.org/competitions/ValborgCubing2019/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Vännäs & Friends 2022](https://www.worldcubeassociation.org/competitions/VannasFriends2022/results/podiums) |
 | 10 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Vantaa Open 2014](https://www.worldcubeassociation.org/competitions/VantaaOpen2014/results/podiums) |
+| 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Vardagscubing II - Hive A 2022](https://www.worldcubeassociation.org/competitions/VardagscubingIIHiveA2022/results/podiums) |
 | 12 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Vårgårda Open 2011](https://www.worldcubeassociation.org/competitions/VargardaOpen2011/results/podiums) |
 | 14 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Vårgårda Open 2012](https://www.worldcubeassociation.org/competitions/VargardaOpen2012/results/podiums) |
 | 11 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Veikkola Open 2017](https://www.worldcubeassociation.org/competitions/VeikkolaOpen2017/results/podiums) |

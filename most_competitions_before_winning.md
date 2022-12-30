@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 20 December 2022*
+*Updated on 29 December 2022*
 
 
 ### Rubik's Cube
@@ -178,11 +178,11 @@
 | 43 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019) |
 | 43 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Belgian Nationals 2022](https://www.worldcubeassociation.org/competitions/BelgianNationals2022) |
 | 37 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Belgian Summer 2014](https://www.worldcubeassociation.org/competitions/BelgianSummer2014) |
+| 31 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [AZCubing Winter 2022](https://www.worldcubeassociation.org/competitions/AZCubingWinter2022) |
 | 29 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Hvidovre Sommerhygge 2020](https://www.worldcubeassociation.org/competitions/HvidovreSommerhygge2020) |
 | 29 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | [Inland Empire Summer 2022](https://www.worldcubeassociation.org/competitions/InlandEmpireSummer2022) |
 | 28 | [Alexander Katyukov (Александр Катюков)](https://www.worldcubeassociation.org/persons/2015KATY01) | [Kalmykia Open 2019](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2019) |
 | 28 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Cube4fun in Dębica 2022](https://www.worldcubeassociation.org/competitions/Cube4funDebica2022) |
-| 27 | [Ryan DeLine](https://www.worldcubeassociation.org/persons/2012DELI01) | [Dayton 2015](https://www.worldcubeassociation.org/competitions/Dayton2015) |
 
 ### Skewb
 
@@ -221,13 +221,13 @@
 | 26 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Barby Cube 2019](https://www.worldcubeassociation.org/competitions/BarbyCube2019) |
 | 21 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Zaragoza Open 2016](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2016) |
 | 21 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |
+| 20 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) | [Twixmas Jönköping 2022](https://www.worldcubeassociation.org/competitions/TwixmasJonkoping2022) |
 | 19 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Serbian Open 2013](https://www.worldcubeassociation.org/competitions/SerbianOpen2013) |
 | 19 | [Nikolay Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) | [KSF Nur-Sultan City 2019](https://www.worldcubeassociation.org/competitions/KSFNurSultanCity2019) |
 | 18 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019) |
 | 17 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Anaheim Qualifier 2019](https://www.worldcubeassociation.org/competitions/AnaheimQualifier2019) |
 | 17 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | [Music City Speedsolving 2018](https://www.worldcubeassociation.org/competitions/MusicCitySpeedsolving2018) |
 | 16 | [Jae Park](https://www.worldcubeassociation.org/persons/2015PARK24) | [DFW With A Twist 2019](https://www.worldcubeassociation.org/competitions/DFWWithATwist2019) |
-| 15 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | [Zaragoza Open 2014](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2014) |
 
 ### 5x5x5 Blindfolded
 

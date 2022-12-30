@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 20 December 2022*
+*Updated on 29 December 2022*
 
 
 ### Rubik's Cube
@@ -9,6 +9,7 @@
 | First single | Person |
 | ---: | :--- |
 | 6.70 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
+| 7.29 | [Jesse Gonzales](https://www.worldcubeassociation.org/persons/2022GONZ33) |
 | 7.30 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 7.40 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) |
 | 7.52 | [John Carlo Magallon](https://www.worldcubeassociation.org/persons/2015MAGA02) |
@@ -17,7 +18,6 @@
 | 7.59 | [Cao Viết Tùng](https://www.worldcubeassociation.org/persons/2022TUNG01) |
 | 7.68 | [Ruihao Qian (钱睿昊)](https://www.worldcubeassociation.org/persons/2019QIAN10) |
 | 7.69 | [Nigel Sim](https://www.worldcubeassociation.org/persons/2022SIMN01) |
-| 7.74 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
 
 ### 2x2x2 Cube
 
@@ -69,6 +69,7 @@
 | First single | Person |
 | ---: | :--- |
 | 1:35.17 | [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) |
+| 1:41.02 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) |
 | 1:45.53 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
 | 1:45.78 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) |
 | 1:47.84 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
@@ -77,7 +78,6 @@
 | 1:52.18 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
 | 1:52.53 | [Balder Henke](https://www.worldcubeassociation.org/persons/2019HENK01) |
 | 1:52.56 | [Nazib Nawar](https://www.worldcubeassociation.org/persons/2019NAWA01) |
-| 1:54.97 | [Prakhar Tiwari](https://www.worldcubeassociation.org/persons/2019TIWA04) |
 
 ### 7x7x7 Cube
 
@@ -85,6 +85,7 @@
 | ---: | :--- |
 | 2:33.94 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
 | 2:36.54 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
+| 2:39.57 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) |
 | 2:41.15 | [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) |
 | 2:42.42 | [Xin Luo (罗鑫)](https://www.worldcubeassociation.org/persons/2013LUOX01) |
 | 2:43.07 | [Tao Sun (孙涛)](https://www.worldcubeassociation.org/persons/2019SUNT02) |
@@ -92,7 +93,6 @@
 | 2:47.46 | [Wenjie Lan (兰文杰)](https://www.worldcubeassociation.org/persons/2019LANW02) |
 | 2:47.86 | [Diego Rodriguez-Ramirez](https://www.worldcubeassociation.org/persons/2019RODR11) |
 | 2:48.83 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) |
-| 2:49.73 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2017TUNG04) |
 
 ### 3x3x3 Blindfolded
 
@@ -122,7 +122,7 @@
 | 26 | [Ali Salavati (علی صلواتی)](https://www.worldcubeassociation.org/persons/2011SALA04) |
 | 26 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 26 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) |
-| 27 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
+| 27 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 
 ### 3x3x3 One-Handed
 

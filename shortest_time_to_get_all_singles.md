@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 20 December 2022*
+*Updated on 29 December 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -292,6 +292,7 @@
 | 2245 | [Yan Xuan (宣炎)](https://www.worldcubeassociation.org/persons/2009XUAN03) |
 | 2248 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) |
 | 2261 | [Jeremy Benik](https://www.worldcubeassociation.org/persons/2016BENI05) |
+| 2267 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 2269 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 2310 | [Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02) |
 | 2317 | [Jareth Soong](https://www.worldcubeassociation.org/persons/2016SOON01) |
@@ -309,6 +310,7 @@
 | 2534 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 2540 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
 | 2547 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
+| 2555 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 2562 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 2568 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) |
 | 2583 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 20 December 2022*
+*Updated on 29 December 2022*
 
 | Days | Person |
 | ---: | :--- |
@@ -35,6 +35,7 @@
 | 2155 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 2196 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) |
 | 2232 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
+| 2426 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 2462 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 2512 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 2575 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
@@ -49,6 +50,7 @@
 | 3850 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 4144 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |
+| 4703 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
 | 6040 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 6047 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 

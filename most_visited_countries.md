@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 20 December 2022*
+*Updated on 29 December 2022*
 
 | Countries | Person |
 | ---: | :--- |
@@ -11,13 +11,13 @@
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 33 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 30 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
-| 29 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 30 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 27 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
+| 27 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 26 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 26 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 26 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 26 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 25 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
@@ -26,9 +26,9 @@
 | 23 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 23 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
+| 22 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 22 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 22 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 21 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 20 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
@@ -38,15 +38,15 @@
 | 19 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 19 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 19 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 19 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 19 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 19 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 19 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 18 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
+| 18 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 18 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 18 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
-| 18 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 18 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
@@ -65,9 +65,9 @@
 | 16 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 16 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 16 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
-| 16 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
 | 16 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 16 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
+| 16 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
 | 15 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
 | 15 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 15 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
@@ -78,12 +78,13 @@
 | 15 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 14 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 14 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
-| 14 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 14 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 14 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 14 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
+| 14 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 14 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 14 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
+| 14 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 14 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
 | 14 | [Jesús Masanet García](https://www.worldcubeassociation.org/persons/2004MASA01) |
 | 14 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
@@ -100,7 +101,6 @@
 | 13 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
 | 13 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 13 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
-| 13 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
 | 13 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 13 | [Gaël Dusser](https://www.worldcubeassociation.org/persons/2007DUSS01) |
 | 13 | [Fabian Auroux](https://www.worldcubeassociation.org/persons/2009AURO01) |

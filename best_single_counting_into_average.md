@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 20 December 2022*
+*Updated on 29 December 2022*
 
 
 ### Rubik's Cube
@@ -13,10 +13,10 @@
 | 4.62 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Marshall Cubing September 2022](https://www.worldcubeassociation.org/competitions/MarshallCubingSeptember2022/results/by_person#2012PARK03) |
 | 4.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022/results/by_person#2016KOLA02) |
 | 4.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2016KOLA02) |
+| 4.66 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Pittsburgh Fall 2022](https://www.worldcubeassociation.org/competitions/PittsburghFall2022/results/by_person#2017GARR05) |
 | 4.67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [BASC 40 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC40SanRamon2022/results/by_person#2012PARK03) |
 | 4.68 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022/results/by_person#2016KOLA02) |
 | 4.69 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022/results/by_person#2016KOLA02) |
-| 4.71 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022/results/by_person#2012PARK03) |
 
 ### 2x2x2 Cube
 
@@ -85,13 +85,13 @@
 | 27.26 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/by_person#2018LOPE22) |
 | 27.42 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2022](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2022/results/by_person#2016YONG02) |
 | 27.58 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/by_person#2018LOPE22) |
+| 27.60 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Taiwan Championship 2022](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2022/results/by_person#2016YONG02) |
 | 28.01 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Mega Open Ciudadela 2022](https://www.worldcubeassociation.org/competitions/MegaOpenCiudadela2022/results/by_person#2018LOPE22) |
 | 28.01 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/by_person#2018LOPE22) |
 | 28.09 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Utah PfA 2022](https://www.worldcubeassociation.org/competitions/UtahPfA2022/results/by_person#2015NAIN01) |
 | 28.35 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [YJ Malaysia Cube Open 2022](https://www.worldcubeassociation.org/competitions/YJMalaysiaCubeOpen2022/results/by_person#2016YONG02) |
 | 28.43 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | [Mega FMC Helsinki 2022](https://www.worldcubeassociation.org/competitions/MegaFMCHelsinki2022/results/by_person#2014NORD02) |
 | 28.44 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022/results/by_person#2018LOPE22) |
-| 28.45 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [DFW Cubing Fall 2022](https://www.worldcubeassociation.org/competitions/DFWCubingFall2022/results/by_person#2015NAIN01) |
 
 ### Pyraminx
 

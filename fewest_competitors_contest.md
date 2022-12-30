@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 20 December 2022*
+*Updated on 29 December 2022*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -8,6 +8,8 @@
 | 3 | [China FM Shenyang 2011](https://www.worldcubeassociation.org/competitions/ChinaFMShenyang2011) |
 | 3 | [China FM Zhengzhou 2011](https://www.worldcubeassociation.org/competitions/ChinaFMZhengzhou2011) |
 | 4 | [Big Blind UBC 2019](https://www.worldcubeassociation.org/competitions/BigBlindUBC2019) |
+| 5 | [All Quiet in Lexington 2022](https://www.worldcubeassociation.org/competitions/AllQuietinLexington2022) |
+| 5 | [Vardagscubing II - Hive B 2022](https://www.worldcubeassociation.org/competitions/VardagscubingIIHiveB2022) |
 | 6 | [Akiba Expo Open 2018](https://www.worldcubeassociation.org/competitions/AkibaExpoOpen2018) |
 | 6 | [China FM Guangzhou 2011](https://www.worldcubeassociation.org/competitions/ChinaFMGuangzhou2011) |
 | 6 | [Cuban Open 2016](https://www.worldcubeassociation.org/competitions/CubanOpen2016) |

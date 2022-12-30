@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 20 December 2022*
+*Updated on 29 December 2022*
 
 
 ### Rubik's Cube
@@ -13,11 +13,11 @@
 | 0.01 | [Michael](https://www.worldcubeassociation.org/persons/2010MICH03) | 25.03 | 25.04 | [Indonesian Open 2011](https://www.worldcubeassociation.org/competitions/IndonesianOpen2011/results/by_person#2010MICH03) |
 | 0.02 | [Yongting You (尤永庭)](https://www.worldcubeassociation.org/persons/2010YOUY01) | 9.40 | 9.42 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/by_person#2010YOUY01) |
 | 0.02 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | 10.53 | 10.55 | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/by_person#2021OTAI01) |
+| 0.02 | [José Josué Daniel Pineda Abrego](https://www.worldcubeassociation.org/persons/2022ABRE01) | 12.94 | 12.96 | [Nacionales Guatemala 2022](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2022/results/by_person#2022ABRE01) |
 | 0.02 | [Yang Liu (刘洋)](https://www.worldcubeassociation.org/persons/2011YANG17) | 20.68 | 20.70 | [Chongqing Open 2013](https://www.worldcubeassociation.org/competitions/ChongqingOpen2013/results/by_person#2011YANG17) |
 | 0.03 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | 7.60 | 7.63 | [Pangasinan Speedcubing Open 2017](https://www.worldcubeassociation.org/competitions/PangasinanSpeedcubingOpen2017/results/by_person#2010APAG01) |
 | 0.03 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) | 9.71 | 9.74 | [South Enough 2018](https://www.worldcubeassociation.org/competitions/SouthEnough2018/results/by_person#2007WOOR01) |
 | 0.03 | [Santiago Osorio Cristóbal](https://www.worldcubeassociation.org/persons/2015CRIS01) | 9.90 | 9.93 | [Spain 2018](https://www.worldcubeassociation.org/competitions/Spain2018/results/by_person#2015CRIS01) |
-| 0.03 | [Roy Tamir](https://www.worldcubeassociation.org/persons/2014TAMI01) | 10.01 | 10.04 | [Swiss Nationals 2019](https://www.worldcubeassociation.org/competitions/SwissNationals2019/results/by_person#2014TAMI01) |
 
 ### 2x2x2 Cube
 

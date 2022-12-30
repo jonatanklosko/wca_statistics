@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 20 December 2022*
+*Updated on 29 December 2022*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -16,8 +16,8 @@
 | [Medan All Events 2018](https://www.worldcubeassociation.org/competitions/MedanAllEvents2018) | 9.59 | 37 | Indonesia |
 | [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019) | 9.50 | 14 | Indonesia |
 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | 9.47 | 15 | Ireland |
-| [Lyon Winter Open 2012](https://www.worldcubeassociation.org/competitions/LyonWinterOpen2012) | 9.36 | 25 | France |
 | [GA Cubers Mashed Potatoes 2022](https://www.worldcubeassociation.org/competitions/GACubersMashedPotatoes2022) | 9.36 | 25 | United States |
+| [Lyon Winter Open 2012](https://www.worldcubeassociation.org/competitions/LyonWinterOpen2012) | 9.36 | 25 | France |
 | [B.O.N.D. Open 2015](https://www.worldcubeassociation.org/competitions/BONDOpen2015) | 9.30 | 43 | Slovakia |
 | [Kvissel Fall 2018](https://www.worldcubeassociation.org/competitions/KvisselFall2018) | 9.23 | 26 | Denmark |
 | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022) | 9.22 | 54 | Spain |
@@ -51,8 +51,8 @@
 | [Croatian Open 2015](https://www.worldcubeassociation.org/competitions/CroatianOpen2015) | 8.73 | 30 | Croatia |
 | [Dvina Open 2014](https://www.worldcubeassociation.org/competitions/DvinaOpen2014) | 8.71 | 35 | Belarus |
 | [Myyrmäki Summer Challenge 2019](https://www.worldcubeassociation.org/competitions/MyyrmakiSummerChallenge2019) | 8.69 | 55 | Finland |
-| [Vårgårda Open 2011](https://www.worldcubeassociation.org/competitions/VargardaOpen2011) | 8.67 | 48 | Sweden |
 | [Bristol Open 2009](https://www.worldcubeassociation.org/competitions/BristolOpen2009) | 8.67 | 27 | United Kingdom |
+| [Vårgårda Open 2011](https://www.worldcubeassociation.org/competitions/VargardaOpen2011) | 8.67 | 48 | Sweden |
 | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011) | 8.63 | 52 | Denmark |
 | [Italian Championship 2010](https://www.worldcubeassociation.org/competitions/ItalianChampionship2010) | 8.60 | 40 | Italy |
 | [Tlaxcala 2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018) | 8.56 | 85 | Mexico |

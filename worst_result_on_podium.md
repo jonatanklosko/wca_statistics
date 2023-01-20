@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 29 December 2022*
+*Updated on 19 January 2023*
 
 
 ### Rubik's Cube
@@ -204,7 +204,6 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Gilberto Caracciolo Morelli](https://www.worldcubeassociation.org/persons/2008CARA01) | 4:00.02 | **4:42.72** | [Minas Open 2008](https://www.worldcubeassociation.org/competitions/MinasOpen2008/results/podiums#esq1) | 2 |
-| [Nguyễn Đức Huy](https://www.worldcubeassociation.org/persons/2011NGUY18) | 1:22.28 | **4:20.63** | [HN Big Cube 2013](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2013/results/podiums#esq1) | 3 |
 | [Saori Hashimoto (橋本沙織)](https://www.worldcubeassociation.org/persons/2008HASH01) | 3:03.53 | **3:50.00** | [Utah Open 2008](https://www.worldcubeassociation.org/competitions/UtahOpen2008/results/podiums#esq1) | 2 |
 | [Luchen Zhang (张录辰)](https://www.worldcubeassociation.org/persons/2007LUCH02) | 51.30 | **3:49.53** | [Shenyang Boxing Day 2010](https://www.worldcubeassociation.org/competitions/ShenyangBoxingDay2010/results/podiums#esq1) | 3 |
 | [Ben VonDerHaar](https://www.worldcubeassociation.org/persons/2008VOND01) | 2:10.27 | **3:29.77** | [Indiana Winter Open 2008](https://www.worldcubeassociation.org/competitions/IndianaWinterOpen2008/results/podiums#esq1) | 3 |
@@ -213,6 +212,7 @@
 | [Claudio Gonzalez](https://www.worldcubeassociation.org/persons/2009GONZ04) | 1:16.55 | **3:15.92** | [Rubik's Baires 2.0 2011](https://www.worldcubeassociation.org/competitions/RubiksBaires2011/results/podiums#esq1) | 2 |
 | [Karel Doorman](https://www.worldcubeassociation.org/persons/2010DOOR01) | 2:12.78 | **3:11.29** | [New Zealand Champs 2010](https://www.worldcubeassociation.org/competitions/NewZealand2010/results/podiums#esq1) | 3 |
 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) | 2:11.19 | **3:05.77** | [Finnish Open 2008](https://www.worldcubeassociation.org/competitions/FinnishOpen2008/results/podiums#esq1) | 3 |
+| [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | 1:01.34 | **2:53.81** | [Cerbuna Open 2015](https://www.worldcubeassociation.org/competitions/CerbunaOpen2015/results/podiums#esq1) | 3 |
 
 ### 4x4x4 Blindfolded
 

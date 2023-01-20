@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 29 December 2022*
+*Updated on 19 January 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -223,6 +223,7 @@
 | 1680 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 1680 | [Vianne Chang](https://www.worldcubeassociation.org/persons/2017CHAN47) |
 | 1693 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) |
+| 1702 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) |
 | 1708 | [Aaron Soley](https://www.worldcubeassociation.org/persons/2017SOLE01) |
 | 1722 | [Brandon Lin](https://www.worldcubeassociation.org/persons/2011LINB01) |
 | 1722 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 29 December 2022*
+*Updated on 19 January 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -34,6 +34,7 @@
 | 2100 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 2155 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 2196 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) |
+| 2213 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 2232 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
 | 2426 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 2462 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |

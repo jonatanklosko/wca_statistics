@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 29 December 2022*
+*Updated on 19 January 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -10,8 +10,8 @@
 | 38 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 33 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
+| 31 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 30 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
-| 30 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 27 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
@@ -31,6 +31,7 @@
 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 21 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
+| 20 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 20 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 20 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 20 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
@@ -42,7 +43,6 @@
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 19 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 19 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
-| 18 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 18 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 18 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 18 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |

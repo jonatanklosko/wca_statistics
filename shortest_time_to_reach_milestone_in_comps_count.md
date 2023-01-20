@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 29 December 2022*
+*Updated on 19 January 2023*
 
 
 ### 100 Competitions
@@ -68,6 +68,7 @@
 | 441 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 449 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
 | 455 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 455 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 463 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 463 | [Ant Irizarry](https://www.worldcubeassociation.org/persons/2016IRIZ02) |
 | 469 | [Mitchell Hum](https://www.worldcubeassociation.org/persons/2017HUMM01) |
@@ -76,7 +77,6 @@
 | 471 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
 | 477 | [Luis Palomar París](https://www.worldcubeassociation.org/persons/2018PARI11) |
 | 484 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) |
-| 490 | [Daniel Goldstein](https://www.worldcubeassociation.org/persons/2017GOLD01) |
 
 ### 10 Competitions
 
@@ -101,7 +101,7 @@
 | 169 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 169 | [Mehmet Efe Günay](https://www.worldcubeassociation.org/persons/2022GUNA05) |
 | 170 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) |
-| 176 | [Klaudia Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK02) |
+| 171 | [John Wanger II](https://www.worldcubeassociation.org/persons/2022WANG39) |
 
 ### 5 Competitions
 

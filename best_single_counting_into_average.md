@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 29 December 2022*
+*Updated on 19 January 2023*
 
 
 ### Rubik's Cube
@@ -27,11 +27,11 @@
 | 0.82 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
 | 0.83 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Utah Fall 2021](https://www.worldcubeassociation.org/competitions/UtahFall2021/results/by_person#2018KHAN28) |
 | 0.83 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Babylon Fall 2021](https://www.worldcubeassociation.org/competitions/BabylonFall2021/results/by_person#2018KHAN28) |
+| 0.87 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | [Cubing Tlaxcala 2023](https://www.worldcubeassociation.org/competitions/CubingTlaxcala2023/results/by_person#2017HERN11) |
 | 0.88 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Port Huron Speedcubing 2022](https://www.worldcubeassociation.org/competitions/PortHuronSpeedcubing2022/results/by_person#2018KHAN28) |
 | 0.90 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/by_person#2018KHAN28) |
 | 0.91 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Clash at Carlisle Fall 2019](https://www.worldcubeassociation.org/competitions/ClashatCarlisleFall2019/results/by_person#2018KHAN28) |
 | 0.92 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Idaho Summer B 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerB2021/results/by_person#2018KHAN28) |
-| 0.93 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | [Tea Time Spring 2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018/results/by_person#2012CALL01) |
 
 ### 4x4x4 Cube
 

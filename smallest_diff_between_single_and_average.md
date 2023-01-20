@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 29 December 2022*
+*Updated on 19 January 2023*
 
 
 ### Rubik's Cube
@@ -11,13 +11,13 @@
 | 0.01 | [Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01) | 9.55 | 9.56 | [Zonhoven Open 2016](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2016/results/by_person#2010SCHI01) |
 | 0.01 | [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | 10.99 | 11.00 | [SJTU Winter Open 2018](https://www.worldcubeassociation.org/competitions/SJTUWinterOpen2018/results/by_person#2017YINX01) |
 | 0.01 | [Michael](https://www.worldcubeassociation.org/persons/2010MICH03) | 25.03 | 25.04 | [Indonesian Open 2011](https://www.worldcubeassociation.org/competitions/IndonesianOpen2011/results/by_person#2010MICH03) |
+| 0.02 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | 8.64 | 8.66 | [San Diego's Final Cube-Down 2022](https://www.worldcubeassociation.org/competitions/SanDiegosFinalCubeDown2022/results/by_person#2015BROW03) |
 | 0.02 | [Yongting You (尤永庭)](https://www.worldcubeassociation.org/persons/2010YOUY01) | 9.40 | 9.42 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/by_person#2010YOUY01) |
 | 0.02 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | 10.53 | 10.55 | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/by_person#2021OTAI01) |
 | 0.02 | [José Josué Daniel Pineda Abrego](https://www.worldcubeassociation.org/persons/2022ABRE01) | 12.94 | 12.96 | [Nacionales Guatemala 2022](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2022/results/by_person#2022ABRE01) |
 | 0.02 | [Yang Liu (刘洋)](https://www.worldcubeassociation.org/persons/2011YANG17) | 20.68 | 20.70 | [Chongqing Open 2013](https://www.worldcubeassociation.org/competitions/ChongqingOpen2013/results/by_person#2011YANG17) |
 | 0.03 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | 7.60 | 7.63 | [Pangasinan Speedcubing Open 2017](https://www.worldcubeassociation.org/competitions/PangasinanSpeedcubingOpen2017/results/by_person#2010APAG01) |
 | 0.03 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) | 9.71 | 9.74 | [South Enough 2018](https://www.worldcubeassociation.org/competitions/SouthEnough2018/results/by_person#2007WOOR01) |
-| 0.03 | [Santiago Osorio Cristóbal](https://www.worldcubeassociation.org/persons/2015CRIS01) | 9.90 | 9.93 | [Spain 2018](https://www.worldcubeassociation.org/competitions/Spain2018/results/by_person#2015CRIS01) |
 
 ### 2x2x2 Cube
 
@@ -119,7 +119,7 @@
 | 0.04 | [Simon Lim (林少秋)](https://www.worldcubeassociation.org/persons/2008LIMS01) | 17.83 | 17.87 | [Bayani 2012](https://www.worldcubeassociation.org/competitions/Bayani2012/results/by_person#2008LIMS01) |
 | 0.05 | [Han Dong (董晗)](https://www.worldcubeassociation.org/persons/2012DONG02) | 20.84 | 20.89 | [Shanghai Winter is Coming 2016](https://www.worldcubeassociation.org/competitions/ShanghaiWinterisComing2016/results/by_person#2012DONG02) |
 | 0.05 | [Naman Jain](https://www.worldcubeassociation.org/persons/2016JAIN04) | 21.24 | 21.29 | [Guwahati Summer Open 2019](https://www.worldcubeassociation.org/competitions/GuwahatiSummerOpen2019/results/by_person#2016JAIN04) |
-| 0.05 | [Trần Hữu Phổ](https://www.worldcubeassociation.org/persons/2017PHTR01) | 29.51 | 29.56 | [Da Nang Open 2018](https://www.worldcubeassociation.org/competitions/DaNangOpen2018/results/by_person#2017PHTR01) |
+| 0.05 | [Trần Hữu Phổ](https://www.worldcubeassociation.org/persons/2018PHTR01) | 29.51 | 29.56 | [Da Nang Open 2018](https://www.worldcubeassociation.org/competitions/DaNangOpen2018/results/by_person#2018PHTR01) |
 | 0.06 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 15.06 | 15.12 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2010WUIF01) |
 | 0.07 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | 12.87 | 12.94 | [SAC 2022](https://www.worldcubeassociation.org/competitions/SAC2022/results/by_person#2018LAPE01) |
 | 0.07 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 14.32 | 14.39 | [Ohio State Expo Open 2022](https://www.worldcubeassociation.org/competitions/OhioStateExpoOpen2022/results/by_person#2013LANG03) |
@@ -159,6 +159,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.03 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 7.98 | 8.01 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2015SPEN01) |
+| 0.04 | [Lee Yu Zhe](https://www.worldcubeassociation.org/persons/2019ZHEL01) | 11.18 | 11.22 | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/by_person#2019ZHEL01) |
 | 0.05 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 7.44 | 7.49 | [Get To The Point 2022](https://www.worldcubeassociation.org/competitions/GetToThePoint2022/results/by_person#2013JOHN10) |
 | 0.06 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 7.18 | 7.24 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/by_person#2013ROGA02) |
 | 0.06 | [Wojciech Włodarczyk](https://www.worldcubeassociation.org/persons/2012WODA01) | 9.39 | 9.45 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016/results/by_person#2012WODA01) |
@@ -167,7 +168,6 @@
 | 0.07 | [Charles Jerome](https://www.worldcubeassociation.org/persons/2016JERO01) | 10.00 | 10.07 | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019/results/by_person#2016JERO01) |
 | 0.07 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) | 15.50 | 15.57 | [Dutch Open 2008](https://www.worldcubeassociation.org/competitions/DutchOpen2008/results/by_person#2005OOMS01) |
 | 0.08 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 5.11 | 5.19 | [Burjassot Open 2022](https://www.worldcubeassociation.org/competitions/BurjassotOpen2022/results/by_person#2018GOME06) |
-| 0.08 | [Patrick Drew Dwyer](https://www.worldcubeassociation.org/persons/2019DWYE01) | 6.76 | 6.84 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2019DWYE01) |
 
 ### Skewb
 

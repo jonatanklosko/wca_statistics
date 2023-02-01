@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 19 January 2023*
+*Updated on  1 February 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.50 | World | 8947 |
+| 1.49 | World | 9017 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.77 | Europe | 2926 |
-| 1.58 | South America | 1001 |
-| 1.48 | Oceania | 377 |
-| 1.42 | Asia | 2175 |
+| 1.77 | Europe | 2946 |
+| 1.58 | South America | 1011 |
+| 1.47 | Oceania | 379 |
+| 1.42 | Asia | 2183 |
 | 1.23 | Africa | 101 |
-| 1.21 | North America | 2367 |
+| 1.21 | North America | 2397 |
 
 ### Countries
 
@@ -27,79 +27,80 @@
 | 2.26 | Hungary | 27 |
 | 2.15 | Czech Republic | 34 |
 | 2.08 | Uzbekistan | 12 |
-| 2.06 | Kazakhstan | 31 |
+| 2.06 | Kazakhstan | 32 |
 | 2.00 | Belize | 1 |
 | 2.00 | Liechtenstein | 2 |
 | 2.00 | Palestine | 2 |
 | 2.00 | Slovakia | 24 |
-| 1.97 | United Kingdom | 150 |
-| 1.97 | Turkey | 59 |
+| 1.97 | Turkey | 61 |
+| 1.97 | United Kingdom | 151 |
 | 1.94 | Lithuania | 17 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
-| 1.91 | Finland | 92 |
-| 1.91 | Germany | 175 |
+| 1.91 | Germany | 177 |
+| 1.90 | Finland | 93 |
 | 1.89 | Bosnia and Herzegovina | 9 |
 | 1.89 | Croatia | 18 |
-| 1.87 | Norway | 76 |
+| 1.88 | Norway | 77 |
 | 1.86 | Serbia | 14 |
-| 1.85 | Belgium | 61 |
-| 1.84 | France | 241 |
+| 1.85 | Belgium | 62 |
+| 1.85 | France | 242 |
+| 1.84 | Spain | 254 |
 | 1.84 | Austria | 19 |
-| 1.84 | Spain | 253 |
 | 1.84 | Switzerland | 85 |
-| 1.82 | Mexico | 94 |
-| 1.80 | Brazil | 331 |
+| 1.82 | Mexico | 95 |
+| 1.80 | Brazil | 334 |
 | 1.80 | North Macedonia | 5 |
 | 1.80 | San Marino | 5 |
 | 1.80 | Guatemala | 49 |
-| 1.78 | Thailand | 32 |
+| 1.79 | Thailand | 33 |
 | 1.78 | Iceland | 9 |
 | 1.75 | Bangladesh | 8 |
 | 1.75 | Denmark | 116 |
-| 1.75 | Ukraine | 103 |
+| 1.74 | Ukraine | 104 |
 | 1.74 | Slovenia | 23 |
-| 1.73 | Sweden | 138 |
-| 1.67 | Argentina | 58 |
-| 1.67 | Poland | 340 |
+| 1.73 | Sweden | 142 |
+| 1.68 | Argentina | 59 |
+| 1.67 | Poland | 341 |
 | 1.67 | Kyrgyzstan | 3 |
 | 1.67 | Luxembourg | 3 |
 | 1.67 | Montenegro | 3 |
 | 1.67 | Nigeria | 3 |
-| 1.65 | Iran | 31 |
-| 1.63 | Ireland | 30 |
+| 1.66 | Iran | 32 |
+| 1.65 | Ireland | 31 |
 | 1.63 | Indonesia | 180 |
-| 1.62 | Netherlands | 96 |
-| 1.60 | India | 430 |
+| 1.62 | Netherlands | 97 |
+| 1.60 | India | 432 |
 | 1.59 | Bolivia | 83 |
-| 1.58 | Colombia | 146 |
+| 1.57 | Colombia | 150 |
 | 1.56 | Malaysia | 61 |
 | 1.55 | New Zealand | 78 |
 | 1.55 | Latvia | 20 |
+| 1.52 | Italy | 159 |
 | 1.52 | Dominican Republic | 25 |
-| 1.52 | Italy | 157 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Singapore | 28 |
 | 1.50 | Sri Lanka | 2 |
 | 1.50 | Tajikistan | 2 |
 | 1.47 | Peru | 154 |
-| 1.46 | Australia | 299 |
+| 1.46 | Australia | 301 |
 | 1.45 | Romania | 76 |
 | 1.44 | Israel | 27 |
 | 1.40 | Greece | 15 |
 | 1.40 | Jordan | 10 |
+| 1.40 | Panama | 10 |
 | 1.39 | Nepal | 18 |
-| 1.39 | Paraguay | 18 |
-| 1.38 | Hong Kong | 13 |
-| 1.38 | Philippines | 201 |
 | 1.38 | Costa Rica | 16 |
+| 1.37 | Philippines | 203 |
 | 1.37 | Estonia | 43 |
+| 1.37 | Paraguay | 19 |
 | 1.36 | Ecuador | 28 |
+| 1.36 | Hong Kong | 14 |
 | 1.35 | Taiwan | 115 |
 | 1.33 | Bahrain | 6 |
 | 1.33 | United Arab Emirates | 15 |
 | 1.33 | South Africa | 49 |
-| 1.31 | Venezuela | 55 |
+| 1.30 | Venezuela | 56 |
 | 1.30 | Bulgaria | 10 |
 | 1.30 | Chile | 88 |
 | 1.27 | Vietnam | 55 |
@@ -107,13 +108,12 @@
 | 1.26 | Mongolia | 19 |
 | 1.26 | China | 615 |
 | 1.23 | Japan | 208 |
-| 1.22 | Panama | 9 |
 | 1.20 | Portugal | 15 |
 | 1.18 | Uruguay | 40 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | United States | 1891 |
-| 1.16 | Canada | 240 |
+| 1.17 | United States | 1912 |
+| 1.16 | Canada | 246 |
 | 1.15 | Honduras | 13 |
 | 1.15 | El Salvador | 27 |
 | 1.13 | Azerbaijan | 39 |
@@ -134,7 +134,7 @@
 | 1.00 | Mauritius | 3 |
 | 1.00 | Moldova | 5 |
 | 1.00 | Morocco | 5 |
-| 1.00 | Multiple Countries (North America) | 1 |
+| 1.00 | Multiple Countries (North America) | 2 |
 | 1.00 | Pakistan | 2 |
 
 

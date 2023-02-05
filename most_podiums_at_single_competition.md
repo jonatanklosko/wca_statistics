@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 February 2023*
+*Updated on  4 February 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -389,6 +389,7 @@
 | 11 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [NCR Open 2017](https://www.worldcubeassociation.org/competitions/NCROpen2017/results/podiums) |
 | 11 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [SCMU 2017](https://www.worldcubeassociation.org/competitions/SCMU2017/results/podiums) |
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [Delhi Open 2017](https://www.worldcubeassociation.org/competitions/DelhiOpen2017/results/podiums) |
+| 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [LNMIIT Jaipur Cube Open 2023](https://www.worldcubeassociation.org/competitions/LNMIITJaipurCubeOpen2023/results/podiums) |
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [Plenty o' Parity 2015](https://www.worldcubeassociation.org/competitions/PoP2015/results/podiums) |
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [SCMU Freedom Open 2015](https://www.worldcubeassociation.org/competitions/SCMUFreedomOpen2015/results/podiums) |
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [SNU Open 2017](https://www.worldcubeassociation.org/competitions/SNUOpen2017/results/podiums) |

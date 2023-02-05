@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 February 2023*
+*Updated on  4 February 2023*
 
 
 ### Rubik's Cube
@@ -148,8 +148,8 @@
 | 29.13 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 27.99, 30.61, 28.45, 31.37, 28.33 |
 | 29.80 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 29.35, 34.12, 30.13, 28.60, 29.94 |
 | 30.12 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 28.50, 31.19, 29.97, 31.07, 29.34 |
+| 31.18 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 32.57, 30.67, 31.30, 31.33, 30.91 |
 | 31.42 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 34.63, 31.25, 28.43, 34.59, 28.09 |
-| 31.44 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 30.81, 31.03, 32.35, 35.85, 30.94 |
 | 31.49 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 32.67, 28.84, 32.08, 34.38, 29.72 |
 | 31.74 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 30.84, 36.43, 30.89, 32.94, 31.41 |
 | 32.46 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 31.95, 33.56, 31.15, 33.84, 31.89 |
@@ -159,6 +159,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1.57 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.34, 4.13, 1.68, 1.69, 1.29 |
+| 1.62 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 1.68, 6.04, 1.54, 1.39, 1.65 |
 | 1.63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.74, 1.39, 2.69, 1.76, 1.33 |
 | 1.68 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | DNF, 1.55, 1.66, 1.85, 1.44 |
 | 1.68 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 2.18, 1.61, 1.52, 1.54, 1.89 |
@@ -167,7 +168,6 @@
 | 1.76 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 1.91, 1.62, 1.67, 5.49, 1.71 |
 | 1.78 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.68, 1.57, 2.05, 5.04, 1.62 |
 | 1.78 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | DNF, 1.24, 1.67, 1.59, 2.10 |
-| 1.80 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) | 1.74, 1.98, 1.69, 2.40, 1.18 |
 
 ### Rubik's Clock
 

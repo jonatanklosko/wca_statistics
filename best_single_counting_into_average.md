@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  4 February 2023*
+*Updated on  7 February 2023*
 
 
 ### Rubik's Cube
@@ -114,6 +114,7 @@
 | ---: | :--- | :--- |
 | 3.27 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Naperville Winter B 2022](https://www.worldcubeassociation.org/competitions/NapervilleWinterB2022/results/by_person#2018THOM29) |
 | 3.28 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
+| 3.36 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Guildford Winter 2023](https://www.worldcubeassociation.org/competitions/GuildfordWinter2023/results/by_person#2017CHAM09) |
 | 3.39 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
 | 3.46 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
 | 3.46 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Stevenage Autumn B 2022](https://www.worldcubeassociation.org/competitions/StevenageAutumnB2022/results/by_person#2017CHAM09) |
@@ -121,7 +122,6 @@
 | 3.53 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Stevenage January 2023](https://www.worldcubeassociation.org/competitions/StevenageJanuary2023/results/by_person#2017CHAM09) |
 | 3.54 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 | 3.62 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Texas Championship 2022](https://www.worldcubeassociation.org/competitions/TexasChampionship2022/results/by_person#2015TREL02) |
-| 3.66 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/by_person#2015TREL02) |
 
 ### Skewb
 

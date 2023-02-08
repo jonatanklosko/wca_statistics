@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 February 2023*
+*Updated on  7 February 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -185,6 +185,7 @@
 | 1379 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 1379 | [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) |
 | 1387 | [Andrew Tan Jing Bang](https://www.worldcubeassociation.org/persons/2019BANG01) |
+| 1391 | [Achia Engel](https://www.worldcubeassociation.org/persons/2019ENGE02) |
 | 1399 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1406 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
 | 1406 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) |
@@ -301,6 +302,7 @@
 | 2323 | [Can Mao (毛灿)](https://www.worldcubeassociation.org/persons/2010MAOC01) |
 | 2323 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
 | 2352 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) |
+| 2359 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) |
 | 2436 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) |
 | 2464 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 2471 | [Nick Vu](https://www.worldcubeassociation.org/persons/2007VUNI01) |

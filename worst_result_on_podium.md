@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  4 February 2023*
+*Updated on  7 February 2023*
 
 
 ### Rubik's Cube
@@ -12,12 +12,12 @@
 | [Yixilangjia (益西朗加)](https://www.worldcubeassociation.org/persons/2012YIXI02) | 3:27.86 | **5:08.60** | [Tibet Open 2012](https://www.worldcubeassociation.org/competitions/TibetOpen2012/results/podiums#e333) | 2 |
 | [Benyuan Wei (魏本源)](https://www.worldcubeassociation.org/persons/2012WEIB02) | 1:24.26 | **3:39.87** | [Tibet Open 2012](https://www.worldcubeassociation.org/competitions/TibetOpen2012/results/podiums#e333) | 1 |
 | [Məhəmməd Xəlilov](https://www.worldcubeassociation.org/persons/2018XALI01) | 1:15.15 | **1:43.80** | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018/results/podiums#e333) | 3 |
+| [Jonah Lindgren](https://www.worldcubeassociation.org/persons/2023LIND09) | 1:27.70 | **1:43.69** | [Vardagscubing III - Flen A 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenA2023/results/podiums#e333) | 3 |
+| [Levi Lindgren](https://www.worldcubeassociation.org/persons/2023LIND10) | 1:15.00 | **1:25.50** | [Vardagscubing III - Flen A 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenA2023/results/podiums#e333) | 2 |
 | [Paul Martin De Leon](https://www.worldcubeassociation.org/persons/2009LEON04) | 1:01.52 | **1:10.95** | [Dubai Open 2009](https://www.worldcubeassociation.org/competitions/DubaiOpen2009/results/podiums#e333) | 3 |
 | [Maxsud Qarayev](https://www.worldcubeassociation.org/persons/2018QARA01) | 55.04 | **1:07.81** | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018/results/podiums#e333) | 2 |
 | [Mohammad Forootani (محمد فروتنی)](https://www.worldcubeassociation.org/persons/2009FORO01) | 1:02.86 | **1:06.43** | [Dubai Open 2009](https://www.worldcubeassociation.org/competitions/DubaiOpen2009/results/podiums#e333) | 2 |
 | [Zhong Wang (王重)](https://www.worldcubeassociation.org/persons/2012WANG02) | 51.33 | **1:05.29** | [Henan Countryside 2012](https://www.worldcubeassociation.org/competitions/HenanCountryside2012/results/podiums#e333) | 3 |
-| [Şahanə Məmmədova](https://www.worldcubeassociation.org/persons/2018MAMM03) | 55.83 | **1:02.48** | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018/results/podiums#e333) | 1 |
-| [Yassan Monzo](https://www.worldcubeassociation.org/persons/2016MONZ01) | 43.86 | **54.06** | [Cuban Open 2016](https://www.worldcubeassociation.org/competitions/CubanOpen2016/results/podiums#e333) | 3 |
 
 ### 2x2x2 Cube
 
@@ -32,7 +32,7 @@
 | [Sahil Mirchandani](https://www.worldcubeassociation.org/persons/2022MIRC02) | 20.38 | **25.52** | [Curaçao Open 2022](https://www.worldcubeassociation.org/competitions/CuracaoOpen2022/results/podiums#e222) | 3 |
 | [Abdesalam Derdour](https://www.worldcubeassociation.org/persons/2014DERD01) | 16.02 | **24.35** | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014/results/podiums#e222) | 3 |
 | [Gavin Lopez Ramirez](https://www.worldcubeassociation.org/persons/2022RAMI17) | 13.66 | **23.03** | [Curaçao Open 2022](https://www.worldcubeassociation.org/competitions/CuracaoOpen2022/results/podiums#e222) | 2 |
-| [Venkatesh Subramanian](https://www.worldcubeassociation.org/persons/2008SUBR01) | 18.93 | **21.51** | [Indian Open 2008](https://www.worldcubeassociation.org/competitions/IndianOpen2008/results/podiums#e222) | 3 |
+| [Joel Wallin](https://www.worldcubeassociation.org/persons/2013WALL04) | 14.83 | **22.64** | [Vardagscubing III - Flen A 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenA2023/results/podiums#e222) | 1 |
 
 ### 4x4x4 Cube
 

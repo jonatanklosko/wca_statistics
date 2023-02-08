@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 February 2023*
+*Updated on  7 February 2023*
 
 
 ### Rubik's Cube
@@ -128,6 +128,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.09 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 1:04.02 | 1:04.11 | [Mt. Prospect Mini Marathon 2023](https://www.worldcubeassociation.org/competitions/MtProspectMiniMarathon2023/results/by_person#2011FERA01) |
 | 0.10 | [Vito Kosasih (高耀梁)](https://www.worldcubeassociation.org/persons/2011KOSA01) | 52.00 | 52.10 | [Lanyang Open 2019](https://www.worldcubeassociation.org/competitions/LanyangOpen2019/results/by_person#2011KOSA01) |
 | 0.13 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | 50.45 | 50.58 | [Seminario 2022](https://www.worldcubeassociation.org/competitions/Seminario2022/results/by_person#2011CAST02) |
 | 0.13 | [Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01) | 1:20.65 | 1:20.78 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2015PADG01) |
@@ -137,7 +138,6 @@
 | 0.16 | [Zaiyang Zhang (张在旸)](https://www.worldcubeassociation.org/persons/2017ZHAZ09) | 1:24.57 | 1:24.73 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2017ZHAZ09) |
 | 0.17 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 30.56 | 30.73 | [DFW Cubing Fall 2022](https://www.worldcubeassociation.org/competitions/DFWCubingFall2022/results/by_person#2015NAIN01) |
 | 0.17 | [Jiahe Dai (戴嘉禾)](https://www.worldcubeassociation.org/persons/2016DAIJ01) | 58.10 | 58.27 | [Xi'an 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Xian10thAnniversary2019/results/by_person#2016DAIJ01) |
-| 0.18 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 2:29.36 | 2:29.54 | [BW Open 2012](https://www.worldcubeassociation.org/competitions/BWOpen2012/results/by_person#2010DEIM01) |
 
 ### Pyraminx
 
@@ -192,12 +192,12 @@
 | 0.07 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 11.27 | 11.34 | [Hangzhou Autumn 2016](https://www.worldcubeassociation.org/competitions/HangzhouAutumn2016/results/by_person#2013FENG02) |
 | 0.07 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | 33.02 | 33.09 | [Dixon Winter 2013](https://www.worldcubeassociation.org/competitions/DixonWinter2013/results/by_person#2010BREC01) |
 | 0.09 | [Muhammad Hafizuddin Akhtar Bin Mohd Zainal Abidin](https://www.worldcubeassociation.org/persons/2017ABID02) | 12.03 | 12.12 | [Malaysia Cube Championship 2019](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2019/results/by_person#2017ABID02) |
+| 0.09 | [Lukas Horbach](https://www.worldcubeassociation.org/persons/2022HORB01) | 12.62 | 12.71 | [UBC Side Events 2023](https://www.worldcubeassociation.org/competitions/UBCSideEvents2023/results/by_person#2022HORB01) |
 | 0.09 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 14.42 | 14.51 | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022/results/by_person#2014ZYCH01) |
 | 0.09 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | 16.03 | 16.12 | [Martelli Open Otoño 2019](https://www.worldcubeassociation.org/competitions/MartelliOpenOtono2019/results/by_person#2014BONA02) |
 | 0.10 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 7.71 | 7.81 | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/by_person#2014NIEL03) |
 | 0.10 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 9.68 | 9.78 | [No 3x3 in Auburn Hills 2022](https://www.worldcubeassociation.org/competitions/No3x3inAuburnHills2022/results/by_person#2016PFEI01) |
 | 0.10 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) | 11.47 | 11.57 | [Twist 'n Turn Tallinn 2022](https://www.worldcubeassociation.org/competitions/TwistNTurnTallinn2022/results/by_person#2017PIHE01) |
-| 0.12 | [Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01) | 7.63 | 7.75 | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2016CRES01) |
 
 ### 4x4x4 Blindfolded
 

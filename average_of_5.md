@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 February 2023*
+*Updated on  7 February 2023*
 
 
 ### Rubik's Cube
@@ -27,12 +27,12 @@
 | 1.15 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.09, 1.26, 2.44, 1.12, 0.91 |
 | 1.16 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.73, 1.01, 1.01, 1.42, 1.05 |
 | 1.16 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.12, 1.17, 1.21, 1.71, 0.92 |
-| 1.19 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 1.13, 1.03, 1.53, 1.42, 0.64 |
+| 1.17 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 1.08, 0.86, 1.45, 1.37, 1.07 |
+| 1.19 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 2.44, 1.25, 1.07, 1.09, 1.25 |
 | 1.20 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | 1.12, 1.27, 1.32, 1.22, 1.03 |
 | 1.21 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 1.41, 1.12, 0.81, 1.58, 1.10 |
 | 1.23 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 0.79, 1.78, 1.17, 1.00, 1.52 |
 | 1.27 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2.02, 1.26, 1.25, 1.14, 1.31 |
-| 1.27 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | 1.30, 1.09, 2.16, 1.30, 1.21 |
 
 ### 4x4x4 Cube
 
@@ -77,7 +77,7 @@
 | 1:22.45 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:22.21, 1:18.78, 1:24.70, 1:34.90, 1:20.45 |
 | 1:23.24 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:19.23, 1:25.94, 1:23.57, 1:25.81, 1:20.35 |
 | 1:24.78 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:27.46, 1:24.94, 1:25.30, 1:24.12, 1:20.31 |
-| 1:26.59 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | 1:35.66, 1:24.71, 1:34.36, 1:20.72, 1:20.32 |
+| 1:26.50 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 1:24.25, 1:27.06, 1:27.89, 1:32.64, 1:24.55 |
 
 ### 7x7x7 Cube
 
@@ -136,8 +136,8 @@
 | 9.24 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 9.21, 8.70, 8.52, 11.73, 9.83 |
 | 9.30 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 8.87, 8.94, 10.57, 8.80, 10.10 |
 | 9.32 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 12.35, 8.78, 10.35, 8.83, 8.13 |
+| 9.33 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 10.08, 10.61, 8.84, 8.39, 9.07 |
 | 9.47 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 12.57, 9.80, 9.04, 9.59, 8.99 |
-| 9.54 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 9.12, 9.59, 8.87, 15.43, 9.91 |
 
 ### Megaminx
 

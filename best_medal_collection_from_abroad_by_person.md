@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 February 2023*
+*Updated on  7 February 2023*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -33,19 +33,19 @@
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **68** | 63 | 82 | 213 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **68** | 19 | 17 | 104 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | **67** | 44 | 49 | 160 |
-| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **66** | 41 | 20 | 127 |
+| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **67** | 42 | 20 | 129 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **63** | 82 | 71 | 216 |
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
+| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **61** | 31 | 23 | 115 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **57** | 63 | 66 | 186 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **57** | 30 | 22 | 109 |
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **55** | 38 | 26 | 119 |
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 23 | 17 | 94 |
+| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **53** | 70 | 26 | 149 |
 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **52** | 46 | 28 | 126 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | **51** | 20 | 11 | 82 |
-| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **50** | 70 | 26 | 146 |
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **50** | 16 | 3 | 69 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **49** | 50 | 38 | 137 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **49** | 50 | 31 | 130 |

@@ -1,33 +1,33 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 February 2023*
+*Updated on  7 February 2023*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1304** | 1078 | 925 | 3307 |
-| Germany | **829** | 816 | 819 | 2464 |
-| United States | **809** | 672 | 602 | 2083 |
+| Germany | **831** | 818 | 821 | 2470 |
+| United States | **813** | 677 | 607 | 2097 |
 | Netherlands | **785** | 637 | 531 | 1953 |
-| France | **756** | 655 | 546 | 1957 |
+| France | **757** | 656 | 546 | 1959 |
 | Russia | **625** | 415 | 340 | 1380 |
-| Poland | **424** | 308 | 235 | 967 |
-| China | **419** | 379 | 334 | 1132 |
+| Poland | **425** | 310 | 235 | 970 |
+| China | **422** | 380 | 335 | 1137 |
 | Malaysia | **356** | 344 | 301 | 1001 |
 | United Kingdom | **345** | 386 | 381 | 1112 |
 | Canada | **333** | 336 | 357 | 1026 |
 | Denmark | **318** | 265 | 192 | 775 |
 | Sweden | **296** | 336 | 355 | 987 |
 | Australia | **277** | 126 | 86 | 489 |
-| Republic of Korea | **249** | 235 | 193 | 677 |
+| Republic of Korea | **250** | 235 | 193 | 678 |
 | Finland | **232** | 164 | 140 | 536 |
 | India | **226** | 183 | 171 | 580 |
-| Switzerland | **206** | 287 | 244 | 737 |
+| Switzerland | **209** | 287 | 244 | 740 |
 | Hong Kong | **200** | 236 | 183 | 619 |
 | Argentina | **198** | 153 | 126 | 477 |
 | Taiwan | **193** | 165 | 160 | 518 |
 | Japan | **191** | 117 | 125 | 433 |
-| Italy | **188** | 176 | 165 | 529 |
+| Italy | **188** | 176 | 166 | 530 |
 | Spain | **167** | 155 | 182 | 504 |
 | Ukraine | **164** | 166 | 159 | 489 |
 | Romania | **155** | 106 | 99 | 360 |
@@ -51,7 +51,7 @@
 | Guatemala | **55** | 37 | 41 | 133 |
 | Norway | **48** | 51 | 71 | 170 |
 | Croatia | **45** | 74 | 51 | 170 |
-| Brazil | **37** | 35 | 23 | 95 |
+| Brazil | **37** | 36 | 24 | 97 |
 | Vietnam | **34** | 51 | 52 | 137 |
 | Venezuela | **29** | 37 | 33 | 99 |
 | Estonia | **28** | 32 | 26 | 86 |
@@ -104,9 +104,9 @@
 | Luxembourg | **1** | 1 | 3 | 5 |
 | Oman | **1** | 1 | 2 | 4 |
 | United Arab Emirates | **1** | 0 | 0 | 1 |
+| Palestine | **0** | 5 | 12 | 17 |
 | Saint Kitts and Nevis | **0** | 3 | 0 | 3 |
 | Sri Lanka | **0** | 2 | 2 | 4 |
-| Palestine | **0** | 1 | 9 | 10 |
 | Togo | **0** | 1 | 5 | 6 |
 | Azerbaijan | **0** | 1 | 1 | 2 |
 | Syria | **0** | 1 | 0 | 1 |

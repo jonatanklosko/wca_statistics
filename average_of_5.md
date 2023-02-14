@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  7 February 2023*
+*Updated on 13 February 2023*
 
 
 ### Rubik's Cube
@@ -175,14 +175,14 @@
 | ---: | :--- | :--- |
 | 3.56 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.39, 4.21, 3.46, 3.83, 3.16 |
 | 3.69 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 3.84, 3.28, 5.13, 3.95, 3.28 |
+| 3.71 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3.86, 4.30, 3.30, 3.99, 2.99 |
 | 3.77 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | 3.92, 3.85, 3.53, 3.66, 3.81 |
 | 3.84 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 4.42, 3.27, DNF, 3.13, 3.85 |
 | 3.86 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 3.52, 4.28, 4.57, 3.54, 3.76 |
 | 3.93 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 7.11, 3.88, 4.24, 3.69, 3.50 |
-| 4.08 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 2.97, 4.16, 4.04, DNF, 4.06 |
 | 4.08 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 3.98, 3.49, 6.67, 4.34, 3.92 |
 | 4.21 | [Virgile Perrot](https://www.worldcubeassociation.org/persons/2017PERR02) | 4.22, 7.05, 4.24, 3.64, 4.18 |
-| 4.24 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 3.99, DNF, 4.20, 4.19, 4.35 |
+| 4.21 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) | 3.11, 4.21, 4.62, 4.87, 3.82 |
 
 ### Skewb
 

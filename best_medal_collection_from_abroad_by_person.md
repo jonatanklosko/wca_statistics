@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  7 February 2023*
+*Updated on 13 February 2023*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -11,7 +11,7 @@
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **199** | 50 | 18 | 267 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **161** | 148 | 109 | 418 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **131** | 53 | 25 | 209 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **134** | 53 | 25 | 212 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **128** | 65 | 37 | 230 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **119** | 142 | 125 | 386 |
@@ -27,11 +27,11 @@
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **80** | 115 | 72 | 267 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **80** | 28 | 25 | 133 |
+| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **73** | 20 | 18 | 111 |
 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **69** | 29 | 37 | 135 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **68** | 72 | 43 | 183 |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **68** | 63 | 82 | 213 |
-| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **68** | 19 | 17 | 104 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | **67** | 44 | 49 | 160 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **67** | 42 | 20 | 129 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **63** | 82 | 71 | 216 |
@@ -68,7 +68,7 @@
 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | **41** | 27 | 9 | 77 |
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **40** | 25 | 31 | 96 |
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |
-| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **39** | 30 | 31 | 100 |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **39** | 30 | 32 | 101 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **38** | 75 | 157 | 270 |
 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) | **38** | 20 | 49 | 107 |
 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | **38** | 12 | 5 | 55 |
@@ -87,9 +87,9 @@
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **33** | 44 | 34 | 111 |
 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) | **33** | 22 | 32 | 87 |
 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) | **32** | 30 | 24 | 86 |
+| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **32** | 27 | 27 | 86 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **32** | 22 | 16 | 70 |
 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | **32** | 14 | 10 | 56 |
-| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **31** | 24 | 25 | 80 |
 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | **31** | 24 | 9 | 64 |
 | [Eric Limeback](https://www.worldcubeassociation.org/persons/2007LIME01) | **31** | 20 | 19 | 70 |
 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **30** | 20 | 20 | 70 |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 February 2023*
+*Updated on 13 February 2023*
 
 
 ### Rubik's Cube
@@ -147,12 +147,12 @@
 | 0.02 | [Chiara Giesinger](https://www.worldcubeassociation.org/persons/2022GIES01) | 5.16 | 5.18 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022/results/by_person#2022GIES01) |
 | 0.02 | [Kasper Warberg Borg](https://www.worldcubeassociation.org/persons/2020BORG01) | 9.37 | 9.39 | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022/results/by_person#2020BORG01) |
 | 0.04 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 2.48 | 2.52 | [Liberty Science Center Open 2019](https://www.worldcubeassociation.org/competitions/LibertyScienceCenterOpen2019/results/by_person#2017HONG17) |
+| 0.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2.65 | 2.69 | [Washtenaw Winter 2023](https://www.worldcubeassociation.org/competitions/WashtenawWinter2023/results/by_person#2016CHAP04) |
 | 0.04 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | 2.69 | 2.73 | [Swisscubing Cup V 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2022/results/by_person#2016ROLZ01) |
 | 0.04 | [Justin Andrew Dee](https://www.worldcubeassociation.org/persons/2015DEEJ02) | 3.12 | 3.16 | [Marikina City Open II 2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019/results/by_person#2015DEEJ02) |
 | 0.04 | [Nolan Wood](https://www.worldcubeassociation.org/persons/2016WOOD01) | 4.21 | 4.25 | [Arnold Classic NA 2019](https://www.worldcubeassociation.org/competitions/ArnoldClassicNorthAmerica2019/results/by_person#2016WOOD01) |
 | 0.04 | [Jiawei Wu (伍嘉维)](https://www.worldcubeassociation.org/persons/2014WUJI01) | 5.71 | 5.75 | [Dongguan Open 2018](https://www.worldcubeassociation.org/competitions/DongguanOpen2018/results/by_person#2014WUJI01) |
 | 0.04 | [Gregorio Missael Lopez Sanchez](https://www.worldcubeassociation.org/persons/2014SANC05) | 8.20 | 8.24 | [CUCEI Open 2015](https://www.worldcubeassociation.org/competitions/CUCEI2015/results/by_person#2014SANC05) |
-| 0.04 | [Aaryan Mehta](https://www.worldcubeassociation.org/persons/2015MEHT02) | 8.61 | 8.65 | [SCMU ICT Open 2016](https://www.worldcubeassociation.org/competitions/SCMUICTOpen2016/results/by_person#2015MEHT02) |
 
 ### Rubik's Clock
 

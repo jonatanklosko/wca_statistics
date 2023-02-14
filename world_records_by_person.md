@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  7 February 2023*
+*Updated on 13 February 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -225,6 +225,7 @@
 | 1 | [Mario Laurent](https://www.worldcubeassociation.org/persons/2008LAUR01) |
 | 1 | [Mharr Justhinne Ampong](https://www.worldcubeassociation.org/persons/2012AMPO01) |
 | 1 | [Micael Hellberg](https://www.worldcubeassociation.org/persons/2004HELL01) |
+| 1 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 1 | [Mike Godfrey](https://www.worldcubeassociation.org/persons/2004GODF01) |
 | 1 | [Minh Thai](https://www.worldcubeassociation.org/persons/1982THAI01) |
 | 1 | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |

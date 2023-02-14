@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  7 February 2023*
+*Updated on 13 February 2023*
 
 
 ### Rubik's Cube - Single
@@ -188,6 +188,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | **16.13** | Australia | [February Fitzroy Fun 2023](https://www.worldcubeassociation.org/competitions/FebruaryFitzroyFun2023) | 16.13, DNF, 20.31 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **16.34** | Sweden | [Swedish Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishChampionship2022) | 28.15, 42.74, 16.34 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **16.40** | Poland | [BrizZon Side Open 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2022) | 26.33, 20.74, 16.40 |
 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **17.47** | Hong Kong | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 22.58, 17.47, DNF |
@@ -197,7 +198,6 @@
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **20.70** | United States | [Mini Minnesota Fall 2019](https://www.worldcubeassociation.org/competitions/MiniMinnesotaFall2019) | DNF, 20.70, DNF |
 | [Fletcher Berry](https://www.worldcubeassociation.org/persons/2018BERR01) | **21.06** | United States | [Ardmore Big & Blind 2023](https://www.worldcubeassociation.org/competitions/ArdmoreBigAndBlind2023) | DNF, DNF, 21.06 |
 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | **22.64** | Finland | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019) | 28.99, 22.64, 29.66 |
-| [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | **24.73** | Jordan | [Jordan Fall Open 2021](https://www.worldcubeassociation.org/competitions/JordanFallOpen2021) | 27.21, 1:44.53, 24.73 |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -435,9 +435,9 @@
 | [Fletcher Berry](https://www.worldcubeassociation.org/persons/2018BERR01) | **2:45.78** | United States | [DFW Cubing Summer 2022](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2022) | DNF, DNF, 2:45.78 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **2:54.69** | Russia | [Swiss Nats 2016](https://www.worldcubeassociation.org/competitions/SwissNationals2016) | DNF, DNF, 2:54.69 |
 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | **3:03.53** | Finland | [Pikkujoulut 2018](https://www.worldcubeassociation.org/competitions/Pikkujoulut2018) | DNF, DNF, 3:03.53 |
+| [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | **3:06.17** | Jordan | [Creativity Makers 2023](https://www.worldcubeassociation.org/competitions/CreativityMakers2023) | DNF, DNF, 3:06.17 |
 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | **3:07.97** | Finland | [Kiev Super Blind 2020](https://www.worldcubeassociation.org/competitions/KievSuperBlind2020) | DNF, 3:07.97, DNF |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | **3:14.15** | United Kingdom | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) | 3:14.15, DNF, DNF |
-| [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | **3:15.05** | United States | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 3:15.05, DNF, DNF |
 
 ### 4x4x4 Blindfolded - Average
 
@@ -496,8 +496,8 @@
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | **31/34 56:35** | United Kingdom | [UK Championship 2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019) | 31/34 56:35, DNF |
 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | **29/32 52:57** | Canada | [Please Be Solved Vancouver 2022](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2022) | 29/32 52:57, 30/34 56:35, 28/34 57:55 |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | **25/25 56:14** | Spain | [Fuenlabrada Open 2018](https://www.worldcubeassociation.org/competitions/FuenlabradaOpen2018) | 25/25 56:14 |
-| [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | **23/25 55:55** | United States | [Oregon State Favorites 2019](https://www.worldcubeassociation.org/competitions/OregonStateFavorites2019) | 23/25 55:55 |
-| [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) | **22/23 59:59** | Sweden | [Swedish Championship 2019](https://www.worldcubeassociation.org/competitions/SwedishChampionship2019) | 22/23 59:59, 16/25 1:00:00 |
+| [Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02) | **26/28 58:48** | Australia | [Melbourne Mental Mania 2022](https://www.worldcubeassociation.org/competitions/MelbourneMentalMania2022) | 26/28 58:48, DNF |
+| [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | **24/25 54:44** | Australia | [Brisbane's 20 in 21 in 2022](https://www.worldcubeassociation.org/competitions/Brisbanes20in21in2022) | 24/25 54:44 |
 
 ### 3x3x3 With Feet - Single
 

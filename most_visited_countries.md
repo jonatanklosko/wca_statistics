@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  7 February 2023*
+*Updated on 13 February 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -10,7 +10,7 @@
 | 38 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 33 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 31 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 32 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 30 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 27 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |

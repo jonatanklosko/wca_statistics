@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 February 2023*
+*Updated on 13 February 2023*
 
 
 ### Rubik's Cube
@@ -196,8 +196,8 @@
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 2.62 | **2.99** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 8 |
 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 2.68 | **3.03** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eskewb_f) | 5 |
 | [Zeyu Gao (高泽宇)](https://www.worldcubeassociation.org/persons/2016GAOZ05) | 2.33 | **3.07** | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#eskewb_f) | 4 |
+| [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | 2.38 | **3.13** | [Frozen Lake Minnesota 2023](https://www.worldcubeassociation.org/competitions/FrozenLakeMinnesota2023/results/all#eskewb_f) | 4 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 2.15 | **3.15** | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018/results/all#eskewb_f) | 4 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 2.38 | **3.15** | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/all#eskewb_f) | 4 |
 
 ### Square-1
 

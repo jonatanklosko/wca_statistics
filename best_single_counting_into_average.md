@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 February 2023*
+*Updated on 13 February 2023*
 
 
 ### Rubik's Cube
@@ -101,12 +101,12 @@
 | 1.32 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [Crystal City Fall 2022](https://www.worldcubeassociation.org/competitions/CrystalCityFall2022/results/by_person#2017NIEL03) |
 | 1.39 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/by_person#2015GORN01) |
 | 1.41 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Cubing Fall 2022](https://www.worldcubeassociation.org/competitions/DFWCubingFall2022/results/by_person#2016PILA03) |
+| 1.44 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Dubuque Winter 2023](https://www.worldcubeassociation.org/competitions/DubuqueWinter2023/results/by_person#2016KELL12) |
 | 1.47 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/by_person#2018EYOU02) |
 | 1.48 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [Silver Spring Summer 2022](https://www.worldcubeassociation.org/competitions/SilverSpringSummer2022/results/by_person#2017NIEL03) |
 | 1.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016KOLA02) |
 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
 | 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
-| 1.53 | [Wesley Allen](https://www.worldcubeassociation.org/persons/2015ALLE03) | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/by_person#2015ALLE03) |
 
 ### Rubik's Clock
 
@@ -114,6 +114,7 @@
 | ---: | :--- | :--- |
 | 3.27 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Naperville Winter B 2022](https://www.worldcubeassociation.org/competitions/NapervilleWinterB2022/results/by_person#2018THOM29) |
 | 3.28 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
+| 3.30 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Sharon Forks Qualifier 2023](https://www.worldcubeassociation.org/competitions/SharonForksQualifier2023/results/by_person#2015CHER07) |
 | 3.36 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Guildford Winter 2023](https://www.worldcubeassociation.org/competitions/GuildfordWinter2023/results/by_person#2017CHAM09) |
 | 3.39 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
 | 3.46 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
@@ -121,7 +122,6 @@
 | 3.47 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Cubers Flood Watertown 2022](https://www.worldcubeassociation.org/competitions/CubersFloodWatertown2022/results/by_person#2015TREL02) |
 | 3.53 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Stevenage January 2023](https://www.worldcubeassociation.org/competitions/StevenageJanuary2023/results/by_person#2017CHAM09) |
 | 3.54 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
-| 3.62 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Texas Championship 2022](https://www.worldcubeassociation.org/competitions/TexasChampionship2022/results/by_person#2015TREL02) |
 
 ### Skewb
 

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 February 2023*
+*Updated on 16 February 2023*
 
 
 ### Rubik's Cube
@@ -218,6 +218,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 4.13 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4:17.98 | 4:22.11 | [Cambridge Side Events 2023](https://www.worldcubeassociation.org/competitions/CambridgeSideEventsWinter2023/results/by_person#2019ECKE02) |
 | 6.01 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2:21.62 | 2:27.63 | [MCC Epsilon 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubEpsilon2019/results/by_person#2016CHAP04) |
 | 7.02 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:53.15 | 7:00.17 | [Kidderminster - BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterBlindOff2022/results/by_person#2019HIRS01) |
 | 7.78 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 8:41.99 | 8:49.77 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019/results/by_person#2016FANG01) |
@@ -227,7 +228,6 @@
 | 12.51 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) | 9:26.26 | 9:38.77 | [German Nationals 2022](https://www.worldcubeassociation.org/competitions/GermanNationals2022/results/by_person#2018BLOC01) |
 | 12.76 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:33.16 | 6:45.92 | [Farnworth Spring A 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringA2022/results/by_person#2019HIRS01) |
 | 13.18 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 8:49.83 | 9:03.01 | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019/results/by_person#2012HALE01) |
-| 14.59 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 7:37.38 | 7:51.97 | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022/results/by_person#2018SHEN07) |
 
 ### 3x3x3 With Feet
 

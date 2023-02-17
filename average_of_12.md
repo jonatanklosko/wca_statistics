@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 February 2023*
+*Updated on 16 February 2023*
 
 
 ### Rubik's Cube
@@ -70,13 +70,13 @@
 | ---: | :--- | :--- |
 | 1:11.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:04.77, 1:12.14, 1:11.70, 59.74, 1:16.25, 1:14.38, 1:16.87, 1:13.48, 1:13.15, 1:17.27, 1:06.11, 1:06.49 |
 | 1:18.44 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:16.52, 1:13.88, 1:18.00, 1:20.20, 1:20.90, 1:18.56, 1:18.65, 1:19.43, 1:23.47, 1:20.40, 1:15.25, 1:16.54 |
-| 1:21.95 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:19.08, 1:27.25, 1:23.01, 1:23.76, 1:25.60, 1:24.94, 1:16.21, 1:20.17, 1:17.44, 1:23.14, 1:24.85, 1:17.51 |
+| 1:20.53 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:16.21, 1:20.17, 1:17.44, 1:23.14, 1:24.85, 1:17.51, 1:22.46, 1:23.45, 1:19.89, 1:18.33, 1:20.80, 1:22.11 |
 | 1:22.73 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:29.11, 1:28.61, 1:21.20, 1:17.60, 1:23.17, 1:17.39, 1:24.21, 1:30.03, 1:33.89, 1:20.06, 1:14.84, 1:15.98 |
 | 1:23.04 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:24.50, 1:20.30, 1:21.81, 1:23.43, 1:24.99, 1:12.47, 1:26.25, 1:29.16, 1:35.69, 1:20.46, 1:19.26, 1:20.24 |
 | 1:23.84 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:18.65, 1:20.91, 1:26.54, 1:29.68, 1:27.42, 1:25.39, 1:22.35, 1:22.21, 1:18.78, 1:24.70, 1:34.90, 1:20.45 |
 | 1:25.34 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:31.36, 1:33.65, 1:32.35, 1:21.66, 1:23.53, 1:38.37, 1:21.40, 1:26.58, 1:20.64, 1:19.08, 1:16.42, 1:23.23 |
 | 1:25.92 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:26.04, 1:46.08, 1:25.12, 1:29.22, 1:26.51, 1:19.23, 1:25.94, 1:23.57, 1:25.81, 1:20.35, 1:26.07, 1:30.66 |
-| 1:27.37 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:28.28, 1:28.95, 1:29.12, 1:22.61, 1:28.55, 1:35.03, 1:34.42, 1:27.46, 1:24.94, 1:25.30, 1:24.12, 1:20.31 |
+| 1:27.03 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:40.40, 1:33.14, 1:29.87, 1:29.14, 1:23.49, 1:26.48, 1:20.50, 1:23.77, 1:31.94, 1:30.38, 1:20.18, 1:21.68 |
 | 1:28.33 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:22.82, 1:29.28, 1:30.76, 1:27.04, 1:26.25, 1:37.71, 1:29.13, 1:28.45, 1:35.30, 1:36.07, 1:17.84, 1:18.27 |
 
 ### 7x7x7 Cube
@@ -85,11 +85,11 @@
 | ---: | :--- | :--- |
 | 1:49.21 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:43.97, 1:52.51, 2:01.98, 2:03.56, 1:45.41, 1:56.97, 1:35.68, 1:46.74, 1:43.95, 1:43.00, 1:50.77, 1:46.80 |
 | 1:57.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:57.89, 1:58.24, 1:51.13, 1:54.79, 2:05.50, 1:53.87, 2:09.13, 2:02.38, 1:56.76, 1:56.18, 1:52.66, 1:55.86 |
+| 2:02.63 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 2:02.22, 1:59.63, 2:15.08, 2:06.85, 2:03.00, 1:57.70, 2:01.62, 2:07.54, 2:01.48, 1:55.96, 2:02.96, 2:03.31 |
 | 2:02.95 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 2:02.76, 2:05.19, 2:11.50, 2:03.73, 2:08.78, 2:04.92, 1:41.29, 2:08.14, 1:59.78, 1:50.71, 2:06.21, 1:59.37 |
 | 2:03.02 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:57.31, 2:04.66, 2:08.73, 2:11.28, 2:01.36, 2:10.27, 2:06.49, 1:50.60, 2:00.14, 2:04.76, 1:57.90, 1:58.64 |
 | 2:03.30 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 2:20.51, 2:02.82, 2:06.37, 2:06.23, 1:53.66, 2:03.12, 1:57.37, 2:01.01, 2:10.43, 2:08.28, 2:01.02, 1:56.42 |
 | 2:04.18 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:08.47, 2:04.14, 2:02.17, 2:09.62, 2:12.13, 2:03.54, 2:01.49, 2:08.09, 1:59.29, 1:57.13, 2:03.33, 2:01.68 |
-| 2:04.43 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 2:05.73, 2:01.12, 2:01.65, 2:09.03, 2:07.17, 2:07.97, 2:02.22, 1:59.63, 2:15.08, 2:06.85, 2:03.00, 1:57.70 |
 | 2:04.83 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:04.14, 2:00.82, 2:16.10, 2:09.69, 1:56.60, 2:02.22, 2:01.53, 2:05.20, 2:09.70, 2:00.79, 2:09.45, 2:04.76 |
 | 2:05.56 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:59.68, 1:58.92, 2:14.95, 2:14.37, 2:02.42, 2:08.12, 2:08.38, 2:20.94, 1:57.43, 2:00.80, 2:07.75, 2:00.28 |
 | 2:07.22 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 2:11.46, 2:10.69, 2:06.26, 2:08.78, 2:11.88, 2:07.20, 2:02.37, 2:05.68, 2:04.05, 2:04.60, 2:04.78, 2:08.70 |

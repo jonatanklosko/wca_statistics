@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 February 2023*
+*Updated on 16 February 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -654,6 +654,7 @@
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Pikkujoulut 2018](https://www.worldcubeassociation.org/competitions/Pikkujoulut2018/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Swedish Championship 2015](https://www.worldcubeassociation.org/competitions/SwedishChampionship2015/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Danish Open 2016](https://www.worldcubeassociation.org/competitions/DanishOpen2016/results/podiums) |
+| 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Herrljunga Open 2023](https://www.worldcubeassociation.org/competitions/HerrljungaOpen2023/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norwegian Championship 2017](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2017/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [SSL Final Borås 2017](https://www.worldcubeassociation.org/competitions/SSLFinalBoras2017/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Valborg Cubing 2019](https://www.worldcubeassociation.org/competitions/ValborgCubing2019/results/podiums) |

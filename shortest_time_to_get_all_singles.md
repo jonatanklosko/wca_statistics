@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 February 2023*
+*Updated on 16 February 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -123,8 +123,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -240,6 +240,7 @@
 | 1771 | [Serhii Mormul (Сергій Мормуль)](https://www.worldcubeassociation.org/persons/2012MORM01) |
 | 1778 | [Jolo Endona](https://www.worldcubeassociation.org/persons/2014ENDO01) |
 | 1785 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
+| 1785 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |
 | 1804 | [Jiachi Han (韩佳池)](https://www.worldcubeassociation.org/persons/2014HANJ02) |
 | 1806 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 1806 | [Thor Muto Asmund](https://www.worldcubeassociation.org/persons/2017ASMU01) |
@@ -324,6 +325,7 @@
 | 2633 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 2694 | [Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02) |
 | 2695 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
+| 2695 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) |
 | 2702 | [Ivo Bakker](https://www.worldcubeassociation.org/persons/2009BAKK01) |
 | 2743 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
 | 2759 | [Taylor Cookmeyer](https://www.worldcubeassociation.org/persons/2010COOK01) |
@@ -341,6 +343,7 @@
 | 2982 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 3023 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 3031 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
+| 3046 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
 | 3086 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 3109 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 3116 | [Ahsanul Insan Hamid](https://www.worldcubeassociation.org/persons/2011HAMI01) |

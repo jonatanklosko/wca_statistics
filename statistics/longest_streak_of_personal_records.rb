@@ -43,7 +43,7 @@ class LongestStreakOfPersonalRecords < Statistic
           end
           if competition_with_pbs
             current_pbs_streak[:count] += 1
-            longest_pbs_streak = [longest_pbs_streak, current_pbs_streak].max_by { |pbs_streak| pbs_streak[:count] }
+            longest_pbs_streak = current_pbs_streak
           else
             current_pbs_streak[:last_competition] = competition_link
             current_pbs_streak = nil

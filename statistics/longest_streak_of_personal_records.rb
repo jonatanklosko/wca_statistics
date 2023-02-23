@@ -51,7 +51,7 @@ class LongestStreakOfPersonalRecords < Statistic
         end
         [longest_pbs_streak[:count], person_link, longest_pbs_streak[:first_competition], longest_pbs_streak[:last_competition]]
       end
-      .sort_by! { |current_pbs_streak, _, _, _, _| -current_pbs_streak }
+      .sort_by! { |longest_pbs_streak, _, _, _, _| -longest_pbs_streak }
       .first(1000)
   end
 end

@@ -50,6 +50,6 @@ class LongestStreakOfPersonalRecords < Statistic
         [current_pbs_streak[:count], person_link, current_pbs_streak[:first_competition]]
       end
       .sort_by! { |current_pbs_streak, _, _, _| -current_pbs_streak }
-      .first(1000)
+      .first(100)
   end
 end

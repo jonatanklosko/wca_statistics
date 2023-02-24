@@ -47,6 +47,7 @@ class LongestStreakOfPersonalRecords < Statistic
           else
             current_pbs_streak[:last_competition] = competition_link
             current_pbs_streak = nil
+            longest_pbs_streak = current_pbs_streak
           end
         end
         [longest_pbs_streak[:count], person_link, longest_pbs_streak[:first_competition], longest_pbs_streak[:last_competition]]

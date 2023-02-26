@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 February 2023*
+*Updated on 25 February 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -298,6 +298,7 @@
 | 12 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Villanueva Open 2017](https://www.worldcubeassociation.org/competitions/VillanuevadelaCanadaOpen2017/results/podiums) |
 | 12 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Autumn Open 2017](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2017/results/podiums) |
 | 12 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Open UTF ao Cubo 2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019/results/podiums) |
+| 12 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kalmar Cubing 2023](https://www.worldcubeassociation.org/competitions/KalmarCubing2023/results/podiums) |
 | 12 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesia Open 2022](https://www.worldcubeassociation.org/competitions/IndonesiaOpen2022/results/podiums) |
 | 12 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Medan April Fools Open 2018](https://www.worldcubeassociation.org/competitions/MedanAFO2018/results/podiums) |
 | 12 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Medan All Events 2018](https://www.worldcubeassociation.org/competitions/MedanAllEvents2018/results/podiums) |
@@ -889,6 +890,7 @@
 | 10 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Iruña Open 2019](https://www.worldcubeassociation.org/competitions/IrunaOpen2019/results/podiums) |
 | 10 | [Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02) | [Bengaluru Championship 2018](https://www.worldcubeassociation.org/competitions/BengaluruChampionship2018/results/podiums) |
 | 10 | [Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02) | [SNU Open 2018](https://www.worldcubeassociation.org/competitions/SNUOpen2018/results/podiums) |
+| 10 | [Toni Beljo](https://www.worldcubeassociation.org/persons/2015BELJ01) | [Kalmar Cubing 2023](https://www.worldcubeassociation.org/competitions/KalmarCubing2023/results/podiums) |
 | 10 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Finally Tunis Open 2018](https://www.worldcubeassociation.org/competitions/FinallyTunisOpen2018/results/podiums) |
 | 10 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Khomsa Summer Open 2019](https://www.worldcubeassociation.org/competitions/TunisiaKhomsaSummerOpen2019/results/podiums) |
 | 10 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Spring Open 2017](https://www.worldcubeassociation.org/competitions/TunisiaSpringOpen2017/results/podiums) |

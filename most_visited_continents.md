@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 16 February 2023*
+*Updated on 25 February 2023*
 
 | Continents | Person |
 | ---: | :--- |

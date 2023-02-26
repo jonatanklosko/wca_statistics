@@ -27,7 +27,7 @@ class LongestStreakOfPersonalRecords < Statistic
       .group_by { |result| result["person_link"] }
       .map do |person_link, person_results|
         pbs_by_event = Hash.new { |hash, key| hash[key] = Hash.new(Float::INFINITY) }
-        current_pbs_streak = { count: 0 }
+        current_pbs_streak = nil
         person_results.group_by { |result| result["competition_link"] }.each do |competition_link, person_competition_results|
           current_pbs_streak ||= { count: 0, first_competition: competition_link }
           competition_with_pbs = false

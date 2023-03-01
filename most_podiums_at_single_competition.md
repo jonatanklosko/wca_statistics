@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 February 2023*
+*Updated on 28 February 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -562,6 +562,7 @@
 | 11 | [Saveliy Surikov](https://www.worldcubeassociation.org/persons/2017SURI01) | [Kalmykia Open 2018](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2018/results/podiums) |
 | 11 | [Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01) | [Indonesia Masters 2023](https://www.worldcubeassociation.org/competitions/IndonesiaMasters2023/results/podiums) |
 | 11 | [Kyle McDonald Trejos](https://www.worldcubeassociation.org/persons/2017TREJ03) | [Cubing Chiriquí 2019](https://www.worldcubeassociation.org/competitions/CubingChiriqui2019/results/podiums) |
+| 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Goodbye Winter Ankara 2023](https://www.worldcubeassociation.org/competitions/GoodbyeWinterAnkara2023/results/podiums) |
 | 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Qubes Don' Lie Ankara 2022](https://www.worldcubeassociation.org/competitions/QubesDonLieAnkara2022/results/podiums) |
 | 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Qubes Don' Lie Bursa 2022](https://www.worldcubeassociation.org/competitions/QubesDonLieBursa2022/results/podiums) |
 | 11 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |

@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 25 February 2023*
+*Updated on 28 February 2023*
 
 
 ### Rubik's Cube
@@ -235,6 +235,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | **2:34:36.00** |  | [Euro 2004](https://www.worldcubeassociation.org/competitions/Euro2004/results/podiums#e555bf) | 1 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **1:15:42.00** |  | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007/results/podiums#e555bf) | 1 |
+| [Damian Wilding](https://www.worldcubeassociation.org/persons/2014WILD03) | **1:05:32.00** | DNF | [PBQuIdaho 2023](https://www.worldcubeassociation.org/competitions/PBQuIdahoWinter2023/results/podiums#e555bf) | 1 |
 | [Habibi](https://www.worldcubeassociation.org/persons/2011HABI01) | **1:04:18.00** | DNF | [Fun Fasting Day 2011](https://www.worldcubeassociation.org/competitions/FunFastingDay2011/results/podiums#e555bf) | 3 |
 | [Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01) | **1:03:13.00** | DNF | [Swisscubing Mental 2018](https://www.worldcubeassociation.org/competitions/SwisscubingMentalBreakdown2018/results/podiums#e555bf) | 3 |
 | [Diego Millán Otón](https://www.worldcubeassociation.org/persons/2012OTAN01) | **1:03:10.00** | DNF | [Murcia Open 2013](https://www.worldcubeassociation.org/competitions/MurciaOpen2013/results/podiums#e555bf) | 1 |
@@ -242,7 +243,6 @@
 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | **58:47.00** |  | [Osaka 2011](https://www.worldcubeassociation.org/competitions/Osaka2011/results/podiums#e555bf) | 2 |
 | [Riadi Arsandi](https://www.worldcubeassociation.org/persons/2009ARSA01) | **58:30.00** | DNF | [Fun Fasting Day 2011](https://www.worldcubeassociation.org/competitions/FunFastingDay2011/results/podiums#e555bf) | 2 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **58:03.00** | DNF | [Kvissel Fall 2017](https://www.worldcubeassociation.org/competitions/KvisselFall2017/results/podiums#e555bf) | 1 |
-| [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **56:58.00** |  | [Dutch Masters 2008](https://www.worldcubeassociation.org/competitions/DutchMasters2008/results/podiums#e555bf) | 1 |
 
 ### 3x3x3 Multi-Blind
 

@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 25 February 2023*
+*Updated on 28 February 2023*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -21,7 +21,7 @@
 | 6 | 7x7x7 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [COpen2 2018](https://www.worldcubeassociation.org/competitions/Cerritos2018) |  | 4.88 |
 | 6 | 3x3x3 Blindfolded | Single | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) | [Beijing Metropolis Open 2009](https://www.worldcubeassociation.org/competitions/BeijingMetropolisOpen2009) | [Tulancingo Open 2010](https://www.worldcubeassociation.org/competitions/TulancingoOpen2010) | 1.61 |
 | 6 | 3x3x3 Blindfolded | Single | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Florida Returns 2021](https://www.worldcubeassociation.org/competitions/FloridaReturns2021) |  | 1.60 |
-| 6 | Megaminx | Single | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Rubik Pro 2017](https://www.worldcubeassociation.org/competitions/RubikPro2017) |  | 5.77 |
+| 6 | Megaminx | Single | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Rubik Pro 2017](https://www.worldcubeassociation.org/competitions/RubikPro2017) |  | 5.78 |
 | 6 | Square-1 | Average | [Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01) | [Guangzhou Big Cubes 2010](https://www.worldcubeassociation.org/competitions/GuangzhouBigCubes2010) | [Slow N Steady Winter 2016](https://www.worldcubeassociation.org/competitions/SlowNSteadyWinter2016) | 5.56 |
 | 6 | 5x5x5 Blindfolded | Single | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | [Chattahoochee 2006](https://www.worldcubeassociation.org/competitions/Chattahoochee2006) | [Cat and Mouse 2010](https://www.worldcubeassociation.org/competitions/CatAndMouse2010) | 4.35 |
 | 5 | 4x4x4 Cube | Average | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Aachen Summer 2012](https://www.worldcubeassociation.org/competitions/AachenSummer2012) | [Adelaide Summer 2017](https://www.worldcubeassociation.org/competitions/AdelaideSummer2017) | 4.58 |

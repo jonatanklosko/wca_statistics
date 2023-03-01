@@ -1,30 +1,30 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 February 2023*
+*Updated on 28 February 2023*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| Hungary | **1306** | 1083 | 928 | 3317 |
-| Germany | **839** | 827 | 829 | 2495 |
-| United States | **814** | 681 | 607 | 2102 |
+| Hungary | **1308** | 1085 | 929 | 3322 |
+| Germany | **845** | 841 | 838 | 2524 |
+| United States | **815** | 682 | 607 | 2104 |
 | Netherlands | **787** | 637 | 532 | 1956 |
-| France | **763** | 660 | 549 | 1972 |
-| Russia | **634** | 417 | 342 | 1393 |
-| China | **433** | 392 | 348 | 1173 |
+| France | **769** | 664 | 557 | 1990 |
+| Russia | **647** | 418 | 342 | 1407 |
+| China | **434** | 392 | 348 | 1174 |
 | Poland | **432** | 312 | 239 | 983 |
 | Malaysia | **359** | 350 | 304 | 1013 |
-| United Kingdom | **345** | 389 | 386 | 1120 |
+| United Kingdom | **351** | 391 | 387 | 1129 |
 | Canada | **335** | 338 | 357 | 1030 |
 | Denmark | **320** | 267 | 194 | 781 |
 | Sweden | **296** | 336 | 355 | 987 |
 | Australia | **277** | 126 | 86 | 489 |
 | Republic of Korea | **254** | 236 | 195 | 685 |
 | Finland | **232** | 164 | 141 | 537 |
-| India | **227** | 186 | 173 | 586 |
-| Switzerland | **212** | 288 | 244 | 744 |
-| Hong Kong | **203** | 237 | 183 | 623 |
-| Argentina | **203** | 154 | 127 | 484 |
+| India | **230** | 187 | 174 | 591 |
+| Switzerland | **215** | 290 | 250 | 755 |
+| Hong Kong | **203** | 240 | 183 | 626 |
+| Argentina | **203** | 154 | 128 | 485 |
 | Taiwan | **193** | 167 | 160 | 520 |
 | Japan | **193** | 118 | 126 | 437 |
 | Italy | **192** | 178 | 171 | 541 |
@@ -36,14 +36,14 @@
 | Colombia | **124** | 90 | 83 | 297 |
 | Belgium | **123** | 187 | 165 | 475 |
 | Singapore | **123** | 123 | 138 | 384 |
-| Slovenia | **122** | 156 | 150 | 428 |
-| Greece | **118** | 139 | 105 | 362 |
+| Slovenia | **122** | 158 | 150 | 430 |
+| Greece | **118** | 141 | 105 | 364 |
 | Austria | **115** | 164 | 180 | 459 |
 | Ireland | **112** | 68 | 53 | 233 |
-| Latvia | **108** | 162 | 156 | 426 |
+| Latvia | **108** | 163 | 156 | 427 |
 | Belarus | **107** | 65 | 76 | 248 |
 | Czech Republic | **92** | 104 | 109 | 305 |
-| Kazakhstan | **86** | 77 | 73 | 236 |
+| Kazakhstan | **89** | 80 | 77 | 246 |
 | Thailand | **76** | 83 | 40 | 199 |
 | Lithuania | **69** | 72 | 81 | 222 |
 | Philippines | **59** | 72 | 66 | 197 |
@@ -56,23 +56,23 @@
 | Kosovo | **32** | 24 | 22 | 78 |
 | Estonia | **30** | 32 | 27 | 89 |
 | Venezuela | **29** | 37 | 34 | 100 |
+| Israel | **28** | 22 | 29 | 79 |
 | Chile | **28** | 20 | 17 | 65 |
 | Uzbekistan | **26** | 22 | 25 | 73 |
-| Mongolia | **24** | 23 | 18 | 65 |
+| Mongolia | **24** | 24 | 18 | 66 |
 | Belize | **24** | 6 | 1 | 31 |
 | New Zealand | **22** | 59 | 46 | 127 |
 | Costa Rica | **22** | 25 | 25 | 72 |
-| Israel | **22** | 20 | 27 | 69 |
 | El Salvador | **21** | 24 | 18 | 63 |
 | Portugal | **21** | 19 | 18 | 58 |
 | Pakistan | **17** | 15 | 12 | 44 |
 | South Africa | **16** | 18 | 39 | 73 |
 | North Macedonia | **15** | 15 | 22 | 52 |
-| Kyrgyzstan | **15** | 8 | 15 | 38 |
+| Kyrgyzstan | **15** | 10 | 18 | 43 |
 | Nicaragua | **14** | 5 | 10 | 29 |
 | Jordan | **14** | 4 | 11 | 29 |
-| Serbia | **13** | 16 | 24 | 53 |
-| Bulgaria | **10** | 31 | 24 | 65 |
+| Serbia | **13** | 18 | 24 | 55 |
+| Bulgaria | **10** | 32 | 25 | 67 |
 | Mexico | **10** | 16 | 19 | 45 |
 | Tunisia | **10** | 9 | 7 | 26 |
 | Turkey | **9** | 11 | 12 | 32 |
@@ -81,8 +81,8 @@
 | Iran | **8** | 7 | 7 | 22 |
 | Moldova | **7** | 8 | 3 | 18 |
 | Uruguay | **7** | 4 | 16 | 27 |
+| Bosnia and Herzegovina | **6** | 9 | 6 | 21 |
 | Kuwait | **6** | 8 | 13 | 27 |
-| Bosnia and Herzegovina | **6** | 8 | 6 | 20 |
 | Georgia | **6** | 5 | 4 | 15 |
 | Honduras | **6** | 4 | 6 | 16 |
 | Cyprus | **5** | 12 | 8 | 25 |
@@ -93,8 +93,8 @@
 | Ecuador | **4** | 4 | 9 | 17 |
 | Egypt | **3** | 19 | 17 | 39 |
 | Bangladesh | **3** | 10 | 4 | 17 |
+| Morocco | **3** | 2 | 5 | 10 |
 | Bahrain | **2** | 7 | 9 | 18 |
-| Morocco | **2** | 2 | 5 | 9 |
 | Paraguay | **2** | 1 | 4 | 7 |
 | Lebanon | **1** | 12 | 10 | 23 |
 | Iceland | **1** | 7 | 9 | 17 |

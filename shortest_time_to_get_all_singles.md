@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 February 2023*
+*Updated on  3 March 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -213,6 +213,7 @@
 | 1505 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |
 | 1512 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) |
 | 1513 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
+| 1533 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 1547 | [Chung Tze Yang (鍾志扬)](https://www.worldcubeassociation.org/persons/2009YANG31) |
 | 1547 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 1548 | [William Tao](https://www.worldcubeassociation.org/persons/2014TAOW01) |
@@ -239,6 +240,7 @@
 | 1764 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) |
 | 1771 | [Serhii Mormul (Сергій Мормуль)](https://www.worldcubeassociation.org/persons/2012MORM01) |
 | 1778 | [Jolo Endona](https://www.worldcubeassociation.org/persons/2014ENDO01) |
+| 1778 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 1785 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 1785 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |
 | 1804 | [Jiachi Han (韩佳池)](https://www.worldcubeassociation.org/persons/2014HANJ02) |

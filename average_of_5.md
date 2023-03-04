@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 February 2023*
+*Updated on  3 March 2023*
 
 
 ### Rubik's Cube
@@ -69,8 +69,8 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1:09.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:16.50, 1:04.77, 1:12.14, 1:11.70, 59.74 |
+| 1:14.48 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:12.50, 1:15.52, 1:13.54, 1:21.29, 1:14.38 |
 | 1:17.32 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:33.89, 1:20.06, 1:14.84, 1:15.98, 1:15.94 |
-| 1:18.24 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:31.29, 1:16.52, 1:13.88, 1:18.00, 1:20.20 |
 | 1:19.22 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:20.91, 1:11.89, 1:17.90, 1:28.37, 1:18.87 |
 | 1:20.16 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:21.01, 1:17.89, 1:19.08, 1:26.83, 1:20.39 |
 | 1:20.37 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:21.40, 1:26.58, 1:20.64, 1:19.08, 1:16.42 |

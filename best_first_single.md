@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 28 February 2023*
+*Updated on  3 March 2023*
 
 
 ### Rubik's Cube
@@ -236,7 +236,7 @@
 | 6:37.03 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
 | 6:40.77 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
 | 9:18.50 | [Thiago Han](https://www.worldcubeassociation.org/persons/2022HANT01) |
-| 9:22.53 | [Cheng Hiu Yeung (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) |
+| 9:22.53 | [Chung Yeung Ho (鍾養浩)](https://www.worldcubeassociation.org/persons/2019YEUN01) |
 | 10:03.00 | [Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02) |
 | 11:19.00 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) |
 | 12:50.00 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) |

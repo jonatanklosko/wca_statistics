@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 February 2023*
+*Updated on  3 March 2023*
 
 
 ### Rubik's Cube
@@ -69,7 +69,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 1:11.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:04.77, 1:12.14, 1:11.70, 59.74, 1:16.25, 1:14.38, 1:16.87, 1:13.48, 1:13.15, 1:17.27, 1:06.11, 1:06.49 |
-| 1:18.44 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:16.52, 1:13.88, 1:18.00, 1:20.20, 1:20.90, 1:18.56, 1:18.65, 1:19.43, 1:23.47, 1:20.40, 1:15.25, 1:16.54 |
+| 1:17.35 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:18.56, 1:18.65, 1:19.43, 1:23.47, 1:20.40, 1:15.25, 1:16.54, 1:12.50, 1:15.52, 1:13.54, 1:21.29, 1:14.38 |
 | 1:20.53 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:16.21, 1:20.17, 1:17.44, 1:23.14, 1:24.85, 1:17.51, 1:22.46, 1:23.45, 1:19.89, 1:18.33, 1:20.80, 1:22.11 |
 | 1:20.90 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:21.20, 1:17.60, 1:23.17, 1:17.39, 1:24.21, 1:30.03, 1:33.89, 1:20.06, 1:14.84, 1:15.98, 1:15.94, 1:23.50 |
 | 1:23.04 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:24.50, 1:20.30, 1:21.81, 1:23.43, 1:24.99, 1:12.47, 1:26.25, 1:29.16, 1:35.69, 1:20.46, 1:19.26, 1:20.24 |
@@ -175,7 +175,7 @@
 | ---: | :--- | :--- |
 | 3.97 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3.36, 4.80, 3.86, 4.30, 3.30, 3.99, 2.99, 4.32, 4.36, DNF, 3.76, 3.67 |
 | 3.97 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | 3.83, 3.53, 4.37, 3.48, 4.45, 4.00, 9.14, 3.26, 4.11, 4.73, 3.47, 3.80 |
-| 4.17 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.46, 3.83, 3.16, 4.19, 5.37, 5.10, 4.72, 4.52, 3.10, DNF, 3.98, 3.46 |
+| 4.15 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.78, 5.27, 4.19, 5.78, 5.80, 3.75, 3.57, 3.35, 3.51, 4.28, 3.68, 3.76 |
 | 4.40 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 4.02, 4.35, 3.52, 4.28, 4.57, 3.54, 3.76, DNF, 5.96, 4.80, 5.12, 3.67 |
 | 4.43 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 4.01, 5.96, 3.84, 3.28, 5.13, 3.95, 3.28, 4.61, 4.32, DNF, 4.56, 4.71 |
 | 4.46 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.33, 4.17, 4.80, 4.20, 4.63, 5.32, 4.90, 4.13, 4.06, 4.29, 4.51, 4.67 |

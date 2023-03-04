@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 February 2023*
+*Updated on  3 March 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -22,6 +22,7 @@
 | 1470 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 1512 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) |
 | 1526 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 1533 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 1589 | [Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48) |
 | 1624 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) |
 | 1628 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) |

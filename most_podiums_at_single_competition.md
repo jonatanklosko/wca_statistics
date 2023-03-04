@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 February 2023*
+*Updated on  3 March 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -258,7 +258,7 @@
 | 12 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |
 | 12 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015/results/podiums) |
 | 12 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017/results/podiums) |
-| 12 | [Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | [Medan Lunar New Year 2020](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2020/results/podiums) |
+| 12 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | [Medan Lunar New Year 2020](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2020/results/podiums) |
 | 12 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Australian Nationals 2015](https://www.worldcubeassociation.org/competitions/AustralianNationals2015/results/podiums) |
 | 12 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Australian Nationals 2017](https://www.worldcubeassociation.org/competitions/AustralianNationals2017/results/podiums) |
 | 12 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Canberra Autumn 2015](https://www.worldcubeassociation.org/competitions/CanberraAutumn2015/results/podiums) |

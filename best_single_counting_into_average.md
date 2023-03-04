@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 28 February 2023*
+*Updated on  3 March 2023*
 
 
 ### Rubik's Cube
@@ -60,8 +60,8 @@
 | 37.51 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2012PARK03) |
 | 37.58 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Anaheim A 2022](https://www.worldcubeassociation.org/competitions/AnaheimA2022/results/by_person#2012PARK03) |
 | 37.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2019](https://www.worldcubeassociation.org/competitions/WesternChampionship2019/results/by_person#2012PARK03) |
+| 37.93 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Flatåsen Open 2023](https://www.worldcubeassociation.org/competitions/FlatasenOpen2023/results/by_person#2016KOLA02) |
 | 38.00 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Anaheim A 2022](https://www.worldcubeassociation.org/competitions/AnaheimA2022/results/by_person#2012PARK03) |
-| 38.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 
@@ -120,8 +120,8 @@
 | 3.46 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
 | 3.46 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Stevenage Autumn B 2022](https://www.worldcubeassociation.org/competitions/StevenageAutumnB2022/results/by_person#2017CHAM09) |
 | 3.47 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Cubers Flood Watertown 2022](https://www.worldcubeassociation.org/competitions/CubersFloodWatertown2022/results/by_person#2015TREL02) |
+| 3.51 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Lincolnshire Winter 2023](https://www.worldcubeassociation.org/competitions/LincolnshireWinter2023/results/by_person#2017CHAM09) |
 | 3.53 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Stevenage January 2023](https://www.worldcubeassociation.org/competitions/StevenageJanuary2023/results/by_person#2017CHAM09) |
-| 3.54 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangzhou Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/GuangzhouGoodAfternoon2020/results/by_person#2017LOUY01) |
 
 ### Skewb
 

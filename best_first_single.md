@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  3 March 2023*
+*Updated on  9 March 2023*
 
 
 ### Rubik's Cube
@@ -9,6 +9,7 @@
 | First single | Person |
 | ---: | :--- |
 | 6.70 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
+| 6.85 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
 | 7.29 | [Jesse Gonzales](https://www.worldcubeassociation.org/persons/2022GONZ33) |
 | 7.30 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 7.34 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) |
@@ -17,7 +18,6 @@
 | 7.54 | [Cao Nguyễn Thái Dương](https://www.worldcubeassociation.org/persons/2022DUON04) |
 | 7.57 | [Taeyeong Han](https://www.worldcubeassociation.org/persons/2022HANT02) |
 | 7.59 | [Cao Viết Tùng](https://www.worldcubeassociation.org/persons/2022TUNG01) |
-| 7.68 | [Ruihao Qian (钱睿昊)](https://www.worldcubeassociation.org/persons/2019QIAN10) |
 
 ### 2x2x2 Cube
 
@@ -30,9 +30,9 @@
 | 1.45 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) |
 | 1.56 | [Berk Delen](https://www.worldcubeassociation.org/persons/2022DELE01) |
 | 1.58 | [Metin Durucu](https://www.worldcubeassociation.org/persons/2018DURU03) |
+| 1.58 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
 | 1.61 | [Ilan Doubrovkine-Paskar](https://www.worldcubeassociation.org/persons/2020DOUB01) |
 | 1.62 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
-| 1.67 | [Boris McCoy](https://www.worldcubeassociation.org/persons/2021MCCO01) |
 
 ### 4x4x4 Cube
 
@@ -70,6 +70,7 @@
 | ---: | :--- |
 | 1:35.17 | [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) |
 | 1:41.02 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) |
+| 1:44.97 | [Mikul Chanakya](https://www.worldcubeassociation.org/persons/2022CHAN83) |
 | 1:45.53 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
 | 1:45.78 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) |
 | 1:47.84 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
@@ -77,7 +78,6 @@
 | 1:51.55 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
 | 1:52.18 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
 | 1:52.53 | [Balder Henke](https://www.worldcubeassociation.org/persons/2019HENK01) |
-| 1:52.56 | [Nazib Nawar](https://www.worldcubeassociation.org/persons/2019NAWA01) |
 
 ### 7x7x7 Cube
 
@@ -158,16 +158,16 @@
 
 | First single | Person |
 | ---: | :--- |
+| 1.66 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) |
 | 1.99 | [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) |
 | 2.18 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 2.19 | [Ryszard Kiszka](https://www.worldcubeassociation.org/persons/2021KISZ01) |
 | 2.20 | [Heath Flick](https://www.worldcubeassociation.org/persons/2020FLIC01) |
 | 2.34 | [Jhian Francis Padron](https://www.worldcubeassociation.org/persons/2019PADR02) |
+| 2.34 | [Jun-Yu Liao (廖俊語)](https://www.worldcubeassociation.org/persons/2020LIAO02) |
 | 2.40 | [Andrew Chai](https://www.worldcubeassociation.org/persons/2021CHAI01) |
 | 2.77 | [Yuanming Liu (刘元铭)](https://www.worldcubeassociation.org/persons/2017LIUY16) |
 | 2.87 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) |
-| 2.89 | [Jeyson Paul Espinoza Diaz](https://www.worldcubeassociation.org/persons/2021DIAZ01) |
-| 2.93 | [Kyle McDonald Trejos](https://www.worldcubeassociation.org/persons/2017TREJ03) |
 
 ### Rubik's Clock
 
@@ -180,9 +180,9 @@
 | 5.58 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 5.81 | [Jakub Dolata](https://www.worldcubeassociation.org/persons/2020DOLA01) |
 | 5.95 | [Supakrit Sanghiran (ศุภกฤต สังข์หิรัญ)](https://www.worldcubeassociation.org/persons/2022SANG08) |
+| 5.96 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) |
 | 6.01 | [Daniel Wang](https://www.worldcubeassociation.org/persons/2022WANG06) |
 | 6.04 | [Ed Scholey](https://www.worldcubeassociation.org/persons/2020SCHO03) |
-| 6.15 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) |
 
 ### Skewb
 
@@ -236,7 +236,7 @@
 | 6:37.03 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
 | 6:40.77 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
 | 9:18.50 | [Thiago Han](https://www.worldcubeassociation.org/persons/2022HANT01) |
-| 9:22.53 | [Chung Yeung Ho (鍾養浩)](https://www.worldcubeassociation.org/persons/2019YEUN01) |
+| 9:22.53 | [Alvin Cheng Hiu Yeung (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) |
 | 10:03.00 | [Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02) |
 | 11:19.00 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) |
 | 12:50.00 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) |

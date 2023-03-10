@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  3 March 2023*
+*Updated on  9 March 2023*
 
 
 ### Rubik's Cube
@@ -9,6 +9,7 @@
 | ---: | :--- | :--- |
 | 4.24 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/by_person#2012PARK03) |
 | 4.45 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2016KOLA02) |
+| 4.49 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023/results/by_person#2019WANY36) |
 | 4.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022/results/by_person#2016KOLA02) |
 | 4.62 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Marshall Cubing September 2022](https://www.worldcubeassociation.org/competitions/MarshallCubingSeptember2022/results/by_person#2012PARK03) |
 | 4.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022/results/by_person#2016KOLA02) |
@@ -16,7 +17,6 @@
 | 4.66 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Pittsburgh Fall 2022](https://www.worldcubeassociation.org/competitions/PittsburghFall2022/results/by_person#2017GARR05) |
 | 4.67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [BASC 40 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC40SanRamon2022/results/by_person#2012PARK03) |
 | 4.68 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022/results/by_person#2016KOLA02) |
-| 4.68 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Brent Cross Winter 2023](https://www.worldcubeassociation.org/competitions/BrentCrossWinter2023/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 
@@ -75,8 +75,8 @@
 | 8.02 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022/results/by_person#2012PARK03) |
 | 8.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 | 8.18 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Wakefield Spring 2022](https://www.worldcubeassociation.org/competitions/WakefieldSpring2022/results/by_person#2012PONC02) |
+| 8.19 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Marshall Cubing Spring 2023](https://www.worldcubeassociation.org/competitions/MarshallCubingSpring2023/results/by_person#2012PARK03) |
 | 8.30 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Horsham Winter 2018](https://www.worldcubeassociation.org/competitions/HorshamWinter2018/results/by_person#2009ZEMD01) |
-| 8.34 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 
 ### Megaminx
 

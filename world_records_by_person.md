@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  3 March 2023*
+*Updated on  9 March 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -83,6 +83,7 @@
 | 4 | [Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01) |
 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
 | 3 | [Alexander Yu](https://www.worldcubeassociation.org/persons/2007YUAL01) |
+| 3 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 3 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 3 | [Claes Hedin](https://www.worldcubeassociation.org/persons/2009HEDI01) |
 | 3 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
@@ -113,7 +114,6 @@
 | 2 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
 | 2 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
-| 2 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 2 | [Chang Jee-Hoon](https://www.worldcubeassociation.org/persons/2007JEEH01) |
 | 2 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 2 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) |

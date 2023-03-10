@@ -1,13 +1,14 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  3 March 2023*
+*Updated on  9 March 2023*
 
 
 ### Rubik's Cube
 
 | First average | Person |
 | ---: | :--- |
+| 6.29 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
 | 7.09 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) |
 | 7.75 | [Kaicheng Jin (金开诚)](https://www.worldcubeassociation.org/persons/2023JINK02) |
 | 7.86 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
@@ -17,7 +18,6 @@
 | 8.45 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) |
 | 8.48 | [Caleb Wen](https://www.worldcubeassociation.org/persons/2022WENC03) |
 | 8.53 | [Dongyoung Lee](https://www.worldcubeassociation.org/persons/2022LEED07) |
-| 8.54 | [Zhenyang Liu (刘振洋)](https://www.worldcubeassociation.org/persons/2018LIUZ14) |
 
 ### 2x2x2 Cube
 
@@ -74,10 +74,10 @@
 | 1:44.96 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
 | 1:46.52 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
 | 1:51.30 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
+| 1:51.42 | [Mikul Chanakya](https://www.worldcubeassociation.org/persons/2022CHAN83) |
 | 1:52.71 | [Balder Henke](https://www.worldcubeassociation.org/persons/2019HENK01) |
 | 1:54.20 | [Silas Breault](https://www.worldcubeassociation.org/persons/2019BREA02) |
 | 1:54.25 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
-| 1:55.80 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 
 ### 7x7x7 Cube
 
@@ -159,15 +159,15 @@
 | First average | Person |
 | ---: | :--- |
 | 2.16 | [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) |
+| 2.43 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) |
 | 2.99 | [Heath Flick](https://www.worldcubeassociation.org/persons/2020FLIC01) |
 | 3.04 | [Zhiyuan Peter Li (李致远)](https://www.worldcubeassociation.org/persons/2022LIPE01) |
 | 3.06 | [Yixuan Li (李逸轩)](https://www.worldcubeassociation.org/persons/2018LIYI14) |
+| 3.17 | [Jun-Yu Liao (廖俊語)](https://www.worldcubeassociation.org/persons/2020LIAO02) |
 | 3.23 | [Giorgi Minasiani (გიორგი მინასიანი)](https://www.worldcubeassociation.org/persons/2022MINA01) |
 | 3.25 | [Ilario Joaquín Chiacchiarini](https://www.worldcubeassociation.org/persons/2022CHIA06) |
 | 3.26 | [Hajime Miyazaki (宮崎朔)](https://www.worldcubeassociation.org/persons/2022MIYA01) |
 | 3.33 | [Bo-Yan Wu (吳柏彥)](https://www.worldcubeassociation.org/persons/2019WUBO01) |
-| 3.37 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) |
-| 3.41 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
 
 ### Rubik's Clock
 
@@ -197,7 +197,7 @@
 | 4.24 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) |
 | 4.27 | [Paul Park](https://www.worldcubeassociation.org/persons/2018PARK11) |
 | 4.31 | [Jingyang Zhang (张敬阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ22) |
-| 4.39 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) |
+| 4.36 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) |
 
 ### Square-1
 

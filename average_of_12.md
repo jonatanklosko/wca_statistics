@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  3 March 2023*
+*Updated on  9 March 2023*
 
 
 ### Rubik's Cube
@@ -11,13 +11,13 @@
 | 5.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6.15, 4.45, 4.22, 4.69, 5.44, 5.08, 5.04, 5.93, 4.53, 5.73, 4.66, 5.60 |
 | 5.21 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.81, 5.34, 4.99, 5.25, 5.58, 5.02, 4.71, 5.76, 4.90, 5.78, 5.73, 4.74 |
 | 5.22 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.62, 4.78, 5.68, 5.19, 4.50, 5.11, 6.09, 5.55, 5.14, 5.66, 4.82, 5.68 |
-| 5.26 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 5.20, 5.35, 6.67, 3.95, 5.78, 4.78, 4.70, 5.53, 5.19, 4.75, 5.86, 5.55 |
+| 5.24 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 5.07, 5.10, 5.77, 5.14, 4.32, 6.21, 4.49, 4.99, 7.51, 4.96, 4.77, 5.97 |
 | 5.47 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.89, 5.36, 5.21, 5.02, 4.61, 5.38, 6.57, 6.79, 5.65, 4.91, 6.29, 5.43 |
 | 5.50 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.23, 4.84, 6.48, 5.68, 4.74, 4.52, 4.88, 6.59, 6.43, 7.96, 4.62, 5.56 |
 | 5.59 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 5.93, 6.40, 5.85, 5.10, 4.62, 7.61, 5.29, 5.47, 6.72, 4.97, 4.31, 5.64 |
 | 5.80 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.80, 5.84, 5.96, 5.45, 6.18, 5.39, 6.35, 5.88, 5.63, 5.56, DNF, 5.16 |
 | 5.94 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 5.53, 6.32, 5.81, DNF, 6.38, 5.35, 7.21, 5.38, 5.98, 5.76, 5.40, 5.72 |
-| 6.13 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 6.64, 5.96, 7.33, 5.31, 5.50, 6.71, 5.72, 5.66, 5.78, 5.87, 8.16, 6.20 |
+| 6.03 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | 5.96, 5.83, 6.23, 5.77, 5.33, 6.44, 9.17, 5.65, 6.59, 6.58, 5.81, 5.45 |
 
 ### 2x2x2 Cube
 
@@ -46,7 +46,7 @@
 | 23.57 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 23.52, 23.53, 24.97, 27.09, 21.64, 22.25, 25.10, 27.83, 21.37, 21.97, 24.28, 21.35 |
 | 23.77 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 21.91, 24.30, 23.06, 30.07, 23.95, 26.80, 23.92, 22.77, 24.82, 22.26, 20.62, 24.00 |
 | 23.80 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 21.63, 26.68, 23.77, 23.51, 26.99, 25.08, 22.57, 26.14, 20.28, 27.56, 21.42, 18.71 |
-| 23.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 21.96, 24.48, 20.65, 22.92, 25.80, 33.73, 26.64, 22.85, 24.57, 23.92, 23.52, 23.16 |
+| 23.82 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 22.50, 24.95, 25.42, 22.35, 22.44, 29.33, 20.44, 23.77, 24.65, 24.16, 23.71, 24.31 |
 | 24.16 | [Ari Randers-Pehrson](https://www.worldcubeassociation.org/persons/2017RAND06) | 24.78, 24.78, 21.48, 24.71, 23.62, 30.75, 24.15, 23.86, 22.30, 24.55, 25.12, 23.74 |
 
 ### 5x5x5 Cube
@@ -122,7 +122,7 @@
 | 23.30 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 23, 23, 21, 22, 25, 31, 25, 23, 23, 21, 25, 23 |
 | 23.50 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22 |
 | 23.50 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 19, 30, 25, 23, 23, 24, 22, 20, 25, 26, 24, 23 |
-| 23.90 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 28, 21, 23, 25, 25, 20, 23, 25, 25, 25, 24, 23 |
+| 23.60 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 23, 24, 29, 25, 23, 24, 24, 21, 22, 24, 23, 24 |
 
 ### 3x3x3 One-Handed
 
@@ -135,9 +135,9 @@
 | 9.93 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 9.52, 10.57, 9.05, 9.74, 10.22, 10.02, 11.94, 10.99, 9.27, 9.43, 9.45, 10.16 |
 | 9.97 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 8.95, 10.73, 9.65, 9.77, 9.80, 11.63, 7.60, 9.78, 10.81, 9.90, 10.84, 9.51 |
 | 10.04 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 9.86, 9.28, 9.73, 10.34, 9.43, 10.09, 10.45, 9.27, 12.07, 15.31, 9.87, 9.31 |
+| 10.13 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 9.99, 9.79, 9.72, 8.53, DNF, 11.12, 9.75, 9.33, 9.82, 12.21, 11.08, 8.40 |
 | 10.16 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 8.81, 9.59, 11.64, 12.64, 9.66, 10.21, 9.42, 9.64, 11.09, 11.99, 9.62, 8.76 |
 | 10.17 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 10.62, 10.05, 10.33, 10.20, 9.46, 9.90, 11.68, 10.22, 13.16, 9.63, 9.62, 7.82 |
-| 10.19 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 10.10, 8.85, 8.70, 9.87, 12.94, 10.58, 12.07, 9.12, 9.59, 8.87, 15.43, 9.91 |
 
 ### Megaminx
 

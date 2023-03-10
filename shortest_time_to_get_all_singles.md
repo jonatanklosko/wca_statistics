@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  3 March 2023*
+*Updated on  9 March 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -268,8 +268,10 @@
 | 1924 | [Xin Shi (石欣)](https://www.worldcubeassociation.org/persons/2010SHIX01) |
 | 1937 | [Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07) |
 | 1938 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) |
+| 1960 | [Danny Buschert](https://www.worldcubeassociation.org/persons/2017BUSC03) |
 | 1974 | [Deni Mintsaev (Дени Минцаев)](https://www.worldcubeassociation.org/persons/2013MINT01) |
 | 1980 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
+| 1988 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) |
 | 1996 | [Akifumi Sasaki (佐々木彰史)](https://www.worldcubeassociation.org/persons/2017SASA03) |
 | 2002 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 2009 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
@@ -287,6 +289,7 @@
 | 2105 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 2140 | [Matteo Colombo](https://www.worldcubeassociation.org/persons/2009COLO03) |
 | 2141 | [Siva Shanmukh Vetcha](https://www.worldcubeassociation.org/persons/2008SHAN01) |
+| 2149 | [Alistair Miller](https://www.worldcubeassociation.org/persons/2017MILL12) |
 | 2156 | [Sanae Yamashita (山下佐苗)](https://www.worldcubeassociation.org/persons/2008OMYO01) |
 | 2156 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) |
 | 2163 | [Michael Conard](https://www.worldcubeassociation.org/persons/2013CONA01) |

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  3 March 2023*
+*Updated on  9 March 2023*
 
 
 ### Rubik's Cube
@@ -10,7 +10,7 @@
 | ---: | :--- | :--- |
 | 4.74 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.45, 4.22, 4.69, 5.44, 5.08 |
 | 4.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.62, 4.78, 5.68, 5.19, 4.50 |
-| 4.90 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 4.78, 4.70, 5.53, 5.19, 4.75 |
+| 4.87 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 5.14, 4.32, 6.21, 4.49, 4.99 |
 | 5.02 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.66, 5.40, 4.47, 6.25, 5.02 |
 | 5.08 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 4.84, 6.48, 5.68, 4.74, 4.52 |
 | 5.08 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.99, 5.25, 5.58, 5.02, 4.71 |
@@ -45,9 +45,9 @@
 | 21.65 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 21.83, 21.99, 21.53, 21.59, 20.40 |
 | 22.39 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 20.28, 27.56, 21.42, 18.71, 25.48 |
 | 22.54 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 27.83, 21.37, 21.97, 24.28, 21.35 |
+| 22.85 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 22.35, 22.44, 29.33, 20.44, 23.77 |
 | 22.98 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 23.92, 22.77, 24.82, 22.26, 20.62 |
 | 23.07 | [Ari Randers-Pehrson](https://www.worldcubeassociation.org/persons/2017RAND06) | 26.19, 21.81, 23.84, 22.81, 22.58 |
-| 23.08 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 31.84, 21.62, 21.00, 23.49, 24.13 |
 
 ### 5x5x5 Cube
 
@@ -58,7 +58,7 @@
 | 40.39 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 38.55, 40.78, 43.80, 38.82, 41.59 |
 | 40.71 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 42.70, 39.10, 39.23, 43.66, 40.21 |
 | 40.72 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 41.42, 41.16, 40.94, 39.91, 40.08 |
-| 41.88 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 42.49, 50.07, 40.50, 42.66, 39.74 |
+| 41.56 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 52.20, 42.07, 41.25, 40.61, 41.36 |
 | 43.34 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | 40.11, 45.71, 42.58, 53.85, 41.75 |
 | 44.26 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 46.55, 43.37, 39.55, 45.26, 44.15 |
 | 44.58 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 43.95, 46.12, 42.58, 54.78, 43.67 |
@@ -113,13 +113,13 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 21.00 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 25, 20, 20, 21, 22 |
 | 21.00 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 20, 20, 23, 25, 20 |
 | 21.66 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 27, 20, 21, 20, 24 |
-| 21.66 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 24, 24, 19, 20, 21 |
 | 22.00 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 23, 22, 23, 21, 21 |
 | 22.00 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | 23, 22, 21, 22, 22 |
+| 22.33 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | DNF, 22, 23, 22, 22 |
 | 22.33 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 21, 27, 23, 21, 23 |
-| 22.66 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 23, 22, 23, 34, 22 |
 | 22.66 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 26, 24, 22, 22, 22 |
 | 22.66 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | 23, 21, 22, 25, 23 |
 | 22.66 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 21, 26, 24, 23, 21 |
@@ -144,8 +144,8 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 28.31 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 27.54, 30.68, 29.28, 28.01, 27.66 |
+| 29.05 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 31.00, 26.54, 28.47, 29.70, 29.00 |
 | 29.06 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 28.69, 30.89, 27.32, 34.02, 27.60 |
-| 29.13 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 27.99, 30.61, 28.45, 31.37, 28.33 |
 | 29.80 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 29.35, 34.12, 30.13, 28.60, 29.94 |
 | 30.12 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 28.50, 31.19, 29.97, 31.07, 29.34 |
 | 31.18 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 32.57, 30.67, 31.30, 31.33, 30.91 |
@@ -180,9 +180,9 @@
 | 3.84 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 4.42, 3.27, DNF, 3.13, 3.85 |
 | 3.86 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 3.52, 4.28, 4.57, 3.54, 3.76 |
 | 3.93 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 7.11, 3.88, 4.24, 3.69, 3.50 |
+| 3.96 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.24, 3.56, 3.75, DNF, 3.89 |
 | 4.08 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 3.98, 3.49, 6.67, 4.34, 3.92 |
 | 4.21 | [Virgile Perrot](https://www.worldcubeassociation.org/persons/2017PERR02) | 4.22, 7.05, 4.24, 3.64, 4.18 |
-| 4.21 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) | 3.11, 4.21, 4.62, 4.87, 3.82 |
 
 ### Skewb
 

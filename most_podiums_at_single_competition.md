@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  9 March 2023*
+*Updated on 15 March 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -966,6 +966,7 @@
 | 13 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Floripa ao Cubo 2022](https://www.worldcubeassociation.org/competitions/FloripaaoCubo2022/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Faria Brito Open 2022](https://www.worldcubeassociation.org/competitions/FariaBritoOpen2022/results/podiums) |
+| 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Bigs & Blind 2023](https://www.worldcubeassociation.org/competitions/BrasiliaBigsBlind2023/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Partage Open 2023](https://www.worldcubeassociation.org/competitions/PartageOpen2023/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Planetario Open 2022](https://www.worldcubeassociation.org/competitions/PlanetarioOpen2022/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023/results/podiums) |
@@ -1004,6 +1005,7 @@
 | 10 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums) |
 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/podiums) |
+| 13 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Q8speedcubing in K.S.E 2023](https://www.worldcubeassociation.org/competitions/Q8speedcubinginKSE2023/results/podiums) |
 | 11 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Amman Summertime 2022](https://www.worldcubeassociation.org/competitions/AmmanSummertime2022/results/podiums) |
 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Almadar School 2022](https://www.worldcubeassociation.org/competitions/AlmadarSchool2022/results/podiums) |
 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Amman Wintertime 2023](https://www.worldcubeassociation.org/competitions/AmmanWintertime2023/results/podiums) |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  9 March 2023*
+*Updated on 15 March 2023*
 
 
 ### Rubik's Cube
@@ -165,9 +165,9 @@
 | 0.06 | [Wojciech Włodarczyk](https://www.worldcubeassociation.org/persons/2012WODA01) | 9.39 | 9.45 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016/results/by_person#2012WODA01) |
 | 0.07 | [Chenwei Li (李琛炜)](https://www.worldcubeassociation.org/persons/2012LICH04) | 6.27 | 6.34 | [Shanghai Love In ECNU 2017](https://www.worldcubeassociation.org/competitions/ShanghaiLoveInECNU2017/results/by_person#2012LICH04) |
 | 0.07 | [Patrick Drew Dwyer](https://www.worldcubeassociation.org/persons/2019DWYE01) | 7.10 | 7.17 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2019DWYE01) |
+| 0.07 | [Mikas Motiejuitis](https://www.worldcubeassociation.org/persons/2017MOTI02) | 8.74 | 8.81 | [Vilnius Spring Open 2023](https://www.worldcubeassociation.org/competitions/VilniusSpringOpen2023/results/by_person#2017MOTI02) |
 | 0.07 | [Charles Jerome](https://www.worldcubeassociation.org/persons/2016JERO01) | 10.00 | 10.07 | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019/results/by_person#2016JERO01) |
 | 0.07 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) | 15.50 | 15.57 | [Dutch Open 2008](https://www.worldcubeassociation.org/competitions/DutchOpen2008/results/by_person#2005OOMS01) |
-| 0.08 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 5.11 | 5.19 | [Burjassot Open 2022](https://www.worldcubeassociation.org/competitions/BurjassotOpen2022/results/by_person#2018GOME06) |
 
 ### Skewb
 

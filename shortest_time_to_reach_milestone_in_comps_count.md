@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  9 March 2023*
+*Updated on 15 March 2023*
 
 
 ### 100 Competitions
@@ -58,8 +58,8 @@
 | Days | Person |
 | ---: | :--- |
 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
-| 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 386 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
 | 392 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 400 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
@@ -91,9 +91,10 @@
 | 155 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) |
 | 155 | [Dongsheng Zeng (曾东生)](https://www.worldcubeassociation.org/persons/2020ZENG03) |
 | 155 | [Yuetong Zhu (朱玥曈)](https://www.worldcubeassociation.org/persons/2020ZHUY01) |
-| 161 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 155 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 161 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 161 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
+| 161 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 162 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
 | 168 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 168 | [Santhosh Sabarinathan](https://www.worldcubeassociation.org/persons/2018SABA02) |
@@ -101,7 +102,6 @@
 | 169 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 169 | [Mehmet Efe Günay](https://www.worldcubeassociation.org/persons/2022GUNA05) |
 | 170 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) |
-| 171 | [John Wanger II](https://www.worldcubeassociation.org/persons/2022WANG39) |
 
 ### 5 Competitions
 

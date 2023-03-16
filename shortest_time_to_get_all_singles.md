@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  9 March 2023*
+*Updated on 15 March 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -38,6 +38,7 @@
 | 497 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 497 | [Jaden Lim](https://www.worldcubeassociation.org/persons/2017LIMJ02) |
 | 519 | [Rodrigo Pueblas Núñez](https://www.worldcubeassociation.org/persons/2014NUNE05) |
+| 531 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) |
 | 539 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
 | 539 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) |
 | 546 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
@@ -123,8 +124,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -329,6 +330,7 @@
 | 2568 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) |
 | 2583 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |
 | 2633 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
+| 2659 | [Marike Faught](https://www.worldcubeassociation.org/persons/2015FAUG01) |
 | 2694 | [Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02) |
 | 2695 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 2695 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) |

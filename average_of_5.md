@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  9 March 2023*
+*Updated on 15 March 2023*
 
 
 ### Rubik's Cube
@@ -53,7 +53,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 37.14 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 40.10, 33.02, 35.54, 42.51, 35.79 |
+| 37.00 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 36.81, 43.10, 37.45, 35.90, 36.75 |
 | 39.14 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 41.67, 38.51, 37.66, 39.05, 39.87 |
 | 40.39 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 38.55, 40.78, 43.80, 38.82, 41.59 |
 | 40.71 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 42.70, 39.10, 39.23, 43.66, 40.21 |
@@ -167,7 +167,7 @@
 | 1.70 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.41, 2.30, 1.53, 1.88, 1.69 |
 | 1.72 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.27, 1.84, 2.51, 1.15, 2.07 |
 | 1.73 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 2.18, 1.59, 1.74, 1.43, 1.86 |
-| 1.76 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 1.91, 1.62, 1.67, 5.49, 1.71 |
+| 1.74 | [Owen Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | 3.95, 2.04, 1.57, 1.49, 1.62 |
 
 ### Rubik's Clock
 
@@ -224,9 +224,9 @@
 | 1:42.27 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | DNF, 1:38.67, 1:33.11, 1:55.04, 1:18.08 |
 | 1:47.98 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 1:48.01, 1:44.31, 1:30.05, DNF, 1:51.63 |
 | 1:49.13 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 2:01.87, 1:43.92, 1:50.42, 1:47.86, 1:49.12 |
+| 2:03.65 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 2:26.56, DNF, 2:05.82, 1:38.59, 1:36.14 |
 | 2:04.47 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | DNF, 2:00.90, 2:03.09, 2:03.85, 2:06.49 |
 | 2:09.78 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 1:55.58, 2:14.32, 2:07.26, 2:49.89, 2:07.78 |
-| 2:12.65 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 2:09.65, 2:15.58, 2:12.74, DNF, 2:06.18 |
 | 2:19.37 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 1:55.80, DNF, 2:02.90, 2:22.54, 2:32.67 |
 
 ### 5x5x5 Blindfolded

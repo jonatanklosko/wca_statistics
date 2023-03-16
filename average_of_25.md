@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  9 March 2023*
+*Updated on 15 March 2023*
 
 
 ### Rubik's Cube
@@ -114,6 +114,7 @@
 | ---: | :--- | :--- |
 | 22.52 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 25, 23, 18, 22, 27, 26, 22, 23, 22, 23, 23, 23, 21, 21, 24, 23, 23, 22, 22, 24, 24, 19, 20, 21 |
 | 22.90 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 24, 22, 21, 22, 25, 24, 26, 21, 25, 23, 24, 20, 20, 23, 25, 20, 23, 22, 25, 25, 22, 21, 23, 24, 22 |
+| 23.52 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 24, 22, 22, 23, 23, DNF, DNF, 24, 29, 21, 23, 22, 20, 25, 27, 20, 21, 20, 24, 34, 19, 25, 23, 21, 21 |
 | 23.61 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 24, 19, 30, 25, 23, 23, 24, 22, 20, 25, 26, 24, 23, 24, 25, 26, 23, 24, 21, 27, 23, 21, 23, 23, 24 |
 | 23.80 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 33, 26, 23, 23, 21, 22, 25, 31, 25, 23, 23, 21, 25, 23, 26, 30, 22, 24, 22, 23, 24, 25, 23, 22, 21 |
 | 23.95 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 27, 31, 24, 26, 25, 24, 22, 24, 25, 21, 24, 26, 21, 26, 24, 23, 21, 23, 24, 25, 23, 23, 24, 22, 25 |
@@ -121,7 +122,6 @@
 | 24.61 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 26, 24, 23, 22, 22, 24, 25, 25, 24, 24, 25, 26, 27, 25, 28, 22, 27, 22, 28, 24, 29, 24, 24, 24, 24 |
 | 24.76 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 20, 27, 29, 26, 24, 24, 24, 28, 22, 28, 24, 26, 23, 23, 25, 25, 23, 24, 23, 26, 24, 28, 25, 23, 25 |
 | 24.76 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 23, 30, 26, 28, 32, 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22, 27, DNF, 24, 26, 24, 26, 24, 23 |
-| 24.76 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 26, 27, 21, 24, 22, 23, 32, 21, 26, 25, 28, 25, 31, 25, 27, 23, 22, 24, 24, 26, 24, 28, 25, 23, 23 |
 
 ### 3x3x3 One-Handed
 

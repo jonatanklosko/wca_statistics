@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  9 March 2023*
+*Updated on 15 March 2023*
 
 
 ### Rubik's Cube
@@ -218,6 +218,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **1:56.56** | 2:21.61 | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023/results/all#e444bf_f) | 4 |
 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | **2:33.59** | DNF | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e444bf_f) | 4 |
 | [Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02) | **2:34.66** | DNF | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e444bf_f) | 4 |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **2:38.82** | DNF | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e444bf_f) | 5 |
@@ -227,7 +228,6 @@
 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **2:46.66** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e444bf_f) | 4 |
 | [Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02) | **2:51.93** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e444bf_f) | 5 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | **2:53.68** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e444bf_f) | 6 |
-| [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) | **2:54.96** | 2:58.20 | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#e444bf_f) | 4 |
 
 ### 5x5x5 Blindfolded
 

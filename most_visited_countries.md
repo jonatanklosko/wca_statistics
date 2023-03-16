@@ -1,19 +1,19 @@
 ## Most visited countries
 
-*Updated on  9 March 2023*
+*Updated on 15 March 2023*
 
 | Countries | Person |
 | ---: | :--- |
-| 59 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
+| 61 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 38 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 35 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 33 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 33 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 30 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
+| 28 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 27 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 27 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 26 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 26 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
@@ -59,6 +59,7 @@
 | 17 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 17 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 17 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
+| 17 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 17 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 17 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 17 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
@@ -66,7 +67,6 @@
 | 16 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 16 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 16 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
-| 16 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 15 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
 | 15 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |

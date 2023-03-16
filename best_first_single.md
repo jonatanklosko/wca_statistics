@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  9 March 2023*
+*Updated on 15 March 2023*
 
 
 ### Rubik's Cube
@@ -31,8 +31,8 @@
 | 1.56 | [Berk Delen](https://www.worldcubeassociation.org/persons/2022DELE01) |
 | 1.58 | [Metin Durucu](https://www.worldcubeassociation.org/persons/2018DURU03) |
 | 1.58 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
+| 1.60 | [Asaf Rotshtein](https://www.worldcubeassociation.org/persons/2022ROTS01) |
 | 1.61 | [Ilan Doubrovkine-Paskar](https://www.worldcubeassociation.org/persons/2020DOUB01) |
-| 1.62 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 
 ### 4x4x4 Cube
 
@@ -150,9 +150,9 @@
 | 47.78 | [Ida Putu Sucita Danuartha](https://www.worldcubeassociation.org/persons/2022DANU01) |
 | 48.15 | [Matías Martínez](https://www.worldcubeassociation.org/persons/2022MART67) |
 | 48.17 | [Jingqi Zhang](https://www.worldcubeassociation.org/persons/2016ZHAJ08) |
+| 48.83 | [Anthony Tindal](https://www.worldcubeassociation.org/persons/2022TIND01) |
 | 49.11 | [Changhee Yeh (예창희)](https://www.worldcubeassociation.org/persons/2019YEHC02) |
 | 49.12 | [Hilarry Henry](https://www.worldcubeassociation.org/persons/2017HENR03) |
-| 49.23 | [Mingyu Liu (刘铭宇)](https://www.worldcubeassociation.org/persons/2018LIUM02) |
 
 ### Pyraminx
 

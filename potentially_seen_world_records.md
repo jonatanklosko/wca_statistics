@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  9 March 2023*
+*Updated on 15 March 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -30,7 +30,7 @@
 | 102 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 102 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 102 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
-| 100 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 101 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 96 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |

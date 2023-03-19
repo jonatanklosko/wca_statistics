@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 15 March 2023*
+*Updated on 18 March 2023*
 
 
 ### Rubik's Cube
@@ -24,6 +24,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06) | 1.22 | **1.57** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e222_f) | 4 |
+| [Hao Wang (王浩)](https://www.worldcubeassociation.org/persons/2017WANG90) | 1.31 | **1.65** | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/all#e222_f) | 4 |
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.27 | **1.70** | [Think In Fink Fall 2022](https://www.worldcubeassociation.org/competitions/ThinkInFink2022/results/all#e222_f) | 4 |
 | [Derek Hsieh](https://www.worldcubeassociation.org/persons/2016HSIE02) | 1.45 | **1.71** | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/all#e222_f) | 4 |
 | [Diego Fraile](https://www.worldcubeassociation.org/persons/2013FRAI01) | 1.57 | **1.74** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e222_f) | 4 |
@@ -32,7 +33,6 @@
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.60 | **1.77** | [Howland Returns 2022](https://www.worldcubeassociation.org/competitions/HowlandReturns2022/results/all#e222_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.61 | **1.77** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e222_f) | 5 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 0.93 | **1.78** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e222_f) | 6 |
-| [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 1.36 | **1.80** | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/all#e222_f) | 4 |
 
 ### 4x4x4 Cube
 
@@ -73,11 +73,11 @@
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:27.45 | **1:33.10** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 5 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 1:30.73 | **1:33.68** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e666_f) | 4 |
 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 1:32.01 | **1:34.45** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e666_f) | 5 |
+| [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 1:29.69 | **1:35.09** | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/all#e666_f) | 4 |
 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 1:34.10 | **1:35.20** | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/all#e666_c) | 4 |
 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 1:33.11 | **1:35.42** | [Ajax NxNxN 2022](https://www.worldcubeassociation.org/competitions/AjaxNNN2022/results/all#e666_c) | 4 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 1:32.22 | **1:35.74** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 4 |
 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) | 1:31.12 | **1:35.98** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 5 |
-| [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 1:31.99 | **1:36.07** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e666_f) | 6 |
 
 ### 7x7x7 Cube
 

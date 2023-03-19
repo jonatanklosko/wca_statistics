@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 15 March 2023*
+*Updated on 18 March 2023*
 
 
 ### Rubik's Cube - Single
@@ -182,7 +182,7 @@
 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | **2:32.68** | United States | [Crystal City Winter 2023](https://www.worldcubeassociation.org/competitions/CrystalCityWinter2023) | 2:34.59, 2:34.78, 2:28.66 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **2:33.22** | Hungary | [Speedcubing Slovakia 2022](https://www.worldcubeassociation.org/competitions/SpeedcubingSlovakia2022) | 2:33.43, 2:36.07, 2:30.17 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **2:35.96** | United States | [Empire State Spring 2019](https://www.worldcubeassociation.org/competitions/EmpireStateSpring2019) | 2:39.01, 2:27.02, 2:41.84 |
-| [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **2:37.30** | United States | [Minnesota Qualifier 2019](https://www.worldcubeassociation.org/competitions/MinnesotaQualifier2019) | 2:36.09, 2:39.76, 2:36.05 |
+| [Lydia Workman](https://www.worldcubeassociation.org/persons/2018WORK01) | **2:37.03** | United States | [Wichita Art Museum Winter 2023](https://www.worldcubeassociation.org/competitions/WichitaArtMuseumWinter2023) | 2:40.72, 2:36.14, 2:34.24 |
 
 ### 3x3x3 Blindfolded - Single
 

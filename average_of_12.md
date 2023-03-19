@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 15 March 2023*
+*Updated on 18 March 2023*
 
 
 ### Rubik's Cube
@@ -77,7 +77,7 @@
 | 1:25.34 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:31.36, 1:33.65, 1:32.35, 1:21.66, 1:23.53, 1:38.37, 1:21.40, 1:26.58, 1:20.64, 1:19.08, 1:16.42, 1:23.23 |
 | 1:25.76 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:29.87, 1:29.14, 1:23.49, 1:26.48, 1:20.50, 1:23.77, 1:31.94, 1:30.38, 1:20.18, 1:21.68, 1:26.77, 1:25.53 |
 | 1:25.92 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:26.04, 1:46.08, 1:25.12, 1:29.22, 1:26.51, 1:19.23, 1:25.94, 1:23.57, 1:25.81, 1:20.35, 1:26.07, 1:30.66 |
-| 1:27.97 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:28.29, 1:30.23, 1:26.28, 1:32.46, 1:21.82, 1:32.35, 1:31.60, 1:24.80, 1:31.06, 1:24.90, 1:24.86, 1:25.36 |
+| 1:26.49 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:31.60, 1:24.80, 1:31.06, 1:24.90, 1:24.86, 1:25.36, 1:22.29, 1:32.37, 1:22.22, 1:29.81, 1:22.58, 1:27.73 |
 
 ### 7x7x7 Cube
 

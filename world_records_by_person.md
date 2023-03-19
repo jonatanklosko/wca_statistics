@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 15 March 2023*
+*Updated on 18 March 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -264,6 +264,7 @@
 | 1 | [Ty Marshall](https://www.worldcubeassociation.org/persons/2014MARS04) |
 | 1 | [Uladzislau Ushakov (Владислав Ушаков)](https://www.worldcubeassociation.org/persons/2014USHA01) |
 | 1 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |
+| 1 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 1 | [Yulun Wu (吴宇伦)](https://www.worldcubeassociation.org/persons/2010WUYU02) |
 | 1 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
 | 1 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) |

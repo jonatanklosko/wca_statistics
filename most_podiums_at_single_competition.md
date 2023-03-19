@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 15 March 2023*
+*Updated on 18 March 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -459,7 +459,6 @@
 | 11 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | [Rebild Open 2014](https://www.worldcubeassociation.org/competitions/RebildOpen2014/results/podiums) |
 | 11 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Eagle of the East 2018](https://www.worldcubeassociation.org/competitions/EagleoftheEast2018/results/podiums) |
 | 11 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Alicante Open 2016](https://www.worldcubeassociation.org/competitions/AlicanteOpen2016/results/podiums) |
-| 11 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | [Sunmarke Dubai Open 2022](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpen2022/results/podiums) |
 | 11 | [Oleg Martynov](https://www.worldcubeassociation.org/persons/2012MART05) | [Ural Autumn 2016](https://www.worldcubeassociation.org/competitions/UralAutumn2016/results/podiums) |
 | 11 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016/results/podiums) |
 | 11 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Cubing Classic 2017](https://www.worldcubeassociation.org/competitions/CubingClassic2017/results/podiums) |

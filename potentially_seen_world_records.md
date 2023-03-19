@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 15 March 2023*
+*Updated on 18 March 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -61,8 +61,8 @@
 | 81 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 81 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
 | 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
+| 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 79 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 79 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 79 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
@@ -97,11 +97,11 @@
 | 65 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 65 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 65 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
-| 65 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 65 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
-| 64 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
-| 64 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
+| 65 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 64 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
+| 64 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
+| 64 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 64 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 64 | [Peter Jansen](https://www.worldcubeassociation.org/persons/2003JANS01) |
 | 64 | [Kirt Protacio](https://www.worldcubeassociation.org/persons/2010PROT01) |

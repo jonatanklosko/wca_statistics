@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 15 March 2023*
+*Updated on 18 March 2023*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -37,8 +37,8 @@
 | 90 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 89 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 88 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 88 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 88 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 87 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 87 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 86 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 85 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |

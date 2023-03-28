@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 18 March 2023*
+*Updated on 27 March 2023*
 
 
 ### 100 Competitions
@@ -82,6 +82,7 @@
 
 | Days | Person |
 | ---: | :--- |
+| 139 | [Vishnu Sai Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 140 | [Hansi Wang (王翰思)](https://www.worldcubeassociation.org/persons/2020WANG19) |
 | 140 | [Sheng Li (李圣)](https://www.worldcubeassociation.org/persons/2020LISH02) |
 | 143 | [Chengzhang Lin (林成璋)](https://www.worldcubeassociation.org/persons/2013LINC02) |
@@ -101,7 +102,6 @@
 | 168 | [Patrick Shi](https://www.worldcubeassociation.org/persons/2022SHIP01) |
 | 169 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 169 | [Mehmet Efe Günay](https://www.worldcubeassociation.org/persons/2022GUNA05) |
-| 170 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) |
 
 ### 5 Competitions
 

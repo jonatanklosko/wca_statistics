@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 18 March 2023*
+*Updated on 27 March 2023*
 
 
 ### Rubik's Cube
@@ -71,13 +71,13 @@
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 1:28.08 | **1:30.41** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e666_c) | 4 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:24.61 | **1:30.60** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 4 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:27.45 | **1:33.10** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 5 |
+| [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 1:25.82 | **1:33.45** | [Pickering A 2023](https://www.worldcubeassociation.org/competitions/PickeringA2023/results/all#e666_c) | 4 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 1:30.73 | **1:33.68** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e666_f) | 4 |
 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 1:32.01 | **1:34.45** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e666_f) | 5 |
 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 1:29.69 | **1:35.09** | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/all#e666_f) | 4 |
 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 1:34.10 | **1:35.20** | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/all#e666_c) | 4 |
 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 1:33.11 | **1:35.42** | [Ajax NxNxN 2022](https://www.worldcubeassociation.org/competitions/AjaxNNN2022/results/all#e666_c) | 4 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 1:32.22 | **1:35.74** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 4 |
-| [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) | 1:31.12 | **1:35.98** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 5 |
 
 ### 7x7x7 Cube
 

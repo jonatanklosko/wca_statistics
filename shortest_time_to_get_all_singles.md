@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 18 March 2023*
+*Updated on 27 March 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -148,6 +148,7 @@
 | 1147 | [Ryan Fong](https://www.worldcubeassociation.org/persons/2019FONG04) |
 | 1155 | [Paris Dorn](https://www.worldcubeassociation.org/persons/2015DORN02) |
 | 1155 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) |
+| 1155 | [David Karalli](https://www.worldcubeassociation.org/persons/2020KARA01) |
 | 1156 | [Aniketh Arya](https://www.worldcubeassociation.org/persons/2015ARYA03) |
 | 1164 | [Shifei Dai (代时飞)](https://www.worldcubeassociation.org/persons/2015DAIS01) |
 | 1168 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -202,6 +203,7 @@
 | 1449 | [Christopher Cabrera](https://www.worldcubeassociation.org/persons/2013CABR01) |
 | 1449 | [Jason Bilgrei](https://www.worldcubeassociation.org/persons/2014BILG01) |
 | 1463 | [Shantanu Modak](https://www.worldcubeassociation.org/persons/2014MODA01) |
+| 1463 | [Guilherme Santana Campos](https://www.worldcubeassociation.org/persons/2019CAMP10) |
 | 1477 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 1483 | [Will Belote](https://www.worldcubeassociation.org/persons/2015BELO03) |
 | 1484 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
@@ -261,6 +263,7 @@
 | 1855 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 1863 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 1874 | [Sergio Bulux](https://www.worldcubeassociation.org/persons/2014BULU01) |
+| 1889 | [Peter Weyers](https://www.worldcubeassociation.org/persons/2018WEYE01) |
 | 1898 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 1904 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
 | 1911 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) |

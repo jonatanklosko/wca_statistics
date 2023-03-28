@@ -1,11 +1,11 @@
 ## World records count by person
 
-*Updated on 18 March 2023*
+*Updated on 27 March 2023*
 
 | WRs | Person |
 | ---: | :--- |
 | 121 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 68 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 33 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) |
 | 23 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
@@ -98,6 +98,7 @@
 | 3 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
 | 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 3 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
+| 3 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 3 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 3 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 3 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
@@ -130,7 +131,6 @@
 | 2 | [Jean Pons](https://www.worldcubeassociation.org/persons/2004PONS01) |
 | 2 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) |
 | 2 | [Jianwei Zhu (朱剑伟)](https://www.worldcubeassociation.org/persons/2007ZHUJ01) |
-| 2 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 2 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) |
 | 2 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
 | 2 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) |

@@ -1,8 +1,8 @@
 require_relative "../core/statistic"
 
-class LongestStreakOfPersonalRecords < Statistic
+class LongestCurrentStreakOfPersonalRecords < Statistic
   def initialize
-    @title = "Longest streak of competitions with a personal record done"
+    @title = "Longest current streak of competitions with a personal record done"
     @table_header = { "Competitions" => :right, "Person" => :left, "Started at" => :left }
   end
 

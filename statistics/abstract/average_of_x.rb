@@ -8,7 +8,7 @@ class AverageOfX < GroupedStatistic
 
     @title = "Average of #{@solve_count}"
     @note = "#{@solve_count} consecutive official attempts are considered. Only people from top 200 single are taken into account."
-    @table_header = { "Ao#{@solve_count}" => :right, "Person" => :left, "Times" => :left }
+    @table_header = { "Rank" => :left, "Ao#{@solve_count}" => :right, "Person" => :left, "Times" => :left }
   end
 
   # Cache result of the query as it's the same for each subclass

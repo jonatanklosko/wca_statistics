@@ -34,6 +34,7 @@ class AverageOfX < GroupedStatistic
   end
 
   def transform(query_results)
+    n = 0
     Events::ALL.map do |event_id, event_name|
       results = query_results
         .select { |result| result["event_id"] == event_id }
@@ -64,7 +65,8 @@ class AverageOfX < GroupedStatistic
           solve_times = best_aox_solves.map do |solve|
             solve == Float::INFINITY ? SolveTime::DNF : SolveTime.new(event_id, :single, solve)
           end
-          [best_aox.clock_format, person_link, solve_times.map(&:clock_format).join(', ')]
+          n = n + 1
+          [n, best_aox.clock_format, person_link, solve_times.map(&:clock_format).join(', ')]
         end
       [event_name, results]
     end

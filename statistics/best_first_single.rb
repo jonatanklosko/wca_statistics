@@ -6,7 +6,7 @@ class BestFirstSingle < GroupedStatistic
   def initialize
     @title = "Best first single"
     @note = "In other words, it's the best first time done when participating for the first time in the given event."
-    @table_header = { "First single" => :right, "Person": :left }
+    @table_header = { "Rank" => :left, "First single" => :right, "Person": :left }
   end
 
   def query
@@ -25,6 +25,7 @@ class BestFirstSingle < GroupedStatistic
 
   def transform(query_results)
     Events::ALL.map do |event_id, event_name|
+      n = 0
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }
@@ -34,7 +35,8 @@ class BestFirstSingle < GroupedStatistic
         .first(10)
         .map! do |result|
           single_solve_time = SolveTime.new(event_id, :single, result["single"]).clock_format
-          [single_solve_time, result["person_link"]]
+          n = n + 1
+          [n, single_solve_time, result["person_link"]]
         end
       [event_name, results]
     end

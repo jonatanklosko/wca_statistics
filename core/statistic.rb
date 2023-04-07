@@ -13,6 +13,7 @@ class Statistic
   end
 
   def transform(query_results)
+    p query_results
     query_results.each(as: :array)
   end
 

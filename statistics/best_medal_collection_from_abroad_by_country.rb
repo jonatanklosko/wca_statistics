@@ -4,7 +4,7 @@ class BestMedalCollectionFromAbroadByCountry < Statistic
   def initialize
     @title = "Best medal collection from abroad by country"
     @note = "Only medals got abroad are taken into account."
-    @table_header = { "Country" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
+    @table_header = { "Rank" => :left, "Country" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
   end
 
   def query

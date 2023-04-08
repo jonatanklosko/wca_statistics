@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class WorldChampionshipPodiumsByPerson < Statistic
   def initialize
     @title = "World Championship podiums by person"
-    @table_header = { "Person" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
+    @table_header = { "Rank" => :left, "Person" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
   end
 
   def query

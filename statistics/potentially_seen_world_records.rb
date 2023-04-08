@@ -4,7 +4,7 @@ class PotentiallySeenWorldRecords < Statistic
   def initialize
     @title = "Potentially seen world records"
     @note = "Potentially means that a person was on a competition and could see a world record being set."
-    @table_header = { "WRs" => :right, "Person" => :left }
+    @table_header = { "Rank" => :left, "WRs" => :right, "Person" => :left }
   end
 
   def query

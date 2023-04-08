@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class MostVisitedContinents < Statistic
   def initialize
     @title = "Most visited continents"
-    @table_header = { "Continents" => :right, "Person" => :left }
+    @table_header = { "Rank" => :left, "Continents" => :right, "Person" => :left }
   end
 
   def query

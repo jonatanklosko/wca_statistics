@@ -3,7 +3,7 @@ require_relative "../core/grouped_statistic"
 class MostPodiumsTogether < GroupedStatistic
   def initialize
     @title = "Most podiums together"
-    @table_header = { "Podiums" => :right, "People" => :left }
+    @table_header = { "Rank" => :left, "Podiums" => :right, "People" => :left }
   end
 
   def query
@@ -27,6 +27,7 @@ class MostPodiumsTogether < GroupedStatistic
   def transform(query_results)
     podiums = query_results.map { |result| result["people"].split(',') }
     { 2 => "Pairs", 3 => "Triples" }.map do |people_count, header|
+      n = 0
       people_with_podiums_together = podiums
         .map { |people| people.combination(people_count).to_a }
         .flatten(1)
@@ -37,7 +38,8 @@ class MostPodiumsTogether < GroupedStatistic
         .sort_by { |people, podiums_together| -podiums_together }
         .first(100)
         .map! do |people, podiums_together|
-          [podiums_together, people.join(" & ")]
+          n += 1
+          [n, podiums_together, people.join(" & ")]
         end
       [header, people_with_podiums_together]
     end

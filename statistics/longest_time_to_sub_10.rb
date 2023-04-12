@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class LongestTimeToSub10 < Statistic
   def initialize
     @title = "Longest time to achieve sub 10 3x3x3 average"
-    @table_header = { "Person" => :left, "Years" => :right }
+    @table_header = { "Rank" => :left, "Person" => :left, "Years" => :right }
   end
 
   def query
@@ -36,8 +36,10 @@ class LongestTimeToSub10 < Statistic
   end
 
   def transform(query_results)
+    n = 0
     query_results.map do |result|
-      [result["person_link"], "%0.2f" % result["years"]]
+      n += 1
+      [n, result["person_link"], "%0.2f" % result["years"]]
     end
   end
 end

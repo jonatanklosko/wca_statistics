@@ -4,7 +4,7 @@ class LongestCompetitionsPath < Statistic
   def initialize
     @title = "Longest competitions path"
     @note = "Calculated as the sum of direct distance between subsequent competitions."
-    @table_header = { "Person" => :left, "Distance" => :right }
+    @table_header = { "Rank" => :left, "Person" => :left, "Distance" => :right }
   end
 
   def query
@@ -24,6 +24,7 @@ class LongestCompetitionsPath < Statistic
   end
 
   def transform(query_results)
+    n = 0
     query_results
       .group_by { |result| result["person_link"] }
       .map do |person_link, results|
@@ -35,7 +36,8 @@ class LongestCompetitionsPath < Statistic
       end
       .sort_by! { |person_link, distance_km| -distance_km }
       .map! do |person_link, distance_km|
-        [person_link, distance_km.to_s.gsub(/(\d)(?=\d{3}+$)/, '\1 ') + " km"]
+        n += 1
+        [n, person_link, distance_km.to_s.gsub(/(\d)(?=\d{3}+$)/, '\1 ') + " km"]
       end
       .first(1000)
   end

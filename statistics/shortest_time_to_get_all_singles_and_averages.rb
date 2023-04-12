@@ -5,7 +5,7 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
   def initialize
     @title = "Shortest time to get all singles and averages"
     @note = "Only current official events are taken into account."
-    @table_header = { "Days" => :right, "Person" => :left }
+    @table_header = { "Rank" => :left, "Days" => :right, "Person" => :left }
   end
 
   # All events except 3x3x3 MBLD have an average.
@@ -45,6 +45,7 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
   end
 
   def transform(query_results)
+    n = 0
     query_results
       .group_by { |result| result["person_link"] }
       .map do |person_link, results|
@@ -55,7 +56,8 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
             .group_by { |result| result["event_id"] }
             .map { |event_id, results| results.map { |result| result["start_date"] }.min }
         end
-        [(first_successes.max - first_competition_date).to_i, person_link]
+        n += 1
+        [n, (first_successes.max - first_competition_date).to_i, person_link]
       end
       .sort_by! { |days, person_link| days }
   end

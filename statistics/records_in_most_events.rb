@@ -4,7 +4,7 @@ class RecordsInMostEvents < GroupedStatistic
   def initialize
     @title = "Records in the highest number of events"
     @note = "All historical records are taken into account (i.e. not only the current ones)."
-    @table_header = { "Events" => :right, "Person" => :left, "List" => :left }
+    @table_header = { "Rank" => :left, "Events" => :right, "Person" => :left, "List" => :left }
   end
 
   def query
@@ -29,6 +29,7 @@ class RecordsInMostEvents < GroupedStatistic
       "Continental" => %w(AfR AsR NAR SAR ER OcR WR),
       "National" => %w(NR AfR AsR NAR SAR ER OcR WR)
     }.map do |header, record_ids|
+      n = 0
       events_with_people = query_results
         .group_by { |result| result["person_link"] }
         .map do |person_link, person_results|
@@ -38,7 +39,8 @@ class RecordsInMostEvents < GroupedStatistic
             end
             .map! { |result| result["event_name"] }
             .uniq
-          [events.count, person_link, events.join(', ')]
+          n += 1
+          [n, events.count, person_link, events.join(', ')]
         end
         .sort_by! { |events_count, _, _| -events_count }
         .first(20)

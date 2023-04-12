@@ -8,7 +8,7 @@ class Rankings < GroupedStatistic
 
     @title = title
     @note = note
-    @table_header = { "Person" => :left, "Result" => :right, "Country" => :left, "Competition" => :left, "Details" => :left }
+    @table_header = { "Rank" => :left, "Person" => :left, "Result" => :right, "Country" => :left, "Competition" => :left, "Details" => :left }
   end
 
   def query
@@ -32,6 +32,7 @@ class Rankings < GroupedStatistic
   def transform(query_results)
     Events::ALL.flat_map do |event_id, event_name|
       %w(single average).map do |type|
+        n = 0
         results = query_results
           .select { |result| result["event_id"] == event_id && result[type] > 0 }
           .each { |result| result[type] = SolveTime.new(event_id, type, result[type]) }
@@ -40,7 +41,8 @@ class Rankings < GroupedStatistic
           .first(10)
           .map! do |result|
             result_details = (1..5).map { |n| SolveTime.new(event_id, :single, result["value#{n}"]).clock_format }.reject(&:empty?).join(', ')
-            [result["person_link"], "**#{result[type].clock_format}**", result["country"], result["competition_link"], result_details]
+            n += 1
+            [n, result["person_link"], "**#{result[type].clock_format}**", result["country"], result["competition_link"], result_details]
           end
         ["#{event_name} - #{type.capitalize}", results]
       end

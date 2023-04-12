@@ -5,7 +5,7 @@ class ShortestTimeToGetAllSingles < Statistic
   def initialize
     @title = "Shortest time to get all singles"
     @note = "Only current official events are taken into account."
-    @table_header = { "Days" => :right, "Person" => :left }
+    @table_header = { "Rank" => :left, "Days" => :right, "Person" => :left }
   end
 
   def query
@@ -32,6 +32,7 @@ class ShortestTimeToGetAllSingles < Statistic
   end
 
   def transform(query_results)
+    n = 0
     query_results
       .group_by { |result| result["person_link"] }
       .map do |person_link, results|
@@ -40,7 +41,8 @@ class ShortestTimeToGetAllSingles < Statistic
           .select { |result| result["best"] > 0 }
           .group_by { |result| result["event_id"] }
           .map { |event_id, results| results.map { |result| result["start_date"] }.min }
-        [(first_successes.max - first_competition_date).to_i, person_link]
+        n += 1
+        [n, (first_successes.max - first_competition_date).to_i, person_link]
       end
       .sort_by! { |days, person_link| days }
   end

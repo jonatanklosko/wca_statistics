@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class CompetitionsPerYearByCountry < Statistic
   def initialize
     @title = "Competitions per year by country"
-    @table_header = { "Competitions per year" => :right, "Competitions" => :right, "Years" => :right, "Country" => :left }
+    @table_header = { "Rank" => :left, "Competitions per year" => :right, "Competitions" => :right, "Years" => :right, "Country" => :left }
   end
 
   def query
@@ -29,8 +29,10 @@ class CompetitionsPerYearByCountry < Statistic
   end
 
   def transform(query_results)
+    n = 0
     query_results.map do |result|
-      ["%0.2f" % result["competitions_per_year"], result["competitions"], "%0.2f" % result["years"], result["country"]]
+      n += 1
+      [n, "%0.2f" % result["competitions_per_year"], result["competitions"], "%0.2f" % result["years"], result["country"]]
     end
   end
 end

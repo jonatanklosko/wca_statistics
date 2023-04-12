@@ -4,7 +4,7 @@ require_relative "../core/events"
 class MostFrequentResults < GroupedStatistic
   def initialize
     @title = "Most frequent results"
-    @table_header = { "Count" => :right, "Result" => :right }
+    @table_header = { "Rank" => :left, "Count" => :right, "Result" => :right }
   end
 
   def query
@@ -23,6 +23,7 @@ class MostFrequentResults < GroupedStatistic
 
   def transform(query_results)
     Events::ALL.map do |event_id, event_name|
+      n = 0
       counts_with_results = query_results
         .select { |result| result["event_id"] == event_id }
         .flat_map do |result|
@@ -35,7 +36,10 @@ class MostFrequentResults < GroupedStatistic
         .map { |value, results| [value, results.length] }
         .sort_by { |value, count| -count }
         .first(10)
-        .map { |value, count| [count, SolveTime.new(event_id, :single, value).clock_format] }
+        .map do |value, count| 
+          n += 1
+          [n, count, SolveTime.new(event_id, :single, value).clock_format]
+        end
       [event_name, counts_with_results]
     end
   end

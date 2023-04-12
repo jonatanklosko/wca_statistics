@@ -5,7 +5,7 @@ require_relative "../core/solve_time"
 class LongestStandingRecords < GroupedStatistic
   def initialize
     @title = "Longest standing records"
-    @table_header = { "Event" => :left, "Type" => :left, "Days" => :right, "Result" => :right, "Person" => :left, "Competition" => :left }
+    @table_header = { "Rank" => :left, "Event" => :left, "Type" => :left, "Days" => :right, "Result" => :right, "Person" => :left, "Competition" => :left }
   end
 
   def query
@@ -42,6 +42,7 @@ class LongestStandingRecords < GroupedStatistic
       "South America" => %w(SAR WR)
     }.map do |region, record_ids|
       results = %w(single average).flat_map do |type|
+        n = 0
         query_results
           .select do |result|
             record_ids.include?(result["regional_#{type}_record"]) &&
@@ -59,7 +60,8 @@ class LongestStandingRecords < GroupedStatistic
           .map! do |result|
             event_name = Events::ALL[result["event_id"]]
             solve_time = SolveTime.new(result["event_id"], type, result[type])
-            [event_name, type.capitalize, result["days"].to_i, solve_time.clock_format, result["person_link"], result["results_link"]]
+            n += 1
+            [n, event_name, type.capitalize, result["days"].to_i, solve_time.clock_format, result["person_link"], result["results_link"]]
           end
         end
         .sort_by! { |event, type, days, *rest| -days }

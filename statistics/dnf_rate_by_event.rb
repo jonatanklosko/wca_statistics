@@ -4,7 +4,7 @@ require_relative "../core/events"
 class DnfRateByEvent < Statistic
   def initialize
     @title = "DNF rate by event"
-    @table_header = { "DNF rate" => :right, "Event" => :left, "DNFs" => :right, "Attempts" => :right }
+    @table_header = { "Rank" => :left, "DNF rate" => :right, "Event" => :left, "DNFs" => :right, "Attempts" => :right }
   end
 
   def query
@@ -31,11 +31,13 @@ class DnfRateByEvent < Statistic
   end
 
   def transform(query_results)
+    n = 0
     query_results
       .each { |result| result["dnf_rate"] = 100.0 * result["dnfs"] / result["attempts"] }
       .sort_by! { |result| -result["dnf_rate"] }
       .map! do |result|
-        ["%0.2f %%" % result["dnf_rate"], Events::ALL[result["event_id"]], result["dnfs"], result["attempts"]]
+        n += 1
+        [n, "%0.2f %%" % result["dnf_rate"], Events::ALL[result["event_id"]], result["dnfs"], result["attempts"]]
       end
   end
 end

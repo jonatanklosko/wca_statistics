@@ -65,7 +65,7 @@ class AverageOfX < GroupedStatistic
           solve_times = best_aox_solves.map do |solve|
             solve == Float::INFINITY ? SolveTime::DNF : SolveTime.new(event_id, :single, solve)
           end
-          n = n + 1
+          n += 1
           [n, best_aox.clock_format, person_link, solve_times.map(&:clock_format).join(', ')]
         end
       [event_name, results]

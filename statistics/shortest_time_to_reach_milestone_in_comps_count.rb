@@ -3,7 +3,7 @@ require_relative "../core/grouped_statistic"
 class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
   def initialize
     @title = "Shortest amount of time to reach a milestone in competitions count"
-    @table_header = { "Days" => :right, "Person" => :left }
+    @table_header = { "Rank" => :left, "Days" => :right, "Person" => :left }
   end
 
   def query
@@ -26,6 +26,7 @@ class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
 
   def transform(query_results)
     [100, 50, 25, 10, 5].map do |competitions_count|
+      n = 0
       days_with_people = query_results
         .group_by { |result| result["person_link"] }
         .select { |person_link, results| results.count >= competitions_count }
@@ -33,7 +34,8 @@ class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
           first_competition_date = results[0]["start_date"]
           milestone_competition_date = results[competitions_count - 1]["start_date"]
           days = (milestone_competition_date - first_competition_date).to_i + 1
-          [days, person_link]
+          n += 1
+          [n, days, person_link]
         end
         .sort_by! { |days, person_link| days }
         .first(20)

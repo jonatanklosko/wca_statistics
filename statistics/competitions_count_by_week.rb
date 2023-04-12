@@ -4,7 +4,7 @@ class CompetitionsCountByWeek < Statistic
   def initialize
     @title = "Competitions count by week"
     @note = "Week is considered to start on Monday and end on Sunday."
-    @table_header = { "Competitions" => :center, "Week start" => :right, "Week end" => :right, "List on WCA" => :center }
+    @table_header = { "Rank" => :left, "Competitions" => :center, "Week start" => :right, "Week end" => :right, "List on WCA" => :center }
   end
 
   def query
@@ -22,11 +22,13 @@ class CompetitionsCountByWeek < Statistic
   end
 
   def transform(query_results)
+    n = 0
     query_results.map do |result|
       date_format = "%e %b %Y"
       week_start = result["week_start_date"].strftime(date_format)
       week_end = result["week_end_date"].strftime(date_format)
-      [result["competitions_count"], week_start, week_end, result["list_link"]]
+      n += 1
+      [n, result["competitions_count"], week_start, week_end, result["list_link"]]
     end
   end
 end

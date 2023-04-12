@@ -4,7 +4,7 @@ class BestPotentialFmcMean < Statistic
   def initialize
     @title = "Best potential FMC mean"
     @note = "The means are computed by taking the best result for each attempt in the given round."
-    @table_header = { "Mean" => :center, "Attempt 1" => :center, "Attempt 2" => :center, "Attempt 3" => :center, "Competition" => :left }
+    @table_header = { "Rank" => :left, "Mean" => :center, "Attempt 1" => :center, "Attempt 2" => :center, "Attempt 3" => :center, "Competition" => :left }
   end
 
   def query
@@ -32,8 +32,10 @@ class BestPotentialFmcMean < Statistic
   end
 
   def transform(query_results)
+    n = 0
     query_results.map do |result|
-      ["%0.2f" % result["mean"], result["best1"], result["best2"], result["best3"], result["round_link"]]
+      n += 1
+      [n, "%0.2f" % result["mean"], result["best1"], result["best2"], result["best3"], result["round_link"]]
     end
   end
 end

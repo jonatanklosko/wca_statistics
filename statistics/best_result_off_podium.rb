@@ -6,7 +6,7 @@ class BestResultOffPodium < GroupedStatistic
   def initialize
     @title = "Best result not providing a podium"
     @note = "Only finals are taken into account."
-    @table_header = { "Person" => :left, "Single" => :right, "Average" => :right, "Competition" => :left, "Place" => :center }
+    @table_header = { "Rank" => :left, "Person" => :left, "Single" => :right, "Average" => :right, "Competition" => :left, "Place" => :center }
   end
 
   def query
@@ -31,6 +31,7 @@ class BestResultOffPodium < GroupedStatistic
 
   def transform(query_results)
     Events::ALL.map do |event_id, event_name|
+      n = 0
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .each do |result|
@@ -44,7 +45,8 @@ class BestResultOffPodium < GroupedStatistic
         .map! do |result|
           result[result["sort_by"]] = "**#{result[result["sort_by"]].clock_format}**"
           result[result["sort_by_second"]] = result[result["sort_by_second"]].clock_format
-          [result["person_link"], result["single"], result["average"], result["podium_link"], result["place"]]
+          n += 1
+          [n, result["person_link"], result["single"], result["average"], result["podium_link"], result["place"]]
         end
       [event_name, results]
     end

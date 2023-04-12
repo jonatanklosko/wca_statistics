@@ -34,7 +34,7 @@ class AverageEventCountByCompetition < Statistic
     n = 0
     query_results
       .map do |result|
-        n = n + 1
+        n += 1
         [n, result["competition_link"], "%0.2f" % result["average_event_count"], result["competitors"], result["country"]]
       end
   end

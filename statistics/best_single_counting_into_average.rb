@@ -5,7 +5,7 @@ require_relative "../core/solve_time"
 class BestSingleCountingIntoAverage < GroupedStatistic
   def initialize
     @title = "Best single counting into an average of 5"
-    @table_header = { "Counting" => :right, "Peson" => :left, "Competition" => :left }
+    @table_header = { "Rank" => :left, "Counting" => :right, "Peson" => :left, "Competition" => :left }
   end
 
   def query
@@ -24,6 +24,7 @@ class BestSingleCountingIntoAverage < GroupedStatistic
 
   def transform(query_results)
     Events::ALL.map do |event_id, event_name|
+      n = 0
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .flat_map do |result|
@@ -36,7 +37,8 @@ class BestSingleCountingIntoAverage < GroupedStatistic
         .first(10)
         .map! do |solve, person_link, results_link|
           solve_time = SolveTime.new(event_id, :single, solve)
-          [solve_time.clock_format, person_link, results_link]
+          n += 1
+          [n, solve_time.clock_format, person_link, results_link]
         end
       [event_name, results]
     end

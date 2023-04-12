@@ -4,7 +4,7 @@ class LongestStreakOfCompetitionsInOwnCountry < Statistic
   def initialize
     @title = "Longest streak of competitions in own country"
     @note = "The streak ends whenever the person doesn't participate in a competition in own country."
-    @table_header = { "Competitions" => :right, "Person" => :left, "Country" => :left, "Started at" => :left, "Missed" => :left }
+    @table_header = { "Rank" => :left, "Competitions" => :right, "Person" => :left, "Country" => :left, "Started at" => :left, "Missed" => :left }
   end
 
   def query
@@ -26,6 +26,7 @@ class LongestStreakOfCompetitionsInOwnCountry < Statistic
   end
 
   def transform(query_results)
+    n = 0
     query_results
       .group_by { |result| result["country"] }
       .flat_map do |country, results|
@@ -51,7 +52,8 @@ class LongestStreakOfCompetitionsInOwnCountry < Statistic
       end
       .sort_by! { |person_link, longest_streak| -longest_streak[:count] }
       .map! do |person_link, longest_streak|
-        [longest_streak[:count], person_link, longest_streak[:country], longest_streak[:first_competition], longest_streak[:last_competition]]
+        n += 1
+        [n, longest_streak[:count], person_link, longest_streak[:country], longest_streak[:first_competition], longest_streak[:last_competition]]
       end
       .first(100)
   end

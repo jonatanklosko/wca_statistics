@@ -35,7 +35,7 @@ class BestFirstAverage < GroupedStatistic
         .first(10)
         .map! do |result|
           average_solve_time = SolveTime.new(event_id, :average, result["average"]).clock_format
-          n = n + 1
+          n += 1
           [n, average_solve_time, result["person_link"]]
         end
       [event_name, results]

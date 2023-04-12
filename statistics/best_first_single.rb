@@ -35,7 +35,7 @@ class BestFirstSingle < GroupedStatistic
         .first(10)
         .map! do |result|
           single_solve_time = SolveTime.new(event_id, :single, result["single"]).clock_format
-          n = n + 1
+          n += 1
           [n, single_solve_time, result["person_link"]]
         end
       [event_name, results]

@@ -16,7 +16,7 @@ class Statistic
     n = 0
     query_results
       .map do |result|
-        n = n + 1
+        n += 1
         [n] + result.values
       end
   end

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 27 March 2023*
+*Updated on 11 April 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -238,6 +238,7 @@
 | 1722 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 1729 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 1729 | [Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01) |
+| 1736 | [Ming Dao Ting](https://www.worldcubeassociation.org/persons/2018TING05) |
 | 1742 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1749 | [Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01) |
 | 1764 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
@@ -254,6 +255,7 @@
 | 1818 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) |
 | 1819 | [Jibo Zhao (赵吉波)](https://www.worldcubeassociation.org/persons/2010ZHAO11) |
 | 1827 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) |
+| 1834 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) |
 | 1835 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 1841 | [Dongyun Yin (殷冬昀)](https://www.worldcubeassociation.org/persons/2012YIND01) |
 | 1841 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
@@ -280,6 +282,7 @@
 | 1996 | [Akifumi Sasaki (佐々木彰史)](https://www.worldcubeassociation.org/persons/2017SASA03) |
 | 2002 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 2009 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 2023 | [David McLean](https://www.worldcubeassociation.org/persons/2017MCLE03) |
 | 2036 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 2038 | [Qirun Zhong (钟奇润)](https://www.worldcubeassociation.org/persons/2008ZHON01) |
 | 2057 | [Liudi Sun (孙柳笛)](https://www.worldcubeassociation.org/persons/2012SUNL03) |

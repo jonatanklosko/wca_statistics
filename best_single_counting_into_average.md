@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 27 March 2023*
+*Updated on 11 April 2023*
 
 
 ### Rubik's Cube
@@ -11,12 +11,12 @@
 | 4.35 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019WANY36) |
 | 4.41 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019WANY36) |
 | 4.45 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2016KOLA02) |
+| 4.48 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [UoSM Cube Day 2023](https://www.worldcubeassociation.org/competitions/UoSMCubeDay2023/results/by_person#2019WANY36) |
 | 4.49 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023/results/by_person#2019WANY36) |
 | 4.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022/results/by_person#2016KOLA02) |
 | 4.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023/results/by_person#2016KOLA02) |
 | 4.62 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Marshall Cubing September 2022](https://www.worldcubeassociation.org/competitions/MarshallCubingSeptember2022/results/by_person#2012PARK03) |
 | 4.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022/results/by_person#2016KOLA02) |
-| 4.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 
@@ -90,8 +90,8 @@
 | 27.76 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Tres Estrellas 2023](https://www.worldcubeassociation.org/competitions/TresEstrellas2023/results/by_person#2018LOPE22) |
 | 28.01 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Mega Open Ciudadela 2022](https://www.worldcubeassociation.org/competitions/MegaOpenCiudadela2022/results/by_person#2018LOPE22) |
 | 28.01 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/by_person#2018LOPE22) |
+| 28.02 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [UoSM Cube Day 2023](https://www.worldcubeassociation.org/competitions/UoSMCubeDay2023/results/by_person#2016YONG02) |
 | 28.09 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Utah PfA 2022](https://www.worldcubeassociation.org/competitions/UtahPfA2022/results/by_person#2015NAIN01) |
-| 28.13 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Open 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpen2023/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 
@@ -112,6 +112,8 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 2.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
+| 2.89 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 3.27 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Naperville Winter B 2022](https://www.worldcubeassociation.org/competitions/NapervilleWinterB2022/results/by_person#2018THOM29) |
 | 3.28 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
 | 3.30 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Sharon Forks Qualifier 2023](https://www.worldcubeassociation.org/competitions/SharonForksQualifier2023/results/by_person#2015CHER07) |
@@ -120,8 +122,6 @@
 | 3.44 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Kendeda Kubing B 2023](https://www.worldcubeassociation.org/competitions/KendedaKubingB2023/results/by_person#2015CHER07) |
 | 3.46 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
 | 3.46 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Stevenage Autumn B 2022](https://www.worldcubeassociation.org/competitions/StevenageAutumnB2022/results/by_person#2017CHAM09) |
-| 3.47 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | [Cubers Flood Watertown 2022](https://www.worldcubeassociation.org/competitions/CubersFloodWatertown2022/results/by_person#2015TREL02) |
-| 3.51 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Lincolnshire Winter 2023](https://www.worldcubeassociation.org/competitions/LincolnshireWinter2023/results/by_person#2017CHAM09) |
 
 ### Skewb
 

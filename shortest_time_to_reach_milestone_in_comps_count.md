@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 27 March 2023*
+*Updated on 11 April 2023*
 
 
 ### 100 Competitions
@@ -62,6 +62,7 @@
 | 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 386 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
 | 392 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
+| 393 | [Vincent Rylander](https://www.worldcubeassociation.org/persons/2022RYLA01) |
 | 400 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
 | 427 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 428 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
@@ -76,7 +77,6 @@
 | 469 | [Mitchell Hum](https://www.worldcubeassociation.org/persons/2017HUMM01) |
 | 469 | [Chunhao Liu (柳春浩)](https://www.worldcubeassociation.org/persons/2017LIUC11) |
 | 470 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
-| 471 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
 
 ### 10 Competitions
 

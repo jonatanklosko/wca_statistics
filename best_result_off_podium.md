@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 27 March 2023*
+*Updated on 11 April 2023*
 
 
 ### Rubik's Cube
@@ -27,12 +27,12 @@
 | [Hao Wang (王浩)](https://www.worldcubeassociation.org/persons/2017WANG90) | 1.31 | **1.65** | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/all#e222_f) | 4 |
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.27 | **1.70** | [Think In Fink Fall 2022](https://www.worldcubeassociation.org/competitions/ThinkInFink2022/results/all#e222_f) | 4 |
 | [Derek Hsieh](https://www.worldcubeassociation.org/persons/2016HSIE02) | 1.45 | **1.71** | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/all#e222_f) | 4 |
+| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.28 | **1.74** | [Virginia Re-Open Spring 2023](https://www.worldcubeassociation.org/competitions/VirginiaReOpenSpring2023/results/all#e222_f) | 4 |
 | [Diego Fraile](https://www.worldcubeassociation.org/persons/2013FRAI01) | 1.57 | **1.74** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e222_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.32 | **1.77** | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/all#e222_f) | 4 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 1.41 | **1.77** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e222_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.60 | **1.77** | [Howland Returns 2022](https://www.worldcubeassociation.org/competitions/HowlandReturns2022/results/all#e222_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.61 | **1.77** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e222_f) | 5 |
-| [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 0.93 | **1.78** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e222_f) | 6 |
 
 ### 4x4x4 Cube
 

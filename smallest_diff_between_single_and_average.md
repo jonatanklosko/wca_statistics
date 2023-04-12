@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 27 March 2023*
+*Updated on 11 April 2023*
 
 
 ### Rubik's Cube
@@ -15,9 +15,9 @@
 | 0.02 | [Yongting You (尤永庭)](https://www.worldcubeassociation.org/persons/2010YOUY01) | 9.40 | 9.42 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/by_person#2010YOUY01) |
 | 0.02 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | 10.53 | 10.55 | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/by_person#2021OTAI01) |
 | 0.02 | [José Josué Daniel Pineda Abrego](https://www.worldcubeassociation.org/persons/2022ABRE01) | 12.94 | 12.96 | [Nacionales Guatemala 2022](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2022/results/by_person#2022ABRE01) |
+| 0.02 | [Lorenzo D'Ammassa](https://www.worldcubeassociation.org/persons/2021DAMM02) | 13.40 | 13.42 | [Eretum 2 Easter 2023](https://www.worldcubeassociation.org/competitions/Eretum2EasterBoogaloo2023/results/by_person#2021DAMM02) |
 | 0.02 | [Yang Liu (刘洋)](https://www.worldcubeassociation.org/persons/2011YANG17) | 20.68 | 20.70 | [Chongqing Open 2013](https://www.worldcubeassociation.org/competitions/ChongqingOpen2013/results/by_person#2011YANG17) |
 | 0.03 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | 7.60 | 7.63 | [Pangasinan Speedcubing Open 2017](https://www.worldcubeassociation.org/competitions/PangasinanSpeedcubingOpen2017/results/by_person#2010APAG01) |
-| 0.03 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) | 9.71 | 9.74 | [South Enough 2018](https://www.worldcubeassociation.org/competitions/SouthEnough2018/results/by_person#2007WOOR01) |
 
 ### 2x2x2 Cube
 
@@ -146,18 +146,19 @@
 | 0.02 | [Yi Wang (王旖)](https://www.worldcubeassociation.org/persons/2011WANG33) | 2.98 | 3.00 | [Suzhou Open 2017](https://www.worldcubeassociation.org/competitions/SuzhouOpen2017/results/by_person#2011WANG33) |
 | 0.02 | [Chiara Giesinger](https://www.worldcubeassociation.org/persons/2022GIES01) | 5.16 | 5.18 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022/results/by_person#2022GIES01) |
 | 0.02 | [Kasper Warberg Borg](https://www.worldcubeassociation.org/persons/2020BORG01) | 9.37 | 9.39 | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022/results/by_person#2020BORG01) |
+| 0.03 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.97 | 2.00 | [Miami in an Ohio Oxford 2023](https://www.worldcubeassociation.org/competitions/MiamiinanOhioOxford2023/results/by_person#2017PALA08) |
 | 0.04 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 2.48 | 2.52 | [Liberty Science Center Open 2019](https://www.worldcubeassociation.org/competitions/LibertyScienceCenterOpen2019/results/by_person#2017HONG17) |
 | 0.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2.65 | 2.69 | [Washtenaw Winter 2023](https://www.worldcubeassociation.org/competitions/WashtenawWinter2023/results/by_person#2016CHAP04) |
 | 0.04 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | 2.69 | 2.73 | [Swisscubing Cup V 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2022/results/by_person#2016ROLZ01) |
 | 0.04 | [Justin Andrew Dee](https://www.worldcubeassociation.org/persons/2015DEEJ02) | 3.12 | 3.16 | [Marikina City Open II 2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019/results/by_person#2015DEEJ02) |
 | 0.04 | [Nolan Wood](https://www.worldcubeassociation.org/persons/2016WOOD01) | 4.21 | 4.25 | [Arnold Classic NA 2019](https://www.worldcubeassociation.org/competitions/ArnoldClassicNorthAmerica2019/results/by_person#2016WOOD01) |
 | 0.04 | [Jiawei Wu (伍嘉维)](https://www.worldcubeassociation.org/persons/2014WUJI01) | 5.71 | 5.75 | [Dongguan Open 2018](https://www.worldcubeassociation.org/competitions/DongguanOpen2018/results/by_person#2014WUJI01) |
-| 0.04 | [Gregorio Missael Lopez Sanchez](https://www.worldcubeassociation.org/persons/2014SANC05) | 8.20 | 8.24 | [CUCEI Open 2015](https://www.worldcubeassociation.org/competitions/CUCEI2015/results/by_person#2014SANC05) |
 
 ### Rubik's Clock
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.01 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 7.23 | 7.24 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019MORG10) |
 | 0.03 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 7.98 | 8.01 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2015SPEN01) |
 | 0.04 | [Lee Yu Zhe](https://www.worldcubeassociation.org/persons/2019ZHEL01) | 11.18 | 11.22 | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/by_person#2019ZHEL01) |
 | 0.05 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 7.44 | 7.49 | [Get To The Point 2022](https://www.worldcubeassociation.org/competitions/GetToThePoint2022/results/by_person#2013JOHN10) |
@@ -167,7 +168,6 @@
 | 0.07 | [Patrick Drew Dwyer](https://www.worldcubeassociation.org/persons/2019DWYE01) | 7.10 | 7.17 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2019DWYE01) |
 | 0.07 | [Mikas Motiejuitis](https://www.worldcubeassociation.org/persons/2017MOTI02) | 8.74 | 8.81 | [Vilnius Spring Open 2023](https://www.worldcubeassociation.org/competitions/VilniusSpringOpen2023/results/by_person#2017MOTI02) |
 | 0.07 | [Charles Jerome](https://www.worldcubeassociation.org/persons/2016JERO01) | 10.00 | 10.07 | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019/results/by_person#2016JERO01) |
-| 0.07 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) | 15.50 | 15.57 | [Dutch Open 2008](https://www.worldcubeassociation.org/competitions/DutchOpen2008/results/by_person#2005OOMS01) |
 
 ### Skewb
 
@@ -223,11 +223,11 @@
 | 7.02 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:53.15 | 7:00.17 | [Kidderminster - BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterBlindOff2022/results/by_person#2019HIRS01) |
 | 7.78 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 8:41.99 | 8:49.77 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019/results/by_person#2016FANG01) |
 | 8.15 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:46.56 | 3:54.71 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/by_person#2013LINK01) |
+| 9.79 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4:00.56 | 4:10.35 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019ECKE02) |
+| 10.00 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | 13:26.00 | 13:36.00 | [Oculus Cube Open 2023](https://www.worldcubeassociation.org/competitions/OculusCubeOpen2023/results/by_person#2011BANS02) |
 | 10.05 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 2:39.12 | 2:49.17 | [Selangor Cube Open 2019](https://www.worldcubeassociation.org/competitions/SelangorCubeOpen2019/results/by_person#2013LINK01) |
 | 11.00 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 13:45.00 | 13:56.00 | [Blind Is Back LA 2022](https://www.worldcubeassociation.org/competitions/BlindIsBackLA2022/results/by_person#2012LAUR02) |
-| 12.51 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) | 9:26.26 | 9:38.77 | [German Nationals 2022](https://www.worldcubeassociation.org/competitions/GermanNationals2022/results/by_person#2018BLOC01) |
-| 12.76 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:33.16 | 6:45.92 | [Farnworth Spring A 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringA2022/results/by_person#2019HIRS01) |
-| 13.18 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 8:49.83 | 9:03.01 | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019/results/by_person#2012HALE01) |
+| 11.42 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 3:27.30 | 3:38.72 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019HIRS01) |
 
 ### 3x3x3 With Feet
 

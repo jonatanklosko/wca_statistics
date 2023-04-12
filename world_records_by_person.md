@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 27 March 2023*
+*Updated on 11 April 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -126,6 +126,7 @@
 | 2 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) |
+| 2 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 2 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 2 | [Jean Pons](https://www.worldcubeassociation.org/persons/2004PONS01) |
@@ -196,7 +197,6 @@
 | 1 | [Ishaan Agrawal](https://www.worldcubeassociation.org/persons/2015AGRA03) |
 | 1 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 1 | [Jackey Zheng](https://www.worldcubeassociation.org/persons/2017ZHEN10) |
-| 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 1 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) |
 | 1 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
 | 1 | [Javier París](https://www.worldcubeassociation.org/persons/2005PARI01) |
@@ -225,6 +225,7 @@
 | 1 | [Mario Laurent](https://www.worldcubeassociation.org/persons/2008LAUR01) |
 | 1 | [Mharr Justhinne Ampong](https://www.worldcubeassociation.org/persons/2012AMPO01) |
 | 1 | [Micael Hellberg](https://www.worldcubeassociation.org/persons/2004HELL01) |
+| 1 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) |
 | 1 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 1 | [Mike Godfrey](https://www.worldcubeassociation.org/persons/2004GODF01) |
 | 1 | [Minh Thai](https://www.worldcubeassociation.org/persons/1982THAI01) |

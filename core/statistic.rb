@@ -33,11 +33,13 @@ class Statistic
   end
 
   def markdown_table(header, data)
-    table = "| #{header.keys.join(' | ')} |\n"
+    table = "| Rank | #{header.keys.join(' | ')} |\n"
     alignments = { left: ":---", center: ":--:", right: "---:" }
-    table += "| #{header.values.map { |alignment| alignments[alignment] }.join(' | ')} |\n"
+    table += "| :--- | #{header.values.map { |alignment| alignments[alignment] }.join(' | ')} |\n"
+    n = 1
     data.each do |row|
-      table += "| #{row.join(' | ')} |\n"
+      table += "| #{n} | #{row.join(' | ')} |\n"
+      n += 1
     end
     table
   end

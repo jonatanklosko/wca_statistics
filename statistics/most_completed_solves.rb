@@ -3,7 +3,7 @@ require_relative "../core/grouped_statistic"
 class MostCompletedSolves < GroupedStatistic
   def initialize
     @title = "Most completed solves"
-    @table_header = { "Rank" => :left, "" => :left, "Solves" => :right, "Attempts" => :right }
+    @table_header = { "" => :left, "Solves" => :right, "Attempts" => :right }
   end
 
   def query
@@ -35,14 +35,12 @@ class MostCompletedSolves < GroupedStatistic
       "Year" => "year",
       "Event" => "event"
     }.map do |group_name, group_field|
-      n = 0
       count_by_group = query_results
         .group_by { |result| result[group_field] }
         .map do |group_value, results|
           completed_count = results.sum { |result| result["completed_count"] }
           attempts_count = completed_count + results.sum { |result| result["dnfs_count"] } # Completed and DNFs.
-          n += 1
-          [n, group_value, completed_count, attempts_count]
+          [group_value, completed_count, attempts_count]
         end
         .sort_by! { |group_value, completed_count, attempts_count| [-completed_count, attempts_count, group_value] }
         .first(20)

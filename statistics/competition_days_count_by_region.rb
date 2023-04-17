@@ -3,7 +3,7 @@ require_relative "../core/grouped_statistic"
 class CompetitionDaysCountByRegion < GroupedStatistic
   def initialize
     @title = "Competition days count by region"
-    @table_header = { "Rank" => :left, "Days" => :right, "Region" => :left, "Competitions" => :right }
+    @table_header = { "Days" => :right, "Region" => :left, "Competitions" => :right }
   end
 
   def query
@@ -25,14 +25,12 @@ class CompetitionDaysCountByRegion < GroupedStatistic
       "Continents" => ->(result) { result["continent"] },
       "Countries" => ->(result) { result["country"] }
     }.map do |header, grouping_function|
-      n = 0
       results = query_results
         .group_by(&grouping_function)
         .map do |region, competitions|
           days = competitions.map { |competition| competition["days"] }
           days_mean = days.reduce(:+).to_f / competitions.count
-          n += 1
-          [n, days_mean, region, competitions.count]
+          [days_mean, region, competitions.count]
         end
         .sort_by! { |days_mean, region, competitions_count| [-days_mean, region] }
         .map { |days_mean, region, competitions_count| ["%0.2f" % days_mean, region, competitions_count] }

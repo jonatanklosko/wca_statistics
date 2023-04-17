@@ -6,7 +6,7 @@ class LongestStreakOfPodiums < Statistic
     @note = "All competitions that did not hold the given event are ignored. "\
             "Results without any completed attempt are not eligible for podium. "\
             "Only finals are taken into account."
-    @table_header = {"Rank" => :left, "Count" => :right, "Person" => :left, "Event" => :left, "Started at" => :left, "Ended at" => :left }
+    @table_header = { "Count" => :right, "Person" => :left, "Event" => :left, "Started at" => :left, "Ended at" => :left }
   end
 
   def query
@@ -28,7 +28,6 @@ class LongestStreakOfPodiums < Statistic
   end
 
   def transform(query_results)
-    n = 0
     query_results
       .group_by { |result| result["person_link"] }
       .map do |person_link, person_results|
@@ -56,8 +55,7 @@ class LongestStreakOfPodiums < Statistic
       .sort_by! { |podiums_streak| -podiums_streak[:count] }
       .first(100)
       .map! do |streak|
-        n += 1
-        [n, streak[:count], streak[:person_link], streak[:event_name], streak[:first_competition], streak[:last_competition]]
+        [streak[:count], streak[:person_link], streak[:event_name], streak[:first_competition], streak[:last_competition]]
       end
   end
 end

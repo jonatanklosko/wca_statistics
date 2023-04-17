@@ -8,7 +8,7 @@ class AverageOfX < GroupedStatistic
 
     @title = "Average of #{@solve_count}"
     @note = "#{@solve_count} consecutive official attempts are considered. Only people from top 200 single are taken into account."
-    @table_header = { "Rank" => :left, "Ao#{@solve_count}" => :right, "Person" => :left, "Times" => :left }
+    @table_header = { "Ao#{@solve_count}" => :right, "Person" => :left, "Times" => :left }
   end
 
   # Cache result of the query as it's the same for each subclass
@@ -35,7 +35,6 @@ class AverageOfX < GroupedStatistic
 
   def transform(query_results)
     Events::ALL.map do |event_id, event_name|
-      n = 0
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }
@@ -65,8 +64,7 @@ class AverageOfX < GroupedStatistic
           solve_times = best_aox_solves.map do |solve|
             solve == Float::INFINITY ? SolveTime::DNF : SolveTime.new(event_id, :single, solve)
           end
-          n += 1
-          [n, best_aox.clock_format, person_link, solve_times.map(&:clock_format).join(', ')]
+          [best_aox.clock_format, person_link, solve_times.map(&:clock_format).join(', ')]
         end
       [event_name, results]
     end

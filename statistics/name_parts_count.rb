@@ -4,7 +4,7 @@ class NamePartsCount < Statistic
   def initialize
     @title = "Name parts count"
     @note = "Local names within parentheses are ignored."
-    @table_header = { "Rank" => :left, "Parts" => :center, "People" => :right, "Countries of origin" => :left }
+    @table_header = { "Parts" => :center, "People" => :right, "Countries of origin" => :left }
   end
 
   def query
@@ -19,7 +19,6 @@ class NamePartsCount < Statistic
   end
 
   def transform(query_results)
-    n = 0
     query_results
       .group_by { |person| person["name"].gsub(/ \(.*\)/, '').split(' ').count }
       .map do |parts_count, people|
@@ -34,8 +33,7 @@ class NamePartsCount < Statistic
             "#{country} *(#{percent} %)*"
           end
           .join(', ')
-        n += 1
-        [n, parts_count, people.count, countries]
+        [parts_count, people.count, countries]
       end
       .sort_by!(&:first)
   end

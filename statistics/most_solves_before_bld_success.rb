@@ -3,7 +3,7 @@ require_relative "../core/grouped_statistic"
 class MostSolvesBeforeBldSuccess < GroupedStatistic
   def initialize
     @title = "Most solves before getting a successful BLD attempt"
-    @table_header = { "Rank" => :left, "Attempts" => :right, "Person" => :left }
+    @table_header = { "Attempts" => :right, "Person" => :left }
   end
 
   def query
@@ -24,7 +24,6 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
 
   def transform(query_results)
     Events::BLD.map do |event_id, event_name|
-      n = 0
       attempts_with_people = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }
@@ -34,8 +33,7 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
             .flatten
             .select { |time| time == -1 || time > 0 } # Grab times only. Reject skipped and DNS sovles.
             .find_index { |time| time > 0 }
-          n += 1
-          [n, attempts_before_success, person_link]
+          [attempts_before_success, person_link]
         end
         .reject { |attempts_before_success, person_link| attempts_before_success.nil? }
         .sort_by! { |attempts_before_success, person_link| -attempts_before_success }

@@ -3,7 +3,7 @@ require_relative "../core/grouped_statistic"
 class MostRecordsAtSingleCompetition < GroupedStatistic
   def initialize
     @title = "Most records at a single competition"
-    @table_header = { "Rank" => :left, "Records" => :right, "Person" => :left, "Results" => :left }
+    @table_header = { "Records" => :right, "Person" => :left, "Results" => :left }
   end
 
   def query
@@ -27,7 +27,6 @@ class MostRecordsAtSingleCompetition < GroupedStatistic
       "Continental" => %w(AfR AsR NAR SAR ER OcR WR),
       "National" => %w(NR AfR AsR NAR SAR ER OcR WR)
     }.map do |header, record_ids|
-      n = 0
       records_at_single_competition = query_results
         .group_by { |result| [result["person_link"], result["results_link"]] } # Group by person and competition.
         .map do |(person_link, results_link), results|
@@ -39,8 +38,7 @@ class MostRecordsAtSingleCompetition < GroupedStatistic
               result_records
             end
             .reduce(&:+)
-          n += 1
-          [n, records_count, person_link, results_link]
+          [records_count, person_link, results_link]
         end
         .sort_by! { |records_count, person_link, results_link| -records_count }
       [header, take_top_n_with_ties(records_at_single_competition, 20, 0)]

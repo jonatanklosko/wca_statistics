@@ -6,7 +6,7 @@ class SmallestDiffBetweenSingleAndAverage < GroupedStatistic
   def initialize
     @title = "Smallest difference between a single and an average"
     @note = "FMC is ignored because values are integers, thus it's likely to get the same single and average."
-    @table_header = { "Rank" => :left, "Diff" => :right, "Person" => :left, "Single" => :right, "Average" => :right, "Results" => :left }
+    @table_header = { "Diff" => :right, "Person" => :left, "Single" => :right, "Average" => :right, "Results" => :left }
   end
 
   def query
@@ -26,7 +26,6 @@ class SmallestDiffBetweenSingleAndAverage < GroupedStatistic
 
   def transform(query_results)
     Events::ALL.map do |event_id, event_name|
-      n = 0
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .each { |result| result["diff"] = result["average"] - result["single"] }
@@ -36,8 +35,7 @@ class SmallestDiffBetweenSingleAndAverage < GroupedStatistic
           diff = "%0.2f" % (result["diff"] / 100.0)
           single_solve_time = SolveTime.new(result["event_id"], :single, result["single"]).clock_format
           average_solve_time = SolveTime.new(result["event_id"], :average, result["average"]).clock_format
-          n += 1
-          [n, diff, result["person_link"], single_solve_time, average_solve_time, result["results_link"]]
+          [diff, result["person_link"], single_solve_time, average_solve_time, result["results_link"]]
         end
       [event_name, results]
     end

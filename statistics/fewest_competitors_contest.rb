@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class FewestCompetitorsContest < Statistic
   def initialize
     @title = "Fewest competitors contest"
-    @table_header = { "Rank" => :left, "Competitors" => :right, "Competition" => :left }
+    @table_header = { "Competitors" => :right, "Competition" => :left }
   end
 
   def query

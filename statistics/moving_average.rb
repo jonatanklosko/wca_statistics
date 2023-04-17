@@ -15,7 +15,7 @@ class MovingAverage < GroupedStatistic
       People with less than 5 averages are ignored (as there's not much data to base on).
     NOTE
     .strip
-    @table_header = { "Rank" => :left, "Moving average" => :right, "Person" => :left }
+    @table_header = { "Moving average" => :right, "Person" => :left }
   end
 
   def query
@@ -35,15 +35,13 @@ class MovingAverage < GroupedStatistic
 
   def transform(query_results)
     Events::ALL.map do |event_id, event_name|
-      n = 0
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }
         .select { |person_link, results| results.length >= 5 } # Arbitrarily remove people with less than 5 averages, as there is not enough data to base on.
         .map do |person_link, results|
           average = moving_average(results.map { |result| result["average"] })
-          n += 1
-          [n, average, person_link]
+          [average, person_link]
         end
         .sort_by! { |average, person_link| average }
         .first(50)

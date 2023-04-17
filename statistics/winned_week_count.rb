@@ -4,7 +4,7 @@ class WinnedWeekCount < GroupedStatistic
   def initialize
     @title = "Winned week count"
     @note = "In other words it's the number of weeks when the given person got the fastest single in the given event."
-    @table_header = { "Rank" => :left, "Person" => :left, "Winned weeks" => :right }
+    @table_header = { "Person" => :left, "Winned weeks" => :right }
   end
 
   def query
@@ -40,7 +40,6 @@ class WinnedWeekCount < GroupedStatistic
 
   def transform(query_results)
     Events::ALL.map do |event_id, event_name|
-      n = 0
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .sort_by! do |result|
@@ -48,8 +47,7 @@ class WinnedWeekCount < GroupedStatistic
         end
         .first(20)
         .map! do |result|
-          n += 1
-          [n, result["person_link"], result["winned_weeks"]]
+          [result["person_link"], result["winned_weeks"]]
         end
       [event_name, results]
     end

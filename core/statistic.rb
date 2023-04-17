@@ -13,12 +13,7 @@ class Statistic
   end
 
   def transform(query_results)
-    n = 0
-    query_results
-      .map do |result|
-        n += 1
-        [n] + result.values
-      end
+    query_results.each(as: :array)
   end
 
   def data

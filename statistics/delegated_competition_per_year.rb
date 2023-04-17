@@ -5,7 +5,7 @@ class DelegatedCompetitionPerYear < Statistic
     @title = "Delegated competitions per year"
     @note = "Only delegates with at least 5 competitions are taken into account.
              Delegate period is calculated as the difference between first and last delegated competition."
-    @table_header = { "Rank" => :left, "Delegated per year" => :right, "Delegated" => :right, "Years" => :right, "Person" => :left, "List on WCA" => :center }
+    @table_header = { "Delegated per year" => :right, "Delegated" => :right, "Years" => :right, "Person" => :left, "List on WCA" => :center }
   end
 
   def query
@@ -34,10 +34,8 @@ class DelegatedCompetitionPerYear < Statistic
   end
 
   def transform(query_results)
-    n = 0
     query_results.map do |result|
-      n += 1
-      [n, "%0.2f" % result["delegated_per_year"], result["delegated_count"], "%0.2f" % result["years"], result["person_link"], result["list_link"]]
+      ["%0.2f" % result["delegated_per_year"], result["delegated_count"], "%0.2f" % result["years"], result["person_link"], result["list_link"]]
     end
   end
 end

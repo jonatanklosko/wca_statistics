@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class LongestStreakOfWorldRecords < Statistic
   def initialize
     @title = "Longest streak of world records of the same type in the given event"
-    @table_header = { "Rank" => :left, "Records" => :right, "Event" => :left, "Type" => :left, "Person" => :left, "Started at" => :left, "Ended at" => :left, "Years" => :right }
+    @table_header = { "Records" => :right, "Event" => :left, "Type" => :left, "Person" => :left, "Started at" => :left, "Ended at" => :left, "Years" => :right }
   end
 
   def query
@@ -25,7 +25,6 @@ class LongestStreakOfWorldRecords < Statistic
   end
 
   def transform(query_results)
-    n = 0
     Events::ALL.flat_map do |event_id, event_name|
       %w(single average).flat_map do |type|
         query_results
@@ -56,8 +55,7 @@ class LongestStreakOfWorldRecords < Statistic
     .sort_by! { |wr_streak| -wr_streak[:count] }
     .map! do |wr_streak|
       years = (wr_streak[:end_date] - wr_streak[:start_date]).to_i / 365.25
-      n += 1
-      [n, wr_streak[:count], wr_streak[:event], wr_streak[:type], wr_streak[:person_link], wr_streak[:first_competition], wr_streak[:last_competition], "%0.2f" % years]
+      [wr_streak[:count], wr_streak[:event], wr_streak[:type], wr_streak[:person_link], wr_streak[:first_competition], wr_streak[:last_competition], "%0.2f" % years]
     end
   end
 end

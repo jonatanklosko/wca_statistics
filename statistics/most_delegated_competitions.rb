@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class MostDelegatedCompetitions < Statistic
   def initialize
     @title = "Most delegated competitions"
-    @table_header = { "Rank" => :left, "Delegated" => :right, "Person" => :left, "List on WCA" => :center }
+    @table_header = { "Delegated" => :right, "Person" => :left, "List on WCA" => :center }
   end
 
   def query

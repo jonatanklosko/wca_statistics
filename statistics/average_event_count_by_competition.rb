@@ -4,7 +4,7 @@ class AverageEventCountByCompetition < Statistic
   def initialize
     @title = "Average event count by competition"
     @note = "In other words, average number of events competitors participated in."
-    @table_header = { "Rank" => :left, "Competition" => :left, "Average event count" => :right, "Competitors" => :right, "Country" => :left }
+    @table_header = { "Competition" => :left, "Average event count" => :right, "Competitors" => :right, "Country" => :left }
   end
 
   def query
@@ -31,11 +31,9 @@ class AverageEventCountByCompetition < Statistic
   end
 
   def transform(query_results)
-    n = 0
     query_results
       .map do |result|
-        n += 1
-        [n, result["competition_link"], "%0.2f" % result["average_event_count"], result["competitors"], result["country"]]
+        [result["competition_link"], "%0.2f" % result["average_event_count"], result["competitors"], result["country"]]
       end
   end
 end

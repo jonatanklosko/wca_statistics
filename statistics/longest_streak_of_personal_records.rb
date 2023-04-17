@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class LongestStreakOfPersonalRecords < Statistic
   def initialize
     @title = "Longest streak of competitions with a personal record done"
-    @table_header = { "Rank" => :left, "Competitions" => :right, "Person" => :left, "Started at" => :left, "Ended at" => :left }
+    @table_header = { "Competitions" => :right, "Person" => :left, "Started at" => :left, "Ended at" => :left }
   end
 
   def query
@@ -23,7 +23,6 @@ class LongestStreakOfPersonalRecords < Statistic
   end
 
   def transform(query_results)
-    n = 0
     query_results
       .group_by { |result| result["person_link"] }
       .map do |person_link, person_results|
@@ -50,8 +49,7 @@ class LongestStreakOfPersonalRecords < Statistic
             current_pbs_streak = nil
           end
         end
-        n += 1
-        [n, longest_pbs_streak[:count], person_link, longest_pbs_streak[:first_competition], longest_pbs_streak[:last_competition]]
+        [longest_pbs_streak[:count], person_link, longest_pbs_streak[:first_competition], longest_pbs_streak[:last_competition]]
       end
       .sort_by! { |longest_pbs_streak, _, _, _, _| -longest_pbs_streak }
       .first(100)

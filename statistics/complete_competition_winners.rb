@@ -4,7 +4,7 @@ class CompleteCompetitionWinners < Statistic
   def initialize
     @title = "Complete competition winners"
     @note = "A complete win means taking the first place in every event on the given competition."
-    @table_header = { "Rank" => :left, "Events count" => :right, "Person" => :left, "Citizen of" => :left, "Competition" => :left }
+    @table_header = { "Events count" => :right, "Person" => :left, "Citizen of" => :left, "Competition" => :left }
   end
 
   def query

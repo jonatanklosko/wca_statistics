@@ -8,6 +8,10 @@ class WorldChampionshipRecords < GroupedStatistic
     @note = "This is a list of the best results from all World Championships. It corresponds to Olympic records for Olympic sports."
     @table_header = { "Event" => :left, "Result" => :right, "Person" => :left, "Citizen of" => :left, "Competition" => :left }
   end
+  
+  def include_rank
+    false
+  end
 
   def query
     <<-SQL

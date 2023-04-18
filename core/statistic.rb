@@ -31,15 +31,28 @@ class Statistic
   def markdown
     top + markdown_table(@table_header, data)
   end
+  
+  def include_rank
+    true
+  end
 
   def markdown_table(header, data)
-    table = "| Rank | #{header.keys.join(' | ')} |\n"
     alignments = { left: ":---", center: ":--:", right: "---:" }
-    table += "| :--- | #{header.values.map { |alignment| alignments[alignment] }.join(' | ')} |\n"
-    n = 1
-    data.each do |row|
-      table += "| #{n} | #{row.join(' | ')} |\n"
-      n += 1
+    table = ""
+    if include_rank
+      table = "| Rank | #{header.keys.join(' | ')} |\n"
+      table += "| :--- | #{header.values.map { |alignment| alignments[alignment] }.join(' | ')} |\n"
+      n = 1
+      data.each do |row|
+        table += "| #{n} | #{row.join(' | ')} |\n"
+        n += 1
+      end
+    else
+      table = "| #{header.keys.join(' | ')} |\n"
+      table += "| #{header.values.map { |alignment| alignments[alignment] }.join(' | ')} |\n"
+      data.each do |row|
+        table += "| #{row.join(' | ')} |\n"
+      end
     end
     table
   end

@@ -6,6 +6,10 @@ class NamePartsCount < Statistic
     @note = "Local names within parentheses are ignored."
     @table_header = { "Parts" => :center, "People" => :right, "Countries of origin" => :left }
   end
+  
+  def include_rank
+    false
+  end
 
   def query
     <<-SQL

@@ -1,6 +1,6 @@
 This is a fork of [Jonatan Klosko's WCA Statistics page](https://github.com/jonatanklosko/wca_statistics), which makes a few small changes.
 
-- Add a statistic that tracks PR streaks that are currently ongoing
+- Add a statistic that tracks only PR streaks that are currently ongoing (the original statistic includes streaks that were lost)
 - Add numerical rankings to the tables
 
 I'm also planning a couple more tweaks.

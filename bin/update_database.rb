@@ -8,9 +8,9 @@ require_relative "../core/database"
 
 Dir.mktmpdir do |tmp_direcory|
   FileUtils.cd tmp_direcory do
-    database_export_url = "https://www.worldcubeassociation.org/results/misc/WCA_export.sql.zip"
-    zip_filename = "WCA_export.sql.zip"
-    filename = "WCA_export.sql"
+    database_export_url = "https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip"
+    zip_filename = "wca-developer-database-dump.zip"
+    filename = "wca-developer-database-dump.sql"
     config = Database::DATABASE_CONFIG
     mysql_with_credentials = "mysql --user=#{config["username"]} --password=#{config["password"]}"
     filter_out_mysql_warning = '2>&1 | grep -v "[Warning] Using a password on the command line interface can be insecure."'

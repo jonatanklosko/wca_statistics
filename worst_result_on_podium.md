@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 11 April 2023*
+*Updated on 13 May 2023*
 
 
 ### Rubik's Cube
@@ -113,6 +113,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Emú Ticknor Byrd](https://www.worldcubeassociation.org/persons/2022TICK02) | 64 | **69.67** | [JAM FMC V 2023](https://www.worldcubeassociation.org/competitions/JAMFMCV2023/results/podiums#e333fm) | 2 |
 | [Manuel Aleandro Chang Pérez](https://www.worldcubeassociation.org/persons/2015PERE29) | 59 | **67.00** | [Xela Open 2016](https://www.worldcubeassociation.org/competitions/XelaOpen2016/results/podiums#e333fm) | 3 |
 | [Hossein Mastan (حسین مستان)](https://www.worldcubeassociation.org/persons/2015MAST01) | 59 | **67.00** | [IranFMC 2015](https://www.worldcubeassociation.org/competitions/IranFMC2015/results/podiums#e333fm) | 2 |
 | [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) | 55 | **62.67** | [Please Be Quiet Utah 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietUtah2019/results/podiums#e333fm) | 2 |
@@ -122,7 +123,6 @@
 | [Ryan Xiao](https://www.worldcubeassociation.org/persons/2022XIAO03) | 57 | **59.33** | [Please Be Solved Vancouver 2022](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2022/results/podiums#e333fm) | 3 |
 | [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | 57 | **58.67** | [1st Jorhat Open 2019](https://www.worldcubeassociation.org/competitions/1stJorhatOpen2019/results/podiums#e333fm) | 3 |
 | [David Arturo Díaz](https://www.worldcubeassociation.org/persons/2016DIAZ14) | 47 | **58.67** | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums#e333fm) | 2 |
-| [Evgeniy Lee](https://www.worldcubeassociation.org/persons/2018LEEE03) | 54 | **57.67** | [Silent Winter Tashkent 2020](https://www.worldcubeassociation.org/competitions/SilentWinterTashkent2020/results/podiums#e333fm) | 3 |
 
 ### 3x3x3 One-Handed
 

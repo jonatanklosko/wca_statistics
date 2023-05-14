@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 11 April 2023*
+*Updated on 13 May 2023*
 
 
 ### Rubik's Cube
@@ -114,15 +114,15 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22 | **23.67** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 4 |
+| [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | 22 | **23.67** | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/all#e333fm_f) | 4 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 22 | **24.00** | [Pittsburgh Fall 2022](https://www.worldcubeassociation.org/competitions/PittsburghFall2022/results/all#e333fm_f) | 4 |
 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 21 | **24.33** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 5 |
 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 22 | **24.67** | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022/results/all#e333fm_f) | 4 |
 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 22 | **25.00** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333fm_f) | 4 |
 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 22 | **25.00** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e333fm_f) | 4 |
+| [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 23 | **25.00** | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/all#e333fm_f) | 5 |
 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | 21 | **25.33** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e333fm_f) | 5 |
 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) | 24 | **25.33** | [Cambridge Holiday FMC 2022](https://www.worldcubeassociation.org/competitions/CambridgeHolidayFMC2022/results/all#e333fm_f) | 4 |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 24 | **25.33** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333fm_f) | 4 |
-| [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | 24 | **25.33** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333fm_f) | 5 |
 
 ### 3x3x3 One-Handed
 
@@ -175,14 +175,14 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.27 | **5.28** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 4 |
 | [Lucas Nieuwland](https://www.worldcubeassociation.org/persons/2018NIEU01) | 4.52 | **5.29** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 5 |
+| [Ethan Cho](https://www.worldcubeassociation.org/persons/2018CHOE02) | 4.98 | **5.34** | [Swallow Spring 2023](https://www.worldcubeassociation.org/competitions/SwallowSpring2023/results/all#eclock_f) | 4 |
 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | 4.25 | **5.44** | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/all#eclock_f) | 4 |
 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.48 | **5.44** | [Cubers Flood Watertown 2022](https://www.worldcubeassociation.org/competitions/CubersFloodWatertown2022/results/all#eclock_f) | 4 |
+| [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | 4.47 | **5.48** | [AlphaCubing B 2023](https://www.worldcubeassociation.org/competitions/AlphaCubingB2023/results/all#eclock_f) | 4 |
 | [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) | 4.45 | **5.57** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 6 |
 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | 4.75 | **5.57** | [Niner Nation Open 2023](https://www.worldcubeassociation.org/competitions/NinerNationOpen2023/results/all#eclock_f) | 4 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 5.11 | **5.58** | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022/results/all#eclock_f) | 4 |
 | [Max Walaszek](https://www.worldcubeassociation.org/persons/2018WALA01) | 4.91 | **5.61** | [Naperville Winter B 2022](https://www.worldcubeassociation.org/competitions/NapervilleWinterB2022/results/all#eclock_f) | 4 |
-| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.47 | **5.75** | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/all#eclock_f) | 4 |
-| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 4.72 | **5.75** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 7 |
 
 ### Skewb
 
@@ -192,7 +192,7 @@
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.22 | **2.72** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 5 |
 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | 2.06 | **2.74** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 6 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.31 | **2.83** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 7 |
-| [Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 2.29 | **2.91** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eskewb_f) | 4 |
+| [Charles Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 2.29 | **2.91** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eskewb_f) | 4 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 2.62 | **2.99** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 8 |
 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 2.68 | **3.03** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eskewb_f) | 5 |
 | [Zeyu Gao (高泽宇)](https://www.worldcubeassociation.org/persons/2016GAOZ05) | 2.33 | **3.07** | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#eskewb_f) | 4 |

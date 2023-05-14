@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 11 April 2023*
+*Updated on 13 May 2023*
 
 
 ### 3x3x3 Blindfolded
@@ -9,7 +9,7 @@
 | ---: | :--- |
 | 81 | [Serhii Koksharov (Сергій Кокшаров)](https://www.worldcubeassociation.org/persons/2013KOKS01) |
 | 50 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
-| 44 | [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) |
+| 44 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 43 | [Noah Paredes](https://www.worldcubeassociation.org/persons/2016PARE03) |
 | 37 | [Konstantin Ushakov](https://www.worldcubeassociation.org/persons/2014USHA02) |
 | 37 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
@@ -76,14 +76,14 @@
 | 15 | [Deni Mintsaev (Дени Минцаев)](https://www.worldcubeassociation.org/persons/2013MINT01) |
 | 15 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 15 | [Keenan Johnson](https://www.worldcubeassociation.org/persons/2016JOHN30) |
-| 14 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) |
+| 15 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) |
 
 ### 3x3x3 Multi-Blind
 
 | Attempts | Person |
 | ---: | :--- |
 | 19 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
-| 15 | [Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01) |
+| 15 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 13 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 12 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 11 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |

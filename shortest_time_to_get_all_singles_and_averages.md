@@ -1,11 +1,12 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 11 April 2023*
+*Updated on 13 May 2023*
 
 | Days | Person |
 | ---: | :--- |
 | 385 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
+| 406 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) |
 | 426 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 496 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 665 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |

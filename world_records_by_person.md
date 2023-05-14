@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 11 April 2023*
+*Updated on 13 May 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -64,7 +64,7 @@
 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 4 | [Brandon Lin](https://www.worldcubeassociation.org/persons/2011LINB01) |
+| 4 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) |
 | 4 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) |
 | 4 | [Craig Bouchard](https://www.worldcubeassociation.org/persons/2005BOUC01) |
 | 4 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
@@ -181,6 +181,8 @@
 | 1 | [Danyang Chen (陈丹阳)](https://www.worldcubeassociation.org/persons/2007DANY01) |
 | 1 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |
 | 1 | [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01) |
+| 1 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
+| 1 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) |
 | 1 | [Fakhri Raihaan](https://www.worldcubeassociation.org/persons/2010RAIH01) |
 | 1 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
 | 1 | [Grant Tregay](https://www.worldcubeassociation.org/persons/2003TREG02) |
@@ -262,6 +264,7 @@
 | 1 | [Toby Mao (毛台立)](https://www.worldcubeassociation.org/persons/2004MAOT01) |
 | 1 | [Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01) |
 | 1 | [Tong Jiang (蒋彤)](https://www.worldcubeassociation.org/persons/2009JIAN03) |
+| 1 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) |
 | 1 | [Ty Marshall](https://www.worldcubeassociation.org/persons/2014MARS04) |
 | 1 | [Uladzislau Ushakov (Владислав Ушаков)](https://www.worldcubeassociation.org/persons/2014USHA01) |
 | 1 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |

@@ -1,6 +1,6 @@
 ## DNF rate by event
 
-*Updated on 13 May 2023*
+*Updated on 14 May 2023*
 
 | DNF rate | Event | DNFs | Attempts |
 | ---: | :--- | ---: | ---: |
@@ -20,7 +20,7 @@
 | 3.77 % | 6x6x6 Cube | 5886 | 156270 |
 | 3.57 % | Master Magic | 1481 | 41445 |
 | 3.32 % | 3x3x3 One-Handed | 44913 | 1351622 |
-| 3.15 % | 5x5x5 Cube | 23109 | 734000 |
+| 3.15 % | 5x5x5 Cube | 23110 | 734000 |
 | 2.70 % | Skewb | 27446 | 1018170 |
 | 2.63 % | Pyraminx | 44436 | 1687095 |
 | 2.53 % | 2x2x2 Cube | 68640 | 2712614 |

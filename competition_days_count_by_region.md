@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 14 May 2023*
+*Updated on 15 May 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 9653 |
+| 1.49 | World | 9667 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.76 | Europe | 3162 |
-| 1.57 | South America | 1078 |
-| 1.47 | Oceania | 416 |
+| 1.76 | Europe | 3164 |
+| 1.57 | South America | 1079 |
+| 1.47 | Oceania | 422 |
 | 1.41 | Asia | 2268 |
 | 1.24 | Africa | 107 |
-| 1.21 | North America | 2622 |
+| 1.21 | North America | 2627 |
 
 ### Countries
 
@@ -51,21 +51,21 @@
 | 1.81 | Thailand | 37 |
 | 1.81 | Austria | 21 |
 | 1.80 | Iceland | 10 |
-| 1.79 | Brazil | 351 |
+| 1.79 | Brazil | 352 |
 | 1.78 | Guatemala | 50 |
 | 1.75 | Sri Lanka | 4 |
 | 1.73 | Denmark | 124 |
 | 1.72 | Slovenia | 25 |
 | 1.71 | Argentina | 66 |
 | 1.71 | Ukraine | 110 |
-| 1.68 | Poland | 363 |
+| 1.68 | Poland | 364 |
 | 1.67 | Bangladesh | 9 |
 | 1.67 | Kyrgyzstan | 3 |
 | 1.67 | Luxembourg | 3 |
 | 1.67 | Montenegro | 3 |
 | 1.67 | North Macedonia | 6 |
 | 1.67 | San Marino | 6 |
-| 1.66 | Sweden | 172 |
+| 1.66 | Sweden | 173 |
 | 1.66 | Iran | 32 |
 | 1.61 | Indonesia | 187 |
 | 1.61 | Ireland | 36 |
@@ -83,8 +83,8 @@
 | 1.50 | Tajikistan | 2 |
 | 1.49 | Peru | 161 |
 | 1.45 | Romania | 78 |
-| 1.44 | Australia | 332 |
 | 1.44 | Greece | 16 |
+| 1.43 | Australia | 338 |
 | 1.43 | Singapore | 35 |
 | 1.40 | Jordan | 10 |
 | 1.39 | Nepal | 18 |
@@ -110,7 +110,7 @@
 | 1.22 | Japan | 213 |
 | 1.20 | Kuwait | 5 |
 | 1.19 | Portugal | 16 |
-| 1.17 | United States | 2092 |
+| 1.17 | United States | 2097 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.17 | Uruguay | 42 |

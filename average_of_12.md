@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 14 May 2023*
+*Updated on 15 May 2023*
 
 
 ### Rubik's Cube
@@ -83,11 +83,11 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1:47.89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:51.11, 1:54.11, 1:49.77, 1:52.17, 1:36.41, 1:49.68, 1:41.42, 1:44.64, 1:41.27, 1:49.92, 1:48.72, 1:50.26 |
+| 1:46.92 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:52.17, 1:36.41, 1:49.68, 1:41.42, 1:44.64, 1:41.27, 1:49.92, 1:48.72, 1:50.26, 1:52.85, 1:51.13, 1:40.03 |
 | 1:57.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:57.89, 1:58.24, 1:51.13, 1:54.79, 2:05.50, 1:53.87, 2:09.13, 2:02.38, 1:56.76, 1:56.18, 1:52.66, 1:55.86 |
 | 1:59.89 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:41.29, 2:08.14, 1:59.78, 1:50.71, 2:06.21, 1:59.37, 2:14.85, 1:57.90, 1:55.81, 2:07.97, 1:53.15, 1:59.94 |
+| 1:59.90 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 2:10.52, 1:58.84, 2:04.57, 1:59.31, 2:06.46, 1:59.44, 1:56.42, 1:49.84, 2:04.51, 2:00.16, 1:51.14, 1:58.17 |
 | 2:01.14 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 2:06.23, 1:53.66, 2:03.12, 1:57.37, 2:01.01, 2:10.43, 2:08.28, 2:01.02, 1:56.42, 2:07.33, 1:53.81, 1:56.88 |
-| 2:02.24 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:59.11, 2:01.24, 2:06.54, 2:13.54, 2:10.52, 1:58.84, 2:04.57, 1:59.31, 2:06.46, 1:59.44, 1:56.42, 1:49.84 |
 | 2:02.63 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 2:02.22, 1:59.63, 2:15.08, 2:06.85, 2:03.00, 1:57.70, 2:01.62, 2:07.54, 2:01.48, 1:55.96, 2:02.96, 2:03.31 |
 | 2:04.18 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:08.47, 2:04.14, 2:02.17, 2:09.62, 2:12.13, 2:03.54, 2:01.49, 2:08.09, 1:59.29, 1:57.13, 2:03.33, 2:01.68 |
 | 2:04.83 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:04.14, 2:00.82, 2:16.10, 2:09.69, 1:56.60, 2:02.22, 2:01.53, 2:05.20, 2:09.70, 2:00.79, 2:09.45, 2:04.76 |

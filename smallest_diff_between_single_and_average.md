@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 14 May 2023*
+*Updated on 15 May 2023*
 
 
 ### Rubik's Cube
@@ -17,7 +17,7 @@
 | 0.02 | [José Josué Daniel Pineda Abrego](https://www.worldcubeassociation.org/persons/2022ABRE01) | 12.94 | 12.96 | [Nacionales Guatemala 2022](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2022/results/by_person#2022ABRE01) |
 | 0.02 | [Lorenzo D'Ammassa](https://www.worldcubeassociation.org/persons/2021DAMM02) | 13.40 | 13.42 | [Eretum 2 Easter 2023](https://www.worldcubeassociation.org/competitions/Eretum2EasterBoogaloo2023/results/by_person#2021DAMM02) |
 | 0.02 | [Yang Liu (刘洋)](https://www.worldcubeassociation.org/persons/2011YANG17) | 20.68 | 20.70 | [Chongqing Open 2013](https://www.worldcubeassociation.org/competitions/ChongqingOpen2013/results/by_person#2011YANG17) |
-| 0.03 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | 7.60 | 7.63 | [Pangasinan Speedcubing Open 2017](https://www.worldcubeassociation.org/competitions/PangasinanSpeedcubingOpen2017/results/by_person#2010APAG01) |
+| 0.03 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.72 | 5.75 | [Capelle Cubing 2023](https://www.worldcubeassociation.org/competitions/CapelleCubing2023/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 

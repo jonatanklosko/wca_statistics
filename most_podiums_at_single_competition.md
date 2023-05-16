@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 14 May 2023*
+*Updated on 15 May 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -857,6 +857,7 @@
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Danish Open 2016](https://www.worldcubeassociation.org/competitions/DanishOpen2016/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Herrljunga Open 2023](https://www.worldcubeassociation.org/competitions/HerrljungaOpen2023/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norwegian Championship 2017](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2017/results/podiums) |
+| 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Nyköping Side Events 2023](https://www.worldcubeassociation.org/competitions/NykopingSideEvents2023/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [SSL Final Borås 2017](https://www.worldcubeassociation.org/competitions/SSLFinalBoras2017/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Valborg Cubing 2019](https://www.worldcubeassociation.org/competitions/ValborgCubing2019/results/podiums) |
 | 10 | [Pavel Yushkevich](https://www.worldcubeassociation.org/persons/2013YUSH01) | [VSU Open 2016](https://www.worldcubeassociation.org/competitions/VSUOpen2016/results/podiums) |

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 15 May 2023*
+*Updated on 18 May 2023*
 
 
 ### Rubik's Cube
@@ -158,9 +158,9 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 1.46 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.27, 1.38, 1.18, 3.32, 1.73 |
 | 1.50 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.29, 1.63, 1.35, 14.94, 1.53 |
 | 1.57 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.34, 4.13, 1.68, 1.69, 1.29 |
-| 1.60 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.76, 2.11, 1.20, 0.99, 1.85 |
 | 1.62 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 1.68, 6.04, 1.54, 1.39, 1.65 |
 | 1.63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.74, 1.39, 2.69, 1.76, 1.33 |
 | 1.63 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.64, 1.63, 1.88, 1.30, 1.62 |

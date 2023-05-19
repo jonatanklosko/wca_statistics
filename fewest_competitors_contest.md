@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 15 May 2023*
+*Updated on 18 May 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -68,6 +68,7 @@
 | 9 | [Gem City Airplane Mode 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneMode2023) |
 | 9 | [Jönköpingsligan 1: Waterloo 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan1Waterloo2023) |
 | 9 | [Jordan Open 2012](https://www.worldcubeassociation.org/competitions/JordanOpen2012) |
+| 9 | [Keep Portland Quiet 2023](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2023) |
 | 9 | [Kyiv FMC Friends October 2022](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsOctober2022) |
 | 9 | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018) |
 | 9 | [Llanocentro Open 2019](https://www.worldcubeassociation.org/competitions/LlanocentroOpen2019) |
@@ -104,6 +105,7 @@
 | 10 | [JAM PBQ I 2023](https://www.worldcubeassociation.org/competitions/JAMPBQI2023) |
 | 10 | [Jogja Mini 2015](https://www.worldcubeassociation.org/competitions/JogjaMini2015) |
 | 10 | [Jönköpingsligan 2: Diggiloo 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan2Diggiloo2023) |
+| 10 | [Jönköpingsligan 4: Heaven 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan4Heaven2023) |
 | 10 | [Kyiv FMC Friends II 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsII2023) |
 | 10 | [Le Barcarès MB 2019](https://www.worldcubeassociation.org/competitions/LeBarcaresMB2019) |
 | 10 | [Mazate Open 2015](https://www.worldcubeassociation.org/competitions/MazateOpen2015) |
@@ -316,6 +318,7 @@
 | 15 | [Bigger in Texas 2016](https://www.worldcubeassociation.org/competitions/EverythingsBiggerinTexas2016) |
 | 15 | [FMC 2014](https://www.worldcubeassociation.org/competitions/FantasticMichigan2014) |
 | 15 | [Florida Open 2007](https://www.worldcubeassociation.org/competitions/FloridaOpen2007) |
+| 15 | [FMC Colombia 2023](https://www.worldcubeassociation.org/competitions/FMCColombia2023) |
 | 15 | [FMC Crêpes 2022](https://www.worldcubeassociation.org/competitions/FMCrepes2022) |
 | 15 | [FMC West Melbourne 2023](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2023) |
 | 15 | [Germany 2005](https://www.worldcubeassociation.org/competitions/Germany2005) |

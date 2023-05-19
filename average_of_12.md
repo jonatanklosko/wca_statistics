@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 15 May 2023*
+*Updated on 18 May 2023*
 
 
 ### Rubik's Cube
@@ -25,12 +25,12 @@
 | ---: | :--- | :--- |
 | 1.07 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 0.92, 1.16, 0.79, 1.29, 1.15, 0.79, 1.16, 2.15, 1.00, 1.06, 1.01, 1.21 |
 | 1.25 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.30, 0.93, 1.37, 1.33, 1.19, 1.19, 1.31, 1.21, 1.30, 1.14, 1.43, 1.22 |
+| 1.34 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.23, 1.34, 1.15, 1.51, 2.63, 1.34, 1.12, 1.74, 1.42, 0.90, 1.10, 1.48 |
 | 1.36 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 3.49, 1.03, 1.69, 1.03, 1.41, 1.37, 1.50, 1.30, 1.47, 1.77, 0.80, 1.09 |
 | 1.36 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.21, 2.14, 1.37, 1.78, 1.36, 1.08, 1.17, 1.35, 1.83, 1.19, 1.28, 1.12 |
 | 1.36 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.04, DNF, 1.43, 1.19, 0.97, 0.80, 1.23, 1.68, 1.50, 1.01, 1.83, 1.76 |
 | 1.39 | [Guanbo Wang (王冠博)](https://www.worldcubeassociation.org/persons/2018WANG35) | 1.09, 1.23, DNF, 1.50, 1.79, 1.09, 1.31, 1.33, 1.24, 1.65, 1.21, 1.64 |
 | 1.41 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 1.37, 1.24, 1.44, 1.41, 1.71, 6.18, 1.49, 1.27, 0.93, 1.59, 1.48, 1.17 |
-| 1.42 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.40, 2.44, 1.25, 1.07, 1.09, 1.25, 5.33, 1.50, 1.14, 1.80, 1.35, 1.05 |
 | 1.43 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 1.52, 1.29, 2.10, 1.34, 1.36, 2.28, 1.80, 1.08, 0.86, 1.45, 1.37, 1.07 |
 | 1.43 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | 1.42, 1.67, 1.78, 1.72, 1.41, 4.57, 1.12, 1.27, 1.32, 1.22, 1.03, 1.40 |
 
@@ -161,9 +161,9 @@
 | 1.56 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.62, 1.69, 1.67, 1.32, 1.70, 1.73, 1.29, 1.63, 1.35, 14.94, 1.53, 1.37 |
 | 1.70 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.82, 1.15, 1.53, 1.86, 1.62, 1.98, 1.19, 2.75, 1.87, 1.79, 1.87, 1.55 |
 | 1.74 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.17, 2.60, 1.80, 2.26, 2.01, 1.64, 1.63, 1.88, 1.30, 1.62, 1.67, 1.62 |
+| 1.79 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 2.36, 1.46, 1.94, 1.82, 1.79, 1.84, 2.13, 3.03, 1.91, 1.27, 1.38, 1.18 |
 | 1.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.79, 2.21, 1.74, 1.39, 2.69, 1.76, 1.33, 1.87, 2.02, 2.34, 1.35, 1.77 |
 | 1.84 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 2.18, 1.61, 1.52, 1.54, 1.89, DNF, 1.83, 2.17, 1.91, 1.76, 1.93, 1.58 |
-| 1.85 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.77, 2.53, 2.22, 1.97, 2.05, 1.48, 1.46, 3.31, 1.76, 2.11, 1.20, 0.99 |
 | 1.88 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1.50, 2.10, 1.54, 4.16, 2.29, 2.28, 1.52, 1.87, 1.60, 2.11, 1.82, 1.73 |
 | 1.89 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.55, 1.99, 2.24, 2.18, 1.63, 1.82, 1.68, 1.62, 2.37, 1.87, 1.77, 2.12 |
 | 1.92 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | 1.54, 1.82, 1.49, DNF, 2.36, 2.64, 1.66, 1.39, 2.40, 1.33, 2.15, 1.79 |

@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 15 May 2023*
+*Updated on 18 May 2023*
 
 
 ### Rubik's Cube
@@ -152,7 +152,7 @@
 | 46 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | [Sin Fronteras 2018](https://www.worldcubeassociation.org/competitions/SinFronteras2018) |
 | 39 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [Carlisle Summer 2022](https://www.worldcubeassociation.org/competitions/CarlisleSummer2022) |
 | 38 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [BrizZon Sylwester Open 2021](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2021) |
-| 37 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Świdnik Open 2015](https://www.worldcubeassociation.org/competitions/SwidnikOpen2015) |
+| 38 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Take Your Time Richmond 2023](https://www.worldcubeassociation.org/competitions/TakeYourTimeRichmond2023) |
 
 ### Pyraminx
 

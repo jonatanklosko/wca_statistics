@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 15 May 2023*
+*Updated on 18 May 2023*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -89,7 +89,7 @@
 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | **34** | 26 | 41 | 101 |
 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **34** | 21 | 17 | 72 |
 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) | **34** | 8 | 13 | 55 |
-| [Thomas Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) | **33** | 61 | 53 | 147 |
+| [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) | **33** | 61 | 53 | 147 |
 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) | **33** | 22 | 32 | 87 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **32** | 22 | 16 | 70 |
 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **32** | 21 | 9 | 62 |

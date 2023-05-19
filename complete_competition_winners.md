@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 15 May 2023*
+*Updated on 18 May 2023*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -151,6 +151,7 @@
 | 2 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | Australia | [Kensington Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/KensingtonSummerSunday2023) |
 | 2 | [Sean Cutshaw](https://www.worldcubeassociation.org/persons/2016CUTS01) | United States | [OSU Spring First-Timers A 2023](https://www.worldcubeassociation.org/competitions/OhioStateSpringFirstTimersA2023) |
 | 2 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | Japan | [Go x Go Kyoto 2023](https://www.worldcubeassociation.org/competitions/GoxGoKyoto2023) |
+| 2 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | United States | [Michigan Mini 4 2023](https://www.worldcubeassociation.org/competitions/MichiganMini42023) |
 | 2 | [Victor Roets](https://www.worldcubeassociation.org/persons/2021ROET01) | Belgium | [Hem MariCubik Winter Open A 2023](https://www.worldcubeassociation.org/competitions/HemMariCubikWinterOpenA2023) |
 | 2 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | United States | [All Quiet in Lexington 2022](https://www.worldcubeassociation.org/competitions/AllQuietinLexington2022) |
 | 1 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | United States | [Don't Move Copenhagen 2022](https://www.worldcubeassociation.org/competitions/DontMoveCopenhagen2022) |
@@ -224,6 +225,7 @@
 | 1 | [John Louis](https://www.worldcubeassociation.org/persons/2006LOUI01) | India | [APOGEE Open 2011](https://www.worldcubeassociation.org/competitions/ApogeeOpen2011) |
 | 1 | [Jomar Menor](https://www.worldcubeassociation.org/persons/2014MENO01) | Philippines | [Hari ng Norte 2015](https://www.worldcubeassociation.org/competitions/HariNgNorte2015) |
 | 1 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | Colombia | [Fewest Moves Bogotá 2022](https://www.worldcubeassociation.org/competitions/FewestMovesBogota2022) |
+| 1 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | Colombia | [FMC Colombia 2023](https://www.worldcubeassociation.org/competitions/FMCColombia2023) |
 | 1 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | Colombia | [FMC Latin America 2016](https://www.worldcubeassociation.org/competitions/FMCLatinAmerica2016) |
 | 1 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2017RAFA02) | Poland | [PSS FMC Warszawa 2019](https://www.worldcubeassociation.org/competitions/PSSFMCWarszawa2019) |
 | 1 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | Poland | [Wrocław FMC Masters 2019](https://www.worldcubeassociation.org/competitions/WroclawFMCMasters2019) |

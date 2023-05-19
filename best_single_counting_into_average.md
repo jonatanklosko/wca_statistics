@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 15 May 2023*
+*Updated on 18 May 2023*
 
 
 ### Rubik's Cube
@@ -15,8 +15,8 @@
 | 4.49 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023/results/by_person#2019WANY36) |
 | 4.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022/results/by_person#2016KOLA02) |
 | 4.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023/results/by_person#2016KOLA02) |
+| 4.57 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [The Blantucky Derby 2023](https://www.worldcubeassociation.org/competitions/TheBlantuckyDerby2023/results/by_person#2017GARR05) |
 | 4.62 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Marshall Cubing September 2022](https://www.worldcubeassociation.org/competitions/MarshallCubingSeptember2022/results/by_person#2012PARK03) |
-| 4.66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 
@@ -105,8 +105,8 @@
 | 1.32 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Michigan Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/MichiganSpeedcubingSpring2023/results/by_person#2019SHER10) |
 | 1.36 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | [InTents Cubing Anza-Borrego 2023](https://www.worldcubeassociation.org/competitions/InTentsCubingAnzaBorrrego2023/results/by_person#2015BROW03) |
 | 1.37 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Michigan Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/MichiganSpeedcubingSpring2023/results/by_person#2019SHER10) |
+| 1.38 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [Clash at Carlisle Spring 2023](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2023/results/by_person#2019MEAD03) |
 | 1.39 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | [ODU Big Blue Spring 2023](https://www.worldcubeassociation.org/competitions/ODUBigBlueSpring2023/results/by_person#2015BROW03) |
-| 1.39 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/by_person#2015GORN01) |
 
 ### Rubik's Clock
 

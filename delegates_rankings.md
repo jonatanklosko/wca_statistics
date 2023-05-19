@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 15 May 2023*
+*Updated on 18 May 2023*
 
 
 ### Rubik's Cube - Single
@@ -401,7 +401,7 @@
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | **4.45** | United States | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 5.95, 6.18, 9.82, 4.45, 7.31 |
 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | **4.73** | United States | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 8.36, 7.43, 9.42, 4.73, 7.55 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **5.34** | United States | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021) | 12.32, 5.34, 10.73, 9.66, 12.50 |
-| [Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03) | **5.57** | Peru | [Peru Nationals 2022](https://www.worldcubeassociation.org/competitions/PeruNationals2022) | 9.01, 7.48, 12.42, 12.53, 5.57 |
+| [Andrés Hisashi Suzuki Cabrera](https://www.worldcubeassociation.org/persons/2016SUZU03) | **5.57** | Peru | [Peru Nationals 2022](https://www.worldcubeassociation.org/competitions/PeruNationals2022) | 9.01, 7.48, 12.42, 12.53, 5.57 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **5.63** | United States | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) | 10.08, 5.63, 11.74, 14.29, 13.11 |
 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | **5.77** | Sweden | [Jönköping Side Events 2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019) | 9.13, 5.77, 7.75, 7.24, 8.92 |
 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) | **5.88** | United States | [Buzzer Beater 2017](https://www.worldcubeassociation.org/competitions/BuzzerBeater2017) | 14.35, 13.24, 11.90, 15.10, 5.88 |

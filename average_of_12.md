@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 18 May 2023*
+*Updated on 21 May 2023*
 
 
 ### Rubik's Cube
@@ -148,7 +148,7 @@
 | 29.94 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 30.82, 35.30, 29.83, 27.99, 30.61, 28.45, 31.37, 28.33, 30.46, 29.96, 30.42, 29.20 |
 | 30.99 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 29.35, 34.12, 30.13, 28.60, 29.94, DNF, 33.32, 32.23, 30.94, 28.30, 30.45, 30.91 |
 | 31.25 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 29.16, 32.81, 31.78, 34.48, 33.62, 33.47, 30.12, 28.50, 31.19, 29.97, 31.07, 29.34 |
-| 32.56 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 35.47, 31.85, 33.21, 32.57, 30.67, 31.30, 31.33, 30.91, 35.89, 35.77, 29.76, 32.52 |
+| 32.41 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 34.49, 29.91, 35.79, 34.59, 31.81, 31.12, 35.34, 31.24, 33.82, 28.84, 30.50, 31.30 |
 | 32.82 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 28.84, 32.08, 34.38, 29.72, 33.55, 34.96, 35.31, 33.67, 33.30, DNF, 32.42, 27.20 |
 | 32.98 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 32.34, 32.87, 32.88, 32.53, 40.71, 31.28, 31.43, 34.33, 40.09, 30.99, 28.41, 31.09 |
 | 33.12 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.84, 31.53, 32.84, 36.09, 30.84, 33.06, 34.66, 34.78, 33.54, 36.18, 33.04, 30.63 |

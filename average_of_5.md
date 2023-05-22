@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 18 May 2023*
+*Updated on 21 May 2023*
 
 
 ### Rubik's Cube
@@ -148,7 +148,7 @@
 | 29.05 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 31.00, 26.54, 28.47, 29.70, 29.00 |
 | 29.80 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 29.35, 34.12, 30.13, 28.60, 29.94 |
 | 30.12 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 28.50, 31.19, 29.97, 31.07, 29.34 |
-| 31.18 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 32.57, 30.67, 31.30, 31.33, 30.91 |
+| 31.01 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 31.24, 33.82, 28.84, 30.50, 31.30 |
 | 31.42 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 34.63, 31.25, 28.43, 34.59, 28.09 |
 | 31.49 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 32.67, 28.84, 32.08, 34.38, 29.72 |
 | 31.74 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 30.84, 36.43, 30.89, 32.94, 31.41 |

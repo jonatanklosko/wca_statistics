@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 18 May 2023*
+*Updated on 21 May 2023*
 
 
 ### Rubik's Cube - Single
@@ -286,7 +286,7 @@
 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | **28.30** | United States | [Mum's the Word 2023](https://www.worldcubeassociation.org/competitions/MumstheWord2023) | 33.32, 32.23, 30.94, 28.30, 30.45 |
 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | **28.41** | United States | [Tally Spring 2023](https://www.worldcubeassociation.org/competitions/TallySpring2023) | 40.09, 30.99, 28.41, 31.09, 39.82 |
 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | **28.71** | United States | [Sleepless in Seattle 2023](https://www.worldcubeassociation.org/competitions/SleeplessinSeattle2023) | 33.91, 28.71, 36.23, 33.94, 34.87 |
-| [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | **29.76** | New Zealand | [A New Year in Hamilton 2023](https://www.worldcubeassociation.org/competitions/ANewYearinHamilton2023) | 35.77, 29.76, 32.52, 35.74, 43.58 |
+| [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | **28.84** | New Zealand | [Auckland Autumn 2023](https://www.worldcubeassociation.org/competitions/AucklandAutumn2023) | 31.24, 33.82, 28.84, 30.50, 31.30 |
 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | **30.42** | United Kingdom | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023) | 35.12, 40.06, 36.36, 38.99, 30.42 |
 
 ### Megaminx - Average
@@ -296,7 +296,7 @@
 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | **28.03** | Singapore | [Medan Speedcubing Festival 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubingFestival2023) | 33.29, 27.83, 28.17, 28.09, 27.83 |
 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | **28.04** | Argentina | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023) | 27.07, 31.15, 29.66, 26.90, 27.40 |
 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | **29.06** | United States | [Pretzel Mania 2023](https://www.worldcubeassociation.org/competitions/PretzelMania2023) | 31.00, 26.54, 28.47, 29.70, 29.00 |
-| [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | **31.18** | New Zealand | [A New Year in Hamilton 2023](https://www.worldcubeassociation.org/competitions/ANewYearinHamilton2023) | 30.67, 31.30, 31.33, 30.91, 35.89 |
+| [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | **31.01** | New Zealand | [Auckland Autumn 2023](https://www.worldcubeassociation.org/competitions/AucklandAutumn2023) | 31.24, 33.82, 28.84, 30.50, 31.30 |
 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | **31.21** | United States | [Mum's the Word 2023](https://www.worldcubeassociation.org/competitions/MumstheWord2023) | 33.32, 32.23, 30.94, 28.30, 30.45 |
 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | **31.92** | United States | [Southeast Championship 2023](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2023) | 1:10.15, 32.47, 28.91, 33.17, 30.11 |
 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | **32.62** | United States | [Lynnwood Winter 2023](https://www.worldcubeassociation.org/competitions/LynnwoodWinter2023) | 32.20, 36.36, 33.70, 31.95, 29.15 |
@@ -480,9 +480,9 @@
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **7:46.12** | United States | [4BLD in a Madison Hall 2023](https://www.worldcubeassociation.org/competitions/4BLDinaMadisonHall2023) | 6:47.65, 8:15.09, 8:15.63 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **13:09.00** | United States | [MBLD Madison Meeting Room 2023](https://www.worldcubeassociation.org/competitions/MBLDinaMadisonMeetingRoom2023) | 12:18.00, 13:10.00, 13:59.00 |
 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | **13:36.00** | India | [Oculus Cube Open 2023](https://www.worldcubeassociation.org/competitions/OculusCubeOpen2023) | 13:38.00, 13:26.00, 13:45.00 |
+| [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) | **13:39.00** | Germany | [Swisscubing Cup III 2023](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2023) | 13:43.00, 12:32.00, 14:41.00 |
 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) | **14:37.00** | United Kingdom | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) | 13:39.00, 14:17.00, 15:54.00 |
 | [Howie Craig](https://www.worldcubeassociation.org/persons/2013CRAI01) | **17:39.00** | United States | [Buckeye Big Brain 2023](https://www.worldcubeassociation.org/competitions/BuckeyeBigBrain2023) | 18:15.00, 18:16.00, 16:27.00 |
-| [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) | **18:59.00** | Germany | [Brussels Blind Open 2023](https://www.worldcubeassociation.org/competitions/BrusselsBlindOpen2023) | 20:40.00, 18:22.00, 17:54.00 |
 
 ### 3x3x3 Multi-Blind - Single
 
@@ -490,8 +490,8 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **49/51 57:40** | United States | [Cambridge Winter Challenge 2023](https://www.worldcubeassociation.org/competitions/CambridgeWinterChallenge2023) | 37/51 59:08, 49/51 57:40 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **46/50 55:41** | Switzerland | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) | 40/54 1:00:00, 46/50 55:41 |
+| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **44/46 58:49** | United States | [Hilliard Hippocampus V 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusV2023) | 44/46 58:49 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **52/62 58:53** | United States | [MBLD Madison Meeting Room 2023](https://www.worldcubeassociation.org/competitions/MBLDinaMadisonMeetingRoom2023) | 37/60 1:00:00, 52/62 58:53 |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **43/46 56:38** | United States | [Hilliard Hippocampus IV 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusIV2023) | 43/46 56:38 |
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **43/48 59:16** | New Zealand | [Auckland Mind Games 2023](https://www.worldcubeassociation.org/competitions/AucklandMindGames2023) | DNF, 43/48 59:16 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **48/58 1:00:00** | Poland | [Lužice Open 2023](https://www.worldcubeassociation.org/competitions/LuziceOpen2023) | 48/58 1:00:00 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **43/50 59:30** | Poland | [BrizZon Side Open II 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2023) | DNS, 43/50 59:30 |

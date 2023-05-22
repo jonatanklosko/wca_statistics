@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 18 May 2023*
+*Updated on 21 May 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -289,6 +289,7 @@
 | 1996 | [Akifumi Sasaki (佐々木彰史)](https://www.worldcubeassociation.org/persons/2017SASA03) |
 | 2002 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 2009 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 2016 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
 | 2023 | [David McLean](https://www.worldcubeassociation.org/persons/2017MCLE03) |
 | 2036 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 2038 | [Qirun Zhong (钟奇润)](https://www.worldcubeassociation.org/persons/2008ZHON01) |

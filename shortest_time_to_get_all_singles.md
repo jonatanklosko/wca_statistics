@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 21 May 2023*
+*Updated on 24 May 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -261,6 +261,7 @@
 | 1819 | [Jibo Zhao (赵吉波)](https://www.worldcubeassociation.org/persons/2010ZHAO11) |
 | 1827 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) |
 | 1834 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) |
+| 1834 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) |
 | 1835 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 1841 | [Dongyun Yin (殷冬昀)](https://www.worldcubeassociation.org/persons/2012YIND01) |
 | 1841 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
@@ -389,6 +390,7 @@
 | 3535 | [Vasile Dan](https://www.worldcubeassociation.org/persons/2013VASI02) |
 | 3564 | [Tomas Kristiansson](https://www.worldcubeassociation.org/persons/2007KRIS01) |
 | 3752 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
+| 4047 | [Nathan Seeto](https://www.worldcubeassociation.org/persons/2012SEET01) |
 | 4053 | [Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01) |
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 4073 | [Ben Yu](https://www.worldcubeassociation.org/persons/2011YUBE01) |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 21 May 2023*
+*Updated on 24 May 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -928,6 +928,7 @@
 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Schoolmark Open 2018](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2018/results/podiums) |
 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Schoolmark Open 2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019/results/podiums) |
 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [UNESP Open 2018](https://www.worldcubeassociation.org/competitions/UNESPOpen2018/results/podiums) |
+| 10 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [Leovit Cubing Kazakhstan 2023](https://www.worldcubeassociation.org/competitions/LeovitCubingKazakhstan2023/results/podiums) |
 | 10 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [Uzbekistan New Year 2023](https://www.worldcubeassociation.org/competitions/UzbekistanNewYear2023/results/podiums) |
 | 10 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Southeast Championship 2019](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2019/results/podiums) |
 | 10 | [Nejc Ian Čurman](https://www.worldcubeassociation.org/persons/2015CURM01) | [Banja Luka Open 2018](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2018/results/podiums) |
@@ -1023,6 +1024,7 @@
 | 10 | [Gerardo Varela](https://www.worldcubeassociation.org/persons/2017VARE01) | [Copa Inframundo HN 2019](https://www.worldcubeassociation.org/competitions/CopaInframundoHN2019/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Ankara January 2023](https://www.worldcubeassociation.org/competitions/AnkaraJanuary2023/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Ankara Spring 2023](https://www.worldcubeassociation.org/competitions/AnkaraSpring2023/results/podiums) |
+| 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Atatürk Cube Weekend 2023](https://www.worldcubeassociation.org/competitions/AtaturkCubeWeekend2023/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [CubingTR 10 Years 2023](https://www.worldcubeassociation.org/competitions/CubingTR10Years2023/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [İzmir Spring 2019](https://www.worldcubeassociation.org/competitions/IzmirSpring2019/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Sweet November İstanbul 2022](https://www.worldcubeassociation.org/competitions/SweetNovemberistanbul2022/results/podiums) |

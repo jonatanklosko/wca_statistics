@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 21 May 2023*
+*Updated on 24 May 2023*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -37,6 +37,7 @@
 | 6 | [Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01) | India | [Waves Cube Challenge 2015](https://www.worldcubeassociation.org/competitions/WavesCubeChallenge2015) |
 | 6 | [Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02) | India | [Cube Jatra 2017](https://www.worldcubeassociation.org/competitions/CubeJatra2017) |
 | 6 | [Daniel Cano Salgado](https://www.worldcubeassociation.org/persons/2011SALG01) | Colombia | [San Luis Gonzaga 2014](https://www.worldcubeassociation.org/competitions/SanLuisGonzaga2014) |
+| 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | Australia | [Marrickville Many May Open 2023](https://www.worldcubeassociation.org/competitions/MarrickvilleManyMayOpen2023) |
 | 6 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [Sydney Autumn 2016](https://www.worldcubeassociation.org/competitions/SydneyAutumn2016) |
 | 6 | [Jose Carlos García Vélez](https://www.worldcubeassociation.org/persons/2016VELE01) | Colombia | [Friki Festival Valledupar 2019](https://www.worldcubeassociation.org/competitions/FrikiFestivalValledupar2019) |
 | 6 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | Colombia | [Llanocentro Open 2019](https://www.worldcubeassociation.org/competitions/LlanocentroOpen2019) |
@@ -90,8 +91,8 @@
 | 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | United States | [Mini Mental Breakdown SD 2022](https://www.worldcubeassociation.org/competitions/MiniMentalBreakdownSanDiego2022) |
 | 4 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | Sweden | [Chalmers Open 2006](https://www.worldcubeassociation.org/competitions/ChalmersOpen2006) |
 | 4 | [Jay Kuria Muthari](https://www.worldcubeassociation.org/persons/2019MUTH01) | Kenya | [Navitas 2022](https://www.worldcubeassociation.org/competitions/NavitasCubeChallengeKenya2022) |
-| 4 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | Australia | [Tassie Summer - Launceston 2022](https://www.worldcubeassociation.org/competitions/Launceston2022) |
 | 4 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | Australia | [Launceston Autumn 2023](https://www.worldcubeassociation.org/competitions/LauncestonAutumn2023) |
+| 4 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | Australia | [Tassie Summer - Launceston 2022](https://www.worldcubeassociation.org/competitions/Launceston2022) |
 | 4 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | Australia | [Mandurah Mayhem 2023](https://www.worldcubeassociation.org/competitions/MandurahMayhem2023) |
 | 4 | [Jonathan Hamstad](https://www.worldcubeassociation.org/persons/2011HAMS01) | Norway | [Bergen Open 2014](https://www.worldcubeassociation.org/competitions/BergenOpen2014) |
 | 4 | [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) | United States | [Arnold Classic NA B 2020](https://www.worldcubeassociation.org/competitions/ArnoldClassicNorthAmericaB2020) |
@@ -101,6 +102,7 @@
 | 4 | [Nitin Nathan](https://www.worldcubeassociation.org/persons/2015NATH02) | United States | [VSVN Cube Open 2019](https://www.worldcubeassociation.org/competitions/VSVNCubeOpen2019) |
 | 4 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | United States | [Slow N Steady Summer 2019](https://www.worldcubeassociation.org/competitions/SlowNSteadySummer2019) |
 | 4 | [Saravanan Gowthaman](https://www.worldcubeassociation.org/persons/2015GOWT01) | India | [VDCA Winter Open 2019](https://www.worldcubeassociation.org/competitions/VDCAWinterOpen2019) |
+| 4 | [Seth Ferry](https://www.worldcubeassociation.org/persons/2017FERR01) | Australia | [Adelaide Autumn 2023](https://www.worldcubeassociation.org/competitions/AdelaideAutumn2023) |
 | 4 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | Japan | [East Japan Big Cubes 2013](https://www.worldcubeassociation.org/competitions/EastJapanBigCubes2013) |
 | 3 | [Brendan Bakker](https://www.worldcubeassociation.org/persons/2015BAKK01) | United States | [PBQtah 5 2023](https://www.worldcubeassociation.org/competitions/PBQtah52023) |
 | 3 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [Fantabulous MN Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMinnesota2015) |
@@ -150,6 +152,7 @@
 | 2 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) | Germany | [V-Cube Spiel B 2022](https://www.worldcubeassociation.org/competitions/VCubeSpielB2022) |
 | 2 | [Parham Saeed Nia (پرهام سعیدنیا)](https://www.worldcubeassociation.org/persons/2011NIAP01) | Iran | [Iran FMC 2019](https://www.worldcubeassociation.org/competitions/IranFMC2019) |
 | 2 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | United States | [ OSU Spring First-Timers C 2023](https://www.worldcubeassociation.org/competitions/OhioStateSpringFirstTimersC2023) |
+| 2 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | Australia | [St Oliver's Speedy Sunday 2023](https://www.worldcubeassociation.org/competitions/StOliversSpeedySunday2023) |
 | 2 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | Australia | [Kensington Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/KensingtonSummerSunday2023) |
 | 2 | [Sean Cutshaw](https://www.worldcubeassociation.org/persons/2016CUTS01) | United States | [OSU Spring First-Timers A 2023](https://www.worldcubeassociation.org/competitions/OhioStateSpringFirstTimersA2023) |
 | 2 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | Japan | [Go x Go Kyoto 2023](https://www.worldcubeassociation.org/competitions/GoxGoKyoto2023) |
@@ -168,6 +171,7 @@
 | 1 | [Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17) | Brazil | [Desafio de Verão 2018](https://www.worldcubeassociation.org/competitions/DesafiodeVerao2018) |
 | 1 | [Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17) | Brazil | [Faça Mais pelas Crianças 2019](https://www.worldcubeassociation.org/competitions/FacaMaispelasCriancas2019) |
 | 1 | [Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17) | Brazil | [FMC Brasil 2019](https://www.worldcubeassociation.org/competitions/FMCBrasil2019) |
+| 1 | [Alvin Cheng Hiu Yeung (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) | Hong Kong | [Hong Kong FMC 2023](https://www.worldcubeassociation.org/competitions/HongKongFMC2023) |
 | 1 | [Amey Gaba](https://www.worldcubeassociation.org/persons/2016GABA02) | India | [Challenge V 2023](https://www.worldcubeassociation.org/competitions/TokyoChallengeV2023) |
 | 1 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) | Malaysia | [Petrosains 2011](https://www.worldcubeassociation.org/competitions/Petrosains2011) |
 | 1 | [Anderson Alessandro Pavia](https://www.worldcubeassociation.org/persons/2014PAVI02) | Brazil | [Arena Bernô 3 City FM 2022](https://www.worldcubeassociation.org/competitions/ArenaBerno3CityFM2022) |

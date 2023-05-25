@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 21 May 2023*
+*Updated on 24 May 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -42,13 +42,13 @@
 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 19 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 19 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
+| 19 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 19 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
 | 18 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 18 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
-| 18 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
 | 18 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 18 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
@@ -74,6 +74,7 @@
 | 15 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 15 | [Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01) |
 | 15 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
+| 15 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 15 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 15 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 15 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
@@ -86,7 +87,6 @@
 | 14 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
 | 14 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 14 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
-| 14 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 14 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 14 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |
 | 14 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |

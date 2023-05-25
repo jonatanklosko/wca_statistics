@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 21 May 2023*
+*Updated on 24 May 2023*
 
 
 ### Rubik's Cube - Single
@@ -75,9 +75,9 @@
 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | **22.74** | Colombia | [Tunja 2023](https://www.worldcubeassociation.org/competitions/Tunja2023) | 36.64, 40.14, 27.09, 35.62, 22.74 |
 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | **23.20** | United States | [NxN Minnesota 2022](https://www.worldcubeassociation.org/competitions/NxNMinnesota2022) | 36.15, 35.54, 29.80, 36.13, 23.20 |
 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | **23.56** | Japan | [Yono Summer 2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019) | 23.56, 33.37, 27.23, 27.92, 33.90 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **23.74** | United States | [Door County Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/DoorCountyCubeChallenge2023) | 28.25, 27.69, 26.94, 23.74, 32.06 |
 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **23.84** | France | [Munich Open 2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019) | 23.84, 30.82, 31.43, 36.41, 28.93 |
 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | **24.09** | Norway | [Norwegian Championship 2023](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2023) | 34.41, 36.19, 24.09, 41.88, 38.15 |
-| [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **24.81** | Australia | [Melbourne Cube Days 2018](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2018) | 24.81, 32.05, 36.15, 31.02, 28.85 |
 
 ### 4x4x4 Cube - Average
 
@@ -87,12 +87,12 @@
 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | **26.18** | France | [Sézanne Open 2022](https://www.worldcubeassociation.org/competitions/SezanneOpen2022) | 28.29, 27.15, 25.61, 25.55, 25.79 |
 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **26.57** | United States | [GA Cubers Mashed Potatoes 2022](https://www.worldcubeassociation.org/competitions/GACubersMashedPotatoes2022) | 21.63, 27.75, 26.15, 25.93, 27.62 |
 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | **27.52** | United States | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023) | 28.48, 33.94, 26.05, 28.03, 23.68 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **27.63** | United States | [Door County Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/DoorCountyCubeChallenge2023) | 28.25, 27.69, 26.94, 23.74, 32.06 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **27.64** | Australia | [Maitland Spring 2022](https://www.worldcubeassociation.org/competitions/MaitlandSpring2022) | 30.21, 27.27, 26.75, 27.22, 28.44 |
 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | **27.90** | Colombia | [Regreso a Clases 2022](https://www.worldcubeassociation.org/competitions/RegresoaClases2022) | 32.60, 25.26, 33.64, 25.83, 25.20 |
 | [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | **27.92** | India | [Cube Mahotsav 2018](https://www.worldcubeassociation.org/competitions/CubeMahotsav2018) | 27.12, 28.40, 28.24, 26.51, 40.45 |
 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | **27.94** | Japan | [Kyoto Open 2019](https://www.worldcubeassociation.org/competitions/KyotoOpen2019) | 25.69, 30.55, 35.58, 27.59, 23.74 |
 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **28.55** | France | [Sorgues 2022](https://www.worldcubeassociation.org/competitions/SorguesOpen2022) | 25.34, 29.09, 30.61, 27.24, 29.32 |
-| [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | **28.57** | Norway | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) | 29.31, 27.81, 26.73, 41.14, 28.59 |
 
 ### 5x5x5 Cube - Single
 

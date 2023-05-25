@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 21 May 2023*
+*Updated on 24 May 2023*
 
 
 ### Rubik's Cube
@@ -17,10 +17,10 @@
 | 5.33 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 5.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 5.75 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) |
-| 5.92 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 5.98 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 5.95 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 6.11 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) |
-| 6.25 | [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) |
+| 6.22 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 6.27 | [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) |
 | 6.27 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) |
 | 6.41 | [Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01) |
 | 6.43 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) |
@@ -28,41 +28,41 @@
 | 6.57 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) |
 | 6.59 | [Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05) |
 | 6.64 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) |
-| 6.65 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 6.67 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
 | 6.70 | [Ben Zhao](https://www.worldcubeassociation.org/persons/2017ZHAO79) |
 | 6.71 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) |
 | 6.74 | [Kyle Santucci](https://www.worldcubeassociation.org/persons/2016SANT08) |
-| 6.77 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 6.82 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
 | 6.82 | [Morgan Yeh](https://www.worldcubeassociation.org/persons/2017YEHM01) |
 | 6.84 | [Jerry Yao](https://www.worldcubeassociation.org/persons/2019YAOJ01) |
+| 6.85 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 6.86 | [Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05) |
 | 6.87 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) |
-| 6.88 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 6.89 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
-| 6.89 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) |
 | 6.90 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) |
+| 6.92 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 6.93 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) |
 | 6.94 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) |
 | 6.99 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
 | 7.02 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
-| 7.02 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
-| 7.02 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 7.03 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
+| 7.03 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 7.04 | [Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01) |
 | 7.05 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) |
 | 7.05 | [Toby Litiatco](https://www.worldcubeassociation.org/persons/2018LITI01) |
 | 7.07 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
-| 7.08 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
+| 7.08 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 7.09 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 7.10 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 7.10 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) |
+| 7.10 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) |
 | 7.10 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
+| 7.10 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 7.10 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) |
 | 7.13 | [Angel Armando Jaime Sánchez](https://www.worldcubeassociation.org/persons/2018SANC03) |
-| 7.19 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 7.20 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 7.20 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
+| 7.21 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 7.22 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
 
 ### 2x2x2 Cube
@@ -71,16 +71,16 @@
 | ---: | :--- |
 | 1.38 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1.46 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
-| 1.63 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) |
+| 1.58 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 1.65 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
-| 1.69 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
+| 1.67 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) |
 | 1.70 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) |
 | 1.70 | [Guanbo Wang (王冠博)](https://www.worldcubeassociation.org/persons/2018WANG35) |
 | 1.71 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) |
 | 1.71 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) |
 | 1.74 | [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) |
+| 1.75 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) |
 | 1.79 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) |
-| 1.81 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 1.81 | [Advay Sant](https://www.worldcubeassociation.org/persons/2015SANT44) |
 | 1.81 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1.82 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) |
@@ -88,7 +88,6 @@
 | 1.84 | [Jiekang Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) |
 | 1.84 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1.86 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
-| 1.86 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) |
 | 1.86 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) |
 | 1.87 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) |
 | 1.89 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |
@@ -98,9 +97,9 @@
 | 1.91 | [Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06) |
 | 1.91 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 1.92 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
-| 1.94 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) |
 | 1.94 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) |
 | 1.95 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 1.95 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) |
 | 1.95 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
 | 1.96 | [Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01) |
 | 1.96 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
@@ -111,14 +110,15 @@
 | 2.00 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
 | 2.00 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) |
 | 2.01 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) |
+| 2.01 | [Daniel Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
 | 2.02 | [Charles Jerome](https://www.worldcubeassociation.org/persons/2016JERO01) |
 | 2.03 | [Arhaan Sareen](https://www.worldcubeassociation.org/persons/2017SARE03) |
 | 2.03 | [Qiyu Zhang (张淇奥)](https://www.worldcubeassociation.org/persons/2017ZHAQ04) |
 | 2.04 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 2.05 | [Yinqin Li (李尹钦)](https://www.worldcubeassociation.org/persons/2011LIYI02) |
 | 2.07 | [Jungwoo Ha (하정우)](https://www.worldcubeassociation.org/persons/2017HAJU01) |
-| 2.07 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) |
 | 2.07 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
+| 2.08 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 
 ### 4x4x4 Cube
 
@@ -128,32 +128,33 @@
 | 23.23 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 23.24 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 23.86 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
+| 24.77 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 24.98 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
 | 25.00 | [Ari Randers-Pehrson](https://www.worldcubeassociation.org/persons/2017RAND06) |
 | 25.26 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
-| 25.35 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 25.64 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) |
 | 26.03 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) |
 | 26.29 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) |
+| 26.55 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 26.56 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
-| 26.69 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 26.80 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 27.03 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 27.18 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) |
-| 27.21 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 27.26 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 27.33 | [Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05) |
+| 27.39 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 27.39 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) |
-| 27.76 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 27.42 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 27.90 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) |
 | 27.94 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) |
-| 27.99 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 28.12 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
+| 28.29 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 28.53 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) |
-| 28.61 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
+| 28.54 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
 | 28.65 | [Jonah Crosby](https://www.worldcubeassociation.org/persons/2012CROS01) |
-| 28.71 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
+| 28.66 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 28.73 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) |
+| 28.85 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 28.90 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) |
 | 28.99 | [Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01) |
 | 29.04 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
@@ -164,13 +165,12 @@
 | 29.14 | [Juan de Dios Noriega Sánchez](https://www.worldcubeassociation.org/persons/2017SANC24) |
 | 29.20 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |
 | 29.22 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) |
-| 29.24 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 29.36 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
 | 29.38 | [Isaac Wong Chang Man](https://www.worldcubeassociation.org/persons/2015MANI01) |
 | 29.39 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) |
-| 29.45 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 29.47 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) |
-| 29.56 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
+| 29.52 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
+| 29.56 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 29.57 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) |
 | 29.57 | [Mika Smulders](https://www.worldcubeassociation.org/persons/2016SMUL01) |
 | 29.61 | [Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03) |
@@ -180,37 +180,39 @@
 | Moving average | Person |
 | ---: | :--- |
 | 39.57 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
-| 43.08 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 43.17 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
+| 42.54 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
 | 43.43 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
-| 45.76 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 47.10 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
+| 43.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 45.38 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 47.15 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) |
+| 47.20 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 47.31 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) |
 | 47.50 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 47.84 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 48.10 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) |
-| 48.40 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
+| 48.46 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 48.53 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) |
+| 48.55 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 48.87 | [Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05) |
 | 49.34 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 49.53 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
-| 50.28 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
-| 50.81 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
+| 49.64 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
+| 50.92 | [Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01) |
+| 51.03 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 51.15 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) |
-| 51.40 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 51.42 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |
 | 51.71 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 51.85 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
 | 52.06 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) |
 | 52.11 | [Ari Randers-Pehrson](https://www.worldcubeassociation.org/persons/2017RAND06) |
-| 52.27 | [Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01) |
 | 52.29 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
+| 52.34 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 52.44 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 52.45 | [Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01) |
 | 52.56 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) |
 | 52.68 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 52.68 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) |
+| 52.76 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
 | 52.82 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) |
 | 52.96 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) |
 | 53.12 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
@@ -222,13 +224,11 @@
 | 53.54 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) |
 | 53.58 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 53.76 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
-| 53.77 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
-| 53.78 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
+| 53.89 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 53.89 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) |
 | 54.21 | [Mark Zimmermann](https://www.worldcubeassociation.org/persons/2018ZIMM02) |
 | 54.29 | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) |
 | 54.30 | [Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01) |
-| 54.33 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
 
 ### 6x6x6 Cube
 
@@ -239,7 +239,7 @@
 | 1:23.59 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 1:23.92 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) |
 | 1:25.83 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
-| 1:27.80 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
+| 1:28.64 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 1:30.10 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 1:31.07 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 1:31.46 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
@@ -247,9 +247,12 @@
 | 1:31.75 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) |
 | 1:32.07 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
 | 1:32.08 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
+| 1:32.25 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
 | 1:32.61 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 1:33.34 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 1:33.59 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) |
 | 1:34.75 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) |
+| 1:35.20 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
 | 1:35.69 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) |
 | 1:36.14 | [Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01) |
 | 1:36.70 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
@@ -258,32 +261,29 @@
 | 1:36.83 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 1:37.01 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) |
 | 1:37.09 | [Omar Ellabban](https://www.worldcubeassociation.org/persons/2018ELLA01) |
-| 1:37.30 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
 | 1:37.44 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) |
-| 1:37.75 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
+| 1:37.49 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 1:37.98 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
+| 1:38.00 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
+| 1:38.24 | [Shih-Hao Wang (王士豪)](https://www.worldcubeassociation.org/persons/2015WANG46) |
 | 1:38.65 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1:38.85 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
 | 1:38.89 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) |
+| 1:38.99 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 1:39.51 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) |
 | 1:39.73 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) |
 | 1:40.30 | [Diego Rodriguez-Ramirez](https://www.worldcubeassociation.org/persons/2019RODR11) |
-| 1:40.40 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
-| 1:40.79 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 1:40.92 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
 | 1:40.93 | [Gabriel Santiago Velez Gonzalez](https://www.worldcubeassociation.org/persons/2016GONZ52) |
 | 1:41.05 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
 | 1:41.05 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) |
-| 1:41.29 | [Shih-Hao Wang (王士豪)](https://www.worldcubeassociation.org/persons/2015WANG46) |
 | 1:41.31 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 1:41.55 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) |
 | 1:41.58 | [Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05) |
 | 1:41.65 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 1:41.76 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
-| 1:41.78 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 1:41.89 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1:41.90 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) |
-| 1:42.18 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) |
 
 ### 7x7x7 Cube
 
@@ -304,41 +304,41 @@
 | 2:16.82 | [Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01) |
 | 2:19.76 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |
 | 2:20.15 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) |
+| 2:20.41 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
 | 2:20.63 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 2:22.51 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 2:22.86 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) |
 | 2:23.01 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) |
 | 2:23.89 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 2:24.49 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 2:24.64 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 2:24.86 | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) |
-| 2:25.40 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
 | 2:25.48 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 2:25.49 | [Omar Ellabban](https://www.worldcubeassociation.org/persons/2018ELLA01) |
 | 2:25.54 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) |
 | 2:25.68 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) |
 | 2:25.87 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
 | 2:25.98 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) |
+| 2:26.59 | [Chun-Pao Ni (倪君寶)](https://www.worldcubeassociation.org/persons/2016NIJU01) |
 | 2:27.22 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 2:27.31 | [Jane Behrle](https://www.worldcubeassociation.org/persons/2018BEHR01) |
 | 2:27.47 | [Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07) |
 | 2:27.98 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 2:28.25 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) |
-| 2:28.49 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 2:28.81 | [Gabriel Santiago Velez Gonzalez](https://www.worldcubeassociation.org/persons/2016GONZ52) |
 | 2:29.23 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 2:29.26 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
 | 2:29.27 | [Simon Stannek](https://www.worldcubeassociation.org/persons/2012STAN04) |
 | 2:29.67 | [Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01) |
+| 2:29.79 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 2:29.81 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) |
 | 2:29.86 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
+| 2:30.47 | [Shih-Hao Wang (王士豪)](https://www.worldcubeassociation.org/persons/2015WANG46) |
 | 2:30.63 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 2:31.16 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) |
 | 2:31.32 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) |
-| 2:31.51 | [Chun-Pao Ni (倪君寶)](https://www.worldcubeassociation.org/persons/2016NIJU01) |
 | 2:31.63 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) |
 | 2:31.70 | [Kai Su (苏锴)](https://www.worldcubeassociation.org/persons/2013SUKA01) |
-| 2:31.83 | [Mahith Bandi](https://www.worldcubeassociation.org/persons/2014BAND04) |
-| 2:32.43 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) |
 
 ### 3x3x3 Fewest Moves
 
@@ -355,9 +355,9 @@
 | 24.55 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) |
 | 24.60 | [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) |
 | 24.67 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) |
-| 24.89 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 25.08 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 25.13 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
+| 25.25 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 25.49 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 25.53 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
 | 25.68 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) |
@@ -385,13 +385,13 @@
 | 27.43 | [Emanuel Rheinert](https://www.worldcubeassociation.org/persons/2011RHEI01) |
 | 27.43 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) |
 | 27.49 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
-| 27.56 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 27.56 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) |
 | 27.56 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 27.63 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 27.63 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2017RAFA02) |
 | 27.71 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 27.75 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) |
+| 27.78 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 27.82 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 27.91 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 
@@ -401,22 +401,22 @@
 | ---: | :--- |
 | 9.72 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 10.11 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) |
+| 10.28 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) |
 | 10.29 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 10.35 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
+| 10.50 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 10.51 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) |
-| 10.58 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
-| 10.62 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) |
-| 10.64 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
-| 10.68 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
-| 10.88 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
+| 10.69 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 10.77 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
+| 10.89 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 10.92 | [Eli Parker](https://www.worldcubeassociation.org/persons/2016PARK02) |
 | 11.11 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) |
 | 11.16 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) |
 | 11.22 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) |
 | 11.22 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
 | 11.31 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) |
+| 11.33 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 11.37 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) |
-| 11.38 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 11.38 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
 | 11.43 | [Tolga Kaan Kantarcı](https://www.worldcubeassociation.org/persons/2018KANT01) |
 | 11.45 | [Viljo Elo](https://www.worldcubeassociation.org/persons/2016ELOV01) |
@@ -436,19 +436,19 @@
 | 12.15 | [Alejandro Daniel Salceda Corvera](https://www.worldcubeassociation.org/persons/2016CORV01) |
 | 12.19 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) |
 | 12.20 | [Dante Wallin Arvidsson](https://www.worldcubeassociation.org/persons/2016ARVI04) |
-| 12.21 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
 | 12.22 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 12.24 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
+| 12.29 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 12.30 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
 | 12.32 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
+| 12.33 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
+| 12.33 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 12.35 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) |
 | 12.36 | [Tao Wen (温韬)](https://www.worldcubeassociation.org/persons/2015WENT01) |
 | 12.41 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) |
+| 12.41 | [Simon Kalhofer](https://www.worldcubeassociation.org/persons/2012KALH01) |
 | 12.41 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) |
 | 12.42 | [Shaun Mack](https://www.worldcubeassociation.org/persons/2018MACK04) |
-| 12.43 | [Brody Lassner](https://www.worldcubeassociation.org/persons/2015LASS03) |
-| 12.48 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) |
-| 12.55 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) |
 
 ### Megaminx
 
@@ -479,9 +479,9 @@
 | 38.57 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) |
 | 38.73 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) |
 | 38.83 | [Jose Daniel Cobo Torres](https://www.worldcubeassociation.org/persons/2016TORR29) |
-| 39.08 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
+| 39.13 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
+| 39.21 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
 | 39.43 | [Damián Campos](https://www.worldcubeassociation.org/persons/2015CAMP03) |
-| 39.63 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
 | 39.64 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |
 | 39.65 | [Yun-Rui Chiang (江昀叡)](https://www.worldcubeassociation.org/persons/2015CHIA07) |
 | 39.85 | [Gergely Novotni](https://www.worldcubeassociation.org/persons/2016NOVO01) |
@@ -513,12 +513,12 @@
 | 2.06 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) |
 | 2.07 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) |
 | 2.08 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
-| 2.16 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) |
 | 2.23 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
+| 2.23 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) |
+| 2.26 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 2.31 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) |
 | 2.34 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 2.38 | [Owen Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) |
-| 2.38 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 2.40 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |
 | 2.42 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 2.43 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) |
@@ -526,14 +526,14 @@
 | 2.49 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) |
 | 2.49 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) |
 | 2.50 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
-| 2.55 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
+| 2.51 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 2.58 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) |
+| 2.58 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
 | 2.58 | [Jules Graham](https://www.worldcubeassociation.org/persons/2020GRAH01) |
 | 2.59 | [Wesley Allen](https://www.worldcubeassociation.org/persons/2015ALLE03) |
 | 2.60 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) |
 | 2.62 | [Dylan Cossin](https://www.worldcubeassociation.org/persons/2016COSS01) |
 | 2.62 | [Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01) |
-| 2.62 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
 | 2.63 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) |
 | 2.64 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
 | 2.65 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
@@ -543,22 +543,22 @@
 | 2.70 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) |
 | 2.72 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) |
 | 2.73 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
-| 2.74 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 2.74 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) |
 | 2.75 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 2.76 | [Zhiyuan Li (李致远)](https://www.worldcubeassociation.org/persons/2019LIZH08) |
+| 2.77 | [Davide Arnesano](https://www.worldcubeassociation.org/persons/2018ARNE04) |
 | 2.78 | [Bryan Frank](https://www.worldcubeassociation.org/persons/2018FRAN09) |
+| 2.78 | [Jeyson Paul Espinoza Diaz](https://www.worldcubeassociation.org/persons/2021DIAZ01) |
 | 2.81 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) |
-| 2.82 | [Stian Nystad Østli](https://www.worldcubeassociation.org/persons/2016OSTL02) |
-| 2.83 | [Davide Arnesano](https://www.worldcubeassociation.org/persons/2018ARNE04) |
 | 2.83 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 2.84 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 2.85 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) |
 | 2.85 | [Sebastiano Benato](https://www.worldcubeassociation.org/persons/2014BENA03) |
+| 2.86 | [Stian Nystad Østli](https://www.worldcubeassociation.org/persons/2016OSTL02) |
 | 2.86 | [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) |
 | 2.86 | [Dylan Chan](https://www.worldcubeassociation.org/persons/2018CHAN05) |
 | 2.86 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) |
-| 2.88 | [Keon Wilson](https://www.worldcubeassociation.org/persons/2018WILS10) |
+| 2.88 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 
 ### Rubik's Clock
 
@@ -573,6 +573,7 @@
 | 5.01 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) |
 | 5.01 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) |
 | 5.05 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) |
+| 5.06 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) |
 | 5.09 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 5.10 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) |
 | 5.10 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
@@ -580,21 +581,22 @@
 | 5.11 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
 | 5.15 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 5.23 | [Lucas Nieuwland](https://www.worldcubeassociation.org/persons/2018NIEU01) |
+| 5.26 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) |
 | 5.32 | [Oliver Pällo](https://www.worldcubeassociation.org/persons/2020PALL01) |
 | 5.33 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) |
 | 5.33 | [Joshua Marriott](https://www.worldcubeassociation.org/persons/2019MARR04) |
 | 5.38 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) |
-| 5.45 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) |
 | 5.48 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) |
 | 5.54 | [Jacob Evarts](https://www.worldcubeassociation.org/persons/2018EVAR01) |
 | 5.57 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
-| 5.59 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) |
-| 5.60 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 5.59 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 5.66 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
+| 5.67 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 5.68 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
 | 5.69 | [Lev Bruskov (Лев Брусков)](https://www.worldcubeassociation.org/persons/2019BRUS01) |
 | 5.69 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) |
 | 5.70 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) |
+| 5.72 | [Neil Gour](https://www.worldcubeassociation.org/persons/2022GOUR01) |
 | 5.74 | [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) |
 | 5.84 | [Virgile Perrot](https://www.worldcubeassociation.org/persons/2017PERR02) |
 | 5.87 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
@@ -603,24 +605,21 @@
 | 5.91 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 5.92 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 5.95 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) |
-| 6.02 | [Neil Gour](https://www.worldcubeassociation.org/persons/2022GOUR01) |
 | 6.02 | [Michal Černý](https://www.worldcubeassociation.org/persons/2022CERN03) |
 | 6.03 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 6.04 | [Paul Mirza](https://www.worldcubeassociation.org/persons/2020MIRZ01) |
 | 6.05 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 6.05 | [Radosław Michałek](https://www.worldcubeassociation.org/persons/2021MICH03) |
 | 6.07 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 6.07 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) |
-| 6.07 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 6.09 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 6.09 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) |
+| 6.10 | [Paul Mirza](https://www.worldcubeassociation.org/persons/2020MIRZ01) |
 
 ### Skewb
 
 | Moving average | Person |
 | ---: | :--- |
 | 2.12 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 2.73 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 2.78 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) |
 | 2.79 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) |
 | 2.81 | [Leo Min-Bedford](https://www.worldcubeassociation.org/persons/2014MINB01) |
@@ -628,7 +627,8 @@
 | 2.82 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 2.84 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) |
 | 2.84 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
-| 2.86 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) |
+| 2.88 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) |
+| 2.91 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 2.91 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) |
 | 2.93 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
 | 2.93 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
@@ -675,8 +675,8 @@
 | Moving average | Person |
 | ---: | :--- |
 | 6.19 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
-| 6.32 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
-| 6.34 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
+| 6.23 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 6.28 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 6.38 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 6.52 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 6.53 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
@@ -686,25 +686,25 @@
 | 7.27 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) |
 | 7.35 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 7.58 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) |
+| 7.62 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) |
 | 7.67 | [Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02) |
 | 7.81 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
-| 7.96 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) |
-| 8.01 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
-| 8.06 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) |
+| 7.83 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
+| 7.90 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
+| 7.92 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) |
 | 8.15 | [Yi-Ho Hsueh (薛以和)](https://www.worldcubeassociation.org/persons/2016HSUE01) |
 | 8.24 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) |
 | 8.26 | [Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01) |
 | 8.31 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) |
 | 8.37 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 8.40 | [Alexander Weiden](https://www.worldcubeassociation.org/persons/2019WEID04) |
-| 8.41 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 8.44 | [Cameron Miller](https://www.worldcubeassociation.org/persons/2018MILL08) |
 | 8.50 | [Xuechao Zhang (张学超)](https://www.worldcubeassociation.org/persons/2017ZHAX02) |
+| 8.50 | [Anshu Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN53) |
 | 8.53 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) |
-| 8.53 | [Anshu Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN53) |
 | 8.54 | [Pietro Mazza](https://www.worldcubeassociation.org/persons/2019MAZZ02) |
+| 8.64 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 8.65 | [Yen-An Chen (陳彥安)](https://www.worldcubeassociation.org/persons/2019CHEY31) |
-| 8.70 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 8.73 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 8.81 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 8.85 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |

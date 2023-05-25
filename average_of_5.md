@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 21 May 2023*
+*Updated on 24 May 2023*
 
 
 ### Rubik's Cube
@@ -74,10 +74,10 @@
 | 1:19.22 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:20.91, 1:11.89, 1:17.90, 1:28.37, 1:18.87 |
 | 1:20.16 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:21.01, 1:17.89, 1:19.08, 1:26.83, 1:20.39 |
 | 1:20.37 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:21.40, 1:26.58, 1:20.64, 1:19.08, 1:16.42 |
+| 1:21.69 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 1:23.61, 1:19.03, 1:27.46, 1:22.43, 1:19.00 |
 | 1:22.45 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:22.21, 1:18.78, 1:24.70, 1:34.90, 1:20.45 |
 | 1:23.24 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:19.23, 1:25.94, 1:23.57, 1:25.81, 1:20.35 |
-| 1:24.17 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:24.86, 1:25.36, 1:22.29, 1:32.37, 1:22.22 |
-| 1:24.58 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:29.14, 1:23.49, 1:26.48, 1:20.50, 1:23.77 |
+| 1:23.99 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 1:32.15, 1:20.02, 1:20.74, 1:31.21, 1:19.66 |
 
 ### 7x7x7 Cube
 
@@ -219,7 +219,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1:10.00 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | DNF, 1:06.23, 1:02.51, 1:14.05, 1:09.72 |
-| 1:23.60 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:29.64, 1:40.45, 1:19.22, 1:19.07, 1:21.94 |
+| 1:20.07 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:19.22, 1:19.07, 1:21.94, DNF, 1:11.34 |
 | 1:33.49 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 2:03.94, 1:31.40, 1:23.27, 1:25.83, 1:43.26 |
 | 1:42.27 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | DNF, 1:38.67, 1:33.11, 1:55.04, 1:18.08 |
 | 1:42.83 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 1:35.24, 1:43.38, 1:49.87, DNF, 1:25.73 |

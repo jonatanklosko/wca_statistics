@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 24 May 2023*
+*Updated on 27 May 2023*
 
 
 ### Rubik's Cube
@@ -91,7 +91,7 @@
 | 27.58 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/by_person#2018LOPE22) |
 | 27.60 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Taiwan Championship 2022](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2022/results/by_person#2016YONG02) |
 | 27.76 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Tres Estrellas 2023](https://www.worldcubeassociation.org/competitions/TresEstrellas2023/results/by_person#2018LOPE22) |
-| 27.83 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Medan Speedcubing Festival 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubingFestival2023/results/by_person#2016YONG02) |
+| 27.80 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Westchester Weeknights 1 2023](https://www.worldcubeassociation.org/competitions/WestchesterWeeknights12023/results/by_person#2015NAIN01) |
 
 ### Pyraminx
 
@@ -103,10 +103,10 @@
 | 1.32 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2017NIEL03) |
 | 1.32 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [Crystal City Fall 2022](https://www.worldcubeassociation.org/competitions/CrystalCityFall2022/results/by_person#2017NIEL03) |
 | 1.32 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Michigan Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/MichiganSpeedcubingSpring2023/results/by_person#2019SHER10) |
+| 1.34 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [North Jersey Speedsolving A 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingA2023/results/by_person#2019MEAD03) |
 | 1.36 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | [InTents Cubing Anza-Borrego 2023](https://www.worldcubeassociation.org/competitions/InTentsCubingAnzaBorrrego2023/results/by_person#2015BROW03) |
 | 1.37 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Michigan Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/MichiganSpeedcubingSpring2023/results/by_person#2019SHER10) |
 | 1.38 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [Clash at Carlisle Spring 2023](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2023/results/by_person#2019MEAD03) |
-| 1.39 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | [ODU Big Blue Spring 2023](https://www.worldcubeassociation.org/competitions/ODUBigBlueSpring2023/results/by_person#2015BROW03) |
 
 ### Rubik's Clock
 

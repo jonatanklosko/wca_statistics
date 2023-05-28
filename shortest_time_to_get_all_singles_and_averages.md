@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 24 May 2023*
+*Updated on 27 May 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -53,6 +53,7 @@
 | 3074 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 3542 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 3570 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 3586 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 3850 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 4144 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |

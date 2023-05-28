@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 24 May 2023*
+*Updated on 27 May 2023*
 
 
 ### Rubik's Cube

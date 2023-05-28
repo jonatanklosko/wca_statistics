@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 24 May 2023*
+*Updated on 27 May 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -243,6 +243,7 @@
 | 13 | [Perth FMC Day 2023](https://www.worldcubeassociation.org/competitions/PerthFMCDay2023) |
 | 13 | [Please Be Solved Vancouver 2019](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2019) |
 | 13 | [Poções 2023](https://www.worldcubeassociation.org/competitions/Pocoes2023) |
+| 13 | [SacQuiet Spring 2023](https://www.worldcubeassociation.org/competitions/SacQuietSpring2023) |
 | 13 | [Shamkir Open 2018](https://www.worldcubeassociation.org/competitions/ShamkirOpen2018) |
 | 13 | [Slow Down Swanbourne 2021](https://www.worldcubeassociation.org/competitions/SlowDownSwanbourne2021) |
 | 13 | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) |

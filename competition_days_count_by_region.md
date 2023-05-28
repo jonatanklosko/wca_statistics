@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 24 May 2023*
+*Updated on 27 May 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 9743 |
+| 1.49 | World | 9758 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.76 | Europe | 3199 |
-| 1.57 | South America | 1089 |
-| 1.47 | Oceania | 424 |
-| 1.41 | Asia | 2280 |
+| 1.76 | Europe | 3203 |
+| 1.57 | South America | 1091 |
+| 1.47 | Oceania | 425 |
+| 1.41 | Asia | 2283 |
 | 1.24 | Africa | 107 |
-| 1.21 | North America | 2644 |
+| 1.21 | North America | 2649 |
 
 ### Countries
 
@@ -50,7 +50,7 @@
 | 1.83 | Mexico | 106 |
 | 1.81 | Austria | 21 |
 | 1.80 | Iceland | 10 |
-| 1.79 | Brazil | 356 |
+| 1.80 | Brazil | 357 |
 | 1.77 | Thailand | 39 |
 | 1.76 | Guatemala | 51 |
 | 1.75 | Sri Lanka | 4 |
@@ -58,34 +58,34 @@
 | 1.73 | Denmark | 127 |
 | 1.71 | Argentina | 66 |
 | 1.71 | Ukraine | 111 |
-| 1.68 | Poland | 370 |
+| 1.68 | Poland | 371 |
 | 1.67 | Kyrgyzstan | 3 |
 | 1.67 | Luxembourg | 3 |
 | 1.67 | Montenegro | 3 |
 | 1.67 | North Macedonia | 6 |
 | 1.67 | San Marino | 6 |
+| 1.66 | Sweden | 178 |
 | 1.66 | Iran | 32 |
-| 1.66 | Sweden | 177 |
-| 1.61 | Indonesia | 188 |
 | 1.61 | Ireland | 36 |
+| 1.61 | Indonesia | 189 |
+| 1.60 | New Zealand | 86 |
 | 1.60 | Netherlands | 101 |
 | 1.60 | Bangladesh | 10 |
-| 1.60 | New Zealand | 85 |
 | 1.59 | Bolivia | 91 |
-| 1.59 | India | 453 |
+| 1.58 | India | 455 |
 | 1.56 | Malaysia | 68 |
 | 1.55 | Italy | 171 |
-| 1.55 | Latvia | 22 |
-| 1.52 | Colombia | 167 |
+| 1.52 | Latvia | 23 |
 | 1.52 | Dominican Republic | 25 |
+| 1.52 | Colombia | 168 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Nigeria | 4 |
 | 1.50 | Tajikistan | 2 |
 | 1.49 | Peru | 164 |
+| 1.44 | Israel | 36 |
 | 1.44 | Greece | 16 |
 | 1.44 | Romania | 80 |
 | 1.43 | Australia | 339 |
-| 1.43 | Israel | 35 |
 | 1.43 | Singapore | 35 |
 | 1.39 | Nepal | 18 |
 | 1.37 | South Africa | 52 |
@@ -110,7 +110,7 @@
 | 1.22 | Japan | 214 |
 | 1.20 | Kuwait | 5 |
 | 1.19 | Portugal | 16 |
-| 1.17 | United States | 2110 |
+| 1.17 | United States | 2115 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.17 | Uruguay | 42 |

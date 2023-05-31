@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class MostAttendedCompetitionsInSingleWeek < Statistic
   def initialize
     @title = "Most attended competitions in a single week"
-    @table_header = { "Competitions" => :right, "Person" => :left, "Week" => :left, "Year" => :left, "List" => :left }
+    @table_header = { "Competitions" => :right, "Person" => :left, "&nbsp;Start&nbsp;date&nbsp;" => :left, "&nbsp;End&nbsp;date&nbsp;&nbsp;&nbsp;" => :left, "Year" => :left, "List" => :left }
   end
 
   def query
@@ -11,14 +11,16 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
       SELECT
         attended_within_week,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
-        week_number,
+        week_start_date,
+        week_end_date
         competitions_year,
         competition_links
       FROM (
         SELECT
           COUNT(*) attended_within_week,
           personId,
-          WEEK(competition.start_date, 0) week_number,
+          DATE_ADD(competition.start_date, INTERVAL(-1-WEEKDAY(competition.start_date)) DAY) week_start_date, 
+          DATE_ADD(competition.start_date, INTERVAL(5-WEEKDAY(competition.start_date)) DAY) week_end_date,
           competition.year competitions_year,
           GROUP_CONCAT(
             CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')')
@@ -29,7 +31,7 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
           FROM Results
         ) AS results
         JOIN Competitions competition ON competition.id = competitionId
-        GROUP BY personId, competition.year, week_number
+        GROUP BY personId, week_start_date, week_end_date, competition.year
         HAVING attended_within_week >= 3
       ) AS comps_within_single_month_by_person
       JOIN Persons person ON person.id = personId AND subId = 1

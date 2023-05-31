@@ -7,7 +7,7 @@
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 9770 |
+| 1.49 | World | 9768 |
 
 ### Continents
 
@@ -18,7 +18,7 @@
 | 1.47 | Oceania | 427 |
 | 1.41 | Asia | 2287 |
 | 1.24 | Africa | 107 |
-| 1.21 | North America | 2652 |
+| 1.21 | North America | 2650 |
 
 ### Countries
 
@@ -135,7 +135,6 @@
 | 1.00 | Mauritius | 3 |
 | 1.00 | Moldova | 5 |
 | 1.00 | Morocco | 5 |
-| 1.00 | Multiple Countries (North America) | 2 |
 | 1.00 | Oman | 1 |
 | 1.00 | Pakistan | 2 |
 

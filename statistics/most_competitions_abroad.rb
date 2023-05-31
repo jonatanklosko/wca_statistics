@@ -19,7 +19,8 @@ class MostCompetitionsAbroad < Statistic
         JOIN Competitions competition ON competition.id = competitionId
         WHERE 1
           AND result.countryId != competition.countryId
-          AND competition.countryId NOT IN ('XA', 'XE', 'XM', 'XS') -- Ignore Multiple Countries used for continental FMC competitions.
+          AND competition.countryId -- Ignore Multiple Countries used for continental FMC competitions.
+            NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')
         GROUP BY personId
         ORDER BY competitions_abroad DESC
         LIMIT 100

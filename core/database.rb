@@ -5,6 +5,7 @@ require 'mysql2'
 module Database
   DATABASE_CONFIG_PATH = File.expand_path("../database.yml", __dir__)
   DATABASE_CONFIG = YAML.load_file(DATABASE_CONFIG_PATH)
+  DATABASE_CONFIG["init_command"] = "SET SESSION group_concat_max_len=4096;"
   REQUIRED_TABLES = %w(
     championships
     Competitions

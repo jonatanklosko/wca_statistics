@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 27 May 2023*
+*Updated on 30 May 2023*
 
 
 ### Rubik's Cube

@@ -1,23 +1,23 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 27 May 2023*
+*Updated on 30 May 2023*
 
 
 ### Rubik's Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.39 | **6.18** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e333_f) | 4 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 5.90 | **6.51** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333_f) | 4 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.59 | **6.59** | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/all#e333_f) | 4 |
+| [Nanxi Liu (刘南希)](https://www.worldcubeassociation.org/persons/2018LIUN01) | 5.83 | **6.68** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e333_f) | 5 |
 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | 5.07 | **6.69** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e333_f) | 4 |
 | [Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01) | 5.65 | **6.71** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333_f) | 4 |
 | [Jerry Yao](https://www.worldcubeassociation.org/persons/2019YAOJ01) | 6.42 | **6.72** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e333_f) | 4 |
 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.52 | **6.83** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e333_f) | 5 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 6.42 | **6.83** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333_f) | 4 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 6.45 | **6.84** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333_f) | 5 |
-| [Danny Sungin Park](https://www.worldcubeassociation.org/persons/2015PARK13) | 6.03 | **6.85** | [SacCubing X 2021](https://www.worldcubeassociation.org/competitions/SacCubingX2021/results/all#e333_f) | 4 |
-| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 6.33 | **6.85** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333_f) | 6 |
 
 ### 2x2x2 Cube
 
@@ -25,14 +25,14 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06) | 1.22 | **1.57** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e222_f) | 4 |
 | [Hao Wang (王浩)](https://www.worldcubeassociation.org/persons/2017WANG90) | 1.31 | **1.65** | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/all#e222_f) | 4 |
+| [Nanxi Liu (刘南希)](https://www.worldcubeassociation.org/persons/2018LIUN01) | 1.50 | **1.69** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e222_f) | 4 |
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.27 | **1.70** | [Think In Fink Fall 2022](https://www.worldcubeassociation.org/competitions/ThinkInFink2022/results/all#e222_f) | 4 |
 | [Derek Hsieh](https://www.worldcubeassociation.org/persons/2016HSIE02) | 1.45 | **1.71** | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/all#e222_f) | 4 |
+| [Jiekang Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) | 1.41 | **1.72** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e222_f) | 5 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.28 | **1.74** | [Virginia Re-Open Spring 2023](https://www.worldcubeassociation.org/competitions/VirginiaReOpenSpring2023/results/all#e222_f) | 4 |
 | [Diego Fraile](https://www.worldcubeassociation.org/persons/2013FRAI01) | 1.57 | **1.74** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e222_f) | 4 |
+| [Hao Wang (王浩)](https://www.worldcubeassociation.org/persons/2017WANG90) | 1.61 | **1.76** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e222_f) | 6 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.32 | **1.77** | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/all#e222_f) | 4 |
-| [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 1.41 | **1.77** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e222_f) | 4 |
-| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.60 | **1.77** | [Howland Returns 2022](https://www.worldcubeassociation.org/competitions/HowlandReturns2022/results/all#e222_f) | 4 |
-| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.61 | **1.77** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e222_f) | 5 |
 
 ### 4x4x4 Cube
 

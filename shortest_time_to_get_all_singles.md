@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 27 May 2023*
+*Updated on 30 May 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -58,6 +58,7 @@
 | 644 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |
 | 658 | [Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01) |
 | 658 | [Ha Min Oh (오해민)](https://www.worldcubeassociation.org/persons/2015OHHA01) |
+| 665 | [Mats Walker](https://www.worldcubeassociation.org/persons/2021WALK02) |
 | 667 | [Tianping Ding (丁天平)](https://www.worldcubeassociation.org/persons/2016DING05) |
 | 670 | [Shunsuke Wada (和田俊輔)](https://www.worldcubeassociation.org/persons/2016WADA01) |
 | 672 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
@@ -157,6 +158,7 @@
 | 1182 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) |
 | 1183 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) |
 | 1190 | [Gianluca Placenti](https://www.worldcubeassociation.org/persons/2012PLAC01) |
+| 1190 | [Katharina Schlomberg](https://www.worldcubeassociation.org/persons/2020SCHL01) |
 | 1197 | [Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01) |
 | 1199 | [Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01) |
 | 1204 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
@@ -332,6 +334,7 @@
 | 2352 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) |
 | 2359 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) |
 | 2386 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) |
+| 2422 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 2436 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) |
 | 2464 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 2471 | [Nick Vu](https://www.worldcubeassociation.org/persons/2007VUNI01) |

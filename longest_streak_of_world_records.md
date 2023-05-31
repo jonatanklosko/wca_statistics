@@ -1,12 +1,12 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 27 May 2023*
+*Updated on 30 May 2023*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
 | 21 | 5x5x5 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2010](https://www.worldcubeassociation.org/competitions/AustralianNationals2010) | [Western Championship 2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018) | 7.78 |
 | 11 | 5x5x5 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2012](https://www.worldcubeassociation.org/competitions/AustralianNationals2012) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) | 5.73 |
-| 10 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) |  | 5.37 |
+| 10 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) |  | 5.38 |
 | 9 | Rubik's Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | [OCSEF 2017](https://www.worldcubeassociation.org/competitions/OCSEFOpen2017) | 7.23 |
 | 8 | 4x4x4 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks for the InFive 2018](https://www.worldcubeassociation.org/competitions/ThanksfortheInFive2018) |  | 5.05 |
 | 8 | 5x5x5 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018) |  | 4.96 |
@@ -161,6 +161,7 @@
 | 2 | 3x3x3 One-Handed | Average | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) |  | 1.20 |
 | 2 | Megaminx | Single | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Helsinki Open 2011](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2011) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) | 3.54 |
 | 2 | Megaminx | Single | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | [Asian Championship 2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014) | [Big Apple Spring 2016](https://www.worldcubeassociation.org/competitions/BigAppleSpring2016) | 1.55 |
+| 2 | Megaminx | Single | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Open 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpen2023) |  | 0.20 |
 | 2 | Megaminx | Average | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | [German Open 2006](https://www.worldcubeassociation.org/competitions/GermanOpen2006) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | 1.46 |
 | 2 | Megaminx | Average | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011) | 0.99 |
 | 2 | Megaminx | Average | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011) | [Hungarian Open 2012](https://www.worldcubeassociation.org/competitions/HungarianOpen2012) | 1.38 |

@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 27 May 2023*
+*Updated on 30 May 2023*
 
 
 ### 100 Competitions
@@ -83,6 +83,7 @@
 | Days | Person |
 | ---: | :--- |
 | 103 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
+| 127 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
 | 139 | [Vishnu Sai Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 140 | [Hansi Wang (王翰思)](https://www.worldcubeassociation.org/persons/2020WANG19) |
 | 140 | [Sheng Li (李圣)](https://www.worldcubeassociation.org/persons/2020LISH02) |
@@ -101,7 +102,6 @@
 | 162 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
 | 168 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 168 | [Santhosh Sabarinathan](https://www.worldcubeassociation.org/persons/2018SABA02) |
-| 168 | [Patrick Shi](https://www.worldcubeassociation.org/persons/2022SHIP01) |
 
 ### 5 Competitions
 

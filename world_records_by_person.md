@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 27 May 2023*
+*Updated on 30 May 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -59,6 +59,7 @@
 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 5 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
 | 5 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
+| 5 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 5 | [Máté Horváth](https://www.worldcubeassociation.org/persons/2007HORV01) |
 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
@@ -98,7 +99,6 @@
 | 3 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
 | 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 3 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
-| 3 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 3 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 3 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 3 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |

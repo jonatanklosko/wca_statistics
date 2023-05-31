@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 27 May 2023*
+*Updated on 30 May 2023*
 
 
 ### Rubik's Cube
@@ -120,16 +120,16 @@
 | 22.00 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | 23, 22, 21, 22, 22 |
 | 22.33 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | DNF, 22, 23, 22, 22 |
 | 22.33 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 21, 27, 23, 21, 23 |
+| 22.33 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 24, 27, 21, 18, 22 |
 | 22.33 | [Alexis Le Merrer](https://www.worldcubeassociation.org/persons/2019MERR02) | 22, 23, 23, 22, 22 |
 | 22.66 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 28, 22, 22, 22, 24 |
-| 22.66 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 26, 24, 22, 22, 22 |
 
 ### 3x3x3 One-Handed
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 8.52 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 9.11, 7.77, 7.98, 10.81, 8.47 |
-| 8.54 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.95, 6.20, 7.86, 9.68, 8.83 |
+| 8.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 11.19, 8.67, 9.18, 7.74, 7.67 |
 | 8.66 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 7.99, 11.77, 7.71, 8.52, 9.48 |
 | 8.72 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 7.63, 8.62, 10.62, 9.30, 8.25 |
 | 8.97 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 7.42, 8.48, 8.63, 12.66, 9.81 |
@@ -143,8 +143,8 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 26.78 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 27.40, 27.26, 31.53, 24.83, 25.69 |
 | 28.03 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 26.38, 33.29, 27.83, 28.17, 28.09 |
-| 28.04 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 27.07, 31.15, 29.66, 26.90, 27.40 |
 | 28.66 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 26.90, 30.05, 28.10, 29.25, 28.65 |
 | 29.05 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 31.00, 26.54, 28.47, 29.70, 29.00 |
 | 30.12 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 28.50, 31.19, 29.97, 31.07, 29.34 |
@@ -160,6 +160,7 @@
 | ---: | :--- | :--- |
 | 1.46 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.27, 1.38, 1.18, 3.32, 1.73 |
 | 1.50 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.29, 1.63, 1.35, 14.94, 1.53 |
+| 1.56 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1.38, 2.02, 1.64, 1.68, 1.29 |
 | 1.57 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.34, 4.13, 1.68, 1.69, 1.29 |
 | 1.62 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 1.68, 6.04, 1.54, 1.39, 1.65 |
 | 1.63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.74, 1.39, 2.69, 1.76, 1.33 |
@@ -167,7 +168,6 @@
 | 1.63 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.58, 1.46, 1.87, 2.37, 1.39 |
 | 1.68 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 2.18, 1.61, 1.52, 1.54, 1.89 |
 | 1.69 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.53, 3.76, 1.48, 2.03, 1.52 |
-| 1.70 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | 2.56, 1.44, 1.64, 2.02, 1.32 |
 
 ### Rubik's Clock
 
@@ -221,8 +221,8 @@
 | 1:10.00 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | DNF, 1:06.23, 1:02.51, 1:14.05, 1:09.72 |
 | 1:20.07 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:19.22, 1:19.07, 1:21.94, DNF, 1:11.34 |
 | 1:33.49 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 2:03.94, 1:31.40, 1:23.27, 1:25.83, 1:43.26 |
+| 1:37.85 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 1:49.87, DNF, 1:25.73, 1:37.95, 1:24.09 |
 | 1:42.27 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | DNF, 1:38.67, 1:33.11, 1:55.04, 1:18.08 |
-| 1:42.83 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 1:35.24, 1:43.38, 1:49.87, DNF, 1:25.73 |
 | 1:47.98 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 1:48.01, 1:44.31, 1:30.05, DNF, 1:51.63 |
 | 1:49.13 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 2:01.87, 1:43.92, 1:50.42, 1:47.86, 1:49.12 |
 | 2:00.72 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 2:12.43, 1:46.77, 2:02.98, DNF, 1:35.75 |
@@ -236,7 +236,7 @@
 | 2:33.18 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | DNF, 2:32.48, 2:28.80, 2:21.62, 2:38.27 |
 | 3:27.89 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:21.84, 3:33.47, 3:06.91, DNF, 3:28.38 |
 | 3:29.73 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 2:57.33, 3:12.18, DNF, 3:27.30, 3:49.72 |
-| 4:04.65 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4:06.46, 3:55.39, DNF, 4:12.10, 3:25.99 |
+| 3:51.16 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 3:55.39, DNF, 4:12.10, 3:25.99, 3:20.19 |
 | 4:18.48 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | DNF, 4:00.53, 4:25.98, 4:28.94, 3:33.98 |
 | 4:25.46 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4:30.97, 4:39.16, 4:06.26, DNF, 3:34.45 |
 | 4:27.14 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 4:30.47, 4:08.12, 3:52.32, DNF, 4:42.85 |

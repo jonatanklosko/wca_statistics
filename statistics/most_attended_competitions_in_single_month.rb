@@ -22,6 +22,7 @@ class MostAttendedCompetitionsInSingleMonth < Statistic
           competition.year competitions_year,
           GROUP_CONCAT(
             CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')')
+            ORDER BY competition.start_date ASC
             SEPARATOR ', '
           ) competition_links
         FROM (

@@ -22,6 +22,7 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
           DATE_ADD(competition.start_date, INTERVAL(6-WEEKDAY(competition.start_date)) DAY) week_end_date,
           GROUP_CONCAT(
             CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')')
+            ORDER BY competition.start_date ASC
             SEPARATOR ', '
           ) competition_links
         FROM (

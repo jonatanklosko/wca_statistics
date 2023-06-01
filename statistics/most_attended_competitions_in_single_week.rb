@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class MostAttendedCompetitionsInSingleWeek < Statistic
   def initialize
     @title = "Most attended competitions in a single week"
-    @table_header = { "Competitions" => :right, "Person" => :left, "&nbsp;Start&nbsp;date&nbsp;" => :left, "&nbsp;End&nbsp;date&nbsp;&nbsp;&nbsp;" => :left, "Year" => :left, "List" => :left }
+    @table_header = { "Competitions" => :right, "Person" => :left, "Start date" => :left, "End date" => :left, "List" => :left }
   end
 
   def query
@@ -12,8 +12,7 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
         attended_within_week,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
         week_start_date,
-        week_end_date
-        competitions_year,
+        week_end_date,
         competition_links
       FROM (
         SELECT
@@ -21,7 +20,6 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
           personId,
           DATE_ADD(competition.start_date, INTERVAL(-1-WEEKDAY(competition.start_date)) DAY) week_start_date, 
           DATE_ADD(competition.start_date, INTERVAL(5-WEEKDAY(competition.start_date)) DAY) week_end_date,
-          competition.year competitions_year,
           GROUP_CONCAT(
             CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')')
             SEPARATOR ', '
@@ -33,9 +31,18 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
         JOIN Competitions competition ON competition.id = competitionId
         GROUP BY personId, week_start_date, week_end_date, competition.year
         HAVING attended_within_week >= 3
-      ) AS comps_within_single_month_by_person
+      ) AS comps_within_single_week_by_person
       JOIN Persons person ON person.id = personId AND subId = 1
       ORDER BY attended_within_week DESC, person.name
     SQL
+  end
+
+  def transform(query_results)
+    query_results.map do |result|
+      date_format = "%e&nbsp;%b&nbsp;%Y"
+      week_start = result["week_start_date"].strftime(date_format)
+      week_end = result["week_end_date"].strftime(date_format)
+      [result["attended_within_week"], result["person_link"], week_start, week_end, result["competition_links"]]
+    end
   end
 end

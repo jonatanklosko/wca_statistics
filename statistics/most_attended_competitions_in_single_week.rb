@@ -18,8 +18,8 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
         SELECT
           COUNT(*) attended_within_week,
           personId,
-          DATE_ADD(competition.start_date, INTERVAL(-1-WEEKDAY(competition.start_date)) DAY) week_start_date, 
-          DATE_ADD(competition.start_date, INTERVAL(5-WEEKDAY(competition.start_date)) DAY) week_end_date,
+          DATE_ADD(competition.start_date, INTERVAL(-WEEKDAY(competition.start_date)) DAY) week_start_date, 
+          DATE_ADD(competition.start_date, INTERVAL(6-WEEKDAY(competition.start_date)) DAY) week_end_date,
           GROUP_CONCAT(
             CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')')
             SEPARATOR ', '

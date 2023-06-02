@@ -35,6 +35,7 @@
 - [Most competitions before winning](most_competitions_before_winning)
 - [Most completed solves](most_completed_solves)
 - [Most delegated competitions](most_delegated_competitions)
+- [Most distinct dates competed on](most_distinct_dates_competed_on)
 - [Most finals](most_finals)
 - [Most frequent results](most_frequent_results)
 - [Most podiums at a single competition](most_podiums_at_single_competition)

@@ -1,32 +1,32 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 30 May 2023*
+*Updated on  2 June 2023*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1331** | 1108 | 951 | 3390 |
 | Germany | **878** | 868 | 867 | 2613 |
-| United States | **864** | 727 | 641 | 2232 |
+| United States | **864** | 729 | 642 | 2235 |
 | Netherlands | **822** | 663 | 554 | 2039 |
 | France | **810** | 696 | 593 | 2099 |
-| Russia | **697** | 441 | 353 | 1491 |
-| China | **502** | 455 | 413 | 1370 |
+| Russia | **699** | 443 | 353 | 1495 |
+| China | **509** | 461 | 413 | 1383 |
 | Poland | **474** | 335 | 256 | 1065 |
 | Malaysia | **365** | 363 | 322 | 1050 |
 | United Kingdom | **358** | 409 | 403 | 1170 |
-| Canada | **343** | 340 | 365 | 1048 |
+| Canada | **343** | 342 | 365 | 1050 |
 | Denmark | **331** | 286 | 212 | 829 |
 | Sweden | **300** | 338 | 356 | 994 |
 | Australia | **280** | 127 | 87 | 494 |
-| Republic of Korea | **263** | 245 | 200 | 708 |
-| India | **245** | 196 | 183 | 624 |
+| Republic of Korea | **267** | 245 | 200 | 712 |
+| India | **245** | 196 | 185 | 626 |
 | Finland | **244** | 183 | 148 | 575 |
 | Hong Kong | **232** | 258 | 202 | 692 |
 | Switzerland | **230** | 309 | 262 | 801 |
 | Argentina | **208** | 155 | 129 | 492 |
+| Japan | **198** | 126 | 132 | 456 |
 | Italy | **197** | 189 | 178 | 564 |
-| Japan | **196** | 123 | 130 | 449 |
 | Taiwan | **195** | 167 | 162 | 524 |
 | Ukraine | **176** | 177 | 175 | 528 |
 | Spain | **174** | 161 | 194 | 529 |
@@ -40,7 +40,7 @@
 | Colombia | **125** | 96 | 84 | 305 |
 | Austria | **119** | 175 | 189 | 483 |
 | Greece | **119** | 143 | 105 | 367 |
-| Latvia | **116** | 172 | 168 | 456 |
+| Latvia | **117** | 176 | 172 | 465 |
 | Belarus | **107** | 65 | 77 | 249 |
 | Czech Republic | **97** | 109 | 115 | 321 |
 | Kazakhstan | **90** | 81 | 81 | 252 |
@@ -79,7 +79,7 @@
 | Kuwait | **9** | 8 | 17 | 34 |
 | Iran | **9** | 7 | 7 | 23 |
 | Uruguay | **9** | 5 | 18 | 32 |
-| Nigeria | **8** | 12 | 6 | 26 |
+| Nigeria | **8** | 13 | 7 | 28 |
 | Bolivia | **8** | 9 | 16 | 33 |
 | Georgia | **7** | 10 | 9 | 26 |
 | Moldova | **7** | 8 | 4 | 19 |

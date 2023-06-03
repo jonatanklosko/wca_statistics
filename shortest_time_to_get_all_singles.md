@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 30 May 2023*
+*Updated on  2 June 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -41,6 +41,7 @@
 | 497 | [Jaden Lim](https://www.worldcubeassociation.org/persons/2017LIMJ02) |
 | 519 | [Rodrigo Pueblas Núñez](https://www.worldcubeassociation.org/persons/2014NUNE05) |
 | 531 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) |
+| 532 | [Diasbek Zhuraev (Диасбек Жураев)](https://www.worldcubeassociation.org/persons/2021ZHUR04) |
 | 539 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
 | 539 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) |
 | 546 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 30 May 2023*
+*Updated on  2 June 2023*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -10,8 +10,8 @@
 | 171 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 167 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 164 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 155 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 153 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 153 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 150 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 150 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 149 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -20,14 +20,14 @@
 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 118 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 116 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
-| 114 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 116 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 113 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 105 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
+| 103 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
-| 102 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 102 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 101 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 99 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
@@ -86,10 +86,10 @@
 | 69 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 69 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 69 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
+| 68 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 68 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 68 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
-| 67 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 67 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 67 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |

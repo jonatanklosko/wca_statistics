@@ -38,4 +38,34 @@ class MostDistinctDatesCompetedOn < Statistic
       ORDER BY attended_dates DESC, person.name
     SQL
   end
+
+  def transform(query_results)
+    query_results.map do |result|
+      dates_list = transform_dates(result["dates_list"])
+      [result["attended_dates"], result["person_link"], dates_list]
+    end
+  end
+
+  def transform_dates(dates_list)
+    month_names = [ 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December' ]
+    dates_by_month = Hash.new { |hash, key| hash[key] = [] }
+    dates = dates_list.split(',').map(&:strip)
+
+    dates.each do |date|
+      month, day = date.split('/').map(&:to_i)
+      dates_by_month[month].push(day)
+    end
+
+    output = ''
+    dates_by_month.each do |month, days|
+      output += "#{month_names[month - 1]}: "
+      if days.empty?
+        output += "<br />"
+      else
+        output += days.join(', ')
+        output += "<br />"
+      end
+    end
+    output
+  end
 end

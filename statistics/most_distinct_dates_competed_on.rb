@@ -3,20 +3,22 @@ require_relative "../core/statistic"
 class MostDistinctDatesCompetedOn < Statistic
   def initialize
     @title = "Most distinct dates competed on"
-    @table_header = { "Dates" => :right, "Person" => :left}
+    @table_header = { "Dates" => :right, "Person" => :left, "List" => :left }
   end
 
   def query
     <<-SQL
       SELECT
         attended_dates,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        dates_list
       FROM (
         SELECT
-          COUNT(DISTINCT DATE_FORMAT(competition_date, '%m%d')) AS attended_dates,
-          personId
+          COUNT(DISTINCT competition_date) AS attended_dates,
+          personId,
+          GROUP_CONCAT(DISTINCT competition_date ORDER BY competition_date ASC SEPARATOR ', ') dates_list
         FROM (
-          SELECT Results.personId, competition_dates.competition_date
+          SELECT Results.personId, DATE_FORMAT(competition_dates.competition_date, '%m%d') competition_date
           FROM Results
           JOIN (
             SELECT

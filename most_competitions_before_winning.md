@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  2 June 2023*
+*Updated on  5 June 2023*
 
 
 ### Rubik's Cube
@@ -59,10 +59,10 @@
 | 86 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022) |
 | 77 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) | [Kubekings Villanueva Open 2018](https://www.worldcubeassociation.org/competitions/KubekingsVillanuevaOpen2018) |
 | 74 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Roskilde by Night 2023](https://www.worldcubeassociation.org/competitions/RoskildebyNight2023) |
+| 70 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | [Pays de Bray Open 2023](https://www.worldcubeassociation.org/competitions/PaysdeBrayOpen2023) |
 | 70 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [Turning in Townsville 2023](https://www.worldcubeassociation.org/competitions/TurninginTownsville2023) |
 | 65 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | [Lisboa Open 2018](https://www.worldcubeassociation.org/competitions/LisboaOpen2018) |
 | 61 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Cube4fun League X Rzeszów 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueXRzeszow2022) |
-| 56 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) | [Franconia Mini Open A 2022](https://www.worldcubeassociation.org/competitions/FranconiaMiniOpenA2022) |
 
 ### 6x6x6 Cube
 

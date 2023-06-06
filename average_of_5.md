@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  2 June 2023*
+*Updated on  5 June 2023*
 
 
 ### Rubik's Cube
@@ -24,6 +24,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 0.89 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.15, 0.79, 0.91, 0.97, 0.71 |
+| 0.95 | [Huining Huang (黄徽宁)](https://www.worldcubeassociation.org/persons/2019HUAH03) | 0.94, 0.55, 2.17, 0.86, 1.05 |
 | 1.13 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | 1.06, 1.19, 1.14, 2.03, 1.08 |
 | 1.13 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.43, 1.19, 0.97, 0.80, 1.23 |
 | 1.15 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.09, 1.26, 2.44, 1.12, 0.91 |
@@ -32,7 +33,6 @@
 | 1.17 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 1.08, 0.86, 1.45, 1.37, 1.07 |
 | 1.17 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | 1.09, 1.28, 1.08, 2.80, 1.14 |
 | 1.19 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 2.44, 1.25, 1.07, 1.09, 1.25 |
-| 1.20 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | 1.12, 1.27, 1.32, 1.22, 1.03 |
 
 ### 4x4x4 Cube
 
@@ -45,9 +45,9 @@
 | 21.65 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 21.83, 21.99, 21.53, 21.59, 20.40 |
 | 22.39 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 20.28, 27.56, 21.42, 18.71, 25.48 |
 | 22.52 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 22.47, 19.76, 26.08, 24.99, 20.12 |
+| 22.72 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 23.13, 20.47, 32.22, 20.75, 24.28 |
 | 22.80 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 31.74, 23.49, 23.02, 21.89, 21.01 |
 | 22.85 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 22.35, 22.44, 29.33, 20.44, 23.77 |
-| 22.98 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 23.92, 22.77, 24.82, 22.26, 20.62 |
 
 ### 5x5x5 Cube
 
@@ -60,9 +60,9 @@
 | 40.72 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 41.42, 41.16, 40.94, 39.91, 40.08 |
 | 41.56 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 52.20, 42.07, 41.25, 40.61, 41.36 |
 | 43.34 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | 40.11, 45.71, 42.58, 53.85, 41.75 |
+| 43.88 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 43.09, 43.80, 45.86, 44.75, 41.31 |
 | 43.96 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 50.40, 45.09, 41.81, 42.60, 44.21 |
 | 44.26 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 46.55, 43.37, 39.55, 45.26, 44.15 |
-| 44.58 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 43.95, 46.12, 42.58, 54.78, 43.67 |
 
 ### 6x6x6 Cube
 

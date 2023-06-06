@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  2 June 2023*
+*Updated on  5 June 2023*
 
 
 ### Rubik's Cube - Single
@@ -136,8 +136,8 @@
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **1:31.32** | United States | [Constitution State Winter 2020](https://www.worldcubeassociation.org/competitions/ConstitutionStateWinter2020) | 1:50.98, 1:44.21, 1:31.32 |
 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | **1:31.86** | United States | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022) | 1:36.89, 1:31.86, 1:42.95 |
 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | **1:32.81** | United States | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018) | 1:32.81, 2:08.44, 1:48.03 |
+| [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **1:33.12** | Australia | [Sydney Square-1v1 2023](https://www.worldcubeassociation.org/competitions/SydneySquare1v12023) | 1:50.69, 1:50.73, 1:33.12 |
 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) | **1:33.24** | Germany | [Baden Side Events 2023](https://www.worldcubeassociation.org/competitions/BadenSideEvents2023) | 1:33.24, 1:33.79, 1:53.19 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **1:33.72** | Poland | [Elektryk Cube Race 2022](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2022) | 1:41.92, 1:33.72, 2:09.92 |
 
 ### 6x6x6 Cube - Average
 
@@ -361,8 +361,8 @@
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **5.11** | United States | [Cubing in the Clouds 2023](https://www.worldcubeassociation.org/competitions/CubingintheClouds2023) | 5.73, 7.35, 4.65, 4.48, 4.95 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **5.35** | Poland | [Kęty Open 2023](https://www.worldcubeassociation.org/competitions/KetyOpen2023) | 5.23, 5.39, 9.00, 5.37, 5.28 |
 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) | **5.59** | Norway | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) | 5.52, 5.40, 5.80, 6.13, 5.44 |
+| [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | **5.69** | Switzerland | [Swiss Nationals 2023](https://www.worldcubeassociation.org/competitions/SwissNationals2023) | 6.32, 6.49, 4.61, 5.36, 5.39 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **5.74** | Finland | [Sormet Jäässä Järvenpäässä 2023](https://www.worldcubeassociation.org/competitions/SormetJaassaJarvenpaassa2023) | 7.39, 5.32, 5.00, 6.22, 5.68 |
-| [Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01) | **5.76** | Indonesia | [Medan Speedcubing Festival 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubingFestival2023) | 7.25, 5.87, 4.75, 5.18, 6.24 |
 
 ### Skewb - Single
 

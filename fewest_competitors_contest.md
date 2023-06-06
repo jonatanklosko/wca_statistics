@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  2 June 2023*
+*Updated on  5 June 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -9,6 +9,7 @@
 | 3 | [China FM Shenyang 2011](https://www.worldcubeassociation.org/competitions/ChinaFMShenyang2011) |
 | 3 | [China FM Zhengzhou 2011](https://www.worldcubeassociation.org/competitions/ChinaFMZhengzhou2011) |
 | 3 | [Creativity Makers 2023](https://www.worldcubeassociation.org/competitions/CreativityMakers2023) |
+| 3 | [Deck 9 2023](https://www.worldcubeassociation.org/competitions/Deck92023) |
 | 4 | [Big Blind UBC 2019](https://www.worldcubeassociation.org/competitions/BigBlindUBC2019) |
 | 4 | [JAM FMC I 2023](https://www.worldcubeassociation.org/competitions/JAMFMCI2023) |
 | 4 | [Vardagscubing III - Flen A 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenA2023) |
@@ -50,6 +51,7 @@
 | 8 | [Last Minute Qualifier 2017](https://www.worldcubeassociation.org/competitions/LastMinuteQualifier2017) |
 | 8 | [Naxçıvan 2018](https://www.worldcubeassociation.org/competitions/Nakhchivan2018) |
 | 8 | [PBQtah Sandy Summer 2019](https://www.worldcubeassociation.org/competitions/PBQtahSandySummer2019) |
+| 8 | [Sides Bahia - June's Vie 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaJunesVie2023) |
 | 8 | [Silentia 1 - FMC 2023](https://www.worldcubeassociation.org/competitions/Silentia1FMC2023) |
 | 8 | [Thunder Bay 2019](https://www.worldcubeassociation.org/competitions/SuperiorCubingThunderBay2019) |
 | 8 | [The Sides Bahia Experience 2023](https://www.worldcubeassociation.org/competitions/TheSidesBahiaExperience2023) |

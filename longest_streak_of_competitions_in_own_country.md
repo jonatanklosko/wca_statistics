@@ -1,11 +1,11 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on  2 June 2023*
+*Updated on  5 June 2023*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
-| 92 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | Finland | [Helsinki Open 2010](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2010) |  |
+| 93 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | Finland | [Helsinki Open 2010](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2010) |  |
 | 77 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | Denmark | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015) | [Bornholm Open 2023](https://www.worldcubeassociation.org/competitions/BornholmOpen2023) |
 | 77 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | Denmark | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015) | [Bornholm Open 2023](https://www.worldcubeassociation.org/competitions/BornholmOpen2023) |
 | 67 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | Denmark | [Danish Open 2008](https://www.worldcubeassociation.org/competitions/DanishOpen2008) | [Faaborg Open 2019](https://www.worldcubeassociation.org/competitions/FaaborgOpen2019) |
@@ -17,8 +17,8 @@
 | 51 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Taiwan | [Taipei Open 2017](https://www.worldcubeassociation.org/competitions/TaipeiOpen2017) | [Taiwan Blind Day 2023](https://www.worldcubeassociation.org/competitions/TaiwanBlindDay2023) |
 | 49 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) | Bolivia | [Santa Cruz Open 2015](https://www.worldcubeassociation.org/competitions/SantaCruzOpen2015) | [Unifranz Santa Cruz 2019](https://www.worldcubeassociation.org/competitions/UnifranzSantaCruz2019) |
 | 47 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | United Kingdom | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) | [Manchester Open 2020](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020) |
+| 45 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 45 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | United Kingdom | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) |
-| 44 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 43 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) | Sweden | [Swedish Championship 2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012) | [SSL 1 Åkers Styckebruk 2019](https://www.worldcubeassociation.org/competitions/SSL1AkersStyckebruk2019) |
 | 41 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) | Japan | [JRCA Kansai Summer 2009](https://www.worldcubeassociation.org/competitions/JRCAKansaiSummer2009) | [East Osaka 2012](https://www.worldcubeassociation.org/competitions/EastOsaka2012) |
 | 39 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | Poland | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
@@ -58,7 +58,6 @@
 | 26 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | Brazil | [Torneio DRACO 2012](https://www.worldcubeassociation.org/competitions/TorneioDraco2012) | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014) |
 | 25 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) |  |
 | 25 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) |  |
-| 25 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | Brazil | [Mogi Open 2014](https://www.worldcubeassociation.org/competitions/MogiOpen2014) | [CBS Open 2015](https://www.worldcubeassociation.org/competitions/CBSOpen2015) |
 | 25 | [Uku Kruusamägi](https://www.worldcubeassociation.org/persons/2009KRUU01) | Estonia | [Estonian Open 2009](https://www.worldcubeassociation.org/competitions/EstonianOpen2009) | [Narva Winter 2019](https://www.worldcubeassociation.org/competitions/NarvaWinter2019) |
 | 25 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | Belarus | [Minsk Open 2013](https://www.worldcubeassociation.org/competitions/MinskOpen2013) | [Spring Cube In Minsk 2018](https://www.worldcubeassociation.org/competitions/SpringCubeInMinsk2018) |
 | 25 | [Rafael Gregorio Martinez Paredes](https://www.worldcubeassociation.org/persons/2013PARE02) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
@@ -68,6 +67,7 @@
 | 24 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | Poland | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Kociewie Open 2010](https://www.worldcubeassociation.org/competitions/KociewieOpen2010) |
 | 24 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | Poland | [SLS Swierklany 2013](https://www.worldcubeassociation.org/competitions/SLSSwierklany2013) | [Art Rubik 2014](https://www.worldcubeassociation.org/competitions/ArtCubing2014) |
 | 24 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | Poland | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) |
+| 24 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | Brazil | [Mogi Open 2014](https://www.worldcubeassociation.org/competitions/MogiOpen2014) | [CBS Open 2015](https://www.worldcubeassociation.org/competitions/CBSOpen2015) |
 | 24 | [Jan Erik Soosaar](https://www.worldcubeassociation.org/persons/2016SOOS01) | Estonia | [Estonian Open 2016](https://www.worldcubeassociation.org/competitions/EstonianOpen2016) | [PärNuti Cubing 2022](https://www.worldcubeassociation.org/competitions/ParNutiCubing2022) |
 | 24 | [Wilson José Duarte Espitia](https://www.worldcubeassociation.org/persons/2011DUAR02) | Colombia | [Colombia MetodoGenius 2011](https://www.worldcubeassociation.org/competitions/ColombiaMetodoGenius2011) | [Masters Castilla 2015](https://www.worldcubeassociation.org/competitions/MastersCastilla2015) |
 | 23 | [Berit Brüster](https://www.worldcubeassociation.org/persons/2009BRUS01) | Germany | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009) | [Munich Open 2011](https://www.worldcubeassociation.org/competitions/MunichOpen2011) |

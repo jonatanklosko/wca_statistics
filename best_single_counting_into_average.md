@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  2 June 2023*
+*Updated on  5 June 2023*
 
 
 ### Rubik's Cube
@@ -61,7 +61,7 @@
 | 36.81 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Turbocharged 2023](https://www.worldcubeassociation.org/competitions/CircleCityTurbocharged2023/results/by_person#2012PARK03) |
 | 36.88 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 | 36.98 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [BASC 34 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC34SanRamon2022/results/by_person#2012PARK03) |
-| 37.33 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Gonna Need a Bigger Cube SD 2023](https://www.worldcubeassociation.org/competitions/GonnaNeedaBiggerCubeSD2023/results/by_person#2012PARK03) |
+| 37.02 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [UCSD For Hemophilia 2023](https://www.worldcubeassociation.org/competitions/UCSDForHemophilia2023/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 

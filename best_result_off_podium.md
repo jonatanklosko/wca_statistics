@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  2 June 2023*
+*Updated on  5 June 2023*
 
 
 ### Rubik's Cube
@@ -137,7 +137,7 @@
 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | 7.44 | **11.30** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e333oh_f) | 4 |
 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | 10.39 | **11.35** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e333oh_f) | 5 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | 9.87 | **11.42** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333oh_f) | 4 |
-| [Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06) | 8.25 | **11.44** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333oh_f) | 5 |
+| [Henry Helmuth](https://www.worldcubeassociation.org/persons/2013HELM02) | 9.52 | **11.43** | [UCSD For Hemophilia 2023](https://www.worldcubeassociation.org/competitions/UCSDForHemophilia2023/results/all#e333oh_f) | 4 |
 
 ### Megaminx
 

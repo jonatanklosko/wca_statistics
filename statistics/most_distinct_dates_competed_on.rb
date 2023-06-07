@@ -54,8 +54,10 @@ class MostDistinctDatesCompetedOn < Statistic
       .group_by { |month, _| month }
       .sort_by { |month, _| month }
       .map do |month, dates|
+      month_days = [nil, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31][month]
+      percentage = 100 * dates.size / month_days
       days = dates.map { |_, day| day }
-      "#{Date::MONTHNAMES[month]}: #{days.join(", ")}"
+      "#{Date::MONTHNAMES[month]}: (#{percentage}%) #{days.join(", ")}"
     end
       .join("<br />")
   end

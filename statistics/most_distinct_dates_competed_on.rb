@@ -1,4 +1,5 @@
 require_relative "../core/statistic"
+require "date"
 
 class MostDistinctDatesCompetedOn < Statistic
   def initialize
@@ -16,7 +17,7 @@ class MostDistinctDatesCompetedOn < Statistic
         SELECT
           COUNT(DISTINCT competition_date) AS attended_dates,
           personId,
-          GROUP_CONCAT(DISTINCT competition_date ORDER BY competition_date ASC SEPARATOR ', ') dates_list
+          GROUP_CONCAT(DISTINCT competition_date ORDER BY competition_date ASC SEPARATOR ',') dates_list
         FROM (
           SELECT Results.personId, DATE_FORMAT(competition_dates.competition_date, '%m/%d') competition_date
           FROM Results
@@ -37,5 +38,25 @@ class MostDistinctDatesCompetedOn < Statistic
       JOIN Persons person ON person.id = personId AND subId = 1
       ORDER BY attended_dates DESC, person.name
     SQL
+  end
+
+  def transform(query_results)
+    query_results.map do |result|
+      dates_list = transform_dates(result["dates_list"])
+      [result["attended_dates"], result["person_link"], dates_list]
+    end
+  end
+
+  def transform_dates(dates_list)
+    dates_list
+      .split(',')
+      .map { |date| date.split('/').map(&:to_i) }
+      .group_by { |month, _| month }
+      .sort_by { |month, _| month }
+      .map do |month, dates|
+      days = dates.map { |_, day| day }
+      "#{Date::MONTHNAMES[month]}: #{days.join(", ")}"
+    end
+      .join("<br />")
   end
 end

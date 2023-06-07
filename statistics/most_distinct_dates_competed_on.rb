@@ -1,4 +1,5 @@
 require_relative "../core/statistic"
+require "date"
 
 class MostDistinctDatesCompetedOn < Statistic
   def initialize
@@ -16,7 +17,7 @@ class MostDistinctDatesCompetedOn < Statistic
         SELECT
           COUNT(DISTINCT competition_date) AS attended_dates,
           personId,
-          GROUP_CONCAT(DISTINCT competition_date ORDER BY competition_date ASC SEPARATOR ', ') dates_list
+          GROUP_CONCAT(DISTINCT competition_date ORDER BY competition_date ASC SEPARATOR ',') dates_list
         FROM (
           SELECT Results.personId, DATE_FORMAT(competition_dates.competition_date, '%m/%d') competition_date
           FROM Results
@@ -47,25 +48,15 @@ class MostDistinctDatesCompetedOn < Statistic
   end
 
   def transform_dates(dates_list)
-    month_names = [ 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December' ]
-    dates_by_month = Hash.new { |hash, key| hash[key] = [] }
-    dates = dates_list.split(',').map(&:strip)
-
-    dates.each do |date|
-      month, day = date.split('/').map(&:to_i)
-      dates_by_month[month].push(day)
+    dates_list
+      .split(',')
+      .map { |date| date.split('/').map(&:to_i) }
+      .group_by { |month, _| month }
+      .sort_by { |month, _| month }
+      .map do |month, dates|
+      days = dates.map { |_, day| day }
+      "#{Date::MONTHNAMES[month]}: #{days.join(", ")}"
     end
-
-    output = ''
-    dates_by_month.each do |month, days|
-      output += "#{month_names[month - 1]}: "
-      if days.empty?
-        output += "<br />"
-      else
-        output += days.join(', ')
-        output += "<br />"
-      end
-    end
-    output
+      .join("<br />")
   end
 end

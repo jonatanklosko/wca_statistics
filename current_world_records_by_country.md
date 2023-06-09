@@ -1,6 +1,6 @@
 ## Current world records count by country
 
-*Updated on  5 June 2023*
+*Updated on  8 June 2023*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
@@ -9,6 +9,7 @@
 | 2 | Argentina | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 2 | Malaysia | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10), [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 2 | United Kingdom | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 1 | Australia | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 1 | Canada | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
 | 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |

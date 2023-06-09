@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  5 June 2023*
+*Updated on  8 June 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -19,6 +19,7 @@
 | 280 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 301 | [Bernhard Brodowsky](https://www.worldcubeassociation.org/persons/2016BROD01) |
 | 308 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 308 | [Bekzodjon Yusupov](https://www.worldcubeassociation.org/persons/2022YUSU01) |
 | 322 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
 | 342 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) |
 | 343 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |

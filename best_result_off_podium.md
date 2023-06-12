@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  8 June 2023*
+*Updated on 11 June 2023*
 
 
 ### Rubik's Cube
@@ -29,10 +29,10 @@
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.27 | **1.70** | [Think In Fink Fall 2022](https://www.worldcubeassociation.org/competitions/ThinkInFink2022/results/all#e222_f) | 4 |
 | [Derek Hsieh](https://www.worldcubeassociation.org/persons/2016HSIE02) | 1.45 | **1.71** | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/all#e222_f) | 4 |
 | [Jiekang Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) | 1.41 | **1.72** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e222_f) | 5 |
+| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.18 | **1.73** | [Heartland Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2023/results/all#e222_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.28 | **1.74** | [Virginia Re-Open Spring 2023](https://www.worldcubeassociation.org/competitions/VirginiaReOpenSpring2023/results/all#e222_f) | 4 |
 | [Diego Fraile](https://www.worldcubeassociation.org/persons/2013FRAI01) | 1.57 | **1.74** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e222_f) | 4 |
 | [Hao Wang (王浩)](https://www.worldcubeassociation.org/persons/2017WANG90) | 1.61 | **1.76** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e222_f) | 6 |
-| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.32 | **1.77** | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/all#e222_f) | 4 |
 
 ### 4x4x4 Cube
 
@@ -113,6 +113,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 21 | **23.67** | [FMC London Summer 2023](https://www.worldcubeassociation.org/competitions/FMCLondonSummer2023/results/all#e333fm_f) | 4 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22 | **23.67** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 4 |
 | [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | 22 | **23.67** | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/all#e333fm_f) | 4 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 22 | **24.00** | [Pittsburgh Fall 2022](https://www.worldcubeassociation.org/competitions/PittsburghFall2022/results/all#e333fm_f) | 4 |
@@ -122,7 +123,6 @@
 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 22 | **25.00** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e333fm_f) | 4 |
 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 23 | **25.00** | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/all#e333fm_f) | 5 |
 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | 21 | **25.33** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e333fm_f) | 5 |
-| [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) | 24 | **25.33** | [Cambridge Holiday FMC 2022](https://www.worldcubeassociation.org/competitions/CambridgeHolidayFMC2022/results/all#e333fm_f) | 4 |
 
 ### 3x3x3 One-Handed
 

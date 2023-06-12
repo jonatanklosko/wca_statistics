@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 June 2023*
+*Updated on 11 June 2023*
 
 
 ### Rubik's Cube
@@ -16,8 +16,8 @@
 | 5.50 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.23, 4.84, 6.48, 5.68, 4.74, 4.52, 4.88, 6.59, 6.43, 7.96, 4.62, 5.56 |
 | 5.59 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 5.93, 6.40, 5.85, 5.10, 4.62, 7.61, 5.29, 5.47, 6.72, 4.97, 4.31, 5.64 |
 | 5.80 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.80, 5.84, 5.96, 5.45, 6.18, 5.39, 6.35, 5.88, 5.63, 5.56, DNF, 5.16 |
+| 5.82 | [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) | 5.99, 5.47, 6.09, 5.75, 6.35, 5.94, 4.92, 6.00, 5.10, 6.11, 7.68, 5.42 |
 | 5.84 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | 6.35, 5.21, 4.95, 5.04, 6.76, 6.44, 6.12, 7.15, 5.22, 6.61, 5.70, 4.96 |
-| 5.93 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 8.49, 5.98, 5.69, 5.32, 5.18, 6.19, 6.86, 5.72, 6.40, 6.27, 4.95, 5.77 |
 
 ### 2x2x2 Cube
 
@@ -210,9 +210,9 @@
 | 6.10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 6.33, 6.46, 6.71, 5.06, 6.30, 7.44, 5.55, 5.92, 6.58, 6.98, 5.20, 4.68 |
 | 6.15 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 5.25, 4.20, 7.27, 5.96, 7.73, 4.40, 6.54, 8.57, 5.47, 4.66, 6.92, 7.36 |
 | 6.16 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 6.98, 5.76, 5.86, 4.89, 6.41, 5.71, 6.61, 8.56, 6.14, 5.77, 6.20, 6.25 |
+| 6.29 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.21, 5.49, 6.28, 6.49, 9.32, 5.87, 7.15, 7.23, 6.32, 6.16, 5.33, 6.67 |
 | 6.31 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.76, 5.25, 5.71, 5.69, 7.01, 7.13, 5.92, 7.17, 6.27, 7.15, 6.03, 5.49 |
 | 6.33 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 5.88, 5.91, 5.47, 7.77, 6.57, 6.21, 5.76, 5.94, 7.94, 5.94, 9.33, 5.39 |
-| 6.35 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 7.18, 7.83, 6.59, 6.48, 6.35, 5.37, 9.50, 5.39, 5.34, 6.12, 6.14, 6.11 |
 
 ### 4x4x4 Blindfolded
 

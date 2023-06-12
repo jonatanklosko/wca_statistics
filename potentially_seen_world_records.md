@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  8 June 2023*
+*Updated on 11 June 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -76,7 +76,7 @@
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
-| 72 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 73 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 71 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |

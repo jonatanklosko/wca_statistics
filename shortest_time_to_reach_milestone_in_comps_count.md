@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  8 June 2023*
+*Updated on 11 June 2023*
 
 
 ### 100 Competitions
@@ -66,6 +66,7 @@
 | 393 | [Vincent Rylander](https://www.worldcubeassociation.org/persons/2022RYLA01) |
 | 393 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 400 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
+| 408 | [Eric Ostdiek](https://www.worldcubeassociation.org/persons/2022OSTD01) |
 | 427 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 428 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 428 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
@@ -76,7 +77,6 @@
 | 455 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 457 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
 | 463 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
-| 463 | [Ant Irizarry](https://www.worldcubeassociation.org/persons/2016IRIZ02) |
 
 ### 10 Competitions
 
@@ -100,8 +100,8 @@
 | 161 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 161 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 162 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
+| 162 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 | 168 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
-| 168 | [Santhosh Sabarinathan](https://www.worldcubeassociation.org/persons/2018SABA02) |
 
 ### 5 Competitions
 

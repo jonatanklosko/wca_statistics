@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  8 June 2023*
+*Updated on 11 June 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -130,6 +130,7 @@
 | 11 | [Abbotsford Blind Challenge 2022](https://www.worldcubeassociation.org/competitions/AbbotsfordBlindChallenge2022) |
 | 11 | [BASC 33 But it's Quiet 2022](https://www.worldcubeassociation.org/competitions/BASC33butitsquiet2022) |
 | 11 | [Big Blind Bucharest 2022](https://www.worldcubeassociation.org/competitions/BigBlindBucharest2022) |
+| 11 | [BLDepok 2023](https://www.worldcubeassociation.org/competitions/BLDepok2023) |
 | 11 | [Chennai Mind Over Matter 2018](https://www.worldcubeassociation.org/competitions/ChennaiMindOverMatter2018) |
 | 11 | [Curaçao Open 2022](https://www.worldcubeassociation.org/competitions/CuracaoOpen2022) |
 | 11 | [Destino Maya Honduras 2019](https://www.worldcubeassociation.org/competitions/DestinoMayaHonduras2019) |
@@ -164,6 +165,7 @@
 | 11 | [TGPBQ Burley 2022](https://www.worldcubeassociation.org/competitions/ThanksgivingPBQBurley2022) |
 | 11 | [TGPBQ Lehi 2022](https://www.worldcubeassociation.org/competitions/ThanksgivingPBQLehi2022) |
 | 11 | [TGPBQ LHS 2022](https://www.worldcubeassociation.org/competitions/ThanksgivingPBQLHS2022) |
+| 11 | [Titan Blind Open 2023](https://www.worldcubeassociation.org/competitions/TitanBlindOpen2023) |
 | 12 | [Buckeye Blind Off 2022](https://www.worldcubeassociation.org/competitions/BuckeyeBlindOff2022) |
 | 12 | [Cagayan Valley Open 2016](https://www.worldcubeassociation.org/competitions/CagayanValleyOpen2016) |
 | 12 | [Campus Classic Cape Town 2019](https://www.worldcubeassociation.org/competitions/CampusClassicCapeTown2019) |

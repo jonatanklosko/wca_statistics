@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  8 June 2023*
+*Updated on 11 June 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -693,7 +693,7 @@
 | 13 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Odense Open 2010](https://www.worldcubeassociation.org/competitions/OdenseOpen2010/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022/results/podiums) |
 | 13 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Oficina Open 2022](https://www.worldcubeassociation.org/competitions/OficinaOpen2022/results/podiums) |
-| 11 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Oficina Open 2023](https://www.worldcubeassociation.org/competitions/OficinaOpen2023/results/podiums) |
+| 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Oficina Open 2023](https://www.worldcubeassociation.org/competitions/OficinaOpen2023/results/podiums) |
 | 13 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | [Ohio Open 2009](https://www.worldcubeassociation.org/competitions/OhioOpen2009/results/podiums) |
 | 17 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [OktoberBrest 2014](https://www.worldcubeassociation.org/competitions/OktoberBrest2014/results/podiums) |
 | 12 | [Anatoly Kim](https://www.worldcubeassociation.org/persons/2009KIMA01) | [OktoberBrest 2014](https://www.worldcubeassociation.org/competitions/OktoberBrest2014/results/podiums) |

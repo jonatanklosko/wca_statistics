@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  8 June 2023*
+*Updated on 11 June 2023*
 
 
 ### Rubik's Cube
@@ -218,6 +218,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 41 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Heartland Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2023) |
 | 32 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) | [Jönköpingsligan 3 Stormvind 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan3Stormvind2023) |
 | 28 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | [Anzio Open 2023](https://www.worldcubeassociation.org/competitions/AnzioOpen2023) |
 | 26 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Barby Cube 2019](https://www.worldcubeassociation.org/competitions/BarbyCube2019) |
@@ -227,7 +228,6 @@
 | 20 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) | [Twixmas Jönköping 2022](https://www.worldcubeassociation.org/competitions/TwixmasJonkoping2022) |
 | 19 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Serbian Open 2013](https://www.worldcubeassociation.org/competitions/SerbianOpen2013) |
 | 19 | [Nikolay Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) | [KSF Nur-Sultan City 2019](https://www.worldcubeassociation.org/competitions/KSFNurSultanCity2019) |
-| 19 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | [GA Cubers BBQ 2023](https://www.worldcubeassociation.org/competitions/GACubersBigBlindQualifier2023) |
 
 ### 5x5x5 Blindfolded
 

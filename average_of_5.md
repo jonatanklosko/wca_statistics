@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 June 2023*
+*Updated on 11 June 2023*
 
 
 ### Rubik's Cube
@@ -71,7 +71,7 @@
 | 1:07.72 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:08.30, 1:08.00, 1:06.87, 1:15.99, 1:03.86 |
 | 1:14.48 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:12.50, 1:15.52, 1:13.54, 1:21.29, 1:14.38 |
 | 1:17.32 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:33.89, 1:20.06, 1:14.84, 1:15.98, 1:15.94 |
-| 1:19.22 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:20.91, 1:11.89, 1:17.90, 1:28.37, 1:18.87 |
+| 1:18.90 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:18.80, 1:17.44, 1:20.46, 1:27.47, 1:16.80 |
 | 1:20.16 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:21.01, 1:17.89, 1:19.08, 1:26.83, 1:20.39 |
 | 1:20.37 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:21.40, 1:26.58, 1:20.64, 1:19.08, 1:16.42 |
 | 1:21.69 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 1:23.61, 1:19.03, 1:27.46, 1:22.43, 1:19.00 |
@@ -88,9 +88,9 @@
 | 1:55.90 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:56.42, 1:49.84, 2:04.51, 2:00.16, 1:51.14 |
 | 1:56.29 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:55.30, 2:00.91, 1:59.87, 1:53.72, 1:47.78 |
 | 1:58.10 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 2:01.02, 1:56.42, 2:07.33, 1:53.81, 1:56.88 |
+| 2:00.09 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:56.06, 2:06.60, 2:05.00, 1:54.78, 1:59.23 |
 | 2:00.26 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:57.70, 2:01.62, 2:07.54, 2:01.48, 1:55.96 |
 | 2:00.44 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) | 1:57.46, 1:58.47, 2:03.98, 2:04.65, 1:58.88 |
-| 2:01.37 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:01.49, 2:08.09, 1:59.29, 1:57.13, 2:03.33 |
 | 2:02.94 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 2:20.94, 1:57.43, 2:00.80, 2:07.75, 2:00.28 |
 | 2:02.98 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:09.69, 1:56.60, 2:02.22, 2:01.53, 2:05.20 |
 

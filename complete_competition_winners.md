@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on  8 June 2023*
+*Updated on 11 June 2023*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -11,6 +11,7 @@
 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | Romania | [Constanța Cube Days 2017](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2017) |
 | 9 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) | India | [Shristi Open 2009](https://www.worldcubeassociation.org/competitions/ShristiOpen2009) |
 | 9 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Kyrgyzstan Open 2019](https://www.worldcubeassociation.org/competitions/KyrgyzstanOpen2019) |
+| 9 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | Romania | [Timisoara Cube Days 2023](https://www.worldcubeassociation.org/competitions/TimisoaraCubeDays2023) |
 | 9 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | United States | [Yellowstone 2018](https://www.worldcubeassociation.org/competitions/Yellowstone2018) |
 | 9 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | United States | [Utah Pi Open 2015](https://www.worldcubeassociation.org/competitions/UtahPiOpen2015) |
 | 9 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | United States | [Drexel Winter 2010](https://www.worldcubeassociation.org/competitions/DrexelWinter2010) |
@@ -167,6 +168,7 @@
 | 1 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | United States | [Don't Move Copenhagen 2022](https://www.worldcubeassociation.org/competitions/DontMoveCopenhagen2022) |
 | 1 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) | United States | [Cambridge Holiday FMC 2022](https://www.worldcubeassociation.org/competitions/CambridgeHolidayFMC2022) |
 | 1 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) | United States | [Michigan Mini FMC 2023](https://www.worldcubeassociation.org/competitions/MichiganMiniFMC2023) |
+| 1 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) | United States | [Mid-Atlantic FMC 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticFMC2023) |
 | 1 | [Alejandro Riveiro Rodríguez](https://www.worldcubeassociation.org/persons/2008RODR01) | Spain | [Basauri Open 2009](https://www.worldcubeassociation.org/competitions/BasauriOpen2009) |
 | 1 | [Aleksandr Beznogov](https://www.worldcubeassociation.org/persons/2017BEZN01) | Russia | [Stadi FMC 2018](https://www.worldcubeassociation.org/competitions/StadiFMC2018) |
 | 1 | [Alex Bajenov](https://www.worldcubeassociation.org/persons/2022BAJE01) | United States | [JAM FMC II 2023](https://www.worldcubeassociation.org/competitions/JAMFMCII2023) |
@@ -328,6 +330,7 @@
 | 1 | [Teh Keng Foo (郑庆富)](https://www.worldcubeassociation.org/persons/2011FOOT01) | Malaysia | [FMC Asia 2018](https://www.worldcubeassociation.org/competitions/FMCAsia2018) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Danish FM Championship 2022](https://www.worldcubeassociation.org/competitions/DanishFMChampionship2022) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Fewest Moves Christmas 2018](https://www.worldcubeassociation.org/competitions/FewestMovesChristmas2018) |
+| 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [FMC London Summer 2023](https://www.worldcubeassociation.org/competitions/FMCLondonSummer2023) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Norwegian FMC Championship 2023](https://www.worldcubeassociation.org/competitions/NorwegianFMCChampionship2023) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Swedish FMC Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishFMCChampionship2022) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Swedish FMC Championship 2023](https://www.worldcubeassociation.org/competitions/SwedishFMCChampionship2023) |

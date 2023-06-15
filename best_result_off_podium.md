@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 
 ### Rubik's Cube
@@ -25,6 +25,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06) | 1.22 | **1.57** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e222_f) | 4 |
 | [Hao Wang (王浩)](https://www.worldcubeassociation.org/persons/2017WANG90) | 1.31 | **1.65** | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/all#e222_f) | 4 |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 1.23 | **1.68** | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023/results/all#e222_f) | 4 |
 | [Nanxi Liu (刘南希)](https://www.worldcubeassociation.org/persons/2018LIUN01) | 1.50 | **1.69** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e222_f) | 4 |
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.27 | **1.70** | [Think In Fink Fall 2022](https://www.worldcubeassociation.org/competitions/ThinkInFink2022/results/all#e222_f) | 4 |
 | [Derek Hsieh](https://www.worldcubeassociation.org/persons/2016HSIE02) | 1.45 | **1.71** | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/all#e222_f) | 4 |
@@ -32,7 +33,6 @@
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.18 | **1.73** | [Heartland Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2023/results/all#e222_f) | 4 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.28 | **1.74** | [Virginia Re-Open Spring 2023](https://www.worldcubeassociation.org/competitions/VirginiaReOpenSpring2023/results/all#e222_f) | 4 |
 | [Diego Fraile](https://www.worldcubeassociation.org/persons/2013FRAI01) | 1.57 | **1.74** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e222_f) | 4 |
-| [Hao Wang (王浩)](https://www.worldcubeassociation.org/persons/2017WANG90) | 1.61 | **1.76** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e222_f) | 6 |
 
 ### 4x4x4 Cube
 

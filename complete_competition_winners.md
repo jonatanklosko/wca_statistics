@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -89,6 +89,7 @@
 | 4 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | Australia | [Sydney Winter Sunday 2022](https://www.worldcubeassociation.org/competitions/SydneyWinterSunday2022) |
 | 4 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | Australia | [Tramsheds Series Saturday 2022](https://www.worldcubeassociation.org/competitions/TramshedsSeriesSaturday2022) |
 | 4 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | Canada | [PBQ Pickering 2022](https://www.worldcubeassociation.org/competitions/PBQPickering2022) |
+| 4 | [Emilio Alberto Rodríguez Jiménez](https://www.worldcubeassociation.org/persons/2018JIME14) | Mexico | [Don't DNF in Tijuana 2023](https://www.worldcubeassociation.org/competitions/DontDNFinTijuana2023) |
 | 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | United States | [Mini Mental Breakdown SD 2022](https://www.worldcubeassociation.org/competitions/MiniMentalBreakdownSanDiego2022) |
 | 4 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | Sweden | [Chalmers Open 2006](https://www.worldcubeassociation.org/competitions/ChalmersOpen2006) |
 | 4 | [Jay Kuria Muthari](https://www.worldcubeassociation.org/persons/2019MUTH01) | Kenya | [Navitas 2022](https://www.worldcubeassociation.org/competitions/NavitasCubeChallengeKenya2022) |

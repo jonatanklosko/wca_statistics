@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 
 ### Rubik's Cube
@@ -128,6 +128,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 1.30 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
+| 1.38 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023/results/by_person#2018KHAN28) |
 | 1.39 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2013KRAS02) |
 | 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2018KHAN28) |
 | 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
@@ -136,7 +137,6 @@
 | 1.48 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [North Jersey Speedsolving B 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingB2023/results/by_person#2018KHAN28) |
 | 1.49 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [Sioux Falls Spring 2022](https://www.worldcubeassociation.org/competitions/SiouxFallsSpring2022/results/by_person#2015ROBI04) |
 | 1.55 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [MCC Alpha 2022](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2022/results/by_person#2018KHAN28) |
-| 1.58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Deerfield Winter 2022](https://www.worldcubeassociation.org/competitions/DeerfieldWinter2022/results/by_person#2015KUCA01) |
 
 ### Square-1
 

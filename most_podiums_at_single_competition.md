@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1029,6 +1029,7 @@
 | 11 | [Dmitry Matthew Yaquinto](https://www.worldcubeassociation.org/persons/2018YAQU01) | [Vladivostok Is Back On 2021](https://www.worldcubeassociation.org/competitions/VladivostokIsBackOn2021/results/podiums) |
 | 11 | [Dmitry Matthew Yaquinto](https://www.worldcubeassociation.org/persons/2018YAQU01) | [Vladivostok Spring 2020](https://www.worldcubeassociation.org/competitions/VladivostokSpring2020/results/podiums) |
 | 13 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Pulmapelipäivät 2022](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2022/results/podiums) |
+| 11 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Pulmapelipäivät 2023](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2023/results/podiums) |
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Autotalo All Events 2023](https://www.worldcubeassociation.org/competitions/AutotaloAllEvents2023/results/podiums) |
 | 12 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [See You Next Year İstanbul 2023](https://www.worldcubeassociation.org/competitions/SeeYouNextYearIstanbul2023/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Pequi Open 2020](https://www.worldcubeassociation.org/competitions/PequiOpen2020/results/podiums) |

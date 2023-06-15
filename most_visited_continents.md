@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 | Continents | Person |
 | ---: | :--- |
@@ -83,6 +83,7 @@
 | 4 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 4 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 4 | [Seyyed Mohammad Hossein Fatemi (سید محمد حسین فاطمی)](https://www.worldcubeassociation.org/persons/2011FATE01) |
+| 4 | [Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02) |
 | 4 | [Thaynara Santana de Oliveira](https://www.worldcubeassociation.org/persons/2011OLIV03) |
 | 4 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 4 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |

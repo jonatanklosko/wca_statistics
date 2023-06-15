@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |

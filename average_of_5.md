@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 
 ### Rubik's Cube
@@ -148,11 +148,11 @@
 | 28.66 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 26.90, 30.05, 28.10, 29.25, 28.65 |
 | 29.05 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 31.00, 26.54, 28.47, 29.70, 29.00 |
 | 30.12 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 28.50, 31.19, 29.97, 31.07, 29.34 |
+| 30.74 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 28.91, 33.17, 30.11, 32.59, 29.54 |
 | 31.01 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 31.24, 33.82, 28.84, 30.50, 31.30 |
 | 31.42 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 34.63, 31.25, 28.43, 34.59, 28.09 |
 | 31.49 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 32.67, 28.84, 32.08, 34.38, 29.72 |
 | 31.74 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 30.84, 36.43, 30.89, 32.94, 31.41 |
-| 31.91 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 1:10.15, 32.47, 28.91, 33.17, 30.11 |
 
 ### Pyraminx
 
@@ -174,8 +174,8 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 3.15 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.76, 2.77, 2.80, 6.14, 2.89 |
+| 3.61 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3.44, 4.63, 3.16, 3.50, 3.91 |
 | 3.69 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 3.84, 3.28, 5.13, 3.95, 3.28 |
-| 3.71 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3.86, 4.30, 3.30, 3.99, 2.99 |
 | 3.77 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | 3.92, 3.85, 3.53, 3.66, 3.81 |
 | 3.80 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 4.40, 3.79, 3.37, 3.80, 3.83 |
 | 3.84 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 4.42, 3.27, DNF, 3.13, 3.85 |
@@ -205,7 +205,7 @@
 | ---: | :--- | :--- |
 | 4.89 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 9.73, 4.97, 4.84, 4.86, 4.84 |
 | 5.19 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 5.65, 5.18, 10.73, 4.76, 4.68 |
-| 5.36 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 5.62, 6.04, 4.71, 5.54, 4.93 |
+| 5.30 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 6.56, 5.13, 5.41, 4.28, 5.36 |
 | 5.43 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 5.45, 5.68, 7.45, 5.16, 4.37 |
 | 5.51 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 4.87, 13.04, 6.09, 4.38, 5.57 |
 | 5.54 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 4.85, 6.15, 5.74, 4.75, 6.04 |

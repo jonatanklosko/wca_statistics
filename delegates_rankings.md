@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 
 ### Rubik's Cube - Single
@@ -419,10 +419,10 @@
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **7.30** | United States | [Baztan Open 2022](https://www.worldcubeassociation.org/competitions/BaztanOpen2022) | 7.33, 7.22, 7.13, 7.34, 25.79 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **7.50** | United States | [Minnesota Slice 2023](https://www.worldcubeassociation.org/competitions/MinnesotaSlice2023) | 8.08, 7.78, 6.64, 6.29, 9.92 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **7.77** | Poland | [Cube4fun in Jarosław 2023](https://www.worldcubeassociation.org/competitions/Cube4funinJaroslaw2023) | 8.16, 7.48, 9.74, 6.73, 7.66 |
+| [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) | **8.10** | Spain | [Spanish Championship 2022](https://www.worldcubeassociation.org/competitions/SpanishChampionship2022) | 7.20, 9.51, 10.80, 7.25, 7.54 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **8.15** | United States | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 8.04, 8.58, 18.68, 7.48, 7.83 |
 | [Ivan Vanek](https://www.worldcubeassociation.org/persons/2015VANE01) | **8.26** | United States | [Never Stop Turning AZ 2023](https://www.worldcubeassociation.org/competitions/NeverStopTurningAZ2023) | 9.11, 7.67, 7.64, 9.49, 7.99 |
 | [Vincent Chen](https://www.worldcubeassociation.org/persons/2018CHEN17) | **8.57** | United States | [Oklahoma Fall 2019](https://www.worldcubeassociation.org/competitions/OklahomaFall2019) | 6.73, 9.15, 8.28, 8.28, 11.32 |
-| [Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01) | **8.61** | United States | [Penn Cube Day Winter 2018](https://www.worldcubeassociation.org/competitions/PennCubeDayWinter2018) | 8.89, 8.40, 8.54, 10.60, 8.19 |
 
 ### 4x4x4 Blindfolded - Single
 
@@ -476,13 +476,13 @@
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **7:16.63** | Sweden | [Swedish Championship 2023](https://www.worldcubeassociation.org/competitions/SwedishChampionship2023) | 6:42.67, 6:59.20, 8:08.02 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **9:15.79** | Russia | [Swiss Open 2017](https://www.worldcubeassociation.org/competitions/SwissOpen2017) | 8:39.60, 8:13.78, 10:54.00 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **10:10.00** | Malaysia | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022) | 8:42.80, 11:13.00, 10:34.00 |
+| [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **11:01.00** | United States | [Ohio State Summer Solving 2023](https://www.worldcubeassociation.org/competitions/OhioStateSummerSolving2023) | 10:49.00, 10:35.00, 11:39.00 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **11:49.00** | United States | [Pittsburgh Spring 2019](https://www.worldcubeassociation.org/competitions/PittsburghSpring2019) | 12:34.00, 11:59.00, 10:53.00 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **13:09.00** | United States | [MBLD Madison Meeting Room 2023](https://www.worldcubeassociation.org/competitions/MBLDinaMadisonMeetingRoom2023) | 12:18.00, 13:10.00, 13:59.00 |
 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | **13:24.00** | United States | [Skillcon 2018](https://www.worldcubeassociation.org/competitions/Skillcon2018) | 13:17.00, 12:33.00, 14:22.00 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **13:48.00** | United States | [Cubetcha 2019](https://www.worldcubeassociation.org/competitions/Cubetcha2019) | 13:11.00, 13:19.00, 14:55.00 |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | **14:37.00** | Spain | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022) | 13:28.00, 15:39.00, 14:43.00 |
 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) | **16:24.00** | Australia | [Melbourne Mental Mania 2022](https://www.worldcubeassociation.org/competitions/MelbourneMentalMania2022) | 15:02.00, 14:58.00, 19:13.00 |
-| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | **17:18.00** | Belgium | [Zeeland Open 2016](https://www.worldcubeassociation.org/competitions/ZeelandOpen2016) | 17:07.00, 18:16.00, 16:32.00 |
 
 ### 3x3x3 Multi-Blind - Single
 

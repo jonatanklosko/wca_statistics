@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -53,6 +53,7 @@
 | 47 | [Jonathan Tilahun](https://www.worldcubeassociation.org/persons/2014TILA01) | [Slow n Steady Fall 2015](https://www.worldcubeassociation.org/competitions/SlownSteadyFall2015) |  |
 | 47 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) | [PFO V2 2015](https://www.worldcubeassociation.org/competitions/PuneFallOpen2015) | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021) |
 | 47 | [Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01) | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015) | [Lejre Side Events 2022](https://www.worldcubeassociation.org/competitions/LejreSideEvents2022) |
+| 47 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | [Byczy Cube Race 2017](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2017) |  |
 | 47 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | [GLS Cup IV 2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018) | [Cube4fun Skierniewice 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueSkierniewice2022) |
 | 46 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Spanish Championship 2008](https://www.worldcubeassociation.org/competitions/Spain2008) | [CLIP Open 2018](https://www.worldcubeassociation.org/competitions/CLIPOpen2018) |
 | 46 | [Sheng Cao (曹晟)](https://www.worldcubeassociation.org/persons/2011CAOS01) | [ShenYang Open 2011](https://www.worldcubeassociation.org/competitions/ShenYangOpen2011) | [Dalian Spring 2019](https://www.worldcubeassociation.org/competitions/DalianSpring2019) |
@@ -60,7 +61,6 @@
 | 46 | [Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01) | [Harvard Fall 2013](https://www.worldcubeassociation.org/competitions/HarvardFall2013) | [Pioneer Valley Cubing B 2023](https://www.worldcubeassociation.org/competitions/PioneerValleyCubingB2023) |
 | 46 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | [Nanjing Autumn 2015](https://www.worldcubeassociation.org/competitions/NanjingAutumn2015) |  |
 | 46 | [Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36) | [Nanchang Spring 2017](https://www.worldcubeassociation.org/competitions/NanchangSpring2017) | [Cambodia Championship 2019](https://www.worldcubeassociation.org/competitions/CambodiaCubingChampionship2019) |
-| 46 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | [Byczy Cube Race 2017](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2017) |  |
 | 45 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | [France 2010](https://www.worldcubeassociation.org/competitions/France2010) | [Coupe de l'AFS 2019](https://www.worldcubeassociation.org/competitions/CoupedelAFS2019) |
 | 45 | [Kevin Costello III](https://www.worldcubeassociation.org/persons/2012COST01) | [Berkeley Winter 2012](https://www.worldcubeassociation.org/competitions/BerkeleyWinter2012) | [Lexington Fall 2015](https://www.worldcubeassociation.org/competitions/LexingtonFall2015) |
 | 45 | [Josh Bloch](https://www.worldcubeassociation.org/persons/2014BLOC01) | [FMC USA 2014](https://www.worldcubeassociation.org/competitions/FMCUSA2014) |  |

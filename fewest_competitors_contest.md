@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -23,6 +23,7 @@
 | 6 | [Fewest Moves Helsinki 2019](https://www.worldcubeassociation.org/competitions/FewestMovesHelsinki2019) |
 | 6 | [GA Cubers BBQ 2023](https://www.worldcubeassociation.org/competitions/GACubersBigBlindQualifier2023) |
 | 6 | [Hilliard Hippocampus III 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusIII2023) |
+| 6 | [Jönköpingsligan 6: Heroes 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan6Heroes2023) |
 | 6 | [Mega FMC Helsinki 2022](https://www.worldcubeassociation.org/competitions/MegaFMCHelsinki2022) |
 | 6 | [Silentia 2 - BLD 2023](https://www.worldcubeassociation.org/competitions/Silentia2BLD2023) |
 | 6 | [VilaVelhaQuiet 2019](https://www.worldcubeassociation.org/competitions/VilaVelhaQuiet2019) |
@@ -99,6 +100,7 @@
 | 10 | [Clock N' FMC Wisconsin 2019](https://www.worldcubeassociation.org/competitions/ClockNFMCWisconsin2019) |
 | 10 | [Cowboys FMC Party 2017](https://www.worldcubeassociation.org/competitions/CowboysFMCParty2017) |
 | 10 | [Cubing Chitwan 2019](https://www.worldcubeassociation.org/competitions/CubingChitwan2019) |
+| 10 | [Don't DNF in Tijuana 2023](https://www.worldcubeassociation.org/competitions/DontDNFinTijuana2023) |
 | 10 | [Draughons 2006](https://www.worldcubeassociation.org/competitions/Draughons2006) |
 | 10 | [Estonian Open 2014](https://www.worldcubeassociation.org/competitions/EstonianOpen2014) |
 | 10 | [GA Cubers Study May 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyMay2023) |
@@ -200,6 +202,7 @@
 | 12 | [Perth Puzzle Championship 2011](https://www.worldcubeassociation.org/competitions/PerthPuzzle2011) |
 | 12 | [Pi Berkeley Quiet 2020](https://www.worldcubeassociation.org/competitions/PiBerkeleyQuiet2020) |
 | 12 | [PKU FM 2012](https://www.worldcubeassociation.org/competitions/PKUFM2012) |
+| 12 | [Please Be Quiet Reno Summer 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietRenoSummer2023) |
 | 12 | [Roraima 2012](https://www.worldcubeassociation.org/competitions/Roraima2012) |
 | 12 | [Samyak Cube Open 2019](https://www.worldcubeassociation.org/competitions/SamyakCubeOpen2019) |
 | 12 | [Silence in Cebu 2022](https://www.worldcubeassociation.org/competitions/SilenceinCebu2022) |

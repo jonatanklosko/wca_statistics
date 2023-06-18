@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 14 June 2023*
+*Updated on 17 June 2023*
 
 | Finals | Person |
 | ---: | :--- |
@@ -40,19 +40,19 @@
 | 939 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 923 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
+| 925 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 904 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 879 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 868 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
+| 873 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 864 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 863 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 863 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 854 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 850 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 843 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
+| 842 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 839 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 836 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 831 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 831 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 826 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
@@ -90,12 +90,12 @@
 | 701 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 692 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 687 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
-| 679 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
+| 682 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 675 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
+| 673 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 671 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 670 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 668 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
-| 667 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 666 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 662 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
 | 661 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |

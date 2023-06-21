@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 17 June 2023*
+*Updated on 20 June 2023*
 
 
 ### 100 Competitions
@@ -72,11 +72,11 @@
 | 428 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
 | 435 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 441 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 442 | [Eliana Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV01) |
 | 449 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
 | 455 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 455 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 457 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
-| 463 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 
 ### 10 Competitions
 
@@ -90,6 +90,8 @@
 | 143 | [Chengzhang Lin (林成璋)](https://www.worldcubeassociation.org/persons/2013LINC02) |
 | 148 | [Sai Mrudhun](https://www.worldcubeassociation.org/persons/2017MRUD01) |
 | 148 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
+| 148 | [Agastya Kora](https://www.worldcubeassociation.org/persons/2023KORA01) |
+| 148 | [Ashrith Kora](https://www.worldcubeassociation.org/persons/2023KORA02) |
 | 154 | [Carson Clark](https://www.worldcubeassociation.org/persons/2023CLAR02) |
 | 155 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 155 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) |
@@ -100,8 +102,6 @@
 | 161 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 161 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 161 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 162 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
-| 162 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 
 ### 5 Competitions
 

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 17 June 2023*
+*Updated on 20 June 2023*
 
 
 ### Rubik's Cube
@@ -39,6 +39,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.04 | [Ishaan Lal](https://www.worldcubeassociation.org/persons/2014LALI01) | 33.76 | 33.80 | [Penn Cube Day Spring 2023](https://www.worldcubeassociation.org/competitions/PennCubeDaySpring2023/results/by_person#2014LALI01) |
+| 0.05 | [Lex Edwards](https://www.worldcubeassociation.org/persons/2018EDWA01) | 38.31 | 38.36 | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2018EDWA01) |
 | 0.05 | [Matteo Pauli](https://www.worldcubeassociation.org/persons/2019PAUL05) | 1:06.55 | 1:06.60 | [German Big Cube Open 2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019/results/by_person#2019PAUL05) |
 | 0.06 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | 47.44 | 47.50 | [Cali Cube 2018](https://www.worldcubeassociation.org/competitions/CaliCube2018/results/by_person#2011EDUA01) |
 | 0.09 | [Geovanny Cueva](https://www.worldcubeassociation.org/persons/2018CUEV01) | 44.94 | 45.03 | [Guayaquil Championship 2018](https://www.worldcubeassociation.org/competitions/GuayaquilChampionship2018/results/by_person#2018CUEV01) |
@@ -47,7 +48,6 @@
 | 0.12 | [Zachary Garber](https://www.worldcubeassociation.org/persons/2014GARB01) | 56.38 | 56.50 | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2014GARB01) |
 | 0.12 | [Nick Young](https://www.worldcubeassociation.org/persons/2006YOUN03) | 1:26.34 | 1:26.46 | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2006YOUN03) |
 | 0.13 | [Sheng Cao (曹晟)](https://www.worldcubeassociation.org/persons/2011CAOS01) | 31.56 | 31.69 | [Shenyang Summer 2018](https://www.worldcubeassociation.org/competitions/ShenyangSummer2018/results/by_person#2011CAOS01) |
-| 0.13 | [Gabriel Tan](https://www.worldcubeassociation.org/persons/2018TANG33) | 35.02 | 35.15 | [YJ Malaysia Cube Open 2022](https://www.worldcubeassociation.org/competitions/YJMalaysiaCubeOpen2022/results/by_person#2018TANG33) |
 
 ### 5x5x5 Cube
 
@@ -150,9 +150,9 @@
 | 0.04 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 2.48 | 2.52 | [Liberty Science Center Open 2019](https://www.worldcubeassociation.org/competitions/LibertyScienceCenterOpen2019/results/by_person#2017HONG17) |
 | 0.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2.65 | 2.69 | [Washtenaw Winter 2023](https://www.worldcubeassociation.org/competitions/WashtenawWinter2023/results/by_person#2016CHAP04) |
 | 0.04 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | 2.69 | 2.73 | [Swisscubing Cup V 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2022/results/by_person#2016ROLZ01) |
+| 0.04 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 2.88 | 2.92 | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2013KLEI03) |
 | 0.04 | [Justin Andrew Dee](https://www.worldcubeassociation.org/persons/2015DEEJ02) | 3.12 | 3.16 | [Marikina City Open II 2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019/results/by_person#2015DEEJ02) |
 | 0.04 | [Nolan Wood](https://www.worldcubeassociation.org/persons/2016WOOD01) | 4.21 | 4.25 | [Arnold Classic NA 2019](https://www.worldcubeassociation.org/competitions/ArnoldClassicNorthAmerica2019/results/by_person#2016WOOD01) |
-| 0.04 | [Jiawei Wu (伍嘉维)](https://www.worldcubeassociation.org/persons/2014WUJI01) | 5.71 | 5.75 | [Dongguan Open 2018](https://www.worldcubeassociation.org/competitions/DongguanOpen2018/results/by_person#2014WUJI01) |
 
 ### Rubik's Clock
 

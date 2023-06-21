@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 17 June 2023*
+*Updated on 20 June 2023*
 
 
 ### Rubik's Cube
@@ -71,13 +71,13 @@
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 1:24.08 | **1:29.77** | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023/results/all#e666_f) | 4 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 1:28.08 | **1:30.41** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e666_c) | 4 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:24.61 | **1:30.60** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 4 |
+| [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 1:21.73 | **1:31.53** | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/all#e666_f) | 4 |
+| [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) | 1:28.15 | **1:31.83** | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/all#e666_f) | 5 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:27.45 | **1:33.10** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 5 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 1:25.82 | **1:33.45** | [Pickering A 2023](https://www.worldcubeassociation.org/competitions/PickeringA2023/results/all#e666_c) | 4 |
 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 1:27.84 | **1:33.59** | [NDHU Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/NDHUBigCubeDay2023/results/all#e666_f) | 4 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | 1:32.59 | **1:33.66** | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023/results/all#e666_f) | 5 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 1:30.73 | **1:33.68** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e666_f) | 4 |
-| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 1:32.01 | **1:34.45** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e666_f) | 5 |
-| [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 1:29.69 | **1:35.09** | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/all#e666_f) | 4 |
 
 ### 7x7x7 Cube
 
@@ -178,11 +178,11 @@
 | [Ethan Cho](https://www.worldcubeassociation.org/persons/2018CHOE02) | 4.98 | **5.34** | [Swallow Spring 2023](https://www.worldcubeassociation.org/competitions/SwallowSpring2023/results/all#eclock_f) | 4 |
 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | 4.25 | **5.44** | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/all#eclock_f) | 4 |
 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.48 | **5.44** | [Cubers Flood Watertown 2022](https://www.worldcubeassociation.org/competitions/CubersFloodWatertown2022/results/all#eclock_f) | 4 |
+| [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | 4.48 | **5.45** | [Wiltshire Summer 2023](https://www.worldcubeassociation.org/competitions/WiltshireSummer2023/results/all#eclock_f) | 4 |
 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | 4.47 | **5.48** | [AlphaCubing B 2023](https://www.worldcubeassociation.org/competitions/AlphaCubingB2023/results/all#eclock_f) | 4 |
 | [Carter Williams](https://www.worldcubeassociation.org/persons/2021WILL06) | 4.45 | **5.57** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 6 |
 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | 4.75 | **5.57** | [Niner Nation Open 2023](https://www.worldcubeassociation.org/competitions/NinerNationOpen2023/results/all#eclock_f) | 4 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 5.11 | **5.58** | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022/results/all#eclock_f) | 4 |
-| [Max Walaszek](https://www.worldcubeassociation.org/persons/2018WALA01) | 4.91 | **5.61** | [Naperville Winter B 2022](https://www.worldcubeassociation.org/competitions/NapervilleWinterB2022/results/all#eclock_f) | 4 |
 
 ### Skewb
 

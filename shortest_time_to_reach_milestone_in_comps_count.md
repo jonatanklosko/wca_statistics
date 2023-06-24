@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 20 June 2023*
+*Updated on 23 June 2023*
 
 
 ### 100 Competitions
@@ -58,6 +58,7 @@
 | Days | Person |
 | ---: | :--- |
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
+| 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
@@ -76,7 +77,6 @@
 | 449 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
 | 455 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 455 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
-| 457 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
 
 ### 10 Competitions
 

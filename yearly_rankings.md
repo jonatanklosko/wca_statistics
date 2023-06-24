@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 20 June 2023*
+*Updated on 23 June 2023*
 
 
 ### Rubik's Cube - Single
@@ -23,7 +23,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **4.69** | China | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) | 4.35, 3.90, 4.41, 5.31, 6.16 |
+| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **4.48** | China | [Mofunland Cruise Open 2023](https://www.worldcubeassociation.org/competitions/MofunlandCruiseOpen2023) | 4.72, 4.72, 3.99, 3.95, 5.99 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **5.05** | Poland | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) | 4.56, 4.92, 4.28, 5.68, 6.02 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **5.06** | United States | [Marshall Cubing Spring 2023](https://www.worldcubeassociation.org/competitions/MarshallCubingSpring2023) | 4.70, 4.82, 5.27, 6.30, 5.10 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **5.11** | China | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023) | 4.71, 5.18, 5.64, 4.99, 5.16 |
@@ -384,8 +384,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **1.64** | United States | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023) | 1.38, 1.63, 2.11, 1.37, 1.92 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.92** | United States | [Winnipeg Open 2023](https://www.worldcubeassociation.org/competitions/WinnipegOpen2023) | 1.89, 2.07, 1.80, 1.61, 2.10 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **2.07** | United States | [Bluegrass Bash 2023](https://www.worldcubeassociation.org/competitions/BluegrassBash2023) | 1.99, 2.12, 2.09, 1.53, 2.64 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **2.13** | United States | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023) | 2.37, 1.99, 1.83, 2.55, 2.02 |
 | [Elias Malomgré](https://www.worldcubeassociation.org/persons/2017MALO02) | **2.16** | Belgium | [Ermelo Cubing B 2023](https://www.worldcubeassociation.org/competitions/ErmeloCubingB2023) | 2.49, 1.97, 2.49, 1.82, 2.02 |
 | [Noriyuki Okada (岡田典之)](https://www.worldcubeassociation.org/persons/2014OKAD01) | **2.19** | Japan | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023) | 2.11, 2.02, 5.41, 2.45, 1.64 |
 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | **2.19** | United States | [High Plains Solving 2023](https://www.worldcubeassociation.org/competitions/HighPlainsSolving2023) | 2.10, 3.33, 1.90, 2.58, 1.75 |

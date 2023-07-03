@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 29 June 2023*
+*Updated on  2 July 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 9950 |
+| 1.49 | World | 9962 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.76 | Europe | 3261 |
+| 1.76 | Europe | 3263 |
 | 1.56 | South America | 1118 |
 | 1.46 | Oceania | 435 |
-| 1.41 | Asia | 2307 |
+| 1.41 | Asia | 2309 |
 | 1.24 | Africa | 110 |
-| 1.21 | North America | 2719 |
+| 1.21 | North America | 2727 |
 
 ### Countries
 
@@ -43,10 +43,10 @@
 | 1.86 | France | 254 |
 | 1.85 | Croatia | 20 |
 | 1.84 | Switzerland | 90 |
-| 1.84 | Spain | 279 |
+| 1.84 | Spain | 280 |
+| 1.83 | Mexico | 107 |
 | 1.83 | Belgium | 65 |
 | 1.83 | Finland | 106 |
-| 1.83 | Mexico | 106 |
 | 1.82 | Austria | 22 |
 | 1.80 | Bosnia and Herzegovina | 10 |
 | 1.80 | Iceland | 10 |
@@ -87,22 +87,22 @@
 | 1.44 | Israel | 36 |
 | 1.43 | Australia | 349 |
 | 1.42 | Bulgaria | 12 |
-| 1.41 | Singapore | 37 |
+| 1.39 | Singapore | 38 |
 | 1.39 | Costa Rica | 18 |
 | 1.39 | Nepal | 18 |
+| 1.37 | Estonia | 49 |
 | 1.37 | South Africa | 52 |
 | 1.36 | Paraguay | 22 |
 | 1.36 | Philippines | 221 |
-| 1.35 | Estonia | 48 |
-| 1.34 | Taiwan | 122 |
+| 1.34 | Chinese Taipei | 122 |
 | 1.33 | Ecuador | 33 |
 | 1.33 | Jordan | 12 |
 | 1.33 | Panama | 12 |
 | 1.32 | Vietnam | 57 |
-| 1.31 | Hong Kong | 16 |
 | 1.31 | United Arab Emirates | 16 |
 | 1.30 | Republic of Korea | 76 |
 | 1.30 | Venezuela | 60 |
+| 1.29 | Hong Kong, China | 17 |
 | 1.29 | Chile | 96 |
 | 1.29 | Bahrain | 7 |
 | 1.26 | China | 615 |
@@ -113,7 +113,7 @@
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.17 | Uruguay | 42 |
-| 1.17 | United States | 2171 |
+| 1.17 | United States | 2178 |
 | 1.16 | Canada | 287 |
 | 1.13 | Honduras | 15 |
 | 1.13 | El Salvador | 31 |
@@ -129,7 +129,7 @@
 | 1.00 | Egypt | 4 |
 | 1.00 | Kenya | 5 |
 | 1.00 | Kosovo | 3 |
-| 1.00 | Macau | 1 |
+| 1.00 | Macau, China | 1 |
 | 1.00 | Madagascar | 1 |
 | 1.00 | Malta | 1 |
 | 1.00 | Mauritius | 3 |

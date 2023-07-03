@@ -1,20 +1,20 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 29 June 2023*
+*Updated on  2 July 2023*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1339** | 1113 | 959 | 3411 |
-| Germany | **894** | 884 | 882 | 2660 |
+| Germany | **898** | 885 | 886 | 2669 |
 | United States | **883** | 750 | 659 | 2292 |
 | Netherlands | **823** | 664 | 557 | 2044 |
-| France | **818** | 703 | 602 | 2123 |
+| France | **819** | 706 | 603 | 2128 |
 | Russia | **713** | 449 | 359 | 1521 |
-| China | **526** | 480 | 427 | 1433 |
+| China | **527** | 481 | 427 | 1435 |
 | Poland | **487** | 338 | 259 | 1084 |
 | Malaysia | **369** | 370 | 327 | 1066 |
-| United Kingdom | **359** | 411 | 407 | 1177 |
+| United Kingdom | **359** | 412 | 407 | 1178 |
 | Canada | **348** | 344 | 370 | 1062 |
 | Denmark | **333** | 289 | 216 | 838 |
 | Sweden | **301** | 338 | 357 | 996 |
@@ -22,16 +22,16 @@
 | Republic of Korea | **281** | 249 | 206 | 736 |
 | India | **247** | 197 | 190 | 634 |
 | Finland | **245** | 187 | 155 | 587 |
-| Hong Kong | **242** | 267 | 206 | 715 |
-| Switzerland | **234** | 319 | 264 | 817 |
+| Hong Kong, China | **242** | 267 | 206 | 715 |
+| Switzerland | **238** | 324 | 267 | 829 |
 | Argentina | **208** | 156 | 129 | 493 |
-| Italy | **201** | 190 | 181 | 572 |
+| Italy | **201** | 190 | 182 | 573 |
 | Japan | **198** | 126 | 132 | 456 |
-| Taiwan | **197** | 169 | 166 | 532 |
+| Chinese Taipei | **197** | 169 | 166 | 532 |
 | Ukraine | **178** | 182 | 185 | 545 |
 | Spain | **174** | 161 | 194 | 529 |
 | Romania | **168** | 115 | 103 | 386 |
-| Indonesia | **155** | 150 | 117 | 422 |
+| Indonesia | **157** | 150 | 118 | 425 |
 | Peru | **143** | 76 | 89 | 308 |
 | Singapore | **142** | 141 | 151 | 434 |
 | Ireland | **132** | 72 | 58 | 262 |
@@ -87,7 +87,7 @@
 | Panama | **6** | 7 | 8 | 21 |
 | Honduras | **6** | 4 | 7 | 17 |
 | Cyprus | **5** | 13 | 11 | 29 |
-| Macau | **5** | 11 | 11 | 27 |
+| Macau, China | **5** | 11 | 11 | 27 |
 | Haiti | **5** | 8 | 8 | 21 |
 | Morocco | **5** | 3 | 7 | 15 |
 | Egypt | **4** | 22 | 24 | 50 |

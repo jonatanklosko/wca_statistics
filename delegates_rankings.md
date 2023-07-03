@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 29 June 2023*
+*Updated on  2 July 2023*
 
 
 ### Rubik's Cube - Single
@@ -189,7 +189,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **15.02** | Poland | [Cube Factory 2023](https://www.worldcubeassociation.org/competitions/CubeFactory2023) | DNF, 15.02, DNF |
-| [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **15.52** | Hong Kong | [Bay Area Speedcubin' 42 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin422023) | 24.10, 15.52, 32.18 |
+| [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **15.52** | Hong Kong, China | [Bay Area Speedcubin' 42 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin422023) | 24.10, 15.52, 32.18 |
 | [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | **16.13** | Australia | [February Fitzroy Fun 2023](https://www.worldcubeassociation.org/competitions/FebruaryFitzroyFun2023) | 16.13, DNF, 20.31 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **16.34** | Sweden | [Swedish Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishChampionship2022) | 28.15, 42.74, 16.34 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **17.81** | United States | [UIUC Spring 2023](https://www.worldcubeassociation.org/competitions/UIUCSpring2023) | DNF, DNF, 17.81 |
@@ -206,7 +206,7 @@
 | [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | **19.06** | Australia | [Solving in Sale 2023](https://www.worldcubeassociation.org/competitions/SolvinginSale2023) | 18.54, 18.73, 19.92 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **19.68** | Sweden | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022) | 20.27, 19.70, 19.08 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **21.14** | Poland | [WLTD Poznań Side Open 2022](https://www.worldcubeassociation.org/competitions/WLTDPoznanSideOpen2022) | 19.48, 19.13, 24.80 |
-| [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **22.06** | Hong Kong | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 18.38, 22.83, 24.96 |
+| [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **22.06** | Hong Kong, China | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 18.38, 22.83, 24.96 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **22.27** | Italy | [PoliMi Mental Breakdown 2019](https://www.worldcubeassociation.org/competitions/PoliMiMentalBreakdown2019) | 26.01, 20.73, 20.06 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **22.51** | United States | [Minnesota Slice 2023](https://www.worldcubeassociation.org/competitions/MinnesotaSlice2023) | 18.24, 26.29, 23.01 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **22.98** | Argentina | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023) | 22.37, 23.36, 23.22 |
@@ -248,7 +248,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **6.85** | Hong Kong | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 10.62, 6.85, 12.34, 11.09, 15.71 |
+| [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **6.85** | Hong Kong, China | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 10.62, 6.85, 12.34, 11.09, 15.71 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **6.92** | United States | [Wakefield Spring 2022](https://www.worldcubeassociation.org/competitions/WakefieldSpring2022) | 10.85, 10.99, 8.18, 16.59, 6.92 |
 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | **7.26** | United States | [Gobbler Cube Day Fall 2019](https://www.worldcubeassociation.org/competitions/GobblerCubeDayFall2019) | 7.26, 12.57, 12.71, 13.43, 10.64 |
 | [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) | **7.57** | Canada | [Oakville Limited Winter 2018](https://www.worldcubeassociation.org/competitions/OakvilleLimitedWinter2018) | 12.62, 10.83, 15.23, 7.57, 12.73 |
@@ -264,7 +264,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **8.65** | United States | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022) | 8.86, 9.11, 7.77, 7.98, 10.81 |
-| [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **9.28** | Hong Kong | [Berkeley Winter B 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterB2023) | 10.28, 8.76, 8.79, 7.67, 10.58 |
+| [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **9.28** | Hong Kong, China | [Berkeley Winter B 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterB2023) | 10.28, 8.76, 8.79, 7.67, 10.58 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **10.82** | Poland | [Cube4fun in Świdnik 2022](https://www.worldcubeassociation.org/competitions/Cube4funinSwidnik2022) | 10.93, 10.36, 10.84, 10.69, 13.34 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **10.97** | United States | [Sioux Falls Spring 2022](https://www.worldcubeassociation.org/competitions/SiouxFallsSpring2022) | 11.26, 10.28, 10.61, 11.05, 12.94 |
 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | **11.15** | United States | [TJHSST Fall 2019](https://www.worldcubeassociation.org/competitions/TJHSSTFall2019) | 10.81, 11.53, 10.77, 11.43, 11.20 |
@@ -536,7 +536,7 @@
 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | **0.86** | United States | [Stanford Spring 2012](https://www.worldcubeassociation.org/competitions/StanfordSpring2012) | DNF, 0.86, DNF, DNF, DNF |
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | **0.88** | Denmark | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) | 1.00, 1.02, 1.05, 1.02, 0.88 |
 | [Angga Atrie](https://www.worldcubeassociation.org/persons/2011ATRI01) | **0.93** | Indonesia | [Borneo 2012](https://www.worldcubeassociation.org/competitions/Borneo2012) | 1.02, 1.02, 0.93, 3.28, 0.97 |
-| [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | **0.96** | Hong Kong | [Guangdong Open 2009](https://www.worldcubeassociation.org/competitions/GuangdongOpen2009) | 0.96, 0.99, DNF, 1.06, 1.52 |
+| [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | **0.96** | Hong Kong, China | [Guangdong Open 2009](https://www.worldcubeassociation.org/competitions/GuangdongOpen2009) | 0.96, 0.99, DNF, 1.06, 1.52 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **0.96** | Germany | [Alania Open 2011](https://www.worldcubeassociation.org/competitions/AlaniaOpen2011) | 5.38, 1.00, DNF, 0.96, 2.50 |
 | [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | **0.97** | Malaysia | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) | 1.13, 1.43, 2.97, 0.97, DNF |
 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | **0.97** | United States | [Dayton Fall 2011](https://www.worldcubeassociation.org/competitions/DaytonFall2011) | 1.11, 1.02, 1.02, 0.97, DNF |
@@ -552,7 +552,7 @@
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | **1.00** | Denmark | [Euro 2010](https://www.worldcubeassociation.org/competitions/Euro2010) | 1.02, 1.05, 0.97, 0.93, 1.00 |
 | [Angga Atrie](https://www.worldcubeassociation.org/persons/2011ATRI01) | **1.00** | Indonesia | [Borneo 2012](https://www.worldcubeassociation.org/competitions/Borneo2012) | 1.02, 1.02, 0.93, 3.28, 0.97 |
 | [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | **1.04** | Malaysia | [Taylor's Cube Open 2012](https://www.worldcubeassociation.org/competitions/TaylorCubeOpen2012) | 1.06, 1.05, 0.97, 1.00, DNF |
-| [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | **1.05** | Hong Kong | [Guangdong Open 2009](https://www.worldcubeassociation.org/competitions/GuangdongOpen2009) | 1.05, 1.06, 1.05, 1.02, 1.56 |
+| [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | **1.05** | Hong Kong, China | [Guangdong Open 2009](https://www.worldcubeassociation.org/competitions/GuangdongOpen2009) | 1.05, 1.06, 1.05, 1.02, 1.56 |
 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | **1.05** | United States | [Dayton Fall 2011](https://www.worldcubeassociation.org/competitions/DaytonFall2011) | 1.11, 1.02, 1.02, 0.97, DNF |
 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) | **1.09** | United States | [Stanford Spring 2012](https://www.worldcubeassociation.org/competitions/StanfordSpring2012) | 1.09, 1.05, 1.09, 2.05, 1.09 |
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | **1.15** | United States | [Da Vinci Science Center 2008](https://www.worldcubeassociation.org/competitions/DaVinciScience2008) | 1.11, 1.19, 1.11, 3.22, 1.15 |
@@ -569,7 +569,7 @@
 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | **2.27** | United States | [Stanford Spring 2012](https://www.worldcubeassociation.org/competitions/StanfordSpring2012) | 2.27, 3.44, 2.86, 3.06, 3.44 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | **2.33** | Malaysia | [Taylor's Cube Open 2012](https://www.worldcubeassociation.org/competitions/TaylorCubeOpen2012) | 3.11, 2.56, 3.34, 2.72, 2.33 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **2.34** | United States | [Carnegie Mellon Spring 2012](https://www.worldcubeassociation.org/competitions/CMUSpring2012) | 2.46, 4.84, 2.59, 2.34, 3.18 |
-| [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | **2.44** | Hong Kong | [Hong Kong Open 2009](https://www.worldcubeassociation.org/competitions/HongKongOpen2009) | 2.44, 5.08, 3.02, 2.69, 3.13 |
+| [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | **2.44** | Hong Kong, China | [Hong Kong Open 2009](https://www.worldcubeassociation.org/competitions/HongKongOpen2009) | 2.44, 5.08, 3.02, 2.69, 3.13 |
 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) | **2.44** | United States | [Berkeley Fall 2012](https://www.worldcubeassociation.org/competitions/BerkeleyFall2012) | 2.80, 2.77, 2.81, 2.86, 2.44 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **2.55** | Spain | [Granada Open 2012](https://www.worldcubeassociation.org/competitions/GranadaOpen2012) | 2.55, 3.21, 4.78, 4.18, 6.18 |
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | **2.59** | Denmark | [Odense Open 2010](https://www.worldcubeassociation.org/competitions/OdenseOpen2010) | 3.31, 2.68, 2.80, 3.68, 2.59 |
@@ -583,7 +583,7 @@
 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | **2.47** | United States | [US Nationals 2012](https://www.worldcubeassociation.org/competitions/USNationals2012) | 2.43, 2.40, 2.38, 3.25, 2.58 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **2.53** | Hungary | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010) | 2.40, 3.15, 2.40, 2.78, 2.34 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **2.68** | United States | [Jersey Shore Open 2012](https://www.worldcubeassociation.org/competitions/JerseyShoreOpen2012) | 2.69, 2.75, 2.61, 3.18, 2.53 |
-| [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | **2.74** | Hong Kong | [Shenzhen Summer Open 2009](https://www.worldcubeassociation.org/competitions/ShenzhenSummerOpen2009) | 2.52, 2.77, 5.09, 2.72, 2.72 |
+| [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | **2.74** | Hong Kong, China | [Shenzhen Summer Open 2009](https://www.worldcubeassociation.org/competitions/ShenzhenSummerOpen2009) | 2.52, 2.77, 5.09, 2.72, 2.72 |
 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) | **2.79** | United States | [Berkeley Fall 2012](https://www.worldcubeassociation.org/competitions/BerkeleyFall2012) | 2.80, 2.77, 2.81, 2.86, 2.44 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **2.80** | Spain | [Rubikaz Anniversary Open 2012](https://www.worldcubeassociation.org/competitions/Rubikaz10thAnniversary2012) | 2.66, 2.61, 2.58, 3.43, 3.13 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | **2.80** | Malaysia | [Taylor's Cube Open 2012](https://www.worldcubeassociation.org/competitions/TaylorCubeOpen2012) | 3.11, 2.56, 3.34, 2.72, 2.33 |

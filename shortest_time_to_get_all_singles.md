@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  2 July 2023*
+*Updated on  4 July 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -25,7 +25,7 @@
 | 343 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 357 | [Yu Zhou (周煜)](https://www.worldcubeassociation.org/persons/2017YUZH03) |
 | 357 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
-| 363 | [Daniel Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
+| 363 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
 | 398 | [Mara Oprea](https://www.worldcubeassociation.org/persons/2017OPRE02) |
 | 406 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 412 | [Andrei Solntsev](https://www.worldcubeassociation.org/persons/2018SOLN01) |
@@ -64,6 +64,7 @@
 | 665 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) |
 | 667 | [Tianping Ding (丁天平)](https://www.worldcubeassociation.org/persons/2016DING05) |
 | 670 | [Shunsuke Wada (和田俊輔)](https://www.worldcubeassociation.org/persons/2016WADA01) |
+| 671 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 672 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
 | 679 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 685 | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |

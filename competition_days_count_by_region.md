@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  2 July 2023*
+*Updated on  4 July 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 9962 |
+| 1.49 | World | 9974 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.76 | Europe | 3263 |
-| 1.56 | South America | 1118 |
+| 1.76 | Europe | 3268 |
+| 1.56 | South America | 1120 |
 | 1.46 | Oceania | 435 |
-| 1.41 | Asia | 2309 |
+| 1.41 | Asia | 2312 |
 | 1.24 | Africa | 110 |
-| 1.21 | North America | 2727 |
+| 1.21 | North America | 2729 |
 
 ### Countries
 
@@ -50,29 +50,29 @@
 | 1.82 | Austria | 22 |
 | 1.80 | Bosnia and Herzegovina | 10 |
 | 1.80 | Iceland | 10 |
-| 1.79 | Brazil | 362 |
+| 1.79 | Brazil | 363 |
 | 1.78 | Thailand | 40 |
 | 1.76 | Guatemala | 51 |
 | 1.75 | Sri Lanka | 4 |
 | 1.74 | Slovenia | 27 |
-| 1.73 | Denmark | 129 |
+| 1.73 | Denmark | 130 |
 | 1.71 | Argentina | 66 |
 | 1.71 | Ukraine | 113 |
 | 1.70 | Iran | 33 |
-| 1.68 | Poland | 373 |
+| 1.68 | Poland | 375 |
 | 1.67 | Kyrgyzstan | 3 |
 | 1.67 | Luxembourg | 3 |
 | 1.67 | Montenegro | 3 |
 | 1.67 | North Macedonia | 6 |
 | 1.67 | San Marino | 6 |
-| 1.67 | Sweden | 183 |
+| 1.66 | Sweden | 184 |
 | 1.61 | Indonesia | 190 |
 | 1.60 | New Zealand | 86 |
 | 1.60 | Netherlands | 101 |
 | 1.60 | Bangladesh | 10 |
-| 1.60 | Bolivia | 92 |
-| 1.58 | India | 462 |
-| 1.58 | Ireland | 38 |
+| 1.59 | Bolivia | 93 |
+| 1.59 | Ireland | 39 |
+| 1.59 | India | 464 |
 | 1.55 | Italy | 175 |
 | 1.55 | Malaysia | 69 |
 | 1.54 | Latvia | 24 |
@@ -107,13 +107,13 @@
 | 1.29 | Bahrain | 7 |
 | 1.26 | China | 615 |
 | 1.24 | Mongolia | 21 |
-| 1.22 | Japan | 215 |
+| 1.22 | Japan | 216 |
 | 1.20 | Kuwait | 5 |
 | 1.19 | Portugal | 16 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.17 | Uruguay | 42 |
-| 1.17 | United States | 2178 |
+| 1.17 | United States | 2180 |
 | 1.16 | Canada | 287 |
 | 1.13 | Honduras | 15 |
 | 1.13 | El Salvador | 31 |

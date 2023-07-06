@@ -1,7 +1,7 @@
 ## Name parts count
 
 *Note: Local names within parentheses are ignored.*
-*Updated on  4 July 2023*
+*Updated on  5 July 2023*
 
 | Parts | People | Countries of origin |
 | :--: | ---: | :--- |

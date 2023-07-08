@@ -15,7 +15,7 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
     <<-SQL
       SELECT
         eventId event_id,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         start_date,
         best,
         average
@@ -38,7 +38,7 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
         HAVING COUNT(eventId) = #{NUM_EVENTS_WITH_AVERAGES}
       ) AS all_average_people ON all_average_people.personId = all_events_people.personId
       JOIN Results result ON result.personId = all_events_people.personId
-      JOIN Persons person ON person.id = result.personId and person.subId = 1
+      JOIN Persons person ON person.wca_id = result.personId and person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       ORDER BY start_date
     SQL

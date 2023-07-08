@@ -10,7 +10,7 @@ class MostVisitedCountries < Statistic
     <<-SQL
       SELECT
         visited_countries,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link
       FROM (
         SELECT
           personId,
@@ -23,7 +23,7 @@ class MostVisitedCountries < Statistic
         ORDER BY visited_countries DESC
         LIMIT 100
       ) AS visited_countries_by_person
-      JOIN Persons person ON person.id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
     SQL
   end
 end

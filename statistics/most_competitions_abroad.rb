@@ -10,7 +10,7 @@ class MostCompetitionsAbroad < Statistic
     <<-SQL
       SELECT
         competitions_abroad,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_name
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_name
       FROM (
         SELECT
           personId,
@@ -25,7 +25,7 @@ class MostCompetitionsAbroad < Statistic
         ORDER BY competitions_abroad DESC
         LIMIT 100
       ) AS person_ids_with_competitions_abroad
-      JOIN Persons person ON person.id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
     SQL
   end
 end

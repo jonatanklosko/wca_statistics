@@ -13,12 +13,12 @@ class LongestStreakOfWorldRecords < Statistic
         regionalAverageRecord regional_average_record,
         best single,
         average,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         competition.start_date competition_date,
         eventId event_id
       FROM Results result
-      JOIN Persons person ON person.id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       WHERE regionalSingleRecord = 'WR' OR regionalAverageRecord = 'WR'
     SQL

@@ -17,11 +17,11 @@ class WorstResultOnPodium < GroupedStatistic
         eventId event_id,
         best single,
         average,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/podiums#e', eventId, ')') podium_link,
         pos place
       FROM Results
-      JOIN Persons person ON person.id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN preferred_formats preferred_format ON preferred_format.event_id = eventId AND ranking = 1
       JOIN Formats format ON format.id = preferred_format.format_id

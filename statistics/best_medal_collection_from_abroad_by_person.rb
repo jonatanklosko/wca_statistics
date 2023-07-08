@@ -10,7 +10,7 @@ class BestMedalCollectionFromAbroadByPerson < Statistic
   def query
     <<-SQL
       SELECT
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('**', gold_medals, '**'),
         silver_medals,
         bronze_medals,
@@ -29,7 +29,7 @@ class BestMedalCollectionFromAbroadByPerson < Statistic
           AND competition.countryId != result.countryId
         GROUP BY personId
       ) AS medals_by_country
-      JOIN Persons person ON person.id = personId AND subId = 1
+      JOIN Persons person ON person.wca_id = personId AND subId = 1
       WHERE gold_medals + silver_medals + bronze_medals > 0
       ORDER BY gold_medals DESC, silver_medals DESC, bronze_medals DESC, person.name
       LIMIT 100

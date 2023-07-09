@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  5 July 2023*
+*Updated on  7 July 2023*
 
 
 ### Rubik's Cube
@@ -114,8 +114,8 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Emú Ticknor Byrd](https://www.worldcubeassociation.org/persons/2022TICK02) | 64 | **69.67** | [JAM FMC V 2023](https://www.worldcubeassociation.org/competitions/JAMFMCV2023/results/podiums#e333fm) | 2 |
-| [Manuel Aleandro Chang Pérez](https://www.worldcubeassociation.org/persons/2015PERE29) | 59 | **67.00** | [Xela Open 2016](https://www.worldcubeassociation.org/competitions/XelaOpen2016/results/podiums#e333fm) | 3 |
 | [Hossein Mastan (حسین مستان)](https://www.worldcubeassociation.org/persons/2015MAST01) | 59 | **67.00** | [IranFMC 2015](https://www.worldcubeassociation.org/competitions/IranFMC2015/results/podiums#e333fm) | 2 |
+| [Manuel Aleandro Chang Pérez](https://www.worldcubeassociation.org/persons/2015PERE29) | 59 | **67.00** | [Xela Open 2016](https://www.worldcubeassociation.org/competitions/XelaOpen2016/results/podiums#e333fm) | 3 |
 | [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) | 55 | **62.67** | [Please Be Quiet Utah 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietUtah2019/results/podiums#e333fm) | 2 |
 | [Hannu Vanhatalo](https://www.worldcubeassociation.org/persons/2018VANH04) | 61 | **62.00** | [Pulmapelipäivät 2019](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2019/results/podiums#e333fm) | 2 |
 | [Aidan Proietto](https://www.worldcubeassociation.org/persons/2016PROI01) | 56 | **59.67** | [Last Minute Qualifier 2017](https://www.worldcubeassociation.org/competitions/LastMinuteQualifier2017/results/podiums#e333fm) | 2 |
@@ -255,8 +255,8 @@
 | [Yiqun Fan (樊轶群)](https://www.worldcubeassociation.org/persons/2010FANY01) | **4/8 1:00:00** |  | [Hefei Summer 2012](https://www.worldcubeassociation.org/competitions/HefeiSummer2012/results/podiums#e333mbf) | 3 |
 | [Selim Makni](https://www.worldcubeassociation.org/persons/2018MAKN01) | **5/10 59:57** |  | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019/results/podiums#e333mbf) | 1 |
 | [Ernesto Cabrera](https://www.worldcubeassociation.org/persons/2014CABR05) | **3/6 59:46** |  | [San Lorenzo Invierno 2015](https://www.worldcubeassociation.org/competitions/SanLorenzoInvierno2015/results/podiums#e333mbf) | 3 |
-| [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) | **5/10 59:34** |  | [South American Championship 2018](https://www.worldcubeassociation.org/competitions/SouthAmericanChampionship2018/results/podiums#e333mbf) | 3 |
 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) | **5/10 59:34** |  | [Tassie Summer - Sorell 2022](https://www.worldcubeassociation.org/competitions/Sorell2022/results/podiums#e333mbf) | 3 |
+| [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) | **5/10 59:34** |  | [South American Championship 2018](https://www.worldcubeassociation.org/competitions/SouthAmericanChampionship2018/results/podiums#e333mbf) | 3 |
 | [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | **3/6 59:25** |  | [Estonian Open 2018](https://www.worldcubeassociation.org/competitions/EstonianOpen2018/results/podiums#e333mbf) | 3 |
 
 

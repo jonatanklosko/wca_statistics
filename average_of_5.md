@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  7 July 2023*
+*Updated on 10 July 2023*
 
 
 ### Rubik's Cube
@@ -209,7 +209,7 @@
 | 5.30 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 6.56, 5.13, 5.41, 4.28, 5.36 |
 | 5.51 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 4.87, 13.04, 6.09, 4.38, 5.57 |
 | 5.54 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 4.85, 6.15, 5.74, 4.75, 6.04 |
-| 5.57 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 7.78, 5.35, 5.87, 4.80, 5.49 |
+| 5.56 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 7.72, 5.02, 4.76, 5.51, 6.17 |
 | 5.64 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.38, 5.34, 11.36, 5.06, 5.20 |
 | 5.71 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 5.85, 5.74, 6.59, 5.56, 4.00 |
 | 5.90 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 5.92, 6.58, 6.98, 5.20, 4.68 |

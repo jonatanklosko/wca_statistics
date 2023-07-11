@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  7 July 2023*
+*Updated on 10 July 2023*
 
 
 ### Rubik's Cube
@@ -143,6 +143,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 43.30 | [Alina Zhu](https://www.worldcubeassociation.org/persons/2023ZHUA03) |
 | 44.01 | [Jingqi Zhang](https://www.worldcubeassociation.org/persons/2016ZHAJ08) |
 | 45.10 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) |
 | 45.67 | [Mingyu Liu (刘铭宇)](https://www.worldcubeassociation.org/persons/2018LIUM02) |
@@ -152,7 +153,6 @@
 | 47.37 | [Tyler Gee](https://www.worldcubeassociation.org/persons/2019GEET02) |
 | 48.69 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) |
 | 48.89 | [Oscar Isaac Corona Munguía](https://www.worldcubeassociation.org/persons/2022MUNG01) |
-| 50.16 | [Hiroaki Okamoto (岡本裕陽)](https://www.worldcubeassociation.org/persons/2018OKAM01) |
 
 ### Pyraminx
 

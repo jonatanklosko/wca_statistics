@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  7 July 2023*
+*Updated on 10 July 2023*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -69,7 +69,7 @@
 | 49 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
 | 82 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 59 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
-| 49 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
+| 50 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
 | 105 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 64 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 108 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
@@ -77,7 +77,7 @@
 | 44 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 51 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 43 | [Billy Burier](https://www.worldcubeassociation.org/persons/2014BURI01) |
-| 81 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 82 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 48 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 77 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 49 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
@@ -91,15 +91,15 @@
 | 48 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 52 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 60 | [Danny Sungin Park](https://www.worldcubeassociation.org/persons/2015PARK13) |
-| 50 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
+| 51 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
 | 43 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
 | 56 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 43 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 49 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
-| 44 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
-| 61 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 45 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
+| 62 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 49 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
-| 50 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
+| 51 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 55 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 58 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 63 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |

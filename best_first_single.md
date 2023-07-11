@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  7 July 2023*
+*Updated on 10 July 2023*
 
 
 ### Rubik's Cube
@@ -76,8 +76,8 @@
 | 1:47.84 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 1:48.56 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
 | 1:51.55 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
+| 1:52.01 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
 | 1:52.18 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
-| 1:52.53 | [Balder Henke](https://www.worldcubeassociation.org/persons/2019HENK01) |
 
 ### 7x7x7 Cube
 
@@ -143,6 +143,7 @@
 
 | First single | Person |
 | ---: | :--- |
+| 42.16 | [Alina Zhu](https://www.worldcubeassociation.org/persons/2023ZHUA03) |
 | 44.52 | [Hiroaki Okamoto (岡本裕陽)](https://www.worldcubeassociation.org/persons/2018OKAM01) |
 | 44.68 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) |
 | 46.39 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) |
@@ -152,7 +153,6 @@
 | 48.17 | [Jingqi Zhang](https://www.worldcubeassociation.org/persons/2016ZHAJ08) |
 | 48.83 | [Anthony Tindal](https://www.worldcubeassociation.org/persons/2022TIND01) |
 | 49.11 | [Changhee Yeh (예창희)](https://www.worldcubeassociation.org/persons/2019YEHC02) |
-| 49.12 | [Hilarry Henry](https://www.worldcubeassociation.org/persons/2017HENR03) |
 
 ### Pyraminx
 

@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  7 July 2023*
+*Updated on 10 July 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -100,7 +100,7 @@
 | 19 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 19 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 27 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
-| 15 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
+| 16 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 22 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 14 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 14 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |

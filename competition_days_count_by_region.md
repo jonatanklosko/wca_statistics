@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  7 July 2023*
+*Updated on 10 July 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 10002 |
+| 1.49 | World | 10009 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.76 | Europe | 3279 |
+| 1.76 | Europe | 3282 |
 | 1.56 | South America | 1120 |
 | 1.46 | Oceania | 435 |
-| 1.41 | Asia | 2322 |
+| 1.41 | Asia | 2323 |
 | 1.24 | Africa | 110 |
-| 1.21 | North America | 2736 |
+| 1.21 | North America | 2739 |
 
 ### Countries
 
@@ -45,9 +45,9 @@
 | 1.84 | Switzerland | 90 |
 | 1.84 | Spain | 280 |
 | 1.83 | Finland | 107 |
-| 1.83 | Belgium | 65 |
 | 1.83 | Mexico | 110 |
 | 1.82 | Austria | 22 |
+| 1.81 | Belgium | 67 |
 | 1.80 | Bosnia and Herzegovina | 10 |
 | 1.80 | Iceland | 10 |
 | 1.79 | Brazil | 363 |
@@ -72,7 +72,7 @@
 | 1.60 | Netherlands | 102 |
 | 1.59 | Bolivia | 93 |
 | 1.59 | Ireland | 39 |
-| 1.59 | India | 467 |
+| 1.59 | India | 468 |
 | 1.55 | Italy | 176 |
 | 1.55 | Malaysia | 69 |
 | 1.54 | Latvia | 24 |
@@ -109,16 +109,16 @@
 | 1.24 | Mongolia | 21 |
 | 1.22 | Japan | 217 |
 | 1.20 | Kuwait | 5 |
+| 1.19 | El Salvador | 32 |
 | 1.19 | Portugal | 16 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.17 | Uruguay | 42 |
-| 1.17 | United States | 2184 |
-| 1.16 | Canada | 287 |
+| 1.17 | United States | 2185 |
+| 1.16 | Canada | 288 |
 | 1.13 | Honduras | 15 |
-| 1.13 | El Salvador | 31 |
 | 1.12 | Azerbaijan | 40 |
-| 1.06 | Georgia | 16 |
+| 1.06 | Georgia | 17 |
 | 1.00 | Albania | 3 |
 | 1.00 | Algeria | 9 |
 | 1.00 | Angola | 1 |

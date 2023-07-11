@@ -10,7 +10,7 @@ class MostCompetitionsAbroad < Statistic
     <<-SQL
       SELECT
         competitions_abroad,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_name
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_name
       FROM (
         SELECT
           personId,
@@ -19,12 +19,13 @@ class MostCompetitionsAbroad < Statistic
         JOIN Competitions competition ON competition.id = competitionId
         WHERE 1
           AND result.countryId != competition.countryId
-          AND competition.countryId NOT IN ('XA', 'XE', 'XM', 'XS') -- Ignore Multiple Countries used for continental FMC competitions.
+          AND competition.countryId -- Ignore Multiple Countries used for continental FMC competitions.
+            NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')
         GROUP BY personId
         ORDER BY competitions_abroad DESC
         LIMIT 100
       ) AS person_ids_with_competitions_abroad
-      JOIN Persons person ON person.id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
     SQL
   end
 end

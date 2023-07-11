@@ -11,14 +11,14 @@ class MostCompetitionsBeforeWinning < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         eventId event_id,
         pos place,
         round_type.final is_final,
         best
       FROM Results
-      JOIN Persons person ON person.id = personId AND subId = 1
+      JOIN Persons person ON person.wca_id = personId AND subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN RoundTypes round_type ON round_type.id = roundTypeId
       ORDER BY start_date

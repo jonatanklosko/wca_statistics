@@ -11,7 +11,7 @@ class WinnedWeekCount < GroupedStatistic
     <<-SQL
       SELECT
         eventId event_id,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         winned_weeks
       FROM (
         SELECT
@@ -34,7 +34,7 @@ class WinnedWeekCount < GroupedStatistic
         WHERE start_date BETWEEN week_start_date AND week_end_date
         GROUP BY 333_best_by_week.eventId, personId
       ) AS winned_weeks_by_person
-      JOIN Persons person ON person.id = personId AND subId = 1;
+      JOIN Persons person ON person.wca_id = personId AND subId = 1;
     SQL
   end
 

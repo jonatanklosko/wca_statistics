@@ -17,13 +17,13 @@ class WorldChampionshipRecords < GroupedStatistic
     <<-SQL
       SELECT
         eventId event_id,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         country.name country_name,
         best single,
         average
       FROM Results
-      JOIN Persons person ON person.id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN Countries country ON country.id = person.countryId
       JOIN championships ON championships.competition_id = competitionId

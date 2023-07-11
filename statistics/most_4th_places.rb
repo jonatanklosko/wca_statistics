@@ -11,7 +11,7 @@ class Most4thPlaces < Statistic
     <<-SQL
       SELECT
         4th_places_count,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link
       FROM (
         SELECT
           personId wca_id,
@@ -23,7 +23,7 @@ class Most4thPlaces < Statistic
         ORDER BY 4th_places_count DESC
         LIMIT 100
       ) AS 4th_places_count_by_person
-      JOIN Persons person ON person.id = wca_id AND person.subId = 1
+      JOIN Persons person ON person.wca_id = 4th_places_count_by_person.wca_id AND person.subId = 1
     SQL
   end
 end

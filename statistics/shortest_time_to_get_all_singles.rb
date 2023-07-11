@@ -12,7 +12,7 @@ class ShortestTimeToGetAllSingles < Statistic
     <<-SQL
       SELECT
         eventId event_id,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         start_date,
         best
       FROM (
@@ -25,7 +25,7 @@ class ShortestTimeToGetAllSingles < Statistic
         HAVING COUNT(eventId) = #{Events::OFFICIAL.length}
       ) AS all_events_people
       JOIN Results result ON result.personId = all_events_people.personId
-      JOIN Persons person ON person.id = result.personId and person.subId = 1
+      JOIN Persons person ON person.wca_id = result.personId and person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       ORDER BY start_date
     SQL

@@ -10,7 +10,7 @@ class MostFinals < Statistic
     <<-SQL
       SELECT
         finals_count,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link
       FROM (
         SELECT
           personId wca_id,
@@ -22,7 +22,7 @@ class MostFinals < Statistic
         ORDER BY finals_count DESC
         LIMIT 100
       ) AS people_with_finals
-      JOIN Persons person ON person.id = wca_id AND person.subId = 1
+      JOIN Persons person ON person.wca_id = people_with_finals.wca_id AND person.subId = 1
     SQL
   end
 end

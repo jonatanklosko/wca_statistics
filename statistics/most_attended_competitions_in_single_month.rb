@@ -10,7 +10,7 @@ class MostAttendedCompetitionsInSingleMonth < Statistic
     <<-SQL
       SELECT
         attended_within_month,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         month_name,
         competitions_year,
         competition_links
@@ -19,9 +19,10 @@ class MostAttendedCompetitionsInSingleMonth < Statistic
           COUNT(*) attended_within_month,
           personId,
           MONTHNAME(competition.start_date) month_name,
-          competition.year competitions_year,
+          YEAR(competition.start_date) competitions_year,
           GROUP_CONCAT(
             CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')')
+            ORDER BY competition.start_date ASC
             SEPARATOR ', '
           ) competition_links
         FROM (
@@ -29,10 +30,10 @@ class MostAttendedCompetitionsInSingleMonth < Statistic
           FROM Results
         ) AS results
         JOIN Competitions competition ON competition.id = competitionId
-        GROUP BY personId, competition.year, month_name
+        GROUP BY personId, YEAR(competition.start_date), month_name
         HAVING attended_within_month >= 4
       ) AS comps_within_single_month_by_person
-      JOIN Persons person ON person.id = personId AND subId = 1
+      JOIN Persons person ON person.wca_id = personId AND subId = 1
       ORDER BY attended_within_month DESC, person.name
     SQL
   end

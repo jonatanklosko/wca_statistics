@@ -14,7 +14,7 @@ class DelegatedCompetitionPerYear < Statistic
         (delegated_count / years) delegated_per_year,
         delegated_count,
         years,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=', user.id, ')') list_link
       FROM (
         SELECT
@@ -27,7 +27,7 @@ class DelegatedCompetitionPerYear < Statistic
         GROUP BY delegate_id
       ) AS delegated_count_by_user
       JOIN users user ON user.id = delegate_id
-      JOIN Persons person ON person.id = user.wca_id AND person.subId = 1
+      JOIN Persons person ON person.wca_id = user.wca_id AND person.subId = 1
       WHERE delegated_count >= 5
       ORDER BY delegated_per_year DESC
     SQL

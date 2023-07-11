@@ -13,10 +13,10 @@ class BestFirstAverage < GroupedStatistic
     <<-SQL
       SELECT
         eventId event_id,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         average
       FROM Results
-      JOIN Persons person ON person.id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN RoundTypes round_type ON round_type.id = roundTypeId
       ORDER BY competition.start_date, round_type.rank

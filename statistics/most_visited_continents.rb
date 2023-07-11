@@ -10,7 +10,7 @@ class MostVisitedContinents < Statistic
     <<-SQL
       SELECT
         visited_continents,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.id, ')') person_link
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link
       FROM (
         SELECT
           personId,
@@ -22,7 +22,7 @@ class MostVisitedContinents < Statistic
         GROUP BY personId
         HAVING visited_continents >= 4
       ) AS people_with_visited_continents
-      JOIN Persons person ON person.id = personId AND subId = 1
+      JOIN Persons person ON person.wca_id = personId AND subId = 1
       ORDER BY visited_continents DESC
     SQL
   end

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 July 2023*
+*Updated on 13 July 2023*
 
 
 ### Rubik's Cube
@@ -101,10 +101,10 @@
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **18.21** | 20.55 | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333bf_f) | 4 |
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **18.57** | DNF | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333bf_f) | 5 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **18.69** | DNF | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333bf_f) | 6 |
-| [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **18.79** | DNF | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/all#e333bf_f) | 4 |
+| [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **18.79** | DNF | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/all#e333bf_f) | 4 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **19.16** | 19.94 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 4 |
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **19.38** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 5 |
-| [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **19.44** | DNF | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e333bf_f) | 4 |
+| [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **19.44** | DNF | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e333bf_f) | 4 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **19.48** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 6 |
 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | **19.96** | DNF | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023/results/all#e333bf_f) | 4 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **20.07** | DNF | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333bf_f) | 7 |
@@ -128,7 +128,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
-| [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | 10.08 | **10.78** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333oh_f) | 4 |
+| [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | 10.08 | **10.78** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333oh_f) | 4 |
 | [Hugo Spitz](https://www.worldcubeassociation.org/persons/2015SPIT02) | 9.55 | **10.82** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333oh_f) | 4 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 10.59 | **10.84** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333oh_f) | 5 |
 | [Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02) | 9.55 | **10.86** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333oh_f) | 6 |

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 July 2023*
+*Updated on 13 July 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -238,6 +238,7 @@
 | 1 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
 | 1 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 1 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) |
+| 1 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 1 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
 | 1 | [Olivier Gaucher](https://www.worldcubeassociation.org/persons/2004GAUC01) |
 | 1 | [Pierre Bouvier](https://www.worldcubeassociation.org/persons/2010BOUV01) |

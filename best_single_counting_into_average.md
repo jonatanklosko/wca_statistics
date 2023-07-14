@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 July 2023*
+*Updated on 13 July 2023*
 
 
 ### Rubik's Cube
@@ -31,7 +31,7 @@
 | 0.87 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | [Cubing Tlaxcala 2023](https://www.worldcubeassociation.org/competitions/CubingTlaxcala2023/results/by_person#2017HERN11) |
 | 0.88 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Port Huron Speedcubing 2022](https://www.worldcubeassociation.org/competitions/PortHuronSpeedcubing2022/results/by_person#2018KHAN28) |
 | 0.90 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/by_person#2018KHAN28) |
-| 0.91 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Clash at Carlisle Fall 2019](https://www.worldcubeassociation.org/competitions/ClashatCarlisleFall2019/results/by_person#2018KHAN28) |
+| 0.91 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Michigan 2023](https://www.worldcubeassociation.org/competitions/Michigan2023/results/by_person#2017GARR05) |
 
 ### 4x4x4 Cube
 
@@ -46,7 +46,7 @@
 | 19.21 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
 | 19.36 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 44 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin442023/results/by_person#2012PARK03) |
 | 19.37 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Arizona Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSpring2023/results/by_person#2012PARK03) |
-| 19.55 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/by_person#2013NAHM01) |
+| 19.52 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Sens Open 2023](https://www.worldcubeassociation.org/competitions/SensOpen2023/results/by_person#2010WEYE02) |
 
 ### 5x5x5 Cube
 
@@ -116,12 +116,12 @@
 | 2.89 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 3.24 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/by_person#2015CHER07) |
 | 3.27 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Naperville Winter B 2022](https://www.worldcubeassociation.org/competitions/NapervilleWinterB2022/results/by_person#2018THOM29) |
+| 3.27 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023/results/by_person#2021ELIA01) |
 | 3.28 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
 | 3.30 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Sharon Forks Qualifier 2023](https://www.worldcubeassociation.org/competitions/SharonForksQualifier2023/results/by_person#2015CHER07) |
 | 3.30 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/by_person#2015CHER07) |
-| 3.32 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Weston-super-Mare Spring 2023](https://www.worldcubeassociation.org/competitions/WestonsuperMareSpring2023/results/by_person#2017CHAM09) |
-| 3.33 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2015CHER07) |
-| 3.34 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Agoura Cubing 2023](https://www.worldcubeassociation.org/competitions/AgouraCubing2023/results/by_person#2021DUNA01) |
+| 3.30 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023/results/by_person#2021ELIA01) |
+| 3.30 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023/results/by_person#2021ELIA01) |
 
 ### Skewb
 

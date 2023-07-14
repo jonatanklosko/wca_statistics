@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 July 2023*
+*Updated on 13 July 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -833,6 +833,7 @@
 | 10 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023/results/podiums) |
 | 10 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [North Star Cubing Challenge 2020](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020/results/podiums) |
 | 10 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | [Sandnes Open 2018](https://www.worldcubeassociation.org/competitions/SandnesOpen2018/results/podiums) |
+| 10 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023/results/podiums) |
 | 11 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) | [Ó Paí Open 2016](https://www.worldcubeassociation.org/competitions/OPaiOpen2016/results/podiums) |
 | 10 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) | [Americana Open 2018](https://www.worldcubeassociation.org/competitions/AmericanaOpen2018/results/podiums) |
 | 10 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) | [Faria Brito Open 2019](https://www.worldcubeassociation.org/competitions/FariaBritoOpen2019/results/podiums) |

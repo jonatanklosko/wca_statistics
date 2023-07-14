@@ -1,35 +1,35 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 July 2023*
+*Updated on 13 July 2023*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1341** | 1115 | 959 | 3415 |
-| Germany | **899** | 885 | 886 | 2670 |
+| Germany | **903** | 887 | 889 | 2679 |
 | United States | **885** | 754 | 662 | 2301 |
-| France | **826** | 707 | 603 | 2136 |
+| France | **826** | 708 | 603 | 2137 |
 | Netherlands | **823** | 666 | 557 | 2046 |
 | Russia | **723** | 456 | 365 | 1544 |
 | China | **531** | 487 | 435 | 1453 |
-| Poland | **488** | 341 | 260 | 1089 |
-| Malaysia | **372** | 373 | 332 | 1077 |
-| United Kingdom | **361** | 412 | 410 | 1183 |
-| Canada | **350** | 344 | 372 | 1066 |
-| Denmark | **333** | 289 | 216 | 838 |
-| Sweden | **301** | 338 | 358 | 997 |
-| Republic of Korea | **282** | 251 | 207 | 740 |
-| Australia | **282** | 129 | 88 | 499 |
-| India | **248** | 197 | 190 | 635 |
+| Poland | **494** | 342 | 260 | 1096 |
+| Malaysia | **373** | 373 | 333 | 1079 |
+| United Kingdom | **364** | 415 | 416 | 1195 |
+| Canada | **352** | 349 | 377 | 1078 |
+| Denmark | **333** | 289 | 220 | 842 |
+| Sweden | **301** | 339 | 358 | 998 |
+| Republic of Korea | **285** | 251 | 209 | 745 |
+| Australia | **282** | 129 | 90 | 501 |
+| India | **248** | 198 | 191 | 637 |
 | Hong Kong, China | **247** | 269 | 208 | 724 |
 | Finland | **245** | 190 | 156 | 591 |
 | Switzerland | **241** | 325 | 273 | 839 |
 | Argentina | **208** | 156 | 129 | 493 |
 | Italy | **201** | 191 | 182 | 574 |
 | Japan | **198** | 126 | 132 | 456 |
-| Chinese Taipei | **197** | 169 | 166 | 532 |
+| Chinese Taipei | **197** | 169 | 167 | 533 |
 | Ukraine | **181** | 189 | 190 | 560 |
-| Spain | **174** | 161 | 194 | 529 |
+| Spain | **176** | 163 | 195 | 534 |
 | Romania | **170** | 117 | 105 | 392 |
 | Indonesia | **157** | 150 | 118 | 425 |
 | Singapore | **144** | 144 | 154 | 442 |
@@ -38,7 +38,7 @@
 | Slovenia | **130** | 163 | 162 | 455 |
 | Belgium | **127** | 190 | 170 | 487 |
 | Colombia | **125** | 96 | 84 | 305 |
-| Austria | **121** | 179 | 193 | 493 |
+| Austria | **122** | 179 | 193 | 494 |
 | Greece | **119** | 143 | 105 | 367 |
 | Latvia | **118** | 176 | 172 | 466 |
 | Belarus | **108** | 68 | 78 | 254 |
@@ -62,7 +62,7 @@
 | Chile | **28** | 20 | 17 | 65 |
 | Costa Rica | **26** | 33 | 27 | 86 |
 | Mongolia | **26** | 25 | 21 | 72 |
-| New Zealand | **24** | 65 | 49 | 138 |
+| New Zealand | **24** | 65 | 51 | 140 |
 | Belize | **24** | 6 | 1 | 31 |
 | El Salvador | **21** | 24 | 19 | 64 |
 | Portugal | **21** | 20 | 21 | 62 |
@@ -85,7 +85,7 @@
 | Moldova | **7** | 8 | 4 | 19 |
 | Bosnia and Herzegovina | **6** | 11 | 7 | 24 |
 | Panama | **6** | 7 | 8 | 21 |
-| Honduras | **6** | 4 | 7 | 17 |
+| Honduras | **6** | 5 | 8 | 19 |
 | Morocco | **6** | 3 | 7 | 16 |
 | Cyprus | **5** | 13 | 11 | 29 |
 | Macau, China | **5** | 11 | 11 | 27 |
@@ -104,7 +104,7 @@
 | Oman | **1** | 2 | 3 | 6 |
 | Algeria | **1** | 1 | 11 | 13 |
 | United Arab Emirates | **1** | 0 | 1 | 2 |
-| Palestine | **0** | 6 | 15 | 21 |
+| Palestine | **0** | 7 | 20 | 27 |
 | Saint Kitts and Nevis | **0** | 3 | 0 | 3 |
 | Sri Lanka | **0** | 2 | 2 | 4 |
 | Togo | **0** | 1 | 5 | 6 |

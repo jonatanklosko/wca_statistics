@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 July 2023*
+*Updated on 13 July 2023*
 
 
 ### Rubik's Cube
@@ -87,7 +87,7 @@
 | 1:57.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:57.89, 1:58.24, 1:51.13, 1:54.79, 2:05.50, 1:53.87, 2:09.13, 2:02.38, 1:56.76, 1:56.18, 1:52.66, 1:55.86 |
 | 1:59.33 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:56.42, 1:49.84, 2:04.51, 2:00.16, 1:51.14, 1:58.17, 2:10.86, 2:03.72, 2:07.83, 2:00.44, 1:57.12, 1:53.83 |
 | 1:59.89 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:41.29, 2:08.14, 1:59.78, 1:50.71, 2:06.21, 1:59.37, 2:14.85, 1:57.90, 1:55.81, 2:07.97, 1:53.15, 1:59.94 |
-| 2:00.17 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:56.06, 2:06.60, 2:05.00, 1:54.78, 1:59.23, 2:39.54, 1:57.40, 2:00.89, 1:57.31, 1:59.59, 1:52.97, 2:04.90 |
+| 2:00.01 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:54.78, 1:59.23, 2:39.54, 1:57.40, 2:00.89, 1:57.31, 1:59.59, 1:52.97, 2:04.90, 2:04.83, 2:01.98, 1:59.24 |
 | 2:01.14 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 2:06.23, 1:53.66, 2:03.12, 1:57.37, 2:01.01, 2:10.43, 2:08.28, 2:01.02, 1:56.42, 2:07.33, 1:53.81, 1:56.88 |
 | 2:02.63 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 2:02.22, 1:59.63, 2:15.08, 2:06.85, 2:03.00, 1:57.70, 2:01.62, 2:07.54, 2:01.48, 1:55.96, 2:02.96, 2:03.31 |
 | 2:02.67 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 2:00.80, 2:07.75, 2:00.28, 2:00.66, 2:04.75, 1:51.71, 2:07.30, 2:02.85, 1:58.31, 2:09.17, 2:12.32, 1:54.84 |
@@ -166,13 +166,14 @@
 | 1.84 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 2.18, 1.61, 1.52, 1.54, 1.89, DNF, 1.83, 2.17, 1.91, 1.76, 1.93, 1.58 |
 | 1.86 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1.28, 2.87, 1.92, 2.49, 4.42, 1.77, 1.38, 2.02, 1.64, 1.68, 1.29, 1.54 |
 | 1.89 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 1.77, 1.84, 2.14, 1.80, 1.71, 1.75, 2.40, 1.96, 1.74, DNF, 1.64, 1.87 |
+| 1.89 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.45, 1.94, 1.76, 2.72, 1.92, 2.00, 2.99, 1.38, 1.96, 1.70, 1.35, 2.13 |
 | 1.89 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.55, 1.99, 2.24, 2.18, 1.63, 1.82, 1.68, 1.62, 2.37, 1.87, 1.77, 2.12 |
-| 1.92 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | 1.54, 1.82, 1.49, DNF, 2.36, 2.64, 1.66, 1.39, 2.40, 1.33, 2.15, 1.79 |
 
 ### Rubik's Clock
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 3.66 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.68, 5.45, 3.16, 3.77, 3.84, 3.27, 4.51, 4.06, 3.17, 3.30, 3.75, 3.30 |
 | 3.73 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 5.80, 3.75, 3.57, 3.35, 3.51, 4.28, 3.68, 3.76, 2.77, 2.80, 6.14, 2.89 |
 | 3.97 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3.36, 4.80, 3.86, 4.30, 3.30, 3.99, 2.99, 4.32, 4.36, DNF, 3.76, 3.67 |
 | 3.97 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | 3.83, 3.53, 4.37, 3.48, 4.45, 4.00, 9.14, 3.26, 4.11, 4.73, 3.47, 3.80 |
@@ -182,7 +183,6 @@
 | 4.46 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.33, 4.17, 4.80, 4.20, 4.63, 5.32, 4.90, 4.13, 4.06, 4.29, 4.51, 4.67 |
 | 4.55 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) | 4.68, 3.97, 3.75, 4.72, DNF, 5.34, 3.11, 4.21, 4.62, 4.87, 3.82, 5.53 |
 | 4.55 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 4.24, 4.02, 4.03, 4.10, DNF, 6.72, 5.48, 4.52, 3.69, 4.19, 4.08, 4.21 |
-| 4.56 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 3.75, 3.74, DNF, 4.40, 5.46, 4.26, 4.78, 4.40, 4.58, 6.23, 3.97, 3.78 |
 
 ### Skewb
 

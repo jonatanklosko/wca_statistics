@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 13 July 2023*
+*Updated on 16 July 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -129,6 +129,7 @@
 | 2 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) |
 | 2 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 2 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 2 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
 | 2 | [Jean Pons](https://www.worldcubeassociation.org/persons/2004PONS01) |
 | 2 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) |
 | 2 | [Jianwei Zhu (朱剑伟)](https://www.worldcubeassociation.org/persons/2007ZHUJ01) |
@@ -202,7 +203,6 @@
 | 1 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 1 | [Jackey Zheng](https://www.worldcubeassociation.org/persons/2017ZHEN10) |
 | 1 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) |
-| 1 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
 | 1 | [Javier París](https://www.worldcubeassociation.org/persons/2005PARI01) |
 | 1 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 1 | [Jess Bonde](https://www.worldcubeassociation.org/persons/2003BOND01) |

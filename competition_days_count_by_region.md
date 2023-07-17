@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 13 July 2023*
+*Updated on 16 July 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 10030 |
+| 1.49 | World | 10039 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.76 | Europe | 3290 |
-| 1.56 | South America | 1122 |
-| 1.46 | Oceania | 435 |
+| 1.76 | Europe | 3292 |
+| 1.56 | South America | 1125 |
+| 1.47 | Oceania | 436 |
 | 1.41 | Asia | 2324 |
-| 1.23 | Africa | 111 |
-| 1.21 | North America | 2748 |
+| 1.24 | Africa | 112 |
+| 1.21 | North America | 2750 |
 
 ### Countries
 
@@ -37,20 +37,20 @@
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
 | 1.91 | Norway | 93 |
+| 1.91 | Iceland | 11 |
 | 1.90 | Germany | 191 |
 | 1.88 | Serbia | 16 |
 | 1.86 | Lithuania | 22 |
 | 1.86 | France | 254 |
 | 1.85 | Croatia | 20 |
 | 1.84 | Switzerland | 90 |
-| 1.84 | Spain | 280 |
+| 1.84 | Spain | 281 |
 | 1.83 | Finland | 107 |
 | 1.82 | Mexico | 111 |
 | 1.82 | Austria | 22 |
 | 1.81 | Belgium | 67 |
 | 1.80 | Bosnia and Herzegovina | 10 |
-| 1.80 | Iceland | 10 |
-| 1.79 | Brazil | 363 |
+| 1.79 | Brazil | 364 |
 | 1.78 | Thailand | 40 |
 | 1.76 | Guatemala | 51 |
 | 1.75 | Sri Lanka | 4 |
@@ -77,15 +77,15 @@
 | 1.55 | Malaysia | 69 |
 | 1.54 | Latvia | 24 |
 | 1.54 | Dominican Republic | 26 |
+| 1.50 | Colombia | 180 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Nigeria | 4 |
 | 1.50 | Tajikistan | 2 |
-| 1.50 | Colombia | 179 |
 | 1.49 | Peru | 168 |
 | 1.47 | Greece | 17 |
 | 1.44 | Israel | 36 |
 | 1.44 | Romania | 87 |
-| 1.43 | Australia | 349 |
+| 1.43 | Australia | 350 |
 | 1.42 | Bulgaria | 12 |
 | 1.39 | Singapore | 38 |
 | 1.39 | Costa Rica | 18 |
@@ -112,9 +112,10 @@
 | 1.19 | El Salvador | 32 |
 | 1.19 | Portugal | 16 |
 | 1.17 | Andorra | 6 |
+| 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | Uruguay | 42 |
-| 1.16 | United States | 2192 |
+| 1.16 | United States | 2194 |
+| 1.16 | Uruguay | 43 |
 | 1.16 | Canada | 289 |
 | 1.13 | Honduras | 15 |
 | 1.12 | Azerbaijan | 40 |
@@ -134,7 +135,6 @@
 | 1.00 | Malta | 1 |
 | 1.00 | Mauritius | 4 |
 | 1.00 | Moldova | 5 |
-| 1.00 | Morocco | 5 |
 | 1.00 | Oman | 1 |
 | 1.00 | Pakistan | 2 |
 

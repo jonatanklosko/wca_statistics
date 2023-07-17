@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 July 2023*
+*Updated on 16 July 2023*
 
 
 ### Rubik's Cube
@@ -88,11 +88,11 @@
 | 0.08 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 3:13.56 | 3:13.64 | [Dutch Open 2018](https://www.worldcubeassociation.org/competitions/DutchOpen2018/results/by_person#2007VALK01) |
 | 0.09 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 5:14.66 | 5:14.75 | [Eat Sleep Cube Repeat 2014](https://www.worldcubeassociation.org/competitions/EatSleepCubeRepeat2014/results/by_person#2008AURO01) |
 | 0.10 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) | 6:25.15 | 6:25.25 | [Oregon 2016](https://www.worldcubeassociation.org/competitions/Oregon2016/results/by_person#2007WOOR01) |
+| 0.11 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2:17.68 | 2:17.79 | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/by_person#2019YANG94) |
 | 0.11 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 3:07.96 | 3:08.07 | [Albany Fall 2019](https://www.worldcubeassociation.org/competitions/AlbanyFall2019/results/by_person#2011FERA01) |
 | 0.15 | [Vadym Perestiuk (Вадим Перестюк)](https://www.worldcubeassociation.org/persons/2016PERE15) | 4:18.29 | 4:18.44 | [Lviv Cube Cup 2017](https://www.worldcubeassociation.org/competitions/LvivCubeCup2017/results/by_person#2016PERE15) |
 | 0.16 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3:06.62 | 3:06.78 | [C4fun League III Lubartów 2022](https://www.worldcubeassociation.org/competitions/C4funLeagueIIILubartow2022/results/by_person#2013OWCZ01) |
 | 0.16 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | 3:51.01 | 3:51.17 | [MCC Alpha 2015](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2015/results/by_person#2009HILD01) |
-| 0.17 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) | 3:03.12 | 3:03.29 | [National Capital Region 2019](https://www.worldcubeassociation.org/competitions/NationalCapitalRegion2019/results/by_person#2010CORM02) |
 
 ### 3x3x3 Blindfolded
 

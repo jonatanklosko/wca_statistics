@@ -1,42 +1,42 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 July 2023*
+*Updated on 16 July 2023*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1341** | 1115 | 959 | 3415 |
 | Germany | **903** | 887 | 889 | 2679 |
 | United States | **885** | 754 | 662 | 2301 |
-| France | **826** | 708 | 603 | 2137 |
+| France | **829** | 709 | 603 | 2141 |
 | Netherlands | **823** | 666 | 557 | 2046 |
-| Russia | **723** | 456 | 365 | 1544 |
-| China | **531** | 487 | 435 | 1453 |
+| Russia | **723** | 456 | 366 | 1545 |
+| China | **535** | 490 | 437 | 1462 |
 | Poland | **494** | 342 | 260 | 1096 |
 | Malaysia | **373** | 373 | 333 | 1079 |
 | United Kingdom | **364** | 415 | 416 | 1195 |
 | Canada | **352** | 349 | 377 | 1078 |
 | Denmark | **333** | 289 | 220 | 842 |
 | Sweden | **301** | 339 | 358 | 998 |
-| Republic of Korea | **285** | 251 | 209 | 745 |
+| Republic of Korea | **286** | 252 | 213 | 751 |
 | Australia | **282** | 129 | 90 | 501 |
-| India | **248** | 198 | 191 | 637 |
-| Hong Kong, China | **247** | 269 | 208 | 724 |
-| Finland | **245** | 190 | 156 | 591 |
+| India | **249** | 198 | 191 | 638 |
+| Hong Kong, China | **248** | 271 | 209 | 728 |
+| Finland | **245** | 191 | 159 | 595 |
 | Switzerland | **241** | 325 | 273 | 839 |
 | Argentina | **208** | 156 | 129 | 493 |
 | Italy | **201** | 191 | 182 | 574 |
-| Japan | **198** | 126 | 132 | 456 |
-| Chinese Taipei | **197** | 169 | 167 | 533 |
+| Chinese Taipei | **198** | 169 | 168 | 535 |
+| Japan | **198** | 126 | 133 | 457 |
 | Ukraine | **181** | 189 | 190 | 560 |
 | Spain | **176** | 163 | 195 | 534 |
-| Romania | **170** | 117 | 105 | 392 |
-| Indonesia | **157** | 150 | 118 | 425 |
-| Singapore | **144** | 144 | 154 | 442 |
+| Romania | **171** | 117 | 105 | 393 |
+| Indonesia | **158** | 150 | 119 | 427 |
+| Singapore | **144** | 145 | 154 | 443 |
 | Peru | **143** | 76 | 89 | 308 |
 | Ireland | **135** | 74 | 58 | 267 |
 | Slovenia | **130** | 163 | 162 | 455 |
-| Belgium | **127** | 190 | 170 | 487 |
+| Belgium | **128** | 191 | 170 | 489 |
 | Colombia | **125** | 96 | 84 | 305 |
 | Austria | **122** | 179 | 193 | 494 |
 | Greece | **119** | 143 | 105 | 367 |
@@ -46,19 +46,19 @@
 | Kazakhstan | **90** | 83 | 84 | 257 |
 | Thailand | **76** | 86 | 40 | 202 |
 | Lithuania | **70** | 73 | 87 | 230 |
-| Philippines | **67** | 80 | 71 | 218 |
+| Philippines | **67** | 80 | 73 | 220 |
 | Slovakia | **62** | 76 | 82 | 220 |
 | Guatemala | **55** | 37 | 41 | 133 |
 | Norway | **52** | 58 | 78 | 188 |
 | Croatia | **50** | 79 | 59 | 188 |
-| Vietnam | **45** | 66 | 57 | 168 |
+| Vietnam | **46** | 66 | 58 | 170 |
 | Brazil | **42** | 52 | 35 | 129 |
 | Estonia | **38** | 41 | 33 | 112 |
 | Kosovo | **37** | 26 | 22 | 85 |
 | Israel | **36** | 27 | 37 | 100 |
 | Venezuela | **31** | 39 | 36 | 106 |
 | Uzbekistan | **31** | 26 | 27 | 84 |
-| Jordan | **29** | 8 | 13 | 50 |
+| Jordan | **29** | 8 | 14 | 51 |
 | Chile | **28** | 20 | 17 | 65 |
 | Costa Rica | **26** | 33 | 27 | 86 |
 | Mongolia | **26** | 25 | 21 | 72 |
@@ -66,7 +66,7 @@
 | Belize | **24** | 6 | 1 | 31 |
 | El Salvador | **21** | 24 | 19 | 64 |
 | Portugal | **21** | 20 | 21 | 62 |
-| Kyrgyzstan | **18** | 15 | 22 | 55 |
+| Kyrgyzstan | **21** | 16 | 24 | 61 |
 | Pakistan | **18** | 15 | 13 | 46 |
 | North Macedonia | **17** | 20 | 27 | 64 |
 | South Africa | **16** | 18 | 39 | 73 |
@@ -77,7 +77,7 @@
 | Tunisia | **10** | 9 | 7 | 26 |
 | Turkey | **9** | 12 | 12 | 33 |
 | Kuwait | **9** | 8 | 17 | 34 |
-| Iran | **9** | 8 | 9 | 26 |
+| Iran | **9** | 8 | 11 | 28 |
 | Uruguay | **9** | 5 | 18 | 32 |
 | Nigeria | **8** | 14 | 9 | 31 |
 | Bolivia | **8** | 9 | 16 | 33 |
@@ -104,7 +104,7 @@
 | Oman | **1** | 2 | 3 | 6 |
 | Algeria | **1** | 1 | 11 | 13 |
 | United Arab Emirates | **1** | 0 | 1 | 2 |
-| Palestine | **0** | 7 | 20 | 27 |
+| Palestine | **0** | 10 | 22 | 32 |
 | Saint Kitts and Nevis | **0** | 3 | 0 | 3 |
 | Sri Lanka | **0** | 2 | 2 | 4 |
 | Togo | **0** | 1 | 5 | 6 |

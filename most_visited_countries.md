@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 13 July 2023*
+*Updated on 16 July 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -65,7 +65,7 @@
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 14 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 13 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
-| 14 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
+| 15 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 16 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 13 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) |

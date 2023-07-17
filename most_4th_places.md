@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 13 July 2023*
+*Updated on 16 July 2023*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -29,7 +29,7 @@
 | 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 64 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) |
 | 104 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
-| 109 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 110 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 72 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 77 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 85 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
@@ -61,7 +61,7 @@
 | 86 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 158 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
-| 74 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
+| 75 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 140 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 78 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 70 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
@@ -94,11 +94,11 @@
 | 64 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 87 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 68 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
-| 65 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) |
+| 66 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) |
 | 76 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 70 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 96 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
-| 83 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
+| 85 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 74 | [Joonas Silvennoinen](https://www.worldcubeassociation.org/persons/2016SILV07) |
 | 74 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 67 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 13 July 2023*
+*Updated on 16 July 2023*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -17,7 +17,7 @@
 | 70 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 68 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
 | 55 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 109 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
+| 110 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 60 | [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) |
 | 168 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 103 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
@@ -56,8 +56,9 @@
 | 58 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 59 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 76 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
-| 53 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
+| 55 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 96 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
+| 43 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 46 | [Aramayis Adloyan (Արամայիս Ադլոյան)](https://www.worldcubeassociation.org/persons/2012ADLO01) |
 | 55 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 43 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
@@ -94,7 +95,6 @@
 | 51 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
 | 43 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
 | 57 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
-| 43 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 49 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
 | 45 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 62 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |

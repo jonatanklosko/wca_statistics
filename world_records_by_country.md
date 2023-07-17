@@ -1,6 +1,6 @@
 ## World records count by country
 
-*Updated on 13 July 2023*
+*Updated on 16 July 2023*
 
 | WRs | Country |
 | ---: | :--- |
@@ -33,10 +33,10 @@
 | 3 | Indonesia |
 | 3 | Israel |
 | 2 | Mexico |
+| 2 | New Zealand |
 | 2 | Spain |
 | 2 | Thailand |
 | 1 | Belarus |
-| 1 | New Zealand |
 | 1 | Norway |
 | 1 | Philippines |
 | 1 | Romania |

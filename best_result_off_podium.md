@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 13 July 2023*
+*Updated on 16 July 2023*
 
 
 ### Rubik's Cube
@@ -59,30 +59,31 @@
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 46.53 | **48.34** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e555_f) | 4 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 45.41 | **48.44** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e555_f) | 4 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 47.43 | **48.51** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e555_f) | 5 |
+| [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 46.85 | **48.63** | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/all#e555_f) | 4 |
 | [Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05) | 46.32 | **48.66** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e555_f) | 4 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 46.83 | **48.90** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e555_f) | 7 |
 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | 47.91 | **49.07** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e555_f) | 5 |
-| [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 46.47 | **49.21** | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#e555_f) | 4 |
 
 ### 6x6x6 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 1:23.46 | **1:28.98** | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/all#e666_f) | 4 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 1:24.08 | **1:29.77** | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023/results/all#e666_f) | 4 |
+| [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:23.46 | **1:30.28** | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/all#e666_f) | 5 |
 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:24.43 | **1:30.38** | [Medan Speedcube Challenge 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubeChallenge2023/results/all#e666_c) | 4 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 1:28.08 | **1:30.41** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e666_c) | 4 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:24.61 | **1:30.60** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 4 |
 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 1:21.73 | **1:31.53** | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/all#e666_f) | 4 |
 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) | 1:28.15 | **1:31.83** | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/all#e666_f) | 5 |
+| [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:30.26 | **1:32.01** | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/all#e666_f) | 6 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:27.45 | **1:33.10** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 5 |
-| [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 1:25.82 | **1:33.45** | [Pickering A 2023](https://www.worldcubeassociation.org/competitions/PickeringA2023/results/all#e666_c) | 4 |
-| [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 1:27.84 | **1:33.59** | [NDHU Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/NDHUBigCubeDay2023/results/all#e666_f) | 4 |
-| [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | 1:32.59 | **1:33.66** | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023/results/all#e666_f) | 5 |
 
 ### 7x7x7 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2:10.32 | **2:13.56** | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/all#e777_f) | 4 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 2:09.98 | **2:14.51** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e777_f) | 4 |
 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2:05.68 | **2:18.17** | [NDHU Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/NDHUBigCubeDay2023/results/all#e777_f) | 4 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 2:11.82 | **2:19.59** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e777_f) | 4 |
@@ -92,7 +93,6 @@
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 2:15.51 | **2:20.91** | [Medan Speedcube Challenge 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubeChallenge2023/results/all#e777_c) | 4 |
 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 2:07.45 | **2:20.97** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e777_f) | 4 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:08.14 | **2:21.27** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e777_f) | 6 |
-| [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | 2:14.29 | **2:21.27** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e777_f) | 4 |
 
 ### 3x3x3 Blindfolded
 

@@ -1,6 +1,6 @@
 ## Current world records count by country
 
-*Updated on 13 July 2023*
+*Updated on 16 July 2023*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
@@ -12,6 +12,7 @@
 | 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |
 | 1 | Italy | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
+| 1 | New Zealand | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
 | 1 | Norway | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 
 

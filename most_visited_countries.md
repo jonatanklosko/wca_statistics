@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 16 July 2023*
+*Updated on 19 July 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -87,7 +87,7 @@
 | 15 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 15 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 14 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
-| 17 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
+| 18 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 22 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 17 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 20 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |

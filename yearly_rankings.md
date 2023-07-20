@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 16 July 2023*
+*Updated on 19 July 2023*
 
 
 ### Rubik's Cube - Single
@@ -191,7 +191,7 @@
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **12.78** | United States | [4BLD in a Madison Hall 2023](https://www.worldcubeassociation.org/competitions/4BLDinaMadisonHall2023) | DNF, DNF, 12.78 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **13.24** | Canada | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | DNF, 15.07, 13.24 |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **13.71** | Australia | [Please Be Quiet Brisbane 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2023) | 13.71, 15.38, 17.59 |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **14.67** | United States | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023) | 20.75, 15.96, 14.67 |
+| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **14.52** | United States | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | DNF, 16.65, 14.52 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **15.02** | Poland | [Cube Factory 2023](https://www.worldcubeassociation.org/competitions/CubeFactory2023) | DNF, 15.02, DNF |
 | [Keita Hayakawa (早川慶太)](https://www.worldcubeassociation.org/persons/2022HAYA03) | **15.25** | Japan | [Challenge BLD 2023](https://www.worldcubeassociation.org/competitions/TokyoChallengeBLDI2023) | 15.25, DNF, DNF |
 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **15.52** | Hong Kong, China | [Bay Area Speedcubin' 42 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin422023) | 24.10, 15.52, 32.18 |
@@ -227,7 +227,7 @@
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **20** | United States | [MBLD Madison Meeting Room 2023](https://www.worldcubeassociation.org/competitions/MBLDinaMadisonMeetingRoom2023) | 20, 23, 31 |
 | [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | **20** | France | [Pllouvara Open 2023](https://www.worldcubeassociation.org/competitions/PllouvaraOpen2023) | 22, 20, 25 |
 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) | **20** | France | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023) | 25, 22, 20 |
-| [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **20** | United States | [4BLD in a Madison Hall 2023](https://www.worldcubeassociation.org/competitions/4BLDinaMadisonHall2023) | 24, 25, 20 |
+| [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | **20** | United States | [Westport Warmup 2023](https://www.worldcubeassociation.org/competitions/WestportWarmup2023) | 22, 20, 23 |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -237,12 +237,12 @@
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **21.00** | United States | [MBLD Madison Meeting Room 2023](https://www.worldcubeassociation.org/competitions/MBLDinaMadisonMeetingRoom2023) | 20, 21, 22 |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **21.33** | Singapore | [Please Be Quiet Bukit Jalil 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBukitJalil2023) | 23, 21, 20 |
 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | **21.33** | China | [FMC London Summer 2023](https://www.worldcubeassociation.org/competitions/FMCLondonSummer2023) | 23, 21, 20 |
+| [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | **21.67** | United States | [Westport Warmup 2023](https://www.worldcubeassociation.org/competitions/WestportWarmup2023) | 22, 20, 23 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **22.00** | Argentina | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023) | 27, 21, 18 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **22.00** | Indonesia | [FM Chalet SG 2023](https://www.worldcubeassociation.org/competitions/FMChaletSG2023) | 20, 21, 25 |
 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | **22.00** | Sweden | [FMC London Summer 2023](https://www.worldcubeassociation.org/competitions/FMCLondonSummer2023) | 21, 23, 22 |
 | [Takumi Tamura (田村匠)](https://www.worldcubeassociation.org/persons/2019TAMU01) | **22.00** | Japan | [Perth FMC Day 2023](https://www.worldcubeassociation.org/competitions/PerthFMCDay2023) | 21, 21, 24 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **22.00** | Poland | [Kostelec Nonstop Cubing 2023](https://www.worldcubeassociation.org/competitions/KostelecNonstopCubing2023) | 23, 22, 21 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **22.33** | Germany | [Brussels Blind Open 2023](https://www.worldcubeassociation.org/competitions/BrusselsBlindOpen2023) | 20, 25, 22 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -255,9 +255,9 @@
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **7.06** | United States | [Cal Poly SLO Spring 2023](https://www.worldcubeassociation.org/competitions/CalPolySLOSpring2023) | 11.71, 7.06, 16.88, 12.21, 13.10 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **7.08** | United States | [You Only Need a 3x3 AZ 2023](https://www.worldcubeassociation.org/competitions/YouOnlyNeeda3x3AZ2023) | 8.05, 10.10, 7.08, 9.96, 8.57 |
 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | **7.08** | Argentina | [Abierto de Pascuas 2023](https://www.worldcubeassociation.org/competitions/AbiertoDePascuas2023) | 12.63, 13.57, 11.63, 11.99, 7.08 |
+| [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **7.25** | Hong Kong, China | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | 13.09, 7.25, 11.28, 9.98, DNF |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **7.31** | United States | [Music City Speedsolving 2023](https://www.worldcubeassociation.org/competitions/MusicCitySpeedsolving2023) | 12.46, 8.94, 7.31, 10.87, 10.31 |
 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | **7.41** | Philippines | [WCC Speedcubing Open 2023](https://www.worldcubeassociation.org/competitions/WCCSpeedcubingOpen2023) | 10.11, 7.41, 9.57, 10.00, 9.64 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **7.58** | United States | [Lynnwood Winter 2023](https://www.worldcubeassociation.org/competitions/LynnwoodWinter2023) | 11.33, 13.92, 13.09, 7.58, 9.03 |
 
 ### 3x3x3 One-Handed - Average
 
@@ -331,8 +331,8 @@
 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | **1.67** | New Zealand | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023) | 1.62, 3.56, 1.39, 1.87, 1.51 |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **1.71** | Poland | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) | 2.18, 1.63, 1.82, 1.68, 1.62 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.76** | United States | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023) | 2.34, 2.29, 1.45, 1.53, 1.36 |
+| [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | **1.77** | Australia | [Warm Up Sydney Sunday 2023](https://www.worldcubeassociation.org/competitions/WarmUpSydneySunday2023) | 1.52, 1.28, 4.09, 1.89, 1.89 |
 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | **1.78** | United States | [ODU Big Blue Spring 2023](https://www.worldcubeassociation.org/competitions/ODUBigBlueSpring2023) | 1.39, 2.40, 1.33, 2.15, 1.79 |
-| [Huining Huang (黄徽宁)](https://www.worldcubeassociation.org/persons/2019HUAH03) | **1.79** | China | [NTU Speedcubing 2023](https://www.worldcubeassociation.org/competitions/NTUSpeedcubing2023) | 2.01, 1.69, 3.37, 1.64, 1.66 |
 
 ### Rubik's Clock - Single
 
@@ -375,24 +375,24 @@
 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | **1.06** | Spain | [Baztan Open 2023](https://www.worldcubeassociation.org/competitions/BaztanOpen2023) | 2.88, 3.19, 3.88, 4.98, 1.06 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **1.15** | United States | [Everything in Evanston A 2023](https://www.worldcubeassociation.org/competitions/EverythinginEvanstonA2023) | 2.62, 3.36, 1.15, 3.50, 2.98 |
 | [Federico da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) | **1.17** | Argentina | [Litoral Cubea 2023](https://www.worldcubeassociation.org/competitions/LitoralCubea2023) | 2.61, 3.93, 2.53, 2.68, 1.17 |
+| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **1.18** | Germany | [Czech Open 2023](https://www.worldcubeassociation.org/competitions/CzechOpen2023) | 3.34, 5.04, 1.18, 3.11, 2.89 |
+| [Vojtěch Kundera](https://www.worldcubeassociation.org/persons/2015KUND04) | **1.21** | Czech Republic | [Czech Open 2023](https://www.worldcubeassociation.org/competitions/CzechOpen2023) | 3.30, 2.64, 1.21, 2.72, 2.09 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.21** | United States | [Bluegrass Bash 2023](https://www.worldcubeassociation.org/competitions/BluegrassBash2023) | 2.37, 1.21, 2.93, 3.28, 4.16 |
-| [José David Rendón Martínez](https://www.worldcubeassociation.org/persons/2018MART75) | **1.26** | Colombia | [Monterrey Bogotá 2023](https://www.worldcubeassociation.org/competitions/MonterreyBogota2023) | 2.57, 1.26, 3.39, 2.57, 2.95 |
-| [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | **1.29** | Spain | [Baztan Open 2023](https://www.worldcubeassociation.org/competitions/BaztanOpen2023) | 2.41, 3.45, 3.97, 3.40, 1.29 |
 
 ### Skewb - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.53** | United States | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | 1.89, 1.14, 1.55, 1.14, 4.15 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **1.64** | United States | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023) | 1.38, 1.63, 2.11, 1.37, 1.92 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **1.91** | Spain | [Nhood Alcalá Mystery Open 2023](https://www.worldcubeassociation.org/competitions/NhoodAlcalaMysteryOpen2023) | 4.10, 1.90, 1.83, 1.92, 1.91 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.92** | United States | [Winnipeg Open 2023](https://www.worldcubeassociation.org/competitions/WinnipegOpen2023) | 1.89, 2.07, 1.80, 1.61, 2.10 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **2.07** | United States | [Bluegrass Bash 2023](https://www.worldcubeassociation.org/competitions/BluegrassBash2023) | 1.99, 2.12, 2.09, 1.53, 2.64 |
+| [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | **2.11** | Czech Republic | [GLS IV 2023](https://www.worldcubeassociation.org/competitions/GLSIV2023) | 1.52, 1.37, 2.48, 5.28, 2.33 |
+| [Charles Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | **2.15** | China | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | 3.99, 2.10, 2.20, 2.14, 1.86 |
+| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **2.16** | United States | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | 4.04, 2.24, 2.15, 2.09, 1.95 |
 | [Elias Malomgré](https://www.worldcubeassociation.org/persons/2017MALO02) | **2.16** | Belgium | [Ermelo Cubing B 2023](https://www.worldcubeassociation.org/competitions/ErmeloCubingB2023) | 2.49, 1.97, 2.49, 1.82, 2.02 |
 | [Noriyuki Okada (岡田典之)](https://www.worldcubeassociation.org/persons/2014OKAD01) | **2.19** | Japan | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023) | 2.11, 2.02, 5.41, 2.45, 1.64 |
 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | **2.19** | United States | [High Plains Solving 2023](https://www.worldcubeassociation.org/competitions/HighPlainsSolving2023) | 2.10, 3.33, 1.90, 2.58, 1.75 |
-| [Emilio Alberto Rodríguez Jiménez](https://www.worldcubeassociation.org/persons/2018JIME14) | **2.19** | Mexico | [TizaCubing 2023](https://www.worldcubeassociation.org/competitions/TizaCubing2023) | 1.53, 1.96, 2.19, 2.97, 2.42 |
-| [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | **2.20** | Poland | [Energy Cube Koło 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKolo2023) | 3.48, 1.68, 2.21, 2.70, 1.63 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **2.21** | Poland | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023) | 2.30, 2.26, 1.47, 2.46, 2.08 |
 
 ### Square-1 - Single
 
@@ -496,8 +496,8 @@
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **44/48 58:51** | Poland | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) | 44/48 58:51 |
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **43/48 59:16** | New Zealand | [Auckland Mind Games 2023](https://www.worldcubeassociation.org/competitions/AucklandMindGames2023) | DNF, 43/48 59:16 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **48/58 1:00:00** | Poland | [Lužice Open 2023](https://www.worldcubeassociation.org/competitions/LuziceOpen2023) | 48/58 1:00:00 |
+| [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **39/41 58:11** | Canada | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | 39/41 58:11, 2/2 0:55 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **43/50 59:30** | Poland | [BrizZon Side Open II 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2023) | DNS, 43/50 59:30 |
-| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **40/45 57:12** | Australia | [February Fitzroy Fun 2023](https://www.worldcubeassociation.org/competitions/FebruaryFitzroyFun2023) | 40/45 57:12 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

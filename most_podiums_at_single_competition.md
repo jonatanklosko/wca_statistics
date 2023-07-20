@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 July 2023*
+*Updated on 19 July 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -821,6 +821,7 @@
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Sumatra Open 2016](https://www.worldcubeassociation.org/competitions/SumatraOpen2016/results/podiums) |
+| 10 | [Arian Geravandi (آرین گراوندی)](https://www.worldcubeassociation.org/persons/2015GERA02) | [Kerman Summer 2023](https://www.worldcubeassociation.org/competitions/KermanSummer2023/results/podiums) |
 | 16 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2019](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2019/results/podiums) |
 | 15 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2018](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2018/results/podiums) |
 | 14 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2022](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2022/results/podiums) |

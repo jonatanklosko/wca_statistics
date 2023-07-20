@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 16 July 2023*
+*Updated on 19 July 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -116,6 +116,7 @@
 | 2 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
 | 2 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
+| 2 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 2 | [Chang Jee-Hoon](https://www.worldcubeassociation.org/persons/2007JEEH01) |
 | 2 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 2 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) |
@@ -173,7 +174,6 @@
 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 1 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) |
 | 1 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) |
-| 1 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1 | [Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01) |
 | 1 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 1 | [Christian Kaserer](https://www.worldcubeassociation.org/persons/2009KASE02) |

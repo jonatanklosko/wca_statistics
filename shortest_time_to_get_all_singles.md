@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 July 2023*
+*Updated on 19 July 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -15,6 +15,7 @@
 | 210 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) |
 | 239 | [Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36) |
 | 253 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
+| 258 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) |
 | 266 | [Yikang Xie (谢轶康)](https://www.worldcubeassociation.org/persons/2016XIEY03) |
 | 280 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 301 | [Bernhard Brodowsky](https://www.worldcubeassociation.org/persons/2016BROD01) |
@@ -53,6 +54,7 @@
 | 582 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) |
 | 588 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) |
 | 594 | [Bowen Xiao (肖博文)](https://www.worldcubeassociation.org/persons/2017XIAO09) |
+| 597 | [Jared Blanco](https://www.worldcubeassociation.org/persons/2021BLAN02) |
 | 601 | [Andreas Pohl](https://www.worldcubeassociation.org/persons/2012POHL01) |
 | 602 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
 | 615 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
@@ -70,6 +72,7 @@
 | 685 | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |
 | 689 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 700 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) |
+| 700 | [Elias Lampert](https://www.worldcubeassociation.org/persons/2021LAMP01) |
 | 728 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) |
 | 729 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 734 | [Shawn Lee Zhi Xuan (李致轩)](https://www.worldcubeassociation.org/persons/2017XUAN03) |
@@ -260,6 +263,7 @@
 | 1764 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) |
 | 1771 | [Serhii Mormul (Сергій Мормуль)](https://www.worldcubeassociation.org/persons/2012MORM01) |
 | 1772 | [Emilio Alberto Rodríguez Jiménez](https://www.worldcubeassociation.org/persons/2018JIME14) |
+| 1772 | [Timo Forsthofer](https://www.worldcubeassociation.org/persons/2018FORS03) |
 | 1778 | [Jolo Endona](https://www.worldcubeassociation.org/persons/2014ENDO01) |
 | 1778 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 1785 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
@@ -372,6 +376,7 @@
 | 2695 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) |
 | 2702 | [Ivo Bakker](https://www.worldcubeassociation.org/persons/2009BAKK01) |
 | 2743 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
+| 2745 | [Luke Meszar](https://www.worldcubeassociation.org/persons/2016MESZ01) |
 | 2756 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) |
 | 2759 | [Taylor Cookmeyer](https://www.worldcubeassociation.org/persons/2010COOK01) |
 | 2778 | [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01) |

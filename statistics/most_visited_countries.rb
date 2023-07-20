@@ -20,6 +20,7 @@ class MostVisitedCountries < Statistic
         WHERE competition.countryId -- Ignore Multiple Countries used for continental FMC competitions.
           NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')
         GROUP BY personId
+        ORDER BY visited_countries DESC
         LIMIT 100
       ) AS visited_countries_by_person
       JOIN Persons person ON person.wca_id = personId AND person.subId = 1

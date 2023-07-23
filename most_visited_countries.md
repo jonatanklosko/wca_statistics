@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 19 July 2023*
+*Updated on 22 July 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -92,11 +92,11 @@
 | 14 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 14 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 14 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 14 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 14 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |
 | 14 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 14 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 14 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
-| 13 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 13 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
 | 13 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) |

@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 19 July 2023*
+*Updated on 22 July 2023*
 
 
 ### World

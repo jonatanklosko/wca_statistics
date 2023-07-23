@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 July 2023*
+*Updated on 22 July 2023*
 
 
 ### Rubik's Cube - Single
@@ -56,13 +56,13 @@
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **1.01** | United States | [Pioneer Valley Cubing B 2023](https://www.worldcubeassociation.org/competitions/PioneerValleyCubingB2023) | 0.91, 0.97, 0.71, 1.16, 2.91 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **1.12** | Russia | [Zreče Open 2023](https://www.worldcubeassociation.org/competitions/ZreceOpen2023) | 1.36, 1.08, 1.05, 0.94, 1.22 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **1.13** | China | [Medan Speedcubing Festival 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubingFestival2023) | 1.19, 0.97, 0.80, 1.23, 1.68 |
+| [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) | **1.13** | Israel | [Israel Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelChampionship2023) | 0.95, 1.07, 1.86, 1.12, 1.19 |
 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | **1.14** | Australia | [Speedcubing at Seaworks 2023](https://www.worldcubeassociation.org/competitions/SpeedcubingatSeaworks2023) | 1.06, 1.19, 1.14, 2.03, 1.08 |
 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **1.17** | Russia | [Tbilisi Cube Day 2023](https://www.worldcubeassociation.org/competitions/TbilisiCubeDay2023) | 1.09, 1.28, 1.08, 2.80, 1.14 |
 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **1.18** | China | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023) | 1.04, 1.21, 1.15, 1.64, 1.17 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **1.23** | Netherlands | [Getafe Continúa 2023](https://www.worldcubeassociation.org/competitions/GetafeContinua2023) | 1.19, 1.31, 1.21, 1.30, 1.14 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **1.25** | United States | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023) | 1.17, 1.16, 1.66, 1.29, 1.29 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **1.27** | Denmark | [SSL II Hässleholm 2023](https://www.worldcubeassociation.org/competitions/SSLIIHassleholm2023) | 1.23, 1.13, 1.46, 1.01, 1.93 |
-| [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) | **1.29** | Georgia | [Georgia Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaOpen2023) | 1.26, 1.29, 1.32, 1.20, 1.89 |
 
 ### 4x4x4 Cube - Single
 
@@ -242,7 +242,7 @@
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **22.00** | Indonesia | [FM Chalet SG 2023](https://www.worldcubeassociation.org/competitions/FMChaletSG2023) | 20, 21, 25 |
 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | **22.00** | Sweden | [FMC London Summer 2023](https://www.worldcubeassociation.org/competitions/FMCLondonSummer2023) | 21, 23, 22 |
 | [Takumi Tamura (田村匠)](https://www.worldcubeassociation.org/persons/2019TAMU01) | **22.00** | Japan | [Perth FMC Day 2023](https://www.worldcubeassociation.org/competitions/PerthFMCDay2023) | 21, 21, 24 |
-| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **22.00** | Poland | [Kostelec Nonstop Cubing 2023](https://www.worldcubeassociation.org/competitions/KostelecNonstopCubing2023) | 23, 22, 21 |
+| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **22.00** | Poland | [3 FMC Rounds in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/3FMCRoundsinRzeszow2023) | 20, 23, 23 |
 
 ### 3x3x3 One-Handed - Single
 

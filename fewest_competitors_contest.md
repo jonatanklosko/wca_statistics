@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 July 2023*
+*Updated on 22 July 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -74,6 +74,7 @@
 | 9 | [Fewest Moves Bogotá 2022](https://www.worldcubeassociation.org/competitions/FewestMovesBogota2022) |
 | 9 | [Fewest Moves LA 2019](https://www.worldcubeassociation.org/competitions/FewestMovesLA2019) |
 | 9 | [Finnish FMC Championship 2021](https://www.worldcubeassociation.org/competitions/FinnishFMCChampionship2021) |
+| 9 | [GA Cubers Study July 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyJuly2023) |
 | 9 | [Gem City Airplane Mode 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneMode2023) |
 | 9 | [Jönköpingsligan 1: Waterloo 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan1Waterloo2023) |
 | 9 | [Jönköpingsligan 5: Euphoria 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan5Euphoria2023) |

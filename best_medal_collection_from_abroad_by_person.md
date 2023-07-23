@@ -1,17 +1,17 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 July 2023*
+*Updated on 22 July 2023*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **568** | 362 | 244 | 1174 |
+| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **568** | 363 | 243 | 1174 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 200 | 125 | 659 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **214** | 116 | 80 | 410 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **199** | 50 | 18 | 267 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **169** | 153 | 111 | 433 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **153** | 57 | 27 | 237 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **155** | 57 | 27 | 239 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **129** | 71 | 38 | 238 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **122** | 146 | 131 | 399 |
@@ -39,8 +39,8 @@
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **68** | 84 | 72 | 224 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | **67** | 44 | 49 | 160 |
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
+| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **61** | 32 | 11 | 104 |
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **60** | 42 | 29 | 131 |
-| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **60** | 26 | 10 | 96 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **58** | 63 | 69 | 190 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **57** | 64 | 37 | 158 |

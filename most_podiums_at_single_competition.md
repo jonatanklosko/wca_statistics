@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 July 2023*
+*Updated on 22 July 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -926,6 +926,7 @@
 | 10 | [Hassen Kallala](https://www.worldcubeassociation.org/persons/2016KALL01) | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019/results/podiums) |
 | 10 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |
 | 12 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2022](https://www.worldcubeassociation.org/competitions/IsraelChampionship2022/results/podiums) |
+| 10 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelChampionship2023/results/podiums) |
 | 10 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | [Pittsburgh Fall 2019](https://www.worldcubeassociation.org/competitions/PittsburghFall2019/results/podiums) |
 | 11 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019/results/podiums) |
 | 11 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Pahang Cube Open 2019](https://www.worldcubeassociation.org/competitions/PahangCubeOpen2019/results/podiums) |

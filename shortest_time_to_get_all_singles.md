@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 July 2023*
+*Updated on 22 July 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -73,6 +73,7 @@
 | 689 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 700 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) |
 | 700 | [Elias Lampert](https://www.worldcubeassociation.org/persons/2021LAMP01) |
+| 726 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
 | 728 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) |
 | 729 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 734 | [Shawn Lee Zhi Xuan (李致轩)](https://www.worldcubeassociation.org/persons/2017XUAN03) |

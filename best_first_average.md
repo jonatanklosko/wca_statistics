@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 19 July 2023*
+*Updated on 22 July 2023*
 
 
 ### Rubik's Cube
@@ -26,7 +26,7 @@
 | 1.75 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) |
 | 2.20 | [Tim Cents](https://www.worldcubeassociation.org/persons/2022CENT02) |
 | 2.25 | [Marco Giordano](https://www.worldcubeassociation.org/persons/2019GIOR02) |
-| 2.39 | [Ng Tsz Hei](https://www.worldcubeassociation.org/persons/2023HEIN03) |
+| 2.39 | [Ng Tsz Hei (吳紫熙)](https://www.worldcubeassociation.org/persons/2023HEIN03) |
 | 2.42 | [Charinwit Harnthavornchai (ชรินทร์วิชญ์ หาญถาวรชัย)](https://www.worldcubeassociation.org/persons/2022HARN04) |
 | 2.57 | [Charles Abemayor](https://www.worldcubeassociation.org/persons/2020ABEM01) |
 | 2.62 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) |

@@ -1,11 +1,11 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
-| 96 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | Finland | [Helsinki Open 2010](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2010) |  |
+| 97 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | Finland | [Helsinki Open 2010](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2010) |  |
 | 77 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | Denmark | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015) | [Bornholm Open 2023](https://www.worldcubeassociation.org/competitions/BornholmOpen2023) |
 | 77 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | Denmark | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015) | [Bornholm Open 2023](https://www.worldcubeassociation.org/competitions/BornholmOpen2023) |
 | 67 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | Denmark | [Danish Open 2008](https://www.worldcubeassociation.org/competitions/DanishOpen2008) | [Faaborg Open 2019](https://www.worldcubeassociation.org/competitions/FaaborgOpen2019) |
@@ -17,8 +17,8 @@
 | 51 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Chinese Taipei | [Taipei Open 2017](https://www.worldcubeassociation.org/competitions/TaipeiOpen2017) | [Taiwan Blind Day 2023](https://www.worldcubeassociation.org/competitions/TaiwanBlindDay2023) |
 | 49 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) | Bolivia | [Santa Cruz Open 2015](https://www.worldcubeassociation.org/competitions/SantaCruzOpen2015) | [Unifranz Santa Cruz 2019](https://www.worldcubeassociation.org/competitions/UnifranzSantaCruz2019) |
 | 47 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | United Kingdom | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) | [Manchester Open 2020](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020) |
-| 45 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 45 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | United Kingdom | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) |
+| 44 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 43 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) | Sweden | [Swedish Championship 2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012) | [SSL 1 Åkers Styckebruk 2019](https://www.worldcubeassociation.org/competitions/SSL1AkersStyckebruk2019) |
 | 41 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) | Japan | [JRCA Kansai Summer 2009](https://www.worldcubeassociation.org/competitions/JRCAKansaiSummer2009) | [East Osaka 2012](https://www.worldcubeassociation.org/competitions/EastOsaka2012) |
 | 39 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | Poland | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
@@ -74,8 +74,8 @@
 | 23 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | Japan | [Osaka 2011](https://www.worldcubeassociation.org/competitions/Osaka2011) | [Hiroshima 2012](https://www.worldcubeassociation.org/competitions/HiroshimaOpen2012) |
 | 23 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | Italy | [Bologna NxN Spring 2019](https://www.worldcubeassociation.org/competitions/BolognaNxNSpring2019) | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022) |
 | 23 | [Branko Kobal](https://www.worldcubeassociation.org/persons/2009KOBA03) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
-| 23 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 23 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
+| 23 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 23 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 23 | [Mateo Rodríguez](https://www.worldcubeassociation.org/persons/2013RODR11) | Uruguay | [Montevideo Open 2014](https://www.worldcubeassociation.org/competitions/MontevideoOpen2014) | [Stickers Open 2018](https://www.worldcubeassociation.org/competitions/StickersPuntadelEsteOpen2018) |
 | 22 | [Justin Jaffray](https://www.worldcubeassociation.org/persons/2008JAFF01) | Canada | [Toronto Open Fall 2008](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2008) | [Vancouver Winter 2011](https://www.worldcubeassociation.org/competitions/VancouverWinter2011) |

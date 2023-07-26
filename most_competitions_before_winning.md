@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 
 ### Rubik's Cube
@@ -84,6 +84,7 @@
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 83 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) |
+| 58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Sioux City Sunday 2023](https://www.worldcubeassociation.org/competitions/SiouxCitySunday2023) |
 | 52 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022) |
 | 43 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Rheinland-Pfalz Open 2022](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2022) |
 | 42 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [UK New Year Countdown 2023](https://www.worldcubeassociation.org/competitions/UKNewYearCountdown2023) |
@@ -92,7 +93,6 @@
 | 35 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Eagle of the East 2018](https://www.worldcubeassociation.org/competitions/EagleoftheEast2018) |
 | 35 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) |
 | 33 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) | [Vardagscubing I - Uppsala 2022](https://www.worldcubeassociation.org/competitions/VardagscubingIUppsala2022) |
-| 32 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | [Finnish Championship 2016](https://www.worldcubeassociation.org/competitions/FinnishChampionship2016) |
 
 ### 3x3x3 Blindfolded
 
@@ -167,7 +167,7 @@
 | 42 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) | [Macedonian Nationals 2019](https://www.worldcubeassociation.org/competitions/MacedonianNationals2019) |
 | 41 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Faaborg Open 2019](https://www.worldcubeassociation.org/competitions/FaaborgOpen2019) |
 | 41 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | [Charleston Spring 2018](https://www.worldcubeassociation.org/competitions/CharlestonSpring2018) |
-| 39 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | [Aspe Open 2013](https://www.worldcubeassociation.org/competitions/AspeOpen2013) |
+| 40 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [Torrelavega Open 2023](https://www.worldcubeassociation.org/competitions/TorrelavegaOpen2023) |
 
 ### Rubik's Clock
 

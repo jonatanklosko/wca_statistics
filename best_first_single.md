@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 
 ### Rubik's Cube
@@ -208,11 +208,11 @@
 | 8.70 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
 | 9.01 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 9.46 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) |
+| 9.58 | [David Okoro-Sokoh](https://www.worldcubeassociation.org/persons/2022OKOR01) |
 | 9.61 | [Dylan J. Stangler](https://www.worldcubeassociation.org/persons/2019STAN14) |
 | 10.10 | [Kamal Kandpal](https://www.worldcubeassociation.org/persons/2018KAND02) |
 | 10.18 | [Caique Crispim de Lima](https://www.worldcubeassociation.org/persons/2018LIMA24) |
 | 10.22 | [Lee Jae-hyuk (이재혁)](https://www.worldcubeassociation.org/persons/2019JAEH01) |
-| 10.29 | [Boqin Zhao (赵博钦)](https://www.worldcubeassociation.org/persons/2017ZHAO32) |
 
 ### 4x4x4 Blindfolded
 

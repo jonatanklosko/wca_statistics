@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 
 ### Rubik's Cube
@@ -85,13 +85,13 @@
 | 25.35 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/by_person#2016YONG02) |
 | 25.69 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023/results/by_person#2018LOPE22) |
 | 26.29 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
+| 26.49 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/by_person#2018LOPE22) |
 | 27.07 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
 | 27.20 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023/results/by_person#2018LOPE22) |
 | 27.22 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023/results/by_person#2018LOPE22) |
 | 27.26 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/by_person#2018LOPE22) |
 | 27.26 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023/results/by_person#2018LOPE22) |
-| 27.37 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023/results/by_person#2018LOPE22) |
-| 27.39 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023/results/by_person#2018LOPE22) |
+| 27.27 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 
@@ -114,14 +114,14 @@
 | ---: | :--- | :--- |
 | 2.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 2.89 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
+| 3.11 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/by_person#2021ELIA01) |
 | 3.24 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/by_person#2015CHER07) |
 | 3.27 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Naperville Winter B 2022](https://www.worldcubeassociation.org/competitions/NapervilleWinterB2022/results/by_person#2018THOM29) |
 | 3.27 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023/results/by_person#2021ELIA01) |
 | 3.28 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
+| 3.28 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/by_person#2021ELIA01) |
 | 3.30 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Sharon Forks Qualifier 2023](https://www.worldcubeassociation.org/competitions/SharonForksQualifier2023/results/by_person#2015CHER07) |
 | 3.30 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/by_person#2015CHER07) |
-| 3.30 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023/results/by_person#2021ELIA01) |
-| 3.30 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023/results/by_person#2021ELIA01) |
 
 ### Skewb
 
@@ -144,14 +144,14 @@
 | ---: | :--- | :--- |
 | 4.28 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN26) |
 | 4.40 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023/results/by_person#2021DUNA01) |
+| 4.60 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017SIAU02) |
+| 4.60 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017AGGA01) |
 | 4.63 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023/results/by_person#2016EPST02) |
 | 4.69 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Tri Cities Fall 2022](https://www.worldcubeassociation.org/competitions/TriCitiesFall2022/results/by_person#2017AGGA01) |
 | 4.76 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023/results/by_person#2016EPST02) |
 | 4.77 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2017AGGA01) |
+| 4.80 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017SIAU02) |
 | 4.86 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
-| 4.87 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Abbotsford Begins 2022](https://www.worldcubeassociation.org/competitions/AbbotsfordBegins2022/results/by_person#2016EPST02) |
-| 4.87 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Spring Warmup 2023](https://www.worldcubeassociation.org/competitions/DFWSpringWarmup2023/results/by_person#2019BAUM02) |
-| 4.91 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
 
 ### 3x3x3 With Feet
 

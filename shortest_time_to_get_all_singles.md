@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -287,6 +287,7 @@
 | 1855 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 1863 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 1874 | [Sergio Bulux](https://www.worldcubeassociation.org/persons/2014BULU01) |
+| 1876 | [Hannes Müller](https://www.worldcubeassociation.org/persons/2018MULL07) |
 | 1889 | [Peter Weyers](https://www.worldcubeassociation.org/persons/2018WEYE01) |
 | 1897 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) |
 | 1898 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |

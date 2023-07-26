@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 
 ### Rubik's Cube
@@ -32,7 +32,7 @@
 | 0.02 | [John Mackie](https://www.worldcubeassociation.org/persons/2016MACK07) | 6.77 | 6.79 | [Phillips Exeter Cube Day 2016](https://www.worldcubeassociation.org/competitions/PhillipsExeterCubeDay2016/results/by_person#2016MACK07) |
 | 0.02 | [Elijahquim Rafael Peñafiel](https://www.worldcubeassociation.org/persons/2019PENA04) | 7.07 | 7.09 | [Luzon Championship 2019](https://www.worldcubeassociation.org/competitions/LuzonChampionship2019/results/by_person#2019PENA04) |
 | 0.02 | [Marilena Tsakonopoulou](https://www.worldcubeassociation.org/persons/2017TSAK01) | 7.32 | 7.34 | [Greece Spring Open 2017](https://www.worldcubeassociation.org/competitions/GreeceSpringOpen2017/results/by_person#2017TSAK01) |
-| 0.03 | [Huining Huang (黄徽宁)](https://www.worldcubeassociation.org/persons/2019HUAH03) | 1.27 | 1.30 | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019HUAH03) |
+| 0.03 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.16 | 1.19 | [Voula Summer Open 2023](https://www.worldcubeassociation.org/competitions/VoulaSummerOpen2023/results/by_person#2012PATE01) |
 
 ### 4x4x4 Cube
 

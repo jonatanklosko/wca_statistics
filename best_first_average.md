@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 
 ### Rubik's Cube
@@ -114,6 +114,7 @@
 | First average | Person |
 | ---: | :--- |
 | 26.67 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 28.67 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
 | 29.67 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) |
 | 29.67 | [Cheng-Wei Lin (林澄蔚)](https://www.worldcubeassociation.org/persons/2015LINC03) |
 | 30.00 | [Inha Woo (우인하)](https://www.worldcubeassociation.org/persons/2010INHA01) |
@@ -122,7 +123,6 @@
 | 30.33 | [Viljo Elo](https://www.worldcubeassociation.org/persons/2016ELOV01) |
 | 30.33 | [Roy Tamir](https://www.worldcubeassociation.org/persons/2014TAMI01) |
 | 30.67 | [Xinyu Lu (卢鑫宇)](https://www.worldcubeassociation.org/persons/2014LUXI05) |
-| 30.67 | [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) |
 
 ### 3x3x3 One-Handed
 
@@ -208,11 +208,11 @@
 | 10.15 | [Ray Ng Qi Rui (黄启瑞)](https://www.worldcubeassociation.org/persons/2022RUIR01) |
 | 10.18 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
 | 10.52 | [Nikolas Palassis](https://www.worldcubeassociation.org/persons/2019PALA11) |
+| 10.59 | [David Okoro-Sokoh](https://www.worldcubeassociation.org/persons/2022OKOR01) |
 | 10.68 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2022THUY01) |
 | 10.87 | [Diogo Miguel Alves Guerreiro](https://www.worldcubeassociation.org/persons/2019GUER03) |
 | 11.05 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) |
 | 11.44 | [Tatsuya Kusanagi (草彅達也)](https://www.worldcubeassociation.org/persons/2018KUSA02) |
-| 11.56 | [Kamal Kandpal](https://www.worldcubeassociation.org/persons/2018KAND02) |
 
 ### 4x4x4 Blindfolded
 

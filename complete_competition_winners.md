@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -235,6 +235,7 @@
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | United Kingdom | [FMC Europe 2019](https://www.worldcubeassociation.org/competitions/FMCEurope2019) |
 | 1 | [Hyo-Min Seo (서효민)](https://www.worldcubeassociation.org/persons/2013SEOH01) | Republic of Korea | [Korean Spring Picnic 2017](https://www.worldcubeassociation.org/competitions/KoreanSpringPicnic2017) |
 | 1 | [Iann Jerome Perez](https://www.worldcubeassociation.org/persons/2016PERE06) | Philippines | [NLC Anniversary 2016](https://www.worldcubeassociation.org/competitions/NLCAnniversary2016) |
+| 1 | [Jack Bellomy](https://www.worldcubeassociation.org/persons/2019BELL10) | United States | [Unorthodox Blocks Colorado 2023](https://www.worldcubeassociation.org/competitions/UnorthodoxBlocksColorado2023) |
 | 1 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | Australia | [Melbourne Minimal Moves 2022](https://www.worldcubeassociation.org/competitions/MelbourneMinimalMoves2022) |
 | 1 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | United States | [GA Cubers Study July 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyJuly2023) |
 | 1 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | United States | [GA Cubers Study May 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyMay2023) |

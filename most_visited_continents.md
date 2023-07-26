@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 | Continents | Person |
 | ---: | :--- |
@@ -40,6 +40,7 @@
 | 5 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
 | 5 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
 | 5 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 5 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
 | 5 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 5 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 5 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) |
@@ -97,7 +98,6 @@
 | 4 | [Yu Gu (谷雨)](https://www.worldcubeassociation.org/persons/2013GUYU01) |
 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
 | 4 | [Yanfeng Zhu (朱艳枫)](https://www.worldcubeassociation.org/persons/2013ZHUY02) |
-| 4 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
 | 4 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 4 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) |
 | 4 | [Karen Brooks](https://www.worldcubeassociation.org/persons/2015BROO01) |

@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -63,9 +63,11 @@
 | 17 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 17 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 16 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
-| 16 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
+| 16 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 16 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 16 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 16 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
+| 16 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 15 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 15 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |
@@ -75,13 +77,11 @@
 | 15 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
 | 15 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 15 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
-| 15 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
-| 15 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 15 | [Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01) |
 | 15 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
-| 14 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
 | 14 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 14 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
+| 14 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
 | 14 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 14 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 14 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |

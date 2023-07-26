@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -32,6 +32,7 @@
 | 9 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) |
 | 8 | [Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01) |
 | 8 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) |
+| 8 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 8 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
 | 8 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
 | 8 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
@@ -51,7 +52,6 @@
 | 6 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) |
 | 6 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 6 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
-| 6 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
@@ -101,6 +101,7 @@
 | 3 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 3 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
 | 3 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
+| 3 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 3 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 3 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 3 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
@@ -125,6 +126,7 @@
 | 2 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
 | 2 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
 | 2 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
+| 2 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) |
 | 2 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) |
@@ -140,7 +142,6 @@
 | 2 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 2 | [Masayuki Akimoto (秋元正行)](https://www.worldcubeassociation.org/persons/2003AKIM01) |
 | 2 | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) |
-| 2 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 2 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) |
 | 2 | [Mirek Goljan](https://www.worldcubeassociation.org/persons/2003GOLJ01) |
 | 2 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
@@ -184,7 +185,6 @@
 | 1 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |
 | 1 | [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01) |
 | 1 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
-| 1 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) |
 | 1 | [Fakhri Raihaan](https://www.worldcubeassociation.org/persons/2010RAIH01) |
 | 1 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
 | 1 | [Grant Tregay](https://www.worldcubeassociation.org/persons/2003TREG02) |

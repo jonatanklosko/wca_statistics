@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 
 ### Rubik's Cube
@@ -117,12 +117,12 @@
 | 22.10 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 21, 21, 24, 23, 23, 22, 22, 24, 24, 19, 20, 21 |
 | 22.30 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | 27, 23, 22, 21, 22, 22, 22, 23, 22, 21, 23, 23 |
 | 22.40 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 20, 20, 23, 25, 20, 23, 22, 25, 25, 22, 21, 23 |
+| 22.80 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 22, 21, 24, 23, 22, 23, 28, 25, 24, 22, 21, 22 |
 | 23.00 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 21, 26, 29, 22, 24, 25, 23, 23, 22, 23, 21, 21 |
+| 23.10 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 22, 23, 23, 23, 22, 23, 23, 29, 25, 24, 18, 23 |
 | 23.20 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 21, 26, 24, 23, 21, 23, 24, 25, 23, 23, 24, 22 |
-| 23.20 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 26, 23, 23, 22, 28, 24, 22, 21, 24, 23, 22, 23 |
+| 23.30 | [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | 22, 20, 25, 22, 26, 23, 24, 23, 25, DNF, 18, 23 |
 | 23.40 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 22, 23, 22, 22, 23, 23, 27, 25, 22, 29, 23, 24 |
-| 23.50 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 22, 22, 24, 26, 26, 21, 27, 23, 26, 24, 21, 21 |
-| 23.50 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22 |
 
 ### 3x3x3 One-Handed
 
@@ -163,11 +163,11 @@
 | 1.74 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.17, 2.60, 1.80, 2.26, 2.01, 1.64, 1.63, 1.88, 1.30, 1.62, 1.67, 1.62 |
 | 1.79 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 2.36, 1.46, 1.94, 1.82, 1.79, 1.84, 2.13, 3.03, 1.91, 1.27, 1.38, 1.18 |
 | 1.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.79, 2.21, 1.74, 1.39, 2.69, 1.76, 1.33, 1.87, 2.02, 2.34, 1.35, 1.77 |
-| 1.84 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 2.18, 1.61, 1.52, 1.54, 1.89, DNF, 1.83, 2.17, 1.91, 1.76, 1.93, 1.58 |
+| 1.83 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 1.43, 1.52, 1.28, 4.09, 1.89, 1.89, 1.75, 1.59, 2.07, 2.44, 2.42, 1.32 |
+| 1.84 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.51, 2.23, 1.52, 1.75, 1.72, 2.28, 3.56, 1.90, 1.72, 1.56, 1.85, 1.92 |
 | 1.86 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1.28, 2.87, 1.92, 2.49, 4.42, 1.77, 1.38, 2.02, 1.64, 1.68, 1.29, 1.54 |
 | 1.89 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 1.77, 1.84, 2.14, 1.80, 1.71, 1.75, 2.40, 1.96, 1.74, DNF, 1.64, 1.87 |
 | 1.89 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.45, 1.94, 1.76, 2.72, 1.92, 2.00, 2.99, 1.38, 1.96, 1.70, 1.35, 2.13 |
-| 1.89 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.55, 1.99, 2.24, 2.18, 1.63, 1.82, 1.68, 1.62, 2.37, 1.87, 1.77, 2.12 |
 
 ### Rubik's Clock
 
@@ -189,7 +189,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 1.60 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.30, 1.20, 1.79, 1.60, 4.89, 1.41, 2.03, 1.35, 1.62, 1.82, 1.27, 1.85 |
-| 2.01 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.84, 1.83, 2.43, 2.27, 2.07, 2.02, 1.32, 1.83, 3.29, 1.73, 2.09, 2.07 |
+| 1.92 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.76, 2.11, 1.54, 2.09, 4.87, 2.21, 1.32, 1.90, 2.25, 1.76, 1.63, 1.96 |
 | 2.14 | [Charles Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 2.10, 2.20, 2.14, 1.86, 3.64, 2.27, 1.80, 1.80, 2.46, 2.77, 2.00, 1.68 |
 | 2.25 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 2.32, 2.81, 4.43, 3.03, 1.62, 1.96, 1.40, 2.57, 1.84, 2.68, 1.94, 1.76 |
 | 2.32 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 1.54, 2.25, 2.24, 1.86, 3.36, DNF, 2.54, 2.33, 1.83, 2.55, 1.82, 2.47 |
@@ -204,8 +204,8 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 5.34 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 5.80, 4.89, 5.65, 5.18, 10.73, 4.76, 4.68, 6.06, 5.58, 6.25, 4.31, 4.63 |
+| 5.41 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.00, 4.63, 5.66, 5.51, 8.94, 6.33, 6.05, 5.32, 4.60, 6.26, 4.80, 4.58 |
 | 5.42 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 5.45, 4.67, 6.11, 4.72, 8.27, 5.35, 5.24, 4.77, 5.71, 5.15, 4.93, 6.78 |
-| 5.50 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 6.34, 5.23, 9.73, 4.97, 4.84, 4.86, 4.84, 7.02, 5.74, 5.29, 5.70, 5.10 |
 | 5.87 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.77, 6.45, 4.97, 5.83, 5.10, 6.22, 5.65, 6.58, 8.64, 5.31, 6.40, 5.45 |
 | 5.94 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 4.95, 7.30, 4.46, 5.15, 6.59, 6.42, 5.85, 5.70, 8.56, 5.43, 4.28, 7.58 |
 | 6.05 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.25, 6.24, 5.35, 6.55, 9.29, 7.72, 5.02, 4.76, 5.51, 6.17, 6.51, 6.24 |

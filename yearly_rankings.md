@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 July 2023*
+*Updated on 31 July 2023*
 
 
 ### Rubik's Cube - Single
@@ -14,25 +14,25 @@
 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | **3.88** | Australia | [Tassie Summer 2023](https://www.worldcubeassociation.org/competitions/TassieSummer2023) | 10.34, 9.68, 7.18, 6.17, 3.88 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **3.90** | China | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) | 4.35, 3.90, 4.41, 5.31, 6.16 |
 | [Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01) | **3.95** | United States | [Eugene Cubing 2023](https://www.worldcubeassociation.org/competitions/EugeneCubing2023) | 3.95, 7.74, 5.50, 6.43, 9.54 |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **4.01** | China | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) | 4.01, 4.87, 4.60, 6.12, 5.56 |
 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | **4.11** | Philippines | [Valenzuela Cubing Open 2023](https://www.worldcubeassociation.org/competitions/ValenzuelaCubingOpen2023) | 6.17, 5.22, 6.80, 5.81, 4.11 |
 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | **4.14** | Canada | [SOS Oshawa 2023](https://www.worldcubeassociation.org/competitions/SOSOshawa2023) | 6.11, 6.41, 6.44, 4.14, 6.32 |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **4.15** | United States | [Agoura Cubing Again 2023](https://www.worldcubeassociation.org/competitions/AgouraCubingAgain2023) | 4.15, 8.40, 7.25, 7.05, 7.15 |
-| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **4.17** | China | [Hong Kong Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongCubeDay2023) | 5.92, 5.48, 6.68, 4.17, 6.95 |
 
 ### Rubik's Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **4.48** | China | [Mofunland Cruise Open 2023](https://www.worldcubeassociation.org/competitions/MofunlandCruiseOpen2023) | 4.72, 4.72, 3.99, 3.95, 5.99 |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **5.01** | China | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) | 4.01, 4.87, 4.60, 6.12, 5.56 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **5.05** | Poland | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) | 4.56, 4.92, 4.28, 5.68, 6.02 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **5.06** | United States | [Marshall Cubing Spring 2023](https://www.worldcubeassociation.org/competitions/MarshallCubingSpring2023) | 4.70, 4.82, 5.27, 6.30, 5.10 |
-| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **5.11** | China | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023) | 4.71, 5.18, 5.64, 4.99, 5.16 |
 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | **5.24** | Philippines | [Cebu New Year Open 2023](https://www.worldcubeassociation.org/competitions/CebuNewYearOpen2023) | 5.29, 5.47, 6.72, 4.97, 4.31 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **5.29** | United States | [Washtenaw Spring B 2023](https://www.worldcubeassociation.org/competitions/WashtenawSpringB2023) | 5.16, 5.54, 5.89, 5.16, 4.95 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **5.35** | United States | [Honolulu H-Perm Hōʻike 2023](https://www.worldcubeassociation.org/competitions/HonoluluHPermHoike2023) | 4.90, 5.38, 5.50, 6.13, 5.18 |
+| [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) | **5.66** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 5.57, 5.32, 5.63, 5.77, 6.83 |
 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | **5.66** | Philippines | [Metro Speedcubing Open 2023](https://www.worldcubeassociation.org/competitions/MetroSpeedcubingOpen2023) | 5.98, 5.69, 5.32, 5.18, 6.19 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **5.75** | United States | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023) | 8.21, 6.75, 5.08, 5.29, 5.21 |
-| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **5.77** | Republic of Korea | [Daegu Spring 2023](https://www.worldcubeassociation.org/competitions/DaeguSpring2023) | 5.53, 6.22, 6.41, 5.49, 5.56 |
 
 ### 2x2x2 Cube - Single
 
@@ -69,15 +69,15 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **17.13** | Germany | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023) | 22.06, 17.13, 23.23, 25.57, 19.80 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **17.26** | United States | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 20.84, 19.06, 22.76, 17.26, 20.60 |
+| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **17.22** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 17.22, 26.04, 19.14, 22.90, 27.43 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **18.45** | Poland | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) | 24.05, 28.45, 23.78, 18.45, 22.83 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **19.39** | Republic of Korea | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023) | 28.65, 22.86, 19.39, 25.41, 19.55 |
 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | **19.50** | Argentina | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023) | 33.50, 27.02, 33.55, 19.50, 27.77 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **19.63** | Australia | [Marrickville Many May Open 2023](https://www.worldcubeassociation.org/competitions/MarrickvilleManyMayOpen2023) | 22.59, 22.08, 25.96, 19.63, 22.72 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **19.76** | United States | [Honolulu H-Perm Hōʻike 2023](https://www.worldcubeassociation.org/competitions/HonoluluHPermHoike2023) | 25.67, 25.24, 22.47, 19.76, 26.08 |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **19.88** | China | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) | 19.88, 27.04, 23.91, 28.13, 26.75 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **19.96** | Chinese Taipei | [CK Cubing Party 2023](https://www.worldcubeassociation.org/competitions/CKCubingParty2023) | 23.27, 19.96, 24.32, 27.78, 21.52 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **20.44** | United States | [Pretzel Mania 2023](https://www.worldcubeassociation.org/competitions/PretzelMania2023) | 22.44, 29.33, 20.44, 23.77, 24.65 |
-| [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **20.47** | Vietnam | [Cubing in the Lion's Den 2023](https://www.worldcubeassociation.org/competitions/CubingintheLionsDen2023) | 23.48, 27.54, 33.87, 23.13, 20.47 |
 
 ### 4x4x4 Cube - Average
 
@@ -98,16 +98,16 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **33.38** | United States | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 34.73, 33.38, 38.43, 40.56, 36.23 |
+| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **32.88** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 40.65, 41.76, 42.67, 39.02, 32.88 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **33.60** | Poland | [PBs in Palisades 2023](https://www.worldcubeassociation.org/competitions/PBsinPalisades2023) | 42.87, 33.60, 50.58, 44.68, 43.39 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **36.41** | Vietnam | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023) | 44.00, 36.41, 48.70, 44.34, 41.65 |
-| [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **37.18** | Chinese Taipei | [NDHU Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/NDHUBigCubeDay2023) | 44.84, 37.18, 41.94, 38.59, 43.40 |
-| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **38.22** | Republic of Korea | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023) | 38.22, 41.23, 42.39, 43.65, 41.70 |
+| [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **36.75** | Chinese Taipei | [Maru Cube Day 2023](https://www.worldcubeassociation.org/competitions/MaruCubeDay2023) | 36.75, 41.91, 41.11, 40.85, 42.77 |
+| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **37.01** | Republic of Korea | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 41.52, 37.01, 40.36, 44.22, 45.27 |
+| [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **37.78** | Hong Kong, China | [Hong Kong Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongBigCubeDay2023) | 37.78, 46.03, 45.48, 44.40, 48.49 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **38.36** | Ireland | [Don't Lockup Loch Garman 2023](https://www.worldcubeassociation.org/competitions/DontLockupLochGarman2023) | 41.17, 47.21, 49.50, 47.27, 38.36 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **38.69** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 44.54, 51.55, 38.69, 41.72, 47.11 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **39.22** | Germany | [Douvrin Open 2023](https://www.worldcubeassociation.org/competitions/DouvrinOpen2023) | 42.41, 48.08, 52.96, 44.49, 39.22 |
-| [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **39.54** | Hong Kong, China | [NDHU Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/NDHUBigCubeDay2023) | 46.07, 39.54, 50.64, 41.94, 49.61 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **39.55** | Romania | [Big Cubes Bucharest 2023](https://www.worldcubeassociation.org/competitions/BigCubesBucharest2023) | 43.37, 39.55, 45.26, 44.15, 46.48 |
-| [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **39.93** | United States | [Indiana Finally Returns 2023](https://www.worldcubeassociation.org/competitions/IndianaFinallyReturns2023) | 45.18, 48.22, 45.94, 39.93, 50.11 |
 
 ### 5x5x5 Cube - Average
 
@@ -116,12 +116,12 @@
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **36.46** | United States | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 34.73, 33.38, 38.43, 40.56, 36.23 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **39.67** | Republic of Korea | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023) | 41.32, 46.57, 38.81, 38.70, 38.87 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **40.19** | Poland | [Flatåsen Open 2023](https://www.worldcubeassociation.org/competitions/FlatasenOpen2023) | 39.84, 37.86, 37.93, 42.79, 48.82 |
-| [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **41.31** | Chinese Taipei | [NDHU Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/NDHUBigCubeDay2023) | 44.84, 37.18, 41.94, 38.59, 43.40 |
+| [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **41.29** | Chinese Taipei | [Maru Cube Day 2023](https://www.worldcubeassociation.org/competitions/MaruCubeDay2023) | 36.75, 41.91, 41.11, 40.85, 42.77 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **42.23** | Ireland | [Kirkkonummi Time Trial 2023](https://www.worldcubeassociation.org/competitions/KirkkonummiTimeTrial2023) | 41.25, 40.61, 41.36, 45.05, 44.09 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **43.33** | Vietnam | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023) | 44.00, 36.41, 48.70, 44.34, 41.65 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **43.49** | Australia | [Four The Win Dandenong 2023](https://www.worldcubeassociation.org/competitions/FourTheWinDandenong2023) | 45.83, 43.46, 40.63, 44.10, 42.90 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **43.81** | Hong Kong, China | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023) | 44.30, 42.24, 42.72, 44.42, 48.02 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **43.97** | United States | [Baztan Open 2023](https://www.worldcubeassociation.org/competitions/BaztanOpen2023) | 50.40, 45.09, 41.81, 42.60, 44.21 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **43.95** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 39.88, 46.74, 47.67, 42.64, 42.47 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **44.16** | Indonesia | [Medan Speedcube Challenge 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubeChallenge2023) | 42.64, 45.39, 44.45, 56.03, 41.56 |
 
 ### 6x6x6 Cube - Single
@@ -146,13 +146,13 @@
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **1:08.93** | United States | [UCSD Spring 2023](https://www.worldcubeassociation.org/competitions/UCSDSpring2023) | 1:03.86, 1:14.43, 1:08.50 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:13.85** | Poland | [Flatåsen Open 2023](https://www.worldcubeassociation.org/competitions/FlatasenOpen2023) | 1:12.50, 1:15.52, 1:13.54 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:15.82** | Republic of Korea | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023) | 1:22.72, 1:09.39, 1:15.35 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:16.71** | Ireland | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023) | 1:15.82, 1:22.73, 1:11.58 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:16.37** | Ireland | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) | 1:19.78, 1:16.05, 1:13.27 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **1:19.99** | Romania | [Big Cubes Bucharest 2023](https://www.worldcubeassociation.org/competitions/BigCubesBucharest2023) | 1:20.46, 1:19.26, 1:20.24 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **1:21.04** | Malaysia | [Medan Speedcube Challenge 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubeChallenge2023) | 1:17.81, 1:22.86, 1:22.46 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **1:22.36** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 1:23.98, 1:22.70, 1:20.39 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **1:22.65** | Hong Kong, China | [NDHU Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/NDHUBigCubeDay2023) | 1:25.31, 1:23.61, 1:19.03 |
 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **1:23.38** | Republic of Korea | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023) | 1:33.26, 1:19.78, 1:17.10 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **1:23.39** | Indonesia | [Medan Speedcube Challenge 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubeChallenge2023) | 1:34.86, 1:20.10, 1:15.22 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **1:23.84** | China | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023) | 1:23.20, 1:22.11, 1:26.20 |
 
 ### 7x7x7 Cube - Single
 
@@ -193,11 +193,11 @@
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **13.71** | Australia | [Please Be Quiet Brisbane 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2023) | 13.71, 15.38, 17.59 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **14.52** | United States | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | DNF, 16.65, 14.52 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **15.02** | Poland | [Cube Factory 2023](https://www.worldcubeassociation.org/competitions/CubeFactory2023) | DNF, 15.02, DNF |
+| [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **15.12** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 21.24, DNF, 15.12 |
 | [Keita Hayakawa (早川慶太)](https://www.worldcubeassociation.org/persons/2022HAYA03) | **15.25** | Japan | [Challenge BLD 2023](https://www.worldcubeassociation.org/competitions/TokyoChallengeBLDI2023) | 15.25, DNF, DNF |
 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **15.52** | Hong Kong, China | [Bay Area Speedcubin' 42 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin422023) | 24.10, 15.52, 32.18 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | **15.70** | Peru | [San Juan Cubing 2023](https://www.worldcubeassociation.org/competitions/SanJuanCubing2023) | DNF, 15.70, 20.74 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **15.96** | Argentina | [It's Blind Time Montevideo 2023](https://www.worldcubeassociation.org/competitions/ItsBlindTimeMontevideo2023) | 15.96, DNF, 17.38 |
-| [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **16.09** | China | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 16.09, 21.79, 17.31 |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -206,13 +206,13 @@
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **14.72** | United States | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023) | 13.46, 14.45, 16.26 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **15.05** | Canada | [Panthers Cube Day 2023](https://www.worldcubeassociation.org/competitions/PanthersCubeDay2023) | 15.29, 14.15, 15.70 |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **15.51** | Australia | [Side N Blind Narre Warren 2023](https://www.worldcubeassociation.org/competitions/SideNBlindNarreWarren2023) | 16.26, 15.60, 14.66 |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **16.35** | United States | [4BLD in a Madison Hall 2023](https://www.worldcubeassociation.org/competitions/4BLDinaMadisonHall2023) | 17.50, 15.43, 16.12 |
+| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **16.29** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 17.61, 15.21, 16.05 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | **17.04** | Peru | [Speedsolving Geekcuber 2023](https://www.worldcubeassociation.org/competitions/SpeedsolvingGeekcuber2023) | 16.15, 18.60, 16.37 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **17.53** | Argentina | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023) | 18.34, 17.84, 16.42 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **18.40** | China | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 16.09, 21.79, 17.31 |
 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | **18.54** | Sweden | [SSL II Hässleholm 2023](https://www.worldcubeassociation.org/competitions/SSLIIHassleholm2023) | 16.87, 19.08, 19.66 |
+| [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **18.87** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 19.18, 21.23, 16.20 |
 | [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | **19.06** | Australia | [Solving in Sale 2023](https://www.worldcubeassociation.org/competitions/SolvinginSale2023) | 18.54, 18.73, 19.92 |
-| [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **19.17** | China | [Please Be Quiet Thailand 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietThailand2023) | 19.52, 18.24, 19.74 |
 
 ### 3x3x3 Fewest Moves - Single
 
@@ -242,7 +242,7 @@
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **21.67** | Poland | [3 More FMC Rounds Rzeszów 2023](https://www.worldcubeassociation.org/competitions/3MoreFMCRoundsinRzeszow2023) | 21, 22, 22 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **22.00** | Argentina | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023) | 27, 21, 18 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **22.00** | Indonesia | [FM Chalet SG 2023](https://www.worldcubeassociation.org/competitions/FMChaletSG2023) | 20, 21, 25 |
-| [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | **22.00** | Sweden | [FMC London Summer 2023](https://www.worldcubeassociation.org/competitions/FMCLondonSummer2023) | 21, 23, 22 |
+| [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | **22.00** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 22, 23, 21 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -263,11 +263,11 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **8.65** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 9.22, 8.27, 8.47, 10.93, 7.81 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **8.86** | United States | [You Only Need a 3x3 AZ 2023](https://www.worldcubeassociation.org/competitions/YouOnlyNeeda3x3AZ2023) | 8.05, 10.10, 7.08, 9.96, 8.57 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **8.88** | New Zealand | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023) | 17.51, 8.72, 8.69, 8.80, 9.12 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **8.93** | United States | [Puzzling in Providence 2023](https://www.worldcubeassociation.org/competitions/PuzzlinginProvidence2023) | 8.45, 8.42, 10.29, 8.67, 9.68 |
 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | **9.13** | Philippines | [West Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2023) | 10.53, 9.84, 9.29, 8.03, 8.26 |
-| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **9.18** | United States | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023) | 7.74, 10.80, 7.89, 9.62, 10.04 |
+| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **9.17** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 15.26, 10.23, 8.39, 8.22, 8.89 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **9.23** | France | [Sens Open 2023](https://www.worldcubeassociation.org/competitions/SensOpen2023) | 8.51, 9.74, 8.79, 12.04, 9.16 |
 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **9.28** | Hong Kong, China | [Berkeley Winter B 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterB2023) | 10.28, 8.76, 8.79, 7.67, 10.58 |
 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | **9.33** | Germany | [Franconia Mini Open A 2023](https://www.worldcubeassociation.org/competitions/FranconiaMiniOpenA2023) | 10.08, 10.61, 8.84, 8.39, 9.07 |
@@ -283,8 +283,8 @@
 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | **26.01** | United States | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023) | 37.40, 31.18, 35.31, 26.01, 29.35 |
 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | **26.16** | United States | [Westchester Weeknights 1 2023](https://www.worldcubeassociation.org/competitions/WestchesterWeeknights12023) | 32.35, 26.16, 29.52, 32.00, 31.20 |
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **27.20** | Republic of Korea | [Cozy Cubing Poway 2023](https://www.worldcubeassociation.org/competitions/CozyCubingPoway2023) | 33.67, 33.30, DNF, 32.42, 27.20 |
+| [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | **27.38** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 35.23, 33.19, 33.08, 34.15, 27.38 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **27.47** | United Kingdom | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023) | 27.47, 38.68, 34.12, 40.16, 38.38 |
-| [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | **28.03** | United States | [FSUbers 4.5 2023](https://www.worldcubeassociation.org/competitions/FSUbers452023) | 32.59, 29.54, 33.75, 28.03, 33.13 |
 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | **28.20** | New Zealand | [Auckland Mid-Year Madness 2023](https://www.worldcubeassociation.org/competitions/AucklandMidYearMadness2023) | 29.42, 28.63, 33.16, 28.20, 37.18 |
 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | **28.71** | United States | [Sleepless in Seattle 2023](https://www.worldcubeassociation.org/competitions/SleeplessinSeattle2023) | 33.91, 28.71, 36.23, 33.94, 34.87 |
 | [John Bacouël](https://www.worldcubeassociation.org/persons/2018BACO01) | **29.41** | France | [Sézanne Open 2023](https://www.worldcubeassociation.org/competitions/SezanneOpen2023) | 36.86, 32.01, 41.20, 41.88, 29.41 |
@@ -301,8 +301,8 @@
 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | **31.75** | United States | [FSUbers 4.5 2023](https://www.worldcubeassociation.org/competitions/FSUbers452023) | 32.59, 29.54, 33.75, 28.03, 33.13 |
 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | **32.62** | United States | [Lynnwood Winter 2023](https://www.worldcubeassociation.org/competitions/LynnwoodWinter2023) | 32.20, 36.36, 33.70, 31.95, 29.15 |
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **32.76** | Republic of Korea | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 32.58, 29.32, 34.62, 32.29, 33.40 |
+| [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | **32.77** | China | [Hong Kong Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongBigCubeDay2023) | 35.99, 30.93, 31.40, 30.46, 39.65 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **33.13** | United Kingdom | [Exeter Summer 2023](https://www.worldcubeassociation.org/competitions/ExeterSummer2023) | 34.72, 32.27, 33.73, 33.38, 28.37 |
-| [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **33.87** | Russia | [KSF Open 2023](https://www.worldcubeassociation.org/competitions/KSFOpen2023) | 42.41, 33.46, 32.41, 35.10, 33.06 |
 
 ### Pyraminx - Single
 
@@ -330,9 +330,9 @@
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | **1.64** | United States | [Richmond Spring 2023](https://www.worldcubeassociation.org/competitions/RichmondSpring2023) | 1.30, 1.62, 1.67, 1.62, 1.96 |
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | **1.65** | United States | [North Jersey Speedsolving A 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingA2023) | 1.54, 2.74, 1.65, 1.68, 1.62 |
 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | **1.67** | New Zealand | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023) | 1.62, 3.56, 1.39, 1.87, 1.51 |
+| [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | **1.70** | China | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) | 1.37, 1.50, 2.12, 1.91, 1.69 |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **1.71** | Poland | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) | 2.18, 1.63, 1.82, 1.68, 1.62 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.76** | United States | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023) | 2.34, 2.29, 1.45, 1.53, 1.36 |
-| [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | **1.78** | United States | [ODU Big Blue Spring 2023](https://www.worldcubeassociation.org/competitions/ODUBigBlueSpring2023) | 1.39, 2.40, 1.33, 2.15, 1.79 |
 
 ### Rubik's Clock - Single
 
@@ -346,23 +346,23 @@
 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | **2.89** | Norway | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023) | 3.11, 2.89, 4.27, 3.28, 5.36 |
 | [Richard Yiheng Tao](https://www.worldcubeassociation.org/persons/2020TAOR01) | **3.05** | New Zealand | [A New Year in Hamilton 2023](https://www.worldcubeassociation.org/competitions/ANewYearinHamilton2023) | 5.24, 4.96, 3.05, 5.72, 4.28 |
 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | **3.07** | United States | [Pegasus 2023](https://www.worldcubeassociation.org/competitions/Pegasus2023) | 5.44, 3.07, 4.82, 6.65, 5.20 |
-| [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | **3.09** | United States | [Ohio State Mini Sunday 2023](https://www.worldcubeassociation.org/competitions/OhioStateMiniSunday2023) | 3.09, 4.13, DNF, 3.87, 5.14 |
+| [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | **3.08** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 4.13, DNF, 3.08, 4.70, 4.38 |
 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) | **3.11** | Australia | [February Fitzroy Fun 2023](https://www.worldcubeassociation.org/competitions/FebruaryFitzroyFun2023) | 3.11, 4.21, 4.62, 4.87, 3.82 |
 
 ### Rubik's Clock - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **3.50** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 3.29, 3.86, 3.27, 3.36, DNF |
 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | **3.54** | Norway | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023) | 3.27, 4.51, 4.06, 3.17, 3.30 |
-| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **3.59** | United States | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023) | 3.30, DNF, 3.76, 3.70, 3.28 |
 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **3.65** | United Kingdom | [Lincolnshire Winter 2023](https://www.worldcubeassociation.org/competitions/LincolnshireWinter2023) | 3.35, 3.51, 4.28, 3.68, 3.76 |
 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | **3.81** | China | [Essex Spring 2023](https://www.worldcubeassociation.org/competitions/EssexSpring2023) | 4.40, 3.79, 3.37, 3.80, 3.83 |
 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | **3.88** | United States | [DFW Cubing Summer 2023](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2023) | 4.36, 3.58, 3.71, 3.42, 5.17 |
+| [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | **4.09** | United States | [Warm Up in Mount Prospect 2023](https://www.worldcubeassociation.org/competitions/WarmUpinMountProspect2023) | 3.45, 5.24, 3.40, 4.81, 4.01 |
 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | **4.10** | United States | [Southeast Championship 2023](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2023) | 4.13, 3.87, 5.24, 4.30, 3.78 |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **4.10** | United States | [Agoura Cubing 2023](https://www.worldcubeassociation.org/competitions/AgouraCubing2023) | 2.81, DNF, 4.16, 4.81, 3.34 |
+| [Eddie Artze](https://www.worldcubeassociation.org/persons/2020ARTZ01) | **4.16** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 3.91, 4.40, 3.81, 4.32, 4.25 |
 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | **4.16** | United States | [West Side Cube Clash 2023](https://www.worldcubeassociation.org/competitions/WestSideCubeClash2023) | 4.52, 3.69, 4.19, 4.08, 4.21 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **4.20** | Poland | [Siedlce Open 2023](https://www.worldcubeassociation.org/competitions/SiedlceOpen2023) | 3.57, 4.49, 3.80, DNF, 4.30 |
-| [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) | **4.22** | Australia | [February Fitzroy Fun 2023](https://www.worldcubeassociation.org/competitions/FebruaryFitzroyFun2023) | 3.11, 4.21, 4.62, 4.87, 3.82 |
 
 ### Skewb - Single
 
@@ -416,10 +416,10 @@
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **4.91** | United States | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023) | 5.32, 4.60, 6.26, 4.80, 4.58 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **5.12** | United States | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 4.72, 8.27, 5.35, 5.24, 4.77 |
 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | **5.37** | Australia | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023) | 4.31, 4.63, 7.10, 5.50, 5.99 |
-| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | **5.40** | United States | [Cougar Qualifier 2023](https://www.worldcubeassociation.org/competitions/CougarQualifier2023) | 4.71, 5.54, 4.93, 5.73, 12.18 |
+| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | **5.37** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 5.25, 5.32, 6.67, 5.55, 5.23 |
 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | **5.76** | United States | [DFW Cubing Winter 2023](https://www.worldcubeassociation.org/competitions/DFWCubingWinter2023) | 7.83, 5.66, 6.14, 5.47, 5.08 |
+| [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | **5.81** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 6.07, 16.23, 5.50, 5.86, 5.25 |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **5.88** | United States | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023) | 4.20, 7.27, 5.96, 7.73, 4.40 |
-| [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | **5.91** | United States | [The Battle of Lex-side-ton 2023](https://www.worldcubeassociation.org/competitions/LexingtonSideEvents2023) | 6.51, 7.78, 5.35, 5.87, 4.80 |
 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | **5.92** | Brazil | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023) | 5.06, 6.30, 7.44, 5.55, 5.92 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **6.11** | Poland | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023) | 6.24, 5.67, 5.86, 9.92, 6.24 |
 | [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | **6.15** | New Zealand | [Southernmost Solving 2023](https://www.worldcubeassociation.org/competitions/SouthernmostSolving2023) | 7.53, 6.60, 4.95, 5.66, 6.18 |
@@ -451,8 +451,8 @@
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **2:03.16** | Poland | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) | 2:03.68, 1:57.03, 2:08.78 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **2:09.99** | United Kingdom | [Essex Spring 2023](https://www.worldcubeassociation.org/competitions/EssexSpring2023) | 2:30.76, 2:12.43, 1:46.77 |
 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | **2:12.74** | Spain | [Parla Open 2023](https://www.worldcubeassociation.org/competitions/ParlaOpen2023) | 2:18.65, 2:33.83, 1:45.73 |
+| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **2:14.61** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 2:18.61, 2:28.85, 1:56.37 |
 | [Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) | **2:16.78** | China | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 2:19.15, 2:05.70, 2:25.50 |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **2:21.61** | Poland | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023) | 2:45.73, 2:22.53, 1:56.56 |
 
 ### 5x5x5 Blindfolded - Single
 
@@ -461,41 +461,41 @@
 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | **2:19.07** | Malaysia | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | DNF, 4:18.01, 2:19.07 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **2:19.11** | United States | [Washtenaw Qualifier 2023](https://www.worldcubeassociation.org/competitions/WashtenawQualifier2023) | DNF, DNF, 2:19.11 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **2:45.73** | Switzerland | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) | DNF, 4:06.25, 2:45.73 |
+| [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **2:55.40** | China | [Selangor Big & Blind 2023](https://www.worldcubeassociation.org/competitions/SelangorBigBlind2023) | 3:03.46, DNF, 2:55.40 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **3:17.39** | Argentina | [Litoral Cubea 2023](https://www.worldcubeassociation.org/competitions/LitoralCubea2023) | 3:55.21, 3:17.39, DNF |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **3:20.19** | United Kingdom | [Glasgow Spring 2023](https://www.worldcubeassociation.org/competitions/GlasgowSpring2023) | 3:20.19, DNF, DNF |
 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **3:22.45** | Australia | [Chilling in Canberra 2023](https://www.worldcubeassociation.org/competitions/ChillinginCanberra2023) | 3:22.45, DNF, DNF |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **3:26.02** | United States | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | DNF, 3:47.94, 3:26.02 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **3:44.02** | Poland | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023) | 3:44.86, DNF, 3:44.02 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **3:45.54** | Canada | [Please Be Quiet Pickering 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietPickering2023) | 4:11.15, 3:45.54, DNF |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **3:59.92** | Sweden | [Hudiksvall Open 2023](https://www.worldcubeassociation.org/competitions/HudiksvallOpen2023) | 3:59.92, DNF, DNF |
 
 ### 5x5x5 Blindfolded - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **3:38.72** | Switzerland | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023) | 3:27.30, 3:49.72, 3:39.15 |
+| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **4:02.05** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 4:01.56, 4:08.07, 3:56.51 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **4:10.35** | United Kingdom | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023) | 4:00.56, 4:28.57, 4:01.92 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **5:12.57** | Sweden | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023) | 5:24.90, 4:47.33, 5:25.47 |
+| [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **5:17.02** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 4:58.16, 5:18.53, 5:34.36 |
 | [Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) | **6:04.03** | China | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 6:27.57, 6:35.13, 5:09.39 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **6:35.26** | Canada | [Gros Jouets à Montréal 2023](https://www.worldcubeassociation.org/competitions/GrosJouetsaMontreal2023) | 6:06.09, 6:34.78, 7:04.90 |
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **7:42.13** | France | [Carquef'Open 2023](https://www.worldcubeassociation.org/competitions/CarquefOpen2023) | 6:55.15, 6:56.56, 9:14.69 |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **7:46.12** | United States | [4BLD in a Madison Hall 2023](https://www.worldcubeassociation.org/competitions/4BLDinaMadisonHall2023) | 6:47.65, 8:15.09, 8:15.63 |
 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) | **9:17.36** | United States | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023) | 7:40.34, 9:55.75, 10:16.00 |
-| [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **11:01.00** | United States | [Ohio State Summer Solving 2023](https://www.worldcubeassociation.org/competitions/OhioStateSummerSolving2023) | 10:49.00, 10:35.00, 11:39.00 |
-| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **12:28.00** | Malaysia | [Glasgow Spring 2023](https://www.worldcubeassociation.org/competitions/GlasgowSpring2023) | 10:16.00, 14:57.00, 12:11.00 |
 
 ### 3x3x3 Multi-Blind - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **51/54 57:49** | China | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 41/54 1:00:02, 51/54 57:49 |
+| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **54/60 1:00:02** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 54/60 1:00:02, 49/64 1:00:00 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **49/51 57:40** | United States | [Cambridge Winter Challenge 2023](https://www.worldcubeassociation.org/competitions/CambridgeWinterChallenge2023) | 37/51 59:08, 49/51 57:40 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **49/51 57:50** | United States | [Ohio State Summer Solving 2023](https://www.worldcubeassociation.org/competitions/OhioStateSummerSolving2023) | 49/51 57:50 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **46/50 55:41** | Switzerland | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) | 40/54 1:00:00, 46/50 55:41 |
-| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **52/62 58:53** | United States | [MBLD Madison Meeting Room 2023](https://www.worldcubeassociation.org/competitions/MBLDinaMadisonMeetingRoom2023) | 37/60 1:00:00, 52/62 58:53 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **48/54 58:31** | Poland | [Poznań MBLD Cup 2023](https://www.worldcubeassociation.org/competitions/PoznanMBLDCup2023) | 46/54 59:13, 48/54 58:31 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **44/48 58:51** | Poland | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) | 44/48 58:51 |
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **43/48 59:16** | New Zealand | [Auckland Mind Games 2023](https://www.worldcubeassociation.org/competitions/AucklandMindGames2023) | DNF, 43/48 59:16 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **48/58 1:00:00** | Poland | [Lužice Open 2023](https://www.worldcubeassociation.org/competitions/LuziceOpen2023) | 48/58 1:00:00 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **39/41 58:11** | Canada | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | 39/41 58:11, 2/2 0:55 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **43/50 59:30** | Poland | [BrizZon Side Open II 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2023) | DNS, 43/50 59:30 |
 

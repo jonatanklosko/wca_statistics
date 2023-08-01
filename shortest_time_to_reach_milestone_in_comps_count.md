@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 July 2023*
+*Updated on 31 July 2023*
 
 
 ### 100 Competitions
@@ -34,6 +34,7 @@
 | ---: | :--- |
 | 552 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 610 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 757 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 793 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
 | 833 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 842 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
@@ -51,12 +52,12 @@
 | 1032 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 1037 | [Robert Mapp IV](https://www.worldcubeassociation.org/persons/2016IVRO01) |
 | 1037 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
-| 1051 | [Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04) |
 
 ### 25 Competitions
 
 | Days | Person |
 | ---: | :--- |
+| 271 | [Vishnu Sai Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
@@ -76,7 +77,6 @@
 | 435 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 441 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 442 | [Eliana Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV01) |
-| 449 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
 
 ### 10 Competitions
 
@@ -90,6 +90,7 @@
 | 140 | [Sheng Li (李圣)](https://www.worldcubeassociation.org/persons/2020LISH02) |
 | 141 | [Logan Lingasamy](https://www.worldcubeassociation.org/persons/2023LING02) |
 | 141 | [Evan Wilson](https://www.worldcubeassociation.org/persons/2023WILS11) |
+| 142 | [Luis Tan Hong Yi (陈宏溢)](https://www.worldcubeassociation.org/persons/2023YILU01) |
 | 143 | [Chengzhang Lin (林成璋)](https://www.worldcubeassociation.org/persons/2013LINC02) |
 | 148 | [Sai Mrudhun](https://www.worldcubeassociation.org/persons/2017MRUD01) |
 | 148 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
@@ -101,7 +102,6 @@
 | 155 | [Dongsheng Zeng (曾东生)](https://www.worldcubeassociation.org/persons/2020ZENG03) |
 | 155 | [Yuetong Zhu (朱玥曈)](https://www.worldcubeassociation.org/persons/2020ZHUY01) |
 | 155 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
-| 156 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 
 ### 5 Competitions
 

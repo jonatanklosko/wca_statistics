@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 July 2023*
+*Updated on 31 July 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -944,6 +944,7 @@
 | 12 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Poções 2023](https://www.worldcubeassociation.org/competitions/Pocoes2023/results/podiums) |
 | 12 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [UFBA 2023](https://www.worldcubeassociation.org/competitions/UFBA2023/results/podiums) |
 | 11 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Oxente Open 2022](https://www.worldcubeassociation.org/competitions/OxenteOpen2022/results/podiums) |
+| 11 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [UFBA II 2023](https://www.worldcubeassociation.org/competitions/UFBAII2023/results/podiums) |
 | 10 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Conquiste o Cubo II 2023](https://www.worldcubeassociation.org/competitions/ConquisteoCuboII2023/results/podiums) |
 | 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Mölnlycke Open 2023](https://www.worldcubeassociation.org/competitions/MolnlyckeOpen2023/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/podiums) |
@@ -1018,7 +1019,9 @@
 | 13 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Itajaí ao Cubo 2023](https://www.worldcubeassociation.org/competitions/ItajaiaoCubo2023/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Faria Brito Open 2022](https://www.worldcubeassociation.org/competitions/FariaBritoOpen2022/results/podiums) |
+| 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UFBA II 2023](https://www.worldcubeassociation.org/competitions/UFBAII2023/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Bigs & Blind 2023](https://www.worldcubeassociation.org/competitions/BrasiliaBigsBlind2023/results/podiums) |
+| 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Bravamall Open 2023](https://www.worldcubeassociation.org/competitions/BravamallOpen2023/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Partage Open 2023](https://www.worldcubeassociation.org/competitions/PartageOpen2023/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Planetario Open 2022](https://www.worldcubeassociation.org/competitions/PlanetarioOpen2022/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023/results/podiums) |

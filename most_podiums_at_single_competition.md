@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 31 July 2023*
+*Updated on  3 August 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -340,6 +340,7 @@
 | 10 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | [Osijek Open 2016](https://www.worldcubeassociation.org/competitions/OsijekOpen2016/results/podiums) |
 | 10 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | [Slovenian Nationals 2019](https://www.worldcubeassociation.org/competitions/SlovenianNationals2019/results/podiums) |
 | 13 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Finnish Championship 2015](https://www.worldcubeassociation.org/competitions/FinnishChampionship2015/results/podiums) |
+| 13 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Gotland Open 2023](https://www.worldcubeassociation.org/competitions/GotlandOpen2023/results/podiums) |
 | 13 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Pulmapelipäivät 2017](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2017/results/podiums) |
 | 12 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Doge Open 2016](https://www.worldcubeassociation.org/competitions/DogeOpen2016/results/podiums) |
 | 12 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Finnish Open 2016](https://www.worldcubeassociation.org/competitions/FinnishOpen2016/results/podiums) |

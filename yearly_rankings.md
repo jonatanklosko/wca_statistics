@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  3 August 2023*
+*Updated on  6 August 2023*
 
 
 ### Rubik's Cube - Single
@@ -476,7 +476,7 @@
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **3:38.72** | Switzerland | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023) | 3:27.30, 3:49.72, 3:39.15 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **4:02.05** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 4:01.56, 4:08.07, 3:56.51 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **4:10.35** | United Kingdom | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023) | 4:00.56, 4:28.57, 4:01.92 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **5:12.57** | Sweden | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023) | 5:24.90, 4:47.33, 5:25.47 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4:39.14** | Sweden | [Stockholm Mental Breakdown 2023](https://www.worldcubeassociation.org/competitions/StockholmMentalBreakdown2023) | 3:56.57, 5:09.29, 4:51.56 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **5:17.02** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 4:58.16, 5:18.53, 5:34.36 |
 | [Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) | **6:04.03** | China | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 6:27.57, 6:35.13, 5:09.39 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **6:35.26** | Canada | [Gros Jouets à Montréal 2023](https://www.worldcubeassociation.org/competitions/GrosJouetsaMontreal2023) | 6:06.09, 6:34.78, 7:04.90 |

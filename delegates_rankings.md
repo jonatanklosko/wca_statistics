@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  3 August 2023*
+*Updated on  6 August 2023*
 
 
 ### Rubik's Cube - Single
@@ -473,7 +473,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **5:12.57** | Sweden | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023) | 5:24.90, 4:47.33, 5:25.47 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4:39.14** | Sweden | [Stockholm Mental Breakdown 2023](https://www.worldcubeassociation.org/competitions/StockholmMentalBreakdown2023) | 3:56.57, 5:09.29, 4:51.56 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **9:15.79** | Russia | [Swiss Open 2017](https://www.worldcubeassociation.org/competitions/SwissOpen2017) | 8:39.60, 8:13.78, 10:54.00 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **10:10.00** | Malaysia | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022) | 8:42.80, 11:13.00, 10:34.00 |
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **11:01.00** | United States | [Ohio State Summer Solving 2023](https://www.worldcubeassociation.org/competitions/OhioStateSummerSolving2023) | 10:49.00, 10:35.00, 11:39.00 |

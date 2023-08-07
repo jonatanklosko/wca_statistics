@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  3 August 2023*
+*Updated on  6 August 2023*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -76,8 +76,9 @@
 | 44 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [White City Cubing 2017](https://www.worldcubeassociation.org/competitions/WhiteCityCubing2017) | [Kyiv Blind Friends October 2022](https://www.worldcubeassociation.org/competitions/KyivBlindFriendsOctober2022) |
 | 44 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) | [River Hill Summer 2014](https://www.worldcubeassociation.org/competitions/RiverHillSummer2014) | [Richmond Spring 2019](https://www.worldcubeassociation.org/competitions/RichmondSpring2019) |
 | 44 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | [Idaho Open 2014](https://www.worldcubeassociation.org/competitions/IdahoOpen2014) | [Resticker Utah 2019](https://www.worldcubeassociation.org/competitions/RestickerUtah2019) |
+| 44 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | [Santa Claus Cube Race 2015](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2015) |  |
 | 44 | [Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01) | [Zonhoven Open 2016](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2016) | [Dutch Masters 2019](https://www.worldcubeassociation.org/competitions/DutchMasters2019) |
-| 44 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Lucia Open 2016](https://www.worldcubeassociation.org/competitions/LuciaOpen2016) |  |
+| 44 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Lucia Open 2016](https://www.worldcubeassociation.org/competitions/LuciaOpen2016) | [Stockholm Mental Breakdown 2023](https://www.worldcubeassociation.org/competitions/StockholmMentalBreakdown2023) |
 | 44 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | [Manchester Open 2018](https://www.worldcubeassociation.org/competitions/ManchesterOpen2018) |  |
 | 44 | [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) |  |
 | 43 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | [Rutgers Fall 2006](https://www.worldcubeassociation.org/competitions/RutgersFall2006) |  |
@@ -87,7 +88,6 @@
 | 43 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | [Schio Open 2012](https://www.worldcubeassociation.org/competitions/SchioOpen2012) | [Milan Saturday 2018](https://www.worldcubeassociation.org/competitions/MilanSaturday2018) |
 | 43 | [Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01) | [Yale Fall 2013](https://www.worldcubeassociation.org/competitions/YaleFall2013) | [Hudson Valley Fall 2017](https://www.worldcubeassociation.org/competitions/HudsonValleyFall2017) |
 | 43 | [Tyler Halgren](https://www.worldcubeassociation.org/persons/2015HALG01) | [Rose City 2015](https://www.worldcubeassociation.org/competitions/RoseCity2015) |  |
-| 43 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | [Santa Claus Cube Race 2015](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2015) |  |
 | 43 | [Jan van Dorst](https://www.worldcubeassociation.org/persons/2016DORS01) | [Cubelonia 2016](https://www.worldcubeassociation.org/competitions/Cubelonia2016) | [Dutch Spring 2022](https://www.worldcubeassociation.org/competitions/DutchSpring2022) |
 | 43 | [Cailyn Hoover](https://www.worldcubeassociation.org/persons/2016HOOV01) | [PDX Cubing Alpha 2016](https://www.worldcubeassociation.org/competitions/PDXCubingAlpha2016) | [SnoCo Goes Back to Square-1 2021](https://www.worldcubeassociation.org/competitions/SnoCoGoesBacktoSquare12021) |
 | 43 | [Daniel Gutierrez](https://www.worldcubeassociation.org/persons/2016GUTI23) | [UMass ODS Fall 2016](https://www.worldcubeassociation.org/competitions/UMassODSFall2016) | [SBU Fall 2019](https://www.worldcubeassociation.org/competitions/SBUFall2019) |

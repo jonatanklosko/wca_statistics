@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  3 August 2023*
+*Updated on  6 August 2023*
 
 
 ### Rubik's Cube

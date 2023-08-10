@@ -24,6 +24,7 @@ class Most4thPlaces < Statistic
         LIMIT 100
       ) AS 4th_places_count_by_person
       JOIN Persons person ON person.wca_id = 4th_places_count_by_person.wca_id AND person.subId = 1
+      ORDER BY 4th_places_count DESC
     SQL
   end
 end

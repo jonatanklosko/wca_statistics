@@ -23,6 +23,7 @@ class MostFinals < Statistic
         LIMIT 100
       ) AS people_with_finals
       JOIN Persons person ON person.wca_id = people_with_finals.wca_id AND person.subId = 1
+      ORDER BY finals_count DESC
     SQL
   end
 end

@@ -24,6 +24,7 @@ class MostVisitedCountries < Statistic
         LIMIT 100
       ) AS visited_countries_by_person
       JOIN Persons person ON person.wca_id = personId AND person.subId = 1
+      ORDER BY visited_countries DESC
     SQL
   end
 end

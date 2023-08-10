@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  6 August 2023*
+*Updated on  9 August 2023*
 
 
 ### Rubik's Cube
@@ -203,7 +203,7 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 5.60 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 5.37, 5.35, 7.97, 6.28, 4.60, 4.57, 5.16, 5.92, 5.41, 5.33, 4.83, 5.24, 6.03, 5.44, 5.04, 5.02, 5.96, 6.06, 6.15, 11.45, 5.15, 7.36, 4.84, 5.81, 6.03 |
+| 5.56 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 4.60, 4.57, 5.16, 5.92, 5.41, 5.33, 4.83, 5.24, 6.03, 5.44, 5.04, 5.02, 5.96, 6.06, 6.15, 11.45, 5.15, 7.36, 4.84, 5.81, 6.03, 5.20, 7.18, 5.28, 5.75 |
 | 5.72 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 6.05, 5.75, 6.35, 7.41, 5.32, 5.36, 5.97, 6.24, 5.68, 6.48, 5.65, 5.80, 4.89, 5.65, 5.18, 10.73, 4.76, 4.68, 6.06, 5.58, 6.25, 4.31, 4.63, 7.10, 5.50 |
 | 5.81 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.28, 6.29, 4.89, 5.79, 5.77, 6.15, 5.11, 8.90, 4.76, 6.55, 5.83, 5.32, 6.74, 4.70, 5.51, 6.10, 4.96, 5.31, 6.69, 6.20, 8.91, 6.86, 6.68, 5.41, 4.72 |
 | 6.11 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 5.25, 4.20, 7.27, 5.96, 7.73, 4.40, 6.54, 8.57, 5.47, 4.66, 6.92, 7.36, 8.13, 4.14, 6.81, 4.94, 7.00, 5.34, 5.92, 5.76, 6.54, 6.06, 7.01, 6.15, 5.25 |

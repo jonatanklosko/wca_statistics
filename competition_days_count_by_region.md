@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 10183 |
+| 1.49 | World | 10196 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.75 | Europe | 3339 |
-| 1.56 | South America | 1147 |
+| 1.75 | Europe | 3341 |
+| 1.56 | South America | 1152 |
 | 1.47 | Oceania | 440 |
 | 1.41 | Asia | 2349 |
 | 1.24 | Africa | 113 |
-| 1.21 | North America | 2795 |
+| 1.21 | North America | 2801 |
 
 ### Countries
 
@@ -49,13 +49,13 @@
 | 1.82 | Mexico | 116 |
 | 1.81 | Belgium | 67 |
 | 1.80 | Bosnia and Herzegovina | 10 |
-| 1.79 | Brazil | 371 |
+| 1.79 | Brazil | 372 |
 | 1.78 | Thailand | 41 |
 | 1.76 | Guatemala | 51 |
 | 1.75 | Austria | 24 |
 | 1.75 | Sri Lanka | 4 |
 | 1.74 | Slovenia | 27 |
-| 1.74 | Argentina | 68 |
+| 1.74 | Argentina | 69 |
 | 1.71 | Denmark | 133 |
 | 1.70 | Ukraine | 117 |
 | 1.68 | Poland | 381 |
@@ -67,10 +67,10 @@
 | 1.67 | San Marino | 6 |
 | 1.65 | Sweden | 188 |
 | 1.61 | Indonesia | 192 |
+| 1.61 | Ireland | 41 |
 | 1.61 | New Zealand | 87 |
 | 1.60 | Netherlands | 103 |
 | 1.60 | Bangladesh | 10 |
-| 1.60 | Ireland | 40 |
 | 1.59 | Bolivia | 93 |
 | 1.59 | India | 476 |
 | 1.57 | Italy | 180 |
@@ -81,7 +81,7 @@
 | 1.50 | Greece | 18 |
 | 1.50 | Nigeria | 4 |
 | 1.49 | Peru | 168 |
-| 1.49 | Colombia | 187 |
+| 1.48 | Colombia | 189 |
 | 1.45 | Costa Rica | 20 |
 | 1.45 | Romania | 89 |
 | 1.44 | Israel | 36 |
@@ -101,8 +101,8 @@
 | 1.32 | Vietnam | 57 |
 | 1.31 | United Arab Emirates | 16 |
 | 1.30 | Republic of Korea | 76 |
-| 1.30 | Venezuela | 61 |
 | 1.29 | Hong Kong, China | 17 |
+| 1.29 | Venezuela | 62 |
 | 1.29 | Chile | 97 |
 | 1.29 | Bahrain | 7 |
 | 1.26 | China | 615 |
@@ -115,10 +115,10 @@
 | 1.17 | Andorra | 6 |
 | 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2226 |
-| 1.15 | Canada | 295 |
+| 1.16 | United States | 2231 |
+| 1.16 | Canada | 296 |
 | 1.13 | Honduras | 15 |
-| 1.12 | Azerbaijan | 40 |
+| 1.12 | Azerbaijan | 41 |
 | 1.05 | Georgia | 21 |
 | 1.00 | Albania | 3 |
 | 1.00 | Algeria | 9 |

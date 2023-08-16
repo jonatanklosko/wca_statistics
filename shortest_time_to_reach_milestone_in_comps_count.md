@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 
 ### 100 Competitions
@@ -58,6 +58,7 @@
 | Days | Person |
 | ---: | :--- |
 | 271 | [Vishnu Sai Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
+| 274 | [August Barnard](https://www.worldcubeassociation.org/persons/2022BARN21) |
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
@@ -76,7 +77,6 @@
 | 434 | [Christofor Gabriel Costea](https://www.worldcubeassociation.org/persons/2022COST03) |
 | 435 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 441 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 442 | [Eliana Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV01) |
 
 ### 10 Competitions
 

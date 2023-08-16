@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 
 ### Rubik's Cube
@@ -173,7 +173,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 3.66 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.68, 5.45, 3.16, 3.77, 3.84, 3.27, 4.51, 4.06, 3.17, 3.30, 3.75, 3.30 |
+| 3.60 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.60, 3.93, 3.11, 2.89, 4.27, 3.28, 5.36, 3.79, 3.54, 3.63, 3.50, 3.44 |
 | 3.73 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 5.80, 3.75, 3.57, 3.35, 3.51, 4.28, 3.68, 3.76, 2.77, 2.80, 6.14, 2.89 |
 | 3.87 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3.01, 3.77, 5.31, 4.36, DNF, 4.24, 4.14, 3.11, 3.29, 3.86, 3.27, 3.36 |
 | 3.97 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | 3.83, 3.53, 4.37, 3.48, 4.45, 4.00, 9.14, 3.26, 4.11, 4.73, 3.47, 3.80 |

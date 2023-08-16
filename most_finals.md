@@ -1,28 +1,28 @@
 ## Most finals
 
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 | Finals | Person |
 | ---: | :--- |
 | 2258 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2175 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2075 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 1639 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 1647 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1626 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1476 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1451 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 1438 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1390 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 1239 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 1250 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 1227 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 1203 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1196 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 1187 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 1195 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 1153 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1135 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 1129 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1128 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
-| 1116 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1104 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1077 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
@@ -32,11 +32,11 @@
 | 1037 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 1013 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
+| 1009 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1000 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 997 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 989 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
-| 982 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
+| 983 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 945 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 936 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 932 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
@@ -75,12 +75,12 @@
 | 760 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 754 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 753 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
+| 752 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 750 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
-| 750 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 747 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 746 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
-| 745 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 745 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 745 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 736 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 733 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 732 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
@@ -89,14 +89,14 @@
 | 720 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 718 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 705 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 702 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 702 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
-| 698 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 695 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 693 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 692 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 690 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 690 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 687 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
-| 683 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 681 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 680 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 680 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |

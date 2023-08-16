@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -242,6 +242,7 @@
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Exeter Open 2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016/results/podiums) |
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Pittsburgh Fall 2019](https://www.worldcubeassociation.org/competitions/PittsburghFall2019/results/podiums) |
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Raleigh Open 2012](https://www.worldcubeassociation.org/competitions/RaleighOpen2012/results/podiums) |
+| 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Chemung Cubing 2023](https://www.worldcubeassociation.org/competitions/ChemungCubing2023/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Pittsburgh Open 2018](https://www.worldcubeassociation.org/competitions/PittsburghOpen2018/results/podiums) |
@@ -564,6 +565,7 @@
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019/results/podiums) |
+| 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Odense Classic Cubing 2023](https://www.worldcubeassociation.org/competitions/OdenseClassicCubing2023/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [SSL 2 Skurup 2019](https://www.worldcubeassociation.org/competitions/SSL2Skurup2019/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Icelandic Nationals 2019](https://www.worldcubeassociation.org/competitions/IcelandicNationals2019/results/podiums) |
@@ -951,6 +953,7 @@
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Björneborg Weekend 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWeekend2023/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [SSL IV Flen 2023](https://www.worldcubeassociation.org/competitions/SSLIVFlen2023/results/podiums) |
+| 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Tofta Summer Open 2023](https://www.worldcubeassociation.org/competitions/ToftaSummerOpen2023/results/podiums) |
 | 10 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [SSL V Uppsala 2023](https://www.worldcubeassociation.org/competitions/SSLVUppsala2023/results/podiums) |
 | 12 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [West Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2019/results/podiums) |
 | 11 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [Negros Speedcubing Open 2019](https://www.worldcubeassociation.org/competitions/NegrosSpeedcubingOpen2019/results/podiums) |
@@ -1046,6 +1049,7 @@
 | 11 | [Assylkhan Meirkhanov (Асылхан Мейрханов)](https://www.worldcubeassociation.org/persons/2018MEIR04) | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019/results/podiums) |
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Ankara April 2023](https://www.worldcubeassociation.org/competitions/AnkaraApril2023/results/podiums) |
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Edukent Weekend 2022](https://www.worldcubeassociation.org/competitions/EdukentWeekend2022/results/podiums) |
+| 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Nationals 2023](https://www.worldcubeassociation.org/competitions/TurkishNationals2023/results/podiums) |
 | 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Goodbye Winter Ankara 2023](https://www.worldcubeassociation.org/competitions/GoodbyeWinterAnkara2023/results/podiums) |
 | 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Qubes Don' Lie Ankara 2022](https://www.worldcubeassociation.org/competitions/QubesDonLieAnkara2022/results/podiums) |
 | 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Qubes Don' Lie Bursa 2022](https://www.worldcubeassociation.org/competitions/QubesDonLieBursa2022/results/podiums) |

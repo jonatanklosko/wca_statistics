@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 
 ### Rubik's Cube
@@ -192,12 +192,12 @@
 | 2.21 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.91, 1.69, 1.89, 1.14, 1.55, 1.14, 4.15, 3.74, 2.03, 2.09, 2.10, 4.38, 2.60, 4.15, 1.76, 2.11, 1.54, 2.09, 4.87, 2.21, 1.32, 1.90, 2.25, 1.76, 1.63 |
 | 2.45 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 1.54, 2.25, 2.24, 1.86, 3.36, DNF, 2.54, 2.33, 1.83, 2.55, 1.82, 2.47, 1.99, 3.15, 2.41, 2.81, 2.98, 2.95, 2.71, 1.77, 2.56, 1.92, 2.06, 4.40, 2.86 |
 | 2.48 | [Charles Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 1.88, 2.92, 1.74, 1.94, 4.14, 2.40, 3.48, 1.91, 2.80, 3.60, DNF, 2.18, 3.99, 2.10, 2.20, 2.14, 1.86, 3.64, 2.27, 1.80, 1.80, 2.46, 2.77, 2.00, 1.68 |
+| 2.55 | [Serhii Fedorniak (Сергій Федорняк)](https://www.worldcubeassociation.org/persons/2018FEDO04) | 3.23, 2.47, 2.43, 2.91, 3.47, 2.32, 2.75, 2.21, 1.59, 2.50, 1.88, 3.28, 2.75, 2.75, 2.50, 2.49, 3.05, 2.54, 2.44, 2.04, 1.63, 4.02, 2.65, 1.93, 2.58 |
 | 2.60 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 1.65, 3.98, 3.45, 3.11, 2.96, 1.99, 1.78, 4.48, 5.05, 2.84, 3.01, 2.22, 1.35, 2.14, 2.91, 2.67, 2.98, 2.58, 1.73, 2.71, 4.10, 1.90, 1.83, 1.92, 1.91 |
 | 2.60 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | 2.25, 2.50, 3.15, 3.68, 2.56, 1.91, 2.59, 4.47, 2.01, 3.80, 2.30, 3.50, 2.21, 2.87, 2.73, 1.49, 2.47, 2.23, 2.18, 3.14, 1.88, 2.05, 2.38, 3.66, 2.32 |
 | 2.61 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.61, 2.18, 2.31, 3.58, 2.30, 2.25, 2.55, 1.90, 2.01, 2.42, 2.61, 2.91, 2.78, 2.69, 2.96, 2.56, 2.82, 2.76, 2.46, 3.11, 1.52, 3.16, 5.09, 2.77, 2.75 |
 | 2.61 | [Emilio Alberto Rodríguez Jiménez](https://www.worldcubeassociation.org/persons/2018JIME14) | 2.63, 3.27, 2.69, 4.96, 2.20, 3.46, 6.22, 2.26, 2.59, 2.53, 2.11, 3.08, 2.77, 1.53, 1.96, 2.19, 2.97, 2.42, 3.45, 2.61, 3.19, 1.49, 2.20, 2.89, 1.53 |
 | 2.62 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | 2.84, 2.83, 2.11, 2.54, 1.79, 2.65, 2.85, 3.59, 2.60, 3.06, 2.55, 2.16, 2.87, 2.98, 2.09, 2.39, 2.10, 1.49, 3.75, 3.13, 2.62, 5.07, 2.12, 2.34, 2.77 |
-| 2.62 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.85, 2.48, 1.96, 4.82, 2.38, 2.07, 2.73, 3.02, 1.92, 1.71, 2.52, 2.53, 3.80, 2.86, 2.45, 5.10, 2.05, 2.54, 1.76, 2.15, 1.76, 11.28, 3.46, 3.18, 2.55 |
 
 ### Square-1
 

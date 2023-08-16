@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 
 ### Rubik's Cube
@@ -59,10 +59,10 @@
 | 0.12 | [Jorge Rafael Castañeda Sánchez](https://www.worldcubeassociation.org/persons/2010CAST01) | 1:11.74 | 1:11.86 | [NxN Tlaxcala 2019](https://www.worldcubeassociation.org/competitions/NxNTlaxcala2019/results/by_person#2010CAST01) |
 | 0.14 | [Clément Valot](https://www.worldcubeassociation.org/persons/2010VALO01) | 2:35.06 | 2:35.20 | [Diñs Open 2012](https://www.worldcubeassociation.org/competitions/DinsOpen2012/results/by_person#2010VALO01) |
 | 0.15 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 1:06.76 | 1:06.91 | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020/results/by_person#2017SWOR01) |
+| 0.16 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | 1:00.50 | 1:00.66 | [Peru Nationals 2023](https://www.worldcubeassociation.org/competitions/PeruNationals2023/results/by_person#2016MILL07) |
 | 0.20 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 49.15 | 49.35 | [Franconia Winter 2020](https://www.worldcubeassociation.org/competitions/FranconiaWinter2020/results/by_person#2010WEYE02) |
 | 0.21 | [Tomáš Zatroch](https://www.worldcubeassociation.org/persons/2016ZATR01) | 1:03.18 | 1:03.39 | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019/results/by_person#2016ZATR01) |
 | 0.21 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) | 1:06.66 | 1:06.87 | [Cubing with the Viking 2020](https://www.worldcubeassociation.org/competitions/CubingwiththeViking2020/results/by_person#2007WONG02) |
-| 0.21 | [Shunsuke Wada (和田俊輔)](https://www.worldcubeassociation.org/persons/2016WADA01) | 1:25.18 | 1:25.39 | [Japan Championship 2018](https://www.worldcubeassociation.org/competitions/JapanChampionship2018/results/by_person#2016WADA01) |
 
 ### 6x6x6 Cube
 

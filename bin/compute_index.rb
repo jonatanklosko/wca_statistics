@@ -4,6 +4,7 @@ require_relative "../statistics/index"
 
 # Sort certain statistics numerically rather than alphabetically.
 def order(a, b)
+  puts "Ordering " + a.join(", ") + b.join(", ")
   ["average_of_"].each do |id|
     if(a[0].gsub(/\d/, '') == id and b[0].gsub(/\d/, '') == id)
       a[0].gsub(/\D/, '').to_i <=> b[0].gsub(/\D/, '').to_i

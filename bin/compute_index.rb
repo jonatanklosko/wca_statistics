@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require_relative "../statistics/index"
+
 # Generate statistics index.
 puts "Computing statistics index."
 build_path = File.expand_path("../build", __dir__)

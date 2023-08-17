@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 14 August 2023*
+*Updated on 17 August 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -232,6 +232,7 @@
 | 12 | [Anatoly Kim](https://www.worldcubeassociation.org/persons/2009KIMA01) | [OktoberBrest 2014](https://www.worldcubeassociation.org/competitions/OktoberBrest2014/results/podiums) |
 | 16 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [France 2014](https://www.worldcubeassociation.org/competitions/FrenchChampionship2014/results/podiums) |
 | 14 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017/results/podiums) |
+| 14 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Panama Nationals 2023](https://www.worldcubeassociation.org/competitions/PanamaNationals2023/results/podiums) |
 | 13 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016/results/podiums) |
 | 13 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016/results/podiums) |
 | 12 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [ABHC 2016](https://www.worldcubeassociation.org/competitions/ABHC2016/results/podiums) |
@@ -739,6 +740,7 @@
 | 14 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Sin Fronteras Ecuador 2019](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2019/results/podiums) |
 | 12 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Ecuador Nationals 2018](https://www.worldcubeassociation.org/competitions/EcuadorNationals2018/results/podiums) |
 | 11 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Guayaquil Championship 2018](https://www.worldcubeassociation.org/competitions/GuayaquilChampionship2018/results/podiums) |
+| 11 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Nacionales El Salvador 2023](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2023/results/podiums) |
 | 10 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Caracolí Open 2018](https://www.worldcubeassociation.org/competitions/CaracoliOpen2018/results/podiums) |
 | 10 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Rodeo Carnivals 2017](https://www.worldcubeassociation.org/competitions/RodeoCarnivals2017/results/podiums) |
 | 11 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | [Pulmapelipäivät 2018](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2018/results/podiums) |

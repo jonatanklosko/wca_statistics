@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 14 August 2023*
+*Updated on 17 August 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -47,6 +47,7 @@
 | 8 | [Eden Village Winter 2017](https://www.worldcubeassociation.org/competitions/EdenVillageWinter2017) |
 | 8 | [FMC Kamppi 2019](https://www.worldcubeassociation.org/competitions/FMCKamppi2019) |
 | 8 | [FMC Ukraine Friendship 2022](https://www.worldcubeassociation.org/competitions/FMCUkraineFriendship2022) |
+| 8 | [Georgia Summer Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaSummerOpen2023) |
 | 8 | [Hilliard Hippocampus 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampus2023) |
 | 8 | [Hilliard Hippocampus IV 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusIV2023) |
 | 8 | [Hilliard Hippocampus VII 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusVII2023) |

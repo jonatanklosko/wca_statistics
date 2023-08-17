@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 14 August 2023*
+*Updated on 17 August 2023*
 
 
 ### Rubik's Cube
@@ -15,8 +15,8 @@
 | 5.45 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.49, 5.48, 5.43, 4.76, 9.23, 6.53, 5.65, 5.16, 5.54, 5.89, 5.16, 4.95 |
 | 5.50 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.23, 4.84, 6.48, 5.68, 4.74, 4.52, 4.88, 6.59, 6.43, 7.96, 4.62, 5.56 |
 | 5.59 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 5.93, 6.40, 5.85, 5.10, 4.62, 7.61, 5.29, 5.47, 6.72, 4.97, 4.31, 5.64 |
+| 5.70 | [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) | 5.86, 5.37, 6.51, 5.40, 7.20, 5.83, 5.29, 5.12, 6.79, 5.43, 4.97, 5.48 |
 | 5.80 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5.80, 5.84, 5.96, 5.45, 6.18, 5.39, 6.35, 5.88, 5.63, 5.56, DNF, 5.16 |
-| 5.82 | [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) | 5.99, 5.47, 6.09, 5.75, 6.35, 5.94, 4.92, 6.00, 5.10, 6.11, 7.68, 5.42 |
 | 5.84 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | 6.35, 5.21, 4.95, 5.04, 6.76, 6.44, 6.12, 7.15, 5.22, 6.61, 5.70, 4.96 |
 
 ### 2x2x2 Cube

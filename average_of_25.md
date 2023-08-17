@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 14 August 2023*
+*Updated on 17 August 2023*
 
 
 ### Rubik's Cube
@@ -116,13 +116,13 @@
 | 22.14 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 20, 21, 20, 24, 34, 19, 25, 23, 21, 21, 25, 21, 21, 24, 23, 21, 22, 25, 22, 22, 24, 21, 20, 21, 23 |
 | 22.52 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 25, 23, 18, 22, 27, 26, 22, 23, 22, 23, 23, 23, 21, 21, 24, 23, 23, 22, 22, 24, 24, 19, 20, 21 |
 | 22.90 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 24, 22, 21, 22, 25, 24, 26, 21, 25, 23, 24, 20, 20, 23, 25, 20, 23, 22, 25, 25, 22, 21, 23, 24, 22 |
+| 22.95 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 22, 21, 24, 23, 22, 23, 28, 25, 24, 22, 21, 22, 22, 25, 23, 22, 25, 23, 21, 23, 25, 21, 24, 23, 23 |
 | 23.00 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 22, 22, 22, 24, 26, 26, 21, 27, 23, 26, 24, 21, 21, DNF, 20, 23, DNF, 23, 21, 20, 22, 23, 22, 22, 22 |
-| 23.00 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 23, 23, 22, 28, 24, 22, 21, 24, 23, 22, 23, 28, 25, 24, 22, 21, 22, 22, 25, 23, 22, 25, 23, 21, 23 |
 | 23.57 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 24, 22, 24, 25, 21, 24, 26, 21, 26, 24, 23, 21, 23, 24, 25, 23, 23, 24, 22, 25, 21, 25, 23, 27, 24 |
 | 23.61 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 24, 19, 30, 25, 23, 23, 24, 22, 20, 25, 26, 24, 23, 24, 25, 26, 23, 24, 21, 27, 23, 21, 23, 23, 24 |
+| 24.04 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 26, 24, 26, 23, 21, 30, 28, 20, 23, 23, 24, 22, 25, 27, 25, 22, 26, 24, 21, 24, 25, 21, 28, 23, 23 |
 | 24.09 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 25, 28, 21, 23, 25, 25, 20, 23, 25, 25, 25, 24, 23, 25, 23, 23, 23, 25, 22, 26, 25, 25, 22, 25, 25 |
 | 24.19 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 23, 21, 21, DNF, 26, 26, 26, 22, 29, 23, 22, 26, 27, 25, 27, 34, 27, 25, 21, 20, 21, 25, 24, 21, 21 |
-| 24.23 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 29, 25, 25, 26, 24, 26, 23, 21, 30, 28, 20, 23, 23, 24, 22, 25, 27, 25, 22, 26, 24, 21, 24, 25, 21 |
 
 ### 3x3x3 One-Handed
 

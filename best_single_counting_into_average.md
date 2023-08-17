@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 14 August 2023*
+*Updated on 17 August 2023*
 
 
 ### Rubik's Cube
@@ -134,9 +134,9 @@
 | 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2018KHAN28) |
 | 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
 | 1.43 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022/results/by_person#2018KHAN28) |
+| 1.46 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2013BURL01) |
 | 1.47 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/by_person#2015ROBI04) |
 | 1.48 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [North Jersey Speedsolving B 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingB2023/results/by_person#2018KHAN28) |
-| 1.49 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [Sioux Falls Spring 2022](https://www.worldcubeassociation.org/competitions/SiouxFallsSpring2022/results/by_person#2015ROBI04) |
 
 ### Square-1
 

@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 14 August 2023*
+*Updated on 17 August 2023*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -25,11 +25,11 @@
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **95** | 102 | 87 | 284 |
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | **94** | 34 | 27 | 155 |
 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | **92** | 99 | 67 | 258 |
+| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **89** | 119 | 73 | 281 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **88** | 31 | 27 | 146 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **87** | 18 | 7 | 112 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **84** | 54 | 30 | 168 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **80** | 115 | 72 | 267 |
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **76** | 100 | 49 | 225 |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **72** | 64 | 83 | 219 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **72** | 40 | 25 | 137 |
@@ -48,14 +48,14 @@
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **54** | 45 | 40 | 139 |
+| [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **54** | 32 | 13 | 99 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 23 | 17 | 94 |
 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **53** | 46 | 33 | 132 |
-| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **53** | 34 | 36 | 123 |
+| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **53** | 38 | 38 | 129 |
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **53** | 16 | 3 | 72 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | **51** | 20 | 11 | 82 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **50** | 61 | 63 | 174 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **50** | 50 | 38 | 138 |
-| [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **50** | 28 | 10 | 88 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | **49** | 44 | 40 | 133 |
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **48** | 43 | 29 | 120 |
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **48** | 21 | 18 | 87 |

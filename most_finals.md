@@ -1,11 +1,11 @@
 ## Most finals
 
-*Updated on 17 August 2023*
+*Updated on 20 August 2023*
 
 | Finals | Person |
 | ---: | :--- |
 | 2258 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 2175 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 2179 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2075 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 1647 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1626 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
@@ -13,7 +13,7 @@
 | 1476 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1451 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 1438 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 1390 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
+| 1394 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 1265 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 1227 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 1203 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 17 August 2023*
+*Updated on 20 August 2023*
 
 | 4th places | Person |
 | ---: | :--- |

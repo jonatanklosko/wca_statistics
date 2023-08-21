@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 17 August 2023*
+*Updated on 20 August 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -106,6 +106,7 @@
 | 10 | [Back to Cambridge A 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeA2021) |
 | 10 | [BASC 38 PBQ 2022](https://www.worldcubeassociation.org/competitions/BASC38PBQ2022) |
 | 10 | [Bergshamra 2013](https://www.worldcubeassociation.org/competitions/BergshamraBlind2013) |
+| 10 | [Bucharest Blind 2023](https://www.worldcubeassociation.org/competitions/BucharestBlind2023) |
 | 10 | [Clock N' FMC Wisconsin 2019](https://www.worldcubeassociation.org/competitions/ClockNFMCWisconsin2019) |
 | 10 | [Cowboys FMC Party 2017](https://www.worldcubeassociation.org/competitions/CowboysFMCParty2017) |
 | 10 | [Cubing Chitwan 2019](https://www.worldcubeassociation.org/competitions/CubingChitwan2019) |
@@ -133,6 +134,7 @@
 | 10 | [Michigan Mini 3 2023](https://www.worldcubeassociation.org/competitions/MichiganMini32023) |
 | 10 | [Minx Open PM 2022](https://www.worldcubeassociation.org/competitions/MinxOpenPM2022) |
 | 10 | [MIT FMC 2014](https://www.worldcubeassociation.org/competitions/MITFMC2014) |
+| 10 | [Panaad Memo & Demo 2023](https://www.worldcubeassociation.org/competitions/PanaadMemoDemo2023) |
 | 10 | [Please Be Quiet Frisco 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietFrisco2019) |
 | 10 | [Please Be Quiet Utah 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietUtah2019) |
 | 10 | [Please Be Solved Vancouver 2023](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2023) |
@@ -240,6 +242,7 @@
 | 13 | [Bahia Summer 2010](https://www.worldcubeassociation.org/competitions/BahiaInglesaSummer2010) |
 | 13 | [Balakən Open 2019](https://www.worldcubeassociation.org/competitions/BalakanOpen2019) |
 | 13 | [Bergen Open 2014](https://www.worldcubeassociation.org/competitions/BergenOpen2014) |
+| 13 | [Bratislava Outside Cubing 2023](https://www.worldcubeassociation.org/competitions/BratislavaOutsideCubing2023) |
 | 13 | [Cagayan de Oro Open 2012](https://www.worldcubeassociation.org/competitions/Cagayan2012) |
 | 13 | [Cambridge Summer Challenge 2022](https://www.worldcubeassociation.org/competitions/CambridgeSummerChallenge2022) |
 | 13 | [China FM Beijing 2011](https://www.worldcubeassociation.org/competitions/ChinaFMBeijing2011) |

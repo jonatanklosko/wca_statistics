@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 17 August 2023*
+*Updated on 20 August 2023*
 
 
 ### Rubik's Cube - Single
@@ -324,7 +324,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | **1.51** | United States | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023) | 1.61, 1.53, 1.42, 1.39, 1.57 |
-| [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **1.55** | New Zealand | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023) | 1.28, 2.82, 1.49, 1.34, 1.81 |
+| [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **1.52** | New Zealand | [Ōtepoti Winter 2023](https://www.worldcubeassociation.org/competitions/OtepotiWinter2023) | 1.24, 1.41, 2.33, 1.73, 1.43 |
 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | **1.56** | Australia | [Newcastle Open 2023](https://www.worldcubeassociation.org/competitions/NewcastleOpen2023) | 1.43, 4.22, 1.51, 1.47, 1.71 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **1.57** | United Kingdom | [Hampshire Spring 2023](https://www.worldcubeassociation.org/competitions/HampshireSpring2023) | 1.38, 2.02, 1.64, 1.68, 1.29 |
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | **1.64** | United States | [Richmond Spring 2023](https://www.worldcubeassociation.org/competitions/RichmondSpring2023) | 1.30, 1.62, 1.67, 1.62, 1.96 |

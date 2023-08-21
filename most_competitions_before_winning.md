@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 17 August 2023*
+*Updated on 20 August 2023*
 
 
 ### Rubik's Cube
@@ -105,9 +105,9 @@
 | 65 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Eagle of the East 2018](https://www.worldcubeassociation.org/competitions/EagleoftheEast2018) |
 | 63 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [CCPA Open 2019](https://www.worldcubeassociation.org/competitions/CCPAOpen2019) |
 | 59 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) | [Lampang Open 2011](https://www.worldcubeassociation.org/competitions/LampangOpen2011) |
+| 58 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | [Rocky Jerusalem 2023](https://www.worldcubeassociation.org/competitions/RockyJerusalem2023) |
 | 55 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) | [Tirol Open 2019](https://www.worldcubeassociation.org/competitions/TirolOpen2019) |
 | 54 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | [Idaho Speedcubing 2016](https://www.worldcubeassociation.org/competitions/IdahoSpeedcubing2016) |
-| 53 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | [IndalOpen 2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019) |
 
 ### 3x3x3 Fewest Moves
 

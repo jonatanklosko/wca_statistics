@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 17 August 2023*
+*Updated on 20 August 2023*
 
 
 ### Rubik's Cube
@@ -159,7 +159,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 1.56 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.62, 1.69, 1.67, 1.32, 1.70, 1.73, 1.29, 1.63, 1.35, 14.94, 1.53, 1.37 |
-| 1.70 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.82, 1.15, 1.53, 1.86, 1.62, 1.98, 1.19, 2.75, 1.87, 1.79, 1.87, 1.55 |
+| 1.69 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.19, 3.94, 1.88, 1.95, 1.58, 1.88, 1.52, 1.24, 1.41, 2.33, 1.73, 1.43 |
 | 1.74 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.17, 2.60, 1.80, 2.26, 2.01, 1.64, 1.63, 1.88, 1.30, 1.62, 1.67, 1.62 |
 | 1.79 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 2.36, 1.46, 1.94, 1.82, 1.79, 1.84, 2.13, 3.03, 1.91, 1.27, 1.38, 1.18 |
 | 1.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.79, 2.21, 1.74, 1.39, 2.69, 1.76, 1.33, 1.87, 2.02, 2.34, 1.35, 1.77 |

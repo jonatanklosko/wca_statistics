@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 17 August 2023*
+*Updated on 20 August 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -426,6 +426,7 @@
 | 4109 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 4212 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) |
 | 4221 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
+| 4229 | [Andrei Răzvan Ionel](https://www.worldcubeassociation.org/persons/2012IONE01) |
 | 4318 | [Koh Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) |
 | 4383 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) |
 | 4446 | [Austin Reed](https://www.worldcubeassociation.org/persons/2011REED01) |

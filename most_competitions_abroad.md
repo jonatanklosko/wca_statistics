@@ -1,15 +1,15 @@
 ## Most competitions abroad
 
-*Updated on 17 August 2023*
+*Updated on 20 August 2023*
 
 | Competitions | Person |
 | ---: | :--- |
 | 168 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
-| 157 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 158 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 138 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 134 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 122 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
-| 121 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
+| 122 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 119 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 116 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 110 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
@@ -60,47 +60,47 @@
 | 56 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 56 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 55 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 55 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 55 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 54 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 54 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 54 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 54 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
-| 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 54 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
+| 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
+| 54 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
+| 54 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 53 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 53 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
 | 52 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
-| 51 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
 | 51 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
 | 51 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 51 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
+| 51 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
+| 50 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
 | 50 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
 | 50 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
-| 50 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
-| 49 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 49 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
-| 49 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
-| 49 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 49 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
+| 49 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
+| 49 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 49 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 48 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
-| 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 48 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 48 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
+| 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 47 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
+| 47 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
-| 47 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
-| 46 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 46 | [Aramayis Adloyan (Արամայիս Ադլոյան)](https://www.worldcubeassociation.org/persons/2012ADLO01) |
-| 46 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 46 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
+| 46 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
+| 46 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 45 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
-| 44 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 44 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 44 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
-| 44 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
-| 44 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
 | 44 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
+| 44 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
+| 44 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
+| 44 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 43 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 43 | [Billy Burier](https://www.worldcubeassociation.org/persons/2014BURI01) |
 | 43 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |

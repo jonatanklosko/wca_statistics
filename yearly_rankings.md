@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 20 August 2023*
+*Updated on 23 August 2023*
 
 
 ### Rubik's Cube - Single
@@ -358,11 +358,11 @@
 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **3.65** | United Kingdom | [Lincolnshire Winter 2023](https://www.worldcubeassociation.org/competitions/LincolnshireWinter2023) | 3.35, 3.51, 4.28, 3.68, 3.76 |
 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | **3.81** | China | [Essex Spring 2023](https://www.worldcubeassociation.org/competitions/EssexSpring2023) | 4.40, 3.79, 3.37, 3.80, 3.83 |
 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | **3.88** | United States | [DFW Cubing Summer 2023](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2023) | 4.36, 3.58, 3.71, 3.42, 5.17 |
+| [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | **4.08** | United States | [Naperville Summer 2023](https://www.worldcubeassociation.org/competitions/NapervilleSummer2023) | 4.47, 3.72, 4.04, 3.52, 4.82 |
 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | **4.09** | United States | [Warm Up in Mount Prospect 2023](https://www.worldcubeassociation.org/competitions/WarmUpinMountProspect2023) | 3.45, 5.24, 3.40, 4.81, 4.01 |
 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | **4.10** | United States | [Southeast Championship 2023](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2023) | 4.13, 3.87, 5.24, 4.30, 3.78 |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **4.10** | United States | [Agoura Cubing 2023](https://www.worldcubeassociation.org/competitions/AgouraCubing2023) | 2.81, DNF, 4.16, 4.81, 3.34 |
 | [Eddie Artze](https://www.worldcubeassociation.org/persons/2020ARTZ01) | **4.16** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 3.91, 4.40, 3.81, 4.32, 4.25 |
-| [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | **4.16** | United States | [West Side Cube Clash 2023](https://www.worldcubeassociation.org/competitions/WestSideCubeClash2023) | 4.52, 3.69, 4.19, 4.08, 4.21 |
 
 ### Skewb - Single
 

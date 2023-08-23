@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 20 August 2023*
+*Updated on 23 August 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1037,6 +1037,7 @@
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Uberlândia Open 2019](https://www.worldcubeassociation.org/competitions/UberlandiaOpen2019/results/podiums) |
 | 11 | [Samir Homsi](https://www.worldcubeassociation.org/persons/2018HOMS01) | [Ankara Summer 2022](https://www.worldcubeassociation.org/competitions/AnkaraSummer2022/results/podiums) |
 | 10 | [Samir Homsi](https://www.worldcubeassociation.org/persons/2018HOMS01) | [Ankara Summer 2021](https://www.worldcubeassociation.org/competitions/AnkaraSummer2021/results/podiums) |
+| 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [Couffouleux Open 2023](https://www.worldcubeassociation.org/competitions/CouffouleuxOpen2023/results/podiums) |
 | 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [Lleida Open 2022](https://www.worldcubeassociation.org/competitions/LleidaOpen2022/results/podiums) |
 | 13 | [Andres Sanchez Ponce](https://www.worldcubeassociation.org/persons/2018PONC02) | [Panama Nationals 2022](https://www.worldcubeassociation.org/competitions/PanamaNationals2022/results/podiums) |
 | 12 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Argentina ReOpen 2021](https://www.worldcubeassociation.org/competitions/ArgentinaReOpen2021/results/podiums) |

@@ -1,12 +1,12 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 20 August 2023*
+*Updated on 23 August 2023*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
 | 21 | 5x5x5 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2010](https://www.worldcubeassociation.org/competitions/AustralianNationals2010) | [Western Championship 2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018) | 7.78 |
 | 11 | 5x5x5 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2012](https://www.worldcubeassociation.org/competitions/AustralianNationals2012) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) | 5.73 |
-| 10 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) |  | 5.60 |
+| 10 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) |  | 5.61 |
 | 9 | Rubik's Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | [OCSEF 2017](https://www.worldcubeassociation.org/competitions/OCSEFOpen2017) | 7.23 |
 | 9 | 5x5x5 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018) |  | 5.19 |
 | 8 | 4x4x4 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks for the InFive 2018](https://www.worldcubeassociation.org/competitions/ThanksfortheInFive2018) |  | 5.28 |
@@ -53,7 +53,7 @@
 | 4 | Pyraminx | Average | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | [Indiana 2014](https://www.worldcubeassociation.org/competitions/Indiana2014) | [Czech Open 2016](https://www.worldcubeassociation.org/competitions/CzechOpen2016) | 1.91 |
 | 4 | Pyraminx | Average | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017) | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022) | 4.08 |
 | 4 | 4x4x4 Blindfolded | Average | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) | 3.29 |
-| 4 | 4x4x4 Blindfolded | Average | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |  | 4.11 |
+| 4 | 4x4x4 Blindfolded | Average | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |  | 4.12 |
 | 4 | 5x5x5 Blindfolded | Single | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | [Zune Open 2012](https://www.worldcubeassociation.org/competitions/ZuneOpen2012) | [Welcome To Cambridge 2014](https://www.worldcubeassociation.org/competitions/WelcomeToCambridge2014) | 2.20 |
 | 4 | 5x5x5 Blindfolded | Single | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | [Xi'an Cherry Blossom 2017](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2017) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) | 1.32 |
 | 4 | 3x3x3 Multi-Blind | Single | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | [Silence in the Grove 2019](https://www.worldcubeassociation.org/competitions/SilenceInTheGrove2019) |  | 4.24 |

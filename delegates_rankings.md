@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 20 August 2023*
+*Updated on 23 August 2023*
 
 
 ### Rubik's Cube - Single
@@ -56,7 +56,7 @@
 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | **1.23** | United States | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) | 0.79, 1.78, 1.17, 1.00, 1.52 |
 | [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) | **1.29** | Georgia | [Georgia Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaOpen2023) | 1.26, 1.29, 1.32, 1.20, 1.89 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **1.38** | United States | [Florida Spring A 2022](https://www.worldcubeassociation.org/competitions/FloridaSpringA2022) | 1.75, 1.67, 1.09, 1.36, 1.11 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.51** | United States | [Heartland Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2023) | 0.89, 2.33, 1.37, 1.80, 1.37 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.39** | United States | [Naperville Summer 2023](https://www.worldcubeassociation.org/competitions/NapervilleSummer2023) | 1.45, 1.15, 1.55, 1.18, 3.96 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **1.53** | Denmark | [Hvidovre Sommer 2023](https://www.worldcubeassociation.org/competitions/HvidovreSommer2023) | 1.11, 1.96, 4.03, 1.21, 1.42 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **1.55** | Australia | [Australian Nationals 2015](https://www.worldcubeassociation.org/competitions/AustralianNationals2015) | 1.02, 1.21, 4.97, 2.09, 1.36 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **1.55** | Australia | [Victorian Open 2022](https://www.worldcubeassociation.org/competitions/VictorianOpen2022) | 1.65, 1.85, 1.21, 1.52, 1.49 |

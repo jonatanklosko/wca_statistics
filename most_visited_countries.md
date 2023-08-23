@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 20 August 2023*
+*Updated on 23 August 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -14,10 +14,10 @@
 | 32 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 27 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
+| 26 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 26 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 25 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 25 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 25 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |

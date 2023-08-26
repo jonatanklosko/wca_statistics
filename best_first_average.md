@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 23 August 2023*
+*Updated on 26 August 2023*
 
 
 ### Rubik's Cube
@@ -61,8 +61,8 @@
 | 1:00.37 | [Sujan Irosha Kumarapperuma](https://www.worldcubeassociation.org/persons/2019KUMA59) |
 | 1:00.51 | [Tianzuo Du (杜天佐)](https://www.worldcubeassociation.org/persons/2021DUTI01) |
 | 1:00.83 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) |
+| 1:01.70 | [James Sebastian Lintong](https://www.worldcubeassociation.org/persons/2023LINT08) |
 | 1:02.39 | [Yudai Naito (内藤悠大)](https://www.worldcubeassociation.org/persons/2023NAIT01) |
-| 1:02.79 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
 
 ### 6x6x6 Cube
 

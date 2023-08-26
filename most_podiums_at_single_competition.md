@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 23 August 2023*
+*Updated on 26 August 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -718,6 +718,7 @@
 | 10 | [Prakhar Gupta](https://www.worldcubeassociation.org/persons/2014GUPT09) | [J Cube Jammu 2017](https://www.worldcubeassociation.org/competitions/JCubeJammu2017/results/podiums) |
 | 12 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Belgorod Open 2018](https://www.worldcubeassociation.org/competitions/BelgorodOpen2018/results/podiums) |
 | 12 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Frankivsk Open 2019](https://www.worldcubeassociation.org/competitions/FrankivskOpen2019/results/podiums) |
+| 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Podolian Open 2023](https://www.worldcubeassociation.org/competitions/PodolianOpen2023/results/podiums) |
 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Cubes Masters Zhytomyr 2019](https://www.worldcubeassociation.org/competitions/CubesMastersZhytomyr2019/results/podiums) |
 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Fresh Cube 2017](https://www.worldcubeassociation.org/competitions/FreshCube2017/results/podiums) |
 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ternopil Science Cubing 2023](https://www.worldcubeassociation.org/competitions/TSC2023/results/podiums) |
@@ -972,6 +973,7 @@
 | 12 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Oregon Championship 2019](https://www.worldcubeassociation.org/competitions/OregonChampionship2019/results/podiums) |
 | 11 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northwest Championship 2019](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2019/results/podiums) |
 | 10 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022/results/podiums) |
+| 10 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Taman Anggrek Speedcubing 2023](https://www.worldcubeassociation.org/competitions/TamanAnggrekSpeedcubing2023/results/podiums) |
 | 11 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Washington Championship 2023](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2023/results/podiums) |
 | 10 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Iquitos Cubing 2018](https://www.worldcubeassociation.org/competitions/IquitosCubing2018/results/podiums) |
 | 10 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Speedsolving Huancayo 2022](https://www.worldcubeassociation.org/competitions/SpeedsolvingHuancayo2022/results/podiums) |
@@ -1026,6 +1028,7 @@
 | 13 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Itajaí ao Cubo 2023](https://www.worldcubeassociation.org/competitions/ItajaiaoCubo2023/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Faria Brito Open 2022](https://www.worldcubeassociation.org/competitions/FariaBritoOpen2022/results/podiums) |
+| 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Morro Reuter Cubing 2023](https://www.worldcubeassociation.org/competitions/MorroReuterCubing2023/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UFBA II 2023](https://www.worldcubeassociation.org/competitions/UFBAII2023/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Bigs & Blind 2023](https://www.worldcubeassociation.org/competitions/BrasiliaBigsBlind2023/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Bravamall Open 2023](https://www.worldcubeassociation.org/competitions/BravamallOpen2023/results/podiums) |

@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 23 August 2023*
+*Updated on 26 August 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 10257 |
+| 1.49 | World | 10270 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.75 | Europe | 3364 |
-| 1.56 | South America | 1163 |
-| 1.47 | Oceania | 443 |
+| 1.75 | Europe | 3367 |
+| 1.56 | South America | 1166 |
+| 1.47 | Oceania | 446 |
 | 1.41 | Asia | 2355 |
 | 1.25 | Africa | 114 |
-| 1.21 | North America | 2818 |
+| 1.21 | North America | 2822 |
 
 ### Countries
 
@@ -35,8 +35,8 @@
 | 1.98 | United Kingdom | 175 |
 | 1.97 | Slovakia | 29 |
 | 1.93 | Belarus | 42 |
+| 1.93 | Norway | 96 |
 | 1.92 | Russia | 220 |
-| 1.92 | Norway | 95 |
 | 1.91 | Iceland | 11 |
 | 1.89 | Germany | 198 |
 | 1.88 | Serbia | 17 |
@@ -44,7 +44,7 @@
 | 1.86 | France | 256 |
 | 1.86 | Croatia | 21 |
 | 1.85 | Switzerland | 92 |
-| 1.85 | Spain | 284 |
+| 1.85 | Spain | 286 |
 | 1.83 | Finland | 109 |
 | 1.82 | Mexico | 116 |
 | 1.81 | Belgium | 68 |
@@ -80,12 +80,12 @@
 | 1.50 | Ghana | 2 |
 | 1.50 | Greece | 18 |
 | 1.50 | Nigeria | 4 |
-| 1.49 | Peru | 172 |
-| 1.48 | Colombia | 191 |
+| 1.49 | Peru | 173 |
+| 1.48 | Colombia | 193 |
 | 1.46 | Israel | 37 |
 | 1.45 | Costa Rica | 20 |
 | 1.45 | Romania | 89 |
-| 1.43 | Australia | 356 |
+| 1.43 | Australia | 359 |
 | 1.42 | Bulgaria | 12 |
 | 1.39 | Nepal | 18 |
 | 1.38 | Singapore | 39 |
@@ -115,7 +115,7 @@
 | 1.17 | Andorra | 6 |
 | 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2246 |
+| 1.16 | United States | 2250 |
 | 1.15 | Canada | 298 |
 | 1.13 | Honduras | 15 |
 | 1.12 | Azerbaijan | 41 |

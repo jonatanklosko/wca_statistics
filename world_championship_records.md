@@ -1,49 +1,49 @@
 ## World Championship records
 
 *Note: This is a list of the best results from all World Championships. It corresponds to Olympic records for Olympic sports.*
-*Updated on 23 August 2023*
+*Updated on 26 August 2023*
 
 
 ### Single
 
 | Event | Result | Person | Citizen of | Competition |
 | :--- | ---: | :--- | :--- | :--- |
-| Rubik's Cube | 4.82 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | Australia | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 2x2x2 Cube | 0.87 | [Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01) | United Kingdom | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 4x4x4 Cube | 19.08 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 5x5x5 Cube | 38.52 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | Australia | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
-| 6x6x6 Cube | 1:17.49 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 7x7x7 Cube | 1:44.02 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 3x3x3 Blindfolded | 16.23 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 3x3x3 Fewest Moves | 22 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | Denmark | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 3x3x3 One-Handed | 7.85 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| Megaminx | 28.20 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | Peru | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| Pyraminx | 1.43 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | India | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
-| Rubik's Clock | 4.42 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | China | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| Skewb | 0.93 | [Andrew Huang](https://www.worldcubeassociation.org/persons/2016HUAN43) | Australia | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| Square-1 | 5.58 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
+| Rubik's Cube | 4.25 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | China | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 2x2x2 Cube | 0.58 | [Kyle Santucci](https://www.worldcubeassociation.org/persons/2016SANT08) | Canada | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 4x4x4 Cube | 17.93 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 5x5x5 Cube | 35.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 6x6x6 Cube | 1:00.33 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 7x7x7 Cube | 1:41.44 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 3x3x3 Blindfolded | 13.98 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 3x3x3 Fewest Moves | 19 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 3x3x3 One-Handed | 6.45 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | Hong Kong, China | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| Megaminx | 26.00 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | New Zealand | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| Pyraminx | 1.13 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | China | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| Rubik's Clock | 2.97 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| Skewb | 0.91 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| Square-1 | 4.54 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 4x4x4 Blindfolded | 1:08.07 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 5x5x5 Blindfolded | 2:38.77 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
+| 5x5x5 Blindfolded | 2:18.78 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | Malaysia | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 3x3x3 Multi-Blind | 51/54 59:06 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 
 ### Average
 
 | Event | Result | Person | Citizen of | Competition |
 | :--- | ---: | :--- | :--- | :--- |
-| Rubik's Cube | 5.88 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 2x2x2 Cube | 1.44 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | Netherlands | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 4x4x4 Cube | 21.58 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 5x5x5 Cube | 41.43 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 6x6x6 Cube | 1:20.40 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 7x7x7 Cube | 1:50.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 3x3x3 Blindfolded | 18.67 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 3x3x3 Fewest Moves | 25.33 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | Indonesia | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 3x3x3 One-Handed | 9.50 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| Megaminx | 32.78 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | Peru | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| Pyraminx | 2.04 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | United States | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
-| Rubik's Clock | 4.73 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | China | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| Skewb | 2.85 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | Poland | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
-| Square-1 | 7.50 | [Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02) | Japan | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
+| Rubik's Cube | 4.84 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | China | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 2x2x2 Cube | 1.21 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 4x4x4 Cube | 21.30 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 5x5x5 Cube | 37.13 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 6x6x6 Cube | 1:07.11 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 7x7x7 Cube | 1:45.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 3x3x3 Blindfolded | 14.15 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 3x3x3 Fewest Moves | 22.33 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 3x3x3 One-Handed | 8.83 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| Megaminx | 27.66 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | Argentina | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| Pyraminx | 1.65 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | China | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| Rubik's Clock | 3.75 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| Skewb | 1.89 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| Square-1 | 5.40 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 4x4x4 Blindfolded | 1:21.81 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 5x5x5 Blindfolded | 7:05.77 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | Hungary | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
 

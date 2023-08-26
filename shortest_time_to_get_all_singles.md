@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 23 August 2023*
+*Updated on 26 August 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -42,6 +42,7 @@
 | 497 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 497 | [Jaden Lim](https://www.worldcubeassociation.org/persons/2017LIMJ02) |
 | 519 | [Rodrigo Pueblas Núñez](https://www.worldcubeassociation.org/persons/2014NUNE05) |
+| 524 | [Thiago Han](https://www.worldcubeassociation.org/persons/2022HANT01) |
 | 531 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) |
 | 532 | [Diasbek Zhuraev (Диасбек Жураев)](https://www.worldcubeassociation.org/persons/2021ZHUR04) |
 | 539 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
@@ -137,8 +138,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
+| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |

@@ -1,6 +1,6 @@
 ## Most delegated competitions
 
-*Updated on 23 August 2023*
+*Updated on 26 August 2023*
 
 | Delegated | Person | List on WCA |
 | ---: | :--- | :--: |
@@ -48,8 +48,8 @@
 | 74 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=50063) |
 | 73 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=16) |
 | 72 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=248) |
+| 71 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1352) |
 | 70 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=249) |
-| 70 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1352) |
 | 70 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=383) |
 | 70 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=13545) |
 | 69 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=428) |
@@ -91,9 +91,9 @@
 | 50 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=284) |
 | 50 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1517) |
 | 50 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6755) |
+| 50 | [Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=5952) |
 | 49 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=246) |
 | 49 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=18) |
-| 49 | [Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=5952) |
 | 49 | [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=108268) |
 | 48 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6115) |
 | 48 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=41) |
@@ -103,16 +103,16 @@
 | 47 | [Yuji Suse (巣瀬雄史)](https://www.worldcubeassociation.org/persons/2005SUSE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=313) |
 | 47 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=315) |
 | 47 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1703) |
+| 47 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6898) |
 | 46 | [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=96587) |
-| 46 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6898) |
 | 46 | [Cady Shields](https://www.worldcubeassociation.org/persons/2014SHIE03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=20732) |
 | 46 | [Charlie van Ooran](https://www.worldcubeassociation.org/persons/2017OORA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=61931) |
 | 44 | [Vidar Norstein Klungre](https://www.worldcubeassociation.org/persons/2008KLUN01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=289) |
 | 44 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=695) |
 | 44 | [Gianluca Placenti](https://www.worldcubeassociation.org/persons/2012PLAC01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=524) |
+| 44 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=193382) |
 | 43 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=17812) |
 | 43 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=140169) |
-| 43 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=193382) |
 | 42 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=378) |
 | 42 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1273) |
 | 41 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=81510) |
@@ -140,10 +140,10 @@
 | 36 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1442) |
 | 36 | [Jose Abanto Ortiz](https://www.worldcubeassociation.org/persons/2012ORTI04) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=25276) |
 | 36 | [Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=8111) |
+| 36 | [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=12958) |
 | 36 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6636) |
 | 36 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=59527) |
 | 35 | [Artem Melikian (Артем Мелікян)](https://www.worldcubeassociation.org/persons/2011MELI01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=156) |
-| 35 | [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=12958) |
 | 35 | [Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=29352) |
 | 34 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1436) |
 | 34 | [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=153) |
@@ -187,22 +187,22 @@
 | 29 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=32202) |
 | 29 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=38933) |
 | 28 | [Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=37690) |
+| 28 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=294) |
+| 28 | [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=135516) |
+| 28 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=51552) |
 | 28 | [Luke Heath-Edwards](https://www.worldcubeassociation.org/persons/2018HEAT01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=93349) |
 | 27 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=250) |
 | 27 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=300) |
+| 27 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1381) |
 | 27 | [Gaurav Taneja](https://www.worldcubeassociation.org/persons/2010TANE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=342) |
 | 27 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=301) |
-| 27 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=294) |
 | 27 | [Shubhayan Kabir](https://www.worldcubeassociation.org/persons/2012KABI01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=343) |
 | 27 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=374) |
 | 27 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=24152) |
 | 27 | [Jorge Miguel Trigo](https://www.worldcubeassociation.org/persons/2015TRIG02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=26157) |
-| 27 | [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=135516) |
-| 27 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=51552) |
 | 27 | [Raymos Castillo](https://www.worldcubeassociation.org/persons/2017CAST41) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=61883) |
 | 26 | [John Louis](https://www.worldcubeassociation.org/persons/2006LOUI01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1626) |
 | 26 | [Chris Tran](https://www.worldcubeassociation.org/persons/2008TRAN02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1781) |
-| 26 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1381) |
 | 26 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=7685) |
 | 26 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1525) |
 | 26 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=9207) |
@@ -372,6 +372,7 @@
 | 14 | [Yuichi Hamada (濵田祐一)](https://www.worldcubeassociation.org/persons/2012HAMA02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=61288) |
 | 14 | [Glenn Mark Salgado](https://www.worldcubeassociation.org/persons/2012SALG01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=348) |
 | 14 | [Matias Rasmussen](https://www.worldcubeassociation.org/persons/2013RASM02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=332) |
+| 14 | [Alyssa Esparaz](https://www.worldcubeassociation.org/persons/2014ESPA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=45777) |
 | 14 | [Bille Janssen Lagarde](https://www.worldcubeassociation.org/persons/2014LAGA02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=676) |
 | 14 | [Brent Boswell](https://www.worldcubeassociation.org/persons/2015BOSW01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1328) |
 | 14 | [Spondon Nath](https://www.worldcubeassociation.org/persons/2015NATH01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=450) |
@@ -388,7 +389,6 @@
 | 13 | [Augusto Rosa Esteves](https://www.worldcubeassociation.org/persons/2013ESTE02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=10379) |
 | 13 | [Tomas Jankauskas](https://www.worldcubeassociation.org/persons/2013JANK02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1484) |
 | 13 | [Pablo Eduardo Nikolais Teixeira Bonifácio da Silva](https://www.worldcubeassociation.org/persons/2013SILV12) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1873) |
-| 13 | [Alyssa Esparaz](https://www.worldcubeassociation.org/persons/2014ESPA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=45777) |
 | 13 | [António Gomes](https://www.worldcubeassociation.org/persons/2014GOME07) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=331) |
 | 13 | [Vladislav Pyatnitsa (Владислав Пятница)](https://www.worldcubeassociation.org/persons/2014PYAT01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1376) |
 | 13 | [Angelo Zhang](https://www.worldcubeassociation.org/persons/2014ZHAN01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=20299) |
@@ -545,6 +545,7 @@
 | 5 | [Eiji Okeda (桶田英次)](https://www.worldcubeassociation.org/persons/2009OKED01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1615) |
 | 5 | [Leonid Timonine](https://www.worldcubeassociation.org/persons/2009TIMO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1638) |
 | 5 | [Michael Hans](https://www.worldcubeassociation.org/persons/2010HANS01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1642) |
+| 5 | [Hevelyn Sato](https://www.worldcubeassociation.org/persons/2011SATO02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=27885) |
 | 5 | [Keunsoo Heo (허근수)](https://www.worldcubeassociation.org/persons/2014HEOG01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=115) |
 | 5 | [Jesse Mailloux](https://www.worldcubeassociation.org/persons/2014MAIL01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=5539) |
 | 5 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=82) |
@@ -567,7 +568,6 @@
 | 4 | [Syoji Takamatsu (高松唱司)](https://www.worldcubeassociation.org/persons/2005TAKA02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1653) |
 | 4 | [Hilmar Magnusson](https://www.worldcubeassociation.org/persons/2009MAGN02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=333) |
 | 4 | [Ayush Kumar](https://www.worldcubeassociation.org/persons/2011KULS01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=481) |
-| 4 | [Hevelyn Sato](https://www.worldcubeassociation.org/persons/2011SATO02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=27885) |
 | 4 | [Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1709) |
 | 4 | [Luiggi Giovanucci](https://www.worldcubeassociation.org/persons/2012GIOV02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=19263) |
 | 4 | [Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=7043) |
@@ -575,6 +575,7 @@
 | 4 | [Erick Lemus Fuentes](https://www.worldcubeassociation.org/persons/2013FUEN01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=29388) |
 | 4 | [Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=8602) |
 | 4 | [Hafizh Dary Faridhan Hudoyo](https://www.worldcubeassociation.org/persons/2015HUDO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1285) |
+| 4 | [Nicholas McKee](https://www.worldcubeassociation.org/persons/2015MCKE02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=29576) |
 | 4 | [Aston Culf](https://www.worldcubeassociation.org/persons/2016CULF01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=18548) |
 | 4 | [Slimane Siroukane](https://www.worldcubeassociation.org/persons/2016SLIM01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=25299) |
 | 4 | [Leo Hock-Morris](https://www.worldcubeassociation.org/persons/2017HOCK01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=45144) |
@@ -607,7 +608,6 @@
 | 3 | [Lucero Esmeralda Alvarado Ruíz](https://www.worldcubeassociation.org/persons/2014RUIZ12) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=49434) |
 | 3 | [Pamulapati Sai Teja](https://www.worldcubeassociation.org/persons/2014TEJA05) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=8234) |
 | 3 | [Justin Gou](https://www.worldcubeassociation.org/persons/2015GOUJ01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6670) |
-| 3 | [Nicholas McKee](https://www.worldcubeassociation.org/persons/2015MCKE02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=29576) |
 | 3 | [Giovane Rubin Fioravanti](https://www.worldcubeassociation.org/persons/2016FIOR01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=14135) |
 | 3 | [Matt Lee](https://www.worldcubeassociation.org/persons/2016LEEM02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=22154) |
 | 3 | [Coleton Pleiss](https://www.worldcubeassociation.org/persons/2017PLEI01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=36773) |
@@ -668,6 +668,7 @@
 | 1 | [Serhii Mormul (Сергій Мормуль)](https://www.worldcubeassociation.org/persons/2012MORM01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=5726) |
 | 1 | [Christian de Sena Fortunato](https://www.worldcubeassociation.org/persons/2013FORT01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=31227) |
 | 1 | [Kabyanil Talukdar](https://www.worldcubeassociation.org/persons/2013TALU01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=17767) |
+| 1 | [Shanglin Ye](https://www.worldcubeassociation.org/persons/2013YESH01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=547) |
 | 1 | [JaeSeong Choe (최재성)](https://www.worldcubeassociation.org/persons/2014CHOE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=8319) |
 | 1 | [Tim Krupinski](https://www.worldcubeassociation.org/persons/2014KRUP02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=40516) |
 | 1 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=12783) |

@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 23 August 2023*
+*Updated on 26 August 2023*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -278,6 +278,7 @@
 | 1 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | United States | [Please Be Solved Pickering 2023](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedPickering2023) |
 | 1 | [Lim Chun Yik (林峻毅)](https://www.worldcubeassociation.org/persons/2018YIKL01) | Malaysia | [FMC Singapore 2022](https://www.worldcubeassociation.org/competitions/FMCSingapore2022) |
 | 1 | [Linsong Qi (綦林松)](https://www.worldcubeassociation.org/persons/2010QILI01) | China | [China FM Shenyang 2011](https://www.worldcubeassociation.org/competitions/ChinaFMShenyang2011) |
+| 1 | [Lorenzo Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ09) | Colombia | [El Puente San Gil 3x3 2023](https://www.worldcubeassociation.org/competitions/ElPuenteSanGil3x32023) |
 | 1 | [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | France | [French Merry Christmas 2022](https://www.worldcubeassociation.org/competitions/FMCFrance2022) |
 | 1 | [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | France | [FMC Crêpes 2022](https://www.worldcubeassociation.org/competitions/FMCrepes2022) |
 | 1 | [Lucas Libed](https://www.worldcubeassociation.org/persons/2022LIBE02) | United States | [Rose City First-Timers A 2022](https://www.worldcubeassociation.org/competitions/RoseCityFirstTimersA2022) |

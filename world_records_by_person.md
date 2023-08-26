@@ -1,11 +1,11 @@
 ## World records count by person
 
-*Updated on 23 August 2023*
+*Updated on 26 August 2023*
 
 | WRs | Person |
 | ---: | :--- |
 | 121 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 71 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 72 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 33 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) |
 | 23 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
@@ -23,8 +23,8 @@
 | 13 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) |
 | 13 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 12 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) |
+| 12 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 12 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
-| 11 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 10 | [Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01) |
 | 10 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
@@ -130,6 +130,7 @@
 | 2 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) |
+| 2 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
 | 2 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 2 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
@@ -197,7 +198,6 @@
 | 1 | [Henrik Bui](https://www.worldcubeassociation.org/persons/2009BUIH02) |
 | 1 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 1 | [Hideki Niina (新名秀樹)](https://www.worldcubeassociation.org/persons/2008NIIN01) |
-| 1 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
 | 1 | [Hong Zhang (张宏)](https://www.worldcubeassociation.org/persons/2008ZHAN13) |
 | 1 | [Ishaan Agrawal](https://www.worldcubeassociation.org/persons/2015AGRA03) |
 | 1 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |

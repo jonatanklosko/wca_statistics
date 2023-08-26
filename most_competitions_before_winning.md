@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 23 August 2023*
+*Updated on 26 August 2023*
 
 
 ### Rubik's Cube
@@ -182,7 +182,7 @@
 | 35 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [Bucaramanga 2023](https://www.worldcubeassociation.org/competitions/Bucaramanga2023) |
 | 31 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [AZCubing Winter 2022](https://www.worldcubeassociation.org/competitions/AZCubingWinter2022) |
 | 30 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Jönköpingsligan 6: Heroes 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan6Heroes2023) |
-| 29 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Hvidovre Sommerhygge 2020](https://www.worldcubeassociation.org/competitions/HvidovreSommerhygge2020) |
+| 30 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | [Flex in Lex 2023](https://www.worldcubeassociation.org/competitions/FlexinLex2023) |
 
 ### Skewb
 
@@ -314,8 +314,8 @@
 | 2 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007) |
 | 2 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | [French Open 2008](https://www.worldcubeassociation.org/competitions/FrenchOpen2008) |
 | 2 | [Ángel de Jaén Gotarredona](https://www.worldcubeassociation.org/persons/2007GOTA01) | [Spanish Championship 2008](https://www.worldcubeassociation.org/competitions/Spain2008) |
-| 1 | [Antoine Simon-Chautemps](https://www.worldcubeassociation.org/persons/2005SIMO01) | [Lyon Open 2007](https://www.worldcubeassociation.org/competitions/LyonOpen2007) |
 | 1 | [Constantin Ceausu](https://www.worldcubeassociation.org/persons/2006CEAU01) | [Dutch Open 2006](https://www.worldcubeassociation.org/competitions/DutchOpen2006) |
+| 1 | [Antoine Simon-Chautemps](https://www.worldcubeassociation.org/persons/2005SIMO01) | [Lyon Open 2007](https://www.worldcubeassociation.org/competitions/LyonOpen2007) |
 | 1 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [Minas Open 2008](https://www.worldcubeassociation.org/competitions/MinasOpen2008) |
 | 1 | [Mats Luthman](https://www.worldcubeassociation.org/persons/2007LUTH01) | [Västervik 2008](https://www.worldcubeassociation.org/competitions/Vastervik2008) |
 

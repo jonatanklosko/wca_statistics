@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 26 August 2023*
+*Updated on 29 August 2023*
 
 
 ### Rubik's Cube
@@ -24,13 +24,13 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 0.89 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.15, 0.79, 0.91, 0.97, 0.71 |
+| 1.08 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 0.91, 3.95, 1.16, 1.19, 0.69 |
 | 1.11 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.36, 1.08, 1.05, 0.94, 1.22 |
 | 1.13 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | 1.06, 1.19, 1.14, 2.03, 1.08 |
 | 1.13 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 0.98, 1.71, 0.94, 1.33, 1.08 |
 | 1.13 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.43, 1.19, 0.97, 0.80, 1.23 |
 | 1.15 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.09, 1.26, 2.44, 1.12, 0.91 |
 | 1.15 | [Huining Huang (黄徽宁)](https://www.worldcubeassociation.org/persons/2019HUAH03) | 0.94, 0.55, 2.17, 1.38, 1.13 |
-| 1.16 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.73, 1.01, 1.01, 1.42, 1.05 |
 | 1.17 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 1.08, 0.86, 1.45, 1.37, 1.07 |
 | 1.17 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | 1.09, 1.28, 1.08, 2.80, 1.14 |
 

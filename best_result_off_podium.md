@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 26 August 2023*
+*Updated on 29 August 2023*
 
 
 ### Rubik's Cube
@@ -115,10 +115,10 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 21 | **23.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 4 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 22 | **23.33** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 5 |
-| [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 21 | **23.67** | [FMC London Summer 2023](https://www.worldcubeassociation.org/competitions/FMCLondonSummer2023/results/all#e333fm_f) | 4 |
 | [Jeremy Sheng](https://www.worldcubeassociation.org/persons/2019SHEN10) | 21 | **23.67** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 6 |
-| [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | 22 | **23.67** | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/all#e333fm_f) | 4 |
+| [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 21 | **23.67** | [FMC London Summer 2023](https://www.worldcubeassociation.org/competitions/FMCLondonSummer2023/results/all#e333fm_f) | 4 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22 | **23.67** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 4 |
+| [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | 22 | **23.67** | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/all#e333fm_f) | 4 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | 23 | **23.67** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 7 |
 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 21 | **24.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 8 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 22 | **24.00** | [Pittsburgh Fall 2022](https://www.worldcubeassociation.org/competitions/PittsburghFall2022/results/all#e333fm_f) | 4 |

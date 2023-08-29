@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 26 August 2023*
+*Updated on 29 August 2023*
 
 
 ### 100 Competitions
@@ -10,8 +10,8 @@
 | 883 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 1646 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1646 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1701 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1744 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1918 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2010 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -62,8 +62,8 @@
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
-| 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 386 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
 | 392 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 393 | [Vincent Rylander](https://www.worldcubeassociation.org/persons/2022RYLA01) |

@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 26 August 2023*
+*Updated on 29 August 2023*
 
 
 ### Rubik's Cube - Single
@@ -32,7 +32,7 @@
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | **6.95** | Ukraine | [Nikita Kovalchuk Memorial 2023](https://www.worldcubeassociation.org/competitions/NikitaKovalchukMemorial2023) | 7.26, 7.74, 6.90, 6.43, 6.68 |
 | [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | **7.08** | India | [SNU Autumn Open 2019](https://www.worldcubeassociation.org/competitions/SNUAutumnOpen2019) | 7.26, 7.36, 6.02, 9.00, 6.61 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **7.14** | Australia | [NSW Open 2022](https://www.worldcubeassociation.org/competitions/NSWOpen2022) | 8.94, 7.38, 6.50, 7.11, 6.93 |
-| [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **7.21** | France | [Elsass Open 2019](https://www.worldcubeassociation.org/competitions/ElsassOpen2019) | 7.30, 7.23, 7.07, 7.09, 9.18 |
+| [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **7.18** | Vietnam | [Melbourne for Kids Saturday 2023](https://www.worldcubeassociation.org/competitions/MelbourneforKidsSaturday2023) | 6.73, 7.16, 7.50, 7.13, 7.25 |
 
 ### 2x2x2 Cube - Single
 
@@ -419,10 +419,10 @@
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **7.30** | United States | [Baztan Open 2022](https://www.worldcubeassociation.org/competitions/BaztanOpen2022) | 7.33, 7.22, 7.13, 7.34, 25.79 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **7.41** | United States | [Sioux City Sunday 2023](https://www.worldcubeassociation.org/competitions/SiouxCitySunday2023) | 5.99, 6.47, 8.72, DNF, 7.05 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **7.77** | Poland | [Cube4fun in Jarosław 2023](https://www.worldcubeassociation.org/competitions/Cube4funinJaroslaw2023) | 8.16, 7.48, 9.74, 6.73, 7.66 |
+| [Zach Ridall](https://www.worldcubeassociation.org/persons/2018RIDA01) | **8.05** | United States | [Newark's On Track 2023](https://www.worldcubeassociation.org/competitions/NewarksOnTrack2023) | 7.99, 7.48, 8.68, 9.43, 7.35 |
 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) | **8.10** | Spain | [Spanish Championship 2022](https://www.worldcubeassociation.org/competitions/SpanishChampionship2022) | 7.20, 9.51, 10.80, 7.25, 7.54 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **8.15** | United States | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | 8.04, 8.58, 18.68, 7.48, 7.83 |
 | [Ivan Vanek](https://www.worldcubeassociation.org/persons/2015VANE01) | **8.26** | United States | [Never Stop Turning AZ 2023](https://www.worldcubeassociation.org/competitions/NeverStopTurningAZ2023) | 9.11, 7.67, 7.64, 9.49, 7.99 |
-| [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) | **8.28** | United States | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019) | 8.24, 9.16, 7.45, 11.67, 7.45 |
 
 ### 4x4x4 Blindfolded - Single
 

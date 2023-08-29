@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 26 August 2023*
+*Updated on 29 August 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -26,6 +26,7 @@
 | 1533 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 1589 | [Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48) |
 | 1589 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) |
+| 1610 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) |
 | 1624 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) |
 | 1628 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) |
 | 1729 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |

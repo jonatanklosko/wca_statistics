@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 26 August 2023*
+*Updated on 29 August 2023*
 
 
 ### Rubik's Cube
@@ -31,7 +31,7 @@
 | 0.87 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | [Cubing Tlaxcala 2023](https://www.worldcubeassociation.org/competitions/CubingTlaxcala2023/results/by_person#2017HERN11) |
 | 0.88 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Port Huron Speedcubing 2022](https://www.worldcubeassociation.org/competitions/PortHuronSpeedcubing2022/results/by_person#2018KHAN28) |
 | 0.90 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/by_person#2018KHAN28) |
-| 0.91 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Michigan 2023](https://www.worldcubeassociation.org/competitions/Michigan2023/results/by_person#2017GARR05) |
+| 0.91 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Alphen Track to Records 24h 2023](https://www.worldcubeassociation.org/competitions/AlphenTracktoRecords24h2023/results/by_person#2012PATE01) |
 
 ### 4x4x4 Cube
 

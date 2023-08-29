@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 26 August 2023*
+*Updated on 29 August 2023*
 
 
 ### Rubik's Cube
@@ -120,9 +120,9 @@
 | 22.60 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 23, 21, 20, 22, 23, 22, 22, 22, 29, 20, 23, 28 |
 | 22.70 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 24, 22, 21, 22, 22, 25, 23, 22, 25, 23, 21, 23 |
 | 22.90 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 25, 21, 20, 21, 25, 24, 21, 21, 24, 24, 26, 23 |
+| 23.10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 24, 22, 22, 22, 26, 21, 23, 25, 26, 24, 22, 21 |
 | 23.10 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 22, 23, 23, 23, 22, 23, 23, 29, 25, 24, 18, 23 |
 | 23.20 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 21, 26, 24, 23, 21, 23, 24, 25, 23, 23, 24, 22 |
-| 23.30 | [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | 22, 20, 25, 22, 26, 23, 24, 23, 25, DNF, 18, 23 |
 
 ### 3x3x3 One-Handed
 

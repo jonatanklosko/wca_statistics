@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 26 August 2023*
+*Updated on 29 August 2023*
 
 
 ### Rubik's Cube
@@ -144,6 +144,7 @@
 | First single | Person |
 | ---: | :--- |
 | 42.16 | [Alina Zhu](https://www.worldcubeassociation.org/persons/2023ZHUA03) |
+| 44.09 | [Luis Ernesto Gutierrez Tolaba](https://www.worldcubeassociation.org/persons/2019TOLA01) |
 | 44.52 | [Hiroaki Okamoto (岡本裕陽)](https://www.worldcubeassociation.org/persons/2018OKAM01) |
 | 44.68 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) |
 | 46.39 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) |
@@ -152,7 +153,6 @@
 | 47.78 | [Ida Putu Sucita Danuartha](https://www.worldcubeassociation.org/persons/2022DANU01) |
 | 48.15 | [Matías Martínez](https://www.worldcubeassociation.org/persons/2022MART67) |
 | 48.17 | [Jingqi Zhang](https://www.worldcubeassociation.org/persons/2016ZHAJ08) |
-| 48.29 | [Lê Phùng Nguyên Khang](https://www.worldcubeassociation.org/persons/2023KHAN41) |
 
 ### Pyraminx
 

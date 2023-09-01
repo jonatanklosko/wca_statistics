@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 29 August 2023*
+*Updated on  1 September 2023*
 
 
 ### Rubik's Cube

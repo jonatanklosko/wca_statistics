@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 29 August 2023*
+*Updated on  1 September 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -629,6 +629,7 @@
 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/podiums) |
 | 11 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Amman Summertime 2022](https://www.worldcubeassociation.org/competitions/AmmanSummertime2022/results/podiums) |
+| 11 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2023](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2023/results/podiums) |
 | 10 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | [Finnish Open 2009](https://www.worldcubeassociation.org/competitions/FinnishOpen2009/results/podiums) |
 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006/results/podiums) |
 | 10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Alania Open 2011](https://www.worldcubeassociation.org/competitions/AlaniaOpen2011/results/podiums) |

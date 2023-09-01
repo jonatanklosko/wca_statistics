@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 29 August 2023*
+*Updated on  1 September 2023*
 
 
 ### Rubik's Cube - Single
@@ -466,8 +466,8 @@
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **6:31.97** | United States | [Hilliard Hippocampus VII 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusVII2023) | DNF, DNF, 6:31.97 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **7:09.92** | Italy | [Mental Breakdown Capelle 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownCapelle2019) | DNF, 8:05.72, 7:09.92 |
 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | **7:25.65** | Finland | [Vantaa Back to School 2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019) | DNF, 7:57.92, 7:25.65 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **7:50.74** | United States | [Evanston Summer Side Events 2023](https://www.worldcubeassociation.org/competitions/EvanstonSummerSideEvents2023) | DNF, DNF, 7:50.74 |
 | [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | **8:14.33** | Brazil | [Tchê Aquieta 2020](https://www.worldcubeassociation.org/competitions/TcheAquieta2020) | DNF, 8:14.33, DNS |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **8:18.74** | United States | [4BLD in a Madison Hall 2023](https://www.worldcubeassociation.org/competitions/4BLDinaMadisonHall2023) | DNF, 8:18.74, DNF |
 
 ### 5x5x5 Blindfolded - Average
 

@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  1 September 2023*
+*Updated on  2 September 2023*
 
 
 ### Rubik's Cube - Single
@@ -205,8 +205,8 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | **19.06** | Australia | [Solving in Sale 2023](https://www.worldcubeassociation.org/competitions/SolvinginSale2023) | 18.54, 18.73, 19.92 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **19.44** | Poland | [GLS IV 2023](https://www.worldcubeassociation.org/competitions/GLSIV2023) | 20.32, 18.97, 19.04 |
+| [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **19.49** | Hong Kong, China | [Berkeley Summer 2023](https://www.worldcubeassociation.org/competitions/BerkeleySummer2023) | 20.38, 20.84, 17.25 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **19.68** | Sweden | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022) | 20.27, 19.70, 19.08 |
-| [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **22.06** | Hong Kong, China | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 18.38, 22.83, 24.96 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **22.27** | Italy | [PoliMi Mental Breakdown 2019](https://www.worldcubeassociation.org/competitions/PoliMiMentalBreakdown2019) | 26.01, 20.73, 20.06 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **22.48** | United States | [Sioux City Sunday 2023](https://www.worldcubeassociation.org/competitions/SiouxCitySunday2023) | 20.39, 22.14, 24.92 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **22.98** | Argentina | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023) | 22.37, 23.36, 23.22 |
@@ -434,10 +434,10 @@
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **2:21.90** | Argentina | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022) | 2:21.90, DNF, DNF |
 | [Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01) | **2:24.33** | India | [Please Be Quiet Bengaluru 2018](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBengaluru2018) | DNF, DNF, 2:24.33 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **2:39.19** | Italy | [Mental Breakdown Capelle 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownCapelle2019) | 2:39.19, 4:26.38, DNF |
+| [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **2:40.68** | United States | [Hilliard Hippocampus VIII 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusVIII2023) | DNF, 2:40.68, 2:42.85 |
 | [Fletcher Berry](https://www.worldcubeassociation.org/persons/2018BERR01) | **2:45.78** | United States | [DFW Cubing Summer 2022](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2022) | DNF, DNF, 2:45.78 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **2:47.02** | United States | [Heartland Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2023) | 2:47.02, DNF, DNF |
 | [Nolan Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | **2:48.91** | United States | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 2:48.91, DNF, DNF |
-| [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **2:54.69** | Russia | [Swiss Nats 2016](https://www.worldcubeassociation.org/competitions/SwissNationals2016) | DNF, DNF, 2:54.69 |
 
 ### 4x4x4 Blindfolded - Average
 

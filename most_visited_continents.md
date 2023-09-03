@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  1 September 2023*
+*Updated on  2 September 2023*
 
 | Continents | Person |
 | ---: | :--- |
@@ -129,6 +129,7 @@
 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 4 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
 | 4 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
+| 4 | [Tim Xie](https://www.worldcubeassociation.org/persons/2015XIET01) |
 | 4 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 4 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |

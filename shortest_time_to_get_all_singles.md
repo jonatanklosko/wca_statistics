@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 September 2023*
+*Updated on  2 September 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -205,6 +205,7 @@
 | 1379 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 1379 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 1379 | [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) |
+| 1386 | [Timo Günthardt](https://www.worldcubeassociation.org/persons/2019GUNT04) |
 | 1387 | [Andrew Tan Jing Bang](https://www.worldcubeassociation.org/persons/2019BANG01) |
 | 1391 | [Achia Engel](https://www.worldcubeassociation.org/persons/2019ENGE02) |
 | 1399 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 September 2023*
+*Updated on  2 September 2023*
 
 
 ### Rubik's Cube - Single
@@ -131,7 +131,7 @@
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **1:00.33** | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 1:13.88, 1:07.13, 1:00.33 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:09.39** | Republic of Korea | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023) | 1:22.72, 1:09.39, 1:15.35 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:10.58** | Ireland | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 1:21.62, 1:10.58, 1:20.77 |
-| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **1:12.43** | Romania | [Big Blind Bucharest 2023](https://www.worldcubeassociation.org/competitions/BigBlindBucharest2023) | 1:21.85, 1:12.43, 1:25.86 |
+| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **1:10.76** | Romania | [Arad Cubing 2023](https://www.worldcubeassociation.org/competitions/AradCubing2023) | 1:21.48, 1:21.39, 1:10.76 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:12.50** | Poland | [Flatåsen Open 2023](https://www.worldcubeassociation.org/competitions/FlatasenOpen2023) | 1:12.50, 1:15.52, 1:13.54 |
 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | **1:12.93** | Germany | [German Nationals 2023](https://www.worldcubeassociation.org/competitions/GermanNationals2023) | 1:12.93, 1:29.15, 1:31.18 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **1:14.57** | United States | [Taman Anggrek Speedcubing 2023](https://www.worldcubeassociation.org/competitions/TamanAnggrekSpeedcubing2023) | 1:14.57, 1:40.77, 1:26.75 |
@@ -147,7 +147,7 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:13.85** | Poland | [Flatåsen Open 2023](https://www.worldcubeassociation.org/competitions/FlatasenOpen2023) | 1:12.50, 1:15.52, 1:13.54 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:15.82** | Republic of Korea | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023) | 1:22.72, 1:09.39, 1:15.35 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:16.37** | Ireland | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) | 1:19.78, 1:16.05, 1:13.27 |
-| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **1:19.99** | Romania | [Big Cubes Bucharest 2023](https://www.worldcubeassociation.org/competitions/BigCubesBucharest2023) | 1:20.46, 1:19.26, 1:20.24 |
+| [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **1:17.88** | Romania | [Arad Cubing 2023](https://www.worldcubeassociation.org/competitions/AradCubing2023) | 1:21.48, 1:21.39, 1:10.76 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **1:21.04** | Malaysia | [Medan Speedcube Challenge 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubeChallenge2023) | 1:17.81, 1:22.86, 1:22.46 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **1:22.36** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 1:23.98, 1:22.70, 1:20.39 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **1:22.65** | Hong Kong, China | [NDHU Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/NDHUBigCubeDay2023) | 1:25.31, 1:23.61, 1:19.03 |

@@ -1,12 +1,12 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on  1 September 2023*
+*Updated on  2 September 2023*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
 | 21 | 5x5x5 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2010](https://www.worldcubeassociation.org/competitions/AustralianNationals2010) | [Western Championship 2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018) | 7.78 |
 | 11 | 5x5x5 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2012](https://www.worldcubeassociation.org/competitions/AustralianNationals2012) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) | 5.73 |
-| 11 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) |  | 5.63 |
+| 11 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) |  | 5.64 |
 | 9 | Rubik's Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | [OCSEF 2017](https://www.worldcubeassociation.org/competitions/OCSEFOpen2017) | 7.23 |
 | 9 | 5x5x5 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018) |  | 5.22 |
 | 8 | 4x4x4 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks for the InFive 2018](https://www.worldcubeassociation.org/competitions/ThanksfortheInFive2018) |  | 5.31 |

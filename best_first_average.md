@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  2 September 2023*
+*Updated on  4 September 2023*
 
 
 ### Rubik's Cube
@@ -29,10 +29,10 @@
 | 2.39 | [Ng Tsz Hei (吳紫熙)](https://www.worldcubeassociation.org/persons/2023HEIN03) |
 | 2.42 | [Charinwit Harnthavornchai (ชรินทร์วิชญ์ หาญถาวรชัย)](https://www.worldcubeassociation.org/persons/2022HARN04) |
 | 2.57 | [Charles Abemayor](https://www.worldcubeassociation.org/persons/2020ABEM01) |
+| 2.59 | [Jan Brtník](https://www.worldcubeassociation.org/persons/2023BRTN02) |
 | 2.62 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) |
 | 2.63 | [Hua Huang (黄华)](https://www.worldcubeassociation.org/persons/2018HUAN08) |
 | 2.63 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 2.63 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 
 ### 4x4x4 Cube
 

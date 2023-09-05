@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  2 September 2023*
+*Updated on  4 September 2023*
 
 
 ### Rubik's Cube
@@ -25,10 +25,10 @@
 | ---: | :--- | :--- |
 | 0.89 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.15, 0.79, 0.91, 0.97, 0.71 |
 | 1.08 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 0.91, 3.95, 1.16, 1.19, 0.69 |
+| 1.08 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.27, 1.01, 0.97, 1.30, 0.79 |
 | 1.11 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.36, 1.08, 1.05, 0.94, 1.22 |
 | 1.13 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | 1.06, 1.19, 1.14, 2.03, 1.08 |
 | 1.13 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 0.98, 1.71, 0.94, 1.33, 1.08 |
-| 1.13 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.43, 1.19, 0.97, 0.80, 1.23 |
 | 1.15 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.09, 1.26, 2.44, 1.12, 0.91 |
 | 1.15 | [Huining Huang (黄徽宁)](https://www.worldcubeassociation.org/persons/2019HUAH03) | 0.94, 0.55, 2.17, 1.38, 1.13 |
 | 1.17 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 1.08, 0.86, 1.45, 1.37, 1.07 |
@@ -143,7 +143,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 26.77 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 24.44, 26.49, 27.38, 28.26, 26.46 |
+| 26.20 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 25.74, 29.55, 25.22, 26.31, 26.55 |
 | 27.55 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 34.98, 25.04, 29.24, 28.06, 25.35 |
 | 28.48 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 27.49, 27.76, 29.69, 34.48, 27.99 |
 | 28.66 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 26.90, 30.05, 28.10, 29.25, 28.65 |

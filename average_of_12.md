@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  2 September 2023*
+*Updated on  4 September 2023*
 
 
 ### Rubik's Cube
@@ -76,8 +76,8 @@
 | 1:23.84 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:18.65, 1:20.91, 1:26.54, 1:29.68, 1:27.42, 1:25.39, 1:22.35, 1:22.21, 1:18.78, 1:24.70, 1:34.90, 1:20.45 |
 | 1:24.44 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:24.71, 1:24.44, 1:26.55, 1:29.83, 1:21.08, 1:30.73, 1:22.38, 1:22.12, 1:22.93, 1:24.39, 1:25.97, 1:19.56 |
 | 1:24.50 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:27.84, 1:33.26, 1:19.78, 1:17.10, 1:25.91, 1:32.07, 1:24.02, 1:27.41, 1:19.49, 1:27.07, 1:24.35, 1:17.11 |
+| 1:24.81 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:21.94, 1:36.78, 1:26.92, 1:18.41, 1:30.29, 1:26.20, 1:25.91, 1:29.27, 1:17.40, 1:22.81, 1:28.95, 1:16.64 |
 | 1:25.09 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:21.12, 1:29.63, 1:26.85, 1:31.15, 1:22.21, 1:22.39, 1:28.57, 1:23.74, 1:22.50, 1:26.20, 1:26.01, 1:22.89 |
-| 1:25.27 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 1:18.59, 1:29.35, 1:28.55, 1:34.86, 1:20.10, 1:15.22, 1:29.46, 1:29.42, 1:22.82, 1:22.56, 1:26.25, 1:25.66 |
 
 ### 7x7x7 Cube
 
@@ -122,7 +122,7 @@
 | 22.90 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 25, 21, 20, 21, 25, 24, 21, 21, 24, 24, 26, 23 |
 | 23.10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 24, 22, 22, 22, 26, 21, 23, 25, 26, 24, 22, 21 |
 | 23.10 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 22, 23, 23, 23, 22, 23, 23, 29, 25, 24, 18, 23 |
-| 23.20 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 21, 26, 24, 23, 21, 23, 24, 25, 23, 23, 24, 22 |
+| 23.20 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 24, 27, 21, 18, 22, 25, 24, 25, 27, 20, 21, 23 |
 
 ### 3x3x3 One-Handed
 

@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on  2 September 2023*
+*Updated on  4 September 2023*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -60,6 +60,7 @@
 | 5 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | India | [Tathva Cube Open 2014](https://www.worldcubeassociation.org/competitions/TathvaCubeOpen2014) |
 | 5 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | Canada | [Cubing in the 6ix 2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019) |
 | 5 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | Russia | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022) |
+| 5 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | United States | [Puerto Rico Open 2023](https://www.worldcubeassociation.org/competitions/PuertoRicoOpen2023) |
 | 5 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | Argentina | [Bahrain Open 2017](https://www.worldcubeassociation.org/competitions/BahrainOpen2017) |
 | 5 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | Argentina | [Patagonia Open 2019](https://www.worldcubeassociation.org/competitions/PatagoniaOpen2019) |
 | 5 | [Jabari Nuruddin](https://www.worldcubeassociation.org/persons/2014NURU01) | United States | [Pops Toys Summer 2015](https://www.worldcubeassociation.org/competitions/PopsToysSummer2015) |
@@ -176,6 +177,7 @@
 | 2 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | United States | [Michigan Mini 5 2023](https://www.worldcubeassociation.org/competitions/MichiganMini52023) |
 | 2 | [Victor Roets](https://www.worldcubeassociation.org/persons/2021ROET01) | Belgium | [Hem MariCubik Winter Open A 2023](https://www.worldcubeassociation.org/competitions/HemMariCubikWinterOpenA2023) |
 | 2 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | United States | [All Quiet in Lexington 2022](https://www.worldcubeassociation.org/competitions/AllQuietinLexington2022) |
+| 1 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | United States | [Danish FM Championship 2023](https://www.worldcubeassociation.org/competitions/DanishFMChampionship2023) |
 | 1 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | United States | [Don't Move Copenhagen 2022](https://www.worldcubeassociation.org/competitions/DontMoveCopenhagen2022) |
 | 1 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) | United States | [Cambridge Holiday FMC 2022](https://www.worldcubeassociation.org/competitions/CambridgeHolidayFMC2022) |
 | 1 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) | United States | [Michigan Mini FMC 2023](https://www.worldcubeassociation.org/competitions/MichiganMiniFMC2023) |
@@ -325,8 +327,8 @@
 | 1 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | Hungary | [Athens Open 2010](https://www.worldcubeassociation.org/competitions/AthensOpen2010) |
 | 1 | [Parist Pariyakanok (พริษฐ์ ปริยกนก)](https://www.worldcubeassociation.org/persons/2018PARI07) | Thailand | [Ratchapruek Cubing Sunday 2023](https://www.worldcubeassociation.org/competitions/RatchapruekCubingSunday2023) |
 | 1 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | United States | [JAM FMC V 2023](https://www.worldcubeassociation.org/competitions/JAMFMCV2023) |
-| 1 | [Phillip Espinoza](https://www.worldcubeassociation.org/persons/2007ESPI01) | United States | [Discovery Winter 2009](https://www.worldcubeassociation.org/competitions/DiscoveryWinter2009) |
 | 1 | [Phillip Espinoza](https://www.worldcubeassociation.org/persons/2007ESPI01) | United States | [San Diego Science Festival 2009](https://www.worldcubeassociation.org/competitions/SanDiegoScience2009) |
+| 1 | [Phillip Espinoza](https://www.worldcubeassociation.org/persons/2007ESPI01) | United States | [Discovery Winter 2009](https://www.worldcubeassociation.org/competitions/DiscoveryWinter2009) |
 | 1 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | Chinese Taipei | [Taipei FMC all Day 2023](https://www.worldcubeassociation.org/competitions/TaipeiFMCallDay2023) |
 | 1 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) | Thailand | [NSM Thailand 2009](https://www.worldcubeassociation.org/competitions/NSMThailand2009) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | Poland | [Find Minimum in Warsaw 2023](https://www.worldcubeassociation.org/competitions/FindMinimumInWarsaw2023) |

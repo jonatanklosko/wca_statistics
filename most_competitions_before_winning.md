@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  2 September 2023*
+*Updated on  4 September 2023*
 
 
 ### Rubik's Cube
@@ -129,6 +129,7 @@
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 149 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | [Teresina Open 2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019) |
+| 122 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [Szczecin Summer 2023](https://www.worldcubeassociation.org/competitions/SzczecinSummer2023) |
 | 105 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | [Cuban Open 2016](https://www.worldcubeassociation.org/competitions/CubanOpen2016) |
 | 86 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Villa de Catral 2013](https://www.worldcubeassociation.org/competitions/VilladeCatral2013) |
 | 74 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [Thunder Bay 2019](https://www.worldcubeassociation.org/competitions/SuperiorCubingThunderBay2019) |
@@ -137,7 +138,6 @@
 | 62 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | [Second Annual Rexburg Open 2017](https://www.worldcubeassociation.org/competitions/SecondAnnualRexburgOpen2017) |
 | 59 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | [Minnesota Cube Melt 2017](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2017) |
 | 56 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Belgian Summer 2014](https://www.worldcubeassociation.org/competitions/BelgianSummer2014) |
-| 55 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | [Cube An Dro 2019](https://www.worldcubeassociation.org/competitions/CubeAnDro2019) |
 
 ### Megaminx
 

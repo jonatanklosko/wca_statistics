@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  2 September 2023*
+*Updated on  4 September 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -595,6 +595,7 @@
 | 11 | [Gabriel Bergue](https://www.worldcubeassociation.org/persons/2017BORG02) | [Poções 2023](https://www.worldcubeassociation.org/competitions/Pocoes2023/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Casal Catalunya Baires Open 2019](https://www.worldcubeassociation.org/competitions/CasalCatalunyaBairesOpen2019/results/podiums) |
+| 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/podiums) |
 | 11 | [Maxim Ilin](https://www.worldcubeassociation.org/persons/2017ILIN01) | [Voronezh Open 2018](https://www.worldcubeassociation.org/competitions/VoronezhOpen2018/results/podiums) |
 | 11 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [Almet Open 2018](https://www.worldcubeassociation.org/competitions/AlmetOpen2018/results/podiums) |
 | 11 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [Chak-chak cubing in Kazan 2018](https://www.worldcubeassociation.org/competitions/ChakchakcubinginKazan2018/results/podiums) |
@@ -1089,6 +1090,7 @@
 | 10 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/podiums) |
 | 10 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [FING Open 2022](https://www.worldcubeassociation.org/competitions/FINGOpen2022/results/podiums) |
 | 10 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Litoral Cubea 2023](https://www.worldcubeassociation.org/competitions/LitoralCubea2023/results/podiums) |
+| 10 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/podiums) |
 | 10 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | [Everything in Evanston B 2023](https://www.worldcubeassociation.org/competitions/EverythinginEvanstonB2023/results/podiums) |
 | 10 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums) |
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Serbian Championship 2023](https://www.worldcubeassociation.org/competitions/SerbianChampionship2023/results/podiums) |

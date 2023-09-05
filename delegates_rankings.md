@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  2 September 2023*
+*Updated on  4 September 2023*
 
 
 ### Rubik's Cube - Single
@@ -203,8 +203,8 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **18.85** | Poland | [Szczecin Summer 2023](https://www.worldcubeassociation.org/competitions/SzczecinSummer2023) | 17.78, 19.90, 18.88 |
 | [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | **19.06** | Australia | [Solving in Sale 2023](https://www.worldcubeassociation.org/competitions/SolvinginSale2023) | 18.54, 18.73, 19.92 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **19.44** | Poland | [GLS IV 2023](https://www.worldcubeassociation.org/competitions/GLSIV2023) | 20.32, 18.97, 19.04 |
 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **19.49** | Hong Kong, China | [Berkeley Summer 2023](https://www.worldcubeassociation.org/competitions/BerkeleySummer2023) | 20.38, 20.84, 17.25 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **19.68** | Sweden | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022) | 20.27, 19.70, 19.08 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **22.27** | Italy | [PoliMi Mental Breakdown 2019](https://www.worldcubeassociation.org/competitions/PoliMiMentalBreakdown2019) | 26.01, 20.73, 20.06 |

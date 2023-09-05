@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  2 September 2023*
+*Updated on  4 September 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -36,6 +36,7 @@
 | 434 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
 | 441 | [Oleksandr Ivanchak (Олександр Іванчак)](https://www.worldcubeassociation.org/persons/2015IVAN03) |
 | 447 | [Xiaoliang Zhu (朱校良)](https://www.worldcubeassociation.org/persons/2017ZHUX01) |
+| 448 | [Jáchym Střelec](https://www.worldcubeassociation.org/persons/2022STRE03) |
 | 475 | [Maxime Madrzyk](https://www.worldcubeassociation.org/persons/2018MADR02) |
 | 476 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) |
 | 483 | [Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01) |
@@ -251,6 +252,7 @@
 | 1581 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) |
 | 1610 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) |
 | 1610 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) |
+| 1631 | [Adam Hlavín](https://www.worldcubeassociation.org/persons/2019HLAV02) |
 | 1638 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 1660 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
 | 1680 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
@@ -352,11 +354,13 @@
 | 2261 | [Jeremy Benik](https://www.worldcubeassociation.org/persons/2016BENI05) |
 | 2267 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 2269 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
+| 2275 | [Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04) |
 | 2282 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
 | 2310 | [Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02) |
 | 2317 | [Jareth Soong](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 2323 | [Can Mao (毛灿)](https://www.worldcubeassociation.org/persons/2010MAOC01) |
 | 2323 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
+| 2351 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
 | 2352 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) |
 | 2359 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) |
 | 2386 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) |

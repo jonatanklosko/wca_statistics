@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  2 September 2023*
+*Updated on  4 September 2023*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -42,8 +42,8 @@
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **60** | 43 | 29 | 132 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
+| [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **58** | 64 | 39 | 161 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **58** | 63 | 69 | 190 |
-| [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **57** | 64 | 38 | 159 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **56** | 42 | 34 | 132 |
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
@@ -77,11 +77,11 @@
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |
 | [Ivan Torgashov](https://www.worldcubeassociation.org/persons/2011TORG01) | **39** | 17 | 23 | 79 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **38** | 75 | 159 | 272 |
+| [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) | **38** | 65 | 59 | 162 |
 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **38** | 43 | 34 | 115 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **38** | 26 | 20 | 84 |
+| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **38** | 27 | 21 | 86 |
 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) | **38** | 20 | 49 | 107 |
 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | **38** | 12 | 5 | 55 |
-| [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) | **37** | 65 | 57 | 159 |
 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **37** | 22 | 10 | 69 |
 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **37** | 21 | 14 | 72 |
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **36** | 33 | 18 | 87 |

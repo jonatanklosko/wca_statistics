@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 September 2023*
+*Updated on  7 September 2023*
 
 
 ### Rubik's Cube - Single
@@ -47,7 +47,7 @@
 | [Kyle Santucci](https://www.worldcubeassociation.org/persons/2016SANT08) | **0.58** | Canada | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 0.58, 1.98, 4.09, 2.02, 2.42 |
 | [Lukas Nguyen](https://www.worldcubeassociation.org/persons/2021NGUY04) | **0.58** | Australia | [Kensington Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/KensingtonSummerSunday2023) | 4.37, 4.69, 4.03, 6.75, 0.58 |
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **0.59** | Switzerland | [Bretzel Open 2023](https://www.worldcubeassociation.org/competitions/BretzelOpen2023) | 2.96, 3.75, 0.59, 3.87, 4.31 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **0.60** | Poland | [Żmigród Open 2023](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2023) | 0.60, 1.32, 1.39, 1.35, 4.78 |
+| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **0.59** | Romania | [Bucharest Funky Cubes 2023](https://www.worldcubeassociation.org/competitions/BucharestFunkyCubes2023) | 1.98, 0.59, 2.70, 1.97, 1.32 |
 
 ### 2x2x2 Cube - Average
 
@@ -89,10 +89,10 @@
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **21.67** | Republic of Korea | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023) | 21.99, 21.53, 21.59, 20.40, 21.89 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **22.32** | Australia | [Chilling in Canberra 2023](https://www.worldcubeassociation.org/competitions/ChillinginCanberra2023) | 21.75, 20.57, 22.44, 24.40, 22.77 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **22.63** | Vietnam | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 22.17, 23.02, 22.70, 22.13, 26.44 |
+| [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **22.68** | United States | [Oregon Championship 2023](https://www.worldcubeassociation.org/competitions/OregonChampionship2023) | 22.17, 24.84, 22.29, 23.57, 22.13 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **23.04** | Chinese Taipei | [CK Cubing Party 2023](https://www.worldcubeassociation.org/competitions/CKCubingParty2023) | 23.27, 19.96, 24.32, 27.78, 21.52 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **23.07** | United States | [Niskayuna Nimble Fingers 2023](https://www.worldcubeassociation.org/competitions/NiskayunaNimbleFingers2023) | 21.36, 24.05, 21.50, 27.89, 23.67 |
 | [Ari Randers-Pehrson](https://www.worldcubeassociation.org/persons/2017RAND06) | **23.49** | United States | [Weston-super-Mare Spring 2023](https://www.worldcubeassociation.org/competitions/WestonsuperMareSpring2023) | 22.93, 21.54, 22.51, 25.02, 25.36 |
-| [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | **23.55** | Philippines | [Cebu Summer Open 2023](https://www.worldcubeassociation.org/competitions/CebuSummerOpen2023) | 24.11, 24.37, 22.16, 20.60, 28.94 |
 
 ### 5x5x5 Cube - Single
 
@@ -227,7 +227,7 @@
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **19** | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | DNF, 23, 19 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **20** | Germany | [Rahn Education Leipzig 2023](https://www.worldcubeassociation.org/competitions/RahnEducationLeipzig2023) | 20 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **20** | Germany | [Brussels Blind Open 2023](https://www.worldcubeassociation.org/competitions/BrusselsBlindOpen2023) | 20, 25, 22 |
-| [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **20** | United States | [MBLD Madison Meeting Room 2023](https://www.worldcubeassociation.org/competitions/MBLDinaMadisonMeetingRoom2023) | 20, 23, 31 |
+| [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | **20** | Colombia | [Pocos Cupos Bogotá III 2023](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaIII2023) | 43, 32, 20 |
 
 ### 3x3x3 Fewest Moves - Average
 

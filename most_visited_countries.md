@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  4 September 2023*
+*Updated on  7 September 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -30,10 +30,10 @@
 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 22 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 22 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
-| 21 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
+| 21 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 21 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
+| 21 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
-| 20 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 20 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 20 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 20 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |

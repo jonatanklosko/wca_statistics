@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 September 2023*
+*Updated on  7 September 2023*
 
 
 ### Rubik's Cube
@@ -43,8 +43,8 @@
 | 20.53 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 23.63, 19.58, 20.72, 20.10, 20.77 |
 | 21.44 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 26.61, 21.30, 17.98, 21.05, 21.97 |
 | 21.65 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 21.83, 21.99, 21.53, 21.59, 20.40 |
+| 22.22 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 21.82, 21.39, 21.98, 29.02, 22.88 |
 | 22.39 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 20.28, 27.56, 21.42, 18.71, 25.48 |
-| 22.52 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 22.47, 19.76, 26.08, 24.99, 20.12 |
 | 22.63 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 22.02, 23.90, 22.17, 23.02, 22.70 |
 | 22.80 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 31.74, 23.49, 23.02, 21.89, 21.01 |
 | 22.85 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 22.35, 22.44, 29.33, 20.44, 23.77 |
@@ -181,8 +181,8 @@
 | 3.69 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 3.84, 3.28, 5.13, 3.95, 3.28 |
 | 3.80 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 4.40, 3.79, 3.37, 3.80, 3.83 |
 | 3.84 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 4.42, 3.27, DNF, 3.13, 3.85 |
+| 3.89 | [Neil Gour](https://www.worldcubeassociation.org/persons/2022GOUR01) | 3.93, 4.30, 4.13, 3.61, 3.57 |
 | 3.93 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 7.11, 3.88, 4.24, 3.69, 3.50 |
-| 3.94 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 5.60, 3.27, 3.78, 4.17, 3.87 |
 
 ### Skewb
 

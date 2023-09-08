@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  4 September 2023*
+*Updated on  7 September 2023*
 
 
 ### Rubik's Cube - Single
@@ -224,10 +224,10 @@
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **19** | Australia | [Perth FMC Day 2023](https://www.worldcubeassociation.org/competitions/PerthFMCDay2023) | 34, 19, 25 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **19** | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | DNF, 23, 19 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **20** | Germany | [Rahn Education Leipzig 2023](https://www.worldcubeassociation.org/competitions/RahnEducationLeipzig2023) | 20 |
+| [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | **20** | Colombia | [Pocos Cupos Bogotá III 2023](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaIII2023) | 43, 32, 20 |
 | [Saeed Mostafavi Layegh (سعید مصطفوی لایق)](https://www.worldcubeassociation.org/persons/2011LAYE01) | **20** | Iran | [FMC Asia 2017](https://www.worldcubeassociation.org/competitions/FMCAsia2017) | 20, 34, 36 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **20** | United States | [MBLD Madison Meeting Room 2023](https://www.worldcubeassociation.org/competitions/MBLDinaMadisonMeetingRoom2023) | 20, 23, 31 |
 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | **20** | Italy | [FMC Italy 2021](https://www.worldcubeassociation.org/competitions/FMCItaly2021) | 20, 23, 27 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **20** | United States | [Mini Minnesota Summer 2023](https://www.worldcubeassociation.org/competitions/MiniMinnesotaSummer2023) | 24, 28, 20 |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -331,8 +331,8 @@
 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) | **2.45** | India | [Midcoast Cubing 2018](https://www.worldcubeassociation.org/competitions/MidcoastCubing2018) | 4.69, 2.42, 2.54, 2.40, 2.21 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **2.48** | United States | [Milwaukee First 2022](https://www.worldcubeassociation.org/competitions/MilwaukeeFirst2022) | 2.39, 2.61, 2.29, 2.45, 3.04 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **2.61** | Poland | [Szczecin Winter 2022](https://www.worldcubeassociation.org/competitions/SzczecinWinter2022) | 4.01, 1.76, 4.09, 1.79, 2.03 |
+| [Maximiliano Perez Madrid](https://www.worldcubeassociation.org/persons/2017MADR01) | **2.86** | Chile | [Montealegre Open 2023](https://www.worldcubeassociation.org/competitions/MonteAlegreOpen2023) | 3.22, 3.14, 2.71, 2.64, 2.72 |
 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | **2.89** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 3.35, 2.84, 2.36, 3.10, 2.72 |
-| [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **2.89** | Australia | [Maitland Spring 2022](https://www.worldcubeassociation.org/competitions/MaitlandSpring2022) | 3.63, 3.05, 2.59, 3.01, 2.61 |
 
 ### Rubik's Clock - Single
 

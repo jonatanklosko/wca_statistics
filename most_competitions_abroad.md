@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 September 2023*
+*Updated on  7 September 2023*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -27,7 +27,7 @@
 | 90 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 85 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 84 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 85 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 84 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 79 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 79 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
@@ -60,11 +60,11 @@
 | 58 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 58 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 57 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
-| 56 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
+| 57 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 56 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
+| 56 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 56 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 55 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
-| 55 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 54 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 54 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |

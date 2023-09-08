@@ -1,36 +1,36 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 September 2023*
+*Updated on  7 September 2023*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1362** | 1144 | 975 | 3481 |
 | United States | **937** | 797 | 704 | 2438 |
-| Germany | **923** | 899 | 915 | 2737 |
-| France | **839** | 719 | 613 | 2171 |
+| Germany | **923** | 901 | 915 | 2739 |
+| France | **840** | 719 | 614 | 2173 |
 | Netherlands | **829** | 671 | 560 | 2060 |
 | Russia | **729** | 467 | 370 | 1566 |
-| China | **562** | 511 | 464 | 1537 |
-| Poland | **521** | 361 | 274 | 1156 |
+| China | **564** | 514 | 466 | 1544 |
+| Poland | **521** | 362 | 274 | 1157 |
 | Malaysia | **378** | 381 | 336 | 1095 |
-| United Kingdom | **366** | 422 | 419 | 1207 |
+| United Kingdom | **367** | 422 | 419 | 1208 |
 | Canada | **353** | 351 | 385 | 1089 |
 | Denmark | **342** | 291 | 227 | 860 |
 | Sweden | **305** | 345 | 361 | 1011 |
-| Republic of Korea | **287** | 256 | 217 | 760 |
+| Republic of Korea | **287** | 256 | 219 | 762 |
 | Australia | **287** | 134 | 90 | 511 |
-| India | **260** | 206 | 196 | 662 |
-| Hong Kong, China | **258** | 281 | 216 | 755 |
+| India | **261** | 207 | 197 | 665 |
+| Hong Kong, China | **260** | 282 | 217 | 759 |
 | Finland | **256** | 199 | 162 | 617 |
 | Switzerland | **251** | 335 | 281 | 867 |
 | Argentina | **209** | 158 | 132 | 499 |
 | Italy | **203** | 193 | 187 | 583 |
 | Chinese Taipei | **200** | 177 | 174 | 551 |
 | Japan | **199** | 127 | 133 | 459 |
-| Ukraine | **193** | 202 | 200 | 595 |
+| Ukraine | **194** | 202 | 200 | 596 |
 | Romania | **180** | 130 | 114 | 424 |
-| Spain | **177** | 167 | 196 | 540 |
+| Spain | **178** | 167 | 196 | 541 |
 | Indonesia | **162** | 152 | 122 | 436 |
 | Singapore | **147** | 152 | 161 | 460 |
 | Peru | **143** | 76 | 89 | 308 |
@@ -51,10 +51,10 @@
 | Guatemala | **61** | 38 | 42 | 141 |
 | Norway | **57** | 63 | 80 | 200 |
 | Croatia | **52** | 83 | 62 | 197 |
-| Vietnam | **51** | 74 | 61 | 186 |
+| Vietnam | **51** | 74 | 62 | 187 |
 | Estonia | **44** | 44 | 36 | 124 |
 | Brazil | **42** | 53 | 35 | 130 |
-| Israel | **37** | 29 | 39 | 105 |
+| Israel | **39** | 30 | 40 | 109 |
 | Kosovo | **37** | 26 | 22 | 85 |
 | Uzbekistan | **32** | 29 | 31 | 92 |
 | Venezuela | **31** | 39 | 40 | 110 |
@@ -79,7 +79,7 @@
 | Turkey | **9** | 12 | 12 | 33 |
 | Iran | **9** | 9 | 12 | 30 |
 | Kuwait | **9** | 8 | 17 | 34 |
-| Nigeria | **8** | 14 | 11 | 33 |
+| Nigeria | **8** | 14 | 12 | 34 |
 | Bolivia | **8** | 9 | 16 | 33 |
 | Georgia | **7** | 10 | 9 | 26 |
 | Moldova | **7** | 8 | 4 | 19 |

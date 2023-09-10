@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  8 September 2023*
+*Updated on 10 September 2023*
 
 
 ### Rubik's Cube
@@ -165,9 +165,9 @@
 | [Zejin Liu (刘泽锦)](https://www.worldcubeassociation.org/persons/2021LIUZ04) | 1.81 | **2.22** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 7 |
 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.69 | **2.24** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 4 |
 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) | 2.16 | **2.24** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 5 |
+| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.85 | **2.25** | [Fort Wayne Favorites 2023](https://www.worldcubeassociation.org/competitions/FortWayneFavorites2023/results/all#epyram_f) | 4 |
 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.88 | **2.25** | [Pittsburgh Fall 2022](https://www.worldcubeassociation.org/competitions/PittsburghFall2022/results/all#epyram_f) | 4 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.55 | **2.29** | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023/results/all#epyram_f) | 4 |
-| [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 2.01 | **2.29** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 6 |
 
 ### Rubik's Clock
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 September 2023*
+*Updated on 10 September 2023*
 
 
 ### Rubik's Cube
@@ -54,7 +54,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 36.06 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 39.02, 32.88, 36.21, 35.10, 36.89 |
-| 38.80 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 35.58, 40.91, 39.01, 38.35, 39.05 |
+| 38.13 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 37.63, 35.40, 43.45, 38.24, 38.54 |
 | 39.66 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 41.32, 46.57, 38.81, 38.70, 38.87 |
 | 40.39 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 38.55, 40.78, 43.80, 38.82, 41.59 |
 | 40.52 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 38.34, 42.11, 39.53, 44.68, 39.93 |
@@ -69,7 +69,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1:07.72 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:08.30, 1:08.00, 1:06.87, 1:15.99, 1:03.86 |
-| 1:14.48 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:12.50, 1:15.52, 1:13.54, 1:21.29, 1:14.38 |
+| 1:14.15 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:25.96, 1:14.52, 1:16.75, 1:11.18, 1:04.83 |
 | 1:16.36 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:22.73, 1:11.58, 1:19.78, 1:16.05, 1:13.27 |
 | 1:16.78 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:16.76, 1:22.72, 1:09.39, 1:15.35, 1:18.23 |
 | 1:18.20 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:29.96, 1:11.74, 1:21.48, 1:21.39, 1:10.76 |
@@ -84,7 +84,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1:42.44 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:36.41, 1:49.68, 1:41.42, 1:44.64, 1:41.27 |
-| 1:55.63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:58.24, 1:51.13, 1:54.79, 2:05.50, 1:53.87 |
+| 1:54.26 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:54.27, 2:01.10, 1:58.85, 1:49.38, 1:49.66 |
 | 1:55.75 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:59.87, 1:53.72, 1:47.78, 2:04.01, 1:53.68 |
 | 1:55.90 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:56.42, 1:49.84, 2:04.51, 2:00.16, 1:51.14 |
 | 1:56.82 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:00.14, 1:55.32, 1:57.52, 1:57.60, 1:55.35 |
@@ -137,7 +137,7 @@
 | 8.97 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 7.42, 8.48, 8.63, 12.66, 9.81 |
 | 9.00 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8.57, 9.01, 8.76, 10.32, 9.25 |
 | 9.05 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | 10.25, 8.36, 9.71, 7.78, 9.09 |
-| 9.17 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 15.26, 10.23, 8.39, 8.22, 8.89 |
+| 9.12 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 9.38, 11.62, 9.54, 8.30, 8.46 |
 
 ### Megaminx
 

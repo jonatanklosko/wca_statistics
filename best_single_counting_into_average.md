@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 September 2023*
+*Updated on 12 September 2023*
 
 
 ### Rubik's Cube
@@ -10,13 +10,13 @@
 | 3.99 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Mofunland Cruise Open 2023](https://www.worldcubeassociation.org/competitions/MofunlandCruiseOpen2023/results/by_person#2019WANY36) |
 | 4.24 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/by_person#2012PARK03) |
 | 4.35 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019WANY36) |
+| 4.37 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [XMUM Cube Open 2023](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2023/results/by_person#2019WANY36) |
 | 4.41 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019WANY36) |
 | 4.45 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2016KOLA02) |
 | 4.48 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [UoSM Cube Day 2023](https://www.worldcubeassociation.org/competitions/UoSMCubeDay2023/results/by_person#2019WANY36) |
 | 4.49 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023/results/by_person#2019WANY36) |
 | 4.52 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Singapore Mini 2023](https://www.worldcubeassociation.org/competitions/SingaporeMini2023/results/by_person#2019WANY36) |
 | 4.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022/results/by_person#2016KOLA02) |
-| 4.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 
@@ -101,12 +101,12 @@
 | 1.20 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023/results/by_person#2019MEAD03) |
 | 1.28 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | [Michigan Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/MichiganSpeedcubingSpring2023/results/by_person#2017PALA08) |
 | 1.29 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Ōtepoti Winter 2023](https://www.worldcubeassociation.org/competitions/OtepotiWinter2023/results/by_person#2018MURR03) |
+| 1.31 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Cubing by the Kings 2023](https://www.worldcubeassociation.org/competitions/CubingByTheKings2023/results/by_person#2019SHER10) |
 | 1.32 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Fort Wayne Favorites 2023](https://www.worldcubeassociation.org/competitions/FortWayneFavorites2023/results/by_person#2016KELL12) |
 | 1.32 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2017NIEL03) |
 | 1.32 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [Crystal City Fall 2022](https://www.worldcubeassociation.org/competitions/CrystalCityFall2022/results/by_person#2017NIEL03) |
 | 1.32 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Michigan Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/MichiganSpeedcubingSpring2023/results/by_person#2019SHER10) |
 | 1.34 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/by_person#2018MURR03) |
-| 1.34 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [North Jersey Speedsolving A 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingA2023/results/by_person#2019MEAD03) |
 
 ### Rubik's Clock
 

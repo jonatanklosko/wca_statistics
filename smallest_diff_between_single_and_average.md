@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 September 2023*
+*Updated on 12 September 2023*
 
 
 ### Rubik's Cube
@@ -74,10 +74,10 @@
 | 0.05 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 2:03.37 | 2:03.42 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/by_person#2012MCNE01) |
 | 0.05 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 4:48.06 | 4:48.11 | [Santiago Open 2009](https://www.worldcubeassociation.org/competitions/SantiagoOpen2009/results/by_person#2007GUIM01) |
 | 0.06 | [Alan Zhao](https://www.worldcubeassociation.org/persons/2015ZHAO13) | 2:32.43 | 2:32.49 | [Westcoast Woodvale Weekends 2019](https://www.worldcubeassociation.org/competitions/WestcoastWoodvaleWeekends2019/results/by_person#2015ZHAO13) |
+| 0.08 | [Eli Parker](https://www.worldcubeassociation.org/persons/2016PARK02) | 2:27.50 | 2:27.58 | [Music City Fall 2023](https://www.worldcubeassociation.org/competitions/MusicCitySpeedsolvingFall2023/results/by_person#2016PARK02) |
 | 0.10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 2:44.66 | 2:44.76 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012/results/by_person#2005AKKE01) |
 | 0.11 | [Geovanny Cueva](https://www.worldcubeassociation.org/persons/2018CUEV01) | 2:58.25 | 2:58.36 | [Ecuador Nationals 2019](https://www.worldcubeassociation.org/competitions/EcuadorNationals2019/results/by_person#2018CUEV01) |
 | 0.12 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:35.44 | 1:35.56 | [NW Champs 2017](https://www.worldcubeassociation.org/competitions/NorthwestChampionships2017/results/by_person#2009HAYS01) |
-| 0.12 | [Martin Šebesta](https://www.worldcubeassociation.org/persons/2015SEBE01) | 3:11.88 | 3:12.00 | [Slovakian Open 2016](https://www.worldcubeassociation.org/competitions/SlovakianOpen2016/results/by_person#2015SEBE01) |
 
 ### 7x7x7 Cube
 
@@ -175,6 +175,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.04 | [Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.90 | 2.94 | [You May Open 2018](https://www.worldcubeassociation.org/competitions/YouMayOpen2018/results/by_person#2016CAIY03) |
 | 0.04 | [Jesús Julián De Niz Hernandez](https://www.worldcubeassociation.org/persons/2014HERN12) | 3.44 | 3.48 | [Guadalajara 2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017/results/by_person#2014HERN12) |
+| 0.04 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.57 | 3.61 | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/by_person#2022STOJ03) |
 | 0.04 | [Jiachen Xu (徐嘉辰)](https://www.worldcubeassociation.org/persons/2016XUJI02) | 3.96 | 4.00 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2016XUJI02) |
 | 0.04 | [Dominik Fürer](https://www.worldcubeassociation.org/persons/2017FURE01) | 4.22 | 4.26 | [Wiler Würfelfest 2019](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2019/results/by_person#2017FURE01) |
 | 0.04 | [Julián García Sánchez](https://www.worldcubeassociation.org/persons/2014SANC28) | 4.48 | 4.52 | [Tlaxcala 2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018/results/by_person#2014SANC28) |
@@ -182,7 +183,6 @@
 | 0.04 | [Andrew Tyberg](https://www.worldcubeassociation.org/persons/2016TYBE01) | 5.74 | 5.78 | [Mega Minnesota Winter 2018](https://www.worldcubeassociation.org/competitions/MegaMinnesotaWinter2018/results/by_person#2016TYBE01) |
 | 0.05 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 2.51 | 2.56 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2018MACH04) |
 | 0.05 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 2.61 | 2.66 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2013JOHN10) |
-| 0.05 | [José David Rendón Martínez](https://www.worldcubeassociation.org/persons/2018MART75) | 3.16 | 3.21 | [75 por Ciento Bogotá 2023](https://www.worldcubeassociation.org/competitions/75porCientoBogota2023/results/by_person#2018MART75) |
 
 ### Square-1
 
@@ -192,12 +192,12 @@
 | 0.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 10.23 | 10.27 | [Washtenaw Qualifier 2023](https://www.worldcubeassociation.org/competitions/WashtenawQualifier2023/results/by_person#2016CHAP04) |
 | 0.07 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 11.27 | 11.34 | [Hangzhou Autumn 2016](https://www.worldcubeassociation.org/competitions/HangzhouAutumn2016/results/by_person#2013FENG02) |
 | 0.07 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | 33.02 | 33.09 | [Dixon Winter 2013](https://www.worldcubeassociation.org/competitions/DixonWinter2013/results/by_person#2010BREC01) |
+| 0.08 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 11.69 | 11.77 | [BrizZon Side Open IV 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2023/results/by_person#2021WARC01) |
 | 0.09 | [Muhammad Hafizuddin Akhtar Bin Mohd Zainal Abidin](https://www.worldcubeassociation.org/persons/2017ABID02) | 12.03 | 12.12 | [Malaysia Cube Championship 2019](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2019/results/by_person#2017ABID02) |
 | 0.09 | [Lukas Hörbach](https://www.worldcubeassociation.org/persons/2022HORB01) | 12.62 | 12.71 | [UBC Side Events 2023](https://www.worldcubeassociation.org/competitions/UBCSideEvents2023/results/by_person#2022HORB01) |
 | 0.09 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 14.42 | 14.51 | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022/results/by_person#2014ZYCH01) |
 | 0.09 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | 16.03 | 16.12 | [Martelli Open Otoño 2019](https://www.worldcubeassociation.org/competitions/MartelliOpenOtono2019/results/by_person#2014BONA02) |
 | 0.10 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 7.71 | 7.81 | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/by_person#2014NIEL03) |
-| 0.10 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 9.68 | 9.78 | [No 3x3 in Auburn Hills 2022](https://www.worldcubeassociation.org/competitions/No3x3inAuburnHills2022/results/by_person#2016PFEI01) |
 
 ### 4x4x4 Blindfolded
 

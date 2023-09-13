@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 September 2023*
+*Updated on 12 September 2023*
 
 
 ### Rubik's Cube
@@ -162,12 +162,12 @@
 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.45 | **2.12** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 5 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.64 | **2.14** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#epyram_f) | 4 |
 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.90 | **2.15** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 6 |
+| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.75 | **2.19** | [Cubing by the Kings 2023](https://www.worldcubeassociation.org/competitions/CubingByTheKings2023/results/all#epyram_f) | 4 |
 | [Zejin Liu (刘泽锦)](https://www.worldcubeassociation.org/persons/2021LIUZ04) | 1.81 | **2.22** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 7 |
 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.69 | **2.24** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 4 |
 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) | 2.16 | **2.24** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 5 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.85 | **2.25** | [Fort Wayne Favorites 2023](https://www.worldcubeassociation.org/competitions/FortWayneFavorites2023/results/all#epyram_f) | 4 |
 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.88 | **2.25** | [Pittsburgh Fall 2022](https://www.worldcubeassociation.org/competitions/PittsburghFall2022/results/all#epyram_f) | 4 |
-| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.55 | **2.29** | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 
@@ -178,11 +178,11 @@
 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | 3.64 | **4.77** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eclock_f) | 4 |
 | [Richard Yiheng Tao](https://www.worldcubeassociation.org/persons/2020TAOR01) | 4.65 | **4.91** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eclock_f) | 5 |
 | [Victor Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) | 4.17 | **4.96** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eclock_f) | 6 |
+| [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 4.15 | **4.99** | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/all#eclock_f) | 4 |
 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | 3.75 | **5.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 6 |
 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 3.96 | **5.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 7 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.04 | **5.07** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 8 |
 | [Virgile Perrot](https://www.worldcubeassociation.org/persons/2017PERR02) | 4.45 | **5.09** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eclock_f) | 7 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 4.91 | **5.17** | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/all#eclock_f) | 4 |
 
 ### Skewb
 

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 September 2023*
+*Updated on 12 September 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -136,6 +136,7 @@
 | 13 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Canberra Spring 2016](https://www.worldcubeassociation.org/competitions/CanberraSpring2016/results/podiums) |
 | 13 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [New Zealand Nationals 2017](https://www.worldcubeassociation.org/competitions/NewZealandNationals2017/results/podiums) |
 | 13 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Dutch Open 2016](https://www.worldcubeassociation.org/competitions/DutchOpen2016/results/podiums) |
+| 13 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [Comodoro Cubea 2023](https://www.worldcubeassociation.org/competitions/ComodoroCubea2023/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Aarhus Spring 2019](https://www.worldcubeassociation.org/competitions/AarhusSpring2019/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Dåstrup Sleepover 2018](https://www.worldcubeassociation.org/competitions/DastrupSleepover2018/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Dutch Open 2017](https://www.worldcubeassociation.org/competitions/DutchOpen2017/results/podiums) |
@@ -174,6 +175,7 @@
 | 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Mölnlycke Open 2023](https://www.worldcubeassociation.org/competitions/MolnlyckeOpen2023/results/podiums) |
 | 13 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Otoño 2023](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingOtono2023/results/podiums) |
 | 13 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Nebraska Heartland Warmup 2023](https://www.worldcubeassociation.org/competitions/NebraskaHeartlandWarmup2023/results/podiums) |
+| 13 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Comodoro Cubea 2023](https://www.worldcubeassociation.org/competitions/ComodoroCubea2023/results/podiums) |
 | 13 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/podiums) |
 | 13 | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) | [CMI Tessellate Cube Open 2019](https://www.worldcubeassociation.org/competitions/CMITessellateCubeOpen2019/results/podiums) |
 | 13 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [Hudiksvall Open 2023](https://www.worldcubeassociation.org/competitions/HudiksvallOpen2023/results/podiums) |
@@ -285,6 +287,7 @@
 | 12 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | [Cubing Mérida 2013](https://www.worldcubeassociation.org/competitions/CubingMerida2013/results/podiums) |
 | 12 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015/results/podiums) |
 | 12 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Icelandic Nationals 2019](https://www.worldcubeassociation.org/competitions/IcelandicNationals2019/results/podiums) |
+| 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2023](https://www.worldcubeassociation.org/competitions/DanishChampionship2023/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Icelandic Nationals 2019](https://www.worldcubeassociation.org/competitions/IcelandicNationals2019/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Ikast Winter Cubing 2023](https://www.worldcubeassociation.org/competitions/IkastWinterCubing2023/results/podiums) |
@@ -530,6 +533,7 @@
 | 11 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Frikifest 2017](https://www.worldcubeassociation.org/competitions/Frikifest2017/results/podiums) |
 | 11 | [Manuel Bühler](https://www.worldcubeassociation.org/persons/2014BUEH01) | [Eagle of the East 2018](https://www.worldcubeassociation.org/competitions/EagleoftheEast2018/results/podiums) |
 | 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Almaty Summer 2018](https://www.worldcubeassociation.org/competitions/AlmatySummer2018/results/podiums) |
+| 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Glacier National Park Open 2023](https://www.worldcubeassociation.org/competitions/GlacierNationalParkOpen2023/results/podiums) |
 | 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Lights of Reykjavik 2019](https://www.worldcubeassociation.org/competitions/LightsOfReykjavik2019/results/podiums) |
 | 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [San Marino Nationals 2018](https://www.worldcubeassociation.org/competitions/SanMarinoNationals2018/results/podiums) |
 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Slovakian Summer 2019](https://www.worldcubeassociation.org/competitions/SlovakianSummer2019/results/podiums) |
@@ -1042,6 +1046,7 @@
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Croatian Nationals 2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019/results/podiums) |
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Zwolle Open 2018](https://www.worldcubeassociation.org/competitions/ZwolleOpen2018/results/podiums) |
 | 10 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Conquiste o Cubo II 2023](https://www.worldcubeassociation.org/competitions/ConquisteoCuboII2023/results/podiums) |
+| 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Cerrado Open 2023](https://www.worldcubeassociation.org/competitions/CerradoOpen2023/results/podiums) |
 | 10 | [Luiz Fellipe Oliuza Leal Silva](https://www.worldcubeassociation.org/persons/2016SILV02) | [Bodocó Open 2019](https://www.worldcubeassociation.org/competitions/Bodoco2019/results/podiums) |
 | 10 | [Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15) | [TCG Spring 2019](https://www.worldcubeassociation.org/competitions/TCGSpring2019/results/podiums) |
 | 10 | [Grigoriy Barashkin](https://www.worldcubeassociation.org/persons/2017BARA05) | [Welcome to Murmansk 2021](https://www.worldcubeassociation.org/competitions/WelcometoMurmansk2021/results/podiums) |
@@ -1072,6 +1077,7 @@
 | 10 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Taman Anggrek Speedcubing 2023](https://www.worldcubeassociation.org/competitions/TamanAnggrekSpeedcubing2023/results/podiums) |
 | 10 | [Farhan Siddiq](https://www.worldcubeassociation.org/persons/2017SIDD03) | [Pekanbaru Open 2017](https://www.worldcubeassociation.org/competitions/PekanbaruOpen2017/results/podiums) |
 | 10 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019/results/podiums) |
+| 10 | [Jonathan Truchot](https://www.worldcubeassociation.org/persons/2017TRUC02) | [Glacier National Park Open 2023](https://www.worldcubeassociation.org/competitions/GlacierNationalParkOpen2023/results/podiums) |
 | 10 | [Gerardo Varela](https://www.worldcubeassociation.org/persons/2017VARE01) | [Copa Inframundo HN 2019](https://www.worldcubeassociation.org/competitions/CopaInframundoHN2019/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Ankara January 2023](https://www.worldcubeassociation.org/competitions/AnkaraJanuary2023/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Ankara Spring 2023](https://www.worldcubeassociation.org/competitions/AnkaraSpring2023/results/podiums) |
@@ -1085,6 +1091,7 @@
 | 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [Lleida Open 2022](https://www.worldcubeassociation.org/competitions/LleidaOpen2022/results/podiums) |
 | 10 | [Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17) | [Vladivostok Is Back On 2021](https://www.worldcubeassociation.org/competitions/VladivostokIsBackOn2021/results/podiums) |
 | 10 | [Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17) | [Vladivostok Spring 2020](https://www.worldcubeassociation.org/competitions/VladivostokSpring2020/results/podiums) |
+| 10 | [Aaron Scarpati Curin](https://www.worldcubeassociation.org/persons/2018CURI02) | [Comodoro Cubea 2023](https://www.worldcubeassociation.org/competitions/ComodoroCubea2023/results/podiums) |
 | 10 | [Samir Homsi](https://www.worldcubeassociation.org/persons/2018HOMS01) | [Ankara Summer 2021](https://www.worldcubeassociation.org/competitions/AnkaraSummer2021/results/podiums) |
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Autotalo All Events 2023](https://www.worldcubeassociation.org/competitions/AutotaloAllEvents2023/results/podiums) |
 | 10 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/podiums) |

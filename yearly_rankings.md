@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 12 September 2023*
+*Updated on 16 September 2023*
 
 
 ### Rubik's Cube - Single
@@ -267,7 +267,7 @@
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **8.86** | United States | [You Only Need a 3x3 AZ 2023](https://www.worldcubeassociation.org/competitions/YouOnlyNeeda3x3AZ2023) | 8.05, 10.10, 7.08, 9.96, 8.57 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **8.88** | New Zealand | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023) | 17.51, 8.72, 8.69, 8.80, 9.12 |
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **9.05** | United Kingdom | [ABHC 2023](https://www.worldcubeassociation.org/competitions/ABHC2023) | 7.92, 9.69, 10.08, 8.15, 9.31 |
-| [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | **9.13** | Philippines | [West Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2023) | 10.53, 9.84, 9.29, 8.03, 8.26 |
+| [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | **9.12** | Philippines | [Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/VisayasChampionship2023) | 8.30, 10.23, 8.70, 8.42, 11.08 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **9.17** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 15.26, 10.23, 8.39, 8.22, 8.89 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **9.23** | France | [Sens Open 2023](https://www.worldcubeassociation.org/competitions/SensOpen2023) | 8.51, 9.74, 8.79, 12.04, 9.16 |
 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **9.28** | Hong Kong, China | [Berkeley Winter B 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterB2023) | 10.28, 8.76, 8.79, 7.67, 10.58 |

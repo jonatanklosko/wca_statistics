@@ -1,15 +1,15 @@
 ## Most competitions abroad
 
-*Updated on 12 September 2023*
+*Updated on 16 September 2023*
 
 | Competitions | Person |
 | ---: | :--- |
-| 169 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
+| 170 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 159 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 139 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 138 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 123 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 122 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
+| 123 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 120 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 117 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 111 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
@@ -28,11 +28,11 @@
 | 86 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 85 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 84 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
+| 85 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 80 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 79 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
+| 79 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 79 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
-| 78 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 74 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 73 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
@@ -56,12 +56,12 @@
 | 60 | [Danny Sungin Park](https://www.worldcubeassociation.org/persons/2015PARK13) |
 | 60 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 59 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
+| 59 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 59 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
 | 58 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 58 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 57 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 57 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 57 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 56 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 56 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 55 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |

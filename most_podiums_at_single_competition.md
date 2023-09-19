@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 September 2023*
+*Updated on 19 September 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1058,6 +1058,7 @@
 | 10 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023/results/podiums) |
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Hernando Summer 2020](https://www.worldcubeassociation.org/competitions/HernandoSummer2020/results/podiums) |
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/podiums) |
+| 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Santiago Cubea 2023](https://www.worldcubeassociation.org/competitions/SantiagoCubea2023/results/podiums) |
 | 10 | [Shukrullo Ibragimov](https://www.worldcubeassociation.org/persons/2017IBRA05) | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019/results/podiums) |
 | 10 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [Chelny Open 2018](https://www.worldcubeassociation.org/competitions/ChelnyOpen2018/results/podiums) |
 | 10 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [One LY Cube 2018](https://www.worldcubeassociation.org/competitions/OneLYCube2018/results/podiums) |

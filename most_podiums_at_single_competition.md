@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 September 2023*
+*Updated on 22 September 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -610,6 +610,7 @@
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023/results/podiums) |
 | 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020/results/podiums) |
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
+| 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2023](https://www.worldcubeassociation.org/competitions/IcelandicNationals2023/results/podiums) |
 | 11 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northwest Championship 2019](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2019/results/podiums) |
 | 11 | [Saveliy Surikov](https://www.worldcubeassociation.org/persons/2017SURI01) | [Kalmykia Open 2018](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2018/results/podiums) |
 | 11 | [Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01) | [Indonesia Masters 2023](https://www.worldcubeassociation.org/competitions/IndonesiaMasters2023/results/podiums) |
@@ -629,6 +630,7 @@
 | 11 | [Assylkhan Meirkhanov (Асылхан Мейрханов)](https://www.worldcubeassociation.org/persons/2018MEIR04) | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019/results/podiums) |
 | 11 | [Dmitry Matthew Yaquinto](https://www.worldcubeassociation.org/persons/2018YAQU01) | [Vladivostok Is Back On 2021](https://www.worldcubeassociation.org/competitions/VladivostokIsBackOn2021/results/podiums) |
 | 11 | [Dmitry Matthew Yaquinto](https://www.worldcubeassociation.org/persons/2018YAQU01) | [Vladivostok Spring 2020](https://www.worldcubeassociation.org/competitions/VladivostokSpring2020/results/podiums) |
+| 11 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Slovak Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovakNationals2023/results/podiums) |
 | 11 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022/results/podiums) |
 | 11 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/podiums) |
 | 11 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | [Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/VisayasChampionship2023/results/podiums) |
@@ -1020,6 +1022,7 @@
 | 10 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Banja Luka Open 2022](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2022/results/podiums) |
 | 10 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Belgrade Summer 2022](https://www.worldcubeassociation.org/competitions/BelgradeSummer2022/results/podiums) |
 | 10 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | [Kaohsiung Winter Open 2016](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2016/results/podiums) |
+| 10 | [Vitor Wagner Abreu](https://www.worldcubeassociation.org/persons/2016ABRE01) | [Criciúma Open 2023](https://www.worldcubeassociation.org/competitions/CriciumaOpen2023/results/podiums) |
 | 10 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) | [Cebu Speedcubing Year End 2019](https://www.worldcubeassociation.org/competitions/CebuSpeedcubingYearEnd2019/results/podiums) |
 | 10 | [Milko Sebastián Gutiérrez Arroyo](https://www.worldcubeassociation.org/persons/2016ARRO05) | [Paraguay Nationals 2019](https://www.worldcubeassociation.org/competitions/ParaguayNationals2019/results/podiums) |
 | 10 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelChampionship2023/results/podiums) |

@@ -1,25 +1,25 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 September 2023*
+*Updated on 22 September 2023*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **569** | 364 | 243 | 1176 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 200 | 125 | 659 |
-| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **221** | 121 | 80 | 422 |
+| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **224** | 121 | 80 | 425 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **199** | 50 | 18 | 267 |
-| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **179** | 156 | 113 | 448 |
+| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **185** | 158 | 113 | 456 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **161** | 57 | 27 | 245 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **161** | 58 | 27 | 246 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **134** | 71 | 42 | 247 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **126** | 146 | 131 | 403 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **120** | 61 | 35 | 216 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **118** | 94 | 75 | 287 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **115** | 49 | 29 | 193 |
+| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **114** | 30 | 23 | 167 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **111** | 101 | 90 | 302 |
-| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **110** | 30 | 22 | 162 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **108** | 122 | 108 | 338 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **108** | 39 | 17 | 164 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **99** | 20 | 8 | 127 |
@@ -45,10 +45,10 @@
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **58** | 65 | 40 | 163 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **58** | 63 | 69 | 190 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **58** | 43 | 35 | 136 |
+| [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **56** | 46 | 33 | 135 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **55** | 46 | 42 | 143 |
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
-| [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **54** | 46 | 33 | 133 |
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **54** | 32 | 13 | 99 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 23 | 17 | 94 |
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **53** | 38 | 38 | 129 |

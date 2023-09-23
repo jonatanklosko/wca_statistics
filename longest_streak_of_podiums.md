@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 19 September 2023*
+*Updated on 22 September 2023*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -44,8 +44,8 @@
 | 45 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 3x3x3 Blindfolded | [Kubkvarna 2022](https://www.worldcubeassociation.org/competitions/Kubkvarna2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 44 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | Skewb | [Ukrainian Nationals 2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017) |  |
 | 44 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | Square-1 | [Big Pine Open 2015](https://www.worldcubeassociation.org/competitions/BigPineOpen2015) |  |
-| 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
 | 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 6x6x6 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
+| 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
 | 43 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 3x3x3 One-Handed | [UPenn Fall 2017](https://www.worldcubeassociation.org/competitions/UPennCubeDayFall2017) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
 | 43 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | Square-1 | [Xi'an New Year 2016](https://www.worldcubeassociation.org/competitions/XianNewYear2016) | [Wuhan Open 2019](https://www.worldcubeassociation.org/competitions/WuhanOpen2019) |
 | 42 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | Skewb | [Kubekings Villanueva Open 2018](https://www.worldcubeassociation.org/competitions/KubekingsVillanuevaOpen2018) |  |
@@ -82,6 +82,7 @@
 | 34 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | Clock | [Taiwan Summer 2012](https://www.worldcubeassociation.org/competitions/TaiwanSummer2012) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 34 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 With Feet | [Rybnik Open 2013](https://www.worldcubeassociation.org/competitions/RybnikOpen2013) |  |
 | 34 | [Ruohan Qiu (邱若寒)](https://www.worldcubeassociation.org/persons/2012QIUR01) | 3x3x3 With Feet | [Guangdong Open 2014](https://www.worldcubeassociation.org/competitions/GuangdongOpen2014) | [Maoming Open 2019](https://www.worldcubeassociation.org/competitions/MaomingOpen2019) |
+| 34 | [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) | 5x5x5 Cube | [TCG Spring Open 2015](https://www.worldcubeassociation.org/competitions/TCGSpringOpen2015) |  |
 | 34 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | Megaminx | [Northeastern Fall 2015](https://www.worldcubeassociation.org/competitions/NortheasternFall2015) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 34 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | Square-1 | [Northwest Championship 2018](https://www.worldcubeassociation.org/competitions/CubingUSANorthwestChamps2018) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) |
 | 33 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 5x5x5 Cube | [Japan Open 2011](https://www.worldcubeassociation.org/competitions/JapanOpen2011) |  |
@@ -90,7 +91,6 @@
 | 33 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | 4x4x4 Cube | [Torneo Tadeo Summer 2017](https://www.worldcubeassociation.org/competitions/TorneoTadeoSummer2017) | [El Puente San Gil 2023](https://www.worldcubeassociation.org/competitions/ElPuenteSanGil2023) |
 | 33 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 7x7x7 Cube | [Wuxi Open 2019](https://www.worldcubeassociation.org/competitions/WuxiOpen2019) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 33 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | Pyraminx | [Bucharest Rubik Open 2014](https://www.worldcubeassociation.org/competitions/BucharestRubikOpen2014) |  |
-| 33 | [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) | 5x5x5 Cube | [TCG Spring Open 2015](https://www.worldcubeassociation.org/competitions/TCGSpringOpen2015) |  |
 | 33 | [Damián Jail Campos](https://www.worldcubeassociation.org/persons/2015CAMP03) | Megaminx | [La Plata Open 2015](https://www.worldcubeassociation.org/competitions/LaPlataOpen2015) |  |
 | 33 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | Megaminx | [Zhenjiang Open 2016](https://www.worldcubeassociation.org/competitions/ZhenjiangOpen2016) |  |
 | 32 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) | Square-1 | [Cube Camp in Kanazawa 2012](https://www.worldcubeassociation.org/competitions/CubeCampKanazawa2012) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 September 2023*
+*Updated on 22 September 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -39,6 +39,7 @@
 | 7 | [Gem City Airplane Mode II 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeII2023) |
 | 7 | [Idéale Nabeul Open 2018](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2018) |
 | 7 | [JAM FMC II 2023](https://www.worldcubeassociation.org/competitions/JAMFMCII2023) |
+| 7 | [JL1: Margherita 2023](https://www.worldcubeassociation.org/competitions/JL1Margherita2023) |
 | 7 | [Kyiv FMC Friends III 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsIII2023) |
 | 7 | [Kyiv FMC Friends IV 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsIV2023) |
 | 7 | [Mental Breakdown Abu Dhabi 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownAbuDhabi2019) |
@@ -81,6 +82,7 @@
 | 9 | [GA Cubers Study July 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyJuly2023) |
 | 9 | [Gem City Airplane Mode 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneMode2023) |
 | 9 | [Gem City Airplane Mode III 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeIII2023) |
+| 9 | [Grizz Cubing League II 2023](https://www.worldcubeassociation.org/competitions/GrizzCubingLeagueII2023) |
 | 9 | [Jönköpingsligan 1: Waterloo 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan1Waterloo2023) |
 | 9 | [Jönköpingsligan 5: Euphoria 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan5Euphoria2023) |
 | 9 | [Jordan Open 2012](https://www.worldcubeassociation.org/competitions/JordanOpen2012) |
@@ -121,6 +123,7 @@
 | 10 | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014) |
 | 10 | [Greenland Open 2023](https://www.worldcubeassociation.org/competitions/GreenlandOpen2023) |
 | 10 | [Guwahati FMC Challenge 2023](https://www.worldcubeassociation.org/competitions/GuwahatiFMCChallenge2023) |
+| 10 | [Hilliard Hippocampus IX 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusIX2023) |
 | 10 | [Hilliard Hippocampus V 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusV2023) |
 | 10 | [Hilliard Hippocampus VI 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusVI2023) |
 | 10 | [Idaho Open 2005](https://www.worldcubeassociation.org/competitions/IdahoOpen2005) |

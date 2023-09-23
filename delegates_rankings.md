@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 19 September 2023*
+*Updated on 22 September 2023*
 
 
 ### Rubik's Cube - Single
@@ -347,7 +347,7 @@
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **3.79** | United States | [GA Cubers Mashed Potatoes 2022](https://www.worldcubeassociation.org/competitions/GACubersMashedPotatoes2022) | 6.75, 4.75, DNF, DNF, 3.79 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | **3.98** | United Kingdom | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019) | 3.98, 7.26, 7.64, 8.71, DNF |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **4.04** | Poland | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023) | 4.04, 5.16, 5.95, 5.67, 4.86 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **4.24** | Poland | [LLS IV Świdnik 2021](https://www.worldcubeassociation.org/competitions/LLSIVSwidnik2021) | 6.01, 4.24, 6.79, 7.05, 6.03 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **4.07** | United States | [Swoop In Silence Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopInSilenceOxford2023) | 5.02, 5.94, DNF, 8.44, 4.07 |
 
 ### Rubik's Clock - Average
 

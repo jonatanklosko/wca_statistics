@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 19 September 2023*
+*Updated on 22 September 2023*
 
 
 ### 3x3x3 Blindfolded
@@ -45,13 +45,13 @@
 | 22 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) |
 | 21 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) |
 | 20 | [Joel Ulin](https://www.worldcubeassociation.org/persons/2011ULIN01) |
+| 19 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) |
 | 19 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
 | 19 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) |
 | 19 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
 | 19 | [Jacob Turrubiartes](https://www.worldcubeassociation.org/persons/2018TURR01) |
 | 18 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 18 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) |
-| 18 | [Keenan Johnson](https://www.worldcubeassociation.org/persons/2016JOHN30) |
 
 ### 5x5x5 Blindfolded
 

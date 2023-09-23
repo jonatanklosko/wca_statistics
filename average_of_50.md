@@ -1,7 +1,7 @@
 ## Average of 50
 
 *Note: 50 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 September 2023*
+*Updated on 22 September 2023*
 
 
 ### Rubik's Cube
@@ -105,9 +105,9 @@
 | 23.95 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 23, 23, 24, 22, 20, 25, 26, 24, 23, 24, 25, 26, 23, 24, 21, 27, 23, 21, 23, 23, 24, 26, 23, 28, 25, 25, 26, 26, 25, 25, 25, 26, 24, 25, 24, 26, 22, 23, 23, 23, 22, 23, 23, 29, 25, 24, 18, 23, 25, 21 |
 | 24.38 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 25, 31, 25, 27, 23, 22, 24, 24, 26, 24, 28, 25, 23, 23, 24, 22, 27, 23, 24, 29, 25, 25, 26, 24, 26, 23, 21, 30, 28, 20, 23, 23, 24, 22, 25, 27, 25, 22, 26, 24, 21, 24, 25, 21, 28, 23, 23, 25, 22, 25 |
 | 24.70 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 23, 22, 22, 24, 25, 25, 24, 24, 25, 26, 27, 25, 28, 22, 27, 22, 28, 24, 29, 24, 24, 24, 24, 28, 25, 21, 27, 27, 26, 27, 22, 28, 23, 24, 24, 25, 24, 22, 27, 26, 23, 27, 25, 21, 26, 23, 27, 24, 24, 22 |
+| 24.88 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 28, 30, 24, 26, 23, 24, 29, 25, 23, 24, 24, 21, 22, 24, 23, 24, 27, 26, 22, 25, 27, 26, 27, 22, DNF, 31, 23, 23, 24, 25, 25, 24, 24, 28, 20, DNF, 24, 26, 22, 23, 28, 25, 23, 26, 25, 27, 20, 25, 26, 24 |
 | 24.95 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 26, 29, 33, 38, 24, DNF, 25, 27, 24, 25, 26, 26, 21, 26, 29, 22, 24, 25, 23, 23, 22, 23, 21, 21, DNF, 26, 26, 26, 22, 29, 23, 22, 26, 27, 25, 27, 34, 27, 25, 21, 20, 21, 25, 24, 21, 21, 24, 24, 26, 23 |
 | 25.00 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22, 27, DNF, 24, 26, 24, 26, 24, 23, 27, 25, 31, 21, DNF, DNF, 28, 22, 24, 25, 23, 24, 24, 28, 26, 28, 28, 22, 28, 31, 30, 24, 24, 21, 22, 28, 20, 23, 23, 26 |
-| 25.02 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 23, 27, 31, 28, 30, 24, 26, 23, 24, 29, 25, 23, 24, 24, 21, 22, 24, 23, 24, 27, 26, 22, 25, 27, 26, 27, 22, DNF, 31, 23, 23, 24, 25, 25, 24, 24, 28, 20, DNF, 24, 26, 22, 23, 28, 25, 23, 26, 25, 27, 20 |
 
 ### 3x3x3 One-Handed
 

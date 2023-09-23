@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 September 2023*
+*Updated on 22 September 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -355,6 +355,7 @@
 | 2261 | [Jeremy Benik](https://www.worldcubeassociation.org/persons/2016BENI05) |
 | 2267 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 2269 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
+| 2274 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2275 | [Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04) |
 | 2282 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
 | 2310 | [Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02) |

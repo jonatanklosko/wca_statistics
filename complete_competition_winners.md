@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 19 September 2023*
+*Updated on 22 September 2023*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -116,6 +116,7 @@
 | 4 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | Japan | [East Japan Big Cubes 2013](https://www.worldcubeassociation.org/competitions/EastJapanBigCubes2013) |
 | 3 | [Brendan Bakker](https://www.worldcubeassociation.org/persons/2015BAKK01) | United States | [PBQtah 5 2023](https://www.worldcubeassociation.org/competitions/PBQtah52023) |
 | 3 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [Fantabulous MN Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMinnesota2015) |
+| 3 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Grizz Cubing League II 2023](https://www.worldcubeassociation.org/competitions/GrizzCubingLeagueII2023) |
 | 3 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Smart Cubers Egypt 2019](https://www.worldcubeassociation.org/competitions/SmartCubersEgypt2019) |
 | 3 | [Daniel Cano Salgado](https://www.worldcubeassociation.org/persons/2011SALG01) | Colombia | [Los Alpes 2014](https://www.worldcubeassociation.org/competitions/SpeedcubingLosAlpes2014) |
 | 3 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | Sweden | [Nairobi Cube Challenge 2019](https://www.worldcubeassociation.org/competitions/NairobiCubeChallenge2019) |

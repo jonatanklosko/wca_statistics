@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 22 September 2023*
+*Updated on 23 September 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.49 | World | 10459 |
+| 1.48 | World | 10466 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
 | 1.75 | Europe | 3429 |
-| 1.55 | South America | 1203 |
+| 1.55 | South America | 1206 |
 | 1.47 | Oceania | 460 |
 | 1.41 | Asia | 2378 |
 | 1.25 | Africa | 114 |
-| 1.21 | North America | 2875 |
+| 1.21 | North America | 2879 |
 
 ### Countries
 
@@ -77,11 +77,11 @@
 | 1.54 | Dominican Republic | 26 |
 | 1.53 | Greece | 19 |
 | 1.51 | Malaysia | 76 |
+| 1.50 | Peru | 177 |
 | 1.50 | Belize | 2 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Nigeria | 4 |
-| 1.50 | Peru | 176 |
-| 1.46 | Colombia | 204 |
+| 1.45 | Colombia | 205 |
 | 1.45 | Costa Rica | 20 |
 | 1.45 | Israel | 38 |
 | 1.44 | Romania | 90 |
@@ -93,7 +93,7 @@
 | 1.38 | Estonia | 50 |
 | 1.38 | South Africa | 53 |
 | 1.38 | Paraguay | 24 |
-| 1.36 | Ecuador | 36 |
+| 1.35 | Ecuador | 37 |
 | 1.34 | Philippines | 235 |
 | 1.34 | Chinese Taipei | 124 |
 | 1.33 | Hong Kong, China | 18 |
@@ -116,7 +116,7 @@
 | 1.17 | Armenia | 6 |
 | 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2295 |
+| 1.16 | United States | 2299 |
 | 1.16 | Canada | 300 |
 | 1.13 | Honduras | 15 |
 | 1.12 | Azerbaijan | 41 |

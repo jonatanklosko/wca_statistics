@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 25 September 2023*
+*Updated on 28 September 2023*
 
 
 ### Rubik's Cube - Single
@@ -102,9 +102,9 @@
 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | **42.68** | France | [Dontrien Open 2023](https://www.worldcubeassociation.org/competitions/DontrienOpen2023) | 56.79, 53.87, 55.84, 50.15, 42.68 |
 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | **43.34** | Japan | [JRCA Kansai Winter 2019](https://www.worldcubeassociation.org/competitions/JRCAKansaiWinter2019) | 58.86, 44.04, 1:00.13, 43.34, 58.25 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **44.29** | Malaysia | [Johor Big Cube Challenge 2022](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2022) | 58.63, 52.73, 52.64, 58.91, 44.29 |
+| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **46.11** | United States | [Clarks Hill Cubing 2023](https://www.worldcubeassociation.org/competitions/ClarksHillCubing2023) | 54.23, 46.11, 51.87, 53.07, 58.74 |
 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | **46.88** | United States | [Cornhusker Cubing Classic 2023](https://www.worldcubeassociation.org/competitions/CornhuskerCubingClassic2023) | 58.06, 58.18, 49.13, 56.81, 46.88 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **46.95** | Poland | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) | 1:01.77, 46.95, 58.76, 59.87, 1:00.87 |
-| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **47.00** | United States | [Fountain City 2023](https://www.worldcubeassociation.org/competitions/FountainCity2023) | 51.01, 59.10, 1:00.51, 47.00, 50.09 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **47.11** | United States | [Heartland Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2023) | 47.11, 58.82, 1:01.09, 1:00.57, 1:05.19 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **47.22** | Australia | [Marrickville Big Cubes Day 2022](https://www.worldcubeassociation.org/competitions/MarrickvilleBigCubesDay2022) | 50.16, 47.22, 54.31, 55.15, 57.34 |
 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | **47.99** | United States | [GA Cubers Big Goobers 2022](https://www.worldcubeassociation.org/competitions/GACubersBigGoobers2022) | 59.39, 1:02.09, 1:00.49, 47.99, 1:00.20 |
@@ -119,8 +119,8 @@
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **52.03** | Malaysia | [Manchester Open 2020](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020) | 49.34, 55.16, 54.84, 49.87, 51.39 |
 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | **52.43** | Japan | [Japan Championship 2018](https://www.worldcubeassociation.org/competitions/JapanChampionship2018) | 56.12, 48.78, 50.97, 54.23, 52.10 |
 | [Hayden Ng](https://www.worldcubeassociation.org/persons/2018NGHA02) | **52.70** | Australia | [Queensland Open 2023](https://www.worldcubeassociation.org/competitions/QueenslandOpen2023) | 54.96, 52.35, 49.48, 50.79, 55.25 |
+| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **53.06** | United States | [Clarks Hill Cubing 2023](https://www.worldcubeassociation.org/competitions/ClarksHillCubing2023) | 54.23, 46.11, 51.87, 53.07, 58.74 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **53.21** | Australia | [Marrickville Big Cubes Day 2022](https://www.worldcubeassociation.org/competitions/MarrickvilleBigCubesDay2022) | 50.16, 47.22, 54.31, 55.15, 57.34 |
-| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **53.40** | United States | [Let's Even the Odds Alabama 2022](https://www.worldcubeassociation.org/competitions/LetsEventheOddsAlabama2022) | 1:00.32, 54.68, 50.32, 55.20, 49.18 |
 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | **53.64** | United States | [DFW Cubing Summer 2022](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2022) | 55.35, 1:00.39, 50.22, 53.66, 51.90 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **53.74** | Poland | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) | 53.65, 52.45, 1:01.18, 48.13, 55.11 |
 

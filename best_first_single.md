@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 25 September 2023*
+*Updated on 28 September 2023*
 
 
 ### Rubik's Cube
@@ -115,6 +115,7 @@
 | ---: | :--- |
 | 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
 | 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
+| 23 | [Mosfikul Islam](https://www.worldcubeassociation.org/persons/2023ISLA08) |
 | 24 | [Thomas Heiden](https://www.worldcubeassociation.org/persons/2019HEID03) |
 | 25 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) |
 | 25 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
@@ -122,7 +123,6 @@
 | 26 | [Ali Salavati (علی صلواتی)](https://www.worldcubeassociation.org/persons/2011SALA04) |
 | 26 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 26 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) |
-| 26 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |
 
 ### 3x3x3 One-Handed
 

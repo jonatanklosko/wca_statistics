@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 September 2023*
+*Updated on 28 September 2023*
 
 
 ### Rubik's Cube
@@ -44,9 +44,9 @@
 | 18.87 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
 | 19.06 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
 | 19.14 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2012PARK03) |
+| 19.15 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Irvine Fall 2023](https://www.worldcubeassociation.org/competitions/IrvineFall2023/results/by_person#2012PARK03) |
 | 19.21 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
 | 19.36 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 44 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin442023/results/by_person#2012PARK03) |
-| 19.37 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Arizona Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSpring2023/results/by_person#2012PARK03) |
 
 ### 5x5x5 Cube
 
@@ -151,7 +151,7 @@
 | 4.76 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023/results/by_person#2016EPST02) |
 | 4.77 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2017AGGA01) |
 | 4.80 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017SIAU02) |
-| 4.85 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2017SIAU02) |
+| 4.82 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Etec Cubatão 2023](https://www.worldcubeassociation.org/competitions/EtecCubatao2023/results/by_person#2015CECC01) |
 
 ### 3x3x3 With Feet
 

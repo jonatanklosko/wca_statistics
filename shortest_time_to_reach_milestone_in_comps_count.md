@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 September 2023*
+*Updated on 28 September 2023*
 
 
 ### 100 Competitions
@@ -57,6 +57,7 @@
 
 | Days | Person |
 | ---: | :--- |
+| 247 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
 | 271 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 274 | [August Barnard](https://www.worldcubeassociation.org/persons/2022BARN21) |
 | 294 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
@@ -76,7 +77,6 @@
 | 405 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) |
 | 408 | [Eric Ostdiek](https://www.worldcubeassociation.org/persons/2022OSTD01) |
 | 427 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
-| 428 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 
 ### 10 Competitions
 

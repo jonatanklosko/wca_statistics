@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 September 2023*
+*Updated on 28 September 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -49,6 +49,7 @@
 | 539 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
 | 539 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) |
 | 546 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
+| 546 | [Gabriel Williams V](https://www.worldcubeassociation.org/persons/2022WILL06) |
 | 565 | [Bo-Yu Lin (林柏佑)](https://www.worldcubeassociation.org/persons/2018LINB02) |
 | 567 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
 | 581 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) |
@@ -140,8 +141,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
+| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -196,6 +197,7 @@
 | 1293 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) |
 | 1295 | [Marco Edoardo Cittar](https://www.worldcubeassociation.org/persons/2015CITT01) |
 | 1307 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
+| 1316 | [Marco Guarasci](https://www.worldcubeassociation.org/persons/2020GUAR01) |
 | 1330 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
 | 1343 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 1344 | [Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17) |
@@ -251,6 +253,7 @@
 | 1568 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 1568 | [Chenhao Sun (孙晨皓)](https://www.worldcubeassociation.org/persons/2018SUNC02) |
 | 1581 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) |
+| 1596 | [Brandon Poulton](https://www.worldcubeassociation.org/persons/2019POUL02) |
 | 1610 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) |
 | 1610 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) |
 | 1631 | [Adam Hlavín](https://www.worldcubeassociation.org/persons/2019HLAV02) |
@@ -308,6 +311,7 @@
 | 1924 | [Nikhil Mande](https://www.worldcubeassociation.org/persons/2008MAND01) |
 | 1924 | [Xin Shi (石欣)](https://www.worldcubeassociation.org/persons/2010SHIX01) |
 | 1924 | [Jacob Turrubiartes](https://www.worldcubeassociation.org/persons/2018TURR01) |
+| 1932 | [Giovanni Centili](https://www.worldcubeassociation.org/persons/2018CENT02) |
 | 1937 | [Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07) |
 | 1938 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) |
 | 1960 | [Danny Buschert](https://www.worldcubeassociation.org/persons/2017BUSC03) |
@@ -424,6 +428,7 @@
 | 3332 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 3348 | [Junhe Zhang (张钧鹤)](https://www.worldcubeassociation.org/persons/2009ZHAN24) |
 | 3360 | [Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02) |
+| 3360 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) |
 | 3367 | [Chi-Lun Hung (洪啟倫)](https://www.worldcubeassociation.org/persons/2010HONG01) |
 | 3380 | [Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02) |
 | 3381 | [Felix Lee](https://www.worldcubeassociation.org/persons/2008LEEF01) |

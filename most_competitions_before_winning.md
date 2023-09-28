@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 25 September 2023*
+*Updated on 28 September 2023*
 
 
 ### Rubik's Cube
@@ -162,12 +162,12 @@
 | 77 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019) |
 | 52 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | [Yellowstone 2018](https://www.worldcubeassociation.org/competitions/Yellowstone2018) |
 | 50 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014) |
+| 49 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | [Ho'oholo in Honolulu 2023](https://www.worldcubeassociation.org/competitions/HooholoinHonolulu2023) |
 | 45 | [Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01) | [CC El Muelle Open 2019](https://www.worldcubeassociation.org/competitions/CCElMuelleOpen2019) |
 | 43 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | [Giżycko Open 2023](https://www.worldcubeassociation.org/competitions/GizyckoOpen2023) |
 | 42 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | [Drishti Cube Open 2018](https://www.worldcubeassociation.org/competitions/DrishtiCubeOpen2018) |
 | 42 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) | [Macedonian Nationals 2019](https://www.worldcubeassociation.org/competitions/MacedonianNationals2019) |
 | 41 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Faaborg Open 2019](https://www.worldcubeassociation.org/competitions/FaaborgOpen2019) |
-| 41 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | [Charleston Spring 2018](https://www.worldcubeassociation.org/competitions/CharlestonSpring2018) |
 
 ### Rubik's Clock
 
@@ -176,18 +176,19 @@
 | 70 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Liechtenstein Open 2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019) |
 | 54 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | [Arizona Speedcubing Summer 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSummer2023) |
 | 49 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Szczecin Winter 2022](https://www.worldcubeassociation.org/competitions/SzczecinWinter2022) |
+| 49 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [GLS V 2023](https://www.worldcubeassociation.org/competitions/GLSV2023) |
 | 43 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019) |
 | 43 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Belgian Nationals 2022](https://www.worldcubeassociation.org/competitions/BelgianNationals2022) |
 | 37 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Belgian Summer 2014](https://www.worldcubeassociation.org/competitions/BelgianSummer2014) |
 | 35 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [Bucaramanga 2023](https://www.worldcubeassociation.org/competitions/Bucaramanga2023) |
 | 31 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [AZCubing Winter 2022](https://www.worldcubeassociation.org/competitions/AZCubingWinter2022) |
 | 30 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Jönköpingsligan 6: Heroes 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan6Heroes2023) |
-| 30 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | [Flex in Lex 2023](https://www.worldcubeassociation.org/competitions/FlexinLex2023) |
 
 ### Skewb
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 103 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | [Bucaramanga CST 2023](https://www.worldcubeassociation.org/competitions/BucaramangaCST2023) |
 | 67 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | [Cobb Library Cubing A 2022](https://www.worldcubeassociation.org/competitions/CobbLibraryCubingA2022) |
 | 67 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [San Bernardo al Cubo 2023](https://www.worldcubeassociation.org/competitions/SanBernardoalCubo2023) |
 | 60 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | [Wiltshire Winter 2023](https://www.worldcubeassociation.org/competitions/WiltshireWinter2023) |
@@ -197,7 +198,6 @@
 | 45 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | [Don't Fall Off Devils Tower 2023](https://www.worldcubeassociation.org/competitions/DontFallOffDevilsTower2023) |
 | 43 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) | [Herrljunga Open 2023](https://www.worldcubeassociation.org/competitions/HerrljungaOpen2023) |
 | 42 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Lithuanian Open 2016](https://www.worldcubeassociation.org/competitions/LithuanianOpen2016) |
-| 41 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | [Northern Lights Cubing 2023](https://www.worldcubeassociation.org/competitions/CubingUndertheNorthernLights2023) |
 
 ### Square-1
 

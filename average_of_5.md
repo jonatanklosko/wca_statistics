@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 September 2023*
+*Updated on 28 September 2023*
 
 
 ### Rubik's Cube
@@ -135,8 +135,8 @@
 | 8.66 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 7.99, 11.77, 7.71, 8.52, 9.48 |
 | 8.72 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 7.63, 8.62, 10.62, 9.30, 8.25 |
 | 8.83 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 9.96, 8.34, 8.21, 9.69, 8.46 |
+| 8.92 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8.15, 9.31, 9.67, 9.31, 8.10 |
 | 8.96 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 7.60, 9.55, 9.20, 11.10, 8.13 |
-| 9.00 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8.57, 9.01, 8.76, 10.32, 9.25 |
 | 9.05 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | 10.25, 8.36, 9.71, 7.78, 9.09 |
 
 ### Megaminx
@@ -158,7 +158,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1.44 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.32, 1.61, 1.53, 1.42, 1.39 |
+| 1.42 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.50, 1.38, 3.53, 1.21, 1.40 |
 | 1.46 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.27, 1.38, 1.18, 3.32, 1.73 |
 | 1.48 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.61, 1.28, 2.82, 1.49, 1.34 |
 | 1.53 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 1.49, 3.96, 1.56, 1.55, 1.46 |
@@ -207,12 +207,12 @@
 | 5.05 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 4.60, 4.57, 5.16, 5.92, 5.41 |
 | 5.19 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 5.65, 5.18, 10.73, 4.76, 4.68 |
 | 5.30 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 6.56, 5.13, 5.41, 4.28, 5.36 |
+| 5.46 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 4.82, 5.56, 7.48, 6.00, 4.49 |
 | 5.51 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 4.87, 13.04, 6.09, 4.38, 5.57 |
 | 5.54 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 4.85, 6.15, 5.74, 4.75, 6.04 |
 | 5.56 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 7.72, 5.02, 4.76, 5.51, 6.17 |
 | 5.64 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.38, 5.34, 11.36, 5.06, 5.20 |
 | 5.71 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 5.85, 5.74, 6.59, 5.56, 4.00 |
-| 5.90 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 5.92, 6.58, 6.98, 5.20, 4.68 |
 
 ### 4x4x4 Blindfolded
 
@@ -225,8 +225,8 @@
 | 1:37.85 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 1:49.87, DNF, 1:25.73, 1:37.95, 1:24.09 |
 | 1:47.98 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 1:48.01, 1:44.31, 1:30.05, DNF, 1:51.63 |
 | 1:49.13 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 2:01.87, 1:43.92, 1:50.42, 1:47.86, 1:49.12 |
+| 1:55.47 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 2:18.99, 1:52.28, 1:31.36, DNF, 1:35.16 |
 | 1:59.90 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 1:42.73, DNF, 1:59.06, 2:05.48, 1:55.17 |
-| 2:00.72 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 2:12.43, 1:46.77, 2:02.98, DNF, 1:35.75 |
 | 2:03.65 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 2:26.56, DNF, 2:05.82, 1:38.59, 1:36.14 |
 
 ### 5x5x5 Blindfolded

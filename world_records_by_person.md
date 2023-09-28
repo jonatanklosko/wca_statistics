@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 25 September 2023*
+*Updated on 28 September 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -95,6 +95,7 @@
 | 3 | [Dennis Strehlau](https://www.worldcubeassociation.org/persons/2007STRE01) |
 | 3 | [Dror Vomberg](https://www.worldcubeassociation.org/persons/2003VOMB01) |
 | 3 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) |
+| 3 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) |
 | 3 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
 | 3 | [Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01) |
 | 3 | [Haixu Zhang (张海旭)](https://www.worldcubeassociation.org/persons/2008ZHAN06) |
@@ -126,7 +127,6 @@
 | 2 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
 | 2 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
 | 2 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
-| 2 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) |
 | 2 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) |

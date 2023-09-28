@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 September 2023*
+*Updated on 28 September 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -11,6 +11,7 @@
 | 3 | [China FM Zhengzhou 2011](https://www.worldcubeassociation.org/competitions/ChinaFMZhengzhou2011) |
 | 3 | [Creativity Makers 2023](https://www.worldcubeassociation.org/competitions/CreativityMakers2023) |
 | 3 | [Deck 9 2023](https://www.worldcubeassociation.org/competitions/Deck92023) |
+| 3 | [Sides Bahia - Poções Quest 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaPocoesQuest2023) |
 | 4 | [Big Blind UBC 2019](https://www.worldcubeassociation.org/competitions/BigBlindUBC2019) |
 | 4 | [JAM FMC I 2023](https://www.worldcubeassociation.org/competitions/JAMFMCI2023) |
 | 4 | [Vardagscubing III - Flen A 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenA2023) |

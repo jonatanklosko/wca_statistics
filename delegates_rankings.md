@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 28 September 2023*
+*Updated on  1 October 2023*
 
 
 ### Rubik's Cube - Single
@@ -353,8 +353,8 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Oliver Pällo](https://www.worldcubeassociation.org/persons/2020PALL01) | **4.41** | Estonia | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023) | 6.22, 3.98, 4.22, 4.77, 4.25 |
 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | **4.44** | Australia | [Sydney Clock Clash 2023](https://www.worldcubeassociation.org/competitions/SydneyUltimateClockClash2023) | 4.73, 4.40, 4.19, 3.58, 6.46 |
-| [Oliver Pällo](https://www.worldcubeassociation.org/persons/2020PALL01) | **4.46** | Estonia | [Big Cubes & Clock Helsinki 2023](https://www.worldcubeassociation.org/competitions/BigCubesClockHelsinki2023) | 3.94, 4.03, 4.19, 5.17, 5.40 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4.61** | Sweden | [Clockholm Open 2023](https://www.worldcubeassociation.org/competitions/ClockholmOpen2023) | 9.10, 4.72, 3.80, 4.26, 4.84 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **4.65** | United States | [North Jersey Speedsolving B 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingB2023) | 4.40, 4.81, 5.34, 4.47, 4.68 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **4.93** | Poland | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | 4.19, 5.11, 4.32, 6.71, 5.35 |

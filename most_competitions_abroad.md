@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 September 2023*
+*Updated on  1 October 2023*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -8,8 +8,8 @@
 | 159 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 140 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 139 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 123 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 123 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
+| 123 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 121 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 118 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 112 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
@@ -30,9 +30,9 @@
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 85 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 81 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
-| 79 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 80 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 79 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
-| 79 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
+| 79 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 75 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 73 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
@@ -41,14 +41,14 @@
 | 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 70 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
 | 70 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
-| 68 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 69 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 66 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 66 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 66 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 66 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 66 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 65 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
-| 64 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 65 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 63 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 62 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 61 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
@@ -88,6 +88,7 @@
 | 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 47 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
+| 47 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 47 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 47 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
@@ -96,7 +97,6 @@
 | 47 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
 | 46 | [Aramayis Adloyan (Արամայիս Ադլոյան)](https://www.worldcubeassociation.org/persons/2012ADLO01) |
 | 46 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
-| 46 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 46 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 46 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
 | 44 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |

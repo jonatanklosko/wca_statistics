@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 September 2023*
+*Updated on  1 October 2023*
 
 
 ### Rubik's Cube
@@ -62,7 +62,7 @@
 | 44.36 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 45.34, 43.26, 45.80, 42.19, 49.91, 48.32, 44.57, 41.95, 40.12, 44.54, 51.55, 38.69, 41.72, 47.11, 39.88, 46.74, 47.67, 42.64, 42.47, 44.38, 46.30, 46.95, 42.27, 47.46, 39.12 |
 | 44.60 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 44.00, 36.41, 48.70, 44.34, 41.65, 48.91, 45.20, 48.28, 42.01, 51.34, 40.47, 46.45, 44.66, 39.45, 43.62, 45.62, 42.05, 48.91, 43.67, 45.46, 46.19, 40.20, 42.76, 46.51, 45.86 |
 | 45.13 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 41.04, 41.30, 46.92, 43.66, 50.85, 44.30, 42.24, 42.72, 44.42, 48.02, 46.69, 46.35, 45.26, 46.49, 46.37, 46.04, 42.61, 49.36, 41.97, 44.85, 44.36, 46.02, 44.26, 49.71, 44.91 |
-| 45.38 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 49.64, 43.43, 45.52, 48.19, 47.75, 44.07, 45.71, 40.50, 46.08, 47.35, 44.84, 43.02, 48.89, 43.35, 48.92, 44.58, 47.21, 46.06, 42.01, 43.53, 51.37, 46.26, 41.76, 44.55, 39.42 |
+| 45.14 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 47.75, 44.07, 45.71, 40.50, 46.08, 47.35, 44.84, 43.02, 48.89, 43.35, 48.92, 44.58, 47.21, 46.06, 42.01, 43.53, 51.37, 46.26, 41.76, 44.55, 39.42, 57.35, 44.25, 43.73, 44.20 |
 
 ### 6x6x6 Cube
 
@@ -113,7 +113,7 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 22.14 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 20, 21, 20, 24, 34, 19, 25, 23, 21, 21, 25, 21, 21, 24, 23, 21, 22, 25, 22, 22, 24, 21, 20, 21, 23 |
+| 22.00 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 23, 21, 22, 25, 22, 22, 24, 21, 20, 21, 23, 20, 21, 22, 24, 26, 24, 19, 23, 21, 22, 23, 22, 19, 21 |
 | 22.52 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 25, 23, 18, 22, 27, 26, 22, 23, 22, 23, 23, 23, 21, 21, 24, 23, 23, 22, 22, 24, 24, 19, 20, 21 |
 | 22.90 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 20, 23, DNF, 23, 21, 20, 22, 23, 22, 22, 22, 29, 20, 23, 28, 26, 22, DNF, 23, 24, 23, 20, 21, 19, 24 |
 | 22.90 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 24, 22, 21, 22, 25, 24, 26, 21, 25, 23, 24, 20, 20, 23, 25, 20, 23, 22, 25, 25, 22, 21, 23, 24, 22 |
@@ -122,7 +122,7 @@
 | 23.61 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 24, 19, 30, 25, 23, 23, 24, 22, 20, 25, 26, 24, 23, 24, 25, 26, 23, 24, 21, 27, 23, 21, 23, 23, 24 |
 | 23.85 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 23, 21, 30, 28, 20, 23, 23, 24, 22, 25, 27, 25, 22, 26, 24, 21, 24, 25, 21, 28, 23, 23, 25, 22, 25 |
 | 24.04 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 24, 25, 25, 22, 27, 27, 29, 24, 22, 22, 22, 26, 21, 23, 25, 26, 24, 22, 21, 25, 27, 25, 21, 23, 25 |
-| 24.09 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 25, 28, 21, 23, 25, 25, 20, 23, 25, 25, 25, 24, 23, 25, 23, 23, 23, 25, 22, 26, 25, 25, 22, 25, 25 |
+| 24.04 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 21, 23, 25, 25, 20, 23, 25, 25, 25, 24, 23, 25, 23, 23, 23, 25, 22, 26, 25, 25, 22, 25, 25, 25, 24 |
 
 ### 3x3x3 One-Handed
 

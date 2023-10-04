@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 October 2023*
+*Updated on  4 October 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -426,6 +426,7 @@
 | 3310 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
 | 3332 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) |
 | 3332 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
+| 3347 | [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) |
 | 3348 | [Junhe Zhang (张钧鹤)](https://www.worldcubeassociation.org/persons/2009ZHAN24) |
 | 3360 | [Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02) |
 | 3360 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) |

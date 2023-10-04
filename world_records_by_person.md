@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  1 October 2023*
+*Updated on  4 October 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -177,6 +177,7 @@
 | 1 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) |
 | 1 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) |
 | 1 | [Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01) |
+| 1 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) |
 | 1 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 1 | [Christian Kaserer](https://www.worldcubeassociation.org/persons/2009KASE02) |
 | 1 | [Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01) |

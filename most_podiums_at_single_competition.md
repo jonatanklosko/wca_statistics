@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 October 2023*
+*Updated on  4 October 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -230,6 +230,7 @@
 | 12 | [Felipe de Carvalho Diniz](https://www.worldcubeassociation.org/persons/2009DINI01) | [Novo Hamburgo Open 2011](https://www.worldcubeassociation.org/competitions/NovoHamburgoOpen2011/results/podiums) |
 | 10 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | [Sudamericano 2013](https://www.worldcubeassociation.org/competitions/CampeonatoSudamericano2013/results/podiums) |
 | 12 | [Anatoly Kim](https://www.worldcubeassociation.org/persons/2009KIMA01) | [OktoberBrest 2014](https://www.worldcubeassociation.org/competitions/OktoberBrest2014/results/podiums) |
+| 13 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | [Bengal Cube Open 2023](https://www.worldcubeassociation.org/competitions/BengalCubeOpen2023/results/podiums) |
 | 16 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [France 2014](https://www.worldcubeassociation.org/competitions/FrenchChampionship2014/results/podiums) |
 | 14 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017/results/podiums) |
 | 14 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Panama Nationals 2023](https://www.worldcubeassociation.org/competitions/PanamaNationals2023/results/podiums) |
@@ -824,6 +825,7 @@
 | 15 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Medan Open 2018](https://www.worldcubeassociation.org/competitions/MedanOpen2018/results/podiums) |
 | 14 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesian Championship 2022](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2022/results/podiums) |
 | 13 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesian Championship 2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019/results/podiums) |
+| 13 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023/results/podiums) |
 | 12 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesia Open 2022](https://www.worldcubeassociation.org/competitions/IndonesiaOpen2022/results/podiums) |
 | 12 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Medan April Fools Open 2018](https://www.worldcubeassociation.org/competitions/MedanAFO2018/results/podiums) |
 | 12 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Medan All Events 2018](https://www.worldcubeassociation.org/competitions/MedanAllEvents2018/results/podiums) |
@@ -862,6 +864,7 @@
 | 10 | [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | [J Cube Jammu 2017](https://www.worldcubeassociation.org/competitions/JCubeJammu2017/results/podiums) |
 | 15 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | [Medan 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019/results/podiums) |
 | 14 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | [Medan Farewell 2019](https://www.worldcubeassociation.org/competitions/MedanFarewell2019/results/podiums) |
+| 12 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023/results/podiums) |
 | 10 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | [Malaysia Cube Championship 2022](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2022/results/podiums) |
 | 10 | [Samuel Cuellar Ramirez](https://www.worldcubeassociation.org/persons/2015RAMI14) | [Nacionales El Salvador 2019](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2019/results/podiums) |
 | 10 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) | [Lithuanian Open 2017](https://www.worldcubeassociation.org/competitions/LithuanianOpen2017/results/podiums) |
@@ -883,6 +886,7 @@
 | 11 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Serbian Open 2019](https://www.worldcubeassociation.org/competitions/SerbianOpen2019/results/podiums) |
 | 10 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Banja Luka Open 2022](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2022/results/podiums) |
 | 10 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Belgrade Summer 2022](https://www.worldcubeassociation.org/competitions/BelgradeSummer2022/results/podiums) |
+| 10 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Croatian Nationals 2023](https://www.worldcubeassociation.org/competitions/CroatianNationals2023/results/podiums) |
 | 10 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | [Kaohsiung Winter Open 2016](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2016/results/podiums) |
 | 12 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
 | 14 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) | [Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/VisayasChampionship2019/results/podiums) |
@@ -1101,6 +1105,7 @@
 | 11 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Slovak Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovakNationals2023/results/podiums) |
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Serbian Championship 2023](https://www.worldcubeassociation.org/competitions/SerbianChampionship2023/results/podiums) |
 | 10 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums) |
+| 10 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) | [Billings Speedcubing 2023](https://www.worldcubeassociation.org/competitions/BillingsSpeedcubing2023/results/podiums) |
 | 11 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | [Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/VisayasChampionship2023/results/podiums) |
 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/podiums) |

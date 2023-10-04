@@ -30,7 +30,7 @@ class SmallestDiffBetweenSingleAndAverage < GroupedStatistic
         .select { |result| result["event_id"] == event_id }
         .each { |result| result["diff"] = result["average"] - result["single"] }
         .sort_by! { |result| [result["diff"], result["average"], result["single"]] }
-        .first(10)
+        .first(100)
         .map do |result|
           diff = "%0.2f" % (result["diff"] / 100.0)
           single_solve_time = SolveTime.new(result["event_id"], :single, result["single"]).clock_format

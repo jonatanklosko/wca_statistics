@@ -33,7 +33,7 @@ class BestSingleCountingIntoAverage < GroupedStatistic
             .map { |solve| [solve, result["person_link"], result["results_link"]] }
         end
         .sort_by! { |solve, person_link, results_link| solve }
-        .first(10)
+        .first(100)
         .map! do |solve, person_link, results_link|
           solve_time = SolveTime.new(event_id, :single, solve)
           [solve_time.clock_format, person_link, results_link]

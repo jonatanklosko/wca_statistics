@@ -43,7 +43,7 @@ class MostCompetitionsBeforeWinning < GroupedStatistic
         end
         .compact
         .sort_by! { |competitions_before_winning_count, _, _| -competitions_before_winning_count }
-        .first(10)
+        .first(100)
       [event_name, results]
     end
   end

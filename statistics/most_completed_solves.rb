@@ -43,7 +43,7 @@ class MostCompletedSolves < GroupedStatistic
           [group_value, completed_count, attempts_count]
         end
         .sort_by! { |group_value, completed_count, attempts_count| [-completed_count, attempts_count, group_value] }
-        .first(20)
+        .first(200)
         .map! { |group_value, completed_count, attempts_count| [group_value, "**#{completed_count}**", attempts_count] }
       [group_name, count_by_group]
     end

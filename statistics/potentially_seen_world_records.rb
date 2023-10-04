@@ -29,7 +29,7 @@ class PotentiallySeenWorldRecords < Statistic
       ) AS potentially_seen_wrs_count_by_person
       JOIN Persons person ON person.wca_id = personId AND person.subId = 1
       ORDER BY potentially_seen_wrs_count DESC
-      LIMIT 100
+      LIMIT 1000
     SQL
   end
 end

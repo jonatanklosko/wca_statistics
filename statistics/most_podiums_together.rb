@@ -35,7 +35,7 @@ class MostPodiumsTogether < GroupedStatistic
           hash
         end
         .sort_by { |people, podiums_together| -podiums_together }
-        .first(100)
+        .first(1000)
         .map! do |people, podiums_together|
           [podiums_together, people.join(" & ")]
         end

@@ -37,7 +37,7 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
         end
         .reject { |attempts_before_success, person_link| attempts_before_success.nil? }
         .sort_by! { |attempts_before_success, person_link| -attempts_before_success }
-        .first(20)
+        .first(200)
       [event_name, attempts_with_people]
     end
   end

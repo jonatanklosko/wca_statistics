@@ -25,7 +25,7 @@ class CompetitionsPerYearByPerson < Statistic
       ) AS data_by_person
       JOIN Persons person ON person.wca_id = data_by_person.wca_id
       ORDER BY competitions_per_year DESC
-      LIMIT 100
+      LIMIT 1000
     SQL
   end
 

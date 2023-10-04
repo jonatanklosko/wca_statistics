@@ -21,7 +21,7 @@ class Most4thPlaces < Statistic
         WHERE round_type.final = 1 AND pos = 4 AND best > 0
         GROUP BY personId
         ORDER BY 4th_places_count DESC
-        LIMIT 100
+        LIMIT 1000
       ) AS 4th_places_count_by_person
       JOIN Persons person ON person.wca_id = 4th_places_count_by_person.wca_id AND person.subId = 1
       ORDER BY 4th_places_count DESC

@@ -31,7 +31,7 @@ class LongestTimeToSub10 < Statistic
       ) AS first_sub_10_competition ON first_sub_10_competition.personId = sub_10_person.personId
       JOIN Persons person ON person.wca_id = sub_10_person.personId AND subId = 1
       ORDER BY years DESC
-      LIMIT 100
+      LIMIT 1000
     SQL
   end
 

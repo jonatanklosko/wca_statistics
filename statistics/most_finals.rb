@@ -20,7 +20,7 @@ class MostFinals < Statistic
         WHERE round_type.final = 1
         GROUP BY personId
         ORDER BY finals_count DESC
-        LIMIT 100
+        LIMIT 1000
       ) AS people_with_finals
       JOIN Persons person ON person.wca_id = people_with_finals.wca_id AND person.subId = 1
       ORDER BY finals_count DESC

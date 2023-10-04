@@ -31,7 +31,7 @@ class BestFirstSingle < GroupedStatistic
         .map { |person_link, results| results.first }
         .select { |result| result["single"] > 0 }
         .sort_by! { |result| result["single"] }
-        .first(10)
+        .first(100)
         .map! do |result|
           single_solve_time = SolveTime.new(event_id, :single, result["single"]).clock_format
           [single_solve_time, result["person_link"]]

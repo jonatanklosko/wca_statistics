@@ -37,7 +37,7 @@ class Rankings < GroupedStatistic
           .each { |result| result[type] = SolveTime.new(event_id, type, result[type]) }
           .sort_by! { |result| result[type] }
           .uniq { |result| result["person_link"] }
-          .first(10)
+          .first(100)
           .map! do |result|
             result_details = (1..5).map { |n| SolveTime.new(event_id, :single, result["value#{n}"]).clock_format }.reject(&:empty?).join(', ')
             [result["person_link"], "**#{result[type].clock_format}**", result["country"], result["competition_link"], result_details]

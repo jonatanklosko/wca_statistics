@@ -53,7 +53,7 @@ class LongestStreakOfPodiums < Statistic
       end
       .flatten
       .sort_by! { |podiums_streak| -podiums_streak[:count] }
-      .first(100)
+      .first(1000)
       .map! do |streak|
         [streak[:count], streak[:person_link], streak[:event_name], streak[:first_competition], streak[:last_competition]]
       end

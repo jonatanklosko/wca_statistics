@@ -53,6 +53,6 @@ class LongestStreakOfCompetitionsInOwnCountry < Statistic
       .map! do |person_link, longest_streak|
         [longest_streak[:count], person_link, longest_streak[:country], longest_streak[:first_competition], longest_streak[:last_competition]]
       end
-      .first(100)
+      .first(1000)
   end
 end

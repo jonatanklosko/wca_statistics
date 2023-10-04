@@ -42,7 +42,7 @@ class WorstResultOnPodium < GroupedStatistic
           [result[result["sort_by"]], result[result["sort_by_second"]]]
         end
         .reverse!
-        .first(10)
+        .first(100)
         .map! do |result|
           result[result["sort_by"]] = "**#{result[result["sort_by"]].clock_format}**"
           result[result["sort_by_second"]] = result[result["sort_by_second"]].clock_format

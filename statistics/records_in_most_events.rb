@@ -41,7 +41,7 @@ class RecordsInMostEvents < GroupedStatistic
           [events.count, person_link, events.join(', ')]
         end
         .sort_by! { |events_count, _, _| -events_count }
-        .first(20)
+        .first(200)
       [header, events_with_people]
     end
   end

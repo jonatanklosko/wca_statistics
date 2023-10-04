@@ -1,8 +1,8 @@
 require_relative "../core/grouped_statistic"
 
-class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
+class LongestTimeToReachMilestoneInCompsCount < GroupedStatistic
   def initialize
-    @title = "Shortest amount of time to reach a milestone in competitions count"
+    @title = "Longest amount of time to reach a milestone in competitions count"
     @table_header = { "Days" => :right, "Person" => :left }
   end
 
@@ -36,6 +36,7 @@ class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
           [days, person_link]
         end
         .sort_by! { |days, person_link| days }
+        .reverse!
         .first(200)
       ["#{competitions_count} Competitions", days_with_people]
     end

@@ -41,7 +41,7 @@ class MostRecordsAtSingleCompetition < GroupedStatistic
           [records_count, person_link, results_link]
         end
         .sort_by! { |records_count, person_link, results_link| -records_count }
-      [header, take_top_n_with_ties(records_at_single_competition, 20, 0)]
+      [header, take_top_n_with_ties(records_at_single_competition, 200, 0)]
     end
   end
 end

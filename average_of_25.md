@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 October 2023*
+*Updated on  7 October 2023*
 
 
 ### Rubik's Cube
@@ -211,8 +211,8 @@
 | 6.17 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 6.98, 5.20, 4.68, 6.75, 6.76, 6.20, 8.97, 6.15, 6.44, 5.78, 6.36, 6.21, 6.03, 6.01, 6.70, 5.64, 5.93, 7.17, 6.98, 4.82, 5.56, 7.48, 6.00, 4.49, 5.90 |
 | 6.21 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.77, 6.45, 4.97, 5.83, 5.10, 6.22, 5.65, 6.58, 8.64, 5.31, 6.40, 5.45, 6.76, 6.17, 6.24, 6.15, 6.60, 6.54, 5.88, 7.21, 5.76, 6.17, 8.26, 7.33, 6.02 |
 | 6.36 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.87, DNF, 7.70, 6.11, 6.97, 6.14, 6.07, 16.23, 5.50, 5.86, 5.25, 6.93, 5.62, 5.64, 6.14, 7.44, 6.88, 5.57, 7.12, 5.37, 7.51, 6.94, 5.58, 5.51, 6.64 |
+| 6.50 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.53, 8.44, 5.57, 5.96, 5.65, 5.56, 6.07, 6.97, 7.37, 7.16, 5.43, 5.98, 5.48, 7.52, 10.41, 6.52, 5.67, 5.71, 6.45, 8.73, 6.47, 6.89, 7.84, 6.16, 6.04 |
 | 6.53 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 5.83, 5.50, 8.20, 5.61, 7.56, 7.04, 5.80, 5.78, 9.02, 5.99, 7.11, 6.17, 6.01, 7.57, 6.44, 6.18, 7.80, DNF, 5.88, 5.91, 5.47, 7.77, 6.57, 6.21, 5.76 |
-| 6.64 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.58, 9.41, 6.13, 6.45, DNF, 7.24, 5.84, 6.33, 7.40, 7.11, 7.31, 6.76, 5.25, 5.71, 5.69, 7.01, 7.13, 5.92, 7.17, 6.27, 7.15, 6.03, 5.49, 7.14, 8.18 |
 
 ### 4x4x4 Blindfolded
 

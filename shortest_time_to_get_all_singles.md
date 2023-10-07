@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 October 2023*
+*Updated on  7 October 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -60,6 +60,7 @@
 | 597 | [Jared Blanco](https://www.worldcubeassociation.org/persons/2021BLAN02) |
 | 601 | [Andreas Pohl](https://www.worldcubeassociation.org/persons/2012POHL01) |
 | 602 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
+| 609 | [Angelo Melera](https://www.worldcubeassociation.org/persons/2022MELE01) |
 | 615 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
 | 623 | [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) |
 | 644 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |

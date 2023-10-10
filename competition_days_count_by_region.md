@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  7 October 2023*
+*Updated on 10 October 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.48 | World | 10571 |
+| 1.48 | World | 10583 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.75 | Europe | 3463 |
-| 1.55 | South America | 1222 |
+| 1.75 | Europe | 3465 |
+| 1.55 | South America | 1225 |
 | 1.47 | Oceania | 463 |
-| 1.41 | Asia | 2398 |
+| 1.42 | Asia | 2400 |
 | 1.24 | Africa | 115 |
-| 1.21 | North America | 2910 |
+| 1.21 | North America | 2915 |
 
 ### Countries
 
@@ -44,19 +44,19 @@
 | 1.85 | Switzerland | 95 |
 | 1.84 | Finland | 114 |
 | 1.84 | Spain | 297 |
-| 1.83 | Mexico | 121 |
+| 1.84 | Mexico | 122 |
 | 1.82 | Thailand | 44 |
 | 1.80 | Bosnia and Herzegovina | 10 |
 | 1.77 | Guatemala | 52 |
-| 1.77 | Brazil | 389 |
+| 1.77 | Brazil | 392 |
 | 1.76 | Belgium | 72 |
 | 1.75 | Austria | 24 |
 | 1.75 | Palestine | 4 |
 | 1.75 | Sri Lanka | 4 |
 | 1.74 | Slovenia | 27 |
 | 1.73 | Argentina | 71 |
-| 1.71 | Denmark | 137 |
 | 1.71 | Ukraine | 119 |
+| 1.70 | Denmark | 138 |
 | 1.68 | Poland | 391 |
 | 1.67 | Kyrgyzstan | 3 |
 | 1.67 | Luxembourg | 3 |
@@ -94,8 +94,8 @@
 | 1.38 | Singapore | 40 |
 | 1.37 | South Africa | 54 |
 | 1.37 | Ecuador | 38 |
-| 1.34 | Chinese Taipei | 124 |
-| 1.34 | Philippines | 238 |
+| 1.34 | Chinese Taipei | 125 |
+| 1.33 | Philippines | 239 |
 | 1.33 | Hong Kong, China | 18 |
 | 1.33 | Kuwait | 6 |
 | 1.33 | Panama | 12 |
@@ -116,11 +116,11 @@
 | 1.17 | Armenia | 6 |
 | 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2329 |
+| 1.16 | United States | 2333 |
 | 1.16 | Canada | 300 |
 | 1.14 | Azerbaijan | 42 |
 | 1.13 | Honduras | 15 |
-| 1.04 | Georgia | 24 |
+| 1.08 | Georgia | 25 |
 | 1.00 | Albania | 3 |
 | 1.00 | Algeria | 9 |
 | 1.00 | Angola | 1 |

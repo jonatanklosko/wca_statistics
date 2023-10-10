@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 October 2023*
+*Updated on 10 October 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -60,6 +60,7 @@
 | 597 | [Jared Blanco](https://www.worldcubeassociation.org/persons/2021BLAN02) |
 | 601 | [Andreas Pohl](https://www.worldcubeassociation.org/persons/2012POHL01) |
 | 602 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
+| 607 | [Nicolas Campanario](https://www.worldcubeassociation.org/persons/2022CAMP02) |
 | 609 | [Angelo Melera](https://www.worldcubeassociation.org/persons/2022MELE01) |
 | 615 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
 | 623 | [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) |
@@ -293,7 +294,7 @@
 | 1834 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) |
 | 1835 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 1841 | [Dongyun Yin (殷冬昀)](https://www.worldcubeassociation.org/persons/2012YIND01) |
-| 1841 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
+| 1841 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 1847 | [Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01) |
 | 1847 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) |
 | 1848 | [Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01) |

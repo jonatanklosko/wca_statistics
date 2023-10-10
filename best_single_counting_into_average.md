@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 October 2023*
+*Updated on 10 October 2023*
 
 
 ### Rubik's Cube
@@ -28,10 +28,10 @@
 | 0.82 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
 | 0.83 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Utah Fall 2021](https://www.worldcubeassociation.org/competitions/UtahFall2021/results/by_person#2018KHAN28) |
 | 0.83 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Babylon Fall 2021](https://www.worldcubeassociation.org/competitions/BabylonFall2021/results/by_person#2018KHAN28) |
+| 0.83 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2021ZAJD02) |
 | 0.87 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | [Cubing Tlaxcala 2023](https://www.worldcubeassociation.org/competitions/CubingTlaxcala2023/results/by_person#2017HERN11) |
 | 0.88 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Port Huron Speedcubing 2022](https://www.worldcubeassociation.org/competitions/PortHuronSpeedcubing2022/results/by_person#2018KHAN28) |
-| 0.90 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/by_person#2018KHAN28) |
-| 0.91 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Alphen Track to Records 24h 2023](https://www.worldcubeassociation.org/competitions/AlphenTracktoRecords24h2023/results/by_person#2012PATE01) |
+| 0.89 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2018KUZM02) |
 
 ### 4x4x4 Cube
 

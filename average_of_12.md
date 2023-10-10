@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  7 October 2023*
+*Updated on 10 October 2023*
 
 
 ### Rubik's Cube
@@ -69,7 +69,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 1:10.01 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:07.48, 1:09.84, 1:09.99, 1:10.73, 1:17.39, 1:13.75, 1:06.46, 1:05.22, 1:15.66, 1:13.88, 1:07.13, 1:00.33 |
-| 1:16.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:16.18, 1:25.59, 1:13.05, 1:16.44, 1:16.65, 1:20.37, 1:25.96, 1:14.52, 1:16.75, 1:11.18, 1:04.83, 1:14.95 |
+| 1:15.46 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:16.75, 1:11.18, 1:04.83, 1:14.95, 1:26.72, 1:15.78, 1:22.18, 1:17.62, 1:15.79, 1:15.40, 1:12.27, 1:12.77 |
 | 1:17.53 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:16.33, 1:15.82, 1:22.73, 1:11.58, 1:19.78, 1:16.05, 1:13.27, 1:21.62, 1:10.58, 1:20.77, 1:21.41, 1:18.71 |
 | 1:19.09 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:09.39, 1:15.35, 1:18.23, 1:19.62, 1:24.33, 1:24.83, 1:19.13, 1:14.43, 1:23.44, 1:22.09, 1:15.93, 1:18.43 |
 | 1:19.54 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:21.85, 1:12.43, 1:25.86, 1:21.76, 1:22.52, 1:21.22, 1:15.19, 1:29.96, 1:11.74, 1:21.48, 1:21.39, 1:10.76 |
@@ -180,9 +180,9 @@
 | 4.08 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 4.58, 6.09, 3.77, 3.46, 2.94, 5.21, 4.70, 3.43, 3.41, 3.16, 3.93, 5.20 |
 | 4.12 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.14, 4.13, DNF, 3.08, 4.70, 4.38, 4.93, 4.03, 3.37, 3.71, 4.97, 3.85 |
 | 4.22 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 4.88, 3.39, 4.52, 3.89, 4.18, 4.19, 3.86, 6.16, 4.33, 4.73, 3.79, 3.87 |
+| 4.24 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 3.76, 3.62, DNF, 3.47, 4.44, 5.55, 5.49, 3.75, 4.26, 4.19, 3.36, 3.93 |
+| 4.26 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 4.06, 4.40, 3.79, 3.37, 3.80, 3.83, 8.74, 4.81, 5.56, 4.07, 4.26, 4.03 |
 | 4.28 | [Neil Gour](https://www.worldcubeassociation.org/persons/2022GOUR01) | 3.90, 4.47, 5.40, 4.96, 4.51, 4.29, 4.77, 3.93, 4.30, 4.13, 3.61, 3.57 |
-| 4.40 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 4.02, 4.35, 3.52, 4.28, 4.57, 3.54, 3.76, DNF, 5.96, 4.80, 5.12, 3.67 |
-| 4.42 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 4.50, 4.90, 3.26, 3.56, 6.66, 4.39, 4.36, 4.37, 4.28, 4.84, 5.07, 4.01 |
 
 ### Skewb
 

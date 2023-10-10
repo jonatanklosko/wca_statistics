@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 October 2023*
+*Updated on 10 October 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -59,6 +59,7 @@
 | 2926 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 2982 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 3074 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
+| 3282 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
 | 3542 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 3570 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 3586 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |

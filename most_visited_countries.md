@@ -1,12 +1,12 @@
 ## Most visited countries
 
-*Updated on  7 October 2023*
+*Updated on 10 October 2023*
 
 | Countries | Person |
 | ---: | :--- |
-| 64 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
+| 65 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 40 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 41 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 38 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
@@ -49,7 +49,7 @@
 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
-| 18 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
+| 18 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 18 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 18 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 18 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |

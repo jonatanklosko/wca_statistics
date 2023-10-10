@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 October 2023*
+*Updated on 10 October 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -347,6 +347,7 @@
 | 13 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Pulmapelipäivät 2017](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2017/results/podiums) |
 | 12 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Doge Open 2016](https://www.worldcubeassociation.org/competitions/DogeOpen2016/results/podiums) |
 | 12 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Finnish Open 2016](https://www.worldcubeassociation.org/competitions/FinnishOpen2016/results/podiums) |
+| 12 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Jordan Nationals 2023](https://www.worldcubeassociation.org/competitions/JordanNationals2023/results/podiums) |
 | 12 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Kirkkonummi Open 2015](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2015/results/podiums) |
 | 11 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Finnish Open 2015](https://www.worldcubeassociation.org/competitions/FinnishOpen2015/results/podiums) |
 | 11 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Kirkkonummi Open 2016](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2016/results/podiums) |
@@ -390,6 +391,7 @@
 | 13 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [SCMU 2016](https://www.worldcubeassociation.org/competitions/SCMU2016/results/podiums) |
 | 13 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [Shri Ram Cubing Challenge 2017](https://www.worldcubeassociation.org/competitions/ShriRamCubingChallenge2017/results/podiums) |
 | 12 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [Great Indian Cubeathon 2016](https://www.worldcubeassociation.org/competitions/GIC2016/results/podiums) |
+| 11 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [Gurugram Cube Open 2023](https://www.worldcubeassociation.org/competitions/GurugramCubeOpen2023/results/podiums) |
 | 11 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [NCR Open 2017](https://www.worldcubeassociation.org/competitions/NCROpen2017/results/podiums) |
 | 11 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [SCMU 2017](https://www.worldcubeassociation.org/competitions/SCMU2017/results/podiums) |
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [Delhi Open 2017](https://www.worldcubeassociation.org/competitions/DelhiOpen2017/results/podiums) |
@@ -1061,6 +1063,7 @@
 | 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [Lleida Open 2022](https://www.worldcubeassociation.org/competitions/LleidaOpen2022/results/podiums) |
 | 13 | [Andres Sanchez Ponce](https://www.worldcubeassociation.org/persons/2018PONC02) | [Panama Nationals 2022](https://www.worldcubeassociation.org/competitions/PanamaNationals2022/results/podiums) |
 | 10 | [Aaron Scarpati Curin](https://www.worldcubeassociation.org/persons/2018CURI02) | [Comodoro Cubea 2023](https://www.worldcubeassociation.org/competitions/ComodoroCubea2023/results/podiums) |
+| 15 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Nacionales Uruguayas 2023](https://www.worldcubeassociation.org/competitions/NacionalesUruguayas2023/results/podiums) |
 | 12 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Argentina ReOpen 2021](https://www.worldcubeassociation.org/competitions/ArgentinaReOpen2021/results/podiums) |
 | 11 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/podiums) |
 | 11 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/podiums) |

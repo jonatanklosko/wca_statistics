@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 October 2023*
+*Updated on 10 October 2023*
 
 
 ### Rubik's Cube - Single
@@ -38,16 +38,16 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Imanuel Leonid Müller](https://www.worldcubeassociation.org/persons/2022MULL02) | **0.52** | Germany | [V-Cube Spiel B 2023](https://www.worldcubeassociation.org/competitions/VCubeSpielB2023) | 2.68, 2.06, 0.52, 2.70, 2.50 |
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **0.53** | Republic of Korea | [Give Back RPV 2023](https://www.worldcubeassociation.org/competitions/GiveBackRPV2023) | 1.61, 1.68, 1.72, 0.53, 1.41 |
 | [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) | **0.54** | Georgia | [Georgia Summer Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaSummerOpen2023) | 3.46, 1.62, 2.15, 3.54, 0.54 |
 | [Huining Huang (黄徽宁)](https://www.worldcubeassociation.org/persons/2019HUAH03) | **0.55** | China | [Singapore AMK CC Cubing A 2023](https://www.worldcubeassociation.org/competitions/SingaporeAMKCCCubingA2023) | 1.49, 1.88, 0.94, 0.55, 2.17 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **0.56** | United States | [Washtenaw Spring B 2023](https://www.worldcubeassociation.org/competitions/WashtenawSpringB2023) | 1.52, 0.56, 3.11, 2.06, DNF |
 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | **0.57** | Norway | [Flatåsen Open 2023](https://www.worldcubeassociation.org/competitions/FlatasenOpen2023) | 1.33, 1.63, 0.57, 1.44, 1.32 |
 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | **0.57** | Australia | [Brilliant Ballarat 2023](https://www.worldcubeassociation.org/competitions/BrilliantBallarat2023) | 2.52, 3.90, 2.58, 2.76, 0.57 |
+| [George Dinescu](https://www.worldcubeassociation.org/persons/2023DINE06) | **0.57** | Romania | [V-Cube Spiel B 2023](https://www.worldcubeassociation.org/competitions/VCubeSpielB2023) | DNF, 6.92, 0.57, 4.49, 4.19 |
 | [Kyle Santucci](https://www.worldcubeassociation.org/persons/2016SANT08) | **0.58** | Canada | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 0.58, 1.98, 4.09, 2.02, 2.42 |
 | [Lukas Nguyen](https://www.worldcubeassociation.org/persons/2021NGUY04) | **0.58** | Australia | [Kensington Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/KensingtonSummerSunday2023) | 4.37, 4.69, 4.03, 6.75, 0.58 |
-| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **0.59** | Switzerland | [Bretzel Open 2023](https://www.worldcubeassociation.org/competitions/BretzelOpen2023) | 2.96, 3.75, 0.59, 3.87, 4.31 |
-| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **0.59** | Romania | [Bucharest Funky Cubes 2023](https://www.worldcubeassociation.org/competitions/BucharestFunkyCubes2023) | 1.98, 0.59, 2.70, 1.97, 1.32 |
 
 ### 2x2x2 Cube - Average
 
@@ -287,7 +287,7 @@
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **27.20** | Republic of Korea | [Cozy Cubing Poway 2023](https://www.worldcubeassociation.org/competitions/CozyCubingPoway2023) | 33.67, 33.30, DNF, 32.42, 27.20 |
 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | **27.38** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 35.23, 33.19, 33.08, 34.15, 27.38 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **27.47** | United Kingdom | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023) | 27.47, 38.68, 34.12, 40.16, 38.38 |
-| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **28.51** | China | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 29.13, 28.51, 32.44, 32.90, DNF |
+| [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | **27.81** | United Kingdom | [Wakefield Autumn 2023](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2023) | 35.12, 27.81, 31.78, 34.96, 37.45 |
 
 ### Megaminx - Average
 
@@ -359,10 +359,10 @@
 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | **3.81** | China | [Essex Spring 2023](https://www.worldcubeassociation.org/competitions/EssexSpring2023) | 4.40, 3.79, 3.37, 3.80, 3.83 |
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | **3.85** | Poland | [Cube4fun in Biała Podlaska 2023](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2023) | 2.94, 5.21, 4.70, 3.43, 3.41 |
 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | **3.88** | United States | [DFW Cubing Summer 2023](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2023) | 4.36, 3.58, 3.71, 3.42, 5.17 |
+| [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | **3.96** | Norway | [SSL VII Herrljunga 2023](https://www.worldcubeassociation.org/competitions/SSLVIIHerrljunga2023) | 3.75, 4.26, 4.19, 3.36, 3.93 |
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | **4.07** | United States | [South Deerfield Side Events 2023](https://www.worldcubeassociation.org/competitions/SouthDeerfieldSideEvents2023) | 3.91, 6.06, 4.23, 3.73, 4.06 |
 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | **4.08** | United States | [Naperville Summer 2023](https://www.worldcubeassociation.org/competitions/NapervilleSummer2023) | 4.47, 3.72, 4.04, 3.52, 4.82 |
 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | **4.09** | United States | [Warm Up in Mount Prospect 2023](https://www.worldcubeassociation.org/competitions/WarmUpinMountProspect2023) | 3.45, 5.24, 3.40, 4.81, 4.01 |
-| [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | **4.10** | United States | [Southeast Championship 2023](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2023) | 4.13, 3.87, 5.24, 4.30, 3.78 |
 
 ### Skewb - Single
 
@@ -496,8 +496,8 @@
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **46/50 55:41** | Switzerland | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) | 40/54 1:00:00, 46/50 55:41 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **44/48 58:51** | Poland | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) | 44/48 58:51 |
 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | **43/46 1:00:00** | India | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 42/48 59:29, 43/46 1:00:00 |
+| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **44/49 58:41** | Poland | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) | 40/48 57:57, 44/49 58:41 |
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **43/48 59:16** | New Zealand | [Auckland Mind Games 2023](https://www.worldcubeassociation.org/competitions/AucklandMindGames2023) | DNF, 43/48 59:16 |
-| [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **39/41 58:11** | Canada | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | 39/41 58:11, 2/2 0:55 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

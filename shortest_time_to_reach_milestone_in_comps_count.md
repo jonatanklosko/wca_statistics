@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 10 October 2023*
+*Updated on 13 October 2023*
 
 
 ### 100 Competitions
@@ -11,8 +11,8 @@
 | 883 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 1646 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1646 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1701 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1744 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1918 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2010 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -34,6 +34,7 @@
 | ---: | :--- |
 | 552 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 610 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 680 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
 | 757 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 793 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
 | 833 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
@@ -51,7 +52,6 @@
 | 1010 | [Nestor Sokhan](https://www.worldcubeassociation.org/persons/2016SOKH01) |
 | 1032 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 1037 | [Robert Mapp IV](https://www.worldcubeassociation.org/persons/2016IVRO01) |
-| 1037 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
 
 ### 25 Competitions
 
@@ -68,8 +68,8 @@
 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 372 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 372 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
-| 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 386 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
 | 392 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 393 | [Vincent Rylander](https://www.worldcubeassociation.org/persons/2022RYLA01) |

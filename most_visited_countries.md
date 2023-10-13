@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 10 October 2023*
+*Updated on 13 October 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -9,15 +9,15 @@
 | 41 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 38 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 34 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 33 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 33 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 29 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 28 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 27 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 26 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
+| 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 26 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
@@ -29,12 +29,12 @@
 | 23 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 23 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
-| 22 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
+| 22 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
+| 22 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 21 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 21 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 21 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
-| 21 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 21 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 20 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |

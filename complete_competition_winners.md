@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 10 October 2023*
+*Updated on 13 October 2023*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -60,6 +60,7 @@
 | 5 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | India | [Amrita Cube Open 2013](https://www.worldcubeassociation.org/competitions/AmritaCubeOpen2013) |
 | 5 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | India | [Tathva Cube Open 2014](https://www.worldcubeassociation.org/competitions/TathvaCubeOpen2014) |
 | 5 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | Canada | [Cubing in the 6ix 2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019) |
+| 5 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | Sweden | [SL 2: Table Tennis 2023](https://www.worldcubeassociation.org/competitions/SL2TableTennis2023) |
 | 5 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | Russia | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022) |
 | 5 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | United States | [Puerto Rico Open 2023](https://www.worldcubeassociation.org/competitions/PuertoRicoOpen2023) |
 | 5 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | Argentina | [Bahrain Open 2017](https://www.worldcubeassociation.org/competitions/BahrainOpen2017) |

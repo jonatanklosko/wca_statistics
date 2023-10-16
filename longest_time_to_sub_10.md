@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 13 October 2023*
+*Updated on 16 October 2023*
 
 | Person | Years |
 | :--- | ---: |
@@ -77,8 +77,8 @@
 | [James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01) | 9.18 |
 | [Zeqin Chen (陈泽钦)](https://www.worldcubeassociation.org/persons/2010CHEN37) | 9.16 |
 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | 9.06 |
-| [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
+| [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 8.97 |
 | [Chetan Roger Dhanjal](https://www.worldcubeassociation.org/persons/2014DHAN01) | 8.91 |
@@ -88,8 +88,8 @@
 | [Petr Samodelkin](https://www.worldcubeassociation.org/persons/2014SAMO02) | 8.82 |
 | [Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08) | 8.82 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
-| [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
 | [Carson Davis](https://www.worldcubeassociation.org/persons/2014DAVI06) | 8.76 |
+| [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
 | [Choi Yeong-Jun](https://www.worldcubeassociation.org/persons/2013YEON01) | 8.72 |
 | [Parth Garg](https://www.worldcubeassociation.org/persons/2014GARG01) | 8.70 |
 | [Altanbagana Altangerel (Алтангэрэл Алтанбагана)](https://www.worldcubeassociation.org/persons/2013ALTA01) | 8.68 |
@@ -97,8 +97,8 @@
 | [Daniel Gloppestad Bajer](https://www.worldcubeassociation.org/persons/2009GLOP01) | 8.66 |
 | [Paarth Arora](https://www.worldcubeassociation.org/persons/2014AROR06) | 8.66 |
 | [David Vos](https://www.worldcubeassociation.org/persons/2008VOSD01) | 8.64 |
-| [Benjamin Sanchez Magaña](https://www.worldcubeassociation.org/persons/2014MAGA02) | 8.62 |
 | [Andrés Claros](https://www.worldcubeassociation.org/persons/2015CLAR03) | 8.62 |
+| [Benjamin Sanchez Magaña](https://www.worldcubeassociation.org/persons/2014MAGA02) | 8.62 |
 | [Eli Hawkins](https://www.worldcubeassociation.org/persons/2014HAWK01) | 8.59 |
 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) | 8.58 |
 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) | 8.57 |

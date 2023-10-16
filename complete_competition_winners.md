@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 13 October 2023*
+*Updated on 16 October 2023*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -244,6 +244,7 @@
 | 1 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | Ireland | [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023) |
 | 1 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | United States | [Anaheim Feet 2019](https://www.worldcubeassociation.org/competitions/AnaheimFeet2019) |
 | 1 | [Ernesto Fernández Regueira](https://www.worldcubeassociation.org/persons/2004FERN01) | Spain | [Spain 2004](https://www.worldcubeassociation.org/competitions/Spain2004) |
+| 1 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | United States | [Gem City Airplane Mode IV 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeIV2023) |
 | 1 | [Fang Qin (秦方)](https://www.worldcubeassociation.org/persons/2008QINF01) | China | [PKU Fewest Moves 2010](https://www.worldcubeassociation.org/competitions/PKUFMC2010) |
 | 1 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | Australia | [Live Your Dream 2016](https://www.worldcubeassociation.org/competitions/LiveYourDream2016) |
 | 1 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | Indonesia | [FMC Asia 2019](https://www.worldcubeassociation.org/competitions/FMCAsia2019) |
@@ -314,6 +315,7 @@
 | 1 | [Matthew Shay](https://www.worldcubeassociation.org/persons/2015SHAY01) | United States | [Nisei Week 2018](https://www.worldcubeassociation.org/competitions/NiseiWeek2018) |
 | 1 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | Spain | [Only FMC 2020](https://www.worldcubeassociation.org/competitions/OnlyFMC2020) |
 | 1 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | Spain | [FMC Spain 2023](https://www.worldcubeassociation.org/competitions/FMCSpain2023) |
+| 1 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | Spain | [FMC Spanish Championship 2023](https://www.worldcubeassociation.org/competitions/FMCSpanishChampionship2023) |
 | 1 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [Nisei Week 2016](https://www.worldcubeassociation.org/competitions/NiseiWeek2016) |
 | 1 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [Nisei Week 2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019) |
 | 1 | [Maximiliano Rojas Zaputovich](https://www.worldcubeassociation.org/persons/2016ZAPU01) | Mexico | [TimerTon 2018](https://www.worldcubeassociation.org/competitions/TimerTon2018) |
@@ -375,6 +377,7 @@
 | 1 | [Sirac Niyazov](https://www.worldcubeassociation.org/persons/2018NIYA01) | Azerbaijan | [Balakən Qış 2019](https://www.worldcubeassociation.org/competitions/BalakanQis2019) |
 | 1 | [Soheil Lotfi (سهیل لطفی)](https://www.worldcubeassociation.org/persons/2013LOTF01) | Iran | [IranFMC 2015](https://www.worldcubeassociation.org/competitions/IranFMC2015) |
 | 1 | [Teh Keng Foo (郑庆富)](https://www.worldcubeassociation.org/persons/2011FOOT01) | Malaysia | [FMC Asia 2018](https://www.worldcubeassociation.org/competitions/FMCAsia2018) |
+| 1 | [Theo Daniel Gallegos Cuevas](https://www.worldcubeassociation.org/persons/2016CUEV04) | Mexico | [FMC Open Tijuana 2023](https://www.worldcubeassociation.org/competitions/FMCOpenTijuana2023) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Danish FM Championship 2022](https://www.worldcubeassociation.org/competitions/DanishFMChampionship2022) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Fewest Moves Christmas 2018](https://www.worldcubeassociation.org/competitions/FewestMovesChristmas2018) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [FMC London Summer 2023](https://www.worldcubeassociation.org/competitions/FMCLondonSummer2023) |
@@ -384,6 +387,7 @@
 | 1 | [Thomas Templier](https://www.worldcubeassociation.org/persons/2003TEMP01) | France | [France 2004](https://www.worldcubeassociation.org/competitions/France2004) |
 | 1 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | United States | [FMC USA 2014](https://www.worldcubeassociation.org/competitions/FMCUSA2014) |
 | 1 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | United States | [MIT FMC 2014](https://www.worldcubeassociation.org/competitions/MITFMC2014) |
+| 1 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | Finland | [Finnish FMC Championship 2023](https://www.worldcubeassociation.org/competitions/FinnishFMCChampionship2023) |
 | 1 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | Switzerland | [Swisscubing FMC 2018](https://www.worldcubeassociation.org/competitions/SwisscubingFMC2018) |
 | 1 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | New Zealand | [FMC New Zealand 2022](https://www.worldcubeassociation.org/competitions/FMCNewZealand2022) |
 | 1 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | Italy | [FMC Italy 2021](https://www.worldcubeassociation.org/competitions/FMCItaly2021) |
@@ -407,6 +411,7 @@
 | 1 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) | Japan | [JRCA Kansai Spring 2009](https://www.worldcubeassociation.org/competitions/JRCAKansaiSpring2009) |
 | 1 | [Yuji Ishii (石井佑嗣)](https://www.worldcubeassociation.org/persons/2020ISHI01) | Japan | [Tokyo Challenge Winter C 2023](https://www.worldcubeassociation.org/competitions/TokyoChallengeWinterC2023) |
 | 1 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | China | [Kewbz UK Championship FMC 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionshipFMC2022) |
+| 1 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | China | [Rubik's UK Championship FMC 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2023) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kyiv FMC Friends II 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsII2023) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kyiv FMC Friends IV 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsIV2023) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kyiv FMC Friends October 2022](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsOctober2022) |

@@ -1,7 +1,7 @@
 ## Average of 100
 
 *Note: 100 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 October 2023*
+*Updated on 16 October 2023*
 
 
 ### Rubik's Cube

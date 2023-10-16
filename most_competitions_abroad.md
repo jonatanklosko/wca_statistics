@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 13 October 2023*
+*Updated on 16 October 2023*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -31,7 +31,7 @@
 | 85 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 81 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 80 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
-| 79 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 80 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 79 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 75 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 73 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
@@ -42,8 +42,8 @@
 | 70 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
 | 70 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
 | 69 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 68 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 68 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
-| 67 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 67 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 66 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 66 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
@@ -62,10 +62,10 @@
 | 59 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
 | 59 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
 | 58 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
+| 57 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 57 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
-| 56 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 56 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 55 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
+| 56 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 55 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 54 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
@@ -74,8 +74,8 @@
 | 52 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 52 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 52 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
-| 51 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 51 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
+| 51 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 51 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
 | 51 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
 | 51 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
@@ -84,10 +84,10 @@
 | 50 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 50 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
 | 49 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
+| 49 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 49 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 48 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 48 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 48 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
 | 47 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
 | 47 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |

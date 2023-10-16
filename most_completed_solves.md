@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 13 October 2023*
+*Updated on 16 October 2023*
 
 
 ### Competition
@@ -8,7 +8,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | **38660** | 40160 |
-| [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | **34451** | 36254 |
+| [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | **34450** | 36254 |
 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) | **28966** | 30268 |
 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) | **26030** | 27175 |
 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) | **25897** | 26868 |
@@ -35,16 +35,16 @@
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **17625** | 18096 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **17607** | 18316 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **16494** | 17125 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **13861** | 14925 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **13918** | 14983 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **12557** | 12985 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **12483** | 13116 |
-| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **12205** | 12521 |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **12208** | 12524 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **12175** | 12534 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **11940** | 12546 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **11904** | 12491 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **10946** | 11350 |
+| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **10923** | 11475 |
 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | **10915** | 11053 |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **10908** | 11459 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **10743** | 11171 |
 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **10669** | 10937 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **10661** | 11385 |
@@ -57,36 +57,36 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **3534898** | 3706675 |
+| United States | **3538550** | 3710471 |
 | China | **1212800** | 1272685 |
 | Poland | **848580** | 892884 |
-| India | **738157** | 776642 |
-| Australia | **669432** | 705571 |
-| United Kingdom | **588599** | 619545 |
-| Spain | **563361** | 590714 |
+| India | **739555** | 778086 |
+| Australia | **671108** | 707341 |
+| United Kingdom | **588755** | 619744 |
+| Spain | **564489** | 591902 |
 | Germany | **543755** | 569972 |
 | Canada | **493950** | 515864 |
 | France | **457827** | 481946 |
 | Russia | **430990** | 455777 |
-| Brazil | **401361** | 419766 |
-| Sweden | **306782** | 323218 |
+| Brazil | **402263** | 420699 |
+| Sweden | **307680** | 324158 |
 | Italy | **287812** | 303310 |
-| Philippines | **284948** | 296387 |
+| Philippines | **286573** | 298075 |
 | Colombia | **284227** | 299014 |
 | Chinese Taipei | **248214** | 255626 |
 | Netherlands | **239689** | 249611 |
 | Indonesia | **233481** | 246331 |
-| Mexico | **229976** | 240207 |
+| Mexico | **229995** | 240234 |
 
 ### Continent
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **6490255** | 6815677 |
-| North America | **4443792** | 4655604 |
-| Asia | **3760509** | 3941784 |
-| South America | **1369829** | 1434346 |
-| Oceania | **816403** | 859959 |
+| Europe | **6492475** | 6818055 |
+| North America | **4447463** | 4659427 |
+| Asia | **3763531** | 3944916 |
+| South America | **1372311** | 1436889 |
+| Oceania | **818079** | 861729 |
 | Africa | **99050** | 103611 |
 | Multiple Continents | **1895** | 2562 |
 
@@ -94,7 +94,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 2023 | **3055621** | 3194771 |
+| 2023 | **3068692** | 3208417 |
 | 2019 | **2537720** | 2656986 |
 | 2018 | **2218901** | 2324788 |
 | 2022 | **2118274** | 2217622 |
@@ -119,21 +119,21 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **5292996** | 5411102 |
-| 2x2x2 Cube | **2958270** | 3034703 |
-| Pyraminx | **1860902** | 1910847 |
-| 4x4x4 Cube | **1547601** | 1608721 |
-| 3x3x3 One-Handed | **1437415** | 1486513 |
-| Skewb | **1129738** | 1160415 |
-| 5x5x5 Cube | **789738** | 815324 |
-| Megaminx | **478381** | 500512 |
-| Square-1 | **448169** | 468366 |
-| Clock | **334520** | 388019 |
-| 6x6x6 Cube | **171784** | 178472 |
-| 7x7x7 Cube | **140906** | 147323 |
-| 3x3x3 Blindfolded | **116705** | 325140 |
+| 3x3x3 Cube | **5298491** | 5416717 |
+| 2x2x2 Cube | **2961023** | 3037524 |
+| Pyraminx | **1862263** | 1912239 |
+| 4x4x4 Cube | **1548618** | 1609780 |
+| 3x3x3 One-Handed | **1437995** | 1487109 |
+| Skewb | **1130124** | 1160815 |
+| 5x5x5 Cube | **790054** | 815645 |
+| Megaminx | **478547** | 500683 |
+| Square-1 | **448508** | 468718 |
+| Clock | **334684** | 388206 |
+| 6x6x6 Cube | **171840** | 178529 |
+| 7x7x7 Cube | **140942** | 147360 |
+| 3x3x3 Blindfolded | **116795** | 325382 |
 | Magic | **78268** | 86498 |
-| 3x3x3 Fewest Moves | **71263** | 100567 |
+| 3x3x3 Fewest Moves | **71575** | 100963 |
 | 3x3x3 With Feet | **51884** | 56650 |
 | Master Magic | **39964** | 41445 |
 | 3x3x3 Multi-Blind | **18901** | 33043 |

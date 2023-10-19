@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 16 October 2023*
+*Updated on 19 October 2023*
 
 
 ### Rubik's Cube
@@ -16,8 +16,8 @@
 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.50 | **6.06** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 9 |
 | [Kyle Santucci](https://www.worldcubeassociation.org/persons/2016SANT08) | 5.30 | **6.12** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 10 |
 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.39 | **6.18** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e333_f) | 4 |
+| [Yuzhe Wang (王语哲)](https://www.worldcubeassociation.org/persons/2021WANG05) | 5.59 | **6.26** | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/all#e333_f) | 4 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.76 | **6.27** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333_f) | 4 |
-| [Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01) | 5.39 | **6.30** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 11 |
 
 ### 2x2x2 Cube
 
@@ -160,6 +160,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.86 | **2.07** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 4 |
 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.45 | **2.12** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 5 |
+| [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.55 | **2.12** | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/all#epyram_f) | 4 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.64 | **2.14** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#epyram_f) | 4 |
 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.90 | **2.15** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 6 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.75 | **2.19** | [Cubing by the Kings 2023](https://www.worldcubeassociation.org/competitions/CubingByTheKings2023/results/all#epyram_f) | 4 |
@@ -167,7 +168,6 @@
 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.69 | **2.24** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 4 |
 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) | 2.16 | **2.24** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 5 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.85 | **2.25** | [Fort Wayne Favorites 2023](https://www.worldcubeassociation.org/competitions/FortWayneFavorites2023/results/all#epyram_f) | 4 |
-| [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.88 | **2.25** | [Pittsburgh Fall 2022](https://www.worldcubeassociation.org/competitions/PittsburghFall2022/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 

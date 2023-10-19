@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 October 2023*
+*Updated on 19 October 2023*
 
 
 ### 100 Competitions
@@ -24,9 +24,9 @@
 | 2192 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 2218 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) |
 | 2241 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 2248 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) |
 | 2259 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 2267 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
-| 2276 | [Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31) |
 
 ### 50 Competitions
 
@@ -35,6 +35,7 @@
 | 552 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 610 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 680 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
+| 707 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 757 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 793 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
 | 833 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
@@ -51,7 +52,6 @@
 | 996 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 1010 | [Nestor Sokhan](https://www.worldcubeassociation.org/persons/2016SOKH01) |
 | 1032 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
-| 1037 | [Robert Mapp IV](https://www.worldcubeassociation.org/persons/2016IVRO01) |
 
 ### 25 Competitions
 

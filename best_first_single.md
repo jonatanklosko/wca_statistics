@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 
 ### Rubik's Cube
@@ -166,8 +166,8 @@
 | 2.25 | [Shuda Huang (黄黍达)](https://www.worldcubeassociation.org/persons/2021HUAN02) |
 | 2.34 | [Jhian Francis Padron](https://www.worldcubeassociation.org/persons/2019PADR02) |
 | 2.34 | [Jun-Yu Liao (廖俊語)](https://www.worldcubeassociation.org/persons/2020LIAO02) |
+| 2.36 | [Nikolaos Koutsivos (Νικόλαος Κουτσιβός)](https://www.worldcubeassociation.org/persons/2023KOUT03) |
 | 2.40 | [Andrew Chai](https://www.worldcubeassociation.org/persons/2021CHAI01) |
-| 2.65 | [Yanqing Hu (胡雁清)](https://www.worldcubeassociation.org/persons/2023HUYA02) |
 
 ### Rubik's Clock
 

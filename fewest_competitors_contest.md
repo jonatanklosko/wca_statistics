@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -272,6 +272,7 @@
 | 13 | [Fabulous MN Competition 2015](https://www.worldcubeassociation.org/competitions/FabulousMinnesotaCompetition2015) |
 | 13 | [FMCats Wisconsin 2023](https://www.worldcubeassociation.org/competitions/FMCatsWisconsin2023) |
 | 13 | [FMC Thailand 2022](https://www.worldcubeassociation.org/competitions/FMCThailand2022) |
+| 13 | [Georgia October Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaOctoberOpen2023) |
 | 13 | [Georgia September Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaSeptemberOpen2023) |
 | 13 | [German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004) |
 | 13 | [Gesté Mentalement Là 2023](https://www.worldcubeassociation.org/competitions/GesteMentalementLa2023) |

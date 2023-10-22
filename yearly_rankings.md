@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 
 ### Rubik's Cube - Single
@@ -193,11 +193,11 @@
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **13.24** | Canada | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | DNF, 15.07, 13.24 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **14.52** | United States | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | DNF, 16.65, 14.52 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | **14.66** | Peru | [Chosica Cubing Cup 2023](https://www.worldcubeassociation.org/competitions/ChosicaCubingCup2023) | 14.66, 16.88, DNF |
+| [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **14.93** | Argentina | [Campeonato Brasileiro 2023](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2023) | 17.40, 16.69, 14.93 |
 | [Phillip Maxwell](https://www.worldcubeassociation.org/persons/2017MAXW01) | **14.93** | Indonesia | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 14.93, DNF, 23.67 |
 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **14.99** | China | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 14.99, 19.97, 16.54 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **15.02** | Poland | [Cube Factory 2023](https://www.worldcubeassociation.org/competitions/CubeFactory2023) | DNF, 15.02, DNF |
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **15.03** | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 15.03, DNF, 19.50 |
-| [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **15.12** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 21.24, DNF, 15.12 |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -481,8 +481,8 @@
 | [Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) | **6:04.03** | China | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 6:27.57, 6:35.13, 5:09.39 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **6:29.49** | Denmark | [RNSEA 2023](https://www.worldcubeassociation.org/competitions/RNSEA2023) | 6:18.95, 6:52.16, 6:17.37 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **6:35.26** | Canada | [Gros Jouets à Montréal 2023](https://www.worldcubeassociation.org/competitions/GrosJouetsaMontreal2023) | 6:06.09, 6:34.78, 7:04.90 |
+| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **7:14.72** | United States | [BASC 53 - Berkeley 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin53Berkeley2023) | 7:03.80, 7:00.17, 7:40.19 |
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **7:42.13** | France | [Carquef'Open 2023](https://www.worldcubeassociation.org/competitions/CarquefOpen2023) | 6:55.15, 6:56.56, 9:14.69 |
-| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **7:46.12** | United States | [4BLD in a Madison Hall 2023](https://www.worldcubeassociation.org/competitions/4BLDinaMadisonHall2023) | 6:47.65, 8:15.09, 8:15.63 |
 
 ### 3x3x3 Multi-Blind - Single
 

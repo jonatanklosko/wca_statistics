@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1043,6 +1043,7 @@
 | 10 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | [Ankara January 2023](https://www.worldcubeassociation.org/competitions/AnkaraJanuary2023/results/podiums) |
 | 10 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | [KSF Club Almaty 2022](https://www.worldcubeassociation.org/competitions/KSFClubAlmaty2022/results/podiums) |
 | 10 | [Gerardo Varela](https://www.worldcubeassociation.org/persons/2017VARE01) | [Copa Inframundo HN 2019](https://www.worldcubeassociation.org/competitions/CopaInframundoHN2019/results/podiums) |
+| 14 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Campeonato Brasileiro 2023](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2023/results/podiums) |
 | 13 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Floripa ao Cubo 2022](https://www.worldcubeassociation.org/competitions/FloripaaoCubo2022/results/podiums) |
 | 13 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Itajaí ao Cubo 2023](https://www.worldcubeassociation.org/competitions/ItajaiaoCubo2023/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |

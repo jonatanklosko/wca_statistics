@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 
 ### Rubik's Cube
@@ -118,8 +118,8 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 19 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 16 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 13 |
-| [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | 12 |
 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 12 |
+| [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | 11 |
 | [Vladislav Shavelskiy](https://www.worldcubeassociation.org/persons/2012SHAV01) | 11 |
 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | 10 |
 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | 9 |
@@ -346,10 +346,10 @@
 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) | 14 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 14 |
 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 13 |
-| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 12 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 11 |
 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) | 11 |
 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 11 |
+| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 11 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 10 |
 | [Raúl Low Beattie](https://www.worldcubeassociation.org/persons/2011BEAT01) | 10 |
 | [Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02) | 10 |

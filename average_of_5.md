@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 
 ### Rubik's Cube
@@ -102,8 +102,8 @@
 | 15.49 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | 13.71, 15.38, 17.59, 15.52, 15.57 |
 | 15.64 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | DNF, 15.23, 15.83, 14.87, 15.87 |
 | 15.98 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 14.52, 15.23, 17.90, 18.57, 14.82 |
+| 16.77 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | DNF, 16.30, 16.71, 15.66, 17.31 |
 | 16.83 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | 16.83, 16.09, DNF, 16.49, 17.18 |
-| 17.21 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 17.84, 16.42, 15.96, DNF, 17.38 |
 | 17.63 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | DNF, 17.94, 16.15, 18.60, 16.37 |
 | 17.66 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | 16.66, DNF, 17.84, 18.43, 16.73 |
 | 17.72 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 16.61, 16.09, 22.34, 18.30, 18.27 |
@@ -220,9 +220,9 @@
 | ---: | :--- | :--- |
 | 1:10.00 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | DNF, 1:06.23, 1:02.51, 1:14.05, 1:09.72 |
 | 1:20.07 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:19.22, 1:19.07, 1:21.94, DNF, 1:11.34 |
+| 1:27.75 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | DNF, 1:20.63, 1:25.93, 1:33.68, 1:23.66 |
 | 1:31.92 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | 1:56.65, DNF, 1:05.94, 1:33.17, 1:05.14 |
 | 1:33.49 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 2:03.94, 1:31.40, 1:23.27, 1:25.83, 1:43.26 |
-| 1:37.85 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 1:49.87, DNF, 1:25.73, 1:37.95, 1:24.09 |
 | 1:47.98 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 1:48.01, 1:44.31, 1:30.05, DNF, 1:51.63 |
 | 1:49.13 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 2:01.87, 1:43.92, 1:50.42, 1:47.86, 1:49.12 |
 | 1:55.47 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 2:18.99, 1:52.28, 1:31.36, DNF, 1:35.16 |

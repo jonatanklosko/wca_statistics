@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 
 ### Rubik's Cube
@@ -207,8 +207,8 @@
 | 5.72 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 6.05, 5.75, 6.35, 7.41, 5.32, 5.36, 5.97, 6.24, 5.68, 6.48, 5.65, 5.80, 4.89, 5.65, 5.18, 10.73, 4.76, 4.68, 6.06, 5.58, 6.25, 4.31, 4.63, 7.10, 5.50 |
 | 5.81 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.28, 6.29, 4.89, 5.79, 5.77, 6.15, 5.11, 8.90, 4.76, 6.55, 5.83, 5.32, 6.74, 4.70, 5.51, 6.10, 4.96, 5.31, 6.69, 6.20, 8.91, 6.86, 6.68, 5.41, 4.72 |
 | 5.85 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 5.79, 5.32, 5.27, 5.88, 5.53, 6.20, 8.91, 4.66, 8.38, 5.30, 5.88, 5.39, 7.58, 4.92, 7.86, 5.18, 5.75, 5.26, 5.36, 8.92, 5.14, 4.84, 5.06, 6.27, 5.66 |
+| 5.99 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 6.03, 6.01, 6.70, 5.64, 5.93, 7.17, 6.98, 4.82, 5.56, 7.48, 6.00, 4.49, 5.90, 7.41, 6.00, 4.83, 6.07, 5.34, 7.38, 4.97, 6.74, 6.58, 5.72, 4.64, 5.57 |
 | 6.11 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 5.25, 4.20, 7.27, 5.96, 7.73, 4.40, 6.54, 8.57, 5.47, 4.66, 6.92, 7.36, 8.13, 4.14, 6.81, 4.94, 7.00, 5.34, 5.92, 5.76, 6.54, 6.06, 7.01, 6.15, 5.25 |
-| 6.17 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 6.98, 5.20, 4.68, 6.75, 6.76, 6.20, 8.97, 6.15, 6.44, 5.78, 6.36, 6.21, 6.03, 6.01, 6.70, 5.64, 5.93, 7.17, 6.98, 4.82, 5.56, 7.48, 6.00, 4.49, 5.90 |
 | 6.21 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.77, 6.45, 4.97, 5.83, 5.10, 6.22, 5.65, 6.58, 8.64, 5.31, 6.40, 5.45, 6.76, 6.17, 6.24, 6.15, 6.60, 6.54, 5.88, 7.21, 5.76, 6.17, 8.26, 7.33, 6.02 |
 | 6.36 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.87, DNF, 7.70, 6.11, 6.97, 6.14, 6.07, 16.23, 5.50, 5.86, 5.25, 6.93, 5.62, 5.64, 6.14, 7.44, 6.88, 5.57, 7.12, 5.37, 7.51, 6.94, 5.58, 5.51, 6.64 |
 | 6.40 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.57, 5.96, 5.65, 5.56, 6.07, 6.97, 7.37, 7.16, 5.43, 5.98, 5.48, 7.52, 10.41, 6.52, 5.67, 5.71, 6.45, 8.73, 6.47, 6.89, 7.84, 6.16, 6.04, 6.53, 6.43 |

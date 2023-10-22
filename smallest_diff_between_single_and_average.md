@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 
 ### Rubik's Cube
@@ -15,9 +15,9 @@
 | 0.02 | [Yongting You (尤永庭)](https://www.worldcubeassociation.org/persons/2010YOUY01) | 9.40 | 9.42 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/by_person#2010YOUY01) |
 | 0.02 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | 10.53 | 10.55 | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/by_person#2021OTAI01) |
 | 0.02 | [José Josué Daniel Pineda Abrego](https://www.worldcubeassociation.org/persons/2022ABRE01) | 12.94 | 12.96 | [Nacionales Guatemala 2022](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2022/results/by_person#2022ABRE01) |
+| 0.02 | [Charan Bharathidasan](https://www.worldcubeassociation.org/persons/2023BHAR09) | 13.27 | 13.29 | [BASC 53 - Berkeley 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin53Berkeley2023/results/by_person#2023BHAR09) |
 | 0.02 | [Lorenzo D'Ammassa](https://www.worldcubeassociation.org/persons/2021DAMM02) | 13.40 | 13.42 | [Eretum 2 Easter 2023](https://www.worldcubeassociation.org/competitions/Eretum2EasterBoogaloo2023/results/by_person#2021DAMM02) |
 | 0.02 | [Yang Liu (刘洋)](https://www.worldcubeassociation.org/persons/2011YANG17) | 20.68 | 20.70 | [Chongqing Open 2013](https://www.worldcubeassociation.org/competitions/ChongqingOpen2013/results/by_person#2011YANG17) |
-| 0.03 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.72 | 5.75 | [Capelle Cubing 2023](https://www.worldcubeassociation.org/competitions/CapelleCubing2023/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 

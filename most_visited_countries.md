@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 | Countries | Person |
 | ---: | :--- |
@@ -24,8 +24,8 @@
 | 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 24 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 24 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 24 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 23 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 23 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 23 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 23 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 22 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |

@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 
 ### Rubik's Cube - Single
@@ -54,7 +54,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | **1.23** | United States | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) | 0.79, 1.78, 1.17, 1.00, 1.52 |
-| [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) | **1.29** | Georgia | [Georgia Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaOpen2023) | 1.26, 1.29, 1.32, 1.20, 1.89 |
+| [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) | **1.27** | Georgia | [Georgia October Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaOctoberOpen2023) | 1.31, 1.45, 1.01, 1.06, 1.48 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **1.38** | United States | [Florida Spring A 2022](https://www.worldcubeassociation.org/competitions/FloridaSpringA2022) | 1.75, 1.67, 1.09, 1.36, 1.11 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.39** | United States | [Naperville Summer 2023](https://www.worldcubeassociation.org/competitions/NapervilleSummer2023) | 1.45, 1.15, 1.55, 1.18, 3.96 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **1.53** | Denmark | [Hvidovre Sommer 2023](https://www.worldcubeassociation.org/competitions/HvidovreSommer2023) | 1.11, 1.96, 4.03, 1.21, 1.42 |
@@ -298,9 +298,9 @@
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | **35.72** | Ukraine | [U24 Nationals 2022](https://www.worldcubeassociation.org/competitions/U24Nationals2022) | 33.79, 35.93, 36.77, 40.36, 34.47 |
 | [Nolan Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | **42.52** | United States | [Bay Area Speedcubin' 49 ... 2023](https://www.worldcubeassociation.org/competitions/BASC49Berkeley2023) | 42.80, 41.66, 45.26, 43.11, 34.34 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **43.27** | Malaysia | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) | 47.98, 45.48, 41.57, 40.79, 42.76 |
+| [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | **44.93** | Australia | [Butler Blitz 2023](https://www.worldcubeassociation.org/competitions/ButlerBlitz2023) | 42.82, 45.03, 44.48, 45.28, 50.36 |
 | [Michael Chai (柴天方)](https://www.worldcubeassociation.org/persons/2016CHAI03) | **45.11** | United States | [SacCubing XI 2022](https://www.worldcubeassociation.org/competitions/SacCubingXI2022) | 55.76, 40.93, 44.05, 48.78, 42.51 |
 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) | **45.41** | Australia | [Australian Nationals 2023](https://www.worldcubeassociation.org/competitions/AustralianNationals2023) | 45.36, 43.77, 47.37, 47.11, 43.32 |
-| [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | **45.62** | Australia | [Pinjarra Puzzle Party 2023](https://www.worldcubeassociation.org/competitions/PinjarraPuzzleParty2023) | 45.15, 44.76, 46.96, 47.19, 43.82 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **46.28** | United States | [Swallow Spring 2023](https://www.worldcubeassociation.org/competitions/SwallowSpring2023) | 46.21, 48.46, 54.18, 43.26, 44.17 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **46.37** | Argentina | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023) | 51.46, 43.18, 44.48, 53.72, 42.50 |
 

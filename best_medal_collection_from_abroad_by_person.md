@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -54,7 +54,7 @@
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 23 | 17 | 94 |
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **54** | 16 | 3 | 73 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **51** | 50 | 38 | 139 |
-| [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **51** | 23 | 21 | 95 |
+| [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **51** | 24 | 22 | 97 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | **51** | 20 | 11 | 82 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **50** | 61 | 63 | 174 |
 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **50** | 24 | 10 | 84 |
@@ -87,7 +87,7 @@
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **36** | 33 | 18 | 87 |
 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | **36** | 31 | 19 | 86 |
 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | **36** | 29 | 25 | 90 |
-| [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **36** | 28 | 9 | 73 |
+| [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **36** | 29 | 9 | 74 |
 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **36** | 24 | 28 | 88 |
 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | **36** | 12 | 9 | 57 |
 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **35** | 48 | 24 | 107 |

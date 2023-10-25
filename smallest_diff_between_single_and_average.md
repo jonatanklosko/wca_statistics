@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 October 2023*
+*Updated on 25 October 2023*
 
 
 ### Rubik's Cube
@@ -58,11 +58,11 @@
 | 0.11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 57.44 | 57.55 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/by_person#2013EGDA02) |
 | 0.12 | [Jorge Rafael Castañeda Sánchez](https://www.worldcubeassociation.org/persons/2010CAST01) | 1:11.74 | 1:11.86 | [NxN Tlaxcala 2019](https://www.worldcubeassociation.org/competitions/NxNTlaxcala2019/results/by_person#2010CAST01) |
 | 0.14 | [Clément Valot](https://www.worldcubeassociation.org/persons/2010VALO01) | 2:35.06 | 2:35.20 | [Diñs Open 2012](https://www.worldcubeassociation.org/competitions/DinsOpen2012/results/by_person#2010VALO01) |
+| 0.15 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | 50.05 | 50.20 | [Chanteloup Open 2023](https://www.worldcubeassociation.org/competitions/ChanteloupOpen2023/results/by_person#2010KADD01) |
 | 0.15 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 1:06.76 | 1:06.91 | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020/results/by_person#2017SWOR01) |
 | 0.16 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | 1:00.50 | 1:00.66 | [Peru Nationals 2023](https://www.worldcubeassociation.org/competitions/PeruNationals2023/results/by_person#2016MILL07) |
 | 0.20 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 49.15 | 49.35 | [Franconia Winter 2020](https://www.worldcubeassociation.org/competitions/FranconiaWinter2020/results/by_person#2010WEYE02) |
 | 0.21 | [Tomáš Zatroch](https://www.worldcubeassociation.org/persons/2016ZATR01) | 1:03.18 | 1:03.39 | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019/results/by_person#2016ZATR01) |
-| 0.21 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) | 1:06.66 | 1:06.87 | [Cubing with the Viking 2020](https://www.worldcubeassociation.org/competitions/CubingwiththeViking2020/results/by_person#2007WONG02) |
 
 ### 6x6x6 Cube
 
@@ -75,9 +75,9 @@
 | 0.05 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 4:48.06 | 4:48.11 | [Santiago Open 2009](https://www.worldcubeassociation.org/competitions/SantiagoOpen2009/results/by_person#2007GUIM01) |
 | 0.06 | [Alan Zhao](https://www.worldcubeassociation.org/persons/2015ZHAO13) | 2:32.43 | 2:32.49 | [Westcoast Woodvale Weekends 2019](https://www.worldcubeassociation.org/competitions/WestcoastWoodvaleWeekends2019/results/by_person#2015ZHAO13) |
 | 0.08 | [Eli Parker](https://www.worldcubeassociation.org/persons/2016PARK02) | 2:27.50 | 2:27.58 | [Music City Fall 2023](https://www.worldcubeassociation.org/competitions/MusicCitySpeedsolvingFall2023/results/by_person#2016PARK02) |
+| 0.09 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 2:23.74 | 2:23.83 | [DeKalb Cubing Fall 2023](https://www.worldcubeassociation.org/competitions/DeKalbCubingFall2023/results/by_person#2011FERA01) |
 | 0.10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 2:44.66 | 2:44.76 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012/results/by_person#2005AKKE01) |
 | 0.11 | [Geovanny Cueva](https://www.worldcubeassociation.org/persons/2018CUEV01) | 2:58.25 | 2:58.36 | [Ecuador Nationals 2019](https://www.worldcubeassociation.org/competitions/EcuadorNationals2019/results/by_person#2018CUEV01) |
-| 0.12 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:35.44 | 1:35.56 | [NW Champs 2017](https://www.worldcubeassociation.org/competitions/NorthwestChampionships2017/results/by_person#2009HAYS01) |
 
 ### 7x7x7 Cube
 

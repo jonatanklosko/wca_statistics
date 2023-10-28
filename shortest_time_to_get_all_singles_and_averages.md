@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -41,6 +41,7 @@
 | 2084 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 2100 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 2155 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
+| 2177 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
 | 2196 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) |
 | 2204 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) |
 | 2213 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |

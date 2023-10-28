@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -130,6 +130,7 @@
 | 10 | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014) |
 | 10 | [Greenland Open 2023](https://www.worldcubeassociation.org/competitions/GreenlandOpen2023) |
 | 10 | [Guwahati FMC Challenge 2023](https://www.worldcubeassociation.org/competitions/GuwahatiFMCChallenge2023) |
+| 10 | [HDC VIII - Lille Friheden 2023](https://www.worldcubeassociation.org/competitions/HDCVIIILilleFriheden2023) |
 | 10 | [Hilliard Hippocampus IX 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusIX2023) |
 | 10 | [Hilliard Hippocampus V 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusV2023) |
 | 10 | [Hilliard Hippocampus VI 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusVI2023) |

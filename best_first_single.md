@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 
 ### Rubik's Cube
@@ -72,12 +72,12 @@
 | 1:41.02 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) |
 | 1:44.97 | [Mikul Chanakya](https://www.worldcubeassociation.org/persons/2022CHAN83) |
 | 1:45.53 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
+| 1:45.58 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |
 | 1:45.78 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) |
 | 1:47.84 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 1:48.56 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
 | 1:51.55 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
 | 1:52.01 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
-| 1:52.18 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
 
 ### 7x7x7 Cube
 

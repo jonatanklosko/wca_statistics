@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 
 ### Rubik's Cube
@@ -10,13 +10,13 @@
 | 3.99 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Mofunland Cruise Open 2023](https://www.worldcubeassociation.org/competitions/MofunlandCruiseOpen2023/results/by_person#2019WANY36) |
 | 4.02 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [IUKL SOR 2023](https://www.worldcubeassociation.org/competitions/IUKLSOR2023/results/by_person#2019WANY36) |
 | 4.24 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/by_person#2012PARK03) |
+| 4.34 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Thailand Championship 2023](https://www.worldcubeassociation.org/competitions/ThailandChampionship2023/results/by_person#2019WANY36) |
 | 4.35 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019WANY36) |
 | 4.37 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [XMUM Cube Open 2023](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2023/results/by_person#2019WANY36) |
 | 4.41 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019WANY36) |
 | 4.45 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2016KOLA02) |
 | 4.48 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [UoSM Cube Day 2023](https://www.worldcubeassociation.org/competitions/UoSMCubeDay2023/results/by_person#2019WANY36) |
 | 4.49 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023/results/by_person#2019WANY36) |
-| 4.52 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Singapore Mini 2023](https://www.worldcubeassociation.org/competitions/SingaporeMini2023/results/by_person#2019WANY36) |
 
 ### 2x2x2 Cube
 
@@ -29,9 +29,9 @@
 | 0.83 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Utah Fall 2021](https://www.worldcubeassociation.org/competitions/UtahFall2021/results/by_person#2018KHAN28) |
 | 0.83 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Babylon Fall 2021](https://www.worldcubeassociation.org/competitions/BabylonFall2021/results/by_person#2018KHAN28) |
 | 0.83 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2021ZAJD02) |
+| 0.86 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Thailand Championship 2023](https://www.worldcubeassociation.org/competitions/ThailandChampionship2023/results/by_person#2019WANY36) |
 | 0.87 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | [Cubing Tlaxcala 2023](https://www.worldcubeassociation.org/competitions/CubingTlaxcala2023/results/by_person#2017HERN11) |
 | 0.88 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Port Huron Speedcubing 2022](https://www.worldcubeassociation.org/competitions/PortHuronSpeedcubing2022/results/by_person#2018KHAN28) |
-| 0.89 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2018KUZM02) |
 
 ### 4x4x4 Cube
 
@@ -53,6 +53,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 34.73 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
+| 35.30 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Big Time Manila 2023](https://www.worldcubeassociation.org/competitions/BigTimeManila2023/results/by_person#2013NAHM01) |
 | 35.33 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Colorado Cubing Weekend 2022](https://www.worldcubeassociation.org/competitions/ColoradoCubingWeekend2022/results/by_person#2012PARK03) |
 | 35.33 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [BASC 45 - Berkeley Time 2023](https://www.worldcubeassociation.org/competitions/BASC45BerkeleyTime2023/results/by_person#2012PARK03) |
 | 35.54 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Florida Big & Blind Time 2022](https://www.worldcubeassociation.org/competitions/FloridaBigBlindTime2022/results/by_person#2012PARK03) |
@@ -61,7 +62,6 @@
 | 36.25 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [UCSD Extravaganza 2023](https://www.worldcubeassociation.org/competitions/UCSDExtravaganza2023/results/by_person#2012PARK03) |
 | 36.60 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2016KOLA02) |
 | 36.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [UCSD Extravaganza 2023](https://www.worldcubeassociation.org/competitions/UCSDExtravaganza2023/results/by_person#2012PARK03) |
-| 36.75 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Turbocharged 2023](https://www.worldcubeassociation.org/competitions/CircleCityTurbocharged2023/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 

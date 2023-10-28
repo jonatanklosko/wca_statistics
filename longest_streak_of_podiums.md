@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -11,15 +11,15 @@
 | 78 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 4x4x4 Cube | [Aachen Open 2011](https://www.worldcubeassociation.org/competitions/AachenOpen2011) | [Rhein-Neckar Open 2019](https://www.worldcubeassociation.org/competitions/RheinNeckarOpen2019) |
 | 78 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 2x2x2 Cube | [Dutch Nationals 2014](https://www.worldcubeassociation.org/competitions/DutchNationals2014) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 78 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4x4x4 Cube | [SacCubing II 2017](https://www.worldcubeassociation.org/competitions/SacCubingII2017) |  |
+| 75 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 3x3x3 One-Handed | [Swiss Nationals 2018](https://www.worldcubeassociation.org/competitions/SwissNationals2018) |  |
 | 74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 5x5x5 Cube | [Caltech Fall 2016](https://www.worldcubeassociation.org/competitions/CaltechFall2016) |  |
-| 74 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 3x3x3 One-Handed | [Swiss Nationals 2018](https://www.worldcubeassociation.org/competitions/SwissNationals2018) |  |
 | 72 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |  |
 | 67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 3x3x3 Cube | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) |  |
 | 65 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 3x3x3 One-Handed | [Melbourne Summer 2012](https://www.worldcubeassociation.org/competitions/MelbourneSummer2012) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) |
 | 64 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 4x4x4 Cube | [Melbourne Summer 2012](https://www.worldcubeassociation.org/competitions/MelbourneSummer2012) | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018) |
 | 63 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7x7x7 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) |  |
 | 63 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 3x3x3 One-Handed | [Mishawaka Summer 2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019) | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) |
-| 61 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
+| 62 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 59 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) | Pyraminx | [OGU Open 2006](https://www.worldcubeassociation.org/competitions/OGU2006) | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018) |
 | 58 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 3x3x3 Cube | [Lake Erie Showdown 2022](https://www.worldcubeassociation.org/competitions/LakeErieShowdown2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 56 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | 3x3x3 With Feet | [Brazil Open 2007](https://www.worldcubeassociation.org/competitions/BrazilOpen2007) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
@@ -43,11 +43,11 @@
 | 46 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | Square-1 | [Big Pine Open 2015](https://www.worldcubeassociation.org/competitions/BigPineOpen2015) |  |
 | 45 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 6x6x6 Cube | [Australian Nationals 2013](https://www.worldcubeassociation.org/competitions/AustralianNationals2013) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 45 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 3x3x3 Blindfolded | [Kubkvarna 2022](https://www.worldcubeassociation.org/competitions/Kubkvarna2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 45 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5x5x5 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 44 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | Skewb | [Kubekings Villanueva Open 2018](https://www.worldcubeassociation.org/competitions/KubekingsVillanuevaOpen2018) |  |
 | 44 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | Skewb | [Ukrainian Nationals 2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017) |  |
-| 44 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5x5x5 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
-| 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
 | 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 6x6x6 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
+| 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
 | 43 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 3x3x3 One-Handed | [UPenn Fall 2017](https://www.worldcubeassociation.org/competitions/UPennCubeDayFall2017) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
 | 43 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | Square-1 | [Xi'an New Year 2016](https://www.worldcubeassociation.org/competitions/XianNewYear2016) | [Wuhan Open 2019](https://www.worldcubeassociation.org/competitions/WuhanOpen2019) |
 | 42 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 One-Handed | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
@@ -71,6 +71,7 @@
 | 36 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) | Megaminx | [MIT Spring 2012](https://www.worldcubeassociation.org/competitions/MITSpring2012) |  |
 | 36 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | 5x5x5 Cube | [Aguascalientes 2014](https://www.worldcubeassociation.org/competitions/Ags2014) |  |
 | 36 | [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) | 5x5x5 Cube | [TCG Spring Open 2015](https://www.worldcubeassociation.org/competitions/TCGSpringOpen2015) |  |
+| 36 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 7x7x7 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 36 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | Megaminx | [Peterborough Open 2018](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018) |  |
 | 36 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | Square-1 | [BCCC B 2021](https://www.worldcubeassociation.org/competitions/BCCubingComebackB2021) |  |
 | 35 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
@@ -78,7 +79,6 @@
 | 35 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) | Pyraminx | [SCMU Cognition Open 2015](https://www.worldcubeassociation.org/competitions/SCMUCognitionOpen2015) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 35 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) | 3x3x3 Blindfolded | [NW Champs 2017](https://www.worldcubeassociation.org/competitions/NorthwestChampionships2017) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019) |
 | 35 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4x4x4 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [Przeźmierowo Winter Open 2022](https://www.worldcubeassociation.org/competitions/PrzezmierowoWinterOpen2022) |
-| 35 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 7x7x7 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 35 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | Pyraminx | [Slow N Steady Summer 2018](https://www.worldcubeassociation.org/competitions/SlowNSteadySummer2018) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 35 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 2x2x2 Cube | [Buccaneer Bonanza 2022](https://www.worldcubeassociation.org/competitions/BuccaneerBonanza2022) |  |
 | 34 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | Clock | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | [German Open 2016](https://www.worldcubeassociation.org/competitions/GermanOpen2016) |

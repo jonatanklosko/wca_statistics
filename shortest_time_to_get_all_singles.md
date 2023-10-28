@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -39,6 +39,7 @@
 | 448 | [Jáchym Střelec](https://www.worldcubeassociation.org/persons/2022STRE03) |
 | 475 | [Maxime Madrzyk](https://www.worldcubeassociation.org/persons/2018MADR02) |
 | 476 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) |
+| 476 | [Jorian Meeuse](https://www.worldcubeassociation.org/persons/2022MEEU02) |
 | 483 | [Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01) |
 | 497 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 497 | [Jaden Lim](https://www.worldcubeassociation.org/persons/2017LIMJ02) |
@@ -281,6 +282,7 @@
 | 1772 | [Timo Forsthofer](https://www.worldcubeassociation.org/persons/2018FORS03) |
 | 1778 | [Jolo Endona](https://www.worldcubeassociation.org/persons/2014ENDO01) |
 | 1778 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
+| 1784 | [Layne VanSiegel](https://www.worldcubeassociation.org/persons/2018VANS03) |
 | 1785 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 1785 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |
 | 1804 | [Jiachi Han (韩佳池)](https://www.worldcubeassociation.org/persons/2014HANJ02) |

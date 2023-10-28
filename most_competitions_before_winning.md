@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 
 ### Rubik's Cube
@@ -92,7 +92,7 @@
 | 36 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | [Rocky Top 2019](https://www.worldcubeassociation.org/competitions/RockyTop2019) |
 | 35 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Eagle of the East 2018](https://www.worldcubeassociation.org/competitions/EagleoftheEast2018) |
 | 35 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) |
-| 33 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) | [Vardagscubing I - Uppsala 2022](https://www.worldcubeassociation.org/competitions/VardagscubingIUppsala2022) |
+| 35 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Belgian Nationals 2023](https://www.worldcubeassociation.org/competitions/BelgianNationals2023) |
 
 ### 3x3x3 Blindfolded
 
@@ -143,6 +143,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 73 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [HDC VIII - Lille Friheden 2023](https://www.worldcubeassociation.org/competitions/HDCVIIILilleFriheden2023) |
 | 56 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023) |
 | 55 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Latvian Open 2015](https://www.worldcubeassociation.org/competitions/LatvianOpen2015) |
 | 55 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Road to IC - Milano 2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019) |
@@ -152,7 +153,6 @@
 | 49 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | [Newark's On Track 2023](https://www.worldcubeassociation.org/competitions/NewarksOnTrack2023) |
 | 48 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Argovia Open 2018](https://www.worldcubeassociation.org/competitions/ArgoviaOpen2018) |
 | 48 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Potomac Spring 2023](https://www.worldcubeassociation.org/competitions/PotomacSpring2023) |
-| 46 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | [Sin Fronteras 2018](https://www.worldcubeassociation.org/competitions/SinFronteras2018) |
 
 ### Pyraminx
 

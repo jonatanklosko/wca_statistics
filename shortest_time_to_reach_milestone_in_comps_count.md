@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 
 ### 100 Competitions
@@ -74,9 +74,9 @@
 | 392 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 393 | [Vincent Rylander](https://www.worldcubeassociation.org/persons/2022RYLA01) |
 | 393 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
+| 394 | [Natalia Mendoza](https://www.worldcubeassociation.org/persons/2022MEND24) |
 | 400 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
 | 400 | [Kai Wen Yang](https://www.worldcubeassociation.org/persons/2022YANG19) |
-| 405 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) |
 
 ### 10 Competitions
 

@@ -1,43 +1,43 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1378** | 1150 | 983 | 3511 |
-| Germany | **965** | 929 | 939 | 2833 |
-| United States | **958** | 807 | 720 | 2485 |
-| France | **862** | 745 | 633 | 2240 |
-| Netherlands | **852** | 685 | 569 | 2106 |
-| Russia | **754** | 471 | 374 | 1599 |
-| China | **594** | 547 | 497 | 1638 |
-| Poland | **539** | 363 | 276 | 1178 |
-| Malaysia | **388** | 386 | 344 | 1118 |
-| United Kingdom | **372** | 428 | 422 | 1222 |
+| United States | **966** | 808 | 724 | 2498 |
+| Germany | **965** | 929 | 941 | 2835 |
+| France | **863** | 748 | 634 | 2245 |
+| Netherlands | **862** | 691 | 577 | 2130 |
+| Russia | **756** | 473 | 375 | 1604 |
+| China | **600** | 553 | 500 | 1653 |
+| Poland | **544** | 363 | 276 | 1183 |
+| Malaysia | **388** | 386 | 345 | 1119 |
+| United Kingdom | **372** | 428 | 423 | 1223 |
 | Canada | **356** | 357 | 391 | 1104 |
 | Denmark | **343** | 291 | 230 | 864 |
 | Sweden | **306** | 347 | 361 | 1014 |
-| Republic of Korea | **292** | 261 | 225 | 778 |
+| Republic of Korea | **295** | 261 | 225 | 781 |
 | Australia | **287** | 134 | 90 | 511 |
 | Hong Kong, China | **270** | 290 | 221 | 781 |
 | India | **270** | 216 | 214 | 700 |
 | Finland | **267** | 202 | 169 | 638 |
-| Switzerland | **259** | 353 | 288 | 900 |
-| Argentina | **229** | 169 | 137 | 535 |
+| Switzerland | **259** | 355 | 289 | 903 |
+| Argentina | **230** | 169 | 138 | 537 |
 | Chinese Taipei | **214** | 184 | 180 | 578 |
-| Italy | **206** | 200 | 192 | 598 |
+| Italy | **206** | 200 | 194 | 600 |
 | Japan | **199** | 131 | 136 | 466 |
-| Ukraine | **198** | 206 | 203 | 607 |
-| Romania | **191** | 134 | 122 | 447 |
+| Ukraine | **198** | 208 | 205 | 611 |
+| Romania | **194** | 136 | 122 | 452 |
 | Spain | **179** | 169 | 197 | 545 |
 | Indonesia | **162** | 153 | 123 | 438 |
-| Singapore | **157** | 159 | 166 | 482 |
+| Singapore | **159** | 160 | 170 | 489 |
 | Peru | **143** | 76 | 90 | 309 |
+| Austria | **140** | 196 | 207 | 543 |
 | Ireland | **139** | 76 | 60 | 275 |
-| Austria | **138** | 195 | 205 | 538 |
 | Belgium | **134** | 199 | 175 | 508 |
-| Slovenia | **134** | 170 | 175 | 479 |
+| Slovenia | **134** | 171 | 176 | 481 |
 | Colombia | **131** | 101 | 91 | 323 |
 | Latvia | **125** | 188 | 189 | 502 |
 | Greece | **119** | 144 | 106 | 369 |
@@ -45,7 +45,7 @@
 | Czech Republic | **103** | 113 | 122 | 338 |
 | Kazakhstan | **95** | 87 | 86 | 268 |
 | Thailand | **86** | 89 | 42 | 217 |
-| Slovakia | **75** | 84 | 92 | 251 |
+| Slovakia | **75** | 85 | 93 | 253 |
 | Lithuania | **75** | 74 | 87 | 236 |
 | Philippines | **69** | 83 | 79 | 231 |
 | Norway | **62** | 66 | 84 | 212 |

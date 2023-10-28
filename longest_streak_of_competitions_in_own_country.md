@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -17,8 +17,8 @@
 | 51 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Chinese Taipei | [Taipei Open 2017](https://www.worldcubeassociation.org/competitions/TaipeiOpen2017) | [Taiwan Blind Day 2023](https://www.worldcubeassociation.org/competitions/TaiwanBlindDay2023) |
 | 49 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) | Bolivia | [Santa Cruz Open 2015](https://www.worldcubeassociation.org/competitions/SantaCruzOpen2015) | [Unifranz Santa Cruz 2019](https://www.worldcubeassociation.org/competitions/UnifranzSantaCruz2019) |
 | 47 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | United Kingdom | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) | [Manchester Open 2020](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020) |
+| 45 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 45 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | United Kingdom | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) |
-| 44 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 43 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) | Sweden | [Swedish Championship 2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012) | [SSL 1 Åkers Styckebruk 2019](https://www.worldcubeassociation.org/competitions/SSL1AkersStyckebruk2019) |
 | 41 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) | Japan | [JRCA Kansai Summer 2009](https://www.worldcubeassociation.org/competitions/JRCAKansaiSummer2009) | [East Osaka 2012](https://www.worldcubeassociation.org/competitions/EastOsaka2012) |
 | 40 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [Korean Spring Picnic 2017](https://www.worldcubeassociation.org/competitions/KoreanSpringPicnic2017) |  |
@@ -42,10 +42,10 @@
 | 30 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | Peru | [Peru Open 2011](https://www.worldcubeassociation.org/competitions/PeruOpen2011) | [Mega Rubik 2015](https://www.worldcubeassociation.org/competitions/MegaRubik2015) |
 | 30 | [İskender Aznavur](https://www.worldcubeassociation.org/persons/2013AZNA01) | Turkey | [Turkish Open 2013](https://www.worldcubeassociation.org/competitions/TurkishOpen2013) | [Turkish Cubing Tour Ankara 2020](https://www.worldcubeassociation.org/competitions/TurkishCubingTourAnkara2020) |
 | 30 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) | El Salvador | [Sivar Open 2015](https://www.worldcubeassociation.org/competitions/SivarOpen2015) |  |
+| 29 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) |  |
+| 29 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) |  |
 | 29 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | Germany | [German Nationals 2009](https://www.worldcubeassociation.org/competitions/Germany2009) | [Schleswig-Holstein Open 2012](https://www.worldcubeassociation.org/competitions/SHOpen2012) |
 | 29 | [Malte Oliver Bøgh Kjøller](https://www.worldcubeassociation.org/persons/2018KJOL01) | Denmark | [Østerhøj NxNxN 2019](https://www.worldcubeassociation.org/competitions/OsterhojNxNxN2019) | [Fast Faster Falster 2022](https://www.worldcubeassociation.org/competitions/FastFasterFalster2022) |
-| 28 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) |  |
-| 28 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) |  |
 | 28 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | Republic of Korea | [Busan Winter 2018](https://www.worldcubeassociation.org/competitions/BusanWinter2018) |  |
 | 28 | [Jang Seok Won (장석원)](https://www.worldcubeassociation.org/persons/2015SUCK01) | Republic of Korea | [Busan Winter 2018](https://www.worldcubeassociation.org/competitions/BusanWinter2018) |  |
 | 28 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) | Switzerland | [Swiss Open 2014](https://www.worldcubeassociation.org/competitions/SwissOpen2014) | [Swisscubing Mental 2018](https://www.worldcubeassociation.org/competitions/SwisscubingMentalBreakdown2018) |

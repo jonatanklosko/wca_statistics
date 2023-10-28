@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 
 ### Pairs
@@ -25,7 +25,7 @@
 | 144 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) & [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 133 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) & [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
 | 129 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) & [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 119 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) & [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 120 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) & [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 117 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) & [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) |
 | 117 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) & [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 114 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) & [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
@@ -59,10 +59,10 @@
 | 78 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) & [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 78 | [Andre Febriato Jonathan](https://www.worldcubeassociation.org/persons/2011JONA01) & [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
 | 78 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) & [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
+| 78 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) & [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 78 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) & [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) |
 | 78 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 78 | [Danny Sungin Park](https://www.worldcubeassociation.org/persons/2015PARK13) & [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
-| 77 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) & [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 76 | [Pavel Yushkevich](https://www.worldcubeassociation.org/persons/2013YUSH01) & [Vladislav Kaminskiy](https://www.worldcubeassociation.org/persons/2013KAMI03) |
 | 76 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) & [Nicolás Irenco Peña Henríquez](https://www.worldcubeassociation.org/persons/2016HENR02) |
 | 75 | [Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01) & [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) |
@@ -73,8 +73,8 @@
 | 71 | [Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01) & [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 70 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) & [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 70 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) & [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) |
+| 70 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) & [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 69 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) & [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |
-| 69 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) & [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 69 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) & [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 68 | [Daniel Wannamaker](https://www.worldcubeassociation.org/persons/2011WANN01) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 68 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) & [Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)](https://www.worldcubeassociation.org/persons/2009CHAR03) |

@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 25 October 2023*
+*Updated on 28 October 2023*
 
 
 ### Rubik's Cube
@@ -69,6 +69,7 @@
 | First average | Person |
 | ---: | :--- |
 | 1:39.42 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) |
+| 1:41.95 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |
 | 1:42.49 | [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) |
 | 1:43.17 | [Diego Rodriguez-Ramirez](https://www.worldcubeassociation.org/persons/2019RODR11) |
 | 1:44.96 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
@@ -77,7 +78,6 @@
 | 1:51.42 | [Mikul Chanakya](https://www.worldcubeassociation.org/persons/2022CHAN83) |
 | 1:52.71 | [Balder Henke](https://www.worldcubeassociation.org/persons/2019HENK01) |
 | 1:54.20 | [Silas Breault](https://www.worldcubeassociation.org/persons/2019BREA02) |
-| 1:54.25 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
 
 ### 7x7x7 Cube
 

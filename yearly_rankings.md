@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 October 2023*
+*Updated on 31 October 2023*
 
 
 ### Rubik's Cube - Single
@@ -254,10 +254,10 @@
 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | **6.92** | China | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 10.52, 10.25, 8.66, 6.92, 11.32 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **6.92** | France | [Stevenage June 2023](https://www.worldcubeassociation.org/competitions/StevenageJune2023) | 10.80, 9.34, 10.09, 6.92, 9.97 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **6.93** | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 10.19, 9.21, 6.93, 9.85, 10.25 |
+| [Muhammad Faeyza Koda](https://www.worldcubeassociation.org/persons/2018KODA01) | **7.04** | Indonesia | [Jakarta Masters 2023](https://www.worldcubeassociation.org/competitions/JakartaMasters2023) | 9.35, 7.04, 13.72, 12.79, 11.99 |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **7.06** | United States | [Cal Poly SLO Spring 2023](https://www.worldcubeassociation.org/competitions/CalPolySLOSpring2023) | 11.71, 7.06, 16.88, 12.21, 13.10 |
 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | **7.08** | Argentina | [Abierto de Pascuas 2023](https://www.worldcubeassociation.org/competitions/AbiertoDePascuas2023) | 12.63, 13.57, 11.63, 11.99, 7.08 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **7.10** | United States | [OH-io State 2023](https://www.worldcubeassociation.org/competitions/OHioState2023) | 11.26, 10.24, 7.10, 9.15, 10.62 |
-| [Muhammad Faeyza Koda](https://www.worldcubeassociation.org/persons/2018KODA01) | **7.17** | Indonesia | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023) | 11.89, 14.01, 11.01, 7.17, 15.18 |
 
 ### 3x3x3 One-Handed - Average
 

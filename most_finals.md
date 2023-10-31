@@ -1,16 +1,16 @@
 ## Most finals
 
-*Updated on 28 October 2023*
+*Updated on 31 October 2023*
 
 | Finals | Person |
 | ---: | :--- |
 | 2275 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2237 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2089 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 1716 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 1726 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1640 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
-| 1495 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 1501 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1471 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1453 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 1434 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
@@ -21,11 +21,11 @@
 | 1204 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1183 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1175 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
-| 1147 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 1150 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 1138 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
-| 1125 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 1131 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1115 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
-| 1105 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
+| 1106 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1091 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 1068 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
@@ -65,19 +65,19 @@
 | 826 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 825 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 824 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
+| 819 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 818 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 815 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 813 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
-| 813 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 807 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 784 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 784 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 776 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 772 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
+| 768 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 767 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 766 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 765 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
-| 764 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 760 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 760 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 758 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |

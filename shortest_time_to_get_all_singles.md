@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 October 2023*
+*Updated on 31 October 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -374,6 +374,7 @@
 | 2351 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
 | 2352 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) |
 | 2359 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) |
+| 2381 | [Renan da Cunha Santos](https://www.worldcubeassociation.org/persons/2017SANT12) |
 | 2386 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) |
 | 2408 | [Dallas McNeil](https://www.worldcubeassociation.org/persons/2017MCNE01) |
 | 2422 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |

@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 28 October 2023*
+*Updated on 31 October 2023*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -41,9 +41,9 @@
 | Colombia | **131** | 101 | 91 | 323 |
 | Latvia | **125** | 188 | 189 | 502 |
 | Greece | **119** | 144 | 106 | 369 |
-| Belarus | **108** | 69 | 81 | 258 |
+| Belarus | **108** | 70 | 83 | 261 |
 | Czech Republic | **103** | 113 | 122 | 338 |
-| Kazakhstan | **95** | 87 | 86 | 268 |
+| Kazakhstan | **95** | 88 | 86 | 269 |
 | Thailand | **86** | 89 | 42 | 217 |
 | Slovakia | **75** | 85 | 93 | 253 |
 | Lithuania | **75** | 74 | 87 | 236 |
@@ -59,22 +59,22 @@
 | Kosovo | **37** | 26 | 22 | 85 |
 | Uzbekistan | **32** | 29 | 31 | 92 |
 | Mongolia | **32** | 28 | 26 | 86 |
-| Venezuela | **31** | 39 | 40 | 110 |
+| Venezuela | **31** | 41 | 40 | 112 |
 | New Zealand | **30** | 67 | 53 | 150 |
 | Chile | **28** | 20 | 17 | 65 |
 | Costa Rica | **27** | 35 | 28 | 90 |
 | Belize | **24** | 6 | 1 | 31 |
+| Kyrgyzstan | **23** | 25 | 34 | 82 |
 | Portugal | **23** | 21 | 21 | 65 |
-| Kyrgyzstan | **21** | 24 | 32 | 77 |
 | El Salvador | **21** | 24 | 19 | 64 |
 | Pakistan | **21** | 15 | 15 | 51 |
 | North Macedonia | **17** | 20 | 27 | 64 |
 | Serbia | **16** | 24 | 28 | 68 |
 | South Africa | **16** | 18 | 39 | 73 |
 | Mexico | **14** | 19 | 22 | 55 |
+| Iran | **14** | 14 | 12 | 40 |
 | Nicaragua | **14** | 5 | 10 | 29 |
 | Bulgaria | **12** | 35 | 33 | 80 |
-| Iran | **11** | 10 | 12 | 33 |
 | Tunisia | **10** | 9 | 7 | 26 |
 | Uruguay | **10** | 6 | 18 | 34 |
 | Turkey | **9** | 14 | 12 | 35 |
@@ -82,8 +82,8 @@
 | Nigeria | **8** | 14 | 12 | 34 |
 | Bolivia | **8** | 9 | 16 | 33 |
 | Cyprus | **7** | 15 | 14 | 36 |
+| Moldova | **7** | 12 | 7 | 26 |
 | Georgia | **7** | 10 | 9 | 26 |
-| Moldova | **7** | 8 | 5 | 20 |
 | Bosnia and Herzegovina | **6** | 17 | 7 | 30 |
 | Panama | **6** | 7 | 8 | 21 |
 | Honduras | **6** | 5 | 8 | 19 |

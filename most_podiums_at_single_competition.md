@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 31 October 2023*
+*Updated on  1 November 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -707,6 +707,7 @@
 | 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [San Marino Nationals 2018](https://www.worldcubeassociation.org/competitions/SanMarinoNationals2018/results/podiums) |
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Almaty Altyn Cube 2018](https://www.worldcubeassociation.org/competitions/AlmatyAltynCube2018/results/podiums) |
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Barby Cube 73 2017](https://www.worldcubeassociation.org/competitions/BarbyCube732017/results/podiums) |
+| 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Bozeman Cubing 2023](https://www.worldcubeassociation.org/competitions/BozemanCubing2023/results/podiums) |
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Cannes 2016](https://www.worldcubeassociation.org/competitions/CannesSummerOpen2016/results/podiums) |
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [FLIP 2016](https://www.worldcubeassociation.org/competitions/FLIPRubikOpen2016/results/podiums) |
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Toulon Open 2017](https://www.worldcubeassociation.org/competitions/ToulonOpen2017/results/podiums) |

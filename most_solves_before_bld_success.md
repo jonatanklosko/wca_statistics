@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 31 October 2023*
+*Updated on  1 November 2023*
 
 
 ### 3x3x3 Blindfolded
@@ -76,7 +76,7 @@
 | 18 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 17 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 16 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
-| 15 | [Deni Mintsaev (Дени Минцаев)](https://www.worldcubeassociation.org/persons/2013MINT01) |
+| 16 | [Vladimir Sergeev](https://www.worldcubeassociation.org/persons/2017SERG03) |
 
 ### 3x3x3 Multi-Blind
 

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 31 October 2023*
+*Updated on  1 November 2023*
 
 
 ### Rubik's Cube
@@ -103,11 +103,11 @@
 | 0.11 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 24.64 | 24.75 | [Arnold Open 2018](https://www.worldcubeassociation.org/competitions/ArnoldOpen2018/results/by_person#2014PARR02) |
 | 0.12 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | 54.67 | 54.79 | [Oulu Open 2022](https://www.worldcubeassociation.org/competitions/OuluOpen2022/results/by_person#2014VIKS01) |
 | 0.13 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | 36.81 | 36.94 | [Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017/results/by_person#2014ZHAO12) |
+| 0.14 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 23.32 | 23.46 | [BrizZon Side Open V 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2023/results/by_person#2020BARA02) |
 | 0.14 | [Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02) | 41.36 | 41.50 | [Wonderful Williamstown 2022](https://www.worldcubeassociation.org/competitions/WonderfulWilliamstown2022/results/by_person#2015SRIN02) |
 | 0.17 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 13.98 | 14.15 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2015CHER07) |
 | 0.17 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 23.25 | 23.42 | [Minnesota Cube Melt 2023](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2023/results/by_person#2015KUCA01) |
 | 0.18 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 15.20 | 15.38 | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2015CHER07) |
-| 0.18 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 23.63 | 23.81 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2016PRZY01) |
 
 ### 3x3x3 One-Handed
 
@@ -161,13 +161,13 @@
 | 0.01 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 7.23 | 7.24 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019MORG10) |
 | 0.03 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 7.98 | 8.01 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2015SPEN01) |
 | 0.04 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.22 | 4.26 | [GCU Spring 2023](https://www.worldcubeassociation.org/competitions/GCUSpring2023/results/by_person#2017BREE02) |
+| 0.04 | [Miguel Angel Zamorano Beltran](https://www.worldcubeassociation.org/persons/2023BELT03) | 8.06 | 8.10 | [Niños Héroes Jalisco 2023](https://www.worldcubeassociation.org/competitions/NinosHeroesJalisco2023/results/by_person#2023BELT03) |
 | 0.04 | [Lee Yu Zhe](https://www.worldcubeassociation.org/persons/2019ZHEL01) | 11.18 | 11.22 | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/by_person#2019ZHEL01) |
 | 0.05 | [Aleksandra Tatoń](https://www.worldcubeassociation.org/persons/2021TATO01) | 7.30 | 7.35 | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023/results/by_person#2021TATO01) |
 | 0.05 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 7.44 | 7.49 | [Get To The Point 2022](https://www.worldcubeassociation.org/competitions/GetToThePoint2022/results/by_person#2013JOHN10) |
 | 0.06 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 7.18 | 7.24 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/by_person#2013ROGA02) |
 | 0.06 | [Wojciech Włodarczyk](https://www.worldcubeassociation.org/persons/2012WODA01) | 9.39 | 9.45 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016/results/by_person#2012WODA01) |
 | 0.06 | [Teemu Jokela](https://www.worldcubeassociation.org/persons/2021JOKE01) | 11.52 | 11.58 | [Pulmapelipäivät 2023](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2023/results/by_person#2021JOKE01) |
-| 0.06 | [Lukas Walter](https://www.worldcubeassociation.org/persons/2023WALT04) | 11.74 | 11.80 | [Swiss Nationals 2023](https://www.worldcubeassociation.org/competitions/SwissNationals2023/results/by_person#2023WALT04) |
 
 ### Skewb
 

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 31 October 2023*
+*Updated on  1 November 2023*
 
 
 ### Rubik's Cube - Single
@@ -340,6 +340,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **2.61** | United States | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023) | 4.07, 3.35, 2.61, 7.68, DNF |
 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | **2.71** | Norway | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) | 2.71, 5.85, 3.63, 3.52, 3.41 |
+| [Neil Gour](https://www.worldcubeassociation.org/persons/2022GOUR01) | **2.73** | India | [Side Events Bangalore Oct 2023](https://www.worldcubeassociation.org/competitions/SideEventsBangaloreOct2023) | 2.73, 6.44, 4.12, 4.30, 5.57 |
 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **2.77** | United Kingdom | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023) | 2.77, 2.80, 6.14, 2.89, 6.94 |
 | [Virgile Perrot](https://www.worldcubeassociation.org/persons/2017PERR02) | **2.79** | France | [Monts du Lyonnais Open 2023](https://www.worldcubeassociation.org/competitions/MontsduLyonnaisOpen2023) | 4.32, 7.16, 2.79, 5.02, 6.41 |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **2.81** | United States | [Agoura Cubing 2023](https://www.worldcubeassociation.org/competitions/AgouraCubing2023) | 2.81, DNF, 4.16, 4.81, 3.34 |
@@ -347,7 +348,6 @@
 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | **2.84** | United States | [DFW Cubing Summer 2023](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2023) | 2.84, 3.62, 5.59, 4.63, 4.38 |
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | **2.94** | Poland | [Cube4fun in Biała Podlaska 2023](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2023) | 2.94, 5.21, 4.70, 3.43, 3.41 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **3.02** | United States | [OH-io State 2023](https://www.worldcubeassociation.org/competitions/OHioState2023) | DNF, 5.20, 5.38, 4.51, 3.02 |
-| [Richard Yiheng Tao](https://www.worldcubeassociation.org/persons/2020TAOR01) | **3.05** | New Zealand | [A New Year in Hamilton 2023](https://www.worldcubeassociation.org/competitions/ANewYearinHamilton2023) | 5.24, 4.96, 3.05, 5.72, 4.28 |
 
 ### Rubik's Clock - Average
 

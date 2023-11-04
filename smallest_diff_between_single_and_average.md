@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 November 2023*
+*Updated on  4 November 2023*
 
 
 ### Rubik's Cube
@@ -56,13 +56,13 @@
 | 0.07 | [Micki Kanaiya Harning](https://www.worldcubeassociation.org/persons/2014HARN01) | 1:39.88 | 1:39.95 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2014HARN01) |
 | 0.09 | [Justin John Navarro](https://www.worldcubeassociation.org/persons/2016NAVA07) | 1:22.65 | 1:22.74 | [General Santos City Open 2020](https://www.worldcubeassociation.org/competitions/GeneralSantosCityOpen2020/results/by_person#2016NAVA07) |
 | 0.11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 57.44 | 57.55 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/by_person#2013EGDA02) |
+| 0.12 | [Oleksii Lasiichuk (Олексій Ласійчук)](https://www.worldcubeassociation.org/persons/2018LASI01) | 1:10.52 | 1:10.64 | [Ukrainian Nationals 2023](https://www.worldcubeassociation.org/competitions/UkrainianNationals2023/results/by_person#2018LASI01) |
 | 0.12 | [Jorge Rafael Castañeda Sánchez](https://www.worldcubeassociation.org/persons/2010CAST01) | 1:11.74 | 1:11.86 | [NxN Tlaxcala 2019](https://www.worldcubeassociation.org/competitions/NxNTlaxcala2019/results/by_person#2010CAST01) |
 | 0.14 | [Clément Valot](https://www.worldcubeassociation.org/persons/2010VALO01) | 2:35.06 | 2:35.20 | [Diñs Open 2012](https://www.worldcubeassociation.org/competitions/DinsOpen2012/results/by_person#2010VALO01) |
 | 0.15 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | 50.05 | 50.20 | [Chanteloup Open 2023](https://www.worldcubeassociation.org/competitions/ChanteloupOpen2023/results/by_person#2010KADD01) |
 | 0.15 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 1:06.76 | 1:06.91 | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020/results/by_person#2017SWOR01) |
 | 0.16 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | 1:00.50 | 1:00.66 | [Peru Nationals 2023](https://www.worldcubeassociation.org/competitions/PeruNationals2023/results/by_person#2016MILL07) |
 | 0.20 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 49.15 | 49.35 | [Franconia Winter 2020](https://www.worldcubeassociation.org/competitions/FranconiaWinter2020/results/by_person#2010WEYE02) |
-| 0.21 | [Tomáš Zatroch](https://www.worldcubeassociation.org/persons/2016ZATR01) | 1:03.18 | 1:03.39 | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019/results/by_person#2016ZATR01) |
 
 ### 6x6x6 Cube
 
@@ -174,6 +174,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.04 | [Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.90 | 2.94 | [You May Open 2018](https://www.worldcubeassociation.org/competitions/YouMayOpen2018/results/by_person#2016CAIY03) |
+| 0.04 | [Alessandro Calzoni](https://www.worldcubeassociation.org/persons/2021CALZ01) | 2.90 | 2.94 | [Ticino Open 2023](https://www.worldcubeassociation.org/competitions/TicinoOpen2023/results/by_person#2021CALZ01) |
 | 0.04 | [Jesús Julián De Niz Hernandez](https://www.worldcubeassociation.org/persons/2014HERN12) | 3.44 | 3.48 | [Guadalajara 2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017/results/by_person#2014HERN12) |
 | 0.04 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.57 | 3.61 | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/by_person#2022STOJ03) |
 | 0.04 | [Jiachen Xu (徐嘉辰)](https://www.worldcubeassociation.org/persons/2016XUJI02) | 3.96 | 4.00 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2016XUJI02) |
@@ -182,7 +183,6 @@
 | 0.04 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 5.05 | 5.09 | [VES Spring 2019](https://www.worldcubeassociation.org/competitions/VESSpring2019/results/by_person#2018KHAN26) |
 | 0.04 | [Andrew Tyberg](https://www.worldcubeassociation.org/persons/2016TYBE01) | 5.74 | 5.78 | [Mega Minnesota Winter 2018](https://www.worldcubeassociation.org/competitions/MegaMinnesotaWinter2018/results/by_person#2016TYBE01) |
 | 0.05 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 2.51 | 2.56 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2018MACH04) |
-| 0.05 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 2.61 | 2.66 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2013JOHN10) |
 
 ### Square-1
 

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 November 2023*
+*Updated on  4 November 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -161,6 +161,7 @@
 | 13 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019/results/podiums) |
 | 13 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Kazakhstan Nationals 2018](https://www.worldcubeassociation.org/competitions/KazakhstanNationals2018/results/podiums) |
 | 13 | [Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02) | [Xela 2015](https://www.worldcubeassociation.org/competitions/RubiksXelaOpen2015/results/podiums) |
+| 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2023](https://www.worldcubeassociation.org/competitions/UkrainianNationals2023/results/podiums) |
 | 13 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) | [Basauri Open 2016](https://www.worldcubeassociation.org/competitions/BasauriOpen2016/results/podiums) |
 | 13 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Sicily Open 2018](https://www.worldcubeassociation.org/competitions/SicilyOpen2018/results/podiums) |
 | 13 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | [Pitic Open 2020](https://www.worldcubeassociation.org/competitions/PiticOpen2020/results/podiums) |
@@ -621,6 +622,7 @@
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2023](https://www.worldcubeassociation.org/competitions/IcelandicNationals2023/results/podiums) |
 | 11 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northwest Championship 2019](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2019/results/podiums) |
+| 11 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums) |
 | 11 | [Saveliy Surikov](https://www.worldcubeassociation.org/persons/2017SURI01) | [Kalmykia Open 2018](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2018/results/podiums) |
 | 11 | [Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01) | [Indonesia Masters 2023](https://www.worldcubeassociation.org/competitions/IndonesiaMasters2023/results/podiums) |
 | 11 | [Kyle McDonald Trejos](https://www.worldcubeassociation.org/persons/2017TREJ03) | [Cubing Chiriquí 2019](https://www.worldcubeassociation.org/competitions/CubingChiriqui2019/results/podiums) |

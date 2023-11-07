@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 November 2023*
+*Updated on  7 November 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1028,6 +1028,7 @@
 | 10 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) | [Oculus Cube Open 2020](https://www.worldcubeassociation.org/competitions/OculusCubeOpen2020/results/podiums) |
 | 10 | [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) | [Aventura Cúbica III 2017](https://www.worldcubeassociation.org/competitions/AventuraCubicaIII2017/results/podiums) |
 | 10 | [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) | [Hunter Open 2015](https://www.worldcubeassociation.org/competitions/HunterOpen2015/results/podiums) |
+| 10 | [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) | [Real Geekcuber Pucallpa 2023](https://www.worldcubeassociation.org/competitions/RealGeekcuberPucallpa2023/results/podiums) |
 | 10 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Cubeando Ando Caracas 2018](https://www.worldcubeassociation.org/competitions/CubeandoCaracas2018/results/podiums) |
 | 10 | [Rodrigo Paz Vaca](https://www.worldcubeassociation.org/persons/2015VACA01) | [Bolivia Nationals 2018](https://www.worldcubeassociation.org/competitions/BoliviaNationals2018/results/podiums) |
 | 10 | [Rodrigo Paz Vaca](https://www.worldcubeassociation.org/persons/2015VACA01) | [Yo Rubik 2016](https://www.worldcubeassociation.org/competitions/YoRubik2016/results/podiums) |
@@ -1062,6 +1063,7 @@
 | 10 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | [Pittsburgh Fall 2019](https://www.worldcubeassociation.org/competitions/PittsburghFall2019/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Hono Luau Cube Off 2022](https://www.worldcubeassociation.org/competitions/HonoLuauCubeOff2022/results/podiums) |
+| 10 | [Angel Jesus Panebra Rodriguez](https://www.worldcubeassociation.org/persons/2016RODR37) | [Real Geekcuber Pucallpa 2023](https://www.worldcubeassociation.org/competitions/RealGeekcuberPucallpa2023/results/podiums) |
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Croatian Nationals 2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019/results/podiums) |
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023/results/podiums) |
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Swisscubing Cup Final 2023](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2023/results/podiums) |

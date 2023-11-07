@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  4 November 2023*
+*Updated on  7 November 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.48 | World | 10746 |
+| 1.48 | World | 10756 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.75 | Europe | 3511 |
-| 1.54 | South America | 1252 |
+| 1.75 | Europe | 3513 |
+| 1.54 | South America | 1254 |
 | 1.48 | Oceania | 468 |
-| 1.42 | Asia | 2421 |
+| 1.42 | Asia | 2422 |
 | 1.24 | Africa | 121 |
-| 1.20 | North America | 2973 |
+| 1.20 | North America | 2978 |
 
 ### Countries
 
@@ -48,8 +48,8 @@
 | 1.80 | Thailand | 46 |
 | 1.80 | Bosnia and Herzegovina | 10 |
 | 1.77 | Guatemala | 52 |
+| 1.77 | Brazil | 396 |
 | 1.77 | Belgium | 73 |
-| 1.77 | Brazil | 395 |
 | 1.75 | Austria | 24 |
 | 1.75 | Palestine | 4 |
 | 1.75 | Slovenia | 28 |
@@ -70,7 +70,7 @@
 | 1.60 | Netherlands | 106 |
 | 1.60 | Greece | 20 |
 | 1.60 | Nigeria | 5 |
-| 1.60 | Sweden | 215 |
+| 1.60 | Sweden | 216 |
 | 1.59 | India | 491 |
 | 1.58 | Bangladesh | 12 |
 | 1.57 | Italy | 187 |
@@ -85,20 +85,20 @@
 | 1.45 | Costa Rica | 20 |
 | 1.45 | Israel | 38 |
 | 1.44 | Australia | 375 |
-| 1.42 | Colombia | 223 |
+| 1.43 | Colombia | 224 |
 | 1.42 | Nepal | 19 |
 | 1.38 | Bulgaria | 13 |
 | 1.38 | Ecuador | 39 |
 | 1.38 | Jordan | 13 |
 | 1.38 | Paraguay | 24 |
-| 1.37 | Estonia | 51 |
 | 1.37 | Singapore | 41 |
+| 1.37 | Estonia | 52 |
 | 1.35 | South Africa | 57 |
 | 1.34 | Chinese Taipei | 125 |
 | 1.33 | Hong Kong, China | 18 |
 | 1.33 | Kuwait | 6 |
-| 1.33 | Philippines | 240 |
 | 1.33 | Tajikistan | 3 |
+| 1.33 | Philippines | 241 |
 | 1.32 | Vietnam | 57 |
 | 1.31 | United Arab Emirates | 16 |
 | 1.30 | Republic of Korea | 79 |
@@ -116,8 +116,8 @@
 | 1.17 | Armenia | 6 |
 | 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | Canada | 304 |
-| 1.16 | United States | 2383 |
+| 1.16 | Canada | 306 |
+| 1.16 | United States | 2386 |
 | 1.14 | Azerbaijan | 42 |
 | 1.12 | Honduras | 16 |
 | 1.08 | Georgia | 25 |

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  4 November 2023*
+*Updated on  7 November 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -263,6 +263,7 @@
 | 1 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 1 | [Taki Sugimoto (杉本太暉)](https://www.worldcubeassociation.org/persons/2008SUGI01) |
 | 1 | [Takumi Yoshida (吉田匠)](https://www.worldcubeassociation.org/persons/2007YOSH01) |
+| 1 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 1 | [Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01) |
 | 1 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) |

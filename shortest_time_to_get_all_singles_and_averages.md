@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 November 2023*
+*Updated on  7 November 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -17,6 +17,7 @@
 | 1036 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 1085 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 1153 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 1170 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 1198 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
 | 1372 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 | 1449 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |

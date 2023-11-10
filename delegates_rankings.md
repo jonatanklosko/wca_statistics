@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  7 November 2023*
+*Updated on 10 November 2023*
 
 
 ### Rubik's Cube - Single

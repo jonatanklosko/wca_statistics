@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  7 November 2023*
+*Updated on 10 November 2023*
 
 
 ### Rubik's Cube
@@ -69,6 +69,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Reiko Teepere](https://www.worldcubeassociation.org/persons/2009TEEP01) | 10:54.00 | **16:43.00** | [Estonian Open 2010](https://www.worldcubeassociation.org/competitions/EstonianOpen2010/results/podiums#e666) | 3 |
+| [Theodore Mayer](https://www.worldcubeassociation.org/persons/2023MAYE02) | 9:29.09 | **11:50.00** | [Grizz League III 2023](https://www.worldcubeassociation.org/competitions/GrizzLeagueIII2023/results/podiums#e666) | 2 |
 | [Mahmoud Salah El Deberky](https://www.worldcubeassociation.org/persons/2019DEBE01) | 10:04.00 | **11:16.00** | [Egyptian Championship 2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019/results/podiums#e666) | 3 |
 | [Bruna Fernanda Barbado Migliozzi](https://www.worldcubeassociation.org/persons/2015MIGL01) | 10:36.00 | **11:11.00** | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017/results/podiums#e666) | 3 |
 | [Tommy Gustavsson](https://www.worldcubeassociation.org/persons/2005GUST02) | 9:09.46 | **10:40.00** | [Swedish Cubedays 2011](https://www.worldcubeassociation.org/competitions/SwedishCubedays2011/results/podiums#e666) | 3 |
@@ -77,7 +78,6 @@
 | [José Pablo Márquez](https://www.worldcubeassociation.org/persons/2010MARQ03) | 8:35.65 | **9:32.99** | [Aplicarubick Open 2011](https://www.worldcubeassociation.org/competitions/Aplicarubick2011/results/podiums#e666) | 3 |
 | [Javier Espinosa García](https://www.worldcubeassociation.org/persons/2010ESPI01) | 7:36.40 | **8:58.71** | [Basauri Open 2010](https://www.worldcubeassociation.org/competitions/BasauriOpen2010/results/podiums#e666) | 2 |
 | [Clarke Hawkinson](https://www.worldcubeassociation.org/persons/2009HAWK01) | 8:03.36 | **8:54.37** | [Yellowstone 2018](https://www.worldcubeassociation.org/competitions/Yellowstone2018/results/podiums#e666) | 3 |
-| [Giuseppe Vargas Mares](https://www.worldcubeassociation.org/persons/2013MARE01) | 8:04.99 | **8:52.99** | [Cultural Open 2014](https://www.worldcubeassociation.org/competitions/CulturalOpen2014/results/podiums#e666) | 3 |
 
 ### 7x7x7 Cube
 

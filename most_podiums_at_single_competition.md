@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 November 2023*
+*Updated on 10 November 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -552,6 +552,7 @@
 | 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Podolian Open 2023](https://www.worldcubeassociation.org/competitions/PodolianOpen2023/results/podiums) |
 | 11 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) | [KSRCT Cube Open 2022](https://www.worldcubeassociation.org/competitions/KSRCTCubeOpen2022/results/podiums) |
 | 11 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | [Zaragoza Open 2016](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2016/results/podiums) |
+| 11 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Malpensa: IC Qualifier 2023](https://www.worldcubeassociation.org/competitions/MalpensaICQualifier2023/results/podiums) |
 | 11 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Guayaquil Championship 2018](https://www.worldcubeassociation.org/competitions/GuayaquilChampionship2018/results/podiums) |
 | 11 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Nacionales El Salvador 2023](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2023/results/podiums) |
 | 11 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | [Pulmapelipäivät 2018](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2018/results/podiums) |
@@ -607,6 +608,7 @@
 | 11 | [Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15) | [Pre-Nacionales Arequipa 2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019/results/podiums) |
 | 11 | [Gabriel Bergue](https://www.worldcubeassociation.org/persons/2017BORG02) | [Cubing At PASB 2022](https://www.worldcubeassociation.org/competitions/CubingAtPASB2022/results/podiums) |
 | 11 | [Gabriel Bergue](https://www.worldcubeassociation.org/persons/2017BORG02) | [Poções 2023](https://www.worldcubeassociation.org/competitions/Pocoes2023/results/podiums) |
+| 11 | [Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36) | [Uzbekistan Nationals 2023](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2023/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Casal Catalunya Baires Open 2019](https://www.worldcubeassociation.org/competitions/CasalCatalunyaBairesOpen2019/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/podiums) |
@@ -1127,6 +1129,7 @@
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Serbian Championship 2023](https://www.worldcubeassociation.org/competitions/SerbianChampionship2023/results/podiums) |
 | 10 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) | [Billings Speedcubing 2023](https://www.worldcubeassociation.org/competitions/BillingsSpeedcubing2023/results/podiums) |
 | 10 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Southern Scramble Dunedin 2021](https://www.worldcubeassociation.org/competitions/SouthernScrambleDunedin2021/results/podiums) |
+| 10 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Cubing Kazakhstan Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingKazakhstanNationals2023/results/podiums) |
 | 10 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Edukent Weekend 2023](https://www.worldcubeassociation.org/competitions/EdukentWeekend2023/results/podiums) |
 | 10 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023/results/podiums) |
 | 10 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Southernmost Solving 2023](https://www.worldcubeassociation.org/competitions/SouthernmostSolving2023/results/podiums) |

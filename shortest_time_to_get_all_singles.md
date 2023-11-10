@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 November 2023*
+*Updated on 10 November 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -142,6 +142,7 @@
 | 1015 | [Jianyu Que (阙剑宇)](https://www.worldcubeassociation.org/persons/2011QUEJ01) |
 | 1015 | [Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01) |
 | 1015 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) |
+| 1022 | [Jonah Blakeley](https://www.worldcubeassociation.org/persons/2021BLAK01) |
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
@@ -256,6 +257,7 @@
 | 1561 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) |
 | 1568 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 1568 | [Chenhao Sun (孙晨皓)](https://www.worldcubeassociation.org/persons/2018SUNC02) |
+| 1576 | [Sebastián Morón Mariscal](https://www.worldcubeassociation.org/persons/2019MARI16) |
 | 1581 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) |
 | 1596 | [Brandon Poulton](https://www.worldcubeassociation.org/persons/2019POUL02) |
 | 1610 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) |
@@ -435,6 +437,7 @@
 | 3332 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 3347 | [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) |
 | 3348 | [Junhe Zhang (张钧鹤)](https://www.worldcubeassociation.org/persons/2009ZHAN24) |
+| 3352 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 3360 | [Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02) |
 | 3360 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) |
 | 3361 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |

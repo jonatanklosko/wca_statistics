@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 November 2023*
+*Updated on 13 November 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -66,6 +66,7 @@
 | 615 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
 | 623 | [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) |
 | 644 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |
+| 651 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |
 | 658 | [Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01) |
 | 658 | [Ha Min Oh (오해민)](https://www.worldcubeassociation.org/persons/2015OHHA01) |
 | 665 | [Mats Walker](https://www.worldcubeassociation.org/persons/2021WALK02) |
@@ -265,6 +266,7 @@
 | 1631 | [Adam Hlavín](https://www.worldcubeassociation.org/persons/2019HLAV02) |
 | 1638 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 1660 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
+| 1678 | [Alexandru Ignat](https://www.worldcubeassociation.org/persons/2019IGNA02) |
 | 1680 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 1680 | [Vianne Chang](https://www.worldcubeassociation.org/persons/2017CHAN47) |
 | 1693 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) |

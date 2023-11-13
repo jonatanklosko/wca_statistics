@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 10 November 2023*
+*Updated on 13 November 2023*
 
 
 ### Rubik's Cube - Single
@@ -326,7 +326,7 @@
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.76** | United States | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023) | 2.34, 2.29, 1.45, 1.53, 1.36 |
 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | **1.78** | United States | [ODU Big Blue Spring 2023](https://www.worldcubeassociation.org/competitions/ODUBigBlueSpring2023) | 1.39, 2.40, 1.33, 2.15, 1.79 |
 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **2.02** | France | [French Championship 2022](https://www.worldcubeassociation.org/competitions/FrenchChampionship2022) | 1.96, 4.56, 2.12, 1.91, 1.97 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **2.35** | United States | [Peoria 2022](https://www.worldcubeassociation.org/competitions/CubingPeoria2022) | 2.32, 2.40, 2.29, 5.10, 2.34 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **2.31** | United States | [Rocky Mountain Championship 2023](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2023) | 3.30, 2.23, 2.29, 2.40, 2.16 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **2.40** | United States | [Southeast Championship 2023](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2023) | 1.76, 3.55, 1.82, 1.83, 5.56 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **2.42** | United States | [Rapidly Grand 2023](https://www.worldcubeassociation.org/competitions/RapidlyGrand2023) | 1.74, 2.45, 3.02, DNF, 1.80 |
 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) | **2.45** | India | [Midcoast Cubing 2018](https://www.worldcubeassociation.org/competitions/MidcoastCubing2018) | 4.69, 2.42, 2.54, 2.40, 2.21 |

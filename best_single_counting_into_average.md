@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 November 2023*
+*Updated on 13 November 2023*
 
 
 ### Rubik's Cube
@@ -76,7 +76,7 @@
 | 7.91 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Turbocharged 2023](https://www.worldcubeassociation.org/competitions/CircleCityTurbocharged2023/results/by_person#2012PARK03) |
 | 7.95 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022/results/by_person#2012PARK03) |
 | 7.96 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012PONC02) |
-| 7.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022/results/by_person#2012PONC02) |
+| 7.96 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | [Canisius College Weekend 2023](https://www.worldcubeassociation.org/competitions/CanisiusCollegeWeekend2023/results/by_person#2016RACH01) |
 
 ### Megaminx
 
@@ -115,13 +115,13 @@
 | 2.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 2.89 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 3.11 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/by_person#2021ELIA01) |
+| 3.17 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Get Ahead in Andalusia 2023](https://www.worldcubeassociation.org/competitions/GetAheadinAndalusia2023/results/by_person#2015CHER07) |
 | 3.20 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Tofta Summer Open 2023](https://www.worldcubeassociation.org/competitions/ToftaSummerOpen2023/results/by_person#2021ELIA01) |
 | 3.24 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/by_person#2015CHER07) |
 | 3.24 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2021DUNA01) |
 | 3.27 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Naperville Winter B 2022](https://www.worldcubeassociation.org/competitions/NapervilleWinterB2022/results/by_person#2018THOM29) |
 | 3.27 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023/results/by_person#2021ELIA01) |
 | 3.28 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [Ural Winter 2022](https://www.worldcubeassociation.org/competitions/UralWinter2022/results/by_person#2016GUND05) |
-| 3.28 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/by_person#2021ELIA01) |
 
 ### Skewb
 
@@ -150,8 +150,8 @@
 | 4.69 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Tri Cities Fall 2022](https://www.worldcubeassociation.org/competitions/TriCitiesFall2022/results/by_person#2017AGGA01) |
 | 4.76 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023/results/by_person#2016EPST02) |
 | 4.77 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2017AGGA01) |
+| 4.79 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [SnoCo Veterans Day Weekend 2023](https://www.worldcubeassociation.org/competitions/SnoCoVeteransDayWeekend2023/results/by_person#2017SIAU02) |
 | 4.80 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017SIAU02) |
-| 4.82 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Etec Cubatão 2023](https://www.worldcubeassociation.org/competitions/EtecCubatao2023/results/by_person#2015CECC01) |
 
 ### 3x3x3 With Feet
 

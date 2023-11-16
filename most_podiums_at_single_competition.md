@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 November 2023*
+*Updated on 16 November 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -154,6 +154,7 @@
 | 13 | [Florian Truckenthanner](https://www.worldcubeassociation.org/persons/2013TRUC01) | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Ark 2018](https://www.worldcubeassociation.org/competitions/Ark2018/results/podiums) |
+| 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Falukorv Open 2023](https://www.worldcubeassociation.org/competitions/FalukorvOpen2023/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Hudiksvall Open 2023](https://www.worldcubeassociation.org/competitions/HudiksvallOpen2023/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [SSL 2 Stockholm 2017](https://www.worldcubeassociation.org/competitions/SSL2Stockholm2017/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [SSL 4 Sundsvall 2019](https://www.worldcubeassociation.org/competitions/SSL4Sundsvall2019/results/podiums) |
@@ -547,6 +548,7 @@
 | 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Glacier National Park Open 2023](https://www.worldcubeassociation.org/competitions/GlacierNationalParkOpen2023/results/podiums) |
 | 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Lights of Reykjavik 2019](https://www.worldcubeassociation.org/competitions/LightsOfReykjavik2019/results/podiums) |
 | 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [San Marino Nationals 2018](https://www.worldcubeassociation.org/competitions/SanMarinoNationals2018/results/podiums) |
+| 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Burjassot Open 2023](https://www.worldcubeassociation.org/competitions/BurjassotOpen2023/results/podiums) |
 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Slovakian Summer 2019](https://www.worldcubeassociation.org/competitions/SlovakianSummer2019/results/podiums) |
 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Tallinn Open 2022](https://www.worldcubeassociation.org/competitions/TallinnOpen2022/results/podiums) |
 | 11 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [Danish Open 2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019/results/podiums) |
@@ -649,6 +651,7 @@
 | 11 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/podiums) |
 | 11 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | [Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/VisayasChampionship2023/results/podiums) |
 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
+| 11 | [Jack Larsson Backsell](https://www.worldcubeassociation.org/persons/2021BACK01) | [Falukorv Open 2023](https://www.worldcubeassociation.org/competitions/FalukorvOpen2023/results/podiums) |
 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/podiums) |
 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Romanian Championship 2023](https://www.worldcubeassociation.org/competitions/RomanianNationalChampionship2023/results/podiums) |
 | 11 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Amman Summertime 2022](https://www.worldcubeassociation.org/competitions/AmmanSummertime2022/results/podiums) |

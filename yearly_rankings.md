@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 16 November 2023*
+*Updated on 17 November 2023*
 
 
 ### Rubik's Cube - Single
@@ -206,8 +206,8 @@
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **14.15** | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 14.07, 13.98, 14.39 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **15.05** | Canada | [Panthers Cube Day 2023](https://www.worldcubeassociation.org/competitions/PanthersCubeDay2023) | 15.29, 14.15, 15.70 |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **15.51** | Australia | [Side N Blind Narre Warren 2023](https://www.worldcubeassociation.org/competitions/SideNBlindNarreWarren2023) | 16.26, 15.60, 14.66 |
+| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **16.00** | United States | [Virginia Championship 2023](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2023) | 15.58, 16.01, 16.42 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **16.22** | Argentina | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023) | 16.30, 16.71, 15.66 |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **16.29** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 17.61, 15.21, 16.05 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | **17.04** | Peru | [Speedsolving Geekcuber 2023](https://www.worldcubeassociation.org/competitions/SpeedsolvingGeekcuber2023) | 16.15, 18.60, 16.37 |
 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **17.17** | China | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 14.99, 19.97, 16.54 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **18.40** | China | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 16.09, 21.79, 17.31 |
@@ -325,9 +325,9 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | **1.45** | United States | [Washtenaw Fast 'n Late Fall 2023](https://www.worldcubeassociation.org/competitions/WashtenawFastnLateFall2023) | 1.82, 1.42, 1.42, 1.50, 1.38 |
 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **1.52** | New Zealand | [Ōtepoti Winter 2023](https://www.worldcubeassociation.org/competitions/OtepotiWinter2023) | 1.24, 1.41, 2.33, 1.73, 1.43 |
+| [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | **1.54** | United States | [Virginia Championship 2023](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2023) | 1.53, 1.54, 1.32, 1.54, 2.90 |
 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | **1.56** | Australia | [Newcastle Open 2023](https://www.worldcubeassociation.org/competitions/NewcastleOpen2023) | 1.43, 4.22, 1.51, 1.47, 1.71 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **1.57** | United Kingdom | [Hampshire Spring 2023](https://www.worldcubeassociation.org/competitions/HampshireSpring2023) | 1.38, 2.02, 1.64, 1.68, 1.29 |
-| [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | **1.58** | United States | [Virginia Beach Fall 2023](https://www.worldcubeassociation.org/competitions/VirginiaBeachFall2023) | 1.81, 1.55, 1.54, 1.57, 1.61 |
 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | **1.59** | China | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023) | 1.54, 1.38, 3.77, 1.82, 1.40 |
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | **1.60** | United States | [Cumberland County Cubing 2023](https://www.worldcubeassociation.org/competitions/CumberlandCountyCubing2023) | 1.97, 1.71, 1.66, 1.43, 1.43 |
 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | **1.67** | New Zealand | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023) | 1.62, 3.56, 1.39, 1.87, 1.51 |
@@ -458,7 +458,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **2:10.04** | United States | [Square-1 Madison Square 2023](https://www.worldcubeassociation.org/competitions/Square1onaMadisonSquare2023) | 2:10.04, DNF, DNF |
+| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **2:04.41** | United States | [Virginia Championship 2023](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2023) | 2:06.20, DNF, 2:04.41 |
 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | **2:18.78** | Malaysia | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | DNF, 2:18.78, DNF |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **2:45.73** | Switzerland | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) | DNF, 4:06.25, 2:45.73 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **2:55.40** | China | [Selangor Big & Blind 2023](https://www.worldcubeassociation.org/competitions/SelangorBigBlind2023) | 3:03.46, DNF, 2:55.40 |

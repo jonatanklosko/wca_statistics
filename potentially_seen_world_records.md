@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 16 November 2023*
+*Updated on 17 November 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -91,9 +91,9 @@
 | 70 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 69 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 69 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
+| 69 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 68 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 68 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
-| 68 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 67 | [Fumiki Koseki (古関章記)](https://www.worldcubeassociation.org/persons/2005KOSE01) |
 | 67 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 67 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |

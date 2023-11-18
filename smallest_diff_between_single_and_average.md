@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 November 2023*
+*Updated on 17 November 2023*
 
 
 ### Rubik's Cube
@@ -58,11 +58,11 @@
 | 0.11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 57.44 | 57.55 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/by_person#2013EGDA02) |
 | 0.12 | [Oleksii Lasiichuk (Олексій Ласійчук)](https://www.worldcubeassociation.org/persons/2018LASI01) | 1:10.52 | 1:10.64 | [Ukrainian Nationals 2023](https://www.worldcubeassociation.org/competitions/UkrainianNationals2023/results/by_person#2018LASI01) |
 | 0.12 | [Jorge Rafael Castañeda Sánchez](https://www.worldcubeassociation.org/persons/2010CAST01) | 1:11.74 | 1:11.86 | [NxN Tlaxcala 2019](https://www.worldcubeassociation.org/competitions/NxNTlaxcala2019/results/by_person#2010CAST01) |
+| 0.13 | [Andy Liu](https://www.worldcubeassociation.org/persons/2022LIUA05) | 2:15.73 | 2:15.86 | [Virginia Championship 2023](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2023/results/by_person#2022LIUA05) |
 | 0.14 | [Clément Valot](https://www.worldcubeassociation.org/persons/2010VALO01) | 2:35.06 | 2:35.20 | [Diñs Open 2012](https://www.worldcubeassociation.org/competitions/DinsOpen2012/results/by_person#2010VALO01) |
 | 0.15 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | 50.05 | 50.20 | [Chanteloup Open 2023](https://www.worldcubeassociation.org/competitions/ChanteloupOpen2023/results/by_person#2010KADD01) |
 | 0.15 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 1:06.76 | 1:06.91 | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020/results/by_person#2017SWOR01) |
 | 0.16 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | 1:00.50 | 1:00.66 | [Peru Nationals 2023](https://www.worldcubeassociation.org/competitions/PeruNationals2023/results/by_person#2016MILL07) |
-| 0.20 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 49.15 | 49.35 | [Franconia Winter 2020](https://www.worldcubeassociation.org/competitions/FranconiaWinter2020/results/by_person#2010WEYE02) |
 
 ### 6x6x6 Cube
 

@@ -1,10 +1,10 @@
 ## Most visited countries
 
-*Updated on 16 November 2023*
+*Updated on 17 November 2023*
 
 | Countries | Person |
 | ---: | :--- |
-| 65 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
+| 66 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 42 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |

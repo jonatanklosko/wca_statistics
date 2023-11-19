@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 17 November 2023*
+*Updated on 19 November 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.48 | World | 10838 |
+| 1.48 | World | 10851 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.75 | Europe | 3538 |
-| 1.54 | South America | 1265 |
+| 1.75 | Europe | 3539 |
+| 1.54 | South America | 1266 |
 | 1.48 | Oceania | 470 |
-| 1.42 | Asia | 2432 |
+| 1.42 | Asia | 2437 |
 | 1.24 | Africa | 124 |
-| 1.20 | North America | 3009 |
+| 1.20 | North America | 3015 |
 
 ### Countries
 
@@ -29,6 +29,7 @@
 | 2.06 | Uzbekistan | 16 |
 | 2.05 | Kazakhstan | 40 |
 | 2.00 | Liechtenstein | 3 |
+| 2.00 | Sri Lanka | 6 |
 | 2.00 | Turkey | 79 |
 | 1.96 | United Kingdom | 192 |
 | 1.93 | Belarus | 42 |
@@ -41,7 +42,7 @@
 | 1.86 | France | 264 |
 | 1.86 | Croatia | 21 |
 | 1.85 | Switzerland | 95 |
-| 1.84 | Spain | 301 |
+| 1.84 | Spain | 302 |
 | 1.83 | Finland | 115 |
 | 1.83 | Iceland | 12 |
 | 1.83 | Mexico | 123 |
@@ -53,7 +54,6 @@
 | 1.75 | Austria | 24 |
 | 1.75 | Palestine | 4 |
 | 1.75 | Slovenia | 28 |
-| 1.75 | Sri Lanka | 4 |
 | 1.73 | Argentina | 73 |
 | 1.70 | Ukraine | 120 |
 | 1.70 | Denmark | 142 |
@@ -87,18 +87,18 @@
 | 1.44 | Australia | 377 |
 | 1.42 | Colombia | 227 |
 | 1.42 | Nepal | 19 |
+| 1.40 | Singapore | 42 |
 | 1.38 | Bulgaria | 13 |
 | 1.38 | Ecuador | 39 |
 | 1.38 | Jordan | 13 |
-| 1.38 | Paraguay | 24 |
-| 1.37 | Singapore | 41 |
 | 1.37 | Estonia | 52 |
+| 1.36 | Paraguay | 25 |
 | 1.36 | Chinese Taipei | 126 |
 | 1.36 | South Africa | 59 |
 | 1.33 | Hong Kong, China | 18 |
 | 1.33 | Kuwait | 6 |
 | 1.33 | Tajikistan | 3 |
-| 1.33 | Philippines | 242 |
+| 1.33 | Philippines | 243 |
 | 1.33 | Vietnam | 58 |
 | 1.32 | Republic of Korea | 80 |
 | 1.31 | United Arab Emirates | 16 |
@@ -106,7 +106,7 @@
 | 1.29 | Bahrain | 7 |
 | 1.29 | Panama | 14 |
 | 1.27 | Chile | 104 |
-| 1.26 | China | 619 |
+| 1.26 | China | 620 |
 | 1.24 | Mongolia | 25 |
 | 1.22 | Portugal | 18 |
 | 1.21 | Japan | 222 |
@@ -116,8 +116,8 @@
 | 1.17 | Armenia | 6 |
 | 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.17 | Canada | 309 |
-| 1.16 | United States | 2412 |
+| 1.16 | Canada | 312 |
+| 1.16 | United States | 2415 |
 | 1.14 | Azerbaijan | 42 |
 | 1.12 | Honduras | 16 |
 | 1.08 | Georgia | 25 |

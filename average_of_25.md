@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 17 November 2023*
+*Updated on 19 November 2023*
 
 
 ### Rubik's Cube
@@ -158,11 +158,11 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
+| 1.64 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.34, 1.81, 1.29, 2.11, 2.17, 1.19, 3.94, 1.88, 1.95, 1.58, 1.88, 1.52, 1.24, 1.41, 2.33, 1.73, 1.43, 1.64, 1.60, 1.82, 1.08, 1.18, 1.40, 2.57, 1.25 |
 | 1.67 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.28, 1.45, 1.72, 2.45, 1.82, 1.74, 1.65, 1.81, 1.96, 1.97, 2.03, 1.67, 1.79, 1.63, 1.47, 1.85, 1.90, 1.81, 1.32, 1.61, 1.53, 1.42, 1.39, 1.57, 1.41 |
 | 1.82 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 2.75, 1.38, 1.48, DNF, 1.76, 1.69, 1.26, 1.69, 1.44, 1.99, 4.46, 1.65, 1.63, 1.70, 1.74, 1.82, 3.20, 1.22, 2.48, 1.74, 1.97, 1.71, 1.66, 1.43, 1.43 |
 | 1.83 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.30, 1.68, 2.02, 1.61, 1.99, 1.78, 1.64, 2.24, 1.48, 1.90, 1.69, 1.84, 1.84, 2.80, 2.05, 1.56, 2.46, 2.02, 1.25, 1.87, 2.16, 1.54, 2.01, 1.52, 2.15 |
 | 1.83 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 1.37, 1.50, 2.12, 1.91, 1.69, 1.62, 1.13, 1.94, 2.08, 1.40, 1.58, 1.75, 2.23, 2.13, 2.06, 2.96, 2.28, 1.67, 1.40, 3.36, 1.54, 1.38, 3.77, 1.82, 1.40 |
-| 1.85 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.41, 3.34, 1.75, 2.04, 1.46, 1.83, 1.39, 1.89, 2.19, 1.53, 1.54, 1.56, 1.77, 2.78, 3.91, 1.44, 1.67, 1.49, 2.41, 2.38, 1.44, 1.48, 2.53, 1.96, 1.78 |
 | 1.94 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 1.43, 4.22, 1.51, 1.47, 1.71, 1.92, 2.13, 3.69, 1.84, 2.02, 1.60, 2.46, 2.09, 2.37, 2.52, 1.86, 2.07, 1.79, 1.65, 2.16, 2.66, 1.43, 1.37, 2.06, 1.28 |
 | 1.95 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.80, 1.71, 2.05, 1.68, 2.08, 2.32, 1.87, 1.69, 2.34, 2.84, 2.19, 1.41, 2.30, 1.53, 1.88, 1.69, 1.98, 1.82, 4.31, 2.95, 1.79, 1.65, 1.73, 1.00, 2.12 |
 | 1.96 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.84, 1.79, 3.15, 2.00, 1.51, 2.23, 1.52, 1.75, 1.72, 2.28, 3.56, 1.90, 1.72, 1.56, 1.85, 1.92, 2.23, 2.24, 1.43, 1.92, 3.13, 2.15, 1.39, 1.87, 2.21 |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 17 November 2023*
+*Updated on 19 November 2023*
 
 
 ### Rubik's Cube - Single
@@ -324,7 +324,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | **1.45** | United States | [Washtenaw Fast 'n Late Fall 2023](https://www.worldcubeassociation.org/competitions/WashtenawFastnLateFall2023) | 1.82, 1.42, 1.42, 1.50, 1.38 |
-| [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **1.52** | New Zealand | [Ōtepoti Winter 2023](https://www.worldcubeassociation.org/competitions/OtepotiWinter2023) | 1.24, 1.41, 2.33, 1.73, 1.43 |
+| [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **1.47** | New Zealand | [Lyttelton Spring 2023](https://www.worldcubeassociation.org/competitions/LytteltonSpring2023) | 1.64, 1.60, 1.82, 1.08, 1.18 |
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | **1.54** | United States | [Virginia Championship 2023](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2023) | 1.53, 1.54, 1.32, 1.54, 2.90 |
 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | **1.56** | Australia | [Newcastle Open 2023](https://www.worldcubeassociation.org/competitions/NewcastleOpen2023) | 1.43, 4.22, 1.51, 1.47, 1.71 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **1.57** | United Kingdom | [Hampshire Spring 2023](https://www.worldcubeassociation.org/competitions/HampshireSpring2023) | 1.38, 2.02, 1.64, 1.68, 1.29 |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 November 2023*
+*Updated on 22 November 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -140,6 +140,7 @@
 | 10 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Bilbao Open 2019](https://www.worldcubeassociation.org/competitions/BilbaoOpen2019/results/podiums) |
 | 10 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) | [Billings Speedcubing 2023](https://www.worldcubeassociation.org/competitions/BillingsSpeedcubing2023/results/podiums) |
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Birmingham Open 2016](https://www.worldcubeassociation.org/competitions/BirminghamOpen2016/results/podiums) |
+| 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Bjerringbro Open 2023](https://www.worldcubeassociation.org/competitions/BjerringbroOpen2023/results/podiums) |
 | 12 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Björneborg Weekend 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWeekend2023/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Björneborg Weekend 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWeekend2023/results/podiums) |
 | 10 | [Luiz Fellipe Oliuza Leal Silva](https://www.worldcubeassociation.org/persons/2016SILV02) | [Bodocó Open 2019](https://www.worldcubeassociation.org/competitions/Bodoco2019/results/podiums) |

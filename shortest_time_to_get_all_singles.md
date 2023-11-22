@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 November 2023*
+*Updated on 22 November 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -14,6 +14,7 @@
 | 203 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) |
 | 210 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) |
 | 239 | [Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36) |
+| 252 | [Kevin Liu](https://www.worldcubeassociation.org/persons/2023LIUK02) |
 | 253 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
 | 258 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) |
 | 266 | [Yikang Xie (谢轶康)](https://www.worldcubeassociation.org/persons/2016XIEY03) |
@@ -90,6 +91,7 @@
 | 741 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 742 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 750 | [Jaxon Foster](https://www.worldcubeassociation.org/persons/2021FOST01) |
+| 755 | [Jindřich Heissiger](https://www.worldcubeassociation.org/persons/2021HEIS01) |
 | 762 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
 | 763 | [Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01) |
 | 770 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) |
@@ -428,10 +430,12 @@
 | 3030 | [Brendan Bakker](https://www.worldcubeassociation.org/persons/2015BAKK01) |
 | 3031 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 3046 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
+| 3065 | [Matej Bolta](https://www.worldcubeassociation.org/persons/2015BOLT01) |
 | 3086 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 3109 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 3116 | [Ahsanul Insan Hamid](https://www.worldcubeassociation.org/persons/2011HAMI01) |
 | 3158 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
+| 3170 | [Luboš Bartík](https://www.worldcubeassociation.org/persons/2015BART01) |
 | 3290 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
 | 3304 | [Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01) |
 | 3310 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |

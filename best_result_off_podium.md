@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 November 2023*
+*Updated on 22 November 2023*
 
 
 ### Rubik's Cube
@@ -193,7 +193,7 @@
 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2.34 | **2.66** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 5 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.22 | **2.72** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 5 |
 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | 2.23 | **2.72** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eskewb_f) | 4 |
-| [Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.00 | **2.74** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 6 |
+| [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.00 | **2.74** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 6 |
 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | 2.06 | **2.74** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 6 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2.09 | **2.78** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eskewb_f) | 5 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.31 | **2.83** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 7 |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 November 2023*
+*Updated on 22 November 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -57,6 +57,7 @@
 | 2736 | [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01) |
 | 2737 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 2821 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 2829 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 2833 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 2897 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 2926 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |

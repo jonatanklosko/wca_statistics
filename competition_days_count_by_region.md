@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 22 November 2023*
+*Updated on 25 November 2023*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.48 | World | 10864 |
+| 1.48 | World | 10877 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.75 | Europe | 3545 |
-| 1.54 | South America | 1268 |
+| 1.75 | Europe | 3546 |
+| 1.54 | South America | 1269 |
 | 1.48 | Oceania | 470 |
-| 1.42 | Asia | 2440 |
+| 1.42 | Asia | 2446 |
 | 1.24 | Africa | 124 |
-| 1.20 | North America | 3017 |
+| 1.20 | North America | 3022 |
 
 ### Countries
 
@@ -27,10 +27,10 @@
 | 2.14 | Hungary | 35 |
 | 2.06 | Czech Republic | 47 |
 | 2.06 | Uzbekistan | 16 |
-| 2.05 | Kazakhstan | 40 |
+| 2.05 | Kazakhstan | 41 |
 | 2.00 | Liechtenstein | 3 |
 | 2.00 | Sri Lanka | 6 |
-| 2.00 | Turkey | 79 |
+| 1.99 | Turkey | 80 |
 | 1.96 | United Kingdom | 193 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
@@ -71,7 +71,7 @@
 | 1.60 | Greece | 20 |
 | 1.60 | Nigeria | 5 |
 | 1.60 | Sweden | 216 |
-| 1.59 | India | 491 |
+| 1.59 | India | 492 |
 | 1.58 | Bangladesh | 12 |
 | 1.56 | Italy | 188 |
 | 1.56 | Bolivia | 102 |
@@ -86,7 +86,7 @@
 | 1.45 | Israel | 38 |
 | 1.44 | Australia | 377 |
 | 1.42 | Nepal | 19 |
-| 1.42 | Colombia | 229 |
+| 1.42 | Colombia | 230 |
 | 1.40 | Singapore | 43 |
 | 1.38 | Bulgaria | 13 |
 | 1.38 | Ecuador | 39 |
@@ -98,15 +98,15 @@
 | 1.33 | Hong Kong, China | 18 |
 | 1.33 | Kuwait | 6 |
 | 1.33 | Tajikistan | 3 |
-| 1.33 | Philippines | 244 |
 | 1.33 | Vietnam | 58 |
+| 1.33 | Philippines | 245 |
 | 1.32 | Republic of Korea | 81 |
 | 1.31 | United Arab Emirates | 16 |
 | 1.30 | Venezuela | 67 |
 | 1.29 | Bahrain | 7 |
 | 1.29 | Panama | 14 |
 | 1.27 | Chile | 104 |
-| 1.26 | China | 620 |
+| 1.26 | China | 623 |
 | 1.24 | Mongolia | 25 |
 | 1.22 | Portugal | 18 |
 | 1.21 | Japan | 222 |
@@ -117,7 +117,7 @@
 | 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | Canada | 313 |
-| 1.16 | United States | 2416 |
+| 1.16 | United States | 2421 |
 | 1.14 | Azerbaijan | 42 |
 | 1.12 | Honduras | 16 |
 | 1.08 | Georgia | 26 |

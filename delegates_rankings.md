@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 22 November 2023*
+*Updated on 25 November 2023*
 
 
 ### Rubik's Cube - Single
@@ -384,7 +384,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.53** | United States | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | 1.89, 1.14, 1.55, 1.14, 4.15 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **2.01** | United States | [Get To The Point 2022](https://www.worldcubeassociation.org/competitions/GetToThePoint2022) | 1.56, 1.98, 2.12, 2.91, 1.92 |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.84** | United States | [Swoop In Again Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopInAgainOxford2023) | 2.21, 1.63, 1.57, 3.13, 1.67 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **2.42** | Denmark | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) | 1.46, 3.13, 2.04, 4.24, 2.10 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **2.90** | Sweden | [German Nationals 2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018) | 2.05, 4.01, 3.68, 2.23, 2.78 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **2.99** | United States | [PAWS 2022](https://www.worldcubeassociation.org/competitions/PuzzlesAtWisconsinSpring2022) | 2.93, 2.15, 3.78, 3.21, 2.82 |
@@ -538,11 +538,11 @@
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | **0.88** | Denmark | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) | 1.00, 1.02, 1.05, 1.02, 0.88 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **0.93** | Hungary | [Euro 2010](https://www.worldcubeassociation.org/competitions/Euro2010) | 1.02, 0.93, 0.96, DNF, 1.41 |
 | [Angga Atrie](https://www.worldcubeassociation.org/persons/2011ATRI01) | **0.93** | Indonesia | [Borneo 2012](https://www.worldcubeassociation.org/competitions/Borneo2012) | 1.02, 1.02, 0.93, 3.28, 0.97 |
+| [Xinyu Chen (陈鑫雨)](https://www.worldcubeassociation.org/persons/2012CHEN26) | **0.93** | China | [Hefei Summer 2012](https://www.worldcubeassociation.org/competitions/HefeiSummer2012) | DNF, 0.93, 2.16, 2.16, 1.84 |
 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | **0.96** | Hong Kong, China | [Guangdong Open 2009](https://www.worldcubeassociation.org/competitions/GuangdongOpen2009) | 0.96, 0.99, DNF, 1.06, 1.52 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **0.96** | Germany | [Alania Open 2011](https://www.worldcubeassociation.org/competitions/AlaniaOpen2011) | 5.38, 1.00, DNF, 0.96, 2.50 |
 | [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | **0.97** | Malaysia | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) | 1.13, 1.43, 2.97, 0.97, DNF |
 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | **0.97** | United States | [Dayton Fall 2011](https://www.worldcubeassociation.org/competitions/DaytonFall2011) | 1.11, 1.02, 1.02, 0.97, DNF |
-| [Amir Hossein Nafisi (امیر حسین نفیسی)](https://www.worldcubeassociation.org/persons/2012NAFI01) | **1.02** | Iran | [Iran Open 2012](https://www.worldcubeassociation.org/competitions/IranOpen2012) | 1.05, 3.75, 1.05, 1.02, 1.86 |
 
 ### Rubik's Magic - Average
 
@@ -594,7 +594,6 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | **6/7 51:41** | Denmark | [Swedish Open 2008](https://www.worldcubeassociation.org/competitions/SwedishOpen2008) | 6/7 51:41 |
-| [Danyang Chen (陈丹阳)](https://www.worldcubeassociation.org/persons/2007DANY01) | **2/2 6:16** | China | [Beijing Spring Open 2008](https://www.worldcubeassociation.org/competitions/BeijingSpringOpen2008) | 2/2 6:16 |
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | **3/4 17:44** | Brazil | [São Paulo Open 2009](https://www.worldcubeassociation.org/competitions/SaoPauloOpen2009) | 3/4 17:44, DNS |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **2/2 17:55** | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) | 2/2 17:55, DNS |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **2/2 18:48** | Germany | [German Open 2008](https://www.worldcubeassociation.org/competitions/GermanOpen2008) | 2/2 18:48, 3/4 40:00 |
@@ -603,6 +602,7 @@
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | **2/4 21:46** | United States | [Captain's Cove 2008](https://www.worldcubeassociation.org/competitions/CaptainsCove2008) | 2/4 21:46 |
 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) | **1/2 9:20** | United States | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | 1/2 9:20 |
 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) | **1/2 17:03** | Italy | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008) | 1/2 17:03, 1/2 22:10 |
+| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | **1/2 23:47** | Poland | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | 1/2 23:47 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 November 2023*
+*Updated on 25 November 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -91,6 +91,7 @@
 | 10 | [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) | [Aventura Cúbica III 2017](https://www.worldcubeassociation.org/competitions/AventuraCubicaIII2017/results/podiums) |
 | 11 | [Anish Rajesh](https://www.worldcubeassociation.org/persons/2014RAJE03) | [Avenues CUBELELO Open 2015](https://www.worldcubeassociation.org/competitions/AvenuesCUBELELO2015/results/podiums) |
 | 10 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [ABC 2018](https://www.worldcubeassociation.org/competitions/AwesomeBruchsalCubing2018/results/podiums) |
+| 14 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Azerbaijan Nationals 2023](https://www.worldcubeassociation.org/competitions/AzerbaijanNationals2023/results/podiums) |
 | 10 | [Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19) | [Back to Cubing San Carlos 2022](https://www.worldcubeassociation.org/competitions/BacktoCubingSanCarlos2022/results/podiums) |
 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/podiums) |
 | 11 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Ballerup Open 2012](https://www.worldcubeassociation.org/competitions/BallerupOpen2012/results/podiums) |

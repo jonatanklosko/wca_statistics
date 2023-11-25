@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 November 2023*
+*Updated on 25 November 2023*
 
 
 ### Rubik's Cube
@@ -27,12 +27,12 @@
 | 0.01 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 11.56 | 11.57 | [Berkeley Summer 2015](https://www.worldcubeassociation.org/competitions/BerkeleySummer2015/results/by_person#2011ALVI01) |
 | 0.02 | [Jiekang Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) | 1.95 | 1.97 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2012PANJ02) |
 | 0.02 | [John Lexel Alejandrino](https://www.worldcubeassociation.org/persons/2014ALEJ01) | 3.59 | 3.61 | [Philippine Championship 2017](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2017/results/by_person#2014ALEJ01) |
+| 0.02 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | 3.59 | 3.61 | [Azerbaijan Nationals 2023](https://www.worldcubeassociation.org/competitions/AzerbaijanNationals2023/results/by_person#2017ZHAD01) |
 | 0.02 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | 5.02 | 5.04 | [Williams Winter 2014](https://www.worldcubeassociation.org/competitions/WilliamsWinter2014/results/by_person#2008CLEM01) |
 | 0.02 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) | 5.86 | 5.88 | [Pakistan Open 2018](https://www.worldcubeassociation.org/competitions/PakistanOpen2018/results/by_person#2014GULA02) |
 | 0.02 | [John Mackie](https://www.worldcubeassociation.org/persons/2016MACK07) | 6.77 | 6.79 | [Phillips Exeter Cube Day 2016](https://www.worldcubeassociation.org/competitions/PhillipsExeterCubeDay2016/results/by_person#2016MACK07) |
 | 0.02 | [Elijahquim Rafael Peñafiel](https://www.worldcubeassociation.org/persons/2019PENA04) | 7.07 | 7.09 | [Luzon Championship 2019](https://www.worldcubeassociation.org/competitions/LuzonChampionship2019/results/by_person#2019PENA04) |
 | 0.02 | [Marilena Tsakonopoulou](https://www.worldcubeassociation.org/persons/2017TSAK01) | 7.32 | 7.34 | [Greece Spring Open 2017](https://www.worldcubeassociation.org/competitions/GreeceSpringOpen2017/results/by_person#2017TSAK01) |
-| 0.03 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.16 | 1.19 | [Voula Summer Open 2023](https://www.worldcubeassociation.org/competitions/VoulaSummerOpen2023/results/by_person#2012PATE01) |
 
 ### 4x4x4 Cube
 

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 November 2023*
+*Updated on 25 November 2023*
 
 
 ### Rubik's Cube - Single
@@ -386,9 +386,9 @@
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.53** | United States | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | 1.89, 1.14, 1.55, 1.14, 4.15 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **1.60** | United States | [Square-Fun in Bloomsburg 2023](https://www.worldcubeassociation.org/competitions/SquareFuninBloomsburg2023) | 1.45, 1.55, 5.61, 1.66, 1.58 |
 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | **1.77** | United States | [Rocky Mountain Championship 2023](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2023) | 1.80, 1.30, 2.32, 1.65, 1.85 |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.84** | United States | [Swoop In Again Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopInAgainOxford2023) | 2.21, 1.63, 1.57, 3.13, 1.67 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **1.91** | Spain | [Nhood Alcalá Mystery Open 2023](https://www.worldcubeassociation.org/competitions/NhoodAlcalaMysteryOpen2023) | 4.10, 1.90, 1.83, 1.92, 1.91 |
 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | **2.00** | United States | [SnoCo Veterans Day Weekend 2023](https://www.worldcubeassociation.org/competitions/SnoCoVeteransDayWeekend2023) | 2.01, 1.73, 2.19, 2.07, 1.91 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **2.04** | United States | [Evanston Fall Mini A 2023](https://www.worldcubeassociation.org/competitions/EvanstonFallMiniA2023) | 1.83, 2.05, 1.73, 3.94, 2.24 |
 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | **2.11** | Czech Republic | [GLS IV 2023](https://www.worldcubeassociation.org/competitions/GLSIV2023) | 1.52, 1.37, 2.48, 5.28, 2.33 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **2.12** | Denmark | [Roskilde For Alle 2023](https://www.worldcubeassociation.org/competitions/RoskildeForAlle2023) | 2.54, 1.91, 1.92, 1.40, 2.98 |
 | [Charles Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | **2.15** | China | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) | 3.99, 2.10, 2.20, 2.14, 1.86 |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 November 2023*
+*Updated on 28 November 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -795,6 +795,8 @@
 | 14 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Panama Nationals 2023](https://www.worldcubeassociation.org/competitions/PanamaNationals2023/results/podiums) |
 | 11 | [Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01) | [Pão de Queijo Open 2017](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2017/results/podiums) |
 | 10 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums) |
+| 12 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Pão de Queijo Open 2023](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2023/results/podiums) |
+| 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Pão de Queijo Open 2023](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2023/results/podiums) |
 | 12 | [José Chávez](https://www.worldcubeassociation.org/persons/2016CHAV18) | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums) |
 | 10 | [Milko Sebastián Gutiérrez Arroyo](https://www.worldcubeassociation.org/persons/2016ARRO05) | [Paraguay Nationals 2019](https://www.worldcubeassociation.org/competitions/ParaguayNationals2019/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Partage Open 2023](https://www.worldcubeassociation.org/competitions/PartageOpen2023/results/podiums) |

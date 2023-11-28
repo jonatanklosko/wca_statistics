@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 25 November 2023*
+*Updated on 28 November 2023*
 
 
 ### Rubik's Cube - Single
@@ -190,9 +190,9 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **15.02** | Poland | [Cube Factory 2023](https://www.worldcubeassociation.org/competitions/CubeFactory2023) | DNF, 15.02, DNF |
 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **15.52** | Hong Kong, China | [Bay Area Speedcubin' 42 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin422023) | 24.10, 15.52, 32.18 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **15.99** | United States | [Mini-sota 2023](https://www.worldcubeassociation.org/competitions/Minisota2023) | 22.61, 22.79, 15.99 |
 | [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | **16.13** | Australia | [February Fitzroy Fun 2023](https://www.worldcubeassociation.org/competitions/FebruaryFitzroyFun2023) | 16.13, DNF, 20.31 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **16.34** | Sweden | [Swedish Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishChampionship2022) | 28.15, 42.74, 16.34 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **17.81** | United States | [UIUC Spring 2023](https://www.worldcubeassociation.org/competitions/UIUCSpring2023) | DNF, DNF, 17.81 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **18.10** | Argentina | [Nacionales Argentinas 2018](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2018) | DNF, 18.10, DNF |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **19.48** | Italy | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) | DNF, DNF, 19.48 |
 | [Fletcher Berry](https://www.worldcubeassociation.org/persons/2018BERR01) | **21.06** | United States | [Ardmore Big & Blind 2023](https://www.worldcubeassociation.org/competitions/ArdmoreBigAndBlind2023) | DNF, DNF, 21.06 |
@@ -207,8 +207,8 @@
 | [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | **19.06** | Australia | [Solving in Sale 2023](https://www.worldcubeassociation.org/competitions/SolvinginSale2023) | 18.54, 18.73, 19.92 |
 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **19.49** | Hong Kong, China | [Berkeley Summer 2023](https://www.worldcubeassociation.org/competitions/BerkeleySummer2023) | 20.38, 20.84, 17.25 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **19.68** | Sweden | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022) | 20.27, 19.70, 19.08 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **20.46** | United States | [Mini-sota 2023](https://www.worldcubeassociation.org/competitions/Minisota2023) | 22.61, 22.79, 15.99 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **22.27** | Italy | [PoliMi Mental Breakdown 2019](https://www.worldcubeassociation.org/competitions/PoliMiMentalBreakdown2019) | 26.01, 20.73, 20.06 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **22.48** | United States | [Sioux City Sunday 2023](https://www.worldcubeassociation.org/competitions/SiouxCitySunday2023) | 20.39, 22.14, 24.92 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **22.98** | Argentina | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023) | 22.37, 23.36, 23.22 |
 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | **25.99** | Finland | [Tapiola Winter Open 2019](https://www.worldcubeassociation.org/competitions/TapiolaWinterOpen2019) | 24.35, 26.71, 26.90 |
 | [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | **27.67** | Brazil | [Campeonato Brasileiro 2019](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2019) | 32.32, 27.66, 23.04 |
@@ -346,8 +346,8 @@
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **3.76** | United States | [Mt. Prospect Mini Marathon 2023](https://www.worldcubeassociation.org/competitions/MtProspectMiniMarathon2023) | 5.24, 5.24, 6.68, 3.76, DNF |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **3.79** | United States | [GA Cubers Mashed Potatoes 2022](https://www.worldcubeassociation.org/competitions/GACubersMashedPotatoes2022) | 6.75, 4.75, DNF, DNF, 3.79 |
 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | **3.80** | United States | [PBQ Kentucky 2023](https://www.worldcubeassociation.org/competitions/PBQKentucky2023) | 6.69, 11.66, 6.91, 6.73, 3.80 |
+| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **3.89** | Poland | [Stevenage November 2023](https://www.worldcubeassociation.org/competitions/StevenageNovember2023) | 4.76, 5.38, 3.89, 5.24, 5.24 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | **3.98** | United Kingdom | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019) | 3.98, 7.26, 7.64, 8.71, DNF |
-| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **4.04** | Poland | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023) | 4.04, 5.16, 5.95, 5.67, 4.86 |
 
 ### Rubik's Clock - Average
 

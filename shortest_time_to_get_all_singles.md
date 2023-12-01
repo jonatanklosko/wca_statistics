@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 November 2023*
+*Updated on  1 December 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -361,6 +361,7 @@
 | 2177 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) |
 | 2177 | [Samuel Moliver](https://www.worldcubeassociation.org/persons/2017MOLI05) |
 | 2197 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
+| 2218 | [Aria Querubin](https://www.worldcubeassociation.org/persons/2017QUER02) |
 | 2219 | [Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01) |
 | 2232 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
 | 2233 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) |
@@ -373,6 +374,7 @@
 | 2269 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 2274 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2275 | [Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04) |
+| 2281 | [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) |
 | 2282 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
 | 2310 | [Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02) |
 | 2317 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |

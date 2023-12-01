@@ -1,13 +1,13 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 28 November 2023*
+*Updated on  1 December 2023*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **577** | 364 | 246 | 1187 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 204 | 125 | 663 |
-| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **243** | 126 | 80 | 449 |
+| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **243** | 127 | 80 | 450 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **203** | 164 | 117 | 484 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **199** | 50 | 18 | 267 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **169** | 59 | 27 | 255 |
@@ -27,8 +27,8 @@
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | **94** | 34 | 27 | 155 |
 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | **92** | 99 | 67 | 258 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **89** | 119 | 73 | 281 |
+| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **89** | 58 | 31 | 178 |
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **88** | 128 | 57 | 273 |
-| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **88** | 58 | 31 | 177 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **88** | 31 | 27 | 146 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **79** | 39 | 12 | 130 |

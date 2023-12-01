@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 November 2023*
+*Updated on  1 December 2023*
 
 | Finals | Person |
 | ---: | :--- |
@@ -17,9 +17,9 @@
 | 1354 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 1303 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 1239 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 1235 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 1236 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 1206 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1204 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
-| 1202 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1198 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1174 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1164 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
@@ -28,15 +28,15 @@
 | 1119 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1098 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 1082 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
+| 1086 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1072 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1070 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 1059 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 1063 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1032 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 1020 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 1005 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
-| 995 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 1000 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 994 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 985 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
@@ -70,7 +70,7 @@
 | 819 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 818 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 816 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
-| 815 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 816 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 808 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 791 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 784 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
@@ -94,8 +94,8 @@
 | 733 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 732 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 730 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
-| 725 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
-| 717 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
+| 729 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
+| 718 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 715 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 712 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 708 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |

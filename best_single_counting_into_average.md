@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 28 November 2023*
+*Updated on  1 December 2023*
 
 
 ### Rubik's Cube
@@ -15,8 +15,8 @@
 | 4.35 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019WANY36) |
 | 4.37 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [XMUM Cube Open 2023](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2023/results/by_person#2019WANY36) |
 | 4.41 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019WANY36) |
+| 4.41 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023/results/by_person#2023DUYU01) |
 | 4.45 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2016KOLA02) |
-| 4.48 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [UoSM Cube Day 2023](https://www.worldcubeassociation.org/competitions/UoSMCubeDay2023/results/by_person#2019WANY36) |
 
 ### 2x2x2 Cube
 

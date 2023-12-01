@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 28 November 2023*
+*Updated on  1 December 2023*
 
 
 ### Rubik's Cube - Single
@@ -317,7 +317,7 @@
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **1.43** | Poland | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022) | 4.37, 3.11, 6.41, 3.63, 1.43 |
 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | **1.44** | United States | [Gem City Side Events 2022](https://www.worldcubeassociation.org/competitions/GemCitySideEvents2022) | 3.61, 3.98, 1.44, 6.19, 3.73 |
 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | **1.47** | Sweden | [Norrkubing 2019](https://www.worldcubeassociation.org/competitions/Norrkubing2019) | 3.41, 3.68, 6.44, 1.47, 3.58 |
-| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **1.50** | Denmark | [Lonely Denmark 2020](https://www.worldcubeassociation.org/competitions/LonelyDenmark2020) | 4.94, 4.93, 4.57, 6.01, 1.50 |
+| [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) | **1.47** | United States | [Salem Spooktacular 2023](https://www.worldcubeassociation.org/competitions/SalemSpooktacular2023) | 4.27, 3.87, 1.47, 5.12, 5.14 |
 
 ### Pyraminx - Average
 
@@ -331,8 +331,8 @@
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **2.42** | United States | [Rapidly Grand 2023](https://www.worldcubeassociation.org/competitions/RapidlyGrand2023) | 1.74, 2.45, 3.02, DNF, 1.80 |
 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) | **2.45** | India | [Midcoast Cubing 2018](https://www.worldcubeassociation.org/competitions/MidcoastCubing2018) | 4.69, 2.42, 2.54, 2.40, 2.21 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **2.61** | Poland | [Szczecin Winter 2022](https://www.worldcubeassociation.org/competitions/SzczecinWinter2022) | 4.01, 1.76, 4.09, 1.79, 2.03 |
+| [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) | **2.84** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 3.03, 2.82, 3.68, 2.66, 2.30 |
 | [Maximiliano Perez Madrid](https://www.worldcubeassociation.org/persons/2017MADR01) | **2.86** | Chile | [Montealegre Open 2023](https://www.worldcubeassociation.org/competitions/MonteAlegreOpen2023) | 3.22, 3.14, 2.71, 2.64, 2.72 |
-| [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | **2.89** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 3.35, 2.84, 2.36, 3.10, 2.72 |
 
 ### Rubik's Clock - Single
 

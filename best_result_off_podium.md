@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 28 November 2023*
+*Updated on  1 December 2023*
 
 
 ### Rubik's Cube
@@ -10,14 +10,14 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.73 | **5.59** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 4 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.27 | **5.82** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 5 |
+| [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.49 | **5.89** | [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023/results/all#e333_f) | 4 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 4.72 | **5.90** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 6 |
+| [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 5.61 | **5.90** | [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023/results/all#e333_f) | 5 |
 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 5.38 | **5.93** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 7 |
 | [Yuzhe Wang (王语哲)](https://www.worldcubeassociation.org/persons/2021WANG05) | 5.20 | **5.96** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 8 |
+| [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 5.51 | **6.03** | [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023/results/all#e333_f) | 6 |
 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.50 | **6.06** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 9 |
-| [Kyle Santucci](https://www.worldcubeassociation.org/persons/2016SANT08) | 5.30 | **6.12** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 10 |
-| [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.39 | **6.18** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e333_f) | 4 |
-| [Yuzhe Wang (王语哲)](https://www.worldcubeassociation.org/persons/2021WANG05) | 5.59 | **6.26** | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/all#e333_f) | 4 |
-| [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.76 | **6.27** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333_f) | 4 |
+| [Yifan Luo (骆奕帆)](https://www.worldcubeassociation.org/persons/2021LUOY02) | 5.75 | **6.11** | [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023/results/all#e333_f) | 7 |
 
 ### 2x2x2 Cube
 

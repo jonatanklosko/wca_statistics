@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 November 2023*
+*Updated on  1 December 2023*
 
 
 ### Rubik's Cube
@@ -15,9 +15,9 @@
 | 5.65 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.47, 4.90, 5.38, 5.50, 6.13, 5.18, 6.60, 4.89, 5.16, 5.25, 7.32, 6.17, 8.05, 4.78, 6.34, 5.26, 4.66, 6.26, 6.01, 5.88, 6.16, 4.96, 6.64, 5.55, 5.15 |
 | 5.72 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.76, 6.61, 5.09, 6.33, 6.91, 6.11, 3.44, 10.26, 4.81, 4.50, 5.20, 8.22, 6.07, 6.77, 5.23, 4.31, 5.44, 6.54, 5.60, 5.07, 6.77, 5.85, 5.47, 4.61, 5.47 |
 | 5.77 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 4.67, 6.04, 5.87, 6.30, 5.67, 6.01, 6.20, 5.93, 6.40, 5.85, 5.10, 4.62, 7.61, 5.29, 5.47, 6.72, 4.97, 4.31, 5.64, 6.45, 5.91, 8.25, 5.44, 6.02, 5.32 |
-| 5.94 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 5.32, 6.79, 5.33, 5.65, 5.48, 5.73, 5.77, 5.48, 7.55, 6.40, 6.31, 6.05, 5.80, 5.52, 5.38, 6.41, 7.35, 5.85, 7.54, 5.64, 6.45, 6.04, 4.91, 5.32, 6.05 |
+| 5.78 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 6.04, 4.91, 5.32, 6.05, 6.61, 5.65, 6.64, 6.43, 6.68, 6.01, 6.19, 5.31, 5.92, 5.01, 4.96, 6.41, 4.86, 5.50, 4.41, 5.55, 7.72, 4.31, 7.00, 5.72, 5.62 |
+| 5.81 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.50, 6.31, 5.71, 6.15, 6.15, 7.31, 4.72, 5.19, 7.20, 6.03, 5.79, 6.13, 5.99, 6.32, 5.48, 5.76, 6.22, 5.26, 5.40, 6.51, 6.08, 5.62, 5.28, 4.35, 5.98 |
 | 5.96 | [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) | 6.80, 4.60, 7.58, 5.86, 5.25, 6.34, 5.20, 6.76, 6.62, 5.45, 6.85, 4.90, 5.39, 7.02, 7.21, 5.99, 5.47, 6.09, 5.75, 6.35, 5.94, 4.92, 6.00, 5.10, 6.11 |
-| 6.00 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | 6.35, 5.21, 4.95, 5.04, 6.76, 6.44, 6.12, 7.15, 5.22, 6.61, 5.70, 4.96, 6.65, 6.30, 6.70, 4.37, 6.18, 6.31, 6.78, 7.16, 6.09, 5.82, 5.36, 6.12, 5.47 |
 
 ### 2x2x2 Cube
 

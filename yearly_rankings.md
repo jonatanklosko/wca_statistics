@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 November 2023*
+*Updated on  1 December 2023*
 
 
 ### Rubik's Cube - Single
@@ -27,12 +27,12 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **4.96** | Poland | [Danish Championship 2023](https://www.worldcubeassociation.org/competitions/DanishChampionship2023) | 5.01, 4.62, 4.63, 5.23, 5.62 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **5.01** | China | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) | 4.01, 4.87, 4.60, 6.12, 5.56 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **5.06** | United States | [Marshall Cubing Spring 2023](https://www.worldcubeassociation.org/competitions/MarshallCubingSpring2023) | 4.70, 4.82, 5.27, 6.30, 5.10 |
+| [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | **5.15** | China | [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023) | 5.50, 4.41, 5.55, 7.72, 4.31 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **5.16** | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 5.15, 6.44, 5.30, 5.04, 4.65 |
 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | **5.24** | Philippines | [Cebu New Year Open 2023](https://www.worldcubeassociation.org/competitions/CebuNewYearOpen2023) | 5.29, 5.47, 6.72, 4.97, 4.31 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **5.29** | United States | [Washtenaw Spring B 2023](https://www.worldcubeassociation.org/competitions/WashtenawSpringB2023) | 5.16, 5.54, 5.89, 5.16, 4.95 |
 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | **5.44** | Netherlands | [Bavarian Open 2023](https://www.worldcubeassociation.org/competitions/BavarianOpen2023) | 4.81, 5.00, 5.80, 7.44, 5.51 |
 | [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) | **5.51** | United States | [Mason Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/MasonCubeChallenge2023) | 5.40, 7.20, 5.83, 5.29, 5.12 |
-| [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | **5.55** | China | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023) | 5.48, 5.76, 6.22, 5.26, 5.40 |
 
 ### 2x2x2 Cube - Single
 
@@ -463,11 +463,11 @@
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **2:45.73** | Switzerland | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) | DNF, 4:06.25, 2:45.73 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **2:55.40** | China | [Selangor Big & Blind 2023](https://www.worldcubeassociation.org/competitions/SelangorBigBlind2023) | 3:03.46, DNF, 2:55.40 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **2:56.27** | Canada | [NCR Please Be Quiet 2023](https://www.worldcubeassociation.org/competitions/NCRPleaseBeQuiet2023) | 2:56.27, DNF, 3:13.02 |
+| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **3:15.36** | United States | [Mountain View Multi Madness 2023](https://www.worldcubeassociation.org/competitions/MountainViewMultiMadness2023) | 3:15.36, DNF, DNF |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **3:15.53** | United Kingdom | [Newham Autumn - BBO 2023](https://www.worldcubeassociation.org/competitions/NewhamAutumnBBO2023) | DNF, DNF, 3:15.53 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **3:15.72** | Poland | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | DNF, DNF, 3:15.72 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **3:17.39** | Argentina | [Litoral Cubea 2023](https://www.worldcubeassociation.org/competitions/LitoralCubea2023) | 3:55.21, 3:17.39, DNF |
 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **3:22.45** | Australia | [Chilling in Canberra 2023](https://www.worldcubeassociation.org/competitions/ChillinginCanberra2023) | 3:22.45, DNF, DNF |
-| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **3:26.02** | United States | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | DNF, 3:47.94, 3:26.02 |
 
 ### 5x5x5 Blindfolded - Average
 
@@ -488,9 +488,9 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **57/64 59:02** | United States | [Mountain View Multi Madness 2023](https://www.worldcubeassociation.org/competitions/MountainViewMultiMadness2023) | 57/64 59:02, 49/64 59:20, 32/64 1:00:00 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **52/56 56:44** | United States | [Empire State Fall Focus 2023](https://www.worldcubeassociation.org/competitions/EmpireStateFallFocus2023) | 52/56 56:44 |
 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **51/54 57:49** | China | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 41/54 1:00:02, 51/54 57:49 |
-| [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **55/62 58:27** | United States | [UCSD Extravaganza PBQ 2023](https://www.worldcubeassociation.org/competitions/UCSDExtravaganzaPBQ2023) | 55/62 58:27, 55/64 58:53 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **49/51 57:50** | United States | [Ohio State Summer Solving 2023](https://www.worldcubeassociation.org/competitions/OhioStateSummerSolving2023) | 49/51 57:50 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **49/52 59:19** | Poland | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 49/52 59:19, 41/54 1:00:00 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **46/50 55:41** | Switzerland | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023) | 40/54 1:00:00, 46/50 55:41 |

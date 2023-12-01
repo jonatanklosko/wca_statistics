@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 28 November 2023*
+*Updated on  1 December 2023*
 
 
 ### Competition
@@ -57,8 +57,8 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **3692379** | 3871705 |
-| China | **1221659** | 1281788 |
+| United States | **3692616** | 3872139 |
+| China | **1223972** | 1284146 |
 | Poland | **872438** | 918279 |
 | India | **749172** | 788234 |
 | Australia | **685368** | 722429 |
@@ -69,7 +69,7 @@
 | France | **465712** | 490143 |
 | Russia | **430990** | 455777 |
 | Brazil | **416974** | 436265 |
-| Sweden | **318664** | 335607 |
+| Sweden | **318791** | 335741 |
 | Colombia | **303161** | 318747 |
 | Philippines | **294373** | 306082 |
 | Italy | **292684** | 308617 |
@@ -82,19 +82,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **6728131** | 7064801 |
-| North America | **4631166** | 4851555 |
-| Asia | **3844964** | 4029410 |
-| South America | **1429140** | 1496354 |
+| Europe | **6731687** | 7068470 |
+| North America | **4631403** | 4851989 |
+| Asia | **3847277** | 4031768 |
+| South America | **1429818** | 1497049 |
 | Oceania | **839383** | 884189 |
-| Africa | **99050** | 103611 |
+| Africa | **99905** | 104500 |
 | Multiple Continents | **1895** | 2562 |
 
 ### Year
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 2023 | **3647617** | 3813710 |
+| 2023 | **3655256** | 3821755 |
 | 2019 | **2537720** | 2656986 |
 | 2018 | **2218901** | 2324788 |
 | 2022 | **2118274** | 2217622 |
@@ -119,26 +119,26 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **5476786** | 5598636 |
-| 2x2x2 Cube | **3055296** | 3134137 |
-| Pyraminx | **1927991** | 1979541 |
-| 4x4x4 Cube | **1593938** | 1656634 |
-| 3x3x3 One-Handed | **1480968** | 1531455 |
-| Skewb | **1180889** | 1212685 |
-| 5x5x5 Cube | **812394** | 838684 |
-| Megaminx | **498317** | 521310 |
-| Square-1 | **466297** | 487196 |
+| 3x3x3 Cube | **5479959** | 5601871 |
+| 2x2x2 Cube | **3056661** | 3135542 |
+| Pyraminx | **1929062** | 1980648 |
+| 4x4x4 Cube | **1594738** | 1657473 |
+| 3x3x3 One-Handed | **1481058** | 1531550 |
+| Skewb | **1181694** | 1213509 |
+| 5x5x5 Cube | **812414** | 838704 |
+| Megaminx | **498372** | 521367 |
+| Square-1 | **466316** | 487216 |
 | Clock | **357686** | 414730 |
 | 6x6x6 Cube | **178328** | 185306 |
 | 7x7x7 Cube | **146499** | 153226 |
-| 3x3x3 Blindfolded | **120471** | 335070 |
+| 3x3x3 Blindfolded | **120531** | 335187 |
 | Magic | **78268** | 86498 |
-| 3x3x3 Fewest Moves | **73643** | 103761 |
+| 3x3x3 Fewest Moves | **73741** | 103883 |
 | 3x3x3 With Feet | **51884** | 56650 |
 | Master Magic | **39964** | 41445 |
-| 3x3x3 Multi-Blind | **19317** | 33728 |
-| 4x4x4 Blindfolded | **10266** | 40399 |
-| 5x5x5 Blindfolded | **4122** | 20800 |
+| 3x3x3 Multi-Blind | **19370** | 33814 |
+| 4x4x4 Blindfolded | **10288** | 40481 |
+| 5x5x5 Blindfolded | **4130** | 20836 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  1 December 2023*
+*Updated on  4 December 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -76,6 +76,7 @@
 | 4 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) |
 | 4 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 4 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
+| 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 4 | [Michael Fung](https://www.worldcubeassociation.org/persons/2005FUNG01) |
 | 4 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 4 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
@@ -103,7 +104,6 @@
 | 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 3 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
 | 3 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
-| 3 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 3 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 3 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
 | 3 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |

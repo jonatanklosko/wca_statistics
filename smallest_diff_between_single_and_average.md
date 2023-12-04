@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 December 2023*
+*Updated on  4 December 2023*
 
 
 ### Rubik's Cube
@@ -121,8 +121,8 @@
 | 0.05 | [Naman Jain](https://www.worldcubeassociation.org/persons/2016JAIN04) | 21.24 | 21.29 | [Guwahati Summer Open 2019](https://www.worldcubeassociation.org/competitions/GuwahatiSummerOpen2019/results/by_person#2016JAIN04) |
 | 0.05 | [Trần Hữu Phổ](https://www.worldcubeassociation.org/persons/2018PHTR01) | 29.51 | 29.56 | [Da Nang Open 2018](https://www.worldcubeassociation.org/competitions/DaNangOpen2018/results/by_person#2018PHTR01) |
 | 0.06 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 15.06 | 15.12 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2010WUIF01) |
+| 0.07 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 11.42 | 11.49 | [UW or U Don't 2023](https://www.worldcubeassociation.org/competitions/UWorUDont2023/results/by_person#2017AGGA01) |
 | 0.07 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | 12.87 | 12.94 | [SAC 2022](https://www.worldcubeassociation.org/competitions/SAC2022/results/by_person#2018LAPE01) |
-| 0.07 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 14.32 | 14.39 | [Ohio State Expo Open 2022](https://www.worldcubeassociation.org/competitions/OhioStateExpoOpen2022/results/by_person#2013LANG03) |
 
 ### Megaminx
 

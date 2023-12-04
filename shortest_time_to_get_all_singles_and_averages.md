@@ -1,11 +1,12 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 December 2023*
+*Updated on  4 December 2023*
 
 | Days | Person |
 | ---: | :--- |
 | 385 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
+| 392 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) |
 | 406 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) |
 | 426 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 496 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
@@ -47,6 +48,7 @@
 | 2204 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) |
 | 2213 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 2232 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
+| 2359 | [Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04) |
 | 2426 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 2462 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 2512 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |

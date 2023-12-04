@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 December 2023*
+*Updated on  4 December 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -144,6 +144,7 @@
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Bjerringbro Open 2023](https://www.worldcubeassociation.org/competitions/BjerringbroOpen2023/results/podiums) |
 | 12 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Björneborg Weekend 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWeekend2023/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Björneborg Weekend 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWeekend2023/results/podiums) |
+| 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Björneborg Winter 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWinter2023/results/podiums) |
 | 10 | [Luiz Fellipe Oliuza Leal Silva](https://www.worldcubeassociation.org/persons/2016SILV02) | [Bodocó Open 2019](https://www.worldcubeassociation.org/competitions/Bodoco2019/results/podiums) |
 | 12 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Bogor Comeback 2019](https://www.worldcubeassociation.org/competitions/BogorComeback2019/results/podiums) |
 | 11 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Bogor Open 2018](https://www.worldcubeassociation.org/competitions/BogorOpen2018/results/podiums) |
@@ -726,6 +727,7 @@
 | 11 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Nebraska Heartland Warmup 2023](https://www.worldcubeassociation.org/competitions/NebraskaHeartlandWarmup2023/results/podiums) |
 | 11 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [Negros Speedcubing Open 2019](https://www.worldcubeassociation.org/competitions/NegrosSpeedcubingOpen2019/results/podiums) |
 | 13 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [New Zealand Nationals 2017](https://www.worldcubeassociation.org/competitions/NewZealandNationals2017/results/podiums) |
+| 11 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [No Clock in Lužice 2023](https://www.worldcubeassociation.org/competitions/NoClockinLuzice2023/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019/results/podiums) |
 | 10 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Norrköping Open 2009](https://www.worldcubeassociation.org/competitions/NorrkopingOpen2009/results/podiums) |
@@ -1092,6 +1094,7 @@
 | 12 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Vårgårda Open 2011](https://www.worldcubeassociation.org/competitions/VargardaOpen2011/results/podiums) |
 | 14 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Vårgårda Open 2012](https://www.worldcubeassociation.org/competitions/VargardaOpen2012/results/podiums) |
 | 11 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Veikkola Open 2017](https://www.worldcubeassociation.org/competitions/VeikkolaOpen2017/results/podiums) |
+| 13 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Venezuela Nationals 2023](https://www.worldcubeassociation.org/competitions/VenezuelaNationals2023/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/podiums) |
 | 11 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Villa Carlos Paz Otoño 2019](https://www.worldcubeassociation.org/competitions/VillaCarlosPazOtono2019/results/podiums) |

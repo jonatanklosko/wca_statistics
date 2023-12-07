@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 December 2023*
+*Updated on  7 December 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -854,6 +854,7 @@
 | 11 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | [Rebild Open 2014](https://www.worldcubeassociation.org/competitions/RebildOpen2014/results/podiums) |
 | 10 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Rheinland-Pfalz Open 2022](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2022/results/podiums) |
 | 10 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [Rocky Top 2017](https://www.worldcubeassociation.org/competitions/RockyTop2017/results/podiums) |
+| 11 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023/results/podiums) |
 | 10 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Rodeo Carnivals 2017](https://www.worldcubeassociation.org/competitions/RodeoCarnivals2017/results/podiums) |
 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Romanian Cubing Open 2018](https://www.worldcubeassociation.org/competitions/RomanianCubingOpen2018/results/podiums) |
 | 12 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Romanian Cubing Open 2019](https://www.worldcubeassociation.org/competitions/RomanianCubingOpen2019/results/podiums) |
@@ -913,6 +914,8 @@
 | 10 | [Tomas Jankauskas](https://www.worldcubeassociation.org/persons/2013JANK02) | [Šiauliai-Tilžė Open 2017](https://www.worldcubeassociation.org/competitions/SiauliaiTilzeOpen2017/results/podiums) |
 | 13 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Sicily Open 2018](https://www.worldcubeassociation.org/competitions/SicilyOpen2018/results/podiums) |
 | 14 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Sin Fronteras Ecuador 2019](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2019/results/podiums) |
+| 10 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [Sin Fronteras Ecuador 2023](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2023/results/podiums) |
+| 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Sin Fronteras Ecuador 2023](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2023/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/podiums) |
 | 12 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Singapore Open 2014](https://www.worldcubeassociation.org/competitions/SingaporeOpen2014/results/podiums) |
 | 10 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | [Singapore Open 2014](https://www.worldcubeassociation.org/competitions/SingaporeOpen2014/results/podiums) |
@@ -1012,6 +1015,7 @@
 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [TAS State Championship 2021](https://www.worldcubeassociation.org/competitions/TASStateChampionship2021/results/podiums) |
 | 10 | [Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15) | [TCG Spring 2019](https://www.worldcubeassociation.org/competitions/TCGSpring2019/results/podiums) |
 | 11 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | [Teresina Open 2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019/results/podiums) |
+| 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2023](https://www.worldcubeassociation.org/competitions/TexasChampionship2023/results/podiums) |
 | 12 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | [Thailand 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Thailand10thAnniversary2019/results/podiums) |
 | 11 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Thailand Championship 2014](https://www.worldcubeassociation.org/competitions/ThailandChampionship2014/results/podiums) |
 | 12 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | [Thailand Championship 2015](https://www.worldcubeassociation.org/competitions/ThailandChampionship2015/results/podiums) |
@@ -1145,6 +1149,7 @@
 | 12 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Zaragoza Open 2016](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2016/results/podiums) |
 | 11 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | [Zaragoza Open 2016](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2016/results/podiums) |
 | 13 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Zeeland Open 2016](https://www.worldcubeassociation.org/competitions/ZeelandOpen2016/results/podiums) |
+| 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [ZGZ Open 2023](https://www.worldcubeassociation.org/competitions/ZGZOpen2023/results/podiums) |
 | 13 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Zonhoven Open 2012](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2012/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Zonhoven Open 2014](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2014/results/podiums) |
 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Zune Open 2012](https://www.worldcubeassociation.org/competitions/ZuneOpen2012/results/podiums) |

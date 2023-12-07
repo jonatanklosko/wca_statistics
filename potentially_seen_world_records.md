@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  4 December 2023*
+*Updated on  7 December 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -24,7 +24,7 @@
 | 114 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 112 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 111 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
-| 110 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 111 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 110 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 108 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 107 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
@@ -47,9 +47,9 @@
 | 90 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
 | 90 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) |
 | 89 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
+| 89 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 88 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
 | 88 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |
-| 88 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 87 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) |
 | 87 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
 | 86 | [Lars Petrus](https://www.worldcubeassociation.org/persons/1982PETR01) |

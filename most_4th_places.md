@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  7 December 2023*
+*Updated on 10 December 2023*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -19,9 +19,9 @@
 | 141 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 140 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 134 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 120 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 118 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
-| 118 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 117 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
@@ -47,9 +47,9 @@
 | 91 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 90 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 89 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
+| 89 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 89 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 89 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
-| 88 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 88 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 87 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 87 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
@@ -61,11 +61,11 @@
 | 83 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 83 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 82 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
+| 82 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 82 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
 | 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 81 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
 | 81 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
-| 81 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 81 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 | 80 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 79 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |

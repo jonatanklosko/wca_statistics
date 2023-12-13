@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 December 2023*
+*Updated on 13 December 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -170,6 +170,7 @@
 | 1127 | [Samuel Hernandez Castro](https://www.worldcubeassociation.org/persons/2016CAST31) |
 | 1128 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 1133 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
+| 1140 | [Jack McDougall](https://www.worldcubeassociation.org/persons/2020MCDO01) |
 | 1147 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) |
 | 1147 | [Ryan Fong](https://www.worldcubeassociation.org/persons/2019FONG04) |
 | 1155 | [Paris Dorn](https://www.worldcubeassociation.org/persons/2015DORN02) |
@@ -310,6 +311,7 @@
 | 1847 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) |
 | 1848 | [Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01) |
 | 1855 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
+| 1862 | [Christian Sachgau](https://www.worldcubeassociation.org/persons/2018SACH03) |
 | 1863 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 1874 | [Sergio Bulux](https://www.worldcubeassociation.org/persons/2014BULU01) |
 | 1876 | [Hannes Müller](https://www.worldcubeassociation.org/persons/2018MULL07) |
@@ -339,6 +341,7 @@
 | 2009 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2016 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
 | 2023 | [David McLean](https://www.worldcubeassociation.org/persons/2017MCLE03) |
+| 2023 | [Brayden Adams](https://www.worldcubeassociation.org/persons/2018ADAM06) |
 | 2036 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 2038 | [Qirun Zhong (钟奇润)](https://www.worldcubeassociation.org/persons/2008ZHON01) |
 | 2049 | [Dylan Swarts](https://www.worldcubeassociation.org/persons/2017SWAR03) |
@@ -354,6 +357,7 @@
 | 2085 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 2093 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 2105 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
+| 2121 | [Étienne Aubry](https://www.worldcubeassociation.org/persons/2018AUBR01) |
 | 2140 | [Matteo Colombo](https://www.worldcubeassociation.org/persons/2009COLO03) |
 | 2141 | [Siva Shanmukh Vetcha](https://www.worldcubeassociation.org/persons/2008SHAN01) |
 | 2149 | [Alistair Miller](https://www.worldcubeassociation.org/persons/2017MILL12) |
@@ -390,6 +394,7 @@
 | 2386 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) |
 | 2408 | [Dallas McNeil](https://www.worldcubeassociation.org/persons/2017MCNE01) |
 | 2422 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
+| 2435 | [Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06) |
 | 2436 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) |
 | 2464 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 2471 | [Nick Vu](https://www.worldcubeassociation.org/persons/2007VUNI01) |
@@ -460,6 +465,7 @@
 | 3535 | [Vasile Dan](https://www.worldcubeassociation.org/persons/2013VASI02) |
 | 3543 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 3564 | [Tomas Kristiansson](https://www.worldcubeassociation.org/persons/2007KRIS01) |
+| 3682 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 3739 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 3752 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 4047 | [Nathan Seeto](https://www.worldcubeassociation.org/persons/2012SEET01) |

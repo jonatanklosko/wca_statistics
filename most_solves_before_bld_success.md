@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 10 December 2023*
+*Updated on 13 December 2023*
 
 
 ### 3x3x3 Blindfolded
@@ -59,6 +59,7 @@
 | ---: | :--- |
 | 66 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 54 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
+| 39 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 37 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) |
 | 30 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
 | 23 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
@@ -76,7 +77,6 @@
 | 18 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 17 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 16 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
-| 16 | [Vladimir Sergeev](https://www.worldcubeassociation.org/persons/2017SERG03) |
 
 ### 3x3x3 Multi-Blind
 

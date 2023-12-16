@@ -1,24 +1,24 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 December 2023*
+*Updated on 16 December 2023*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1388** | 1160 | 993 | 3541 |
 | Germany | **993** | 950 | 957 | 2900 |
-| United States | **988** | 828 | 734 | 2550 |
+| United States | **991** | 830 | 738 | 2559 |
 | France | **907** | 782 | 659 | 2348 |
 | Netherlands | **893** | 706 | 594 | 2193 |
 | Russia | **821** | 498 | 390 | 1709 |
-| China | **627** | 584 | 525 | 1736 |
+| China | **629** | 586 | 526 | 1741 |
 | Poland | **557** | 371 | 279 | 1207 |
 | Malaysia | **392** | 390 | 351 | 1133 |
 | United Kingdom | **381** | 438 | 430 | 1249 |
-| Canada | **363** | 369 | 396 | 1128 |
+| Canada | **364** | 369 | 397 | 1130 |
 | Denmark | **346** | 294 | 234 | 874 |
 | Sweden | **306** | 348 | 361 | 1015 |
-| Republic of Korea | **304** | 268 | 234 | 806 |
+| Republic of Korea | **304** | 268 | 236 | 808 |
 | Australia | **289** | 136 | 91 | 516 |
 | India | **281** | 224 | 225 | 730 |
 | Hong Kong, China | **278** | 300 | 227 | 805 |
@@ -42,7 +42,7 @@
 | Latvia | **132** | 197 | 200 | 529 |
 | Greece | **119** | 144 | 106 | 369 |
 | Belarus | **111** | 71 | 85 | 267 |
-| Czech Republic | **105** | 113 | 122 | 340 |
+| Czech Republic | **106** | 115 | 122 | 343 |
 | Kazakhstan | **102** | 96 | 91 | 289 |
 | Thailand | **86** | 89 | 43 | 218 |
 | Slovakia | **79** | 89 | 98 | 266 |
@@ -57,9 +57,9 @@
 | Jordan | **40** | 9 | 15 | 64 |
 | Israel | **39** | 34 | 41 | 114 |
 | Kosovo | **37** | 27 | 22 | 86 |
+| Venezuela | **33** | 47 | 41 | 121 |
 | Mongolia | **32** | 30 | 29 | 91 |
 | Uzbekistan | **32** | 29 | 31 | 92 |
-| Venezuela | **31** | 44 | 41 | 116 |
 | New Zealand | **30** | 67 | 53 | 150 |
 | Chile | **28** | 20 | 19 | 67 |
 | Costa Rica | **27** | 35 | 28 | 90 |
@@ -80,8 +80,8 @@
 | Nigeria | **9** | 15 | 12 | 36 |
 | Turkey | **9** | 14 | 14 | 37 |
 | Kuwait | **9** | 8 | 17 | 34 |
+| Cyprus | **8** | 17 | 16 | 41 |
 | Bolivia | **8** | 9 | 16 | 33 |
-| Cyprus | **7** | 15 | 15 | 37 |
 | Moldova | **7** | 12 | 7 | 26 |
 | Georgia | **7** | 10 | 9 | 26 |
 | Bosnia and Herzegovina | **6** | 17 | 7 | 30 |

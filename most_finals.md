@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 13 December 2023*
+*Updated on 16 December 2023*
 
 | Finals | Person |
 | ---: | :--- |
@@ -52,8 +52,8 @@
 | 916 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 914 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 908 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
+| 907 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 902 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 887 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 877 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 870 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -95,13 +95,13 @@
 | 734 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 732 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 730 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
+| 727 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 724 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 722 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
-| 721 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 718 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 708 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
+| 704 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 702 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
-| 702 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 701 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 698 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 

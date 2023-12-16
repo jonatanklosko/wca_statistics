@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 December 2023*
+*Updated on 16 December 2023*
 
 
 ### Rubik's Cube - Single
@@ -68,8 +68,8 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **16.86** | United States | [Beckman Gets Big 2023](https://www.worldcubeassociation.org/competitions/BeckmanGetsBig2023) | 22.69, 16.86, 25.76, 19.87, 22.46 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **17.13** | Germany | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023) | 22.06, 17.13, 23.23, 25.57, 19.80 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **17.22** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 17.22, 26.04, 19.14, 22.90, 27.43 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **18.45** | Poland | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) | 24.05, 28.45, 23.78, 18.45, 22.83 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **19.39** | Republic of Korea | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023) | 28.65, 22.86, 19.39, 25.41, 19.55 |
 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | **19.50** | Argentina | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023) | 33.50, 27.02, 33.55, 19.50, 27.77 |

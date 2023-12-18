@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 16 December 2023*
+*Updated on 17 December 2023*
 
 
 ### Rubik's Cube
@@ -143,6 +143,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 107 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [SLS Grudzień 2023](https://www.worldcubeassociation.org/competitions/SLSGrudzien2023) |
 | 73 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [HDC VIII - Lille Friheden 2023](https://www.worldcubeassociation.org/competitions/HDCVIIILilleFriheden2023) |
 | 56 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023) |
 | 55 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Latvian Open 2015](https://www.worldcubeassociation.org/competitions/LatvianOpen2015) |
@@ -152,7 +153,6 @@
 | 51 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) | [Country Roads Huntington 2023](https://www.worldcubeassociation.org/competitions/CountryRoadsHuntington2023) |
 | 49 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | [Newark's On Track 2023](https://www.worldcubeassociation.org/competitions/NewarksOnTrack2023) |
 | 48 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Argovia Open 2018](https://www.worldcubeassociation.org/competitions/ArgoviaOpen2018) |
-| 48 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Potomac Spring 2023](https://www.worldcubeassociation.org/competitions/PotomacSpring2023) |
 
 ### Pyraminx
 

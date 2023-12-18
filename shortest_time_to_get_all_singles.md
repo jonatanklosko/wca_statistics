@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 December 2023*
+*Updated on 17 December 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -350,6 +350,7 @@
 | 2058 | [Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01) |
 | 2065 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
 | 2065 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) |
+| 2065 | [Hans Lin](https://www.worldcubeassociation.org/persons/2018LINH02) |
 | 2071 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) |
 | 2072 | [Hong Zhang (张宏)](https://www.worldcubeassociation.org/persons/2008ZHAN13) |
 | 2072 | [Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02) |

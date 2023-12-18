@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 16 December 2023*
+*Updated on 17 December 2023*
 
 | Person | Years |
 | :--- | ---: |
@@ -53,8 +53,8 @@
 | [Fubo Wang (王富博)](https://www.worldcubeassociation.org/persons/2007FUBO01) | 10.37 |
 | [Maggie Jordan](https://www.worldcubeassociation.org/persons/2013JORD01) | 10.35 |
 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) | 10.33 |
-| [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
+| [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 10.31 |
 | [Siddhikant Mishra](https://www.worldcubeassociation.org/persons/2012MISH01) | 10.23 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 10.18 |
@@ -87,18 +87,18 @@
 | [Zeqin Chen (陈泽钦)](https://www.worldcubeassociation.org/persons/2010CHEN37) | 9.16 |
 | [Felipe Dias Ferreira](https://www.worldcubeassociation.org/persons/2014FERR09) | 9.12 |
 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | 9.06 |
-| [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
+| [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 8.97 |
 | [Chetan Roger Dhanjal](https://www.worldcubeassociation.org/persons/2014DHAN01) | 8.91 |
 | [Danang Adianto](https://www.worldcubeassociation.org/persons/2013DANA01) | 8.91 |
-| [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
+| [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
 | [Petr Samodelkin](https://www.worldcubeassociation.org/persons/2014SAMO02) | 8.82 |
 | [Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08) | 8.82 |
-| [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
 | [Carson Davis](https://www.worldcubeassociation.org/persons/2014DAVI06) | 8.76 |
+| [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
 | [Choi Yeong-Jun](https://www.worldcubeassociation.org/persons/2013YEON01) | 8.72 |
 | [Parth Garg](https://www.worldcubeassociation.org/persons/2014GARG01) | 8.70 |

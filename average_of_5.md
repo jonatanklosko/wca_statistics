@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 December 2023*
+*Updated on 17 December 2023*
 
 
 ### Rubik's Cube
@@ -73,10 +73,10 @@
 | 1:13.72 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:18.88, 1:10.22, 1:10.07, 1:19.81, 1:12.07 |
 | 1:16.02 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:11.74, 1:21.48, 1:21.39, 1:10.76, 1:14.95 |
 | 1:16.36 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:22.73, 1:11.58, 1:19.78, 1:16.05, 1:13.27 |
+| 1:20.20 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:23.32, 1:17.25, 1:30.99, 1:17.70, 1:19.59 |
 | 1:20.37 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:21.40, 1:26.58, 1:20.64, 1:19.08, 1:16.42 |
 | 1:21.04 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:29.79, 1:17.39, 1:17.81, 1:22.86, 1:22.46 |
 | 1:21.69 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 1:23.61, 1:19.03, 1:27.46, 1:22.43, 1:19.00 |
-| 1:22.45 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:22.21, 1:18.78, 1:24.70, 1:34.90, 1:20.45 |
 | 1:22.47 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:21.08, 1:30.73, 1:22.38, 1:22.12, 1:22.93 |
 
 ### 7x7x7 Cube

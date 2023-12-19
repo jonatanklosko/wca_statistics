@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 17 December 2023*
+*Updated on 19 December 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -22,9 +22,9 @@
 | 123 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
 | 121 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 114 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 113 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 112 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 111 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
-| 111 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 110 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 108 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 107 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
@@ -90,14 +90,14 @@
 | 70 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
 | 70 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 69 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
+| 69 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 69 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 69 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 68 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 68 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
-| 67 | [Fumiki Koseki (古関章記)](https://www.worldcubeassociation.org/persons/2005KOSE01) |
-| 67 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 67 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 67 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
+| 67 | [Fumiki Koseki (古関章記)](https://www.worldcubeassociation.org/persons/2005KOSE01) |
 | 66 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 66 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 65 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |

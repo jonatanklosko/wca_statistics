@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 17 December 2023*
+*Updated on 19 December 2023*
 
 
 ### Rubik's Cube
@@ -46,8 +46,8 @@
 | [Dennis Nilsson](https://www.worldcubeassociation.org/persons/2004NILS01) | 3:15.76 | **3:29.23** | [Chalmers Open 2005](https://www.worldcubeassociation.org/competitions/ChalmersOpen2005/results/podiums#e444) | 3 |
 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) | 3:13.32 | **3:28.46** | [Hungary 2005](https://www.worldcubeassociation.org/competitions/Hungary2005/results/podiums#e444) | 3 |
 | [Bill McGaugh](https://www.worldcubeassociation.org/persons/2004MCGA01) | 2:40.73 | **3:24.53** | [Caltech Spring 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004/results/podiums#e444) | 3 |
+| [Elnathan Ayi Nsa Ayi](https://www.worldcubeassociation.org/persons/2023AYIE01) | 2:29.82 | **3:21.47** | [Nigerian Championship 2023](https://www.worldcubeassociation.org/competitions/NigerianChampionship2023/results/podiums#e444) | 3 |
 | [Keith Sauer](https://www.worldcubeassociation.org/persons/2003SAUE01) | 2:48.37 | **3:17.09** | [Caltech Spring 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004/results/podiums#e444) | 2 |
-| [Davi de Andrade Iácono](https://www.worldcubeassociation.org/persons/2015IACO01) | 2:16.48 | **3:15.92** | [Santarém Open II 2016](https://www.worldcubeassociation.org/competitions/SantaremII2016/results/podiums#e444) | 3 |
 
 ### 5x5x5 Cube
 
@@ -56,13 +56,13 @@
 | [Antholin Blijden](https://www.worldcubeassociation.org/persons/2013BLIJ01) | 7:30.18 | **8:19.24** | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013/results/podiums#e555) | 3 |
 | [Sebastian Krueger](https://www.worldcubeassociation.org/persons/2009KRUE01) | 6:54.08 | **8:14.35** | [Waikato Autumn Open 2010](https://www.worldcubeassociation.org/competitions/WaikatoAutumnOpen2010/results/podiums#e555) | 3 |
 | [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 6:54.88 | **8:04.56** | [US Nationals 2004](https://www.worldcubeassociation.org/competitions/US2004/results/podiums#e555) | 3 |
+| [Elnathan Ayi Nsa Ayi](https://www.worldcubeassociation.org/persons/2023AYIE01) | 6:33.71 | **7:35.81** | [Nigerian Championship 2023](https://www.worldcubeassociation.org/competitions/NigerianChampionship2023/results/podiums#e555) | 3 |
 | [John Louis](https://www.worldcubeassociation.org/persons/2006LOUI01) | 6:01.19 | **7:21.76** | [Shristi Open 2009](https://www.worldcubeassociation.org/competitions/ShristiOpen2009/results/podiums#e555) | 3 |
 | [Jeff Soesbe](https://www.worldcubeassociation.org/persons/2005SOES01) | 6:11.33 | **7:16.30** | [Northern CA 2005](https://www.worldcubeassociation.org/competitions/NorthernCA2005/results/podiums#e555) | 3 |
 | [John Louis](https://www.worldcubeassociation.org/persons/2006LOUI01) | 6:00.68 | **7:02.48** | [Delhi Open 2011](https://www.worldcubeassociation.org/competitions/DelhiOpen2011/results/podiums#e555) | 3 |
 | [Munirudeen Abdullah Molade](https://www.worldcubeassociation.org/persons/2022MOLA02) | 6:01.30 | **6:47.29** | [Nigeria Championship 2022](https://www.worldcubeassociation.org/competitions/NigeriaChampionship2022/results/podiums#e555) | 3 |
 | [Christy Morris](https://www.worldcubeassociation.org/persons/2004COCK01) | 5:32.18 | **6:43.39** | [Idaho Open 2005](https://www.worldcubeassociation.org/competitions/IdahoOpen2005/results/podiums#e555) | 3 |
 | [Carl-Johan Kjellander](https://www.worldcubeassociation.org/persons/2005KJEL01) | 5:35.88 | **6:22.55** | [Chalmers Open 2005](https://www.worldcubeassociation.org/competitions/ChalmersOpen2005/results/podiums#e555) | 3 |
-| [Mishka Kiessling](https://www.worldcubeassociation.org/persons/2021KIES01) | 5:19.08 | **6:12.56** | [April in Alice Springs 2021](https://www.worldcubeassociation.org/competitions/AprilinAliceSprings2021/results/podiums#e555) | 3 |
 
 ### 6x6x6 Cube
 
@@ -253,11 +253,11 @@
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | **5/10 1:00:00** |  | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/podiums#e333mbf) | 3 |
 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | **5/10 1:00:00** |  | [Indialantic Open 2018](https://www.worldcubeassociation.org/competitions/IndialanticOpen2018/results/podiums#e333mbf) | 1 |
 | [Yiqun Fan (樊轶群)](https://www.worldcubeassociation.org/persons/2010FANY01) | **4/8 1:00:00** |  | [Hefei Summer 2012](https://www.worldcubeassociation.org/competitions/HefeiSummer2012/results/podiums#e333mbf) | 3 |
+| [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | **3/6 1:00:00** |  | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023/results/podiums#e333mbf) | 1 |
 | [Selim Makni](https://www.worldcubeassociation.org/persons/2018MAKN01) | **5/10 59:57** |  | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019/results/podiums#e333mbf) | 1 |
 | [Ernesto Cabrera](https://www.worldcubeassociation.org/persons/2014CABR05) | **3/6 59:46** |  | [San Lorenzo Invierno 2015](https://www.worldcubeassociation.org/competitions/SanLorenzoInvierno2015/results/podiums#e333mbf) | 3 |
 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) | **5/10 59:34** |  | [South American Championship 2018](https://www.worldcubeassociation.org/competitions/SouthAmericanChampionship2018/results/podiums#e333mbf) | 3 |
 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) | **5/10 59:34** |  | [Tassie Summer - Sorell 2022](https://www.worldcubeassociation.org/competitions/Sorell2022/results/podiums#e333mbf) | 3 |
-| [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | **3/6 59:25** |  | [Estonian Open 2018](https://www.worldcubeassociation.org/competitions/EstonianOpen2018/results/podiums#e333mbf) | 3 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

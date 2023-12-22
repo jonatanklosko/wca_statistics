@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 19 December 2023*
+*Updated on 22 December 2023*
 
 
 ### Rubik's Cube
@@ -25,14 +25,14 @@
 | ---: | :--- |
 | 1.75 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) |
 | 1.88 | [Anjunyi Zeng (曾安儁逸)](https://www.worldcubeassociation.org/persons/2021ZENG01) |
+| 1.90 | [Thamawit Tangtanawat](https://www.worldcubeassociation.org/persons/2023TANG45) |
 | 1.91 | [Shiyou Gu (顾释友)](https://www.worldcubeassociation.org/persons/2021GUSH01) |
 | 2.20 | [Tim Cents](https://www.worldcubeassociation.org/persons/2022CENT02) |
 | 2.25 | [Marco Giordano](https://www.worldcubeassociation.org/persons/2019GIOR02) |
 | 2.39 | [Ng Tsz Hei (吳紫熙)](https://www.worldcubeassociation.org/persons/2023HEIN03) |
 | 2.42 | [Charinwit Harnthavornchai (ชรินทร์วิชญ์ หาญถาวรชัย)](https://www.worldcubeassociation.org/persons/2022HARN04) |
 | 2.50 | [Xinyuan Gu (谷昕原)](https://www.worldcubeassociation.org/persons/2023GUXI01) |
-| 2.57 | [Charles Abemayor](https://www.worldcubeassociation.org/persons/2020ABEM01) |
-| 2.59 | [Jan Brtník](https://www.worldcubeassociation.org/persons/2023BRTN02) |
+| 2.55 | [Arthur Vinicios Medeiros Alves](https://www.worldcubeassociation.org/persons/2023ALVE12) |
 
 ### 4x4x4 Cube
 
@@ -102,12 +102,12 @@
 | 37.70 | [Haozhen Ding (丁昊桢)](https://www.worldcubeassociation.org/persons/2019DING22) |
 | 41.14 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 44.03 | [Dương Công Tuyền](https://www.worldcubeassociation.org/persons/2022TUYE01) |
+| 47.20 | [Xavier Saunders](https://www.worldcubeassociation.org/persons/2023SAUN07) |
 | 52.16 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) |
 | 58.74 | [Su Xu (徐粟)](https://www.worldcubeassociation.org/persons/2014XUSU01) |
 | 1:10.79 | [Haruka Kitamura (北村晴香)](https://www.worldcubeassociation.org/persons/2017KITA03) |
 | 1:11.88 | [Jiahao Ye (叶佳浩)](https://www.worldcubeassociation.org/persons/2016YEJI01) |
 | 1:12.34 | [Benjamin Meco](https://www.worldcubeassociation.org/persons/2012MECO01) |
-| 1:13.95 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 
 ### 3x3x3 Fewest Moves
 
@@ -134,10 +134,10 @@
 | 13.54 | [Aragon Martin Gonzales](https://www.worldcubeassociation.org/persons/2023GONZ18) |
 | 14.08 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) |
 | 14.15 | [Chengnuo Han (韩承诺)](https://www.worldcubeassociation.org/persons/2021HANC01) |
+| 14.50 | [Callan Vom](https://www.worldcubeassociation.org/persons/2022VOMC01) |
 | 14.60 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) |
 | 14.63 | [Mateo Aguirre](https://www.worldcubeassociation.org/persons/2022AGUI03) |
 | 14.76 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
-| 14.88 | [Takumi Kato (加藤匠)](https://www.worldcubeassociation.org/persons/2023KATO03) |
 
 ### Megaminx
 
@@ -161,7 +161,7 @@
 | 2.13 | [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) |
 | 2.43 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) |
 | 2.62 | [Yifan Luo (骆奕帆)](https://www.worldcubeassociation.org/persons/2021LUOY02) |
-| 2.63 | [Kaixi Guo](https://www.worldcubeassociation.org/persons/2023GUOK01) |
+| 2.63 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) |
 | 2.68 | [Shuda Huang (黄黍达)](https://www.worldcubeassociation.org/persons/2021HUAN02) |
 | 2.87 | [Nikolaos Koutsivos (Νικόλαος Κουτσιβός)](https://www.worldcubeassociation.org/persons/2023KOUT03) |
 | 2.98 | [Aoto Mashimo (眞下蒼人)](https://www.worldcubeassociation.org/persons/2022MASH01) |
@@ -191,7 +191,7 @@
 | 2.83 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
 | 3.02 | [Jiajin Su (苏嘉晋)](https://www.worldcubeassociation.org/persons/2023SUJI04) |
 | 3.05 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
-| 3.11 | [Kaixi Guo](https://www.worldcubeassociation.org/persons/2023GUOK01) |
+| 3.11 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) |
 | 3.54 | [Jonah Hansen](https://www.worldcubeassociation.org/persons/2022HANS12) |
 | 3.60 | [Nikos Kolovos](https://www.worldcubeassociation.org/persons/2023KOLO02) |
 | 3.73 | [Yening Liu (刘烨宁)](https://www.worldcubeassociation.org/persons/2023LIUY04) |

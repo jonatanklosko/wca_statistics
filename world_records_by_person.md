@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 19 December 2023*
+*Updated on 22 December 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -172,6 +172,7 @@
 | 1 | [Andrew Nelson](https://www.worldcubeassociation.org/persons/2007NELS01) |
 | 1 | [Andy Bellenir](https://www.worldcubeassociation.org/persons/2003BELL01) |
 | 1 | [Angelo Zhang](https://www.worldcubeassociation.org/persons/2014ZHAN01) |
+| 1 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 1 | [Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01) |
 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 1 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) |
@@ -214,7 +215,6 @@
 | 1 | [Jonathan Irvin Gunawan](https://www.worldcubeassociation.org/persons/2011GUNA02) |
 | 1 | [Josef Jelínek](https://www.worldcubeassociation.org/persons/2004JELI01) |
 | 1 | [Kabyanil Talukdar](https://www.worldcubeassociation.org/persons/2013TALU01) |
-| 1 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2017RAFA02) |
 | 1 | [Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01) |
 | 1 | [Kang Ji-Jon](https://www.worldcubeassociation.org/persons/2007JIJO01) |
 | 1 | [Kanneti Sae Han (คันธ์เนตี แซ่ห่าน)](https://www.worldcubeassociation.org/persons/2008HANK01) |

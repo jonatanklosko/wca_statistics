@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 19 December 2023*
+*Updated on 22 December 2023*
 
 
 ### Rubik's Cube
@@ -107,7 +107,7 @@
 | 33.64 | [Dương Công Tuyền](https://www.worldcubeassociation.org/persons/2022TUYE01) |
 | 34.05 | [Haozhen Ding (丁昊桢)](https://www.worldcubeassociation.org/persons/2019DING22) |
 | 35.71 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
-| 40.04 | [Han Wang (王涵)](https://www.worldcubeassociation.org/persons/2023WANH03) |
+| 38.81 | [Xavier Saunders](https://www.worldcubeassociation.org/persons/2023SAUN07) |
 
 ### 3x3x3 Fewest Moves
 
@@ -130,6 +130,7 @@
 | ---: | :--- |
 | 11.15 | [Aragon Martin Gonzales](https://www.worldcubeassociation.org/persons/2023GONZ18) |
 | 11.70 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) |
+| 11.72 | [Arthur Vinicios Medeiros Alves](https://www.worldcubeassociation.org/persons/2023ALVE12) |
 | 11.90 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
 | 12.61 | [Yihan Cai (蔡依函)](https://www.worldcubeassociation.org/persons/2017CAIY02) |
 | 12.78 | [Zhaojie Li (李肇杰)](https://www.worldcubeassociation.org/persons/2019LIZH12) |
@@ -137,7 +138,6 @@
 | 13.22 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
 | 13.27 | [Tien Tran](https://www.worldcubeassociation.org/persons/2018TRAN09) |
 | 13.31 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) |
-| 13.42 | [Nam Nguyen](https://www.worldcubeassociation.org/persons/2022NGUY36) |
 
 ### Megaminx
 

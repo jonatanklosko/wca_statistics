@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 December 2023*
+*Updated on 22 December 2023*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1094,6 +1094,7 @@
 | 10 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Bodocó Open 2023](https://www.worldcubeassociation.org/competitions/BodocoOpen2023/results/podiums) |
 | 10 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Conquiste o Cubo II 2023](https://www.worldcubeassociation.org/competitions/ConquisteoCuboII2023/results/podiums) |
 | 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Cerrado Open 2023](https://www.worldcubeassociation.org/competitions/CerradoOpen2023/results/podiums) |
+| 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Floripa Open 2023](https://www.worldcubeassociation.org/competitions/FloripaOpen2023/results/podiums) |
 | 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Pão de Queijo Open 2023](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2023/results/podiums) |
 | 10 | [Luiz Fellipe Oliuza Leal Silva](https://www.worldcubeassociation.org/persons/2016SILV02) | [Bodocó Open 2019](https://www.worldcubeassociation.org/competitions/Bodoco2019/results/podiums) |
 | 10 | [Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15) | [TCG Spring 2019](https://www.worldcubeassociation.org/competitions/TCGSpring2019/results/podiums) |

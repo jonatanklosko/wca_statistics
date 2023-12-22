@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 December 2023*
+*Updated on 22 December 2023*
 
 
 ### Rubik's Cube
@@ -269,15 +269,15 @@
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 12 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 12 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 11 |
-| [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 10 |
 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) | 9 |
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 9 |
+| [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 9 |
 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 8 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 8 |
 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 8 |
+| [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 8 |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 8 |
 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) | 7 |
-| [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 7 |
 
 ### Rubik's Clock
 
@@ -336,8 +336,8 @@
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | 27 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 27 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 23 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 22 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | 21 |
+| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 21 |
 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 18 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 17 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 16 |
@@ -422,8 +422,8 @@
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 14 |
 | [Fabrizio Cirnigliaro](https://www.worldcubeassociation.org/persons/2008CIRN01) | 13 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 11 |
-| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 10 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 9 |
+| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 9 |
 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | 8 |
 | [Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01) | 8 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | 8 |

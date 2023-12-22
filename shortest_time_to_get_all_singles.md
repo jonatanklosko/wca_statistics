@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 December 2023*
+*Updated on 22 December 2023*
 
 | Days | Person |
 | ---: | :--- |
@@ -46,6 +46,7 @@
 | 483 | [Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01) |
 | 497 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 497 | [Jaden Lim](https://www.worldcubeassociation.org/persons/2017LIMJ02) |
+| 504 | [Azaro Gorloo](https://www.worldcubeassociation.org/persons/2022GORL02) |
 | 519 | [Rodrigo Pueblas Núñez](https://www.worldcubeassociation.org/persons/2014NUNE05) |
 | 524 | [Thiago Han](https://www.worldcubeassociation.org/persons/2022HANT01) |
 | 531 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) |

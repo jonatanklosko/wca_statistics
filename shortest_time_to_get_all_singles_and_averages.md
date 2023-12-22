@@ -1,10 +1,11 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 December 2023*
+*Updated on 22 December 2023*
 
 | Days | Person |
 | ---: | :--- |
+| 282 | [Ziyi Xu (徐梓翼)](https://www.worldcubeassociation.org/persons/2023XUZI01) |
 | 385 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 392 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) |
 | 406 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) |

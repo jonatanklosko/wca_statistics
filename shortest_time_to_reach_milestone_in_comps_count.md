@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 22 December 2023*
+*Updated on 25 December 2023*
 
 
 ### 200 Competitions
@@ -88,11 +88,11 @@
 | 855 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 890 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 890 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
+| 890 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 897 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 904 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 918 | [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) |
 | 926 | [Jun Fei (费俊)](https://www.worldcubeassociation.org/persons/2016FEIJ02) |
-| 967 | [Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36) |
 
 ### 25 Competitions
 

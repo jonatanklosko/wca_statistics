@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 December 2023*
+*Updated on 25 December 2023*
 
 
 ### Rubik's Cube - Single
@@ -148,8 +148,8 @@
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:13.37** | Republic of Korea | [Malaysia Cube Championship 2023](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2023) | 1:10.22, 1:10.07, 1:19.81 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **1:15.83** | Romania | [Romanian Championship 2023](https://www.worldcubeassociation.org/competitions/RomanianNationalChampionship2023) | 1:15.22, 1:13.55, 1:18.72 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:16.37** | Ireland | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023) | 1:19.78, 1:16.05, 1:13.27 |
+| [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **1:19.73** | Malaysia | [Singapore Masters 2023](https://www.worldcubeassociation.org/competitions/SingaporeMasters2023) | 1:20.11, 1:18.32, 1:20.77 |
 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **1:20.21** | Republic of Korea | [Hamchang Open 2023](https://www.worldcubeassociation.org/competitions/HamchangOpen2023) | 1:20.26, 1:17.00, 1:23.36 |
-| [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **1:21.04** | Malaysia | [Medan Speedcube Challenge 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubeChallenge2023) | 1:17.81, 1:22.86, 1:22.46 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | **1:21.24** | United States | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023) | 1:24.01, 1:17.47, 1:22.24 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **1:22.36** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 1:23.98, 1:22.70, 1:20.39 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **1:22.43** | Chinese Taipei | [Taiwan Championship 2023](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2023) | 1:23.65, 1:18.57, 1:25.06 |
@@ -227,7 +227,7 @@
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **19** | Singapore | [FMC Johor Bahru 2023](https://www.worldcubeassociation.org/competitions/FMCJohorBahru2023) | 20, 21, 19 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **19** | Indonesia | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023) | 19, 23, 20 |
 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | **19** | United States | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023) | 19, 24, 22 |
-| [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) | **19** | Malaysia | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) | 28, 27, 19 |
+| [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | **19** | Republic of Korea | [Korean FMC Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2023) | 29, 28, 19 |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -279,7 +279,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | **24.12** | Argentina | [Río Cuarto al Cubo 2023](https://www.worldcubeassociation.org/competitions/RioCuartoalCubo2023) | 27.94, 24.12, 26.48, 28.87, 30.48 |
-| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | **24.92** | Singapore | [Penang Cube Masters 2023](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2023) | 27.82, 24.92, 26.27, 28.37, 31.77 |
+| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | **24.63** | Singapore | [Singapore Masters 2023](https://www.worldcubeassociation.org/competitions/SingaporeMasters2023) | 25.79, 32.35, 24.63, 27.37, 37.87 |
 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | **25.21** | United States | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023) | 33.90, 32.90, 34.26, 30.23, 25.21 |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **25.97** | China | [Thailand Championship 2023](https://www.worldcubeassociation.org/competitions/ThailandChampionship2023) | 35.85, 25.97, 32.35, 29.98, 35.42 |
 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | **26.00** | New Zealand | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | 28.80, 31.88, 26.00, 33.07, 28.37 |
@@ -294,7 +294,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | **26.84** | Argentina | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023) | 25.22, 26.31, 26.55, 27.67, 28.15 |
-| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | **27.16** | Singapore | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023) | 25.79, 25.57, 30.13, 25.13, DNF |
+| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | **26.92** | Singapore | [Singapore Masters 2023](https://www.worldcubeassociation.org/competitions/SingaporeMasters2023) | 28.20, 25.69, 26.87, 25.21, DNF |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **28.62** | China | [Malaysia Cube Championship 2023](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2023) | 28.23, 28.75, 28.88, 29.31, 27.05 |
 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | **28.67** | United States | [Westchester Weeknights 1 2023](https://www.worldcubeassociation.org/competitions/WestchesterWeeknights12023) | 26.90, 30.05, 28.10, 29.25, 28.65 |
 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | **29.06** | United States | [Pretzel Mania 2023](https://www.worldcubeassociation.org/competitions/PretzelMania2023) | 31.00, 26.54, 28.47, 29.70, 29.00 |

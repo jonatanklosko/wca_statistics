@@ -1,19 +1,19 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 22 December 2023*
+*Updated on 25 December 2023*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1388** | 1161 | 993 | 3542 |
 | Germany | **993** | 951 | 958 | 2902 |
-| United States | **992** | 831 | 741 | 2564 |
+| United States | **993** | 832 | 741 | 2566 |
 | France | **912** | 784 | 663 | 2359 |
 | Netherlands | **893** | 706 | 594 | 2193 |
 | Russia | **822** | 498 | 391 | 1711 |
-| China | **633** | 588 | 527 | 1748 |
+| China | **635** | 593 | 527 | 1755 |
 | Poland | **557** | 371 | 279 | 1207 |
-| Malaysia | **392** | 390 | 356 | 1138 |
+| Malaysia | **398** | 391 | 358 | 1147 |
 | United Kingdom | **382** | 438 | 431 | 1251 |
 | Canada | **365** | 371 | 400 | 1136 |
 | Denmark | **347** | 294 | 234 | 875 |
@@ -31,7 +31,7 @@
 | Japan | **201** | 135 | 137 | 473 |
 | Romania | **195** | 137 | 122 | 454 |
 | Spain | **180** | 170 | 200 | 550 |
-| Singapore | **169** | 173 | 182 | 524 |
+| Singapore | **169** | 174 | 183 | 526 |
 | Indonesia | **168** | 155 | 124 | 447 |
 | Austria | **148** | 213 | 215 | 576 |
 | Peru | **143** | 76 | 92 | 311 |
@@ -43,7 +43,7 @@
 | Greece | **119** | 144 | 106 | 369 |
 | Belarus | **111** | 72 | 85 | 268 |
 | Czech Republic | **108** | 116 | 125 | 349 |
-| Kazakhstan | **102** | 96 | 91 | 289 |
+| Kazakhstan | **103** | 96 | 91 | 290 |
 | Thailand | **86** | 89 | 43 | 218 |
 | Slovakia | **79** | 89 | 98 | 266 |
 | Lithuania | **75** | 74 | 87 | 236 |
@@ -57,21 +57,21 @@
 | Jordan | **40** | 9 | 15 | 64 |
 | Israel | **39** | 34 | 41 | 114 |
 | Kosovo | **37** | 27 | 22 | 86 |
+| Venezuela | **35** | 47 | 41 | 123 |
 | New Zealand | **34** | 68 | 53 | 155 |
-| Venezuela | **33** | 47 | 41 | 121 |
 | Mongolia | **32** | 30 | 29 | 91 |
 | Uzbekistan | **32** | 29 | 31 | 92 |
 | Chile | **28** | 20 | 19 | 67 |
 | Costa Rica | **27** | 35 | 28 | 90 |
 | Serbia | **25** | 33 | 33 | 91 |
+| Kyrgyzstan | **24** | 31 | 36 | 91 |
 | Belize | **24** | 6 | 1 | 31 |
-| Kyrgyzstan | **23** | 25 | 34 | 82 |
 | Portugal | **23** | 23 | 22 | 68 |
 | El Salvador | **21** | 24 | 19 | 64 |
 | Pakistan | **21** | 15 | 16 | 52 |
 | North Macedonia | **17** | 20 | 27 | 64 |
 | South Africa | **16** | 19 | 39 | 74 |
-| Iran | **15** | 15 | 15 | 45 |
+| Iran | **16** | 18 | 16 | 50 |
 | Mexico | **14** | 19 | 25 | 58 |
 | Nicaragua | **14** | 5 | 10 | 29 |
 | Bulgaria | **12** | 35 | 33 | 80 |

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 25 December 2023*
+*Updated on 28 December 2023*
 
 
 ### Rubik's Cube
@@ -266,8 +266,8 @@
 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | 20 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 17 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 13 |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 13 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 12 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 12 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 11 |
 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) | 9 |
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 9 |
@@ -308,7 +308,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 28 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 27 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 26 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 21 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 18 |

@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 25 December 2023*
+*Updated on 28 December 2023*
 
 
 ### Rubik's Cube
@@ -240,9 +240,9 @@
 | [Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01) | **1:03:13.00** | DNF | [Swisscubing Mental 2018](https://www.worldcubeassociation.org/competitions/SwisscubingMentalBreakdown2018/results/podiums#e555bf) | 3 |
 | [Diego Millán Otón](https://www.worldcubeassociation.org/persons/2012OTAN01) | **1:03:10.00** | DNF | [Murcia Open 2013](https://www.worldcubeassociation.org/competitions/MurciaOpen2013/results/podiums#e555bf) | 1 |
 | [Sanae Yamashita (山下佐苗)](https://www.worldcubeassociation.org/persons/2008OMYO01) | **59:12.00** | DNF | [Cube Camp in Kanazawa 2012](https://www.worldcubeassociation.org/competitions/CubeCampKanazawa2012/results/podiums#e555bf) | 3 |
+| [Hirosh Nividu](https://www.worldcubeassociation.org/persons/2022WIJE01) | **58:52.00** | DNF | [Colombo Cubing Christmas 2023](https://www.worldcubeassociation.org/competitions/ColomboCubingChristmas2023/results/podiums#e555bf) | 1 |
 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | **58:47.00** |  | [Osaka 2011](https://www.worldcubeassociation.org/competitions/Osaka2011/results/podiums#e555bf) | 2 |
 | [Riadi Arsandi](https://www.worldcubeassociation.org/persons/2009ARSA01) | **58:30.00** | DNF | [Fun Fasting Day 2011](https://www.worldcubeassociation.org/competitions/FunFastingDay2011/results/podiums#e555bf) | 2 |
-| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **58:03.00** | DNF | [Kvissel Fall 2017](https://www.worldcubeassociation.org/competitions/KvisselFall2017/results/podiums#e555bf) | 1 |
 
 ### 3x3x3 Multi-Blind
 

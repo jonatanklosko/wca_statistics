@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 December 2023*
+*Updated on 28 December 2023*
 
 
 ### Rubik's Cube - Single
@@ -308,6 +308,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **0.73** | United States | [Middleton Meetup Thursday 2023](https://www.worldcubeassociation.org/competitions/MiddletonMeetupThursday2023) | 4.94, 2.36, 1.76, 0.73, DNF |
 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | **0.75** | United States | [Berkeley Winter A 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterA2023) | 4.88, 2.57, 3.00, 0.75, 2.14 |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **0.92** | Poland | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023) | 1.80, 0.92, 2.89, 1.46, 3.19 |
 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **0.96** | New Zealand | [Sydney Summer 2023](https://www.worldcubeassociation.org/competitions/SydneySummer2023) | 4.17, 0.96, 2.68, 1.61, 1.98 |
@@ -317,7 +318,6 @@
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | **0.99** | United States | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023) | 1.20, 0.99, 1.85, 3.08, 3.94 |
 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | **1.02** | Spain | [Balaguer Medieval 2023](https://www.worldcubeassociation.org/competitions/BalaguerMedieval2023) | 3.78, 1.02, 2.23, 2.57, 2.32 |
 | [Imaad Sohel Ajani](https://www.worldcubeassociation.org/persons/2023AJAN01) | **1.02** | India | [Pune Unscrambled 2023](https://www.worldcubeassociation.org/competitions/PuneUnscrambled2023) | 3.07, DNF, 3.15, 1.02, 3.26 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.03** | United States | [Great Lakes Championship 2023](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2023) | 1.03, 1.76, 3.42, 1.91, 2.16 |
 
 ### Pyraminx - Average
 
@@ -332,7 +332,7 @@
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **1.57** | United Kingdom | [Hampshire Spring 2023](https://www.worldcubeassociation.org/competitions/HampshireSpring2023) | 1.38, 2.02, 1.64, 1.68, 1.29 |
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | **1.60** | United States | [Cumberland County Cubing 2023](https://www.worldcubeassociation.org/competitions/CumberlandCountyCubing2023) | 1.97, 1.71, 1.66, 1.43, 1.43 |
 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | **1.67** | New Zealand | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023) | 1.62, 3.56, 1.39, 1.87, 1.51 |
-| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **1.71** | Poland | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) | 2.18, 1.63, 1.82, 1.68, 1.62 |
+| [Yifan Luo (骆奕帆)](https://www.worldcubeassociation.org/persons/2021LUOY02) | **1.69** | China | [Changsha Open 2023](https://www.worldcubeassociation.org/competitions/ChangshaOpen2023) | 1.66, 1.52, 1.74, 2.82, 1.68 |
 
 ### Rubik's Clock - Single
 

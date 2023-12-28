@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 25 December 2023*
+*Updated on 28 December 2023*
 
 | WRs | Person |
 | ---: | :--- |
@@ -153,6 +153,7 @@
 | 2 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 2 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 2 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
+| 2 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 2 | [Tang Yiu Chun (鄧耀俊)](https://www.worldcubeassociation.org/persons/2009CHUN07) |
 | 2 | [Thibaut Jacquinot](https://www.worldcubeassociation.org/persons/2006JACQ01) |
 | 2 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) |
@@ -257,7 +258,6 @@
 | 1 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1 | [Shuang Chen (陈霜)](https://www.worldcubeassociation.org/persons/2008CHEN27) |
 | 1 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) |
-| 1 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 1 | [Suen Ming Chi (孫銘志)](https://www.worldcubeassociation.org/persons/2017CHIS02) |
 | 1 | [Sunil Pedapudi](https://www.worldcubeassociation.org/persons/2004PEDA01) |
 | 1 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |

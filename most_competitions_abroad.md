@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 25 December 2023*
+*Updated on 28 December 2023*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -45,7 +45,7 @@
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 70 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
-| 69 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
+| 70 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 69 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 67 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 67 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |

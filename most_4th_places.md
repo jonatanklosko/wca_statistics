@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 December 2023*
+*Updated on 28 December 2023*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -46,8 +46,8 @@
 | 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 92 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 91 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 91 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 90 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
-| 90 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 89 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 89 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 88 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
@@ -82,7 +82,7 @@
 | 77 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 77 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 75 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
-| 74 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
+| 75 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 74 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 74 | [Joonas Silvennoinen](https://www.worldcubeassociation.org/persons/2016SILV07) |
 | 74 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) |

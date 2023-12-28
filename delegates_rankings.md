@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 25 December 2023*
+*Updated on 28 December 2023*
 
 
 ### Rubik's Cube - Single
@@ -308,8 +308,8 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **0.73** | United States | [Middleton Meetup Thursday 2023](https://www.worldcubeassociation.org/competitions/MiddletonMeetupThursday2023) | 4.94, 2.36, 1.76, 0.73, DNF |
 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | **0.75** | United States | [Berkeley Winter A 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterA2023) | 4.88, 2.57, 3.00, 0.75, 2.14 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.03** | United States | [Great Lakes Championship 2023](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2023) | 1.03, 1.76, 3.42, 1.91, 2.16 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **1.31** | United States | [Rochester Fall 2022](https://www.worldcubeassociation.org/competitions/RochesterFall2022) | 1.31, 4.93, 2.54, 3.52, 4.58 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **1.32** | United States | [Florida Winter Break 2019](https://www.worldcubeassociation.org/competitions/FloridaWinterBreak2019) | 2.30, 2.66, 2.97, 4.60, 1.32 |
 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **1.37** | France | [Chambéry Cube 2016](https://www.worldcubeassociation.org/competitions/ChamberyOpen2016) | 1.37, 4.08, 4.41, 3.57, 3.72 |

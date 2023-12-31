@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 28 December 2023*
+*Updated on 31 December 2023*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -61,8 +61,8 @@
 | 85 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 84 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 83 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
+| 83 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 82 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
-| 82 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 82 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 81 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |

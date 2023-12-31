@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 28 December 2023*
+*Updated on 31 December 2023*
 
 
 ### Competition
@@ -49,7 +49,7 @@
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **10944** | 11494 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **10785** | 11515 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **10761** | 11194 |
-| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **10385** | 10793 |
+| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **10388** | 10796 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **10305** | 10917 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
 
@@ -57,22 +57,22 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **3769902** | 3953215 |
-| China | **1228842** | 1289356 |
+| United States | **3770724** | 3954064 |
+| China | **1233818** | 1294469 |
 | Poland | **886049** | 932533 |
-| India | **753475** | 792858 |
+| India | **756476** | 796122 |
 | Australia | **698889** | 736570 |
 | United Kingdom | **626537** | 659278 |
 | Spain | **605582** | 634842 |
 | Germany | **574591** | 602232 |
 | Canada | **516159** | 539026 |
-| France | **466708** | 491247 |
+| France | **466707** | 491247 |
 | Russia | **430990** | 455777 |
 | Brazil | **428162** | 447891 |
 | Sweden | **325250** | 342513 |
 | Colombia | **321197** | 337579 |
 | Italy | **302870** | 319247 |
-| Philippines | **297144** | 308950 |
+| Philippines | **297993** | 309834 |
 | Chinese Taipei | **261317** | 269134 |
 | Mexico | **257403** | 268643 |
 | Netherlands | **253624** | 264103 |
@@ -83,8 +83,8 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | Europe | **6829923** | 7171369 |
-| North America | **4734958** | 4960529 |
-| Asia | **3891756** | 4078510 |
+| North America | **4735780** | 4961378 |
+| Asia | **3900582** | 4087771 |
 | South America | **1473583** | 1542746 |
 | Oceania | **860012** | 905754 |
 | Africa | **104064** | 108861 |
@@ -94,7 +94,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 2023 | **3970079** | 4151559 |
+| 2023 | **3979727** | 4161669 |
 | 2019 | **2537720** | 2656986 |
 | 2018 | **2218901** | 2324788 |
 | 2022 | **2118274** | 2217622 |
@@ -119,21 +119,21 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **5574086** | 5697895 |
-| 2x2x2 Cube | **3111622** | 3191867 |
-| Pyraminx | **1968448** | 2021119 |
-| 4x4x4 Cube | **1618611** | 1682220 |
-| 3x3x3 One-Handed | **1501236** | 1552415 |
-| Skewb | **1205045** | 1237358 |
-| 5x5x5 Cube | **826176** | 852977 |
-| Megaminx | **509148** | 532581 |
-| Square-1 | **476836** | 498173 |
-| Clock | **369950** | 428854 |
-| 6x6x6 Cube | **182429** | 189541 |
-| 7x7x7 Cube | **149804** | 156664 |
-| 3x3x3 Blindfolded | **122544** | 340362 |
+| 3x3x3 Cube | **5576536** | 5700380 |
+| 2x2x2 Cube | **3113243** | 3193527 |
+| Pyraminx | **1968986** | 2021678 |
+| 4x4x4 Cube | **1619616** | 1683276 |
+| 3x3x3 One-Handed | **1502390** | 1553599 |
+| Skewb | **1205867** | 1238195 |
+| 5x5x5 Cube | **826707** | 853517 |
+| Megaminx | **509425** | 532878 |
+| Square-1 | **477088** | 498442 |
+| Clock | **370316** | 429290 |
+| 6x6x6 Cube | **182659** | 189776 |
+| 7x7x7 Cube | **150003** | 156869 |
+| 3x3x3 Blindfolded | **122620** | 340542 |
 | Magic | **78268** | 86498 |
-| 3x3x3 Fewest Moves | **75155** | 105820 |
+| 3x3x3 Fewest Moves | **75282** | 105987 |
 | 3x3x3 With Feet | **51884** | 56650 |
 | Master Magic | **39964** | 41445 |
 | 3x3x3 Multi-Blind | **19757** | 34430 |

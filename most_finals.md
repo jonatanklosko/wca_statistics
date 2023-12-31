@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 December 2023*
+*Updated on 31 December 2023*
 
 | Finals | Person |
 | ---: | :--- |
@@ -32,7 +32,7 @@
 | 1072 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1070 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 1064 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 1051 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 1052 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1049 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 1014 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
@@ -55,7 +55,7 @@
 | 908 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 892 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
-| 881 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
+| 882 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 870 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 865 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 859 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
@@ -80,8 +80,8 @@
 | 776 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 772 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 767 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
+| 760 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 760 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
-| 759 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 756 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 756 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 756 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |

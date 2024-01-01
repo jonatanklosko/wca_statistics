@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 31 December 2023*
+*Updated on  1 January 2024*
 
 
 ### Rubik's Cube
@@ -179,7 +179,7 @@
 | 4.12 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 4.08, 3.77, 4.34, 5.78, 2.83, 3.77, 5.08, 3.32, 3.55, 4.84, 4.25, 5.70, 4.45, 3.60, 3.69, 3.57, 4.86, 4.05, 3.60, DNF, 3.56, 3.68, 4.22, 4.60, 3.34 |
 | 4.13 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.39, 3.93, 3.78, 3.72, 3.15, 3.45, DNF, 3.53, 5.70, 3.46, 7.53, 4.88, 3.57, 3.18, 3.77, 4.63, 3.65, 3.37, 3.05, 3.33, 3.12, 8.23, 3.40, DNF, 2.85 |
 | 4.15 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | 3.90, 4.23, 4.71, 3.21, 4.19, 4.21, DNF, 3.48, 4.11, 5.16, 4.04, 4.07, 4.73, 4.36, 3.58, 3.71, 3.42, 5.17, 2.84, 3.62, 5.59, 4.63, 4.38, 3.64, 3.82 |
-| 4.26 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.65, 3.74, 3.94, 4.60, 4.49, 3.34, 5.35, 4.09, 5.26, DNF, 4.59, 4.15, 3.52, 5.05, 2.88, 5.68, 3.62, 5.07, 3.47, 4.03, 9.56, 3.45, 4.26, 3.93, 3.53 |
+| 4.24 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.74, 3.94, 4.60, 4.49, 3.34, 5.35, 4.09, 5.26, DNF, 4.59, 4.15, 3.52, 5.05, 2.88, 5.68, 3.62, 5.07, 3.47, 4.03, 9.56, 3.45, 4.26, 3.93, 3.53, 3.25 |
 | 4.40 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 3.77, 3.46, 2.94, 5.21, 4.70, 3.43, 3.41, 3.16, 3.93, 5.20, 5.45, 6.27, 4.40, 5.04, 3.87, 4.69, 4.40, 5.15, 4.59, 3.64, 9.91, 4.70, 4.18, 5.09, 4.18 |
 | 4.43 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 4.06, 4.40, 3.79, 3.37, 3.80, 3.83, 8.74, 4.81, 5.56, 4.07, 4.26, 4.03, 5.80, 5.49, 4.35, 3.98, 5.44, 4.19, 4.46, 4.36, 4.07, 4.43, 3.92, 4.53, 5.00 |
 | 4.61 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.33, 4.80, 5.20, 4.76, 3.77, 5.54, 5.02, 4.28, 4.35, 4.14, 4.36, 4.27, 4.52, 6.12, 4.60, 5.06, 5.17, 4.11, 3.81, 4.97, 4.92, 4.26, 4.59, 3.61, 5.30 |

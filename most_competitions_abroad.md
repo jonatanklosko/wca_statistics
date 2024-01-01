@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 31 December 2023*
+*Updated on  1 January 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -12,7 +12,7 @@
 | 125 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 123 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 120 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
-| 118 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
+| 119 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 111 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 111 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 110 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
@@ -20,10 +20,10 @@
 | 107 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 105 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 103 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 99 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
+| 100 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 96 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 95 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
-| 94 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 95 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 93 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 92 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 91 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
@@ -33,7 +33,7 @@
 | 83 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 83 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 80 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
-| 78 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 79 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 78 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 75 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 75 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
@@ -54,15 +54,15 @@
 | 64 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 64 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 64 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
-| 62 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
+| 63 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 62 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
 | 61 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 61 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 61 | [Danny Sungin Park](https://www.worldcubeassociation.org/persons/2015PARK13) |
+| 60 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
 | 60 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 60 | [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) |
 | 60 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
-| 59 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
 | 59 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 58 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 58 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |

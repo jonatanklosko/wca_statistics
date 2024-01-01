@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 31 December 2023*
+*Updated on  1 January 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -48,10 +48,10 @@
 | 91 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 91 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 90 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
+| 89 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 89 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 89 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 88 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
-| 88 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 87 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 87 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 87 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
@@ -102,8 +102,8 @@
 | 70 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) |
 | 70 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 69 | [Valentin Hoffmann](https://www.worldcubeassociation.org/persons/2011HOFF02) |
+| 69 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 69 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
-| 68 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 
 

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  1 January 2024*
+*Updated on  2 January 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -41,10 +41,10 @@
 | 74 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 72 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
-| 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 71 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
+| 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 71 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
-| 70 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 71 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 69 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 67 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
@@ -94,6 +94,7 @@
 | 50 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 49 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
+| 48 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 48 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
@@ -101,7 +102,6 @@
 | 47 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
 | 47 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 47 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
-| 47 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 46 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 46 | [Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02) |
 

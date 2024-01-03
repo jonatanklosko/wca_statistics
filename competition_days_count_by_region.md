@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  1 January 2024*
+*Updated on  2 January 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.48 | World | 11140 |
+| 1.48 | World | 11148 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.74 | Europe | 3645 |
-| 1.54 | South America | 1304 |
+| 1.74 | Europe | 3646 |
+| 1.53 | South America | 1306 |
 | 1.47 | Oceania | 487 |
-| 1.42 | Asia | 2482 |
+| 1.42 | Asia | 2483 |
 | 1.24 | Africa | 127 |
-| 1.21 | North America | 3095 |
+| 1.20 | North America | 3099 |
 
 ### Countries
 
@@ -31,7 +31,7 @@
 | 2.00 | Liechtenstein | 3 |
 | 2.00 | Sri Lanka | 6 |
 | 1.99 | Turkey | 81 |
-| 1.95 | United Kingdom | 197 |
+| 1.95 | United Kingdom | 198 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
 | 1.92 | Lithuania | 25 |
@@ -68,7 +68,7 @@
 | 1.61 | Indonesia | 201 |
 | 1.60 | Greece | 20 |
 | 1.60 | Netherlands | 109 |
-| 1.59 | India | 505 |
+| 1.59 | India | 506 |
 | 1.58 | Bangladesh | 12 |
 | 1.57 | San Marino | 7 |
 | 1.57 | Italy | 191 |
@@ -85,7 +85,7 @@
 | 1.45 | Romania | 100 |
 | 1.43 | Australia | 388 |
 | 1.42 | Nepal | 19 |
-| 1.40 | Colombia | 241 |
+| 1.40 | Colombia | 243 |
 | 1.39 | Israel | 44 |
 | 1.39 | Singapore | 44 |
 | 1.38 | Ecuador | 39 |
@@ -116,8 +116,8 @@
 | 1.17 | Armenia | 6 |
 | 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2483 |
-| 1.16 | Canada | 321 |
+| 1.16 | United States | 2486 |
+| 1.16 | Canada | 322 |
 | 1.14 | Azerbaijan | 42 |
 | 1.12 | Honduras | 16 |
 | 1.07 | Georgia | 27 |

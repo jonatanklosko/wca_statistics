@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 January 2024*
+*Updated on  2 January 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -257,6 +257,7 @@
 | 1512 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) |
 | 1513 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 1533 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
+| 1533 | [Marco Giordano](https://www.worldcubeassociation.org/persons/2019GIOR02) |
 | 1547 | [Chung Tze Yang (鍾志扬)](https://www.worldcubeassociation.org/persons/2009YANG31) |
 | 1547 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 1548 | [William Tao](https://www.worldcubeassociation.org/persons/2014TAOW01) |

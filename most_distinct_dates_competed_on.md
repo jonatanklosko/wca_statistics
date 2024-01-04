@@ -1,6 +1,6 @@
 ## Most distinct dates competed on
 
-*Updated on  2 January 2024*
+*Updated on  4 January 2024*
 
 | Dates | Person | List |
 | ---: | :--- | :--- |

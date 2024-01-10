@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 January 2024*
+*Updated on 10 January 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1075,6 +1075,7 @@
 | 10 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Tietomaa Open 2019](https://www.worldcubeassociation.org/competitions/TietomaaOpen2019/results/podiums) |
+| 10 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Curtan Cubing Contest 2024](https://www.worldcubeassociation.org/competitions/CurtanCubingContest2024/results/podiums) |
 | 10 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [SSL VIII Jönköping 2023](https://www.worldcubeassociation.org/competitions/SSLVIIIJonkoping2023/results/podiums) |
 | 10 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [SSL V Uppsala 2023](https://www.worldcubeassociation.org/competitions/SSLVUppsala2023/results/podiums) |
 | 10 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Summer - Sorell 2022](https://www.worldcubeassociation.org/competitions/Sorell2022/results/podiums) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 January 2024*
+*Updated on 10 January 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -71,6 +71,7 @@
 | 623 | [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) |
 | 630 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
 | 644 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |
+| 650 | [Christopher Reid](https://www.worldcubeassociation.org/persons/2022REID01) |
 | 651 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |
 | 658 | [Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01) |
 | 658 | [Ha Min Oh (오해민)](https://www.worldcubeassociation.org/persons/2015OHHA01) |
@@ -154,8 +155,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -344,6 +345,7 @@
 | 1995 | [Matthew Bidwell](https://www.worldcubeassociation.org/persons/2018BIDW02) |
 | 1996 | [Akifumi Sasaki (佐々木彰史)](https://www.worldcubeassociation.org/persons/2017SASA03) |
 | 2002 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
+| 2002 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 2009 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2016 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
 | 2023 | [David McLean](https://www.worldcubeassociation.org/persons/2017MCLE03) |

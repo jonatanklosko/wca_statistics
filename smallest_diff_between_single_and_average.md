@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 January 2024*
+*Updated on 10 January 2024*
 
 
 ### Rubik's Cube
@@ -196,8 +196,8 @@
 | 0.09 | [Muhammad Hafizuddin Akhtar Bin Mohd Zainal Abidin](https://www.worldcubeassociation.org/persons/2017ABID02) | 12.03 | 12.12 | [Malaysia Cube Championship 2019](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2019/results/by_person#2017ABID02) |
 | 0.09 | [Lukas Hörbach](https://www.worldcubeassociation.org/persons/2022HORB01) | 12.62 | 12.71 | [UBC Side Events 2023](https://www.worldcubeassociation.org/competitions/UBCSideEvents2023/results/by_person#2022HORB01) |
 | 0.09 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 14.42 | 14.51 | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022/results/by_person#2014ZYCH01) |
+| 0.09 | [Dilshawn Sidhu](https://www.worldcubeassociation.org/persons/2018SIDH02) | 15.74 | 15.83 | [Canada's Best in the West 2024](https://www.worldcubeassociation.org/competitions/CanadasBestintheWest2024/results/by_person#2018SIDH02) |
 | 0.09 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | 16.03 | 16.12 | [Martelli Open Otoño 2019](https://www.worldcubeassociation.org/competitions/MartelliOpenOtono2019/results/by_person#2014BONA02) |
-| 0.10 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 7.71 | 7.81 | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/by_person#2014NIEL03) |
 
 ### 4x4x4 Blindfolded
 

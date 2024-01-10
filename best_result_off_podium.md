@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 January 2024*
+*Updated on 10 January 2024*
 
 
 ### Rubik's Cube
@@ -196,8 +196,8 @@
 | [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.00 | **2.74** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 6 |
 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | 2.06 | **2.74** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 6 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 2.08 | **2.75** | [Race the Clock Minnesota 2023](https://www.worldcubeassociation.org/competitions/RacetheClockMinnesota2023/results/all#eskewb_f) | 4 |
+| [Lucas Lippman-Bruno](https://www.worldcubeassociation.org/persons/2022LIPP01) | 2.46 | **2.75** | [Milwaukee Cubing Mania 2024](https://www.worldcubeassociation.org/competitions/MilwaukeeCubingMania2024/results/all#eskewb_f) | 4 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2.09 | **2.78** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eskewb_f) | 5 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.31 | **2.83** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 7 |
 
 ### Square-1
 

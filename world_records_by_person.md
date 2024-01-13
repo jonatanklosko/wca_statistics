@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 January 2024*
+*Updated on 13 January 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -238,6 +238,7 @@
 | 1 | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |
 | 1 | [Muhammad Iril Khairul Anam](https://www.worldcubeassociation.org/persons/2009ANAM01) |
 | 1 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
+| 1 | [Neil Gour](https://www.worldcubeassociation.org/persons/2022GOUR01) |
 | 1 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 1 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) |
 | 1 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |

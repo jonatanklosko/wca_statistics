@@ -1,13 +1,13 @@
 ## Most finals
 
-*Updated on 10 January 2024*
+*Updated on 13 January 2024*
 
 | Finals | Person |
 | ---: | :--- |
 | 2297 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2248 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2094 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 1829 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 1835 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1647 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1528 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
@@ -23,7 +23,7 @@
 | 1207 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1204 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1183 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
-| 1159 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
+| 1171 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 1150 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 1124 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1100 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
@@ -34,7 +34,7 @@
 | 1065 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1064 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1049 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
-| 1017 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 1019 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 1016 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1015 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
@@ -100,7 +100,7 @@
 | 729 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 725 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 722 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
-| 706 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
+| 708 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 703 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 702 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
 | 701 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |

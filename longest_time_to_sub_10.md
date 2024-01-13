@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 10 January 2024*
+*Updated on 13 January 2024*
 
 | Person | Years |
 | :--- | ---: |
@@ -101,8 +101,8 @@
 | [Petr Samodelkin](https://www.worldcubeassociation.org/persons/2014SAMO02) | 8.82 |
 | [Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08) | 8.82 |
 | [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
-| [Carson Davis](https://www.worldcubeassociation.org/persons/2014DAVI06) | 8.76 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
+| [Carson Davis](https://www.worldcubeassociation.org/persons/2014DAVI06) | 8.76 |
 | [Choi Yeong-Jun](https://www.worldcubeassociation.org/persons/2013YEON01) | 8.72 |
 
 

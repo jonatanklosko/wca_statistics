@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 January 2024*
+*Updated on 13 January 2024*
 
 
 ### Rubik's Cube
@@ -182,7 +182,7 @@
 | 4.24 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.74, 3.94, 4.60, 4.49, 3.34, 5.35, 4.09, 5.26, DNF, 4.59, 4.15, 3.52, 5.05, 2.88, 5.68, 3.62, 5.07, 3.47, 4.03, 9.56, 3.45, 4.26, 3.93, 3.53, 3.25 |
 | 4.40 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 3.77, 3.46, 2.94, 5.21, 4.70, 3.43, 3.41, 3.16, 3.93, 5.20, 5.45, 6.27, 4.40, 5.04, 3.87, 4.69, 4.40, 5.15, 4.59, 3.64, 9.91, 4.70, 4.18, 5.09, 4.18 |
 | 4.43 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 4.06, 4.40, 3.79, 3.37, 3.80, 3.83, 8.74, 4.81, 5.56, 4.07, 4.26, 4.03, 5.80, 5.49, 4.35, 3.98, 5.44, 4.19, 4.46, 4.36, 4.07, 4.43, 3.92, 4.53, 5.00 |
-| 4.61 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 4.33, 4.80, 5.20, 4.76, 3.77, 5.54, 5.02, 4.28, 4.35, 4.14, 4.36, 4.27, 4.52, 6.12, 4.60, 5.06, 5.17, 4.11, 3.81, 4.97, 4.92, 4.26, 4.59, 3.61, 5.30 |
+| 4.58 | [Neil Gour](https://www.worldcubeassociation.org/persons/2022GOUR01) | 4.55, 2.73, 6.44, 4.12, 4.30, 5.57, 4.48, 4.52, 3.94, 4.65, 4.59, 6.17, 4.11, 5.81, 5.42, 5.56, 5.90, 4.63, 2.54, 3.15, 3.95, 3.54, 4.68, 4.52, 4.20 |
 
 ### Skewb
 

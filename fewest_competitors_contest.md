@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 January 2024*
+*Updated on 16 January 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -18,6 +18,7 @@
 | 4 | [Big Blind UBC 2019](https://www.worldcubeassociation.org/competitions/BigBlindUBC2019) |
 | 4 | [JAM FMC I 2023](https://www.worldcubeassociation.org/competitions/JAMFMCI2023) |
 | 4 | [Kansas Holiday Cube-Off PM 2023](https://www.worldcubeassociation.org/competitions/KansasHolidayCubeOffPM2023) |
+| 4 | [Mental Breakdown II Rzeszów 2024](https://www.worldcubeassociation.org/competitions/MentalBreakdownIIRzeszow2024) |
 | 4 | [Sides Bahia VI 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaQualificationClash2023) |
 | 4 | [Vardagscubing III - Flen A 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenA2023) |
 | 5 | [All Quiet in Lexington 2022](https://www.worldcubeassociation.org/competitions/AllQuietinLexington2022) |
@@ -43,6 +44,8 @@
 | 6 | [Jönköpingsligan 2: Vesuvio 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan2Vesuvio2023) |
 | 6 | [Jönköpingsligan 6: Heroes 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan6Heroes2023) |
 | 6 | [Mega FMC Helsinki 2022](https://www.worldcubeassociation.org/competitions/MegaFMCHelsinki2022) |
+| 6 | [Mental Breakdown I Rzeszów 2024](https://www.worldcubeassociation.org/competitions/MentalBreakdownIRzeszow2024) |
+| 6 | [Michigan Mini 14 2024](https://www.worldcubeassociation.org/competitions/MichiganMini142024) |
 | 6 | [Middleton FMC 2023](https://www.worldcubeassociation.org/competitions/MiddletonFMC2023) |
 | 6 | [Silentia 2 - BLD 2023](https://www.worldcubeassociation.org/competitions/Silentia2BLD2023) |
 | 6 | [Stockholm Mental Meltdown 2023](https://www.worldcubeassociation.org/competitions/StockholmMentalMeltdown2023) |
@@ -87,6 +90,7 @@
 | 8 | [Naxçıvan 2018](https://www.worldcubeassociation.org/competitions/Nakhchivan2018) |
 | 8 | [PBQtah Sandy Summer 2019](https://www.worldcubeassociation.org/competitions/PBQtahSandySummer2019) |
 | 8 | [Please Be Solved Joburg 2023](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedThisTimeJoburg2023) |
+| 8 | [Poções 2024](https://www.worldcubeassociation.org/competitions/Pocoes2024) |
 | 8 | [Sides Bahia - June's Vie 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaJunesVie2023) |
 | 8 | [Silentia 1 - FMC 2023](https://www.worldcubeassociation.org/competitions/Silentia1FMC2023) |
 | 8 | [Thunder Bay 2019](https://www.worldcubeassociation.org/competitions/SuperiorCubingThunderBay2019) |

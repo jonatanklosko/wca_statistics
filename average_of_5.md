@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 January 2024*
+*Updated on 16 January 2024*
 
 
 ### Rubik's Cube
@@ -196,8 +196,8 @@
 | 1.80 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 4.69, 2.16, 1.40, 1.41, 1.83 |
 | 1.85 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 0.96, 2.13, 1.66, 3.02, 1.76 |
 | 1.85 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 2.17, 3.44, 1.32, 1.61, 1.77 |
+| 1.90 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | 1.69, 3.01, 1.96, 2.07, 1.63 |
 | 1.98 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.84, 1.87, 2.23, 2.75, 1.78 |
-| 1.99 | [Zeyu Hu (胡泽宇)](https://www.worldcubeassociation.org/persons/2014HUZE01) | 1.71, 2.15, 2.13, 3.32, 1.55 |
 
 ### Square-1
 

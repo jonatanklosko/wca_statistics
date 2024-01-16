@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 13 January 2024*
+*Updated on 16 January 2024*
 
 
 ### Rubik's Cube
@@ -65,7 +65,7 @@
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 34 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 30 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 23 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 18 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 19 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | 13 |
 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | 13 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 12 |
@@ -126,8 +126,8 @@
 | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) | 9 |
 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 8 |
 | [Niko Paavilainen](https://www.worldcubeassociation.org/persons/2011PAAV01) | 8 |
+| [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) | 7 |
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | 7 |
-| [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 6 |
 
 ### 7x7x7 Cube
 
@@ -360,7 +360,7 @@
 | :--- | ---: |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 45 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 35 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 23 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 22 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 16 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 16 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 16 |

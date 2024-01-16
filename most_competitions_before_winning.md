@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 13 January 2024*
+*Updated on 16 January 2024*
 
 
 ### Rubik's Cube
@@ -212,7 +212,7 @@
 | 37 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | [All is Well Tainan 2019](https://www.worldcubeassociation.org/competitions/AllisWellTainan2019) |
 | 36 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | [Hawaii Big Island 2020](https://www.worldcubeassociation.org/competitions/HawaiiBigIsland2020) |
 | 36 | [Alex Cohen](https://www.worldcubeassociation.org/persons/2015COHE02) | [Nickel City 2023](https://www.worldcubeassociation.org/competitions/NickelCity2023) |
-| 33 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022) |
+| 35 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Come Back to Landvetter 2024](https://www.worldcubeassociation.org/competitions/ComeBacktoLandvetter2024) |
 
 ### 4x4x4 Blindfolded
 

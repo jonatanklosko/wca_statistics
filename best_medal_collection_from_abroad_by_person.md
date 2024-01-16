@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 January 2024*
+*Updated on 16 January 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -20,7 +20,7 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **123** | 62 | 35 | 220 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **119** | 97 | 78 | 294 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **115** | 49 | 29 | 193 |
-| [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **111** | 103 | 91 | 305 |
+| [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **111** | 103 | 92 | 306 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **110** | 39 | 18 | 167 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **108** | 122 | 108 | 338 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **95** | 102 | 87 | 284 |
@@ -37,11 +37,11 @@
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **70** | 76 | 47 | 193 |
 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **69** | 29 | 37 | 135 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **69** | 18 | 9 | 96 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **68** | 84 | 72 | 224 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | **68** | 45 | 49 | 162 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **68** | 17 | 9 | 94 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **66** | 51 | 44 | 161 |
-| [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **65** | 48 | 33 | 146 |
+| [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **65** | 49 | 34 | 148 |
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **63** | 43 | 41 | 147 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **61** | 49 | 38 | 148 |

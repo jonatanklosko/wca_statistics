@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 13 January 2024*
+*Updated on 16 January 2024*
 
 
 ### Rubik's Cube
@@ -224,10 +224,10 @@
 | 6:35.61 | [Sebastián Yuste Lucero](https://www.worldcubeassociation.org/persons/2017LUCE03) |
 | 7:00.25 | [Beomseok Ryu (류범석)](https://www.worldcubeassociation.org/persons/2019RYUB01) |
 | 8:18.98 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) |
+| 8:22.15 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) |
 | 8:56.23 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
 | 9:15.02 | [Takeo Nagoshi (名越丈雄)](https://www.worldcubeassociation.org/persons/2022NAGO03) |
 | 9:57.57 | [Nathan Benson](https://www.worldcubeassociation.org/persons/2022BENS01) |
-| 10:06.00 | [Adam Hlavín](https://www.worldcubeassociation.org/persons/2019HLAV02) |
 
 ### 5x5x5 Blindfolded
 

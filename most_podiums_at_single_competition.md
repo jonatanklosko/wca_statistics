@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 January 2024*
+*Updated on 16 January 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -353,6 +353,7 @@
 | 12 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
 | 12 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [West Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2019/results/podiums) |
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Spring Warmup 2023](https://www.worldcubeassociation.org/competitions/DFWSpringWarmup2023/results/podiums) |
+| 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Winter Variation 2024](https://www.worldcubeassociation.org/competitions/DFWWinterVariation2024/results/podiums) |
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/podiums) |
 | 12 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Poções 2023](https://www.worldcubeassociation.org/competitions/Pocoes2023/results/podiums) |
 | 12 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [UFBA 2023](https://www.worldcubeassociation.org/competitions/UFBA2023/results/podiums) |
@@ -601,6 +602,7 @@
 | 11 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | [Medan Lunar New Year 2020](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2020/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Björneborg Weekend 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWeekend2023/results/podiums) |
+| 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Come Back to Landvetter 2024](https://www.worldcubeassociation.org/competitions/ComeBacktoLandvetter2024/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [SSL IV Flen 2023](https://www.worldcubeassociation.org/competitions/SSLIVFlen2023/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Tofta Summer Open 2023](https://www.worldcubeassociation.org/competitions/ToftaSummerOpen2023/results/podiums) |
 | 11 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Hobart Hoedown 2019](https://www.worldcubeassociation.org/competitions/HobartHoedown2019/results/podiums) |
@@ -1018,6 +1020,7 @@
 | 10 | [Nejc Ian Čurman](https://www.worldcubeassociation.org/persons/2015CURM01) | [Banja Luka Open 2018](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2018/results/podiums) |
 | 10 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Mölnlycke Open 2023](https://www.worldcubeassociation.org/competitions/MolnlyckeOpen2023/results/podiums) |
 | 10 | [Federico da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) | [Güemes Open 2022](https://www.worldcubeassociation.org/competitions/GuemesOpen2022/results/podiums) |
+| 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Ke Solo Lur 2024](https://www.worldcubeassociation.org/competitions/KeSoloLur2024/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Sumatra Open 2016](https://www.worldcubeassociation.org/competitions/SumatraOpen2016/results/podiums) |

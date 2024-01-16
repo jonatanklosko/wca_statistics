@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 January 2024*
+*Updated on 16 January 2024*
 
 
 ### Rubik's Cube
@@ -207,12 +207,12 @@
 | 1.01 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:19.07 | 1:20.08 | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2013LINK01) |
 | 1.05 | [Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01) | 3:21.39 | 3:22.44 | [Please Be Quiet DST 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietDST2023/results/by_person#2013GHOD01) |
 | 1.71 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2:00.90 | 2:02.61 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2014SCHO02) |
+| 2.68 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 3:01.00 | 3:03.68 | [Stevenage January 2024](https://www.worldcubeassociation.org/competitions/StevenageJanuary2024/results/by_person#2018SHEN07) |
 | 3.24 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) | 2:54.96 | 2:58.20 | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/by_person#2010YAMA04) |
 | 3.38 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 1:49.58 | 1:52.96 | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022/results/by_person#2013WALL03) |
 | 3.44 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 1:51.48 | 1:54.92 | [Brilliant Ballarat 2023](https://www.worldcubeassociation.org/competitions/BrilliantBallarat2023/results/by_person#2021TRIP01) |
 | 3.53 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 2:01.51 | 2:05.04 | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022/results/by_person#2019HIRS01) |
 | 3.71 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 1:16.32 | 1:20.03 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2016CHAP04) |
-| 3.85 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 1:08.70 | 1:12.55 | [Florida Fall Fest 2019](https://www.worldcubeassociation.org/competitions/FloridaFallFest2019/results/by_person#2016CHAP04) |
 
 ### 5x5x5 Blindfolded
 

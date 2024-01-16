@@ -1,27 +1,27 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 January 2024*
+*Updated on 16 January 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| Hungary | **1388** | 1161 | 993 | 3542 |
-| United States | **1007** | 844 | 754 | 2605 |
+| Hungary | **1389** | 1164 | 997 | 3550 |
+| United States | **1010** | 848 | 754 | 2612 |
 | Germany | **996** | 956 | 961 | 2913 |
 | France | **914** | 787 | 666 | 2367 |
 | Netherlands | **893** | 707 | 594 | 2194 |
 | Russia | **823** | 498 | 391 | 1712 |
-| China | **635** | 595 | 528 | 1758 |
-| Poland | **566** | 375 | 288 | 1229 |
-| Malaysia | **401** | 392 | 358 | 1151 |
-| United Kingdom | **386** | 441 | 432 | 1259 |
-| Canada | **368** | 371 | 400 | 1139 |
-| Denmark | **347** | 294 | 234 | 875 |
+| China | **637** | 600 | 537 | 1774 |
+| Poland | **567** | 376 | 288 | 1231 |
+| Malaysia | **402** | 394 | 362 | 1158 |
+| United Kingdom | **388** | 446 | 432 | 1266 |
+| Canada | **368** | 372 | 400 | 1140 |
+| Denmark | **351** | 295 | 234 | 880 |
 | Republic of Korea | **312** | 274 | 242 | 828 |
 | Sweden | **307** | 351 | 364 | 1022 |
 | Australia | **289** | 136 | 91 | 516 |
-| India | **285** | 230 | 233 | 748 |
-| Hong Kong, China | **284** | 303 | 233 | 820 |
+| India | **285** | 231 | 233 | 749 |
+| Hong Kong, China | **284** | 303 | 234 | 821 |
 | Finland | **271** | 206 | 171 | 648 |
 | Switzerland | **265** | 378 | 296 | 939 |
 | Argentina | **233** | 172 | 143 | 548 |
@@ -29,21 +29,21 @@
 | Ukraine | **217** | 224 | 232 | 673 |
 | Chinese Taipei | **214** | 185 | 181 | 580 |
 | Japan | **202** | 135 | 137 | 474 |
-| Romania | **197** | 138 | 123 | 458 |
+| Romania | **198** | 138 | 123 | 459 |
 | Spain | **180** | 170 | 200 | 550 |
 | Singapore | **170** | 175 | 184 | 529 |
 | Indonesia | **168** | 155 | 124 | 447 |
 | Austria | **148** | 213 | 215 | 576 |
 | Peru | **143** | 76 | 92 | 311 |
-| Ireland | **139** | 76 | 60 | 275 |
+| Ireland | **139** | 76 | 61 | 276 |
+| Latvia | **138** | 206 | 208 | 552 |
 | Belgium | **137** | 202 | 179 | 518 |
-| Latvia | **137** | 201 | 205 | 543 |
 | Colombia | **137** | 110 | 97 | 344 |
 | Slovenia | **134** | 172 | 178 | 484 |
 | Greece | **119** | 144 | 106 | 369 |
 | Belarus | **111** | 72 | 85 | 268 |
-| Czech Republic | **108** | 116 | 125 | 349 |
-| Kazakhstan | **103** | 96 | 91 | 290 |
+| Czech Republic | **108** | 116 | 126 | 350 |
+| Kazakhstan | **103** | 97 | 91 | 291 |
 | Thailand | **86** | 89 | 43 | 218 |
 | Slovakia | **79** | 89 | 98 | 266 |
 | Lithuania | **75** | 74 | 87 | 236 |
@@ -51,26 +51,26 @@
 | Norway | **66** | 75 | 93 | 234 |
 | Guatemala | **61** | 38 | 42 | 141 |
 | Croatia | **58** | 92 | 72 | 222 |
-| Vietnam | **57** | 78 | 69 | 204 |
+| Vietnam | **57** | 80 | 69 | 206 |
 | Brazil | **52** | 63 | 37 | 152 |
 | Estonia | **46** | 53 | 40 | 139 |
 | Jordan | **40** | 9 | 15 | 64 |
 | Israel | **39** | 34 | 41 | 114 |
 | Kosovo | **37** | 27 | 22 | 86 |
-| New Zealand | **35** | 68 | 53 | 156 |
 | Venezuela | **35** | 48 | 41 | 124 |
+| New Zealand | **34** | 68 | 53 | 155 |
 | Mongolia | **32** | 30 | 30 | 92 |
 | Uzbekistan | **32** | 29 | 31 | 92 |
 | Chile | **28** | 20 | 19 | 67 |
 | Costa Rica | **27** | 35 | 28 | 90 |
-| Serbia | **25** | 33 | 33 | 91 |
+| Serbia | **26** | 34 | 33 | 93 |
 | Kyrgyzstan | **24** | 31 | 36 | 91 |
 | Belize | **24** | 6 | 1 | 31 |
 | Portugal | **23** | 23 | 22 | 68 |
 | El Salvador | **21** | 24 | 19 | 64 |
 | Pakistan | **21** | 15 | 16 | 52 |
 | North Macedonia | **17** | 20 | 27 | 64 |
-| South Africa | **16** | 19 | 39 | 74 |
+| South Africa | **16** | 19 | 40 | 75 |
 | Iran | **16** | 18 | 16 | 50 |
 | Mexico | **14** | 19 | 25 | 58 |
 | Nicaragua | **14** | 5 | 10 | 29 |
@@ -84,7 +84,7 @@
 | Bolivia | **8** | 9 | 17 | 34 |
 | Moldova | **7** | 12 | 7 | 26 |
 | Georgia | **7** | 10 | 9 | 26 |
-| Morocco | **7** | 8 | 8 | 23 |
+| Morocco | **7** | 8 | 9 | 24 |
 | Bosnia and Herzegovina | **6** | 17 | 7 | 30 |
 | Panama | **6** | 7 | 8 | 21 |
 | Honduras | **6** | 5 | 8 | 19 |

@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 13 January 2024*
+*Updated on 16 January 2024*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -60,8 +60,8 @@
 | 26 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | Brazil | [Torneio DRACO 2012](https://www.worldcubeassociation.org/competitions/TorneioDraco2012) | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014) |
 | 26 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 26 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
-| 26 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 26 | [Rafael Gregorio Martinez Paredes](https://www.worldcubeassociation.org/persons/2013PARE02) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
+| 26 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 25 | [Uku Kruusamägi](https://www.worldcubeassociation.org/persons/2009KRUU01) | Estonia | [Estonian Open 2009](https://www.worldcubeassociation.org/competitions/EstonianOpen2009) | [Narva Winter 2019](https://www.worldcubeassociation.org/competitions/NarvaWinter2019) |
 | 25 | [Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02) | Slovenia | [Slovenian Open 2012](https://www.worldcubeassociation.org/competitions/SlovenianOpen2012) |  |
 | 25 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | Belarus | [Minsk Open 2013](https://www.worldcubeassociation.org/competitions/MinskOpen2013) | [Spring Cube In Minsk 2018](https://www.worldcubeassociation.org/competitions/SpringCubeInMinsk2018) |
@@ -79,6 +79,7 @@
 | 23 | [Berit Brüster](https://www.worldcubeassociation.org/persons/2009BRUS01) | Germany | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009) | [Munich Open 2011](https://www.worldcubeassociation.org/competitions/MunichOpen2011) |
 | 23 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | Japan | [Osaka 2011](https://www.worldcubeassociation.org/competitions/Osaka2011) | [Hiroshima 2012](https://www.worldcubeassociation.org/competitions/HiroshimaOpen2012) |
 | 23 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | Italy | [Bologna NxN Spring 2019](https://www.worldcubeassociation.org/competitions/BolognaNxNSpring2019) | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022) |
+| 23 | [Maksim Zemtšihhin](https://www.worldcubeassociation.org/persons/2018ZEMT01) | Estonia | [Tallinn Open 2019](https://www.worldcubeassociation.org/competitions/TallinnOpen2019) |  |
 | 23 | [Branko Kobal](https://www.worldcubeassociation.org/persons/2009KOBA03) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) | [Slovenian FMC Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianFMCNationals2023) |
 | 23 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) | [Slovenian FMC Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianFMCNationals2023) |
 | 23 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kryivka PBQ 2022](https://www.worldcubeassociation.org/competitions/KryivkaPBQ2022) | [Podolian Open 2023](https://www.worldcubeassociation.org/competitions/PodolianOpen2023) |
@@ -91,7 +92,6 @@
 | 22 | [Rodrigo Lucas Pardo](https://www.worldcubeassociation.org/persons/2015CABE01) | Chile | [Instituto Nacional Open 2016](https://www.worldcubeassociation.org/competitions/InstitutoNacionalOpen2016) | [Akiba Expo Open 2018](https://www.worldcubeassociation.org/competitions/AkibaExpoOpen2018) |
 | 22 | [Cristóbal Opazo Bravo](https://www.worldcubeassociation.org/persons/2016BRAV03) | Chile | [UA Open 2018](https://www.worldcubeassociation.org/competitions/UAOpen2018) | [Open Ovalle Summer 2023](https://www.worldcubeassociation.org/competitions/OpenOvalleSummer2023) |
 | 22 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) | New Zealand | [New Zealand Nationals 2016](https://www.worldcubeassociation.org/competitions/NewZealandNationals2016) | [Otago October 2019](https://www.worldcubeassociation.org/competitions/OtagoOctober2019) |
-| 22 | [Maksim Zemtšihhin](https://www.worldcubeassociation.org/persons/2018ZEMT01) | Estonia | [Tallinn Open 2019](https://www.worldcubeassociation.org/competitions/TallinnOpen2019) |  |
 | 22 | [Denys Haidaichuk](https://www.worldcubeassociation.org/persons/2011HAID01) | Ukraine | [Kyiv Open 2011](https://www.worldcubeassociation.org/competitions/KyivOpen2011) | [Beit Dan Open 2014](https://www.worldcubeassociation.org/competitions/BeitDanOpen2014) |
 | 22 | [Ana Marchilashvili (ანა მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2022MARC10) | Georgia | [Georgia Open 2022](https://www.worldcubeassociation.org/competitions/GeorgiaOpen2022) |  |
 | 22 | [Christian Goñi](https://www.worldcubeassociation.org/persons/2014GONI01) | Uruguay | [Montevideo Open 2014](https://www.worldcubeassociation.org/competitions/MontevideoOpen2014) | [Montevideo Palace 2018](https://www.worldcubeassociation.org/competitions/MontevideoPalace2018) |

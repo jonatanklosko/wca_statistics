@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 16 January 2024*
+*Updated on 19 January 2024*
 
 
 ### Competition
@@ -36,13 +36,13 @@
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **17722** | 18443 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **16638** | 17273 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **14768** | 15901 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **13290** | 13753 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **13344** | 13808 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **13130** | 13455 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **12937** | 13607 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **12319** | 12682 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **12246** | 12849 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **12064** | 12679 |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **11411** | 11988 |
+| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **11514** | 12096 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **11401** | 11828 |
 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **11352** | 11634 |
 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | **11204** | 11343 |
@@ -57,22 +57,22 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **3817695** | 4002997 |
+| United States | **3828876** | 4014730 |
 | China | **1233818** | 1294469 |
-| Poland | **886978** | 933596 |
+| Poland | **889353** | 936073 |
 | India | **760039** | 799849 |
-| Australia | **706729** | 744904 |
+| Australia | **709591** | 747896 |
 | United Kingdom | **631960** | 665000 |
 | Spain | **605582** | 634842 |
 | Germany | **577539** | 605304 |
 | Canada | **523266** | 546442 |
 | France | **470139** | 494952 |
+| Brazil | **431207** | 451019 |
 | Russia | **430990** | 455777 |
-| Brazil | **429480** | 449268 |
 | Sweden | **332722** | 350279 |
 | Colombia | **324047** | 340583 |
 | Italy | **306739** | 323336 |
-| Philippines | **300646** | 312609 |
+| Philippines | **303043** | 315074 |
 | Netherlands | **265592** | 276587 |
 | Chinese Taipei | **261317** | 269134 |
 | Mexico | **257403** | 268643 |
@@ -82,11 +82,11 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **6877647** | 7221776 |
-| North America | **4790345** | 5018227 |
-| Asia | **3913752** | 4101496 |
-| South America | **1478261** | 1547646 |
-| Oceania | **867852** | 914088 |
+| Europe | **6883195** | 7227587 |
+| North America | **4801526** | 5029960 |
+| Asia | **3918596** | 4106492 |
+| South America | **1481352** | 1550805 |
+| Oceania | **870714** | 917080 |
 | Africa | **104064** | 108861 |
 | Multiple Continents | **1895** | 2562 |
 
@@ -94,7 +94,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 2023 | **4001668** | 4184787 |
+| 2023 | **4000576** | 4183622 |
 | 2019 | **2537720** | 2656986 |
 | 2018 | **2218901** | 2324788 |
 | 2022 | **2118269** | 2217617 |
@@ -109,7 +109,7 @@
 | 2011 | **333789** | 355339 |
 | 2010 | **259785** | 277151 |
 | 2009 | **172080** | 183266 |
-| 2024 | **106041** | 111102 |
+| 2024 | **134659** | 140958 |
 | 2008 | **86491** | 92666 |
 | 2007 | **34623** | 36794 |
 | 2006 | **16507** | 17539 |
@@ -119,24 +119,24 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **5617702** | 5742372 |
-| 2x2x2 Cube | **3133259** | 3214045 |
-| Pyraminx | **1981060** | 2034018 |
-| 4x4x4 Cube | **1632147** | 1696307 |
-| 3x3x3 One-Handed | **1508621** | 1560001 |
-| Skewb | **1215219** | 1247762 |
-| 5x5x5 Cube | **832272** | 859246 |
-| Megaminx | **514508** | 538164 |
-| Square-1 | **482287** | 503846 |
-| Clock | **376062** | 435949 |
-| 6x6x6 Cube | **184515** | 191719 |
-| 7x7x7 Cube | **151405** | 158328 |
-| 3x3x3 Blindfolded | **123532** | 342982 |
+| 3x3x3 Cube | **5626090** | 5750911 |
+| 2x2x2 Cube | **3136454** | 3217311 |
+| Pyraminx | **1985360** | 2038406 |
+| 4x4x4 Cube | **1633593** | 1697800 |
+| 3x3x3 One-Handed | **1510439** | 1561893 |
+| Skewb | **1217818** | 1250401 |
+| 5x5x5 Cube | **833323** | 860335 |
+| Megaminx | **515609** | 539299 |
+| Square-1 | **483232** | 504822 |
+| Clock | **377919** | 438108 |
+| 6x6x6 Cube | **184906** | 192141 |
+| 7x7x7 Cube | **151673** | 158615 |
+| 3x3x3 Blindfolded | **123677** | 343352 |
 | Magic | **78268** | 86498 |
-| 3x3x3 Fewest Moves | **75874** | 106809 |
+| 3x3x3 Fewest Moves | **75882** | 106822 |
 | 3x3x3 With Feet | **51884** | 56650 |
 | Master Magic | **39964** | 41445 |
-| 3x3x3 Multi-Blind | **19870** | 34607 |
+| 3x3x3 Multi-Blind | **19884** | 34630 |
 | 4x4x4 Blindfolded | **10683** | 41815 |
 | 5x5x5 Blindfolded | **4279** | 21502 |
 

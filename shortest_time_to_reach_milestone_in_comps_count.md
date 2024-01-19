@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 January 2024*
+*Updated on 19 January 2024*
 
 
 ### 200 Competitions
@@ -14,6 +14,7 @@
 | 4306 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 4563 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 4796 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 5539 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 6112 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 6322 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 7036 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |

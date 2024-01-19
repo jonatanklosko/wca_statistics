@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 16 January 2024*
+*Updated on 19 January 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -30,8 +30,8 @@
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 85 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 84 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
-| 83 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 83 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
+| 83 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 80 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 79 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 78 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
@@ -42,19 +42,19 @@
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 73 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
 | 72 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
+| 71 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 71 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
-| 71 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 70 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
-| 69 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 68 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 68 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 66 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 66 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 65 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 64 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 64 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
-| 63 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
+| 64 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
+| 64 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 62 | [Danny Sungin Park (박성인)](https://www.worldcubeassociation.org/persons/2015PARK13) |
 | 62 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
 | 62 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
@@ -94,10 +94,10 @@
 | 50 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 49 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 49 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
+| 48 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 48 | [CC Connolly](https://www.worldcubeassociation.org/persons/2017CONN04) |
 | 48 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
-| 47 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 47 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 47 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |

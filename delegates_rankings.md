@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 16 January 2024*
+*Updated on 19 January 2024*
 
 
 ### Rubik's Cube - Single
@@ -355,8 +355,8 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Oliver Pällo](https://www.worldcubeassociation.org/persons/2020PALL01) | **4.41** | Estonia | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023) | 6.22, 3.98, 4.22, 4.77, 4.25 |
 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | **4.44** | Australia | [Sydney Clock Clash 2023](https://www.worldcubeassociation.org/competitions/SydneyUltimateClockClash2023) | 4.73, 4.40, 4.19, 3.58, 6.46 |
+| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **4.61** | United States | [GCU Winter 2024](https://www.worldcubeassociation.org/competitions/GCUWinter2024) | 3.97, 5.16, 4.61, 4.07, DNF |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4.61** | Sweden | [Clockholm Open 2023](https://www.worldcubeassociation.org/competitions/ClockholmOpen2023) | 9.10, 4.72, 3.80, 4.26, 4.84 |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **4.65** | United States | [North Jersey Speedsolving B 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingB2023) | 4.40, 4.81, 5.34, 4.47, 4.68 |
 | [Andrés Hisashi Suzuki Cabrera](https://www.worldcubeassociation.org/persons/2016SUZU03) | **4.80** | Peru | [Real Cube II Lima 2023](https://www.worldcubeassociation.org/competitions/RealCubeIILima2023) | 4.74, 7.90, 4.65, 5.01, 4.37 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **4.88** | United States | [Milwaukee Cubing Mania 2024](https://www.worldcubeassociation.org/competitions/MilwaukeeCubingMania2024) | 5.47, 4.46, 5.74, 4.72, 4.44 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **4.93** | Poland | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | 4.19, 5.11, 4.32, 6.71, 5.35 |

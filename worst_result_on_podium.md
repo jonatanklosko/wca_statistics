@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 19 January 2024*
+*Updated on 22 January 2024*
 
 
 ### Rubik's Cube
@@ -179,10 +179,10 @@
 | [Ruric Victor Costa Da Silva](https://www.worldcubeassociation.org/persons/2017SILV11) | 1:05.89 | **1:30.71** | [Tambaqui Plaza Open 2018](https://www.worldcubeassociation.org/competitions/Tambaqui2018/results/podiums#eclock) | 3 |
 | [Cristian Alberto Rivas Rivas](https://www.worldcubeassociation.org/persons/2013RIVA01) | 53.97 | **1:26.40** | [ULA Rubiks 2014](https://www.worldcubeassociation.org/competitions/ULARubiks2014/results/podiums#eclock) | 3 |
 | [Ian Homer](https://www.worldcubeassociation.org/persons/2012HOME01) | 52.80 | **1:18.72** | [Carnegie Mellon Spring 2012](https://www.worldcubeassociation.org/competitions/CMUSpring2012/results/podiums#eclock) | 3 |
+| [Divisha Parmar](https://www.worldcubeassociation.org/persons/2023PARM05) | 47.87 | **1:18.42** | [Big & Blind Kenya 2024](https://www.worldcubeassociation.org/competitions/BigBlindKenya2024/results/podiums#eclock) | 3 |
 | [Semyon Shtykov](https://www.worldcubeassociation.org/persons/2016SHTY01) | 53.36 | **1:17.96** | [Ural Autumn 2016](https://www.worldcubeassociation.org/competitions/UralAutumn2016/results/podiums#eclock) | 3 |
 | [Renan Mondini Cerpe](https://www.worldcubeassociation.org/persons/2007CERP02) | 1:03.66 | **1:17.55** | [UNESP Open 2009](https://www.worldcubeassociation.org/competitions/UNESPOpen2009/results/podiums#eclock) | 3 |
 | [Justin Sinel](https://www.worldcubeassociation.org/persons/2009SINE01) | 57.06 | **1:17.06** | [Rizal Open 2009](https://www.worldcubeassociation.org/competitions/RizalOpen2009/results/podiums#eclock) | 2 |
-| [Hadley Sheffield](https://www.worldcubeassociation.org/persons/2008SHEF01) | 32.47 | **1:12.22** | [Full Sail Spring 2011](https://www.worldcubeassociation.org/competitions/FullSailSpring2011/results/podiums#eclock) | 3 |
 
 ### Skewb
 

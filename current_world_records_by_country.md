@@ -1,10 +1,10 @@
 ## Current world records count by country
 
-*Updated on 19 January 2024*
+*Updated on 22 January 2024*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
-| 26 | United States | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02), [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07), [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 25 | United States | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02), [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07), [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 4 | China | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 2 | Argentina | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 2 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01), [Neil Gour](https://www.worldcubeassociation.org/persons/2022GOUR01) |
@@ -12,6 +12,7 @@
 | 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | Italy | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 1 | Malaysia | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
+| 1 | Norway | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 1 | Poland | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 1 | Singapore | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 

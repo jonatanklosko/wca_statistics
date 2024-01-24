@@ -1,6 +1,6 @@
 ## World records count by country
 
-*Updated on 22 January 2024*
+*Updated on 23 January 2024*
 
 | WRs | Country |
 | ---: | :--- |

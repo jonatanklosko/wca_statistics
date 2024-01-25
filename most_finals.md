@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 23 January 2024*
+*Updated on 25 January 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -43,15 +43,15 @@
 | 986 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 985 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 959 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 957 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
-| 956 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 951 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
-| 940 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
+| 943 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 936 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 931 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 914 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
+| 917 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 909 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 905 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
@@ -59,7 +59,7 @@
 | 892 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 876 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 871 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 863 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 864 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 855 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 851 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 846 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
@@ -82,7 +82,7 @@
 | 775 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 772 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 767 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
-| 763 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
+| 766 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 762 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 760 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 756 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |

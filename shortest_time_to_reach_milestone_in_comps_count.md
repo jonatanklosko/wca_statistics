@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 23 January 2024*
+*Updated on 25 January 2024*
 
 
 ### 200 Competitions
@@ -129,6 +129,7 @@
 | 103 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
 | 120 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 127 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
+| 127 | [Thomas Cabezas Casallas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 133 | [Anthony E. Cho](https://www.worldcubeassociation.org/persons/2023CHOA02) |
 | 139 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 139 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
@@ -144,7 +145,6 @@
 | 148 | [Sai Mrudhun](https://www.worldcubeassociation.org/persons/2017MRUD01) |
 | 148 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
 | 148 | [Agastya Kora](https://www.worldcubeassociation.org/persons/2023KORA01) |
-| 148 | [Ashrith Kora](https://www.worldcubeassociation.org/persons/2023KORA02) |
 
 ### 5 Competitions
 

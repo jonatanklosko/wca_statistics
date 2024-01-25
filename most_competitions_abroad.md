@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 23 January 2024*
+*Updated on 25 January 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -56,9 +56,9 @@
 | 64 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 64 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 62 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 62 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 62 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
 | 62 | [Danny Sungin Park (박성인)](https://www.worldcubeassociation.org/persons/2015PARK13) |
-| 62 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 60 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
 | 60 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 60 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
@@ -74,13 +74,13 @@
 | 54 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 53 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
 | 53 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
+| 53 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
 | 53 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
 | 52 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 52 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
-| 52 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 52 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 52 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
-| 52 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
+| 52 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 51 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
 | 51 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
 | 51 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |

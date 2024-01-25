@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 23 January 2024*
+*Updated on 25 January 2024*
 
 
 ### Rubik's Cube
@@ -71,8 +71,8 @@
 | ---: | :--- |
 | 1.36 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 1.52 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) |
-| 1.52 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1.53 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
+| 1.55 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1.57 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 1.61 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 1.65 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) |
@@ -87,9 +87,9 @@
 | 1.71 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 1.74 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1.74 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) |
+| 1.75 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) |
 | 1.75 | [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) |
 | 1.75 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) |
-| 1.77 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) |
 | 1.78 | [Ram Thakkar](https://www.worldcubeassociation.org/persons/2016THAK01) |
 | 1.78 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) |
 | 1.79 | [Siddharth Reddy](https://www.worldcubeassociation.org/persons/2020REDD01) |
@@ -103,6 +103,7 @@
 | 1.83 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) |
 | 1.85 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) |
 | 1.85 | [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) |
+| 1.85 | [Juan Miguel Saboya Soto](https://www.worldcubeassociation.org/persons/2021SOTO01) |
 | 1.86 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) |
 | 1.87 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1.87 | [Arhaan Sareen](https://www.worldcubeassociation.org/persons/2017SARE03) |
@@ -113,7 +114,6 @@
 | 1.90 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1.90 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) |
 | 1.90 | [Jerry Yao](https://www.worldcubeassociation.org/persons/2019YAOJ01) |
-| 1.90 | [Juan Miguel Saboya Soto](https://www.worldcubeassociation.org/persons/2021SOTO01) |
 | 1.90 | [Anjunyi Zeng (曾安儁逸)](https://www.worldcubeassociation.org/persons/2021ZENG01) |
 | 1.91 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 1.91 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
@@ -674,8 +674,8 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 6.19 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 6.26 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 6.37 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 6.44 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
 | 6.47 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) |
 | 6.68 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |

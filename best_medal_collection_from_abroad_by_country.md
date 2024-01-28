@@ -1,19 +1,19 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 January 2024*
+*Updated on 28 January 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1389** | 1164 | 997 | 3550 |
-| United States | **1011** | 849 | 755 | 2615 |
-| Germany | **996** | 957 | 968 | 2921 |
+| United States | **1011** | 849 | 757 | 2617 |
+| Germany | **996** | 958 | 968 | 2922 |
 | France | **918** | 790 | 668 | 2376 |
 | Netherlands | **894** | 710 | 594 | 2198 |
-| Russia | **823** | 498 | 391 | 1712 |
-| China | **641** | 600 | 538 | 1779 |
-| Poland | **569** | 376 | 288 | 1233 |
-| Malaysia | **402** | 394 | 362 | 1158 |
+| Russia | **830** | 499 | 391 | 1720 |
+| China | **641** | 600 | 541 | 1782 |
+| Poland | **574** | 376 | 288 | 1238 |
+| Malaysia | **403** | 396 | 362 | 1161 |
 | United Kingdom | **388** | 446 | 433 | 1267 |
 | Canada | **368** | 373 | 402 | 1143 |
 | Denmark | **351** | 295 | 234 | 880 |
@@ -21,17 +21,17 @@
 | Sweden | **307** | 351 | 364 | 1022 |
 | Australia | **289** | 136 | 91 | 516 |
 | Hong Kong, China | **288** | 303 | 235 | 826 |
-| India | **285** | 233 | 236 | 754 |
+| India | **285** | 234 | 236 | 755 |
 | Finland | **271** | 206 | 171 | 648 |
 | Switzerland | **265** | 378 | 296 | 939 |
 | Argentina | **233** | 172 | 143 | 548 |
 | Italy | **223** | 212 | 202 | 637 |
-| Ukraine | **222** | 227 | 237 | 686 |
+| Ukraine | **222** | 227 | 238 | 687 |
 | Chinese Taipei | **214** | 185 | 181 | 580 |
 | Japan | **202** | 136 | 137 | 475 |
 | Romania | **198** | 139 | 123 | 460 |
 | Spain | **180** | 170 | 200 | 550 |
-| Singapore | **171** | 175 | 184 | 530 |
+| Singapore | **171** | 176 | 185 | 532 |
 | Indonesia | **168** | 155 | 124 | 447 |
 | Austria | **148** | 213 | 215 | 576 |
 | Ireland | **144** | 77 | 61 | 282 |
@@ -56,8 +56,8 @@
 | Estonia | **46** | 53 | 40 | 139 |
 | Jordan | **40** | 9 | 15 | 64 |
 | Israel | **39** | 34 | 41 | 114 |
+| New Zealand | **37** | 70 | 57 | 164 |
 | Kosovo | **37** | 27 | 22 | 86 |
-| New Zealand | **35** | 69 | 56 | 160 |
 | Venezuela | **35** | 48 | 41 | 124 |
 | Mongolia | **32** | 30 | 30 | 92 |
 | Uzbekistan | **32** | 29 | 31 | 92 |

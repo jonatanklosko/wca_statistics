@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 January 2024*
+*Updated on 28 January 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -329,6 +329,7 @@
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015/results/podiums) |
 | 10 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Darwin Open 2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019/results/podiums) |
 | 10 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [Darwin Open 2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019/results/podiums) |
+| 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Dåstrup Diverse 2024](https://www.worldcubeassociation.org/competitions/DastrupDiverse2024/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Dåstrup Sleepover 2018](https://www.worldcubeassociation.org/competitions/DastrupSleepover2018/results/podiums) |
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [Delhi Open 2017](https://www.worldcubeassociation.org/competitions/DelhiOpen2017/results/podiums) |
 | 13 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [De Wilg Open 2014](https://www.worldcubeassociation.org/competitions/DeWilgOpen2014/results/podiums) |
@@ -793,6 +794,7 @@
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Osijek Open 2018](https://www.worldcubeassociation.org/competitions/OsijekOpen2018/results/podiums) |
 | 12 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Osijek Open 2019](https://www.worldcubeassociation.org/competitions/OsijeKOpen2019/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Osijek Open 2019](https://www.worldcubeassociation.org/competitions/OsijeKOpen2019/results/podiums) |
+| 10 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Oskemen Open 2024](https://www.worldcubeassociation.org/competitions/OskemenOpen2024/results/podiums) |
 | 15 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2017](https://www.worldcubeassociation.org/competitions/OuluOpen2017/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2022](https://www.worldcubeassociation.org/competitions/OuluOpen2022/results/podiums) |

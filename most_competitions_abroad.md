@@ -1,18 +1,18 @@
 ## Most competitions abroad
 
-*Updated on 25 January 2024*
+*Updated on 28 January 2024*
 
 | Competitions | Person |
 | ---: | :--- |
 | 179 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 161 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 149 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 150 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 141 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 127 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 125 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 123 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
+| 121 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 120 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
-| 120 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 111 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 111 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 110 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
@@ -47,8 +47,8 @@
 | 71 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 71 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
+| 69 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 69 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
-| 68 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 66 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 66 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 65 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
@@ -78,12 +78,12 @@
 | 53 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
 | 52 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 52 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
+| 52 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 52 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 52 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
-| 52 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
+| 52 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 51 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
 | 51 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
-| 51 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 51 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
 | 51 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 51 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
@@ -93,10 +93,10 @@
 | 50 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 50 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 49 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
+| 49 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 49 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 49 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 48 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 48 | [CC Connolly](https://www.worldcubeassociation.org/persons/2017CONN04) |
 | 47 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |

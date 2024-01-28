@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 January 2024*
+*Updated on 28 January 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -73,6 +73,7 @@
 | 644 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |
 | 650 | [Christopher Reid](https://www.worldcubeassociation.org/persons/2022REID01) |
 | 651 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |
+| 651 | [Jinsol Hong](https://www.worldcubeassociation.org/persons/2022HONG01) |
 | 658 | [Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01) |
 | 658 | [Ha Min Oh (오해민)](https://www.worldcubeassociation.org/persons/2015OHHA01) |
 | 665 | [Mats Walker](https://www.worldcubeassociation.org/persons/2021WALK02) |
@@ -253,7 +254,7 @@
 | 1492 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) |
 | 1498 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 1498 | [Jens Grieme](https://www.worldcubeassociation.org/persons/2019GRIE05) |
-| 1504 | [Fritz Löhr](https://www.worldcubeassociation.org/persons/2011LOHR01) |
+| 1504 | [Anonymous](https://www.worldcubeassociation.org/persons/2011ANON06) |
 | 1505 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) |
 | 1505 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |
 | 1512 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) |

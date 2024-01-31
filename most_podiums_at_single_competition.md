@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 January 2024*
+*Updated on 31 January 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -26,6 +26,8 @@
 | 11 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Alhambra LMO 2014](https://www.worldcubeassociation.org/competitions/AlhambraLMO2014/results/podiums) |
 | 11 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Alicante Open 2016](https://www.worldcubeassociation.org/competitions/AlicanteOpen2016/results/podiums) |
 | 10 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Alicante Open 2016](https://www.worldcubeassociation.org/competitions/AlicanteOpen2016/results/podiums) |
+| 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [All Events in Stockholm 2024](https://www.worldcubeassociation.org/competitions/AllEventsinStockholm2024/results/podiums) |
+| 10 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [All Events in Stockholm 2024](https://www.worldcubeassociation.org/competitions/AllEventsinStockholm2024/results/podiums) |
 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Almadar School 2022](https://www.worldcubeassociation.org/competitions/AlmadarSchool2022/results/podiums) |
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Almaty Altyn Cube 2018](https://www.worldcubeassociation.org/competitions/AlmatyAltynCube2018/results/podiums) |
 | 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Almaty Summer 2018](https://www.worldcubeassociation.org/competitions/AlmatySummer2018/results/podiums) |
@@ -430,6 +432,7 @@
 | 13 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Floripa ao Cubo 2022](https://www.worldcubeassociation.org/competitions/FloripaaoCubo2022/results/podiums) |
 | 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Floripa Open 2023](https://www.worldcubeassociation.org/competitions/FloripaOpen2023/results/podiums) |
 | 11 | [Stephano Saucedo Reyes](https://www.worldcubeassociation.org/persons/2011REYE04) | [FNSM 2015](https://www.worldcubeassociation.org/competitions/FNSMOpen2015/results/podiums) |
+| 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Folkets Kub Alvesta 2024](https://www.worldcubeassociation.org/competitions/FolketsKubAlvesta2024/results/podiums) |
 | 10 | [Alrimar Dias Rocha Sobrinho](https://www.worldcubeassociation.org/persons/2011SOBR01) | [Fortaleza 2014](https://www.worldcubeassociation.org/competitions/FortalezaOpen2014/results/podiums) |
 | 11 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | [Fort Lee Winter 2009](https://www.worldcubeassociation.org/competitions/FortLeeWinter2009/results/podiums) |
 | 10 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Frankfurt Cube Days 2020](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2020/results/podiums) |
@@ -900,6 +903,7 @@
 | 11 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [São Paulo Open 2009](https://www.worldcubeassociation.org/competitions/SaoPauloOpen2009/results/podiums) |
 | 10 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [São Paulo Open 2009](https://www.worldcubeassociation.org/competitions/SaoPauloOpen2009/results/podiums) |
 | 13 | [Artem Yashkov](https://www.worldcubeassociation.org/persons/2014YASH01) | [Saratov Winter Open 2017](https://www.worldcubeassociation.org/competitions/SaratovWinterOpen2017/results/podiums) |
+| 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Say Hi to Cubing in Ankara 2024](https://www.worldcubeassociation.org/competitions/SayHitoCubinginAnkara2024/results/podiums) |
 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Schoolmark Open 2018](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2018/results/podiums) |
 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Schoolmark Open 2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019/results/podiums) |
 | 13 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [SCMU 2016](https://www.worldcubeassociation.org/competitions/SCMU2016/results/podiums) |
@@ -962,6 +966,8 @@
 | 10 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/podiums) |
 | 10 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Southernmost Solving 2023](https://www.worldcubeassociation.org/competitions/SouthernmostSolving2023/results/podiums) |
 | 10 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Southern Scramble Dunedin 2021](https://www.worldcubeassociation.org/competitions/SouthernScrambleDunedin2021/results/podiums) |
+| 12 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Southern Solves 2024](https://www.worldcubeassociation.org/competitions/SouthernSolvesInvercargill2024/results/podiums) |
+| 11 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Southern Solves 2024](https://www.worldcubeassociation.org/competitions/SouthernSolvesInvercargill2024/results/podiums) |
 | 11 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Spanish Championship 2012](https://www.worldcubeassociation.org/competitions/SpanishChampionship2012/results/podiums) |
 | 10 | [Ivan Torgashov](https://www.worldcubeassociation.org/persons/2011TORG01) | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014/results/podiums) |
 | 10 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014/results/podiums) |

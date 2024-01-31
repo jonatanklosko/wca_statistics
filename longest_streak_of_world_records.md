@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 28 January 2024*
+*Updated on 31 January 2024*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -16,10 +16,10 @@
 | 8 | 3x3x3 Multi-Blind | Single | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | [Keep Portland Quiet 2018](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2018) | 5.73 |
 | 7 | Rubik's Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Day 2010](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2010) | [Zonhoven Open 2013](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2013) | 2.30 |
 | 7 | 6x6x6 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing III 2018](https://www.worldcubeassociation.org/competitions/SacCubingIII2018) |  | 6.01 |
+| 7 | 7x7x7 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [COpen2 2018](https://www.worldcubeassociation.org/competitions/Cerritos2018) |  | 5.80 |
 | 6 | 2x2x2 Cube | Average | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Empire State Summer B 2021](https://www.worldcubeassociation.org/competitions/EmpireStateSummerB2021) |  | 2.50 |
 | 6 | 5x5x5 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) |  | 5.68 |
 | 6 | 7x7x7 Cube | Average | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | [Hefei Spring 2012](https://www.worldcubeassociation.org/competitions/HefeiSpring2012) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) | 1.38 |
-| 6 | 7x7x7 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [COpen2 2018](https://www.worldcubeassociation.org/competitions/Cerritos2018) |  | 5.80 |
 | 6 | 3x3x3 Blindfolded | Single | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) | [Beijing Metropolis Open 2009](https://www.worldcubeassociation.org/competitions/BeijingMetropolisOpen2009) | [Tulancingo Open 2010](https://www.worldcubeassociation.org/competitions/TulancingoOpen2010) | 1.61 |
 | 6 | 3x3x3 Blindfolded | Single | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Florida Returns 2021](https://www.worldcubeassociation.org/competitions/FloridaReturns2021) | [Australian Nationals 2023](https://www.worldcubeassociation.org/competitions/AustralianNationals2023) | 2.18 |
 | 6 | Megaminx | Single | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [Rubik Pro 2017](https://www.worldcubeassociation.org/competitions/RubikPro2017) | [Di Tella Open 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpen2023) | 5.82 |
@@ -101,7 +101,7 @@
 | 2 | Rubik's Cube | Average | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) | [KCRC 2007](https://www.worldcubeassociation.org/competitions/KCRC2007) | 0.81 |
 | 2 | Rubik's Cube | Average | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | [Osaka Open 2008](https://www.worldcubeassociation.org/competitions/OsakaOpen2008) | [Benelux Open 2009](https://www.worldcubeassociation.org/competitions/BeneluxOpen2009) | 0.90 |
 | 2 | Rubik's Cube | Average | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | [Warsaw Open 2009](https://www.worldcubeassociation.org/competitions/WarsawOpen2009) | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | 0.82 |
-| 2 | Rubik's Cube | Average | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) |  | 0.89 |
+| 2 | Rubik's Cube | Average | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) |  | 0.90 |
 | 2 | 2x2x2 Cube | Single | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [Caltech Spring 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005) | [Swedish CubeDay 2005](https://www.worldcubeassociation.org/competitions/SwedishCubeday2005) | 0.65 |
 | 2 | 2x2x2 Cube | Single | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | [German Open 2007](https://www.worldcubeassociation.org/competitions/GermanOpen2007) | [UK Open 2007](https://www.worldcubeassociation.org/competitions/UKOpen2007) | 0.54 |
 | 2 | 2x2x2 Cube | Average | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | [Swedish CubeDay 2004](https://www.worldcubeassociation.org/competitions/Sweden2004) | [Caltech Spring 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005) | 0.38 |

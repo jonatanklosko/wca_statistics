@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 28 January 2024*
+*Updated on 31 January 2024*
 
 
 ### Rubik's Cube - Single
@@ -272,7 +272,7 @@
 | [Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01) | **11.39** | Mongolia | [Umnugovi Cube Day 2019](https://www.worldcubeassociation.org/competitions/UmnugoviCubeDay2019) | 11.24, 11.60, 11.33, 9.08, 16.57 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **11.76** | United States | [Great Lakes Championship 2023](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2023) | 15.94, 10.36, 12.54, 10.91, 11.82 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **11.77** | Australia | [Melbourne Cube Days 2017](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2017) | 11.47, 13.16, 11.25, 11.03, 12.58 |
-| [Joshua Christian Marais](https://www.worldcubeassociation.org/persons/2019MARA05) | **12.02** | South Africa | [CubingZA Cape Cubes Spring 2023](https://www.worldcubeassociation.org/competitions/CubingZACapeCubesSpring2023) | 17.99, 11.04, 11.77, 12.73, 11.55 |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **11.90** | United States | [Big Cube Battle of Waterloo 2024](https://www.worldcubeassociation.org/competitions/BigCubeBattleofWaterloo2024) | 15.18, 12.17, 10.39, 11.37, 12.17 |
 
 ### Megaminx - Single
 

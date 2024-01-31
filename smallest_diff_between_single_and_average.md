@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 January 2024*
+*Updated on 31 January 2024*
 
 
 ### Rubik's Cube
@@ -146,13 +146,13 @@
 | 0.02 | [Yi Wang (王旖)](https://www.worldcubeassociation.org/persons/2011WANG33) | 2.98 | 3.00 | [Suzhou Open 2017](https://www.worldcubeassociation.org/competitions/SuzhouOpen2017/results/by_person#2011WANG33) |
 | 0.02 | [Chiara Giesinger](https://www.worldcubeassociation.org/persons/2022GIES01) | 5.16 | 5.18 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022/results/by_person#2022GIES01) |
 | 0.02 | [Kasper Warberg Borg](https://www.worldcubeassociation.org/persons/2020BORG01) | 9.37 | 9.39 | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022/results/by_person#2020BORG01) |
+| 0.03 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.49 | 1.52 | [Southern Solves 2024](https://www.worldcubeassociation.org/competitions/SouthernSolvesInvercargill2024/results/by_person#2018MURR03) |
 | 0.03 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.97 | 2.00 | [Miami in an Ohio Oxford 2023](https://www.worldcubeassociation.org/competitions/MiamiinanOhioOxford2023/results/by_person#2017PALA08) |
 | 0.03 | [Seungho Song (송승호)](https://www.worldcubeassociation.org/persons/2018SONG36) | 1.98 | 2.01 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2018SONG36) |
 | 0.04 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.54 | 1.58 | [Virginia Beach Fall 2023](https://www.worldcubeassociation.org/competitions/VirginiaBeachFall2023/results/by_person#2017NIEL03) |
 | 0.04 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 2.48 | 2.52 | [Liberty Science Center Open 2019](https://www.worldcubeassociation.org/competitions/LibertyScienceCenterOpen2019/results/by_person#2017HONG17) |
 | 0.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2.65 | 2.69 | [Washtenaw Winter 2023](https://www.worldcubeassociation.org/competitions/WashtenawWinter2023/results/by_person#2016CHAP04) |
 | 0.04 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | 2.69 | 2.73 | [Swisscubing Cup V 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2022/results/by_person#2016ROLZ01) |
-| 0.04 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 2.88 | 2.92 | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2013KLEI03) |
 
 ### Rubik's Clock
 

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 January 2024*
+*Updated on 31 January 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -20,6 +20,7 @@
 | 258 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) |
 | 266 | [Yikang Xie (谢轶康)](https://www.worldcubeassociation.org/persons/2016XIEY03) |
 | 280 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
+| 287 | [Martin Fröhlich](https://www.worldcubeassociation.org/persons/2023FROH01) |
 | 301 | [Bernhard Brodowsky](https://www.worldcubeassociation.org/persons/2016BROD01) |
 | 308 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 308 | [Bekzodjon Yusupov](https://www.worldcubeassociation.org/persons/2022YUSU01) |

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 January 2024*
+*Updated on 31 January 2024*
 
 
 ### Rubik's Cube
@@ -83,7 +83,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:42.44 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:36.41, 1:49.68, 1:41.42, 1:44.64, 1:41.27 |
+| 1:42.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:46.69, 1:41.71, 1:41.02, 1:40.69, 1:43.63 |
 | 1:50.32 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 2:01.32, 1:49.38, 1:47.20, 1:53.95, 1:47.63 |
 | 1:51.38 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:49.38, 1:49.66, 1:55.10, 1:59.04, 1:49.01 |
 | 1:53.67 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:55.43, 1:53.69, 1:51.27, 2:17.84, 1:51.91 |
@@ -133,11 +133,11 @@
 | 8.62 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | 8.66, 6.92, 11.32, 9.33, 7.88 |
 | 8.65 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 8.85, 8.30, 10.23, 8.70, 8.42 |
 | 8.66 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 7.99, 11.77, 7.71, 8.52, 9.48 |
+| 8.70 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 12.70, 8.67, 8.13, 8.32, 9.13 |
 | 8.72 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 7.63, 8.62, 10.62, 9.30, 8.25 |
-| 8.83 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 9.96, 8.34, 8.21, 9.69, 8.46 |
+| 8.77 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 11.51, 8.99, 8.64, 8.69, 8.09 |
 | 8.83 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 9.14, 8.76, 8.19, 10.06, 8.59 |
 | 8.86 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | 8.22, 8.92, 9.54, 7.79, 9.46 |
-| 8.92 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8.15, 9.31, 9.67, 9.31, 8.10 |
 
 ### Megaminx
 

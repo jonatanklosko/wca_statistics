@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 31 January 2024*
+*Updated on  1 February 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -43,7 +43,7 @@
 | 986 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 985 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
-| 966 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 972 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 963 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 951 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 946 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
@@ -59,7 +59,7 @@
 | 892 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 876 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 876 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
-| 870 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 874 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 855 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 854 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 846 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
@@ -81,9 +81,9 @@
 | 776 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 775 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 772 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
+| 772 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 768 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 767 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
-| 766 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 760 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 760 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 758 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |

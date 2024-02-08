@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 February 2024*
+*Updated on  7 February 2024*
 
 | Days | Person |
 | ---: | :--- |

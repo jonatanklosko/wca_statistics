@@ -1,9 +1,11 @@
 ## Most podiums at a single competition
 
-*Updated on  1 February 2024*
+*Updated on  7 February 2024*
 
 | Podiums | Person |
 | ---: | :--- |
+| 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [1:a Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/1aLordagskubeniVasteras2024/results/podiums) |
+| 13 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [1:a Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/1aLordagskubeniVasteras2024/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/podiums) |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Aachen Open 2010](https://www.worldcubeassociation.org/competitions/AachenOpen2010/results/podiums) |
@@ -30,6 +32,8 @@
 | 10 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [All Events in Stockholm 2024](https://www.worldcubeassociation.org/competitions/AllEventsinStockholm2024/results/podiums) |
 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Almadar School 2022](https://www.worldcubeassociation.org/competitions/AlmadarSchool2022/results/podiums) |
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Almaty Altyn Cube 2018](https://www.worldcubeassociation.org/competitions/AlmatyAltynCube2018/results/podiums) |
+| 10 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Almaty Cubers Open 2024](https://www.worldcubeassociation.org/competitions/AlmatyCubersOpen2024/results/podiums) |
+| 10 | [Asset Agabekov](https://www.worldcubeassociation.org/persons/2018AGAB03) | [Almaty Cubers Open 2024](https://www.worldcubeassociation.org/competitions/AlmatyCubersOpen2024/results/podiums) |
 | 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Almaty Summer 2018](https://www.worldcubeassociation.org/competitions/AlmatySummer2018/results/podiums) |
 | 11 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [Almet Open 2018](https://www.worldcubeassociation.org/competitions/AlmetOpen2018/results/podiums) |
 | 10 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Alphen Track to Records 24h 2023](https://www.worldcubeassociation.org/competitions/AlphenTracktoRecords24h2023/results/podiums) |
@@ -96,6 +100,7 @@
 | 11 | [Anish Rajesh](https://www.worldcubeassociation.org/persons/2014RAJE03) | [Avenues CUBELELO Open 2015](https://www.worldcubeassociation.org/competitions/AvenuesCUBELELO2015/results/podiums) |
 | 10 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [ABC 2018](https://www.worldcubeassociation.org/competitions/AwesomeBruchsalCubing2018/results/podiums) |
 | 14 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Azerbaijan Nationals 2023](https://www.worldcubeassociation.org/competitions/AzerbaijanNationals2023/results/podiums) |
+| 11 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Back to Bishkek 2024](https://www.worldcubeassociation.org/competitions/BacktoBishkek2024/results/podiums) |
 | 10 | [Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19) | [Back to Cubing San Carlos 2022](https://www.worldcubeassociation.org/competitions/BacktoCubingSanCarlos2022/results/podiums) |
 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/podiums) |
 | 11 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Ballerup Open 2012](https://www.worldcubeassociation.org/competitions/BallerupOpen2012/results/podiums) |
@@ -109,6 +114,7 @@
 | 10 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Banja Luka Open 2022](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2022/results/podiums) |
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Barby Cube 73 2017](https://www.worldcubeassociation.org/competitions/BarbyCube732017/results/podiums) |
 | 12 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Barcelona FME Open 2015](https://www.worldcubeassociation.org/competitions/BarcelonaFMEOpen2015/results/podiums) |
+| 10 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | [Barely Awake Boulder 2024](https://www.worldcubeassociation.org/competitions/BarelyAwakeBoulder2024/results/podiums) |
 | 11 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Basauri Open 2010](https://www.worldcubeassociation.org/competitions/BasauriOpen2010/results/podiums) |
 | 11 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Basauri Open 2011](https://www.worldcubeassociation.org/competitions/BasauriOpen2011/results/podiums) |
 | 11 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | [Basauri Open 2012](https://www.worldcubeassociation.org/competitions/BasauriOpen2012/results/podiums) |
@@ -166,6 +172,7 @@
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |
 | 11 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Bigs & Blind 2023](https://www.worldcubeassociation.org/competitions/BrasiliaBigsBlind2023/results/podiums) |
+| 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Bigs & Blind 2024](https://www.worldcubeassociation.org/competitions/BrasiliaBigsBlind2024/results/podiums) |
 | 10 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [Brasília Open 2009](https://www.worldcubeassociation.org/competitions/BrasiliaOpen2009/results/podiums) |
 | 12 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Bratislava No-Cutoff Open 2015](https://www.worldcubeassociation.org/competitions/BratislavaNoCutoffOpen2015/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Bravamall Open 2023](https://www.worldcubeassociation.org/competitions/BravamallOpen2023/results/podiums) |
@@ -799,6 +806,8 @@
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Osijek Open 2019](https://www.worldcubeassociation.org/competitions/OsijeKOpen2019/results/podiums) |
 | 10 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Oskemen Open 2024](https://www.worldcubeassociation.org/competitions/OskemenOpen2024/results/podiums) |
 | 15 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022/results/podiums) |
+| 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/podiums) |
+| 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2017](https://www.worldcubeassociation.org/competitions/OuluOpen2017/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2022](https://www.worldcubeassociation.org/competitions/OuluOpen2022/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019/results/podiums) |
@@ -816,6 +825,7 @@
 | 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Pão de Queijo Open 2023](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2023/results/podiums) |
 | 12 | [José Chávez](https://www.worldcubeassociation.org/persons/2016CHAV18) | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums) |
 | 10 | [Milko Sebastián Gutiérrez Arroyo](https://www.worldcubeassociation.org/persons/2016ARRO05) | [Paraguay Nationals 2019](https://www.worldcubeassociation.org/competitions/ParaguayNationals2019/results/podiums) |
+| 13 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Parets Open 2024](https://www.worldcubeassociation.org/competitions/ParetsOpen2024/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Partage Open 2023](https://www.worldcubeassociation.org/competitions/PartageOpen2023/results/podiums) |
 | 10 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [PB Smashathon 2015](https://www.worldcubeassociation.org/competitions/PBSmashathon2015/results/podiums) |
 | 10 | [Farhan Siddiq](https://www.worldcubeassociation.org/persons/2017SIDD03) | [Pekanbaru Open 2017](https://www.worldcubeassociation.org/competitions/PekanbaruOpen2017/results/podiums) |

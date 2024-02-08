@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  1 February 2024*
+*Updated on  7 February 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -254,6 +254,7 @@
 | 1 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 1 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) |
 | 1 | [Santosh Tantravahi](https://www.worldcubeassociation.org/persons/2013TANT02) |
+| 1 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
 | 1 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) |
 | 1 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) |
 | 1 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |

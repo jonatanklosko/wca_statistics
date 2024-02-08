@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  1 February 2024*
+*Updated on  7 February 2024*
 
 | Continents | Person |
 | ---: | :--- |
@@ -52,6 +52,7 @@
 | 5 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) |
 | 5 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
 | 5 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) |
+| 5 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 4 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 4 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
@@ -100,6 +101,7 @@
 | 4 | [Thaynara Santana de Oliveira](https://www.worldcubeassociation.org/persons/2011OLIV03) |
 | 4 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 4 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
 | 4 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |
 | 4 | [Jonah Crosby](https://www.worldcubeassociation.org/persons/2012CROS01) |
 | 4 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
@@ -143,7 +145,6 @@
 | 4 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) |
 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 4 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) |
-| 4 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 4 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
 | 4 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 4 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |

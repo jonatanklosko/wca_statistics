@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 11 February 2024*
+*Updated on 13 February 2024*
 
 
 ### Rubik's Cube
@@ -31,8 +31,8 @@
 | [Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06) | 1.22 | **1.57** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e222_f) | 4 |
 | [Newken Nguyen](https://www.worldcubeassociation.org/persons/2020NGUY04) | 1.26 | **1.58** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 8 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.27 | **1.61** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 9 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.27 | **1.62** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#e222_f) | 4 |
 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) | 1.31 | **1.62** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e222_f) | 4 |
-| [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.28 | **1.63** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 10 |
 
 ### 4x4x4 Cube
 
@@ -176,13 +176,13 @@
 | [Eddie Artze](https://www.worldcubeassociation.org/persons/2020ARTZ01) | 3.81 | **4.16** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 4 |
 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.08 | **4.40** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 5 |
 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 4.13 | **4.62** | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/all#eclock_f) | 4 |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.87 | **4.63** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#eclock_f) | 4 |
+| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 3.73 | **4.71** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#eclock_f) | 5 |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 4.29 | **4.76** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eclock_f) | 4 |
 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | 3.64 | **4.77** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eclock_f) | 4 |
+| [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 4.65 | **4.80** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#eclock_f) | 6 |
 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 3.87 | **4.83** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eclock_f) | 5 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 4.21 | **4.90** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eclock_f) | 6 |
-| [Richard Yiheng Tao](https://www.worldcubeassociation.org/persons/2020TAOR01) | 4.65 | **4.91** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eclock_f) | 5 |
-| [Victor Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) | 4.17 | **4.96** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eclock_f) | 6 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 4.47 | **4.98** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eclock_f) | 7 |
 
 ### Skewb
 

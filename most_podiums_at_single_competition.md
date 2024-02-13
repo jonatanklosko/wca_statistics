@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 11 February 2024*
+*Updated on 13 February 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -360,6 +360,7 @@
 | 10 | [Alrimar Dias Rocha Sobrinho](https://www.worldcubeassociation.org/persons/2011SOBR01) | [DRACO 2013](https://www.worldcubeassociation.org/competitions/Draco2013/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [DSF Generalforsamlingen 2022](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2022/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [DSF Generalforsamlingen 2023](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2023/results/podiums) |
+| 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [DSF Generalforsamlingen 2024](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2024/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [DST Verano 2017](https://www.worldcubeassociation.org/competitions/DSTVerano2017/results/podiums) |
 | 14 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017/results/podiums) |
 | 11 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017/results/podiums) |
@@ -1113,6 +1114,7 @@
 | 10 | [Oleg Martynov](https://www.worldcubeassociation.org/persons/2012MART05) | [Ural Winter 2015](https://www.worldcubeassociation.org/competitions/UralWinter2015/results/podiums) |
 | 10 | [Oleg Martynov](https://www.worldcubeassociation.org/persons/2012MART05) | [Ural Winter 2017](https://www.worldcubeassociation.org/competitions/UralWinter2017/results/podiums) |
 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [U.R.A. Spring of Colors 2018](https://www.worldcubeassociation.org/competitions/URASpringofColors2018/results/podiums) |
+| 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [URJC Open 2024](https://www.worldcubeassociation.org/competitions/URJCOpen2024/results/podiums) |
 | 13 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Utah Championship 2022](https://www.worldcubeassociation.org/competitions/UtahChampionship2022/results/podiums) |
 | 10 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Fall 2009](https://www.worldcubeassociation.org/competitions/UtahFall2009/results/podiums) |
 | 10 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Open 2009](https://www.worldcubeassociation.org/competitions/UtahOpen2009/results/podiums) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 11 February 2024*
+*Updated on 13 February 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -18,6 +18,7 @@
 | 252 | [Kevin Liu](https://www.worldcubeassociation.org/persons/2023LIUK02) |
 | 253 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
 | 258 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) |
+| 265 | [Felix Samuel Williams](https://www.worldcubeassociation.org/persons/2023WILL26) |
 | 266 | [Yikang Xie (谢轶康)](https://www.worldcubeassociation.org/persons/2016XIEY03) |
 | 280 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 287 | [Martin Fröhlich](https://www.worldcubeassociation.org/persons/2023FROH01) |

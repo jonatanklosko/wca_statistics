@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 11 February 2024*
+*Updated on 13 February 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -67,6 +67,7 @@
 | 2897 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 2926 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 2982 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 3032 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 3074 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 3136 | [Matej Bolta](https://www.worldcubeassociation.org/persons/2015BOLT01) |
 | 3282 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |

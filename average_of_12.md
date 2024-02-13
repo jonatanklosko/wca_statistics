@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 11 February 2024*
+*Updated on 13 February 2024*
 
 
 ### Rubik's Cube
@@ -89,8 +89,8 @@
 | 1:55.52 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:55.83, 1:55.43, 1:53.69, 1:51.27, 2:17.84, 1:51.91, 2:00.68, 1:56.06, 1:56.44, 1:58.78, 1:50.81, 1:55.16 |
 | 1:58.78 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:03.11, 1:55.82, 2:03.73, 2:03.25, 1:57.07, 2:04.44, 2:03.64, 1:56.56, 1:55.34, 1:43.49, 1:58.58, 1:50.74 |
 | 1:59.21 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 2:04.87, 1:55.20, 1:47.46, 1:57.88, 2:04.66, 2:00.35, 2:00.60, 1:57.12, 2:00.57, 1:59.47, 2:01.42, 1:54.91 |
+| 2:00.18 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 2:01.47, 2:05.94, 2:08.02, 1:58.14, 1:59.54, 2:01.72, 1:57.91, 1:57.54, 1:52.63, 2:00.69, 1:56.12, 2:02.73 |
 | 2:01.34 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:56.06, 2:04.37, 2:05.35, 2:09.10, 1:56.92, 2:05.66, 1:54.59, 1:58.98, 1:55.67, 2:07.84, 2:04.69, 1:57.95 |
-| 2:01.36 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 2:11.99, 1:57.24, 2:06.09, 2:01.47, 2:05.94, 2:08.02, 1:58.14, 1:59.54, 2:01.72, 1:57.91, 1:57.54, 1:52.63 |
 | 2:01.78 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 2:03.09, 2:05.45, 2:08.93, 2:01.50, 1:59.28, 1:58.97, 1:59.39, 2:03.11, 2:05.85, 1:55.65, 2:04.56, 1:56.65 |
 | 2:02.81 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) | 1:57.46, 1:58.47, 2:03.98, 2:04.65, 1:58.88, 1:54.40, 2:12.17, 2:03.76, 2:04.23, 2:05.55, 2:19.87, 1:58.99 |
 

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 11 February 2024*
+*Updated on 13 February 2024*
 
 
 ### Rubik's Cube
@@ -136,7 +136,7 @@
 | 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2018KHAN28) |
 | 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
 | 1.43 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022/results/by_person#2018KHAN28) |
-| 1.46 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2013BURL01) |
+| 1.44 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/by_person#2021GROH01) |
 
 ### Square-1
 

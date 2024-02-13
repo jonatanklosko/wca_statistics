@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 11 February 2024*
+*Updated on 13 February 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.48 | World | 11476 |
+| 1.48 | World | 11487 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.74 | Europe | 3744 |
-| 1.53 | South America | 1358 |
-| 1.47 | Oceania | 510 |
-| 1.42 | Asia | 2526 |
+| 1.74 | Europe | 3748 |
+| 1.53 | South America | 1359 |
+| 1.47 | Oceania | 513 |
+| 1.42 | Asia | 2527 |
 | 1.26 | Africa | 129 |
-| 1.20 | North America | 3209 |
+| 1.20 | North America | 3211 |
 
 ### Countries
 
@@ -27,7 +27,7 @@
 | 2.11 | Hungary | 37 |
 | 2.06 | Uzbekistan | 17 |
 | 2.04 | Czech Republic | 48 |
-| 2.02 | Kazakhstan | 44 |
+| 2.00 | Kazakhstan | 45 |
 | 2.00 | Liechtenstein | 3 |
 | 1.96 | Turkey | 84 |
 | 1.96 | United Kingdom | 204 |
@@ -38,7 +38,7 @@
 | 1.90 | Germany | 213 |
 | 1.90 | Norway | 110 |
 | 1.89 | Serbia | 19 |
-| 1.87 | France | 272 |
+| 1.87 | France | 275 |
 | 1.85 | Spain | 321 |
 | 1.83 | Switzerland | 103 |
 | 1.83 | Finland | 121 |
@@ -55,12 +55,12 @@
 | 1.75 | Kyrgyzstan | 4 |
 | 1.75 | Palestine | 4 |
 | 1.73 | Slovenia | 30 |
-| 1.72 | Argentina | 75 |
+| 1.72 | Argentina | 76 |
 | 1.70 | Ukraine | 124 |
 | 1.68 | Poland | 419 |
 | 1.67 | Luxembourg | 3 |
 | 1.67 | North Macedonia | 6 |
-| 1.66 | Denmark | 149 |
+| 1.66 | Denmark | 150 |
 | 1.65 | Greece | 23 |
 | 1.63 | New Zealand | 105 |
 | 1.63 | Ireland | 51 |
@@ -83,7 +83,7 @@
 | 1.48 | Latvia | 27 |
 | 1.43 | Costa Rica | 23 |
 | 1.43 | Romania | 104 |
-| 1.43 | Australia | 405 |
+| 1.43 | Australia | 408 |
 | 1.42 | Nepal | 19 |
 | 1.40 | Bulgaria | 15 |
 | 1.39 | Ecuador | 41 |
@@ -116,7 +116,7 @@
 | 1.17 | Armenia | 6 |
 | 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2579 |
+| 1.16 | United States | 2581 |
 | 1.16 | Canada | 332 |
 | 1.14 | Azerbaijan | 43 |
 | 1.12 | Honduras | 16 |

@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 11 February 2024*
+*Updated on 13 February 2024*
 
 
 ### Rubik's Cube - Single
@@ -474,6 +474,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4:39.14** | Sweden | [Stockholm Mental Breakdown 2023](https://www.worldcubeassociation.org/competitions/StockholmMentalBreakdown2023) | 3:56.57, 5:09.29, 4:51.56 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **9:12.85** | United States | [Shhicago 2024](https://www.worldcubeassociation.org/competitions/Shhicago2024) | 7:40.84, 9:26.71, 10:31.00 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **9:15.79** | Russia | [Swiss Open 2017](https://www.worldcubeassociation.org/competitions/SwissOpen2017) | 8:39.60, 8:13.78, 10:54.00 |
 | [Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01) | **9:32.87** | India | [Bengal Cube Open 2023](https://www.worldcubeassociation.org/competitions/BengalCubeOpen2023) | 10:09.00, 8:24.62, 10:05.00 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **10:10.00** | Malaysia | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022) | 8:42.80, 11:13.00, 10:34.00 |
@@ -482,7 +483,6 @@
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **13:09.00** | United States | [MBLD Madison Meeting Room 2023](https://www.worldcubeassociation.org/competitions/MBLDinaMadisonMeetingRoom2023) | 12:18.00, 13:10.00, 13:59.00 |
 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) | **13:24.00** | United States | [Skillcon 2018](https://www.worldcubeassociation.org/competitions/Skillcon2018) | 13:17.00, 12:33.00, 14:22.00 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **13:48.00** | United States | [Cubetcha 2019](https://www.worldcubeassociation.org/competitions/Cubetcha2019) | 13:11.00, 13:19.00, 14:55.00 |
-| [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | **14:37.00** | Spain | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022) | 13:28.00, 15:39.00, 14:43.00 |
 
 ### 3x3x3 Multi-Blind - Single
 

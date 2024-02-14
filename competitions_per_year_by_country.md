@@ -4,73 +4,73 @@
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
-| 116.58 | 2338 | 20.05 | United States |
-| 37.33 | 611 | 16.37 | China |
+| 116.56 | 2338 | 20.06 | United States |
+| 37.32 | 611 | 16.37 | China |
 | 30.95 | 495 | 15.99 | India |
-| 24.84 | 402 | 16.18 | Brazil |
-| 24.08 | 338 | 14.04 | Australia |
-| 21.79 | 401 | 18.40 | Poland |
-| 18.88 | 240 | 12.71 | Colombia |
+| 24.84 | 402 | 16.19 | Brazil |
+| 24.07 | 338 | 14.04 | Australia |
+| 21.79 | 401 | 18.41 | Poland |
+| 18.87 | 240 | 12.72 | Colombia |
 | 15.53 | 299 | 19.25 | Spain |
-| 14.85 | 304 | 20.48 | Canada |
+| 14.84 | 304 | 20.48 | Canada |
 | 14.63 | 241 | 16.47 | Philippines |
 | 14.23 | 182 | 12.79 | Peru |
 | 13.86 | 207 | 14.94 | Russia |
-| 13.84 | 200 | 14.46 | Indonesia |
+| 13.83 | 200 | 14.46 | Indonesia |
 | 12.96 | 257 | 19.83 | France |
-| 11.83 | 103 | 8.71 | Bolivia |
+| 11.82 | 103 | 8.71 | Bolivia |
 | 11.72 | 218 | 18.60 | Japan |
 | 11.30 | 189 | 16.72 | Italy |
 | 10.98 | 211 | 19.21 | Sweden |
-| 10.33 | 178 | 17.24 | United Kingdom |
+| 10.32 | 178 | 17.24 | United Kingdom |
 | 10.00 | 198 | 19.81 | Germany |
-| 9.33 | 119 | 12.75 | Ukraine |
-| 8.57 | 136 | 15.88 | Denmark |
+| 9.33 | 119 | 12.76 | Ukraine |
+| 8.56 | 136 | 15.88 | Denmark |
 | 8.12 | 123 | 15.15 | Mexico |
 | 7.50 | 81 | 10.80 | Turkey |
-| 7.18 | 126 | 17.56 | Chinese Taipei |
+| 7.17 | 126 | 17.56 | Chinese Taipei |
 | 7.12 | 97 | 13.62 | Romania |
 | 7.12 | 106 | 14.88 | Chile |
-| 6.79 | 116 | 17.08 | Finland |
-| 6.62 | 42 | 6.35 | Kazakhstan |
+| 6.79 | 116 | 17.09 | Finland |
+| 6.61 | 42 | 6.35 | Kazakhstan |
 | 6.38 | 102 | 15.99 | Norway |
-| 6.29 | 96 | 15.26 | Switzerland |
-| 6.18 | 90 | 14.57 | New Zealand |
-| 6.17 | 64 | 10.37 | Venezuela |
+| 6.29 | 96 | 15.27 | Switzerland |
+| 6.17 | 90 | 14.58 | New Zealand |
+| 6.17 | 64 | 10.38 | Venezuela |
 | 5.95 | 60 | 10.09 | South Africa |
-| 5.71 | 40 | 7.00 | Ecuador |
+| 5.71 | 40 | 7.01 | Ecuador |
 | 5.45 | 71 | 13.02 | Argentina |
 | 5.35 | 76 | 14.21 | Malaysia |
 | 5.16 | 105 | 20.34 | Netherlands |
 | 5.10 | 52 | 10.20 | Guatemala |
 | 5.03 | 47 | 9.34 | Uruguay |
-| 4.67 | 40 | 8.57 | Azerbaijan |
+| 4.66 | 40 | 8.57 | Azerbaijan |
 | 4.54 | 82 | 18.06 | Republic of Korea |
 | 3.94 | 41 | 10.40 | Belarus |
-| 3.94 | 70 | 17.77 | Belgium |
+| 3.94 | 70 | 17.78 | Belgium |
 | 3.68 | 30 | 8.15 | El Salvador |
 | 3.66 | 44 | 12.01 | Ireland |
 | 3.64 | 52 | 14.27 | Estonia |
 | 3.48 | 47 | 13.52 | Vietnam |
-| 3.38 | 25 | 7.39 | Paraguay |
+| 3.38 | 25 | 7.40 | Paraguay |
 | 3.25 | 49 | 15.10 | Thailand |
 | 3.21 | 6 | 1.87 | Sri Lanka |
 | 3.11 | 20 | 6.43 | Costa Rica |
 | 2.91 | 39 | 13.38 | Israel |
 | 2.81 | 35 | 12.45 | Iran |
 | 2.81 | 42 | 14.96 | Singapore |
-| 2.62 | 24 | 9.14 | Tunisia |
+| 2.62 | 24 | 9.15 | Tunisia |
 | 2.62 | 46 | 17.56 | Czech Republic |
 | 2.59 | 16 | 6.18 | Honduras |
 | 2.56 | 26 | 10.15 | Georgia |
 | 2.55 | 26 | 10.18 | Dominican Republic |
-| 2.53 | 16 | 6.33 | Uzbekistan |
+| 2.53 | 16 | 6.34 | Uzbekistan |
 | 2.35 | 25 | 10.63 | Lithuania |
 | 2.35 | 19 | 8.08 | Nepal |
 | 2.21 | 23 | 10.40 | Mongolia |
 | 2.19 | 25 | 11.39 | Latvia |
 | 2.16 | 13 | 6.01 | Bulgaria |
-| 2.13 | 32 | 15.03 | Slovakia |
+| 2.13 | 32 | 15.04 | Slovakia |
 | 2.04 | 13 | 6.37 | Panama |
 | 1.96 | 27 | 13.81 | Slovenia |
 | 1.79 | 11 | 6.14 | Bangladesh |
@@ -81,12 +81,12 @@
 | 1.45 | 17 | 11.76 | Serbia |
 | 1.41 | 9 | 6.39 | Cyprus |
 | 1.22 | 8 | 6.58 | Kuwait |
-| 1.20 | 9 | 7.48 | Algeria |
+| 1.20 | 9 | 7.49 | Algeria |
 | 1.16 | 18 | 15.55 | Hong Kong, China |
 | 1.12 | 7 | 6.24 | Bahrain |
-| 1.10 | 13 | 11.87 | Jordan |
+| 1.09 | 13 | 11.87 | Jordan |
 | 1.08 | 5 | 4.65 | Egypt |
-| 1.06 | 5 | 4.72 | Nigeria |
+| 1.06 | 5 | 4.73 | Nigeria |
 | 1.03 | 12 | 11.68 | Iceland |
 | 1.01 | 15 | 14.89 | United Arab Emirates |
 | 1.00 | 6 | 6.02 | Armenia |
@@ -96,27 +96,27 @@
 | 0.87 | 4 | 4.61 | Palestine |
 | 0.87 | 10 | 11.55 | Bosnia and Herzegovina |
 | 0.84 | 35 | 41.69 | Hungary |
-| 0.72 | 5 | 6.94 | Morocco |
+| 0.72 | 5 | 6.95 | Morocco |
 | 0.68 | 6 | 8.88 | Multiple Countries (Europe) |
-| 0.67 | 5 | 7.46 | San Marino |
-| 0.66 | 4 | 6.10 | Mauritius |
-| 0.65 | 4 | 6.13 | Kyrgyzstan |
+| 0.67 | 5 | 7.47 | San Marino |
+| 0.66 | 4 | 6.11 | Mauritius |
+| 0.65 | 4 | 6.14 | Kyrgyzstan |
 | 0.63 | 6 | 9.46 | Andorra |
 | 0.63 | 4 | 6.33 | Multiple Countries (Americas) |
 | 0.58 | 5 | 8.56 | Moldova |
 | 0.57 | 3 | 5.24 | Kosovo |
 | 0.55 | 3 | 5.50 | Tajikistan |
-| 0.51 | 3 | 5.83 | Albania |
-| 0.49 | 3 | 6.08 | Liechtenstein |
+| 0.51 | 3 | 5.84 | Albania |
+| 0.49 | 3 | 6.09 | Liechtenstein |
 | 0.47 | 2 | 4.28 | Cambodia |
 | 0.45 | 2 | 4.44 | Multiple Countries (North America) |
-| 0.45 | 3 | 6.69 | Montenegro |
+| 0.45 | 3 | 6.70 | Montenegro |
 | 0.41 | 2 | 4.86 | Ghana |
 | 0.38 | 2 | 5.26 | Luxembourg |
 | 0.36 | 2 | 5.51 | Pakistan |
 | 0.24 | 1 | 4.21 | Malta |
 | 0.21 | 1 | 4.67 | Multiple Countries (World) |
-| 0.21 | 1 | 4.70 | Madagascar |
+| 0.21 | 1 | 4.71 | Madagascar |
 | 0.13 | 1 | 7.85 | Cuba |
 | 0.12 | 1 | 8.04 | Multiple Countries (South America) |
 | 0.07 | 1 | 14.50 | Macau, China |

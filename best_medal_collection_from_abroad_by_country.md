@@ -1,25 +1,25 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 February 2024*
+*Updated on 16 February 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1393** | 1167 | 1000 | 3560 |
-| United States | **1020** | 851 | 760 | 2631 |
+| United States | **1021** | 853 | 761 | 2635 |
 | Germany | **1014** | 965 | 983 | 2962 |
-| France | **919** | 795 | 673 | 2387 |
+| France | **920** | 796 | 673 | 2389 |
 | Netherlands | **903** | 714 | 595 | 2212 |
 | Russia | **831** | 500 | 392 | 1723 |
-| China | **651** | 612 | 550 | 1813 |
+| China | **652** | 612 | 550 | 1814 |
 | Poland | **584** | 380 | 291 | 1255 |
-| Malaysia | **404** | 400 | 368 | 1172 |
+| Malaysia | **404** | 401 | 368 | 1173 |
 | United Kingdom | **389** | 446 | 434 | 1269 |
 | Canada | **370** | 377 | 405 | 1152 |
 | Denmark | **351** | 296 | 236 | 883 |
 | Republic of Korea | **320** | 277 | 246 | 843 |
 | Sweden | **307** | 351 | 364 | 1022 |
-| Hong Kong, China | **290** | 308 | 237 | 835 |
+| Hong Kong, China | **291** | 309 | 237 | 837 |
 | Australia | **289** | 136 | 91 | 516 |
 | India | **285** | 239 | 237 | 761 |
 | Finland | **274** | 207 | 173 | 654 |
@@ -38,7 +38,7 @@
 | Ireland | **144** | 77 | 61 | 282 |
 | Peru | **143** | 76 | 92 | 311 |
 | Belgium | **137** | 202 | 179 | 518 |
-| Colombia | **137** | 111 | 97 | 345 |
+| Colombia | **137** | 112 | 97 | 346 |
 | Slovenia | **134** | 172 | 178 | 484 |
 | Greece | **120** | 146 | 108 | 374 |
 | Belarus | **111** | 72 | 85 | 268 |
@@ -74,7 +74,7 @@
 | South Africa | **16** | 20 | 40 | 76 |
 | Mexico | **14** | 21 | 26 | 61 |
 | Nicaragua | **14** | 5 | 10 | 29 |
-| Bulgaria | **12** | 35 | 33 | 80 |
+| Bulgaria | **12** | 35 | 36 | 83 |
 | Tunisia | **10** | 9 | 7 | 26 |
 | Uruguay | **10** | 6 | 18 | 34 |
 | Nigeria | **9** | 16 | 12 | 37 |
@@ -89,7 +89,7 @@
 | Panama | **6** | 7 | 8 | 21 |
 | Honduras | **6** | 5 | 8 | 19 |
 | Cameroon | **6** | 1 | 1 | 8 |
-| Macau, China | **5** | 13 | 16 | 34 |
+| Macau, China | **5** | 14 | 16 | 35 |
 | Haiti | **5** | 8 | 8 | 21 |
 | Armenia | **5** | 6 | 9 | 20 |
 | Egypt | **4** | 22 | 25 | 51 |

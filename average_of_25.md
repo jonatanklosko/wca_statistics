@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 February 2024*
+*Updated on 16 February 2024*
 
 
 ### Rubik's Cube
@@ -130,9 +130,9 @@
 | ---: | :--- | :--- |
 | 9.17 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.76, 8.00, 8.92, 9.37, 9.17, 9.36, 9.83, 8.08, 8.92, 9.48, 9.74, 7.30, 9.31, 10.82, 10.57, 9.96, 9.22, 10.02, 9.78, 9.48, 8.95, 6.20, 7.86, 9.68, 8.83 |
 | 9.45 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 7.18, 11.35, 9.20, 10.34, 12.70, 8.67, 8.13, 8.32, 9.13, 11.81, 8.71, 10.04, 11.72, 10.01, 9.92, 8.27, 7.92, 10.85, 10.58, 9.30, 6.83, 11.67, 7.49, 8.36, 8.66 |
+| 9.56 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 8.95, 8.85, 8.30, 10.23, 8.70, 8.42, 11.08, 11.99, 10.12, 10.05, 9.45, 9.38, 7.96, 7.40, 8.74, 10.09, 9.22, 13.66, 10.53, 10.41, 12.01, 9.95, 8.37, 9.52, 8.49 |
 | 9.57 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | 9.53, 9.42, 15.65, 9.03, 8.82, 10.22, 8.68, 9.48, 9.20, 14.24, 10.91, 8.80, 9.09, 10.34, 10.11, 11.03, 10.07, 9.77, 8.22, 8.92, 9.54, 7.79, 9.46, 9.20, 9.37 |
 | 9.63 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 9.28, 9.65, 9.96, 9.24, 9.32, 8.07, 9.99, DNF, 8.99, 9.28, 11.09, 8.37, 12.35, 13.39, 8.94, 9.76, 11.51, 8.99, 8.64, 8.69, 8.09, 9.73, 9.02, 9.54, 9.90 |
-| 9.64 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 8.56, 10.21, 9.90, 13.09, 9.67, 9.97, 9.97, 8.83, 9.83, 7.83, 11.36, 10.11, 7.41, 9.57, 10.00, 9.64, 8.24, 10.91, 10.88, 9.63, 8.92, 9.40, 10.34, 8.46, 9.60 |
 | 9.69 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.13, 11.20, 8.56, 8.94, 10.92, 9.16, 10.38, 11.08, 8.17, 11.29, 8.84, 11.47, 17.22, 8.77, 9.41, 11.50, 10.35, 9.90, 8.86, 9.11, 7.77, 7.98, 10.81, 8.47, 9.80 |
 | 9.69 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 10.78, 7.63, 8.62, 10.62, 9.30, 8.25, 10.28, 9.53, 11.31, 12.42, 10.70, 10.25, 9.35, 9.71, 9.36, 8.25, 11.43, 12.38, 9.11, 9.80, 8.95, 7.98, 10.06, 9.41, 8.61 |
 | 9.75 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 7.96, 9.32, 7.94, 10.08, 12.89, 11.06, 9.18, 10.21, 9.12, 10.15, 12.41, 8.42, 9.78, 9.71, 10.58, 11.57, 9.06, 9.44, 9.54, 9.80, 9.13, 9.71, 9.70, 10.03, 9.18 |

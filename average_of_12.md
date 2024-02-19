@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 February 2024*
+*Updated on 19 February 2024*
 
 
 ### Rubik's Cube
@@ -130,11 +130,11 @@
 | ---: | :--- | :--- |
 | 8.98 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.76, 8.00, 8.92, 9.37, 9.17, 9.36, 9.83, 8.08, 8.92, 9.48, 9.74, 7.30 |
 | 9.03 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 9.92, 8.27, 7.92, 10.85, 10.58, 9.30, 6.83, 11.67, 7.49, 8.36, 8.66, 8.97 |
+| 9.21 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 8.83, 8.43, 9.71, 9.68, 8.03, 9.03, 10.84, 9.14, DNF, 8.09, 10.06, 8.33 |
 | 9.21 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8.99, 8.64, 8.69, 8.09, 9.73, 9.02, 9.54, 9.90, 9.37, 11.54, 8.69, 9.55 |
 | 9.34 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.77, 9.41, 11.50, 10.35, 9.90, 8.86, 9.11, 7.77, 7.98, 10.81, 8.47, 9.80 |
 | 9.34 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 9.14, 8.76, 8.19, 10.06, 8.59, 11.67, 9.16, 8.65, 9.45, 10.58, 10.09, 8.99 |
 | 9.36 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 8.30, 10.23, 8.70, 8.42, 11.08, 11.99, 10.12, 10.05, 9.45, 9.38, 7.96, 7.40 |
-| 9.36 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 9.83, 9.10, 8.87, 11.56, 8.98, 9.25, 10.78, 7.63, 8.62, 10.62, 9.30, 8.25 |
 | 9.39 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 9.06, 9.44, 9.54, 9.80, 9.13, 9.71, 9.70, 10.03, 9.18, 10.17, 8.36, 8.01 |
 | 9.42 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | 10.11, 11.03, 10.07, 9.77, 8.22, 8.92, 9.54, 7.79, 9.46, 9.20, 9.37, 9.57 |
 | 9.59 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 9.26, 11.45, 7.60, 9.55, 9.20, 11.10, 8.13, 11.68, 8.14, 10.31, 10.41, 8.35 |

@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 16 February 2024*
+*Updated on 19 February 2024*
 
 | Person | Years |
 | :--- | ---: |
@@ -61,8 +61,8 @@
 | [Yinghao Zhu (朱英豪)](https://www.worldcubeassociation.org/persons/2013ZHUY01) | 10.37 |
 | [Maggie Jordan](https://www.worldcubeassociation.org/persons/2013JORD01) | 10.35 |
 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) | 10.33 |
-| [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
 | [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
+| [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 10.31 |
 | [Vi Dinh](https://www.worldcubeassociation.org/persons/2013DINH01) | 10.29 |
 | [Siddhikant Mishra](https://www.worldcubeassociation.org/persons/2012MISH01) | 10.23 |
@@ -88,21 +88,21 @@
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 9.56 |
 | [Sutep Nopnatee (สุเทพ นภนที)](https://www.worldcubeassociation.org/persons/2010NOPN01) | 9.54 |
 | [Shubham Dubey](https://www.worldcubeassociation.org/persons/2014DUBE03) | 9.47 |
-| [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 9.47 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 9.47 |
+| [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 9.47 |
 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) | 9.45 |
 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 9.39 |
 | [Vegard Seim Karstang](https://www.worldcubeassociation.org/persons/2009SEIM02) | 9.33 |
 | [Borja Perez](https://www.worldcubeassociation.org/persons/2013PERE05) | 9.28 |
 | [Weslley Lima](https://www.worldcubeassociation.org/persons/2014LIMA11) | 9.20 |
 | [Seth Rowell](https://www.worldcubeassociation.org/persons/2014ROWE03) | 9.19 |
-| [Lei Zhang (张磊)](https://www.worldcubeassociation.org/persons/2014ZHAN39) | 9.18 |
 | [James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01) | 9.18 |
+| [Lei Zhang (张磊)](https://www.worldcubeassociation.org/persons/2014ZHAN39) | 9.18 |
 | [Zeqin Chen (陈泽钦)](https://www.worldcubeassociation.org/persons/2010CHEN37) | 9.16 |
 | [Felipe Dias Ferreira](https://www.worldcubeassociation.org/persons/2014FERR09) | 9.12 |
 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | 9.06 |
-| [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
+| [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 
 

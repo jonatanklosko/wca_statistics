@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 19 February 2024*
+*Updated on 22 February 2024*
 
 
 ### 3x3x3 Blindfolded
@@ -20,13 +20,13 @@
 | 33 | [Oscar Coleman Green](https://www.worldcubeassociation.org/persons/2018GREE09) |
 | 32 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 31 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
+| 31 | [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01) |
 | 30 | [Nobuaki Suga (菅信昭)](https://www.worldcubeassociation.org/persons/2007SUGA01) |
 | 29 | [Xiaojian Li (李晓健)](https://www.worldcubeassociation.org/persons/2009LIXI02) |
 | 29 | [Kevin Estefano Coayla Vargas](https://www.worldcubeassociation.org/persons/2016VARG04) |
 | 28 | [Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01) |
 | 28 | [Preston Hoing](https://www.worldcubeassociation.org/persons/2019HOIN01) |
 | 27 | [Bruce Norskog](https://www.worldcubeassociation.org/persons/2006NORS01) |
-| 27 | [Kymberlyn Calderon](https://www.worldcubeassociation.org/persons/2015CALD02) |
 
 ### 4x4x4 Blindfolded
 

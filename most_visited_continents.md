@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 19 February 2024*
+*Updated on 22 February 2024*
 
 | Continents | Person |
 | ---: | :--- |
@@ -153,6 +153,7 @@
 | 4 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 4 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
 | 4 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
+| 4 | [Achilles Standring](https://www.worldcubeassociation.org/persons/2022STAN14) |
 | 4 | [Joseph Liu (劉睿博)](https://www.worldcubeassociation.org/persons/2023LIUJ01) |
 
 

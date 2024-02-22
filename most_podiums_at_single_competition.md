@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 February 2024*
+*Updated on 22 February 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -354,6 +354,7 @@
 | 12 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Oregon Championship 2019](https://www.worldcubeassociation.org/competitions/OregonChampionship2019/results/podiums) |
 | 12 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Southern Championship 2019](https://www.worldcubeassociation.org/competitions/SouthernChampionship2019/results/podiums) |
 | 12 | [José Chávez](https://www.worldcubeassociation.org/persons/2016CHAV18) | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums) |
+| 12 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Big Cubes in Stafsinge 2024](https://www.worldcubeassociation.org/competitions/BigCubesinStafsinge2024/results/podiums) |
 | 12 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [SSL Final Uppsala 2023](https://www.worldcubeassociation.org/competitions/SSLFinalUppsala2023/results/podiums) |
 | 12 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
 | 12 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [West Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2019/results/podiums) |
@@ -1120,6 +1121,7 @@
 | 10 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | [Ankara January 2023](https://www.worldcubeassociation.org/competitions/AnkaraJanuary2023/results/podiums) |
 | 10 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | [KSF Club Almaty 2022](https://www.worldcubeassociation.org/competitions/KSFClubAlmaty2022/results/podiums) |
 | 10 | [Egdar Castillo](https://www.worldcubeassociation.org/persons/2017CAST48) | [Panama Nationals 2022](https://www.worldcubeassociation.org/competitions/PanamaNationals2022/results/podiums) |
+| 10 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Eastwood Cubing 2024](https://www.worldcubeassociation.org/competitions/EastwoodCubing2024/results/podiums) |
 | 10 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Everything in Evanston B 2023](https://www.worldcubeassociation.org/competitions/EverythinginEvanstonB2023/results/podiums) |
 | 10 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023/results/podiums) |
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Hernando Summer 2020](https://www.worldcubeassociation.org/competitions/HernandoSummer2020/results/podiums) |

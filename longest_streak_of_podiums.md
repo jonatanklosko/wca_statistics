@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -53,7 +53,7 @@
 | 43 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | Square-1 | [Xi'an New Year 2016](https://www.worldcubeassociation.org/competitions/XianNewYear2016) | [Wuhan Open 2019](https://www.worldcubeassociation.org/competitions/WuhanOpen2019) |
 | 43 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 3x3x3 Blindfolded | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) |  |
 | 42 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 One-Handed | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
-| 42 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 2x2x2 Cube | [Buccaneer Bonanza 2022](https://www.worldcubeassociation.org/competitions/BuccaneerBonanza2022) |  |
+| 42 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 2x2x2 Cube | [Buccaneer Bonanza 2022](https://www.worldcubeassociation.org/competitions/BuccaneerBonanza2022) | [ODU Big Blue Winter 2024](https://www.worldcubeassociation.org/competitions/ODUBigBlueWinter2024) |
 | 41 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | Megaminx | [Swedish Open 2008](https://www.worldcubeassociation.org/competitions/SwedishOpen2008) |  |
 | 41 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | Square-1 | [Warsaw Open 2009](https://www.worldcubeassociation.org/competitions/WarsawOpen2009) | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |
 | 41 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3x3x3 With Feet | [Big Cube Krasnik 2014](https://www.worldcubeassociation.org/competitions/BigCubeKrasnik2014) |  |

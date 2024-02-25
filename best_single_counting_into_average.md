@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 
 ### Rubik's Cube
@@ -114,6 +114,7 @@
 | ---: | :--- | :--- |
 | 2.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 2.89 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
+| 3.04 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Lierskogen Vinterkubing 2024](https://www.worldcubeassociation.org/competitions/LierskogenVinterkubing2024/results/by_person#2021ELIA01) |
 | 3.09 | [Edwin Shen](https://www.worldcubeassociation.org/persons/2021SHEN01) | [A New Year in Auckland 2024](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2024/results/by_person#2021SHEN01) |
 | 3.11 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/by_person#2021ELIA01) |
 | 3.15 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2021KASP01) |
@@ -121,7 +122,6 @@
 | 3.17 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Get Ahead in Andalusia 2023](https://www.worldcubeassociation.org/competitions/GetAheadinAndalusia2023/results/by_person#2015CHER07) |
 | 3.19 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Manchester Winter 2024](https://www.worldcubeassociation.org/competitions/ManchesterWinter2024/results/by_person#2017CHAM09) |
 | 3.20 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Tofta Summer Open 2023](https://www.worldcubeassociation.org/competitions/ToftaSummerOpen2023/results/by_person#2021ELIA01) |
-| 3.21 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [3BLD on a Madison MoNona 2024](https://www.worldcubeassociation.org/competitions/3BLDonaMadisonMoNona2024/results/by_person#2018THOM29) |
 
 ### Skewb
 

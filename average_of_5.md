@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 
 ### Rubik's Cube
@@ -24,14 +24,14 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 0.89 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.15, 0.79, 0.91, 0.97, 0.71 |
+| 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.48, 0.77, 0.94, 0.87, 0.98 |
 | 1.03 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 0.87, 1.07, 1.16, 1.04, 0.98 |
-| 1.03 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.08, 0.99, 0.99, 1.36, 1.04 |
 | 1.09 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.12, 0.43, 4.94, 0.63, 1.54 |
 | 1.11 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.36, 1.08, 1.05, 0.94, 1.22 |
+| 1.11 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 1.06, 1.04, 1.24, 1.42, 1.00 |
 | 1.13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.36, 1.03, 1.15, 0.67, 1.23 |
 | 1.13 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | 1.06, 1.19, 1.14, 2.03, 1.08 |
 | 1.13 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 0.98, 1.71, 0.94, 1.33, 1.08 |
-| 1.14 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 1.05, 1.36, 1.59, 0.99, 1.01 |
 | 1.15 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.09, 1.26, 2.44, 1.12, 0.91 |
 
 ### 4x4x4 Cube
@@ -174,22 +174,22 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 3.15 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.76, 2.77, 2.80, 6.14, 2.89 |
+| 3.15 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 4.63, 3.06, 3.36, 3.04, 3.04 |
 | 3.27 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.65, 3.37, 3.05, 3.33, 3.12 |
 | 3.30 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3.11, 3.29, 3.86, 3.27, 3.36 |
 | 3.30 | [Edwin Shen](https://www.worldcubeassociation.org/persons/2021SHEN01) | 3.32, 2.97, 3.49, 6.38, 3.09 |
 | 3.35 | [Dilshawn Sidhu](https://www.worldcubeassociation.org/persons/2018SIDH02) | 3.26, 3.17, 5.83, 3.31, 3.48 |
 | 3.36 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.52, DNF, 3.16, 3.31, 3.26 |
-| 3.41 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.58, 3.34, DNF, 3.32, 3.03 |
 | 3.46 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 3.16, 3.61, 3.92, 3.61, 3.01 |
 | 3.48 | [Eddie Artze](https://www.worldcubeassociation.org/persons/2020ARTZ01) | 3.35, 2.94, 6.64, 3.52, 3.59 |
-| 3.54 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 2.83, 3.77, 5.08, 3.32, 3.55 |
+| 3.49 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 3.68, 3.67, 3.47, 2.81, 3.35 |
 
 ### Skewb
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1.46 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.69, 1.89, 1.14, 1.55, 1.14 |
-| 1.56 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 3.71, 1.30, 1.20, 1.79, 1.60 |
+| 1.51 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 2.56, 1.59, 1.30, 1.50, 1.45 |
 | 1.75 | [Charles Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 1.83, 4.83, 1.74, 1.37, 1.69 |
 | 1.76 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.80, 1.30, 2.32, 1.65, 1.85 |
 | 1.80 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 1.62, 1.96, 1.40, 2.57, 1.84 |

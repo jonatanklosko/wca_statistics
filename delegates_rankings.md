@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 
 ### Rubik's Cube - Single
@@ -302,7 +302,7 @@
 | [Nolan Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | **42.52** | United States | [Bay Area Speedcubin' 49 ... 2023](https://www.worldcubeassociation.org/competitions/BASC49Berkeley2023) | 42.80, 41.66, 45.26, 43.11, 34.34 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **42.70** | Sweden | [Uppsalaligan 1: Mixup - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan1Mixup2024) | 41.17, 42.62, 41.45, 44.02, 1:27.06 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **43.27** | Malaysia | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) | 47.98, 45.48, 41.57, 40.79, 42.76 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **44.15** | United States | [Milwaukee Cubing Mania 2024](https://www.worldcubeassociation.org/competitions/MilwaukeeCubingMania2024) | 45.34, 45.75, 46.89, 41.36, 40.78 |
+| [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | **43.30** | Australia | [Another Success in Success 2024](https://www.worldcubeassociation.org/competitions/GetAnotherSuccessinSuccess2024) | 41.89, 47.61, 41.25, 44.74, 43.26 |
 
 ### Pyraminx - Single
 

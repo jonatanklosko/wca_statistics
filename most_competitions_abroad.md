@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -36,8 +36,8 @@
 | 80 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 79 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 77 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 77 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 76 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 76 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 75 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 73 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 73 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -386,6 +386,7 @@
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Edukent Weekend 2022](https://www.worldcubeassociation.org/competitions/EdukentWeekend2022/results/podiums) |
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Say Hi to Cubing in Ankara 2024](https://www.worldcubeassociation.org/competitions/SayHitoCubinginAnkara2024/results/podiums) |
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Nationals 2023](https://www.worldcubeassociation.org/competitions/TurkishNationals2023/results/podiums) |
+| 12 | [Tamar Dolenjishvili](https://www.worldcubeassociation.org/persons/2018DOLE01) | [Georgia February Open 2024](https://www.worldcubeassociation.org/competitions/GeorgiaFebruaryOpen2024/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Bora Bora Barra Open 2023](https://www.worldcubeassociation.org/competitions/BoraBoraBarraOpen2023/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Pequi Open 2020](https://www.worldcubeassociation.org/competitions/PequiOpen2020/results/podiums) |

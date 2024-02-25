@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -484,6 +484,7 @@
 | 3535 | [Vasile Dan](https://www.worldcubeassociation.org/persons/2013VASI02) |
 | 3543 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 3564 | [Tomas Kristiansson](https://www.worldcubeassociation.org/persons/2007KRIS01) |
+| 3619 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 3682 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 3739 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 3752 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -104,6 +104,7 @@
 | 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 3 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
 | 3 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
+| 3 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 3 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 3 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
 | 3 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
@@ -114,6 +115,7 @@
 | 3 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
 | 3 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
+| 3 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 3 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) |
 | 2 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
@@ -146,7 +148,6 @@
 | 2 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) |
 | 2 | [Mirek Goljan](https://www.worldcubeassociation.org/persons/2003GOLJ01) |
 | 2 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
-| 2 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 2 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 2 | [Oskar Åsbrink](https://www.worldcubeassociation.org/persons/2009ASBR01) |
 | 2 | [Patrick Jameson](https://www.worldcubeassociation.org/persons/2007JAME01) |
@@ -164,7 +165,6 @@
 | 2 | [Vincent Sheu](https://www.worldcubeassociation.org/persons/2006SHEU01) |
 | 2 | [Vladislav Shavelskiy](https://www.worldcubeassociation.org/persons/2012SHAV01) |
 | 2 | [Will Arnold](https://www.worldcubeassociation.org/persons/2005ARNO01) |
-| 2 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 2 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 2 | [Yuhui Xu (许宇辉)](https://www.worldcubeassociation.org/persons/2007XUYU01) |
 | 2 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |

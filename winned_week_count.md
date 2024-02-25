@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 
 ### Rubik's Cube
@@ -15,8 +15,8 @@
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 19 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 17 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | 17 |
+| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 17 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 16 |
-| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 16 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 15 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 14 |
 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | 12 |
@@ -310,12 +310,12 @@
 | :--- | ---: |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 27 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 26 |
-| [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 23 |
+| [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 24 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 19 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 12 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 9 |
-| [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 9 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 8 |
+| [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 8 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 7 |
 | [Charles Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 7 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 6 |

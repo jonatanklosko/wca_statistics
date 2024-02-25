@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 
 ### Rubik's Cube
@@ -173,14 +173,14 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 3.48 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.34, 3.38, 3.59, 3.13, 4.22, 3.30, 4.42, 4.63, 3.06, 3.36, 3.04, 3.04 |
 | 3.59 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.81, 3.80, 3.99, 3.52, DNF, 3.16, 3.31, 3.26, 3.69, 3.62, 3.02, 3.77 |
-| 3.61 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.60, 3.93, 3.11, 2.89, 4.27, 3.28, 5.36, 3.79, 3.59, 3.63, 3.50, 3.44 |
 | 3.64 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3.85, 3.53, 3.85, 2.97, 3.69, 5.27, 3.85, 3.71, 2.99, 4.34, 3.51, 3.17 |
 | 3.69 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.46, 7.53, 4.88, 3.57, 3.18, 3.77, 4.63, 3.65, 3.37, 3.05, 3.33, 3.12 |
 | 3.73 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 5.80, 3.75, 3.57, 3.35, 3.51, 4.28, 3.68, 3.76, 2.77, 2.80, 6.14, 2.89 |
 | 3.83 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 3.43, 3.64, 7.52, 3.34, 3.96, 3.29, 5.34, 4.09, 3.80, 3.88, 3.57, 3.24 |
+| 3.89 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 3.73, 3.68, 3.67, 3.47, 2.81, 3.35, 5.12, DNF, 4.72, 3.22, 3.92, 4.04 |
 | 3.93 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.62, 5.07, 3.47, 4.03, 9.56, 3.45, 4.26, 3.93, 3.53, 3.25, 3.85, 4.14 |
-| 3.94 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 3.60, 3.69, 3.57, 4.86, 4.05, 3.60, DNF, 3.56, 3.68, 4.22, 4.60, 3.34 |
 | 3.97 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | 3.83, 3.53, 4.37, 3.48, 4.45, 4.00, 9.14, 3.26, 4.11, 4.73, 3.47, 3.80 |
 | 4.08 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 4.58, 6.09, 3.77, 3.46, 2.94, 5.21, 4.70, 3.43, 3.41, 3.16, 3.93, 5.20 |
 

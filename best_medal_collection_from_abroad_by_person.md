@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -12,7 +12,7 @@
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **199** | 50 | 18 | 267 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **175** | 59 | 28 | 262 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
-| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **153** | 39 | 29 | 221 |
+| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **156** | 41 | 29 | 226 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **135** | 150 | 132 | 417 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **134** | 71 | 42 | 247 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **132** | 20 | 8 | 160 |
@@ -45,7 +45,7 @@
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **66** | 44 | 44 | 154 |
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **65** | 49 | 35 | 149 |
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
-| [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **61** | 67 | 43 | 171 |
+| [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **61** | 68 | 45 | 174 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **61** | 54 | 39 | 154 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **59** | 64 | 69 | 192 |
@@ -78,11 +78,11 @@
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **43** | 38 | 20 | 101 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | **42** | 44 | 51 | 137 |
 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **42** | 42 | 25 | 109 |
+| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **42** | 9 | 3 | 54 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | **42** | 1 | 0 | 43 |
 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | **41** | 27 | 9 | 77 |
 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) | **40** | 67 | 64 | 171 |
 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) | **40** | 34 | 24 | 98 |
-| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **40** | 8 | 3 | 51 |
 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **39** | 32 | 20 | 91 |
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |
 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **39** | 28 | 31 | 98 |
@@ -93,8 +93,8 @@
 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | **37** | 51 | 29 | 117 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **37** | 29 | 21 | 87 |
 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **37** | 22 | 10 | 69 |
+| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | **36** | 31 | 35 | 102 |
 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | **36** | 31 | 19 | 86 |
-| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | **36** | 30 | 35 | 101 |
 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | **36** | 29 | 25 | 90 |
 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | **36** | 12 | 9 | 57 |
 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **35** | 48 | 24 | 107 |

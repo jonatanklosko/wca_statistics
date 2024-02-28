@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 February 2024*
+*Updated on 28 February 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -142,6 +142,7 @@
 | 938 | [Alexis Fedeler](https://www.worldcubeassociation.org/persons/2015FEDE01) |
 | 944 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 944 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
+| 952 | [Enzo Bruder-Jeannot](https://www.worldcubeassociation.org/persons/2021BRUD01) |
 | 953 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) |
 | 958 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 958 | [Matthew Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) |
@@ -184,7 +185,7 @@
 | 1147 | [Ryan Fong](https://www.worldcubeassociation.org/persons/2019FONG04) |
 | 1155 | [Paris Dorn](https://www.worldcubeassociation.org/persons/2015DORN02) |
 | 1155 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) |
-| 1155 | [David Karalli](https://www.worldcubeassociation.org/persons/2020KARA01) |
+| 1155 | [David Karalli (داود قراعلي)](https://www.worldcubeassociation.org/persons/2020KARA01) |
 | 1156 | [Aniketh Arya](https://www.worldcubeassociation.org/persons/2015ARYA03) |
 | 1164 | [Shifei Dai (代时飞)](https://www.worldcubeassociation.org/persons/2015DAIS01) |
 | 1168 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |

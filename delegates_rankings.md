@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 25 February 2024*
+*Updated on 28 February 2024*
 
 
 ### Rubik's Cube - Single
@@ -195,7 +195,7 @@
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **16.34** | Sweden | [Swedish Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishChampionship2022) | 28.15, 42.74, 16.34 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **18.10** | Argentina | [Nacionales Argentinas 2018](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2018) | DNF, 18.10, DNF |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **19.48** | Italy | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) | DNF, DNF, 19.48 |
-| [David Karalli](https://www.worldcubeassociation.org/persons/2020KARA01) | **20.26** | United States | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 25.94, 25.78, 20.26 |
+| [David Karalli (داود قراعلي)](https://www.worldcubeassociation.org/persons/2020KARA01) | **20.26** | United States | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 25.94, 25.78, 20.26 |
 | [Fletcher Berry](https://www.worldcubeassociation.org/persons/2018BERR01) | **21.06** | United States | [Ardmore Big & Blind 2023](https://www.worldcubeassociation.org/competitions/ArdmoreBigAndBlind2023) | DNF, DNF, 21.06 |
 | [Nolan Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | **21.36** | United States | [Davis Fall 2023](https://www.worldcubeassociation.org/competitions/DavisFall2023) | 21.36, DNF, 28.90 |
 
@@ -210,7 +210,7 @@
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **20.46** | United States | [Mini-sota 2023](https://www.worldcubeassociation.org/competitions/Minisota2023) | 22.61, 22.79, 15.99 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **22.27** | Italy | [PoliMi Mental Breakdown 2019](https://www.worldcubeassociation.org/competitions/PoliMiMentalBreakdown2019) | 26.01, 20.73, 20.06 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **22.98** | Argentina | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023) | 22.37, 23.36, 23.22 |
-| [David Karalli](https://www.worldcubeassociation.org/persons/2020KARA01) | **23.99** | United States | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 25.94, 25.78, 20.26 |
+| [David Karalli (داود قراعلي)](https://www.worldcubeassociation.org/persons/2020KARA01) | **23.99** | United States | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 25.94, 25.78, 20.26 |
 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | **25.99** | Finland | [Tapiola Winter Open 2019](https://www.worldcubeassociation.org/competitions/TapiolaWinterOpen2019) | 24.35, 26.71, 26.90 |
 | [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | **27.67** | Brazil | [Campeonato Brasileiro 2019](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2019) | 32.32, 27.66, 23.04 |
 
@@ -342,12 +342,12 @@
 | [Oliver Pällo](https://www.worldcubeassociation.org/persons/2020PALL01) | **3.36** | Estonia | [Tallinn Open 2023](https://www.worldcubeassociation.org/competitions/TallinnOpen2023) | 5.43, 3.36, 4.49, DNF, 5.10 |
 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) | **3.50** | New Zealand | [NZ North Island Champs 2022](https://www.worldcubeassociation.org/competitions/NZNorthIslandChamps2022) | 3.50, 8.02, 5.00, 5.98, DNF |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **3.51** | United States | [George School Open 2019](https://www.worldcubeassociation.org/competitions/GeorgeSchoolOpen2019) | 7.41, 5.27, 7.09, DNF, 3.51 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **3.69** | Poland | [BrizZon Side Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2024) | 6.45, 3.69, 5.72, 4.77, 3.94 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **3.70** | Sweden | [Nyköping Side Events 2023](https://www.worldcubeassociation.org/competitions/NykopingSideEvents2023) | 4.42, 4.88, 3.70, DNF, DNF |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **3.76** | United States | [Mt. Prospect Mini Marathon 2023](https://www.worldcubeassociation.org/competitions/MtProspectMiniMarathon2023) | 5.24, 5.24, 6.68, 3.76, DNF |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **3.79** | United States | [GA Cubers Mashed Potatoes 2022](https://www.worldcubeassociation.org/competitions/GACubersMashedPotatoes2022) | 6.75, 4.75, DNF, DNF, 3.79 |
 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | **3.80** | United States | [PBQ Kentucky 2023](https://www.worldcubeassociation.org/competitions/PBQKentucky2023) | 6.69, 11.66, 6.91, 6.73, 3.80 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **3.89** | Poland | [Stevenage November 2023](https://www.worldcubeassociation.org/competitions/StevenageNovember2023) | 4.76, 5.38, 3.89, 5.24, 5.24 |
-| [Ihor Kastranets (Ігор Кастранець)](https://www.worldcubeassociation.org/persons/2018KAST02) | **3.94** | Ukraine | [U24 Tetiana Day 2024](https://www.worldcubeassociation.org/competitions/U24TetianaDay2024) | 4.59, 3.94, 5.46, 5.65, 4.80 |
 
 ### Rubik's Clock - Average
 

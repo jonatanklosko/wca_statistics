@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 February 2024*
+*Updated on  1 March 2024*
 
 
 ### Rubik's Cube
@@ -173,7 +173,7 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 3.56 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.80, 3.46, 3.58, 3.34, DNF, 3.32, 3.03, DNF, 3.70, 3.94, 3.34, 3.38, 3.59, 3.13, 4.22, 3.30, 4.42, 4.63, 3.06, 3.36, 3.04, 3.04, 3.45, 3.46, 3.44 |
+| 3.40 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.06, 3.36, 3.04, 3.04, 3.45, 3.46, 3.44, 3.91, 3.50, 3.56, 3.45, 6.66, 2.96, 3.36, 3.41, 3.53, 3.24, 3.61, 3.14, 3.02, 3.51, 4.38, 3.39, 3.55, 3.45 |
 | 3.84 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 4.14, 3.11, 3.29, 3.86, 3.27, 3.36, DNF, 5.22, DNF, 3.85, 3.53, 3.85, 2.97, 3.69, 5.27, 3.85, 3.71, 2.99, 4.34, 3.51, 3.17, 3.91, 4.80, 3.84, 3.26 |
 | 4.04 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.77, 3.76, 3.79, 3.85, 5.06, 3.97, 3.22, 4.06, 3.81, 3.80, 3.99, 3.52, DNF, 3.16, 3.31, 3.26, 3.69, 3.62, 3.02, 3.77, 5.72, DNF, 5.72, 3.82, 5.52 |
 | 4.10 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 4.88, 3.88, 3.82, 3.43, 3.95, 4.07, 4.16, 3.98, 3.42, 4.32, 4.16, 4.35, 4.97, 3.60, 4.04, 4.09, 4.65, 5.71, 4.82, 3.73, 5.17, 3.32, 4.05, 3.86, 3.25 |
@@ -191,7 +191,7 @@
 | 1.85 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.68, 0.97, 2.07, 1.44, 1.58, 1.99, 2.32, 1.94, 1.48, 2.06, 2.22, 4.51, 1.32, 1.82, 2.08, 1.89, 1.50, 1.78, 1.76, 2.32, 2.04, 1.89, 2.43, 1.38, 1.63 |
 | 2.21 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.91, 1.69, 1.89, 1.14, 1.55, 1.14, 4.15, 3.74, 2.03, 2.09, 2.10, 4.38, 2.60, 4.15, 1.76, 2.11, 1.54, 2.09, 4.87, 2.21, 1.32, 1.90, 2.25, 1.76, 1.63 |
 | 2.26 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | 1.92, 1.77, 5.17, 1.69, 3.01, 1.96, 2.07, 1.63, 4.79, 2.11, 2.21, 2.65, 2.19, 2.52, 3.83, 1.32, 1.85, 3.49, 1.93, 1.88, 1.45, 2.42, 2.60, 1.84, 1.97 |
-| 2.36 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | 1.92, 2.24, 2.89, 2.12, 1.79, 3.59, 1.85, 2.22, 2.81, 2.01, 1.73, 2.19, 2.07, 1.91, 3.45, 4.04, 2.44, 4.28, 1.49, 2.19, 2.40, 2.66, 1.92, 3.03, 1.97 |
+| 2.35 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | 1.49, 2.19, 2.40, 2.66, 1.92, 3.03, 1.97, 2.04, 2.06, 4.87, 2.92, 1.74, 2.49, 3.00, 3.14, 2.13, 1.81, 2.54, 2.07, 3.97, 1.84, 2.12, 2.22, 1.98, 2.91 |
 | 2.36 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 3.62, 1.78, 4.73, 2.20, 2.20, 2.59, 2.06, 2.21, 1.66, 3.75, 4.29, 1.80, 1.30, 2.32, 1.65, 1.85, 3.64, 1.86, 2.81, 1.62, 1.80, 2.08, 3.26, 2.30, 2.16 |
 | 2.42 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 2.91, 1.63, 2.42, 2.82, 2.26, 1.83, 2.05, 1.73, 3.94, 2.24, 3.32, 3.03, 1.84, 3.29, 1.41, 3.40, 4.63, 2.48, 2.57, 2.40, 2.21, 1.63, 1.57, 3.13, 1.67 |
 | 2.45 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 1.54, 2.25, 2.24, 1.86, 3.36, DNF, 2.54, 2.33, 1.83, 2.55, 1.82, 2.47, 1.99, 3.15, 2.41, 2.81, 2.98, 2.95, 2.71, 1.77, 2.56, 1.92, 2.06, 4.40, 2.86 |

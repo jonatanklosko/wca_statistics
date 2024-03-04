@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 March 2024*
+*Updated on  4 March 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -82,6 +82,7 @@
 | 658 | [Ha Min Oh (오해민)](https://www.worldcubeassociation.org/persons/2015OHHA01) |
 | 665 | [Mats Walker](https://www.worldcubeassociation.org/persons/2021WALK02) |
 | 665 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) |
+| 665 | [Haotian Hu (胡皓天)](https://www.worldcubeassociation.org/persons/2022HUHA01) |
 | 667 | [Tianping Ding (丁天平)](https://www.worldcubeassociation.org/persons/2016DING05) |
 | 670 | [Shunsuke Wada (和田俊輔)](https://www.worldcubeassociation.org/persons/2016WADA01) |
 | 671 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
@@ -421,6 +422,7 @@
 | 2490 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |
 | 2491 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2498 | [Enoch Gray](https://www.worldcubeassociation.org/persons/2012GRAY01) |
+| 2500 | [Michael Larsen](https://www.worldcubeassociation.org/persons/2017LARS03) |
 | 2533 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |
 | 2534 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 2540 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |

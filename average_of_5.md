@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 March 2024*
+*Updated on  7 March 2024*
 
 
 ### Rubik's Cube
@@ -160,8 +160,8 @@
 | ---: | :--- | :--- |
 | 1.27 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.08, 1.18, 1.40, 2.57, 1.25 |
 | 1.39 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 1.29, 1.66, DNF, 1.19, 1.23 |
+| 1.40 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 1.34, 1.72, 1.29, 1.29, 1.58 |
 | 1.42 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.50, 1.38, 3.53, 1.21, 1.40 |
-| 1.45 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 1.41, 1.56, 1.44, 1.40, 1.51 |
 | 1.46 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.27, 1.38, 1.18, 3.32, 1.73 |
 | 1.49 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.32, 1.54, 2.90, 1.56, 1.38 |
 | 1.53 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 1.54, 1.42, 1.34, 2.61, 1.64 |

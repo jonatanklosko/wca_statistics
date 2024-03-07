@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  4 March 2024*
+*Updated on  7 March 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -38,6 +38,7 @@
 | 21 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 21 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
+| 20 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 20 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 20 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 20 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
@@ -48,7 +49,6 @@
 | 19 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 19 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 19 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 19 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |

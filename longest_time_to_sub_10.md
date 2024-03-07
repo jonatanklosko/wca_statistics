@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  4 March 2024*
+*Updated on  7 March 2024*
 
 | Person | Years |
 | :--- | ---: |
@@ -96,13 +96,13 @@
 | [Borja Perez](https://www.worldcubeassociation.org/persons/2013PERE05) | 9.28 |
 | [Weslley Lima](https://www.worldcubeassociation.org/persons/2014LIMA11) | 9.20 |
 | [Seth Rowell](https://www.worldcubeassociation.org/persons/2014ROWE03) | 9.19 |
-| [Lei Zhang (张磊)](https://www.worldcubeassociation.org/persons/2014ZHAN39) | 9.18 |
 | [James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01) | 9.18 |
+| [Lei Zhang (张磊)](https://www.worldcubeassociation.org/persons/2014ZHAN39) | 9.18 |
 | [Zeqin Chen (陈泽钦)](https://www.worldcubeassociation.org/persons/2010CHEN37) | 9.16 |
 | [Felipe Dias Ferreira](https://www.worldcubeassociation.org/persons/2014FERR09) | 9.12 |
 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | 9.06 |
-| [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
+| [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 
 

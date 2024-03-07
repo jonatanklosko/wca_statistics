@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  4 March 2024*
+*Updated on  7 March 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -73,13 +73,13 @@
 | 76 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 75 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
+| 75 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
-| 74 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
+| 73 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 73 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
-| 73 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 72 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |
 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |

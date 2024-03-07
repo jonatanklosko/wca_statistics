@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on  4 March 2024*
+*Updated on  7 March 2024*
 
 
 ### Rubik's Cube - Single
@@ -330,9 +330,9 @@
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **2.40** | United States | [Southeast Championship 2023](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2023) | 1.76, 3.55, 1.82, 1.83, 5.56 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **2.42** | United States | [Rapidly Grand 2023](https://www.worldcubeassociation.org/competitions/RapidlyGrand2023) | 1.74, 2.45, 3.02, DNF, 1.80 |
 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) | **2.45** | India | [Midcoast Cubing 2018](https://www.worldcubeassociation.org/competitions/MidcoastCubing2018) | 4.69, 2.42, 2.54, 2.40, 2.21 |
+| [Maximiliano Perez Madrid](https://www.worldcubeassociation.org/persons/2017MADR01) | **2.48** | Chile | [Peñablanca Open 2024](https://www.worldcubeassociation.org/competitions/PenablancaOpen2024) | 2.50, 2.64, 2.30, 4.60, 1.83 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **2.59** | Australia | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024) | 2.40, 2.50, 2.53, 2.89, 2.75 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **2.61** | Poland | [Szczecin Winter 2022](https://www.worldcubeassociation.org/competitions/SzczecinWinter2022) | 4.01, 1.76, 4.09, 1.79, 2.03 |
-| [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | **2.64** | Sweden | [Curtan Cubing Contest 2024](https://www.worldcubeassociation.org/competitions/CurtanCubingContest2024) | 2.99, 4.13, 2.58, 2.35, 2.33 |
 
 ### Rubik's Clock - Single
 

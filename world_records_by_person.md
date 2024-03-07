@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  4 March 2024*
+*Updated on  7 March 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -152,6 +152,7 @@
 | 2 | [Patrick Jameson](https://www.worldcubeassociation.org/persons/2007JAME01) |
 | 2 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) |
 | 2 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
+| 2 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 2 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 2 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 2 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
@@ -228,6 +229,7 @@
 | 1 | [Lee Chiang (蔣礪)](https://www.worldcubeassociation.org/persons/2013CHIA02) |
 | 1 | [Lee Chun Hin (李震軒)](https://www.worldcubeassociation.org/persons/2008HINL01) |
 | 1 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
+| 1 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) |
 | 1 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
 | 1 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 1 | [Mario Laurent](https://www.worldcubeassociation.org/persons/2008LAUR01) |
@@ -252,7 +254,6 @@
 | 1 | [Quinn Lewis](https://www.worldcubeassociation.org/persons/2005LEWI01) |
 | 1 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 1 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) |
-| 1 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 1 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) |
 | 1 | [Santosh Tantravahi](https://www.worldcubeassociation.org/persons/2013TANT02) |
 | 1 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |

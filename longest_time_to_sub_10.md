@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  7 March 2024*
+*Updated on 10 March 2024*
 
 | Person | Years |
 | :--- | ---: |
@@ -101,8 +101,8 @@
 | [Zeqin Chen (陈泽钦)](https://www.worldcubeassociation.org/persons/2010CHEN37) | 9.16 |
 | [Felipe Dias Ferreira](https://www.worldcubeassociation.org/persons/2014FERR09) | 9.12 |
 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | 9.06 |
-| [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
+| [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 
 

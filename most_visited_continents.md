@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  7 March 2024*
+*Updated on 10 March 2024*
 
 | Continents | Person |
 | ---: | :--- |
@@ -145,6 +145,7 @@
 | 4 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) |
 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 4 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) |
+| 4 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
 | 4 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
 | 4 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 4 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |

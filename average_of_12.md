@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  7 March 2024*
+*Updated on 10 March 2024*
 
 
 ### Rubik's Cube
@@ -197,7 +197,7 @@
 | 2.18 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | 2.89, 2.12, 1.79, 3.59, 1.85, 2.22, 2.81, 2.01, 1.73, 2.19, 2.07, 1.91 |
 | 2.25 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 2.32, 2.81, 4.43, 3.03, 1.62, 1.96, 1.40, 2.57, 1.84, 2.68, 1.94, 1.76 |
 | 2.27 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.58, 2.94, 2.20, 2.22, 3.36, 1.48, 2.94, 2.01, 4.63, 1.87, 1.82, 1.82 |
-| 2.31 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 2.25, 2.29, 5.07, 3.32, 1.54, 1.85, 1.82, 2.92, 1.80, 1.95, 3.15, 1.76 |
+| 2.28 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 3.41, 0.96, 2.13, 1.66, 3.02, 1.76, 2.51, 3.25, 1.99, 2.79, 1.58, 2.20 |
 
 ### Square-1
 

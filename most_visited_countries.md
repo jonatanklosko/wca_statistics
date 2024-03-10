@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  7 March 2024*
+*Updated on 10 March 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -64,14 +64,14 @@
 | 18 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 18 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
 | 17 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
+| 17 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
 | 17 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 17 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
-| 17 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
-| 17 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
-| 17 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
-| 17 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 17 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
-| 16 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
+| 17 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
+| 17 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
+| 17 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
+| 17 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 16 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
 | 16 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 16 | [Simone Santarsiero](https://www.worldcubeassociation.org/persons/2009SANT01) |

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  7 March 2024*
+*Updated on 10 March 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -11,9 +11,9 @@
 | 174 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 171 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 171 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 167 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 169 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 154 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 152 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 153 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 150 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 148 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 148 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
@@ -27,9 +27,9 @@
 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 106 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 105 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 105 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 105 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 103 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 102 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 102 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
@@ -65,12 +65,12 @@
 | 84 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 84 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 84 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
+| 83 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
+| 83 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 83 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 83 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
-| 82 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
-| 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 82 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
-| 82 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
+| 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 81 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
 | 81 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 | 80 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |

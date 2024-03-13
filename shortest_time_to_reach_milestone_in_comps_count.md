@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 10 March 2024*
+*Updated on 13 March 2024*
 
 
 ### 200 Competitions
@@ -18,6 +18,7 @@
 | 4796 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 4957 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 5539 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
+| 5678 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 6112 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 6322 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 7036 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
@@ -34,6 +35,7 @@
 | 2564 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 2844 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 2850 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 2871 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 2885 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 2885 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 2969 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
@@ -46,7 +48,6 @@
 | 3235 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 3299 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 3354 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
-| 3432 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 
 ### 100 Competitions
 
@@ -56,8 +57,8 @@
 | 883 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 1646 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1646 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1701 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1744 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1918 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1933 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
@@ -82,6 +83,7 @@
 | 610 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 658 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
 | 680 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
+| 688 | [Eric Ostdiek](https://www.worldcubeassociation.org/persons/2022OSTD01) |
 | 707 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 757 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 763 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
@@ -96,7 +98,6 @@
 | 890 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 890 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 890 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
-| 897 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 
 ### 25 Competitions
 
@@ -119,8 +120,8 @@
 | 372 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 372 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
 | 377 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
-| 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 386 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
 
 ### 10 Competitions

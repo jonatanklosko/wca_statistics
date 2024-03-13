@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 March 2024*
+*Updated on 13 March 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -797,6 +797,7 @@
 | 11 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Ó Paí Open 2016](https://www.worldcubeassociation.org/competitions/OPaiOpen2016/results/podiums) |
 | 11 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) | [Ó Paí Open 2016](https://www.worldcubeassociation.org/competitions/OPaiOpen2016/results/podiums) |
 | 10 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Open Cidade da Criança 2016](https://www.worldcubeassociation.org/competitions/OpenCidadedaCrianca2016/results/podiums) |
+| 11 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | [Open Ovalle Summer 2024](https://www.worldcubeassociation.org/competitions/OpenOvalleSummer2024/results/podiums) |
 | 12 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Open UTF ao Cubo 2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Oradea Cubing Finals 2018](https://www.worldcubeassociation.org/competitions/OradeaCubingFinals2018/results/podiums) |
 | 17 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Oregon 2016](https://www.worldcubeassociation.org/competitions/Oregon2016/results/podiums) |

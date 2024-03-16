@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 13 March 2024*
+*Updated on 16 March 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -39,17 +39,17 @@
 | 78 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 78 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 77 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
+| 76 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 75 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
-| 75 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 73 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 73 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 72 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 72 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
+| 71 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 70 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 70 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 66 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 66 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 66 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |

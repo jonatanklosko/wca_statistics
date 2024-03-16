@@ -1,13 +1,13 @@
 ## Most finals
 
-*Updated on 13 March 2024*
+*Updated on 16 March 2024*
 
 | Finals | Person |
 | ---: | :--- |
 | 2314 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2255 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2099 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 1924 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 1930 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1647 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1552 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1541 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -37,10 +37,10 @@
 | 1057 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 1056 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 1037 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
-| 1019 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 1026 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 1009 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 1005 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 1004 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 988 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
@@ -54,8 +54,8 @@
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 928 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
+| 920 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 909 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
-| 908 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 897 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 885 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
@@ -75,8 +75,8 @@
 | 818 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 817 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 813 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
+| 810 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 808 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 807 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 806 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 798 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 794 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
@@ -89,7 +89,7 @@
 | 761 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 758 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 758 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
-| 756 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
+| 757 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 755 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 753 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 753 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
@@ -101,9 +101,9 @@
 | 740 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 740 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 735 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
+| 730 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 730 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 725 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
-| 724 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

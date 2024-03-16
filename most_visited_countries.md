@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 13 March 2024*
+*Updated on 16 March 2024*
 
 | Countries | Person |
 | ---: | :--- |

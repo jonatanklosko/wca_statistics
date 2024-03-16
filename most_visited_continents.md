@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 13 March 2024*
+*Updated on 16 March 2024*
 
 | Continents | Person |
 | ---: | :--- |
@@ -147,6 +147,7 @@
 | 4 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) |
 | 4 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
 | 4 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
+| 4 | [John Cook](https://www.worldcubeassociation.org/persons/2018COOK04) |
 | 4 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 4 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 4 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |

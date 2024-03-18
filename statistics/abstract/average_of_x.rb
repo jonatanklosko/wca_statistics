@@ -77,6 +77,6 @@ class AverageOfX < GroupedStatistic
     values = untrimmed_solves
     mean_value = values.reduce(:+) / values.count.to_f
     mean_value *= 100 if event_id == "333fm" # Unify values for FMC to fit others
-    SolveTime.new(event_id, :average, mean_value.to_i)
+    SolveTime.new(event_id, :average, mean_value.round)
   end
 end

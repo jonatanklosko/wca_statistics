@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 March 2024*
+*Updated on 19 March 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -33,6 +33,7 @@
 | 357 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 363 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
 | 398 | [Mara Oprea](https://www.worldcubeassociation.org/persons/2017OPRE02) |
+| 405 | [Benton Tolley](https://www.worldcubeassociation.org/persons/2023TOLL02) |
 | 406 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 412 | [Andrei Solntsev](https://www.worldcubeassociation.org/persons/2018SOLN01) |
 | 427 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
@@ -164,8 +165,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
+| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -390,6 +391,7 @@
 | 2197 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
 | 2218 | [Aria Querubin](https://www.worldcubeassociation.org/persons/2017QUER02) |
 | 2219 | [Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01) |
+| 2219 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 2232 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
 | 2233 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) |
 | 2233 | [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01) |
@@ -412,6 +414,7 @@
 | 2359 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) |
 | 2381 | [Renan da Cunha Santos](https://www.worldcubeassociation.org/persons/2017SANT12) |
 | 2386 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) |
+| 2402 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 2408 | [Dallas McNeil](https://www.worldcubeassociation.org/persons/2017MCNE01) |
 | 2422 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 2435 | [Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06) |

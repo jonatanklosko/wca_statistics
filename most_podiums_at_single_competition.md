@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 March 2024*
+*Updated on 19 March 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -168,6 +168,8 @@
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [B.O.N.D. Open 2016](https://www.worldcubeassociation.org/competitions/BONDOpen2016/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Bora Bora Barra Open 2023](https://www.worldcubeassociation.org/competitions/BoraBoraBarraOpen2023/results/podiums) |
 | 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Bora Bora Barra Open 2023](https://www.worldcubeassociation.org/competitions/BoraBoraBarraOpen2023/results/podiums) |
+| 12 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Borlänge Open 2024](https://www.worldcubeassociation.org/competitions/BorlangeOpen2024/results/podiums) |
+| 10 | [Govend Avgerinos Djangoi](https://www.worldcubeassociation.org/persons/2015DJAN01) | [Borlänge Open 2024](https://www.worldcubeassociation.org/competitions/BorlangeOpen2024/results/podiums) |
 | 11 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Bosnia and Herzegovina Open 2016](https://www.worldcubeassociation.org/competitions/BosniaandHerzegovinaOpen2016/results/podiums) |
 | 10 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | [Bosnia and Herzegovina Open 2016](https://www.worldcubeassociation.org/competitions/BosniaandHerzegovinaOpen2016/results/podiums) |
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Bozeman Cubing 2023](https://www.worldcubeassociation.org/competitions/BozemanCubing2023/results/podiums) |

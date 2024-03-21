@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 19 March 2024*
+*Updated on 20 March 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -21,7 +21,7 @@
 | 126 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) |
 | 123 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
 | 121 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 115 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 116 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 114 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 112 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 111 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |

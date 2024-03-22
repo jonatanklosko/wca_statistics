@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 20 March 2024*
+*Updated on 22 March 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -142,6 +142,7 @@
 | 9 | [Rubik Sin Fronteras 2015](https://www.worldcubeassociation.org/competitions/RubikSinFronteras2015) |
 | 9 | [STGO Verano 2014](https://www.worldcubeassociation.org/competitions/SantiaguinodeVerano2014) |
 | 9 | [Savoie Mental Breakdown 2019](https://www.worldcubeassociation.org/competitions/SavoieMentalBreakdown2019) |
+| 9 | [Supermiya PBQ in Tashkent 2024](https://www.worldcubeassociation.org/competitions/SupermiyaPBQinTashkent2024) |
 | 9 | [Try Not To DNF Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryNotToDNFRzeszow2023) |
 | 9 | [Waikato Autumn Open 2010](https://www.worldcubeassociation.org/competitions/WaikatoAutumnOpen2010) |
 | 10 | [2 Rounds of FMC in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/2RoundsofFMCinRzeszow2023) |

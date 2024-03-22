@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 20 March 2024*
+*Updated on 22 March 2024*
 
 
 ### Rubik's Cube
@@ -137,7 +137,7 @@
 | 8.72 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 7.63, 8.62, 10.62, 9.30, 8.25 |
 | 8.77 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 11.51, 8.99, 8.64, 8.69, 8.09 |
 | 8.83 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 9.14, 8.76, 8.19, 10.06, 8.59 |
-| 8.87 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | 8.22, 8.92, 9.54, 7.79, 9.46 |
+| 8.96 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 7.60, 9.55, 9.20, 11.10, 8.13 |
 
 ### Megaminx
 

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 20 March 2024*
+*Updated on 22 March 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -453,6 +453,7 @@
 | 2855 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 2856 | [Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53) |
 | 2864 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 2877 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) |
 | 2891 | [Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01) |
 | 2891 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 2897 | [Victor Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |

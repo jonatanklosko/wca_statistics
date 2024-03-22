@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 20 March 2024*
+*Updated on 22 March 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -16,9 +16,9 @@
 | 29 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 29 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 29 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
-| 27 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 27 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 28 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 27 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
+| 27 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 26 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |

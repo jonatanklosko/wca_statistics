@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 20 March 2024*
+*Updated on 22 March 2024*
 
 
 ### Rubik's Cube
@@ -43,11 +43,11 @@
 | 0.05 | [Matteo Pauli](https://www.worldcubeassociation.org/persons/2019PAUL05) | 1:06.55 | 1:06.60 | [German Big Cube Open 2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019/results/by_person#2019PAUL05) |
 | 0.06 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 23.39 | 23.45 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2012PONC02) |
 | 0.06 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | 47.44 | 47.50 | [Cali Cube 2018](https://www.worldcubeassociation.org/competitions/CaliCube2018/results/by_person#2011EDUA01) |
+| 0.08 | [Kaloyan Vladimirov Kalev](https://www.worldcubeassociation.org/persons/2022KALE01) | 52.48 | 52.56 | [Sofia Spring 2024](https://www.worldcubeassociation.org/competitions/SofiaSpring2024/results/by_person#2022KALE01) |
 | 0.09 | [Geovanny Cueva](https://www.worldcubeassociation.org/persons/2018CUEV01) | 44.94 | 45.03 | [Guayaquil Championship 2018](https://www.worldcubeassociation.org/competitions/GuayaquilChampionship2018/results/by_person#2018CUEV01) |
 | 0.11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 34.94 | 35.05 | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022/results/by_person#2013OWCZ01) |
 | 0.11 | [Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01) | 35.14 | 35.25 | [Helsinki Open 2020](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2020/results/by_person#2016LAUR01) |
 | 0.12 | [Zachary Garber](https://www.worldcubeassociation.org/persons/2014GARB01) | 56.38 | 56.50 | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2014GARB01) |
-| 0.12 | [Nick Young](https://www.worldcubeassociation.org/persons/2006YOUN03) | 1:26.34 | 1:26.46 | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2006YOUN03) |
 
 ### 5x5x5 Cube
 

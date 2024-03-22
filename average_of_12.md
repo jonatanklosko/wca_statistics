@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 20 March 2024*
+*Updated on 22 March 2024*
 
 
 ### Rubik's Cube
@@ -104,10 +104,10 @@
 | 18.03 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | 16.81, 18.10, 19.54, 16.82, 18.51, 17.72, 20.46, 19.21, 17.14, 16.34, 17.88, 18.58 |
 | 18.33 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 16.30, 16.71, 15.66, 17.31, 28.61, DNF, 17.40, 16.69, 14.93, 18.33, 19.45, 16.83 |
 | 18.50 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | 20.68, 19.22, 18.02, 16.83, 16.09, DNF, 16.49, 17.18, 19.98, 19.88, 16.47, 20.27 |
+| 19.55 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 18.57, 19.04, 18.01, 19.22, 17.59, 25.35, 20.75, 19.00, DNF, 18.37, 18.25, 18.98 |
 | 20.33 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 19.67, 22.73, DNF, 19.16, 23.16, 20.19, 20.08, 18.79, 20.93, 18.93, 19.64, 17.55 |
 | 20.50 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | DNF, 21.09, 18.03, 18.24, 17.90, 22.80, 17.04, 20.76, 20.33, 25.79, 19.80, 20.25 |
 | 20.70 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 18.67, 23.75, 23.41, 18.12, 19.07, 20.05, 22.44, 21.22, 19.33, DNF, 20.89, 17.90 |
-| 20.79 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 26.18, 21.98, 19.23, 22.30, 19.26, 19.88, DNF, 17.88, 18.49, 21.20, 18.63, 20.71 |
 
 ### 3x3x3 Fewest Moves
 
@@ -136,8 +136,8 @@
 | 9.35 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 9.14, 8.76, 8.19, 10.06, 8.59, 11.67, 9.16, 8.65, 9.45, 10.58, 10.09, 8.99 |
 | 9.37 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 8.30, 10.23, 8.70, 8.42, 11.08, 11.99, 10.12, 10.05, 9.45, 9.38, 7.96, 7.40 |
 | 9.40 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 9.06, 9.44, 9.54, 9.80, 9.13, 9.71, 9.70, 10.03, 9.18, 10.17, 8.36, 8.01 |
-| 9.42 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | 10.11, 11.03, 10.07, 9.77, 8.22, 8.92, 9.54, 7.79, 9.46, 9.20, 9.37, 9.57 |
 | 9.59 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 9.26, 11.45, 7.60, 9.55, 9.20, 11.10, 8.13, 11.68, 8.14, 10.31, 10.41, 8.35 |
+| 9.64 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | 8.97, 9.60, 9.20, 8.20, 9.63, 11.74, 11.01, 8.72, 9.22, 9.56, 10.35, 10.12 |
 
 ### Megaminx
 
@@ -181,8 +181,8 @@
 | 3.74 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 5.80, 3.75, 3.57, 3.35, 3.51, 4.28, 3.68, 3.76, 2.77, 2.80, 6.14, 2.89 |
 | 3.74 | [Jasper Wolfe-Tham](https://www.worldcubeassociation.org/persons/2022WOLF02) | 3.52, 3.04, 4.13, 3.92, 3.24, 9.07, 3.68, 4.68, 4.07, 3.15, 3.44, 3.56 |
 | 3.83 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 3.43, 3.64, 7.52, 3.34, 3.96, 3.29, 5.34, 4.09, 3.80, 3.88, 3.57, 3.24 |
+| 3.89 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.25, 3.03, 3.64, 3.67, 4.01, 3.45, 7.56, 4.84, 3.57, 3.18, 4.84, 4.41 |
 | 3.89 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 3.73, 3.68, 3.67, 3.47, 2.81, 3.35, 5.12, DNF, 4.72, 3.22, 3.92, 4.04 |
-| 3.94 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.62, 5.07, 3.47, 4.03, 9.56, 3.45, 4.26, 3.93, 3.53, 3.25, 3.85, 4.14 |
 
 ### Skewb
 

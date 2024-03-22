@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 20 March 2024*
+*Updated on 22 March 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -21,8 +21,8 @@
 | 62 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Rapid Dash Open 2012](https://www.worldcubeassociation.org/competitions/RapidashOpen2012) | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
 | 60 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) | [Slow N Steady Summer 2018](https://www.worldcubeassociation.org/competitions/SlowNSteadySummer2018) |  |
 | 59 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | [Amstelveen Open 2012](https://www.worldcubeassociation.org/competitions/AmstelveenOpen2012) |  |
+| 59 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | [Nanjing Autumn 2015](https://www.worldcubeassociation.org/competitions/NanjingAutumn2015) |  |
 | 58 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [Cubetcha 2011](https://www.worldcubeassociation.org/competitions/Cubetcha2011) | [Fargo Fall 2017](https://www.worldcubeassociation.org/competitions/FargoFall2017) |
-| 58 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | [Nanjing Autumn 2015](https://www.worldcubeassociation.org/competitions/NanjingAutumn2015) |  |
 | 58 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [MCC Beta 2016](https://www.worldcubeassociation.org/competitions/MichiganCubingClubBeta2016) | [Michigan Cubing Club Gamma 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubGamma2019) |
 | 58 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | [Michigan 2016](https://www.worldcubeassociation.org/competitions/Michigan2016) | [Imagination Station A 2023](https://www.worldcubeassociation.org/competitions/ImaginationStationA2023) |
 | 57 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | [UK Championship 2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014) | [Guildford Open 2020](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020) |

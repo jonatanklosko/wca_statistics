@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 20 March 2024*
+*Updated on 22 March 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -46,10 +46,10 @@
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 72 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 72 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
+| 71 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 71 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 70 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 70 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 66 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 66 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 66 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 22 March 2024*
+*Updated on 25 March 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -19,7 +19,7 @@
 | 148 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 148 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 141 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 129 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 130 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 120 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 118 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
@@ -43,7 +43,7 @@
 | 98 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 97 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 96 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
-| 95 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
+| 96 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 94 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 94 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 94 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
@@ -53,12 +53,12 @@
 | 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 92 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 92 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 91 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 91 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
-| 90 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 90 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 89 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 88 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 88 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
+| 88 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 87 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 87 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 86 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |

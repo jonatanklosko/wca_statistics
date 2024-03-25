@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 22 March 2024*
+*Updated on 25 March 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -50,7 +50,7 @@
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **61** | 54 | 39 | 154 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **59** | 64 | 69 | 192 |
-| [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **56** | 48 | 35 | 139 |
+| [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **57** | 49 | 35 | 141 |
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **54** | 32 | 13 | 99 |

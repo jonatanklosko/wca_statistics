@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 March 2024*
+*Updated on 25 March 2024*
 
 
 ### Rubik's Cube
@@ -182,7 +182,7 @@
 | 3.35 | [Dilshawn Sidhu](https://www.worldcubeassociation.org/persons/2018SIDH02) | 3.26, 3.17, 5.83, 3.31, 3.48 |
 | 3.36 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.52, DNF, 3.16, 3.31, 3.26 |
 | 3.46 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 3.16, 3.61, 3.92, 3.61, 3.01 |
-| 3.49 | [Eddie Artze](https://www.worldcubeassociation.org/persons/2020ARTZ01) | 3.35, 2.94, 6.64, 3.52, 3.59 |
+| 3.47 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 6.23, 3.45, 3.40, 3.57, 2.97 |
 
 ### Skewb
 

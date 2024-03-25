@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 22 March 2024*
+*Updated on 25 March 2024*
 
 
 ### 200 Competitions
@@ -17,6 +17,7 @@
 | 4509 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 4563 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 4796 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 4852 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 4957 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 5539 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 5678 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
@@ -112,6 +113,7 @@
 | 294 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
+| 358 | [Juan David Blanco Sanabria](https://www.worldcubeassociation.org/persons/2023SANA04) |
 | 359 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
 | 364 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
@@ -123,7 +125,6 @@
 | 377 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 | 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 386 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
 
 ### 10 Competitions
 

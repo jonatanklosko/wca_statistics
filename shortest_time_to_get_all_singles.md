@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 March 2024*
+*Updated on 25 March 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -107,7 +107,7 @@
 | 750 | [Jaxon Foster](https://www.worldcubeassociation.org/persons/2021FOST01) |
 | 755 | [Jindřich Heissiger](https://www.worldcubeassociation.org/persons/2021HEIS01) |
 | 762 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
-| 763 | [Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01) |
+| 763 | [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) |
 | 770 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) |
 | 774 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) |
 | 784 | [Anton Krokhmal (Антон Крохмаль)](https://www.worldcubeassociation.org/persons/2012KROK01) |
@@ -405,6 +405,7 @@
 | 2275 | [Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04) |
 | 2281 | [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) |
 | 2282 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
+| 2296 | [Alejandro Restrepo Echeverri](https://www.worldcubeassociation.org/persons/2017ECHE04) |
 | 2310 | [Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02) |
 | 2317 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 2323 | [Can Mao (毛灿)](https://www.worldcubeassociation.org/persons/2010MAOC01) |

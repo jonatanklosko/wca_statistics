@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 March 2024*
+*Updated on 25 March 2024*
 
 
 ### Rubik's Cube
@@ -166,8 +166,8 @@
 | 1.71 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.76, 1.69, 1.26, 1.69, 1.44, 1.99, 4.46, 1.65, 1.63, 1.70, 1.74, 1.82 |
 | 1.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.79, 2.21, 1.74, 1.39, 2.69, 1.76, 1.33, 1.87, 2.02, 2.34, 1.35, 1.77 |
 | 1.83 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.59, 1.82, 1.44, 1.59, 1.78, 2.42, 2.16, 1.67, 1.99, 3.14, 1.48, 1.83 |
+| 1.84 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 1.33, 1.54, 2.73, 2.08, 2.29, 1.50, 1.73, 2.03, 2.43, 1.38, 1.52, 1.93 |
 | 1.86 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1.28, 2.87, 1.92, 2.49, 4.42, 1.77, 1.38, 2.02, 1.64, 1.68, 1.29, 1.54 |
-| 1.87 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 2.31, 1.96, 1.59, 1.33, 2.19, 1.88, 1.50, 1.87, 1.97, 2.08, 2.09, 1.55 |
 
 ### Rubik's Clock
 

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 March 2024*
+*Updated on 25 March 2024*
 
 
 ### Rubik's Cube
@@ -205,7 +205,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.69 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 3:22.29 | 3:22.98 | [ABHC 2022](https://www.worldcubeassociation.org/competitions/ABHC2022/results/by_person#2018SHEN07) |
 | 1.01 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:19.07 | 1:20.08 | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/by_person#2013LINK01) |
-| 1.05 | [Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01) | 3:21.39 | 3:22.44 | [Please Be Quiet DST 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietDST2023/results/by_person#2013GHOD01) |
+| 1.05 | [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) | 3:21.39 | 3:22.44 | [Please Be Quiet DST 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietDST2023/results/by_person#2013GHOD01) |
 | 1.71 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2:00.90 | 2:02.61 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2014SCHO02) |
 | 2.68 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 3:01.00 | 3:03.68 | [Stevenage January 2024](https://www.worldcubeassociation.org/competitions/StevenageJanuary2024/results/by_person#2018SHEN07) |
 | 3.21 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 2:49.87 | 2:53.08 | [Manchester MBLD Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterMBLDDay2024/results/by_person#2018SHEN07) |

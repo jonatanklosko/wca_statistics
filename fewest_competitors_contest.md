@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 March 2024*
+*Updated on 25 March 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -90,6 +90,7 @@
 | 8 | [Huntingdon Nod Don 2023](https://www.worldcubeassociation.org/competitions/HuntingdonNodDon2023) |
 | 8 | [Iran FMC 2019](https://www.worldcubeassociation.org/competitions/IranFMC2019) |
 | 8 | [Irvine FMC B 2022](https://www.worldcubeassociation.org/competitions/IrvineFMCB2022) |
+| 8 | [Kyiv FMC March 2024](https://www.worldcubeassociation.org/competitions/KyivFMCMarch2024) |
 | 8 | [La Florita Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/LaFloritaMentalBreakdown2022) |
 | 8 | [Last Minute Qualifier 2017](https://www.worldcubeassociation.org/competitions/LastMinuteQualifier2017) |
 | 8 | [Latvian FMC Championship 2023](https://www.worldcubeassociation.org/competitions/LatvianFMCChampionship2023) |
@@ -241,6 +242,7 @@
 | 11 | [Please Be Quiet DST 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietDST2023) |
 | 11 | [Please Be Quiet Reno 2017](https://www.worldcubeassociation.org/competitions/PleaseBeQuietReno2017) |
 | 11 | [Please Be Quiet WPI 2017](https://www.worldcubeassociation.org/competitions/PleaseBeQuietWPI2017) |
+| 11 | [Side Events Aves María 2024](https://www.worldcubeassociation.org/competitions/SideEventsAvesMaria2024) |
 | 11 | [Sides Bahia 2022](https://www.worldcubeassociation.org/competitions/SidesBahia2022) |
 | 11 | [Slovenian FMC Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianFMCNationals2023) |
 | 11 | [Stadi FMC 2018](https://www.worldcubeassociation.org/competitions/StadiFMC2018) |

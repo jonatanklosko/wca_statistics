@@ -11,7 +11,7 @@ list = STATISTICS
   .map { |statistics_id, statistic_object| "- [#{statistic_object.title}](#{statistics_id})\n" }
   .join
 
-list.unshift("This is a fork of [Jonatan Klosko's WCA statistics page](https://jonatanklosko.github.io/wca_statistics/) that I (Justin Barker) created to implement some small tweaks and extra statistics. See the [GitHub page](https://github.com/JustinTimeCuber/wca_statistics) for more information.")
+list = "This is a fork of [Jonatan Klosko's WCA statistics page](https://jonatanklosko.github.io/wca_statistics/) that I (Justin Barker) created to implement some small tweaks and extra statistics. See the [GitHub page](https://github.com/JustinTimeCuber/wca_statistics) for more information.\n" + list
 
 destination_path = File.join(build_path, "README.md")
 File.write(destination_path, list)

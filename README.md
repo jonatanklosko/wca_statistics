@@ -1,8 +1,10 @@
 This is a fork of [Jonatan Klosko's WCA Statistics page](https://github.com/jonatanklosko/wca_statistics), which makes a few small changes.
 
-- Add a statistic that tracks only PR streaks that are currently ongoing (the original statistic includes streaks that were lost)
-- Add a statistic for *longest* time to reach a milestone (50, 100, etc.) in competition count; original site only has a shortest time statistic
-- Add numerical rankings to the tables
+- Adds a statistic that tracks only PR streaks that are currently ongoing (the original statistic includes streaks that were lost)
+- Adds a statistic for *longest* time to reach a milestone (50, 100, etc.) in competition count; original site only has a shortest time statistic
+- Adds a statistic for most competitions attended in a full year, in addition to weeks and months
+- Adds numerical rankings to the tables
+- Increases the number of competitors shown for most rankings by 10x.
 
 I'm also planning a couple more tweaks.
 

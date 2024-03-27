@@ -8,7 +8,7 @@ class MostAttendedCompetitionsInSingleYear < Statistic
 
   def query
     <<-SQL
-      SET SESSION group_concat_max_len = 16384
+      SET SESSION group_concat_max_len = 16384;
       SELECT
         attended_within_year,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,

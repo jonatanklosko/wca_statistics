@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 25 March 2024*
+*Updated on 28 March 2024*
 
 
 ### Rubik's Cube - Single
@@ -122,7 +122,7 @@
 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **53.06** | United States | [Clarks Hill Cubing 2023](https://www.worldcubeassociation.org/competitions/ClarksHillCubing2023) | 54.23, 46.11, 51.87, 53.07, 58.74 |
 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | **53.64** | United States | [DFW Cubing Summer 2022](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2022) | 55.35, 1:00.39, 50.22, 53.66, 51.90 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **53.74** | Poland | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) | 53.65, 52.45, 1:01.18, 48.13, 55.11 |
-| [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) | **55.27** | United States | [Fountain City 2023](https://www.worldcubeassociation.org/competitions/FountainCity2023) | 59.14, 52.39, 57.20, 52.81, 55.80 |
+| [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) | **54.01** | United States | [Clayton State Cubing 2024](https://www.worldcubeassociation.org/competitions/ClaytonStateCubing2024) | 53.78, 1:01.81, 53.65, 54.59, 52.21 |
 
 ### 6x6x6 Cube - Single
 
@@ -236,11 +236,11 @@
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **21.00** | Australia | [Side N Blind Narre Warren 2023](https://www.worldcubeassociation.org/competitions/SideNBlindNarreWarren2023) | 20, 21, 22 |
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **21.00** | Republic of Korea | [WCC FMC Leap Day 2024](https://www.worldcubeassociation.org/competitions/WCCFMCLeapDay2024) | 24, 17, 22 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **22.00** | Italy | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019) | 16, 26, 24 |
+| [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | **22.00** | United States | [Lexington March Mini 2024](https://www.worldcubeassociation.org/competitions/LexingtonMarchMini2024) | 19, 22, 25 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **22.00** | Argentina | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023) | 27, 21, 18 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **22.00** | United States | [3BLD on a Madison MoNona 2024](https://www.worldcubeassociation.org/competitions/3BLDonaMadisonMoNona2024) | 24, 21, 21 |
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | **22.67** | United States | [Blue Ridge Mountains 2020](https://www.worldcubeassociation.org/competitions/BlueRidgeMountains2020) | 23, 23, 22 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **23.33** | United States | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | 22, 23, 25 |
-| [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | **23.33** | United States | [Ohio State Mental Madness 2024](https://www.worldcubeassociation.org/competitions/OhioStateMentalMadness2024) | 25, 22, 23 |
 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | **23.33** | Italy | [FMC Italy 2021](https://www.worldcubeassociation.org/competitions/FMCItaly2021) | 20, 23, 27 |
 | [Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01) | **23.33** | United States | [PBQtah 6 2024](https://www.worldcubeassociation.org/competitions/PBQtah62024) | 24, 28, 18 |
 
@@ -368,9 +368,9 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.02** | United States | [Minnesota Cube Days 2020](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDays2020) | 1.02, 3.71, 7.28, 4.24, 3.17 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **0.75** | United States | [Going Fast in Grandview 2024](https://www.worldcubeassociation.org/competitions/GoingFastinGrandview2024) | 2.49, 1.77, 3.32, 4.65, 0.75 |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **0.85** | United States | [Going Fast in Grandview 2024](https://www.worldcubeassociation.org/competitions/GoingFastinGrandview2024) | 2.64, 5.04, 6.79, 2.74, 0.85 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **1.04** | Denmark | [Tårnby Cube Træf 2019](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019) | 3.01, 1.04, 2.00, 3.51, 3.00 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.10** | United States | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022) | 3.06, 1.10, 2.61, 3.62, 2.51 |
 | [Ihor Kastranets (Ігор Кастранець)](https://www.worldcubeassociation.org/persons/2018KAST02) | **1.32** | Ukraine | [Frankivsk Open 2019](https://www.worldcubeassociation.org/competitions/FrankivskOpen2019) | 6.02, 3.15, 3.67, 2.21, 1.32 |
 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | **1.36** | United States | [No Place for DNF Spring 2019](https://www.worldcubeassociation.org/competitions/NoPlaceForDNFSpring2019) | 5.17, 1.36, 5.41, 4.00, 3.31 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **1.38** | United States | [Massachusetts Championship 2019](https://www.worldcubeassociation.org/competitions/MassachusettsChampionship2019) | 6.14, 6.17, 1.38, 6.46, 5.29 |

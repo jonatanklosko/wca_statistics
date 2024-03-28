@@ -1,7 +1,7 @@
 ## World Championship records
 
 *Note: This is a list of the best results from all World Championships. It corresponds to Olympic records for Olympic sports.*
-*Updated on 25 March 2024*
+*Updated on 28 March 2024*
 
 
 ### Single

@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 March 2024*
+*Updated on 28 March 2024*
 
 
 ### Rubik's Cube
@@ -30,9 +30,9 @@
 | 1.26 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.30, 0.93, 1.37, 1.33, 1.19, 1.19, 1.31, 1.21, 1.30, 1.14, 1.43, 1.22 |
 | 1.28 | [Huining Huang (黄徽宁)](https://www.worldcubeassociation.org/persons/2019HUAH03) | 1.49, 1.88, 0.94, 0.55, 2.17, 1.38, 1.13, 1.41, 1.31, 1.37, 0.86, 1.05 |
 | 1.28 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 1.26, 0.99, 1.69, 1.48, 1.37, 1.60, 1.04, 1.05, 1.36, 1.59, 0.99, 1.01 |
+| 1.33 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.52, 1.26, 0.95, 1.35, 1.52, 1.22, 0.90, 1.47, 1.60, 1.23, 3.21, 1.22 |
 | 1.33 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.23, 1.43, 1.07, 1.42, 3.02, 1.17, 1.16, 1.66, 1.29, 1.29, 1.32, 1.34 |
 | 1.33 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.35, 1.49, 0.91, 1.11, 1.91, 1.47, 1.31, 1.31, 1.82, 1.30, 0.95, 1.21 |
-| 1.36 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 0.84, 1.63, 2.02, 0.89, 1.04, 1.37, 1.19, 1.44, 1.36, 4.83, 1.56, 1.12 |
 
 ### 4x4x4 Cube
 
@@ -132,8 +132,8 @@
 | 9.03 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 9.92, 8.27, 7.92, 10.85, 10.58, 9.30, 6.83, 11.67, 7.49, 8.36, 8.66, 8.97 |
 | 9.18 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8.09, 9.73, 9.02, 9.54, 9.90, 9.37, 11.54, 8.69, 9.55, 9.29, 8.59, 8.07 |
 | 9.21 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 8.83, 8.43, 9.71, 9.68, 8.03, 9.03, 10.84, 9.14, DNF, 8.09, 10.06, 8.33 |
+| 9.31 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 8.32, 9.33, 9.89, 9.37, 9.56, 8.97, 10.15, 7.51, 10.10, 8.84, 9.80, 8.95 |
 | 9.35 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.77, 9.41, 11.50, 10.35, 9.90, 8.86, 9.11, 7.77, 7.98, 10.81, 8.47, 9.80 |
-| 9.35 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 9.14, 8.76, 8.19, 10.06, 8.59, 11.67, 9.16, 8.65, 9.45, 10.58, 10.09, 8.99 |
 | 9.37 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 8.30, 10.23, 8.70, 8.42, 11.08, 11.99, 10.12, 10.05, 9.45, 9.38, 7.96, 7.40 |
 | 9.40 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 9.06, 9.44, 9.54, 9.80, 9.13, 9.71, 9.70, 10.03, 9.18, 10.17, 8.36, 8.01 |
 | 9.59 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 9.26, 11.45, 7.60, 9.55, 9.20, 11.10, 8.13, 11.68, 8.14, 10.31, 10.41, 8.35 |
@@ -149,9 +149,9 @@
 | 29.62 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 30.52, 29.99, 32.35, 26.16, 29.52, 32.00, 31.20, 26.90, 30.05, 28.10, 29.25, 28.65 |
 | 29.67 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.50, 30.56, 26.75, 28.88, 30.36, 31.15, 33.44, 28.96, 27.49, 28.58, 33.70, 25.47 |
 | 29.81 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 27.83, 28.59, 30.13, 30.54, 31.22, 30.51, 32.09, 29.07, 27.80, 30.36, 33.12, 26.87 |
+| 30.57 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 28.60, 29.53, 32.67, 30.73, 28.84, 32.51, 30.15, 30.08, 34.88, 30.68, 29.96, 30.53 |
 | 30.69 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 31.30, 42.88, 27.73, 28.79, 31.85, 28.02, 29.12, 32.59, 31.40, 31.03, 30.83, 31.93 |
 | 31.25 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 29.16, 32.81, 31.78, 34.48, 33.62, 33.47, 30.12, 28.50, 31.19, 29.97, 31.07, 29.34 |
-| 31.35 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 34.49, 34.59, 31.29, 33.22, 28.60, 29.53, 32.67, 30.73, 28.84, 32.51, 30.15, 30.08 |
 | 31.57 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 31.10, 32.64, 32.02, 29.56, 31.94, 31.59, 32.72, 36.54, 32.21, 29.93, 31.97, 29.41 |
 
 ### Pyraminx

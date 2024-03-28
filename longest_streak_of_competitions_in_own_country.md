@@ -1,11 +1,11 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 25 March 2024*
+*Updated on 28 March 2024*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
-| 112 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | Finland | [Helsinki Open 2010](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2010) |  |
+| 113 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | Finland | [Helsinki Open 2010](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2010) |  |
 | 77 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | Denmark | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015) | [Bornholm Open 2023](https://www.worldcubeassociation.org/competitions/BornholmOpen2023) |
 | 77 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | Denmark | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015) | [Bornholm Open 2023](https://www.worldcubeassociation.org/competitions/BornholmOpen2023) |
 | 71 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) | Chinese Taipei | [Maru Cube Day 2016](https://www.worldcubeassociation.org/competitions/MaruCubeDay2016) |  |
@@ -62,9 +62,10 @@
 | 27 | [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) | Georgia | [Georgian Open 2013](https://www.worldcubeassociation.org/competitions/GeorgianOpen2013) |  |
 | 26 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | United Kingdom | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019) |
 | 26 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | Brazil | [Torneio DRACO 2012](https://www.worldcubeassociation.org/competitions/TorneioDraco2012) | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014) |
-| 26 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 26 | [Rafael Gregorio Martinez Paredes](https://www.worldcubeassociation.org/persons/2013PARE02) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
+| 26 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 26 | [Elias Miguel Acosta Acosta](https://www.worldcubeassociation.org/persons/2016ACOS08) | Paraguay | [Paraguay Nationals 2016](https://www.worldcubeassociation.org/competitions/Paraguay2016) |  |
+| 25 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | Brazil | [Mogi Open 2014](https://www.worldcubeassociation.org/competitions/MogiOpen2014) | [CBS Open 2015](https://www.worldcubeassociation.org/competitions/CBSOpen2015) |
 | 25 | [Uku Kruusamägi](https://www.worldcubeassociation.org/persons/2009KRUU01) | Estonia | [Estonian Open 2009](https://www.worldcubeassociation.org/competitions/EstonianOpen2009) | [Narva Winter 2019](https://www.worldcubeassociation.org/competitions/NarvaWinter2019) |
 | 25 | [Maksim Zemtšihhin](https://www.worldcubeassociation.org/persons/2018ZEMT01) | Estonia | [Tallinn Open 2019](https://www.worldcubeassociation.org/competitions/TallinnOpen2019) |  |
 | 25 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | Belarus | [Minsk Open 2013](https://www.worldcubeassociation.org/competitions/MinskOpen2013) | [Spring Cube In Minsk 2018](https://www.worldcubeassociation.org/competitions/SpringCubeInMinsk2018) |
@@ -75,7 +76,6 @@
 | 24 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | Poland | [SLS Swierklany 2013](https://www.worldcubeassociation.org/competitions/SLSSwierklany2013) | [Art Rubik 2014](https://www.worldcubeassociation.org/competitions/ArtCubing2014) |
 | 24 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | Poland | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) |
 | 24 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) | Republic of Korea | [Daegu Autumn Open 2019](https://www.worldcubeassociation.org/competitions/DaeguAutumnOpen2019) | [Daegu Cold Winter 2024](https://www.worldcubeassociation.org/competitions/DaeguColdWinter2024) |
-| 24 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | Brazil | [Mogi Open 2014](https://www.worldcubeassociation.org/competitions/MogiOpen2014) | [CBS Open 2015](https://www.worldcubeassociation.org/competitions/CBSOpen2015) |
 | 24 | [Jan Erik Soosaar](https://www.worldcubeassociation.org/persons/2016SOOS01) | Estonia | [Estonian Open 2016](https://www.worldcubeassociation.org/competitions/EstonianOpen2016) | [PärNuti Cubing 2022](https://www.worldcubeassociation.org/competitions/ParNutiCubing2022) |
 | 24 | [Wilson José Duarte Espitia](https://www.worldcubeassociation.org/persons/2011DUAR02) | Colombia | [Colombia MetodoGenius 2011](https://www.worldcubeassociation.org/competitions/ColombiaMetodoGenius2011) | [Masters Castilla 2015](https://www.worldcubeassociation.org/competitions/MastersCastilla2015) |
 | 24 | [Ana Marchilashvili (ანა მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2022MARC10) | Georgia | [Georgia Open 2022](https://www.worldcubeassociation.org/competitions/GeorgiaOpen2022) |  |

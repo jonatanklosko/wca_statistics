@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 March 2024*
+*Updated on 31 March 2024*
 
 
 ### Rubik's Cube - Single
@@ -450,9 +450,9 @@
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **2:17.82** | United States | [3BLD on a Madison MoNona 2024](https://www.worldcubeassociation.org/competitions/3BLDonaMadisonMoNona2024) | 2:03.77, 2:11.42, 2:38.26 |
 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **2:53.08** | China | [Manchester MBLD Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterMBLDDay2024) | 2:55.10, 2:49.87, 2:54.27 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **3:00.11** | United States | [Westchester Blind Leap 2024](https://www.worldcubeassociation.org/competitions/WestchesterBlindLeap2024) | 2:48.00, 2:54.16, 3:18.16 |
+| [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **3:49.61** | United States | [Gem City Airplane Mode VI 2024](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeVI2024) | 2:47.18, 4:31.29, 4:10.37 |
 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **3:49.74** | Austria | [Ljubljana Blind Open 2024](https://www.worldcubeassociation.org/competitions/LjubljanaBlindOpen2024) | 3:06.19, 5:24.77, 2:58.26 |
 | [Luca Chiandotto](https://www.worldcubeassociation.org/persons/2022CHIA04) | **3:53.36** | Italy | [Lejre Side Events 2024](https://www.worldcubeassociation.org/competitions/LejreSideEvents2024) | 4:04.79, 3:36.38, 3:58.90 |
-| [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) | **4:01.57** | Australia | [Don't Inverloch Up 2024](https://www.worldcubeassociation.org/competitions/DontInverlochUp2024) | 4:19.83, 3:27.73, 4:17.14 |
 
 ### 5x5x5 Blindfolded - Single
 

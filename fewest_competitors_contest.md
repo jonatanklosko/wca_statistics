@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 March 2024*
+*Updated on 31 March 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -61,6 +61,7 @@
 | 7 | [Dutch Open 2003](https://www.worldcubeassociation.org/competitions/DutchOpen2003) |
 | 7 | [Fantabulous MI Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMichigan2015) |
 | 7 | [Gem City Airplane Mode II 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeII2023) |
+| 7 | [Gem City Airplane Mode VI 2024](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeVI2024) |
 | 7 | [Hilliard Hippocampus XI 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusXI2023) |
 | 7 | [Hilliard Hippocampus XII 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusXII2023) |
 | 7 | [Hilliard Hippocampus XIII 2024](https://www.worldcubeassociation.org/competitions/HilliardHippocampusXIII2024) |

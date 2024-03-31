@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 28 March 2024*
+*Updated on 31 March 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -11,7 +11,7 @@
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **214** | 167 | 118 | 499 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **199** | 50 | 18 | 267 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **179** | 60 | 28 | 267 |
-| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **170** | 41 | 29 | 240 |
+| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **173** | 43 | 29 | 245 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **141** | 20 | 8 | 169 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **137** | 151 | 133 | 421 |
@@ -90,7 +90,7 @@
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **38** | 75 | 159 | 272 |
 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) | **38** | 20 | 49 | 107 |
 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | **38** | 12 | 5 | 55 |
-| [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | **37** | 51 | 29 | 117 |
+| [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | **37** | 52 | 30 | 119 |
 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | **37** | 31 | 35 | 103 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **37** | 30 | 20 | 87 |
 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **37** | 22 | 10 | 69 |

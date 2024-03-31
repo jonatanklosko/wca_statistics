@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 March 2024*
+*Updated on 31 March 2024*
 
 
 ### Rubik's Cube
@@ -25,8 +25,8 @@
 | ---: | :--- | :--- |
 | 1.17 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 0.96, 0.86, 1.19, 0.94, 1.30, 1.06, 1.99, 0.71, 0.70, 1.48, 1.04, 3.16, 1.06, 1.43, 1.53, 1.28, 0.86, 1.33, 0.99, 0.93, 2.81, 0.96, 1.10, 0.97, 1.24 |
 | 1.24 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.27, 1.01, 0.97, 1.30, 0.79, 1.67, 1.01, 3.29, 1.28, 1.36, 0.99, 0.95, 2.26, 1.08, 1.32, 1.47, 1.37, 1.62, 0.82, 1.28, 1.15, 1.43, 1.51, 0.93, 1.09 |
+| 1.31 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.12, 1.70, 1.19, 1.54, 1.59, 1.51, 1.54, 1.39, 1.32, 1.38, 0.84, 1.27, 0.91, 1.31, 1.11, 1.43, 1.59, 1.31, 1.37, 1.30, 1.09, 1.20, 1.05, 1.31, 1.26 |
 | 1.32 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 3.57, 1.26, 1.31, 1.35, 1.86, 1.30, 0.93, 1.37, 1.33, 1.19, 1.19, 1.31, 1.21, 1.30, 1.14, 1.43, 1.22, 1.52, 1.43, 1.02, 1.18, 1.42, 3.27, 1.45, 1.05 |
-| 1.35 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.29, 1.30, 2.21, 1.27, 1.48, 1.21, 1.18, 1.25, 1.51, 1.54, 1.12, 1.70, 1.19, 1.54, 1.59, 1.51, 1.54, 1.39, 1.32, 1.38, 0.84, 1.27, 0.91, 1.31, 1.11 |
 | 1.37 | [Huining Huang (黄徽宁)](https://www.worldcubeassociation.org/persons/2019HUAH03) | 1.13, 1.47, 1.32, 1.72, 1.17, 1.54, 2.31, 1.38, 1.28, 1.27, 1.30, 1.96, 1.33, 1.49, 1.88, 0.94, 0.55, 2.17, 1.38, 1.13, 1.41, 1.31, 1.37, 0.86, 1.05 |
 | 1.37 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 1.13, 1.49, 1.27, 1.24, 2.86, 1.06, 1.04, 1.24, 1.42, 1.00, 1.10, 2.15, 1.13, 2.93, 1.39, 1.09, 1.31, 1.22, 1.28, 1.19, 1.48, 1.34, 1.52, 1.33, 2.40 |
 | 1.40 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.19, 1.48, 2.03, 1.35, 1.49, 1.25, DNF, 1.00, 1.61, 1.91, 1.22, 1.35, 1.21, 2.40, 1.14, 1.31, 1.74, 1.90, 1.13, 0.72, 1.05, 1.21, 1.57, 0.72, 1.33 |

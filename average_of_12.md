@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 March 2024*
+*Updated on 31 March 2024*
 
 
 ### Rubik's Cube
@@ -25,8 +25,8 @@
 | ---: | :--- | :--- |
 | 1.06 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.17, 1.16, 0.81, 1.02, 0.82, 0.94, 3.14, 1.02, 0.98, 1.01, 1.48, 0.99 |
 | 1.07 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.28, 0.86, 1.33, 0.99, 0.93, 2.81, 0.96, 1.10, 0.97, 1.24, 1.03, 0.91 |
+| 1.23 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 0.84, 1.27, 0.91, 1.31, 1.11, 1.43, 1.59, 1.31, 1.37, 1.30, 1.09, 1.20 |
 | 1.23 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.14, 1.31, 1.74, 1.90, 1.13, 0.72, 1.05, 1.21, 1.57, 0.72, 1.33, 1.05 |
-| 1.25 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.38, 0.84, 1.27, 0.91, 1.31, 1.11, 1.43, 1.59, 1.31, 1.37, 1.30, 1.09 |
 | 1.26 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.30, 0.93, 1.37, 1.33, 1.19, 1.19, 1.31, 1.21, 1.30, 1.14, 1.43, 1.22 |
 | 1.28 | [Huining Huang (黄徽宁)](https://www.worldcubeassociation.org/persons/2019HUAH03) | 1.49, 1.88, 0.94, 0.55, 2.17, 1.38, 1.13, 1.41, 1.31, 1.37, 0.86, 1.05 |
 | 1.28 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 1.26, 0.99, 1.69, 1.48, 1.37, 1.60, 1.04, 1.05, 1.36, 1.59, 0.99, 1.01 |

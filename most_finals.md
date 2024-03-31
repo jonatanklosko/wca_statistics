@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 March 2024*
+*Updated on 31 March 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -58,8 +58,8 @@
 | 909 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 903 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
+| 888 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 885 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 884 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 861 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 856 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 856 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
@@ -83,9 +83,9 @@
 | 794 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 791 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 772 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
+| 771 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 770 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 767 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
-| 766 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 764 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 761 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 759 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |

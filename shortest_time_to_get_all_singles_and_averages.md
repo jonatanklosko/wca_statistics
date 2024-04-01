@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 31 March 2024*
+*Updated on  1 April 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -66,6 +66,7 @@
 | 2864 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 2871 | [Jeremy Benik](https://www.worldcubeassociation.org/persons/2016BENI05) |
 | 2897 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
+| 2919 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) |
 | 2926 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 2982 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 3032 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |

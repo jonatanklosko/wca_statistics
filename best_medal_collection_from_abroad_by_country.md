@@ -1,17 +1,17 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 31 March 2024*
+*Updated on  1 April 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1402** | 1175 | 1013 | 3590 |
-| United States | **1055** | 873 | 781 | 2709 |
-| Germany | **1054** | 991 | 1006 | 3051 |
+| United States | **1060** | 874 | 781 | 2715 |
+| Germany | **1055** | 996 | 1007 | 3058 |
 | France | **937** | 805 | 686 | 2428 |
-| Netherlands | **921** | 733 | 609 | 2263 |
-| Russia | **870** | 513 | 400 | 1783 |
-| China | **665** | 624 | 566 | 1855 |
+| Netherlands | **922** | 734 | 610 | 2266 |
+| Russia | **873** | 516 | 401 | 1790 |
+| China | **667** | 627 | 568 | 1862 |
 | Poland | **596** | 386 | 295 | 1277 |
 | Malaysia | **405** | 406 | 376 | 1187 |
 | United Kingdom | **400** | 458 | 438 | 1296 |
@@ -21,18 +21,18 @@
 | Sweden | **307** | 352 | 364 | 1023 |
 | Hong Kong, China | **299** | 318 | 245 | 862 |
 | Australia | **290** | 136 | 92 | 518 |
-| India | **287** | 256 | 251 | 794 |
+| India | **287** | 260 | 255 | 802 |
 | Switzerland | **279** | 390 | 305 | 974 |
 | Finland | **275** | 211 | 175 | 661 |
-| Italy | **235** | 222 | 210 | 667 |
+| Italy | **236** | 224 | 210 | 670 |
 | Argentina | **233** | 172 | 143 | 548 |
-| Ukraine | **230** | 244 | 254 | 728 |
+| Ukraine | **230** | 245 | 254 | 729 |
 | Chinese Taipei | **214** | 185 | 183 | 582 |
-| Romania | **204** | 148 | 128 | 480 |
-| Japan | **202** | 139 | 138 | 479 |
+| Romania | **204** | 149 | 128 | 481 |
+| Japan | **204** | 139 | 138 | 481 |
+| Singapore | **182** | 191 | 197 | 570 |
 | Spain | **181** | 172 | 200 | 553 |
-| Singapore | **179** | 188 | 194 | 561 |
-| Indonesia | **176** | 159 | 133 | 468 |
+| Indonesia | **177** | 160 | 134 | 471 |
 | Austria | **153** | 223 | 223 | 599 |
 | Latvia | **144** | 212 | 214 | 570 |
 | Ireland | **144** | 77 | 62 | 283 |
@@ -62,10 +62,10 @@
 | Mongolia | **35** | 30 | 32 | 97 |
 | Uzbekistan | **32** | 29 | 31 | 92 |
 | Chile | **29** | 22 | 20 | 71 |
+| Kyrgyzstan | **28** | 36 | 38 | 102 |
 | Costa Rica | **27** | 35 | 28 | 90 |
 | Serbia | **26** | 34 | 34 | 94 |
 | Iran | **26** | 22 | 20 | 68 |
-| Kyrgyzstan | **25** | 34 | 37 | 96 |
 | Belize | **24** | 6 | 1 | 31 |
 | Portugal | **23** | 23 | 24 | 70 |
 | El Salvador | **21** | 24 | 19 | 64 |

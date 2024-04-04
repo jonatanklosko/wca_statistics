@@ -6,7 +6,6 @@ changed_statistic_files=`git diff --name-only $GITHUB_SHA~1..$GITHUB_SHA | grep 
 bin/init.rb
 printf "database: \"wca_statistics\"\nusername: \"root\"\npassword: \"root\"" > database.yml
 bin/update_database.rb
-mysqld --verbose --help
 bin/compute_all.rb || exit 1
 # Update the index file.
 bin/compute_index.rb

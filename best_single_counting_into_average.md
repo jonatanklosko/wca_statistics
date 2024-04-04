@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 April 2024*
+*Updated on  4 April 2024*
 
 
 ### Rubik's Cube
@@ -42,11 +42,11 @@
 | 18.49 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Arizona Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSpring2023/results/by_person#2012PARK03) |
 | 18.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
 | 18.87 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
+| 18.89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Los Angeles Newcomers 2024](https://www.worldcubeassociation.org/competitions/LosAngelesNewcomers2024/results/by_person#2012PARK03) |
 | 19.06 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
 | 19.14 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2012PARK03) |
 | 19.15 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Irvine Fall 2023](https://www.worldcubeassociation.org/competitions/IrvineFall2023/results/by_person#2012PARK03) |
 | 19.21 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
-| 19.36 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 44 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin442023/results/by_person#2012PARK03) |
 
 ### 5x5x5 Cube
 

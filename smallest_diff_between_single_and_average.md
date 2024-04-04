@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 April 2024*
+*Updated on  4 April 2024*
 
 
 ### Rubik's Cube
@@ -30,9 +30,9 @@
 | 0.02 | [Samuel Alzate Muñoz](https://www.worldcubeassociation.org/persons/2022MUNO13) | 2.99 | 3.01 | [Aves María Nuevos Campeones 2024](https://www.worldcubeassociation.org/competitions/AvesMariaNuevosCampeones2024/results/by_person#2022MUNO13) |
 | 0.02 | [John Lexel Alejandrino](https://www.worldcubeassociation.org/persons/2014ALEJ01) | 3.59 | 3.61 | [Philippine Championship 2017](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2017/results/by_person#2014ALEJ01) |
 | 0.02 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | 3.59 | 3.61 | [Azerbaijan Nationals 2023](https://www.worldcubeassociation.org/competitions/AzerbaijanNationals2023/results/by_person#2017ZHAD01) |
+| 0.02 | [Samuel Edwards](https://www.worldcubeassociation.org/persons/2022EDWA05) | 3.64 | 3.66 | [New to Sherwood Park 2024](https://www.worldcubeassociation.org/competitions/NewtoSherwoodPark2024/results/by_person#2022EDWA05) |
 | 0.02 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | 5.02 | 5.04 | [Williams Winter 2014](https://www.worldcubeassociation.org/competitions/WilliamsWinter2014/results/by_person#2008CLEM01) |
 | 0.02 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) | 5.86 | 5.88 | [Pakistan Open 2018](https://www.worldcubeassociation.org/competitions/PakistanOpen2018/results/by_person#2014GULA02) |
-| 0.02 | [John Mackie](https://www.worldcubeassociation.org/persons/2016MACK07) | 6.77 | 6.79 | [Phillips Exeter Cube Day 2016](https://www.worldcubeassociation.org/competitions/PhillipsExeterCubeDay2016/results/by_person#2016MACK07) |
 
 ### 4x4x4 Cube
 

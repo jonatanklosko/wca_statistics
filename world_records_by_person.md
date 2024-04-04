@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  1 April 2024*
+*Updated on  4 April 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -8,7 +8,7 @@
 | 77 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 33 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) |
-| 25 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 26 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 21 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 21 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) |
 | 21 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
@@ -138,6 +138,7 @@
 | 2 | [Jean Pons](https://www.worldcubeassociation.org/persons/2004PONS01) |
 | 2 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) |
 | 2 | [Jianwei Zhu (朱剑伟)](https://www.worldcubeassociation.org/persons/2007ZHUJ01) |
+| 2 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) |
 | 2 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) |
 | 2 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
 | 2 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) |
@@ -229,7 +230,6 @@
 | 1 | [Lee Chiang (蔣礪)](https://www.worldcubeassociation.org/persons/2013CHIA02) |
 | 1 | [Lee Chun Hin (李震軒)](https://www.worldcubeassociation.org/persons/2008HINL01) |
 | 1 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
-| 1 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) |
 | 1 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
 | 1 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 1 | [Mario Laurent](https://www.worldcubeassociation.org/persons/2008LAUR01) |

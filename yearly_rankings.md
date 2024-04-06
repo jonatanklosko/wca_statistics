@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 April 2024*
+*Updated on  5 April 2024*
 
 
 ### Rubik's Cube - Single

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 April 2024*
+*Updated on  5 April 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -25,7 +25,7 @@
 | 97 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 95 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 95 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
-| 93 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
+| 94 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 91 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 90 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 87 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
@@ -87,15 +87,15 @@
 | 53 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 52 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 52 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
-| 52 | [Catherine Connolly](https://www.worldcubeassociation.org/persons/2017CONN04) |
 | 52 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
-| 52 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
+| 52 | [Catherine Connolly](https://www.worldcubeassociation.org/persons/2017CONN04) |
 | 52 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
+| 52 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
 | 51 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
-| 51 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 51 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 51 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 51 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
+| 51 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 51 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 50 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
 | 50 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |

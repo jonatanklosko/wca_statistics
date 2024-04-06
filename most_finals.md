@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  4 April 2024*
+*Updated on  5 April 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -43,8 +43,8 @@
 | 1009 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 988 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
+| 985 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
-| 981 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 978 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 971 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 957 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
@@ -86,7 +86,7 @@
 | 772 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 771 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 767 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
-| 764 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
+| 765 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 763 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 761 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 759 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |

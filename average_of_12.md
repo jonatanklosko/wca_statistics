@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 
 ### Rubik's Cube
@@ -12,11 +12,11 @@
 | 5.09 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.18, 4.01, 4.87, 4.60, 6.12, 5.56, 5.48, 5.53, 4.69, 4.92, 5.79, 4.25 |
 | 5.12 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6.15, 4.45, 4.22, 4.69, 5.44, 5.08, 5.04, 5.93, 4.53, 5.73, 4.66, 5.60 |
 | 5.18 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.28, 5.23, 5.19, 5.50, 5.49, 4.97, 4.33, 5.59, 5.84, 5.27, 5.46, 4.81 |
+| 5.30 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 5.10, 5.48, 4.97, 5.80, 4.22, 4.96, 5.68, 4.94, 5.92, 5.38, 5.07, 5.64 |
 | 5.33 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 4.35, 6.63, 4.60, 4.34, 7.09, 5.56, 5.19, 6.05, 5.17, 6.02, 4.60, 5.16 |
 | 5.41 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 6.19, 5.31, 5.92, 5.01, 4.96, 6.41, 4.86, 5.50, 4.41, 5.55, 7.72, 4.31 |
 | 5.46 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.49, 5.48, 5.43, 4.76, 9.23, 6.53, 5.65, 5.16, 5.54, 5.89, 5.16, 4.95 |
-| 5.49 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 5.70, 5.02, 4.93, 6.63, 5.93, 6.15, 5.07, 5.57, 4.60, 6.26, 5.41, 4.87 |
-| 5.58 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.27, 5.39, 5.81, 5.67, 6.92, 5.48, 6.23, 5.03, 5.64, 5.35, 5.73, 5.18 |
+| 5.57 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 6.92, 5.48, 6.23, 5.03, 5.64, 5.35, 5.73, 5.18, 6.07, 5.59, 5.21, 5.18 |
 | 5.60 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 5.93, 6.40, 5.85, 5.10, 4.62, 7.61, 5.29, 5.47, 6.72, 4.97, 4.31, 5.64 |
 
 ### 2x2x2 Cube
@@ -165,9 +165,9 @@
 | 1.61 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.53, 1.54, 1.32, 1.54, 2.90, 1.56, 1.38, 2.18, 1.29, 1.64, 1.65, 1.80 |
 | 1.71 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.76, 1.69, 1.26, 1.69, 1.44, 1.99, 4.46, 1.65, 1.63, 1.70, 1.74, 1.82 |
 | 1.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.79, 2.21, 1.74, 1.39, 2.69, 1.76, 1.33, 1.87, 2.02, 2.34, 1.35, 1.77 |
+| 1.82 | [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) | 4.11, 1.82, 2.18, 1.69, 1.30, 1.70, 1.91, 1.92, 1.84, 2.16, 1.36, 1.66 |
 | 1.83 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.59, 1.82, 1.44, 1.59, 1.78, 2.42, 2.16, 1.67, 1.99, 3.14, 1.48, 1.83 |
 | 1.84 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 1.33, 1.54, 2.73, 2.08, 2.29, 1.50, 1.73, 2.03, 2.43, 1.38, 1.52, 1.93 |
-| 1.86 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1.28, 2.87, 1.92, 2.49, 4.42, 1.77, 1.38, 2.02, 1.64, 1.68, 1.29, 1.54 |
 
 ### Rubik's Clock
 
@@ -180,9 +180,9 @@
 | 3.69 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 4.88, 3.57, 3.18, 3.77, 4.63, 3.65, 3.37, 3.05, 3.33, 3.12, 8.23, 3.40 |
 | 3.74 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 5.80, 3.75, 3.57, 3.35, 3.51, 4.28, 3.68, 3.76, 2.77, 2.80, 6.14, 2.89 |
 | 3.74 | [Jasper Wolfe-Tham](https://www.worldcubeassociation.org/persons/2022WOLF02) | 3.52, 3.04, 4.13, 3.92, 3.24, 9.07, 3.68, 4.68, 4.07, 3.15, 3.44, 3.56 |
+| 3.81 | [Edwin Shen](https://www.worldcubeassociation.org/persons/2021SHEN01) | 3.59, 4.25, 4.80, 3.57, 3.32, 2.97, 3.49, 6.38, 3.09, 3.84, 3.92, 4.23 |
 | 3.83 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 3.43, 3.64, 7.52, 3.34, 3.96, 3.29, 5.34, 4.09, 3.80, 3.88, 3.57, 3.24 |
 | 3.89 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.25, 3.03, 3.64, 3.67, 4.01, 3.45, 7.56, 4.84, 3.57, 3.18, 4.84, 4.41 |
-| 3.89 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 3.73, 3.68, 3.67, 3.47, 2.81, 3.35, 5.12, DNF, 4.72, 3.22, 3.92, 4.04 |
 
 ### Skewb
 

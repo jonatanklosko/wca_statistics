@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 
 ### Rubik's Cube
@@ -15,9 +15,9 @@
 | 4.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.62, 4.78, 5.68, 5.19, 4.50 |
 | 4.92 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.70, 4.95, 4.60, 5.21, 4.61 |
 | 5.11 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 4.96, 6.41, 4.86, 5.50, 4.41 |
+| 5.14 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 5.48, 4.97, 5.80, 4.22, 4.96 |
 | 5.16 | [Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01) | 5.03, 4.97, 6.77, 5.48, 4.61 |
 | 5.24 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 5.29, 5.47, 6.72, 4.97, 4.31 |
-| 5.28 | [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) | 5.29, 5.12, 6.79, 5.43, 4.97 |
 
 ### 2x2x2 Cube
 

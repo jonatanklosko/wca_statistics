@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1110,6 +1110,7 @@
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UFBA II 2023](https://www.worldcubeassociation.org/competitions/UFBAII2023/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Brasília Bigs & Blind 2023](https://www.worldcubeassociation.org/competitions/BrasiliaBigsBlind2023/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Bravamall Open 2023](https://www.worldcubeassociation.org/competitions/BravamallOpen2023/results/podiums) |
+| 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Joinville Open 2024](https://www.worldcubeassociation.org/competitions/JoinvilleOpen2024/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Partage Open 2023](https://www.worldcubeassociation.org/competitions/PartageOpen2023/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Planetario Open 2022](https://www.worldcubeassociation.org/competitions/PlanetarioOpen2022/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023/results/podiums) |

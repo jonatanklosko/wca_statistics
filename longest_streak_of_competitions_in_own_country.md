@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -62,8 +62,8 @@
 | 27 | [Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02) | Slovenia | [Slovenian Open 2012](https://www.worldcubeassociation.org/competitions/SlovenianOpen2012) |  |
 | 26 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | United Kingdom | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019) |
 | 26 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | Brazil | [Torneio DRACO 2012](https://www.worldcubeassociation.org/competitions/TorneioDraco2012) | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014) |
-| 26 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 26 | [Rafael Gregorio Martinez Paredes](https://www.worldcubeassociation.org/persons/2013PARE02) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
+| 26 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 26 | [Andro Gvaramadze](https://www.worldcubeassociation.org/persons/2018GVAR01) | Georgia | [Georgia Open 2018](https://www.worldcubeassociation.org/competitions/GeorgiaOpen2018) |  |
 | 26 | [Elias Miguel Acosta Acosta](https://www.worldcubeassociation.org/persons/2016ACOS08) | Paraguay | [Paraguay Nationals 2016](https://www.worldcubeassociation.org/competitions/Paraguay2016) |  |
 | 25 | [Uku Kruusamägi](https://www.worldcubeassociation.org/persons/2009KRUU01) | Estonia | [Estonian Open 2009](https://www.worldcubeassociation.org/competitions/EstonianOpen2009) | [Narva Winter 2019](https://www.worldcubeassociation.org/competitions/NarvaWinter2019) |
@@ -87,8 +87,8 @@
 | 23 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) | [Slovenian FMC Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianFMCNationals2023) |
 | 23 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kryivka PBQ 2022](https://www.worldcubeassociation.org/competitions/KryivkaPBQ2022) | [Podolian Open 2023](https://www.worldcubeassociation.org/competitions/PodolianOpen2023) |
 | 23 | [Mateo Rodríguez](https://www.worldcubeassociation.org/persons/2013RODR11) | Uruguay | [Montevideo Open 2014](https://www.worldcubeassociation.org/competitions/MontevideoOpen2014) | [Stickers Open 2018](https://www.worldcubeassociation.org/competitions/StickersPuntadelEsteOpen2018) |
-| 22 | [Gábor Slezák](https://www.worldcubeassociation.org/persons/2016SLEZ01) | Hungary | [Hungarian Nationals 2016](https://www.worldcubeassociation.org/competitions/HungarianNationals2016) |  |
 | 22 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | Hungary | [Hungarian Nationals 2016](https://www.worldcubeassociation.org/competitions/HungarianNationals2016) |  |
+| 22 | [Gábor Slezák](https://www.worldcubeassociation.org/persons/2016SLEZ01) | Hungary | [Hungarian Nationals 2016](https://www.worldcubeassociation.org/competitions/HungarianNationals2016) |  |
 | 22 | [Justin Jaffray](https://www.worldcubeassociation.org/persons/2008JAFF01) | Canada | [Toronto Open Fall 2008](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2008) | [Vancouver Winter 2011](https://www.worldcubeassociation.org/competitions/VancouverWinter2011) |
 | 22 | [Hung Lo (羅鴻)](https://www.worldcubeassociation.org/persons/2009LOHU01) | Chinese Taipei | [Taiwan Summer 2013](https://www.worldcubeassociation.org/competitions/TaiwanSummer2013) | [ Twisting Fingers 2015](https://www.worldcubeassociation.org/competitions/TwistingFingers2015) |
 | 22 | [Ida Exner](https://www.worldcubeassociation.org/persons/2017EXNE01) | Denmark | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020) | [Dyssegården Uden Sko 2022](https://www.worldcubeassociation.org/competitions/DyssegaardenUdenSko2022) |

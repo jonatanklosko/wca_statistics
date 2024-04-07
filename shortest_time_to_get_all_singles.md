@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -95,6 +95,7 @@
 | 698 | [Nathan Benson](https://www.worldcubeassociation.org/persons/2022BENS01) |
 | 700 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) |
 | 700 | [Elias Lampert](https://www.worldcubeassociation.org/persons/2021LAMP01) |
+| 719 | [Yoad Yahalom Weiss](https://www.worldcubeassociation.org/persons/2022WEIS03) |
 | 726 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
 | 727 | [Jakov Srečković](https://www.worldcubeassociation.org/persons/2021SREC01) |
 | 728 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) |

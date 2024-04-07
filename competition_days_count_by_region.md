@@ -1,22 +1,22 @@
 ## Competition days count by region
 
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 11944 |
+| 1.47 | World | 11950 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.74 | Europe | 3900 |
-| 1.52 | South America | 1427 |
+| 1.74 | Europe | 3903 |
+| 1.52 | South America | 1429 |
 | 1.47 | Oceania | 529 |
-| 1.42 | Asia | 2603 |
+| 1.42 | Asia | 2604 |
 | 1.27 | Africa | 136 |
 | 1.21 | North America | 3349 |
 
@@ -29,7 +29,7 @@
 | 2.00 | Kazakhstan | 47 |
 | 2.00 | Liechtenstein | 3 |
 | 2.00 | Uzbekistan | 19 |
-| 1.94 | Turkey | 88 |
+| 1.94 | Turkey | 89 |
 | 1.93 | United Kingdom | 218 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
@@ -49,7 +49,7 @@
 | 1.78 | Guatemala | 55 |
 | 1.78 | Sri Lanka | 9 |
 | 1.77 | Iceland | 13 |
-| 1.76 | Brazil | 442 |
+| 1.76 | Brazil | 443 |
 | 1.75 | Belgium | 77 |
 | 1.75 | Kyrgyzstan | 4 |
 | 1.75 | Palestine | 4 |
@@ -57,12 +57,12 @@
 | 1.71 | Austria | 28 |
 | 1.71 | Argentina | 78 |
 | 1.70 | Poland | 436 |
-| 1.70 | Ukraine | 128 |
+| 1.69 | Ukraine | 129 |
 | 1.67 | Greece | 24 |
 | 1.67 | Luxembourg | 3 |
 | 1.67 | North Macedonia | 6 |
 | 1.64 | Ireland | 58 |
-| 1.64 | Denmark | 157 |
+| 1.63 | Denmark | 158 |
 | 1.63 | Iran | 38 |
 | 1.63 | New Zealand | 108 |
 | 1.61 | Indonesia | 208 |
@@ -74,7 +74,7 @@
 | 1.56 | Sweden | 256 |
 | 1.54 | Dominican Republic | 26 |
 | 1.53 | Bolivia | 112 |
-| 1.51 | Malaysia | 86 |
+| 1.51 | Malaysia | 87 |
 | 1.51 | Peru | 196 |
 | 1.50 | Belize | 2 |
 | 1.50 | Ghana | 2 |
@@ -105,8 +105,8 @@
 | 1.29 | Venezuela | 70 |
 | 1.27 | Panama | 15 |
 | 1.25 | China | 634 |
-| 1.25 | Chile | 120 |
 | 1.25 | Kuwait | 8 |
+| 1.25 | Chile | 121 |
 | 1.23 | Uruguay | 48 |
 | 1.22 | Bahrain | 9 |
 | 1.21 | Japan | 226 |

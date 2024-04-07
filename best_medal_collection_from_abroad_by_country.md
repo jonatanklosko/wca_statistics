@@ -1,27 +1,27 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1402** | 1175 | 1013 | 3590 |
-| Germany | **1061** | 1002 | 1016 | 3079 |
-| United States | **1060** | 874 | 781 | 2715 |
+| United States | **1062** | 878 | 784 | 2724 |
+| Germany | **1061** | 1003 | 1016 | 3080 |
 | France | **937** | 806 | 687 | 2430 |
-| Netherlands | **924** | 734 | 610 | 2268 |
+| Netherlands | **927** | 734 | 611 | 2272 |
 | Russia | **873** | 516 | 401 | 1790 |
-| China | **673** | 632 | 571 | 1876 |
+| China | **674** | 633 | 572 | 1879 |
 | Poland | **596** | 387 | 295 | 1278 |
 | Malaysia | **405** | 406 | 377 | 1188 |
 | United Kingdom | **400** | 458 | 438 | 1296 |
-| Canada | **374** | 385 | 413 | 1172 |
+| Canada | **375** | 386 | 413 | 1174 |
 | Denmark | **354** | 299 | 238 | 891 |
 | Republic of Korea | **332** | 289 | 255 | 876 |
 | Sweden | **307** | 352 | 364 | 1023 |
 | Hong Kong, China | **299** | 318 | 246 | 863 |
 | Australia | **290** | 136 | 92 | 518 |
-| India | **288** | 260 | 255 | 803 |
+| India | **288** | 260 | 256 | 804 |
 | Switzerland | **279** | 395 | 307 | 981 |
 | Finland | **275** | 211 | 175 | 661 |
 | Italy | **237** | 225 | 210 | 672 |
@@ -43,7 +43,7 @@
 | Greece | **120** | 148 | 110 | 378 |
 | Czech Republic | **111** | 118 | 130 | 359 |
 | Belarus | **111** | 74 | 88 | 273 |
-| Kazakhstan | **109** | 105 | 99 | 313 |
+| Kazakhstan | **109** | 105 | 101 | 315 |
 | Thailand | **86** | 90 | 45 | 221 |
 | Slovakia | **79** | 91 | 99 | 269 |
 | Lithuania | **76** | 74 | 88 | 238 |
@@ -83,7 +83,7 @@
 | Kuwait | **9** | 8 | 18 | 35 |
 | Bosnia and Herzegovina | **8** | 21 | 11 | 40 |
 | Cyprus | **8** | 18 | 16 | 42 |
-| Morocco | **8** | 8 | 12 | 28 |
+| Morocco | **8** | 11 | 12 | 31 |
 | Moldova | **7** | 12 | 7 | 26 |
 | Georgia | **7** | 10 | 9 | 26 |
 | Panama | **7** | 7 | 8 | 22 |

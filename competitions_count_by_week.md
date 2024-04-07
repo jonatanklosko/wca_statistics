@@ -1,7 +1,7 @@
 ## Competitions count by week
 
 *Note: Week is considered to start on Monday and end on Sunday.*
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 | Competitions | Week start | Week end | List on WCA |
 | :--: | ---: | ---: | :--: |
@@ -13,9 +13,9 @@
 | 60 | 12 Feb 2024 | 18 Feb 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-02-13&to_date=2024-02-18) |
 | 59 |  1 Apr 2024 |  7 Apr 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-04-02&to_date=2024-04-07) |
 | 59 | 11 Dec 2023 | 17 Dec 2023 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2023-12-11&to_date=2023-12-17) |
+| 58 | 29 Apr 2024 |  5 May 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-04-30&to_date=2024-05-05) |
 | 58 | 26 Feb 2024 |  3 Mar 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-02-28&to_date=2024-03-03) |
 | 57 |  8 Apr 2024 | 14 Apr 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-04-08&to_date=2024-04-14) |
-| 55 | 29 Apr 2024 |  5 May 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-04-30&to_date=2024-05-05) |
 | 55 | 18 Mar 2024 | 24 Mar 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-03-23&to_date=2024-03-24) |
 | 55 | 22 Jan 2024 | 28 Jan 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-01-22&to_date=2024-01-28) |
 | 54 | 27 Nov 2023 |  3 Dec 2023 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2023-11-27&to_date=2023-12-03) |
@@ -53,10 +53,10 @@
 | 42 | 16 Oct 2023 | 22 Oct 2023 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2023-10-17&to_date=2023-10-22) |
 | 42 | 10 Apr 2023 | 16 Apr 2023 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2023-04-10&to_date=2023-04-16) |
 | 41 |  9 Dec 2019 | 15 Dec 2019 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2019-12-13&to_date=2019-12-15) |
+| 40 |  6 May 2024 | 12 May 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-05-09&to_date=2024-05-13) |
 | 40 | 25 Sep 2023 |  1 Oct 2023 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2023-09-25&to_date=2023-10-02) |
 | 39 | 14 Aug 2023 | 20 Aug 2023 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2023-08-15&to_date=2023-08-21) |
 | 39 | 21 Nov 2022 | 27 Nov 2022 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2022-11-23&to_date=2022-11-27) |
-| 38 |  6 May 2024 | 12 May 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-05-09&to_date=2024-05-13) |
 | 37 |  8 May 2023 | 14 May 2023 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2023-05-08&to_date=2023-05-14) |
 | 36 | 13 May 2024 | 19 May 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-05-16&to_date=2024-05-20) |
 | 36 |  2 Oct 2023 |  8 Oct 2023 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2023-10-03&to_date=2023-10-09) |
@@ -534,6 +534,7 @@
 | 7 | 31 Jan 2011 |  6 Feb 2011 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2011-02-05&to_date=2011-02-06) |
 | 7 | 27 Sep 2010 |  3 Oct 2010 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2010-09-27&to_date=2010-10-04) |
 | 7 | 31 May 2010 |  6 Jun 2010 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2010-06-05&to_date=2010-06-06) |
+| 6 | 29 Jul 2024 |  4 Aug 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-08-02&to_date=2024-08-04) |
 | 6 | 19 Dec 2022 | 25 Dec 2022 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2022-12-20&to_date=2022-12-25) |
 | 6 | 27 Dec 2021 |  2 Jan 2022 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-12-28&to_date=2022-01-02) |
 | 6 |  4 Oct 2021 | 10 Oct 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-10-08&to_date=2021-10-10) |
@@ -581,7 +582,6 @@
 | 6 | 14 Apr 2008 | 20 Apr 2008 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2008-04-19&to_date=2008-04-20) |
 | 6 | 11 Feb 2008 | 17 Feb 2008 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2008-02-16&to_date=2008-02-17) |
 | 5 |  5 Aug 2024 | 11 Aug 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-08-09&to_date=2024-08-11) |
-| 5 | 29 Jul 2024 |  4 Aug 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-08-02&to_date=2024-08-04) |
 | 5 |  1 Jul 2024 |  7 Jul 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-07-05&to_date=2024-07-07) |
 | 5 |  3 Jan 2022 |  9 Jan 2022 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2022-01-07&to_date=2022-01-09) |
 | 5 | 18 Oct 2021 | 24 Oct 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-10-23&to_date=2021-10-24) |

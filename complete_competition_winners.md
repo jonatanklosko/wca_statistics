@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -140,6 +140,7 @@
 | 4 | [Saravanan Gowthaman](https://www.worldcubeassociation.org/persons/2015GOWT01) | India | [VDCA Winter Open 2019](https://www.worldcubeassociation.org/competitions/VDCAWinterOpen2019) |
 | 4 | [Seth Ferry](https://www.worldcubeassociation.org/persons/2017FERR01) | Australia | [Adelaide Autumn 2023](https://www.worldcubeassociation.org/competitions/AdelaideAutumn2023) |
 | 4 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | Japan | [East Japan Big Cubes 2013](https://www.worldcubeassociation.org/competitions/EastJapanBigCubes2013) |
+| 3 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | Israel | [DNFs and Pizza Israel 2024](https://www.worldcubeassociation.org/competitions/DNFsandPizzaIsrael2024) |
 | 3 | [Brendan Bakker](https://www.worldcubeassociation.org/persons/2015BAKK01) | United States | [PBQtah 5 2023](https://www.worldcubeassociation.org/competitions/PBQtah52023) |
 | 3 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | United States | [Middleton Meetup Thursday 2023](https://www.worldcubeassociation.org/competitions/MiddletonMeetupThursday2023) |
 | 3 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [Fantabulous MN Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMinnesota2015) |
@@ -464,8 +465,8 @@
 | 1 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | Japan | [Caltech Winter 2004](https://www.worldcubeassociation.org/competitions/CaltechWinter2004) |
 | 1 | [Shuang Chen (陈霜)](https://www.worldcubeassociation.org/persons/2008CHEN27) | China | [China FM Beijing 2011](https://www.worldcubeassociation.org/competitions/ChinaFMBeijing2011) |
 | 1 | [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01) | Japan | [FMC Asia 2017](https://www.worldcubeassociation.org/competitions/FMCAsia2017) |
-| 1 | [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01) | Japan | [Kanto FMC 2015](https://www.worldcubeassociation.org/competitions/KantoFMC2015) |
 | 1 | [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01) | Japan | [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017) |
+| 1 | [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01) | Japan | [Kanto FMC 2015](https://www.worldcubeassociation.org/competitions/KantoFMC2015) |
 | 1 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | United States | [Fitchburg FMC II 2023](https://www.worldcubeassociation.org/competitions/FitchburgFMCII2023) |
 | 1 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | United States | [FMC Canada 2023](https://www.worldcubeassociation.org/competitions/FMCCanada2023) |
 | 1 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) | Japan | [Kanazawa Open 2007](https://www.worldcubeassociation.org/competitions/KanazawaOpen2007) |
@@ -478,9 +479,9 @@
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Fewest Moves Christmas 2018](https://www.worldcubeassociation.org/competitions/FewestMovesChristmas2018) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [First Friday First FMC Täby 2024](https://www.worldcubeassociation.org/competitions/FirstFridayFirstFMCTaby2024) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [FMC London Summer 2023](https://www.worldcubeassociation.org/competitions/FMCLondonSummer2023) |
+| 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Norwegian FMC Championship 2023](https://www.worldcubeassociation.org/competitions/NorwegianFMCChampionship2023) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Swedish FMC Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishFMCChampionship2022) |
 | 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Swedish FMC Championship 2023](https://www.worldcubeassociation.org/competitions/SwedishFMCChampionship2023) |
-| 1 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | Sweden | [Norwegian FMC Championship 2023](https://www.worldcubeassociation.org/competitions/NorwegianFMCChampionship2023) |
 | 1 | [Thomas Templier](https://www.worldcubeassociation.org/persons/2003TEMP01) | France | [France 2004](https://www.worldcubeassociation.org/competitions/France2004) |
 | 1 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | United States | [FMC USA 2014](https://www.worldcubeassociation.org/competitions/FMCUSA2014) |
 | 1 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | United States | [MIT FMC 2014](https://www.worldcubeassociation.org/competitions/MITFMC2014) |

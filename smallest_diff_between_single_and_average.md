@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 April 2024*
+*Updated on 10 April 2024*
 
 
 ### Rubik's Cube
@@ -135,7 +135,7 @@
 | 0.13 | [Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01) | 1:20.65 | 1:20.78 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2015PADG01) |
 | 0.14 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | 39.29 | 39.43 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012LEWI01) |
 | 0.14 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 1:11.10 | 1:11.24 | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018/results/by_person#2017GOLU01) |
-| 0.14 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 1:26.82 | 1:26.96 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021/results/by_person#2015FENG12) |
+| 0.14 | [Jun Qi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 1:26.82 | 1:26.96 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021/results/by_person#2015FENG12) |
 | 0.16 | [Zaiyang Zhang (张在旸)](https://www.worldcubeassociation.org/persons/2017ZHAZ09) | 1:24.57 | 1:24.73 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2017ZHAZ09) |
 | 0.17 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 30.56 | 30.73 | [DFW Cubing Fall 2022](https://www.worldcubeassociation.org/competitions/DFWCubingFall2022/results/by_person#2015NAIN01) |
 
@@ -178,11 +178,11 @@
 | 0.04 | [Alessandro Calzoni](https://www.worldcubeassociation.org/persons/2021CALZ01) | 2.90 | 2.94 | [Ticino Open 2023](https://www.worldcubeassociation.org/competitions/TicinoOpen2023/results/by_person#2021CALZ01) |
 | 0.04 | [Jesús Julián De Niz Hernandez](https://www.worldcubeassociation.org/persons/2014HERN12) | 3.44 | 3.48 | [Guadalajara 2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017/results/by_person#2014HERN12) |
 | 0.04 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.57 | 3.61 | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/by_person#2022STOJ03) |
+| 0.04 | [Rasmus Händén](https://www.worldcubeassociation.org/persons/2016HAND04) | 3.80 | 3.84 | [Cuboss Open 2024](https://www.worldcubeassociation.org/competitions/CubossOpen2024/results/by_person#2016HAND04) |
 | 0.04 | [Jiachen Xu (徐嘉辰)](https://www.worldcubeassociation.org/persons/2016XUJI02) | 3.96 | 4.00 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2016XUJI02) |
 | 0.04 | [Dominik Fürer](https://www.worldcubeassociation.org/persons/2017FURE01) | 4.22 | 4.26 | [Wiler Würfelfest 2019](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2019/results/by_person#2017FURE01) |
 | 0.04 | [Julián García Sánchez](https://www.worldcubeassociation.org/persons/2014SANC28) | 4.48 | 4.52 | [Tlaxcala 2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018/results/by_person#2014SANC28) |
 | 0.04 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 5.05 | 5.09 | [VES Spring 2019](https://www.worldcubeassociation.org/competitions/VESSpring2019/results/by_person#2018KHAN26) |
-| 0.04 | [Andrew Tyberg](https://www.worldcubeassociation.org/persons/2016TYBE01) | 5.74 | 5.78 | [Mega Minnesota Winter 2018](https://www.worldcubeassociation.org/competitions/MegaMinnesotaWinter2018/results/by_person#2016TYBE01) |
 
 ### Square-1
 

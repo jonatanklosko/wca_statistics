@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  7 April 2024*
+*Updated on 10 April 2024*
 
 | Continents | Person |
 | ---: | :--- |
@@ -40,6 +40,7 @@
 | 5 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 5 | [Helmut Heilig](https://www.worldcubeassociation.org/persons/2010HEIL02) |
 | 5 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
+| 5 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 5 | [Donna Hays](https://www.worldcubeassociation.org/persons/2011HAYS02) |
 | 5 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 5 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
@@ -93,7 +94,6 @@
 | 4 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 4 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 4 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) |
-| 4 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 4 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 4 | [Seyyed Mohammad Hossein Fatemi (سید محمد حسین فاطمی)](https://www.worldcubeassociation.org/persons/2011FATE01) |
 | 4 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) |

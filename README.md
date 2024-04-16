@@ -19,7 +19,6 @@
 - [Current world records count by country](current_world_records_by_country)
 - [DNF rate by event](dnf_rate_by_event)
 - [Delegated competitions per year](delegated_competition_per_year)
-- [Delegates rankings](delegates_rankings)
 - [Fewest competitors contest](fewest_competitors_contest)
 - [Longest competitions path](longest_competitions_path)
 - [Longest standing records](longest_standing_records)

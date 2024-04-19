@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 April 2024*
+*Updated on 19 April 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -463,6 +463,8 @@
 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Fresh Cube 2017](https://www.worldcubeassociation.org/competitions/FreshCube2017/results/podiums) |
 | 11 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Frikifest 2017](https://www.worldcubeassociation.org/competitions/Frikifest2017/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Fuglsangpark Open 2009](https://www.worldcubeassociation.org/competitions/FuglsangparkOpen2009/results/podiums) |
+| 10 | [Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02) | [Fundación de Cuenca Open 2024](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2024/results/podiums) |
+| 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Fundación de Cuenca Open 2024](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2024/results/podiums) |
 | 10 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [GamMa Spring 2022](https://www.worldcubeassociation.org/competitions/GamMaSpring2022/results/podiums) |
 | 10 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | [Gbg Summer Cubing 2022](https://www.worldcubeassociation.org/competitions/GbgSummerCubing2022/results/podiums) |
 | 12 | [Tamar Dolenjishvili](https://www.worldcubeassociation.org/persons/2018DOLE01) | [Georgia February Open 2024](https://www.worldcubeassociation.org/competitions/GeorgiaFebruaryOpen2024/results/podiums) |
@@ -763,6 +765,7 @@
 | 10 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | [National Capital Region 2018](https://www.worldcubeassociation.org/competitions/NationalCapitalRegion2018/results/podiums) |
 | 10 | [Shubham Kumar](https://www.worldcubeassociation.org/persons/2013KUMA15) | [NCR Open 2014](https://www.worldcubeassociation.org/competitions/NationalCubingRegion2014/results/podiums) |
 | 11 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [NCR Open 2017](https://www.worldcubeassociation.org/competitions/NCROpen2017/results/podiums) |
+| 14 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Nebraska Championship 2024](https://www.worldcubeassociation.org/competitions/NebraskaChampionship2024/results/podiums) |
 | 13 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Nebraska Heartland Warmup 2023](https://www.worldcubeassociation.org/competitions/NebraskaHeartlandWarmup2023/results/podiums) |
 | 11 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Nebraska Heartland Warmup 2023](https://www.worldcubeassociation.org/competitions/NebraskaHeartlandWarmup2023/results/podiums) |
 | 11 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [Negros Speedcubing Open 2019](https://www.worldcubeassociation.org/competitions/NegrosSpeedcubingOpen2019/results/podiums) |

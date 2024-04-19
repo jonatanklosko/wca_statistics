@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 April 2024*
+*Updated on 19 April 2024*
 
 
 ### Rubik's Cube
@@ -182,7 +182,7 @@
 | 4.12 | [Jasper Wolfe-Tham](https://www.worldcubeassociation.org/persons/2022WOLF02) | 3.90, 4.56, DNF, 4.57, 5.32, 4.15, 3.88, 3.47, 5.05, 4.55, 4.69, 4.03, 3.52, 3.04, 4.13, 3.92, 3.24, 9.07, 3.68, 4.68, 4.07, 3.15, 3.44, 3.56, 4.13 |
 | 4.13 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.39, 3.93, 3.78, 3.72, 3.15, 3.45, DNF, 3.53, 5.70, 3.46, 7.53, 4.88, 3.57, 3.18, 3.77, 4.63, 3.65, 3.37, 3.05, 3.33, 3.12, 8.23, 3.40, DNF, 2.85 |
 | 4.15 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) | 3.90, 4.23, 4.71, 3.21, 4.19, 4.21, DNF, 3.48, 4.11, 5.16, 4.04, 4.07, 4.73, 4.36, 3.58, 3.71, 3.42, 5.17, 2.84, 3.62, 5.59, 4.63, 4.38, 3.64, 3.82 |
-| 4.25 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.74, 3.94, 4.60, 4.49, 3.34, 5.35, 4.09, 5.26, DNF, 4.59, 4.15, 3.52, 5.05, 2.88, 5.68, 3.62, 5.07, 3.47, 4.03, 9.56, 3.45, 4.26, 3.93, 3.53, 3.25 |
+| 4.23 | [Dilshawn Sidhu](https://www.worldcubeassociation.org/persons/2018SIDH02) | 3.38, DNF, 4.90, 3.40, 8.18, 6.31, 4.69, 4.04, 3.56, 4.43, 4.15, 3.26, 3.17, 5.83, 3.31, 3.48, 4.03, 6.21, 3.67, 3.54, 3.37, 4.19, 4.55, 4.32, 3.48 |
 
 ### Skewb
 

@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 16 April 2024*
+*Updated on 19 April 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -31,11 +31,11 @@
 | 106 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 102 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 102 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
-| 101 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
+| 102 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 99 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 99 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 96 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
+| 97 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 94 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 94 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |

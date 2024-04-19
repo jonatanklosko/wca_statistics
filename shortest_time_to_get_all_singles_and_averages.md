@@ -1,18 +1,20 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 April 2024*
+*Updated on 19 April 2024*
 
 | Days | Person |
 | ---: | :--- |
 | 282 | [Ziyi Xu (徐梓翼)](https://www.worldcubeassociation.org/persons/2023XUZI01) |
 | 385 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 392 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) |
+| 400 | [Kevin Liu](https://www.worldcubeassociation.org/persons/2023LIUK02) |
 | 406 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) |
 | 426 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 496 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 665 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
 | 861 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) |
+| 910 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 917 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
 | 924 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 929 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |

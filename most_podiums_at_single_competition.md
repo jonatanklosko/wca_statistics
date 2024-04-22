@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -400,6 +400,7 @@
 | 10 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [Edukent Weekend 2023](https://www.worldcubeassociation.org/competitions/EdukentWeekend2023/results/podiums) |
 | 10 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Edukent Weekend 2023](https://www.worldcubeassociation.org/competitions/EdukentWeekend2023/results/podiums) |
 | 11 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [El Escorial Open 2016](https://www.worldcubeassociation.org/competitions/ElEscorialOpen2016/results/podiums) |
+| 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [El Masnou Open 2024](https://www.worldcubeassociation.org/competitions/ElMasnouOpen2024/results/podiums) |
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Empire State Spring 2019](https://www.worldcubeassociation.org/competitions/EmpireStateSpring2019/results/podiums) |
 | 10 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Eretum Open 2018](https://www.worldcubeassociation.org/competitions/EretumOpen2018/results/podiums) |
 | 12 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | [Erfurt Open 2014](https://www.worldcubeassociation.org/competitions/ErfurtOpen2014/results/podiums) |

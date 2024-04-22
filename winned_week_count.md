@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 
 ### Rubik's Cube
@@ -172,9 +172,9 @@
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | 15 |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | 14 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 13 |
-| [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 13 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 12 |
 | [Noah Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) | 12 |
+| [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 12 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 11 |
 | [Sreeram Venkatarao](https://www.worldcubeassociation.org/persons/2008VENK01) | 11 |
 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | 11 |
@@ -184,7 +184,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 52 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 27 |
+| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 28 |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 20 |
 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | 19 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 17 |
@@ -313,8 +313,8 @@
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 24 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 20 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 12 |
+| [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 10 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 9 |
-| [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 9 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 8 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 7 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 7 |

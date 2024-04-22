@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -233,6 +233,7 @@
 | 11 | [Kostanay Open 2023](https://www.worldcubeassociation.org/competitions/KostanayOpen2023) |
 | 11 | [Kotka Open 2011](https://www.worldcubeassociation.org/competitions/KotkaOpen2011) |
 | 11 | [Kurochkino Cubers 2021](https://www.worldcubeassociation.org/competitions/KurochkinoCubers2021) |
+| 11 | [Kyiv Mental Breakdown April 2024](https://www.worldcubeassociation.org/competitions/KyivMentalBreakdownApril2024) |
 | 11 | [Lexington March Mini 2024](https://www.worldcubeassociation.org/competitions/LexingtonMarchMini2024) |
 | 11 | [Málaga UIS 2018](https://www.worldcubeassociation.org/competitions/MalagaUIS2018) |
 | 11 | [Mental Breakdown Minnesota 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownMinnesota2019) |
@@ -441,6 +442,7 @@
 | 14 | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016) |
 | 14 | [Reto del Guaz 2022](https://www.worldcubeassociation.org/competitions/RetodelGuaz2022) |
 | 14 | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022) |
+| 14 | [Roskilde by Night 2024](https://www.worldcubeassociation.org/competitions/RoskildebyNight2024) |
 | 14 | [SCC Open 2015](https://www.worldcubeassociation.org/competitions/SCCOpen2015) |
 | 14 | [Side 'n Blind Forserum 2020](https://www.worldcubeassociation.org/competitions/SidenBlindForserum2020) |
 | 14 | [Silence in the Grove 2019](https://www.worldcubeassociation.org/competitions/SilenceInTheGrove2019) |

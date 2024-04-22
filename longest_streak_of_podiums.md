@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -9,8 +9,8 @@
 | 86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4x4x4 Cube | [SacCubing II 2017](https://www.worldcubeassociation.org/competitions/SacCubingII2017) |  |
 | 85 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 3x3x3 One-Handed | [Berkeley Summer 2016](https://www.worldcubeassociation.org/competitions/BerkeleySummer2016) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 83 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 3x3x3 One-Handed | [Swiss Nationals 2018](https://www.worldcubeassociation.org/competitions/SwissNationals2018) |  |
+| 82 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |  |
 | 81 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 5x5x5 Cube | [Caltech Fall 2016](https://www.worldcubeassociation.org/competitions/CaltechFall2016) |  |
-| 81 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |  |
 | 80 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 7x7x7 Cube | [French Open 2009](https://www.worldcubeassociation.org/competitions/FrenchOpen2009) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 78 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 4x4x4 Cube | [Aachen Open 2011](https://www.worldcubeassociation.org/competitions/AachenOpen2011) | [Rhein-Neckar Open 2019](https://www.worldcubeassociation.org/competitions/RheinNeckarOpen2019) |
 | 78 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 2x2x2 Cube | [Dutch Nationals 2014](https://www.worldcubeassociation.org/competitions/DutchNationals2014) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
@@ -39,12 +39,12 @@
 | 50 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5x5x5 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 48 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 5x5x5 Cube | [Pleasantville Fall 2007](https://www.worldcubeassociation.org/competitions/PleasantvilleFall2007) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
 | 48 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | 4x4x4 Cube | [XPU Open 2017](https://www.worldcubeassociation.org/competitions/XPUOpen2017) | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023) |
+| 48 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 3x3x3 Blindfolded | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) |  |
 | 48 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | Skewb | [Ukrainian Nationals 2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017) |  |
 | 47 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3x3x3 Blindfolded | [Guangdong Open 2014](https://www.worldcubeassociation.org/competitions/GuangdongOpen2014) | [Chongqing Open 2017](https://www.worldcubeassociation.org/competitions/ChongqingOpen2017) |
 | 47 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | Megaminx | [Wrocław Side Challenge 2019](https://www.worldcubeassociation.org/competitions/WroclawSideChallenge2019) |  |
 | 47 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | Square-1 | [Big Pine Open 2015](https://www.worldcubeassociation.org/competitions/BigPineOpen2015) |  |
 | 46 | [David Remolina Amórtegui](https://www.worldcubeassociation.org/persons/2011AMOR01) | 4x4x4 Cube | [IV Bogota 2012](https://www.worldcubeassociation.org/competitions/IVBogota2012) | [Martelli Open Otoño 2019](https://www.worldcubeassociation.org/competitions/MartelliOpenOtono2019) |
-| 46 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 3x3x3 Blindfolded | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) |  |
 | 45 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 6x6x6 Cube | [Australian Nationals 2013](https://www.worldcubeassociation.org/competitions/AustralianNationals2013) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 45 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 3x3x3 Blindfolded | [Kubkvarna 2022](https://www.worldcubeassociation.org/competitions/Kubkvarna2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 44 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | Skewb | [Kubekings Villanueva Open 2018](https://www.worldcubeassociation.org/competitions/KubekingsVillanuevaOpen2018) | [UMA Open 2023](https://www.worldcubeassociation.org/competitions/UMAOpen2023) |
@@ -100,10 +100,10 @@
 | 33 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | Pyraminx | [Ohio Fall 2011](https://www.worldcubeassociation.org/competitions/OhioFall2011) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) |
 | 33 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | 4x4x4 Cube | [Torneo Tadeo Summer 2017](https://www.worldcubeassociation.org/competitions/TorneoTadeoSummer2017) | [El Puente San Gil 2023](https://www.worldcubeassociation.org/competitions/ElPuenteSanGil2023) |
 | 33 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 7x7x7 Cube | [Wuxi Open 2019](https://www.worldcubeassociation.org/competitions/WuxiOpen2019) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
-| 33 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 2x2x2 Cube | [Danish Championship 2022](https://www.worldcubeassociation.org/competitions/DanishChampionship2022) |  |
 | 33 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | Skewb | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) | [Aarhus Spring 2024](https://www.worldcubeassociation.org/competitions/AarhusSpring2024) |
+| 33 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 2x2x2 Cube | [Danish Championship 2022](https://www.worldcubeassociation.org/competitions/DanishChampionship2022) | [Furesø Beginnings 2024](https://www.worldcubeassociation.org/competitions/FuresoBeginnings2024) |
 | 33 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | 7x7x7 Cube | [Fénix 2014](https://www.worldcubeassociation.org/competitions/Fenix2014) |  |
-| 33 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | Skewb | [Swallow Spring 2023](https://www.worldcubeassociation.org/competitions/SwallowSpring2023) |  |
+| 33 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | Skewb | [Swallow Spring 2023](https://www.worldcubeassociation.org/competitions/SwallowSpring2023) | [Minnesota Slice 2024](https://www.worldcubeassociation.org/competitions/MinnesotaSlice2024) |
 | 33 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | Megaminx | [Zhenjiang Open 2016](https://www.worldcubeassociation.org/competitions/ZhenjiangOpen2016) |  |
 
 

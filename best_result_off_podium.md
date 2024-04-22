@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 
 ### Rubik's Cube
@@ -189,6 +189,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 2.10 | **2.50** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 4 |
+| [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) | 1.66 | **2.55** | [Minnesota Slice 2024](https://www.worldcubeassociation.org/competitions/MinnesotaSlice2024/results/all#eskewb_f) | 4 |
 | [Charles Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 2.18 | **2.61** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 4 |
 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2.34 | **2.66** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 5 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.22 | **2.72** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 5 |
@@ -197,7 +198,6 @@
 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | 2.06 | **2.74** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 6 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 2.08 | **2.75** | [Race the Clock Minnesota 2023](https://www.worldcubeassociation.org/competitions/RacetheClockMinnesota2023/results/all#eskewb_f) | 4 |
 | [Lucas Lippman-Bruno](https://www.worldcubeassociation.org/persons/2022LIPP01) | 2.46 | **2.75** | [Milwaukee Cubing Mania 2024](https://www.worldcubeassociation.org/competitions/MilwaukeeCubingMania2024/results/all#eskewb_f) | 4 |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2.09 | **2.78** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eskewb_f) | 5 |
 
 ### Square-1
 

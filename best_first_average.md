@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 
 ### Rubik's Cube
@@ -135,9 +135,9 @@
 | 13.54 | [Aragon Martin Gonzales](https://www.worldcubeassociation.org/persons/2023GONZ18) |
 | 13.94 | [Xingyu Zhu (朱星宇)](https://www.worldcubeassociation.org/persons/2023ZHUX01) |
 | 14.08 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) |
+| 14.13 | [Mohammadreza Abbaszadeh (محمدرضا عباس زاده)](https://www.worldcubeassociation.org/persons/2023ABBA06) |
 | 14.15 | [Chengnuo Han (韩承诺)](https://www.worldcubeassociation.org/persons/2021HANC01) |
 | 14.25 | [Minghao Zhang](https://www.worldcubeassociation.org/persons/2024ZHAN06) |
-| 14.50 | [Callan Vom](https://www.worldcubeassociation.org/persons/2022VOMC01) |
 
 ### Megaminx
 

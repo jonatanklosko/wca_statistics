@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 | Person | Years |
 | :--- | ---: |
@@ -47,8 +47,8 @@
 | [Aníbal Araya](https://www.worldcubeassociation.org/persons/2011ARAY01) | 11.12 |
 | [Steven Cheung](https://www.worldcubeassociation.org/persons/2013CHEU01) | 11.04 |
 | [Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02) | 11.02 |
-| [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | 11.00 |
 | [Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01) | 11.00 |
+| [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | 11.00 |
 | [Xiaobo Jin (金晓波)](https://www.worldcubeassociation.org/persons/2008JINX01) | 10.90 |
 | [Ottfried Kejs](https://www.worldcubeassociation.org/persons/2012KEJS01) | 10.83 |
 | [Dominik Beese](https://www.worldcubeassociation.org/persons/2013BEES01) | 10.79 |

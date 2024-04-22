@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -105,6 +105,7 @@
 | 735 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 741 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 742 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
+| 742 | [Miles Greco](https://www.worldcubeassociation.org/persons/2022GREC01) |
 | 750 | [Jaxon Foster](https://www.worldcubeassociation.org/persons/2021FOST01) |
 | 755 | [Jindřich Heissiger](https://www.worldcubeassociation.org/persons/2021HEIS01) |
 | 762 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
@@ -353,6 +354,7 @@
 | 1974 | [Deni Mintsaev](https://www.worldcubeassociation.org/persons/2013MINT01) |
 | 1980 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
 | 1988 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) |
+| 1988 | [Frederick Zheng](https://www.worldcubeassociation.org/persons/2018ZHEN45) |
 | 1989 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) |
 | 1989 | [Davide Arnesano](https://www.worldcubeassociation.org/persons/2018ARNE04) |
 | 1995 | [Matthew Bidwell](https://www.worldcubeassociation.org/persons/2018BIDW02) |
@@ -412,6 +414,7 @@
 | 2317 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 2323 | [Can Mao (毛灿)](https://www.worldcubeassociation.org/persons/2010MAOC01) |
 | 2323 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
+| 2331 | [Lakshmi Sai Srivatsa](https://www.worldcubeassociation.org/persons/2017SRIV11) |
 | 2351 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
 | 2352 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) |
 | 2359 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) |

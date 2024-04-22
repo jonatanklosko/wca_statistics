@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -84,8 +84,8 @@
 | 5 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [Sydney Autumn 2015](https://www.worldcubeassociation.org/competitions/SydneyAutumn2015) |
 | 5 | [Jishnu Jeevan](https://www.worldcubeassociation.org/persons/2011JEEV01) | India | [Tathva Cube Open 2015](https://www.worldcubeassociation.org/competitions/TathvaCubeOpen2015) |
 | 5 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | Ukraine | [U24 Tetiana Day 2023](https://www.worldcubeassociation.org/competitions/U24TetianaDay2023) |
-| 5 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | United States | [Bulldog Spring 2023](https://www.worldcubeassociation.org/competitions/BulldogSpring2023) |
 | 5 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | United States | [Ohio Valley Open 2022](https://www.worldcubeassociation.org/competitions/OhioValleyOpen2022) |
+| 5 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | United States | [Bulldog Spring 2023](https://www.worldcubeassociation.org/competitions/BulldogSpring2023) |
 | 5 | [Manasij Venkatesh](https://www.worldcubeassociation.org/persons/2011VENK02) | India | [Engineer Open 2011](https://www.worldcubeassociation.org/competitions/EngineerOpen2011) |
 | 5 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | United States | [Mental Breakdown Minnesota 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownMinnesota2019) |
 | 5 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | Romania | [Craiova Rubik Open 2017](https://www.worldcubeassociation.org/competitions/CraiovaRubikOpen2017) |
@@ -307,11 +307,12 @@
 | 1 | [Daniel Orlando Valdes Arzola](https://www.worldcubeassociation.org/persons/2022ARZO01) | Cuba | [First Solves at Fisketorvet 2023](https://www.worldcubeassociation.org/competitions/FirstSolvesatFisketorvet2023) |
 | 1 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | United States | [Lexington Feet Fest 2019](https://www.worldcubeassociation.org/competitions/LexingtonFeetFest2019) |
 | 1 | [Daniel Yosef](https://www.worldcubeassociation.org/persons/2014YOSE01) | Israel | [Sharet School 2017](https://www.worldcubeassociation.org/competitions/SharetSchool2017) |
+| 1 | [Dávid Balog](https://www.worldcubeassociation.org/persons/2009BALO03) | Hungary | [FMC Eastern Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEasternEurope2024) |
 | 1 | [Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01) | United States | [Nisei Week 2012](https://www.worldcubeassociation.org/competitions/NiseiWeek2012) |
 | 1 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | Colombia | [Fewest Moves Colombia 2023](https://www.worldcubeassociation.org/competitions/FewestMovesColombia2023) |
 | 1 | [Diego Alonso Tapia Mera](https://www.worldcubeassociation.org/persons/2017MERA01) | Chile | [Titan FMC 2023](https://www.worldcubeassociation.org/competitions/TitanFMC2023) |
-| 1 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | Republic of Korea | [FMC Korea 2023](https://www.worldcubeassociation.org/competitions/FMCKorea2023) |
 | 1 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | Republic of Korea | [Korean FMC Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2023) |
+| 1 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | Republic of Korea | [FMC Korea 2023](https://www.worldcubeassociation.org/competitions/FMCKorea2023) |
 | 1 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | Poland | [Mental Breakdown I Rzeszów 2024](https://www.worldcubeassociation.org/competitions/MentalBreakdownIRzeszow2024) |
 | 1 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) | Ireland | [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023) |
 | 1 | [Eita Himeno](https://www.worldcubeassociation.org/persons/2022HIME01) | Japan | [Tokyo Challenge VI 2023](https://www.worldcubeassociation.org/competitions/TokyoChallengeVI2023) |
@@ -516,8 +517,8 @@
 | 1 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | Indonesia | [Fewest Moves Southeast Asia 2018](https://www.worldcubeassociation.org/competitions/FewestMovesSoutheastAsia2018) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [Few Better Mean It Diliman 2024](https://www.worldcubeassociation.org/competitions/FewBetterMeanItDiliman2024) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [FMC Johor Bahru 2023](https://www.worldcubeassociation.org/competitions/FMCJohorBahru2023) |
-| 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [FMC Singapore 2024](https://www.worldcubeassociation.org/competitions/FMCSingapore2024) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [Silentia 1 - FMC 2023](https://www.worldcubeassociation.org/competitions/Silentia1FMC2023) |
+| 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [FMC Singapore 2024](https://www.worldcubeassociation.org/competitions/FMCSingapore2024) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [FMC West Melbourne 2024](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2024) |
 | 1 | [Xinyuan Fan (范歆远)](https://www.worldcubeassociation.org/persons/2016FANX01) | China | [FMC Shanghai 2019](https://www.worldcubeassociation.org/competitions/FMCShanghai2019) |
 | 1 | [Yiliang Lu (路义亮)](https://www.worldcubeassociation.org/persons/2008LUYI01) | China | [Henan Countryside 2012](https://www.worldcubeassociation.org/competitions/HenanCountryside2012) |

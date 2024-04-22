@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 
 ### Rubik's Cube
@@ -112,6 +112,9 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 2.44 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
+| 2.52 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
+| 2.59 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
 | 2.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 2.81 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Muske-GO 2024](https://www.worldcubeassociation.org/competitions/MuskeGO2024/results/by_person#2018THOM29) |
 | 2.89 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
@@ -119,9 +122,6 @@
 | 3.01 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Santa Barbara Cubing 2024](https://www.worldcubeassociation.org/competitions/SantaBarbaraCubing2024/results/by_person#2021DUNA01) |
 | 3.04 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Lierskogen Vinterkubing 2024](https://www.worldcubeassociation.org/competitions/LierskogenVinterkubing2024/results/by_person#2021ELIA01) |
 | 3.07 | [Eddie Artze](https://www.worldcubeassociation.org/persons/2020ARTZ01) | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/by_person#2020ARTZ01) |
-| 3.07 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Cuboss Open 2024](https://www.worldcubeassociation.org/competitions/CubossOpen2024/results/by_person#2021ELIA01) |
-| 3.09 | [Edwin Shen](https://www.worldcubeassociation.org/persons/2021SHEN01) | [A New Year in Auckland 2024](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2024/results/by_person#2021SHEN01) |
-| 3.09 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Uppsalaligan 2: Leap - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan2Leap2024/results/by_person#2021ELIA01) |
 
 ### Skewb
 

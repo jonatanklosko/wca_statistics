@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -128,6 +128,7 @@
 | 2 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
 | 2 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
 | 2 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
+| 2 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 2 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) |

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 
 ### Rubik's Cube
@@ -133,11 +133,11 @@
 | 11.72 | [Arthur Vinicios Medeiros Alves](https://www.worldcubeassociation.org/persons/2023ALVE12) |
 | 11.90 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
 | 12.61 | [Yihan Cai (蔡依函)](https://www.worldcubeassociation.org/persons/2017CAIY02) |
+| 12.68 | [Mohammadreza Abbaszadeh (محمدرضا عباس زاده)](https://www.worldcubeassociation.org/persons/2023ABBA06) |
 | 12.78 | [Zhaojie Li (李肇杰)](https://www.worldcubeassociation.org/persons/2019LIZH12) |
 | 12.99 | [SeungYoon Hyeon](https://www.worldcubeassociation.org/persons/2013HYEO01) |
 | 13.22 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
 | 13.27 | [Tien Tran](https://www.worldcubeassociation.org/persons/2018TRAN09) |
-| 13.31 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) |
 
 ### Megaminx
 

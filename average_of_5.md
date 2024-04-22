@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 April 2024*
+*Updated on 22 April 2024*
 
 
 ### Rubik's Cube
@@ -173,6 +173,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 2.52 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.44, 3.36, 2.59, 2.40, 2.52 |
 | 3.13 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.95, 3.15, 3.09, 3.15, 3.08 |
 | 3.15 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.76, 2.77, 2.80, 6.14, 2.89 |
 | 3.18 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.37, 2.81, DNF, 2.73, 3.37 |
@@ -182,7 +183,6 @@
 | 3.31 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3.11, 3.29, 3.86, 3.27, 3.36 |
 | 3.35 | [Dilshawn Sidhu](https://www.worldcubeassociation.org/persons/2018SIDH02) | 3.26, 3.17, 5.83, 3.31, 3.48 |
 | 3.36 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.52, DNF, 3.16, 3.31, 3.26 |
-| 3.36 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 3.00, DNF, 3.27, 3.56, 3.25 |
 
 ### Skewb
 

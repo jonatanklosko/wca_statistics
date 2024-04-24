@@ -64,8 +64,8 @@
 | [Yinghao Zhu (朱英豪)](https://www.worldcubeassociation.org/persons/2013ZHUY01) | 10.37 |
 | [Maggie Jordan](https://www.worldcubeassociation.org/persons/2013JORD01) | 10.35 |
 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) | 10.33 |
-| [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
+| [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 10.31 |
 | [Vi Dinh](https://www.worldcubeassociation.org/persons/2013DINH01) | 10.29 |
 | [Siddhikant Mishra](https://www.worldcubeassociation.org/persons/2012MISH01) | 10.23 |
@@ -94,8 +94,8 @@
 | [Sutep Nopnatee (สุเทพ นภนที)](https://www.worldcubeassociation.org/persons/2010NOPN01) | 9.54 |
 | [Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02) | 9.54 |
 | [Shubham Dubey](https://www.worldcubeassociation.org/persons/2014DUBE03) | 9.47 |
-| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 9.47 |
 | [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 9.47 |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 9.47 |
 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) | 9.45 |
 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 9.39 |
 | [Vegard Seim Karstang](https://www.worldcubeassociation.org/persons/2009SEIM02) | 9.33 |

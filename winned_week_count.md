@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 22 April 2024*
+*Updated on 28 April 2024*
 
 
 ### Rubik's Cube
@@ -59,7 +59,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 93 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 77 |
+| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 78 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 65 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 35 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 34 |
@@ -88,8 +88,8 @@
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 49 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 35 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 33 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 28 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 27 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 27 |
 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 20 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 20 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 19 |
@@ -108,7 +108,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 59 |
+| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 60 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 53 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 42 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 40 |
@@ -134,8 +134,8 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 50 |
+| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 50 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 49 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 49 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 48 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 29 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 22 |
@@ -184,7 +184,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 52 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 28 |
+| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 27 |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 20 |
 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | 19 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 17 |
@@ -245,9 +245,9 @@
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | 16 |
 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 15 |
 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) | 13 |
+| [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 13 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 12 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 12 |
-| [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 12 |
 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) | 11 |
 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 11 |
 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | 11 |

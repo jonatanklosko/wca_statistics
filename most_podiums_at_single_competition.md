@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 April 2024*
+*Updated on 28 April 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -72,6 +72,7 @@
 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Asian Championship 2010](https://www.worldcubeassociation.org/competitions/AsianChampionship2010/results/podiums) |
 | 11 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Astana Open 2023](https://www.worldcubeassociation.org/competitions/AstanaOpen2023/results/podiums) |
 | 10 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [Astana Open 2023](https://www.worldcubeassociation.org/competitions/AstanaOpen2023/results/podiums) |
+| 10 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Astana Spring 2024](https://www.worldcubeassociation.org/competitions/AstanaSpring2024/results/podiums) |
 | 10 | [Nikolay Vasilyev](https://www.worldcubeassociation.org/persons/2015VASI02) | [Astrakhan Spring Open 2019](https://www.worldcubeassociation.org/competitions/AstrakhanSpringOpen2019/results/podiums) |
 | 10 | [Roman Povolotskii](https://www.worldcubeassociation.org/persons/2017POVO01) | [Astrakhan Spring Open 2019](https://www.worldcubeassociation.org/competitions/AstrakhanSpringOpen2019/results/podiums) |
 | 10 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | [Asturias Open 2016](https://www.worldcubeassociation.org/competitions/AsturiasOpen2016/results/podiums) |

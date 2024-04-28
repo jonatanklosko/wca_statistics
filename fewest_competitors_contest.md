@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 April 2024*
+*Updated on 28 April 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -12,6 +12,7 @@
 | 3 | [China FM Zhengzhou 2011](https://www.worldcubeassociation.org/competitions/ChinaFMZhengzhou2011) |
 | 3 | [Creativity Makers 2023](https://www.worldcubeassociation.org/competitions/CreativityMakers2023) |
 | 3 | [Deck 9 2023](https://www.worldcubeassociation.org/competitions/Deck92023) |
+| 3 | [Grizz League II 2024](https://www.worldcubeassociation.org/competitions/GrizzLeagueII2024) |
 | 3 | [Hike 2 Cube Kenya 2023](https://www.worldcubeassociation.org/competitions/Hike2CubeKenya2023) |
 | 3 | [Sides Bahia - Poções Quest 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaPocoesQuest2023) |
 | 3 | [Try to Get a Mean Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryToGetAMeanRzeszow2023) |
@@ -66,6 +67,7 @@
 | 7 | [Hilliard Hippocampus XI 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusXI2023) |
 | 7 | [Hilliard Hippocampus XII 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusXII2023) |
 | 7 | [Hilliard Hippocampus XIII 2024](https://www.worldcubeassociation.org/competitions/HilliardHippocampusXIII2024) |
+| 7 | [Hilliard Hippocampus XIV 2024](https://www.worldcubeassociation.org/competitions/HilliardHippocampusXIV2024) |
 | 7 | [Idéale Nabeul Open 2018](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2018) |
 | 7 | [JAM FMC II 2023](https://www.worldcubeassociation.org/competitions/JAMFMCII2023) |
 | 7 | [JL1: Margherita 2023](https://www.worldcubeassociation.org/competitions/JL1Margherita2023) |
@@ -392,6 +394,7 @@
 | 13 | [Tchê Aquieta 2020](https://www.worldcubeassociation.org/competitions/TcheAquieta2020) |
 | 13 | [Trondheim Mental Breakdown 2024](https://www.worldcubeassociation.org/competitions/TrondheimMentalBreakdown2024) |
 | 13 | [Ugine Jeu et Jouet 2014](https://www.worldcubeassociation.org/competitions/UgineJeuEtJouet2014) |
+| 13 | [Uppsalaligan 4: Emoji - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan4Emoji2024) |
 | 13 | [U.R.A. Big Blind 2018](https://www.worldcubeassociation.org/competitions/URABigBlind2018) |
 | 13 | [Utah Spring 2011](https://www.worldcubeassociation.org/competitions/UtahSpring2011) |
 | 13 | [Yellowstone 2018](https://www.worldcubeassociation.org/competitions/Yellowstone2018) |

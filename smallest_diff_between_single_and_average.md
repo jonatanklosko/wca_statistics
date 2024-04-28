@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 April 2024*
+*Updated on 28 April 2024*
 
 
 ### Rubik's Cube
@@ -158,6 +158,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.01 | [Ihor Kastranets (Ігор Кастранець)](https://www.worldcubeassociation.org/persons/2018KAST02) | 4.47 | 4.48 | [Podolian Open 2024](https://www.worldcubeassociation.org/competitions/PodolianOpen2024/results/by_person#2018KAST02) |
 | 0.01 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 7.23 | 7.24 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019MORG10) |
 | 0.03 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 7.98 | 8.01 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2015SPEN01) |
 | 0.04 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.76 | 3.80 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2021POLI02) |
@@ -167,7 +168,6 @@
 | 0.05 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.08 | 3.13 | [Uppsalaligan 2: Leap - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan2Leap2024/results/by_person#2021ELIA01) |
 | 0.05 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5.19 | 5.24 | [GLS I 2024](https://www.worldcubeassociation.org/competitions/GLSI2024/results/by_person#2013ROGA02) |
 | 0.05 | [Aleksandra Tatoń](https://www.worldcubeassociation.org/persons/2021TATO01) | 7.30 | 7.35 | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023/results/by_person#2021TATO01) |
-| 0.05 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 7.44 | 7.49 | [Get To The Point 2022](https://www.worldcubeassociation.org/competitions/GetToThePoint2022/results/by_person#2013JOHN10) |
 
 ### Skewb
 

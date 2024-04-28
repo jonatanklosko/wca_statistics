@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 22 April 2024*
+*Updated on 28 April 2024*
 
 
 ### Rubik's Cube
@@ -178,11 +178,11 @@
 | 4.33 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 4.80 | [Michael Fonseca](https://www.worldcubeassociation.org/persons/2019FONS06) |
 | 5.02 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) |
+| 5.05 | [Caleb Merritt](https://www.worldcubeassociation.org/persons/2022MERR04) |
 | 5.07 | [Yijie Zhao (赵翊杰)](https://www.worldcubeassociation.org/persons/2021ZHAO19) |
 | 5.44 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) |
 | 5.50 | [Alexander Gager](https://www.worldcubeassociation.org/persons/2017GAGE01) |
 | 5.52 | [Ryunosuke Sato (佐藤琉之介)](https://www.worldcubeassociation.org/persons/2023SATO05) |
-| 5.58 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 
 ### Skewb
 

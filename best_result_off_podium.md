@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 22 April 2024*
+*Updated on 28 April 2024*
 
 
 ### Rubik's Cube
@@ -69,6 +69,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:21.81 | **1:23.24** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 4 |
+| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:20.71 | **1:23.75** | [Selangor Niche 2024](https://www.worldcubeassociation.org/competitions/SelangorNiche2024/results/all#e666_c) | 4 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:17.40 | **1:24.19** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 5 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:14.34 | **1:24.21** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 6 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 1:18.17 | **1:24.79** | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/all#e666_f) | 4 |
@@ -77,7 +78,6 @@
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:19.56 | **1:25.40** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 8 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 1:21.23 | **1:25.80** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 9 |
 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 1:22.25 | **1:25.92** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e666_f) | 4 |
-| [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 1:19.30 | **1:26.17** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 10 |
 
 ### 7x7x7 Cube
 

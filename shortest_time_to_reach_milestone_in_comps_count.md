@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 22 April 2024*
+*Updated on 28 April 2024*
 
 
 ### 200 Competitions
@@ -31,6 +31,7 @@
 
 | Days | Person |
 | ---: | :--- |
+| 983 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 1198 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 2219 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2340 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
@@ -50,7 +51,6 @@
 | 3179 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 3235 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 3299 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 3354 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 
 ### 100 Competitions
 
@@ -81,6 +81,7 @@
 
 | Days | Person |
 | ---: | :--- |
+| 520 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 548 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 552 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 557 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
@@ -100,7 +101,6 @@
 | 842 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
 | 848 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 855 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 862 | [Juan Miguel Saboya Soto](https://www.worldcubeassociation.org/persons/2021SOTO01) |
 
 ### 25 Competitions
 
@@ -114,6 +114,7 @@
 | 294 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
+| 337 | [Jack Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI08) |
 | 358 | [Juan David Blanco Sanabria](https://www.worldcubeassociation.org/persons/2023SANA04) |
 | 359 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
 | 364 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
@@ -121,11 +122,10 @@
 | 365 | [Evan Wilson](https://www.worldcubeassociation.org/persons/2023WILS11) |
 | 366 | [Prince Zian Erik C. Principe](https://www.worldcubeassociation.org/persons/2022PRIN08) |
 | 366 | [Prince Zoei Erin C. Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) |
+| 366 | [Rahul Bollini](https://www.worldcubeassociation.org/persons/2023BOLL01) |
 | 372 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 372 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
 | 377 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
-| 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
-| 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 
 ### 10 Competitions
 
@@ -137,6 +137,7 @@
 | 120 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 127 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
 | 127 | [Thomas Cabezas Casallas](https://www.worldcubeassociation.org/persons/2023CASA08) |
+| 127 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
 | 133 | [Anthony E. Cho](https://www.worldcubeassociation.org/persons/2023CHOA02) |
 | 139 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 139 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
@@ -150,7 +151,6 @@
 | 143 | [Chengzhang Lin (林成璋)](https://www.worldcubeassociation.org/persons/2013LINC02) |
 | 143 | [Juan David Blanco Sanabria](https://www.worldcubeassociation.org/persons/2023SANA04) |
 | 148 | [Sai Mrudhun (சாய் மிருதுன்)](https://www.worldcubeassociation.org/persons/2017MRUD01) |
-| 148 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
 
 ### 5 Competitions
 

@@ -1,11 +1,11 @@
 ## World records count by person
 
-*Updated on 22 April 2024*
+*Updated on 28 April 2024*
 
 | WRs | Person |
 | ---: | :--- |
 | 121 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 77 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 79 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 33 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) |
 | 26 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
@@ -116,6 +116,7 @@
 | 3 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
 | 3 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
+| 3 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 3 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) |
 | 2 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
@@ -168,7 +169,6 @@
 | 2 | [Vladislav Shavelskiy](https://www.worldcubeassociation.org/persons/2012SHAV01) |
 | 2 | [Will Arnold](https://www.worldcubeassociation.org/persons/2005ARNO01) |
 | 2 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
-| 2 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 2 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 2 | [Yuhui Xu (许宇辉)](https://www.worldcubeassociation.org/persons/2007XUYU01) |
 | 2 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |

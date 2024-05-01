@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 28 April 2024*
+*Updated on  1 May 2024*
 
 
 ### 200 Competitions
@@ -82,6 +82,7 @@
 | Days | Person |
 | ---: | :--- |
 | 520 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
+| 546 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 548 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 552 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 557 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
@@ -100,7 +101,6 @@
 | 839 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
 | 842 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
 | 848 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
-| 855 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 
 ### 25 Competitions
 
@@ -115,6 +115,7 @@
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 337 | [Jack Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI08) |
+| 351 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) |
 | 358 | [Juan David Blanco Sanabria](https://www.worldcubeassociation.org/persons/2023SANA04) |
 | 359 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
 | 364 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
@@ -125,7 +126,6 @@
 | 366 | [Rahul Bollini](https://www.worldcubeassociation.org/persons/2023BOLL01) |
 | 372 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 372 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
-| 377 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 
 ### 10 Competitions
 

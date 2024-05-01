@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 28 April 2024*
+*Updated on  1 May 2024*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -13,8 +13,8 @@
 | [Czech Open 2011](https://www.worldcubeassociation.org/competitions/CzechOpen2011) | 10.06 | 52 | Czech Republic |
 | [Bristol Spring 2010](https://www.worldcubeassociation.org/competitions/BristolSpring2010) | 9.94 | 32 | United Kingdom |
 | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | 9.84 | 50 | Czech Republic |
-| [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) | 9.82 | 55 | Czech Republic |
 | [Björneborg Winter 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWinter2023) | 9.82 | 11 | Sweden |
+| [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) | 9.82 | 55 | Czech Republic |
 | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023) | 9.77 | 35 | Indonesia |
 | [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021) | 9.72 | 25 | Sweden |
 | [Kediri Open 2013](https://www.worldcubeassociation.org/competitions/KediriOpen2013) | 9.65 | 23 | Indonesia |
@@ -71,8 +71,8 @@
 | [Vårgårda Open 2011](https://www.worldcubeassociation.org/competitions/VargardaOpen2011) | 8.67 | 48 | Sweden |
 | [Kostelec Nonstop Cubing 2023](https://www.worldcubeassociation.org/competitions/KostelecNonstopCubing2023) | 8.65 | 62 | Czech Republic |
 | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011) | 8.63 | 52 | Denmark |
-| [Italian Championship 2010](https://www.worldcubeassociation.org/competitions/ItalianChampionship2010) | 8.60 | 40 | Italy |
 | [SSL IV Flen 2023](https://www.worldcubeassociation.org/competitions/SSLIVFlen2023) | 8.60 | 30 | Sweden |
+| [Italian Championship 2010](https://www.worldcubeassociation.org/competitions/ItalianChampionship2010) | 8.60 | 40 | Italy |
 | [Tlaxcala 2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018) | 8.56 | 85 | Mexico |
 | [Cles: Too Hot For Cubing 2023](https://www.worldcubeassociation.org/competitions/ClesTooHotForCubing2023) | 8.56 | 50 | Italy |
 | [B.O.N.D. Open 2016](https://www.worldcubeassociation.org/competitions/BONDOpen2016) | 8.55 | 47 | Slovakia |
@@ -85,8 +85,8 @@
 | [Dvina Open 2015](https://www.worldcubeassociation.org/competitions/DvinaOpen2015) | 8.48 | 33 | Belarus |
 | [Skanderborg 2014](https://www.worldcubeassociation.org/competitions/SkanderborgOpen2014) | 8.46 | 28 | Denmark |
 | [2:a Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/2aLordagskubeniVasteras2024) | 8.45 | 22 | Sweden |
-| [Krivbass Open 2016](https://www.worldcubeassociation.org/competitions/KrivbassOpen2016) | 8.45 | 20 | Ukraine |
 | [South Italian Open 2010](https://www.worldcubeassociation.org/competitions/LOLSouthItalianOpen2010) | 8.45 | 20 | Italy |
+| [Krivbass Open 2016](https://www.worldcubeassociation.org/competitions/KrivbassOpen2016) | 8.45 | 20 | Ukraine |
 | [Vilnius Winter 2024](https://www.worldcubeassociation.org/competitions/VilniusWinter2024) | 8.45 | 49 | Lithuania |
 | [Lent Open 2015](https://www.worldcubeassociation.org/competitions/LentOpen2015) | 8.44 | 25 | Slovenia |
 | [Fuglsangpark Open 2009](https://www.worldcubeassociation.org/competitions/FuglsangparkOpen2009) | 8.43 | 30 | Denmark |

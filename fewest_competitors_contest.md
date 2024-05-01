@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 April 2024*
+*Updated on  1 May 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -12,6 +12,7 @@
 | 3 | [China FM Zhengzhou 2011](https://www.worldcubeassociation.org/competitions/ChinaFMZhengzhou2011) |
 | 3 | [Creativity Makers 2023](https://www.worldcubeassociation.org/competitions/CreativityMakers2023) |
 | 3 | [Deck 9 2023](https://www.worldcubeassociation.org/competitions/Deck92023) |
+| 3 | [FMC in the Gulf of Finland 2024](https://www.worldcubeassociation.org/competitions/FewestMovesintheGulfofFinlan2024) |
 | 3 | [Grizz League II 2024](https://www.worldcubeassociation.org/competitions/GrizzLeagueII2024) |
 | 3 | [Hike 2 Cube Kenya 2023](https://www.worldcubeassociation.org/competitions/Hike2CubeKenya2023) |
 | 3 | [Sides Bahia - Poções Quest 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaPocoesQuest2023) |
@@ -209,6 +210,7 @@
 | 10 | [Santarém Open 2019](https://www.worldcubeassociation.org/competitions/SantaremOpen2019) |
 | 10 | [Silencio Total 2018](https://www.worldcubeassociation.org/competitions/SilencioTotal2018) |
 | 10 | [South Bay Weeknight BF 2 2024](https://www.worldcubeassociation.org/competitions/SouthBayWeeknightBF22024) |
+| 10 | [TKTK Side Events I 2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsI2024) |
 | 10 | [Toba Cubetastrophe 2022](https://www.worldcubeassociation.org/competitions/TobaCubetastrophe2022) |
 | 10 | [U.R.A. Big Cubes and FMC 2019](https://www.worldcubeassociation.org/competitions/URABigCubesandFMC2019) |
 | 10 | [Warden of the West 2019](https://www.worldcubeassociation.org/competitions/WardenoftheWest2019) |
@@ -304,6 +306,7 @@
 | 12 | [Let's Qualify Kuwait 2023](https://www.worldcubeassociation.org/competitions/LetsQualifyKuwait2023) |
 | 12 | [MSU Quiet Qualifier 2022](https://www.worldcubeassociation.org/competitions/MSUQuietQualifier2022) |
 | 12 | [Only FMC 2020](https://www.worldcubeassociation.org/competitions/OnlyFMC2020) |
+| 12 | [Optimal Solving in Povo 2024](https://www.worldcubeassociation.org/competitions/OptimalSolvinginPovo2024) |
 | 12 | [PBQuIdaho 2023](https://www.worldcubeassociation.org/competitions/PBQuIdahoWinter2023) |
 | 12 | [PBS Pickering 2022](https://www.worldcubeassociation.org/competitions/PBSPickering2022) |
 | 12 | [Perth Puzzle Championship 2011](https://www.worldcubeassociation.org/competitions/PerthPuzzle2011) |

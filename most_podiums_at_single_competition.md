@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 April 2024*
+*Updated on  1 May 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -403,6 +403,7 @@
 | 11 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [El Escorial Open 2016](https://www.worldcubeassociation.org/competitions/ElEscorialOpen2016/results/podiums) |
 | 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [El Masnou Open 2024](https://www.worldcubeassociation.org/competitions/ElMasnouOpen2024/results/podiums) |
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Empire State Spring 2019](https://www.worldcubeassociation.org/competitions/EmpireStateSpring2019/results/podiums) |
+| 10 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | [Empire State Spring Special 2024](https://www.worldcubeassociation.org/competitions/EmpireStateSpringSpecial2024/results/podiums) |
 | 10 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Eretum Open 2018](https://www.worldcubeassociation.org/competitions/EretumOpen2018/results/podiums) |
 | 12 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | [Erfurt Open 2014](https://www.worldcubeassociation.org/competitions/ErfurtOpen2014/results/podiums) |
 | 11 | [Teemu Tiinanen](https://www.worldcubeassociation.org/persons/2007TIIN01) | [Estonian Open 2010](https://www.worldcubeassociation.org/competitions/EstonianOpen2010/results/podiums) |
@@ -641,6 +642,8 @@
 | 11 | [Shubham Kumar](https://www.worldcubeassociation.org/persons/2013KUMA15) | [Kshitij Open 2014](https://www.worldcubeassociation.org/competitions/KshitijOpen2014/results/podiums) |
 | 11 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) | [KSRCT Cube Open 2022](https://www.worldcubeassociation.org/competitions/KSRCTCubeOpen2022/results/podiums) |
 | 13 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | [KubeKings Weekend 2015](https://www.worldcubeassociation.org/competitions/KubeKingsWeekend2015/results/podiums) |
+| 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Kublördag Jönköping I - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingI2024/results/podiums) |
+| 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kublördag Jönköping I - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingI2024/results/podiums) |
 | 11 | [Fernando Daniel Hernández Sánchez](https://www.worldcubeassociation.org/persons/2010SANC04) | [Kuikuiltik 2012](https://www.worldcubeassociation.org/competitions/Kuikuiltik2012/results/podiums) |
 | 11 | [David Arzamastsev](https://www.worldcubeassociation.org/persons/2016ARZA01) | [Kursk Open 2017](https://www.worldcubeassociation.org/competitions/KurskOpen2017/results/podiums) |
 | 12 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
@@ -807,6 +810,7 @@
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Odsherred Sommercubing 2023](https://www.worldcubeassociation.org/competitions/OdsherredSommercubing2023/results/podiums) |
 | 13 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Oficina Open 2022](https://www.worldcubeassociation.org/competitions/OficinaOpen2022/results/podiums) |
 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Oficina Open 2023](https://www.worldcubeassociation.org/competitions/OficinaOpen2023/results/podiums) |
+| 10 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Ogulin Open 2024](https://www.worldcubeassociation.org/competitions/OgulinOpen2024/results/podiums) |
 | 13 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | [Ohio Open 2009](https://www.worldcubeassociation.org/competitions/OhioOpen2009/results/podiums) |
 | 17 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [OktoberBrest 2014](https://www.worldcubeassociation.org/competitions/OktoberBrest2014/results/podiums) |
 | 12 | [Anatoly Kim](https://www.worldcubeassociation.org/persons/2009KIMA01) | [OktoberBrest 2014](https://www.worldcubeassociation.org/competitions/OktoberBrest2014/results/podiums) |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 28 April 2024*
+*Updated on  1 May 2024*
 
 
 ### Rubik's Cube
@@ -54,6 +54,7 @@
 | ---: | :--- | :--- |
 | 33.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
 | 34.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
+| 34.68 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Big Cub 2024](https://www.worldcubeassociation.org/competitions/SanDiegoBigCub2024/results/by_person#2012PARK03) |
 | 34.73 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
 | 34.92 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Mission Viejo 2023](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejo2023/results/by_person#2012PARK03) |
 | 35.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
@@ -61,7 +62,6 @@
 | 35.30 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Big Time Manila 2023](https://www.worldcubeassociation.org/competitions/BigTimeManila2023/results/by_person#2013NAHM01) |
 | 35.32 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [UCSD Winter 2023](https://www.worldcubeassociation.org/competitions/UCSDWinter2023/results/by_person#2012PARK03) |
 | 35.33 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Colorado Cubing Weekend 2022](https://www.worldcubeassociation.org/competitions/ColoradoCubingWeekend2022/results/by_person#2012PARK03) |
-| 35.33 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [BASC 45 - Berkeley Time 2023](https://www.worldcubeassociation.org/competitions/BASC45BerkeleyTime2023/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 
@@ -97,7 +97,9 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 1.07 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Prague Open 2024](https://www.worldcubeassociation.org/competitions/PragueOpen2024/results/by_person#2017TSVE02) |
 | 1.18 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Lyttelton Spring 2023](https://www.worldcubeassociation.org/competitions/LytteltonSpring2023/results/by_person#2018MURR03) |
+| 1.18 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Nanchang Spring 2024](https://www.worldcubeassociation.org/competitions/NanchangSpring2024/results/by_person#2019JIAN54) |
 | 1.18 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Waterloo Favourites B 2023](https://www.worldcubeassociation.org/competitions/WaterlooFavouritesB2023/results/by_person#2019SHER10) |
 | 1.20 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023/results/by_person#2019MEAD03) |
 | 1.23 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/by_person#2021LEES01) |
@@ -105,8 +107,6 @@
 | 1.29 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Ōtepoti Winter 2023](https://www.worldcubeassociation.org/competitions/OtepotiWinter2023/results/by_person#2018MURR03) |
 | 1.29 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024/results/by_person#2019JIAN54) |
 | 1.31 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | [Edgemont Cubing 2024](https://www.worldcubeassociation.org/competitions/EdgemontCubing2024/results/by_person#2016TRAG01) |
-| 1.31 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Cubing by the Kings 2023](https://www.worldcubeassociation.org/competitions/CubingByTheKings2023/results/by_person#2019SHER10) |
-| 1.32 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Fort Wayne Favorites 2023](https://www.worldcubeassociation.org/competitions/FortWayneFavorites2023/results/by_person#2016KELL12) |
 
 ### Rubik's Clock
 
@@ -118,10 +118,10 @@
 | 2.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 2.81 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Muske-GO 2024](https://www.worldcubeassociation.org/competitions/MuskeGO2024/results/by_person#2018THOM29) |
 | 2.89 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
+| 2.89 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Eau Claire 2024](https://www.worldcubeassociation.org/competitions/EauClaire2024/results/by_person#2022KAPU01) |
+| 2.95 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Eau Claire 2024](https://www.worldcubeassociation.org/competitions/EauClaire2024/results/by_person#2022KAPU01) |
 | 2.98 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | [Muske-GO 2024](https://www.worldcubeassociation.org/competitions/MuskeGO2024/results/by_person#2021RICH02) |
 | 3.01 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Santa Barbara Cubing 2024](https://www.worldcubeassociation.org/competitions/SantaBarbaraCubing2024/results/by_person#2021DUNA01) |
-| 3.04 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Lierskogen Vinterkubing 2024](https://www.worldcubeassociation.org/competitions/LierskogenVinterkubing2024/results/by_person#2021ELIA01) |
-| 3.07 | [Eddie Artze](https://www.worldcubeassociation.org/persons/2020ARTZ01) | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/by_person#2020ARTZ01) |
 
 ### Skewb
 
@@ -146,12 +146,12 @@
 | 4.40 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023/results/by_person#2021DUNA01) |
 | 4.45 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube in Denton 2024](https://www.worldcubeassociation.org/competitions/CubeWithRetentioninDenton2024/results/by_person#2019BAUM02) |
 | 4.51 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DFWCubingWinter2024/results/by_person#2019BAUM02) |
+| 4.52 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Spring 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2024/results/by_person#2019BAUM02) |
 | 4.60 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017SIAU02) |
 | 4.60 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017AGGA01) |
 | 4.63 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023/results/by_person#2016EPST02) |
 | 4.68 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [UW or U Don't 2023](https://www.worldcubeassociation.org/competitions/UWorUDont2023/results/by_person#2017SIAU02) |
 | 4.69 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Tri Cities Fall 2022](https://www.worldcubeassociation.org/competitions/TriCitiesFall2022/results/by_person#2017AGGA01) |
-| 4.76 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023/results/by_person#2016EPST02) |
 
 ### 3x3x3 With Feet
 

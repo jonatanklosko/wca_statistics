@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 28 April 2024*
+*Updated on  1 May 2024*
 
 
 ### Rubik's Cube
@@ -29,10 +29,10 @@
 | 98 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | [Cuban Open 2016](https://www.worldcubeassociation.org/competitions/CubanOpen2016) |
 | 79 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023) |
 | 76 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [Idaho Spudcubing II 2021](https://www.worldcubeassociation.org/competitions/IdahoSpudcubingII2021) |
+| 69 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Puerto Rico Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRicoOpen2024) |
 | 63 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Dolmen Open 2012](https://www.worldcubeassociation.org/competitions/DolmenOpen2012) |
 | 63 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [Copper Country Cubing 2019](https://www.worldcubeassociation.org/competitions/CopperCountryCubing2019) |
 | 62 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | [Kalmykia Open 2017](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2017) |
-| 60 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [Cube4fun Siedlce 2023](https://www.worldcubeassociation.org/competitions/Cube4funinSiedlce2023) |
 
 ### 4x4x4 Cube
 
@@ -134,10 +134,10 @@
 | 114 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [Nebraska Championship 2024](https://www.worldcubeassociation.org/competitions/NebraskaChampionship2024) |
 | 105 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | [Cuban Open 2016](https://www.worldcubeassociation.org/competitions/CubanOpen2016) |
 | 86 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Villa de Catral 2013](https://www.worldcubeassociation.org/competitions/VilladeCatral2013) |
+| 76 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Puerto Rico Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRicoOpen2024) |
 | 74 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [Thunder Bay 2019](https://www.worldcubeassociation.org/competitions/SuperiorCubingThunderBay2019) |
 | 70 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) | [Broome Open 2023](https://www.worldcubeassociation.org/competitions/BroomeOpen2023) |
 | 64 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Sønderjysk Sommercubing 2022](https://www.worldcubeassociation.org/competitions/SonderjyskSommercubing2022) |
-| 64 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Tallinn Open 2022](https://www.worldcubeassociation.org/competitions/TallinnOpen2022) |
 
 ### Megaminx
 
@@ -162,12 +162,12 @@
 | 105 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Montenegro Open 2024](https://www.worldcubeassociation.org/competitions/MontenegroOpen2024) |
 | 83 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) | [Dubai Open 2013](https://www.worldcubeassociation.org/competitions/DubaiOpen2013) |
 | 77 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019) |
+| 69 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Puerto Rico Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRicoOpen2024) |
 | 54 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023) |
+| 54 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | [Empire State Spring Sprint 2024](https://www.worldcubeassociation.org/competitions/EmpireStateSpringSprint2024) |
 | 53 | [David Stiven Benitez Guerra](https://www.worldcubeassociation.org/persons/2014GUER06) | [Sol & Luna Parte 1 Bogotá 2023](https://www.worldcubeassociation.org/competitions/SolLunaParte1Bogota2023) |
 | 52 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | [Yellowstone 2018](https://www.worldcubeassociation.org/competitions/Yellowstone2018) |
 | 51 | [Hector David Martinez Argaez](https://www.worldcubeassociation.org/persons/2014ARGA01) | [Monterrey Bogotá VI 2024](https://www.worldcubeassociation.org/competitions/MonterreyBogotaVI2024) |
-| 50 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014) |
-| 49 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | [Ho'oholo in Honolulu 2023](https://www.worldcubeassociation.org/competitions/HooholoinHonolulu2023) |
 
 ### Rubik's Clock
 

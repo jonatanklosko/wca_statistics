@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 April 2024*
+*Updated on  1 May 2024*
 
 
 ### Rubik's Cube
@@ -102,12 +102,12 @@
 | 0.06 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 24.30 | 24.36 | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023/results/by_person#2015KUCA01) |
 | 0.11 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 24.64 | 24.75 | [Arnold Open 2018](https://www.worldcubeassociation.org/competitions/ArnoldOpen2018/results/by_person#2014PARR02) |
 | 0.11 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | 28.39 | 28.50 | [Daegu Cold Winter 2024](https://www.worldcubeassociation.org/competitions/DaeguColdWinter2024/results/by_person#2018LEED01) |
+| 0.11 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 1:12.09 | 1:12.20 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2020BERM02) |
 | 0.12 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | 54.67 | 54.79 | [Oulu Open 2022](https://www.worldcubeassociation.org/competitions/OuluOpen2022/results/by_person#2014VIKS01) |
 | 0.13 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | 36.81 | 36.94 | [Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017/results/by_person#2014ZHAO12) |
 | 0.14 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 23.32 | 23.46 | [BrizZon Side Open V 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2023/results/by_person#2020BARA02) |
 | 0.14 | [Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02) | 41.36 | 41.50 | [Wonderful Williamstown 2022](https://www.worldcubeassociation.org/competitions/WonderfulWilliamstown2022/results/by_person#2015SRIN02) |
 | 0.17 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 13.98 | 14.15 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2015CHER07) |
-| 0.17 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 23.25 | 23.42 | [Minnesota Cube Melt 2023](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2023/results/by_person#2015KUCA01) |
 
 ### 3x3x3 One-Handed
 

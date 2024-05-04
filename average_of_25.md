@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 May 2024*
+*Updated on  4 May 2024*
 
 
 ### Rubik's Cube
@@ -136,8 +136,8 @@
 | 9.62 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 8.41, 12.58, 11.27, 11.64, 10.92, 8.55, 9.58, 8.25, 9.65, 10.71, 10.17, 7.70, 12.13, 9.71, 7.30, 10.19, 10.64, 6.80, 8.46, 8.90, 6.80, 11.26, 10.91, 8.93, 8.95 |
 | 9.70 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 10.78, 7.63, 8.62, 10.62, 9.30, 8.25, 10.28, 9.53, 11.31, 12.42, 10.70, 10.25, 9.35, 9.71, 9.36, 8.25, 11.43, 12.38, 9.11, 9.80, 8.95, 7.98, 10.06, 9.41, 8.61 |
 | 9.72 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | 8.59, 9.92, DNF, 10.60, 12.76, 8.06, 8.51, 8.97, 8.82, 8.93, 10.58, 8.13, 11.65, 9.60, 9.18, 10.29, DNF, 9.45, 11.46, 10.11, 9.82, 9.28, 8.63, 8.88, 7.79 |
+| 9.74 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | 10.51, 11.14, 8.97, 9.60, 9.20, 8.20, 9.63, 11.74, 11.01, 8.72, 9.22, 9.56, 10.35, 10.12, 13.06, 9.92, 8.74, 12.49, 11.19, 9.04, 8.38, 8.62, 9.08, 9.48, 8.63 |
 | 9.84 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | 11.47, 9.41, 11.97, 10.60, 9.69, 9.42, 9.50, 8.60, 11.00, DNF, 11.37, 9.71, 8.66, 9.46, 10.61, 9.61, 8.72, 9.56, 9.54, 9.35, 9.67, 9.40, 7.93, 10.15, 9.83 |
-| 9.88 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 10.76, 10.38, 7.91, 10.49, 9.12, 9.99, 9.67, 9.28, 10.41, 8.65, 13.62, 12.28, 9.38, 11.62, 9.54, 8.30, 8.46, 10.28, 9.97, 10.21, 9.70, 11.31, 9.55, 10.36, 8.25 |
 
 ### Megaminx
 

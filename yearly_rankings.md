@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 May 2024*
+*Updated on  4 May 2024*
 
 
 ### Rubik's Cube - Single
@@ -268,11 +268,11 @@
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **8.85** | United States | [Naperville Winter 2024](https://www.worldcubeassociation.org/competitions/NapervilleWinter2024) | 7.91, 10.24, 7.41, 10.46, 8.39 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **8.90** | United States | [UCSD Winter 2024](https://www.worldcubeassociation.org/competitions/UCSDWinter2024) | 8.54, 8.74, 9.34, 9.88, 8.62 |
 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | **8.91** | Indonesia | [Gramedia Cube Open Jakarta 2024](https://www.worldcubeassociation.org/competitions/GramediaCubeOpenJakarta2024) | 8.51, 8.97, 8.82, 8.93, 10.58 |
+| [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | **9.06** | Philippines | [Luzon Championship 2024](https://www.worldcubeassociation.org/competitions/LuzonChampionship2024) | 8.62, 9.08, 9.48, 8.63, 11.88 |
+| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **9.07** | France | [Urnieta Open 2024](https://www.worldcubeassociation.org/competitions/UrnietaOpen2024) | 8.70, 9.76, 11.68, 7.56, 8.75 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **9.18** | United States | [Baztan Open 2024](https://www.worldcubeassociation.org/competitions/BaztanOpen2024) | 10.19, 10.64, 6.80, 8.46, 8.90 |
 | [Mantas Urbanavičius](https://www.worldcubeassociation.org/persons/2017URBA01) | **9.20** | Lithuania | [Vilnius Winter 2024](https://www.worldcubeassociation.org/competitions/VilniusWinter2024) | 8.71, 12.22, 9.20, 9.46, 8.95 |
-| [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | **9.26** | Philippines | [Imus Speedcubing Open 2024](https://www.worldcubeassociation.org/competitions/ImusSpeedcubingOpen2024) | 11.14, 8.97, 9.60, 9.20, 8.20 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **9.28** | New Zealand | [Lyttelton Summer 2024](https://www.worldcubeassociation.org/competitions/LytteltonSummer2024) | 9.68, 8.03, 9.03, 10.84, 9.14 |
-| [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | **9.30** | Germany | [Beginner Cubing Delmenhorst 2024](https://www.worldcubeassociation.org/competitions/BeginnerCubingDelmenhorst2024) | 9.37, 9.56, 8.97, 10.15, 7.51 |
 
 ### Megaminx - Single
 

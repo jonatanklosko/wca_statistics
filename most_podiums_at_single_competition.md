@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 May 2024*
+*Updated on  4 May 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -694,6 +694,7 @@
 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Malaysia Cube Open 2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017/results/podiums) |
 | 17 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | [Malaysian Cube Open 2015](https://www.worldcubeassociation.org/competitions/MalaysianCubeOpen2015/results/podiums) |
 | 14 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Mallorca Open 2014](https://www.worldcubeassociation.org/competitions/Mallorca2014/results/podiums) |
+| 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Mallorca Open 2024](https://www.worldcubeassociation.org/competitions/MallorcaOpen2024/results/podiums) |
 | 11 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Malpensa: IC Qualifier 2023](https://www.worldcubeassociation.org/competitions/MalpensaICQualifier2023/results/podiums) |
 | 11 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016/results/podiums) |

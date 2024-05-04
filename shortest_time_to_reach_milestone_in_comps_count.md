@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 May 2024*
+*Updated on  4 May 2024*
 
 
 ### 200 Competitions
@@ -81,6 +81,7 @@
 
 | Days | Person |
 | ---: | :--- |
+| 475 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 520 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 546 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 548 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
@@ -100,7 +101,6 @@
 | 833 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 839 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
 | 842 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) |
-| 848 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 
 ### 25 Competitions
 

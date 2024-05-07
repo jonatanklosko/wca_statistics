@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  4 May 2024*
+*Updated on  7 May 2024*
 
 
 ### Rubik's Cube
@@ -151,8 +151,8 @@
 | [Ramses Garcia](https://www.worldcubeassociation.org/persons/2014GARC21) | 4:51.97 | **6:14.26** | [Santiago Open 2014](https://www.worldcubeassociation.org/competitions/SantiagoOpen2014/results/podiums#eminx) | 3 |
 | [Ranphoa Ngowa](https://www.worldcubeassociation.org/persons/2008NGOW01) | 5:02.31 | **5:48.99** | [Shristi Open 2009](https://www.worldcubeassociation.org/competitions/ShristiOpen2009/results/podiums#eminx) | 2 |
 | [Donovan Hale](https://www.worldcubeassociation.org/persons/2014HALE01) | 5:11.66 | **5:46.41** | [South Africa Open 2014](https://www.worldcubeassociation.org/competitions/SouthAfricaOpen2014/results/podiums#eminx) | 3 |
+| [Tony Adrian Razafindragolo](https://www.worldcubeassociation.org/persons/2024RAZA05) | 4:53.60 | **5:41.08** | [Cubing Mada 2024](https://www.worldcubeassociation.org/competitions/CubingMada2024/results/podiums#eminx) | 3 |
 | [William Azevedo da Silva](https://www.worldcubeassociation.org/persons/2014SILV12) | 5:13.75 | **5:38.89** | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014/results/podiums#eminx) | 3 |
-| [Nikhil Pangarkar](https://www.worldcubeassociation.org/persons/2010PANG01) | 5:09.34 | **5:38.58** | [Indian Open 2012](https://www.worldcubeassociation.org/competitions/IndianOpen2012/results/podiums#eminx) | 3 |
 
 ### Pyraminx
 

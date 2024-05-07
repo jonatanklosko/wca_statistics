@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 May 2024*
+*Updated on  7 May 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -623,6 +623,7 @@
 | 10 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | [Kalmykia Open 2017](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2017/results/podiums) |
 | 11 | [Saveliy Surikov](https://www.worldcubeassociation.org/persons/2017SURI01) | [Kalmykia Open 2018](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2018/results/podiums) |
 | 12 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | [Kansai Open 2013](https://www.worldcubeassociation.org/competitions/KansaiOpen2013/results/podiums) |
+| 17 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Kansas Championship 2024](https://www.worldcubeassociation.org/competitions/KansasChampionship2024/results/podiums) |
 | 10 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | [Kaohsiung Winter Open 2016](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2016/results/podiums) |
 | 10 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Karlstad Open 2010](https://www.worldcubeassociation.org/competitions/KarlstadOpen2010/results/podiums) |
 | 11 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | [Kaspiy Open 2018](https://www.worldcubeassociation.org/competitions/KaspiyOpen2018/results/podiums) |
@@ -912,6 +913,7 @@
 | 10 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [Rocky Top 2017](https://www.worldcubeassociation.org/competitions/RockyTop2017/results/podiums) |
 | 11 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023/results/podiums) |
 | 10 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Rodeo Carnivals 2017](https://www.worldcubeassociation.org/competitions/RodeoCarnivals2017/results/podiums) |
+| 10 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Romanian 24h Championship 2024](https://www.worldcubeassociation.org/competitions/Romanian24hChampionship2024/results/podiums) |
 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Romanian Cubing Open 2018](https://www.worldcubeassociation.org/competitions/RomanianCubingOpen2018/results/podiums) |
 | 12 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Romanian Cubing Open 2019](https://www.worldcubeassociation.org/competitions/RomanianCubingOpen2019/results/podiums) |
 | 13 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Romanian Championship 2023](https://www.worldcubeassociation.org/competitions/RomanianNationalChampionship2023/results/podiums) |

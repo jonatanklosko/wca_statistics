@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 May 2024*
+*Updated on  7 May 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -72,7 +72,7 @@
 | 607 | [Nicolas Campanario](https://www.worldcubeassociation.org/persons/2022CAMP02) |
 | 609 | [Angelo Melera](https://www.worldcubeassociation.org/persons/2022MELE01) |
 | 615 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
-| 616 | [Janos Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
+| 616 | [János Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
 | 623 | [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) |
 | 630 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
 | 644 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |
@@ -151,7 +151,7 @@
 | 952 | [Enzo Bruder-Jeannot](https://www.worldcubeassociation.org/persons/2021BRUD01) |
 | 953 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) |
 | 958 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
-| 958 | [Matthew Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) |
+| 958 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) |
 | 960 | [Chunyu Zhang (张春雨)](https://www.worldcubeassociation.org/persons/2011ZHAN24) |
 | 967 | [Karthikeyan Eswaran](https://www.worldcubeassociation.org/persons/2014ESWA01) |
 | 973 | [Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01) |
@@ -503,6 +503,7 @@
 | 3544 | [Ishaan Lal](https://www.worldcubeassociation.org/persons/2014LALI01) |
 | 3564 | [Tomas Kristiansson](https://www.worldcubeassociation.org/persons/2007KRIS01) |
 | 3619 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
+| 3639 | [Alexander Wheeler](https://www.worldcubeassociation.org/persons/2014WHEE01) |
 | 3682 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 3739 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 3752 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |

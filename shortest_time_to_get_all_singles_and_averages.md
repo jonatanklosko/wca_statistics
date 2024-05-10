@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 May 2024*
+*Updated on 10 May 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -13,6 +13,7 @@
 | 426 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 496 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 665 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
+| 707 | [János Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
 | 861 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) |
 | 910 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 917 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
@@ -47,6 +48,7 @@
 | 2100 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 2155 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 2177 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
+| 2178 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) |
 | 2196 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) |
 | 2204 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) |
 | 2213 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |

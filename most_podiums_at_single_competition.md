@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 May 2024*
+*Updated on 10 May 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -273,6 +273,8 @@
 | 11 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Copper Country Winter 2020](https://www.worldcubeassociation.org/competitions/CopperCountryWinter2020/results/podiums) |
 | 10 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019/results/podiums) |
 | 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [Couffouleux Open 2023](https://www.worldcubeassociation.org/competitions/CouffouleuxOpen2023/results/podiums) |
+| 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Countless Cubes Chicago A 2024](https://www.worldcubeassociation.org/competitions/CountlessCubesChicagoA2024/results/podiums) |
+| 12 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Countless Cubes Chicago B 2024](https://www.worldcubeassociation.org/competitions/CountlessCubesChicagoB2024/results/podiums) |
 | 10 | [Vitor Wagner Abreu](https://www.worldcubeassociation.org/persons/2016ABRE01) | [Criciúma Open 2023](https://www.worldcubeassociation.org/competitions/CriciumaOpen2023/results/podiums) |
 | 12 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Croatian Nationals 2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019/results/podiums) |
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Croatian Nationals 2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019/results/podiums) |

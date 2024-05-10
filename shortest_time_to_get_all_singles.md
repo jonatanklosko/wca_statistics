@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 May 2024*
+*Updated on 10 May 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -387,6 +387,7 @@
 | 2149 | [Alistair Miller](https://www.worldcubeassociation.org/persons/2017MILL12) |
 | 2156 | [Sanae Yamashita (山下佐苗)](https://www.worldcubeassociation.org/persons/2008OMYO01) |
 | 2156 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) |
+| 2162 | [Logan Maciejewski](https://www.worldcubeassociation.org/persons/2018MACI02) |
 | 2163 | [Michael Conard](https://www.worldcubeassociation.org/persons/2013CONA01) |
 | 2176 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 2177 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) |

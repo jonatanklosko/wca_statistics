@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on  7 May 2024*
+*Updated on 10 May 2024*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -66,8 +66,8 @@
 | 26 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | United Kingdom | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019) |
 | 26 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | Brazil | [Torneio DRACO 2012](https://www.worldcubeassociation.org/competitions/TorneioDraco2012) | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014) |
 | 26 | [Maksim Zemtšihhin](https://www.worldcubeassociation.org/persons/2018ZEMT01) | Estonia | [Tallinn Open 2019](https://www.worldcubeassociation.org/competitions/TallinnOpen2019) |  |
-| 26 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 26 | [Rafael Gregorio Martinez Paredes](https://www.worldcubeassociation.org/persons/2013PARE02) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
+| 26 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 25 | [Uku Kruusamägi](https://www.worldcubeassociation.org/persons/2009KRUU01) | Estonia | [Estonian Open 2009](https://www.worldcubeassociation.org/competitions/EstonianOpen2009) | [Narva Winter 2019](https://www.worldcubeassociation.org/competitions/NarvaWinter2019) |
 | 25 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | Belarus | [Minsk Open 2013](https://www.worldcubeassociation.org/competitions/MinskOpen2013) | [Spring Cube In Minsk 2018](https://www.worldcubeassociation.org/competitions/SpringCubeInMinsk2018) |
 | 24 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | Hungary | [Hungarian Nationals 2016](https://www.worldcubeassociation.org/competitions/HungarianNationals2016) |  |
@@ -83,7 +83,7 @@
 | 23 | [Gábor Slezák](https://www.worldcubeassociation.org/persons/2016SLEZ01) | Hungary | [Hungarian Nationals 2016](https://www.worldcubeassociation.org/competitions/HungarianNationals2016) | [Hungarian All-Rounder 2 2024](https://www.worldcubeassociation.org/competitions/HungarianAllRounder22024) |
 | 23 | [Berit Brüster](https://www.worldcubeassociation.org/persons/2009BRUS01) | Germany | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009) | [Munich Open 2011](https://www.worldcubeassociation.org/competitions/MunichOpen2011) |
 | 23 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | Japan | [Osaka 2011](https://www.worldcubeassociation.org/competitions/Osaka2011) | [Hiroshima 2012](https://www.worldcubeassociation.org/competitions/HiroshimaOpen2012) |
-| 23 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | Poland | [SLS Styczeń 2024](https://www.worldcubeassociation.org/competitions/SLSStyczen2024) |  |
+| 23 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | Poland | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024) |  |
 | 23 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | Republic of Korea | [Korean Championship Mini 2021](https://www.worldcubeassociation.org/competitions/KoreanChampionshipMini2021) | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024) |
 | 23 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | Italy | [Bologna NxN Spring 2019](https://www.worldcubeassociation.org/competitions/BolognaNxNSpring2019) | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022) |
 | 23 | [Oliver Pällo](https://www.worldcubeassociation.org/persons/2020PALL01) | Estonia | [Estonian Open 2020](https://www.worldcubeassociation.org/competitions/EstonianOpen2020) |  |

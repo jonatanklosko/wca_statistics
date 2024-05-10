@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  7 May 2024*
+*Updated on 10 May 2024*
 
 
 ### Rubik's Cube
@@ -39,7 +39,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 19.76 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 18.02, 21.20, 20.35, 21.45, 17.72, 20.46, 17.60, 18.49, 19.37, 23.80, 20.28, 20.29 |
-| 21.55 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 19.11, 26.15, 22.92, 20.67, 19.54, 21.70, 22.95, 21.06, 21.29, 23.55, 21.52, 20.29 |
+| 20.99 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 19.91, 21.60, 22.78, 19.64, 21.01, 21.93, 22.41, 22.14, 21.94, 18.54, 20.74, 18.34 |
 | 22.00 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 22.62, 22.84, 21.09, 22.78, 21.32, 17.83, 21.22, 26.49, 27.83, 19.84, 19.42, 22.41 |
 | 22.12 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 21.83, 21.99, 21.53, 21.59, 20.40, 21.89, 28.65, 22.86, 19.39, 25.41, 19.55, 24.14 |
 | 23.08 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 21.93, 21.60, 25.53, 20.73, 25.27, 24.94, 24.68, 25.65, 20.97, 21.56, 22.06, 22.23 |
@@ -206,7 +206,7 @@
 | 5.20 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 4.60, 4.57, 5.16, 5.92, 5.41, 5.33, 4.83, 5.24, 6.03, 5.44, 5.04, 5.02 |
 | 5.35 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 5.80, 4.89, 5.65, 5.18, 10.73, 4.76, 4.68, 6.06, 5.58, 6.25, 4.31, 4.63 |
 | 5.42 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.00, 4.63, 5.66, 5.51, 8.94, 6.33, 6.05, 5.32, 4.60, 6.26, 4.80, 4.58 |
-| 5.50 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 5.60, 5.18, 4.59, 5.43, 5.68, 5.81, 4.27, 7.42, 6.02, 4.87, 6.70, 5.07 |
+| 5.45 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 5.14, 5.84, 6.77, 4.43, 4.89, 5.25, 4.80, 7.17, 5.39, 6.68, 4.18, 5.35 |
 | 5.64 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.58, 5.01, 6.01, 6.16, 5.21, 8.37, 4.81, 4.94, 5.45, 6.35, 6.36, 5.37 |
 | 5.75 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 5.30, 5.80, 12.51, 5.71, 6.28, 5.05, 6.71, 5.23, 5.40, 5.55, 4.83, 6.42 |
 | 5.89 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 6.98, 4.82, 5.56, 7.48, 6.00, 4.49, 5.90, 7.41, 6.00, 4.83, 6.07, 5.34 |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 May 2024*
+*Updated on 10 May 2024*
 
 
 ### Rubik's Cube
@@ -106,7 +106,7 @@
 | 1.28 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | [Michigan Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/MichiganSpeedcubingSpring2023/results/by_person#2017PALA08) |
 | 1.29 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Ōtepoti Winter 2023](https://www.worldcubeassociation.org/competitions/OtepotiWinter2023/results/by_person#2018MURR03) |
 | 1.29 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024/results/by_person#2019JIAN54) |
-| 1.31 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | [Edgemont Cubing 2024](https://www.worldcubeassociation.org/competitions/EdgemontCubing2024/results/by_person#2016TRAG01) |
+| 1.30 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Countless Cubes Chicago B 2024](https://www.worldcubeassociation.org/competitions/CountlessCubesChicagoB2024/results/by_person#2017GARR05) |
 
 ### Rubik's Clock
 

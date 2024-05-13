@@ -1,13 +1,13 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 10 May 2024*
+*Updated on 13 May 2024*
 
 
 ### 200 Competitions
 
 | Days | Person |
 | ---: | :--- |
-| 2507 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 2506 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 3289 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 3312 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3550 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |

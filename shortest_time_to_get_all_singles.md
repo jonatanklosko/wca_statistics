@@ -382,6 +382,7 @@
 | 2093 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 2105 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 2121 | [Étienne Aubry](https://www.worldcubeassociation.org/persons/2018AUBR01) |
+| 2135 | [Alex Hauben](https://www.worldcubeassociation.org/persons/2018HAUB01) |
 | 2140 | [Matteo Colombo](https://www.worldcubeassociation.org/persons/2009COLO03) |
 | 2141 | [Siva Shanmukh Vetcha](https://www.worldcubeassociation.org/persons/2008SHAN01) |
 | 2149 | [Alistair Miller](https://www.worldcubeassociation.org/persons/2017MILL12) |

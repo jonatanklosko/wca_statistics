@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 16 May 2024*
+*Updated on 25 May 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -98,6 +98,7 @@
 | 3 | [Dennis Strehlau](https://www.worldcubeassociation.org/persons/2007STRE01) |
 | 3 | [Dror Vomberg](https://www.worldcubeassociation.org/persons/2003VOMB01) |
 | 3 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) |
+| 3 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 3 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) |
 | 3 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
 | 3 | [Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01) |
@@ -129,7 +130,6 @@
 | 2 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
 | 2 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
 | 2 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
-| 2 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 2 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) |
@@ -183,6 +183,7 @@
 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 1 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) |
 | 1 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) |
+| 1 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) |
 | 1 | [Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01) |
 | 1 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) |
 | 1 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |

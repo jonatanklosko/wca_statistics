@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 May 2024*
+*Updated on 25 May 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -47,6 +47,7 @@
 | 476 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) |
 | 476 | [Jorian Meeuse](https://www.worldcubeassociation.org/persons/2022MEEU02) |
 | 483 | [Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01) |
+| 490 | [Wesley Barwinski](https://www.worldcubeassociation.org/persons/2023BARW01) |
 | 497 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 497 | [Jaden Lim](https://www.worldcubeassociation.org/persons/2017LIMJ02) |
 | 504 | [Azaro Gorloo](https://www.worldcubeassociation.org/persons/2022GORL02) |
@@ -75,6 +76,7 @@
 | 616 | [János Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
 | 623 | [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) |
 | 630 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
+| 637 | [Owl Carpenter](https://www.worldcubeassociation.org/persons/2022CARP05) |
 | 644 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |
 | 650 | [Christopher Reid](https://www.worldcubeassociation.org/persons/2022REID01) |
 | 651 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |
@@ -132,6 +134,7 @@
 | 826 | [Emanuel Rheinert](https://www.worldcubeassociation.org/persons/2011RHEI01) |
 | 826 | [Ivan Osovik](https://www.worldcubeassociation.org/persons/2017OSOV01) |
 | 833 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
+| 840 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 | 847 | [Alessio Pandin](https://www.worldcubeassociation.org/persons/2021PAND01) |
 | 855 | [Matěj Mužátko](https://www.worldcubeassociation.org/persons/2013MUAT01) |
 | 861 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
@@ -139,7 +142,9 @@
 | 881 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) |
 | 882 | [Haoyang Chen (陈浩杨)](https://www.worldcubeassociation.org/persons/2016CHEH02) |
 | 889 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
+| 902 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 910 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
+| 915 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 924 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 924 | [Zongwen Mu (牟宗文)](https://www.worldcubeassociation.org/persons/2015MUZO01) |
 | 929 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
@@ -435,6 +440,7 @@
 | 2491 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2498 | [Enoch Gray](https://www.worldcubeassociation.org/persons/2012GRAY01) |
 | 2500 | [Michael Larsen](https://www.worldcubeassociation.org/persons/2017LARS03) |
+| 2520 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 2533 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |
 | 2534 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 2540 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |

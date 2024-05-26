@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 May 2024*
+*Updated on 25 May 2024*
 
 
 ### Rubik's Cube
@@ -27,12 +27,12 @@
 | 0.01 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 11.56 | 11.57 | [Berkeley Summer 2015](https://www.worldcubeassociation.org/competitions/BerkeleySummer2015/results/by_person#2011ALVI01) |
 | 0.02 | [Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04) | 1.73 | 1.75 | [UIUC Fall 2023](https://www.worldcubeassociation.org/competitions/UIUCFall2023/results/by_person#2016SORI04) |
 | 0.02 | [Jack Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) | 1.95 | 1.97 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2012PANJ02) |
+| 0.02 | [Jamila Raine C. Espiritu](https://www.worldcubeassociation.org/persons/2018ESPI05) | 2.97 | 2.99 | [Pampanga Speedcubing Open 2024](https://www.worldcubeassociation.org/competitions/PampangaSpeedcubingOpen2024/results/by_person#2018ESPI05) |
 | 0.02 | [Samuel Alzate Muñoz](https://www.worldcubeassociation.org/persons/2022MUNO13) | 2.99 | 3.01 | [Aves María Nuevos Campeones 2024](https://www.worldcubeassociation.org/competitions/AvesMariaNuevosCampeones2024/results/by_person#2022MUNO13) |
 | 0.02 | [John Lexel Alejandrino](https://www.worldcubeassociation.org/persons/2014ALEJ01) | 3.59 | 3.61 | [Philippine Championship 2017](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2017/results/by_person#2014ALEJ01) |
 | 0.02 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | 3.59 | 3.61 | [Azerbaijan Nationals 2023](https://www.worldcubeassociation.org/competitions/AzerbaijanNationals2023/results/by_person#2017ZHAD01) |
 | 0.02 | [Samuel Edwards](https://www.worldcubeassociation.org/persons/2022EDWA05) | 3.64 | 3.66 | [New to Sherwood Park 2024](https://www.worldcubeassociation.org/competitions/NewtoSherwoodPark2024/results/by_person#2022EDWA05) |
 | 0.02 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | 5.02 | 5.04 | [Williams Winter 2014](https://www.worldcubeassociation.org/competitions/WilliamsWinter2014/results/by_person#2008CLEM01) |
-| 0.02 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) | 5.86 | 5.88 | [Pakistan Open 2018](https://www.worldcubeassociation.org/competitions/PakistanOpen2018/results/by_person#2014GULA02) |
 
 ### 4x4x4 Cube
 
@@ -161,13 +161,13 @@
 | 0.01 | [Ihor Kastranets (Ігор Кастранець)](https://www.worldcubeassociation.org/persons/2018KAST02) | 4.47 | 4.48 | [Podolian Open 2024](https://www.worldcubeassociation.org/competitions/PodolianOpen2024/results/by_person#2018KAST02) |
 | 0.01 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 7.23 | 7.24 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019MORG10) |
 | 0.03 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 7.98 | 8.01 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2015SPEN01) |
+| 0.04 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.46 | 3.50 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
 | 0.04 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.76 | 3.80 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2021POLI02) |
 | 0.04 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.22 | 4.26 | [GCU Spring 2023](https://www.worldcubeassociation.org/competitions/GCUSpring2023/results/by_person#2017BREE02) |
 | 0.04 | [Miguel Angel Zamorano Beltran](https://www.worldcubeassociation.org/persons/2023BELT03) | 8.06 | 8.10 | [Niños Héroes Jalisco 2023](https://www.worldcubeassociation.org/competitions/NinosHeroesJalisco2023/results/by_person#2023BELT03) |
 | 0.04 | [Lee Yu Zhe](https://www.worldcubeassociation.org/persons/2019ZHEL01) | 11.18 | 11.22 | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/by_person#2019ZHEL01) |
 | 0.05 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.08 | 3.13 | [Uppsalaligan 2: Leap - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan2Leap2024/results/by_person#2021ELIA01) |
 | 0.05 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5.19 | 5.24 | [GLS I 2024](https://www.worldcubeassociation.org/competitions/GLSI2024/results/by_person#2013ROGA02) |
-| 0.05 | [Aleksandra Tatoń](https://www.worldcubeassociation.org/persons/2021TATO01) | 7.30 | 7.35 | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023/results/by_person#2021TATO01) |
 
 ### Skewb
 

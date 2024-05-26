@@ -2,7 +2,7 @@
 
 changed_statistic_files=`git diff --name-only $GITHUB_SHA~1..$GITHUB_SHA | grep 'statistics/' | grep -v 'statistics/index.rb'`
 
-if [[ "$GITHUB_EVENT_NAME" != "schedule" && "$changed_statistic_files" == "" ]]; then
+if [[ "$GITHUB_EVENT_NAME" != "schedule" && "$GITHUB_EVENT_NAME" != "workflow_dispatch" && "$changed_statistic_files" == "" ]]; then
   echo "There is nothing to compute."
 else
   # Set up database.
@@ -10,7 +10,7 @@ else
   printf "database: \"wca_statistics\"\nusername: \"root\"\npassword: \"root\"" > database.yml
   bin/update_database.rb
   # When a cron job compute all statistics, otherwise just the updated and new ones.
-  if [[ "$GITHUB_EVENT_NAME" == "schedule" ]]; then
+  if [[ "$GITHUB_EVENT_NAME" == "schedule" || "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
     bin/compute_all.rb || exit 1
   else
     echo "$changed_statistic_files" | while read file; do

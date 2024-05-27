@@ -20,13 +20,55 @@ Dir.mktmpdir do |tmp_direcory|
     Helpers.timed_task("Importing #{filename} into #{config["database"]}") do
       `#{mysql_with_credentials} -e "DROP DATABASE IF EXISTS #{config["database"]}" #{filter_out_mysql_warning}`
       `#{mysql_with_credentials} -e "CREATE DATABASE #{config["database"]}" #{filter_out_mysql_warning}`
-      sql = File.read(filename)
-      header = sql.match(/\A(.*?)-- Table structure for table/m)[1]
+
+      table_sqls = {}
+
+      # The export file is gigabytes in size, so we don't want to operate
+      # on the whole contents in the memory. Instead, we read it line by
+      # line and effectively build exports for individual tables, only
+      # the ones we care about.
+      File.open(filename, "r") do |file|
+        lines = []
+        header = nil
+        current_table_name = nil
+
+        # The export comes from MariaDB and the first line is
+        #
+        #   /*!999999\- enable the sandbox mode */
+        #
+        # MySQL does not recognise this command, so we always skip this
+        # line. See https://mariadb.org/mariadb-dump-file-compatibility-change
+        file.readline
+
+        until file.eof? do
+          line = file.readline
+
+          table_begin_match = line.match(/-- Table structure for table `(.*?)`/)
+
+          if table_begin_match
+            table_name = table_begin_match[1]
+
+            if header.nil?
+              header = lines.join("\n")
+            elsif current_table_name
+              table_sqls[current_table_name] = header + "\n" + lines.join("\n")
+              current_table_name = nil
+            end
+
+            if Database::REQUIRED_TABLES.include?(table_name)
+              current_table_name = table_name
+            end
+
+            lines = []
+          end
+
+          lines.push(line)
+        end
+      end
+
       Database::REQUIRED_TABLES.each do |table_name|
         puts "  - Importing table #{table_name}"
-        table_sql = header
-        # Extract SQL for the given table.
-        table_sql += sql.match(/-- Table structure for table .#{table_name}.(.*?)-- Table structure for table/m)[1]
+        table_sql = table_sqls[table_name]
         # Get rid of indexes within the table definition in favour of index creations after all the INSERT statements.
         index_creations = ""
         table_sql.gsub!(/,\s*KEY (.\w+.) (\([^)]*\))/m) do

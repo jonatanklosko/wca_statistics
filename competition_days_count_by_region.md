@@ -1,22 +1,22 @@
 ## Competition days count by region
 
-*Updated on 25 May 2024*
+*Updated on 28 May 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 12301 |
+| 1.47 | World | 12309 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4004 |
-| 1.51 | South America | 1473 |
-| 1.47 | Oceania | 552 |
-| 1.41 | Asia | 2677 |
+| 1.73 | Europe | 4007 |
+| 1.51 | South America | 1476 |
+| 1.47 | Oceania | 553 |
+| 1.41 | Asia | 2678 |
 | 1.28 | Africa | 141 |
 | 1.20 | North America | 3454 |
 
@@ -41,7 +41,7 @@
 | 1.87 | Slovakia | 38 |
 | 1.85 | Finland | 134 |
 | 1.84 | Thailand | 58 |
-| 1.84 | Spain | 339 |
+| 1.84 | Spain | 340 |
 | 1.84 | Croatia | 25 |
 | 1.83 | Bosnia and Herzegovina | 12 |
 | 1.83 | Switzerland | 108 |
@@ -56,7 +56,7 @@
 | 1.75 | Brazil | 454 |
 | 1.72 | Austria | 29 |
 | 1.71 | Argentina | 83 |
-| 1.70 | Poland | 447 |
+| 1.70 | Poland | 448 |
 | 1.69 | Ukraine | 131 |
 | 1.67 | Luxembourg | 3 |
 | 1.67 | North Macedonia | 6 |
@@ -72,8 +72,8 @@
 | 1.57 | San Marino | 7 |
 | 1.57 | Sweden | 269 |
 | 1.56 | Dominican Republic | 27 |
-| 1.53 | Bolivia | 114 |
-| 1.51 | Malaysia | 91 |
+| 1.53 | Malaysia | 92 |
+| 1.52 | Bolivia | 115 |
 | 1.50 | Peru | 201 |
 | 1.50 | Bangladesh | 14 |
 | 1.50 | Belize | 2 |
@@ -81,8 +81,8 @@
 | 1.50 | Madagascar | 2 |
 | 1.50 | Montenegro | 4 |
 | 1.50 | Nigeria | 6 |
-| 1.43 | Latvia | 30 |
-| 1.43 | Australia | 438 |
+| 1.45 | Latvia | 31 |
+| 1.43 | Australia | 439 |
 | 1.42 | South Africa | 71 |
 | 1.42 | Bulgaria | 19 |
 | 1.42 | Nepal | 19 |
@@ -94,7 +94,7 @@
 | 1.36 | Ecuador | 47 |
 | 1.36 | Israel | 50 |
 | 1.36 | Paraguay | 28 |
-| 1.34 | Colombia | 300 |
+| 1.34 | Colombia | 302 |
 | 1.34 | Vietnam | 62 |
 | 1.33 | Panama | 18 |
 | 1.33 | Tajikistan | 3 |

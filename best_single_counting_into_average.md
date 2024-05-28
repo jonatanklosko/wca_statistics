@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 May 2024*
+*Updated on 28 May 2024*
 
 
 ### Rubik's Cube
@@ -72,11 +72,11 @@
 | 7.70 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2024](https://www.worldcubeassociation.org/competitions/BaztanOpen2024/results/by_person#2012PONC02) |
 | 7.71 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2012PONC02) |
 | 7.74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Westview Cubing Favorites 2023](https://www.worldcubeassociation.org/competitions/WestviewCubingFavorites2023/results/by_person#2012PARK03) |
+| 7.82 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Kölner Kubing 2024](https://www.worldcubeassociation.org/competitions/KolnerKubing2024/results/by_person#2019LENS01) |
 | 7.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Marshall Middle Slice 2022](https://www.worldcubeassociation.org/competitions/MarshallMiddleSlice2022/results/by_person#2012PARK03) |
 | 7.88 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2008SUNZ01) |
 | 7.89 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/by_person#2017GARR05) |
 | 7.91 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Turbocharged 2023](https://www.worldcubeassociation.org/competitions/CircleCityTurbocharged2023/results/by_person#2012PARK03) |
-| 7.91 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Naperville Winter 2024](https://www.worldcubeassociation.org/competitions/NapervilleWinter2024/results/by_person#2017GARR05) |
 
 ### Megaminx
 

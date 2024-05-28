@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 25 May 2024*
+*Updated on 28 May 2024*
 
 
 ### Rubik's Cube
@@ -181,8 +181,8 @@
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.87 | **4.63** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#eclock_f) | 4 |
 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | 4.06 | **4.67** | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/all#eclock_f) | 6 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 3.48 | **4.69** | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/all#eclock_f) | 4 |
+| [Clement D. Tucker](https://www.worldcubeassociation.org/persons/2022TUCK09) | 3.89 | **4.69** | [South Deerfield Clock Fest 2024](https://www.worldcubeassociation.org/competitions/SouthDeerfieldClockFest2024/results/all#eclock_f) | 4 |
 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 3.73 | **4.71** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#eclock_f) | 5 |
-| [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.04 | **4.71** | [Don't Pop Princeton 2024](https://www.worldcubeassociation.org/competitions/DontPopPrinceton2024/results/all#eclock_f) | 4 |
 
 ### Skewb
 

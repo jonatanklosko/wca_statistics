@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 May 2024*
+*Updated on 28 May 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1111,6 +1111,7 @@
 | 10 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Astana Spring 2024](https://www.worldcubeassociation.org/competitions/AstanaSpring2024/results/podiums) |
 | 10 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Oskemen Open 2024](https://www.worldcubeassociation.org/competitions/OskemenOpen2024/results/podiums) |
 | 10 | [Shukrullo Ibragimov](https://www.worldcubeassociation.org/persons/2017IBRA05) | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019/results/podiums) |
+| 11 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | [Washtenaw Qualifiers 2024](https://www.worldcubeassociation.org/competitions/WashtenawQualifiers2024/results/podiums) |
 | 11 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums) |
 | 10 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | [Ankara January 2023](https://www.worldcubeassociation.org/competitions/AnkaraJanuary2023/results/podiums) |
 | 10 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | [KSF Club Almaty 2022](https://www.worldcubeassociation.org/competitions/KSFClubAlmaty2022/results/podiums) |

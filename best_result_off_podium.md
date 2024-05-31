@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 28 May 2024*
+*Updated on 31 May 2024*
 
 
 ### Rubik's Cube
@@ -61,13 +61,14 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 38.96 | **46.09** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e555_f) | 4 |
 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 42.77 | **46.16** | [Taiwan Championship 2023](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2023/results/all#e555_f) | 4 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 42.70 | **46.18** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e555_f) | 9 |
+| [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | 43.69 | **46.45** | [Sunway Velocity Mall Open 2024](https://www.worldcubeassociation.org/competitions/SunwayVelocityMallOpen2024/results/all#e555_f) | 4 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 42.50 | **46.56** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e555_f) | 10 |
-| [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 41.60 | **46.70** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e555_f) | 11 |
 
 ### 6x6x6 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:17.10 | **1:23.04** | [Sunway Velocity Mall Open 2024](https://www.worldcubeassociation.org/competitions/SunwayVelocityMallOpen2024/results/all#e666_f) | 4 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:21.81 | **1:23.24** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 4 |
 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:20.71 | **1:23.75** | [Selangor Niche 2024](https://www.worldcubeassociation.org/competitions/SelangorNiche2024/results/all#e666_c) | 4 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:17.40 | **1:24.19** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 5 |
@@ -77,7 +78,6 @@
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 1:18.63 | **1:24.88** | [Taiwan Championship 2023](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2023/results/all#e666_f) | 4 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:19.56 | **1:25.40** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 8 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 1:21.23 | **1:25.80** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 9 |
-| [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 1:22.25 | **1:25.92** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e666_f) | 4 |
 
 ### 7x7x7 Cube
 

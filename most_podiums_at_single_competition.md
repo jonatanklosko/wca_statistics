@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 May 2024*
+*Updated on 31 May 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -893,6 +893,7 @@
 | 10 | [Teri McAcy](https://www.worldcubeassociation.org/persons/2015MCAC01) | [Louisiana Mega Two Day 2023](https://www.worldcubeassociation.org/competitions/LouisianaMegaTwoDay2023/results/podiums) |
 | 12 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | [La Serena Open 2018](https://www.worldcubeassociation.org/competitions/LaSerenaOpen2018/results/podiums) |
 | 11 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | [Open Ovalle Summer 2024](https://www.worldcubeassociation.org/competitions/OpenOvalleSummer2024/results/podiums) |
+| 10 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | [Concepción al Cubo V2 2024](https://www.worldcubeassociation.org/competitions/ConcepcionalCuboV22024/results/podiums) |
 | 10 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | [Los Lagos Open 2016](https://www.worldcubeassociation.org/competitions/LosLagosOpen2016/results/podiums) |
 | 11 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | [Kaspiy Open 2018](https://www.worldcubeassociation.org/competitions/KaspiyOpen2018/results/podiums) |
 | 10 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | [Cubing Semey Open 2019](https://www.worldcubeassociation.org/competitions/CubingSemeyOpen2019/results/podiums) |

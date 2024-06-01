@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 31 May 2024*
+*Updated on  1 June 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 12334 |
+| 1.47 | World | 12342 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4012 |
-| 1.51 | South America | 1485 |
+| 1.73 | Europe | 4014 |
+| 1.51 | South America | 1487 |
 | 1.47 | Oceania | 554 |
-| 1.41 | Asia | 2684 |
+| 1.41 | Asia | 2686 |
 | 1.28 | Africa | 141 |
-| 1.20 | North America | 3458 |
+| 1.20 | North America | 3460 |
 
 ### Countries
 
@@ -29,8 +29,8 @@
 | 2.00 | Liechtenstein | 3 |
 | 2.00 | Uzbekistan | 19 |
 | 1.98 | Kazakhstan | 48 |
-| 1.94 | Turkey | 90 |
-| 1.93 | United Kingdom | 218 |
+| 1.95 | Turkey | 91 |
+| 1.94 | United Kingdom | 219 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
 | 1.92 | Lithuania | 25 |
@@ -66,7 +66,7 @@
 | 1.62 | Ireland | 60 |
 | 1.59 | Greece | 27 |
 | 1.59 | Italy | 211 |
-| 1.58 | India | 547 |
+| 1.58 | India | 548 |
 | 1.58 | Netherlands | 116 |
 | 1.58 | Indonesia | 224 |
 | 1.57 | San Marino | 7 |
@@ -74,13 +74,13 @@
 | 1.56 | Dominican Republic | 27 |
 | 1.53 | Malaysia | 92 |
 | 1.52 | Bolivia | 115 |
-| 1.50 | Peru | 201 |
 | 1.50 | Bangladesh | 14 |
 | 1.50 | Belize | 2 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Madagascar | 2 |
 | 1.50 | Montenegro | 4 |
 | 1.50 | Nigeria | 6 |
+| 1.50 | Peru | 202 |
 | 1.45 | Latvia | 31 |
 | 1.43 | Australia | 440 |
 | 1.42 | South Africa | 71 |
@@ -95,10 +95,10 @@
 | 1.36 | Israel | 50 |
 | 1.35 | Ecuador | 48 |
 | 1.34 | Paraguay | 29 |
-| 1.34 | Colombia | 307 |
+| 1.34 | Colombia | 308 |
 | 1.33 | Panama | 18 |
 | 1.33 | Tajikistan | 3 |
-| 1.32 | Philippines | 277 |
+| 1.32 | Philippines | 278 |
 | 1.32 | Hong Kong, China | 19 |
 | 1.31 | Republic of Korea | 96 |
 | 1.29 | Singapore | 58 |
@@ -111,13 +111,13 @@
 | 1.22 | Uruguay | 49 |
 | 1.22 | Bahrain | 9 |
 | 1.21 | Japan | 228 |
-| 1.19 | El Salvador | 32 |
 | 1.19 | Mongolia | 32 |
+| 1.18 | El Salvador | 33 |
 | 1.17 | Andorra | 6 |
 | 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | Canada | 354 |
-| 1.16 | United States | 2784 |
+| 1.16 | United States | 2785 |
 | 1.14 | Azerbaijan | 43 |
 | 1.12 | Honduras | 16 |
 | 1.11 | Armenia | 9 |

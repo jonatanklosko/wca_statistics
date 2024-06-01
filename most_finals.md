@@ -1,13 +1,13 @@
 ## Most finals
 
-*Updated on 31 May 2024*
+*Updated on  1 June 2024*
 
 | Finals | Person |
 | ---: | :--- |
 | 2343 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2274 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2114 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 2059 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 2066 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1654 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1594 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1579 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -44,14 +44,14 @@
 | 1016 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 999 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
+| 996 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
-| 989 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 988 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 981 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 981 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 980 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
-| 950 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
+| 957 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 950 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |

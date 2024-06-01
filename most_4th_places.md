@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 31 May 2024*
+*Updated on  1 June 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -26,8 +26,8 @@
 | 113 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 111 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
+| 110 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 109 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
-| 109 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 108 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 106 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |

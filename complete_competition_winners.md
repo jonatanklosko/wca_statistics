@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 31 May 2024*
+*Updated on  1 June 2024*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -23,6 +23,7 @@
 | 9 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | United States | [Drexel Winter 2010](https://www.worldcubeassociation.org/competitions/DrexelWinter2010) |
 | 8 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | Turkey | [Ankara Fall 2022](https://www.worldcubeassociation.org/competitions/AnkaraFall2022) |
 | 8 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | Russia | [Pavlodar Open 2023](https://www.worldcubeassociation.org/competitions/PavlodarOpen2023) |
+| 8 | [Arghy Shravast](https://www.worldcubeassociation.org/persons/2020SHRA01) | India | [Muzaffarpur Cube Open 2024](https://www.worldcubeassociation.org/competitions/MuzaffarpurCubeOpen2024) |
 | 8 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) | India | [Indian Open 2010](https://www.worldcubeassociation.org/competitions/IndianOpen2010) |
 | 8 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | Spain | [Portugal Open 2014](https://www.worldcubeassociation.org/competitions/PortugalOpen2014) |
 | 8 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | Indonesia | [Dewata Cube Day 2018](https://www.worldcubeassociation.org/competitions/DewataCubeDay2018) |

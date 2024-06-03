@@ -31,7 +31,7 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
           attempts_before_success = results
             .map! { |result| (1..5).map { |n| result["value#{n}"] } }
             .flatten
-            .select { |time| time == -1 || time > 0 } # Grab times only. Reject skipped and DNS sovles.
+            .select { |time| time == -1 || time > 0 } # Grab times only. Reject skipped and DNS solves.
             .find_index { |time| time > 0 }
           [attempts_before_success, person_link]
         end

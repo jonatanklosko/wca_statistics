@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 June 2024*
+*Updated on  4 June 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -134,6 +134,7 @@
 | 826 | [Emanuel Rheinert](https://www.worldcubeassociation.org/persons/2011RHEI01) |
 | 826 | [Ivan Osovik](https://www.worldcubeassociation.org/persons/2017OSOV01) |
 | 833 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
+| 839 | [Daniel Wang](https://www.worldcubeassociation.org/persons/2022WANG06) |
 | 840 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 | 847 | [Alessio Pandin](https://www.worldcubeassociation.org/persons/2021PAND01) |
 | 855 | [Matěj Mužátko](https://www.worldcubeassociation.org/persons/2013MUAT01) |
@@ -386,6 +387,7 @@
 | 2073 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
 | 2085 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 2093 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
+| 2099 | [Currin Wilson](https://www.worldcubeassociation.org/persons/2018WILS11) |
 | 2105 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 2121 | [Étienne Aubry](https://www.worldcubeassociation.org/persons/2018AUBR01) |
 | 2135 | [Alex Hauben](https://www.worldcubeassociation.org/persons/2018HAUB01) |

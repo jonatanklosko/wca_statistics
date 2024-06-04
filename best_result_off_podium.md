@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  1 June 2024*
+*Updated on  4 June 2024*
 
 
 ### Rubik's Cube
@@ -113,16 +113,16 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 20 | **22.00** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 4 |
+| [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 19 | **22.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 5 |
+| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 21 | **22.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 6 |
+| [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 21 | **22.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 7 |
+| [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 22 | **22.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 8 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 21 | **23.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 4 |
+| [Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01) | 21 | **23.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 9 |
+| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 21 | **23.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 9 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 22 | **23.33** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 5 |
-| [Jeremy Sheng](https://www.worldcubeassociation.org/persons/2019SHEN10) | 21 | **23.67** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 6 |
-| [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 21 | **23.67** | [FMC London Summer 2023](https://www.worldcubeassociation.org/competitions/FMCLondonSummer2023/results/all#e333fm_f) | 4 |
-| [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22 | **23.67** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 4 |
-| [Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01) | 22 | **23.67** | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023/results/all#e333fm_f) | 4 |
-| [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | 23 | **23.67** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 7 |
-| [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 21 | **24.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 8 |
-| [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 21 | **24.00** | [Ohio State Mental Madness 2024](https://www.worldcubeassociation.org/competitions/OhioStateMentalMadness2024/results/all#e333fm_f) | 4 |
-| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 22 | **24.00** | [FMC Poland-Czechia-Slovakia 2024](https://www.worldcubeassociation.org/competitions/FMCPolandCzechiaSlovakia2024/results/all#e333fm_f) | 4 |
+| [Alexis Le Merrer](https://www.worldcubeassociation.org/persons/2019MERR02) | 22 | **23.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 11 |
 
 ### 3x3x3 One-Handed
 
@@ -192,12 +192,12 @@
 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) | 1.66 | **2.55** | [Minnesota Slice 2024](https://www.worldcubeassociation.org/competitions/MinnesotaSlice2024/results/all#eskewb_f) | 4 |
 | [Charles Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 2.18 | **2.61** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 4 |
 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2.34 | **2.66** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 5 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.41 | **2.71** | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024/results/all#eskewb_f) | 4 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.22 | **2.72** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 5 |
 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | 2.23 | **2.72** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eskewb_f) | 4 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 2.53 | **2.72** | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024/results/all#eskewb_f) | 5 |
 | [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.00 | **2.74** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 6 |
 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | 2.06 | **2.74** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 6 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 2.08 | **2.75** | [Race the Clock Minnesota 2023](https://www.worldcubeassociation.org/competitions/RacetheClockMinnesota2023/results/all#eskewb_f) | 4 |
-| [Lucas Lippman-Bruno](https://www.worldcubeassociation.org/persons/2022LIPP01) | 2.46 | **2.75** | [Milwaukee Cubing Mania 2024](https://www.worldcubeassociation.org/competitions/MilwaukeeCubingMania2024/results/all#eskewb_f) | 4 |
 
 ### Square-1
 

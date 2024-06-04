@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 June 2024*
+*Updated on  4 June 2024*
 
 
 ### 200 Competitions
@@ -23,10 +23,10 @@
 | 5195 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 5277 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 5477 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 5482 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 5539 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 5678 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 6112 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
-| 6322 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 
 ### 150 Competitions
 
@@ -117,6 +117,7 @@
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 337 | [Jack Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI08) |
 | 351 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) |
+| 351 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 358 | [Juan David Blanco Sanabria](https://www.worldcubeassociation.org/persons/2023SANA04) |
 | 359 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
 | 364 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
@@ -126,7 +127,6 @@
 | 365 | [Shiloh D’Espyne](https://www.worldcubeassociation.org/persons/2023DESP01) |
 | 366 | [Prince Zian Erik C. Principe](https://www.worldcubeassociation.org/persons/2022PRIN08) |
 | 366 | [Prince Zoei Erin C. Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) |
-| 366 | [Rahul Bollini](https://www.worldcubeassociation.org/persons/2023BOLL01) |
 
 ### 10 Competitions
 

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 June 2024*
+*Updated on  4 June 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -665,6 +665,7 @@
 | 15 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [1:a Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/1aLordagskubeniVasteras2024/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [2:a Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/2aLordagskubeniVasteras2024/results/podiums) |
+| 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [3:e Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/3eLordagskubeniVasteras2024/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Croatian Open 2018](https://www.worldcubeassociation.org/competitions/CroatianOpen2018/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norwegian Championship 2021](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2021/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [SSL IV Flen 2023](https://www.worldcubeassociation.org/competitions/SSLIVFlen2023/results/podiums) |
@@ -852,6 +853,7 @@
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [2:a Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/2aLordagskubeniVasteras2024/results/podiums) |
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kublördag Jönköping I - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingI2024/results/podiums) |
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021/results/podiums) |
+| 10 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [3:e Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/3eLordagskubeniVasteras2024/results/podiums) |
 | 10 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [All Events in Stockholm 2024](https://www.worldcubeassociation.org/competitions/AllEventsinStockholm2024/results/podiums) |
 | 10 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Mölnlycke Open 2023](https://www.worldcubeassociation.org/competitions/MolnlyckeOpen2023/results/podiums) |
 | 11 | [Samuel Asafe Ludugel Fagundes](https://www.worldcubeassociation.org/persons/2015FAGU01) | [Mestre Álvaro 2016](https://www.worldcubeassociation.org/competitions/MestreAlvaro2016/results/podiums) |
@@ -1189,6 +1191,7 @@
 | 11 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |
 | 10 | [Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17) | [Vladivostok Is Back On 2021](https://www.worldcubeassociation.org/competitions/VladivostokIsBackOn2021/results/podiums) |
 | 10 | [Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17) | [Vladivostok Spring 2020](https://www.worldcubeassociation.org/competitions/VladivostokSpring2020/results/podiums) |
+| 11 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Gajah Mada Speedcubing 2024](https://www.worldcubeassociation.org/competitions/GajahMadaSpeedcubing2024/results/podiums) |
 | 10 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Binus Speedcubing 2024](https://www.worldcubeassociation.org/competitions/BinusSpeedcubing2024/results/podiums) |
 | 12 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Southern Solves 2024](https://www.worldcubeassociation.org/competitions/SouthernSolvesInvercargill2024/results/podiums) |
 | 11 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022/results/podiums) |

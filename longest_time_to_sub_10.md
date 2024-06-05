@@ -51,8 +51,8 @@
 | [Aníbal Araya](https://www.worldcubeassociation.org/persons/2011ARAY01) | 11.12 |
 | [Steven Cheung](https://www.worldcubeassociation.org/persons/2013CHEU01) | 11.04 |
 | [Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02) | 11.02 |
-| [Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01) | 11.00 |
 | [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | 11.00 |
+| [Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01) | 11.00 |
 | [Xiaobo Jin (金晓波)](https://www.worldcubeassociation.org/persons/2008JINX01) | 10.90 |
 | [Ottfried Kejs](https://www.worldcubeassociation.org/persons/2012KEJS01) | 10.83 |
 | [Dominik Beese](https://www.worldcubeassociation.org/persons/2013BEES01) | 10.79 |
@@ -68,8 +68,8 @@
 | [Yinghao Zhu (朱英豪)](https://www.worldcubeassociation.org/persons/2013ZHUY01) | 10.37 |
 | [Maggie Jordan](https://www.worldcubeassociation.org/persons/2013JORD01) | 10.35 |
 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) | 10.33 |
-| [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
 | [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
+| [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 10.31 |
 | [Vi Dinh](https://www.worldcubeassociation.org/persons/2013DINH01) | 10.29 |
 | [Hime Arellano](https://www.worldcubeassociation.org/persons/2014AREL01) | 10.25 |
@@ -100,8 +100,8 @@
 | [Sutep Nopnatee (สุเทพ นภนที)](https://www.worldcubeassociation.org/persons/2010NOPN01) | 9.54 |
 | [Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02) | 9.54 |
 | [Shubham Dubey](https://www.worldcubeassociation.org/persons/2014DUBE03) | 9.47 |
-| [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 9.47 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 9.47 |
+| [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 9.47 |
 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) | 9.45 |
 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 9.39 |
 

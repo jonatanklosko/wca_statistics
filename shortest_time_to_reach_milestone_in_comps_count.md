@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  4 June 2024*
+*Updated on  7 June 2024*
 
 
 ### 200 Competitions
@@ -20,13 +20,13 @@
 | 4796 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 4852 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 4957 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
+| 5034 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) |
 | 5195 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 5277 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 5477 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 5482 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 5539 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 5678 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 6112 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 
 ### 150 Competitions
 
@@ -38,6 +38,7 @@
 | 2340 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 2476 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 2564 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
+| 2565 | [Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31) |
 | 2844 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 2850 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 2871 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -51,7 +52,6 @@
 | 3102 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 3179 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 3179 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 3235 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 
 ### 100 Competitions
 

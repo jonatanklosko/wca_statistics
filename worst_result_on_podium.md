@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  4 June 2024*
+*Updated on  7 June 2024*
 
 
 ### Rubik's Cube
@@ -120,9 +120,9 @@
 | [Hossein Mastan (حسین مستان)](https://www.worldcubeassociation.org/persons/2015MAST01) | 59 | **67.00** | [IranFMC 2015](https://www.worldcubeassociation.org/competitions/IranFMC2015/results/podiums#e333fm) | 2 |
 | [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) | 55 | **62.67** | [Please Be Quiet Utah 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietUtah2019/results/podiums#e333fm) | 2 |
 | [Hannu Vanhatalo](https://www.worldcubeassociation.org/persons/2018VANH04) | 61 | **62.00** | [Pulmapelipäivät 2019](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2019/results/podiums#e333fm) | 2 |
+| [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 59 | **61.33** | [Nacho-nal Day FMC Täby 2024](https://www.worldcubeassociation.org/competitions/NachonalDayFMCTaby2024/results/podiums#e333fm) | 3 |
 | [Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31) | 55 | **61.00** | [Fewest Moves Bogotá 2024](https://www.worldcubeassociation.org/competitions/FewestMovesBogota2024/results/podiums#e333fm) | 3 |
 | [Aidan Proietto](https://www.worldcubeassociation.org/persons/2016PROI01) | 56 | **59.67** | [Last Minute Qualifier 2017](https://www.worldcubeassociation.org/competitions/LastMinuteQualifier2017/results/podiums#e333fm) | 2 |
-| [Benito Benítez Ruiz](https://www.worldcubeassociation.org/persons/2015RUIZ08) | 51 | **59.67** | [Quijote Open 2016](https://www.worldcubeassociation.org/competitions/QuijoteOpen2016/results/podiums#e333fm) | 2 |
 
 ### 3x3x3 One-Handed
 

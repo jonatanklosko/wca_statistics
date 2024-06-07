@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 June 2024*
+*Updated on  7 June 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -884,6 +884,7 @@
 | 10 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | [Flen Christmas Sleepover 2018](https://www.worldcubeassociation.org/competitions/FlenChristmasSleepover2018/results/podiums) |
 | 10 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | [Gbg Summer Cubing 2022](https://www.worldcubeassociation.org/competitions/GbgSummerCubing2022/results/podiums) |
 | 12 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Fargo Fall 2019](https://www.worldcubeassociation.org/competitions/FargoFall2019/results/podiums) |
+| 12 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Wisconsin Qualifier 2024](https://www.worldcubeassociation.org/competitions/WisconsinQualifier2024/results/podiums) |
 | 10 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023/results/podiums) |
 | 10 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [North Star Cubing Challenge 2020](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020/results/podiums) |
 | 10 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | [Sandnes Open 2018](https://www.worldcubeassociation.org/competitions/SandnesOpen2018/results/podiums) |
@@ -977,6 +978,7 @@
 | 12 | [Joonas Silvennoinen](https://www.worldcubeassociation.org/persons/2016SILV07) | [Pulmapelipäivät 2019](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2019/results/podiums) |
 | 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Bora Bora Barra Open 2023](https://www.worldcubeassociation.org/competitions/BoraBoraBarraOpen2023/results/podiums) |
 | 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/podiums) |
+| 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Rio Cubolympics 2024](https://www.worldcubeassociation.org/competitions/RioCubolympics2024/results/podiums) |
 | 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Cerrado Open 2023](https://www.worldcubeassociation.org/competitions/CerradoOpen2023/results/podiums) |
 | 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Floripa Open 2023](https://www.worldcubeassociation.org/competitions/FloripaOpen2023/results/podiums) |
 | 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Pão de Queijo Open 2023](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2023/results/podiums) |
@@ -1002,6 +1004,7 @@
 | 12 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2022](https://www.worldcubeassociation.org/competitions/IsraelChampionship2022/results/podiums) |
 | 10 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelChampionship2023/results/podiums) |
 | 10 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | [Pittsburgh Fall 2019](https://www.worldcubeassociation.org/competitions/PittsburghFall2019/results/podiums) |
+| 13 | [Andy Mok Man Cheuk (莫文卓)](https://www.worldcubeassociation.org/persons/2016CHEU04) | [Cube Camp in Nakhon Nayok 2024](https://www.worldcubeassociation.org/competitions/CubeCampinNakhonNayok2024/results/podiums) |
 | 11 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019/results/podiums) |
 | 11 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Pahang Cube Open 2019](https://www.worldcubeassociation.org/competitions/PahangCubeOpen2019/results/podiums) |
 | 10 | [Angel Jesus Panebra Rodriguez](https://www.worldcubeassociation.org/persons/2016RODR37) | [Real Geekcuber Pucallpa 2023](https://www.worldcubeassociation.org/competitions/RealGeekcuberPucallpa2023/results/podiums) |

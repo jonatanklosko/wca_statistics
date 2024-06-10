@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  7 June 2024*
+*Updated on 10 June 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -10,12 +10,12 @@
 | 2086 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1654 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1595 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 1579 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 1585 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 1536 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
-| 1530 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 1483 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 1483 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 1455 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 1468 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 1332 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1305 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1301 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
@@ -24,7 +24,7 @@
 | 1230 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1228 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 1216 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
-| 1208 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
+| 1211 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1182 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1175 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1169 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
@@ -42,8 +42,8 @@
 | 1056 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 1052 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 1032 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 1018 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
-| 1012 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 999 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 988 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
@@ -93,13 +93,13 @@
 | 775 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 772 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 770 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
+| 767 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 767 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 765 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 764 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 761 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 761 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 | 761 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
-| 761 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 759 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 754 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 753 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |

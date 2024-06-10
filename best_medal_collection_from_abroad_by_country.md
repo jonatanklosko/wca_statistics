@@ -1,30 +1,30 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  7 June 2024*
+*Updated on 10 June 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1425** | 1188 | 1026 | 3639 |
-| United States | **1105** | 912 | 806 | 2823 |
-| Germany | **1099** | 1038 | 1048 | 3185 |
+| United States | **1106** | 918 | 807 | 2831 |
+| Germany | **1099** | 1039 | 1049 | 3187 |
 | France | **964** | 825 | 696 | 2485 |
 | Netherlands | **955** | 761 | 637 | 2353 |
 | Russia | **902** | 535 | 405 | 1842 |
-| China | **703** | 667 | 603 | 1973 |
+| China | **704** | 672 | 604 | 1980 |
 | Poland | **609** | 395 | 305 | 1309 |
-| Malaysia | **418** | 416 | 388 | 1222 |
+| Malaysia | **420** | 416 | 388 | 1224 |
 | United Kingdom | **411** | 465 | 439 | 1315 |
 | Canada | **385** | 402 | 432 | 1219 |
 | Denmark | **355** | 299 | 239 | 893 |
 | Republic of Korea | **343** | 297 | 258 | 898 |
-| Hong Kong, China | **323** | 332 | 265 | 920 |
+| Hong Kong, China | **324** | 333 | 267 | 924 |
 | Sweden | **309** | 352 | 365 | 1026 |
 | Switzerland | **308** | 418 | 326 | 1052 |
 | India | **302** | 274 | 270 | 846 |
+| Italy | **298** | 285 | 259 | 842 |
 | Australia | **290** | 136 | 93 | 519 |
 | Finland | **282** | 223 | 182 | 687 |
-| Italy | **258** | 243 | 226 | 727 |
 | Ukraine | **249** | 265 | 276 | 790 |
 | Argentina | **236** | 172 | 143 | 551 |
 | Chinese Taipei | **214** | 186 | 187 | 587 |
@@ -44,18 +44,18 @@
 | Czech Republic | **115** | 121 | 138 | 374 |
 | Belarus | **111** | 77 | 89 | 277 |
 | Kazakhstan | **109** | 105 | 101 | 315 |
+| Norway | **86** | 101 | 107 | 294 |
 | Thailand | **86** | 91 | 45 | 222 |
-| Norway | **83** | 98 | 105 | 286 |
 | Slovakia | **81** | 92 | 101 | 274 |
-| Philippines | **78** | 90 | 93 | 261 |
-| Lithuania | **77** | 76 | 88 | 241 |
+| Philippines | **78** | 91 | 93 | 262 |
+| Lithuania | **77** | 77 | 88 | 242 |
 | Vietnam | **63** | 87 | 76 | 226 |
 | Guatemala | **61** | 38 | 43 | 142 |
 | Croatia | **59** | 97 | 77 | 233 |
 | Brazil | **58** | 72 | 48 | 178 |
 | Estonia | **53** | 57 | 47 | 157 |
 | Jordan | **45** | 11 | 16 | 72 |
-| New Zealand | **44** | 73 | 63 | 180 |
+| New Zealand | **44** | 73 | 58 | 175 |
 | Venezuela | **44** | 57 | 52 | 153 |
 | Israel | **41** | 37 | 43 | 121 |
 | Kosovo | **38** | 27 | 23 | 88 |

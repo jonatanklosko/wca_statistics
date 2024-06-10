@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 June 2024*
+*Updated on 10 June 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1026,6 +1026,7 @@
 | 10 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Conquiste o Cubo II 2023](https://www.worldcubeassociation.org/competitions/ConquisteoCuboII2023/results/podiums) |
 | 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Kublördag Jönköping I - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingI2024/results/podiums) |
 | 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Mölnlycke Open 2023](https://www.worldcubeassociation.org/competitions/MolnlyckeOpen2023/results/podiums) |
+| 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [West Coast 3: Trollhättan 2024](https://www.worldcubeassociation.org/competitions/WestCoast3Trollhattan2024/results/podiums) |
 | 12 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Big Cubes in Stafsinge 2024](https://www.worldcubeassociation.org/competitions/BigCubesinStafsinge2024/results/podiums) |
 | 12 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [SSL Final Uppsala 2023](https://www.worldcubeassociation.org/competitions/SSLFinalUppsala2023/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/podiums) |
@@ -1104,6 +1105,7 @@
 | 10 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2019](https://www.worldcubeassociation.org/competitions/IcelandicNationals2019/results/podiums) |
 | 10 | [Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02) | [Fundación de Cuenca Open 2024](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2024/results/podiums) |
 | 11 | [Kyle McDonald Trejos](https://www.worldcubeassociation.org/persons/2017TREJ03) | [Cubing Chiriquí 2019](https://www.worldcubeassociation.org/competitions/CubingChiriqui2019/results/podiums) |
+| 12 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Pulmapelipäivät 2024](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2024/results/podiums) |
 | 10 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Autotalo 2023](https://www.worldcubeassociation.org/competitions/Autotalo2023/results/podiums) |
 | 12 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019/results/podiums) |
 | 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020/results/podiums) |

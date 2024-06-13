@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 June 2024*
+*Updated on 13 June 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -121,6 +121,7 @@
 | 789 | [Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02) |
 | 790 | [Olivier Vos](https://www.worldcubeassociation.org/persons/2016VOSO01) |
 | 791 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
+| 797 | [Hirosh Nividu](https://www.worldcubeassociation.org/persons/2022WIJE01) |
 | 798 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) |
 | 804 | [Ivan Krueger](https://www.worldcubeassociation.org/persons/2016KRUE01) |
 | 805 | [Zhifang Xi (席之枋)](https://www.worldcubeassociation.org/persons/2016XIZH01) |
@@ -173,8 +174,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -488,6 +489,7 @@
 | 3086 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 3109 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 3116 | [Ahsanul Insan Hamid](https://www.worldcubeassociation.org/persons/2011HAMI01) |
+| 3149 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) |
 | 3158 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 3170 | [Luboš Bartík](https://www.worldcubeassociation.org/persons/2015BART01) |
 | 3198 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |

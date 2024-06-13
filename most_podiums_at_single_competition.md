@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 June 2024*
+*Updated on 13 June 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -997,6 +997,7 @@
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/podiums) |
 | 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2023](https://www.worldcubeassociation.org/competitions/TexasChampionship2023/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/podiums) |
+| 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Eclipse Cubing 2024](https://www.worldcubeassociation.org/competitions/DFWEclipseCubing2024/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Hono Luau Cube Off 2022](https://www.worldcubeassociation.org/competitions/HonoLuauCubeOff2022/results/podiums) |
 | 10 | [Hassen Kallala](https://www.worldcubeassociation.org/persons/2016KALL01) | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019/results/podiums) |
@@ -1094,6 +1095,7 @@
 | 11 | [Maxim Ilin](https://www.worldcubeassociation.org/persons/2017ILIN01) | [Voronezh Open 2018](https://www.worldcubeassociation.org/competitions/VoronezhOpen2018/results/podiums) |
 | 10 | [Roman Povolotskii](https://www.worldcubeassociation.org/persons/2017POVO01) | [Astrakhan Spring Open 2019](https://www.worldcubeassociation.org/competitions/AstrakhanSpringOpen2019/results/podiums) |
 | 10 | [Jonathan Truchot](https://www.worldcubeassociation.org/persons/2017TRUC02) | [Glacier National Park Open 2023](https://www.worldcubeassociation.org/competitions/GlacierNationalParkOpen2023/results/podiums) |
+| 13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/podiums) |
 | 12 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Countless Cubes Chicago B 2024](https://www.worldcubeassociation.org/competitions/CountlessCubesChicagoB2024/results/podiums) |
 | 11 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023/results/podiums) |
 | 10 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Eastwood Cubing 2024](https://www.worldcubeassociation.org/competitions/EastwoodCubing2024/results/podiums) |

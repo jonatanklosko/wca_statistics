@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 10 June 2024*
+*Updated on 13 June 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -49,23 +49,23 @@
 | 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 19 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
+| 19 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 19 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 19 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 18 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
-| 18 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 18 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
+| 18 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
 | 18 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 18 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
+| 18 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 18 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 18 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 18 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
-| 18 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 18 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 18 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
 | 17 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 17 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 17 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |

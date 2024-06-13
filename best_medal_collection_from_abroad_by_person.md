@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 June 2024*
+*Updated on 13 June 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -11,7 +11,7 @@
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **220** | 172 | 124 | 516 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **199** | 50 | 18 | 267 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **193** | 50 | 29 | 272 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **184** | 62 | 31 | 277 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **187** | 62 | 31 | 280 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **146** | 20 | 8 | 174 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **140** | 152 | 133 | 425 |
@@ -24,7 +24,7 @@
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **112** | 105 | 94 | 311 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **110** | 39 | 18 | 167 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **108** | 122 | 108 | 338 |
-| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **106** | 52 | 15 | 173 |
+| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **107** | 54 | 15 | 176 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **101** | 63 | 34 | 198 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **97** | 120 | 73 | 290 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **95** | 102 | 87 | 284 |
@@ -34,10 +34,10 @@
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **82** | 44 | 30 | 156 |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **81** | 65 | 87 | 233 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **80** | 19 | 10 | 109 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **81** | 20 | 10 | 111 |
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **76** | 57 | 48 | 181 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **75** | 80 | 51 | 206 |
-| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **73** | 67 | 67 | 207 |
+| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **75** | 70 | 68 | 213 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **73** | 58 | 49 | 180 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **72** | 78 | 47 | 197 |
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **71** | 42 | 35 | 148 |
@@ -53,8 +53,8 @@
 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **58** | 51 | 35 | 144 |
 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **56** | 50 | 31 | 137 |
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
+| [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **55** | 34 | 12 | 101 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
-| [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **54** | 34 | 12 | 100 |
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **54** | 32 | 13 | 99 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 23 | 17 | 94 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **54** | 23 | 14 | 91 |
@@ -63,7 +63,7 @@
 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **52** | 35 | 23 | 110 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **51** | 50 | 39 | 140 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | **51** | 20 | 11 | 82 |
-| [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **50** | 64 | 64 | 178 |
+| [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **50** | 65 | 64 | 179 |
 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **50** | 39 | 27 | 116 |
 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **50** | 24 | 10 | 84 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | **49** | 44 | 40 | 133 |

@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 10 June 2024*
+*Updated on 13 June 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -63,8 +63,8 @@
 | 81 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 81 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
+| 81 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 80 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 79 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
@@ -98,8 +98,8 @@
 | 67 | [Fumiki Koseki (古関章記)](https://www.worldcubeassociation.org/persons/2005KOSE01) |
 | 67 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 67 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
+| 67 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 66 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
-| 66 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 65 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 65 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 65 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |

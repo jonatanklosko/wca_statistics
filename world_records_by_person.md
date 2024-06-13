@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 June 2024*
+*Updated on 13 June 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -67,6 +67,7 @@
 | 5 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 4 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) |
+| 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 4 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) |
 | 4 | [Craig Bouchard](https://www.worldcubeassociation.org/persons/2005BOUC01) |
 | 4 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
@@ -89,7 +90,6 @@
 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
 | 3 | [Alexander Yu](https://www.worldcubeassociation.org/persons/2007YUAL01) |
 | 3 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
-| 3 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 3 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 3 | [Claes Hedin](https://www.worldcubeassociation.org/persons/2009HEDI01) |
 | 3 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |

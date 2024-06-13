@@ -1,26 +1,26 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 June 2024*
+*Updated on 13 June 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1425** | 1188 | 1026 | 3639 |
-| United States | **1106** | 918 | 807 | 2831 |
-| Germany | **1099** | 1039 | 1049 | 3187 |
+| Germany | **1109** | 1044 | 1056 | 3209 |
+| United States | **1108** | 919 | 807 | 2834 |
 | France | **964** | 825 | 696 | 2485 |
 | Netherlands | **955** | 761 | 637 | 2353 |
-| Russia | **902** | 535 | 405 | 1842 |
+| Russia | **903** | 537 | 405 | 1845 |
 | China | **704** | 672 | 604 | 1980 |
-| Poland | **609** | 395 | 305 | 1309 |
-| Malaysia | **420** | 416 | 388 | 1224 |
+| Poland | **609** | 396 | 306 | 1311 |
+| Malaysia | **420** | 417 | 388 | 1225 |
 | United Kingdom | **411** | 465 | 439 | 1315 |
-| Canada | **385** | 402 | 432 | 1219 |
+| Canada | **385** | 402 | 433 | 1220 |
 | Denmark | **355** | 299 | 239 | 893 |
 | Republic of Korea | **343** | 297 | 258 | 898 |
-| Hong Kong, China | **324** | 333 | 267 | 924 |
-| Sweden | **309** | 352 | 365 | 1026 |
-| Switzerland | **308** | 418 | 326 | 1052 |
+| Hong Kong, China | **325** | 333 | 268 | 926 |
+| Sweden | **309** | 353 | 365 | 1027 |
+| Switzerland | **308** | 419 | 326 | 1053 |
 | India | **302** | 274 | 270 | 846 |
 | Italy | **298** | 285 | 259 | 842 |
 | Australia | **290** | 136 | 93 | 519 |
@@ -37,12 +37,12 @@
 | Ireland | **155** | 78 | 63 | 296 |
 | Latvia | **146** | 212 | 219 | 577 |
 | Slovenia | **145** | 188 | 199 | 532 |
-| Peru | **144** | 80 | 97 | 321 |
+| Peru | **144** | 80 | 98 | 322 |
 | Belgium | **140** | 207 | 188 | 535 |
 | Colombia | **139** | 112 | 98 | 349 |
 | Greece | **121** | 152 | 112 | 385 |
 | Czech Republic | **115** | 121 | 138 | 374 |
-| Belarus | **111** | 77 | 89 | 277 |
+| Belarus | **112** | 78 | 89 | 279 |
 | Kazakhstan | **109** | 105 | 101 | 315 |
 | Norway | **86** | 101 | 107 | 294 |
 | Thailand | **86** | 91 | 45 | 222 |
@@ -79,7 +79,7 @@
 | Tunisia | **10** | 10 | 8 | 28 |
 | Uruguay | **10** | 6 | 18 | 34 |
 | Bolivia | **9** | 17 | 28 | 54 |
-| Turkey | **9** | 16 | 14 | 39 |
+| Turkey | **9** | 16 | 15 | 40 |
 | Morocco | **9** | 11 | 12 | 32 |
 | Kuwait | **9** | 8 | 18 | 35 |
 | Bosnia and Herzegovina | **8** | 22 | 11 | 41 |

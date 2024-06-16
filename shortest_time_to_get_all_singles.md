@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 June 2024*
+*Updated on 16 June 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -67,6 +67,7 @@
 | 582 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) |
 | 588 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) |
 | 594 | [Bowen Xiao (肖博文)](https://www.worldcubeassociation.org/persons/2017XIAO09) |
+| 595 | [Maxim Pürstinger](https://www.worldcubeassociation.org/persons/2022PURS01) |
 | 597 | [Jared Blanco](https://www.worldcubeassociation.org/persons/2021BLAN02) |
 | 601 | [Andreas Pohl](https://www.worldcubeassociation.org/persons/2012POHL01) |
 | 602 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |

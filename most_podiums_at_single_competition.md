@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 June 2024*
+*Updated on 16 June 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1207,6 +1207,7 @@
 | 13 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Slovenian Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianNationals2023/results/podiums) |
 | 11 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [No Clock in Lužice 2023](https://www.worldcubeassociation.org/competitions/NoClockinLuzice2023/results/podiums) |
 | 11 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Slovak Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovakNationals2023/results/podiums) |
+| 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Budapest Summer 2024](https://www.worldcubeassociation.org/competitions/BudapestSummer2024/results/podiums) |
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Longstone City Blind Open 2024](https://www.worldcubeassociation.org/competitions/LongstoneCityBlindOpen2024/results/podiums) |
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Serbian Championship 2023](https://www.worldcubeassociation.org/competitions/SerbianChampionship2023/results/podiums) |
 | 10 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Cubing Kazakhstan Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingKazakhstanNationals2023/results/podiums) |

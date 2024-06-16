@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 13 June 2024*
+*Updated on 16 June 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -9,8 +9,8 @@
 | 211 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 179 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 178 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
+| 175 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 173 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 173 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 172 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 163 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 161 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
@@ -42,9 +42,9 @@
 | 102 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 102 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 101 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
-| 100 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 100 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 99 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 100 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 100 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 96 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 95 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 94 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
@@ -56,9 +56,9 @@
 | 93 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 93 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 92 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
-| 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
+| 92 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 92 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
-| 91 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 91 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 90 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 88 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
@@ -87,13 +87,13 @@
 | 79 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 78 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
 | 77 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
+| 77 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 76 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 76 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
 | 76 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 76 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
-| 75 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
-| 75 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 75 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
+| 75 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
 | 74 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 74 | [Joonas Silvennoinen](https://www.worldcubeassociation.org/persons/2016SILV07) |
 | 74 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |

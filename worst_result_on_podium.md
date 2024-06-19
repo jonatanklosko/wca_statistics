@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 16 June 2024*
+*Updated on 19 June 2024*
 
 
 ### Rubik's Cube
@@ -11,18 +11,19 @@
 | [Suolangwangdui (索朗旺堆)](https://www.worldcubeassociation.org/persons/2012SUOL02) | 2:25.02 | **5:36.91** | [Tibet Open 2012](https://www.worldcubeassociation.org/competitions/TibetOpen2012/results/podiums#e333) | 3 |
 | [Yixilangjia (益西朗加)](https://www.worldcubeassociation.org/persons/2012YIXI02) | 3:27.86 | **5:08.60** | [Tibet Open 2012](https://www.worldcubeassociation.org/competitions/TibetOpen2012/results/podiums#e333) | 2 |
 | [Benyuan Wei (魏本源)](https://www.worldcubeassociation.org/persons/2012WEIB02) | 1:24.26 | **3:39.87** | [Tibet Open 2012](https://www.worldcubeassociation.org/competitions/TibetOpen2012/results/podiums#e333) | 1 |
+| [Hayden Brimberry](https://www.worldcubeassociation.org/persons/2024BRIM01) | 1:39.58 | **2:08.12** | [Ilulissat 2024](https://www.worldcubeassociation.org/competitions/Ilulissat2024/results/podiums#e333) | 1 |
 | [Məhəmməd Xəlilov](https://www.worldcubeassociation.org/persons/2018XALI01) | 1:15.15 | **1:43.80** | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018/results/podiums#e333) | 3 |
 | [Jonah Lindgren](https://www.worldcubeassociation.org/persons/2023LIND09) | 1:27.70 | **1:43.69** | [Vardagscubing III - Flen A 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenA2023/results/podiums#e333) | 3 |
 | [Levi Lindgren](https://www.worldcubeassociation.org/persons/2023LIND10) | 1:15.00 | **1:25.50** | [Vardagscubing III - Flen A 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenA2023/results/podiums#e333) | 2 |
 | [Paul Martin De Leon](https://www.worldcubeassociation.org/persons/2009LEON04) | 1:01.52 | **1:10.95** | [Dubai Open 2009](https://www.worldcubeassociation.org/competitions/DubaiOpen2009/results/podiums#e333) | 3 |
 | [Maxsud Qarayev](https://www.worldcubeassociation.org/persons/2018QARA01) | 55.04 | **1:07.81** | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018/results/podiums#e333) | 2 |
 | [Mohammad Forootani (محمد فروتنی)](https://www.worldcubeassociation.org/persons/2009FORO01) | 1:02.86 | **1:06.43** | [Dubai Open 2009](https://www.worldcubeassociation.org/competitions/DubaiOpen2009/results/podiums#e333) | 2 |
-| [Zhong Wang (王重)](https://www.worldcubeassociation.org/persons/2012WANG02) | 51.33 | **1:05.29** | [Henan Countryside 2012](https://www.worldcubeassociation.org/competitions/HenanCountryside2012/results/podiums#e333) | 3 |
 
 ### 2x2x2 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Hayden Brimberry](https://www.worldcubeassociation.org/persons/2024BRIM01) | 38.33 | **1:01.86** | [Ilulissat 2024](https://www.worldcubeassociation.org/competitions/Ilulissat2024/results/podiums#e222) | 1 |
 | [Hanna Almasso](https://www.worldcubeassociation.org/persons/2009ALMA01) | 9.25 | **41.99** | [Dubai Open 2009](https://www.worldcubeassociation.org/competitions/DubaiOpen2009/results/podiums#e222) | 3 |
 | [Luan de Sousa Barbosa](https://www.worldcubeassociation.org/persons/2012BARB01) | 21.41 | **39.40** | [Roraima 2012](https://www.worldcubeassociation.org/competitions/Roraima2012/results/podiums#e222) | 3 |
 | [Carl-Johan Kjellander](https://www.worldcubeassociation.org/persons/2005KJEL01) | 26.45 | **33.99** | [Chalmers Open 2005](https://www.worldcubeassociation.org/competitions/ChalmersOpen2005/results/podiums#e222) | 3 |
@@ -32,7 +33,6 @@
 | [Sahil Mirchandani](https://www.worldcubeassociation.org/persons/2022MIRC02) | 20.38 | **25.52** | [Curaçao Open 2022](https://www.worldcubeassociation.org/competitions/CuracaoOpen2022/results/podiums#e222) | 3 |
 | [Abdesalam Derdour](https://www.worldcubeassociation.org/persons/2014DERD01) | 16.02 | **24.35** | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014/results/podiums#e222) | 3 |
 | [Gavin Lopez Ramirez](https://www.worldcubeassociation.org/persons/2022RAMI17) | 13.66 | **23.03** | [Curaçao Open 2022](https://www.worldcubeassociation.org/competitions/CuracaoOpen2022/results/podiums#e222) | 2 |
-| [Joel Wallin](https://www.worldcubeassociation.org/persons/2013WALL04) | 14.83 | **22.64** | [Vardagscubing III - Flen A 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenA2023/results/podiums#e222) | 1 |
 
 ### 4x4x4 Cube
 
@@ -159,6 +159,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Felipe Andres Rojas Garces](https://www.worldcubeassociation.org/persons/2009GARC02) | 18.27 | **1:19.52** | [Santiago Open 2009](https://www.worldcubeassociation.org/competitions/SantiagoOpen2009/results/podiums#epyram) | 3 |
+| [Hans Gulernar](https://www.worldcubeassociation.org/persons/2024GULE01) | 25.11 | **1:10.82** | [Ilulissat 2024](https://www.worldcubeassociation.org/competitions/Ilulissat2024/results/podiums#epyram) | 1 |
 | [Jason Young](https://www.worldcubeassociation.org/persons/2021YOUN01) | 32.95 | **1:00.54** | [April in Alice Springs 2021](https://www.worldcubeassociation.org/competitions/AprilinAliceSprings2021/results/podiums#epyram) | 3 |
 | [Sachin Kumar Singh](https://www.worldcubeassociation.org/persons/2009SING08) | 41.50 | **56.18** | [Shristi Open 2009](https://www.worldcubeassociation.org/competitions/ShristiOpen2009/results/podiums#epyram) | 3 |
 | [Lucas Felipe de Almeida Lima](https://www.worldcubeassociation.org/persons/2015LIMA11) | 28.55 | **52.48** | [Santarém Open 2015](https://www.worldcubeassociation.org/competitions/SantaremOpen2015/results/podiums#epyram) | 3 |
@@ -167,7 +168,6 @@
 | [Mack Merlin](https://www.worldcubeassociation.org/persons/2009MERL01) | 22.65 | **46.21** | [Twin Cities 2009](https://www.worldcubeassociation.org/competitions/TwinCities2009/results/podiums#epyram) | 3 |
 | [Shane Rowland](https://www.worldcubeassociation.org/persons/2010ROWL01) | 24.06 | **40.88** | [Drexel Winter 2010](https://www.worldcubeassociation.org/competitions/DrexelWinter2010/results/podiums#epyram) | 3 |
 | [Mayumi Hori (堀真由美)](https://www.worldcubeassociation.org/persons/2006HORI02) | 32.33 | **38.93** | [OGU Open 2006](https://www.worldcubeassociation.org/competitions/OGU2006/results/podiums#epyram) | 3 |
-| [Helmi Gaaloul](https://www.worldcubeassociation.org/persons/2014GAAL01) | 30.24 | **37.30** | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014/results/podiums#epyram) | 3 |
 
 ### Rubik's Clock
 

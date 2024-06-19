@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 June 2024*
+*Updated on 19 June 2024*
 
 
 ### Rubik's Cube
@@ -12,12 +12,12 @@
 | 0.01 | [Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01) | 9.55 | 9.56 | [Zonhoven Open 2016](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2016/results/by_person#2010SCHI01) |
 | 0.01 | [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | 10.99 | 11.00 | [SJTU Winter Open 2018](https://www.worldcubeassociation.org/competitions/SJTUWinterOpen2018/results/by_person#2017YINX01) |
 | 0.01 | [Michael](https://www.worldcubeassociation.org/persons/2010MICH03) | 25.03 | 25.04 | [Indonesian Open 2011](https://www.worldcubeassociation.org/competitions/IndonesianOpen2011/results/by_person#2010MICH03) |
+| 0.02 | [Ethan Yeh](https://www.worldcubeassociation.org/persons/2020YEHE01) | 7.93 | 7.95 | [Agoura Cubing Returns 2024](https://www.worldcubeassociation.org/competitions/AgouraCubingReturns2024/results/by_person#2020YEHE01) |
 | 0.02 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | 8.64 | 8.66 | [San Diego's Final Cube-Down 2022](https://www.worldcubeassociation.org/competitions/SanDiegosFinalCubeDown2022/results/by_person#2015BROW03) |
 | 0.02 | [Yongting You (尤永庭)](https://www.worldcubeassociation.org/persons/2010YOUY01) | 9.40 | 9.42 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/by_person#2010YOUY01) |
 | 0.02 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | 10.53 | 10.55 | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/by_person#2021OTAI01) |
 | 0.02 | [José Josué Daniel Pineda Abrego](https://www.worldcubeassociation.org/persons/2022ABRE01) | 12.94 | 12.96 | [Nacionales Guatemala 2022](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2022/results/by_person#2022ABRE01) |
 | 0.02 | [Charan Bharathidasan](https://www.worldcubeassociation.org/persons/2023BHAR09) | 13.27 | 13.29 | [BASC 53 - Berkeley 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin53Berkeley2023/results/by_person#2023BHAR09) |
-| 0.02 | [Lorenzo D'Ammassa](https://www.worldcubeassociation.org/persons/2021DAMM02) | 13.40 | 13.42 | [Eretum 2 Easter 2023](https://www.worldcubeassociation.org/competitions/Eretum2EasterBoogaloo2023/results/by_person#2021DAMM02) |
 
 ### 2x2x2 Cube
 
@@ -144,7 +144,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.02 | [Yi Wang (王旖)](https://www.worldcubeassociation.org/persons/2011WANG33) | 2.98 | 3.00 | [Suzhou Open 2017](https://www.worldcubeassociation.org/competitions/SuzhouOpen2017/results/by_person#2011WANG33) |
-| 0.02 | [Chiara Giesinger](https://www.worldcubeassociation.org/persons/2022GIES01) | 5.16 | 5.18 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022/results/by_person#2022GIES01) |
+| 0.02 | [Cai Giesinger](https://www.worldcubeassociation.org/persons/2022GIES01) | 5.16 | 5.18 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022/results/by_person#2022GIES01) |
 | 0.02 | [Kasper Warberg Borg](https://www.worldcubeassociation.org/persons/2020BORG01) | 9.37 | 9.39 | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022/results/by_person#2020BORG01) |
 | 0.03 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.49 | 1.52 | [Southern Solves 2024](https://www.worldcubeassociation.org/competitions/SouthernSolvesInvercargill2024/results/by_person#2018MURR03) |
 | 0.03 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.97 | 2.00 | [Miami in an Ohio Oxford 2023](https://www.worldcubeassociation.org/competitions/MiamiinanOhioOxford2023/results/by_person#2017PALA08) |

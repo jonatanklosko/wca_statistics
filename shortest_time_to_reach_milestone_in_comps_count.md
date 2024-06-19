@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 June 2024*
+*Updated on 19 June 2024*
 
 
 ### 200 Competitions
@@ -9,10 +9,12 @@
 | ---: | :--- |
 | 2506 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2840 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
+| 3158 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 3289 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 3312 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3550 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 3783 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 3978 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 4040 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 4201 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 4306 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
@@ -25,8 +27,6 @@
 | 5195 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 5277 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 5477 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
-| 5482 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
-| 5539 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
 
 ### 150 Competitions
 

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 June 2024*
+*Updated on 19 June 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -76,7 +76,6 @@
 | 615 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
 | 616 | [János Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
 | 623 | [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) |
-| 630 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
 | 637 | [Owl Carpenter](https://www.worldcubeassociation.org/persons/2022CARP05) |
 | 644 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |
 | 650 | [Christopher Reid](https://www.worldcubeassociation.org/persons/2022REID01) |

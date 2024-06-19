@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 16 June 2024*
+*Updated on 19 June 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -52,6 +52,7 @@
 | 6 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) |
 | 6 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 6 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
+| 6 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
@@ -64,7 +65,6 @@
 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
-| 5 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 4 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) |
 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |

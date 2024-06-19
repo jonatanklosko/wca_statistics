@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 June 2024*
+*Updated on 19 June 2024*
 
 
 ### Rubik's Cube
@@ -115,13 +115,13 @@
 | 2.44 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
 | 2.52 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
 | 2.53 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/by_person#2022KAPU01) |
+| 2.57 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Vännäs & Friends 2024](https://www.worldcubeassociation.org/competitions/VannasFriends2024/results/by_person#2021ELIA01) |
 | 2.59 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
 | 2.67 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Alabama Championship 2024](https://www.worldcubeassociation.org/competitions/AlabamaChampionship2024/results/by_person#2015CHER07) |
 | 2.72 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/by_person#2022KAPU01) |
 | 2.77 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/by_person#2022KAPU01) |
 | 2.79 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/by_person#2021POLI02) |
 | 2.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
-| 2.81 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Muske-GO 2024](https://www.worldcubeassociation.org/competitions/MuskeGO2024/results/by_person#2018THOM29) |
 
 ### Skewb
 

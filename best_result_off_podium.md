@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 16 June 2024*
+*Updated on 19 June 2024*
 
 
 ### Rubik's Cube
@@ -28,11 +28,11 @@
 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 1.05 | **1.46** | [NoVa Cube Winter 2024](https://www.worldcubeassociation.org/competitions/NoVaCubeWinter2024/results/all#e222_f) | 4 |
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1.25 | **1.47** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 6 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 1.39 | **1.51** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 7 |
+| [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 0.95 | **1.55** | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024/results/all#e222_f) | 4 |
 | [Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06) | 1.22 | **1.57** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e222_f) | 4 |
 | [Newken Nguyen](https://www.worldcubeassociation.org/persons/2020NGUY04) | 1.26 | **1.58** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 8 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.27 | **1.61** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 9 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.27 | **1.62** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#e222_f) | 4 |
-| [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) | 1.31 | **1.62** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e222_f) | 4 |
 
 ### 4x4x4 Cube
 
@@ -179,10 +179,10 @@
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 3.47 | **4.56** | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/all#eclock_f) | 5 |
 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 4.13 | **4.62** | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/all#eclock_f) | 4 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.87 | **4.63** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#eclock_f) | 4 |
+| [Arthur Provot](https://www.worldcubeassociation.org/persons/2018PROV01) | 4.00 | **4.66** | [Rhein-Neckar PBJ 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarPBJ2024/results/all#eclock_f) | 4 |
 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | 4.06 | **4.67** | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/all#eclock_f) | 6 |
+| [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | 4.25 | **4.67** | [Rhein-Neckar PBJ 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarPBJ2024/results/all#eclock_f) | 5 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 3.48 | **4.69** | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/all#eclock_f) | 4 |
-| [Clement D. Tucker](https://www.worldcubeassociation.org/persons/2022TUCK09) | 3.89 | **4.69** | [South Deerfield Clock Fest 2024](https://www.worldcubeassociation.org/competitions/SouthDeerfieldClockFest2024/results/all#eclock_f) | 4 |
-| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 3.73 | **4.71** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#eclock_f) | 5 |
 
 ### Skewb
 

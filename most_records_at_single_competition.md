@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 19 June 2024*
+*Updated on 22 June 2024*
 
 
 ### World
@@ -43,7 +43,7 @@
 
 | Records | Person | Results |
 | ---: | :--- | :--- |
-| 19 | [Joshua Li](https://www.worldcubeassociation.org/persons/2007LIJO01) | [Guangdong Open 2008](https://www.worldcubeassociation.org/competitions/GuangdongOpen2008/results/by_person#2007LIJO01) |
+| 19 | [Joshua Shing Shun Li](https://www.worldcubeassociation.org/persons/2007LIJO01) | [Guangdong Open 2008](https://www.worldcubeassociation.org/competitions/GuangdongOpen2008/results/by_person#2007LIJO01) |
 | 16 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010/results/by_person#2009ZEMD01) |
 | 16 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2012](https://www.worldcubeassociation.org/competitions/AustralianNationals2012/results/by_person#2009ZEMD01) |
 | 15 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Pleasantville Fall 2007](https://www.worldcubeassociation.org/competitions/PleasantvilleFall2007/results/by_person#2007COMP01) |
@@ -57,7 +57,7 @@
 | 12 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Asian Championship 2010](https://www.worldcubeassociation.org/competitions/AsianChampionship2010/results/by_person#2009ZEMD01) |
 | 12 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Day 2010](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2010/results/by_person#2009ZEMD01) |
 | 12 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013/results/by_person#2009ZEMD01) |
-| 11 | [Joshua Li](https://www.worldcubeassociation.org/persons/2007LIJO01) | [Guangdong Open 2007](https://www.worldcubeassociation.org/competitions/GuangdongOpen2007/results/by_person#2007LIJO01) |
+| 11 | [Joshua Shing Shun Li](https://www.worldcubeassociation.org/persons/2007LIJO01) | [Guangdong Open 2007](https://www.worldcubeassociation.org/competitions/GuangdongOpen2007/results/by_person#2007LIJO01) |
 | 11 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Canadian Open 2009](https://www.worldcubeassociation.org/competitions/CanadianOpen2009/results/by_person#2007COMP01) |
 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Winter Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneWinterOpen2010/results/by_person#2009ZEMD01) |
 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011/results/by_person#2009ZEMD01) |
@@ -86,7 +86,7 @@
 | 20 | [Lukas Vaitkevičius](https://www.worldcubeassociation.org/persons/2011VAIT01) | [Hessen Open 2012](https://www.worldcubeassociation.org/competitions/HessenOpen2012/results/by_person#2011VAIT01) |
 | 20 | [Andrey Lopez Rodríguez](https://www.worldcubeassociation.org/persons/2017RODR26) | [Villa Nueva 2017](https://www.worldcubeassociation.org/competitions/VillaNuevaOpen2017/results/by_person#2017RODR26) |
 | 19 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Benelux Open 2008](https://www.worldcubeassociation.org/competitions/BeneluxOpen2008/results/by_person#2006BUUS01) |
-| 19 | [Joshua Li](https://www.worldcubeassociation.org/persons/2007LIJO01) | [Guangdong Open 2008](https://www.worldcubeassociation.org/competitions/GuangdongOpen2008/results/by_person#2007LIJO01) |
+| 19 | [Joshua Shing Shun Li](https://www.worldcubeassociation.org/persons/2007LIJO01) | [Guangdong Open 2008](https://www.worldcubeassociation.org/competitions/GuangdongOpen2008/results/by_person#2007LIJO01) |
 | 19 | [Anatoly Kim](https://www.worldcubeassociation.org/persons/2009KIMA01) | [MPEI Open 2010](https://www.worldcubeassociation.org/competitions/MPEIOpen2010/results/by_person#2009KIMA01) |
 | 19 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | [Russia Open 2011](https://www.worldcubeassociation.org/competitions/RussiaOpen2011/results/by_person#2011KUDA01) |
 | 19 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | [MPEI Open 2012](https://www.worldcubeassociation.org/competitions/MPEIOpen2012/results/by_person#2011KUDA01) |

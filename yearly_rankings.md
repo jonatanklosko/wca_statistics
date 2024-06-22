@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 June 2024*
+*Updated on 22 June 2024*
 
 
 ### Rubik's Cube - Single
@@ -253,11 +253,11 @@
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **6.38** | United States | [Honolulu Kupulau 2024](https://www.worldcubeassociation.org/competitions/HonoluluKupulau2024) | 11.64, 9.79, 12.71, 12.05, 6.38 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **6.48** | United States | [Chicago Area Twist Spring B 2024](https://www.worldcubeassociation.org/competitions/ChicagoAreaTwistSpringB2024) | 9.50, 6.48, 11.12, 10.08, 9.63 |
 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | **6.60** | Philippines | [Quezon City Open II 2024](https://www.worldcubeassociation.org/competitions/QuezonCityOpenII2024) | 8.94, 9.38, 7.71, 6.60, 7.63 |
+| [Mantas Urbanavičius](https://www.worldcubeassociation.org/persons/2017URBA01) | **6.73** | Lithuania | [Jāņi Kārķos 2024](https://www.worldcubeassociation.org/competitions/JaniKarkos2024) | 9.66, 6.73, 10.78, 10.30, 13.90 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **6.80** | United States | [USC Cubing 2024](https://www.worldcubeassociation.org/competitions/USCCubing2024) | 9.73, 6.80, 8.44, 8.67, 9.86 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **6.80** | United States | [Baztan Open 2024](https://www.worldcubeassociation.org/competitions/BaztanOpen2024) | 10.19, 10.64, 6.80, 8.46, 8.90 |
 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | **6.92** | Switzerland | [Swisscubing Cup III 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2024) | 8.24, 6.92, 10.12, 9.63, 9.83 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **6.94** | Russia | [Ponikva Open 2024](https://www.worldcubeassociation.org/competitions/PonikvaOpen2024) | 10.14, 13.79, 11.57, 6.94, 10.67 |
-| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **7.09** | Russia | [Kölner Kubing 2024](https://www.worldcubeassociation.org/competitions/KolnerKubing2024) | 8.01, 7.09, 15.35, 13.01, 9.66 |
 
 ### 3x3x3 One-Handed - Average
 

@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 19 June 2024*
+*Updated on 22 June 2024*
 
 
 ### Pairs
@@ -70,6 +70,7 @@
 | 81 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) & [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) |
 | 80 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) & [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 80 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) & [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
+| 80 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) |
 | 79 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) |
 | 78 | [Andre Febriato Jonathan](https://www.worldcubeassociation.org/persons/2011JONA01) & [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
 | 78 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) & [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
@@ -81,7 +82,6 @@
 | 76 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) & [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 76 | [Pavel Yushkevich](https://www.worldcubeassociation.org/persons/2013YUSH01) & [Vladislav Kaminskiy](https://www.worldcubeassociation.org/persons/2013KAMI03) |
 | 76 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
-| 76 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) |
 | 76 | [Alejandro Marze Rossel](https://www.worldcubeassociation.org/persons/2016ROSS04) & [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) |
 | 75 | [Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01) & [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) |
 | 75 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) & [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |

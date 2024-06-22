@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 19 June 2024*
+*Updated on 22 June 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -62,8 +62,8 @@
 | 65 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 64 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 64 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
+| 64 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
 | 63 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
-| 63 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
 | 62 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
 | 62 | [Danny Sungin Park (박성인)](https://www.worldcubeassociation.org/persons/2015PARK13) |
 | 62 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
@@ -80,9 +80,9 @@
 | 57 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 56 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
 | 56 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
+| 55 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
 | 55 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 55 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
-| 55 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
 | 54 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 54 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
@@ -94,10 +94,10 @@
 | 53 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
 | 53 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
 | 53 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
-| 52 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 52 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 52 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 52 | [Catherine Connolly](https://www.worldcubeassociation.org/persons/2017CONN04) |
+| 52 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 51 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
 | 51 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 51 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 June 2024*
+*Updated on 22 June 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -23,6 +23,7 @@
 | 4 | [Fewest Moves Bogotá 2024](https://www.worldcubeassociation.org/competitions/FewestMovesBogota2024) |
 | 4 | [Fewest Moves Kirkkonummi 2024](https://www.worldcubeassociation.org/competitions/FewestMovesKirkkonummi2024) |
 | 4 | [Grizz Leap 2024](https://www.worldcubeassociation.org/competitions/GrizzLeap2024) |
+| 4 | [Hilliard Hippocampus XV 2024](https://www.worldcubeassociation.org/competitions/HilliardHippocampusXV2024) |
 | 4 | [JAM FMC I 2023](https://www.worldcubeassociation.org/competitions/JAMFMCI2023) |
 | 4 | [Kansas Holiday Cube-Off PM 2023](https://www.worldcubeassociation.org/competitions/KansasHolidayCubeOffPM2023) |
 | 4 | [Mental Breakdown II Rzeszów 2024](https://www.worldcubeassociation.org/competitions/MentalBreakdownIIRzeszow2024) |

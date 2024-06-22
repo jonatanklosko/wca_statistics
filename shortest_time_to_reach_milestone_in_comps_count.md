@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 19 June 2024*
+*Updated on 22 June 2024*
 
 
 ### 200 Competitions
@@ -84,12 +84,14 @@
 | ---: | :--- |
 | 475 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 520 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
+| 524 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
 | 526 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 | 546 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 548 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 552 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 557 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
 | 568 | [August Barnard](https://www.worldcubeassociation.org/persons/2022BARN21) |
+| 601 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 | 610 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 628 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
 | 631 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
@@ -100,8 +102,6 @@
 | 757 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 763 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 771 | [Daniel Cho](https://www.worldcubeassociation.org/persons/2021CHOD01) |
-| 772 | [Imanuel Leonid Müller](https://www.worldcubeassociation.org/persons/2022MULL02) |
-| 785 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
 
 ### 25 Competitions
 
@@ -113,6 +113,7 @@
 | 274 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 | 289 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
 | 294 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
+| 299 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 337 | [Jack Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI08) |
@@ -126,7 +127,6 @@
 | 365 | [Tavia Jorjorian-Miller](https://www.worldcubeassociation.org/persons/2023JORJ01) |
 | 365 | [Shiloh D’Espyne](https://www.worldcubeassociation.org/persons/2023DESP01) |
 | 366 | [Prince Zian Erik C. Principe](https://www.worldcubeassociation.org/persons/2022PRIN08) |
-| 366 | [Prince Zoei Erin C. Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) |
 
 ### 10 Competitions
 

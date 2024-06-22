@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 19 June 2024*
+*Updated on 22 June 2024*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -363,15 +363,16 @@
 | 1 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | United States | [GA Cubers Study May 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyMay2023) |
 | 1 | [Jakub Jurika](https://www.worldcubeassociation.org/persons/2023JURI01) | Slovakia | [FMC Day in Trnava 2024](https://www.worldcubeassociation.org/competitions/FMCDayinTrnava2024) |
 | 1 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | United States | [Back to Cambridge A 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeA2021) |
+| 1 | [Jason Vindvamara](https://www.worldcubeassociation.org/persons/2015VIND01) | United States | [Hilliard Hippocampus XV 2024](https://www.worldcubeassociation.org/competitions/HilliardHippocampusXV2024) |
+| 1 | [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | Azerbaijan | [Warden of the West 2017](https://www.worldcubeassociation.org/competitions/WardenoftheWest2017) |
 | 1 | [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | Azerbaijan | [ACA League I 2019](https://www.worldcubeassociation.org/competitions/ACALeagueI2019) |
 | 1 | [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | Azerbaijan | [BEU 2018](https://www.worldcubeassociation.org/competitions/BEU2018) |
 | 1 | [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | Azerbaijan | [BHOS 2018](https://www.worldcubeassociation.org/competitions/BHOS2018) |
-| 1 | [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | Azerbaijan | [Warden of the West 2017](https://www.worldcubeassociation.org/competitions/WardenoftheWest2017) |
-| 1 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [Perth FMC Day 2023](https://www.worldcubeassociation.org/competitions/PerthFMCDay2023) |
-| 1 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [Singapore Eighty And Below 2023](https://www.worldcubeassociation.org/competitions/SEAB2023) |
 | 1 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [Australian Nationals FMC 2022](https://www.worldcubeassociation.org/competitions/AustralianNationalsFMC2022) |
 | 1 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [FMC East Melbourne 2023](https://www.worldcubeassociation.org/competitions/FMCEastMelbourne2023) |
 | 1 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [FMC West Melbourne 2023](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2023) |
+| 1 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [Perth FMC Day 2023](https://www.worldcubeassociation.org/competitions/PerthFMCDay2023) |
+| 1 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [Singapore Eighty And Below 2023](https://www.worldcubeassociation.org/competitions/SEAB2023) |
 | 1 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | United States | [Cubing Is A Sport Frisco AM 2021](https://www.worldcubeassociation.org/competitions/CubingIsASportFriscoAM2021) |
 | 1 | [Jeriel James Thomas](https://www.worldcubeassociation.org/persons/2013THOM04) | Canada | [3x3x3 Only Hamilton B 2022](https://www.worldcubeassociation.org/competitions/333OnlyHamiltonB2022) |
 | 1 | [Jiejie Du (杜杰杰)](https://www.worldcubeassociation.org/persons/2010DUJI01) | China | [Cross-strait FMC 2016](https://www.worldcubeassociation.org/competitions/CrossstraitFMC2016) |
@@ -387,6 +388,7 @@
 | 1 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | Poland | [Wrocław FMC Masters 2019](https://www.worldcubeassociation.org/competitions/WroclawFMCMasters2019) |
 | 1 | [Keita Hayakawa (早川慶太)](https://www.worldcubeassociation.org/persons/2022HAYA03) | Japan | [Ota Blind Summer 2022](https://www.worldcubeassociation.org/competitions/OtaBlindSummer2022) |
 | 1 | [Keita Hayakawa (早川慶太)](https://www.worldcubeassociation.org/persons/2022HAYA03) | Japan | [Challenge BLD 2023](https://www.worldcubeassociation.org/competitions/TokyoChallengeBLDI2023) |
+| 1 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | United States | [Southeast FMC Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2024) |
 | 1 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | United States | [Southeast FMC Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSASoutheastFMCChampio2023) |
 | 1 | [Kim Vianna](https://www.worldcubeassociation.org/persons/2016VIAN01) | Brazil | [FMC Brazil-Africa 2024](https://www.worldcubeassociation.org/competitions/FMCBrazilAfrica2024) |
 | 1 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | United States | [FMC North America West 2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019) |
@@ -445,10 +447,10 @@
 | 1 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | Ukraine | [Kyiv FMC March 2024](https://www.worldcubeassociation.org/competitions/KyivFMCMarch2024) |
 | 1 | [Morgan Yeh](https://www.worldcubeassociation.org/persons/2017YEHM01) | Canada | [Ajax 3x3x3 Morning 2023](https://www.worldcubeassociation.org/competitions/Ajax333Morning2023) |
 | 1 | [Morgan Yeh](https://www.worldcubeassociation.org/persons/2017YEHM01) | Canada | [Ajax 3x3x3 Newcomers A 2024](https://www.worldcubeassociation.org/competitions/Ajax3x3x3NewcomersA2024) |
-| 1 | [Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01) | Norway | [Oslo 3x3 2013](https://www.worldcubeassociation.org/competitions/Oslo2013) |
 | 1 | [Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01) | Norway | [Oslo Fall 2013](https://www.worldcubeassociation.org/competitions/OsloFall2013) |
-| 1 | [Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01) | China | [Xi'an Spring 2011](https://www.worldcubeassociation.org/competitions/XianSpring2011) |
+| 1 | [Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01) | Norway | [Oslo 3x3 2013](https://www.worldcubeassociation.org/competitions/Oslo2013) |
 | 1 | [Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01) | China | [China FM Xi'an 2011](https://www.worldcubeassociation.org/competitions/ChinaFMXian2011) |
+| 1 | [Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01) | China | [Xi'an Spring 2011](https://www.worldcubeassociation.org/competitions/XianSpring2011) |
 | 1 | [Nathan Azaria](https://www.worldcubeassociation.org/persons/2010AZAR01) | Indonesia | [Java FMC Cube Day 2010](https://www.worldcubeassociation.org/competitions/JavaFMCCubeDay2010) |
 | 1 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | Thailand | [FMC Thailand 2022](https://www.worldcubeassociation.org/competitions/FMCThailand2022) |
 | 1 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | Thailand | [Ratchapruek Cubing Saturday 2023](https://www.worldcubeassociation.org/competitions/RatchapruekCubingSaturday2023) |
@@ -464,8 +466,8 @@
 | 1 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | United States | [Michigan Mini 16 2024](https://www.worldcubeassociation.org/competitions/MichiganMini162024) |
 | 1 | [Parist Pariyakanok (พริษฐ์ ปริยกนก)](https://www.worldcubeassociation.org/persons/2018PARI07) | Thailand | [Ratchapruek Cubing Sunday 2023](https://www.worldcubeassociation.org/competitions/RatchapruekCubingSunday2023) |
 | 1 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | United States | [JAM FMC V 2023](https://www.worldcubeassociation.org/competitions/JAMFMCV2023) |
-| 1 | [Phillip Espinoza](https://www.worldcubeassociation.org/persons/2007ESPI01) | United States | [San Diego Science Festival 2009](https://www.worldcubeassociation.org/competitions/SanDiegoScience2009) |
 | 1 | [Phillip Espinoza](https://www.worldcubeassociation.org/persons/2007ESPI01) | United States | [Discovery Winter 2009](https://www.worldcubeassociation.org/competitions/DiscoveryWinter2009) |
+| 1 | [Phillip Espinoza](https://www.worldcubeassociation.org/persons/2007ESPI01) | United States | [San Diego Science Festival 2009](https://www.worldcubeassociation.org/competitions/SanDiegoScience2009) |
 | 1 | [Piero Alessandro Laguna Obregon](https://www.worldcubeassociation.org/persons/2016OBRE01) | Peru | [Altiplanic FMC 2024](https://www.worldcubeassociation.org/competitions/AltiplanicFMC2024) |
 | 1 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | Chinese Taipei | [Taipei FMC all Day 2023](https://www.worldcubeassociation.org/competitions/TaipeiFMCallDay2023) |
 | 1 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) | Thailand | [NSM Thailand 2009](https://www.worldcubeassociation.org/competitions/NSMThailand2009) |

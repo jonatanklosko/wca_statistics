@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 19 June 2024*
+*Updated on 22 June 2024*
 
 
 ### World
@@ -38,7 +38,7 @@
 | 15 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) | 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, Clock, Megaminx, Pyraminx, Skewb, Square-1, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 With Feet |
 | 14 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Square-1, 4x4x4 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
 | 11 | [Gabriel Eduardo Núñez Serna](https://www.worldcubeassociation.org/persons/2008NUNE01) | 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Fewest Moves, Clock, Megaminx, Pyraminx, Square-1, Magic |
-| 10 | [Joshua Li](https://www.worldcubeassociation.org/persons/2007LIJO01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Megaminx, Square-1, Magic, Master Magic |
+| 10 | [Joshua Shing Shun Li](https://www.worldcubeassociation.org/persons/2007LIJO01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Megaminx, Square-1, Magic, Master Magic |
 | 9 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 One-Handed, Megaminx, 5x5x5 Blindfolded |
 | 9 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 One-Handed, Pyraminx, Skewb, Square-1 |
 | 9 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Clock, Megaminx, Pyraminx, Square-1 |

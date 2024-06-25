@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 22 June 2024*
+*Updated on 25 June 2024*
 
 
 ### Rubik's Cube
@@ -174,15 +174,15 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Eddie Artze](https://www.worldcubeassociation.org/persons/2020ARTZ01) | 3.81 | **4.16** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 4 |
+| [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 3.73 | **4.23** | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024/results/all#eclock_f) | 4 |
 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.08 | **4.40** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 5 |
 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 3.77 | **4.45** | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/all#eclock_f) | 4 |
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 3.47 | **4.56** | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/all#eclock_f) | 5 |
 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 4.13 | **4.62** | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/all#eclock_f) | 4 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.87 | **4.63** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#eclock_f) | 4 |
 | [Arthur Provot](https://www.worldcubeassociation.org/persons/2018PROV01) | 4.00 | **4.66** | [Rhein-Neckar PBJ 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarPBJ2024/results/all#eclock_f) | 4 |
+| [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 3.99 | **4.67** | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024/results/all#eclock_f) | 5 |
 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | 4.06 | **4.67** | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/all#eclock_f) | 6 |
-| [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | 4.25 | **4.67** | [Rhein-Neckar PBJ 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarPBJ2024/results/all#eclock_f) | 5 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 3.48 | **4.69** | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/all#eclock_f) | 4 |
 
 ### Skewb
 

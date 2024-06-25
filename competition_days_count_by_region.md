@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 22 June 2024*
+*Updated on 25 June 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 12487 |
+| 1.47 | World | 12508 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4065 |
+| 1.73 | Europe | 4075 |
 | 1.50 | South America | 1512 |
 | 1.47 | Oceania | 558 |
-| 1.41 | Asia | 2713 |
+| 1.41 | Asia | 2718 |
 | 1.29 | Africa | 142 |
-| 1.21 | North America | 3497 |
+| 1.20 | North America | 3503 |
 
 ### Countries
 
@@ -34,15 +34,15 @@
 | 1.92 | Russia | 220 |
 | 1.92 | United Kingdom | 227 |
 | 1.92 | Lithuania | 25 |
-| 1.91 | Germany | 222 |
+| 1.91 | Germany | 223 |
 | 1.90 | Serbia | 21 |
-| 1.90 | Norway | 119 |
+| 1.89 | Norway | 120 |
 | 1.87 | Slovakia | 39 |
 | 1.87 | France | 287 |
 | 1.85 | Finland | 135 |
 | 1.85 | Spain | 346 |
+| 1.85 | Switzerland | 111 |
 | 1.85 | Bosnia and Herzegovina | 13 |
-| 1.85 | Switzerland | 110 |
 | 1.84 | Croatia | 25 |
 | 1.83 | Thailand | 60 |
 | 1.82 | Sri Lanka | 11 |
@@ -65,13 +65,13 @@
 | 1.62 | New Zealand | 116 |
 | 1.62 | Denmark | 170 |
 | 1.59 | Greece | 27 |
-| 1.59 | Italy | 212 |
-| 1.58 | India | 558 |
+| 1.59 | Italy | 213 |
+| 1.58 | India | 559 |
 | 1.58 | Netherlands | 116 |
 | 1.58 | Indonesia | 224 |
 | 1.57 | San Marino | 7 |
-| 1.57 | Sweden | 276 |
 | 1.56 | Dominican Republic | 27 |
+| 1.55 | Sweden | 282 |
 | 1.54 | Malaysia | 93 |
 | 1.52 | Bolivia | 116 |
 | 1.50 | Bangladesh | 14 |
@@ -91,7 +91,7 @@
 | 1.39 | Romania | 117 |
 | 1.38 | Jordan | 13 |
 | 1.38 | Estonia | 60 |
-| 1.37 | Vietnam | 63 |
+| 1.38 | Vietnam | 64 |
 | 1.36 | Chinese Taipei | 137 |
 | 1.35 | Ecuador | 48 |
 | 1.34 | Paraguay | 29 |
@@ -99,9 +99,9 @@
 | 1.33 | Panama | 18 |
 | 1.33 | Tajikistan | 3 |
 | 1.32 | Hong Kong, China | 19 |
-| 1.31 | Philippines | 283 |
+| 1.31 | Philippines | 285 |
 | 1.31 | Republic of Korea | 97 |
-| 1.30 | Singapore | 60 |
+| 1.30 | Singapore | 61 |
 | 1.28 | United Arab Emirates | 18 |
 | 1.28 | Venezuela | 72 |
 | 1.27 | Portugal | 22 |
@@ -117,7 +117,7 @@
 | 1.17 | Morocco | 6 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | Canada | 355 |
-| 1.16 | United States | 2814 |
+| 1.16 | United States | 2820 |
 | 1.14 | Azerbaijan | 44 |
 | 1.12 | Honduras | 17 |
 | 1.10 | Armenia | 10 |

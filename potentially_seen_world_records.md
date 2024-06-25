@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 22 June 2024*
+*Updated on 25 June 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -57,9 +57,9 @@
 | 85 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 85 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) |
 | 84 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
+| 84 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 84 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
 | 84 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 82 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 81 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 81 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
@@ -75,10 +75,10 @@
 | 75 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
-| 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 73 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
-| 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
+| 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
+| 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 73 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 72 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 71 | [Peter Still](https://www.worldcubeassociation.org/persons/2005STIL01) |

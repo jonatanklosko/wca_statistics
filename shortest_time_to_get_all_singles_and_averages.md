@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 June 2024*
+*Updated on 25 June 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -15,6 +15,7 @@
 | 665 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
 | 707 | [János Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
 | 861 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) |
+| 868 | [Angelo Melera](https://www.worldcubeassociation.org/persons/2022MELE01) |
 | 910 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 917 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
 | 924 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
@@ -30,6 +31,7 @@
 | 1512 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) |
 | 1526 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 1533 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
+| 1575 | [Katharina Schlomberg](https://www.worldcubeassociation.org/persons/2020SCHL01) |
 | 1589 | [Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48) |
 | 1589 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) |
 | 1610 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) |
@@ -57,6 +59,7 @@
 | 2359 | [Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04) |
 | 2426 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 2462 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
+| 2490 | [Raymos Castillo](https://www.worldcubeassociation.org/persons/2017CAST41) |
 | 2512 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 2575 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2632 | [Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02) |

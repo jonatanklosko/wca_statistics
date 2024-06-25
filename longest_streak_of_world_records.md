@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 22 June 2024*
+*Updated on 25 June 2024*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -101,7 +101,7 @@
 | 2 | Rubik's Cube | Average | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) | [KCRC 2007](https://www.worldcubeassociation.org/competitions/KCRC2007) | 0.81 |
 | 2 | Rubik's Cube | Average | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | [Osaka Open 2008](https://www.worldcubeassociation.org/competitions/OsakaOpen2008) | [Benelux Open 2009](https://www.worldcubeassociation.org/competitions/BeneluxOpen2009) | 0.90 |
 | 2 | Rubik's Cube | Average | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | [Warsaw Open 2009](https://www.worldcubeassociation.org/competitions/WarsawOpen2009) | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | 0.82 |
-| 2 | Rubik's Cube | Average | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) |  | 1.29 |
+| 2 | Rubik's Cube | Average | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) |  | 1.30 |
 | 2 | 2x2x2 Cube | Single | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [Caltech Spring 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005) | [Swedish CubeDay 2005](https://www.worldcubeassociation.org/competitions/SwedishCubeday2005) | 0.65 |
 | 2 | 2x2x2 Cube | Single | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | [German Open 2007](https://www.worldcubeassociation.org/competitions/GermanOpen2007) | [UK Open 2007](https://www.worldcubeassociation.org/competitions/UKOpen2007) | 0.54 |
 | 2 | 2x2x2 Cube | Average | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | [Swedish CubeDay 2004](https://www.worldcubeassociation.org/competitions/Sweden2004) | [Caltech Spring 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005) | 0.38 |
@@ -184,7 +184,7 @@
 | 2 | Rubik's Clock | Single | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) | [Shanghai Winter 2011](https://www.worldcubeassociation.org/competitions/ShanghaiWinter2011) | [Generalen 2015](https://www.worldcubeassociation.org/competitions/Generalforsamlingen2015) | 3.16 |
 | 2 | Rubik's Clock | Single | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023) | 1.90 |
 | 2 | Rubik's Clock | Single | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024) | [Chicago Area Twist Spring A 2024](https://www.worldcubeassociation.org/competitions/ChicagoAreaTwistSpringA2024) | 0.08 |
-| 2 | Rubik's Clock | Single | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [West Coast 3: Trollhättan 2024](https://www.worldcubeassociation.org/competitions/WestCoast3Trollhattan2024) |  | 0.04 |
+| 2 | Rubik's Clock | Single | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [West Coast 3: Trollhättan 2024](https://www.worldcubeassociation.org/competitions/WestCoast3Trollhattan2024) |  | 0.05 |
 | 2 | Rubik's Clock | Average | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007) | [Japan Open 2010](https://www.worldcubeassociation.org/competitions/JapanOpen2010) | 2.70 |
 | 2 | Rubik's Clock | Average | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) | [Japan Open 2010](https://www.worldcubeassociation.org/competitions/JapanOpen2010) | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) | 1.34 |
 | 2 | Rubik's Clock | Average | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) | [Asian Championship 2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014) | [Xi'an Cherry Blossom 2015](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2015) | 0.42 |

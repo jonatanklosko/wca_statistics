@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 June 2024*
+*Updated on 28 June 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -27,8 +27,8 @@
 | 113 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 113 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 112 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 111 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
-| 110 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 110 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 106 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
@@ -47,12 +47,12 @@
 | 100 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 98 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 96 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
+| 96 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 95 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 95 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 95 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 95 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 94 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
-| 94 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 93 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 93 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 92 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |

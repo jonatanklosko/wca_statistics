@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 June 2024*
+*Updated on 28 June 2024*
 
 
 ### Rubik's Cube - Single
@@ -240,9 +240,9 @@
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **21.00** | Republic of Korea | [WCC FMC Leap Day 2024](https://www.worldcubeassociation.org/competitions/WCCFMCLeapDay2024) | 24, 17, 22 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **21.33** | United States | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) | 22, 19, 23 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **21.33** | Poland | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024) | 19, 22, 23 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **21.67** | United States | [FMCow Ohio State Summer 2024](https://www.worldcubeassociation.org/competitions/FMCowOhioStateSummer2024) | 20, 24, 21 |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | **21.67** | Poland | [Gdańsk Goes Quiet 2024](https://www.worldcubeassociation.org/competitions/GdanskGoesQuiet2024) | 22, 23, 20 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **21.67** | Poland | [BrizZon Side Open II 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2024) | 23, 21, 21 |
-| [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **22.00** | Germany | [Kölner Kubing 2024](https://www.worldcubeassociation.org/competitions/KolnerKubing2024) | 26, 20, 20 |
 
 ### 3x3x3 One-Handed - Single
 

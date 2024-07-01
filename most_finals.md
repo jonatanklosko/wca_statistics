@@ -1,17 +1,17 @@
 ## Most finals
 
-*Updated on 28 June 2024*
+*Updated on  1 July 2024*
 
 | Finals | Person |
 | ---: | :--- |
 | 2353 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2286 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 2125 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 2114 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 2108 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1654 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1610 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1602 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 1557 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 1560 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1490 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 1488 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
@@ -44,8 +44,8 @@
 | 1054 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 1050 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
+| 1001 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 999 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
-| 994 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 994 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 991 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
@@ -65,20 +65,20 @@
 | 898 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 890 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 885 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 884 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 882 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 879 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 878 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 877 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 875 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 872 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
-| 867 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 864 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
-| 858 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
+| 861 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 857 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 845 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 838 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
-| 837 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 837 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
+| 837 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 835 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 833 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 831 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |

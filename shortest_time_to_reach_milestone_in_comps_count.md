@@ -1,12 +1,13 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 July 2024*
+*Updated on  4 July 2024*
 
 
 ### 200 Competitions
 
 | Days | Person |
 | ---: | :--- |
+| 1408 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 2506 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2840 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 3158 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
@@ -26,7 +27,6 @@
 | 4852 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 4957 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 5034 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) |
-| 5195 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 
 ### 150 Competitions
 
@@ -71,12 +71,12 @@
 | 2080 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 2085 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
 | 2115 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
+| 2143 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 2186 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 2192 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 2218 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) |
 | 2227 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 2241 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 2248 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) |
 
 ### 50 Competitions
 
@@ -111,6 +111,7 @@
 | 271 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 274 | [August Barnard](https://www.worldcubeassociation.org/persons/2022BARN21) |
 | 274 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
+| 287 | [Thomas Cabezas Casallas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 289 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
 | 294 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 299 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
@@ -126,7 +127,6 @@
 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 365 | [Evan Wilson](https://www.worldcubeassociation.org/persons/2023WILS11) |
 | 365 | [Tavia Jorjorian-Miller](https://www.worldcubeassociation.org/persons/2023JORJ01) |
-| 365 | [Shiloh D’Espyne](https://www.worldcubeassociation.org/persons/2023DESP01) |
 
 ### 10 Competitions
 

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 July 2024*
+*Updated on  4 July 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -41,6 +41,7 @@
 | 434 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) |
 | 434 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
 | 441 | [Oleksandr Ivanchak (Олександр Іванчак)](https://www.worldcubeassociation.org/persons/2015IVAN03) |
+| 442 | [Rodrigo Ángeles Montes de Oca](https://www.worldcubeassociation.org/persons/2023OCAR01) |
 | 447 | [Xiaoliang Zhu (朱校良)](https://www.worldcubeassociation.org/persons/2017ZHUX01) |
 | 448 | [Jáchym Střelec](https://www.worldcubeassociation.org/persons/2022STRE03) |
 | 475 | [Maxime Madrzyk](https://www.worldcubeassociation.org/persons/2018MADR02) |

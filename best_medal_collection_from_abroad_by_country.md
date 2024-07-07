@@ -1,39 +1,39 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 July 2024*
+*Updated on  7 July 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1429** | 1193 | 1030 | 3652 |
-| United States | **1139** | 927 | 820 | 2886 |
-| Germany | **1117** | 1056 | 1065 | 3238 |
+| United States | **1139** | 928 | 821 | 2888 |
+| Germany | **1123** | 1059 | 1069 | 3251 |
 | France | **968** | 836 | 707 | 2511 |
-| Netherlands | **957** | 762 | 640 | 2359 |
+| Netherlands | **957** | 766 | 641 | 2364 |
 | Russia | **913** | 543 | 411 | 1867 |
-| China | **719** | 689 | 613 | 2021 |
+| China | **721** | 689 | 613 | 2023 |
 | Poland | **616** | 400 | 313 | 1329 |
-| Malaysia | **432** | 429 | 397 | 1258 |
+| Malaysia | **438** | 441 | 410 | 1289 |
 | United Kingdom | **413** | 467 | 440 | 1320 |
-| Canada | **390** | 406 | 439 | 1235 |
+| Canada | **392** | 408 | 440 | 1240 |
 | Denmark | **355** | 299 | 239 | 893 |
 | Republic of Korea | **344** | 299 | 260 | 903 |
+| Hong Kong, China | **329** | 337 | 271 | 937 |
 | Switzerland | **328** | 421 | 327 | 1076 |
-| Hong Kong, China | **326** | 334 | 268 | 928 |
 | Sweden | **310** | 355 | 365 | 1030 |
 | India | **310** | 283 | 273 | 866 |
 | Italy | **300** | 290 | 260 | 850 |
 | Australia | **291** | 137 | 94 | 522 |
 | Finland | **287** | 227 | 183 | 697 |
-| Ukraine | **255** | 270 | 278 | 803 |
+| Ukraine | **256** | 270 | 280 | 806 |
 | Argentina | **238** | 173 | 145 | 556 |
 | Romania | **219** | 162 | 135 | 516 |
 | Chinese Taipei | **214** | 186 | 187 | 587 |
-| Japan | **205** | 143 | 139 | 487 |
-| Singapore | **202** | 202 | 217 | 621 |
+| Japan | **206** | 144 | 139 | 489 |
+| Singapore | **204** | 202 | 219 | 625 |
 | Spain | **185** | 180 | 204 | 569 |
 | Indonesia | **184** | 171 | 137 | 492 |
-| Austria | **162** | 226 | 231 | 619 |
+| Austria | **162** | 226 | 232 | 620 |
 | Ireland | **162** | 80 | 70 | 312 |
 | Latvia | **153** | 216 | 222 | 591 |
 | Slovenia | **147** | 188 | 202 | 537 |

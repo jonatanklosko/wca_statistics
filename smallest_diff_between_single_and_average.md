@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 July 2024*
+*Updated on  7 July 2024*
 
 
 ### Rubik's Cube
@@ -23,6 +23,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.01 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | 1.33 | 1.34 | [Parla Open 2024](https://www.worldcubeassociation.org/competitions/ParlaOpen2024/results/by_person#2013GERH01) |
 | 0.01 | [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) | 2.74 | 2.75 | [Cubing Peoria 2020](https://www.worldcubeassociation.org/competitions/CubingPeoria2020/results/by_person#2013BARK01) |
 | 0.01 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 11.56 | 11.57 | [Berkeley Summer 2015](https://www.worldcubeassociation.org/competitions/BerkeleySummer2015/results/by_person#2011ALVI01) |
 | 0.02 | [Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04) | 1.73 | 1.75 | [UIUC Fall 2023](https://www.worldcubeassociation.org/competitions/UIUCFall2023/results/by_person#2016SORI04) |
@@ -32,7 +33,6 @@
 | 0.02 | [John Lexel Alejandrino](https://www.worldcubeassociation.org/persons/2014ALEJ01) | 3.59 | 3.61 | [Philippine Championship 2017](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2017/results/by_person#2014ALEJ01) |
 | 0.02 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | 3.59 | 3.61 | [Azerbaijan Nationals 2023](https://www.worldcubeassociation.org/competitions/AzerbaijanNationals2023/results/by_person#2017ZHAD01) |
 | 0.02 | [Samuel Edwards](https://www.worldcubeassociation.org/persons/2022EDWA05) | 3.64 | 3.66 | [New to Sherwood Park 2024](https://www.worldcubeassociation.org/competitions/NewtoSherwoodPark2024/results/by_person#2022EDWA05) |
-| 0.02 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | 5.02 | 5.04 | [Williams Winter 2014](https://www.worldcubeassociation.org/competitions/WilliamsWinter2014/results/by_person#2008CLEM01) |
 
 ### 4x4x4 Cube
 

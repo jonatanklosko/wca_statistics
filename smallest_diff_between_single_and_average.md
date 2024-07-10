@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 July 2024*
+*Updated on 10 July 2024*
 
 
 ### Rubik's Cube
@@ -173,6 +173,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.03 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 2.17 | 2.20 | [Żmigród Open 2024](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2024/results/by_person#2022SAMS03) |
 | 0.03 | [Maxence Baudry](https://www.worldcubeassociation.org/persons/2014BAUD02) | 3.16 | 3.19 | [Rhein-Neckar Autumn 2023](https://www.worldcubeassociation.org/competitions/RheinNeckarAutumn2023/results/by_person#2014BAUD02) |
 | 0.04 | [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.90 | 2.94 | [You May Open 2018](https://www.worldcubeassociation.org/competitions/YouMayOpen2018/results/by_person#2016CAIY03) |
 | 0.04 | [Alessandro Calzoni](https://www.worldcubeassociation.org/persons/2021CALZ01) | 2.90 | 2.94 | [Ticino Open 2023](https://www.worldcubeassociation.org/competitions/TicinoOpen2023/results/by_person#2021CALZ01) |
@@ -182,7 +183,6 @@
 | 0.04 | [Jiachen Xu (徐嘉辰)](https://www.worldcubeassociation.org/persons/2016XUJI02) | 3.96 | 4.00 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2016XUJI02) |
 | 0.04 | [Dominik Fürer](https://www.worldcubeassociation.org/persons/2017FURE01) | 4.22 | 4.26 | [Wiler Würfelfest 2019](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2019/results/by_person#2017FURE01) |
 | 0.04 | [Julián García Sánchez](https://www.worldcubeassociation.org/persons/2014SANC28) | 4.48 | 4.52 | [Tlaxcala 2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018/results/by_person#2014SANC28) |
-| 0.04 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 5.05 | 5.09 | [VES Spring 2019](https://www.worldcubeassociation.org/competitions/VESSpring2019/results/by_person#2018KHAN26) |
 
 ### Square-1
 

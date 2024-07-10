@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 July 2024*
+*Updated on 10 July 2024*
 
 
 ### Rubik's Cube
@@ -119,9 +119,9 @@
 | 2.59 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
 | 2.67 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Alabama Championship 2024](https://www.worldcubeassociation.org/competitions/AlabamaChampionship2024/results/by_person#2015CHER07) |
 | 2.72 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/by_person#2022KAPU01) |
+| 2.76 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [24 Hours in Åker 2024](https://www.worldcubeassociation.org/competitions/24HoursinAker2024/results/by_person#2021ELIA01) |
 | 2.77 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/by_person#2022KAPU01) |
 | 2.79 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/by_person#2021POLI02) |
-| 2.79 | [Kyle M. Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | [Queensland Open 2024](https://www.worldcubeassociation.org/competitions/QueenslandOpen2024/results/by_person#2022JONE11) |
 
 ### Skewb
 

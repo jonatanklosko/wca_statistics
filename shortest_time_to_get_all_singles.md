@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 July 2024*
+*Updated on 10 July 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -133,6 +133,7 @@
 | 819 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 819 | [Luca Rizzi](https://www.worldcubeassociation.org/persons/2015RIZZ02) |
 | 819 | [Wayne Pi](https://www.worldcubeassociation.org/persons/2017PIWA01) |
+| 825 | [Tyler Rose](https://www.worldcubeassociation.org/persons/2022ROSE07) |
 | 826 | [Emanuel Rheinert](https://www.worldcubeassociation.org/persons/2011RHEI01) |
 | 826 | [Ivan Osovik](https://www.worldcubeassociation.org/persons/2017OSOV01) |
 | 833 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
@@ -289,8 +290,10 @@
 | 1561 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) |
 | 1568 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 1568 | [Chenhao Sun (孙晨皓)](https://www.worldcubeassociation.org/persons/2018SUNC02) |
+| 1574 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) |
 | 1576 | [Sebastián Morón Mariscal](https://www.worldcubeassociation.org/persons/2019MARI16) |
 | 1581 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) |
+| 1581 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) |
 | 1596 | [Brandon Poulton](https://www.worldcubeassociation.org/persons/2019POUL02) |
 | 1610 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) |
 | 1610 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) |
@@ -478,6 +481,7 @@
 | 2891 | [Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01) |
 | 2891 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 2897 | [Victor Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
+| 2897 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 2913 | [Liam Highducheck](https://www.worldcubeassociation.org/persons/2015HIGH01) |
 | 2925 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2962 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |

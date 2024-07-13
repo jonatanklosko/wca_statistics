@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 July 2024*
+*Updated on 13 July 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1005,6 +1005,7 @@
 | 10 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) | [Šiauliai Autumn Open 2017](https://www.worldcubeassociation.org/competitions/SiauliaiAutumnOpen2017/results/podiums) |
 | 10 | [Tomas Jankauskas](https://www.worldcubeassociation.org/persons/2013JANK02) | [Šiauliai-Tilžė Open 2017](https://www.worldcubeassociation.org/competitions/SiauliaiTilzeOpen2017/results/podiums) |
 | 13 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Sicily Open 2018](https://www.worldcubeassociation.org/competitions/SicilyOpen2018/results/podiums) |
+| 10 | [Dario Angelo Narbone](https://www.worldcubeassociation.org/persons/2021NARB01) | [Sicily Summer: Arancina 2024](https://www.worldcubeassociation.org/competitions/SicilySummerArancinaOpen2024/results/podiums) |
 | 14 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Sin Fronteras Ecuador 2019](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2019/results/podiums) |
 | 10 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [Sin Fronteras Ecuador 2023](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2023/results/podiums) |
 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Sin Fronteras Ecuador 2023](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2023/results/podiums) |

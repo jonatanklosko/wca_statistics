@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 10 July 2024*
+*Updated on 13 July 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -19,7 +19,7 @@
 | 1377 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1327 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1315 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 1281 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 1286 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1246 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1245 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 1241 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
@@ -60,7 +60,7 @@
 | 930 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 921 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 909 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
+| 910 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 909 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 901 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
@@ -93,10 +93,10 @@
 | 783 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 783 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 782 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
+| 779 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 779 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 778 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 775 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 774 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 772 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 767 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 767 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |

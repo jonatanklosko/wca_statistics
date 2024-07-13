@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 July 2024*
+*Updated on 13 July 2024*
 
 
 ### Rubik's Cube
@@ -9,6 +9,7 @@
 | ---: | :--- | :--- |
 | 3.99 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Mofunland Cruise Open 2023](https://www.worldcubeassociation.org/competitions/MofunlandCruiseOpen2023/results/by_person#2019WANY36) |
 | 4.02 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [IUKL SOR 2023](https://www.worldcubeassociation.org/competitions/IUKLSOR2023/results/by_person#2019WANY36) |
+| 4.02 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/by_person#2019WANY36) |
 | 4.17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Stevenage April 2024](https://www.worldcubeassociation.org/competitions/StevenageApril2024/results/by_person#2016KOLA02) |
 | 4.21 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cubing at The Cube 2024](https://www.worldcubeassociation.org/competitions/CubingatTheCube2024/results/by_person#2016KOLA02) |
 | 4.23 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Kunshan Open 2024](https://www.worldcubeassociation.org/competitions/KunshanOpen2024/results/by_person#2019WANY36) |
@@ -16,7 +17,6 @@
 | 4.28 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024/results/by_person#2019WANY36) |
 | 4.30 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Beaconhouse Malaysia Cube 2023](https://www.worldcubeassociation.org/competitions/BeaconhouseMalaysiaCubeOpen2023/results/by_person#2019WANY36) |
 | 4.34 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Thailand Championship 2023](https://www.worldcubeassociation.org/competitions/ThailandChampionship2023/results/by_person#2019WANY36) |
-| 4.35 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019WANY36) |
 
 ### 2x2x2 Cube
 

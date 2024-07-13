@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 July 2024*
+*Updated on 13 July 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -45,7 +45,7 @@
 | 102 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 102 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 101 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 98 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 99 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 98 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 98 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 96 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |

@@ -38,10 +38,10 @@
 | 85 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 85 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 84 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 83 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 83 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 83 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 83 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
-| 82 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 80 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 78 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 78 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |

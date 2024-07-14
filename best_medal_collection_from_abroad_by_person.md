@@ -31,7 +31,7 @@
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | **94** | 34 | 27 | 155 |
 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | **92** | 99 | 67 | 258 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **88** | 31 | 27 | 146 |
-| [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **86** | 65 | 90 | 241 |
+| [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **87** | 65 | 90 | 242 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **82** | 44 | 30 | 156 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **81** | 20 | 10 | 111 |

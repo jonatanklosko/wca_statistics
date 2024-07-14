@@ -185,7 +185,7 @@
 | :--- | ---: |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 53 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 27 |
-| [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 22 |
+| [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 23 |
 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | 19 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 18 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 17 |

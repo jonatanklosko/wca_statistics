@@ -41,13 +41,13 @@
 | 28.05 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) |
 | 29.67 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 29.79 | [Siddhesh Pore](https://www.worldcubeassociation.org/persons/2022PORE01) |
+| 30.60 | [Ian Guevarra Santos](https://www.worldcubeassociation.org/persons/2024SANT11) |
 | 31.15 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 31.17 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 31.25 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 31.47 | [Aditya Bareja](https://www.worldcubeassociation.org/persons/2022BARE01) |
 | 31.91 | [Li-Chen Lin (林立宸)](https://www.worldcubeassociation.org/persons/2021LINL02) |
 | 32.29 | [Youyu Peng (彭宥裕)](https://www.worldcubeassociation.org/persons/2023PENG14) |
-| 32.54 | [Chenyuheng Zhang (张陈禹衡)](https://www.worldcubeassociation.org/persons/2024ZHAN08) |
 
 ### 5x5x5 Cube
 

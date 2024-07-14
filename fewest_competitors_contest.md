@@ -93,6 +93,7 @@
 | 8 | [Arena Bernô 4 City FM 2023](https://www.worldcubeassociation.org/competitions/ArenaBerno4CityFM2023) |
 | 8 | [Beijing Long Events Open 2015](https://www.worldcubeassociation.org/competitions/BeijingLongEvents2015) |
 | 8 | [Big Cubata 2023](https://www.worldcubeassociation.org/competitions/BigCubata2023) |
+| 8 | [Cordillera Cubea 2024](https://www.worldcubeassociation.org/competitions/CordilleraCubea2024) |
 | 8 | [DFW Mini Mental Breakdown 2024](https://www.worldcubeassociation.org/competitions/DFWMiniMentalBreakdown2024) |
 | 8 | [Eden Village Winter 2017](https://www.worldcubeassociation.org/competitions/EdenVillageWinter2017) |
 | 8 | [Færrest Trekk i Barnehagen 2023](https://www.worldcubeassociation.org/competitions/FaerrestTrekkiBarnehagen2023) |
@@ -100,6 +101,7 @@
 | 8 | [FMC Ukraine Friendship 2022](https://www.worldcubeassociation.org/competitions/FMCUkraineFriendship2022) |
 | 8 | [Gem City Airplane Mode V 2024](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeV2024) |
 | 8 | [Georgia Summer Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaSummerOpen2023) |
+| 8 | [Hari-Hari Horas 11 2024](https://www.worldcubeassociation.org/competitions/HariHariHoras112024) |
 | 8 | [Hilliard Hippocampus 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampus2023) |
 | 8 | [Hilliard Hippocampus IV 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusIV2023) |
 | 8 | [Hilliard Hippocampus VII 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusVII2023) |
@@ -147,6 +149,7 @@
 | 9 | [Gem City Airplane Mode 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneMode2023) |
 | 9 | [Gem City Airplane Mode III 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeIII2023) |
 | 9 | [Gem City Airplane Mode IV 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeIV2023) |
+| 9 | [Gem City VIII OH 2024](https://www.worldcubeassociation.org/competitions/GemCityVIIIOH2024) |
 | 9 | [Grizz Cubing League II 2023](https://www.worldcubeassociation.org/competitions/GrizzCubingLeagueII2023) |
 | 9 | [Hari-Hari Horas 10 2024](https://www.worldcubeassociation.org/competitions/HariHariHoras102024) |
 | 9 | [Hari-Hari Horas 9 2024](https://www.worldcubeassociation.org/competitions/HariHariHoras92024) |
@@ -300,6 +303,7 @@
 | 11 | [TGPBQ Burley 2022](https://www.worldcubeassociation.org/competitions/ThanksgivingPBQBurley2022) |
 | 11 | [TGPBQ Lehi 2022](https://www.worldcubeassociation.org/competitions/ThanksgivingPBQLehi2022) |
 | 11 | [TGPBQ LHS 2022](https://www.worldcubeassociation.org/competitions/ThanksgivingPBQLHS2022) |
+| 11 | [Titan Big Cubes - Santiago 2024](https://www.worldcubeassociation.org/competitions/TitanBigCubesSantiago2024) |
 | 11 | [Titan Blind Open 2023](https://www.worldcubeassociation.org/competitions/TitanBlindOpen2023) |
 | 11 | [Titan FMC 2023](https://www.worldcubeassociation.org/competitions/TitanFMC2023) |
 | 12 | [Anapoima 2023](https://www.worldcubeassociation.org/competitions/Anapoima2023) |

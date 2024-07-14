@@ -75,20 +75,20 @@
 | 868 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 867 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 857 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
+| 848 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 845 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 845 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
-| 842 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
-| 837 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 837 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
+| 837 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
+| 835 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 833 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 831 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
-| 830 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 818 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 808 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 807 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 797 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
+| 791 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 790 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
-| 789 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 788 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 783 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 783 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |

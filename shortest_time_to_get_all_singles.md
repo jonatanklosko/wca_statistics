@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 July 2024*
+*Updated on 16 July 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -466,6 +466,7 @@
 | 2695 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 2695 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) |
 | 2702 | [Ivo Bakker](https://www.worldcubeassociation.org/persons/2009BAKK01) |
+| 2703 | [Li Chengyu](https://www.worldcubeassociation.org/persons/2017CHEN16) |
 | 2743 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
 | 2745 | [Luke Meszar](https://www.worldcubeassociation.org/persons/2016MESZ01) |
 | 2756 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) |

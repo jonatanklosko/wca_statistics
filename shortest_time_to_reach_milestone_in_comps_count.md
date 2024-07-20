@@ -39,6 +39,7 @@
 | 2476 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 2564 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 2565 | [Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31) |
+| 2699 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 2844 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 2850 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 2871 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -51,7 +52,6 @@
 | 3102 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 3102 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 3179 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 3179 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 
 ### 100 Competitions
 

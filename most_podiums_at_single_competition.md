@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 July 2024*
+*Updated on 22 July 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -375,9 +375,9 @@
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Winter Variation 2024](https://www.worldcubeassociation.org/competitions/DFWWinterVariation2024/results/podiums) |
 | 10 | [Dmitry Zvyagintsev](https://www.worldcubeassociation.org/persons/2011ZVYA01) | [Didas Brest 2014](https://www.worldcubeassociation.org/competitions/DidasBrest2014/results/podiums) |
 | 10 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [Didas Brest 2014](https://www.worldcubeassociation.org/competitions/DidasBrest2014/results/podiums) |
-| 10 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | [Diñs Open 2011](https://www.worldcubeassociation.org/competitions/DinsOpen2011/results/podiums) |
+| 10 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | [Diñs Open 2011](https://www.worldcubeassociation.org/competitions/DinsOpen2011/results/podiums) |
 | 13 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | [Diñs Open 2012](https://www.worldcubeassociation.org/competitions/DinsOpen2012/results/podiums) |
-| 10 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | [Diñs Open 2012](https://www.worldcubeassociation.org/competitions/DinsOpen2012/results/podiums) |
+| 10 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | [Diñs Open 2012](https://www.worldcubeassociation.org/competitions/DinsOpen2012/results/podiums) |
 | 13 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/podiums) |
 | 11 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/podiums) |
 | 10 | [Adrian Jorghy](https://www.worldcubeassociation.org/persons/2010JORG01) | [DIY Open 2017](https://www.worldcubeassociation.org/competitions/DIYOpen2017/results/podiums) |

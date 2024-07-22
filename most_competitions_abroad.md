@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 19 July 2024*
+*Updated on 22 July 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -51,8 +51,8 @@
 | 73 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 72 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
+| 71 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 71 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
-| 70 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 70 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 69 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 68 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
@@ -100,9 +100,9 @@
 | 53 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
 | 52 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 52 | [Catherine Connolly](https://www.worldcubeassociation.org/persons/2017CONN04) |
+| 52 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 51 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 51 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) |
-| 51 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 51 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 
 

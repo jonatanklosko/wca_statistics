@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 19 July 2024*
+*Updated on 22 July 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 12667 |
+| 1.47 | World | 12674 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4126 |
+| 1.73 | Europe | 4128 |
 | 1.50 | South America | 1538 |
 | 1.47 | Oceania | 561 |
-| 1.41 | Asia | 2750 |
+| 1.41 | Asia | 2754 |
 | 1.30 | Africa | 145 |
-| 1.21 | North America | 3547 |
+| 1.21 | North America | 3548 |
 
 ### Countries
 
@@ -57,7 +57,7 @@
 | 1.72 | Austria | 29 |
 | 1.72 | Argentina | 86 |
 | 1.70 | Poland | 460 |
-| 1.70 | Ukraine | 132 |
+| 1.70 | Ukraine | 133 |
 | 1.67 | Luxembourg | 3 |
 | 1.67 | North Macedonia | 6 |
 | 1.64 | Ireland | 64 |
@@ -65,7 +65,7 @@
 | 1.62 | New Zealand | 116 |
 | 1.62 | Denmark | 171 |
 | 1.59 | Greece | 27 |
-| 1.59 | Italy | 217 |
+| 1.59 | Italy | 218 |
 | 1.58 | India | 563 |
 | 1.58 | Netherlands | 116 |
 | 1.57 | Indonesia | 225 |
@@ -92,13 +92,13 @@
 | 1.38 | Jordan | 13 |
 | 1.38 | Estonia | 60 |
 | 1.36 | Vietnam | 66 |
-| 1.35 | Chinese Taipei | 141 |
 | 1.35 | Ecuador | 48 |
+| 1.35 | Chinese Taipei | 142 |
 | 1.34 | Paraguay | 29 |
 | 1.33 | Panama | 18 |
 | 1.33 | Tajikistan | 3 |
 | 1.33 | Colombia | 325 |
-| 1.31 | Philippines | 291 |
+| 1.31 | Philippines | 292 |
 | 1.31 | Republic of Korea | 97 |
 | 1.30 | Hong Kong, China | 20 |
 | 1.29 | Andorra | 7 |
@@ -107,8 +107,8 @@
 | 1.28 | United Arab Emirates | 18 |
 | 1.27 | Venezuela | 73 |
 | 1.27 | Portugal | 22 |
-| 1.25 | China | 646 |
 | 1.25 | Chile | 131 |
+| 1.25 | China | 648 |
 | 1.24 | Uruguay | 50 |
 | 1.22 | Bahrain | 9 |
 | 1.22 | Kuwait | 9 |
@@ -116,7 +116,7 @@
 | 1.19 | Mongolia | 32 |
 | 1.18 | El Salvador | 33 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2853 |
+| 1.16 | United States | 2854 |
 | 1.16 | Canada | 362 |
 | 1.13 | Azerbaijan | 45 |
 | 1.12 | Honduras | 17 |

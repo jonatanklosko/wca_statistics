@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 19 July 2024*
+*Updated on 22 July 2024*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -37,11 +37,11 @@
 | 34 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) | Germany | [German Big Cube Open 2017](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2017) | [Franconia X 2019](https://www.worldcubeassociation.org/competitions/FranconiaX2019) |
 | 33 | [Francisco Javier Lemes Sáez](https://www.worldcubeassociation.org/persons/2009SAEZ01) | Chile | [Invierno 2010](https://www.worldcubeassociation.org/competitions/CampeonatoInvierno2010) | [CECREA 2016](https://www.worldcubeassociation.org/competitions/CECREA2016) |
 | 33 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | Colombia | [Colombia Nationals 2014](https://www.worldcubeassociation.org/competitions/ColombiaNationals2014) | [USTA Winter Open 2017](https://www.worldcubeassociation.org/competitions/USTAWinterOpen2017) |
-| 32 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | Poland | [SLS Styczeń 2024](https://www.worldcubeassociation.org/competitions/SLSStyczen2024) | [Gniezno Open 2024](https://www.worldcubeassociation.org/competitions/GnieznoOpen2024) |
 | 32 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | Thailand | [TCA Championship 2011](https://www.worldcubeassociation.org/competitions/TCAChampionship2011) | [Ratchapruek Cubing Sunday 2023](https://www.worldcubeassociation.org/competitions/RatchapruekCubingSunday2023) |
 | 32 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | Venezuela | [Venezuela Open 2013](https://www.worldcubeassociation.org/competitions/VenezuelaOpen2013) | [CojedesRubik 2016](https://www.worldcubeassociation.org/competitions/CojedesRubik2016) |
 | 32 | [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) | Georgia | [Georgian Open 2013](https://www.worldcubeassociation.org/competitions/GeorgianOpen2013) |  |
 | 31 | [Hideki Niina (新名秀樹)](https://www.worldcubeassociation.org/persons/2008NIIN01) | Japan | [Waseda Brain 2012](https://www.worldcubeassociation.org/competitions/WasedaBrainChallenge2012) | [Kawasaki Autumn 2013](https://www.worldcubeassociation.org/competitions/KawasakiAutumn2013) |
+| 31 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | Poland | [Rzeszów Open 2024](https://www.worldcubeassociation.org/competitions/RzeszowOpen2024) | [Gniezno Open 2024](https://www.worldcubeassociation.org/competitions/GnieznoOpen2024) |
 | 31 | [Kirstine Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS02) | Denmark | [Danish Open 2008](https://www.worldcubeassociation.org/competitions/DanishOpen2008) | [Rebild Open 2014](https://www.worldcubeassociation.org/competitions/RebildOpen2014) |
 | 31 | [Laurids Abelsen Holm](https://www.worldcubeassociation.org/persons/2016HOLM04) | Denmark | [Vinderup Open 2016](https://www.worldcubeassociation.org/competitions/VinderupOpen2016) | [Minx C-Open-hagen 2020](https://www.worldcubeassociation.org/competitions/MinxCOpenhagen2020) |
 | 31 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) | El Salvador | [Sivar Open 2015](https://www.worldcubeassociation.org/competitions/SivarOpen2015) |  |

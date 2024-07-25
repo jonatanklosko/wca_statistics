@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 22 July 2024*
+*Updated on 25 July 2024*
 
 | Continents | Person |
 | ---: | :--- |
@@ -124,6 +124,7 @@
 | 4 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) |
 | 4 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
 | 4 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
+| 4 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
 | 4 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 4 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) |
 | 4 | [Karen Brooks](https://www.worldcubeassociation.org/persons/2015BROO01) |

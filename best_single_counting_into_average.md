@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 22 July 2024*
+*Updated on 25 July 2024*
 
 
 ### Rubik's Cube
@@ -38,30 +38,30 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 17.56 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
+| 17.62 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
 | 17.93 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024/results/by_person#2012PARK03) |
 | 18.06 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Yucaipa 2024](https://www.worldcubeassociation.org/competitions/NubOpenYucaipa2024/results/by_person#2012PARK03) |
 | 18.31 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Summer 2022](https://www.worldcubeassociation.org/competitions/CircleCitySummer2022/results/by_person#2012PARK03) |
 | 18.49 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Arizona Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSpring2023/results/by_person#2012PARK03) |
+| 18.74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
 | 18.86 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [FLIP Open 11: Road to Euros 2024](https://www.worldcubeassociation.org/competitions/FLIPOpen11RoadtoEuros2024/results/by_person#2010WEYE02) |
 | 18.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
 | 18.87 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
-| 18.89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Los Angeles Newcomers 2024](https://www.worldcubeassociation.org/competitions/LosAngelesNewcomers2024/results/by_person#2012PARK03) |
-| 19.06 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
 
 ### 5x5x5 Cube
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 33.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
+| 33.75 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
 | 34.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
 | 34.68 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Big Cub 2024](https://www.worldcubeassociation.org/competitions/SanDiegoBigCub2024/results/by_person#2012PARK03) |
 | 34.73 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
 | 34.92 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Mission Viejo 2023](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejo2023/results/by_person#2012PARK03) |
+| 35.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
 | 35.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
 | 35.13 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [UCSD Winter 2023](https://www.worldcubeassociation.org/competitions/UCSDWinter2023/results/by_person#2012PARK03) |
 | 35.30 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Big Time Manila 2023](https://www.worldcubeassociation.org/competitions/BigTimeManila2023/results/by_person#2013NAHM01) |
-| 35.32 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [UCSD Winter 2023](https://www.worldcubeassociation.org/competitions/UCSDWinter2023/results/by_person#2012PARK03) |
-| 35.33 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Colorado Cubing Weekend 2022](https://www.worldcubeassociation.org/competitions/ColoradoCubingWeekend2022/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 
@@ -144,14 +144,14 @@
 | ---: | :--- | :--- |
 | 4.23 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/by_person#2019BAUM02) |
 | 4.28 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN26) |
+| 4.33 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
 | 4.40 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023/results/by_person#2021DUNA01) |
 | 4.45 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube in Denton 2024](https://www.worldcubeassociation.org/competitions/CubeWithRetentioninDenton2024/results/by_person#2019BAUM02) |
 | 4.46 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Northwest Championship 2024](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2024/results/by_person#2017AGGA01) |
+| 4.47 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
 | 4.51 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DFWCubingWinter2024/results/by_person#2019BAUM02) |
 | 4.52 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Spring 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2024/results/by_person#2019BAUM02) |
 | 4.60 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017SIAU02) |
-| 4.60 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Minnesota Warm Up 2024](https://www.worldcubeassociation.org/competitions/MinnesotaWarmUp2024/results/by_person#2017SIAU02) |
-| 4.60 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017AGGA01) |
 
 ### 3x3x3 With Feet
 

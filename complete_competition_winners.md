@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 22 July 2024*
+*Updated on 25 July 2024*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -372,6 +372,7 @@
 | 1 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | Australia | [Melbourne Minimal Moves 2022](https://www.worldcubeassociation.org/competitions/MelbourneMinimalMoves2022) |
 | 1 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | United States | [GA Cubers Study July 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyJuly2023) |
 | 1 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | United States | [GA Cubers Study May 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyMay2023) |
+| 1 | [Jakob Jernsletten](https://www.worldcubeassociation.org/persons/2018JERN01) | Norway | [FM i Kjellern' 2024](https://www.worldcubeassociation.org/competitions/FMiKjellern2024) |
 | 1 | [Jakub Jurika](https://www.worldcubeassociation.org/persons/2023JURI01) | Slovakia | [FMC Day in Trnava 2024](https://www.worldcubeassociation.org/competitions/FMCDayinTrnava2024) |
 | 1 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | United States | [Back to Cambridge A 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeA2021) |
 | 1 | [Jason Vindvamara](https://www.worldcubeassociation.org/persons/2015VIND01) | United States | [Hilliard Hippocampus XV 2024](https://www.worldcubeassociation.org/competitions/HilliardHippocampusXV2024) |
@@ -449,8 +450,8 @@
 | 1 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | Spain | [FMC Spain 2023](https://www.worldcubeassociation.org/competitions/FMCSpain2023) |
 | 1 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | Spain | [FMC Spanish Championship 2023](https://www.worldcubeassociation.org/competitions/FMCSpanishChampionship2023) |
 | 1 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | Spain | [Only FMC 2020](https://www.worldcubeassociation.org/competitions/OnlyFMC2020) |
-| 1 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [Nisei Week 2016](https://www.worldcubeassociation.org/competitions/NiseiWeek2016) |
 | 1 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [Nisei Week 2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019) |
+| 1 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [Nisei Week 2016](https://www.worldcubeassociation.org/competitions/NiseiWeek2016) |
 | 1 | [Max Parris](https://www.worldcubeassociation.org/persons/2022PARR10) | Australia | [Australian Nationals FMC 2024](https://www.worldcubeassociation.org/competitions/AustralianNationalsFMC2024) |
 | 1 | [Maximiliano Rojas Zaputovich](https://www.worldcubeassociation.org/persons/2016ZAPU01) | Mexico | [TimerTon 2018](https://www.worldcubeassociation.org/competitions/TimerTon2018) |
 | 1 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | Colombia | [Fewest Moves Bogotá II 2024](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaII2024) |

@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 22 July 2024*
+*Updated on 25 July 2024*
 
 
 ### 200 Competitions
@@ -143,7 +143,7 @@
 | 127 | [Thomas Cabezas Casallas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 127 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
 | 133 | [Anthony E. Cho](https://www.worldcubeassociation.org/persons/2023CHOA02) |
-| 138 | [Arnelio Mola](https://www.worldcubeassociation.org/persons/2023MOLA06) |
+| 138 | [Arnelio Manaca Mola](https://www.worldcubeassociation.org/persons/2023MOLA06) |
 | 139 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 139 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 | 140 | [Hansi Wang (王翰思)](https://www.worldcubeassociation.org/persons/2020WANG19) |

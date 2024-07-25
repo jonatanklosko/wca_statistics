@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 July 2024*
+*Updated on 25 July 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -9,6 +9,7 @@
 | 0 | [Ziyi Xu (徐梓翼)](https://www.worldcubeassociation.org/persons/2023XUZI01) |
 | 14 | [Lichao Liu (刘立超)](https://www.worldcubeassociation.org/persons/2018LIUL05) |
 | 140 | [Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21) |
+| 154 | [Khaled Al-Hathlool](https://www.worldcubeassociation.org/persons/2024ALHA03) |
 | 163 | [Joshua Gao](https://www.worldcubeassociation.org/persons/2023GAOJ02) |
 | 181 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 194 | [Weijie Fang (方伟杰)](https://www.worldcubeassociation.org/persons/2018FANG10) |
@@ -529,6 +530,7 @@
 | 3682 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 3739 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 3752 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
+| 4010 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 4047 | [Nathan Seeto](https://www.worldcubeassociation.org/persons/2012SEET01) |
 | 4053 | [Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01) |
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |

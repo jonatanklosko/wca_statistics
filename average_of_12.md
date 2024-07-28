@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 July 2024*
+*Updated on 28 July 2024*
 
 
 ### Rubik's Cube
@@ -12,9 +12,9 @@
 | 4.86 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.90, 4.50, 5.03, 4.13, 5.18, 4.17, 5.16, 5.27, 4.58, 5.44, 4.80, 5.03 |
 | 5.09 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.18, 4.01, 4.87, 4.60, 6.12, 5.56, 5.48, 5.53, 4.69, 4.92, 5.79, 4.25 |
 | 5.18 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.28, 5.23, 5.19, 5.50, 5.49, 4.97, 4.33, 5.59, 5.84, 5.27, 5.46, 4.81 |
+| 5.20 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 5.25, 6.07, 5.45, 5.02, 4.41, 5.40, 4.11, 4.95, 5.57, 4.80, 5.59, 5.59 |
 | 5.23 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.78, 5.16, 4.90, DNF, 4.44, 5.34, 5.51, 4.78, 4.72, 6.36, 5.74, 4.96 |
 | 5.30 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 5.77, 5.05, 4.83, 5.13, 5.54, 5.46, 6.13, 5.61, 4.81, 4.56, 5.81, 5.03 |
-| 5.30 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 5.10, 5.48, 4.97, 5.80, 4.22, 4.96, 5.68, 4.94, 5.92, 5.38, 5.07, 5.64 |
 | 5.31 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.16, 4.54, 5.10, 4.79, 6.10, 5.83, 7.70, 5.21, 5.81, 5.35, 5.00, 4.72 |
 | 5.46 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.49, 5.48, 5.43, 4.76, 9.23, 6.53, 5.65, 5.16, 5.54, 5.89, 5.16, 4.95 |
 | 5.60 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | 5.93, 6.40, 5.85, 5.10, 4.62, 7.61, 5.29, 5.47, 6.72, 4.97, 4.31, 5.64 |
@@ -43,8 +43,8 @@
 | 21.17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 20.44, 21.30, 21.63, 21.95, 25.32, 19.26, 21.45, 20.82, 22.66, 19.69, 20.57, 21.15 |
 | 22.12 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 21.83, 21.99, 21.53, 21.59, 20.40, 21.89, 28.65, 22.86, 19.39, 25.41, 19.55, 24.14 |
 | 22.62 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 25.09, 21.80, 23.72, 24.16, 29.45, 21.85, 19.80, 21.17, 20.83, 22.47, 21.13, 23.97 |
+| 22.98 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 23.74, 20.53, 24.20, 23.30, 23.58, 22.78, 22.01, 26.33, 22.38, 24.06, 21.69, 22.02 |
 | 23.08 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 21.93, 21.60, 25.53, 20.73, 25.27, 24.94, 24.68, 25.65, 20.97, 21.56, 22.06, 22.23 |
-| 23.08 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 22.02, 23.93, 23.62, 22.28, 24.83, 25.11, 21.77, 23.65, 19.90, 24.47, 23.74, 20.53 |
 | 23.12 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 22.42, 22.95, 22.30, 25.64, 25.77, 27.38, 21.75, 20.57, 22.44, 24.40, 22.77, 20.72 |
 | 23.16 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 25.71, 21.43, 22.91, 29.03, 24.09, 23.16, 21.07, 24.82, 22.10, 22.83, 21.83, 22.74 |
 | 23.57 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 20.98, 20.48, 21.01, 23.78, 23.93, 25.26, 24.92, 25.13, 24.19, 23.33, 26.28, 23.12 |
@@ -165,9 +165,9 @@
 | 1.61 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.53, 1.54, 1.32, 1.54, 2.90, 1.56, 1.38, 2.18, 1.29, 1.64, 1.65, 1.80 |
 | 1.71 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.76, 1.69, 1.26, 1.69, 1.44, 1.99, 4.46, 1.65, 1.63, 1.70, 1.74, 1.82 |
 | 1.72 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | 1.60, 1.56, 1.83, 1.92, 1.90, 1.78, 1.24, 1.56, 2.46, 1.55, 1.24, 2.28 |
+| 1.74 | [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) | 2.18, 1.69, 1.30, 1.70, 1.91, 1.92, 1.84, 2.16, 1.36, 1.66, 1.50, 1.61 |
 | 1.77 | [Huining Huang (黄徽宁)](https://www.worldcubeassociation.org/persons/2019HUAH03) | 1.51, 1.50, 1.47, DNF, 1.85, 1.52, 1.36, 1.96, 1.44, 2.52, 2.29, 1.62 |
 | 1.78 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.67, 1.58, 2.49, 1.45, 1.62, 2.22, 1.34, 2.94, 1.46, 2.59, 1.23, 1.34 |
-| 1.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.79, 2.21, 1.74, 1.39, 2.69, 1.76, 1.33, 1.87, 2.02, 2.34, 1.35, 1.77 |
 
 ### Rubik's Clock
 

@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 July 2024*
+*Updated on 28 July 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -37,9 +37,9 @@
 | Austria | **162** | 226 | 233 | 621 |
 | Latvia | **153** | 216 | 222 | 591 |
 | Slovenia | **152** | 194 | 208 | 554 |
-| Peru | **148** | 82 | 100 | 330 |
+| Peru | **149** | 84 | 102 | 335 |
 | Belgium | **145** | 209 | 192 | 546 |
-| Colombia | **140** | 116 | 99 | 355 |
+| Colombia | **141** | 118 | 100 | 359 |
 | Greece | **121** | 152 | 112 | 385 |
 | Czech Republic | **117** | 122 | 142 | 381 |
 | Belarus | **113** | 79 | 90 | 282 |
@@ -51,8 +51,8 @@
 | Philippines | **80** | 94 | 93 | 267 |
 | Croatia | **70** | 104 | 80 | 254 |
 | Vietnam | **63** | 87 | 76 | 226 |
+| Brazil | **63** | 79 | 54 | 196 |
 | Guatemala | **61** | 38 | 43 | 142 |
-| Brazil | **59** | 72 | 50 | 181 |
 | Estonia | **54** | 59 | 50 | 163 |
 | New Zealand | **53** | 76 | 60 | 189 |
 | Jordan | **53** | 14 | 17 | 84 |
@@ -62,7 +62,7 @@
 | Mongolia | **35** | 38 | 40 | 113 |
 | Serbia | **32** | 39 | 37 | 108 |
 | Uzbekistan | **32** | 29 | 31 | 92 |
-| Chile | **29** | 22 | 21 | 72 |
+| Chile | **31** | 22 | 24 | 77 |
 | Kyrgyzstan | **28** | 36 | 39 | 103 |
 | Costa Rica | **27** | 35 | 28 | 90 |
 | Iran | **27** | 22 | 21 | 70 |
@@ -76,9 +76,9 @@
 | Bulgaria | **14** | 38 | 38 | 90 |
 | Nicaragua | **14** | 5 | 10 | 29 |
 | Nigeria | **11** | 19 | 14 | 44 |
+| Uruguay | **11** | 8 | 18 | 37 |
 | Morocco | **10** | 12 | 12 | 34 |
 | Tunisia | **10** | 10 | 8 | 28 |
-| Uruguay | **10** | 6 | 18 | 34 |
 | Bosnia and Herzegovina | **9** | 23 | 11 | 43 |
 | Bolivia | **9** | 17 | 28 | 54 |
 | Turkey | **9** | 17 | 15 | 41 |

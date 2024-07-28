@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 July 2024*
+*Updated on 28 July 2024*
 
 
 ### Rubik's Cube
@@ -90,8 +90,8 @@
 | 25.79 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
 | 25.79 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Masters 2023](https://www.worldcubeassociation.org/competitions/SingaporeMasters2023/results/by_person#2016YONG02) |
 | 25.97 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Max 2024](https://www.worldcubeassociation.org/competitions/SingaporeMax2024/results/by_person#2016YONG02) |
+| 25.97 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [SAC 2024](https://www.worldcubeassociation.org/competitions/SAC2024/results/by_person#2018LOPE22) |
 | 26.27 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Penang Cube Masters 2023](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2023/results/by_person#2016YONG02) |
-| 26.29 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 
@@ -105,8 +105,8 @@
 | 1.20 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023/results/by_person#2019MEAD03) |
 | 1.22 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Queensland Open 2024](https://www.worldcubeassociation.org/competitions/QueenslandOpen2024/results/by_person#2018MURR03) |
 | 1.23 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/by_person#2021LEES01) |
+| 1.25 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/by_person#2019JIAN54) |
 | 1.26 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Guiyang Open 2024](https://www.worldcubeassociation.org/competitions/GuiyangOpen2024/results/by_person#2019JIAN54) |
-| 1.27 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Stevenage June 2024](https://www.worldcubeassociation.org/competitions/StevenageJune2024/results/by_person#2022PART02) |
 
 ### Rubik's Clock
 

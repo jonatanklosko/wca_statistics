@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 25 July 2024*
+*Updated on 28 July 2024*
 
 
 ### Rubik's Cube
@@ -13,11 +13,11 @@
 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.38 | **5.80** | [Tianjin Open 2024](https://www.worldcubeassociation.org/competitions/TianjinOpen2024/results/all#e333_f) | 4 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 5.27 | **5.82** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 5 |
 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 5.39 | **5.83** | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024/results/all#e333_f) | 5 |
+| [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 5.15 | **5.89** | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/all#e333_f) | 4 |
 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.49 | **5.89** | [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023/results/all#e333_f) | 4 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 4.72 | **5.90** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 6 |
 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 5.61 | **5.90** | [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023/results/all#e333_f) | 5 |
 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 5.38 | **5.93** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 7 |
-| [Yuzhe Wang (王语哲)](https://www.worldcubeassociation.org/persons/2021WANG05) | 5.20 | **5.96** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333_f) | 8 |
 
 ### 2x2x2 Cube
 
@@ -163,11 +163,11 @@
 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.55 | **2.12** | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/all#epyram_f) | 4 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.64 | **2.14** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#epyram_f) | 4 |
 | [Keon Wilson](https://www.worldcubeassociation.org/persons/2018WILS10) | 1.70 | **2.14** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 4 |
+| [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.57 | **2.15** | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/all#epyram_f) | 4 |
 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.90 | **2.15** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 6 |
+| [Zejin Liu (刘泽锦)](https://www.worldcubeassociation.org/persons/2021LIUZ04) | 1.26 | **2.18** | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/all#epyram_f) | 5 |
 | [Zizhen Li (李子贞)](https://www.worldcubeassociation.org/persons/2024LIZI01) | 1.92 | **2.18** | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/all#epyram_f) | 4 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.75 | **2.19** | [Cubing by the Kings 2023](https://www.worldcubeassociation.org/competitions/CubingByTheKings2023/results/all#epyram_f) | 4 |
-| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.61 | **2.22** | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/all#epyram_f) | 5 |
-| [Zejin Liu (刘泽锦)](https://www.worldcubeassociation.org/persons/2021LIUZ04) | 1.81 | **2.22** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 7 |
 
 ### Rubik's Clock
 

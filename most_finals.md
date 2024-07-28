@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 25 July 2024*
+*Updated on 28 July 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -11,7 +11,7 @@
 | 1657 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1622 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1616 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 1577 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 1579 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1529 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 1505 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
@@ -59,7 +59,7 @@
 | 931 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 930 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 926 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
+| 927 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 924 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 910 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 909 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
@@ -71,7 +71,7 @@
 | 891 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 885 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 879 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
-| 875 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
+| 877 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 875 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 868 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 858 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
@@ -90,7 +90,7 @@
 | 793 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 793 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 791 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
-| 789 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
+| 791 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 788 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 787 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 785 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |

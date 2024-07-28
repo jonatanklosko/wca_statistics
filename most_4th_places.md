@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 July 2024*
+*Updated on 28 July 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -62,8 +62,8 @@
 | 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 91 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 91 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
+| 91 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 90 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
-| 90 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 90 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 89 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 87 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |

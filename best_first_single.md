@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 25 July 2024*
+*Updated on 28 July 2024*
 
 
 ### Rubik's Cube
@@ -39,6 +39,7 @@
 | First single | Person |
 | ---: | :--- |
 | 28.05 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) |
+| 28.09 | [Shaoyi Liu (刘少一)](https://www.worldcubeassociation.org/persons/2024LIUS04) |
 | 29.67 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 29.79 | [Siddhesh Pore](https://www.worldcubeassociation.org/persons/2022PORE01) |
 | 30.60 | [Ian Guevarra Santos](https://www.worldcubeassociation.org/persons/2024SANT11) |
@@ -47,7 +48,6 @@
 | 31.25 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 31.47 | [Aditya Bareja](https://www.worldcubeassociation.org/persons/2022BARE01) |
 | 31.91 | [Li-Chen Lin (林立宸)](https://www.worldcubeassociation.org/persons/2021LINL02) |
-| 32.29 | [Youyu Peng (彭宥裕)](https://www.worldcubeassociation.org/persons/2023PENG14) |
 
 ### 5x5x5 Cube
 

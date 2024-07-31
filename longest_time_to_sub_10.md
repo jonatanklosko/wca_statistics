@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 28 July 2024*
+*Updated on 31 July 2024*
 
 | Person | Years |
 | :--- | ---: |
@@ -53,8 +53,8 @@
 | [Aníbal Araya](https://www.worldcubeassociation.org/persons/2011ARAY01) | 11.12 |
 | [Steven Cheung](https://www.worldcubeassociation.org/persons/2013CHEU01) | 11.04 |
 | [Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02) | 11.02 |
-| [Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01) | 11.00 |
 | [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | 11.00 |
+| [Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01) | 11.00 |
 | [Xiaobo Jin (金晓波)](https://www.worldcubeassociation.org/persons/2008JINX01) | 10.90 |
 | [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 10.87 |
 | [Ottfried Kejs](https://www.worldcubeassociation.org/persons/2012KEJS01) | 10.83 |
@@ -71,8 +71,8 @@
 | [Yinghao Zhu (朱英豪)](https://www.worldcubeassociation.org/persons/2013ZHUY01) | 10.37 |
 | [Maggie Jordan](https://www.worldcubeassociation.org/persons/2013JORD01) | 10.35 |
 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) | 10.33 |
-| [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
+| [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 10.31 |
 | [Vi Dinh](https://www.worldcubeassociation.org/persons/2013DINH01) | 10.29 |
 | [Hime Arellano](https://www.worldcubeassociation.org/persons/2014AREL01) | 10.25 |
@@ -84,6 +84,7 @@
 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 10.14 |
 | [Yiqun Lin (林逸群)](https://www.worldcubeassociation.org/persons/2014LINY02) | 10.14 |
 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) | 10.10 |
+| [Kevin Arturo Huamán Ruiz](https://www.worldcubeassociation.org/persons/2014RUIZ10) | 10.08 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 10.08 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 10.06 |
 | [Atharva Vadeyar](https://www.worldcubeassociation.org/persons/2014VADE01) | 10.04 |
@@ -102,7 +103,6 @@
 | [Kaidrich Keolo Pobre](https://www.worldcubeassociation.org/persons/2013POBR01) | 9.64 |
 | [Daniël Kassab](https://www.worldcubeassociation.org/persons/2012KASS01) | 9.58 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 9.56 |
-| [Mathieu Preston](https://www.worldcubeassociation.org/persons/2014PRES03) | 9.54 |
 | [Sutep Nopnatee (สุเทพ นภนที)](https://www.worldcubeassociation.org/persons/2010NOPN01) | 9.54 |
 
 

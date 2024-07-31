@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 28 July 2024*
+*Updated on 31 July 2024*
 
 
 ### Rubik's Cube
@@ -129,6 +129,7 @@
 | First single | Person |
 | ---: | :--- |
 | 11.05 | [Youyu Peng (彭宥裕)](https://www.worldcubeassociation.org/persons/2023PENG14) |
+| 11.08 | [Yingtong Huang (黄颖彤)](https://www.worldcubeassociation.org/persons/2021HUAN08) |
 | 11.15 | [Aragon Martin Gonzales](https://www.worldcubeassociation.org/persons/2023GONZ18) |
 | 11.70 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) |
 | 11.72 | [Arthur Vinicios Medeiros Alves](https://www.worldcubeassociation.org/persons/2023ALVE12) |
@@ -137,7 +138,6 @@
 | 12.68 | [Mohammadreza Abbaszadeh (محمدرضا عباس زاده)](https://www.worldcubeassociation.org/persons/2023ABBA06) |
 | 12.78 | [Zhaojie Li (李肇杰)](https://www.worldcubeassociation.org/persons/2019LIZH12) |
 | 12.99 | [SeungYoon Hyeon](https://www.worldcubeassociation.org/persons/2013HYEO01) |
-| 13.19 | [Pengcheng Li (栗鹏程)](https://www.worldcubeassociation.org/persons/2024LIPE02) |
 
 ### Megaminx
 
@@ -222,12 +222,12 @@
 | 3:18.61 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
 | 3:20.63 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) |
 | 3:21.74 | [Ziwei Yuan (袁子为)](https://www.worldcubeassociation.org/persons/2018YUAN10) |
+| 3:56.85 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) |
 | 4:17.65 | [Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01) |
 | 4:19.38 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) |
 | 4:38.33 | [Chunjie Shan (单淳劼)](https://www.worldcubeassociation.org/persons/2013SHAN02) |
 | 4:45.41 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) |
 | 4:48.07 | [Bohdan Pylypchak (Богдан Пилипчак)](https://www.worldcubeassociation.org/persons/2017PYLY01) |
-| 4:53.74 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 
 ### 5x5x5 Blindfolded
 

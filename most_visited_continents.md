@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 28 July 2024*
+*Updated on 31 July 2024*
 
 | Continents | Person |
 | ---: | :--- |
@@ -157,6 +157,7 @@
 | 4 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) |
 | 4 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 4 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
+| 4 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) |
 | 4 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 4 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 4 | [Thomas Pierroz](https://www.worldcubeassociation.org/persons/2021PIER01) |

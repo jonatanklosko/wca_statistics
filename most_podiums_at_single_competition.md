@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 July 2024*
+*Updated on 31 July 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1261,6 +1261,7 @@
 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Amman Wintertime 2023](https://www.worldcubeassociation.org/competitions/AmmanWintertime2023/results/podiums) |
 | 10 | [Hitesh Kumar Bhuwalka (हितेश कुमार भुवालका)](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Cubing Comes to Bihar 2023](https://www.worldcubeassociation.org/competitions/CubingComestoBihar2023/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Araruama ao Cubo 2024](https://www.worldcubeassociation.org/competitions/AraruamaaoCubo2024/results/podiums) |
+| 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Xerém Open 2024](https://www.worldcubeassociation.org/competitions/XeremOpen2024/results/podiums) |
 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Fundación de Cuenca Open 2024](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2024/results/podiums) |
 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Sin Fronteras Ecuador 2023](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2023/results/podiums) |
 | 10 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Bolton Spring 2023](https://www.worldcubeassociation.org/competitions/BoltonSpring2023/results/podiums) |

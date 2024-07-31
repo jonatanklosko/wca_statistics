@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 July 2024*
+*Updated on 31 July 2024*
 
 
 ### Rubik's Cube
@@ -115,6 +115,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.02 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | 13.87 | 13.89 | [Helsinki Side Events 2017](https://www.worldcubeassociation.org/competitions/HelsinkiSideEvents2017/results/by_person#2013JOKI01) |
 | 0.02 | [Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01) | 17.90 | 17.92 | [Caltech Winter 2012](https://www.worldcubeassociation.org/competitions/CaltechWinter2012/results/by_person#2008NADU01) |
+| 0.03 | [Kymo Hendriks](https://www.worldcubeassociation.org/persons/2023HEND11) | 13.88 | 13.91 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2023HEND11) |
 | 0.03 | [Luiggi Giovanucci](https://www.worldcubeassociation.org/persons/2012GIOV02) | 25.67 | 25.70 | [Pequi Open 2020](https://www.worldcubeassociation.org/competitions/PequiOpen2020/results/by_person#2012GIOV02) |
 | 0.04 | [Simon Lim (林少秋)](https://www.worldcubeassociation.org/persons/2008LIMS01) | 17.83 | 17.87 | [Bayani 2012](https://www.worldcubeassociation.org/competitions/Bayani2012/results/by_person#2008LIMS01) |
 | 0.05 | [Han Dong (董晗)](https://www.worldcubeassociation.org/persons/2012DONG02) | 20.84 | 20.89 | [Shanghai Winter is Coming 2016](https://www.worldcubeassociation.org/competitions/ShanghaiWinterisComing2016/results/by_person#2012DONG02) |
@@ -122,7 +123,6 @@
 | 0.05 | [Trần Hữu Phổ](https://www.worldcubeassociation.org/persons/2018PHTR01) | 29.51 | 29.56 | [Da Nang Open 2018](https://www.worldcubeassociation.org/competitions/DaNangOpen2018/results/by_person#2018PHTR01) |
 | 0.06 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 15.06 | 15.12 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2010WUIF01) |
 | 0.07 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 11.42 | 11.49 | [UW or U Don't 2023](https://www.worldcubeassociation.org/competitions/UWorUDont2023/results/by_person#2017AGGA01) |
-| 0.07 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | 12.87 | 12.94 | [SAC 2022](https://www.worldcubeassociation.org/competitions/SAC2022/results/by_person#2018LAPE01) |
 
 ### Megaminx
 

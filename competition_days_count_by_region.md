@@ -1,30 +1,30 @@
 ## Competition days count by region
 
-*Updated on 31 July 2024*
+*Updated on  1 August 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 12722 |
+| 1.47 | World | 12727 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4140 |
+| 1.73 | Europe | 4143 |
 | 1.50 | South America | 1548 |
 | 1.47 | Oceania | 563 |
-| 1.41 | Asia | 2762 |
+| 1.41 | Asia | 2763 |
 | 1.30 | Africa | 147 |
-| 1.21 | North America | 3562 |
+| 1.21 | North America | 3563 |
 
 ### Countries
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 2.06 | Czech Republic | 54 |
+| 2.05 | Czech Republic | 55 |
 | 2.00 | Kyrgyzstan | 6 |
 | 2.00 | Liechtenstein | 3 |
 | 2.00 | Uzbekistan | 19 |
@@ -41,7 +41,7 @@
 | 1.87 | France | 291 |
 | 1.87 | Slovakia | 39 |
 | 1.87 | Finland | 140 |
-| 1.85 | Spain | 350 |
+| 1.85 | Spain | 351 |
 | 1.85 | Switzerland | 113 |
 | 1.85 | Bosnia and Herzegovina | 13 |
 | 1.84 | Croatia | 25 |
@@ -67,7 +67,7 @@
 | 1.60 | Italy | 220 |
 | 1.59 | Greece | 27 |
 | 1.58 | India | 564 |
-| 1.58 | Netherlands | 116 |
+| 1.58 | Netherlands | 117 |
 | 1.57 | Indonesia | 225 |
 | 1.57 | San Marino | 7 |
 | 1.56 | Dominican Republic | 27 |
@@ -99,7 +99,7 @@
 | 1.33 | Colombia | 328 |
 | 1.32 | Panama | 19 |
 | 1.31 | Republic of Korea | 97 |
-| 1.31 | Philippines | 295 |
+| 1.31 | Philippines | 296 |
 | 1.29 | Andorra | 7 |
 | 1.29 | Hong Kong, China | 21 |
 | 1.29 | Morocco | 7 |
@@ -116,7 +116,7 @@
 | 1.19 | Mongolia | 32 |
 | 1.18 | El Salvador | 33 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2864 |
+| 1.16 | United States | 2865 |
 | 1.16 | Canada | 363 |
 | 1.13 | Azerbaijan | 45 |
 | 1.12 | Honduras | 17 |

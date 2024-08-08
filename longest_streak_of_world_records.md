@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on  1 August 2024*
+*Updated on  7 August 2024*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -62,7 +62,7 @@
 | 4 | 3x3x3 Multi-Blind | Single | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | [Silence in the Grove 2019](https://www.worldcubeassociation.org/competitions/SilenceInTheGrove2019) |  | 5.20 |
 | 4 | Rubik's Magic | Average | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Nanjing Spring Open 2010](https://www.worldcubeassociation.org/competitions/NanjingSpringOpen2010) |  | 14.29 |
 | 3 | Rubik's Cube | Average | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [Caltech Winter 2004](https://www.worldcubeassociation.org/competitions/CaltechWinter2004) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) | 2.15 |
-| 3 | Rubik's Cube | Average | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) |  | 1.41 |
+| 3 | Rubik's Cube | Average | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) |  | 1.42 |
 | 3 | 4x4x4 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Asian Championship 2010](https://www.worldcubeassociation.org/competitions/AsianChampionship2010) | [Hamburg Open 2011](https://www.worldcubeassociation.org/competitions/HamburgOpen2011) | 0.56 |
 | 3 | 4x4x4 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Kubaroo Open 2011](https://www.worldcubeassociation.org/competitions/KubarooOpen2011) | [Dutch Nationals 2011](https://www.worldcubeassociation.org/competitions/DutchNationals2011) | 0.61 |
 | 3 | 4x4x4 Cube | Average | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008) | [Tokyo Open 2008](https://www.worldcubeassociation.org/competitions/TokyoOpen2008) | 0.50 |
@@ -180,11 +180,11 @@
 | 2 | Pyraminx | Average | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | [Indiana 2014](https://www.worldcubeassociation.org/competitions/Indiana2014) | 2.11 |
 | 2 | Pyraminx | Average | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | [US Nationals 2016](https://www.worldcubeassociation.org/competitions/USNationals2016) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017) | 1.36 |
 | 2 | Pyraminx | Average | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024) | 0.61 |
-| 2 | Pyraminx | Average | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024) |  | 0.43 |
+| 2 | Pyraminx | Average | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024) |  | 0.44 |
 | 2 | Rubik's Clock | Single | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) | [Shanghai Winter 2011](https://www.worldcubeassociation.org/competitions/ShanghaiWinter2011) | [Generalen 2015](https://www.worldcubeassociation.org/competitions/Generalforsamlingen2015) | 3.16 |
 | 2 | Rubik's Clock | Single | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023) | 1.90 |
 | 2 | Rubik's Clock | Single | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024) | [Chicago Area Twist Spring A 2024](https://www.worldcubeassociation.org/competitions/ChicagoAreaTwistSpringA2024) | 0.08 |
-| 2 | Rubik's Clock | Single | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [West Coast 3: Trollhättan 2024](https://www.worldcubeassociation.org/competitions/WestCoast3Trollhattan2024) |  | 0.16 |
+| 2 | Rubik's Clock | Single | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [West Coast 3: Trollhättan 2024](https://www.worldcubeassociation.org/competitions/WestCoast3Trollhattan2024) |  | 0.17 |
 | 2 | Rubik's Clock | Average | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007) | [Japan Open 2010](https://www.worldcubeassociation.org/competitions/JapanOpen2010) | 2.70 |
 | 2 | Rubik's Clock | Average | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) | [Japan Open 2010](https://www.worldcubeassociation.org/competitions/JapanOpen2010) | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) | 1.34 |
 | 2 | Rubik's Clock | Average | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) | [Asian Championship 2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014) | [Xi'an Cherry Blossom 2015](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2015) | 0.42 |

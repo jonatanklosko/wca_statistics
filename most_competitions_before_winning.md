@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  1 August 2024*
+*Updated on  7 August 2024*
 
 
 ### Rubik's Cube
@@ -31,8 +31,8 @@
 | 79 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023) |
 | 76 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [Idaho Spudcubing II 2021](https://www.worldcubeassociation.org/competitions/IdahoSpudcubingII2021) |
 | 69 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Puerto Rico Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRicoOpen2024) |
+| 67 | [Thomas Sonnenberg Jarner](https://www.worldcubeassociation.org/persons/2017JARN01) | [Manchester August 2024](https://www.worldcubeassociation.org/competitions/ManchesterAugust2024) |
 | 63 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Dolmen Open 2012](https://www.worldcubeassociation.org/competitions/DolmenOpen2012) |
-| 63 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [Copper Country Cubing 2019](https://www.worldcubeassociation.org/competitions/CopperCountryCubing2019) |
 
 ### 4x4x4 Cube
 
@@ -240,9 +240,9 @@
 | 21 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Swiss Nationals 2018](https://www.worldcubeassociation.org/competitions/SwissNationals2018) |
 | 20 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | [Country Roads Huntington 2024](https://www.worldcubeassociation.org/competitions/CountryRoadsHuntington2024) |
 | 19 | [Ivan Krueger](https://www.worldcubeassociation.org/persons/2016KRUE01) | [PBS Pickering Evening 2023](https://www.worldcubeassociation.org/competitions/PBSPickeringEvening2023) |
+| 19 | [Aaron Spiller](https://www.worldcubeassociation.org/persons/2018SPIL01) | [Side N Blind Narre Warren 2024](https://www.worldcubeassociation.org/competitions/SideNBlindNarreWarren2024) |
 | 18 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018) |
 | 18 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | [Big Blind UBC 2019](https://www.worldcubeassociation.org/competitions/BigBlindUBC2019) |
-| 17 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Swedish Championship 2019](https://www.worldcubeassociation.org/competitions/SwedishChampionship2019) |
 
 ### 3x3x3 Multi-Blind
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 August 2024*
+*Updated on  7 August 2024*
 
 
 ### Rubik's Cube
@@ -57,7 +57,7 @@
 | 36.27 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 34.53, 35.30, 38.97, 39.44, 33.82 |
 | 36.75 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 44.40, 34.49, 34.16, 37.95, 37.82 |
 | 36.85 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 37.94, 38.79, 36.83, 34.86, 35.79 |
-| 39.70 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 42.32, 37.39, 39.88, 35.16, 41.83 |
+| 38.65 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 37.43, 47.69, 37.89, 39.73, 38.32 |
 | 40.40 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 38.55, 40.78, 43.80, 38.82, 41.59 |
 | 40.51 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 40.74, 46.74, 41.54, 39.24, 38.54 |
 | 40.73 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 38.24, 51.81, 39.22, 40.42, 42.54 |
@@ -86,7 +86,7 @@
 | 1:41.28 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:48.04, 1:36.19, 1:38.19, 1:44.65, 1:40.99 |
 | 1:47.79 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:42.58, 1:46.49, 2:00.70, 1:54.30, 1:38.42 |
 | 1:49.23 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:48.92, 2:28.11, 1:44.92, 1:49.41, 1:49.36 |
-| 1:50.36 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:51.56, 1:47.76, 1:51.75, 1:55.49, 1:43.15 |
+| 1:49.35 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:43.15, 2:01.06, 1:49.26, 1:48.14, 1:50.66 |
 | 1:51.38 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:49.38, 1:49.66, 1:55.10, 1:59.04, 1:49.01 |
 | 1:51.79 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 2:00.21, 1:51.06, 1:51.44, 1:49.91, 1:52.86 |
 | 1:53.33 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:54.91, 2:02.88, 1:50.66, 1:54.41, 1:48.00 |

@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  1 August 2024*
+*Updated on  7 August 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -9,12 +9,12 @@
 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 40 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
+| 35 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 34 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 34 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 34 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
+| 31 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 31 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
-| 30 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 30 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 29 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 28 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
@@ -54,7 +54,7 @@
 | 19 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
-| 18 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
+| 18 | [Justin Vinckenbosch](https://www.worldcubeassociation.org/persons/2016VINC03) |
 | 18 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
 | 18 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
@@ -64,6 +64,7 @@
 | 18 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 18 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 18 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 18 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 18 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
 | 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
 | 17 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
@@ -73,7 +74,6 @@
 | 17 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 17 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
 | 17 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 17 | [Justin Vinckenbosch](https://www.worldcubeassociation.org/persons/2016VINC03) |
 | 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 16 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 16 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |

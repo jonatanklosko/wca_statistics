@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 August 2024*
+*Updated on  7 August 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -220,6 +220,7 @@
 | 1232 | [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) |
 | 1232 | [Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01) |
 | 1238 | [Catherine Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
+| 1238 | [Alex Butera](https://www.worldcubeassociation.org/persons/2021BUTE03) |
 | 1239 | [Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03) |
 | 1245 | [Aaron Spiller](https://www.worldcubeassociation.org/persons/2018SPIL01) |
 | 1246 | [Sebastian Werb](https://www.worldcubeassociation.org/persons/2012WERB01) |
@@ -443,6 +444,7 @@
 | 2422 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 2435 | [Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06) |
 | 2436 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) |
+| 2436 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 2464 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 2471 | [Nick Vu](https://www.worldcubeassociation.org/persons/2007VUNI01) |
 | 2485 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) |

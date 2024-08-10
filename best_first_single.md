@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  7 August 2024*
+*Updated on 10 August 2024*
 
 
 ### Rubik's Cube
@@ -40,6 +40,7 @@
 | ---: | :--- |
 | 28.05 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) |
 | 28.09 | [Shaoyi Liu (刘少一)](https://www.worldcubeassociation.org/persons/2024LIUS04) |
+| 28.62 | [Chongkui Chen (陈崇魁)](https://www.worldcubeassociation.org/persons/2023CHEC12) |
 | 29.67 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 29.79 | [Siddhesh Pore](https://www.worldcubeassociation.org/persons/2022PORE01) |
 | 30.60 | [Ian Guevarra Santos](https://www.worldcubeassociation.org/persons/2024SANT11) |
@@ -47,7 +48,6 @@
 | 31.17 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 31.25 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 31.47 | [Aditya Bareja](https://www.worldcubeassociation.org/persons/2022BARE01) |
-| 31.91 | [Li-Chen Lin (林立宸)](https://www.worldcubeassociation.org/persons/2021LINL02) |
 
 ### 5x5x5 Cube
 
@@ -60,9 +60,9 @@
 | 58.59 | [Sujan Irosha Kumarapperuma](https://www.worldcubeassociation.org/persons/2019KUMA59) |
 | 58.94 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
 | 58.98 | [Yudai Naito (内藤悠大)](https://www.worldcubeassociation.org/persons/2023NAIT01) |
+| 59.94 | [Peiyuan Chen (陈培源)](https://www.worldcubeassociation.org/persons/2024CHEP04) |
 | 1:00.50 | [Chongkui Chen (陈崇魁)](https://www.worldcubeassociation.org/persons/2023CHEC12) |
 | 1:00.50 | [Haoxuan Zhu (朱皓轩)](https://www.worldcubeassociation.org/persons/2019ZHUH05) |
-| 1:01.86 | [Joel Gaxiola Castro](https://www.worldcubeassociation.org/persons/2018CAST35) |
 
 ### 6x6x6 Cube
 
@@ -90,9 +90,9 @@
 | 2:36.54 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
 | 2:36.93 | [Andy Mok Man Cheuk (莫文卓)](https://www.worldcubeassociation.org/persons/2016CHEU04) |
 | 2:39.57 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) |
+| 2:39.89 | [Peiyuan Chen (陈培源)](https://www.worldcubeassociation.org/persons/2024CHEP04) |
 | 2:41.15 | [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) |
 | 2:42.42 | [Xin Luo (罗鑫)](https://www.worldcubeassociation.org/persons/2013LUOX01) |
-| 2:43.07 | [Tao Sun (孙涛)](https://www.worldcubeassociation.org/persons/2019SUNT02) |
 
 ### 3x3x3 Blindfolded
 
@@ -113,8 +113,8 @@
 
 | First single | Person |
 | ---: | :--- |
-| 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
 | 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
+| 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
 | 22 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
 | 23 | [Mosfikul Islam](https://www.worldcubeassociation.org/persons/2023ISLA08) |
 | 23 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
@@ -134,10 +134,10 @@
 | 11.70 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) |
 | 11.72 | [Arthur Vinicios Medeiros Alves](https://www.worldcubeassociation.org/persons/2023ALVE12) |
 | 11.90 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
+| 12.47 | [Zih-Yang Chen (陳子揚)](https://www.worldcubeassociation.org/persons/2017CHEZ06) |
 | 12.61 | [Yihan Cai (蔡依函)](https://www.worldcubeassociation.org/persons/2017CAIY02) |
 | 12.68 | [Mohammadreza Abbaszadeh (محمدرضا عباس زاده)](https://www.worldcubeassociation.org/persons/2023ABBA06) |
 | 12.78 | [Zhaojie Li (李肇杰)](https://www.worldcubeassociation.org/persons/2019LIZH12) |
-| 12.99 | [SeungYoon Hyeon](https://www.worldcubeassociation.org/persons/2013HYEO01) |
 
 ### Megaminx
 
@@ -176,13 +176,13 @@
 | 4.20 | [Wataru Takamiya (髙宮径)](https://www.worldcubeassociation.org/persons/2023TAKA02) |
 | 4.21 | [Lachlan Adams-Romyn](https://www.worldcubeassociation.org/persons/2022ADAM01) |
 | 4.33 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
+| 4.64 | [Adrián Morales Morales](https://www.worldcubeassociation.org/persons/2022MORA09) |
 | 4.80 | [Michael Fonseca](https://www.worldcubeassociation.org/persons/2019FONS06) |
 | 5.02 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) |
 | 5.05 | [Caleb Merritt](https://www.worldcubeassociation.org/persons/2022MERR04) |
 | 5.07 | [Yijie Zhao (赵翊杰)](https://www.worldcubeassociation.org/persons/2021ZHAO19) |
 | 5.44 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) |
 | 5.50 | [Alexander Gager](https://www.worldcubeassociation.org/persons/2017GAGE01) |
-| 5.52 | [Ryunosuke Sato (佐藤琉之介)](https://www.worldcubeassociation.org/persons/2023SATO05) |
 
 ### Skewb
 

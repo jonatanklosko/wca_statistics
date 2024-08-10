@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 August 2024*
+*Updated on 10 August 2024*
 
 
 ### Rubik's Cube
@@ -135,7 +135,7 @@
 | 0.13 | [Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01) | 1:20.65 | 1:20.78 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2015PADG01) |
 | 0.14 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | 39.29 | 39.43 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2012LEWI01) |
 | 0.14 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 1:11.10 | 1:11.24 | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018/results/by_person#2017GOLU01) |
-| 0.14 | [Jun Qi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 1:26.82 | 1:26.96 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021/results/by_person#2015FENG12) |
+| 0.14 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 1:26.82 | 1:26.96 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021/results/by_person#2015FENG12) |
 | 0.16 | [Zaiyang Zhang (张在旸)](https://www.worldcubeassociation.org/persons/2017ZHAZ09) | 1:24.57 | 1:24.73 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2017ZHAZ09) |
 | 0.17 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 30.56 | 30.73 | [DFW Cubing Fall 2022](https://www.worldcubeassociation.org/competitions/DFWCubingFall2022/results/by_person#2015NAIN01) |
 

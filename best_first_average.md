@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  7 August 2024*
+*Updated on 10 August 2024*
 
 
 ### Rubik's Cube
@@ -45,9 +45,9 @@
 | 31.63 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 31.76 | [Xiangmin Zhou (周向民)](https://www.worldcubeassociation.org/persons/2023ZHOU35) |
 | 31.99 | [Rodrigue Hermanne Rafanambinantsoa](https://www.worldcubeassociation.org/persons/2024RAFA04) |
+| 32.38 | [Chongkui Chen (陈崇魁)](https://www.worldcubeassociation.org/persons/2023CHEC12) |
 | 32.65 | [Chenyuheng Zhang (张陈禹衡)](https://www.worldcubeassociation.org/persons/2024ZHAN08) |
 | 32.83 | [Siddhesh Pore](https://www.worldcubeassociation.org/persons/2022PORE01) |
-| 33.11 | [Youyu Peng (彭宥裕)](https://www.worldcubeassociation.org/persons/2023PENG14) |
 
 ### 5x5x5 Cube
 
@@ -61,8 +61,8 @@
 | 57.66 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 57.84 | [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) |
 | 59.66 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
+| 1:00.06 | [Peiyuan Chen (陈培源)](https://www.worldcubeassociation.org/persons/2024CHEP04) |
 | 1:00.37 | [Sujan Irosha Kumarapperuma](https://www.worldcubeassociation.org/persons/2019KUMA59) |
-| 1:00.51 | [Tianzuo Du (杜天佐)](https://www.worldcubeassociation.org/persons/2021DUTI01) |
 
 ### 6x6x6 Cube
 
@@ -76,8 +76,8 @@
 | 1:43.17 | [Diego Rodriguez-Ramirez](https://www.worldcubeassociation.org/persons/2019RODR11) |
 | 1:44.96 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
 | 1:46.52 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
+| 1:51.07 | [Peiyuan Chen (陈培源)](https://www.worldcubeassociation.org/persons/2024CHEP04) |
 | 1:51.30 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
-| 1:51.42 | [Mikul Chanakya](https://www.worldcubeassociation.org/persons/2022CHAN83) |
 
 ### 7x7x7 Cube
 
@@ -91,8 +91,8 @@
 | 2:36.77 | [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) |
 | 2:39.05 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) |
 | 2:42.24 | [Tao Sun (孙涛)](https://www.worldcubeassociation.org/persons/2019SUNT02) |
+| 2:45.17 | [Peiyuan Chen (陈培源)](https://www.worldcubeassociation.org/persons/2024CHEP04) |
 | 2:47.86 | [Wenjie Lan (兰文杰)](https://www.worldcubeassociation.org/persons/2019LANW02) |
-| 2:47.94 | [Diego Rodriguez-Ramirez](https://www.worldcubeassociation.org/persons/2019RODR11) |
 
 ### 3x3x3 Blindfolded
 
@@ -133,11 +133,11 @@
 | 12.66 | [Youyu Peng (彭宥裕)](https://www.worldcubeassociation.org/persons/2023PENG14) |
 | 12.92 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
 | 13.14 | [Tyler Gee](https://www.worldcubeassociation.org/persons/2019GEET02) |
+| 13.33 | [Xu Lu (陆旭)](https://www.worldcubeassociation.org/persons/2018LUXU01) |
 | 13.47 | [Masaya Nakamoto (中本誠也)](https://www.worldcubeassociation.org/persons/2019NAKA07) |
 | 13.54 | [Aragon Martin Gonzales](https://www.worldcubeassociation.org/persons/2023GONZ18) |
-| 13.94 | [Xingyu Zhu (朱星宇)](https://www.worldcubeassociation.org/persons/2023ZHUX01) |
-| 14.08 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) |
-| 14.13 | [Mohammadreza Abbaszadeh (محمدرضا عباس زاده)](https://www.worldcubeassociation.org/persons/2023ABBA06) |
+| 13.64 | [Zichen Liu (刘梓宸)](https://www.worldcubeassociation.org/persons/2024LIUZ09) |
+| 13.75 | [Weijie Wang (王炜杰)](https://www.worldcubeassociation.org/persons/2024WANG27) |
 
 ### Megaminx
 
@@ -207,12 +207,12 @@
 | 8.09 | [Yen-An Chen (陳彥安)](https://www.worldcubeassociation.org/persons/2019CHEY31) |
 | 8.57 | [Bo Ahn-Lewandowski](https://www.worldcubeassociation.org/persons/2020AHNL01) |
 | 9.46 | [Thomas Liao](https://www.worldcubeassociation.org/persons/2017LIAO09) |
+| 9.64 | [Zijia Liu (刘子甲)](https://www.worldcubeassociation.org/persons/2024LIUZ10) |
 | 10.05 | [Xuezhong Deng (邓学中)](https://www.worldcubeassociation.org/persons/2024DENG09) |
 | 10.15 | [Ray Ng Qi Rui (黄启瑞)](https://www.worldcubeassociation.org/persons/2022RUIR01) |
 | 10.18 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
 | 10.50 | [Yasunari Kumekawa (粂川泰成)](https://www.worldcubeassociation.org/persons/2022KUME01) |
 | 10.52 | [Nikolas Palassis](https://www.worldcubeassociation.org/persons/2019PALA11) |
-| 10.59 | [David Okoro-Sokoh](https://www.worldcubeassociation.org/persons/2022OKOR01) |
 
 ### 4x4x4 Blindfolded
 

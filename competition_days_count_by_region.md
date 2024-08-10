@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  7 August 2024*
+*Updated on 10 August 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 12778 |
+| 1.47 | World | 12794 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4156 |
-| 1.50 | South America | 1560 |
+| 1.73 | Europe | 4158 |
+| 1.50 | South America | 1564 |
 | 1.47 | Oceania | 563 |
-| 1.41 | Asia | 2769 |
+| 1.41 | Asia | 2771 |
 | 1.30 | Africa | 147 |
-| 1.20 | North America | 3583 |
+| 1.20 | North America | 3591 |
 
 ### Countries
 
@@ -41,13 +41,13 @@
 | 1.87 | France | 293 |
 | 1.87 | Slovakia | 39 |
 | 1.87 | Finland | 140 |
-| 1.85 | Spain | 352 |
+| 1.85 | Spain | 353 |
 | 1.85 | Switzerland | 113 |
 | 1.85 | Bosnia and Herzegovina | 13 |
 | 1.85 | Croatia | 26 |
 | 1.84 | Thailand | 63 |
 | 1.82 | Sri Lanka | 11 |
-| 1.82 | Mexico | 157 |
+| 1.80 | Mexico | 161 |
 | 1.77 | Iceland | 13 |
 | 1.77 | Guatemala | 56 |
 | 1.76 | Slovenia | 34 |
@@ -73,7 +73,7 @@
 | 1.56 | Dominican Republic | 27 |
 | 1.54 | Sweden | 287 |
 | 1.54 | Malaysia | 96 |
-| 1.52 | Bolivia | 117 |
+| 1.53 | Bolivia | 118 |
 | 1.50 | Belize | 2 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Latvia | 32 |
@@ -96,10 +96,10 @@
 | 1.35 | Chinese Taipei | 142 |
 | 1.35 | Ecuador | 49 |
 | 1.33 | Tajikistan | 3 |
-| 1.32 | Colombia | 330 |
+| 1.32 | Colombia | 333 |
 | 1.32 | Panama | 19 |
 | 1.31 | Republic of Korea | 97 |
-| 1.31 | Philippines | 297 |
+| 1.30 | Philippines | 299 |
 | 1.29 | Andorra | 7 |
 | 1.29 | Hong Kong, China | 21 |
 | 1.29 | Morocco | 7 |
@@ -116,18 +116,18 @@
 | 1.19 | Mongolia | 32 |
 | 1.18 | El Salvador | 33 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2879 |
+| 1.16 | United States | 2883 |
 | 1.16 | Canada | 368 |
 | 1.13 | Azerbaijan | 45 |
 | 1.12 | Honduras | 17 |
 | 1.10 | Armenia | 10 |
+| 1.09 | Cyprus | 11 |
 | 1.06 | Georgia | 35 |
 | 1.00 | Albania | 3 |
 | 1.00 | Algeria | 9 |
 | 1.00 | Angola | 4 |
 | 1.00 | Cambodia | 3 |
 | 1.00 | Cuba | 1 |
-| 1.00 | Cyprus | 10 |
 | 1.00 | Egypt | 6 |
 | 1.00 | Kenya | 9 |
 | 1.00 | Kosovo | 3 |

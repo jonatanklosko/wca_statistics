@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 August 2024*
+*Updated on 10 August 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -177,8 +177,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -485,7 +485,7 @@
 | 2877 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) |
 | 2891 | [Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01) |
 | 2891 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
-| 2897 | [Victor Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
+| 2897 | [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
 | 2897 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 2913 | [Liam Highducheck](https://www.worldcubeassociation.org/persons/2015HIGH01) |
 | 2925 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
@@ -500,6 +500,7 @@
 | 3086 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 3109 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 3116 | [Ahsanul Insan Hamid](https://www.worldcubeassociation.org/persons/2011HAMI01) |
+| 3135 | [Ordway Persyn](https://www.worldcubeassociation.org/persons/2016PERS01) |
 | 3149 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) |
 | 3158 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 3170 | [Luboš Bartík](https://www.worldcubeassociation.org/persons/2015BART01) |
@@ -545,6 +546,7 @@
 | 4229 | [Andrei Răzvan Ionel](https://www.worldcubeassociation.org/persons/2012IONE01) |
 | 4318 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) |
 | 4383 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) |
+| 4430 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) |
 | 4446 | [Austin Reed](https://www.worldcubeassociation.org/persons/2011REED01) |
 | 4583 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 4711 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) |

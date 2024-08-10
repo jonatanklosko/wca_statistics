@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  7 August 2024*
+*Updated on 10 August 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -16,10 +16,10 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **159** | 22 | 9 | 190 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **149** | 66 | 36 | 251 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **140** | 152 | 133 | 425 |
+| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **135** | 157 | 81 | 373 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **134** | 71 | 43 | 248 |
-| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **133** | 155 | 80 | 368 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **119** | 98 | 82 | 299 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **122** | 100 | 82 | 304 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **115** | 50 | 34 | 199 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **112** | 105 | 94 | 311 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **111** | 61 | 18 | 190 |
@@ -37,9 +37,9 @@
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **81** | 59 | 52 | 192 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **81** | 20 | 12 | 113 |
 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **79** | 75 | 75 | 229 |
+| [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **78** | 45 | 36 | 159 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **77** | 60 | 49 | 186 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **75** | 80 | 51 | 206 |
-| [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **75** | 45 | 36 | 156 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **74** | 62 | 49 | 185 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **72** | 78 | 51 | 201 |
 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |
@@ -51,7 +51,7 @@
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **63** | 45 | 49 | 157 |
 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **61** | 60 | 34 | 155 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **61** | 25 | 18 | 104 |
-| [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **59** | 69 | 78 | 206 |
+| [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **59** | 69 | 79 | 207 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **58** | 51 | 35 | 144 |
 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **56** | 34 | 12 | 102 |
@@ -62,11 +62,11 @@
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **54** | 16 | 3 | 73 |
 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **52** | 35 | 23 | 110 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **51** | 50 | 39 | 140 |
+| [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **51** | 43 | 30 | 124 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | **51** | 20 | 11 | 82 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **51** | 12 | 3 | 66 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **50** | 65 | 64 | 179 |
 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **50** | 49 | 45 | 144 |
-| [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **50** | 39 | 27 | 116 |
 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **50** | 24 | 10 | 84 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **49** | 63 | 52 | 164 |
 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | **49** | 53 | 44 | 146 |
@@ -100,11 +100,11 @@
 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | **38** | 12 | 5 | 55 |
 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) | **37** | 25 | 17 | 79 |
 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **37** | 22 | 10 | 69 |
+| [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | **36** | 50 | 33 | 119 |
 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | **36** | 29 | 25 | 90 |
 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) | **36** | 22 | 15 | 73 |
 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | **36** | 12 | 9 | 57 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **36** | 6 | 3 | 45 |
-| [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | **35** | 48 | 32 | 115 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

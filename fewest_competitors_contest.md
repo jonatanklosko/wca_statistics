@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 August 2024*
+*Updated on 10 August 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -131,6 +131,7 @@
 | 9 | [Anaheim Feet 2019](https://www.worldcubeassociation.org/competitions/AnaheimFeet2019) |
 | 9 | [April in Alice Springs 2021](https://www.worldcubeassociation.org/competitions/AprilinAliceSprings2021) |
 | 9 | [Arena Bernô 2 City FM 2019](https://www.worldcubeassociation.org/competitions/ArenaBerno2CityFM2019) |
+| 9 | [Arena Bernô 6 City FM 2024](https://www.worldcubeassociation.org/competitions/ArenaBerno6CityFM2024) |
 | 9 | [Avalon 2013](https://www.worldcubeassociation.org/competitions/AvalonOpen2013) |
 | 9 | [Back to Cambridge B 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeB2021) |
 | 9 | [Big & Blind Pretoria 2024](https://www.worldcubeassociation.org/competitions/BigBlindPretoria2024) |
@@ -530,6 +531,7 @@
 | 14 | [Wall Street Spring A 2024](https://www.worldcubeassociation.org/competitions/WallStreetSpringA2024) |
 | 14 | [Warden of the West 2018](https://www.worldcubeassociation.org/competitions/WardenoftheWest2018) |
 | 14 | [Warden of the West 2020](https://www.worldcubeassociation.org/competitions/WardenoftheWest2020) |
+| 14 | [Warsaw FMC Tour Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourThursday2024) |
 | 14 | [Xi'an Winter 2011](https://www.worldcubeassociation.org/competitions/XianWinter2011) |
 | 15 | [Amatitlán 2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019) |
 | 15 | [Arrigorriaga Side Events 2023](https://www.worldcubeassociation.org/competitions/ArrigorriagaSideEvents2023) |

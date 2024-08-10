@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on  7 August 2024*
+*Updated on 10 August 2024*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -298,11 +298,11 @@
 | 1 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | Hungary | [Black Unicorn Budapest 2023](https://www.worldcubeassociation.org/competitions/BlackUnicornBudapest2023) |
 | 1 | [Bence János Csuti](https://www.worldcubeassociation.org/persons/2014CSUT01) | Hungary | [FMC Europe 2017](https://www.worldcubeassociation.org/competitions/FMCEurope2017) |
 | 1 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | United States | [Northwest FMC Championship 2024](https://www.worldcubeassociation.org/competitions/NorthwestFMCChampionship2024) |
-| 1 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) | India | [Mumbai Challenge 2010](https://www.worldcubeassociation.org/competitions/MumbaiChallenge2010) |
 | 1 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) | India | [Bangalore Challenge 2011](https://www.worldcubeassociation.org/competitions/BangaloreOpen2011) |
 | 1 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) | India | [Chennai Challenge 2009](https://www.worldcubeassociation.org/competitions/ChennaiCubeChallenge2009) |
-| 1 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | Canada | [Ajax 3x3x3 Afternoon 2023](https://www.worldcubeassociation.org/competitions/Ajax333Afternoon2023) |
+| 1 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) | India | [Mumbai Challenge 2010](https://www.worldcubeassociation.org/competitions/MumbaiChallenge2010) |
 | 1 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | Canada | [Markham 3x3x3 Afternoon 2023](https://www.worldcubeassociation.org/competitions/Markham333Afternoon2023) |
+| 1 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | Canada | [Ajax 3x3x3 Afternoon 2023](https://www.worldcubeassociation.org/competitions/Ajax333Afternoon2023) |
 | 1 | [Bo Huang (黄镈)](https://www.worldcubeassociation.org/persons/2013HUAN16) | China | [Cross-strait FMC 2018](https://www.worldcubeassociation.org/competitions/CrossstraitFMC2018) |
 | 1 | [Bogdan Grigoruţă](https://www.worldcubeassociation.org/persons/2013GRIG01) | Romania | [FMC Romania 2024](https://www.worldcubeassociation.org/competitions/FMCRomania2024) |
 | 1 | [Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01) | Canada | [Rubik's x SCC All-Stars 2023](https://www.worldcubeassociation.org/competitions/RubiksSCCAllStars2023) |
@@ -313,6 +313,7 @@
 | 1 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | Hong Kong, China | [Ajax 3x3x3 Evening 2023](https://www.worldcubeassociation.org/competitions/Ajax333Evening2023) |
 | 1 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | Hong Kong, China | [Ajax 3x3x3 Newcomers B 2024](https://www.worldcubeassociation.org/competitions/Ajax3x3x3NewcomersB2024) |
 | 1 | [Cailyn Hoover](https://www.worldcubeassociation.org/persons/2016HOOV01) | United States | [JAM FMC I 2023](https://www.worldcubeassociation.org/competitions/JAMFMCI2023) |
+| 1 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | Brazil | [Arena Bernô 6 City FM 2024](https://www.worldcubeassociation.org/competitions/ArenaBerno6CityFM2024) |
 | 1 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | Brazil | [Desafio Hungria em SP 2024](https://www.worldcubeassociation.org/competitions/DesafioHungriaemSP2024) |
 | 1 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [FMC Americas 2019](https://www.worldcubeassociation.org/competitions/FMCAmericas2019) |
 | 1 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [Great Lakes FMC Champs 2023](https://www.worldcubeassociation.org/competitions/GreatLakesFMCChampionship2023) |
@@ -495,6 +496,7 @@
 | 1 | [Piero Alessandro Laguna Obregon](https://www.worldcubeassociation.org/persons/2016OBRE01) | Peru | [Altiplanic FMC 2024](https://www.worldcubeassociation.org/competitions/AltiplanicFMC2024) |
 | 1 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | Chinese Taipei | [Taipei FMC all Day 2023](https://www.worldcubeassociation.org/competitions/TaipeiFMCallDay2023) |
 | 1 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) | Thailand | [NSM Thailand 2009](https://www.worldcubeassociation.org/competitions/NSMThailand2009) |
+| 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | Poland | [Warsaw FMC Tour Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourThursday2024) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | Poland | [FMC Poland-Czechia-Slovakia 2024](https://www.worldcubeassociation.org/competitions/FMCPolandCzechiaSlovakia2024) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | Poland | [Imagine FMC in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/ImagineFMCinRzeszow2023) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | Poland | [2 Rounds of FMC in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/2RoundsofFMCinRzeszow2023) |

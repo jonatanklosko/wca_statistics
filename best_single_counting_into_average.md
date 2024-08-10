@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 August 2024*
+*Updated on 10 August 2024*
 
 
 ### Rubik's Cube
@@ -14,9 +14,9 @@
 | 4.21 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cubing at The Cube 2024](https://www.worldcubeassociation.org/competitions/CubingatTheCube2024/results/by_person#2016KOLA02) |
 | 4.23 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Kunshan Open 2024](https://www.worldcubeassociation.org/competitions/KunshanOpen2024/results/by_person#2019WANY36) |
 | 4.24 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/by_person#2012PARK03) |
+| 4.27 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024/results/by_person#2019WANY36) |
+| 4.28 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/by_person#2016INAB01) |
 | 4.28 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024/results/by_person#2019WANY36) |
-| 4.30 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Beaconhouse Malaysia Cube 2023](https://www.worldcubeassociation.org/competitions/BeaconhouseMalaysiaCubeOpen2023/results/by_person#2019WANY36) |
-| 4.34 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Thailand Championship 2023](https://www.worldcubeassociation.org/competitions/ThailandChampionship2023/results/by_person#2019WANY36) |
 
 ### 2x2x2 Cube
 
@@ -89,9 +89,9 @@
 | 25.71 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Shenzhen Open 2023](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2023/results/by_person#2016WUZI04) |
 | 25.79 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
 | 25.79 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Masters 2023](https://www.worldcubeassociation.org/competitions/SingaporeMasters2023/results/by_person#2016YONG02) |
+| 25.79 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024/results/by_person#2016WUZI04) |
 | 25.97 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Max 2024](https://www.worldcubeassociation.org/competitions/SingaporeMax2024/results/by_person#2016YONG02) |
 | 25.97 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [SAC 2024](https://www.worldcubeassociation.org/competitions/SAC2024/results/by_person#2018LOPE22) |
-| 26.27 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Penang Cube Masters 2023](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2023/results/by_person#2016YONG02) |
 
 ### Pyraminx
 
@@ -103,10 +103,10 @@
 | 1.18 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Nanchang Spring 2024](https://www.worldcubeassociation.org/competitions/NanchangSpring2024/results/by_person#2019JIAN54) |
 | 1.18 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Waterloo Favourites B 2023](https://www.worldcubeassociation.org/competitions/WaterlooFavouritesB2023/results/by_person#2019SHER10) |
 | 1.20 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023/results/by_person#2019MEAD03) |
+| 1.21 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Lincolnshire Summer 2024](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2024/results/by_person#2022PART02) |
 | 1.22 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Queensland Open 2024](https://www.worldcubeassociation.org/competitions/QueenslandOpen2024/results/by_person#2018MURR03) |
 | 1.23 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/by_person#2021LEES01) |
 | 1.25 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/by_person#2019JIAN54) |
-| 1.26 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Guiyang Open 2024](https://www.worldcubeassociation.org/competitions/GuiyangOpen2024/results/by_person#2019JIAN54) |
 
 ### Rubik's Clock
 
@@ -146,12 +146,12 @@
 | 4.28 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN26) |
 | 4.33 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
 | 4.40 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023/results/by_person#2021DUNA01) |
+| 4.43 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/by_person#2019BAUM02) |
 | 4.45 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube in Denton 2024](https://www.worldcubeassociation.org/competitions/CubeWithRetentioninDenton2024/results/by_person#2019BAUM02) |
 | 4.46 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Northwest Championship 2024](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2024/results/by_person#2017AGGA01) |
 | 4.47 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
 | 4.51 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DFWCubingWinter2024/results/by_person#2019BAUM02) |
 | 4.52 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Spring 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2024/results/by_person#2019BAUM02) |
-| 4.60 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017SIAU02) |
 
 ### 3x3x3 With Feet
 

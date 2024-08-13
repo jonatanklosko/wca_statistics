@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 August 2024*
+*Updated on 13 August 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -283,6 +283,7 @@
 | 1 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) |
 | 1 | [Ty Marshall](https://www.worldcubeassociation.org/persons/2014MARS04) |
 | 1 | [Uladzislau Ushakov (Владислав Ушаков)](https://www.worldcubeassociation.org/persons/2014USHA01) |
+| 1 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) |
 | 1 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |
 | 1 | [Yulun Wu (吴宇伦)](https://www.worldcubeassociation.org/persons/2010WUYU02) |
 | 1 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 August 2024*
+*Updated on 13 August 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -57,6 +57,7 @@
 | 524 | [Thiago Han](https://www.worldcubeassociation.org/persons/2022HANT01) |
 | 531 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) |
 | 532 | [Diasbek Zhuraev (Диасбек Жураев)](https://www.worldcubeassociation.org/persons/2021ZHUR04) |
+| 532 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) |
 | 539 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
 | 539 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) |
 | 539 | [Håvard Elias Helland](https://www.worldcubeassociation.org/persons/2022HELL03) |
@@ -88,6 +89,7 @@
 | 665 | [Mats Walker](https://www.worldcubeassociation.org/persons/2021WALK02) |
 | 665 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) |
 | 665 | [Haotian Hu (胡皓天)](https://www.worldcubeassociation.org/persons/2022HUHA01) |
+| 665 | [Riccardo Ripoldi](https://www.worldcubeassociation.org/persons/2022RIPO01) |
 | 667 | [Tianping Ding (丁天平)](https://www.worldcubeassociation.org/persons/2016DING05) |
 | 670 | [Shunsuke Wada (和田俊輔)](https://www.worldcubeassociation.org/persons/2016WADA01) |
 | 671 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |

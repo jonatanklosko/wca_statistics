@@ -110,6 +110,7 @@
 | 734 | [Shawn Lee Zhi Xuan (李致轩)](https://www.worldcubeassociation.org/persons/2017XUAN03) |
 | 735 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 741 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
+| 741 | [Komahal Eswaran](https://www.worldcubeassociation.org/persons/2022ESWA01) |
 | 742 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 742 | [Miles Greco](https://www.worldcubeassociation.org/persons/2022GREC01) |
 | 750 | [Jaxon Foster](https://www.worldcubeassociation.org/persons/2021FOST01) |

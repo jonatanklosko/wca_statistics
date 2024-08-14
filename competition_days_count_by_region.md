@@ -7,18 +7,18 @@
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 12812 |
+| 1.47 | World | 12819 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
 | 1.73 | Europe | 4165 |
-| 1.50 | South America | 1569 |
+| 1.50 | South America | 1570 |
 | 1.47 | Oceania | 563 |
-| 1.41 | Asia | 2772 |
+| 1.41 | Asia | 2774 |
 | 1.30 | Africa | 147 |
-| 1.20 | North America | 3596 |
+| 1.20 | North America | 3600 |
 
 ### Countries
 
@@ -47,7 +47,7 @@
 | 1.85 | Croatia | 26 |
 | 1.84 | Thailand | 63 |
 | 1.82 | Sri Lanka | 11 |
-| 1.80 | Mexico | 161 |
+| 1.80 | Mexico | 162 |
 | 1.77 | Iceland | 13 |
 | 1.77 | Guatemala | 56 |
 | 1.76 | Slovenia | 34 |
@@ -91,10 +91,10 @@
 | 1.42 | Israel | 53 |
 | 1.40 | Romania | 121 |
 | 1.38 | Estonia | 61 |
+| 1.37 | Ecuador | 51 |
 | 1.36 | Vietnam | 66 |
 | 1.35 | Paraguay | 31 |
 | 1.35 | Chinese Taipei | 142 |
-| 1.34 | Ecuador | 50 |
 | 1.33 | Tajikistan | 3 |
 | 1.32 | Colombia | 333 |
 | 1.32 | Panama | 19 |
@@ -112,11 +112,11 @@
 | 1.25 | China | 649 |
 | 1.22 | Bahrain | 9 |
 | 1.22 | Kuwait | 9 |
-| 1.21 | Japan | 228 |
+| 1.20 | Japan | 230 |
 | 1.19 | Mongolia | 32 |
 | 1.18 | El Salvador | 33 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2888 |
+| 1.16 | United States | 2891 |
 | 1.16 | Canada | 368 |
 | 1.13 | Azerbaijan | 45 |
 | 1.12 | Honduras | 17 |

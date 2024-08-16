@@ -1,11 +1,11 @@
 ## Most competitions abroad
 
-*Updated on 13 August 2024*
+*Updated on 16 August 2024*
 
 | Competitions | Person |
 | ---: | :--- |
 | 189 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
-| 171 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 172 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 161 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 145 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 136 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
@@ -37,9 +37,9 @@
 | 87 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 86 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 86 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
+| 86 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 85 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
-| 85 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 84 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 83 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 81 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
@@ -66,10 +66,10 @@
 | 64 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
 | 64 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 63 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
-| 62 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 62 | [Danny Sungin Park (박성인)](https://www.worldcubeassociation.org/persons/2015PARK13) |
+| 62 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
+| 62 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 61 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
-| 61 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 61 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
 | 60 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 60 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |

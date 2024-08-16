@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 13 August 2024*
+*Updated on 16 August 2024*
 
 
 ### Rubik's Cube
@@ -117,12 +117,12 @@
 | 56 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Seomara Cube Fest 2024](https://www.worldcubeassociation.org/competitions/SeomaraCubeFest2024) |
 | 48 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) | [The Hague Open 2017](https://www.worldcubeassociation.org/competitions/TheHagueOpen2017) |
 | 45 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | [Cuberussia in Kalmykia 2017](https://www.worldcubeassociation.org/competitions/CuberussiainKalmykia2017) |
+| 43 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024) |
 | 38 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) | [Pi Berkeley Quiet 2020](https://www.worldcubeassociation.org/competitions/PiBerkeleyQuiet2020) |
 | 36 | [Marcos Ameijeiras Moreno](https://www.worldcubeassociation.org/persons/2008MORE01) | [Andorra 2019](https://www.worldcubeassociation.org/competitions/Andorra2019) |
 | 35 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) |
 | 35 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) |
 | 34 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | [Please Be Quiet Anchorage 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietAnchorage2024) |
-| 33 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Andorra 2018](https://www.worldcubeassociation.org/competitions/Andorra2018) |
 
 ### 3x3x3 One-Handed
 
@@ -255,9 +255,9 @@
 | 25 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) | [Pocos Cupos VII 2024](https://www.worldcubeassociation.org/competitions/PocosCuposVII2024) |
 | 24 | [John Edison Ubaldo (ᜇ᜔ᜌᜓ︀ᜈ᜔ ᜁᜇᜒᜐᜓ︀ᜈ᜔ ᜂᜊᜎ᜔ᜇᜓ︀)](https://www.worldcubeassociation.org/persons/2010UBAL01) | [Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/VisayasChampionship2019) |
 | 23 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | [PBQ CBC 2022](https://www.worldcubeassociation.org/competitions/PBQCBC2022) |
+| 23 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) | [Norwegian Championship 2024](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2024) |
 | 22 | [Jael Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG02) | [Yura Speedcubers 2017](https://www.worldcubeassociation.org/competitions/YuraSpeedcubers2017) |
 | 22 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | [Euskadi Open Portugalete 2018](https://www.worldcubeassociation.org/competitions/EuskadiOpenPortugalete2018) |
-| 21 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Eindhoven Open 2012](https://www.worldcubeassociation.org/competitions/EindhovenOpen2012) |
 
 ### 3x3x3 With Feet
 

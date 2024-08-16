@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 13 August 2024*
+*Updated on 16 August 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -84,7 +84,7 @@
 | 46 | [Chris Van Der Brink](https://www.worldcubeassociation.org/persons/2016BRIN04) | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018) | [Algs in Ankeny 2024](https://www.worldcubeassociation.org/competitions/AlgsinAnkeny2024) |
 | 46 | [Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36) | [Nanchang Spring 2017](https://www.worldcubeassociation.org/competitions/NanchangSpring2017) | [Cambodia Championship 2019](https://www.worldcubeassociation.org/competitions/CambodiaCubingChampionship2019) |
 | 46 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Erciyes Weekend 2018](https://www.worldcubeassociation.org/competitions/ErciyesWeekend2018) | [100. Yıl MBA Cube Weekend 2023](https://www.worldcubeassociation.org/competitions/100YilMBACubeWeekend2023) |
-| 46 | [Joseph Ong](https://www.worldcubeassociation.org/persons/2018ONGJ01) | [Cubetcha 2018](https://www.worldcubeassociation.org/competitions/Cubetcha2018) |  |
+| 46 | [Joseph Ong](https://www.worldcubeassociation.org/persons/2018ONGJ01) | [Cubetcha 2018](https://www.worldcubeassociation.org/competitions/Cubetcha2018) | [Minnesota Meetup IV Tuesday 2024](https://www.worldcubeassociation.org/competitions/MinnesotaMeetupIVTuesday2024) |
 | 45 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | [France 2010](https://www.worldcubeassociation.org/competitions/France2010) | [Coupe de l'AFS 2019](https://www.worldcubeassociation.org/competitions/CoupedelAFS2019) |
 | 45 | [Kevin Costello III](https://www.worldcubeassociation.org/persons/2012COST01) | [Berkeley Winter 2012](https://www.worldcubeassociation.org/competitions/BerkeleyWinter2012) | [Lexington Fall 2015](https://www.worldcubeassociation.org/competitions/LexingtonFall2015) |
 | 45 | [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) | [Viking Summer 2014](https://www.worldcubeassociation.org/competitions/VikingSummerOpen2014) | [Efterårscubing i Hvidovre 2023](https://www.worldcubeassociation.org/competitions/EfterarscubingiHvidovre2023) |

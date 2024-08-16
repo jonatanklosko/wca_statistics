@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 August 2024*
+*Updated on 16 August 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -81,6 +81,7 @@
 | 7 | [Idéale Nabeul Open 2018](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2018) |
 | 7 | [JAM FMC II 2023](https://www.worldcubeassociation.org/competitions/JAMFMCII2023) |
 | 7 | [JL1: Margherita 2023](https://www.worldcubeassociation.org/competitions/JL1Margherita2023) |
+| 7 | [Kailua Liʻi Pōʻalua 2024](https://www.worldcubeassociation.org/competitions/KailuaLiiPoalua2024) |
 | 7 | [KarkauspäiVähiten Siirtoja 2024](https://www.worldcubeassociation.org/competitions/KarkauspaiVahitenSiirtoja2024) |
 | 7 | [Kyiv FMC Friends III 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsIII2023) |
 | 7 | [Kyiv FMC Friends IV 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsIV2023) |
@@ -162,6 +163,7 @@
 | 9 | [Jönköpingsligan 5: Calzone 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan5Calzone2023) |
 | 9 | [Jönköpingsligan 5: Euphoria 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan5Euphoria2023) |
 | 9 | [Jordan Open 2012](https://www.worldcubeassociation.org/competitions/JordanOpen2012) |
+| 9 | [Kailua Liʻi Pōʻakahi 2024](https://www.worldcubeassociation.org/competitions/KailuaLiiPoakahi2024) |
 | 9 | [Keep Portland Quiet 2023](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2023) |
 | 9 | [Kyiv FMC Friends October 2022](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsOctober2022) |
 | 9 | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018) |
@@ -429,6 +431,7 @@
 | 13 | [I Hope It's Solved Edmonton 2019](https://www.worldcubeassociation.org/competitions/IHopeItsSolvedEdmonton2019) |
 | 13 | [Itapeva 2018](https://www.worldcubeassociation.org/competitions/Itapeva2018) |
 | 13 | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023) |
+| 13 | [Kailua Liʻi Pōʻakolu 2024](https://www.worldcubeassociation.org/competitions/KailuaLiiPoakolu2024) |
 | 13 | [KSF Club Pavlodar 2022](https://www.worldcubeassociation.org/competitions/KSFClubPavlodar2022) |
 | 13 | [KwaZulu-Natal 2019](https://www.worldcubeassociation.org/competitions/KwaZuluNatal2019) |
 | 13 | [Kyiv Mega Blind Friends 2023](https://www.worldcubeassociation.org/competitions/KyivMegaBlindFriends2023) |

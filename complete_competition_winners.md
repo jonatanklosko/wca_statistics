@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 13 August 2024*
+*Updated on 16 August 2024*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -158,13 +158,15 @@
 | 3 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | United States | [Middleton Meetup Thursday 2023](https://www.worldcubeassociation.org/competitions/MiddletonMeetupThursday2023) |
 | 3 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [Fantabulous MN Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMinnesota2015) |
 | 3 | [Cameron Soulagnet](https://www.worldcubeassociation.org/persons/2017SOUL02) | United States | [Northampton Newcomers C 2024](https://www.worldcubeassociation.org/competitions/NorthamptonNewcomersC2024) |
+| 3 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | United States | [Minnesota Meetup IV Tuesday 2024](https://www.worldcubeassociation.org/competitions/MinnesotaMeetupIVTuesday2024) |
 | 3 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | United States | [Evanston Fall Mini B 2023](https://www.worldcubeassociation.org/competitions/EvanstonFallMiniB2023) |
+| 3 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Smart Cubers Egypt 2019](https://www.worldcubeassociation.org/competitions/SmartCubersEgypt2019) |
 | 3 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Grizz Cubing League II 2023](https://www.worldcubeassociation.org/competitions/GrizzCubingLeagueII2023) |
 | 3 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Grizz League Small Cubes 2023](https://www.worldcubeassociation.org/competitions/GrizzLeagueSmallCubes2023) |
-| 3 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Smart Cubers Egypt 2019](https://www.worldcubeassociation.org/competitions/SmartCubersEgypt2019) |
 | 3 | [Daniel Cano Salgado](https://www.worldcubeassociation.org/persons/2011SALG01) | Colombia | [Los Alpes 2014](https://www.worldcubeassociation.org/competitions/SpeedcubingLosAlpes2014) |
 | 3 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | Sweden | [Nairobi Cube Challenge 2019](https://www.worldcubeassociation.org/competitions/NairobiCubeChallenge2019) |
 | 3 | [Donovan Pretorius](https://www.worldcubeassociation.org/persons/2014PRET01) | South Africa | [Kimberley Open 2015](https://www.worldcubeassociation.org/competitions/KimberleyOpen2015) |
+| 3 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | United States | [Kailua Liʻi Pōʻalua 2024](https://www.worldcubeassociation.org/competitions/KailuaLiiPoalua2024) |
 | 3 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | United States | [São Miguel Blind Sides 2024](https://www.worldcubeassociation.org/competitions/SaoMiguelBlindSides2024) |
 | 3 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | Australia | [Abbotsford Big Cube Day 2022](https://www.worldcubeassociation.org/competitions/AbbotsfordBigCubeDay2022) |
 | 3 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | Australia | [Cupcake Cubing 2013](https://www.worldcubeassociation.org/competitions/CupcakeCubing2013) |

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 13 August 2024*
+*Updated on 16 August 2024*
 
 
 ### Rubik's Cube
@@ -246,8 +246,8 @@
 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 15 |
 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 14 |
 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) | 13 |
+| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 13 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 12 |
-| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 12 |
 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 12 |
 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) | 11 |
 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | 11 |
@@ -283,7 +283,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 32 |
+| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 33 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 32 |
 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 24 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | 21 |
@@ -308,13 +308,13 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 30 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 31 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 26 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 26 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 20 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 12 |
-| [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 11 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 10 |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 11 |
+| [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 10 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 8 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 7 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 7 |

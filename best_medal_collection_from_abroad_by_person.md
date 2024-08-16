@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 August 2024*
+*Updated on 16 August 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -25,7 +25,7 @@
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **111** | 61 | 18 | 190 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **110** | 39 | 18 | 167 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **108** | 122 | 108 | 338 |
-| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **101** | 64 | 34 | 199 |
+| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **103** | 65 | 34 | 202 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **97** | 120 | 73 | 290 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **95** | 103 | 87 | 285 |
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | **94** | 34 | 27 | 155 |

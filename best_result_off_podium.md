@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 13 August 2024*
+*Updated on 16 August 2024*
 
 
 ### Rubik's Cube
@@ -197,7 +197,7 @@
 | [Charles Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 2.18 | **2.61** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 4 |
 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | 2.43 | **2.63** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eskewb_f) | 8 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.75 | **2.65** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eskewb_f) | 4 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 1.89 | **2.65** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eskewb_f) | 9 |
+| [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 1.76 | **2.65** | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024/results/all#eskewb_f) | 4 |
 
 ### Square-1
 

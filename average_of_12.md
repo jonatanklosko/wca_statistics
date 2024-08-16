@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 August 2024*
+*Updated on 16 August 2024*
 
 
 ### Rubik's Cube
@@ -41,8 +41,8 @@
 | 19.76 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 18.02, 21.20, 20.35, 21.45, 17.72, 20.46, 17.60, 18.49, 19.37, 23.80, 20.28, 20.29 |
 | 20.38 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 20.73, 18.86, 17.63, 27.46, 20.12, 20.60, 21.71, 19.46, 19.75, 20.94, 20.24, 21.38 |
 | 20.95 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 20.23, 24.00, 23.20, 17.62, 22.52, 23.47, 17.29, 19.34, 26.63, 19.72, 19.73, 19.67 |
+| 22.09 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 25.48, 20.57, 20.17, 22.30, 22.98, 23.55, 22.10, 22.04, 24.12, 19.59, 22.37, 20.74 |
 | 22.12 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 21.83, 21.99, 21.53, 21.59, 20.40, 21.89, 28.65, 22.86, 19.39, 25.41, 19.55, 24.14 |
-| 22.62 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 25.09, 21.80, 23.72, 24.16, 29.45, 21.85, 19.80, 21.17, 20.83, 22.47, 21.13, 23.97 |
 | 22.81 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 21.07, 24.82, 22.10, 22.83, 21.83, 22.74, 23.53, 27.91, 20.01, 26.24, 20.52, 22.38 |
 | 22.85 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 26.14, 22.89, 22.62, 24.65, 22.11, 23.92, 22.19, 23.28, 20.97, 21.47, 21.40, 23.93 |
 | 22.93 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 22.38, 24.06, 21.69, 22.02, 28.04, 22.72, 20.90, 24.32, 23.44, 20.75, 23.20, 24.61 |

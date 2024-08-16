@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 August 2024*
+*Updated on 16 August 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -104,6 +104,7 @@
 | 719 | [Yoad Yahalom Weiss](https://www.worldcubeassociation.org/persons/2022WEIS03) |
 | 726 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
 | 727 | [Jakov Srečković](https://www.worldcubeassociation.org/persons/2021SREC01) |
+| 727 | [Marius Bergo Nielsen](https://www.worldcubeassociation.org/persons/2022NIEL06) |
 | 728 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) |
 | 728 | [Evan Maccagnan](https://www.worldcubeassociation.org/persons/2022MACC01) |
 | 729 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
@@ -459,6 +460,7 @@
 | 2533 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |
 | 2534 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 2540 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
+| 2540 | [Kenneth Tran](https://www.worldcubeassociation.org/persons/2017TRAN21) |
 | 2546 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) |
 | 2547 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 2555 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |

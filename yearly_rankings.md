@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 August 2024*
+*Updated on 16 August 2024*
 
 
 ### Rubik's Cube - Single
@@ -86,9 +86,9 @@
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **19.77** | United States | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024) | 15.71, 17.93, 21.01, 22.32, 20.38 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **19.83** | Poland | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) | 17.62, 22.52, 23.47, 17.29, 19.34 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **19.90** | Germany | [FLIP Open 11: Road to Euros 2024](https://www.worldcubeassociation.org/competitions/FLIPOpen11RoadtoEuros2024) | 20.73, 18.86, 17.63, 27.46, 20.12 |
+| [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **21.72** | Vietnam | [Hanoi COP Open 2024](https://www.worldcubeassociation.org/competitions/HanoiCOPOpen2024) | 22.04, 24.12, 19.59, 22.37, 20.74 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **21.74** | Republic of Korea | [Busan Spring 2024](https://www.worldcubeassociation.org/competitions/BusanSpring2024) | 19.54, 25.05, 26.55, 20.64, 19.36 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **22.35** | China | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024) | 22.72, 20.90, 24.32, 23.44, 20.75 |
-| [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **22.39** | Vietnam | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024) | 24.16, 29.45, 21.85, 19.80, 21.17 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **22.44** | Hong Kong, China | [Taipei Summer Open 2024](https://www.worldcubeassociation.org/competitions/TaipeiSummerOpen2024) | 20.89, 21.43, 22.69, 23.21, 24.13 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **22.53** | Chinese Taipei | [Maru Cube Day Taiwan 2024](https://www.worldcubeassociation.org/competitions/MaruCubeDayTaiwan2024) | 22.11, 23.92, 22.19, 23.28, 20.97 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **22.56** | United States | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) | 24.82, 22.10, 22.83, 21.83, 22.74 |
@@ -284,10 +284,10 @@
 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | **25.47** | Finland | [Kuutionvääntelyt 2024](https://www.worldcubeassociation.org/competitions/KirkkonummenKuutionvaantelyt2024) | 33.70, 25.47, 32.64, 28.79, 29.57 |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **25.76** | China | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024) | 28.30, 28.36, 30.28, 25.79, 25.76 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **25.89** | Russia | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 25.89, 31.16, 30.81, 27.96, 27.21 |
+| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **26.36** | Poland | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024) | 42.07, 37.47, 26.36, 35.28, 40.44 |
 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | **26.39** | United States | [New Rochelle at Nite 2 2024](https://www.worldcubeassociation.org/competitions/NewRochelleatNite22024) | 26.67, 28.82, 31.36, DNF, 26.39 |
 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | **26.67** | United Kingdom | [Bolton Summer 2024](https://www.worldcubeassociation.org/competitions/BoltonSummer2024) | 30.51, 30.86, 26.67, 30.32, 29.75 |
 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | **26.92** | United States | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) | 27.82, 26.92, 30.23, 28.98, 33.69 |
-| [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **27.52** | Republic of Korea | [Westview Cubing Favorites 2024](https://www.worldcubeassociation.org/competitions/WestviewCubingFavorites2024) | 30.35, 27.52, 29.24, 31.59, 33.27 |
 
 ### Megaminx - Average
 

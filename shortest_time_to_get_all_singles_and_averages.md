@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -14,7 +14,7 @@
 | 496 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 665 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
 | 707 | [János Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
-| 861 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) |
+| 861 | [Sora Chui Man Kit (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) |
 | 868 | [Angelo Melera](https://www.worldcubeassociation.org/persons/2022MELE01) |
 | 910 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 917 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
@@ -93,6 +93,7 @@
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 4144 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |
 | 4193 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
+| 4592 | [Andrei Răzvan Ionel](https://www.worldcubeassociation.org/persons/2012IONE01) |
 | 4703 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
 | 6040 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 6047 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |

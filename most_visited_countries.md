@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 16 August 2024*
+*Updated on 19 August 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -9,11 +9,11 @@
 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 40 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
-| 35 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
+| 36 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 34 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 34 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
-| 31 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
+| 32 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 31 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 30 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 29 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
@@ -78,10 +78,11 @@
 | 16 | [Simone Santarsiero](https://www.worldcubeassociation.org/persons/2009SANT01) |
 | 16 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 16 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
+| 16 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 16 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
 | 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 16 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
-| 15 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
+| 15 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 15 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |
 | 15 | [Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01) |
 | 15 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
@@ -90,7 +91,6 @@
 | 15 | [Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01) |
 | 15 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 15 | [Jesús Masanet García](https://www.worldcubeassociation.org/persons/2004MASA01) |
-| 15 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 15 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 15 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 15 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
@@ -101,7 +101,7 @@
 | 15 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
 | 15 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 15 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
-| 15 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
+| 15 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
 | 14 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) |
 | 14 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 

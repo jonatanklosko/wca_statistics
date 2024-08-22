@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 August 2024*
+*Updated on 22 August 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -546,6 +546,7 @@
 | 10 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [Didas Brest 2014](https://www.worldcubeassociation.org/competitions/DidasBrest2014/results/podiums) |
 | 10 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [Oleksandriia Open 2013](https://www.worldcubeassociation.org/competitions/OleksandriiaOpen2013/results/podiums) |
 | 10 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014/results/podiums) |
+| 11 | [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) | [Missouri Championship 2024](https://www.worldcubeassociation.org/competitions/MissouriChampionship2024/results/podiums) |
 | 10 | [Gustavo Penaforte Brito](https://www.worldcubeassociation.org/persons/2013BRIT01) | [Dunas Open 2016](https://www.worldcubeassociation.org/competitions/DunasOpen2016/results/podiums) |
 | 14 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | [ULA Rubiks 2014](https://www.worldcubeassociation.org/competitions/ULARubiks2014/results/podiums) |
 | 12 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | [Cubing Mérida 2013](https://www.worldcubeassociation.org/competitions/CubingMerida2013/results/podiums) |
@@ -1091,6 +1092,7 @@
 | 10 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [Sergach Winter 2019](https://www.worldcubeassociation.org/competitions/SergachWinter2019/results/podiums) |
 | 10 | [Chingizkhan Mukhametdinov](https://www.worldcubeassociation.org/persons/2017MUKH02) | [Ural Autumn 2018](https://www.worldcubeassociation.org/competitions/UralAutumn2018/results/podiums) |
 | 13 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Comodoro Cubea 2023](https://www.worldcubeassociation.org/competitions/ComodoroCubea2023/results/podiums) |
+| 13 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Córdoba Cubea 2024](https://www.worldcubeassociation.org/competitions/CordobaCubea2024/results/podiums) |
 | 13 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/podiums) |
 | 12 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Argentina ReOpen 2021](https://www.worldcubeassociation.org/competitions/ArgentinaReOpen2021/results/podiums) |
 | 12 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/podiums) |
@@ -1268,6 +1270,7 @@
 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Imbabura Open 2023](https://www.worldcubeassociation.org/competitions/ImbaburaOpen2023/results/podiums) |
 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Fundación de Cuenca Open 2024](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2024/results/podiums) |
 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Sin Fronteras Ecuador 2023](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2023/results/podiums) |
+| 12 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | [Missouri Championship 2024](https://www.worldcubeassociation.org/competitions/MissouriChampionship2024/results/podiums) |
 | 10 | [Hitesh Kumar Bhuwalka (हितेश कुमार भुवालका)](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Cubing Comes to Bihar 2023](https://www.worldcubeassociation.org/competitions/CubingComestoBihar2023/results/podiums) |
 | 12 | [Ahmad Alolaimi](https://www.worldcubeassociation.org/persons/2022ALOL01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Araruama ao Cubo 2024](https://www.worldcubeassociation.org/competitions/AraruamaaoCubo2024/results/podiums) |

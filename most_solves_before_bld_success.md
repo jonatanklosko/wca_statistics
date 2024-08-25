@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 22 August 2024*
+*Updated on 25 August 2024*
 
 
 ### 3x3x3 Blindfolded
@@ -37,6 +37,7 @@
 | 36 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 30 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) |
 | 27 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) |
+| 27 | [Balázs Polyák](https://www.worldcubeassociation.org/persons/2017POLY02) |
 | 25 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 25 | [AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01) |
 | 24 | [Vinit Nalhe](https://www.worldcubeassociation.org/persons/2012NALH01) |
@@ -51,7 +52,6 @@
 | 20 | [Jonas Balsfulland](https://www.worldcubeassociation.org/persons/2012BALS01) |
 | 19 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) |
 | 19 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
-| 19 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) |
 
 ### 5x5x5 Blindfolded
 

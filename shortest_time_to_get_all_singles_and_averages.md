@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 August 2024*
+*Updated on 25 August 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -71,6 +71,7 @@
 | 2821 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 2829 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 2833 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 2857 | [Mihály Horváth](https://www.worldcubeassociation.org/persons/2016HORV04) |
 | 2864 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 2870 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 2871 | [Jeremy Benik](https://www.worldcubeassociation.org/persons/2016BENI05) |

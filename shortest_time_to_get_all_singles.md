@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 August 2024*
+*Updated on 25 August 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -109,6 +109,7 @@
 | 728 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) |
 | 728 | [Evan Maccagnan](https://www.worldcubeassociation.org/persons/2022MACC01) |
 | 729 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 733 | [Yedidya Nisim Shimoni](https://www.worldcubeassociation.org/persons/2022SHIM03) |
 | 734 | [Shawn Lee Zhi Xuan (李致轩)](https://www.worldcubeassociation.org/persons/2017XUAN03) |
 | 735 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 741 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
@@ -371,6 +372,7 @@
 | 1937 | [Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07) |
 | 1938 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) |
 | 1953 | [Alvin Cheng Hiu Yeung (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) |
+| 1953 | [Liav Bengayev](https://www.worldcubeassociation.org/persons/2019BENG02) |
 | 1960 | [Danny Buschert](https://www.worldcubeassociation.org/persons/2017BUSC03) |
 | 1974 | [Deni Mintsaev](https://www.worldcubeassociation.org/persons/2013MINT01) |
 | 1980 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |

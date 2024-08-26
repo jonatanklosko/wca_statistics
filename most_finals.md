@@ -25,7 +25,7 @@
 | 1243 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 1229 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1228 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
-| 1219 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 1224 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1216 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1207 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 1204 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
@@ -33,7 +33,7 @@
 | 1157 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1151 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1129 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 1101 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 1106 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1089 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 1089 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |

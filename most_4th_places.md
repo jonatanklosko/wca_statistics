@@ -20,7 +20,7 @@
 | 150 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 147 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 142 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 122 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 125 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 121 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 119 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
@@ -42,8 +42,8 @@
 | 104 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
-| 102 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 102 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 102 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 102 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 102 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 101 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
@@ -70,8 +70,8 @@
 | 87 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 86 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 84 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
-| 84 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 84 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 84 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 84 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 84 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
 | 83 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |

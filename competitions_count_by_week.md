@@ -553,6 +553,7 @@
 | 7 | 31 Jan 2011 |  6 Feb 2011 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2011-02-05&to_date=2011-02-06) |
 | 7 | 27 Sep 2010 |  3 Oct 2010 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2010-09-27&to_date=2010-10-04) |
 | 7 | 31 May 2010 |  6 Jun 2010 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2010-06-05&to_date=2010-06-06) |
+| 6 |  2 Dec 2024 |  8 Dec 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-12-05&to_date=2024-12-07) |
 | 6 | 19 Dec 2022 | 25 Dec 2022 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2022-12-20&to_date=2022-12-25) |
 | 6 | 27 Dec 2021 |  2 Jan 2022 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-12-28&to_date=2022-01-02) |
 | 6 |  4 Oct 2021 | 10 Oct 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-10-08&to_date=2021-10-10) |
@@ -600,7 +601,6 @@
 | 6 | 14 Apr 2008 | 20 Apr 2008 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2008-04-19&to_date=2008-04-20) |
 | 6 | 11 Feb 2008 | 17 Feb 2008 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2008-02-16&to_date=2008-02-17) |
 | 5 | 30 Dec 2024 |  5 Jan 2025 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2025-01-01&to_date=2025-01-05) |
-| 5 |  2 Dec 2024 |  8 Dec 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2024-12-05&to_date=2024-12-07) |
 | 5 |  3 Jan 2022 |  9 Jan 2022 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2022-01-07&to_date=2022-01-09) |
 | 5 | 18 Oct 2021 | 24 Oct 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-10-23&to_date=2021-10-24) |
 | 5 | 23 Aug 2021 | 29 Aug 2021 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2021-08-28&to_date=2021-08-29) |

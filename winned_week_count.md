@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 25 August 2024*
+*Updated on 28 August 2024*
 
 
 ### Rubik's Cube
@@ -84,7 +84,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 78 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 76 |
+| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 77 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 49 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 35 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 33 |
@@ -134,8 +134,8 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 54 |
-| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 50 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 50 |
+| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 49 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 48 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 29 |
 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 25 |
@@ -348,9 +348,9 @@
 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | 14 |
 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) | 14 |
 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 13 |
+| [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 12 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 11 |
 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) | 11 |
-| [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 11 |
 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 11 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 10 |
 
@@ -410,7 +410,7 @@
 | :--- | ---: |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 33 |
 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 33 |
-| [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | 31 |
+| [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | 32 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 29 |
 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | 24 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 22 |

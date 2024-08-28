@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 August 2024*
+*Updated on 28 August 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -147,6 +147,7 @@
 | 9 | [FMCats Georgia 2023](https://www.worldcubeassociation.org/competitions/FMCatsGeorgia2023) |
 | 9 | [FMC Open Tijuana 2023](https://www.worldcubeassociation.org/competitions/FMCOpenTijuana2023) |
 | 9 | [FMCow Ohio State III 2024](https://www.worldcubeassociation.org/competitions/FMCowOhioStateIII2024) |
+| 9 | [FMC Romania 2nd 2024](https://www.worldcubeassociation.org/competitions/FMCRomania2nd2024) |
 | 9 | [FMC Spring Lima 2023](https://www.worldcubeassociation.org/competitions/FMCSpringLima2023) |
 | 9 | [FMC Warm Up Ukraine 2024](https://www.worldcubeassociation.org/competitions/FMCWarmUpUkraine2024) |
 | 9 | [GA Cubers Study July 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyJuly2023) |
@@ -178,6 +179,7 @@
 | 9 | [Puy de Dome Open 2010](https://www.worldcubeassociation.org/competitions/PuyDeDomeOpen2010) |
 | 9 | [Rubik Sin Fronteras 2015](https://www.worldcubeassociation.org/competitions/RubikSinFronteras2015) |
 | 9 | [STGO Verano 2014](https://www.worldcubeassociation.org/competitions/SantiaguinodeVerano2014) |
+| 9 | [Saratoga Silent Springs 2024](https://www.worldcubeassociation.org/competitions/SaratogaSilentSprings2024) |
 | 9 | [Savoie Mental Breakdown 2019](https://www.worldcubeassociation.org/competitions/SavoieMentalBreakdown2019) |
 | 9 | [Supermiya PBQ in Tashkent 2024](https://www.worldcubeassociation.org/competitions/SupermiyaPBQinTashkent2024) |
 | 9 | [TKTK Side Events II 2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsII2024) |

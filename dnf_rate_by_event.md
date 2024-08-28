@@ -1,30 +1,30 @@
 ## DNF rate by event
 
-*Updated on 25 August 2024*
+*Updated on 28 August 2024*
 
 | DNF rate | Event | DNFs | Attempts |
 | ---: | :--- | ---: | ---: |
-| 79.85 % | 5x5x5 Blindfolded | 19991 | 25036 |
-| 74.14 % | 4x4x4 Blindfolded | 35625 | 48053 |
-| 63.68 % | 3x3x3 Blindfolded | 248166 | 389678 |
-| 42.11 % | 3x3x3 Multi-Blind | 16207 | 38490 |
+| 79.84 % | 5x5x5 Blindfolded | 20036 | 25096 |
+| 74.13 % | 4x4x4 Blindfolded | 35708 | 48172 |
+| 63.68 % | 3x3x3 Blindfolded | 248570 | 390345 |
+| 42.09 % | 3x3x3 Multi-Blind | 16225 | 38546 |
 | 31.47 % | Rubik's Cube: Multiple blind old style | 186 | 591 |
-| 28.27 % | 3x3x3 Fewest Moves | 34638 | 122546 |
-| 13.59 % | Rubik's Clock | 81211 | 597407 |
+| 28.22 % | 3x3x3 Fewest Moves | 34691 | 122922 |
+| 13.59 % | Rubik's Clock | 81524 | 599840 |
 | 9.51 % | Rubik's Magic | 8230 | 86498 |
 | 8.41 % | 3x3x3 With Feet | 4766 | 56650 |
-| 4.36 % | 7x7x7 Cube | 8185 | 187564 |
-| 4.32 % | Megaminx | 27891 | 646045 |
-| 4.19 % | Square-1 | 25034 | 597385 |
-| 3.75 % | 4x4x4 Cube | 72183 | 1924265 |
-| 3.67 % | 6x6x6 Cube | 8361 | 227901 |
+| 4.36 % | 7x7x7 Cube | 8203 | 188026 |
+| 4.31 % | Megaminx | 27933 | 647571 |
+| 4.19 % | Square-1 | 25083 | 598611 |
+| 3.75 % | 4x4x4 Cube | 72249 | 1926469 |
+| 3.67 % | 6x6x6 Cube | 8372 | 228321 |
 | 3.57 % | Master Magic | 1481 | 41445 |
-| 3.26 % | 3x3x3 One-Handed | 57520 | 1766698 |
-| 3.11 % | 5x5x5 Cube | 30464 | 979687 |
-| 2.59 % | Pyraminx | 61487 | 2374933 |
-| 2.55 % | Skewb | 37935 | 1490545 |
-| 2.51 % | 2x2x2 Cube | 93595 | 3723866 |
-| 2.14 % | Rubik's Cube | 141345 | 6605382 |
+| 3.26 % | 3x3x3 One-Handed | 57638 | 1770512 |
+| 3.11 % | 5x5x5 Cube | 30524 | 981515 |
+| 2.59 % | Pyraminx | 61617 | 2380641 |
+| 2.54 % | Skewb | 38009 | 1494263 |
+| 2.51 % | 2x2x2 Cube | 93786 | 3732712 |
+| 2.14 % | Rubik's Cube | 141633 | 6619523 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

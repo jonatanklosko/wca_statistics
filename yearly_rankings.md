@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 August 2024*
+*Updated on 28 August 2024*
 
 
 ### Rubik's Cube - Single
@@ -221,13 +221,13 @@
 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) | **16** | United States | [Ashfield Summer Challenge 2024](https://www.worldcubeassociation.org/competitions/AshfieldSummerChallenge2024) | 26, 16, 26 |
 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) | **16** | United States | [Ashfield Summer Challenge 2024](https://www.worldcubeassociation.org/competitions/AshfieldSummerChallenge2024) | 26, 16, 24 |
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **17** | Republic of Korea | [WCC FMC Leap Day 2024](https://www.worldcubeassociation.org/competitions/WCCFMCLeapDay2024) | 24, 17, 22 |
+| [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) | **18** | China | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) | 25, 18, 27 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **18** | Australia | [FMC West Melbourne 2024](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2024) | DNF, 18, DNF |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **18** | Singapore | [FMC West Melbourne 2024](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2024) | 23, 18, 19 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **18** | Indonesia | [FMC West Melbourne 2024](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2024) | 24, 18, 20 |
 | [Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01) | **18** | United States | [PBQtah 6 2024](https://www.worldcubeassociation.org/competitions/PBQtah62024) | 24, 28, 18 |
 | [Ihor Kastranets (Ігор Кастранець)](https://www.worldcubeassociation.org/persons/2018KAST02) | **18** | Ukraine | [Podolian Open 2024](https://www.worldcubeassociation.org/competitions/PodolianOpen2024) | 21, 27, 18 |
 | [Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01) | **18** | Czech Republic | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 18, 23, 23 |
-| [Max Parris](https://www.worldcubeassociation.org/persons/2022PARR10) | **18** | Australia | [FMC West Melbourne 2024](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2024) | 26, 18, 24 |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -481,8 +481,8 @@
 | [Jia-Hong Lu (陸嘉宏)](https://www.worldcubeassociation.org/persons/2007LUJI01) | **6:08.43** | Chinese Taipei | [Please Be Quiet Taiwan 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietTaiwan2024) | 6:14.95, 5:21.77, 6:48.56 |
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **7:37.81** | United States | [GA Cubers Leap Day 2024](https://www.worldcubeassociation.org/competitions/GACubersLeapDay2024) | 9:01.38, 7:02.85, 6:49.20 |
 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **8:21.39** | Malaysia | [Please Be Quiet Singapore 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietSingapore2024) | 8:16.81, 7:44.71, 9:02.64 |
+| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **9:02.82** | United States | [Saratoga Silent Springs 2024](https://www.worldcubeassociation.org/competitions/SaratogaSilentSprings2024) | 9:43.92, 8:04.09, 9:20.45 |
 | [Kevin Liu](https://www.worldcubeassociation.org/persons/2023LIUK02) | **9:05.19** | United States | [NJ Quiet Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyQuietChampionship2024) | 9:35.86, 8:29.67, 9:10.04 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **9:12.85** | United States | [Shhicago 2024](https://www.worldcubeassociation.org/competitions/Shhicago2024) | 7:40.84, 9:26.71, 10:31.00 |
 
 ### 3x3x3 Multi-Blind - Single
 

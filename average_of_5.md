@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 August 2024*
+*Updated on 28 August 2024*
 
 
 ### Rubik's Cube
@@ -32,7 +32,7 @@
 | 1.03 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | 1.35, 1.00, 0.95, 1.15, 0.92 |
 | 1.04 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 0.84, 0.77, 2.47, 1.17, 1.12 |
 | 1.06 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | 0.84, 0.79, 1.67, 1.17, 1.18 |
-| 1.06 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 0.97, 1.00, 2.00, 1.07, 1.11 |
+| 1.06 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 1.27, 0.73, 1.17, 1.44, 0.66 |
 
 ### 4x4x4 Cube
 

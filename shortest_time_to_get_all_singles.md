@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 August 2024*
+*Updated on 28 August 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -184,8 +184,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
+| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -503,6 +503,7 @@
 | 2962 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 2982 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 2982 | [Damian Wilding](https://www.worldcubeassociation.org/persons/2014WILD03) |
+| 2989 | [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) |
 | 3023 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 3030 | [Brendan Bakker](https://www.worldcubeassociation.org/persons/2015BAKK01) |
 | 3031 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
@@ -572,6 +573,7 @@
 | 5347 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 5503 | [Takuma Shirahase (白波瀬拓磨)](https://www.worldcubeassociation.org/persons/2007SHIR01) |
 | 5712 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
+| 5834 | [Mats Bergsten](https://www.worldcubeassociation.org/persons/2008BERG04) |
 | 6083 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
 
 

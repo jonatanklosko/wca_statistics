@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 25 August 2024*
+*Updated on 28 August 2024*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -29,8 +29,8 @@
 | [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019) | 9.50 | 14 | Indonesia |
 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | 9.47 | 15 | Ireland |
 | [Autotalo Anime Adventure VI 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureVI2024) | 9.46 | 24 | Finland |
-| [Lyon Winter Open 2012](https://www.worldcubeassociation.org/competitions/LyonWinterOpen2012) | 9.36 | 25 | France |
 | [GA Cubers Mashed Potatoes 2022](https://www.worldcubeassociation.org/competitions/GACubersMashedPotatoes2022) | 9.36 | 25 | United States |
+| [Lyon Winter Open 2012](https://www.worldcubeassociation.org/competitions/LyonWinterOpen2012) | 9.36 | 25 | France |
 | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023) | 9.31 | 74 | Poland |
 | [B.O.N.D. Open 2015](https://www.worldcubeassociation.org/competitions/BONDOpen2015) | 9.30 | 43 | Slovakia |
 | [Kvissel Fall 2018](https://www.worldcubeassociation.org/competitions/KvisselFall2018) | 9.23 | 26 | Denmark |
@@ -96,8 +96,8 @@
 | [Couffoul'Events 2024](https://www.worldcubeassociation.org/competitions/CouffoulEvents2024) | 8.47 | 75 | France |
 | [Skanderborg 2014](https://www.worldcubeassociation.org/competitions/SkanderborgOpen2014) | 8.46 | 28 | Denmark |
 | [2:a Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/2aLordagskubeniVasteras2024) | 8.45 | 22 | Sweden |
-| [South Italian Open 2010](https://www.worldcubeassociation.org/competitions/LOLSouthItalianOpen2010) | 8.45 | 20 | Italy |
 | [Krivbass Open 2016](https://www.worldcubeassociation.org/competitions/KrivbassOpen2016) | 8.45 | 20 | Ukraine |
+| [South Italian Open 2010](https://www.worldcubeassociation.org/competitions/LOLSouthItalianOpen2010) | 8.45 | 20 | Italy |
 | [Vilnius Winter 2024](https://www.worldcubeassociation.org/competitions/VilniusWinter2024) | 8.45 | 49 | Lithuania |
 | [Lent Open 2015](https://www.worldcubeassociation.org/competitions/LentOpen2015) | 8.44 | 25 | Slovenia |
 | [Fuglsangpark Open 2009](https://www.worldcubeassociation.org/competitions/FuglsangparkOpen2009) | 8.43 | 30 | Denmark |

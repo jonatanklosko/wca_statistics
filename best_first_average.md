@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 28 August 2024*
+*Updated on 31 August 2024*
 
 
 ### Rubik's Cube
@@ -11,13 +11,13 @@
 | 6.15 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) |
 | 6.22 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) |
 | 6.29 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
+| 6.63 | [Muyang Liu (刘慕阳)](https://www.worldcubeassociation.org/persons/2024LIUM08) |
 | 6.72 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) |
 | 6.86 | [Youyu Peng (彭宥裕)](https://www.worldcubeassociation.org/persons/2023PENG14) |
 | 7.00 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) |
 | 7.09 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) |
 | 7.20 | [Peixin Wu (吴佩馨)](https://www.worldcubeassociation.org/persons/2023WUPE02) |
 | 7.20 | [Shengxi Zhao (赵圣曦)](https://www.worldcubeassociation.org/persons/2024ZHAO27) |
-| 7.27 | [Mingzhu Zheng (郑名竹)](https://www.worldcubeassociation.org/persons/2024ZHEN13) |
 
 ### 2x2x2 Cube
 
@@ -58,11 +58,11 @@
 | 55.71 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 56.05 | [Chongkui Chen (陈崇魁)](https://www.worldcubeassociation.org/persons/2023CHEC12) |
 | 56.74 | [Yuanzhe Teng (滕远哲)](https://www.worldcubeassociation.org/persons/2024TENG04) |
+| 56.90 | [Yuqi Fu (傅钰淇)](https://www.worldcubeassociation.org/persons/2019FUYU02) |
 | 57.29 | [Hayden Ng (吳宇晞)](https://www.worldcubeassociation.org/persons/2018NGHA02) |
 | 57.56 | [Chenyuheng Zhang (张陈禹衡)](https://www.worldcubeassociation.org/persons/2024ZHAN08) |
 | 57.66 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 57.84 | [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) |
-| 58.30 | [Guoqin Liu (刘国钦)](https://www.worldcubeassociation.org/persons/2017LIUG02) |
 
 ### 6x6x6 Cube
 
@@ -188,6 +188,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 2.56 | [Zihao Qian (钱梓豪)](https://www.worldcubeassociation.org/persons/2024QIAN08) |
 | 2.68 | [Jinxuan Lü (吕金烜)](https://www.worldcubeassociation.org/persons/2024LUJI01) |
 | 2.83 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
 | 2.92 | [Jiawen Liu (刘佳雯)](https://www.worldcubeassociation.org/persons/2023LIUJ15) |
@@ -197,7 +198,6 @@
 | 3.11 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) |
 | 3.54 | [Jonah Hansen](https://www.worldcubeassociation.org/persons/2022HANS12) |
 | 3.56 | [Yuxi Chen (陈宇熙)](https://www.worldcubeassociation.org/persons/2023CHEY36) |
-| 3.60 | [Nikos Kolovos](https://www.worldcubeassociation.org/persons/2023KOLO02) |
 
 ### Square-1
 

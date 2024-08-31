@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 28 August 2024*
+*Updated on 31 August 2024*
 
 
 ### Rubik's Cube
@@ -167,9 +167,9 @@
 | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) | 20 |
 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | 20 |
 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) | 19 |
+| [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | 18 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 17 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | 17 |
-| [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | 17 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 15 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 13 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 12 |
@@ -340,7 +340,7 @@
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | 21 |
 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 19 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 19 |
-| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 17 |
+| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 18 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 16 |
 | [Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01) | 16 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 16 |
@@ -348,9 +348,9 @@
 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | 14 |
 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) | 14 |
 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 13 |
-| [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 12 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 11 |
 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) | 11 |
+| [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 11 |
 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 11 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 10 |
 

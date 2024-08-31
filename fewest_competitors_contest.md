@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 August 2024*
+*Updated on 31 August 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -121,6 +121,7 @@
 | 8 | [Poções 2024](https://www.worldcubeassociation.org/competitions/Pocoes2024) |
 | 8 | [Pocos Cupos Bogotá IX 2024](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaIX2024) |
 | 8 | [Pocos Cupos Bogotá VIII 2024](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaVIII2024) |
+| 8 | [Sides Bahia 2024](https://www.worldcubeassociation.org/competitions/SidesBahia2024) |
 | 8 | [Sides Bahia - June's Vie 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaJunesVie2023) |
 | 8 | [Silentia 1 - FMC 2023](https://www.worldcubeassociation.org/competitions/Silentia1FMC2023) |
 | 8 | [Thunder Bay 2019](https://www.worldcubeassociation.org/competitions/SuperiorCubingThunderBay2019) |

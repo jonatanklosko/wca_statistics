@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 28 August 2024*
+*Updated on 31 August 2024*
 
 
 ### 3x3x3 Blindfolded
@@ -70,13 +70,13 @@
 | 23 | [Jae Park](https://www.worldcubeassociation.org/persons/2015PARK24) |
 | 23 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
 | 22 | [Ryan DeLine](https://www.worldcubeassociation.org/persons/2012DELI01) |
+| 22 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 21 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) |
 | 21 | [Brendan Bakker](https://www.worldcubeassociation.org/persons/2015BAKK01) |
 | 20 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 20 | [Víctor Adán Solis Martinez](https://www.worldcubeassociation.org/persons/2017MART94) |
 | 19 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
 | 19 | [Chi-Lun Hung (洪啟倫)](https://www.worldcubeassociation.org/persons/2010HONG01) |
-| 19 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 
 ### 3x3x3 Multi-Blind
 

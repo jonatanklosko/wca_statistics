@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 28 August 2024*
+*Updated on 31 August 2024*
 
 
 ### Rubik's Cube
@@ -134,10 +134,10 @@
 | 114 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [Nebraska Championship 2024](https://www.worldcubeassociation.org/competitions/NebraskaChampionship2024) |
 | 105 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | [Cuban Open 2016](https://www.worldcubeassociation.org/competitions/CubanOpen2016) |
 | 86 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Villa de Catral 2013](https://www.worldcubeassociation.org/competitions/VilladeCatral2013) |
+| 81 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | [North Slovakian Open 2024](https://www.worldcubeassociation.org/competitions/NorthSlovakianOpen2024) |
 | 77 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [North Jersey Speedsolving A 2024](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingA2024) |
 | 76 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Puerto Rico Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRicoOpen2024) |
 | 74 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [Thunder Bay 2019](https://www.worldcubeassociation.org/competitions/SuperiorCubingThunderBay2019) |
-| 70 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) | [Broome Open 2023](https://www.worldcubeassociation.org/competitions/BroomeOpen2023) |
 
 ### Megaminx
 
@@ -173,6 +173,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 84 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [North Slovakian Open 2024](https://www.worldcubeassociation.org/competitions/NorthSlovakianOpen2024) |
 | 73 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024) |
 | 70 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Liechtenstein Open 2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019) |
 | 54 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | [Arizona Speedcubing Summer 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSummer2023) |
@@ -182,7 +183,6 @@
 | 43 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019) |
 | 43 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Belgian Nationals 2022](https://www.worldcubeassociation.org/competitions/BelgianNationals2022) |
 | 41 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Virginia Championship 2023](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2023) |
-| 37 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Belgian Summer 2014](https://www.worldcubeassociation.org/competitions/BelgianSummer2014) |
 
 ### Skewb
 

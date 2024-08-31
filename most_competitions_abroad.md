@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 August 2024*
+*Updated on 31 August 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -24,7 +24,7 @@
 | 103 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 102 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 101 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
-| 98 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
+| 99 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 97 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 97 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 95 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
@@ -66,11 +66,11 @@
 | 65 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 64 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 63 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
-| 62 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
+| 63 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
+| 62 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 62 | [Danny Sungin Park (박성인)](https://www.worldcubeassociation.org/persons/2015PARK13) |
 | 62 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 62 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
-| 62 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 61 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
 | 61 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 60 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
@@ -96,11 +96,11 @@
 | 54 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 54 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
+| 54 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
+| 54 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 53 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) |
 | 53 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 53 | [Ethan Ekstrom](https://www.worldcubeassociation.org/persons/2018EKST01) |
-| 53 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
-| 53 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 52 | [Catherine Connolly](https://www.worldcubeassociation.org/persons/2017CONN04) |
 | 52 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 52 | [Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02) |

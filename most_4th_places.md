@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 28 August 2024*
+*Updated on 31 August 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -70,8 +70,8 @@
 | 87 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 86 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 86 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
+| 85 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 84 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
-| 84 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 84 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 84 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 83 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |

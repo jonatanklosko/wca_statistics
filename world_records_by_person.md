@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 28 August 2024*
+*Updated on 31 August 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -55,6 +55,7 @@
 | 6 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
+| 6 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |
@@ -65,7 +66,6 @@
 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
-| 5 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 4 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) |
 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
@@ -107,6 +107,7 @@
 | 3 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
 | 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 3 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
+| 3 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) |
 | 3 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 3 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 3 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
@@ -140,7 +141,6 @@
 | 2 | [Jean Pons](https://www.worldcubeassociation.org/persons/2004PONS01) |
 | 2 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) |
 | 2 | [Jianwei Zhu (朱剑伟)](https://www.worldcubeassociation.org/persons/2007ZHUJ01) |
-| 2 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) |
 | 2 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) |
 | 2 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
 | 2 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) |
@@ -195,6 +195,7 @@
 | 1 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) |
 | 1 | [Danyang Chen (陈丹阳)](https://www.worldcubeassociation.org/persons/2007DANY01) |
 | 1 | [Dilshawn Sidhu](https://www.worldcubeassociation.org/persons/2018SIDH02) |
+| 1 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) |
 | 1 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |
 | 1 | [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01) |
 | 1 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |

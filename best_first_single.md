@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 28 August 2024*
+*Updated on 31 August 2024*
 
 
 ### Rubik's Cube
@@ -10,6 +10,7 @@
 | ---: | :--- |
 | 6.16 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) |
 | 6.25 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) |
+| 6.40 | [Jing Pan (潘婧)](https://www.worldcubeassociation.org/persons/2024PANJ01) |
 | 6.41 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) |
 | 6.60 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) |
 | 6.70 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
@@ -17,7 +18,6 @@
 | 6.86 | [Mingzhu Zheng (郑名竹)](https://www.worldcubeassociation.org/persons/2024ZHEN13) |
 | 7.03 | [Anton Angeletti](https://www.worldcubeassociation.org/persons/2024ANGE07) |
 | 7.15 | [Youyu Peng (彭宥裕)](https://www.worldcubeassociation.org/persons/2023PENG14) |
-| 7.16 | [Yangming Wang (王扬铭)](https://www.worldcubeassociation.org/persons/2024WANG51) |
 
 ### 2x2x2 Cube
 
@@ -55,6 +55,7 @@
 | ---: | :--- |
 | 49.55 | [Xuyi Wang (汪绪奕)](https://www.worldcubeassociation.org/persons/2018WANX10) |
 | 51.99 | [Chenyuheng Zhang (张陈禹衡)](https://www.worldcubeassociation.org/persons/2024ZHAN08) |
+| 53.92 | [Yuqi Fu (傅钰淇)](https://www.worldcubeassociation.org/persons/2019FUYU02) |
 | 55.22 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 56.51 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 56.78 | [Yuanzhe Teng (滕远哲)](https://www.worldcubeassociation.org/persons/2024TENG04) |
@@ -62,7 +63,6 @@
 | 57.42 | [Guoqin Liu (刘国钦)](https://www.worldcubeassociation.org/persons/2017LIUG02) |
 | 58.59 | [Sujan Irosha Kumarapperuma](https://www.worldcubeassociation.org/persons/2019KUMA59) |
 | 58.94 | [Weiqin Yang (杨伟钦)](https://www.worldcubeassociation.org/persons/2021YANG05) |
-| 58.98 | [Yudai Naito (内藤悠大)](https://www.worldcubeassociation.org/persons/2023NAIT01) |
 
 ### 6x6x6 Cube
 
@@ -178,11 +178,11 @@
 | 4.33 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 4.64 | [Adrián Morales Morales](https://www.worldcubeassociation.org/persons/2022MORA09) |
 | 4.80 | [Michael Fonseca](https://www.worldcubeassociation.org/persons/2019FONS06) |
+| 4.97 | [Abraham Joachim Hadiwijaya](https://www.worldcubeassociation.org/persons/2024HADI02) |
 | 5.02 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) |
 | 5.05 | [Caleb Merritt](https://www.worldcubeassociation.org/persons/2022MERR04) |
 | 5.07 | [Yijie Zhao (赵翊杰)](https://www.worldcubeassociation.org/persons/2021ZHAO19) |
 | 5.40 | [Hyunseong Hwang (황현성)](https://www.worldcubeassociation.org/persons/2024HWAN01) |
-| 5.44 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) |
 
 ### Skewb
 
@@ -191,13 +191,13 @@
 | 1.93 | [Jonah Hansen](https://www.worldcubeassociation.org/persons/2022HANS12) |
 | 2.17 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
 | 2.30 | [Fei Shi (石飞)](https://www.worldcubeassociation.org/persons/2017SHIF03) |
+| 2.33 | [Zihao Qian (钱梓豪)](https://www.worldcubeassociation.org/persons/2024QIAN08) |
 | 2.43 | [Ethan Steffes](https://www.worldcubeassociation.org/persons/2024STEF08) |
 | 2.48 | [Max Walaszek](https://www.worldcubeassociation.org/persons/2018WALA01) |
 | 2.55 | [Yuchen Jiang (蒋禹辰)](https://www.worldcubeassociation.org/persons/2024JIAN09) |
 | 2.59 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 2.68 | [Callan Vellozzi](https://www.worldcubeassociation.org/persons/2019VELL04) |
 | 2.75 | [Jiajin Su (苏嘉晋)](https://www.worldcubeassociation.org/persons/2023SUJI04) |
-| 2.79 | [Zizhen Li (李子贞)](https://www.worldcubeassociation.org/persons/2024LIZI01) |
 
 ### Square-1
 

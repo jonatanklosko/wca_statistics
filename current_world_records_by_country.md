@@ -1,10 +1,10 @@
 ## Current world records count by country
 
-*Updated on 28 August 2024*
+*Updated on 31 August 2024*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
-| 24 | United States | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06), [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02), [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03), [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
+| 24 | United States | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06), [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01), [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03), [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 6 | China | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54), [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 2 | Argentina | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 2 | Philippines | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) |

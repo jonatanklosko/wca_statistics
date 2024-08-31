@@ -1,13 +1,15 @@
 ## Best single counting into an average of 5
 
-*Updated on 28 August 2024*
+*Updated on 31 August 2024*
 
 
 ### Rubik's Cube
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 3.98 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/by_person#2019WANY36) |
 | 3.99 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Mofunland Cruise Open 2023](https://www.worldcubeassociation.org/competitions/MofunlandCruiseOpen2023/results/by_person#2019WANY36) |
+| 4.00 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/by_person#2019WANY36) |
 | 4.02 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [IUKL SOR 2023](https://www.worldcubeassociation.org/competitions/IUKLSOR2023/results/by_person#2019WANY36) |
 | 4.02 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/by_person#2019WANY36) |
 | 4.17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Stevenage April 2024](https://www.worldcubeassociation.org/competitions/StevenageApril2024/results/by_person#2016KOLA02) |
@@ -15,8 +17,6 @@
 | 4.23 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Kunshan Open 2024](https://www.worldcubeassociation.org/competitions/KunshanOpen2024/results/by_person#2019WANY36) |
 | 4.24 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Spring 2022](https://www.worldcubeassociation.org/competitions/SanDiegoSpring2022/results/by_person#2012PARK03) |
 | 4.27 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024/results/by_person#2019WANY36) |
-| 4.28 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/by_person#2016INAB01) |
-| 4.28 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024/results/by_person#2019WANY36) |
 
 ### 2x2x2 Cube
 
@@ -68,6 +68,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 7.34 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [San Jose del Monte Open II 2024](https://www.worldcubeassociation.org/competitions/SanJosedelMonteOpenII2024/results/by_person#2017VILL41) |
+| 7.39 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Ayat-Ti Cubing Elyu Fest 2024](https://www.worldcubeassociation.org/competitions/AyatTiCubingElyuFest2024/results/by_person#2023ARRA01) |
 | 7.49 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
 | 7.63 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Quezon City Open II 2024](https://www.worldcubeassociation.org/competitions/QuezonCityOpenII2024/results/by_person#2017VILL41) |
 | 7.67 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2022ROBI05) |
@@ -76,7 +77,6 @@
 | 7.71 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2012PONC02) |
 | 7.71 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Quezon City Open II 2024](https://www.worldcubeassociation.org/competitions/QuezonCityOpenII2024/results/by_person#2017VILL41) |
 | 7.72 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | [V per Varese 2024](https://www.worldcubeassociation.org/competitions/VperVarese2024/results/by_person#2021MERU01) |
-| 7.74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Westview Cubing Favorites 2023](https://www.worldcubeassociation.org/competitions/WestviewCubingFavorites2023/results/by_person#2012PARK03) |
 
 ### Megaminx
 
@@ -103,10 +103,10 @@
 | 1.18 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Nanchang Spring 2024](https://www.worldcubeassociation.org/competitions/NanchangSpring2024/results/by_person#2019JIAN54) |
 | 1.18 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Waterloo Favourites B 2023](https://www.worldcubeassociation.org/competitions/WaterlooFavouritesB2023/results/by_person#2019SHER10) |
 | 1.20 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023/results/by_person#2019MEAD03) |
+| 1.21 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/by_person#2019JIAN54) |
 | 1.21 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Lincolnshire Summer 2024](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2024/results/by_person#2022PART02) |
 | 1.22 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Queensland Open 2024](https://www.worldcubeassociation.org/competitions/QueenslandOpen2024/results/by_person#2018MURR03) |
-| 1.23 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/by_person#2021LEES01) |
-| 1.25 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/by_person#2019JIAN54) |
+| 1.22 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/by_person#2019JIAN54) |
 
 ### Rubik's Clock
 

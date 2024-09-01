@@ -1,11 +1,11 @@
 ## Most competitions abroad
 
-*Updated on 31 August 2024*
+*Updated on  1 September 2024*
 
 | Competitions | Person |
 | ---: | :--- |
 | 189 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
-| 173 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 174 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 161 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 145 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 136 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
@@ -18,7 +18,7 @@
 | 112 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 110 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 107 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 106 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 107 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 105 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 105 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 103 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
@@ -41,11 +41,11 @@
 | 86 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 85 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
-| 84 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
+| 85 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 83 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 81 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 80 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
-| 78 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 79 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 75 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 74 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 74 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
@@ -56,7 +56,7 @@
 | 72 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 72 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
-| 70 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
+| 71 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 69 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 69 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 67 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
@@ -90,7 +90,7 @@
 | 56 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 56 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 56 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
-| 55 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
+| 56 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 55 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 54 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 54 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |

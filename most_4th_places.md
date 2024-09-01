@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 31 August 2024*
+*Updated on  1 September 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -33,13 +33,13 @@
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 108 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 108 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 108 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 107 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 106 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 105 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 104 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 104 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
-| 104 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 102 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |

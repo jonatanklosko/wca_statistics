@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 
 ### Rubik's Cube
@@ -118,11 +118,11 @@
 | 0.03 | [Kymo Hendriks](https://www.worldcubeassociation.org/persons/2023HEND11) | 13.88 | 13.91 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2023HEND11) |
 | 0.03 | [Luiggi Giovanucci](https://www.worldcubeassociation.org/persons/2012GIOV02) | 25.67 | 25.70 | [Pequi Open 2020](https://www.worldcubeassociation.org/competitions/PequiOpen2020/results/by_person#2012GIOV02) |
 | 0.04 | [Simon Lim (林少秋)](https://www.worldcubeassociation.org/persons/2008LIMS01) | 17.83 | 17.87 | [Bayani 2012](https://www.worldcubeassociation.org/competitions/Bayani2012/results/by_person#2008LIMS01) |
+| 0.05 | [Muhammad Fitri Hakim Bin Dzulkarnain](https://www.worldcubeassociation.org/persons/2017DZUL02) | 19.02 | 19.07 | [Warm Up at gateway klia2 2024](https://www.worldcubeassociation.org/competitions/WarmUpatgatewayklia22024/results/by_person#2017DZUL02) |
 | 0.05 | [Han Dong (董晗)](https://www.worldcubeassociation.org/persons/2012DONG02) | 20.84 | 20.89 | [Shanghai Winter is Coming 2016](https://www.worldcubeassociation.org/competitions/ShanghaiWinterisComing2016/results/by_person#2012DONG02) |
 | 0.05 | [Naman Jain](https://www.worldcubeassociation.org/persons/2016JAIN04) | 21.24 | 21.29 | [Guwahati Summer Open 2019](https://www.worldcubeassociation.org/competitions/GuwahatiSummerOpen2019/results/by_person#2016JAIN04) |
 | 0.05 | [Trần Hữu Phổ](https://www.worldcubeassociation.org/persons/2018PHTR01) | 29.51 | 29.56 | [Da Nang Open 2018](https://www.worldcubeassociation.org/competitions/DaNangOpen2018/results/by_person#2018PHTR01) |
 | 0.06 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 15.06 | 15.12 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2010WUIF01) |
-| 0.07 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 11.42 | 11.49 | [UW or U Don't 2023](https://www.worldcubeassociation.org/competitions/UWorUDont2023/results/by_person#2017AGGA01) |
 
 ### Megaminx
 
@@ -164,10 +164,10 @@
 | 0.04 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.46 | 3.50 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
 | 0.04 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.76 | 3.80 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2021POLI02) |
 | 0.04 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.22 | 4.26 | [GCU Spring 2023](https://www.worldcubeassociation.org/competitions/GCUSpring2023/results/by_person#2017BREE02) |
+| 0.04 | [Vinicius Shaw](https://www.worldcubeassociation.org/persons/2021SHAW02) | 5.24 | 5.28 | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/by_person#2021SHAW02) |
 | 0.04 | [Miguel Angel Zamorano Beltran](https://www.worldcubeassociation.org/persons/2023BELT03) | 8.06 | 8.10 | [Niños Héroes Jalisco 2023](https://www.worldcubeassociation.org/competitions/NinosHeroesJalisco2023/results/by_person#2023BELT03) |
 | 0.04 | [Lee Yu Zhe](https://www.worldcubeassociation.org/persons/2019ZHEL01) | 11.18 | 11.22 | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/by_person#2019ZHEL01) |
 | 0.05 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.08 | 3.13 | [Uppsalaligan 2: Leap - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan2Leap2024/results/by_person#2021ELIA01) |
-| 0.05 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5.19 | 5.24 | [GLS I 2024](https://www.worldcubeassociation.org/competitions/GLSI2024/results/by_person#2013ROGA02) |
 
 ### Skewb
 
@@ -209,10 +209,10 @@
 | 1.62 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 1:34.29 | 1:35.91 | [Swisscubing Cup MB I 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupMentalBreakdow2024/results/by_person#2019HIRS01) |
 | 1.71 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2:00.90 | 2:02.61 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2014SCHO02) |
 | 2.68 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 3:01.00 | 3:03.68 | [Stevenage January 2024](https://www.worldcubeassociation.org/competitions/StevenageJanuary2024/results/by_person#2018SHEN07) |
+| 3.08 | [Jaxon Foster](https://www.worldcubeassociation.org/persons/2021FOST01) | 8:44.21 | 8:47.29 | [Please Be Solved Padbury 2024](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedPadbury2024/results/by_person#2021FOST01) |
 | 3.21 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 2:49.87 | 2:53.08 | [Manchester MBLD Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterMBLDDay2024/results/by_person#2018SHEN07) |
 | 3.24 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) | 2:54.96 | 2:58.20 | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/by_person#2010YAMA04) |
 | 3.38 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 1:49.58 | 1:52.96 | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022/results/by_person#2013WALL03) |
-| 3.44 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 1:51.48 | 1:54.92 | [Brilliant Ballarat 2023](https://www.worldcubeassociation.org/competitions/BrilliantBallarat2023/results/by_person#2021TRIP01) |
 
 ### 5x5x5 Blindfolded
 
@@ -222,12 +222,12 @@
 | 4.13 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4:17.98 | 4:22.11 | [Cambridge Side Events 2023](https://www.worldcubeassociation.org/competitions/CambridgeSideEventsWinter2023/results/by_person#2019ECKE02) |
 | 5.54 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 3:56.51 | 4:02.05 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2016SIGG01) |
 | 6.01 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2:21.62 | 2:27.63 | [MCC Epsilon 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubEpsilon2019/results/by_person#2016CHAP04) |
+| 6.03 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 3:31.41 | 3:37.44 | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/by_person#2016SIGG01) |
 | 7.02 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:53.15 | 7:00.17 | [Kidderminster - BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterBlindOff2022/results/by_person#2019HIRS01) |
 | 7.78 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 8:41.99 | 8:49.77 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019/results/by_person#2016FANG01) |
 | 8.15 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:46.56 | 3:54.71 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/by_person#2013LINK01) |
 | 9.69 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 3:43.58 | 3:53.27 | [Manchester BLD Day 2023](https://www.worldcubeassociation.org/competitions/ManchesterBLDDay2023/results/by_person#2019ECKE02) |
 | 9.79 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4:00.56 | 4:10.35 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019ECKE02) |
-| 10.00 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | 13:26.00 | 13:36.00 | [Oculus Cube Open 2023](https://www.worldcubeassociation.org/competitions/OculusCubeOpen2023/results/by_person#2011BANS02) |
 
 ### 3x3x3 With Feet
 

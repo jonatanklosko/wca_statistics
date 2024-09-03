@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -68,6 +68,7 @@
 | 2703 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
 | 2736 | [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01) |
 | 2737 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
+| 2799 | [Yonghao Xu (徐永浩)](https://www.worldcubeassociation.org/persons/2017XUYO01) |
 | 2821 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 2829 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 2833 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |

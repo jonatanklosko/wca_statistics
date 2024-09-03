@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 12952 |
+| 1.47 | World | 12967 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
 | 1.73 | Europe | 4207 |
-| 1.50 | South America | 1589 |
-| 1.47 | Oceania | 569 |
-| 1.41 | Asia | 2793 |
-| 1.30 | Africa | 148 |
-| 1.20 | North America | 3646 |
+| 1.50 | South America | 1590 |
+| 1.47 | Oceania | 571 |
+| 1.41 | Asia | 2797 |
+| 1.30 | Africa | 149 |
+| 1.20 | North America | 3653 |
 
 ### Countries
 
@@ -62,8 +62,8 @@
 | 1.67 | Iran | 39 |
 | 1.67 | North Macedonia | 6 |
 | 1.64 | Ireland | 66 |
-| 1.62 | New Zealand | 116 |
 | 1.62 | Denmark | 171 |
+| 1.62 | New Zealand | 117 |
 | 1.60 | Italy | 221 |
 | 1.58 | India | 572 |
 | 1.58 | Indonesia | 227 |
@@ -73,7 +73,7 @@
 | 1.56 | Dominican Republic | 27 |
 | 1.54 | Malaysia | 96 |
 | 1.54 | Sweden | 292 |
-| 1.52 | Bolivia | 120 |
+| 1.53 | Bolivia | 121 |
 | 1.50 | Belize | 2 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Latvia | 32 |
@@ -82,8 +82,8 @@
 | 1.50 | Nigeria | 6 |
 | 1.48 | Peru | 209 |
 | 1.47 | Bangladesh | 15 |
-| 1.45 | South Africa | 74 |
-| 1.43 | Australia | 453 |
+| 1.44 | South Africa | 75 |
+| 1.43 | Australia | 454 |
 | 1.43 | Jordan | 14 |
 | 1.42 | Nepal | 19 |
 | 1.42 | Israel | 55 |
@@ -100,7 +100,7 @@
 | 1.32 | Colombia | 338 |
 | 1.32 | Panama | 19 |
 | 1.31 | Republic of Korea | 98 |
-| 1.30 | Philippines | 305 |
+| 1.30 | Philippines | 309 |
 | 1.29 | Andorra | 7 |
 | 1.29 | Hong Kong, China | 21 |
 | 1.29 | Morocco | 7 |
@@ -115,9 +115,9 @@
 | 1.20 | Japan | 230 |
 | 1.19 | Mongolia | 32 |
 | 1.18 | El Salvador | 34 |
-| 1.17 | Canada | 376 |
+| 1.17 | Canada | 377 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2925 |
+| 1.16 | United States | 2931 |
 | 1.13 | Azerbaijan | 46 |
 | 1.12 | Honduras | 17 |
 | 1.10 | Armenia | 10 |

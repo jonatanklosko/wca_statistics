@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -376,6 +376,7 @@
 | 1960 | [Danny Buschert](https://www.worldcubeassociation.org/persons/2017BUSC03) |
 | 1974 | [Deni Mintsaev](https://www.worldcubeassociation.org/persons/2013MINT01) |
 | 1980 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
+| 1981 | [Preston Hoing](https://www.worldcubeassociation.org/persons/2019HOIN01) |
 | 1988 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) |
 | 1988 | [Frederick Zheng](https://www.worldcubeassociation.org/persons/2018ZHEN45) |
 | 1989 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) |
@@ -411,6 +412,7 @@
 | 2135 | [Alex Hauben](https://www.worldcubeassociation.org/persons/2018HAUB01) |
 | 2140 | [Matteo Colombo](https://www.worldcubeassociation.org/persons/2009COLO03) |
 | 2141 | [Siva Shanmukh Vetcha](https://www.worldcubeassociation.org/persons/2008SHAN01) |
+| 2142 | [Richard Anthony Parada](https://www.worldcubeassociation.org/persons/2018PARA15) |
 | 2149 | [Alistair Miller](https://www.worldcubeassociation.org/persons/2017MILL12) |
 | 2156 | [Sanae Yamashita (山下佐苗)](https://www.worldcubeassociation.org/persons/2008OMYO01) |
 | 2156 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) |
@@ -439,6 +441,7 @@
 | 2281 | [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) |
 | 2282 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
 | 2296 | [Alejandro Restrepo Echeverri](https://www.worldcubeassociation.org/persons/2017ECHE04) |
+| 2303 | [Hongjie Zhang (张鸿杰)](https://www.worldcubeassociation.org/persons/2018ZHAH02) |
 | 2310 | [Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02) |
 | 2317 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 2323 | [Can Mao (毛灿)](https://www.worldcubeassociation.org/persons/2010MAOC01) |

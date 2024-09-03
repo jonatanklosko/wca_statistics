@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -184,6 +184,7 @@
 | 1 | [Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01) |
 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 1 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) |
+| 1 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 1 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) |
 | 1 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) |
 | 1 | [Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01) |

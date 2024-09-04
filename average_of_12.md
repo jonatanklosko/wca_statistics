@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  2 September 2024*
+*Updated on  4 September 2024*
 
 
 ### Rubik's Cube
@@ -9,7 +9,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 4.38 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3.73, 4.66, 4.02, 4.18, 5.50, 4.73, 4.35, 4.05, 4.50, 4.46, 4.19, 4.63 |
-| 4.86 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.90, 4.50, 5.03, 4.13, 5.18, 4.17, 5.16, 5.27, 4.58, 5.44, 4.80, 5.03 |
+| 4.83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.88, 4.20, 5.80, 4.96, 4.54, 5.29, 4.86, 5.55, 4.84, 4.03, 4.28, 4.88 |
 | 5.09 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.18, 4.01, 4.87, 4.60, 6.12, 5.56, 5.48, 5.53, 4.69, 4.92, 5.79, 4.25 |
 | 5.13 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 4.23, 5.45, 4.47, 7.35, 6.52, 5.13, 5.25, 4.90, 4.34, 5.94, 4.39, 4.93 |
 | 5.18 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.28, 5.23, 5.19, 5.50, 5.49, 4.97, 4.33, 5.59, 5.84, 5.27, 5.46, 4.81 |
@@ -46,7 +46,7 @@
 | 22.55 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 20.90, 24.32, 23.44, 20.75, 23.20, 24.61, 22.57, 27.09, 18.79, 25.52, 19.74, 20.48 |
 | 22.81 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 21.07, 24.82, 22.10, 22.83, 21.83, 22.74, 23.53, 27.91, 20.01, 26.24, 20.52, 22.38 |
 | 22.85 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 26.14, 22.89, 22.62, 24.65, 22.11, 23.92, 22.19, 23.28, 20.97, 21.47, 21.40, 23.93 |
-| 23.12 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 22.42, 22.95, 22.30, 25.64, 25.77, 27.38, 21.75, 20.57, 22.44, 24.40, 22.77, 20.72 |
+| 23.09 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 22.42, 27.80, 22.14, 22.58, 22.52, 23.71, 25.52, 25.35, 22.42, 20.50, 20.23, 23.75 |
 | 23.17 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 25.11, 24.36, 22.56, 20.02, 24.93, 22.01, 27.05, 23.93, 22.34, 18.83, 20.25, 26.19 |
 
 ### 5x5x5 Cube

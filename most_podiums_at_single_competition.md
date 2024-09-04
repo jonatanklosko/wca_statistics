@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  2 September 2024*
+*Updated on  4 September 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -924,6 +924,8 @@
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Polish Open 2009](https://www.worldcubeassociation.org/competitions/PolishOpen2009/results/podiums) |
 | 10 | [Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01) | [Pönde Open 2019](https://www.worldcubeassociation.org/competitions/PondeOpen2019/results/podiums) |
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [Plenty o' Parity 2015](https://www.worldcubeassociation.org/competitions/PoP2015/results/podiums) |
+| 12 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024/results/podiums) |
+| 11 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024/results/podiums) |
 | 13 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Prague Open 2014](https://www.worldcubeassociation.org/competitions/PragueOpen2014/results/podiums) |
 | 11 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Prague Open 2015](https://www.worldcubeassociation.org/competitions/PragueOpen2015/results/podiums) |
 | 11 | [Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15) | [Pre-Nacionales Arequipa 2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019/results/podiums) |

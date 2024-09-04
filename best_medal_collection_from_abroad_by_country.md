@@ -1,40 +1,40 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  2 September 2024*
+*Updated on  4 September 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1435** | 1204 | 1036 | 3675 |
-| United States | **1187** | 966 | 857 | 3010 |
-| Germany | **1147** | 1079 | 1093 | 3319 |
-| France | **985** | 851 | 714 | 2550 |
-| Netherlands | **964** | 777 | 648 | 2389 |
+| United States | **1188** | 966 | 857 | 3011 |
+| Germany | **1151** | 1082 | 1094 | 3327 |
+| France | **985** | 851 | 715 | 2551 |
+| Netherlands | **966** | 778 | 656 | 2400 |
 | Russia | **928** | 557 | 423 | 1908 |
 | China | **762** | 727 | 638 | 2127 |
-| Poland | **645** | 423 | 332 | 1400 |
+| Poland | **647** | 423 | 332 | 1402 |
 | Malaysia | **452** | 465 | 429 | 1346 |
 | United Kingdom | **436** | 475 | 453 | 1364 |
 | Canada | **401** | 425 | 454 | 1280 |
 | Republic of Korea | **364** | 312 | 270 | 946 |
 | Denmark | **356** | 300 | 248 | 904 |
-| Switzerland | **339** | 433 | 339 | 1111 |
+| Switzerland | **344** | 439 | 340 | 1123 |
 | Hong Kong, China | **338** | 354 | 289 | 981 |
 | India | **320** | 294 | 280 | 894 |
 | Sweden | **318** | 370 | 376 | 1064 |
 | Italy | **310** | 301 | 274 | 885 |
-| Australia | **291** | 139 | 95 | 525 |
-| Finland | **289** | 229 | 183 | 701 |
-| Ukraine | **258** | 274 | 287 | 819 |
+| Australia | **291** | 141 | 95 | 527 |
+| Finland | **289** | 230 | 184 | 703 |
+| Ukraine | **259** | 274 | 287 | 820 |
 | Argentina | **238** | 174 | 145 | 557 |
 | Romania | **225** | 169 | 143 | 537 |
 | Chinese Taipei | **216** | 191 | 193 | 600 |
 | Singapore | **208** | 203 | 220 | 631 |
 | Japan | **206** | 145 | 140 | 491 |
-| Spain | **185** | 180 | 207 | 572 |
+| Spain | **186** | 182 | 208 | 576 |
 | Indonesia | **185** | 172 | 139 | 496 |
 | Austria | **169** | 230 | 242 | 641 |
-| Ireland | **168** | 83 | 71 | 322 |
+| Ireland | **169** | 84 | 72 | 325 |
 | Slovenia | **154** | 194 | 210 | 558 |
 | Latvia | **153** | 216 | 222 | 591 |
 | Peru | **149** | 84 | 102 | 335 |
@@ -69,7 +69,7 @@
 | Portugal | **25** | 30 | 29 | 84 |
 | South Africa | **24** | 33 | 44 | 101 |
 | Belize | **24** | 6 | 1 | 31 |
-| El Salvador | **21** | 25 | 20 | 66 |
+| El Salvador | **21** | 25 | 21 | 67 |
 | Pakistan | **21** | 15 | 19 | 55 |
 | North Macedonia | **20** | 26 | 28 | 74 |
 | Mexico | **16** | 26 | 27 | 69 |

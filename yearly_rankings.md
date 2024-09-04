@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  2 September 2024*
+*Updated on  4 September 2024*
 
 
 ### Rubik's Cube - Single
@@ -88,11 +88,11 @@
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **19.90** | Germany | [FLIP Open 11: Road to Euros 2024](https://www.worldcubeassociation.org/competitions/FLIPOpen11RoadtoEuros2024) | 20.73, 18.86, 17.63, 27.46, 20.12 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **21.72** | Vietnam | [Hanoi COP Open 2024](https://www.worldcubeassociation.org/competitions/HanoiCOPOpen2024) | 22.04, 24.12, 19.59, 22.37, 20.74 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **21.74** | Republic of Korea | [Busan Spring 2024](https://www.worldcubeassociation.org/competitions/BusanSpring2024) | 19.54, 25.05, 26.55, 20.64, 19.36 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **22.22** | Australia | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) | 25.35, 22.42, 20.50, 20.23, 23.75 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **22.35** | China | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024) | 22.72, 20.90, 24.32, 23.44, 20.75 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **22.44** | Hong Kong, China | [Taipei Summer Open 2024](https://www.worldcubeassociation.org/competitions/TaipeiSummerOpen2024) | 20.89, 21.43, 22.69, 23.21, 24.13 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **22.53** | Chinese Taipei | [Maru Cube Day Taiwan 2024](https://www.worldcubeassociation.org/competitions/MaruCubeDayTaiwan2024) | 22.11, 23.92, 22.19, 23.28, 20.97 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **22.56** | United States | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) | 24.82, 22.10, 22.83, 21.83, 22.74 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **23.03** | Ireland | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) | 31.19, 21.53, 22.37, 24.54, 22.17 |
 
 ### 5x5x5 Cube - Single
 

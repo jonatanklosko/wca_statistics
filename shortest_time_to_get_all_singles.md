@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 September 2024*
+*Updated on  7 September 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -145,6 +145,7 @@
 | 826 | [Ivan Osovik](https://www.worldcubeassociation.org/persons/2017OSOV01) |
 | 833 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
 | 839 | [Daniel Wang](https://www.worldcubeassociation.org/persons/2022WANG06) |
+| 839 | [Oana-Simona Vrabie](https://www.worldcubeassociation.org/persons/2022VRAB01) |
 | 840 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 | 847 | [Alessio Pandin](https://www.worldcubeassociation.org/persons/2021PAND01) |
 | 855 | [Matěj Mužátko](https://www.worldcubeassociation.org/persons/2013MUAT01) |

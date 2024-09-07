@@ -1,18 +1,18 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 September 2024*
+*Updated on  7 September 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1435** | 1204 | 1036 | 3675 |
-| United States | **1188** | 966 | 857 | 3011 |
-| Germany | **1151** | 1082 | 1094 | 3327 |
+| United States | **1188** | 966 | 859 | 3013 |
+| Germany | **1152** | 1083 | 1094 | 3329 |
 | France | **985** | 851 | 715 | 2551 |
 | Netherlands | **966** | 778 | 656 | 2400 |
 | Russia | **928** | 557 | 423 | 1908 |
 | China | **762** | 727 | 638 | 2127 |
-| Poland | **647** | 423 | 332 | 1402 |
+| Poland | **651** | 426 | 333 | 1410 |
 | Malaysia | **452** | 465 | 429 | 1346 |
 | United Kingdom | **436** | 475 | 453 | 1364 |
 | Canada | **401** | 425 | 454 | 1280 |
@@ -43,7 +43,7 @@
 | Greece | **121** | 152 | 113 | 386 |
 | Czech Republic | **120** | 128 | 147 | 395 |
 | Kazakhstan | **118** | 116 | 123 | 357 |
-| Belarus | **113** | 79 | 90 | 282 |
+| Belarus | **113** | 80 | 92 | 285 |
 | Norway | **102** | 111 | 115 | 328 |
 | Lithuania | **95** | 83 | 90 | 268 |
 | Slovakia | **87** | 98 | 110 | 295 |
@@ -52,7 +52,7 @@
 | Croatia | **74** | 108 | 82 | 264 |
 | Vietnam | **65** | 90 | 79 | 234 |
 | Brazil | **64** | 80 | 55 | 199 |
-| Venezuela | **63** | 68 | 63 | 194 |
+| Venezuela | **63** | 69 | 64 | 196 |
 | Guatemala | **61** | 38 | 43 | 142 |
 | Estonia | **55** | 63 | 51 | 169 |
 | New Zealand | **53** | 76 | 61 | 190 |
@@ -73,11 +73,11 @@
 | Pakistan | **21** | 15 | 19 | 55 |
 | North Macedonia | **20** | 26 | 28 | 74 |
 | Mexico | **16** | 26 | 27 | 69 |
-| Bulgaria | **15** | 39 | 39 | 93 |
+| Bulgaria | **15** | 43 | 40 | 98 |
 | Nicaragua | **14** | 5 | 10 | 29 |
 | Nigeria | **12** | 20 | 15 | 47 |
+| Bolivia | **11** | 18 | 28 | 57 |
 | Uruguay | **11** | 8 | 18 | 37 |
-| Bolivia | **10** | 18 | 28 | 56 |
 | Morocco | **10** | 12 | 12 | 34 |
 | Tunisia | **10** | 10 | 8 | 28 |
 | Bosnia and Herzegovina | **9** | 23 | 11 | 43 |

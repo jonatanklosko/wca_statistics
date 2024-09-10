@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 September 2024*
+*Updated on 10 September 2024*
 
 
 ### Rubik's Cube - Single
@@ -223,11 +223,11 @@
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **17** | Republic of Korea | [WCC FMC Leap Day 2024](https://www.worldcubeassociation.org/competitions/WCCFMCLeapDay2024) | 24, 17, 22 |
 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) | **18** | China | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) | 25, 18, 27 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **18** | Australia | [FMC West Melbourne 2024](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2024) | DNF, 18, DNF |
+| [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | **18** | United States | [New York Quiet Championship 2024](https://www.worldcubeassociation.org/competitions/NewYorkQuietChampionship2024) | 22, 24, 18 |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **18** | Singapore | [FMC West Melbourne 2024](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2024) | 23, 18, 19 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **18** | Indonesia | [FMC West Melbourne 2024](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2024) | 24, 18, 20 |
 | [Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01) | **18** | United States | [PBQtah 6 2024](https://www.worldcubeassociation.org/competitions/PBQtah62024) | 24, 28, 18 |
 | [Ihor Kastranets (Ігор Кастранець)](https://www.worldcubeassociation.org/persons/2018KAST02) | **18** | Ukraine | [Podolian Open 2024](https://www.worldcubeassociation.org/competitions/PodolianOpen2024) | 21, 27, 18 |
-| [Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01) | **18** | Czech Republic | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 18, 23, 23 |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -241,8 +241,8 @@
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **21.00** | Poland | [Warsaw FMC Tour Saturday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourSaturday2024) | 19, 22, 22 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **21.00** | Poland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 20, 23, 20 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **21.33** | Italy | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 20, 24, 20 |
+| [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | **21.33** | United States | [New York Quiet Championship 2024](https://www.worldcubeassociation.org/competitions/NewYorkQuietChampionship2024) | 22, 24, 18 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | **21.33** | United States | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) | 22, 19, 23 |
-| [Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01) | **21.33** | Czech Republic | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 18, 23, 23 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -265,12 +265,12 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | **8.09** | Philippines | [Quezon City Open II 2024](https://www.worldcubeassociation.org/competitions/QuezonCityOpenII2024) | 8.94, 9.38, 7.71, 6.60, 7.63 |
 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | **8.27** | Switzerland | [V per Varese 2024](https://www.worldcubeassociation.org/competitions/VperVarese2024) | 8.60, 10.20, 7.18, 8.49, 7.72 |
+| [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | **8.41** | Indonesia | [Karawang Open 2024](https://www.worldcubeassociation.org/competitions/KarawangOpen2024) | 7.11, 8.23, 8.84, 8.17, 12.05 |
 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | **8.59** | Philippines | [Ayat-Ti Cubing Elyu Fest 2024](https://www.worldcubeassociation.org/competitions/AyatTiCubingElyuFest2024) | 7.67, 8.62, 9.13, 8.01, 10.27 |
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **8.83** | United Kingdom | [Stevenage April 2024](https://www.worldcubeassociation.org/competitions/StevenageApril2024) | 11.63, 8.97, 8.78, 7.32, 8.75 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **8.84** | United States | [CMT Glenwood Springs 2024](https://www.worldcubeassociation.org/competitions/CMTGlenwoodSprings2024) | 8.50, 8.54, 8.89, 9.08, 10.29 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **8.85** | United States | [Naperville Winter 2024](https://www.worldcubeassociation.org/competitions/NapervilleWinter2024) | 7.91, 10.24, 7.41, 10.46, 8.39 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **8.90** | United States | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 8.79, 9.39, 8.51, 12.13, 8.43 |
-| [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | **8.91** | Indonesia | [Gramedia Cube Open Jakarta 2024](https://www.worldcubeassociation.org/competitions/GramediaCubeOpenJakarta2024) | 8.51, 8.97, 8.82, 8.93, 10.58 |
 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | **8.93** | Germany | [Kölner Kubing 2024](https://www.worldcubeassociation.org/competitions/KolnerKubing2024) | 10.00, 7.82, 10.08, 7.14, 8.97 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **9.00** | China | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024) | 9.34, 7.98, 9.69, 7.73, 9.88 |
 

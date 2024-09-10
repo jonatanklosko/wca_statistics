@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 September 2024*
+*Updated on 10 September 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -75,6 +75,7 @@
 | 11 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Arnold Open 2017](https://www.worldcubeassociation.org/competitions/ArnoldOpen2017/results/podiums) |
 | 10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Arnold Open 2017](https://www.worldcubeassociation.org/competitions/ArnoldOpen2017/results/podiums) |
 | 10 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Arnold Open 2018](https://www.worldcubeassociation.org/competitions/ArnoldOpen2018/results/podiums) |
+| 13 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Around the Clock Israel 2024](https://www.worldcubeassociation.org/competitions/AroundtheClockIsrael2024/results/podiums) |
 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Asian Championship 2010](https://www.worldcubeassociation.org/competitions/AsianChampionship2010/results/podiums) |
 | 11 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Astana Open 2023](https://www.worldcubeassociation.org/competitions/AstanaOpen2023/results/podiums) |
 | 10 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [Astana Open 2023](https://www.worldcubeassociation.org/competitions/AstanaOpen2023/results/podiums) |
@@ -349,6 +350,7 @@
 | 17 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2021](https://www.worldcubeassociation.org/competitions/DanishChampionship2021/results/podiums) |
 | 14 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2022](https://www.worldcubeassociation.org/competitions/DanishChampionship2022/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2023](https://www.worldcubeassociation.org/competitions/DanishChampionship2023/results/podiums) |
+| 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2024](https://www.worldcubeassociation.org/competitions/DanishChampionship2024/results/podiums) |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Danish Open 2008](https://www.worldcubeassociation.org/competitions/DanishOpen2008/results/podiums) |
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Danish Open 2009](https://www.worldcubeassociation.org/competitions/DanishOpen2009/results/podiums) |
 | 14 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Danish Open 2010](https://www.worldcubeassociation.org/competitions/DanishOpen2010/results/podiums) |
@@ -1091,6 +1093,7 @@
 | 10 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | [Sumatra Open 2018](https://www.worldcubeassociation.org/competitions/SumatraOpen2018/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Summer Cubing in Stafsinge 2024](https://www.worldcubeassociation.org/competitions/SummerCubinginStafsinge2024/results/podiums) |
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Summer Kube Vila Velha 2020](https://www.worldcubeassociation.org/competitions/SummerKubeVilaVelha2020/results/podiums) |
+| 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Svealandsmästerskapet 2024](https://www.worldcubeassociation.org/competitions/Svealandsmasterskapet2024/results/podiums) |
 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006/results/podiums) |
 | 12 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Swedish Championship 2011](https://www.worldcubeassociation.org/competitions/SwedishChampionship2011/results/podiums) |
 | 12 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Swedish Championship 2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012/results/podiums) |

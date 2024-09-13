@@ -1,18 +1,18 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 | 4th places | Person |
 | ---: | :--- |
 | 251 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 220 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 186 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 179 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 179 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
-| 177 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 177 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 175 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 174 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 173 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 167 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 162 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 154 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
@@ -51,8 +51,8 @@
 | 99 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 98 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 97 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
+| 97 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 97 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 96 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 96 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 95 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 94 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
@@ -82,8 +82,8 @@
 | 82 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 82 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
+| 81 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
 | 81 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
-| 80 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
 | 80 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 80 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
 | 80 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |

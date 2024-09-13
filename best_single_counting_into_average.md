@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 
 ### Rubik's Cube
@@ -68,6 +68,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 7.34 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [San Jose del Monte Open II 2024](https://www.worldcubeassociation.org/competitions/SanJosedelMonteOpenII2024/results/by_person#2017VILL41) |
+| 7.38 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024/results/by_person#2017GARR05) |
 | 7.39 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Ayat-Ti Cubing Elyu Fest 2024](https://www.worldcubeassociation.org/competitions/AyatTiCubingElyuFest2024/results/by_person#2023ARRA01) |
 | 7.49 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
 | 7.63 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Quezon City Open II 2024](https://www.worldcubeassociation.org/competitions/QuezonCityOpenII2024/results/by_person#2017VILL41) |
@@ -76,7 +77,6 @@
 | 7.70 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2024](https://www.worldcubeassociation.org/competitions/BaztanOpen2024/results/by_person#2012PONC02) |
 | 7.71 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2012PONC02) |
 | 7.71 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Quezon City Open II 2024](https://www.worldcubeassociation.org/competitions/QuezonCityOpenII2024/results/by_person#2017VILL41) |
-| 7.72 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | [V per Varese 2024](https://www.worldcubeassociation.org/competitions/VperVarese2024/results/by_person#2021MERU01) |
 
 ### Megaminx
 

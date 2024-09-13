@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 
 ### Rubik's Cube
@@ -25,13 +25,13 @@
 | ---: | :--- | :--- |
 | 0.78 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 0.74, 0.70, 0.97, 0.78, 0.81 |
 | 0.89 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.15, 0.79, 0.91, 0.97, 0.71 |
+| 0.94 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | 1.08, 2.17, 0.89, 0.58, 0.85 |
 | 0.97 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 0.93, 1.05, 0.66, 1.43, 0.92 |
 | 0.98 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 0.81, 1.16, 1.05, 0.84, 1.06 |
 | 0.99 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 0.72, 1.05, 1.21, 1.57, 0.72 |
 | 1.02 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) | 0.99, 1.03, 1.02, 1.22, 1.02 |
 | 1.03 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | 1.35, 1.00, 0.95, 1.15, 0.92 |
 | 1.04 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 0.84, 0.77, 2.47, 1.17, 1.12 |
-| 1.06 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | 0.84, 0.79, 1.67, 1.17, 1.18 |
 | 1.06 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 1.27, 0.73, 1.17, 1.44, 0.66 |
 
 ### 4x4x4 Cube
@@ -163,9 +163,9 @@
 | 1.37 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 2.80, 1.45, 1.31, 1.05, 1.34 |
 | 1.43 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.42, 1.50, 1.38, 3.53, 1.21 |
 | 1.45 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | 1.24, 1.56, 2.46, 1.55, 1.24 |
+| 1.46 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.45, 1.46, 1.27, 3.22, 1.46 |
 | 1.46 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 2.05, 1.66, 0.95, 1.64, 1.07 |
 | 1.46 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.27, 1.38, 1.18, 3.32, 1.73 |
-| 1.49 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.32, 1.54, 2.90, 1.56, 1.38 |
 | 1.53 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 1.54, 1.42, 1.34, 2.61, 1.64 |
 | 1.53 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 1.49, 3.96, 1.56, 1.55, 1.46 |
 

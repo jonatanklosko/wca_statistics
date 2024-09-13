@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1213,6 +1213,7 @@
 | 11 | [Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36) | [Uzbekistan Nationals 2023](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2023/results/podiums) |
 | 10 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [Uzbekistan New Year 2023](https://www.worldcubeassociation.org/competitions/UzbekistanNewYear2023/results/podiums) |
 | 12 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Uzbekistan Open 2018](https://www.worldcubeassociation.org/competitions/UzbekistanOpen2018/results/podiums) |
+| 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Uzhhorod Open 2024](https://www.worldcubeassociation.org/competitions/UzhhorodOpen2024/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Valborg Cubing 2019](https://www.worldcubeassociation.org/competitions/ValborgCubing2019/results/podiums) |
 | 11 | [Diego Fraile](https://www.worldcubeassociation.org/persons/2013FRAI01) | [Val d'Aran Open 2024](https://www.worldcubeassociation.org/competitions/ValdAranOpen2024/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Vännäs & Friends 2022](https://www.worldcubeassociation.org/competitions/VannasFriends2022/results/podiums) |

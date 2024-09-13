@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -12,15 +12,15 @@
 | 1634 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1630 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1629 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
-| 1575 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 1587 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
-| 1518 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
+| 1527 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 1497 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 1423 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1399 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1341 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 1310 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
-| 1266 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
+| 1321 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 1269 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1258 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1254 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1254 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
@@ -52,12 +52,12 @@
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 988 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 978 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 976 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
-| 973 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 954 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 950 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 948 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 936 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
+| 944 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 935 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 931 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
@@ -89,12 +89,12 @@
 | 812 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 811 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 808 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
+| 808 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 807 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 806 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 804 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 800 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 800 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
-| 797 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 795 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 794 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 793 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |

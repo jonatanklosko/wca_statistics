@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 
 ### Rubik's Cube - Single
@@ -44,10 +44,10 @@
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **0.52** | Poland | [GLS IV 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguIV2024) | 5.59, 1.97, 1.36, 0.52, 1.09 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **0.54** | China | [Sunway Velocity Mall Open 2024](https://www.worldcubeassociation.org/competitions/SunwayVelocityMallOpen2024) | 0.87, 0.88, 0.54, 1.72, 1.71 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **0.57** | Poland | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) | 1.55, 3.30, 0.57, 1.00, 1.21 |
+| [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | **0.58** | United States | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) | 1.08, 2.17, 0.89, 0.58, 0.85 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **0.58** | United States | [Green Summer 2024](https://www.worldcubeassociation.org/competitions/GreenSummer2024) | 1.22, 0.89, 0.58, 1.02, 1.18 |
 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | **0.58** | New Zealand | [Australian Nationals 2024](https://www.worldcubeassociation.org/competitions/AustralianNationals2024) | 2.04, 4.05, 2.38, 0.58, 1.74 |
 | [Caleb Chen](https://www.worldcubeassociation.org/persons/2022CHEN37) | **0.59** | United States | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024) | 1.51, 1.47, 1.79, 2.45, 0.59 |
-| [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | **0.59** | Singapore | [Singapore 50 and Counting 2024](https://www.worldcubeassociation.org/competitions/Singapore50andCounting2024) | 1.47, 1.48, 1.32, 0.75, 0.59 |
 
 ### 2x2x2 Cube - Average
 
@@ -55,11 +55,11 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **0.78** | China | [Johor Cube Open 2024](https://www.worldcubeassociation.org/competitions/JohorCubeOpen2024) | 0.74, 0.70, 0.97, 0.78, 0.81 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **0.92** | United States | [New-Cumberland County 2024](https://www.worldcubeassociation.org/competitions/NewCumberlandCounty2024) | 0.84, 2.69, 0.71, 1.04, 0.88 |
+| [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | **0.94** | United States | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) | 1.08, 2.17, 0.89, 0.58, 0.85 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **0.97** | Netherlands | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) | 0.93, 1.05, 0.66, 1.43, 0.92 |
 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | **1.02** | Singapore | [Singapore Sprint 2024](https://www.worldcubeassociation.org/competitions/SingaporeSprint2024) | 3.26, 0.96, 1.08, 1.03, 0.93 |
 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) | **1.09** | Israel | [Israel Championship 2024](https://www.worldcubeassociation.org/competitions/IsraelChampionship2024) | 1.03, 1.02, 1.22, 1.02, 1.62 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **1.11** | Poland | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024) | 0.78, 1.28, 1.03, 1.02, DNF |
-| [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | **1.13** | United States | [Eastwood Mall Summer 2024](https://www.worldcubeassociation.org/competitions/EastwoodMallSummer2024) | 1.37, 0.84, 0.79, 1.67, 1.17 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **1.15** | United States | [Chicago Area Twist Spring B 2024](https://www.worldcubeassociation.org/competitions/ChicagoAreaTwistSpringB2024) | 1.19, 1.26, 1.72, 0.96, 1.00 |
 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | **1.15** | China | [Guiyang Open 2024](https://www.worldcubeassociation.org/competitions/GuiyangOpen2024) | 1.16, 1.43, 1.13, 1.15, 0.87 |
 | [Siddharth Reddy](https://www.worldcubeassociation.org/persons/2020REDD01) | **1.17** | United States | [DFW Winter Variation 2024](https://www.worldcubeassociation.org/competitions/DFWWinterVariation2024) | 1.25, 1.54, 1.05, 1.22, 1.02 |

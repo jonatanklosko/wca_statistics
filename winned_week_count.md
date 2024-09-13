@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 
 ### Rubik's Cube
@@ -233,7 +233,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 56 |
+| [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 57 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 36 |
 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 27 |
 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 26 |

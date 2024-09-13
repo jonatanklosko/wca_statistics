@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -353,6 +353,7 @@
 | 1847 | [Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01) |
 | 1847 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) |
 | 1848 | [Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01) |
+| 1848 | [Bárbara Guerra Ribeiro](https://www.worldcubeassociation.org/persons/2019RIBE11) |
 | 1855 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 1862 | [Christian Sachgau](https://www.worldcubeassociation.org/persons/2018SACH03) |
 | 1863 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |

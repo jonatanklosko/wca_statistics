@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 
 ### Rubik's Cube
@@ -122,7 +122,7 @@
 | 22.57 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 21, 23, 23, 21, 24, 25, 19, 24, 20, 34, 22, 20, 24, 22, 24, 23, 23, 21, 21, 24, 22, 25, 23, 21, 23 |
 | 22.76 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 20, 22, 21, 23, 24, 22, 21, 24, 17, 22, 24, 23, 21, 24, 23, 23, 23, 24, 23, 29, 24, 26, 23, 18, 24 |
 | 23.24 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 20, 26, 25, 26, 21, 24, 25, 25, 22, 25, 23, 19, 24, 22, 22, 25, 27, 24, 24, 22, 20, 21, 25, 22, 21 |
-| 23.48 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 23, 23, 23, 22, 23, 23, 29, 25, 24, 18, 23, 25, 21, 25, 21, 26, 22, DNF, 29, 25, 21, 23, 25, 21, 21 |
+| 23.38 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | 24, 25, 23, 27, 22, 23, 23, 23, 23, 27, 22, 23, 23, 21, 23, 24, 25, 22, 24, 19, 27, 26, 20, 21, 24 |
 
 ### 3x3x3 One-Handed
 
@@ -180,9 +180,9 @@
 | 3.51 | [Jaidon Poraminthara Lin (เจเดิ้น ปรมินทร์ หลิน)](https://www.worldcubeassociation.org/persons/2019LINJ04) | 3.39, 3.34, 3.71, 3.91, 3.12, 4.39, 3.97, 3.43, 3.56, 4.64, 2.47, 3.30, 3.35, 3.32, 6.87, 2.82, 2.86, 3.47, 5.02, 2.64, 3.12, 3.02, 6.75, 2.79, 3.22 |
 | 3.51 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.90, 3.34, 3.31, 4.23, 3.30, 3.69, 3.48, 3.18, 3.79, 2.88, 4.05, 2.90, 3.11, 2.58, 4.20, 4.42, 3.36, 3.80, 5.90, 3.71, 5.25, 3.26, 3.67, 3.04, 2.99 |
 | 3.64 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 3.58, 4.52, 3.57, 3.11, 4.82, 3.04, 3.50, 2.90, 3.12, 3.08, 4.65, 3.47, 4.85, 3.42, DNF, 3.39, 3.01, 3.57, 4.40, 3.43, 3.97, 3.45, 2.69, 3.95, 3.43 |
+| 3.81 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | 3.28, 3.62, 3.51, 4.23, 3.36, 6.67, 3.23, 3.99, 4.25, 4.23, 3.49, 3.43, 3.31, 4.43, 4.30, 3.69, 5.10, 3.08, 3.33, 4.38, 3.87, DNF, 3.11, 3.93, 2.70 |
 | 3.85 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 4.14, 3.11, 3.29, 3.86, 3.27, 3.36, DNF, 5.22, DNF, 3.85, 3.53, 3.85, 2.97, 3.69, 5.27, 3.85, 3.71, 2.99, 4.34, 3.51, 3.17, 3.91, 4.80, 3.84, 3.26 |
 | 3.86 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.38, 3.53, 4.66, DNF, 4.21, 3.46, 3.55, 4.54, 3.47, 3.49, 3.42, 3.74, 3.66, 3.60, DNF, 3.94, 3.61, 3.33, 4.06, 3.69, 5.47, 4.66, 3.21, 3.68, 3.15 |
-| 3.89 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 3.81, 3.70, 3.71, 3.81, 3.82, 3.40, 4.11, 4.23, 3.35, 3.85, 5.47, 4.32, 3.43, 3.78, 3.59, 3.64, 4.22, 3.58, 4.65, 4.42, 8.15, 3.88, 3.71, 3.84, 3.63 |
 
 ### Skewb
 

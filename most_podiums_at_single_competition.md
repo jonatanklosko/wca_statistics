@@ -1,9 +1,10 @@
 ## Most podiums at a single competition
 
-*Updated on 13 September 2024*
+*Updated on 16 September 2024*
 
 | Podiums | Person |
 | ---: | :--- |
+| 12 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [10th Anniversary Cervantes 2024](https://www.worldcubeassociation.org/competitions/10thAnniversaryCervantes2024/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [1:a Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/1aLordagskubeniVasteras2024/results/podiums) |
 | 13 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [1:a Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/1aLordagskubeniVasteras2024/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [24 Hours in Åker 2024](https://www.worldcubeassociation.org/competitions/24HoursinAker2024/results/podiums) |
@@ -624,6 +625,8 @@
 | 16 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012/results/podiums) |
 | 10 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012/results/podiums) |
 | 10 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Iruña Open 2019](https://www.worldcubeassociation.org/competitions/IrunaOpen2019/results/podiums) |
+| 14 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Íslandsmótið 2024](https://www.worldcubeassociation.org/competitions/Islandsmotid2024/results/podiums) |
+| 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Íslandsmótið 2024](https://www.worldcubeassociation.org/competitions/Islandsmotid2024/results/podiums) |
 | 12 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2022](https://www.worldcubeassociation.org/competitions/IsraelChampionship2022/results/podiums) |
 | 10 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelChampionship2023/results/podiums) |
 | 13 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2024](https://www.worldcubeassociation.org/competitions/IsraelChampionship2024/results/podiums) |

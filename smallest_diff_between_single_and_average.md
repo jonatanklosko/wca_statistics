@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 September 2024*
+*Updated on 16 September 2024*
 
 
 ### Rubik's Cube
@@ -226,8 +226,8 @@
 | 7.02 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:53.15 | 7:00.17 | [Kidderminster - BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterBlindOff2022/results/by_person#2019HIRS01) |
 | 7.78 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 8:41.99 | 8:49.77 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019/results/by_person#2016FANG01) |
 | 8.15 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:46.56 | 3:54.71 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/by_person#2013LINK01) |
+| 8.35 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 4:28.31 | 4:36.66 | [10th Anniversary Cervantes 2024](https://www.worldcubeassociation.org/competitions/10thAnniversaryCervantes2024/results/by_person#2017GUTM01) |
 | 9.69 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 3:43.58 | 3:53.27 | [Manchester BLD Day 2023](https://www.worldcubeassociation.org/competitions/ManchesterBLDDay2023/results/by_person#2019ECKE02) |
-| 9.79 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4:00.56 | 4:10.35 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019ECKE02) |
 
 ### 3x3x3 With Feet
 

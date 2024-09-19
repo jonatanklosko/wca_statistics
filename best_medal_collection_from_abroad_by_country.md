@@ -1,58 +1,58 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 September 2024*
+*Updated on 19 September 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1436** | 1206 | 1036 | 3678 |
 | United States | **1198** | 971 | 860 | 3029 |
-| Germany | **1163** | 1090 | 1102 | 3355 |
-| France | **991** | 855 | 717 | 2563 |
-| Netherlands | **969** | 780 | 657 | 2406 |
-| Russia | **938** | 560 | 429 | 1927 |
-| China | **767** | 735 | 643 | 2145 |
-| Poland | **652** | 426 | 337 | 1415 |
+| Germany | **1166** | 1090 | 1102 | 3358 |
+| France | **993** | 857 | 717 | 2567 |
+| Netherlands | **969** | 783 | 660 | 2412 |
+| Russia | **938** | 560 | 430 | 1928 |
+| China | **768** | 737 | 644 | 2149 |
+| Poland | **652** | 426 | 338 | 1416 |
 | Malaysia | **452** | 465 | 429 | 1346 |
 | United Kingdom | **436** | 476 | 453 | 1365 |
-| Canada | **402** | 426 | 454 | 1282 |
+| Canada | **403** | 429 | 455 | 1287 |
 | Republic of Korea | **368** | 317 | 272 | 957 |
 | Denmark | **357** | 303 | 249 | 909 |
 | Switzerland | **349** | 441 | 340 | 1130 |
 | Hong Kong, China | **342** | 357 | 295 | 994 |
-| India | **320** | 295 | 280 | 895 |
+| India | **320** | 299 | 282 | 901 |
 | Sweden | **318** | 370 | 376 | 1064 |
 | Italy | **317** | 310 | 275 | 902 |
 | Australia | **291** | 141 | 95 | 527 |
 | Finland | **289** | 231 | 186 | 706 |
-| Ukraine | **261** | 277 | 288 | 826 |
+| Ukraine | **262** | 277 | 288 | 827 |
 | Argentina | **248** | 182 | 149 | 579 |
 | Chinese Taipei | **228** | 199 | 199 | 626 |
-| Romania | **225** | 169 | 143 | 537 |
-| Singapore | **208** | 203 | 221 | 632 |
-| Japan | **206** | 146 | 140 | 492 |
-| Spain | **188** | 182 | 210 | 580 |
+| Romania | **225** | 170 | 143 | 538 |
+| Singapore | **210** | 204 | 221 | 635 |
+| Japan | **206** | 146 | 142 | 494 |
+| Spain | **189** | 182 | 210 | 581 |
 | Indonesia | **185** | 172 | 139 | 496 |
-| Austria | **169** | 232 | 245 | 646 |
-| Ireland | **169** | 84 | 74 | 327 |
+| Austria | **173** | 232 | 245 | 650 |
+| Ireland | **173** | 84 | 74 | 331 |
 | Slovenia | **157** | 195 | 214 | 566 |
 | Latvia | **153** | 218 | 223 | 594 |
 | Belgium | **149** | 215 | 199 | 563 |
-| Peru | **149** | 85 | 103 | 337 |
+| Peru | **149** | 86 | 103 | 338 |
 | Colombia | **144** | 118 | 101 | 363 |
 | Greece | **121** | 152 | 113 | 386 |
 | Czech Republic | **121** | 128 | 150 | 399 |
 | Kazakhstan | **118** | 116 | 123 | 357 |
-| Belarus | **113** | 80 | 92 | 285 |
+| Belarus | **113** | 81 | 92 | 286 |
 | Norway | **102** | 111 | 115 | 328 |
-| Lithuania | **95** | 83 | 90 | 268 |
+| Lithuania | **95** | 86 | 90 | 271 |
 | Thailand | **88** | 95 | 48 | 231 |
 | Slovakia | **87** | 98 | 110 | 295 |
 | Philippines | **80** | 94 | 94 | 268 |
 | Croatia | **74** | 108 | 82 | 264 |
-| Venezuela | **69** | 72 | 65 | 206 |
+| Venezuela | **69** | 73 | 65 | 207 |
 | Vietnam | **65** | 90 | 79 | 234 |
-| Brazil | **64** | 80 | 55 | 199 |
+| Brazil | **64** | 80 | 56 | 200 |
 | Guatemala | **61** | 38 | 43 | 142 |
 | Estonia | **55** | 63 | 56 | 174 |
 | New Zealand | **53** | 76 | 61 | 190 |
@@ -72,7 +72,7 @@
 | El Salvador | **21** | 25 | 21 | 67 |
 | Pakistan | **21** | 15 | 19 | 55 |
 | North Macedonia | **20** | 26 | 28 | 74 |
-| Mexico | **16** | 26 | 27 | 69 |
+| Mexico | **17** | 27 | 27 | 71 |
 | Bulgaria | **15** | 43 | 41 | 99 |
 | Nicaragua | **14** | 5 | 10 | 29 |
 | Nigeria | **12** | 20 | 15 | 47 |
@@ -83,7 +83,7 @@
 | Kuwait | **10** | 9 | 21 | 40 |
 | Bosnia and Herzegovina | **9** | 23 | 11 | 43 |
 | Turkey | **9** | 17 | 16 | 42 |
-| Macau, China | **8** | 21 | 27 | 56 |
+| Macau, China | **8** | 21 | 29 | 58 |
 | Cyprus | **8** | 18 | 17 | 43 |
 | Moldova | **7** | 12 | 9 | 28 |
 | Georgia | **7** | 10 | 9 | 26 |
@@ -112,7 +112,7 @@
 | Albania | **0** | 3 | 2 | 5 |
 | Sri Lanka | **0** | 3 | 2 | 5 |
 | Saint Kitts and Nevis | **0** | 3 | 0 | 3 |
-| Azerbaijan | **0** | 2 | 3 | 5 |
+| Azerbaijan | **0** | 2 | 4 | 6 |
 | Dominican Republic | **0** | 2 | 2 | 4 |
 | Togo | **0** | 1 | 5 | 6 |
 | Zimbabwe | **0** | 1 | 5 | 6 |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 September 2024*
+*Updated on 19 September 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -326,6 +326,7 @@
 | 1736 | [Ming Dao Ting](https://www.worldcubeassociation.org/persons/2018TING05) |
 | 1742 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1743 | [Yuhang Sun (孙煜航)](https://www.worldcubeassociation.org/persons/2019SUNY09) |
+| 1743 | [Flurin König](https://www.worldcubeassociation.org/persons/2019KONI03) |
 | 1749 | [Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01) |
 | 1764 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 1764 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) |
@@ -444,6 +445,8 @@
 | 2281 | [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) |
 | 2282 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
 | 2296 | [Alejandro Restrepo Echeverri](https://www.worldcubeassociation.org/persons/2017ECHE04) |
+| 2296 | [Jacob Miko Tan (陈在元)](https://www.worldcubeassociation.org/persons/2018TANJ05) |
+| 2297 | [Mykhailo Yartsun (Михайло Ярцун)](https://www.worldcubeassociation.org/persons/2018YART01) |
 | 2303 | [Hongjie Zhang (张鸿杰)](https://www.worldcubeassociation.org/persons/2018ZHAH02) |
 | 2310 | [Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02) |
 | 2317 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |
@@ -537,6 +540,7 @@
 | 3360 | [Zach Ramer](https://www.worldcubeassociation.org/persons/2015RAME01) |
 | 3361 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 3367 | [Chi-Lun Hung (洪啟倫)](https://www.worldcubeassociation.org/persons/2010HONG01) |
+| 3374 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 3380 | [Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02) |
 | 3381 | [Felix Lee](https://www.worldcubeassociation.org/persons/2008LEEF01) |
 | 3388 | [Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02) |

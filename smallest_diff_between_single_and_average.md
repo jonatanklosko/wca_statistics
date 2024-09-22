@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 19 September 2024*
+*Updated on 22 September 2024*
 
 
 ### Rubik's Cube
@@ -12,12 +12,12 @@
 | 0.01 | [Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01) | 9.55 | 9.56 | [Zonhoven Open 2016](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2016/results/by_person#2010SCHI01) |
 | 0.01 | [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | 10.99 | 11.00 | [SJTU Winter Open 2018](https://www.worldcubeassociation.org/competitions/SJTUWinterOpen2018/results/by_person#2017YINX01) |
 | 0.01 | [Michael](https://www.worldcubeassociation.org/persons/2010MICH03) | 25.03 | 25.04 | [Indonesian Open 2011](https://www.worldcubeassociation.org/competitions/IndonesianOpen2011/results/by_person#2010MICH03) |
+| 0.02 | [MinSeo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | 7.71 | 7.73 | [Brown Fall Seongnam 2024](https://www.worldcubeassociation.org/competitions/BrownFallSeongnam2024/results/by_person#2014GUMI01) |
 | 0.02 | [Ethan Yeh](https://www.worldcubeassociation.org/persons/2020YEHE01) | 7.93 | 7.95 | [Agoura Cubing Returns 2024](https://www.worldcubeassociation.org/competitions/AgouraCubingReturns2024/results/by_person#2020YEHE01) |
 | 0.02 | [Vishal Chandrasekar](https://www.worldcubeassociation.org/persons/2022CHAN59) | 8.30 | 8.32 | [Malaysia Cube Championship 2024](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2024/results/by_person#2022CHAN59) |
 | 0.02 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | 8.64 | 8.66 | [San Diego's Final Cube-Down 2022](https://www.worldcubeassociation.org/competitions/SanDiegosFinalCubeDown2022/results/by_person#2015BROW03) |
 | 0.02 | [Yongting You (尤永庭)](https://www.worldcubeassociation.org/persons/2010YOUY01) | 9.40 | 9.42 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/by_person#2010YOUY01) |
 | 0.02 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | 10.53 | 10.55 | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/by_person#2021OTAI01) |
-| 0.02 | [José Josué Daniel Pineda Abrego](https://www.worldcubeassociation.org/persons/2022ABRE01) | 12.94 | 12.96 | [Nacionales Guatemala 2022](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2022/results/by_person#2022ABRE01) |
 
 ### 2x2x2 Cube
 
@@ -68,6 +68,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.01 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1:46.52 | 1:46.53 | [6x6 Still in a Madison Park 2024](https://www.worldcubeassociation.org/competitions/6x6StillinaMadisonPark2024/results/by_person#2013JOHN10) |
 | 0.01 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | 1:56.22 | 1:56.23 | [Edukent Weekend 2022](https://www.worldcubeassociation.org/competitions/EdukentWeekend2022/results/by_person#2018ABLA01) |
 | 0.04 | [Jascha Bakarinow](https://www.worldcubeassociation.org/persons/2009BAKA01) | 1:57.09 | 1:57.13 | [German Big Cube Open 2018](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2018/results/by_person#2009BAKA01) |
 | 0.04 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) | 2:20.54 | 2:20.58 | [Oceania 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Oceania10thAnniversary2019/results/by_person#2016STAN05) |
@@ -77,7 +78,6 @@
 | 0.08 | [Eli Parker](https://www.worldcubeassociation.org/persons/2016PARK02) | 2:27.50 | 2:27.58 | [Music City Fall 2023](https://www.worldcubeassociation.org/competitions/MusicCitySpeedsolvingFall2023/results/by_person#2016PARK02) |
 | 0.09 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 2:23.74 | 2:23.83 | [DeKalb Cubing Fall 2023](https://www.worldcubeassociation.org/competitions/DeKalbCubingFall2023/results/by_person#2011FERA01) |
 | 0.10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 2:44.66 | 2:44.76 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012/results/by_person#2005AKKE01) |
-| 0.11 | [Geovanny Cueva](https://www.worldcubeassociation.org/persons/2018CUEV01) | 2:58.25 | 2:58.36 | [Ecuador Nationals 2019](https://www.worldcubeassociation.org/competitions/EcuadorNationals2019/results/by_person#2018CUEV01) |
 
 ### 7x7x7 Cube
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 September 2024*
+*Updated on 22 September 2024*
 
 
 ### Rubik's Cube
@@ -221,9 +221,9 @@
 | 1:09.99 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 1:11.74, DNF, 1:01.14, 1:04.03, 1:14.20 |
 | 1:20.08 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:19.22, 1:19.07, 1:21.94, DNF, 1:11.34 |
 | 1:27.76 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | DNF, 1:20.63, 1:25.93, 1:33.68, 1:23.66 |
+| 1:29.58 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 1:29.21, 1:29.72, 1:29.81, DNF, 1:25.52 |
 | 1:31.92 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | 1:56.65, DNF, 1:05.94, 1:33.17, 1:05.14 |
 | 1:33.50 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 2:03.94, 1:31.40, 1:23.27, 1:25.83, 1:43.26 |
-| 1:35.66 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | DNF, 1:47.44, 1:29.21, 1:29.72, 1:29.81 |
 | 1:38.60 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 1:24.98, 1:45.89, 2:26.03, 1:22.17, 1:44.92 |
 | 1:47.98 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 1:48.01, 1:44.31, 1:30.05, DNF, 1:51.63 |
 | 1:59.90 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 1:42.73, DNF, 1:59.06, 2:05.48, 1:55.17 |
@@ -240,9 +240,9 @@
 | 3:38.36 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | DNF, 3:34.19, 3:31.41, 3:39.14, 3:41.76 |
 | 3:51.16 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 3:55.39, DNF, 4:12.10, 3:25.99, 3:20.19 |
 | 4:18.48 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | DNF, 4:00.53, 4:25.98, 4:28.94, 3:33.98 |
+| 4:22.36 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 6:34.16, 3:56.14, 3:58.55, 3:46.48, 5:12.40 |
 | 4:25.46 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4:30.97, 4:39.16, 4:06.26, DNF, 3:34.45 |
 | 4:27.15 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 4:30.47, 4:08.12, 3:52.32, DNF, 4:42.85 |
-| 4:35.53 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 4:13.39, 3:56.30, 3:38.68, DNF, 5:36.91 |
 
 ### 3x3x3 With Feet
 

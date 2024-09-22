@@ -1,13 +1,13 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 19 September 2024*
+*Updated on 22 September 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
 | 91 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [NEMO Amsterdam Open 2012](https://www.worldcubeassociation.org/competitions/NEMOAmsterdamOpen2012) | [Getafe Continúa 2023](https://www.worldcubeassociation.org/competitions/GetafeContinua2023) |
 | 81 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Cumberland Valley Open 2009](https://www.worldcubeassociation.org/competitions/CumberlandValley2009) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 76 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | [Wiscube 2015](https://www.worldcubeassociation.org/competitions/Wiscube2ndEdition2015) | [FMCats Wisconsin 2023](https://www.worldcubeassociation.org/competitions/FMCatsWisconsin2023) |
-| 75 | [Catherine Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) | [Johns Hopkins Winter 2015](https://www.worldcubeassociation.org/competitions/JohnsHopkinsWinter2015) |  |
+| 75 | [Amity Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) | [Johns Hopkins Winter 2015](https://www.worldcubeassociation.org/competitions/JohnsHopkinsWinter2015) |  |
 | 74 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | [River Hill Summer 2012](https://www.worldcubeassociation.org/competitions/RiverHillSummer2012) | [MLWGS Spring 2019](https://www.worldcubeassociation.org/competitions/MLWGSSpring2019) |
 | 72 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | [Small Cubes Open 2010](https://www.worldcubeassociation.org/competitions/SmallCubesOpen2010) | [Lafayette Fall 2019](https://www.worldcubeassociation.org/competitions/LafayetteFall2019) |
 | 71 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) | [POPS Open 2016](https://www.worldcubeassociation.org/competitions/POPSOpen2016) | [Cubing with Penguins 2023](https://www.worldcubeassociation.org/competitions/CubingwithPenguins2023) |
@@ -64,8 +64,8 @@
 | 49 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | [Shepparton Autumn 2014](https://www.worldcubeassociation.org/competitions/SheppartonAutumn2014) | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023) |
 | 49 | [Garrett Hadaway](https://www.worldcubeassociation.org/persons/2015HADA01) | [Indiana 2015](https://www.worldcubeassociation.org/competitions/Indiana2015) |  |
 | 49 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) | [Chambéry Cube Open 2015](https://www.worldcubeassociation.org/competitions/ChamberyCube2015) | [Warm Up Stockholm 2022](https://www.worldcubeassociation.org/competitions/WarmUpStockholm2022) |
-| 49 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | [Shanghai Spring 2016](https://www.worldcubeassociation.org/competitions/ShanghaiSpring2016) | [Nanchang Medium & Small 2018](https://www.worldcubeassociation.org/competitions/NanchangMediumnSmallCubes2018) |
 | 49 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016) | [Apollo Bay Cubing 2022](https://www.worldcubeassociation.org/competitions/ApolloBayCubing2022) |
+| 49 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | [Shanghai Spring 2016](https://www.worldcubeassociation.org/competitions/ShanghaiSpring2016) | [Nanchang Medium & Small 2018](https://www.worldcubeassociation.org/competitions/NanchangMediumnSmallCubes2018) |
 | 49 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [Flen New Year's Blind 2017](https://www.worldcubeassociation.org/competitions/FlenNewYearsBlind2017) | [Stockholmsligan 5: The Reds 2023](https://www.worldcubeassociation.org/competitions/Stockholmsligan5TheReds2023) |
 | 49 | [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) | [ALL1- Pittsburgh 2023](https://www.worldcubeassociation.org/competitions/ALL1Pittsburgh2023) |
 | 49 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) | [Swedish Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishChampionship2022) | [SL 413: Kalle i Kubik 2024](https://www.worldcubeassociation.org/competitions/SL413KalleiKubik2024) |

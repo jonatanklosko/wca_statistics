@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 19 September 2024*
+*Updated on 22 September 2024*
 
 
 ### 200 Competitions
@@ -83,7 +83,7 @@
 | Days | Person |
 | ---: | :--- |
 | 475 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
-| 520 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
+| 520 | [Kyle Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 524 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
 | 526 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 | 546 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
@@ -114,7 +114,7 @@
 | 274 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 | 287 | [Thomas Cabezas Casallas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 289 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
-| 294 | [Kyrie Eleison S. Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
+| 294 | [Kyle Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 299 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |

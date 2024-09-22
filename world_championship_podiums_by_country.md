@@ -1,6 +1,6 @@
 ## World Championship podiums by country
 
-*Updated on 19 September 2024*
+*Updated on 22 September 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |

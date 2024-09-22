@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 September 2024*
+*Updated on 22 September 2024*
 
 
 ### Rubik's Cube
@@ -10,8 +10,8 @@
 | ---: | :--- | :--- |
 | 4.38 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3.73, 4.66, 4.02, 4.18, 5.50, 4.73, 4.35, 4.05, 4.50, 4.46, 4.19, 4.63 |
 | 4.83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.88, 4.20, 5.80, 4.96, 4.54, 5.29, 4.86, 5.55, 4.84, 4.03, 4.28, 4.88 |
+| 5.07 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 4.90, 4.34, 5.94, 4.39, 4.93, 5.58, 5.11, 5.38, 4.85, 5.99, 4.93, 4.64 |
 | 5.09 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.18, 4.01, 4.87, 4.60, 6.12, 5.56, 5.48, 5.53, 4.69, 4.92, 5.79, 4.25 |
-| 5.13 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 4.23, 5.45, 4.47, 7.35, 6.52, 5.13, 5.25, 4.90, 4.34, 5.94, 4.39, 4.93 |
 | 5.18 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4.28, 5.23, 5.19, 5.50, 5.49, 4.97, 4.33, 5.59, 5.84, 5.27, 5.46, 4.81 |
 | 5.23 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.78, 5.16, 4.90, DNF, 4.44, 5.34, 5.51, 4.78, 4.72, 6.36, 5.74, 4.96 |
 | 5.30 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 5.77, 5.05, 4.83, 5.13, 5.54, 5.46, 6.13, 5.61, 4.81, 4.56, 5.81, 5.03 |
@@ -158,7 +158,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1.48 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 1.36, 1.49, 1.37, 1.38, 1.56, 1.33, 2.00, 1.86, 1.62, 1.56, 1.15, 1.29 |
+| 1.47 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 1.24, 1.68, 1.43, 1.22, 1.18, 1.21, 1.39, 1.87, 2.20, 1.15, 1.38, 2.05 |
 | 1.50 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.52, 1.24, 1.41, 2.33, 1.73, 1.43, 1.64, 1.60, 1.82, 1.08, 1.18, 1.40 |
 | 1.56 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.62, 1.69, 1.67, 1.32, 1.70, 1.73, 1.29, 1.63, 1.35, 14.94, 1.53, 1.37 |
 | 1.60 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 1.19, 1.23, 1.55, 1.76, 2.70, 2.33, 1.46, 1.60, 1.48, 1.12, 2.00, 1.37 |

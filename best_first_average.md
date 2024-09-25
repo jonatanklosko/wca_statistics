@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 
 ### Rubik's Cube
@@ -135,9 +135,9 @@
 | 13.14 | [Tyler Gee](https://www.worldcubeassociation.org/persons/2019GEET02) |
 | 13.33 | [Xu Lu (陆旭)](https://www.worldcubeassociation.org/persons/2018LUXU01) |
 | 13.47 | [Masaya Nakamoto (中本誠也)](https://www.worldcubeassociation.org/persons/2019NAKA07) |
+| 13.52 | [Phạm Hữu Nguyên Khang](https://www.worldcubeassociation.org/persons/2024KHAN43) |
 | 13.54 | [Aragon Martin Gonzales](https://www.worldcubeassociation.org/persons/2023GONZ18) |
 | 13.64 | [Zichen Liu (刘梓宸)](https://www.worldcubeassociation.org/persons/2024LIUZ09) |
-| 13.75 | [Weijie Wang (王炜杰)](https://www.worldcubeassociation.org/persons/2024WANG27) |
 
 ### Megaminx
 
@@ -146,13 +146,13 @@
 | 42.31 | [Jorge Luis Castillo Carrasco](https://www.worldcubeassociation.org/persons/2019CARR22) |
 | 43.30 | [Alina Zhu](https://www.worldcubeassociation.org/persons/2023ZHUA03) |
 | 43.63 | [Luis Ernesto Gutierrez Tolaba](https://www.worldcubeassociation.org/persons/2019TOLA01) |
+| 43.75 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) |
 | 44.01 | [Jingqi Zhang](https://www.worldcubeassociation.org/persons/2016ZHAJ08) |
 | 45.10 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) |
 | 45.67 | [Mingyu Liu (刘铭宇)](https://www.worldcubeassociation.org/persons/2018LIUM02) |
 | 45.96 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) |
 | 46.08 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 46.85 | [Ida Putu Sucita Danuartha](https://www.worldcubeassociation.org/persons/2022DANU01) |
-| 47.37 | [Tyler Gee](https://www.worldcubeassociation.org/persons/2019GEET02) |
 
 ### Pyraminx
 

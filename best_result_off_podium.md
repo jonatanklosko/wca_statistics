@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 
 ### Rubik's Cube
@@ -188,16 +188,16 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.85 | **2.30** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#eskewb_f) | 4 |
+| [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.12 | **2.31** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#eskewb_f) | 5 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.86 | **2.34** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eskewb_f) | 4 |
 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 2.00 | **2.35** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eskewb_f) | 5 |
 | [Zhe Wang (王喆)](https://www.worldcubeassociation.org/persons/2023WANZ06) | 1.44 | **2.36** | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/all#eskewb_f) | 4 |
+| [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.18 | **2.46** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#eskewb_f) | 6 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 2.10 | **2.50** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eskewb_f) | 4 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 1.91 | **2.52** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eskewb_f) | 6 |
 | [Zihao Qian (钱梓豪)](https://www.worldcubeassociation.org/persons/2024QIAN08) | 1.32 | **2.54** | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/all#eskewb_f) | 5 |
 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) | 1.66 | **2.55** | [Minnesota Slice 2024](https://www.worldcubeassociation.org/competitions/MinnesotaSlice2024/results/all#eskewb_f) | 4 |
-| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 2.43 | **2.56** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eskewb_f) | 7 |
-| [Charles Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07) | 2.18 | **2.61** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 4 |
-| [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | 2.43 | **2.63** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eskewb_f) | 8 |
 
 ### Square-1
 

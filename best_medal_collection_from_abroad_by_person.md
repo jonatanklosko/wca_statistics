@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -37,19 +37,19 @@
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **82** | 44 | 30 | 156 |
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **81** | 59 | 52 | 192 |
-| [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **79** | 46 | 38 | 163 |
+| [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **80** | 81 | 51 | 212 |
+| [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **80** | 65 | 49 | 194 |
+| [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **79** | 47 | 39 | 165 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **77** | 61 | 50 | 188 |
-| [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **76** | 63 | 49 | 188 |
-| [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **75** | 80 | 51 | 206 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **72** | 78 | 51 | 201 |
 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **69** | 29 | 37 | 135 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **68** | 84 | 72 | 224 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | **68** | 47 | 52 | 167 |
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **66** | 55 | 36 | 157 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **64** | 68 | 35 | 167 |
+| [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **65** | 46 | 50 | 161 |
+| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **64** | 68 | 38 | 170 |
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
-| [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **63** | 45 | 49 | 157 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **61** | 25 | 18 | 104 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **60** | 69 | 79 | 208 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
@@ -58,28 +58,28 @@
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **54** | 41 | 25 | 120 |
-| [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **54** | 36 | 13 | 103 |
+| [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **54** | 37 | 14 | 105 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 23 | 17 | 94 |
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **54** | 16 | 3 | 73 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **54** | 12 | 3 | 69 |
-| [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **53** | 55 | 50 | 158 |
-| [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **51** | 50 | 39 | 140 |
+| [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **53** | 56 | 50 | 159 |
+| [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **52** | 50 | 39 | 141 |
 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **51** | 43 | 30 | 124 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | **51** | 20 | 11 | 82 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **50** | 65 | 64 | 179 |
+| [Gergely Novotni](https://www.worldcubeassociation.org/persons/2016NOVO01) | **50** | 29 | 18 | 97 |
 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **50** | 24 | 10 | 84 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **49** | 63 | 52 | 164 |
+| [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | **49** | 60 | 37 | 146 |
 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | **49** | 53 | 44 | 146 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | **49** | 44 | 40 | 133 |
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **48** | 43 | 30 | 121 |
-| [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | **47** | 58 | 35 | 140 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | **47** | 9 | 8 | 64 |
 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | **46** | 61 | 31 | 138 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | **46** | 36 | 26 | 108 |
 | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) | **46** | 19 | 14 | 79 |
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | **45** | 38 | 27 | 110 |
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **45** | 38 | 20 | 103 |
-| [Gergely Novotni](https://www.worldcubeassociation.org/persons/2016NOVO01) | **45** | 29 | 17 | 91 |
 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | **45** | 23 | 13 | 81 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | **44** | 72 | 46 | 162 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **43** | 50 | 46 | 139 |

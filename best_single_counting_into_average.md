@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 
 ### Rubik's Cube
@@ -27,11 +27,11 @@
 | 0.73 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Dalian Open 2024](https://www.worldcubeassociation.org/competitions/DalianOpen2024/results/by_person#2019WANY36) |
 | 0.74 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Johor Cube Open 2024](https://www.worldcubeassociation.org/competitions/JohorCubeOpen2024/results/by_person#2019WANY36) |
 | 0.75 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | [Singapore 50 and Counting 2024](https://www.worldcubeassociation.org/competitions/Singapore50andCounting2024/results/by_person#2022PHAN03) |
+| 0.76 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Tri-State Corner Comms PA 2024](https://www.worldcubeassociation.org/competitions/TriStateCornerCommsPA2024/results/by_person#2018KHAN26) |
 | 0.78 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | [Chongqing Open 2023](https://www.worldcubeassociation.org/competitions/ChongqingOpen2023/results/by_person#2016LIJI05) |
 | 0.78 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Across the Woods Kentucky B 2023](https://www.worldcubeassociation.org/competitions/AcrosstheWoodsKentuckyB2023/results/by_person#2018KHAN28) |
 | 0.78 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Johor Cube Open 2024](https://www.worldcubeassociation.org/competitions/JohorCubeOpen2024/results/by_person#2019WANY36) |
 | 0.79 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2018KHAN28) |
-| 0.80 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/by_person#2018KHAN28) |
 
 ### 4x4x4 Cube
 
@@ -145,13 +145,13 @@
 | 4.23 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/by_person#2019BAUM02) |
 | 4.28 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN26) |
 | 4.33 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
+| 4.35 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Tri-State Corner Comms PA 2024](https://www.worldcubeassociation.org/competitions/TriStateCornerCommsPA2024/results/by_person#2018KHAN26) |
+| 4.40 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube More in Ardmore 2024](https://www.worldcubeassociation.org/competitions/CubeMoreinArdmore2024/results/by_person#2019BAUM02) |
 | 4.40 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023/results/by_person#2021DUNA01) |
 | 4.43 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/by_person#2019BAUM02) |
 | 4.45 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube in Denton 2024](https://www.worldcubeassociation.org/competitions/CubeWithRetentioninDenton2024/results/by_person#2019BAUM02) |
 | 4.46 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Northwest Championship 2024](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2024/results/by_person#2017AGGA01) |
 | 4.47 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
-| 4.51 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DFWCubingWinter2024/results/by_person#2019BAUM02) |
-| 4.52 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Spring 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2024/results/by_person#2019BAUM02) |
 
 ### 3x3x3 With Feet
 

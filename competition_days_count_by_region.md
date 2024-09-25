@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 13141 |
+| 1.47 | World | 13162 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4272 |
-| 1.49 | South America | 1625 |
+| 1.73 | Europe | 4279 |
+| 1.49 | South America | 1626 |
 | 1.47 | Oceania | 581 |
-| 1.41 | Asia | 2814 |
+| 1.41 | Asia | 2818 |
 | 1.29 | Africa | 150 |
-| 1.20 | North America | 3699 |
+| 1.20 | North America | 3708 |
 
 ### Countries
 
@@ -37,17 +37,17 @@
 | 1.91 | Serbia | 23 |
 | 1.91 | Turkey | 99 |
 | 1.89 | Norway | 125 |
-| 1.88 | France | 300 |
+| 1.88 | France | 301 |
+| 1.87 | United Kingdom | 258 |
 | 1.87 | Finland | 140 |
-| 1.87 | United Kingdom | 256 |
 | 1.86 | Thailand | 65 |
-| 1.85 | Spain | 360 |
+| 1.85 | Spain | 361 |
 | 1.85 | Bosnia and Herzegovina | 13 |
 | 1.85 | Croatia | 26 |
 | 1.84 | Switzerland | 116 |
 | 1.84 | Slovakia | 43 |
 | 1.82 | Sri Lanka | 11 |
-| 1.80 | Mexico | 169 |
+| 1.80 | Mexico | 174 |
 | 1.79 | Iceland | 14 |
 | 1.77 | Guatemala | 56 |
 | 1.76 | Slovenia | 34 |
@@ -62,11 +62,11 @@
 | 1.67 | Iran | 39 |
 | 1.67 | North Macedonia | 6 |
 | 1.64 | Ireland | 66 |
-| 1.62 | Denmark | 175 |
+| 1.61 | Denmark | 177 |
 | 1.60 | Italy | 225 |
+| 1.59 | Netherlands | 120 |
 | 1.59 | New Zealand | 122 |
-| 1.59 | Netherlands | 119 |
-| 1.58 | India | 578 |
+| 1.59 | India | 581 |
 | 1.58 | Greece | 31 |
 | 1.58 | Indonesia | 227 |
 | 1.57 | San Marino | 7 |
@@ -97,7 +97,7 @@
 | 1.34 | Paraguay | 32 |
 | 1.33 | Portugal | 24 |
 | 1.33 | Tajikistan | 3 |
-| 1.32 | Colombia | 349 |
+| 1.32 | Colombia | 350 |
 | 1.31 | Republic of Korea | 99 |
 | 1.30 | Kuwait | 10 |
 | 1.30 | Panama | 20 |
@@ -110,15 +110,15 @@
 | 1.27 | Singapore | 66 |
 | 1.27 | Venezuela | 74 |
 | 1.25 | Chile | 135 |
-| 1.25 | China | 652 |
+| 1.25 | China | 653 |
 | 1.22 | Bahrain | 9 |
 | 1.21 | Mongolia | 34 |
 | 1.20 | Japan | 230 |
 | 1.18 | Armenia | 11 |
 | 1.18 | El Salvador | 34 |
-| 1.17 | Canada | 378 |
+| 1.17 | Canada | 381 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2970 |
+| 1.16 | United States | 2971 |
 | 1.13 | Azerbaijan | 46 |
 | 1.12 | Honduras | 17 |
 | 1.09 | Cyprus | 11 |

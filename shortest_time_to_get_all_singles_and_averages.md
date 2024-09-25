@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -62,6 +62,7 @@
 | 2462 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 2490 | [Raymos Castillo](https://www.worldcubeassociation.org/persons/2017CAST41) |
 | 2512 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
+| 2569 | [Aaron Soley](https://www.worldcubeassociation.org/persons/2017SOLE01) |
 | 2575 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2632 | [Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02) |
 | 2660 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |

@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -51,14 +51,14 @@
 | 51 | [Diego Fraile](https://www.worldcubeassociation.org/persons/2013FRAI01) | [Bussières Open 2013](https://www.worldcubeassociation.org/competitions/BussieresOpen2013) | [Polytechnique Open 2024](https://www.worldcubeassociation.org/competitions/PolytechniqueOpen2024) |
 | 51 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | [For The Love Of Cubing 2016](https://www.worldcubeassociation.org/competitions/ForTheLoveOfCubing2016) | [Big Cubes for Dunwoody 2020](https://www.worldcubeassociation.org/competitions/BigCubesforDunwoody2020) |
 | 51 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | [Manchester Open 2018](https://www.worldcubeassociation.org/competitions/ManchesterOpen2018) | [Glasgow Winter - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2024) |
+| 51 | [Hannes Müller](https://www.worldcubeassociation.org/persons/2018MULL07) | [Schwandorf Open 2018](https://www.worldcubeassociation.org/competitions/SchwandorfOpen2018) |  |
+| 51 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Swedish Championship 2021](https://www.worldcubeassociation.org/competitions/SwedishChampionship2021) |  |
 | 50 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [WGC Open 2014](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2014) | [Guildford Open 2020](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020) |
 | 50 | [Will Cerne](https://www.worldcubeassociation.org/persons/2015CERN01) | [Wiscube 2015](https://www.worldcubeassociation.org/competitions/Wiscube2ndEdition2015) | [Minnesota Cube Melt 2022](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2022) |
 | 50 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | [Santa Claus Cube Race 2015](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2015) | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023) |
 | 50 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | [Byczy Cube Race 2017](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2017) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 50 | [Kaius Young](https://www.worldcubeassociation.org/persons/2017YOUN10) | [Cubetcha 2017](https://www.worldcubeassociation.org/competitions/Cubetcha2017) | [Minnesota Warm Up 2024](https://www.worldcubeassociation.org/competitions/MinnesotaWarmUp2024) |
-| 50 | [Hannes Müller](https://www.worldcubeassociation.org/persons/2018MULL07) | [Schwandorf Open 2018](https://www.worldcubeassociation.org/competitions/SchwandorfOpen2018) |  |
 | 50 | [Ivo Stoutjesdijk](https://www.worldcubeassociation.org/persons/2019STOU02) | [Breda Open 2019](https://www.worldcubeassociation.org/competitions/BredaOpen2019) |  |
-| 50 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Swedish Championship 2021](https://www.worldcubeassociation.org/competitions/SwedishChampionship2021) |  |
 | 49 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | [Bangalore Challenge 2011](https://www.worldcubeassociation.org/competitions/BangaloreOpen2011) | [IIA Summer Open April 2017](https://www.worldcubeassociation.org/competitions/IIASummerOpen2017) |
 | 49 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) | [Ekonomik Elektryk Cube Race 2018](https://www.worldcubeassociation.org/competitions/EkonomikElektrykCubeRace2018) |
 | 49 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | [Shepparton Autumn 2014](https://www.worldcubeassociation.org/competitions/SheppartonAutumn2014) | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023) |

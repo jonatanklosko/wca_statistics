@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -161,6 +161,7 @@
 | 9 | [Grizz Cubing League II 2023](https://www.worldcubeassociation.org/competitions/GrizzCubingLeagueII2023) |
 | 9 | [Hari-Hari Horas 10 2024](https://www.worldcubeassociation.org/competitions/HariHariHoras102024) |
 | 9 | [Hari-Hari Horas 9 2024](https://www.worldcubeassociation.org/competitions/HariHariHoras92024) |
+| 9 | [Honolulu Hippocampus 2024](https://www.worldcubeassociation.org/competitions/HonoluluHippocampus2024) |
 | 9 | [Hvidovre i Mange Træk 2024](https://www.worldcubeassociation.org/competitions/HvidovreiMangeTraek2024) |
 | 9 | [Jönköpingsligan 1: Waterloo 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan1Waterloo2023) |
 | 9 | [Jönköpingsligan 5: Calzone 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan5Calzone2023) |
@@ -295,6 +296,7 @@
 | 11 | [Naga City Cube Open 2019](https://www.worldcubeassociation.org/competitions/NagaCityCubeOpen2019) |
 | 11 | [Namangan Open 2019](https://www.worldcubeassociation.org/competitions/NamanganOpen2019) |
 | 11 | [Northampton Newcomers C 2024](https://www.worldcubeassociation.org/competitions/NorthamptonNewcomersC2024) |
+| 11 | [Oklahoma Quiet Championship 2024](https://www.worldcubeassociation.org/competitions/OklahomaQuietChampionship2024) |
 | 11 | [OSU Blind Weekend 2018](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2018) |
 | 11 | [PBQ Berkeley Fall 2019](https://www.worldcubeassociation.org/competitions/PBQBerkeleyFall2019) |
 | 11 | [PBQ Ropaži 2024](https://www.worldcubeassociation.org/competitions/PBQRopazi2024) |
@@ -326,6 +328,7 @@
 | 12 | [Anapoima 2023](https://www.worldcubeassociation.org/competitions/Anapoima2023) |
 | 12 | [Arena Bernô 7 City FM 2024](https://www.worldcubeassociation.org/competitions/ArenaBerno7CityFM2024) |
 | 12 | [Austin Cover Your Eyes 2024](https://www.worldcubeassociation.org/competitions/AustinCoverYourEyes2024) |
+| 12 | [Barberton Mini 2 2024](https://www.worldcubeassociation.org/competitions/BarbertonMini22024) |
 | 12 | [Big and Blind Rīga 2024](https://www.worldcubeassociation.org/competitions/BigandBlindRiga2024) |
 | 12 | [Buckeye Blind Off 2022](https://www.worldcubeassociation.org/competitions/BuckeyeBlindOff2022) |
 | 12 | [Cagayan Valley Open 2016](https://www.worldcubeassociation.org/competitions/CagayanValleyOpen2016) |
@@ -528,6 +531,7 @@
 | 14 | [PBQ Green Bay 2023](https://www.worldcubeassociation.org/competitions/PBQGreenBay2023) |
 | 14 | [Pinoy Big Cubes Open 2009](https://www.worldcubeassociation.org/competitions/PinoyBigCubesOpen2009) |
 | 14 | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) |
+| 14 | [Poções Geek 2024](https://www.worldcubeassociation.org/competitions/PocoesGeek2024) |
 | 14 | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016) |
 | 14 | [Reto del Guaz 2022](https://www.worldcubeassociation.org/competitions/RetodelGuaz2022) |
 | 14 | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022) |
@@ -554,6 +558,7 @@
 | 14 | [Warden of the West 2018](https://www.worldcubeassociation.org/competitions/WardenoftheWest2018) |
 | 14 | [Warden of the West 2020](https://www.worldcubeassociation.org/competitions/WardenoftheWest2020) |
 | 14 | [Warsaw FMC Tour Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourThursday2024) |
+| 14 | [Wembley Quimbaya II 2024](https://www.worldcubeassociation.org/competitions/WembleyQuimbayaII2024) |
 | 14 | [Xi'an Winter 2011](https://www.worldcubeassociation.org/competitions/XianWinter2011) |
 | 15 | [ACA League II - Ganja 2024](https://www.worldcubeassociation.org/competitions/ACALeagueIIGanja2024) |
 | 15 | [Amatitlán 2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019) |

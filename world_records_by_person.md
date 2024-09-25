@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -131,6 +131,7 @@
 | 2 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
 | 2 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
 | 2 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
+| 2 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) |
 | 2 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) |
@@ -197,7 +198,6 @@
 | 1 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) |
 | 1 | [Danyang Chen (陈丹阳)](https://www.worldcubeassociation.org/persons/2007DANY01) |
 | 1 | [Dilshawn Sidhu](https://www.worldcubeassociation.org/persons/2018SIDH02) |
-| 1 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) |
 | 1 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |
 | 1 | [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01) |
 | 1 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |

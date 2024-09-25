@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 September 2024*
+*Updated on 25 September 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -484,6 +484,7 @@
 | 2583 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |
 | 2604 | [Nicholas Patterson](https://www.worldcubeassociation.org/persons/2016PATT02) |
 | 2633 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
+| 2639 | [Kalyani H. Kiran](https://www.worldcubeassociation.org/persons/2017KIRA01) |
 | 2659 | [Marike Faught](https://www.worldcubeassociation.org/persons/2015FAUG01) |
 | 2694 | [Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02) |
 | 2695 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |

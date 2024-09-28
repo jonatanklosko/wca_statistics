@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 September 2024*
+*Updated on 28 September 2024*
 
 
 ### Rubik's Cube - Single
@@ -23,9 +23,9 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **4.25** | China | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024) | 4.76, 3.98, 4.81, 4.00, 3.96 |
+| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **4.09** | China | [Xuzhou Autumn 2024](https://www.worldcubeassociation.org/competitions/XuzhouAutumn2024) | 3.83, 5.16, 4.55, 3.71, 3.88 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **4.74** | Poland | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024) | 3.79, 4.37, 4.85, 5.33, 5.01 |
-| [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | **4.81** | China | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024) | 5.13, 4.42, 4.63, 6.52, 4.67 |
+| [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | **4.77** | China | [Xuzhou Autumn 2024](https://www.worldcubeassociation.org/competitions/XuzhouAutumn2024) | 5.94, 5.38, 4.48, 4.45, 4.25 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **4.84** | China | [Huzhou Open 2024](https://www.worldcubeassociation.org/competitions/HuzhouOpen2024) | 4.65, 5.20, 5.93, 4.52, 4.67 |
 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | **5.09** | China | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024) | 4.66, 5.09, 4.97, 5.21, 6.78 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **5.10** | United States | [Hawaiʻi Big Island Winter 2024](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandWinter2024) | 5.13, 5.70, 4.95, 4.60, 5.21 |
@@ -103,11 +103,11 @@
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **33.10** | Republic of Korea | [Daegu Cold Winter 2024](https://www.worldcubeassociation.org/competitions/DaeguColdWinter2024) | 42.38, 33.10, 46.35, 40.43, 40.65 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **33.80** | Chinese Taipei | [Tokai Open PM 2024](https://www.worldcubeassociation.org/competitions/TokaiOpenPM2024) | 43.91, 42.62, 40.70, 33.80, 45.13 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **35.16** | Vietnam | [Robinson Latkrabang Cubing 2024](https://www.worldcubeassociation.org/competitions/RobinsonLatkrabangCubing2024) | 42.32, 37.39, 39.88, 35.16, 41.83 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **36.37** | Australia | [Palais'Open 2024](https://www.worldcubeassociation.org/competitions/PalaisOpen2024) | 43.40, 52.86, 44.24, 36.37, 46.59 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **37.49** | Hong Kong, China | [Tokai Open PM 2024](https://www.worldcubeassociation.org/competitions/TokaiOpenPM2024) | 46.52, 43.33, 37.49, 46.34, 40.48 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **37.53** | United States | [New Jersey Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyChampionship2024) | 52.01, 37.53, 44.34, 42.69, 44.48 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **37.56** | Ireland | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) | 39.82, 40.02, 43.59, 42.33, 37.56 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **38.63** | United States | [Leersum Algs 24 Hours in 2024](https://www.worldcubeassociation.org/competitions/LeersumAlgs24Hoursin2024) | 38.63, 42.76, 44.50, 49.13, 45.28 |
-| [Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05) | **38.64** | Switzerland | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 43.15, 38.64, 46.75, 46.71, 43.47 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **37.90** | United States | [Visé Open Sunday 2024](https://www.worldcubeassociation.org/competitions/ViseOpenSunday2024) | 40.09, 44.40, 50.08, 45.57, 37.90 |
 
 ### 5x5x5 Cube - Average
 
@@ -122,7 +122,7 @@
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **41.56** | Hong Kong, China | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) | 39.47, 38.47, 44.78, 53.30, 40.43 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **41.57** | United States | [Leersum Algs 2024](https://www.worldcubeassociation.org/competitions/LeersumAlgs2024) | 43.07, 40.20, 40.96, 40.68, 45.85 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **41.85** | United States | [Northwest Championship 2024](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2024) | 39.52, 46.81, 38.24, 51.81, 39.22 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **42.34** | Australia | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024) | 44.13, 41.81, 39.08, 44.36, 41.08 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **42.17** | Australia | [Palais'Open 2024](https://www.worldcubeassociation.org/competitions/PalaisOpen2024) | 41.43, 39.40, 48.71, 44.17, 40.90 |
 
 ### 6x6x6 Cube - Single
 
@@ -308,6 +308,8 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Jakub Drobný](https://www.worldcubeassociation.org/persons/2016DROB01) | **0.84** | Slovakia | [Banská Bystrica Open 2024](https://www.worldcubeassociation.org/competitions/BanskaBystricaOpen2024) | 2.29, 2.83, 2.39, 3.05, 0.84 |
+| [Bence Pető](https://www.worldcubeassociation.org/persons/2022PETO02) | **0.85** | Hungary | [Banská Bystrica Open 2024](https://www.worldcubeassociation.org/competitions/BanskaBystricaOpen2024) | 2.34, 2.60, 4.24, 2.80, 0.85 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **0.95** | United States | [Countless Cubes Chicago B 2024](https://www.worldcubeassociation.org/competitions/CountlessCubesChicagoB2024) | 4.35, 1.30, 0.95, 3.30, 4.24 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **0.95** | Russia | [Prague Open 2024](https://www.worldcubeassociation.org/competitions/PragueOpen2024) | 0.95, 1.64, 1.07, 4.12, 2.48 |
 | [Jakob Kitak](https://www.worldcubeassociation.org/persons/2018KITA03) | **0.96** | Slovenia | [Maribor Open 2024](https://www.worldcubeassociation.org/competitions/MariborOpen2024) | 3.17, 5.12, 3.76, 0.96, 2.83 |
@@ -316,8 +318,6 @@
 | [Sigurd Volan Håvik](https://www.worldcubeassociation.org/persons/2022HAVI03) | **0.98** | Norway | [Chalmers Open 2024](https://www.worldcubeassociation.org/competitions/ChalmersOpen2024) | 1.81, 2.26, 0.98, 2.09, DNF |
 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | **0.99** | China | [Dalian Open 2024](https://www.worldcubeassociation.org/competitions/DalianOpen2024) | 1.50, 2.54, 3.53, 0.99, 1.89 |
 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | **1.00** | Sweden | [Chalmers Open 2024](https://www.worldcubeassociation.org/competitions/ChalmersOpen2024) | 2.65, 3.33, 1.00, 6.80, 3.56 |
-| [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | **1.00** | United States | [Don't Pop Princeton 2024](https://www.worldcubeassociation.org/competitions/DontPopPrinceton2024) | 1.37, 4.75, 1.74, 1.00, 3.07 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **1.00** | Poland | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024) | 1.00, 3.17, 4.83, 5.29, 2.92 |
 
 ### Pyraminx - Average
 

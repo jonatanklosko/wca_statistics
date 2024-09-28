@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 September 2024*
+*Updated on 28 September 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -47,9 +47,9 @@
 | 102 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 102 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 102 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 101 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 99 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 99 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 98 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 98 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 98 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 97 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -77,9 +77,9 @@
 | 85 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 84 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
 | 84 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
+| 84 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 83 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 83 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
-| 83 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 82 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
 | 82 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
@@ -90,8 +90,8 @@
 | 80 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 80 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 80 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 79 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 79 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
+| 79 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 79 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
 | 78 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 78 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |

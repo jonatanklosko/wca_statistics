@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 September 2024*
+*Updated on 28 September 2024*
 
 
 ### Rubik's Cube
@@ -8,6 +8,8 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 3.77 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Warm Up at gateway klia2 2024](https://www.worldcubeassociation.org/competitions/WarmUpatgatewayklia22024/results/by_person#2019WANY36) |
+| 3.83 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xuzhou Autumn 2024](https://www.worldcubeassociation.org/competitions/XuzhouAutumn2024/results/by_person#2019WANY36) |
+| 3.88 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xuzhou Autumn 2024](https://www.worldcubeassociation.org/competitions/XuzhouAutumn2024/results/by_person#2019WANY36) |
 | 3.98 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/by_person#2019WANY36) |
 | 3.99 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Mofunland Cruise Open 2023](https://www.worldcubeassociation.org/competitions/MofunlandCruiseOpen2023/results/by_person#2019WANY36) |
 | 4.00 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/by_person#2019WANY36) |
@@ -15,8 +17,6 @@
 | 4.02 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/by_person#2019WANY36) |
 | 4.17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Stevenage April 2024](https://www.worldcubeassociation.org/competitions/StevenageApril2024/results/by_person#2016KOLA02) |
 | 4.18 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Warm Up at gateway klia2 2024](https://www.worldcubeassociation.org/competitions/WarmUpatgatewayklia22024/results/by_person#2019WANY36) |
-| 4.19 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Warm Up at gateway klia2 2024](https://www.worldcubeassociation.org/competitions/WarmUpatgatewayklia22024/results/by_person#2019WANY36) |
-| 4.21 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cubing at The Cube 2024](https://www.worldcubeassociation.org/competitions/CubingatTheCube2024/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 

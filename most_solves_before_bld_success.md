@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 25 September 2024*
+*Updated on 28 September 2024*
 
 
 ### 3x3x3 Blindfolded
@@ -12,6 +12,7 @@
 | 50 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 44 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 43 | [Noah Paredes](https://www.worldcubeassociation.org/persons/2016PARE03) |
+| 43 | [Mihail Stoicescu](https://www.worldcubeassociation.org/persons/2018STOI03) |
 | 37 | [Konstantin Ushakov](https://www.worldcubeassociation.org/persons/2014USHA02) |
 | 37 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
 | 37 | [Thomas Sonnenberg Jarner](https://www.worldcubeassociation.org/persons/2017JARN01) |
@@ -26,7 +27,6 @@
 | 29 | [Xiaojian Li (李晓健)](https://www.worldcubeassociation.org/persons/2009LIXI02) |
 | 29 | [Kevin Estefano Coayla Vargas](https://www.worldcubeassociation.org/persons/2016VARG04) |
 | 29 | [Luka Arce González](https://www.worldcubeassociation.org/persons/2018GONZ25) |
-| 28 | [Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01) |
 
 ### 4x4x4 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 25 September 2024*
+*Updated on 28 September 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -69,12 +69,12 @@
 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 79 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 79 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 77 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 77 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 76 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
+| 76 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 76 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
-| 76 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
-| 76 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
-| 76 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 75 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |

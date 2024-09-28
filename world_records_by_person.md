@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 25 September 2024*
+*Updated on 28 September 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -46,6 +46,7 @@
 | 7 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
 | 7 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 7 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) |
+| 7 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 7 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 6 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) |
 | 6 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
@@ -55,7 +56,6 @@
 | 6 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
-| 6 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |

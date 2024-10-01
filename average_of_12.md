@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 September 2024*
+*Updated on  1 October 2024*
 
 
 ### Rubik's Cube
@@ -68,7 +68,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1:08.51 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:09.08, 1:07.87, 1:07.23, 1:16.36, 1:06.06, 1:08.61, 1:07.71, 1:08.46, 1:13.40, 1:08.77, 1:07.95, 1:04.64 |
+| 1:07.98 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:06.45, 1:02.85, 1:08.33, 1:11.93, 1:11.99, 1:13.75, 1:09.34, 1:09.61, 58.03, 1:00.00, 1:12.29, 1:06.96 |
 | 1:13.46 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:16.03, 1:11.67, 1:11.89, 1:22.99, 1:15.91, 1:13.12, 1:07.15, 1:13.39, 1:10.59, 1:15.80, 1:12.44, 1:13.77 |
 | 1:14.22 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:11.56, 1:17.40, 1:14.05, 1:14.92, 1:15.90, 1:13.92, 1:08.08, 1:11.44, 1:22.82, 1:18.01, 1:13.36, 1:11.66 |
 | 1:15.92 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:14.34, 1:18.19, 1:16.88, 1:18.11, 1:11.00, 1:22.10, 1:14.90, 1:17.91, 1:08.16, 1:16.98, 1:17.87, 1:12.98 |
@@ -122,7 +122,7 @@
 | 22.20 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 20, 22, 21, 23, 24, 22, 21, 24, 17, 22, 24, 23 |
 | 22.20 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 21, 22, 23, 22, 22, 19, 26, 22, 24, 23, 22, 21 |
 | 22.30 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) | 27, 23, 22, 21, 22, 22, 22, 23, 22, 21, 23, 23 |
-| 22.70 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 23, 19, 24, 22, 22, 25, 27, 24, 24, 22, 20, 21 |
+| 22.60 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 22, 20, 21, 25, 22, 21, 23, 24, 24, 25, 22, 22 |
 
 ### 3x3x3 One-Handed
 

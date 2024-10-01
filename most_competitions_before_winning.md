@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 28 September 2024*
+*Updated on  1 October 2024*
 
 
 ### Rubik's Cube
@@ -38,7 +38,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
-| 127 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Bornholm Open 2024](https://www.worldcubeassociation.org/competitions/BornholmOpen2024) |
+| 127 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Bornholm Open 2024](https://www.worldcubeassociation.org/competitions/BornholmOpen2024) |
 | 116 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [Málaga Al Cubo 2024](https://www.worldcubeassociation.org/competitions/MalagaAlCubo2024) |
 | 108 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | [Wolfpack Winter 2019](https://www.worldcubeassociation.org/competitions/WolfpackWinter2019) |
 | 105 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | [Maine Cubing 2016](https://www.worldcubeassociation.org/competitions/MaineCubing2016) |
@@ -57,7 +57,7 @@
 | 91 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | [Sorg'Open 2023](https://www.worldcubeassociation.org/competitions/SorgOpen2023) |
 | 88 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Villa de Catral 2013](https://www.worldcubeassociation.org/competitions/VilladeCatral2013) |
 | 86 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) | [Swiss Science Open 2019](https://www.worldcubeassociation.org/competitions/SwissScienceOpen2019) |
-| 86 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022) |
+| 86 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022) |
 | 77 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) | [Kubekings Villanueva Open 2018](https://www.worldcubeassociation.org/competitions/KubekingsVillanuevaOpen2018) |
 | 74 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Roskilde by Night 2023](https://www.worldcubeassociation.org/competitions/RoskildebyNight2023) |
 | 71 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Kolla Winter Cup 2024](https://www.worldcubeassociation.org/competitions/KollaWinterCup2024) |
@@ -70,7 +70,7 @@
 | ---: | :--- | :--- |
 | 84 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) |
 | 60 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024) |
-| 55 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022) |
+| 55 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022) |
 | 52 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Schnelle Solves Siegen 2024](https://www.worldcubeassociation.org/competitions/SchnelleSolvesSiegen2024) |
 | 49 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | [Idaho Megacomp 2019](https://www.worldcubeassociation.org/competitions/IdahoMegacomp2019) |
 | 49 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [North Branch Campfire 2024](https://www.worldcubeassociation.org/competitions/NorthBranchCampfire2024) |
@@ -85,7 +85,7 @@
 | ---: | :--- | :--- |
 | 83 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) |
 | 58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Sioux City Sunday 2023](https://www.worldcubeassociation.org/competitions/SiouxCitySunday2023) |
-| 52 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022) |
+| 52 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022) |
 | 47 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Kolla Winter Cup 2024](https://www.worldcubeassociation.org/competitions/KollaWinterCup2024) |
 | 43 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Rheinland-Pfalz Open 2022](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2022) |
 | 42 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Beginner Big Cubes Ohio 2024](https://www.worldcubeassociation.org/competitions/BeginnerBigCubesOhio2024) |
@@ -121,7 +121,7 @@
 | 38 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) | [Pi Berkeley Quiet 2020](https://www.worldcubeassociation.org/competitions/PiBerkeleyQuiet2020) |
 | 36 | [Marcos Ameijeiras Moreno](https://www.worldcubeassociation.org/persons/2008MORE01) | [Andorra 2019](https://www.worldcubeassociation.org/competitions/Andorra2019) |
 | 35 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) |
-| 35 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) |
+| 35 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) |
 | 34 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | [Please Be Quiet Anchorage 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietAnchorage2024) |
 
 ### 3x3x3 One-Handed
@@ -149,7 +149,7 @@
 | 60 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Council Bluffs Cubing Buff 2024](https://www.worldcubeassociation.org/competitions/CouncilBluffsCubingBuff2024) |
 | 56 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023) |
 | 55 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Latvian Open 2015](https://www.worldcubeassociation.org/competitions/LatvianOpen2015) |
-| 55 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Road to IC - Milano 2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019) |
+| 55 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Road to IC - Milano 2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019) |
 | 55 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | [Michigan Mini 22 2024](https://www.worldcubeassociation.org/competitions/MichiganMini222024) |
 | 55 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Little Giant Open 2023](https://www.worldcubeassociation.org/competitions/LittleGiantOpen2023) |
 | 52 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | [Don't Fall Off Devils Tower 2023](https://www.worldcubeassociation.org/competitions/DontFallOffDevilsTower2023) |
@@ -219,7 +219,7 @@
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 47 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) | [Urnieta Open 2024](https://www.worldcubeassociation.org/competitions/UrnietaOpen2024) |
-| 44 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023) |
+| 44 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023) |
 | 43 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | [Please Be Quiet Anchorage 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietAnchorage2024) |
 | 41 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Heartland Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2023) |
 | 39 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | [TahimiKubing in MultiLupa 2024](https://www.worldcubeassociation.org/competitions/TahimiKubinginMultiLupa2024) |

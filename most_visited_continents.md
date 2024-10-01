@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 28 September 2024*
+*Updated on  1 October 2024*
 
 | Continents | Person |
 | ---: | :--- |
@@ -112,6 +112,7 @@
 | 4 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 4 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
 | 4 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
+| 4 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 4 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 4 | [Yu Gu (谷雨)](https://www.worldcubeassociation.org/persons/2013GUYU01) |
 | 4 | [Eva Kato (加藤映葉)](https://www.worldcubeassociation.org/persons/2013KATO01) |

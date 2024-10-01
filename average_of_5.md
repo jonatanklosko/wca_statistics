@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 September 2024*
+*Updated on  1 October 2024*
 
 
 ### Rubik's Cube
@@ -68,7 +68,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:07.28 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:10.80, 1:00.86, 1:15.59, 1:08.75, 1:02.30 |
+| 1:05.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:09.61, 58.03, 1:00.00, 1:12.29, 1:06.96 |
 | 1:08.85 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:18.06, 1:09.86, 1:08.52, 1:02.67, 1:08.18 |
 | 1:12.35 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:12.77, 1:12.63, 1:11.65, 1:15.50, 1:11.46 |
 | 1:14.60 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:11.00, 1:22.10, 1:14.90, 1:17.91, 1:08.16 |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 September 2024*
+*Updated on  1 October 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -477,7 +477,7 @@
 | 10 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Zurich Open 2016](https://www.worldcubeassociation.org/competitions/ZurichOpen2016/results/podiums) |
 | 12 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | [Medan Lunar New Year 2020](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2020/results/podiums) |
 | 10 | [Facundo Finola](https://www.worldcubeassociation.org/persons/2012FINO02) | [San Lorenzo Open 2015](https://www.worldcubeassociation.org/competitions/SanLorenzoOpen2015/results/podiums) |
-| 10 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022/results/podiums) |
+| 10 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022/results/podiums) |
 | 13 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019/results/podiums) |
 | 13 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Lande Open 2018](https://www.worldcubeassociation.org/competitions/LandeOpen2018/results/podiums) |
 | 11 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Alicante Open 2016](https://www.worldcubeassociation.org/competitions/AlicanteOpen2016/results/podiums) |
@@ -1120,6 +1120,7 @@
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Casal Catalunya Baires Open 2019](https://www.worldcubeassociation.org/competitions/CasalCatalunyaBairesOpen2019/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/podiums) |
+| 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Abierto del Mirador 2024](https://www.worldcubeassociation.org/competitions/AbiertodelMiradorenPrimavera2024/results/podiums) |
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Hernando Summer 2020](https://www.worldcubeassociation.org/competitions/HernandoSummer2020/results/podiums) |
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/podiums) |
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Santiago Cubea 2023](https://www.worldcubeassociation.org/competitions/SantiagoCubea2023/results/podiums) |
@@ -1294,6 +1295,7 @@
 | 10 | [Hitesh Kumar Bhuwalka (हितेश कुमार भुवालका)](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Cubing Comes to Bihar 2023](https://www.worldcubeassociation.org/competitions/CubingComestoBihar2023/results/podiums) |
 | 12 | [Ahmad Alolaimi](https://www.worldcubeassociation.org/persons/2022ALOL01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Araruama ao Cubo 2024](https://www.worldcubeassociation.org/competitions/AraruamaaoCubo2024/results/podiums) |
+| 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Planetário Rio Open 2024](https://www.worldcubeassociation.org/competitions/PlanetarioRioOpen2024/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Xerém Open 2024](https://www.worldcubeassociation.org/competitions/XeremOpen2024/results/podiums) |
 | 10 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) | [Gutekuben 2024](https://www.worldcubeassociation.org/competitions/Gutekuben2024/results/podiums) |
 

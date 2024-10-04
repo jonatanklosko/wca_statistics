@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 
 ### Rubik's Cube
@@ -150,9 +150,9 @@
 | 0.03 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.97 | 2.00 | [Miami in an Ohio Oxford 2023](https://www.worldcubeassociation.org/competitions/MiamiinanOhioOxford2023/results/by_person#2017PALA08) |
 | 0.03 | [Seungho Song (송승호)](https://www.worldcubeassociation.org/persons/2018SONG36) | 1.98 | 2.01 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2018SONG36) |
 | 0.03 | [Mario Armando Takahashi Martins Dias](https://www.worldcubeassociation.org/persons/2019DIAS02) | 2.73 | 2.76 | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/by_person#2019DIAS02) |
+| 0.03 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.43 | 3.46 | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024/results/by_person#2018THOM29) |
 | 0.04 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.54 | 1.58 | [Virginia Beach Fall 2023](https://www.worldcubeassociation.org/competitions/VirginiaBeachFall2023/results/by_person#2017NIEL03) |
 | 0.04 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 2.48 | 2.52 | [Liberty Science Center Open 2019](https://www.worldcubeassociation.org/competitions/LibertyScienceCenterOpen2019/results/by_person#2017HONG17) |
-| 0.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2.65 | 2.69 | [Washtenaw Winter 2023](https://www.worldcubeassociation.org/competitions/WashtenawWinter2023/results/by_person#2016CHAP04) |
 
 ### Rubik's Clock
 

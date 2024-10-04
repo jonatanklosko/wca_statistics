@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 
 ### Rubik's Cube
@@ -54,7 +54,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 36.15 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 35.10, 33.55, 35.44, 33.75, 43.08, 39.27, 37.69, 35.03, 36.32, 36.67, 38.66, 33.39 |
-| 37.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 36.30, 34.12, 39.69, 36.94, 38.56, 38.68, 37.94, 38.79, 36.83, 34.86, 35.79, 38.40 |
+| 36.93 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 35.80, 39.44, 36.14, 36.43, 38.50, 37.84, 34.68, 31.60, 38.81, 37.87, 38.43, 34.76 |
 | 38.35 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 40.52, 34.82, 40.12, 36.76, 39.67, 43.31, 38.02, 44.40, 34.49, 34.16, 37.95, 37.82 |
 | 38.49 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 37.24, 36.13, 40.19, 37.17, 37.65, 40.17, 39.89, 40.12, 38.10, 36.90, 39.70, 38.00 |
 | 40.22 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 38.77, 41.01, 41.79, 41.93, 37.68, DNF, 37.43, 47.69, 37.89, 39.73, 38.32, 35.98 |

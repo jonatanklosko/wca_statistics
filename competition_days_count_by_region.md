@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 13207 |
+| 1.47 | World | 13226 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4289 |
-| 1.49 | South America | 1634 |
+| 1.73 | Europe | 4292 |
+| 1.49 | South America | 1639 |
 | 1.46 | Oceania | 583 |
-| 1.41 | Asia | 2822 |
-| 1.29 | Africa | 150 |
-| 1.20 | North America | 3729 |
+| 1.41 | Asia | 2827 |
+| 1.30 | Africa | 151 |
+| 1.20 | North America | 3734 |
 
 ### Countries
 
@@ -33,7 +33,7 @@
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
 | 1.92 | Lithuania | 25 |
-| 1.91 | Germany | 231 |
+| 1.92 | Germany | 232 |
 | 1.91 | Serbia | 23 |
 | 1.91 | Turkey | 99 |
 | 1.89 | Norway | 125 |
@@ -54,9 +54,9 @@
 | 1.75 | Luxembourg | 4 |
 | 1.75 | Palestine | 4 |
 | 1.73 | Austria | 30 |
-| 1.72 | Argentina | 90 |
+| 1.73 | Argentina | 91 |
 | 1.72 | Belgium | 86 |
-| 1.72 | Brazil | 505 |
+| 1.72 | Brazil | 506 |
 | 1.71 | Poland | 469 |
 | 1.71 | Ukraine | 136 |
 | 1.67 | Iran | 39 |
@@ -66,9 +66,9 @@
 | 1.60 | Italy | 225 |
 | 1.59 | Netherlands | 120 |
 | 1.59 | New Zealand | 122 |
-| 1.59 | India | 583 |
+| 1.59 | India | 584 |
 | 1.58 | Greece | 31 |
-| 1.58 | Indonesia | 227 |
+| 1.58 | Indonesia | 229 |
 | 1.57 | San Marino | 7 |
 | 1.56 | Dominican Republic | 27 |
 | 1.54 | Malaysia | 96 |
@@ -79,16 +79,16 @@
 | 1.50 | Madagascar | 2 |
 | 1.50 | Montenegro | 4 |
 | 1.50 | Nigeria | 6 |
-| 1.47 | Peru | 215 |
+| 1.48 | Peru | 218 |
 | 1.47 | Latvia | 34 |
 | 1.47 | Bangladesh | 15 |
-| 1.44 | South Africa | 75 |
+| 1.45 | South Africa | 76 |
+| 1.43 | Bulgaria | 23 |
 | 1.43 | Australia | 461 |
 | 1.43 | Jordan | 14 |
 | 1.42 | Nepal | 19 |
-| 1.42 | Israel | 55 |
 | 1.42 | Costa Rica | 24 |
-| 1.41 | Bulgaria | 22 |
+| 1.41 | Israel | 56 |
 | 1.40 | Estonia | 62 |
 | 1.39 | Romania | 124 |
 | 1.38 | Ecuador | 53 |
@@ -102,7 +102,7 @@
 | 1.31 | Republic of Korea | 99 |
 | 1.30 | Kuwait | 10 |
 | 1.30 | Panama | 20 |
-| 1.29 | Philippines | 313 |
+| 1.30 | Philippines | 315 |
 | 1.29 | Andorra | 7 |
 | 1.29 | Morocco | 7 |
 | 1.28 | Uruguay | 53 |
@@ -118,7 +118,7 @@
 | 1.18 | El Salvador | 34 |
 | 1.17 | Canada | 382 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 2983 |
+| 1.16 | United States | 2988 |
 | 1.13 | Azerbaijan | 46 |
 | 1.12 | Honduras | 17 |
 | 1.09 | Cyprus | 11 |

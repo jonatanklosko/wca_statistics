@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 
 ### World
@@ -23,11 +23,11 @@
 | 3 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 4x4x4 Cube, 5x5x5 Cube, Square-1 |
 | 3 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 3x3x3 Cube, 2x2x2 Cube, 5x5x5 Cube |
 | 3 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 2x2x2 Cube, 3x3x3 One-Handed, Pyraminx |
+| 3 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube, 5x5x5 Cube, Pyraminx |
 | 3 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 3 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 3 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
 | 3 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | 3x3x3 Fewest Moves, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
-| 3 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3x3x3 Blindfolded, Clock, 3x3x3 With Feet |
 
 ### Continental
 

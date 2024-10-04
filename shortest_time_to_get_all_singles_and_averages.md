@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -39,6 +39,7 @@
 | 1624 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) |
 | 1625 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
 | 1628 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) |
+| 1715 | [Draco Tong](https://www.worldcubeassociation.org/persons/2020TONG02) |
 | 1729 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 1764 | [Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21) |
 | 1771 | [Hanns Hub](https://www.worldcubeassociation.org/persons/2013HUBH01) |

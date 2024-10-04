@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -319,6 +319,7 @@
 | 1693 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) |
 | 1702 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) |
 | 1708 | [Aaron Soley](https://www.worldcubeassociation.org/persons/2017SOLE01) |
+| 1715 | [Draco Tong](https://www.worldcubeassociation.org/persons/2020TONG02) |
 | 1722 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) |
 | 1722 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 1729 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |

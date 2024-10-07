@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  4 October 2024*
+*Updated on  7 October 2024*
 
 
 ### Rubik's Cube
@@ -41,12 +41,12 @@
 | 17.62 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
 | 17.93 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024/results/by_person#2012PARK03) |
 | 18.06 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Yucaipa 2024](https://www.worldcubeassociation.org/competitions/NubOpenYucaipa2024/results/by_person#2012PARK03) |
+| 18.08 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/by_person#2010WEYE02) |
 | 18.31 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Summer 2022](https://www.worldcubeassociation.org/competitions/CircleCitySummer2022/results/by_person#2012PARK03) |
 | 18.49 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Arizona Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSpring2023/results/by_person#2012PARK03) |
 | 18.74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
 | 18.86 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [FLIP Open 11: Road to Euros 2024](https://www.worldcubeassociation.org/competitions/FLIPOpen11RoadtoEuros2024/results/by_person#2010WEYE02) |
 | 18.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2012PARK03) |
-| 18.87 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
 
 ### 5x5x5 Cube
 

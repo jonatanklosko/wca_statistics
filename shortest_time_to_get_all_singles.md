@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 October 2024*
+*Updated on  7 October 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -175,6 +175,7 @@
 | 973 | [Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01) |
 | 987 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 987 | [Eng Dickson (黄迪胜)](https://www.worldcubeassociation.org/persons/2016DICK03) |
+| 987 | [Beatriz Hernandes Bernardes](https://www.worldcubeassociation.org/persons/2022BERN01) |
 | 994 | [Brandon Mikel](https://www.worldcubeassociation.org/persons/2011MIKE01) |
 | 995 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) |
 | 1007 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |

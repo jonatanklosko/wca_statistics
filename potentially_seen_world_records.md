@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  7 October 2024*
+*Updated on 10 October 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -100,9 +100,9 @@
 | 67 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 67 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 66 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
+| 66 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 66 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 66 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
-| 66 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 66 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 65 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 

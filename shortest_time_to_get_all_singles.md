@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 October 2024*
+*Updated on 16 October 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -254,6 +254,7 @@
 | 1350 | [Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01) |
 | 1351 | [Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01) |
 | 1372 | [Adam Ahmad](https://www.worldcubeassociation.org/persons/2018AHMA02) |
+| 1377 | [Jinge Li (李金戈)](https://www.worldcubeassociation.org/persons/2021LIJI02) |
 | 1379 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 1379 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 1379 | [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) |
@@ -562,6 +563,7 @@
 | 3723 | [António Gomes](https://www.worldcubeassociation.org/persons/2014GOME07) |
 | 3739 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 3752 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
+| 3787 | [Gabriele Bacchieri](https://www.worldcubeassociation.org/persons/2014BACC01) |
 | 3912 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 4010 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 4025 | [Lanshi Zhang (张岚石)](https://www.worldcubeassociation.org/persons/2013ZHAN41) |

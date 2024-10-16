@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 October 2024*
+*Updated on 16 October 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -87,6 +87,7 @@
 | 3074 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 3115 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) |
 | 3136 | [Matej Bolta](https://www.worldcubeassociation.org/persons/2015BOLT01) |
+| 3221 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 3282 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
 | 3542 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 3570 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 October 2024*
+*Updated on 16 October 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1145,6 +1145,7 @@
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2023](https://www.worldcubeassociation.org/competitions/IcelandicNationals2023/results/podiums) |
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Íslandsmótið 2024](https://www.worldcubeassociation.org/competitions/Islandsmotid2024/results/podiums) |
 | 10 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2019](https://www.worldcubeassociation.org/competitions/IcelandicNationals2019/results/podiums) |
+| 13 | [Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02) | [24 Horas El Tambo 2024](https://www.worldcubeassociation.org/competitions/24HorasElTambo2024/results/podiums) |
 | 10 | [Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02) | [Fundación de Cuenca Open 2024](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2024/results/podiums) |
 | 11 | [Kyle McDonald Trejos](https://www.worldcubeassociation.org/persons/2017TREJ03) | [Cubing Chiriquí 2019](https://www.worldcubeassociation.org/competitions/CubingChiriqui2019/results/podiums) |
 | 12 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Pulmapelipäivät 2024](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2024/results/podiums) |
@@ -1243,6 +1244,7 @@
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Pequi Open 2020](https://www.worldcubeassociation.org/competitions/PequiOpen2020/results/podiums) |
 | 11 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |
+| 10 | [Anthony Gerard Álvarez Ludeña](https://www.worldcubeassociation.org/persons/2018LUDE01) | [Ecuador Nationals 2024](https://www.worldcubeassociation.org/competitions/EcuadorNationals2024/results/podiums) |
 | 10 | [Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17) | [Vladivostok Is Back On 2021](https://www.worldcubeassociation.org/competitions/VladivostokIsBackOn2021/results/podiums) |
 | 10 | [Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17) | [Vladivostok Spring 2020](https://www.worldcubeassociation.org/competitions/VladivostokSpring2020/results/podiums) |
 | 11 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Gajah Mada Speedcubing 2024](https://www.worldcubeassociation.org/competitions/GajahMadaSpeedcubing2024/results/podiums) |
@@ -1283,6 +1285,7 @@
 | 13 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Q8speedcubing in K.S.E 2023](https://www.worldcubeassociation.org/competitions/Q8speedcubinginKSE2023/results/podiums) |
 | 12 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
 | 11 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Amman Summertime 2022](https://www.worldcubeassociation.org/competitions/AmmanSummertime2022/results/podiums) |
+| 11 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Kuwaiti Nationals 2024](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2024/results/podiums) |
 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Almadar School 2022](https://www.worldcubeassociation.org/competitions/AlmadarSchool2022/results/podiums) |
 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Amman Wintertime 2023](https://www.worldcubeassociation.org/competitions/AmmanWintertime2023/results/podiums) |
 | 15 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Vännäs & Friends 2024](https://www.worldcubeassociation.org/competitions/VannasFriends2024/results/podiums) |
@@ -1290,6 +1293,7 @@
 | 10 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023/results/podiums) |
 | 12 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/podiums) |
 | 10 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Bolton Spring 2023](https://www.worldcubeassociation.org/competitions/BoltonSpring2023/results/podiums) |
+| 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [24 Horas El Tambo 2024](https://www.worldcubeassociation.org/competitions/24HorasElTambo2024/results/podiums) |
 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Imbabura Open 2023](https://www.worldcubeassociation.org/competitions/ImbaburaOpen2023/results/podiums) |
 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Fundación de Cuenca Open 2024](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2024/results/podiums) |
 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Sin Fronteras Ecuador 2023](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2023/results/podiums) |

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 16 October 2024*
+*Updated on 19 October 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -16,7 +16,7 @@
 | 167 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 164 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 154 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 153 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 154 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 152 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 150 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 142 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
@@ -48,10 +48,10 @@
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 102 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 102 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
+| 102 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 102 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 101 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 101 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
-| 100 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 98 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 97 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 96 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
@@ -72,9 +72,9 @@
 | 87 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 87 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 86 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
+| 86 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
 | 86 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 86 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 85 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
 | 85 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 85 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 85 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
@@ -90,13 +90,13 @@
 | 80 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 80 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 80 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 79 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
-| 79 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 79 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
+| 79 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 79 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
+| 79 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
 | 78 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
-| 78 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 78 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
-| 77 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 78 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 76 | [Valentin Hoffmann](https://www.worldcubeassociation.org/persons/2011HOFF02) |
 | 76 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
 | 76 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |

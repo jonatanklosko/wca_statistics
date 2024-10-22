@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 October 2024*
+*Updated on 22 October 2024*
 
 
 ### Rubik's Cube
@@ -175,9 +175,9 @@
 | ---: | :--- | :--- |
 | 2.39 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.96, 2.46, 2.24, 2.29, 2.43 |
 | 2.52 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.44, 3.36, 2.59, 2.40, 2.52 |
+| 2.69 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 2.00, 2.94, 2.92, 2.74, 2.42 |
 | 2.77 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | DNF, 2.58, 3.00, 2.43, 2.73 |
 | 2.83 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 2.98, 2.76, 2.70, 2.85, 2.88 |
-| 2.86 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 2.59, 3.45, 1.97, 3.12, 2.87 |
 | 2.96 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.88, 4.05, 2.90, 3.11, 2.58 |
 | 2.98 | [Jaidon Poraminthara Lin (เจเดิ้น ปรมินทร์ หลิน)](https://www.worldcubeassociation.org/persons/2019LINJ04) | 2.64, 3.12, 3.02, 6.75, 2.79 |
 | 2.99 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 2.96, 2.84, 3.31, 2.70, 3.17 |

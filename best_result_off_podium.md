@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 October 2024*
+*Updated on 22 October 2024*
 
 
 ### Rubik's Cube
@@ -175,14 +175,14 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.20 | **3.68** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eclock_f) | 4 |
 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.46 | **3.80** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 4 |
+| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 3.39 | **3.86** | [Cube4fun DW Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024/results/all#eclock_f) | 4 |
 | [Jaidon Poraminthara Lin (เจเดิ้น ปรมินทร์ หลิน)](https://www.worldcubeassociation.org/persons/2019LINJ04) | 2.94 | **3.91** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eclock_f) | 5 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 2.83 | **3.94** | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024/results/all#eclock_f) | 4 |
 | [Asier Adell Díaz](https://www.worldcubeassociation.org/persons/2023DIAZ20) | 3.63 | **3.94** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 5 |
 | [Michal Černý](https://www.worldcubeassociation.org/persons/2022CERN03) | 3.27 | **3.96** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 6 |
+| [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 2.92 | **4.01** | [UCSB Cubing 2024](https://www.worldcubeassociation.org/competitions/UCSBCubing2024/results/all#eclock_f) | 4 |
 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.56 | **4.03** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eclock_f) | 6 |
 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 3.71 | **4.05** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 7 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 3.86 | **4.05** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#eclock_f) | 4 |
-| [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 2.90 | **4.07** | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024/results/all#eclock_f) | 5 |
 
 ### Skewb
 

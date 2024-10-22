@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 October 2024*
+*Updated on 22 October 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -151,6 +151,7 @@
 | 847 | [Alessio Pandin](https://www.worldcubeassociation.org/persons/2021PAND01) |
 | 855 | [Matěj Mužátko](https://www.worldcubeassociation.org/persons/2013MUAT01) |
 | 861 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
+| 873 | [Felipe Santamaría Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ03) |
 | 881 | [Georgiy Titov (Георгій Тітов)](https://www.worldcubeassociation.org/persons/2013TITO02) |
 | 881 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) |
 | 882 | [Haoyang Chen (陈浩杨)](https://www.worldcubeassociation.org/persons/2016CHEH02) |
@@ -496,6 +497,7 @@
 | 2702 | [Ivo Bakker](https://www.worldcubeassociation.org/persons/2009BAKK01) |
 | 2703 | [Li Chengyu](https://www.worldcubeassociation.org/persons/2017CHEN16) |
 | 2743 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
+| 2744 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) |
 | 2745 | [Luke Meszar](https://www.worldcubeassociation.org/persons/2016MESZ01) |
 | 2756 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) |
 | 2756 | [Yonghao Xu (徐永浩)](https://www.worldcubeassociation.org/persons/2017XUYO01) |

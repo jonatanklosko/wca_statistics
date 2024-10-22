@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 October 2024*
+*Updated on 22 October 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -276,6 +276,7 @@
 | 11 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Colombia Nationals 2014](https://www.worldcubeassociation.org/competitions/ColombiaNationals2014/results/podiums) |
 | 11 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [III Torneo Nacional 2013](https://www.worldcubeassociation.org/competitions/ColombiaTercer2013/results/podiums) |
 | 10 | [Sujan Irosha Kumarapperuma](https://www.worldcubeassociation.org/persons/2019KUMA59) | [Colombo Cubing Christmas 2023](https://www.worldcubeassociation.org/competitions/ColomboCubingChristmas2023/results/podiums) |
+| 11 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | [Colorado Championship 2024](https://www.worldcubeassociation.org/competitions/ColoradoChampionship2024/results/podiums) |
 | 10 | [AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01) | [Colorado Springs 2013](https://www.worldcubeassociation.org/competitions/ColoradoSprings2013/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Come Back to Landvetter 2024](https://www.worldcubeassociation.org/competitions/ComeBacktoLandvetter2024/results/podiums) |
 | 13 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [Comodoro Cubea 2023](https://www.worldcubeassociation.org/competitions/ComodoroCubea2023/results/podiums) |
@@ -527,6 +528,7 @@
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Götalandsmästerskapet 2024](https://www.worldcubeassociation.org/competitions/Gotalandsmasterskapet2024/results/podiums) |
 | 10 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | [Gotirubik Fest 2016](https://www.worldcubeassociation.org/competitions/GotirubikFest2016/results/podiums) |
 | 13 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Gotland Open 2023](https://www.worldcubeassociation.org/competitions/GotlandOpen2023/results/podiums) |
+| 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Gouverneur Quick & Quiet 2024](https://www.worldcubeassociation.org/competitions/GouverneurQuickQuiet2024/results/podiums) |
 | 10 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Great South Open 2016](https://www.worldcubeassociation.org/competitions/GreatSouthOpen2016/results/podiums) |
 | 11 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Greece Winter Open 2016](https://www.worldcubeassociation.org/competitions/GreeceWinterOpen2016/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020/results/podiums) |
@@ -817,6 +819,8 @@
 | 11 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Nacionales El Salvador 2023](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2023/results/podiums) |
 | 10 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales Guatemala 2023](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2023/results/podiums) |
 | 15 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Nacionales Uruguayas 2023](https://www.worldcubeassociation.org/competitions/NacionalesUruguayas2023/results/podiums) |
+| 15 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Uruguayas 2024](https://www.worldcubeassociation.org/competitions/NacionalesUruguayas2024/results/podiums) |
+| 11 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) | [Nacionales Uruguayas 2024](https://www.worldcubeassociation.org/competitions/NacionalesUruguayas2024/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Nacionales Uruguayas UCHI 2017](https://www.worldcubeassociation.org/competitions/NacionalesUruguayasUCHI2017/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Nacionales Uruguayas UCHI 2018](https://www.worldcubeassociation.org/competitions/NacionalesUruguayasUCHI2018/results/podiums) |
 | 11 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) | [National Capital Region 2012](https://www.worldcubeassociation.org/competitions/NationalCapitalRegion2012/results/podiums) |

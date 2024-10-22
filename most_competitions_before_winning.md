@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 19 October 2024*
+*Updated on 22 October 2024*
 
 
 ### Rubik's Cube
@@ -209,10 +209,10 @@
 | 51 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | [Couffoul'Events 2024](https://www.worldcubeassociation.org/competitions/CouffoulEvents2024) |
 | 50 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Montenegro Open 2019](https://www.worldcubeassociation.org/competitions/MontenegroOpen2019) |
 | 48 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023) |
+| 48 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) | [Glasgow Fav Evening II 2024](https://www.worldcubeassociation.org/competitions/GlasgowFavEveningII2024) |
 | 47 | [Damian Wilding](https://www.worldcubeassociation.org/persons/2014WILD03) | [Utah Valley Favorites 2024](https://www.worldcubeassociation.org/competitions/UtahValleyFavorites2024) |
 | 46 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) | [Oklahoma Afternoon Twist 2024](https://www.worldcubeassociation.org/competitions/OklahomaAfternoonTwist2024) |
 | 38 | [Rasmus Händén](https://www.worldcubeassociation.org/persons/2016HAND04) | [Jönköpingsligan 5: Calzone 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan5Calzone2023) |
-| 38 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | [Bangkok Cube Fest 2022](https://www.worldcubeassociation.org/competitions/BangkokCubeFest2022) |
 
 ### 4x4x4 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 October 2024*
+*Updated on 22 October 2024*
 
 
 ### Rubik's Cube
@@ -265,13 +265,13 @@
 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | 21 |
 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | 20 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 17 |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 14 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 13 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 13 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 12 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 11 |
-| [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 10 |
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 10 |
 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) | 9 |
+| [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 9 |
 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 8 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 8 |
 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 8 |
@@ -308,7 +308,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 31 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 32 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 26 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 26 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 20 |
@@ -338,8 +338,8 @@
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 23 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 23 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | 21 |
+| [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 21 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 21 |
-| [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 20 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 19 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 17 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 16 |
@@ -372,9 +372,9 @@
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 12 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | 11 |
 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 11 |
+| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 9 |
 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 8 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 8 |
-| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 8 |
 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | 7 |
 | [Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01) | 7 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 7 |
@@ -397,8 +397,8 @@
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 10 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 10 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 10 |
+| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 10 |
 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 9 |
-| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 9 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 8 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 8 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 8 |
@@ -415,7 +415,7 @@
 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | 24 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 22 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 21 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 19 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 20 |
 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 17 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 17 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 14 |

@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 22 October 2024*
+*Updated on 25 October 2024*
 
 | Person | Years |
 | :--- | ---: |
@@ -58,11 +58,11 @@
 | [Steven Cheung](https://www.worldcubeassociation.org/persons/2013CHEU01) | 11.04 |
 | [Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07) | 11.03 |
 | [Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02) | 11.02 |
-| [Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01) | 11.00 |
 | [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | 11.00 |
+| [Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01) | 11.00 |
 | [Santiago A. Ospina Botero](https://www.worldcubeassociation.org/persons/2013BOTE01) | 10.94 |
-| [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) | 10.90 |
 | [Xiaobo Jin (金晓波)](https://www.worldcubeassociation.org/persons/2008JINX01) | 10.90 |
+| [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) | 10.90 |
 | [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 10.87 |
 | [Ottfried Kejs](https://www.worldcubeassociation.org/persons/2012KEJS01) | 10.83 |
 | [Dominik Beese](https://www.worldcubeassociation.org/persons/2013BEES01) | 10.79 |
@@ -95,8 +95,8 @@
 | [Kevin Arturo Huamán Ruiz](https://www.worldcubeassociation.org/persons/2014RUIZ10) | 10.08 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 10.08 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 10.06 |
-| [Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02) | 10.04 |
 | [Atharva Vadeyar](https://www.worldcubeassociation.org/persons/2014VADE01) | 10.04 |
+| [Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02) | 10.04 |
 | [Alex Maass](https://www.worldcubeassociation.org/persons/2011MAAS01) | 10.01 |
 | [Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13) | 9.98 |
 | [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 9.93 |

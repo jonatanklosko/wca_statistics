@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 October 2024*
+*Updated on 25 October 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -329,7 +329,7 @@
 | 11 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016/results/podiums) |
 | 10 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016/results/podiums) |
 | 11 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Cubing Classic 2017](https://www.worldcubeassociation.org/competitions/CubingClassic2017/results/podiums) |
-| 10 | [Hitesh Kumar Bhuwalka (हितेश कुमार भुवालका)](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Cubing Comes to Bihar 2023](https://www.worldcubeassociation.org/competitions/CubingComestoBihar2023/results/podiums) |
+| 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Cubing Comes to Bihar 2023](https://www.worldcubeassociation.org/competitions/CubingComestoBihar2023/results/podiums) |
 | 10 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [Cubing Fest 2014](https://www.worldcubeassociation.org/competitions/CubingFest2014/results/podiums) |
 | 10 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Cubing Kazakhstan Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingKazakhstanNationals2023/results/podiums) |
 | 12 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | [Cubing Mérida 2013](https://www.worldcubeassociation.org/competitions/CubingMerida2013/results/podiums) |

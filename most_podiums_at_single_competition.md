@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 October 2024*
+*Updated on 28 October 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -248,6 +248,7 @@
 | 11 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Castellon Open 2011](https://www.worldcubeassociation.org/competitions/CastellonOpen2011/results/podiums) |
 | 10 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Castellon Open 2011](https://www.worldcubeassociation.org/competitions/CastellonOpen2011/results/podiums) |
 | 13 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Castellon Open 2012](https://www.worldcubeassociation.org/competitions/CastellonOpen2012/results/podiums) |
+| 10 | [Samuel Velho Pereira Meira](https://www.worldcubeassociation.org/persons/2023MEIR02) | [CAU ao Cubo 2024](https://www.worldcubeassociation.org/competitions/CAUaoCubo2024/results/podiums) |
 | 10 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [CCC Qual Kaliningrad 2019](https://www.worldcubeassociation.org/competitions/CCCQualKaliningrad2019/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [CCC Qual Kaliningrad 2019](https://www.worldcubeassociation.org/competitions/CCCQualKaliningrad2019/results/podiums) |
 | 10 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) | [Cebu Speedcubing Year End 2019](https://www.worldcubeassociation.org/competitions/CebuSpeedcubingYearEnd2019/results/podiums) |
@@ -895,6 +896,7 @@
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Osijek Open 2019](https://www.worldcubeassociation.org/competitions/OsijeKOpen2019/results/podiums) |
 | 10 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Oskemen Open 2024](https://www.worldcubeassociation.org/competitions/OskemenOpen2024/results/podiums) |
 | 15 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022/results/podiums) |
+| 10 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Oso Cubing Fest I Lima 2024](https://www.worldcubeassociation.org/competitions/OsoCubingFestILima2024/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/podiums) |
 | 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/podiums) |
 | 12 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Ōtepoti Big Cubes 2024](https://www.worldcubeassociation.org/competitions/OtepotiBigCubes2024/results/podiums) |
@@ -1110,6 +1112,7 @@
 | 10 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | [Sumatra Open 2018](https://www.worldcubeassociation.org/competitions/SumatraOpen2018/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Summer Cubing in Stafsinge 2024](https://www.worldcubeassociation.org/competitions/SummerCubinginStafsinge2024/results/podiums) |
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Summer Kube Vila Velha 2020](https://www.worldcubeassociation.org/competitions/SummerKubeVilaVelha2020/results/podiums) |
+| 10 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Sum of Ranks Granada 2024](https://www.worldcubeassociation.org/competitions/SumofRanksGranada2024/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Svealandsmästerskapet 2024](https://www.worldcubeassociation.org/competitions/Svealandsmasterskapet2024/results/podiums) |
 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006/results/podiums) |
 | 12 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Swedish Championship 2011](https://www.worldcubeassociation.org/competitions/SwedishChampionship2011/results/podiums) |
@@ -1184,6 +1187,7 @@
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Summer 2020](https://www.worldcubeassociation.org/competitions/TurkishSummer2020/results/podiums) |
 | 10 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Turning in Townsville 2022](https://www.worldcubeassociation.org/competitions/TurninginTownsville2022/results/podiums) |
 | 12 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Turning in Townsville 2024](https://www.worldcubeassociation.org/competitions/TurninginTownsville2024/results/podiums) |
+| 10 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | [Turn 'N Solve Bataan 2024](https://www.worldcubeassociation.org/competitions/TurnNSolveBataan2024/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Twist and Shout Summer 2017](https://www.worldcubeassociation.org/competitions/TwistandShoutSummer2017/results/podiums) |
 | 12 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [UAM Open 2013](https://www.worldcubeassociation.org/competitions/UAMOpen2013/results/podiums) |
 | 11 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [Uberlândia Open 2010](https://www.worldcubeassociation.org/competitions/Uberlandia2010/results/podiums) |

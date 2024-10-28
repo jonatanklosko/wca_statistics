@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 October 2024*
+*Updated on 28 October 2024*
 
 
 ### Rubik's Cube
@@ -145,6 +145,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.02 | [Yi Wang (王旖)](https://www.worldcubeassociation.org/persons/2011WANG33) | 2.98 | 3.00 | [Suzhou Open 2017](https://www.worldcubeassociation.org/competitions/SuzhouOpen2017/results/by_person#2011WANG33) |
 | 0.02 | [Cai Giesinger](https://www.worldcubeassociation.org/persons/2022GIES01) | 5.16 | 5.18 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022/results/by_person#2022GIES01) |
+| 0.02 | [Toby Hogenhorst](https://www.worldcubeassociation.org/persons/2022HOGE01) | 5.60 | 5.62 | [Dutch Open 2024](https://www.worldcubeassociation.org/competitions/DutchOpen2024/results/by_person#2022HOGE01) |
 | 0.02 | [Kasper Warberg Borg](https://www.worldcubeassociation.org/persons/2020BORG01) | 9.37 | 9.39 | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022/results/by_person#2020BORG01) |
 | 0.03 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.49 | 1.52 | [Southern Solves 2024](https://www.worldcubeassociation.org/competitions/SouthernSolvesInvercargill2024/results/by_person#2018MURR03) |
 | 0.03 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.97 | 2.00 | [Miami in an Ohio Oxford 2023](https://www.worldcubeassociation.org/competitions/MiamiinanOhioOxford2023/results/by_person#2017PALA08) |
@@ -152,7 +153,6 @@
 | 0.03 | [Mario Armando Takahashi Martins Dias](https://www.worldcubeassociation.org/persons/2019DIAS02) | 2.73 | 2.76 | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/by_person#2019DIAS02) |
 | 0.03 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.43 | 3.46 | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024/results/by_person#2018THOM29) |
 | 0.04 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.54 | 1.58 | [Virginia Beach Fall 2023](https://www.worldcubeassociation.org/competitions/VirginiaBeachFall2023/results/by_person#2017NIEL03) |
-| 0.04 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 2.48 | 2.52 | [Liberty Science Center Open 2019](https://www.worldcubeassociation.org/competitions/LibertyScienceCenterOpen2019/results/by_person#2017HONG17) |
 
 ### Rubik's Clock
 

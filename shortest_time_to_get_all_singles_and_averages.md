@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 October 2024*
+*Updated on 28 October 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -66,6 +66,7 @@
 | 2569 | [Aaron Soley](https://www.worldcubeassociation.org/persons/2017SOLE01) |
 | 2575 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2632 | [Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02) |
+| 2647 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) |
 | 2660 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 2664 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
 | 2703 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |

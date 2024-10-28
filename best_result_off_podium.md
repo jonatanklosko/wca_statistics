@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 25 October 2024*
+*Updated on 28 October 2024*
 
 
 ### Rubik's Cube
@@ -122,7 +122,7 @@
 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | 22 | **22.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 5 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 22 | **22.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 8 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 21 | **23.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 4 |
-| [Adrien Neveu](https://www.worldcubeassociation.org/persons/2018NEVE02) | 22 | **23.00** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 7 |
+| [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | 21 | **23.00** | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024/results/all#e333fm_f) | 4 |
 
 ### 3x3x3 One-Handed
 

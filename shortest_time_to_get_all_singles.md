@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 October 2024*
+*Updated on 28 October 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -488,6 +488,7 @@
 | 2568 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) |
 | 2583 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |
 | 2604 | [Nicholas Patterson](https://www.worldcubeassociation.org/persons/2016PATT02) |
+| 2631 | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) |
 | 2633 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 2639 | [Kalyani H. Kiran](https://www.worldcubeassociation.org/persons/2017KIRA01) |
 | 2659 | [Marike Faught](https://www.worldcubeassociation.org/persons/2015FAUG01) |
@@ -565,6 +566,7 @@
 | 3723 | [António Gomes](https://www.worldcubeassociation.org/persons/2014GOME07) |
 | 3739 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 3752 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
+| 3782 | [Kevin Arturo Huamán Ruiz](https://www.worldcubeassociation.org/persons/2014RUIZ10) |
 | 3787 | [Gabriele Bacchieri](https://www.worldcubeassociation.org/persons/2014BACC01) |
 | 3912 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 4010 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |

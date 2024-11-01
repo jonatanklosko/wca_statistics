@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 October 2024*
+*Updated on  1 November 2024*
 
 
 ### Rubik's Cube
@@ -195,9 +195,9 @@
 | 1.84 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.42, 2.02, 1.91, 2.57, 1.90, 1.65, 1.75, 1.41, 2.30, 2.22, 1.35, 1.81 |
 | 1.88 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.63, 1.99, 1.72, 2.70, 2.29, 1.82, 2.15, 1.53, 2.13, 1.82, 1.65, 1.59 |
 | 1.96 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 2.27, 1.69, 1.75, 3.00, 2.68, 1.44, 1.77, 2.48, 2.04, 2.03, 1.48, 1.44 |
+| 2.02 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 2.05, 2.12, 1.93, 1.78, 1.71, 2.64, 2.76, 1.86, 1.85, 1.65, 2.19, 2.06 |
 | 2.05 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | 3.00, 1.96, 2.43, 1.65, 2.44, 1.94, 2.12, 2.06, 1.93, 2.21, 1.73, 1.54 |
 | 2.07 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 2.47, 1.96, 1.97, 1.72, 1.75, 2.22, 2.17, 2.38, 1.50, 2.82, 1.83, 2.19 |
-| 2.15 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.12, 3.16, 1.77, 2.00, 3.18, 1.73, 2.33, 2.55, 2.66, 1.63, 2.21, 1.44 |
 
 ### Square-1
 

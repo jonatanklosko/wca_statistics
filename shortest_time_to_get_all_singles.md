@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 October 2024*
+*Updated on  1 November 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -469,6 +469,7 @@
 | 2435 | [Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06) |
 | 2436 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) |
 | 2436 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
+| 2443 | [Bowen Xie](https://www.worldcubeassociation.org/persons/2018XIEB01) |
 | 2464 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 2471 | [Nick Vu](https://www.worldcubeassociation.org/persons/2007VUNI01) |
 | 2485 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) |

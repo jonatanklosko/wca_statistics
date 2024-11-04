@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  1 November 2024*
+*Updated on  4 November 2024*
 
 
 ### Rubik's Cube
@@ -107,7 +107,7 @@
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **17.24** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333bf_f) | 8 |
 | [Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04) | **17.29** | 21.09 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333bf_f) | 4 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **17.40** | 19.61 | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333bf_f) | 6 |
-| [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | **18.11** | 22.21 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333bf_f) | 4 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **17.62** | DNF | [5BLD in a Madison Fall 2024](https://www.worldcubeassociation.org/competitions/5BLDinaMadisonFall2024/results/all#e333bf_f) | 4 |
 
 ### 3x3x3 Fewest Moves
 

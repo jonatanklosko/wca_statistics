@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 November 2024*
+*Updated on  4 November 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -103,6 +103,7 @@
 | 698 | [Nathan Benson](https://www.worldcubeassociation.org/persons/2022BENS01) |
 | 700 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) |
 | 700 | [Elias Lampert](https://www.worldcubeassociation.org/persons/2021LAMP01) |
+| 700 | [Luke Selle](https://www.worldcubeassociation.org/persons/2022SELL05) |
 | 719 | [Yoad Yahalom Weiss](https://www.worldcubeassociation.org/persons/2022WEIS03) |
 | 726 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
 | 727 | [Jakov Srečković](https://www.worldcubeassociation.org/persons/2021SREC01) |
@@ -151,6 +152,7 @@
 | 847 | [Alessio Pandin](https://www.worldcubeassociation.org/persons/2021PAND01) |
 | 855 | [Matěj Mužátko](https://www.worldcubeassociation.org/persons/2013MUAT01) |
 | 861 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
+| 868 | [Brayden Thompson](https://www.worldcubeassociation.org/persons/2022THOM14) |
 | 873 | [Felipe Santamaría Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ03) |
 | 881 | [Georgiy Titov (Георгій Тітов)](https://www.worldcubeassociation.org/persons/2013TITO02) |
 | 881 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) |

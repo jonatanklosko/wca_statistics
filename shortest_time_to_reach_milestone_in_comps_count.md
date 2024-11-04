@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 November 2024*
+*Updated on  4 November 2024*
 
 
 ### 200 Competitions
@@ -40,6 +40,7 @@
 | 2476 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 2564 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 2565 | [Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31) |
+| 2634 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) |
 | 2699 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 2724 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 2844 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
@@ -51,7 +52,6 @@
 | 3011 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 3038 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 3060 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 3074 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 
 ### 100 Competitions
 

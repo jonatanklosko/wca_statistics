@@ -61,8 +61,8 @@
 | [Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01) | 11.00 |
 | [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | 11.00 |
 | [Santiago A. Ospina Botero](https://www.worldcubeassociation.org/persons/2013BOTE01) | 10.94 |
-| [Xiaobo Jin (金晓波)](https://www.worldcubeassociation.org/persons/2008JINX01) | 10.90 |
 | [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) | 10.90 |
+| [Xiaobo Jin (金晓波)](https://www.worldcubeassociation.org/persons/2008JINX01) | 10.90 |
 | [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 10.87 |
 | [Ottfried Kejs](https://www.worldcubeassociation.org/persons/2012KEJS01) | 10.83 |
 | [Dominik Beese](https://www.worldcubeassociation.org/persons/2013BEES01) | 10.79 |
@@ -78,8 +78,8 @@
 | [Yinghao Zhu (朱英豪)](https://www.worldcubeassociation.org/persons/2013ZHUY01) | 10.37 |
 | [Maggie Jordan](https://www.worldcubeassociation.org/persons/2013JORD01) | 10.35 |
 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) | 10.33 |
-| [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
+| [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 10.31 |
 | [Vi Dinh](https://www.worldcubeassociation.org/persons/2013DINH01) | 10.29 |
 | [Hime Arellano](https://www.worldcubeassociation.org/persons/2014AREL01) | 10.25 |
@@ -95,8 +95,8 @@
 | [Kevin Arturo Huamán Ruiz](https://www.worldcubeassociation.org/persons/2014RUIZ10) | 10.08 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 10.08 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 10.06 |
-| [Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02) | 10.04 |
 | [Atharva Vadeyar](https://www.worldcubeassociation.org/persons/2014VADE01) | 10.04 |
+| [Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02) | 10.04 |
 | [Alex Maass](https://www.worldcubeassociation.org/persons/2011MAAS01) | 10.01 |
 | [Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13) | 9.98 |
 | [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 9.93 |

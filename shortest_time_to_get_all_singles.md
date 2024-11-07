@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 November 2024*
+*Updated on  7 November 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -80,6 +80,7 @@
 | 615 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
 | 616 | [János Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
 | 623 | [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) |
+| 636 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
 | 637 | [Owl Carpenter](https://www.worldcubeassociation.org/persons/2022CARP05) |
 | 644 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |
 | 650 | [Christopher Reid](https://www.worldcubeassociation.org/persons/2022REID01) |
@@ -116,6 +117,7 @@
 | 735 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 741 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 741 | [Komahal Eswaran](https://www.worldcubeassociation.org/persons/2022ESWA01) |
+| 741 | [Ot Caminals Aleu](https://www.worldcubeassociation.org/persons/2022ALEU01) |
 | 742 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 742 | [Miles Greco](https://www.worldcubeassociation.org/persons/2022GREC01) |
 | 750 | [Jaxon Foster](https://www.worldcubeassociation.org/persons/2021FOST01) |

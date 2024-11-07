@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 November 2024*
+*Updated on  7 November 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -34,6 +34,7 @@
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Alania Open 2010](https://www.worldcubeassociation.org/competitions/AlaniaOpen2010/results/podiums) |
 | 10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Alania Open 2011](https://www.worldcubeassociation.org/competitions/AlaniaOpen2011/results/podiums) |
 | 10 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Albacete Open 2016](https://www.worldcubeassociation.org/competitions/AlbaceteOpen2016/results/podiums) |
+| 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Alekuben 2024](https://www.worldcubeassociation.org/competitions/Alekuben2024/results/podiums) |
 | 13 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | [Alhambra LMO 2014](https://www.worldcubeassociation.org/competitions/AlhambraLMO2014/results/podiums) |
 | 11 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Alhambra LMO 2014](https://www.worldcubeassociation.org/competitions/AlhambraLMO2014/results/podiums) |
 | 11 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Alicante Open 2016](https://www.worldcubeassociation.org/competitions/AlicanteOpen2016/results/podiums) |

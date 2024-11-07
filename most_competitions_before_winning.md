@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  4 November 2024*
+*Updated on  7 November 2024*
 
 
 ### Rubik's Cube
@@ -17,7 +17,7 @@
 | 97 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | [Basauri Open 2023](https://www.worldcubeassociation.org/competitions/BasauriOpen2023) |
 | 96 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | [Warwick Cube Day 2023](https://www.worldcubeassociation.org/competitions/WarwickCubeDay2023) |
 | 93 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [Copper Country Cubing 2019](https://www.worldcubeassociation.org/competitions/CopperCountryCubing2019) |
-| 91 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | [Lexington Weeknights VI 2024](https://www.worldcubeassociation.org/competitions/LexingtonWeeknightsVI2024) |
+| 92 | [Robert Mapp IV](https://www.worldcubeassociation.org/persons/2016IVRO01) | [Colonial Cube Clash VA 2024](https://www.worldcubeassociation.org/competitions/ColonialCubeClashVA2024) |
 
 ### 2x2x2 Cube
 

@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  4 November 2024*
+*Updated on  7 November 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -33,11 +33,11 @@
 | 57 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | [Athens Fall Late Night 2016](https://www.worldcubeassociation.org/competitions/AthensFallLateNight2016) | [Cobb Cubes Comeback 2A 2021](https://www.worldcubeassociation.org/competitions/CobbCubesComeback2A2021) |
 | 57 | [Étienne Aubry](https://www.worldcubeassociation.org/persons/2018AUBR01) | [Croissy Open 2018](https://www.worldcubeassociation.org/competitions/CroissyOpen2018) | [Polytechnique Open 2024](https://www.worldcubeassociation.org/competitions/PolytechniqueOpen2024) |
 | 56 | [Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01) | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) |  |
+| 56 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | [FME & Cubo y Calla 2016](https://www.worldcubeassociation.org/competitions/FMECuboyCalla2016) |  |
 | 56 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 55 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | [Exeter Open 2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016) | [Norwich Summer 2023](https://www.worldcubeassociation.org/competitions/NorwichSummer2023) |
 | 55 | [Linus Buck](https://www.worldcubeassociation.org/persons/2016BUCK01) | [Hessen Open 2016](https://www.worldcubeassociation.org/competitions/HessenOpen2016) |  |
 | 55 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Slow N Steady Spring 2016](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2016) | [Texarkana Winter 2022](https://www.worldcubeassociation.org/competitions/TexarkanaWinter2022) |
-| 55 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | [FME & Cubo y Calla 2016](https://www.worldcubeassociation.org/competitions/FMECuboyCalla2016) |  |
 | 55 | [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | [Swisscubing Cup I 2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2019) | [Olte Obig Overtimer 2024](https://www.worldcubeassociation.org/competitions/OlteObigOvertimer2024) |
 | 55 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [Bala Big and Blind 2019](https://www.worldcubeassociation.org/competitions/BalaBigandBlind2019) |  |
 | 54 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Argentino de Invierno 2014](https://www.worldcubeassociation.org/competitions/ArgentinoDeInvierno2014) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023) |
@@ -52,7 +52,7 @@
 | 52 | [Ivo Stoutjesdijk](https://www.worldcubeassociation.org/persons/2019STOU02) | [Breda Open 2019](https://www.worldcubeassociation.org/competitions/BredaOpen2019) |  |
 | 52 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Swedish Championship 2021](https://www.worldcubeassociation.org/competitions/SwedishChampionship2021) | [Kublördag Jönköping IV - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingIV2024) |
 | 51 | [Diego Fraile](https://www.worldcubeassociation.org/persons/2013FRAI01) | [Bussières Open 2013](https://www.worldcubeassociation.org/competitions/BussieresOpen2013) | [Polytechnique Open 2024](https://www.worldcubeassociation.org/competitions/PolytechniqueOpen2024) |
-| 51 | [Garrett Hadaway](https://www.worldcubeassociation.org/persons/2015HADA01) | [Indiana 2015](https://www.worldcubeassociation.org/competitions/Indiana2015) |  |
+| 51 | [Garrett Hadaway](https://www.worldcubeassociation.org/persons/2015HADA01) | [Indiana 2015](https://www.worldcubeassociation.org/competitions/Indiana2015) | [Appalachian Highlands TN 2024](https://www.worldcubeassociation.org/competitions/AppalachianHighlandsTN2024) |
 | 51 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | [For The Love Of Cubing 2016](https://www.worldcubeassociation.org/competitions/ForTheLoveOfCubing2016) | [Big Cubes for Dunwoody 2020](https://www.worldcubeassociation.org/competitions/BigCubesforDunwoody2020) |
 | 51 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | [Manchester Open 2018](https://www.worldcubeassociation.org/competitions/ManchesterOpen2018) | [Glasgow Winter - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2024) |
 | 50 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [WGC Open 2014](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2014) | [Guildford Open 2020](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020) |
@@ -89,6 +89,7 @@
 | 46 | [Evan Wright](https://www.worldcubeassociation.org/persons/2017WRIG03) | [Howland High Fall 2017](https://www.worldcubeassociation.org/competitions/HowlandHighFall2017) |  |
 | 46 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Erciyes Weekend 2018](https://www.worldcubeassociation.org/competitions/ErciyesWeekend2018) | [100. Yıl MBA Cube Weekend 2023](https://www.worldcubeassociation.org/competitions/100YilMBACubeWeekend2023) |
 | 46 | [Joseph Ong](https://www.worldcubeassociation.org/persons/2018ONGJ01) | [Cubetcha 2018](https://www.worldcubeassociation.org/competitions/Cubetcha2018) | [Minnesota Meetup IV Tuesday 2024](https://www.worldcubeassociation.org/competitions/MinnesotaMeetupIVTuesday2024) |
+| 46 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) |  |
 | 45 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | [France 2010](https://www.worldcubeassociation.org/competitions/France2010) | [Coupe de l'AFS 2019](https://www.worldcubeassociation.org/competitions/CoupedelAFS2019) |
 | 45 | [Kevin Costello III](https://www.worldcubeassociation.org/persons/2012COST01) | [Berkeley Winter 2012](https://www.worldcubeassociation.org/competitions/BerkeleyWinter2012) | [Lexington Fall 2015](https://www.worldcubeassociation.org/competitions/LexingtonFall2015) |
 | 45 | [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) | [Viking Summer 2014](https://www.worldcubeassociation.org/competitions/VikingSummerOpen2014) | [Efterårscubing i Hvidovre 2023](https://www.worldcubeassociation.org/competitions/EfterarscubingiHvidovre2023) |
@@ -99,7 +100,6 @@
 | 45 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | [SnoCo Summer 2017](https://www.worldcubeassociation.org/competitions/SnoCoSummer2017) | [Bellevue CfC 2022](https://www.worldcubeassociation.org/competitions/BellevueCubingforChildrens2022) |
 | 45 | [Peter Weyers](https://www.worldcubeassociation.org/persons/2018WEYE01) | [Lions Cubing 2018](https://www.worldcubeassociation.org/competitions/LionsCubing2018) |  |
 | 45 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [Ekonomik Elektryk Cube Race 2018](https://www.worldcubeassociation.org/competitions/EkonomikElektrykCubeRace2018) | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
-| 45 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) |  |
 | 45 | [Lucas Lippman-Bruno](https://www.worldcubeassociation.org/persons/2022LIPP01) | [PAWS 2022](https://www.worldcubeassociation.org/competitions/PuzzlesAtWisconsinSpring2022) | [FMCats Wisconsin III 2024](https://www.worldcubeassociation.org/competitions/FMCatsWisconsinIII2024) |
 | 44 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | [Rutgers Fall 2006](https://www.worldcubeassociation.org/competitions/RutgersFall2006) |  |
 | 44 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Weston-super-Mare 2012](https://www.worldcubeassociation.org/competitions/WestonsuperMare2012) | [Vestegnen Open 2017](https://www.worldcubeassociation.org/competitions/VestegnenOpen2017) |

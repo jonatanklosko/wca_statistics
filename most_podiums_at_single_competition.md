@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 November 2024*
+*Updated on 10 November 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -956,6 +956,7 @@
 | 11 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [PSKG Premiere Cubing 2020](https://www.worldcubeassociation.org/competitions/PSKGPremiereCubing2020/results/podiums) |
 | 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020/results/podiums) |
 | 11 | [Vladislav Kaminskiy](https://www.worldcubeassociation.org/persons/2013KAMI03) | [PSU Open 2016](https://www.worldcubeassociation.org/competitions/PSUOpen2016/results/podiums) |
+| 10 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [PUCP Cubing Festival lll 2024](https://www.worldcubeassociation.org/competitions/PUCPCubingFestivallll2024/results/podiums) |
 | 10 | [Uriel Gayosso Ruiz](https://www.worldcubeassociation.org/persons/2007RUIZ01) | [Puebla Open 2009](https://www.worldcubeassociation.org/competitions/PueblaOpen2009/results/podiums) |
 | 13 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Pulmapelipäivät 2017](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2017/results/podiums) |
 | 12 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | [Pulmapelipäivät 2017](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2017/results/podiums) |

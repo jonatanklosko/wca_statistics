@@ -1,7 +1,7 @@
 ## World Championship records
 
 *Note: This is a list of the best results from all World Championships. It corresponds to Olympic records for Olympic sports.*
-*Updated on  7 November 2024*
+*Updated on 10 November 2024*
 
 
 ### Single
@@ -16,7 +16,7 @@
 | 7x7x7 Cube | 1:41.44 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 3x3x3 Blindfolded | 13.98 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 3x3x3 Fewest Moves | 19 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
-| 3x3x3 One-Handed | 6.45 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | Hong Kong, China | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 3x3x3 One-Handed | 6.45 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | Hong Kong, China | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | Megaminx | 26.00 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | New Zealand | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | Pyraminx | 1.13 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | China | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | Rubik's Clock | 2.97 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | United States | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |

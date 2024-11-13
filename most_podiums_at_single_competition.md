@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 November 2024*
+*Updated on 13 November 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -841,6 +841,7 @@
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019/results/podiums) |
 | 10 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Norrköping Open 2009](https://www.worldcubeassociation.org/competitions/NorrkopingOpen2009/results/podiums) |
+| 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norrlandsmästerskapet 2024](https://www.worldcubeassociation.org/competitions/Norrlandsmasterskapet2024/results/podiums) |
 | 12 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013/results/podiums) |
 | 11 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Northern Lights Open 2018](https://www.worldcubeassociation.org/competitions/NorthernLightsOpen2018/results/podiums) |
 | 11 | [Gustav Wälivaara](https://www.worldcubeassociation.org/persons/2016WALI01) | [Northern Lights Open 2018](https://www.worldcubeassociation.org/competitions/NorthernLightsOpen2018/results/podiums) |

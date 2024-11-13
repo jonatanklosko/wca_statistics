@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 November 2024*
+*Updated on 13 November 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -596,6 +596,7 @@
 | 4794 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
 | 4795 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 4809 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
+| 4838 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
 | 5134 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 5347 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 5503 | [Takuma Shirahase (白波瀬拓磨)](https://www.worldcubeassociation.org/persons/2007SHIR01) |

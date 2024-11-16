@@ -1,36 +1,36 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 November 2024*
+*Updated on 16 November 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1446** | 1224 | 1050 | 3720 |
 | United States | **1223** | 989 | 863 | 3075 |
 | Germany | **1179** | 1114 | 1128 | 3421 |
-| France | **1015** | 883 | 748 | 2646 |
-| Russia | **992** | 573 | 449 | 2014 |
+| France | **1021** | 885 | 748 | 2654 |
+| Russia | **992** | 573 | 448 | 2013 |
 | Netherlands | **982** | 794 | 672 | 2448 |
 | China | **807** | 776 | 681 | 2264 |
 | Poland | **671** | 439 | 341 | 1451 |
-| Malaysia | **461** | 470 | 439 | 1370 |
+| Malaysia | **461** | 472 | 439 | 1372 |
 | United Kingdom | **436** | 478 | 457 | 1371 |
 | Canada | **409** | 432 | 461 | 1302 |
 | Republic of Korea | **378** | 326 | 279 | 983 |
 | Switzerland | **360** | 448 | 348 | 1156 |
 | Hong Kong, China | **360** | 371 | 301 | 1032 |
 | Denmark | **360** | 304 | 252 | 916 |
-| India | **341** | 314 | 305 | 960 |
-| Italy | **329** | 325 | 290 | 944 |
+| India | **342** | 314 | 305 | 961 |
+| Italy | **333** | 325 | 294 | 952 |
 | Sweden | **318** | 373 | 378 | 1069 |
 | Australia | **294** | 146 | 98 | 538 |
 | Finland | **292** | 233 | 194 | 719 |
 | Ukraine | **270** | 282 | 303 | 855 |
 | Argentina | **265** | 185 | 151 | 601 |
 | Chinese Taipei | **232** | 206 | 206 | 644 |
-| Romania | **227** | 171 | 143 | 541 |
+| Romania | **228** | 172 | 143 | 543 |
 | Singapore | **214** | 205 | 224 | 643 |
-| Japan | **206** | 152 | 143 | 501 |
+| Japan | **206** | 154 | 143 | 503 |
 | Spain | **202** | 191 | 222 | 615 |
 | Indonesia | **196** | 176 | 142 | 514 |
 | Ireland | **179** | 85 | 75 | 339 |
@@ -73,7 +73,7 @@
 | Pakistan | **21** | 15 | 21 | 57 |
 | North Macedonia | **20** | 27 | 31 | 78 |
 | Mexico | **19** | 27 | 32 | 78 |
-| Bulgaria | **16** | 43 | 42 | 101 |
+| Bulgaria | **16** | 43 | 43 | 102 |
 | Macau, China | **15** | 23 | 34 | 72 |
 | Nicaragua | **14** | 5 | 10 | 29 |
 | Nigeria | **12** | 25 | 18 | 55 |

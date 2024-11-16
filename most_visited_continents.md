@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 13 November 2024*
+*Updated on 16 November 2024*
 
 | Continents | Person |
 | ---: | :--- |
@@ -145,10 +145,12 @@
 | 4 | [Sheldon Rego](https://www.worldcubeassociation.org/persons/2016REGO01) |
 | 4 | [Addison Heffernan](https://www.worldcubeassociation.org/persons/2016HEFF01) |
 | 4 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
+| 4 | [Hitoki Kidahashi (木田橋仁毅)](https://www.worldcubeassociation.org/persons/2016KIDA02) |
 | 4 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
 | 4 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) |
 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 4 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) |
+| 4 | [Mohammad Almoumen](https://www.worldcubeassociation.org/persons/2017ALMO03) |
 | 4 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
 | 4 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
 | 4 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |

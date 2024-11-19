@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 16 November 2024*
+*Updated on 19 November 2024*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 13533 |
+| 1.47 | World | 13542 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4385 |
+| 1.73 | Europe | 4389 |
 | 1.49 | South America | 1681 |
 | 1.47 | Oceania | 591 |
-| 1.41 | Asia | 2885 |
+| 1.41 | Asia | 2887 |
 | 1.30 | Africa | 162 |
-| 1.20 | North America | 3829 |
+| 1.20 | North America | 3832 |
 
 ### Countries
 
@@ -36,7 +36,7 @@
 | 1.91 | Serbia | 23 |
 | 1.90 | Hungary | 50 |
 | 1.88 | France | 308 |
-| 1.88 | Norway | 128 |
+| 1.88 | Norway | 129 |
 | 1.87 | United Kingdom | 262 |
 | 1.87 | Finland | 142 |
 | 1.86 | Spain | 373 |
@@ -63,11 +63,11 @@
 | 1.65 | Ireland | 69 |
 | 1.62 | Iran | 42 |
 | 1.61 | Italy | 228 |
-| 1.60 | Denmark | 186 |
+| 1.59 | Denmark | 189 |
 | 1.59 | Netherlands | 120 |
 | 1.59 | New Zealand | 124 |
 | 1.58 | Indonesia | 232 |
-| 1.58 | India | 594 |
+| 1.58 | India | 596 |
 | 1.57 | San Marino | 7 |
 | 1.56 | Greece | 32 |
 | 1.56 | Dominican Republic | 27 |
@@ -118,7 +118,7 @@
 | 1.18 | Armenia | 11 |
 | 1.17 | Canada | 389 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3069 |
+| 1.16 | United States | 3072 |
 | 1.13 | Azerbaijan | 46 |
 | 1.12 | Honduras | 17 |
 | 1.09 | Cyprus | 11 |

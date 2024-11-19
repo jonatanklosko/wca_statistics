@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 November 2024*
+*Updated on 19 November 2024*
 
 
 ### Rubik's Cube
@@ -192,8 +192,8 @@
 | 1.91 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | 1.50, 2.05, 1.63, 1.43, 1.52, 1.07, 4.60, 1.74, 1.12, 2.32, 1.92, 1.35, 1.96, 2.13, 2.51, 1.80, 5.23, 3.66, 1.69, 1.47, 1.62, 1.64, 3.19, 1.69, 1.32 |
 | 1.96 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.90, 1.65, 1.75, 1.41, 2.30, 2.22, 1.35, 1.81, 2.42, 2.47, 4.06, 1.98, 2.37, 1.89, 2.07, 1.65, 3.81, 2.34, 1.96, 1.28, 2.06, 1.67, 1.86, 1.49, 1.79 |
 | 2.04 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.98, 2.08, 2.57, 2.13, 3.29, 1.77, 1.85, 1.75, 4.09, 2.62, 2.32, 1.63, 1.99, 1.72, 2.70, 2.29, 1.82, 2.15, 1.53, 2.13, 1.82, 1.65, 1.59, 2.04, 1.91 |
+| 2.09 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | 2.13, 1.31, 2.00, 2.50, 2.74, 2.01, 1.84, 2.38, 2.36, 2.20, 4.42, 2.13, 1.65, 1.56, 1.91, 2.32, 1.99, 2.28, 1.97, 2.26, 3.69, 1.67, 1.50, 1.90, 2.17 |
 | 2.10 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | 1.45, 4.05, 2.14, 0.99, 1.63, 1.62, 1.62, 2.00, 1.74, 2.18, 1.38, 2.65, 3.96, 4.10, 3.16, 1.87, 2.34, 2.32, 1.80, 1.95, 1.94, 1.78, 1.93, 2.39, 1.64 |
-| 2.12 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | 1.65, 2.44, 1.94, 2.12, 2.06, 1.93, 2.21, 1.73, 1.54, 3.01, 3.19, 2.13, 1.31, 2.00, 2.50, 2.74, 2.01, 1.84, 2.38, 2.36, 2.20, 4.42, 2.13, 1.65, 1.56 |
 | 2.15 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 2.19, 2.47, 3.18, 1.95, 2.88, 1.70, 1.50, 2.27, 1.69, 1.75, 3.00, 2.68, 1.44, 1.77, 2.48, 2.04, 2.03, 1.48, 1.44, 5.38, 3.05, 1.94, 4.21, 1.53, 1.63 |
 | 2.18 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.77, 2.41, 2.86, 5.26, 2.01, 1.89, 2.34, 2.48, 3.10, 2.88, 1.59, 3.23, 1.67, 2.00, 1.93, 1.60, 2.05, 1.64, 3.34, 1.57, 1.25, 1.52, 2.63, 1.48, 2.64 |
 | 2.21 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 2.08, 2.10, 2.37, 1.90, 2.32, 2.00, 2.77, 2.25, 1.94, 2.15, 2.26, 2.18, 2.05, 2.52, 2.31, 3.74, 2.31, 2.37, 2.12, 2.46, 1.46, 2.15, 4.65, 1.66, 1.70 |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 
 ### Rubik's Cube
@@ -85,13 +85,13 @@
 | 25.01 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019TARA09) |
 | 25.35 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/by_person#2016YONG02) |
 | 25.57 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
+| 25.64 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Rosario 2024](https://www.worldcubeassociation.org/competitions/Rosario2024/results/by_person#2018LOPE22) |
 | 25.69 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Masters 2023](https://www.worldcubeassociation.org/competitions/SingaporeMasters2023/results/by_person#2016YONG02) |
 | 25.69 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023/results/by_person#2018LOPE22) |
 | 25.71 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Shenzhen Open 2023](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2023/results/by_person#2016WUZI04) |
 | 25.79 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
 | 25.79 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Masters 2023](https://www.worldcubeassociation.org/competitions/SingaporeMasters2023/results/by_person#2016YONG02) |
 | 25.79 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024/results/by_person#2016WUZI04) |
-| 25.81 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Lomas de Zamora 2024](https://www.worldcubeassociation.org/competitions/LomasdeZamora2024/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 

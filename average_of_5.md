@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 
 ### Rubik's Cube
@@ -102,8 +102,8 @@
 | 14.42 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | 14.89, 14.55, 18.28, 13.73, 13.81 |
 | 15.64 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | DNF, 15.23, 15.83, 14.87, 15.87 |
 | 15.98 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 14.52, 15.23, 17.90, 18.57, 14.82 |
+| 16.17 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 18.22, 15.83, 16.95, 15.72, 15.39 |
 | 16.70 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 16.30, 15.65, DNF, 16.35, 17.45 |
-| 16.77 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | DNF, 16.30, 16.71, 15.66, 17.31 |
 | 16.83 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | 16.83, 16.09, DNF, 16.49, 17.18 |
 | 17.25 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | 17.88, 19.54, 16.64, 16.03, 17.22 |
 | 17.64 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | DNF, 17.94, 16.15, 18.60, 16.37 |

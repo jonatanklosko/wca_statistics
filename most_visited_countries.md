@@ -1,16 +1,16 @@
 ## Most visited countries
 
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 | Countries | Person |
 | ---: | :--- |
 | 73 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 54 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 42 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 40 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 43 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 40 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
-| 39 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
+| 40 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 40 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 34 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
@@ -27,11 +27,11 @@
 | 25 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 24 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 24 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 24 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 24 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 24 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 23 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 23 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 22 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 22 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
@@ -39,8 +39,8 @@
 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 22 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 21 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 21 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
+| 21 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 20 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 20 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |

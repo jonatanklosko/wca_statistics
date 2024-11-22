@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -152,6 +152,7 @@
 | 9 | [Arena Bernô 6 City FM 2024](https://www.worldcubeassociation.org/competitions/ArenaBerno6CityFM2024) |
 | 9 | [Avalon 2013](https://www.worldcubeassociation.org/competitions/AvalonOpen2013) |
 | 9 | [Back to Cambridge B 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeB2021) |
+| 9 | [Barberton Mini 4 2024](https://www.worldcubeassociation.org/competitions/BarbertonMini42024) |
 | 9 | [Big & Blind Pretoria 2024](https://www.worldcubeassociation.org/competitions/BigBlindPretoria2024) |
 | 9 | [Bogor Open 2013](https://www.worldcubeassociation.org/competitions/BogorOpen2013) |
 | 9 | [Bucharest Mega Blind May 2024](https://www.worldcubeassociation.org/competitions/BucharestMegaBlindMay2024) |
@@ -204,6 +205,7 @@
 | 9 | [TKTK Side Events II 2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsII2024) |
 | 9 | [Try Not To DNF Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryNotToDNFRzeszow2023) |
 | 9 | [Waikato Autumn Open 2010](https://www.worldcubeassociation.org/competitions/WaikatoAutumnOpen2010) |
+| 9 | [Warsaw FMC Tour II Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIIThursday2024) |
 | 10 | [2 Rounds of FMC in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/2RoundsofFMCinRzeszow2023) |
 | 10 | [5BLD Madness Suwon 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSuwon2024) |
 | 10 | [ACA League II 2019](https://www.worldcubeassociation.org/competitions/ACALeagueII2019) |
@@ -249,6 +251,7 @@
 | 10 | [İstanbul FMC and BLD 2019](https://www.worldcubeassociation.org/competitions/IstanbulFMCandBLD2019) |
 | 10 | [It's Blind Time Montevideo 2023](https://www.worldcubeassociation.org/competitions/ItsBlindTimeMontevideo2023) |
 | 10 | [JAM PBQ I 2023](https://www.worldcubeassociation.org/competitions/JAMPBQI2023) |
+| 10 | [Jogjakarta FMC Masters 2024](https://www.worldcubeassociation.org/competitions/JogjakartaFMCMasters2024) |
 | 10 | [Jogja Mini 2015](https://www.worldcubeassociation.org/competitions/JogjaMini2015) |
 | 10 | [Jönköpingsligan 2: Diggiloo 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan2Diggiloo2023) |
 | 10 | [Jönköpingsligan 4: Heaven 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan4Heaven2023) |

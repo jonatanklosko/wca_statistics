@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 
 ### Rubik's Cube
@@ -116,8 +116,8 @@
 | 21.00 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 20, 23, 24, 18, 23, 20, 21, 21, 21, 22, 18, 21 |
 | 21.50 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 21, 21, 21, DNF, 22, 21, 20, 22, 24, 21, 20, 22 |
 | 21.80 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 23, 22, 23, 21, 22, 21, 20, 22, 24, 19, 22, 22 |
+| 21.90 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 21, 21, 24, 23, 21, 21, 22, 22, 21, 24, 23, 21 |
 | 22.00 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 22, 22, 22, 24, 26, 24, 19, 23, 20, 21, 23, 19 |
-| 22.00 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 21, 24, 21, 22, 25, 20, 26, 22, 21, 22, 19, 22 |
 | 22.10 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 21, 21, 24, 23, 23, 22, 22, 24, 24, 19, 20, 21 |
 | 22.10 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 25, 27, 20, 23, 21, 23, 23, 22, 20, 21, 22, 21 |
 | 22.20 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 20, 22, 21, 23, 24, 22, 21, 24, 17, 22, 24, 23 |

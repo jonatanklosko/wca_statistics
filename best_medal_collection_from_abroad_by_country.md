@@ -1,35 +1,35 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1446** | 1224 | 1050 | 3720 |
 | United States | **1239** | 995 | 867 | 3101 |
-| Germany | **1184** | 1119 | 1134 | 3437 |
-| France | **1022** | 887 | 749 | 2658 |
+| Germany | **1184** | 1119 | 1135 | 3438 |
+| France | **1022** | 887 | 750 | 2659 |
 | Russia | **992** | 573 | 450 | 2015 |
 | Netherlands | **982** | 794 | 672 | 2448 |
-| China | **810** | 780 | 681 | 2271 |
+| China | **815** | 792 | 686 | 2293 |
 | Poland | **671** | 439 | 341 | 1451 |
-| Malaysia | **461** | 472 | 439 | 1372 |
+| Malaysia | **461** | 472 | 440 | 1373 |
 | United Kingdom | **436** | 478 | 457 | 1371 |
 | Canada | **410** | 434 | 463 | 1307 |
 | Republic of Korea | **378** | 326 | 279 | 983 |
 | Switzerland | **361** | 448 | 348 | 1157 |
-| Hong Kong, China | **360** | 371 | 301 | 1032 |
+| Hong Kong, China | **360** | 372 | 301 | 1033 |
 | Denmark | **360** | 304 | 252 | 916 |
-| India | **343** | 315 | 306 | 964 |
+| India | **343** | 315 | 307 | 965 |
 | Italy | **334** | 327 | 294 | 955 |
 | Sweden | **318** | 373 | 378 | 1069 |
-| Australia | **298** | 150 | 101 | 549 |
+| Australia | **298** | 150 | 102 | 550 |
 | Finland | **292** | 233 | 194 | 719 |
 | Ukraine | **270** | 282 | 303 | 855 |
 | Argentina | **266** | 185 | 153 | 604 |
 | Chinese Taipei | **232** | 206 | 206 | 644 |
 | Romania | **228** | 172 | 143 | 543 |
-| Singapore | **214** | 205 | 224 | 643 |
+| Singapore | **215** | 205 | 224 | 644 |
 | Japan | **206** | 154 | 144 | 504 |
 | Spain | **202** | 191 | 222 | 615 |
 | Indonesia | **196** | 176 | 142 | 514 |
@@ -56,7 +56,7 @@
 | Brazil | **65** | 83 | 60 | 208 |
 | Jordan | **62** | 16 | 18 | 96 |
 | Estonia | **61** | 67 | 58 | 186 |
-| New Zealand | **53** | 76 | 62 | 191 |
+| New Zealand | **53** | 77 | 62 | 192 |
 | Israel | **44** | 42 | 49 | 135 |
 | Kosovo | **39** | 28 | 24 | 91 |
 | Iran | **37** | 28 | 23 | 88 |
@@ -78,7 +78,7 @@
 | Nicaragua | **14** | 5 | 10 | 29 |
 | Nigeria | **12** | 25 | 18 | 55 |
 | Bolivia | **12** | 18 | 28 | 58 |
-| Morocco | **11** | 13 | 13 | 37 |
+| Morocco | **12** | 14 | 13 | 39 |
 | Uruguay | **11** | 8 | 18 | 37 |
 | Bosnia and Herzegovina | **10** | 23 | 14 | 47 |
 | Turkey | **10** | 17 | 17 | 44 |

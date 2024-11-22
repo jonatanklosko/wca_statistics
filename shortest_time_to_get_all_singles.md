@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -465,6 +465,7 @@
 | 2323 | [Can Mao (毛灿)](https://www.worldcubeassociation.org/persons/2010MAOC01) |
 | 2323 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
 | 2331 | [Lakshmi Sai Srivatsa](https://www.worldcubeassociation.org/persons/2017SRIV11) |
+| 2338 | [Saul Emmanuel Ramirez Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ21) |
 | 2351 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
 | 2352 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) |
 | 2359 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) |
@@ -501,6 +502,7 @@
 | 2633 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 2639 | [Kalyani H. Kiran](https://www.worldcubeassociation.org/persons/2017KIRA01) |
 | 2659 | [Marike Faught](https://www.worldcubeassociation.org/persons/2015FAUG01) |
+| 2682 | [Carlos Villanueva](https://www.worldcubeassociation.org/persons/2017VILL30) |
 | 2694 | [Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02) |
 | 2695 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 2695 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) |
@@ -544,6 +546,7 @@
 | 3158 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 3170 | [Luboš Bartík](https://www.worldcubeassociation.org/persons/2015BART01) |
 | 3198 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
+| 3277 | [Ben Bergen](https://www.worldcubeassociation.org/persons/2015BERG10) |
 | 3290 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
 | 3304 | [Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01) |
 | 3310 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
@@ -577,6 +580,7 @@
 | 3723 | [António Gomes](https://www.worldcubeassociation.org/persons/2014GOME07) |
 | 3739 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 3752 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
+| 3766 | [Luis Sinhue Medina Salas](https://www.worldcubeassociation.org/persons/2014SALA15) |
 | 3782 | [Kevin Arturo Huamán Ruiz](https://www.worldcubeassociation.org/persons/2014RUIZ10) |
 | 3787 | [Gabriele Bacchieri](https://www.worldcubeassociation.org/persons/2014BACC01) |
 | 3912 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |

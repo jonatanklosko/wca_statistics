@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 | WRs | Person |
 | ---: | :--- |

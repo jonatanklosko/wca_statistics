@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1001,6 +1001,7 @@
 | 11 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Romanian Rubik Open 2017](https://www.worldcubeassociation.org/competitions/RomanianRubikOpen2017/results/podiums) |
 | 11 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Romanian Rubik Open 2017](https://www.worldcubeassociation.org/competitions/RomanianRubikOpen2017/results/podiums) |
 | 12 | [Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01) | [Roma Open 2011](https://www.worldcubeassociation.org/competitions/RomaOpen2011/results/podiums) |
+| 14 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Rosario 2024](https://www.worldcubeassociation.org/competitions/Rosario2024/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Roskilde For Alle 2023](https://www.worldcubeassociation.org/competitions/RoskildeForAlle2023/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Royal Corner Twist 2018](https://www.worldcubeassociation.org/competitions/RoyalCornerTwist2018/results/podiums) |
 | 13 | [Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02) | [Xela 2015](https://www.worldcubeassociation.org/competitions/RubiksXelaOpen2015/results/podiums) |

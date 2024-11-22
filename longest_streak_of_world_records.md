@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -18,7 +18,7 @@
 | 8 | 3x3x3 Multi-Blind | Single | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | [Keep Portland Quiet 2018](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2018) | 5.73 |
 | 7 | Rubik's Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Day 2010](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2010) | [Zonhoven Open 2013](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2013) | 2.30 |
 | 7 | 5x5x5 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024) | 6.34 |
-| 6 | Rubik's Cube | Average | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) |  | 1.70 |
+| 6 | Rubik's Cube | Average | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) |  | 1.71 |
 | 6 | 2x2x2 Cube | Average | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Empire State Summer B 2021](https://www.worldcubeassociation.org/competitions/EmpireStateSummerB2021) | [Twist & Fries Johor Bahru 2024](https://www.worldcubeassociation.org/competitions/TwistFriesJohorBahru2024) | 2.57 |
 | 6 | 7x7x7 Cube | Average | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | [Hefei Spring 2012](https://www.worldcubeassociation.org/competitions/HefeiSpring2012) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) | 1.38 |
 | 6 | 3x3x3 Blindfolded | Single | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) | [Beijing Metropolis Open 2009](https://www.worldcubeassociation.org/competitions/BeijingMetropolisOpen2009) | [Tulancingo Open 2010](https://www.worldcubeassociation.org/competitions/TulancingoOpen2010) | 1.61 |
@@ -80,7 +80,7 @@
 | 3 | Megaminx | Single | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [US Nationals 2016](https://www.worldcubeassociation.org/competitions/USNationals2016) | [Busan Winter 2016](https://www.worldcubeassociation.org/competitions/BusanWinter2016) | 0.37 |
 | 3 | Megaminx | Average | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | [US Nationals 2016](https://www.worldcubeassociation.org/competitions/USNationals2016) | [Busan Winter 2016](https://www.worldcubeassociation.org/competitions/BusanWinter2016) | 0.37 |
 | 3 | Pyraminx | Average | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) | [Cube Camp in Kanazawa 2010](https://www.worldcubeassociation.org/competitions/CubeCampKanazawa2010) | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011) | 0.67 |
-| 3 | Pyraminx | Average | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024) |  | 0.72 |
+| 3 | Pyraminx | Average | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024) |  | 0.73 |
 | 3 | Rubik's Clock | Single | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | [German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004) | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007) | 3.22 |
 | 3 | Rubik's Clock | Average | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | [German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004) | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007) | 3.22 |
 | 3 | Rubik's Clock | Average | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) | [Asian Championship 2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014) | 1.27 |
@@ -140,7 +140,7 @@
 | 2 | 6x6x6 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2015](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2015) | [Asian Championship 2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016) | 0.90 |
 | 2 | 6x6x6 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2016](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2016) | [Lexington Summer 2017](https://www.worldcubeassociation.org/competitions/LexingtonSummer2017) | 0.65 |
 | 2 | 6x6x6 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) | 0.52 |
-| 2 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |  | 0.34 |
+| 2 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |  | 0.35 |
 | 2 | 7x7x7 Cube | Single | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Czech Open 2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010) | 0.18 |
 | 2 | 7x7x7 Cube | Single | [Vladislav Shavelskiy](https://www.worldcubeassociation.org/persons/2012SHAV01) | [CCC Autumn Open 2014](https://www.worldcubeassociation.org/competitions/CCCAutumnOpen2014) | [Speed Days Kraśnik 2015](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2015) | 0.65 |
 | 2 | 7x7x7 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018) | 0.67 |

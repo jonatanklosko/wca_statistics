@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 
 ### Rubik's Cube
@@ -172,9 +172,9 @@
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 17 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 15 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 13 |
+| [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 13 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 12 |
-| [Noah Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) | 12 |
-| [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 12 |
+| [Noa Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) | 12 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 11 |
 | [Sreeram Venkatarao](https://www.worldcubeassociation.org/persons/2008VENK01) | 11 |
 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | 11 |
@@ -185,7 +185,7 @@
 | :--- | ---: |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 53 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 27 |
-| [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 24 |
+| [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 25 |
 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | 19 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 18 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 17 |
@@ -194,15 +194,15 @@
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 15 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 14 |
 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) | 14 |
+| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 14 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | 13 |
 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 13 |
-| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 13 |
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | 12 |
 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 12 |
 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | 12 |
 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) | 10 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 10 |
-| [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | 9 |
+| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 10 |
 
 ### 3x3x3 One-Handed
 
@@ -235,8 +235,8 @@
 | :--- | ---: |
 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 57 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 36 |
+| [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 28 |
 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 27 |
-| [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 27 |
 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 26 |
 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | 23 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | 22 |

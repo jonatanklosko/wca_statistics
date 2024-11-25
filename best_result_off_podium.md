@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 22 November 2024*
+*Updated on 25 November 2024*
 
 
 ### Rubik's Cube
@@ -113,16 +113,16 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 20 | **21.00** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 4 |
 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 19 | **21.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 4 |
 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 20 | **22.00** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 4 |
+| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 20 | **22.00** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 5 |
 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 19 | **22.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 5 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 21 | **22.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 6 |
+| [Vasco Vasconcelos](https://www.worldcubeassociation.org/persons/2008VASC01) | 19 | **22.67** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 6 |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 21 | **22.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 7 |
 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 22 | **22.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 5 |
 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | 22 | **22.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 5 |
-| [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 22 | **22.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 8 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 21 | **23.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 4 |
-| [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | 21 | **23.00** | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024/results/all#e333fm_f) | 4 |
 
 ### 3x3x3 One-Handed
 

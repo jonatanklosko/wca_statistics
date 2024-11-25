@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 22 November 2024*
+*Updated on 25 November 2024*
 
 | WRs | Person |
 | ---: | :--- |
@@ -263,6 +263,7 @@
 | 1 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2009TOMC01) |
 | 1 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 1 | [Quinn Lewis](https://www.worldcubeassociation.org/persons/2005LEWI01) |
+| 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 1 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 1 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) |
 | 1 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) |

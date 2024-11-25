@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 November 2024*
+*Updated on 25 November 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1112,6 +1112,7 @@
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [SSL V Uppsala 2023](https://www.worldcubeassociation.org/competitions/SSLVUppsala2023/results/podiums) |
 | 10 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [SSL V Uppsala 2023](https://www.worldcubeassociation.org/competitions/SSLVUppsala2023/results/podiums) |
 | 14 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [SSN Cube Open 2018](https://www.worldcubeassociation.org/competitions/SSNCubeOpen2018/results/podiums) |
+| 12 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Stekt Falukorv Open 2024](https://www.worldcubeassociation.org/competitions/StektFalukorvOpen2024/results/podiums) |
 | 11 | [Andre Febriato Jonathan](https://www.worldcubeassociation.org/persons/2011JONA01) | [Sumatra Open 2016](https://www.worldcubeassociation.org/competitions/SumatraOpen2016/results/podiums) |
 | 10 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | [Sumatra Open 2016](https://www.worldcubeassociation.org/competitions/SumatraOpen2016/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Sumatra Open 2016](https://www.worldcubeassociation.org/competitions/SumatraOpen2016/results/podiums) |
@@ -1191,6 +1192,8 @@
 | 10 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Winter Open Day 2017](https://www.worldcubeassociation.org/competitions/TunisiaWinterOpenDay2017/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Cubing Tour Ankara 2020](https://www.worldcubeassociation.org/competitions/TurkishCubingTourAnkara2020/results/podiums) |
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Nationals 2023](https://www.worldcubeassociation.org/competitions/TurkishNationals2023/results/podiums) |
+| 14 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Turkish Nationals 2024](https://www.worldcubeassociation.org/competitions/TurkishNationals2024/results/podiums) |
+| 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Nationals 2024](https://www.worldcubeassociation.org/competitions/TurkishNationals2024/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Summer 2020](https://www.worldcubeassociation.org/competitions/TurkishSummer2020/results/podiums) |
 | 10 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Turning in Townsville 2022](https://www.worldcubeassociation.org/competitions/TurninginTownsville2022/results/podiums) |
 | 12 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Turning in Townsville 2024](https://www.worldcubeassociation.org/competitions/TurninginTownsville2024/results/podiums) |

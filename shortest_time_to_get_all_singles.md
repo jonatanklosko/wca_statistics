@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 November 2024*
+*Updated on 25 November 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -503,6 +503,7 @@
 | 2639 | [Kalyani H. Kiran](https://www.worldcubeassociation.org/persons/2017KIRA01) |
 | 2659 | [Marike Faught](https://www.worldcubeassociation.org/persons/2015FAUG01) |
 | 2682 | [Carlos Villanueva](https://www.worldcubeassociation.org/persons/2017VILL30) |
+| 2688 | [Aris Raksamani (อริศม์ รักษมณี)](https://www.worldcubeassociation.org/persons/2017RAKS01) |
 | 2694 | [Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02) |
 | 2695 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 2695 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) |
@@ -567,6 +568,7 @@
 | 3388 | [Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02) |
 | 3437 | [Carlos Pedro Casado de Achával](https://www.worldcubeassociation.org/persons/2012ACHA01) |
 | 3452 | [Luis Gabriel Magadia](https://www.worldcubeassociation.org/persons/2014MAGA04) |
+| 3493 | [Ethan Rusnak](https://www.worldcubeassociation.org/persons/2015RUSN01) |
 | 3528 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 3535 | [Vasile Dan](https://www.worldcubeassociation.org/persons/2013VASI02) |
 | 3541 | [Jason Hammerman](https://www.worldcubeassociation.org/persons/2014HAMM01) |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 November 2024*
+*Updated on 25 November 2024*
 
 
 ### Rubik's Cube
@@ -88,11 +88,11 @@
 | 0.07 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3:02.84 | 3:02.91 | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023/results/by_person#2013OWCZ01) |
 | 0.08 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 3:13.56 | 3:13.64 | [Dutch Open 2018](https://www.worldcubeassociation.org/competitions/DutchOpen2018/results/by_person#2007VALK01) |
 | 0.09 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 5:14.66 | 5:14.75 | [Eat Sleep Cube Repeat 2014](https://www.worldcubeassociation.org/competitions/EatSleepCubeRepeat2014/results/by_person#2008AURO01) |
+| 0.10 | [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | 3:23.59 | 3:23.69 | [UCSD Fall 2024](https://www.worldcubeassociation.org/competitions/UCSDFall2024/results/by_person#2011GROG02) |
 | 0.10 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) | 6:25.15 | 6:25.25 | [Oregon 2016](https://www.worldcubeassociation.org/competitions/Oregon2016/results/by_person#2007WOOR01) |
 | 0.11 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2:17.68 | 2:17.79 | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/by_person#2019YANG94) |
 | 0.11 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 3:07.96 | 3:08.07 | [Albany Fall 2019](https://www.worldcubeassociation.org/competitions/AlbanyFall2019/results/by_person#2011FERA01) |
 | 0.12 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | 2:36.76 | 2:36.88 | [Hamchang Open 2023](https://www.worldcubeassociation.org/competitions/HamchangOpen2023/results/by_person#2014KIMD06) |
-| 0.12 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 2:51.57 | 2:51.69 | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023/results/by_person#2020REJD01) |
 
 ### 3x3x3 Blindfolded
 
@@ -106,8 +106,8 @@
 | 0.11 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 1:12.09 | 1:12.20 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2020BERM02) |
 | 0.12 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | 54.67 | 54.79 | [Oulu Open 2022](https://www.worldcubeassociation.org/competitions/OuluOpen2022/results/by_person#2014VIKS01) |
 | 0.13 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | 36.81 | 36.94 | [Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017/results/by_person#2014ZHAO12) |
+| 0.14 | [Ahmet Faruk Acar](https://www.worldcubeassociation.org/persons/2022ACAR01) | 20.72 | 20.86 | [Turkish Nationals 2024](https://www.worldcubeassociation.org/competitions/TurkishNationals2024/results/by_person#2022ACAR01) |
 | 0.14 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 23.32 | 23.46 | [BrizZon Side Open V 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2023/results/by_person#2020BARA02) |
-| 0.14 | [Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02) | 41.36 | 41.50 | [Wonderful Williamstown 2022](https://www.worldcubeassociation.org/competitions/WonderfulWilliamstown2022/results/by_person#2015SRIN02) |
 
 ### 3x3x3 One-Handed
 

@@ -7,18 +7,18 @@
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 13574 |
+| 1.47 | World | 13583 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4398 |
+| 1.73 | Europe | 4402 |
 | 1.49 | South America | 1684 |
-| 1.47 | Oceania | 595 |
-| 1.41 | Asia | 2892 |
+| 1.46 | Oceania | 596 |
+| 1.41 | Asia | 2894 |
 | 1.30 | Africa | 162 |
-| 1.20 | North America | 3843 |
+| 1.20 | North America | 3845 |
 
 ### Countries
 
@@ -35,12 +35,12 @@
 | 1.92 | Lithuania | 25 |
 | 1.91 | Serbia | 23 |
 | 1.90 | Hungary | 50 |
-| 1.88 | France | 309 |
+| 1.88 | France | 310 |
 | 1.87 | United Kingdom | 262 |
 | 1.87 | Norway | 130 |
 | 1.87 | Finland | 142 |
 | 1.86 | Kyrgyzstan | 7 |
-| 1.86 | Spain | 374 |
+| 1.86 | Spain | 375 |
 | 1.85 | Croatia | 27 |
 | 1.84 | Slovakia | 43 |
 | 1.83 | Switzerland | 121 |
@@ -63,11 +63,11 @@
 | 1.66 | Ireland | 70 |
 | 1.62 | Iran | 42 |
 | 1.61 | Italy | 230 |
-| 1.59 | Denmark | 189 |
+| 1.59 | Denmark | 190 |
 | 1.59 | Netherlands | 121 |
 | 1.58 | New Zealand | 127 |
 | 1.58 | Indonesia | 232 |
-| 1.58 | India | 598 |
+| 1.58 | India | 599 |
 | 1.57 | San Marino | 7 |
 | 1.56 | Greece | 32 |
 | 1.56 | Dominican Republic | 27 |
@@ -77,12 +77,12 @@
 | 1.50 | Belize | 2 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Madagascar | 2 |
+| 1.49 | Latvia | 35 |
 | 1.48 | Peru | 220 |
-| 1.47 | Latvia | 34 |
 | 1.46 | Bulgaria | 24 |
 | 1.45 | South Africa | 82 |
 | 1.45 | Nepal | 20 |
-| 1.43 | Australia | 468 |
+| 1.43 | Australia | 469 |
 | 1.43 | Jordan | 14 |
 | 1.43 | Nigeria | 7 |
 | 1.41 | Bangladesh | 17 |
@@ -96,9 +96,9 @@
 | 1.36 | Vietnam | 69 |
 | 1.33 | Paraguay | 33 |
 | 1.33 | Tajikistan | 3 |
-| 1.32 | Hong Kong, China | 22 |
 | 1.31 | Colombia | 363 |
 | 1.31 | Republic of Korea | 106 |
+| 1.30 | Hong Kong, China | 23 |
 | 1.30 | Kuwait | 10 |
 | 1.29 | Philippines | 323 |
 | 1.29 | Andorra | 7 |
@@ -118,7 +118,7 @@
 | 1.18 | Armenia | 11 |
 | 1.17 | Canada | 389 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3082 |
+| 1.16 | United States | 3084 |
 | 1.13 | Azerbaijan | 46 |
 | 1.12 | Honduras | 17 |
 | 1.09 | Cyprus | 11 |

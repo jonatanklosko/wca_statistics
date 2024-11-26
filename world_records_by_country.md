@@ -5,7 +5,7 @@
 | WRs | Country |
 | ---: | :--- |
 | 363 | United States |
-| 133 | Australia |
+| 134 | Australia |
 | 120 | Poland |
 | 112 | China |
 | 73 | Japan |

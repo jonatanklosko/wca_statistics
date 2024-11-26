@@ -216,6 +216,7 @@
 | 11 | [Pavel Yushkevich](https://www.worldcubeassociation.org/persons/2013YUSH01) | [BSU Cubing Days 2016](https://www.worldcubeassociation.org/competitions/BSUCubingDays2016/results/podiums) |
 | 10 | [Vladislav Kaminskiy](https://www.worldcubeassociation.org/persons/2013KAMI03) | [BSU Cubing Days 2017](https://www.worldcubeassociation.org/competitions/BSUCubingDays2017/results/podiums) |
 | 11 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Bucaramanga Cultural 2017](https://www.worldcubeassociation.org/competitions/BucaramangaCultural2017/results/podiums) |
+| 10 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | [Budapest Special 2024](https://www.worldcubeassociation.org/competitions/BudapestSpecial2024/results/podiums) |
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Budapest Summer 2024](https://www.worldcubeassociation.org/competitions/BudapestSummer2024/results/podiums) |
 | 13 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Bulldog Qualifier 2019](https://www.worldcubeassociation.org/competitions/BulldogQualifier2019/results/podiums) |
 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Burjassot Open 2023](https://www.worldcubeassociation.org/competitions/BurjassotOpen2023/results/podiums) |
@@ -604,6 +605,8 @@
 | 10 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Imaginalia Open 2018](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2018/results/podiums) |
 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Imbabura Open 2023](https://www.worldcubeassociation.org/competitions/ImbaburaOpen2023/results/podiums) |
 | 10 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Indiana 2019](https://www.worldcubeassociation.org/competitions/Indiana2019/results/podiums) |
+| 16 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Indiana Championship 2024](https://www.worldcubeassociation.org/competitions/IndianaChampionship2024/results/podiums) |
+| 10 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | [Indiana Championship 2024](https://www.worldcubeassociation.org/competitions/IndianaChampionship2024/results/podiums) |
 | 12 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | [Indiana Winter 2010](https://www.worldcubeassociation.org/competitions/IndianaWinter2010/results/podiums) |
 | 11 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [Indian Cube Challenge 2013](https://www.worldcubeassociation.org/competitions/IndianCubeChallenge2013/results/podiums) |
 | 11 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [ICC 2014](https://www.worldcubeassociation.org/competitions/IndianCubeChallenge2014/results/podiums) |

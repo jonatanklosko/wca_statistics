@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 November 2024*
+*Updated on 26 November 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -52,9 +52,9 @@
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 102 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 102 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
+| 102 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 101 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 101 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
-| 100 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 99 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 98 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 96 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |

@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 25 November 2024*
+*Updated on 26 November 2024*
 
 
 ### Rubik's Cube

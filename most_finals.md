@@ -1,12 +1,12 @@
 ## Most finals
 
-*Updated on 25 November 2024*
+*Updated on 26 November 2024*
 
 | Finals | Person |
 | ---: | :--- |
 | 2389 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 2358 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 2352 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 2351 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 2131 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 1730 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 1676 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -29,8 +29,8 @@
 | 1249 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1238 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1228 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 1206 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1200 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
-| 1200 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1185 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 1168 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1146 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |

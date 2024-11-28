@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 26 November 2024*
+*Updated on 28 November 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -21,6 +21,7 @@
 | 917 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
 | 924 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 929 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
+| 1021 | [Nathan Benson](https://www.worldcubeassociation.org/persons/2022BENS01) |
 | 1036 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 1085 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 1127 | [Elias Lampert](https://www.worldcubeassociation.org/persons/2021LAMP01) |

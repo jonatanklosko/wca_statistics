@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 26 November 2024*
+*Updated on 28 November 2024*
 
 
 ### Rubik's Cube
@@ -148,10 +148,10 @@
 | 4.33 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
 | 4.35 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Tri-State Corner Comms PA 2024](https://www.worldcubeassociation.org/competitions/TriStateCornerCommsPA2024/results/by_person#2018KHAN26) |
 | 4.35 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Fall 2024](https://www.worldcubeassociation.org/competitions/DFWCubingFall2024/results/by_person#2019BAUM02) |
+| 4.36 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Texas Championship 2024](https://www.worldcubeassociation.org/competitions/TexasChampionship2024/results/by_person#2019BAUM02) |
 | 4.40 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube More in Ardmore 2024](https://www.worldcubeassociation.org/competitions/CubeMoreinArdmore2024/results/by_person#2019BAUM02) |
 | 4.40 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023/results/by_person#2021DUNA01) |
 | 4.43 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/by_person#2019BAUM02) |
-| 4.45 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube in Denton 2024](https://www.worldcubeassociation.org/competitions/CubeWithRetentioninDenton2024/results/by_person#2019BAUM02) |
 
 ### 3x3x3 With Feet
 

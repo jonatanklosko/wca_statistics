@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 26 November 2024*
+*Updated on 28 November 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1166,6 +1166,7 @@
 | 10 | [Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15) | [TCG Spring 2019](https://www.worldcubeassociation.org/competitions/TCGSpring2019/results/podiums) |
 | 11 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | [Teresina Open 2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019/results/podiums) |
 | 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2023](https://www.worldcubeassociation.org/competitions/TexasChampionship2023/results/podiums) |
+| 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2024](https://www.worldcubeassociation.org/competitions/TexasChampionship2024/results/podiums) |
 | 12 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | [Thailand 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Thailand10thAnniversary2019/results/podiums) |
 | 11 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Thailand Championship 2014](https://www.worldcubeassociation.org/competitions/ThailandChampionship2014/results/podiums) |
 | 12 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | [Thailand Championship 2015](https://www.worldcubeassociation.org/competitions/ThailandChampionship2015/results/podiums) |

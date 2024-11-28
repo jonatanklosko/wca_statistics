@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 26 November 2024*
+*Updated on 28 November 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -79,13 +79,13 @@
 | 875 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 867 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 865 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
-| 862 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
-| 862 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
+| 863 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 862 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
+| 862 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
+| 862 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 856 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 852 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 850 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
-| 847 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 846 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 846 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 838 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
@@ -94,10 +94,10 @@
 | 831 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 826 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 825 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
+| 824 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 823 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
-| 823 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
+| 822 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 818 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
-| 817 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 817 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 817 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 808 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |

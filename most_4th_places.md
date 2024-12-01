@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 28 November 2024*
+*Updated on  1 December 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -22,9 +22,9 @@
 | 143 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 136 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 129 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 126 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 124 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 124 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
-| 124 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 123 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 119 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 119 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
@@ -41,14 +41,14 @@
 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 105 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 105 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
-| 104 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 104 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 104 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
+| 104 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 104 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 104 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 103 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 103 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 103 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
+| 103 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 102 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 102 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
@@ -56,19 +56,19 @@
 | 101 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 101 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 99 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
+| 98 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 98 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
-| 96 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
-| 96 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 96 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
+| 96 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 95 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 94 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 94 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 94 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 93 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 93 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 92 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
-| 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 92 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
+| 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
+| 92 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
 | 91 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 90 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 88 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |

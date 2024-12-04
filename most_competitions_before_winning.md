@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 
 ### Rubik's Cube
@@ -39,6 +39,7 @@
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 146 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Weekend Madness in Yerevan 2024](https://www.worldcubeassociation.org/competitions/WeekendMadnessinYerevan2024) |
+| 141 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
 | 127 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Bornholm Open 2024](https://www.worldcubeassociation.org/competitions/BornholmOpen2024) |
 | 116 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [Málaga Al Cubo 2024](https://www.worldcubeassociation.org/competitions/MalagaAlCubo2024) |
 | 110 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | [Saranac Lake 2024](https://www.worldcubeassociation.org/competitions/SaranacLake2024) |
@@ -47,7 +48,6 @@
 | 83 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [French Open 2013](https://www.worldcubeassociation.org/competitions/FrenchOpen2013) |
 | 82 | [Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02) | [Cambodia Championship 2024](https://www.worldcubeassociation.org/competitions/CambodiaChampionship2024) |
 | 81 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) | [Yellowstone 2018](https://www.worldcubeassociation.org/competitions/Yellowstone2018) |
-| 81 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | [Caracolí Open 2019](https://www.worldcubeassociation.org/competitions/CaracoliOpen2019) |
 
 ### 5x5x5 Cube
 
@@ -88,11 +88,11 @@
 | 52 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022) |
 | 47 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Kolla Winter Cup 2024](https://www.worldcubeassociation.org/competitions/KollaWinterCup2024) |
 | 43 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Rheinland-Pfalz Open 2022](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2022) |
+| 43 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Aarhus Advent 2024](https://www.worldcubeassociation.org/competitions/AarhusAdvent2024) |
 | 42 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Beginner Big Cubes Ohio 2024](https://www.worldcubeassociation.org/competitions/BeginnerBigCubesOhio2024) |
 | 42 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [UK New Year Countdown 2023](https://www.worldcubeassociation.org/competitions/UKNewYearCountdown2023) |
 | 38 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | [Cube in Denton 2024](https://www.worldcubeassociation.org/competitions/CubeWithRetentioninDenton2024) |
 | 38 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | [Bratislava Autumn 2023](https://www.worldcubeassociation.org/competitions/BratislavaAutumn2023) |
-| 36 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | [Banja Luka Open 2018](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2018) |
 
 ### 3x3x3 Blindfolded
 
@@ -176,13 +176,13 @@
 | 84 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [North Slovakian Open 2024](https://www.worldcubeassociation.org/competitions/NorthSlovakianOpen2024) |
 | 73 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024) |
 | 70 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Liechtenstein Open 2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019) |
+| 62 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
 | 54 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | [Arizona Speedcubing Summer 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSummer2023) |
 | 51 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [Back to Berlin 2024](https://www.worldcubeassociation.org/competitions/BacktoBerlin2024) |
 | 50 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) | [Rheinland-Pfalz Open 2024](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2024) |
 | 49 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Szczecin Winter 2022](https://www.worldcubeassociation.org/competitions/SzczecinWinter2022) |
 | 49 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [GLS V 2023](https://www.worldcubeassociation.org/competitions/GLSV2023) |
 | 43 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019) |
-| 43 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Belgian Nationals 2022](https://www.worldcubeassociation.org/competitions/BelgianNationals2022) |
 
 ### Skewb
 

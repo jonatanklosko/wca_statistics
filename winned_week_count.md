@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 
 ### Rubik's Cube
@@ -337,8 +337,8 @@
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | 27 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 23 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 23 |
+| [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 22 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | 21 |
-| [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 21 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 21 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 19 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 18 |
@@ -360,7 +360,7 @@
 | :--- | ---: |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 54 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 36 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 28 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 27 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 16 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 16 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 16 |
@@ -418,7 +418,7 @@
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 21 |
 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 17 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 17 |
-| [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 15 |
+| [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 16 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | 14 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 14 |
 | [Fabrizio Cirnigliaro](https://www.worldcubeassociation.org/persons/2008CIRN01) | 13 |

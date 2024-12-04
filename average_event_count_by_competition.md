@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -53,8 +53,8 @@
 | [SSL Final Uppsala 2023](https://www.worldcubeassociation.org/competitions/SSLFinalUppsala2023) | 9.07 | 81 | Sweden |
 | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019) | 9.07 | 15 | Finland |
 | [Poções 2019](https://www.worldcubeassociation.org/competitions/Pocoes2019) | 9.06 | 18 | Brazil |
-| [Bulacan Open 2010](https://www.worldcubeassociation.org/competitions/BulacanOpen2010) | 9.00 | 16 | Philippines |
 | [Sint Michielsgestel 2019](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2019) | 9.00 | 45 | Netherlands |
+| [Bulacan Open 2010](https://www.worldcubeassociation.org/competitions/BulacanOpen2010) | 9.00 | 16 | Philippines |
 | [Danish Open 2014](https://www.worldcubeassociation.org/competitions/DanishOpen2014) | 8.97 | 36 | Denmark |
 | [Heartland Championship 2019](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2019) | 8.96 | 93 | United States |
 | [Maribor Open 2014](https://www.worldcubeassociation.org/competitions/MariborOpen2014) | 8.95 | 20 | Slovenia |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 
 ### Rubik's Cube
@@ -38,6 +38,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.04 | [Saúl Méndez Atlatenco](https://www.worldcubeassociation.org/persons/2023ATLA01) | 31.41 | 31.45 | [BUAP: Ingenieros Open 2024](https://www.worldcubeassociation.org/competitions/BUAPIngenierosOpen2024/results/by_person#2023ATLA01) |
 | 0.04 | [Ishaan Lal](https://www.worldcubeassociation.org/persons/2014LALI01) | 33.76 | 33.80 | [Penn Cube Day Spring 2023](https://www.worldcubeassociation.org/competitions/PennCubeDaySpring2023/results/by_person#2014LALI01) |
 | 0.05 | [Lex Edwards](https://www.worldcubeassociation.org/persons/2018EDWA01) | 38.31 | 38.36 | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2018EDWA01) |
 | 0.05 | [Matteo Pauli](https://www.worldcubeassociation.org/persons/2019PAUL05) | 1:06.55 | 1:06.60 | [German Big Cube Open 2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019/results/by_person#2019PAUL05) |
@@ -47,7 +48,6 @@
 | 0.09 | [Geovanny Cueva](https://www.worldcubeassociation.org/persons/2018CUEV01) | 44.94 | 45.03 | [Guayaquil Championship 2018](https://www.worldcubeassociation.org/competitions/GuayaquilChampionship2018/results/by_person#2018CUEV01) |
 | 0.11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 34.94 | 35.05 | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022/results/by_person#2013OWCZ01) |
 | 0.11 | [Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01) | 35.14 | 35.25 | [Helsinki Open 2020](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2020/results/by_person#2016LAUR01) |
-| 0.12 | [Zachary Garber](https://www.worldcubeassociation.org/persons/2014GARB01) | 56.38 | 56.50 | [Baton Rouge Winter 2022](https://www.worldcubeassociation.org/competitions/BatonRougeWinter2022/results/by_person#2014GARB01) |
 
 ### 5x5x5 Cube
 

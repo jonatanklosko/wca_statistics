@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 
 ### Rubik's Cube
@@ -173,16 +173,16 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 2.57 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.32, 4.88, 2.20, 2.31, 2.78, 2.45, 3.48, 2.96, 2.46, 2.24, 2.29, 2.43 |
+| 2.50 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.20, 2.31, 2.78, 2.45, 3.48, 2.96, 2.46, 2.24, 2.29, 2.43, 2.69, 2.35 |
 | 2.76 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 2.00, 2.94, 2.92, 2.74, 2.42, 6.37, 3.50, 2.92, 2.04, 2.62, 2.95, 2.52 |
 | 2.91 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.96, 2.65, 2.66, 3.20, 3.20, 2.69, 2.95, 2.82, 3.04, 2.59, 3.78, 2.97 |
 | 2.96 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 2.91, 2.96, 2.42, 2.86, 3.05, 7.09, 3.05, 3.53, 3.07, 2.25, 3.21, 2.57 |
 | 2.98 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 2.43, 2.73, 3.02, 3.75, 3.15, 2.50, 2.89, 3.02, 3.64, 3.36, 2.97, 2.49 |
+| 3.15 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | 3.17, 2.42, 2.32, 2.17, 2.90, 4.60, 2.99, 5.57, 5.12, 2.96, 2.00, 2.85 |
 | 3.18 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.10, 7.17, 2.96, 3.05, 2.80, 3.69, 3.11, 3.31, 2.77, 3.53, 3.27, 2.94 |
 | 3.24 | [Alessandro Diomampo](https://www.worldcubeassociation.org/persons/2023DIOM01) | 3.28, 2.80, 3.32, 3.09, 6.18, 2.86, 3.02, 3.10, 3.04, 3.90, 3.46, 3.37 |
 | 3.25 | [Lachlan Adams-Romyn](https://www.worldcubeassociation.org/persons/2022ADAM01) | 2.85, 2.91, 3.49, 3.24, 2.74, 3.45, 3.23, 2.93, 3.71, 3.91, DNF, 2.75 |
 | 3.27 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 3.21, 4.01, 2.92, 3.27, 2.75, 2.91, 5.31, 3.04, 3.50, 3.22, 3.37, 3.28 |
-| 3.29 | [Jaidon Poraminthara Lin (เจเดิ้น ปรมินทร์ หลิน)](https://www.worldcubeassociation.org/persons/2019LINJ04) | 2.47, 3.30, 3.35, 3.32, 6.87, 2.82, 2.86, 3.47, 5.02, 2.64, 3.12, 3.02 |
 
 ### Skewb
 
@@ -194,10 +194,10 @@
 | 1.81 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.67, 2.00, 1.93, 1.60, 2.05, 1.64, 3.34, 1.57, 1.25, 1.52, 2.63, 1.48 |
 | 1.84 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.42, 2.02, 1.91, 2.57, 1.90, 1.65, 1.75, 1.41, 2.30, 2.22, 1.35, 1.81 |
 | 1.88 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.63, 1.99, 1.72, 2.70, 2.29, 1.82, 2.15, 1.53, 2.13, 1.82, 1.65, 1.59 |
+| 1.92 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.75, 4.09, 2.55, 1.67, 1.59, 2.35, 1.44, 2.45, 1.81, 1.67, 1.67, 1.70 |
 | 1.95 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | 1.65, 1.56, 1.91, 2.32, 1.99, 2.28, 1.97, 2.26, 3.69, 1.67, 1.50, 1.90 |
 | 1.96 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 2.27, 1.69, 1.75, 3.00, 2.68, 1.44, 1.77, 2.48, 2.04, 2.03, 1.48, 1.44 |
 | 2.02 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 2.05, 2.12, 1.93, 1.78, 1.71, 2.64, 2.76, 1.86, 1.85, 1.65, 2.19, 2.06 |
-| 2.07 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 2.47, 1.96, 1.97, 1.72, 1.75, 2.22, 2.17, 2.38, 1.50, 2.82, 1.83, 2.19 |
 
 ### Square-1
 

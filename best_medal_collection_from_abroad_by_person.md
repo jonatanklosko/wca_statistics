@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -9,7 +9,7 @@
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 204 | 125 | 663 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **271** | 147 | 94 | 512 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **233** | 52 | 30 | 315 |
-| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **229** | 179 | 135 | 543 |
+| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **230** | 182 | 136 | 548 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **204** | 58 | 21 | 283 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **200** | 65 | 33 | 298 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **172** | 24 | 10 | 206 |
@@ -29,8 +29,8 @@
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **101** | 36 | 13 | 150 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **97** | 120 | 73 | 290 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **95** | 103 | 87 | 285 |
+| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **94** | 92 | 91 | 277 |
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | **94** | 34 | 27 | 155 |
-| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **93** | 89 | 89 | 271 |
 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | **92** | 99 | 67 | 258 |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **91** | 66 | 92 | 249 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **88** | 31 | 27 | 146 |
@@ -50,16 +50,16 @@
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **66** | 55 | 36 | 157 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **65** | 46 | 50 | 161 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **65** | 28 | 20 | 113 |
+| [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **63** | 48 | 27 | 138 |
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **62** | 38 | 12 | 112 |
-| [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **61** | 46 | 26 | 133 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **60** | 69 | 79 | 208 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **59** | 51 | 39 | 149 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **58** | 13 | 3 | 74 |
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
-| [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **54** | 58 | 54 | 166 |
+| [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **54** | 59 | 55 | 168 |
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **54** | 37 | 14 | 105 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 23 | 17 | 94 |
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **54** | 16 | 3 | 73 |
@@ -84,8 +84,9 @@
 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | **45** | 23 | 13 | 81 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | **44** | 72 | 46 | 162 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **43** | 50 | 46 | 139 |
+| [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | **43** | 26 | 29 | 98 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | **42** | 44 | 52 | 138 |
-| [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) | **42** | 22 | 21 | 85 |
+| [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) | **42** | 22 | 22 | 86 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | **42** | 1 | 0 | 43 |
 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) | **41** | 35 | 25 | 101 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **41** | 30 | 20 | 91 |
@@ -99,9 +100,8 @@
 | [Ivan Torgashov](https://www.worldcubeassociation.org/persons/2011TORG01) | **39** | 17 | 23 | 79 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **38** | 75 | 159 | 272 |
 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) | **38** | 37 | 33 | 108 |
-| [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) | **38** | 33 | 34 | 105 |
+| [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) | **38** | 33 | 36 | 107 |
 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | **38** | 32 | 20 | 90 |
-| [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | **38** | 25 | 28 | 91 |
 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) | **38** | 25 | 17 | 80 |
 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) | **38** | 23 | 43 | 104 |
 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) | **38** | 20 | 49 | 107 |

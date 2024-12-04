@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -369,6 +369,7 @@
 | 12 | [Austin Cover Your Eyes 2024](https://www.worldcubeassociation.org/competitions/AustinCoverYourEyes2024) |
 | 12 | [Bara Multi-Blind i Borås 2024](https://www.worldcubeassociation.org/competitions/BaraMultiBlindiBoras2024) |
 | 12 | [Barberton Mini 2 2024](https://www.worldcubeassociation.org/competitions/BarbertonMini22024) |
+| 12 | [Bheja Fry Dec Bangalore 2024](https://www.worldcubeassociation.org/competitions/BhejaFryDecBangalore2024) |
 | 12 | [Big and Blind Rīga 2024](https://www.worldcubeassociation.org/competitions/BigandBlindRiga2024) |
 | 12 | [Blind in Aveiro 2024](https://www.worldcubeassociation.org/competitions/BlindinAveiro2024) |
 | 12 | [Buckeye Blind Off 2022](https://www.worldcubeassociation.org/competitions/BuckeyeBlindOff2022) |
@@ -462,6 +463,7 @@
 | 13 | [5BLD Madness Seoul 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSeoul2024) |
 | 13 | [Aarhus Diverse 2024](https://www.worldcubeassociation.org/competitions/AarhusDiverse2024) |
 | 13 | [Apenas 3 Fortaleza 2024](https://www.worldcubeassociation.org/competitions/Apenas3Fortaleza2024) |
+| 13 | [Ashfield Winter Challenge 2024](https://www.worldcubeassociation.org/competitions/AshfieldWinterChallenge2024) |
 | 13 | [Autotalo Rare 2023](https://www.worldcubeassociation.org/competitions/AutotaloRare2023) |
 | 13 | [Bahia Summer 2010](https://www.worldcubeassociation.org/competitions/BahiaInglesaSummer2010) |
 | 13 | [Balakən Open 2019](https://www.worldcubeassociation.org/competitions/BalakanOpen2019) |

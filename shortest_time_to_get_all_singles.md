@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -588,6 +588,7 @@
 | 3766 | [Luis Sinhue Medina Salas](https://www.worldcubeassociation.org/persons/2014SALA15) |
 | 3782 | [Kevin Arturo Huamán Ruiz](https://www.worldcubeassociation.org/persons/2014RUIZ10) |
 | 3787 | [Gabriele Bacchieri](https://www.worldcubeassociation.org/persons/2014BACC01) |
+| 3892 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 3912 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 4010 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 4025 | [Lanshi Zhang (张岚石)](https://www.worldcubeassociation.org/persons/2013ZHAN41) |

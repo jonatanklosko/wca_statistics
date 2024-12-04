@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -240,6 +240,7 @@
 | 11 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Cannes Open 2015](https://www.worldcubeassociation.org/competitions/CannesOpen2015/results/podiums) |
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Cannes 2016](https://www.worldcubeassociation.org/competitions/CannesSummerOpen2016/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Capivara 2023](https://www.worldcubeassociation.org/competitions/Capivara2023/results/podiums) |
+| 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Capivara Curitiba 2024](https://www.worldcubeassociation.org/competitions/CapivaraCuritiba2024/results/podiums) |
 | 10 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Caracolí Open 2018](https://www.worldcubeassociation.org/competitions/CaracoliOpen2018/results/podiums) |
 | 10 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Caracolí Open 2018](https://www.worldcubeassociation.org/competitions/CaracoliOpen2018/results/podiums) |
 | 10 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Caribe Challenge 2018](https://www.worldcubeassociation.org/competitions/CaribeChallenge2018/results/podiums) |
@@ -342,6 +343,7 @@
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [CubingTR 10 Years 2023](https://www.worldcubeassociation.org/competitions/CubingTR10Years2023/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/podiums) |
 | 13 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [CubingZA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingZANationalChampionship2023/results/podiums) |
+| 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [CubUai UFMG Open 2024](https://www.worldcubeassociation.org/competitions/CubUaiUFMGOpen2024/results/podiums) |
 | 12 | [Christian Saenz Valdivia](https://www.worldcubeassociation.org/persons/2013VALD02) | [Cultural Open 2014](https://www.worldcubeassociation.org/competitions/CulturalOpen2014/results/podiums) |
 | 10 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Curtan Cubing Contest 2024](https://www.worldcubeassociation.org/competitions/CurtanCubingContest2024/results/podiums) |
 | 12 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Cuthberts Open 2014](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2014/results/podiums) |

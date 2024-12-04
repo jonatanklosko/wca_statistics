@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 December 2024*
+*Updated on  4 December 2024*
 
 
 ### Rubik's Cube
@@ -173,7 +173,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 2.39 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.96, 2.46, 2.24, 2.29, 2.43 |
+| 2.36 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.24, 2.29, 2.43, 2.69, 2.35 |
 | 2.52 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.44, 3.36, 2.59, 2.40, 2.52 |
 | 2.54 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 2.04, 2.62, 2.95, 2.52, 2.48 |
 | 2.55 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | 3.17, 2.42, 2.32, 2.17, 2.90 |
@@ -193,9 +193,9 @@
 | 1.46 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.69, 1.89, 1.14, 1.55, 1.14 |
 | 1.62 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | 2.14, 0.99, 1.63, 1.62, 1.62 |
 | 1.67 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.28, 2.06, 1.67, 1.86, 1.49 |
+| 1.69 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.67, 1.67, 1.70, 3.78, 1.71 |
 | 1.69 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.53, 2.13, 1.82, 1.65, 1.59 |
 | 1.71 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.70, 1.50, 2.27, 1.69, 1.75 |
-| 1.72 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 0.99, 2.19, DNF, 1.40, 1.57 |
 | 1.74 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 1.00, 1.72, 3.65, 2.35, 1.14 |
 | 1.77 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | 2.07, 1.69, 1.63, 1.77, 1.85 |
 

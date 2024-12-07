@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  4 December 2024*
+*Updated on  7 December 2024*
 
 
 ### Rubik's Cube
@@ -38,6 +38,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Kaosisochukwu Karsten Enebe](https://www.worldcubeassociation.org/persons/2024ENEB02) | 3:30.51 | **5:06.88** | [Abuja Open 2024](https://www.worldcubeassociation.org/competitions/AbujaOpen2024/results/podiums#e444) | 3 |
 | [Moaadh Kharouat](https://www.worldcubeassociation.org/persons/2019KHAR15) | 3:16.46 | **4:46.38** | [Skikda Open 2019](https://www.worldcubeassociation.org/competitions/SkikdaOpen2019/results/podiums#e444) | 2 |
 | [Alberto Cuesta](https://www.worldcubeassociation.org/persons/2005CUES01) | 3:39.50 | **3:47.11** | [Spain 2005](https://www.worldcubeassociation.org/competitions/Spain2005/results/podiums#e444) | 3 |
 | [Pradeep Dhananjay](https://www.worldcubeassociation.org/persons/2008DHAN01) | 2:53.92 | **3:37.29** | [Indian Open 2008](https://www.worldcubeassociation.org/competitions/IndianOpen2008/results/podiums#e444) | 3 |
@@ -47,7 +48,6 @@
 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) | 3:13.32 | **3:28.46** | [Hungary 2005](https://www.worldcubeassociation.org/competitions/Hungary2005/results/podiums#e444) | 3 |
 | [Bill McGaugh](https://www.worldcubeassociation.org/persons/2004MCGA01) | 2:40.73 | **3:24.53** | [Caltech Spring 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004/results/podiums#e444) | 3 |
 | [Elnathan Ayi Nsa Ayi](https://www.worldcubeassociation.org/persons/2023AYIE01) | 2:29.82 | **3:21.47** | [Nigerian Championship 2023](https://www.worldcubeassociation.org/competitions/NigerianChampionship2023/results/podiums#e444) | 3 |
-| [Keith Sauer](https://www.worldcubeassociation.org/persons/2003SAUE01) | 2:48.37 | **3:17.09** | [Caltech Spring 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004/results/podiums#e444) | 2 |
 
 ### 5x5x5 Cube
 

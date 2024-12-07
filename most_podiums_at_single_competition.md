@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 December 2024*
+*Updated on  7 December 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -537,6 +537,7 @@
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Gouverneur Quick & Quiet 2024](https://www.worldcubeassociation.org/competitions/GouverneurQuickQuiet2024/results/podiums) |
 | 10 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Great South Open 2016](https://www.worldcubeassociation.org/competitions/GreatSouthOpen2016/results/podiums) |
 | 11 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Greece Winter Open 2016](https://www.worldcubeassociation.org/competitions/GreeceWinterOpen2016/results/podiums) |
+| 11 | [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) | [Greek Nationals 2024](https://www.worldcubeassociation.org/competitions/GreekNationals2024/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020/results/podiums) |
 | 12 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Grizz Cubing 2022](https://www.worldcubeassociation.org/competitions/GrizzCubing2022/results/podiums) |
 | 10 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) | [Grizz Cubing 2022](https://www.worldcubeassociation.org/competitions/GrizzCubing2022/results/podiums) |
@@ -827,6 +828,7 @@
 | 10 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | [Nacionales El Salvador 2018](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2018/results/podiums) |
 | 10 | [Samuel Cuellar Ramirez](https://www.worldcubeassociation.org/persons/2015RAMI14) | [Nacionales El Salvador 2019](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2019/results/podiums) |
 | 11 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Nacionales El Salvador 2023](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2023/results/podiums) |
+| 11 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales El Salvador 2024](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2024/results/podiums) |
 | 10 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales Guatemala 2023](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2023/results/podiums) |
 | 15 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Nacionales Uruguayas 2023](https://www.worldcubeassociation.org/competitions/NacionalesUruguayas2023/results/podiums) |
 | 15 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Uruguayas 2024](https://www.worldcubeassociation.org/competitions/NacionalesUruguayas2024/results/podiums) |

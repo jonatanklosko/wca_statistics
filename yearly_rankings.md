@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 December 2024*
+*Updated on  7 December 2024*
 
 
 ### Rubik's Cube - Single
@@ -210,7 +210,7 @@
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **16.40** | Canada | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) | 16.86, 16.24, 16.09 |
 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **16.63** | China | [Xuzhou Open 2024](https://www.worldcubeassociation.org/competitions/XuzhouOpen2024) | 16.64, 16.03, 17.22 |
 | [Ian Guevarra Santos](https://www.worldcubeassociation.org/persons/2024SANT11) | **17.52** | Philippines | [Lights Out Diliman 2024](https://www.worldcubeassociation.org/competitions/LightsOutDiliman2024) | 16.45, 18.11, 18.00 |
-| [Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04) | **17.96** | United States | [Berkeley Nov Tricubealon 2024](https://www.worldcubeassociation.org/competitions/BerkeleyNovemberTricubealon2024) | 15.93, 18.77, 19.17 |
+| [Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04) | **17.63** | United States | [Berkeley Dec Tricubealon 2024](https://www.worldcubeassociation.org/competitions/BerkeleyDecTricubealon2024) | 18.45, 15.50, 18.93 |
 | [Jieyu Yang (杨杰予)](https://www.worldcubeassociation.org/persons/2019YANG37) | **18.00** | China | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024) | 18.63, 16.42, 18.96 |
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **18.26** | United States | [Penn Cube Day Fall 2024](https://www.worldcubeassociation.org/competitions/PennCubeDayFall2024) | 18.44, 15.44, 20.91 |
 

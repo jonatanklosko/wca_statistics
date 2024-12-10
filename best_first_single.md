@@ -1,13 +1,14 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Rubik's Cube
 
 | First single | Person |
 | ---: | :--- |
+| 5.03 | [Haokai Zeng (曾浩锴)](https://www.worldcubeassociation.org/persons/2024ZENG06) |
 | 6.16 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) |
 | 6.25 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) |
 | 6.40 | [Jing Pan (潘婧)](https://www.worldcubeassociation.org/persons/2024PANJ01) |
@@ -17,7 +18,6 @@
 | 6.85 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
 | 6.86 | [Mingzhu Zheng (郑名竹)](https://www.worldcubeassociation.org/persons/2024ZHEN13) |
 | 7.03 | [Anton Angeletti](https://www.worldcubeassociation.org/persons/2024ANGE07) |
-| 7.15 | [Youyu Peng (彭宥裕)](https://www.worldcubeassociation.org/persons/2023PENG14) |
 
 ### 2x2x2 Cube
 
@@ -40,6 +40,7 @@
 | ---: | :--- |
 | 28.05 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) |
 | 28.09 | [Shaoyi Liu (刘少一)](https://www.worldcubeassociation.org/persons/2024LIUS04) |
+| 28.43 | [Haokai Zeng (曾浩锴)](https://www.worldcubeassociation.org/persons/2024ZENG06) |
 | 28.62 | [Chongkui Chen (陈崇魁)](https://www.worldcubeassociation.org/persons/2023CHEC12) |
 | 29.67 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 29.79 | [Siddhesh Pore](https://www.worldcubeassociation.org/persons/2022PORE01) |
@@ -47,7 +48,6 @@
 | 31.15 | [Nathaniel Timothy Sunil](https://www.worldcubeassociation.org/persons/2022SUNI01) |
 | 31.17 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 31.25 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
-| 31.47 | [Aditya Bareja](https://www.worldcubeassociation.org/persons/2022BARE01) |
 
 ### 5x5x5 Cube
 

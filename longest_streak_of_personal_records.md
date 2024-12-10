@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -71,6 +71,7 @@
 | 49 | [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) | [ALL1- Pittsburgh 2023](https://www.worldcubeassociation.org/competitions/ALL1Pittsburgh2023) |
 | 49 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) | [Swedish Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishChampionship2022) | [SL 413: Kalle i Kubik 2024](https://www.worldcubeassociation.org/competitions/SL413KalleiKubik2024) |
 | 48 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Norwich Summer 2015](https://www.worldcubeassociation.org/competitions/NorwichSummer2015) | [GA Cubers Greetings 2022](https://www.worldcubeassociation.org/competitions/GACubersGreetings2022) |
+| 48 | [Evan Wright](https://www.worldcubeassociation.org/persons/2017WRIG03) | [Howland High Fall 2017](https://www.worldcubeassociation.org/competitions/HowlandHighFall2017) |  |
 | 48 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) |  |
 | 48 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | [Bucharest Autumn Cubing A 2023](https://www.worldcubeassociation.org/competitions/BucharestAutumnCubingA2023) |
 | 47 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | [Netherlands 2007](https://www.worldcubeassociation.org/competitions/Netherlands2007) | [Amstelveen Open 2012](https://www.worldcubeassociation.org/competitions/AmstelveenOpen2012) |
@@ -80,7 +81,6 @@
 | 47 | [Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01) | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015) | [Lejre Side Events 2022](https://www.worldcubeassociation.org/competitions/LejreSideEvents2022) |
 | 47 | [Christophe Grosjean](https://www.worldcubeassociation.org/persons/2016GROS06) | [Swiss Nats 2016](https://www.worldcubeassociation.org/competitions/SwissNationals2016) | [Swiss Science Open 2024](https://www.worldcubeassociation.org/competitions/SwissScienceOpen2024) |
 | 47 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Sanlo 2017](https://www.worldcubeassociation.org/competitions/ClassicSanLorenzov42017) | [Abierto de La Matanza 2024](https://www.worldcubeassociation.org/competitions/AbiertodeLaMatanza2024) |
-| 47 | [Evan Wright](https://www.worldcubeassociation.org/persons/2017WRIG03) | [Howland High Fall 2017](https://www.worldcubeassociation.org/competitions/HowlandHighFall2017) |  |
 | 47 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | [GLS Cup IV 2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018) | [Cube4fun Skierniewice 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueSkierniewice2022) |
 | 46 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Spanish Championship 2008](https://www.worldcubeassociation.org/competitions/Spain2008) | [CLIP Open 2018](https://www.worldcubeassociation.org/competitions/CLIPOpen2018) |
 | 46 | [Sheng Cao (曹晟)](https://www.worldcubeassociation.org/persons/2011CAOS01) | [ShenYang Open 2011](https://www.worldcubeassociation.org/competitions/ShenYangOpen2011) | [Dalian Spring 2019](https://www.worldcubeassociation.org/competitions/DalianSpring2019) |

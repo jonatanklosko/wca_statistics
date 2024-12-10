@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Rubik's Cube - Single
@@ -59,10 +59,10 @@
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **0.97** | Netherlands | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) | 0.93, 1.05, 0.66, 1.43, 0.92 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **0.97** | Poland | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) | 0.96, 1.16, 0.78, 2.30, 0.77 |
 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | **1.02** | Singapore | [Singapore Sprint 2024](https://www.worldcubeassociation.org/competitions/SingaporeSprint2024) | 3.26, 0.96, 1.08, 1.03, 0.93 |
+| [Roman Rudakov](https://www.worldcubeassociation.org/persons/2022RUDA02) | **1.02** | Australia | [Melbourne Cube Days 2024](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2024) | 1.16, 0.96, 0.94, 1.24, 0.91 |
 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) | **1.09** | Israel | [Israel Championship 2024](https://www.worldcubeassociation.org/competitions/IsraelChampionship2024) | 1.03, 1.02, 1.22, 1.02, 1.62 |
 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | **1.11** | United States | [M Moves in Middlebury 2024](https://www.worldcubeassociation.org/competitions/MMovesinMiddlebury2024) | 1.32, 1.12, 1.11, 1.10, 0.88 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **1.11** | Poland | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024) | 0.78, 1.28, 1.03, 1.02, DNF |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **1.14** | Poland | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) | 1.12, 1.44, 0.53, 1.16, 1.15 |
 
 ### 4x4x4 Cube - Single
 
@@ -83,8 +83,8 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **19.74** | Poland | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) | 20.18, 18.46, 22.23, 19.54, 19.50 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **19.77** | United States | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024) | 15.71, 17.93, 21.01, 22.32, 20.38 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **19.83** | Poland | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) | 17.62, 22.52, 23.47, 17.29, 19.34 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **19.90** | Germany | [FLIP Open 11: Road to Euros 2024](https://www.worldcubeassociation.org/competitions/FLIPOpen11RoadtoEuros2024) | 20.73, 18.86, 17.63, 27.46, 20.12 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **21.30** | Chinese Taipei | [Taoyuan Airport Cube Day 2024](https://www.worldcubeassociation.org/competitions/TaoyuanAirportCubeDay2024) | 19.84, 23.49, 20.37, 22.49, 21.05 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **21.54** | United States | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024) | 27.40, 21.35, 20.16, 21.95, 21.32 |
@@ -114,7 +114,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **34.76** | United States | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) | 39.71, 35.10, 33.55, 35.44, 33.75 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **36.80** | Poland | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024) | 36.14, 36.43, 38.50, 37.84, 34.68 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **36.34** | Poland | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) | 36.84, 36.28, 35.90, 38.29, 32.62 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **37.33** | Chinese Taipei | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) | 39.34, 36.32, 34.27, 36.33, 44.48 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **38.21** | Republic of Korea | [Hamchang Winter 2024](https://www.worldcubeassociation.org/competitions/HamchangWinter2024) | 42.31, 45.08, 35.44, 36.88, 35.14 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **38.60** | Vietnam | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) | 38.08, 35.99, 37.39, 40.34, 42.36 |
@@ -240,9 +240,9 @@
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **20.67** | Poland | [Warsaw FMC Tour II Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIIFriday2024) | 21, 22, 19 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **21.00** | Germany | [Kölner Kubing 2024](https://www.worldcubeassociation.org/competitions/KolnerKubing2024) | 21, 21, 21 |
 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | **21.00** | United States | [Ashfield Winter Challenge 2024](https://www.worldcubeassociation.org/competitions/AshfieldWinterChallenge2024) | 20, 22, 21 |
+| [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | **21.00** | Australia | [OC FMC 2024](https://www.worldcubeassociation.org/competitions/OCFMC2024) | 22, 20, 21 |
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **21.00** | Republic of Korea | [WCC FMC Leap Day 2024](https://www.worldcubeassociation.org/competitions/WCCFMCLeapDay2024) | 24, 17, 22 |
 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) | **21.00** | United States | [Ashfield Winter Challenge 2024](https://www.worldcubeassociation.org/competitions/AshfieldWinterChallenge2024) | 20, 23, 20 |
-| [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | **21.00** | France | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 23, 20, 20 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -386,13 +386,13 @@
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.52** | United States | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024) | 1.65, 1.45, 2.57, 1.37, 1.45 |
 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | **1.53** | United States | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) | 2.05, 1.63, 1.43, 1.52, 1.07 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **1.65** | United States | [New Jersey Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyChampionship2024) | 1.92, 2.47, 1.30, 1.17, 1.74 |
+| [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | **1.72** | Spain | [Bilbao La Perrera Sides 2024](https://www.worldcubeassociation.org/competitions/LaPerreraSideEvents2024) | 1.66, 1.63, 1.40, 2.97, 1.87 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **1.73** | Poland | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) | 1.81, 1.67, 1.67, 1.70, 3.78 |
 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | **1.75** | China | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) | 1.80, 1.67, 1.78, 3.16, 1.63 |
 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | **1.78** | Czech Republic | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024) | 1.78, 1.93, 2.39, 1.64, 1.32 |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | **1.79** | Poland | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024) | 1.75, 1.41, 2.30, 2.22, 1.35 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.87** | United States | [Minnesota Warm Up 2024](https://www.worldcubeassociation.org/competitions/MinnesotaWarmUp2024) | 2.09, 1.39, 1.81, 2.37, 1.71 |
 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | **1.89** | Poland | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024) | 2.47, 1.96, 1.97, 1.72, 1.75 |
-| [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | **1.90** | United States | [Olympia Fall 2024](https://www.worldcubeassociation.org/competitions/OlympiaFall2024) | 2.13, 1.65, 1.56, 1.91, 2.32 |
 
 ### Square-1 - Single
 
@@ -400,9 +400,9 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **3.41** | United States | [Wichita Family ArtVenture 2024](https://www.worldcubeassociation.org/competitions/WichitaFamilyArtVenture2024) | 3.41, 8.06, 8.19, 5.60, DNF |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **3.53** | United States | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024) | 5.74, 5.88, 5.11, 11.42, 3.53 |
+| [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | **3.57** | United States | [Don't DNF Denton 2024](https://www.worldcubeassociation.org/competitions/DontDNFDenton2024) | 8.06, 3.57, 4.49, 4.86, 6.34 |
 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | **3.61** | Italy | [Ivrea: Back to Square One 2024](https://www.worldcubeassociation.org/competitions/IvreaBacktoSquareOne2024) | 5.89, 6.56, 7.06, 9.52, 3.61 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **3.68** | United States | [Bellevue Squan Fest 2024](https://www.worldcubeassociation.org/competitions/BellevueSquanFest2024) | 7.49, 3.68, 7.48, 4.19, 5.44 |
-| [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | **3.81** | United States | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024) | 4.99, 6.78, 3.81, 4.23, 6.33 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **3.82** | United States | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) | 7.23, 3.82, 6.49, 4.81, 6.28 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | **4.09** | United States | [Tri-State Corner Comms PA 2024](https://www.worldcubeassociation.org/competitions/TriStateCornerCommsPA2024) | 4.52, 4.09, 8.26, 6.50, 4.35 |
 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | **4.20** | Republic of Korea | [Hong Kong Cube Day 2024](https://www.worldcubeassociation.org/competitions/HongKongCubeDay2024) | 7.55, 9.03, 4.20, 5.62, 8.81 |
@@ -458,7 +458,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **2:20.15** | United States | [Mississauga Blindfolded 2024](https://www.worldcubeassociation.org/competitions/MississaugaBlindfolded2024) | 2:26.45, DNF, 2:20.15 |
+| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **2:10.71** | United States | [Coffee and Cubes OH 2024](https://www.worldcubeassociation.org/competitions/CoffeeandCubesOH2024) | DNF, 2:10.71, DNF |
 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | **2:28.17** | Malaysia | [Slow and Easy Selangor 2024](https://www.worldcubeassociation.org/competitions/SlowandEasySelangor2024) | 3:15.00, 2:28.17, 3:43.99 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **2:28.53** | United Kingdom | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024) | 2:28.53, DNF, DNF |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **2:56.68** | Switzerland | [Glasgow Winter - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2024) | DNF, 2:56.68, DNF |
@@ -481,8 +481,8 @@
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4:19.14** | Sweden | [Manchester 5BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester5BLDDay2024) | 3:58.55, 3:46.48, 5:12.40 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **4:36.66** | Argentina | [10th Anniversary Cervantes 2024](https://www.worldcubeassociation.org/competitions/10thAnniversaryCervantes2024) | 4:28.31, 4:44.55, 4:37.11 |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **5:00.41** | United States | [Southeast Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2024) | 3:53.77, 5:35.00, 5:32.45 |
+| [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **5:14.47** | Germany | [Cuarto Aldeilla Open 2024](https://www.worldcubeassociation.org/competitions/CuartoAldeillaOpen2024) | 4:22.26, 5:31.79, 5:49.35 |
 | [Jia-Hong Lu (陸嘉宏)](https://www.worldcubeassociation.org/persons/2007LUJI01) | **6:08.43** | Chinese Taipei | [Please Be Quiet Taiwan 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietTaiwan2024) | 6:14.95, 5:21.77, 6:48.56 |
-| [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **6:13.06** | United States | [Ottawa Blindfolded 2024](https://www.worldcubeassociation.org/competitions/OttawaBlindfolded2024) | 5:16.57, 5:27.70, 7:54.92 |
 
 ### 3x3x3 Multi-Blind - Single
 

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Rubik's Cube
@@ -105,8 +105,8 @@
 | 1.18 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Lyttelton Spring 2023](https://www.worldcubeassociation.org/competitions/LytteltonSpring2023/results/by_person#2018MURR03) |
 | 1.18 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Nanchang Spring 2024](https://www.worldcubeassociation.org/competitions/NanchangSpring2024/results/by_person#2019JIAN54) |
 | 1.18 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Waterloo Favourites B 2023](https://www.worldcubeassociation.org/competitions/WaterlooFavouritesB2023/results/by_person#2019SHER10) |
+| 1.19 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Shenzhen Open 2024](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2024/results/by_person#2019JIAN54) |
 | 1.20 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023/results/by_person#2019MEAD03) |
-| 1.21 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/by_person#2019JIAN54) |
 
 ### Rubik's Clock
 

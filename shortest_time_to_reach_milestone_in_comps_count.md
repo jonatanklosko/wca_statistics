@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### 200 Competitions
@@ -20,13 +20,13 @@
 | 3783 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 3978 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 4040 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
+| 4152 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 4201 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 4306 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 4315 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 4509 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 4524 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 4563 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 4796 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 
 ### 150 Competitions
 
@@ -134,8 +134,10 @@
 | ---: | :--- |
 | 95 | [Vilgot Almroth](https://www.worldcubeassociation.org/persons/2023ALMR01) |
 | 103 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
+| 112 | [Ramanujan Srinivasan](https://www.worldcubeassociation.org/persons/2024SRIN06) |
 | 113 | [Juan Miguel Y. Magallanes](https://www.worldcubeassociation.org/persons/2023MAGA09) |
 | 113 | [Gabriel Subion](https://www.worldcubeassociation.org/persons/2024SUBI01) |
+| 113 | [Zachary Trimble](https://www.worldcubeassociation.org/persons/2024TRIM01) |
 | 120 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 120 | [Matteo Rodríguez Colorado](https://www.worldcubeassociation.org/persons/2024COLO04) |
 | 121 | [Goodwin Liu](https://www.worldcubeassociation.org/persons/2024LIUG01) |
@@ -150,8 +152,6 @@
 | 139 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 | 140 | [Hansi Wang (王翰思)](https://www.worldcubeassociation.org/persons/2020WANG19) |
 | 140 | [Sheng Li (李圣)](https://www.worldcubeassociation.org/persons/2020LISH02) |
-| 141 | [Logan Lingasamy](https://www.worldcubeassociation.org/persons/2023LING02) |
-| 141 | [Evan Wilson](https://www.worldcubeassociation.org/persons/2023WILS11) |
 
 ### 5 Competitions
 

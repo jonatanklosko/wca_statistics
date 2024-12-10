@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Rubik's Cube
@@ -120,9 +120,9 @@
 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 19 | **22.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 5 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 21 | **22.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 6 |
 | [Vasco Vasconcelos](https://www.worldcubeassociation.org/persons/2008VASC01) | 19 | **22.67** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 6 |
+| [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 20 | **22.67** | [OC FMC 2024](https://www.worldcubeassociation.org/competitions/OCFMC2024/results/all#e333fm_f) | 4 |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 21 | **22.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 7 |
 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 22 | **22.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 5 |
-| [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | 22 | **22.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 5 |
 
 ### 3x3x3 One-Handed
 

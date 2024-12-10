@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -194,8 +194,8 @@
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -207,6 +207,7 @@
 | 1085 | [Pranav Veera](https://www.worldcubeassociation.org/persons/2015VEER01) |
 | 1092 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 1092 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
+| 1092 | [Kai Yamamoto (山本快)](https://www.worldcubeassociation.org/persons/2021YAMA01) |
 | 1112 | [Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13) |
 | 1112 | [Kristian Gil Caragan](https://www.worldcubeassociation.org/persons/2016CARA04) |
 | 1113 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |

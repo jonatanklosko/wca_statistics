@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -13,6 +13,7 @@
 | 426 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 496 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 665 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
+| 671 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
 | 707 | [János Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
 | 861 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) |
 | 868 | [Angelo Melera](https://www.worldcubeassociation.org/persons/2022MELE01) |
@@ -98,6 +99,7 @@
 | 3570 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 3586 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 3646 | [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) |
+| 3681 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 3682 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 3703 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 3850 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |

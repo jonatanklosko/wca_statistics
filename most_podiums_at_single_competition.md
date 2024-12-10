@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -314,6 +314,7 @@
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Croatian Open 2017](https://www.worldcubeassociation.org/competitions/CroatianOpen2017/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Croatian Open 2018](https://www.worldcubeassociation.org/competitions/CroatianOpen2018/results/podiums) |
 | 11 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Croatian Open 2018](https://www.worldcubeassociation.org/competitions/CroatianOpen2018/results/podiums) |
+| 15 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Cuarto Aldeilla Open 2024](https://www.worldcubeassociation.org/competitions/CuartoAldeillaOpen2024/results/podiums) |
 | 12 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | [Cube4fun Bełżyce Autumn 2024](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceAutumn2024/results/podiums) |
 | 11 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2023](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2023/results/podiums) |
 | 12 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/podiums) |
@@ -560,6 +561,7 @@
 | 10 | [Alexandre Philiponet](https://www.worldcubeassociation.org/persons/2011PHIL01) | [Haute-Patate Open 2012](https://www.worldcubeassociation.org/competitions/HautePatateOpen2012/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022/results/podiums) |
 | 13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/podiums) |
+| 11 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Helsinki 2024](https://www.worldcubeassociation.org/competitions/Helsinki2024/results/podiums) |
 | 14 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Helsinki Open 2011](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2011/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Helsinki Open 2017](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2017/results/podiums) |
 | 10 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Helsinki Open 2017](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2017/results/podiums) |
@@ -1181,6 +1183,7 @@
 | 11 | [Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01) | [Thessaloniki Open 2022](https://www.worldcubeassociation.org/competitions/ThessalonikiOpen2022/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Tianjin Open 2012](https://www.worldcubeassociation.org/competitions/TianjinOpen2012/results/podiums) |
 | 10 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Ticino Open 2018](https://www.worldcubeassociation.org/competitions/TicinoOpen2018/results/podiums) |
+| 11 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [Tierra del Fuego 2024](https://www.worldcubeassociation.org/competitions/TierradelFuego2024/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Tietomaa Open 2017](https://www.worldcubeassociation.org/competitions/TietomaaOpen2017/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Tietomaa Open 2018](https://www.worldcubeassociation.org/competitions/TietomaaOpen2018/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Tietomaa Open 2019](https://www.worldcubeassociation.org/competitions/TietomaaOpen2019/results/podiums) |

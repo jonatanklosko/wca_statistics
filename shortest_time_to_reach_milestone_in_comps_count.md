@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 10 December 2024*
+*Updated on 13 December 2024*
 
 
 ### 200 Competitions
@@ -73,10 +73,10 @@
 | 1933 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 2010 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 2038 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 2067 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
 | 2080 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 2085 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
 | 2115 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
-| 2143 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 
 ### 50 Competitions
 

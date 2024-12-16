@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -245,6 +245,7 @@
 | 10 | [FMC WPI 2024](https://www.worldcubeassociation.org/competitions/FMCWPI2024) |
 | 10 | [GA Cubers Study May 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyMay2023) |
 | 10 | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014) |
+| 10 | [Goiânia Xiu 2024](https://www.worldcubeassociation.org/competitions/GoianiaXiu2024) |
 | 10 | [Gouverneur Quick & Quiet 2024](https://www.worldcubeassociation.org/competitions/GouverneurQuickQuiet2024) |
 | 10 | [Greenland Open 2023](https://www.worldcubeassociation.org/competitions/GreenlandOpen2023) |
 | 10 | [Guwahati FMC Challenge 2023](https://www.worldcubeassociation.org/competitions/GuwahatiFMCChallenge2023) |
@@ -598,6 +599,7 @@
 | 14 | [PBQ at MSU 2024](https://www.worldcubeassociation.org/competitions/PBQatMSU2024) |
 | 14 | [PBQ Green Bay 2023](https://www.worldcubeassociation.org/competitions/PBQGreenBay2023) |
 | 14 | [Pinoy Big Cubes Open 2009](https://www.worldcubeassociation.org/competitions/PinoyBigCubesOpen2009) |
+| 14 | [Please Be Quiet Johor 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietJohor2024) |
 | 14 | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) |
 | 14 | [Poções Geek 2024](https://www.worldcubeassociation.org/competitions/PocoesGeek2024) |
 | 14 | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016) |

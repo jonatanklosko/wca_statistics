@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -88,6 +88,7 @@
 | 2919 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) |
 | 2926 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 2982 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 3031 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) |
 | 3032 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 3074 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 3115 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) |
@@ -112,6 +113,7 @@
 | 6040 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 6047 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 6258 | [Takuma Shirahase (白波瀬拓磨)](https://www.worldcubeassociation.org/persons/2007SHIR01) |
+| 6326 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) |
 | 6440 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 
 

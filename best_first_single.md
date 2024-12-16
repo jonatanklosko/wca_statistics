@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### Rubik's Cube
@@ -76,8 +76,8 @@
 | 1:45.53 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
 | 1:45.58 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |
 | 1:45.78 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) |
+| 1:47.57 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) |
 | 1:47.84 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
-| 1:48.56 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
 
 ### 7x7x7 Cube
 
@@ -176,13 +176,13 @@
 | 4.20 | [Wataru Takamiya (髙宮径)](https://www.worldcubeassociation.org/persons/2023TAKA02) |
 | 4.21 | [Lachlan Adams-Romyn](https://www.worldcubeassociation.org/persons/2022ADAM01) |
 | 4.33 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
+| 4.40 | [Yu-Lun Huang (黃于倫)](https://www.worldcubeassociation.org/persons/2023HUAN31) |
 | 4.64 | [Adrián Morales Morales](https://www.worldcubeassociation.org/persons/2022MORA09) |
 | 4.80 | [Michael Fonseca](https://www.worldcubeassociation.org/persons/2019FONS06) |
 | 4.86 | [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) |
 | 4.97 | [Abraham Joachim Hadiwijaya](https://www.worldcubeassociation.org/persons/2024HADI02) |
 | 5.02 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) |
 | 5.05 | [Caleb Merritt](https://www.worldcubeassociation.org/persons/2022MERR04) |
-| 5.07 | [Yijie Zhao (赵翊杰)](https://www.worldcubeassociation.org/persons/2021ZHAO19) |
 
 ### Skewb
 

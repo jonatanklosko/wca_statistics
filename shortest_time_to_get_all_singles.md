@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -33,6 +33,7 @@
 | 357 | [Yu Zhou (周煜)](https://www.worldcubeassociation.org/persons/2017YUZH03) |
 | 357 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 363 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
+| 384 | [Valerii Klymenko](https://www.worldcubeassociation.org/persons/2023KLYM02) |
 | 398 | [Mara Oprea](https://www.worldcubeassociation.org/persons/2017OPRE02) |
 | 405 | [Benton Tolley](https://www.worldcubeassociation.org/persons/2023TOLL02) |
 | 406 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
@@ -136,6 +137,7 @@
 | 791 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 797 | [Hirosh Nividu](https://www.worldcubeassociation.org/persons/2022WIJE01) |
 | 798 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) |
+| 798 | [Daniel Winterberg](https://www.worldcubeassociation.org/persons/2022WINT09) |
 | 804 | [Ivan Krueger](https://www.worldcubeassociation.org/persons/2016KRUE01) |
 | 805 | [Zhifang Xi (席之枋)](https://www.worldcubeassociation.org/persons/2016XIZH01) |
 | 807 | [Zian Song (宋子安)](https://www.worldcubeassociation.org/persons/2014SONG08) |

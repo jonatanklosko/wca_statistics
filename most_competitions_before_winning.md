@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### Rubik's Cube
@@ -182,7 +182,7 @@
 | 50 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) | [Rheinland-Pfalz Open 2024](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2024) |
 | 49 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Szczecin Winter 2022](https://www.worldcubeassociation.org/competitions/SzczecinWinter2022) |
 | 49 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [GLS V 2023](https://www.worldcubeassociation.org/competitions/GLSV2023) |
-| 43 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019) |
+| 44 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024) |
 
 ### Skewb
 

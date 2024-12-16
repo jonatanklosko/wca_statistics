@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1266,6 +1266,7 @@
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Autotalo Anime Adventure IX 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIX2024/results/podiums) |
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Willimiehen Kuutiopäivät 2024](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2024/results/podiums) |
 | 12 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [See You Next Year İstanbul 2023](https://www.worldcubeassociation.org/competitions/SeeYouNextYearIstanbul2023/results/podiums) |
+| 10 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) | [Bogotá No Duerme 2024](https://www.worldcubeassociation.org/competitions/BogotaNoDuerme2024/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Bora Bora Barra Open 2023](https://www.worldcubeassociation.org/competitions/BoraBoraBarraOpen2023/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Pequi Open 2020](https://www.worldcubeassociation.org/competitions/PequiOpen2020/results/podiums) |
@@ -1295,6 +1296,7 @@
 | 12 | [Elias Nordlund](https://www.worldcubeassociation.org/persons/2019NORD06) | [Gutekuben 2024](https://www.worldcubeassociation.org/competitions/Gutekuben2024/results/podiums) |
 | 11 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales El Salvador 2024](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2024/results/podiums) |
 | 10 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales Guatemala 2023](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2023/results/podiums) |
+| 10 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales Guatemala 2024](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2024/results/podiums) |
 | 10 | [Sujan Irosha Kumarapperuma](https://www.worldcubeassociation.org/persons/2019KUMA59) | [Colombo Cubing Christmas 2023](https://www.worldcubeassociation.org/competitions/ColomboCubingChristmas2023/results/podiums) |
 | 10 | [Sujan Irosha Kumarapperuma](https://www.worldcubeassociation.org/persons/2019KUMA59) | [Marawila Cubing Challenge 2024](https://www.worldcubeassociation.org/competitions/MarawilaCubingChallenge2024/results/podiums) |
 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
@@ -1330,6 +1332,7 @@
 | 11 | [Grigor Shahverdyan](https://www.worldcubeassociation.org/persons/2022SHAH29) | [Weekend Madness in Yerevan 2024](https://www.worldcubeassociation.org/competitions/WeekendMadnessinYerevan2024/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Araruama ao Cubo 2024](https://www.worldcubeassociation.org/competitions/AraruamaaoCubo2024/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [CubUai UFMG Open 2024](https://www.worldcubeassociation.org/competitions/CubUaiUFMGOpen2024/results/podiums) |
+| 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Paraíso ao Cubo II DC 2024](https://www.worldcubeassociation.org/competitions/ParaisoaoCuboIIDC2024/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Planetário Rio Open 2024](https://www.worldcubeassociation.org/competitions/PlanetarioRioOpen2024/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Xerém Open 2024](https://www.worldcubeassociation.org/competitions/XeremOpen2024/results/podiums) |
 | 10 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) | [Gutekuben 2024](https://www.worldcubeassociation.org/competitions/Gutekuben2024/results/podiums) |

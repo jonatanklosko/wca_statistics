@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### Rubik's Cube
@@ -43,18 +43,18 @@
 | 19.44 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 19.68, 18.28, 20.92, 20.18, 18.46 |
 | 20.92 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 20.65, 24.61, 21.65, 20.46, 20.44 |
 | 21.04 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 19.80, 21.17, 20.83, 22.47, 21.13 |
+| 21.15 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 20.65, 22.65, 18.73, 25.47, 20.16 |
 | 21.26 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 18.79, 25.52, 19.74, 20.48, 23.56 |
 | 21.30 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 19.84, 23.49, 20.37, 22.49, 21.05 |
 | 21.44 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 26.61, 21.30, 17.98, 21.05, 21.97 |
-| 21.51 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 20.65, 24.96, 20.13, 20.72, 23.15 |
 | 21.54 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 27.40, 21.35, 20.16, 21.95, 21.32 |
 
 ### 5x5x5 Cube
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 34.40 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 35.56, 34.96, 34.14, 34.11, 33.03 |
 | 34.76 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 39.71, 35.10, 33.55, 35.44, 33.75 |
-| 36.23 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 34.33, 40.66, 38.30, 36.06, 33.57 |
 | 36.27 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 34.53, 35.30, 38.97, 39.44, 33.82 |
 | 36.75 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 44.40, 34.49, 34.16, 37.95, 37.82 |
 | 37.34 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 36.55, 46.01, 38.08, 35.99, 37.39 |
@@ -68,7 +68,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:05.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:09.61, 58.03, 1:00.00, 1:12.29, 1:06.96 |
+| 1:05.51 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 58.03, 1:00.00, 1:12.29, 1:06.96, 1:09.58 |
 | 1:08.85 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:18.06, 1:09.86, 1:08.52, 1:02.67, 1:08.18 |
 | 1:12.35 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:12.77, 1:12.63, 1:11.65, 1:15.50, 1:11.46 |
 | 1:13.32 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:11.96, 1:13.14, 1:08.59, 1:30.01, 1:14.87 |

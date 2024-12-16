@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### 3x3x3 Blindfolded
@@ -48,10 +48,10 @@
 | 22 | [Davide Arnesano](https://www.worldcubeassociation.org/persons/2018ARNE04) |
 | 21 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) |
 | 21 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
+| 21 | [Lim Chun Yik (林峻毅)](https://www.worldcubeassociation.org/persons/2018YIKL01) |
 | 20 | [Joel Ulin](https://www.worldcubeassociation.org/persons/2011ULIN01) |
 | 20 | [Jonas Balsfulland](https://www.worldcubeassociation.org/persons/2012BALS01) |
 | 19 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) |
-| 19 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
 
 ### 5x5x5 Blindfolded
 

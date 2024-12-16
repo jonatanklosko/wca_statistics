@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Continents | Person |
 | ---: | :--- |
@@ -141,6 +141,7 @@
 | 4 | [Jason Vindvamara](https://www.worldcubeassociation.org/persons/2015VIND01) |
 | 4 | [Tim Xie](https://www.worldcubeassociation.org/persons/2015XIET01) |
 | 4 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 4 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
 | 4 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 4 | [Sheldon Rego](https://www.worldcubeassociation.org/persons/2016REGO01) |

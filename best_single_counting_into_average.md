@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### Rubik's Cube
@@ -54,14 +54,14 @@
 | ---: | :--- | :--- |
 | 33.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
 | 33.75 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
+| 34.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
+| 34.33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 | 34.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
+| 34.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubeChella 2024](https://www.worldcubeassociation.org/competitions/CubeChella2024/results/by_person#2012PARK03) |
 | 34.68 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Big Cub 2024](https://www.worldcubeassociation.org/competitions/SanDiegoBigCub2024/results/by_person#2012PARK03) |
 | 34.73 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
 | 34.76 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024/results/by_person#2016KOLA02) |
 | 34.92 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Mission Viejo 2023](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejo2023/results/by_person#2012PARK03) |
-| 35.10 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
-| 35.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
-| 35.13 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [UCSD Winter 2023](https://www.worldcubeassociation.org/competitions/UCSDWinter2023/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 

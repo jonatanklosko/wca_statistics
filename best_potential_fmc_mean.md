@@ -1,7 +1,7 @@
 ## Best potential FMC mean
 
 *Note: The means are computed by taking the best result for each attempt in the given round.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Mean | Attempt 1 | Attempt 2 | Attempt 3 | Competition |
 | :--: | :--: | :--: | :--: | :--- |

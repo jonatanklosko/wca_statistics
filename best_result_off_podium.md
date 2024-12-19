@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 
 ### Rubik's Cube
@@ -173,7 +173,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
-| [Prince Zoei Erin C. Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) | 2.77 | **3.53** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#eclock_f) | 4 |
+| [Zoei Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) | 2.77 | **3.53** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#eclock_f) | 4 |
 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.20 | **3.68** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eclock_f) | 4 |
 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.46 | **3.80** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 4 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 3.39 | **3.86** | [Cube4fun DW Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024/results/all#eclock_f) | 4 |

@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 
 ### 200 Competitions
@@ -90,8 +90,8 @@
 | 548 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 552 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 557 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
-| 562 | [Prince Zian Erik C. Principe](https://www.worldcubeassociation.org/persons/2022PRIN08) |
-| 562 | [Prince Zoei Erin C. Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) |
+| 562 | [Zian Principe](https://www.worldcubeassociation.org/persons/2022PRIN08) |
+| 562 | [Zoei Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) |
 | 568 | [August Barnard](https://www.worldcubeassociation.org/persons/2022BARN21) |
 | 575 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
 | 595 | [Jacob Bennett](https://www.worldcubeassociation.org/persons/2023BENN04) |

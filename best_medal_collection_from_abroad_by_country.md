@@ -1,36 +1,36 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| Hungary | **1454** | 1229 | 1056 | 3739 |
+| Hungary | **1454** | 1229 | 1057 | 3740 |
 | United States | **1258** | 999 | 870 | 3127 |
-| Germany | **1214** | 1143 | 1158 | 3515 |
+| Germany | **1215** | 1143 | 1158 | 3516 |
 | France | **1035** | 904 | 764 | 2703 |
-| Russia | **1011** | 580 | 456 | 2047 |
-| Netherlands | **989** | 801 | 679 | 2469 |
-| China | **839** | 804 | 699 | 2342 |
-| Poland | **685** | 448 | 349 | 1482 |
+| Russia | **1011** | 580 | 457 | 2048 |
+| Netherlands | **989** | 801 | 680 | 2470 |
+| China | **842** | 805 | 699 | 2346 |
+| Poland | **685** | 450 | 351 | 1486 |
 | Malaysia | **468** | 483 | 446 | 1397 |
-| United Kingdom | **437** | 481 | 459 | 1377 |
+| United Kingdom | **437** | 483 | 460 | 1380 |
 | Canada | **417** | 436 | 467 | 1320 |
-| Republic of Korea | **383** | 327 | 284 | 994 |
+| Republic of Korea | **386** | 329 | 285 | 1000 |
 | Hong Kong, China | **371** | 382 | 312 | 1065 |
 | Denmark | **366** | 307 | 252 | 925 |
-| Switzerland | **361** | 448 | 349 | 1158 |
-| India | **345** | 321 | 312 | 978 |
-| Italy | **338** | 332 | 299 | 969 |
-| Sweden | **318** | 374 | 379 | 1071 |
+| Switzerland | **362** | 449 | 350 | 1161 |
+| India | **348** | 322 | 315 | 985 |
+| Italy | **339** | 332 | 300 | 971 |
+| Sweden | **319** | 374 | 380 | 1073 |
 | Australia | **301** | 155 | 106 | 562 |
 | Finland | **293** | 233 | 199 | 725 |
 | Ukraine | **277** | 289 | 310 | 876 |
 | Argentina | **266** | 185 | 153 | 604 |
 | Chinese Taipei | **234** | 211 | 210 | 655 |
 | Romania | **228** | 172 | 143 | 543 |
-| Singapore | **223** | 206 | 230 | 659 |
-| Japan | **208** | 158 | 146 | 512 |
+| Singapore | **224** | 207 | 230 | 661 |
+| Japan | **208** | 160 | 146 | 514 |
 | Spain | **202** | 192 | 222 | 616 |
 | Indonesia | **202** | 180 | 144 | 526 |
 | Ireland | **179** | 90 | 75 | 344 |
@@ -51,9 +51,9 @@
 | Philippines | **80** | 96 | 101 | 277 |
 | Croatia | **79** | 113 | 88 | 280 |
 | Guatemala | **77** | 47 | 51 | 175 |
-| Venezuela | **73** | 81 | 76 | 230 |
+| Venezuela | **74** | 82 | 78 | 234 |
 | Brazil | **70** | 85 | 64 | 219 |
-| Vietnam | **67** | 91 | 81 | 239 |
+| Vietnam | **67** | 91 | 82 | 240 |
 | Estonia | **63** | 69 | 63 | 195 |
 | Jordan | **62** | 16 | 18 | 96 |
 | New Zealand | **54** | 77 | 63 | 194 |
@@ -70,7 +70,7 @@
 | Portugal | **27** | 31 | 32 | 90 |
 | Belize | **24** | 6 | 3 | 33 |
 | Pakistan | **22** | 16 | 21 | 59 |
-| Mexico | **21** | 28 | 34 | 83 |
+| Mexico | **21** | 29 | 35 | 85 |
 | El Salvador | **21** | 25 | 22 | 68 |
 | North Macedonia | **20** | 27 | 31 | 78 |
 | Bulgaria | **16** | 43 | 44 | 103 |

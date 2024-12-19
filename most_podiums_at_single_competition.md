@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1238,6 +1238,7 @@
 | 11 | [Asset Agabekov](https://www.worldcubeassociation.org/persons/2018AGAB03) | [Almaty Spring 2024](https://www.worldcubeassociation.org/competitions/AlmatySpring2024/results/podiums) |
 | 10 | [Asset Agabekov](https://www.worldcubeassociation.org/persons/2018AGAB03) | [Almaty Cubers Open 2024](https://www.worldcubeassociation.org/competitions/AlmatyCubersOpen2024/results/podiums) |
 | 11 | [Assylkhan Meirkhanov (Асылхан Мейрханов)](https://www.worldcubeassociation.org/persons/2018MEIR04) | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019/results/podiums) |
+| 12 | [Diego Villarreal Salinas](https://www.worldcubeassociation.org/persons/2018SALI09) | [El Centinela Mexicali 2024](https://www.worldcubeassociation.org/competitions/ElCentinelaMexicali2024/results/podiums) |
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Ankara April 2023](https://www.worldcubeassociation.org/competitions/AnkaraApril2023/results/podiums) |
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Edukent Weekend 2022](https://www.worldcubeassociation.org/competitions/EdukentWeekend2022/results/podiums) |
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Say Hi to Cubing in Ankara 2024](https://www.worldcubeassociation.org/competitions/SayHitoCubinginAnkara2024/results/podiums) |

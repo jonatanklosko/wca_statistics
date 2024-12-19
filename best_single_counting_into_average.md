@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 
 ### Rubik's Cube
@@ -151,7 +151,7 @@
 | 4.36 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Texas Championship 2024](https://www.worldcubeassociation.org/competitions/TexasChampionship2024/results/by_person#2019BAUM02) |
 | 4.40 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube More in Ardmore 2024](https://www.worldcubeassociation.org/competitions/CubeMoreinArdmore2024/results/by_person#2019BAUM02) |
 | 4.40 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023/results/by_person#2021DUNA01) |
-| 4.43 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/by_person#2019BAUM02) |
+| 4.43 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Manhattan Mini PM 2024](https://www.worldcubeassociation.org/competitions/ManhattanMiniPM2024/results/by_person#2018KHAN26) |
 
 ### 3x3x3 With Feet
 

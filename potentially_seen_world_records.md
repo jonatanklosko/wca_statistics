@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 | WRs | Person |
 | ---: | :--- |

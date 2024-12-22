@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -64,6 +64,7 @@
 | 2359 | [Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04) |
 | 2426 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 2462 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
+| 2471 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) |
 | 2490 | [Raymos Castillo](https://www.worldcubeassociation.org/persons/2017CAST41) |
 | 2512 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 2569 | [Aaron Soley](https://www.worldcubeassociation.org/persons/2017SOLE01) |

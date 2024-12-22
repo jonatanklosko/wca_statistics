@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1009,6 +1009,7 @@
 | 10 | [Marcos Masini](https://www.worldcubeassociation.org/persons/2016MASI01) | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018/results/podiums) |
 | 13 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Blenkir Wanka Cube 2024](https://www.worldcubeassociation.org/competitions/BlenkirWankaCube2024/results/podiums) |
 | 13 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Otoño 2023](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingOtono2023/results/podiums) |
+| 11 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Open Christmas Huancayo 2024](https://www.worldcubeassociation.org/competitions/OpenChristmasCubeHuancayo2024/results/podiums) |
 | 10 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Oso Cubing Fest I Lima 2024](https://www.worldcubeassociation.org/competitions/OsoCubingFestILima2024/results/podiums) |
 | 10 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [PUCP Cubing Festival lll 2024](https://www.worldcubeassociation.org/competitions/PUCPCubingFestivallll2024/results/podiums) |
 | 11 | [Andrey Conceição](https://www.worldcubeassociation.org/persons/2016SANT03) | [Cariri Open 2016](https://www.worldcubeassociation.org/competitions/CaririOpen2016/results/podiums) |
@@ -1027,6 +1028,7 @@
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Croatian Nationals 2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019/results/podiums) |
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023/results/podiums) |
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Swisscubing Cup Final 2023](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2023/results/podiums) |
+| 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Swisscubing Cup Final 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2024/results/podiums) |
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Zwolle Open 2018](https://www.worldcubeassociation.org/competitions/ZwolleOpen2018/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Tietomaa Open 2019](https://www.worldcubeassociation.org/competitions/TietomaaOpen2019/results/podiums) |
@@ -1111,6 +1113,7 @@
 | 10 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Taman Anggrek Speedcubing 2023](https://www.worldcubeassociation.org/competitions/TamanAnggrekSpeedcubing2023/results/podiums) |
 | 11 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Washington Championship 2023](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2023/results/podiums) |
 | 13 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Blenkir Wanka Cube 2024](https://www.worldcubeassociation.org/competitions/BlenkirWankaCube2024/results/podiums) |
+| 11 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Open Christmas Huancayo 2024](https://www.worldcubeassociation.org/competitions/OpenChristmasCubeHuancayo2024/results/podiums) |
 | 10 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Iquitos Cubing 2018](https://www.worldcubeassociation.org/competitions/IquitosCubing2018/results/podiums) |
 | 10 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Speedsolving Huancayo 2022](https://www.worldcubeassociation.org/competitions/SpeedsolvingHuancayo2022/results/podiums) |
 | 10 | [Farhan Siddiq](https://www.worldcubeassociation.org/persons/2017SIDD03) | [Pekanbaru Open 2017](https://www.worldcubeassociation.org/competitions/PekanbaruOpen2017/results/podiums) |

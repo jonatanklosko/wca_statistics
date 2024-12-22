@@ -1,27 +1,27 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1454** | 1229 | 1057 | 3740 |
 | United States | **1258** | 999 | 870 | 3127 |
-| Germany | **1215** | 1143 | 1158 | 3516 |
+| Germany | **1216** | 1143 | 1158 | 3517 |
 | France | **1035** | 904 | 764 | 2703 |
 | Russia | **1011** | 580 | 457 | 2048 |
 | Netherlands | **989** | 801 | 680 | 2470 |
-| China | **842** | 805 | 699 | 2346 |
-| Poland | **685** | 450 | 351 | 1486 |
+| China | **846** | 806 | 699 | 2351 |
+| Poland | **686** | 450 | 352 | 1488 |
 | Malaysia | **468** | 483 | 446 | 1397 |
-| United Kingdom | **437** | 483 | 460 | 1380 |
+| United Kingdom | **438** | 486 | 462 | 1386 |
 | Canada | **417** | 436 | 467 | 1320 |
 | Republic of Korea | **386** | 329 | 285 | 1000 |
 | Hong Kong, China | **371** | 382 | 312 | 1065 |
 | Denmark | **366** | 307 | 252 | 925 |
 | Switzerland | **362** | 449 | 350 | 1161 |
 | India | **348** | 322 | 315 | 985 |
-| Italy | **339** | 332 | 300 | 971 |
+| Italy | **339** | 332 | 301 | 972 |
 | Sweden | **319** | 374 | 380 | 1073 |
 | Australia | **301** | 155 | 106 | 562 |
 | Finland | **293** | 233 | 199 | 725 |
@@ -32,7 +32,7 @@
 | Singapore | **224** | 207 | 230 | 661 |
 | Japan | **208** | 160 | 146 | 514 |
 | Spain | **202** | 192 | 222 | 616 |
-| Indonesia | **202** | 180 | 144 | 526 |
+| Indonesia | **202** | 181 | 144 | 527 |
 | Ireland | **179** | 90 | 75 | 344 |
 | Austria | **176** | 235 | 249 | 660 |
 | Slovenia | **166** | 211 | 228 | 605 |
@@ -46,7 +46,7 @@
 | Norway | **114** | 123 | 126 | 363 |
 | Belarus | **114** | 81 | 93 | 288 |
 | Lithuania | **97** | 87 | 94 | 278 |
-| Slovakia | **90** | 103 | 114 | 307 |
+| Slovakia | **90** | 106 | 115 | 311 |
 | Thailand | **89** | 95 | 48 | 232 |
 | Philippines | **80** | 96 | 101 | 277 |
 | Croatia | **79** | 113 | 88 | 280 |

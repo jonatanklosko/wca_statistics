@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -547,6 +547,7 @@
 | 3101 | [Bernabe Kondrak](https://www.worldcubeassociation.org/persons/2016KOND04) |
 | 3109 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 3116 | [Ahsanul Insan Hamid](https://www.worldcubeassociation.org/persons/2011HAMI01) |
+| 3129 | [Levin Houghton](https://www.worldcubeassociation.org/persons/2016HOUG01) |
 | 3135 | [Ordway Persyn](https://www.worldcubeassociation.org/persons/2016PERS01) |
 | 3149 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) |
 | 3158 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |

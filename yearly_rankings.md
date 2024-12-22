@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 
 ### Rubik's Cube - Single
@@ -24,8 +24,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **4.05** | China | [Zhengzhou Open 2024](https://www.worldcubeassociation.org/competitions/ZhengzhouOpen2024) | 3.84, 4.25, 4.14, 4.13, 3.87 |
+| [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | **4.32** | China | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024) | 3.89, 3.90, 5.17, 4.02, 5.03 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **4.74** | Poland | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024) | 3.79, 4.37, 4.85, 5.33, 5.01 |
-| [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | **4.77** | China | [Xuzhou Autumn 2024](https://www.worldcubeassociation.org/competitions/XuzhouAutumn2024) | 5.94, 5.38, 4.48, 4.45, 4.25 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **4.84** | China | [Huzhou Open 2024](https://www.worldcubeassociation.org/competitions/HuzhouOpen2024) | 4.65, 5.20, 5.93, 4.52, 4.67 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **4.94** | United States | [Indiana Championship 2024](https://www.worldcubeassociation.org/competitions/IndianaChampionship2024) | 6.84, 4.91, 5.06, 4.31, 4.86 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **5.06** | United States | [Couve Cubing Fall 2024](https://www.worldcubeassociation.org/competitions/CouveCubingFall2024) | 4.76, 6.21, 4.88, 5.24, 5.06 |
@@ -53,8 +53,8 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **0.88** | China | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024) | 1.26, 0.84, 0.91, 0.89, 0.85 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **0.92** | United States | [New-Cumberland County 2024](https://www.worldcubeassociation.org/competitions/NewCumberlandCounty2024) | 0.84, 2.69, 0.71, 1.04, 0.88 |
-| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **0.92** | China | [Johor Cube Open 2024](https://www.worldcubeassociation.org/competitions/JohorCubeOpen2024) | 0.81, 1.81, 0.82, 0.97, 0.97 |
 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | **0.94** | United States | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) | 1.08, 2.17, 0.89, 0.58, 0.85 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **0.97** | Netherlands | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) | 0.93, 1.05, 0.66, 1.43, 0.92 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **0.97** | Poland | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) | 0.96, 1.16, 0.78, 2.30, 0.77 |
@@ -391,8 +391,8 @@
 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | **1.75** | China | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) | 1.80, 1.67, 1.78, 3.16, 1.63 |
 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | **1.78** | Czech Republic | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024) | 1.78, 1.93, 2.39, 1.64, 1.32 |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | **1.79** | Poland | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024) | 1.75, 1.41, 2.30, 2.22, 1.35 |
+| [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | **1.85** | China | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024) | 2.11, 1.65, 2.44, 1.78, 1.52 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.87** | United States | [Minnesota Warm Up 2024](https://www.worldcubeassociation.org/competitions/MinnesotaWarmUp2024) | 2.09, 1.39, 1.81, 2.37, 1.71 |
-| [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | **1.89** | Poland | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024) | 2.47, 1.96, 1.97, 1.72, 1.75 |
 
 ### Square-1 - Single
 

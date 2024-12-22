@@ -1,15 +1,15 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 
 ### Rubik's Cube
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 4.45 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 5.46, 5.24, 4.97, 5.48, 3.90, 4.28, 4.15, 4.06, 4.34, 5.49, 4.28, 4.63, 3.75, 4.48, 3.86, 4.77, 4.65, 5.89, 4.57, 3.78, 3.84, 4.25, 4.14, 4.13, 3.87 |
-| 4.99 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 5.38, 4.48, 4.45, 4.25, 4.47, 5.34, 4.95, 7.26, 5.11, 5.26, 5.23, 4.71, 5.05, 5.12, 5.07, 5.46, 4.81, 4.69, 4.40, 5.00, 5.07, 4.61, 5.26, 5.59, 5.22 |
+| 4.31 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3.90, 4.28, 4.15, 4.06, 4.34, 5.49, 4.28, 4.63, 3.75, 4.48, 3.86, 4.77, 4.65, 5.89, 4.57, 3.78, 3.84, 4.25, 4.14, 4.13, 3.87, 3.65, 4.44, 4.95, 5.21 |
+| 4.86 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 4.90, 4.32, 5.79, 5.82, 5.39, 3.49, 5.35, 5.57, 5.04, 3.81, 4.09, 5.24, 4.64, 4.66, 5.83, 4.15, 6.09, 3.89, 3.90, 5.17, 4.02, 5.03, 4.64, 5.34, 5.11 |
 | 5.02 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.09, 5.03, 4.88, 5.26, 5.17, 4.39, 6.40, 5.09, 4.93, 5.21, 4.97, 5.02, 5.81, 4.74, 5.49, 4.10, 5.66, 4.57, 5.04, 5.79, 4.45, 4.72, 4.23, 5.60, 4.30 |
 | 5.26 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 4.63, 5.34, 5.16, 5.23, 6.11, 4.43, 5.94, 4.57, 4.71, 6.08, 6.74, 5.08, 5.86, 6.23, 5.34, 4.52, 6.65, 5.49, 5.21, 4.43, 4.73, 5.35, 4.96, 4.42, 5.42 |
 | 5.28 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.38, 8.01, 4.73, 5.18, 4.01, 4.87, 4.60, 6.12, 5.56, 5.48, 5.53, 4.69, 4.92, 5.79, 4.25, 5.63, 6.66, 5.02, 5.27, 5.12, 5.25, 5.87, 5.31, 5.58, 4.92 |

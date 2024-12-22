@@ -1,10 +1,10 @@
 ## Current world records count by country
 
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
-| 25 | United States | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06), [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01), [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01), [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03), [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07), [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 24 | United States | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06), [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01), [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01), [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03), [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 5 | China | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 3 | Poland | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 2 | Argentina | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |

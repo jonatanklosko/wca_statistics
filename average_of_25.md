@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 
 ### Rubik's Cube
@@ -166,8 +166,8 @@
 | 1.76 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.38, 1.48, DNF, 1.76, 1.69, 1.26, 1.69, 1.44, 1.99, 4.46, 1.65, 1.63, 1.70, 1.74, 1.82, 3.20, 1.22, 2.48, 1.74, 1.97, 1.71, 1.66, 1.43, 1.43, 1.35 |
 | 1.81 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | 1.56, 1.83, 1.92, 1.90, 1.78, 1.24, 1.56, 2.46, 1.55, 1.24, 2.28, 2.76, 1.65, 1.57, 1.65, 2.42, 1.99, 2.09, 2.87, 1.72, 1.47, 1.49, 1.94, 1.86, 1.39 |
 | 1.87 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.67, 1.58, 2.49, 1.45, 1.62, 2.22, 1.34, 2.94, 1.46, 2.59, 1.23, 1.34, 2.19, 2.66, 2.36, 2.12, 1.94, 1.84, 2.35, 1.53, 1.25, 1.50, 1.55, 1.93, 2.21 |
+| 1.91 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | 1.81, 1.70, 1.16, 1.58, 2.39, 1.39, 2.44, 1.36, 3.01, 2.45, 1.63, 1.64, 1.36, 2.72, 2.53, 2.44, 2.02, 1.72, 1.61, 0.93, 3.04, 1.84, 1.93, 1.88, 1.61 |
 | 1.91 | [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) | 2.11, 1.24, 2.01, 2.04, 2.15, 2.03, 1.62, 1.94, 3.08, 4.13, 1.71, 4.11, 1.82, 2.18, 1.69, 1.30, 1.70, 1.91, 1.92, 1.84, 2.16, 1.36, 1.66, 1.50, 1.61 |
-| 1.92 | [Huining Huang (黄徽宁)](https://www.worldcubeassociation.org/persons/2019HUAH03) | 1.94, 1.82, 1.66, 2.58, 1.67, 2.14, 1.89, 3.64, 1.64, 1.62, 1.65, 2.61, 1.52, 2.29, 1.41, 2.14, 2.60, 1.78, 2.88, 2.23, 1.60, 1.94, 1.59, 1.32, 1.44 |
 
 ### Rubik's Clock
 

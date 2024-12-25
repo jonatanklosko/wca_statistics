@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -16,7 +16,7 @@
 | 174 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 168 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 158 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
-| 155 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 156 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 154 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 150 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 143 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
@@ -38,18 +38,18 @@
 | 111 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 109 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
+| 107 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 106 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 106 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 105 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 105 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 105 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 104 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 104 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 104 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 104 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 103 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 103 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 102 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 102 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
@@ -74,11 +74,11 @@
 | 91 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 90 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 88 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 88 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 87 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 87 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
 | 87 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 87 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 86 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 86 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 84 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 84 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |

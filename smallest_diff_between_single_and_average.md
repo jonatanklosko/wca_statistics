@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 
 ### Rubik's Cube
@@ -55,6 +55,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.07 | [Micki Kanaiya Harning](https://www.worldcubeassociation.org/persons/2014HARN01) | 1:39.88 | 1:39.95 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2014HARN01) |
 | 0.09 | [Justin John Navarro](https://www.worldcubeassociation.org/persons/2016NAVA07) | 1:22.65 | 1:22.74 | [General Santos City Open 2020](https://www.worldcubeassociation.org/competitions/GeneralSantosCityOpen2020/results/by_person#2016NAVA07) |
+| 0.10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 59.04 | 59.14 | [Long Island Side Events 2024](https://www.worldcubeassociation.org/competitions/LongIslandSideEvents2024/results/by_person#2009LIUE01) |
 | 0.11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 57.44 | 57.55 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/by_person#2013EGDA02) |
 | 0.12 | [Oleksii Lasiichuk (Олексій Ласійчук)](https://www.worldcubeassociation.org/persons/2018LASI01) | 1:10.52 | 1:10.64 | [Ukrainian Nationals 2023](https://www.worldcubeassociation.org/competitions/UkrainianNationals2023/results/by_person#2018LASI01) |
 | 0.12 | [Jorge Rafael Castañeda Sánchez](https://www.worldcubeassociation.org/persons/2010CAST01) | 1:11.74 | 1:11.86 | [NxN Tlaxcala 2019](https://www.worldcubeassociation.org/competitions/NxNTlaxcala2019/results/by_person#2010CAST01) |
@@ -62,7 +63,6 @@
 | 0.13 | [Declan Wilhelm](https://www.worldcubeassociation.org/persons/2016WILH03) | 1:20.85 | 1:20.98 | [Pennsylvania Championship 2024](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2024/results/by_person#2016WILH03) |
 | 0.13 | [Andy Liu](https://www.worldcubeassociation.org/persons/2022LIUA05) | 2:15.73 | 2:15.86 | [Virginia Championship 2023](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2023/results/by_person#2022LIUA05) |
 | 0.14 | [Clément Valot](https://www.worldcubeassociation.org/persons/2010VALO01) | 2:35.06 | 2:35.20 | [Diñs Open 2012](https://www.worldcubeassociation.org/competitions/DinsOpen2012/results/by_person#2010VALO01) |
-| 0.15 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | 50.05 | 50.20 | [Chanteloup Open 2023](https://www.worldcubeassociation.org/competitions/ChanteloupOpen2023/results/by_person#2010KADD01) |
 
 ### 6x6x6 Cube
 

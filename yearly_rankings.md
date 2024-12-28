@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 December 2024*
+*Updated on 28 December 2024*
 
 
 ### Rubik's Cube - Single
@@ -313,11 +313,11 @@
 | [Jakub Drobný](https://www.worldcubeassociation.org/persons/2016DROB01) | **0.84** | Slovakia | [Banská Bystrica Open 2024](https://www.worldcubeassociation.org/competitions/BanskaBystricaOpen2024) | 2.29, 2.83, 2.39, 3.05, 0.84 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **0.87** | United Kingdom | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024) | 1.90, 1.96, 0.87, 2.18, 2.03 |
 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | **0.93** | United States | [Long Island Winter Solstice 2024](https://www.worldcubeassociation.org/competitions/LongIslandWinterSolstice2024) | 1.72, 1.61, 0.93, 3.04, 1.84 |
+| [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | **0.93** | China | [Yancheng Open 2024](https://www.worldcubeassociation.org/competitions/YanchengOpen2024) | 1.16, 1.38, 1.96, 1.64, 0.93 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **0.95** | United States | [Countless Cubes Chicago B 2024](https://www.worldcubeassociation.org/competitions/CountlessCubesChicagoB2024) | 4.35, 1.30, 0.95, 3.30, 4.24 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **0.95** | Russia | [Prague Open 2024](https://www.worldcubeassociation.org/competitions/PragueOpen2024) | 0.95, 1.64, 1.07, 4.12, 2.48 |
 | [Jakob Kitak](https://www.worldcubeassociation.org/persons/2018KITA03) | **0.96** | Slovenia | [Maribor Open 2024](https://www.worldcubeassociation.org/competitions/MariborOpen2024) | 3.17, 5.12, 3.76, 0.96, 2.83 |
 | [Karl Matthew Angeles](https://www.worldcubeassociation.org/persons/2018ANGE01) | **0.98** | Philippines | [Caloocan Cube Craze 2024](https://www.worldcubeassociation.org/competitions/CaloocanCubeCraze2024) | 0.98, 5.35, 3.62, 8.06, 8.60 |
-| [Sigurd Volan Håvik](https://www.worldcubeassociation.org/persons/2022HAVI03) | **0.98** | Norway | [Chalmers Open 2024](https://www.worldcubeassociation.org/competitions/ChalmersOpen2024) | 1.81, 2.26, 0.98, 2.09, DNF |
 
 ### Pyraminx - Average
 

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 December 2024*
+*Updated on 28 December 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -239,7 +239,7 @@
 | 1231 | [Max Day](https://www.worldcubeassociation.org/persons/2014DAYM01) |
 | 1232 | [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) |
 | 1232 | [Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01) |
-| 1238 | [Amity Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
+| 1238 | [Madeline Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
 | 1238 | [Alex Butera](https://www.worldcubeassociation.org/persons/2021BUTE03) |
 | 1239 | [Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03) |
 | 1245 | [Aaron Spiller](https://www.worldcubeassociation.org/persons/2018SPIL01) |

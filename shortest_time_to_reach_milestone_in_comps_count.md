@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 
 ### 200 Competitions
@@ -76,7 +76,7 @@
 | 2067 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
 | 2080 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 2085 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
-| 2115 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
+| 2088 | [Charles Amarello](https://www.worldcubeassociation.org/persons/2019AMAR04) |
 
 ### 50 Competitions
 
@@ -101,7 +101,7 @@
 | 631 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 631 | [Kenji Gipson-Nahman](https://www.worldcubeassociation.org/persons/2023GIPS01) |
 | 658 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
-| 680 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
+| 660 | [Luis Tan Hong Yi (陈宏溢)](https://www.worldcubeassociation.org/persons/2023YILU01) |
 
 ### 25 Competitions
 
@@ -118,6 +118,7 @@
 | 299 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 | 302 | [Matteo Rodríguez Colorado](https://www.worldcubeassociation.org/persons/2024COLO04) |
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
+| 316 | [Gabriel Subion](https://www.worldcubeassociation.org/persons/2024SUBI01) |
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 337 | [Jack Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI08) |
 | 337 | [Jacob Goossens Celis](https://www.worldcubeassociation.org/persons/2023CELI06) |
@@ -126,7 +127,6 @@
 | 351 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 358 | [Juan David Blanco Sanabria](https://www.worldcubeassociation.org/persons/2023SANA04) |
 | 359 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
-| 364 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 
 ### 10 Competitions
 

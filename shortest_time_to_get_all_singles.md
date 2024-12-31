@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 | Days | Person |
 | ---: | :--- |
@@ -490,6 +490,7 @@
 | 2491 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2498 | [Enoch Gray](https://www.worldcubeassociation.org/persons/2012GRAY01) |
 | 2500 | [Michael Larsen](https://www.worldcubeassociation.org/persons/2017LARS03) |
+| 2505 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) |
 | 2520 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 2533 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |
 | 2534 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
@@ -553,6 +554,7 @@
 | 3158 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 3164 | [Moisés Alberto Rojas León](https://www.worldcubeassociation.org/persons/2016LEON04) |
 | 3170 | [Luboš Bartík](https://www.worldcubeassociation.org/persons/2015BART01) |
+| 3193 | [Joey Mait](https://www.worldcubeassociation.org/persons/2016MAIT02) |
 | 3198 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
 | 3267 | [Samuel Cuellar Ramirez](https://www.worldcubeassociation.org/persons/2015RAMI14) |
 | 3277 | [Ben Bergen](https://www.worldcubeassociation.org/persons/2015BERG10) |

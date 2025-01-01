@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 31 December 2024*
+*Updated on  1 January 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -23,9 +23,9 @@
 | 14 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 13 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) |
 | 13 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
+| 12 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 12 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) |
 | 12 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
-| 11 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 11 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 10 | [Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01) |
@@ -202,6 +202,7 @@
 | 1 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |
 | 1 | [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01) |
 | 1 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
+| 1 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) |
 | 1 | [Fakhri Raihaan](https://www.worldcubeassociation.org/persons/2010RAIH01) |
 | 1 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
 | 1 | [Grant Tregay](https://www.worldcubeassociation.org/persons/2003TREG02) |

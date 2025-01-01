@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 31 December 2024*
+*Updated on  1 January 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1292,6 +1292,7 @@
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Budapest Summer 2024](https://www.worldcubeassociation.org/competitions/BudapestSummer2024/results/podiums) |
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Longstone City Blind Open 2024](https://www.worldcubeassociation.org/competitions/LongstoneCityBlindOpen2024/results/podiums) |
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Serbian Championship 2023](https://www.worldcubeassociation.org/competitions/SerbianChampionship2023/results/podiums) |
+| 12 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2024](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2024/results/podiums) |
 | 10 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Cubing Kazakhstan Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingKazakhstanNationals2023/results/podiums) |
 | 10 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums) |
 | 10 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) | [Billings Speedcubing 2023](https://www.worldcubeassociation.org/competitions/BillingsSpeedcubing2023/results/podiums) |

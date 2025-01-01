@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 31 December 2024*
+*Updated on  1 January 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -11,8 +11,8 @@
 | 183 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 181 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 179 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 177 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 176 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 176 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 174 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 169 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 158 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
@@ -41,18 +41,18 @@
 | 109 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 106 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
+| 106 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 105 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 105 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
-| 105 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 105 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 104 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 104 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 104 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 103 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
+| 103 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 102 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
-| 102 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 102 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 101 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 101 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |

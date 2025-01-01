@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 31 December 2024*
+*Updated on  1 January 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -50,15 +50,15 @@
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 79 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
 | 78 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
+| 76 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 75 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 75 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
-| 75 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 74 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
 | 74 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
 | 73 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
-| 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
+| 73 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
 | 73 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
-| 72 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
+| 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 72 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 72 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 71 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |

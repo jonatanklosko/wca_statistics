@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 31 December 2024*
+*Updated on  1 January 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -48,10 +48,10 @@
 | 90 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |
 | 90 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) |
 | 89 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
+| 88 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 88 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
 | 88 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |
 | 87 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) |
-| 87 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 87 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
 | 86 | [Lars Petrus](https://www.worldcubeassociation.org/persons/1982PETR01) |
 | 86 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |

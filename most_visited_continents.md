@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 31 December 2024*
+*Updated on  1 January 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -52,6 +52,7 @@
 | 5 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 5 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) |
 | 5 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
+| 5 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
 | 5 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) |
 | 5 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
@@ -146,7 +147,6 @@
 | 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 4 | [Sheldon Rego](https://www.worldcubeassociation.org/persons/2016REGO01) |
 | 4 | [Addison Heffernan](https://www.worldcubeassociation.org/persons/2016HEFF01) |
-| 4 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
 | 4 | [Hitoki Kidahashi (木田橋仁毅)](https://www.worldcubeassociation.org/persons/2016KIDA02) |
 | 4 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
 | 4 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) |

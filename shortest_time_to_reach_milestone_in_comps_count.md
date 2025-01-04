@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 
 ### 200 Competitions
@@ -36,6 +36,7 @@
 | 1198 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 2219 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2247 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 2312 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 2340 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 2476 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 2564 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
@@ -51,7 +52,6 @@
 | 2969 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 3011 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 3038 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 3060 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 
 ### 100 Competitions
 
@@ -118,7 +118,7 @@
 | 299 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 | 302 | [Matteo Rodríguez Colorado](https://www.worldcubeassociation.org/persons/2024COLO04) |
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
-| 316 | [Gabriel Subion](https://www.worldcubeassociation.org/persons/2024SUBI01) |
+| 315 | [Gabriel Subion](https://www.worldcubeassociation.org/persons/2024SUBI01) |
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 337 | [Jack Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI08) |
 | 337 | [Jacob Goossens Celis](https://www.worldcubeassociation.org/persons/2023CELI06) |

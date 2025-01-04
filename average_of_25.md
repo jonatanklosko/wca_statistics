@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 
 ### Rubik's Cube
@@ -135,7 +135,7 @@
 | 9.18 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 8.76, 8.00, 8.92, 9.37, 9.17, 9.36, 9.83, 8.08, 8.92, 9.48, 9.74, 7.30, 9.31, 10.82, 10.57, 9.96, 9.22, 10.02, 9.78, 9.48, 8.95, 6.20, 7.86, 9.68, 8.83 |
 | 9.23 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 8.56, 8.74, 9.71, 9.20, 10.77, 9.83, 8.36, 10.12, 10.69, 8.81, 9.44, 9.12, 8.92, 9.31, 8.34, 9.01, DNF, 7.80, 9.83, 9.85, 8.33, 8.98, 9.38, 9.24, 8.19 |
 | 9.25 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 9.71, 7.30, 10.19, 10.64, 6.80, 8.46, 8.90, 6.80, 11.26, 10.91, 8.93, 8.95, 8.88, 9.77, 10.36, 9.48, 12.10, 8.12, 10.38, 7.74, 8.86, 9.97, 8.79, 9.39, 8.51 |
-| 9.43 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | 8.35, 8.26, 9.24, 10.31, 10.04, 10.26, 8.10, 9.33, 9.00, 8.87, 10.34, DNF, 11.05, 11.71, 11.18, 7.67, 8.62, 9.13, 8.01, 10.27, 10.25, 11.49, 7.39, 6.49, 8.29 |
+| 9.39 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | 10.04, 10.26, 8.10, 9.33, 9.00, 8.87, 10.34, DNF, 11.05, 11.71, 11.18, 7.67, 8.62, 9.13, 8.01, 10.27, 10.25, 11.49, 7.39, 6.49, 8.29, 8.43, 9.48, 7.78, 9.67 |
 | 9.45 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 9.68, 7.91, 7.91, 10.24, 7.41, 10.46, 8.39, 8.66, 11.17, 10.37, 9.13, 8.74, 12.32, 12.81, 8.89, 9.01, 9.57, 9.44, 7.55, 9.18, 12.02, 8.84, 8.93, 10.57, 9.25 |
 | 9.47 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 8.94, 7.64, 8.60, 12.01, 10.24, 10.61, 9.34, 7.98, 9.69, 7.73, 9.88, 10.20, 10.12, 12.57, 10.31, 8.73, 10.91, 9.29, 7.49, 10.12, 8.98, 9.80, 9.38, 7.86, 10.13 |
 

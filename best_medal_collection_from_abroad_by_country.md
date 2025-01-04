@@ -1,21 +1,21 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1454** | 1230 | 1058 | 3742 |
-| United States | **1259** | 999 | 870 | 3128 |
-| Germany | **1220** | 1150 | 1160 | 3530 |
+| United States | **1261** | 1001 | 870 | 3132 |
+| Germany | **1220** | 1153 | 1161 | 3534 |
 | France | **1036** | 904 | 764 | 2704 |
 | Russia | **1029** | 582 | 463 | 2074 |
 | Netherlands | **989** | 801 | 680 | 2470 |
-| China | **849** | 807 | 702 | 2358 |
+| China | **850** | 807 | 703 | 2360 |
 | Poland | **686** | 452 | 352 | 1490 |
-| Malaysia | **474** | 483 | 446 | 1403 |
-| United Kingdom | **439** | 486 | 463 | 1388 |
-| Canada | **417** | 437 | 467 | 1321 |
+| Malaysia | **474** | 484 | 449 | 1407 |
+| United Kingdom | **439** | 487 | 463 | 1389 |
+| Canada | **418** | 437 | 467 | 1322 |
 | Republic of Korea | **386** | 329 | 285 | 1000 |
 | Hong Kong, China | **372** | 383 | 316 | 1071 |
 | Switzerland | **367** | 449 | 351 | 1167 |
@@ -23,7 +23,7 @@
 | India | **348** | 325 | 315 | 988 |
 | Italy | **341** | 333 | 303 | 977 |
 | Sweden | **319** | 374 | 380 | 1073 |
-| Australia | **303** | 159 | 107 | 569 |
+| Australia | **305** | 159 | 108 | 572 |
 | Finland | **293** | 234 | 200 | 727 |
 | Ukraine | **283** | 294 | 312 | 889 |
 | Argentina | **266** | 185 | 153 | 604 |
@@ -34,7 +34,7 @@
 | Spain | **202** | 192 | 222 | 616 |
 | Indonesia | **202** | 185 | 148 | 535 |
 | Ireland | **184** | 90 | 77 | 351 |
-| Austria | **182** | 237 | 254 | 673 |
+| Austria | **183** | 237 | 254 | 674 |
 | Slovenia | **166** | 211 | 228 | 605 |
 | Latvia | **156** | 221 | 225 | 602 |
 | Belgium | **150** | 220 | 209 | 579 |

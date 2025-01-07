@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 
 ### Rubik's Cube
@@ -16,7 +16,7 @@
 | 3.96 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019WANY36) |
 | 3.98 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/by_person#2019WANY36) |
 | 3.99 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Mofunland Cruise Open 2023](https://www.worldcubeassociation.org/competitions/MofunlandCruiseOpen2023/results/by_person#2019WANY36) |
-| 4.00 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/by_person#2019WANY36) |
+| 3.99 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | [Beijing Winter 2025](https://www.worldcubeassociation.org/competitions/BeijingWinter2025/results/by_person#2023DUYU01) |
 
 ### 2x2x2 Cube
 
@@ -73,10 +73,10 @@
 | 7.49 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
 | 7.63 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Quezon City Open II 2024](https://www.worldcubeassociation.org/competitions/QuezonCityOpenII2024/results/by_person#2017VILL41) |
 | 7.67 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2022ROBI05) |
+| 7.67 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [Xi'an New Year 2025](https://www.worldcubeassociation.org/competitions/XianNewYear2025/results/by_person#2023CHEN30) |
 | 7.68 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023/results/by_person#2014SEBA01) |
 | 7.70 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2024](https://www.worldcubeassociation.org/competitions/BaztanOpen2024/results/by_person#2012PONC02) |
 | 7.71 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2012PONC02) |
-| 7.71 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Quezon City Open II 2024](https://www.worldcubeassociation.org/competitions/QuezonCityOpenII2024/results/by_person#2017VILL41) |
 
 ### Megaminx
 

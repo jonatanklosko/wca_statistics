@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 13862 |
+| 1.47 | World | 13878 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4489 |
+| 1.73 | Europe | 4494 |
 | 1.49 | South America | 1727 |
-| 1.47 | Oceania | 611 |
-| 1.41 | Asia | 2938 |
+| 1.47 | Oceania | 612 |
+| 1.41 | Asia | 2945 |
 | 1.30 | Africa | 165 |
-| 1.20 | North America | 3932 |
+| 1.20 | North America | 3935 |
 
 ### Countries
 
@@ -34,9 +34,9 @@
 | 1.92 | Lithuania | 26 |
 | 1.92 | Russia | 220 |
 | 1.92 | Serbia | 24 |
-| 1.88 | France | 312 |
+| 1.88 | France | 313 |
 | 1.88 | Norway | 133 |
-| 1.88 | United Kingdom | 265 |
+| 1.88 | United Kingdom | 267 |
 | 1.87 | Hungary | 52 |
 | 1.86 | Kyrgyzstan | 7 |
 | 1.85 | Spain | 386 |
@@ -68,21 +68,21 @@
 | 1.58 | New Zealand | 132 |
 | 1.58 | Netherlands | 122 |
 | 1.58 | Greece | 33 |
-| 1.57 | India | 613 |
 | 1.57 | San Marino | 7 |
+| 1.57 | India | 619 |
 | 1.56 | Dominican Republic | 27 |
 | 1.55 | Nepal | 22 |
 | 1.53 | Malaysia | 101 |
 | 1.53 | Bolivia | 131 |
-| 1.52 | Sweden | 318 |
+| 1.52 | Sweden | 319 |
 | 1.50 | Belize | 2 |
 | 1.50 | Ghana | 2 |
 | 1.50 | Madagascar | 2 |
 | 1.49 | Peru | 222 |
-| 1.49 | Latvia | 35 |
+| 1.47 | Latvia | 36 |
 | 1.46 | Bulgaria | 24 |
 | 1.45 | South Africa | 84 |
-| 1.44 | Australia | 479 |
+| 1.44 | Australia | 480 |
 | 1.44 | Jordan | 16 |
 | 1.43 | Nigeria | 7 |
 | 1.42 | Israel | 59 |
@@ -100,7 +100,7 @@
 | 1.31 | Republic of Korea | 109 |
 | 1.30 | Hong Kong, China | 23 |
 | 1.30 | Kuwait | 10 |
-| 1.29 | Philippines | 327 |
+| 1.29 | Philippines | 328 |
 | 1.29 | Andorra | 7 |
 | 1.29 | Morocco | 7 |
 | 1.29 | Portugal | 28 |
@@ -118,7 +118,7 @@
 | 1.18 | Armenia | 11 |
 | 1.17 | Canada | 396 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3161 |
+| 1.16 | United States | 3164 |
 | 1.13 | Azerbaijan | 46 |
 | 1.11 | Honduras | 18 |
 | 1.09 | Cyprus | 11 |

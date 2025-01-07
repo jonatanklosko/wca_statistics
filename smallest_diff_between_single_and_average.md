@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 
 ### Rubik's Cube
@@ -152,7 +152,7 @@
 | 0.03 | [Seungho Song (송승호)](https://www.worldcubeassociation.org/persons/2018SONG36) | 1.98 | 2.01 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2018SONG36) |
 | 0.03 | [Mario Armando Takahashi Martins Dias](https://www.worldcubeassociation.org/persons/2019DIAS02) | 2.73 | 2.76 | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/by_person#2019DIAS02) |
 | 0.03 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.43 | 3.46 | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024/results/by_person#2018THOM29) |
-| 0.04 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.54 | 1.58 | [Virginia Beach Fall 2023](https://www.worldcubeassociation.org/competitions/VirginiaBeachFall2023/results/by_person#2017NIEL03) |
+| 0.03 | [Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02) | 4.36 | 4.39 | [Julekubing 2024](https://www.worldcubeassociation.org/competitions/Julekubing2024/results/by_person#2016HARA02) |
 
 ### Rubik's Clock
 

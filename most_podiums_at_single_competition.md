@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -801,6 +801,7 @@
 | 10 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | [Gotirubik Fest 2016](https://www.worldcubeassociation.org/competitions/GotirubikFest2016/results/podiums) |
 | 10 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | [Guadalajara 2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017/results/podiums) |
 | 10 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | [Tlaxcala 2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018/results/podiums) |
+| 10 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [Tassie Summer 2025](https://www.worldcubeassociation.org/competitions/TassieSummer2025/results/podiums) |
 | 14 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Sin Fronteras Ecuador 2019](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2019/results/podiums) |
 | 12 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Ecuador Nationals 2018](https://www.worldcubeassociation.org/competitions/EcuadorNationals2018/results/podiums) |
 | 11 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Guayaquil Championship 2018](https://www.worldcubeassociation.org/competitions/GuayaquilChampionship2018/results/podiums) |
@@ -1002,6 +1003,7 @@
 | 15 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [TAS State Championship 2021](https://www.worldcubeassociation.org/competitions/TASStateChampionship2021/results/podiums) |
 | 12 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
 | 11 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Hobart Hoedown 2019](https://www.worldcubeassociation.org/competitions/HobartHoedown2019/results/podiums) |
+| 11 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Summer 2025](https://www.worldcubeassociation.org/competitions/TassieSummer2025/results/podiums) |
 | 11 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Winter 2023](https://www.worldcubeassociation.org/competitions/TassieWinter2023/results/podiums) |
 | 10 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Summer - Sorell 2022](https://www.worldcubeassociation.org/competitions/Sorell2022/results/podiums) |
 | 10 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Twist Off 2022](https://www.worldcubeassociation.org/competitions/TassieTwistOff2022/results/podiums) |

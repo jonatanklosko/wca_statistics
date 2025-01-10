@@ -1,13 +1,13 @@
 ## Most competitions abroad
 
-*Updated on  7 January 2025*
+*Updated on 10 January 2025*
 
 | Competitions | Person |
 | ---: | :--- |
 | 194 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
-| 192 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 193 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 162 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 145 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
+| 146 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 142 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 138 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 133 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
@@ -16,7 +16,7 @@
 | 123 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 118 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 118 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 113 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
+| 114 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 112 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 112 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 111 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
@@ -83,14 +83,14 @@
 | 61 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
 | 60 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 60 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
+| 60 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
+| 60 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 60 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 60 | [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) |
 | 60 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 59 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 59 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
-| 59 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 59 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
-| 59 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 58 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 58 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 58 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |

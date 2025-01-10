@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 January 2025*
+*Updated on 10 January 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -550,6 +550,7 @@
 | 3116 | [Ahsanul Insan Hamid](https://www.worldcubeassociation.org/persons/2011HAMI01) |
 | 3129 | [Levin Houghton](https://www.worldcubeassociation.org/persons/2016HOUG01) |
 | 3135 | [Ordway Persyn](https://www.worldcubeassociation.org/persons/2016PERS01) |
+| 3144 | [Christian Naguio](https://www.worldcubeassociation.org/persons/2016NAGU02) |
 | 3149 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) |
 | 3158 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 3164 | [Moisés Alberto Rojas León](https://www.worldcubeassociation.org/persons/2016LEON04) |

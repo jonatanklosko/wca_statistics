@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 January 2025*
+*Updated on 10 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -229,6 +229,7 @@
 | 10 | [Back in Mauritius 2023](https://www.worldcubeassociation.org/competitions/BackinMauritius2023) |
 | 10 | [Back to Cambridge A 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeA2021) |
 | 10 | [BASC 38 PBQ 2022](https://www.worldcubeassociation.org/competitions/BASC38PBQ2022) |
+| 10 | [Baton Rouge Winter FMC 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterFMC2025) |
 | 10 | [Be Placid in Lake Placid 2024](https://www.worldcubeassociation.org/competitions/BePlacidinLakePlacid2024) |
 | 10 | [Bergshamra 2013](https://www.worldcubeassociation.org/competitions/BergshamraBlind2013) |
 | 10 | [Big Cubata BLD 2024](https://www.worldcubeassociation.org/competitions/BigCubataBLD2024) |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 January 2025*
+*Updated on 13 January 2025*
 
 
 ### Rubik's Cube
@@ -142,6 +142,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 4.18 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025/results/by_person#2017AGGA01) |
 | 4.19 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue Squan Fest 2024](https://www.worldcubeassociation.org/competitions/BellevueSquanFest2024/results/by_person#2017AGGA01) |
 | 4.23 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/by_person#2019BAUM02) |
 | 4.28 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN26) |
@@ -151,7 +152,6 @@
 | 4.36 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Texas Championship 2024](https://www.worldcubeassociation.org/competitions/TexasChampionship2024/results/by_person#2019BAUM02) |
 | 4.40 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube More in Ardmore 2024](https://www.worldcubeassociation.org/competitions/CubeMoreinArdmore2024/results/by_person#2019BAUM02) |
 | 4.40 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023/results/by_person#2021DUNA01) |
-| 4.43 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Manhattan Mini PM 2024](https://www.worldcubeassociation.org/competitions/ManhattanMiniPM2024/results/by_person#2018KHAN26) |
 
 ### 3x3x3 With Feet
 

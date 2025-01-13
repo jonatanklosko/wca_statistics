@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 January 2025*
+*Updated on 13 January 2025*
 
 
 ### Rubik's Cube
@@ -205,14 +205,14 @@
 | ---: | :--- | :--- |
 | 5.26 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.38, 4.81, 5.44, 4.63, 4.10, 6.68, 5.22, 6.15, 4.03, 5.44, 6.31, 4.43, 6.87, 7.79, 4.82, 5.55, 4.74, 5.36, 4.28, 6.84, 5.44, 4.72, 4.48, 4.82, 4.97 |
 | 5.29 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 4.83, 4.79, 5.44, 4.68, 6.36, 4.34, 4.58, 4.97, 5.81, 5.64, 5.16, 4.22, 6.09, 6.12, 5.20, 6.33, 4.52, 4.09, 8.26, 6.50, 4.35, 4.75, 5.25, 7.49, 5.43 |
-| 5.56 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 4.60, 4.57, 5.16, 5.92, 5.41, 5.33, 4.83, 5.24, 6.03, 5.44, 5.04, 5.02, 5.96, 6.06, 6.15, 11.45, 5.15, 7.36, 4.84, 5.81, 6.03, 5.20, 7.18, 5.28, 5.75 |
+| 5.39 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 4.64, 4.94, 5.11, 7.41, 6.25, 9.52, 6.08, 4.41, 5.04, 5.22, 11.53, 4.30, 7.16, 4.39, 4.59, 6.95, 5.11, 6.54, 6.01, 4.18, 3.73, 5.27, 4.62, 4.24, 4.93 |
 | 5.73 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 6.05, 5.75, 6.35, 7.41, 5.32, 5.36, 5.97, 6.24, 5.68, 6.48, 5.65, 5.80, 4.89, 5.65, 5.18, 10.73, 4.76, 4.68, 6.06, 5.58, 6.25, 4.31, 4.63, 7.10, 5.50 |
 | 5.82 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.28, 6.29, 4.89, 5.79, 5.77, 6.15, 5.11, 8.90, 4.76, 6.55, 5.83, 5.32, 6.74, 4.70, 5.51, 6.10, 4.96, 5.31, 6.69, 6.20, 8.91, 6.86, 6.68, 5.41, 4.72 |
 | 5.96 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 4.82, 5.56, 7.48, 6.00, 4.49, 5.90, 7.41, 6.00, 4.83, 6.07, 5.34, 7.38, 4.97, 6.74, 6.58, 5.72, 4.64, 5.57, 7.60, 7.11, 6.12, 6.50, 6.53, 4.70, 5.28 |
 | 6.11 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 5.25, 4.20, 7.27, 5.96, 7.73, 4.40, 6.54, 8.57, 5.47, 4.66, 6.92, 7.36, 8.13, 4.14, 6.81, 4.94, 7.00, 5.34, 5.92, 5.76, 6.54, 6.06, 7.01, 6.15, 5.25 |
 | 6.14 | [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | 6.33, 6.80, 5.96, 6.32, 4.47, 4.68, 11.90, 7.00, 5.57, 11.55, 6.98, 5.97, 5.56, 5.91, 5.30, 6.23, 5.76, 6.29, 7.18, 5.75, 6.71, 5.88, 6.28, 5.06, 6.13 |
+| 6.15 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 6.05, 5.96, 6.92, 6.55, 6.21, 11.68, 6.85, 7.06, 5.57, 5.91, DNF, 5.97, 5.48, 6.33, 6.43, 5.61, 6.60, 5.62, 6.51, 6.29, 5.67, 5.29, 5.31, 5.73, 5.80 |
 | 6.21 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 7.28, 6.00, 5.37, 7.96, 4.67, 5.96, 4.86, 8.16, 5.96, 8.40, 5.94, 5.43, 5.12, 8.33, 7.96, 5.34, 5.93, 6.03, 5.69, 6.66, 5.54, 6.57, 6.40, 6.27, 4.57 |
-| 6.26 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 6.95, 6.88, 6.07, 5.85, 7.56, 5.50, 5.53, 6.16, 6.42, 5.12, 7.27, 6.51, 5.55, 5.33, 8.89, 7.66, 5.45, 5.32, 8.83, 6.06, 5.63, 7.15, 6.16, 5.69, 6.18 |
 
 ### 4x4x4 Blindfolded
 

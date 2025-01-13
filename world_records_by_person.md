@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 January 2025*
+*Updated on 13 January 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -114,6 +114,7 @@
 | 3 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
 | 3 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 3 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
+| 3 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 3 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 3 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) |
 | 3 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
@@ -157,7 +158,6 @@
 | 2 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) |
 | 2 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 2 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
-| 2 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 2 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) |
 | 2 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 2 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |

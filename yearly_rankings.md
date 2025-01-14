@@ -32,7 +32,7 @@
 | [Kyle Santucci](https://www.worldcubeassociation.org/persons/2016SANT08) | **5.76** | Canada | [Alberta 10th Anniversary 2025](https://www.worldcubeassociation.org/competitions/Alberta10thAnniversary2025) | 5.76, 7.29, 5.23, 5.24, 6.28 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **5.88** | United States | [Santa Barbara Winter 2025](https://www.worldcubeassociation.org/competitions/SantaBarbaraWinter2025) | 5.52, 4.97, 6.13, 5.99, 6.52 |
 | [Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01) | **5.99** | United States | [Baton Rouge Winter A 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterA2025) | 5.70, 7.17, 4.85, 6.09, 6.19 |
-| [Zixuan Xu (徐子轩)](https://www.worldcubeassociation.org/persons/2021XUZI03) | **6.03** | China | [Beijing Winter 2025](https://www.worldcubeassociation.org/competitions/BeijingWinter2025) | 4.75, 6.33, 5.52, 6.91, 6.24 |
+| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **6.03** | France | [Chanteloup Open 2025](https://www.worldcubeassociation.org/competitions/ChanteloupOpen2025) | 6.00, 6.29, 6.97, 5.81, 5.31 |
 
 ### 2x2x2 Cube - Single
 
@@ -47,7 +47,7 @@
 | [Josué Esteban Bacilio Chicoma](https://www.worldcubeassociation.org/persons/2013CHIC01) | **0.85** | Peru | [TCG Space lV Santa Anita 2025](https://www.worldcubeassociation.org/competitions/TCGSpacelVSantaAnita2025) | 1.52, 1.43, 1.94, 2.30, 0.85 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **0.86** | United States | [Pop Off Princeton 2025](https://www.worldcubeassociation.org/competitions/PopOffPrinceton2025) | 3.93, 1.05, 0.86, 1.87, 0.89 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **0.87** | China | [Beijing Winter 2025](https://www.worldcubeassociation.org/competitions/BeijingWinter2025) | 0.96, 0.98, 0.87, 3.37, 1.01 |
-| [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) | **0.89** | China | [Xi'an New Year 2025](https://www.worldcubeassociation.org/competitions/XianNewYear2025) | 1.72, 1.42, 1.45, 0.89, 3.51 |
+| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **0.89** | United States | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) | 1.24, 2.84, DNF, 0.89, 1.21 |
 
 ### 2x2x2 Cube - Average
 
@@ -219,15 +219,15 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **20** | United States | [Baton Rouge Winter FMC 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterFMC2025) | 20, 20, 22 |
-| [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | **22** | France | [Viens Voir Gesté 2025](https://www.worldcubeassociation.org/competitions/ViensVoirGeste2025) | 22, 22, 22 |
-| [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | **22** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 24, 24, 22 |
 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | **22** | United States | [Michigan Mini 27 2025](https://www.worldcubeassociation.org/competitions/MichiganMini272025) | DNF, 22, DNF |
+| [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | **22** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 24, 24, 22 |
+| [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | **22** | France | [Viens Voir Gesté 2025](https://www.worldcubeassociation.org/competitions/ViensVoirGeste2025) | 22, 22, 22 |
 | [Adrien Neveu](https://www.worldcubeassociation.org/persons/2018NEVE02) | **23** | France | [Viens Voir Gesté 2025](https://www.worldcubeassociation.org/competitions/ViensVoirGeste2025) | 23, DNF, DNF |
 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **23** | Hong Kong, China | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 30, 23, 23 |
 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | **25** | France | [Viens Voir Gesté 2025](https://www.worldcubeassociation.org/competitions/ViensVoirGeste2025) | 39, 30, 25 |
+| [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) | **29** | United States | [Michigan Mini 27 2025](https://www.worldcubeassociation.org/competitions/MichiganMini272025) | 29, 33, DNF |
 | [Étienne Aubry](https://www.worldcubeassociation.org/persons/2018AUBR01) | **29** | France | [Viens Voir Gesté 2025](https://www.worldcubeassociation.org/competitions/ViensVoirGeste2025) | 34, 29, 31 |
 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) | **29** | France | [Viens Voir Gesté 2025](https://www.worldcubeassociation.org/competitions/ViensVoirGeste2025) | 34, 35, 29 |
-| [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) | **29** | United States | [Michigan Mini 27 2025](https://www.worldcubeassociation.org/competitions/MichiganMini272025) | 29, 33, DNF |
 
 ### 3x3x3 Fewest Moves - Average
 

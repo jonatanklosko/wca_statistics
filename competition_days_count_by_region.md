@@ -1,31 +1,31 @@
 ## Competition days count by region
 
-*Updated on 13 January 2025*
+*Updated on 16 January 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.47 | World | 13929 |
+| 1.46 | World | 13952 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4509 |
-| 1.49 | South America | 1734 |
+| 1.73 | Europe | 4518 |
+| 1.49 | South America | 1737 |
 | 1.47 | Oceania | 612 |
 | 1.41 | Asia | 2960 |
 | 1.30 | Africa | 165 |
-| 1.20 | North America | 3949 |
+| 1.20 | North America | 3960 |
 
 ### Countries
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
 | 2.05 | Uzbekistan | 20 |
-| 2.02 | Czech Republic | 62 |
+| 2.02 | Czech Republic | 63 |
 | 2.00 | Kazakhstan | 51 |
 | 2.00 | Liechtenstein | 3 |
 | 1.93 | Turkey | 107 |
@@ -35,18 +35,18 @@
 | 1.92 | Russia | 220 |
 | 1.92 | Serbia | 24 |
 | 1.88 | France | 313 |
-| 1.88 | United Kingdom | 268 |
+| 1.88 | United Kingdom | 269 |
 | 1.88 | Kyrgyzstan | 8 |
 | 1.88 | Norway | 136 |
-| 1.85 | Spain | 386 |
-| 1.85 | Croatia | 27 |
+| 1.86 | Croatia | 28 |
+| 1.85 | Spain | 387 |
 | 1.85 | Hungary | 53 |
 | 1.84 | Finland | 146 |
 | 1.83 | Thailand | 72 |
 | 1.83 | Switzerland | 126 |
 | 1.82 | Sri Lanka | 11 |
+| 1.80 | Slovakia | 46 |
 | 1.80 | Iceland | 15 |
-| 1.80 | Slovakia | 45 |
 | 1.79 | Mexico | 189 |
 | 1.79 | Guatemala | 57 |
 | 1.79 | Bosnia and Herzegovina | 14 |
@@ -54,16 +54,16 @@
 | 1.75 | Luxembourg | 4 |
 | 1.75 | Palestine | 4 |
 | 1.73 | Austria | 30 |
-| 1.71 | Poland | 489 |
 | 1.71 | Ukraine | 138 |
+| 1.71 | Poland | 492 |
 | 1.71 | Belgium | 89 |
 | 1.71 | Argentina | 95 |
-| 1.69 | Brazil | 541 |
+| 1.69 | Brazil | 542 |
 | 1.67 | Ireland | 72 |
 | 1.67 | North Macedonia | 6 |
 | 1.62 | Iran | 42 |
 | 1.62 | Italy | 237 |
-| 1.59 | Denmark | 193 |
+| 1.59 | Denmark | 194 |
 | 1.59 | Netherlands | 123 |
 | 1.58 | Indonesia | 233 |
 | 1.58 | New Zealand | 132 |
@@ -96,7 +96,7 @@
 | 1.36 | Vietnam | 69 |
 | 1.35 | Paraguay | 34 |
 | 1.33 | Tajikistan | 3 |
-| 1.31 | Colombia | 378 |
+| 1.31 | Colombia | 380 |
 | 1.31 | Republic of Korea | 109 |
 | 1.30 | Hong Kong, China | 23 |
 | 1.30 | Kuwait | 10 |
@@ -118,7 +118,7 @@
 | 1.18 | Armenia | 11 |
 | 1.17 | Canada | 398 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3174 |
+| 1.16 | United States | 3185 |
 | 1.13 | Azerbaijan | 46 |
 | 1.11 | Honduras | 18 |
 | 1.09 | Cyprus | 11 |

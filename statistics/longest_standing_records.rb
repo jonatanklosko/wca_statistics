@@ -50,10 +50,14 @@ class LongestStandingRecords < GroupedStatistic
           end
           .group_by { |result| result["event_id"] }
           .flat_map do |event_id, results|
-            results.each_cons(2) do |previous_record, new_record|
-              previous_record["days"] = new_record["competition_date"] - previous_record["competition_date"]
-            end
-            results.last["days"] = Date.today - results.last["competition_date"]
+	    results.each do |result_1|
+	      result_1["days"] = Date.today - result_1["competition_date"]
+	      results.each do |result_2|
+		if result_2[type] < result_1[type]
+		  result_1["days"] = [result_1["days"], result_2["competition_date"] - result_1["competition_date"]].min
+		end
+	      end
+	    end
             results
           end
           .map! do |result|

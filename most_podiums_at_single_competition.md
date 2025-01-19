@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 January 2025*
+*Updated on 19 January 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -694,6 +694,7 @@
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Ark 2018](https://www.worldcubeassociation.org/competitions/Ark2018/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Falukorv Open 2023](https://www.worldcubeassociation.org/competitions/FalukorvOpen2023/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Hudiksvall Open 2023](https://www.worldcubeassociation.org/competitions/HudiksvallOpen2023/results/podiums) |
+| 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås VI - 2025](https://www.worldcubeassociation.org/competitions/KublordagVasterasVI2025/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [SSL 2 Stockholm 2017](https://www.worldcubeassociation.org/competitions/SSL2Stockholm2017/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [SSL 4 Sundsvall 2019](https://www.worldcubeassociation.org/competitions/SSL4Sundsvall2019/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Twist and Shout Summer 2017](https://www.worldcubeassociation.org/competitions/TwistandShoutSummer2017/results/podiums) |
@@ -991,6 +992,7 @@
 | 10 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Indiana 2019](https://www.worldcubeassociation.org/competitions/Indiana2019/results/podiums) |
 | 10 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/podiums) |
 | 11 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [WA State Championship 2021](https://www.worldcubeassociation.org/competitions/WAStateChampionship2021/results/podiums) |
+| 10 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [Adelaide Summer 2025](https://www.worldcubeassociation.org/competitions/AdelaideSummer2025/results/podiums) |
 | 10 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [Darwin Open 2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019/results/podiums) |
 | 13 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
 | 10 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Adelaide Summer 2022](https://www.worldcubeassociation.org/competitions/AdelaideSummer2022/results/podiums) |

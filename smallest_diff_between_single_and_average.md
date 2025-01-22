@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### Rubik's Cube
@@ -167,7 +167,7 @@
 | 0.04 | [Vinicius Shaw](https://www.worldcubeassociation.org/persons/2021SHAW02) | 5.24 | 5.28 | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/by_person#2021SHAW02) |
 | 0.04 | [Miguel Angel Zamorano Beltran](https://www.worldcubeassociation.org/persons/2023BELT03) | 8.06 | 8.10 | [Niños Héroes Jalisco 2023](https://www.worldcubeassociation.org/competitions/NinosHeroesJalisco2023/results/by_person#2023BELT03) |
 | 0.04 | [Lee Yu Zhe](https://www.worldcubeassociation.org/persons/2019ZHEL01) | 11.18 | 11.22 | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/by_person#2019ZHEL01) |
-| 0.05 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 3.08 | 3.13 | [Uppsalaligan 2: Leap - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan2Leap2024/results/by_person#2021ELIA01) |
+| 0.04 | [Justin Cawley](https://www.worldcubeassociation.org/persons/2022CAWL01) | 14.43 | 14.47 | [Puzzles in Pottsville 2025](https://www.worldcubeassociation.org/competitions/PuzzlesinPottsville2025/results/by_person#2022CAWL01) |
 
 ### Skewb
 

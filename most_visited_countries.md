@@ -1,16 +1,16 @@
 ## Most visited countries
 
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 | Countries | Person |
 | ---: | :--- |
 | 74 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 58 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
-| 54 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 55 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 49 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
+| 41 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 40 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 40 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 35 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 35 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
@@ -34,6 +34,7 @@
 | 24 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 23 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 23 | [Roman Sokolovskyi](https://www.worldcubeassociation.org/persons/2021SOKO03) |
+| 22 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
 | 22 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 22 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 22 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
@@ -43,7 +44,6 @@
 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 21 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 21 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 21 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 20 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 20 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |

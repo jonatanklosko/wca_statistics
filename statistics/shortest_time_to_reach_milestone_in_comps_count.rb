@@ -25,7 +25,7 @@ class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
   end
 
   def transform(query_results)
-    [200, 150, 100, 50, 25, 10, 5].map do |competitions_count|
+    [300, 250, 200, 150, 100, 50, 25, 10, 5].map do |competitions_count|
       days_with_people = query_results
         .group_by { |result| result["person_link"] }
         .select { |person_link, results| results.count >= competitions_count }

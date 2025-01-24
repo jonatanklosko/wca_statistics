@@ -42,12 +42,12 @@
 | [Levi Hetherington](https://www.worldcubeassociation.org/persons/2022HETH01) | **0.63** | New Zealand | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025) | 1.63, 0.63, 3.56, 2.06, 1.54 |
 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) | **0.68** | Australia | [Perth Puzzle Party 2025](https://www.worldcubeassociation.org/competitions/PerthPuzzleParty2025) | 2.78, 0.68, 4.07, 2.57, 1.81 |
 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | **0.72** | United States | [Boulder Holiday Bash 2025](https://www.worldcubeassociation.org/competitions/BoulderHolidayBash2025) | 1.50, 2.23, 1.90, 0.72, 1.63 |
-| [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | **0.76** | United States | [Kisco Cubing 2025](https://www.worldcubeassociation.org/competitions/KiscoCubing2025) | 4.27, 3.35, 0.76, 2.74, 3.88 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **0.76** | China | [Chongqing New Year 2025](https://www.worldcubeassociation.org/competitions/ChongqingNewYear2025) | 1.04, 1.17, 1.14, 0.76, 0.95 |
+| [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | **0.76** | United States | [Kisco Cubing 2025](https://www.worldcubeassociation.org/competitions/KiscoCubing2025) | 4.27, 3.35, 0.76, 2.74, 3.88 |
 | [Jude Doland](https://www.worldcubeassociation.org/persons/2021DOLA01) | **0.76** | United States | [Boulder Holiday Bash 2025](https://www.worldcubeassociation.org/competitions/BoulderHolidayBash2025) | 3.96, 1.79, 2.17, 0.76, 1.72 |
+| [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | **0.78** | Czech Republic | [Nitra Open 2025](https://www.worldcubeassociation.org/competitions/NitraOpen2025) | 0.78, 1.93, 3.10, 2.71, 3.17 |
 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | **0.78** | New Zealand | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025) | 0.78, 1.46, 1.61, DNF, DNF |
 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | **0.78** | New Zealand | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025) | 3.23, 0.78, 1.55, 1.70, 1.72 |
-| [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | **0.78** | Czech Republic | [Nitra Open 2025](https://www.worldcubeassociation.org/competitions/NitraOpen2025) | 0.78, 1.93, 3.10, 2.71, 3.17 |
 
 ### 2x2x2 Cube - Average
 
@@ -221,12 +221,12 @@
 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | **20** | United States | [Airplane Mode XV OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVOH2025) | 20, 24, 22 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **20** | United States | [Baton Rouge Winter FMC 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterFMC2025) | 20, 20, 22 |
 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) | **21** | United States | [Airplane Mode XV OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVOH2025) | 21, DNF, 31 |
-| [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | **22** | United States | [Michigan Mini 27 2025](https://www.worldcubeassociation.org/competitions/MichiganMini272025) | DNF, 22, DNF |
-| [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | **22** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 24, 24, 22 |
 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | **22** | France | [Viens Voir Gesté 2025](https://www.worldcubeassociation.org/competitions/ViensVoirGeste2025) | 22, 22, 22 |
+| [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | **22** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 24, 24, 22 |
+| [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | **22** | United States | [Michigan Mini 27 2025](https://www.worldcubeassociation.org/competitions/MichiganMini272025) | DNF, 22, DNF |
 | [Adrien Neveu](https://www.worldcubeassociation.org/persons/2018NEVE02) | **23** | France | [Viens Voir Gesté 2025](https://www.worldcubeassociation.org/competitions/ViensVoirGeste2025) | 23, DNF, DNF |
 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **23** | Hong Kong, China | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 30, 23, 23 |
-| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | **24** | United States | [Airplane Mode XV OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVOH2025) | 24, 27, 28 |
+| [Daniel Wang](https://www.worldcubeassociation.org/persons/2022WANG06) | **24** | Australia | [Adelaide Summer 2025](https://www.worldcubeassociation.org/competitions/AdelaideSummer2025) | 24, 39, 39 |
 | [Janne Lehtimäki](https://www.worldcubeassociation.org/persons/2012LEHT01) | **24** | Finland | [Finnish FMC Series I 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesI2025) | 24, 24, DNF |
 
 ### 3x3x3 Fewest Moves - Average
@@ -234,15 +234,15 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **20.67** | United States | [Baton Rouge Winter FMC 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterFMC2025) | 20, 20, 22 |
-| [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | **22.00** | United States | [Airplane Mode XV OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVOH2025) | 20, 24, 22 |
 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | **22.00** | France | [Viens Voir Gesté 2025](https://www.worldcubeassociation.org/competitions/ViensVoirGeste2025) | 22, 22, 22 |
+| [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | **22.00** | United States | [Airplane Mode XV OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVOH2025) | 20, 24, 22 |
 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | **23.33** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 24, 24, 22 |
 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **25.33** | Hong Kong, China | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 30, 23, 23 |
 | [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | **26.33** | United States | [Airplane Mode XV OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVOH2025) | 24, 27, 28 |
 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) | **29.00** | United States | [SacQuiet Winter 2025](https://www.worldcubeassociation.org/competitions/SacQuietWinter2025) | 28, 32, 27 |
-| [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | **29.33** | United States | [Airplane Mode XV OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVOH2025) | 27, 33, 28 |
 | [Beatriz Hernandes Bernardes](https://www.worldcubeassociation.org/persons/2022BERN01) | **29.33** | Brazil | [Brasil 7-Squaring Open 2025](https://www.worldcubeassociation.org/competitions/Brasil7SquaringOpen2025) | 29, 31, 28 |
-| [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | **31.33** | France | [Viens Voir Gesté 2025](https://www.worldcubeassociation.org/competitions/ViensVoirGeste2025) | 39, 30, 25 |
+| [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | **29.33** | United States | [Airplane Mode XV OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVOH2025) | 27, 33, 28 |
+| [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | **31.33** | Australia | [Adelaide Summer 2025](https://www.worldcubeassociation.org/competitions/AdelaideSummer2025) | 26, 30, 38 |
 
 ### 3x3x3 One-Handed - Single
 

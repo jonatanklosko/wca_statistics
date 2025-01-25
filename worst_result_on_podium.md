@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 22 January 2025*
+*Updated on 25 January 2025*
 
 
 ### Rubik's Cube
@@ -122,7 +122,7 @@
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 29 | **62.67** | [Finnish FMC Series I 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesI2025/results/podiums#e333fm) | 2 |
 | [Hannu Vanhatalo](https://www.worldcubeassociation.org/persons/2018VANH04) | 61 | **62.00** | [Pulmapelipäivät 2019](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2019/results/podiums#e333fm) | 2 |
 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 59 | **61.33** | [Nacho-nal Day FMC Täby 2024](https://www.worldcubeassociation.org/competitions/NachonalDayFMCTaby2024/results/podiums#e333fm) | 3 |
-| [Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31) | 55 | **61.00** | [Fewest Moves Bogotá 2024](https://www.worldcubeassociation.org/competitions/FewestMovesBogota2024/results/podiums#e333fm) | 3 |
+| [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 53 | **61.33** | [Finnish FMC Series II 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesII2025/results/podiums#e333fm) | 3 |
 
 ### 3x3x3 One-Handed
 

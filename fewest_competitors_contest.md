@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 January 2025*
+*Updated on 25 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -15,6 +15,7 @@
 | 3 | [Creativity Makers 2023](https://www.worldcubeassociation.org/competitions/CreativityMakers2023) |
 | 3 | [Deck 9 2023](https://www.worldcubeassociation.org/competitions/Deck92023) |
 | 3 | [FMC in the Gulf of Finland 2024](https://www.worldcubeassociation.org/competitions/FewestMovesintheGulfofFinlan2024) |
+| 3 | [Finnish FMC Series II 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesII2025) |
 | 3 | [Grizz League II 2024](https://www.worldcubeassociation.org/competitions/GrizzLeagueII2024) |
 | 3 | [Hike 2 Cube Kenya 2023](https://www.worldcubeassociation.org/competitions/Hike2CubeKenya2023) |
 | 3 | [Sides Bahia - Poções Quest 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaPocoesQuest2023) |

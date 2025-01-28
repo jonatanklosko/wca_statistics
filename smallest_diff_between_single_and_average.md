@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -76,8 +76,8 @@
 | 0.05 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 4:48.06 | 4:48.11 | [Santiago Open 2009](https://www.worldcubeassociation.org/competitions/SantiagoOpen2009/results/by_person#2007GUIM01) |
 | 0.06 | [Alan Zhao](https://www.worldcubeassociation.org/persons/2015ZHAO13) | 2:32.43 | 2:32.49 | [Westcoast Woodvale Weekends 2019](https://www.worldcubeassociation.org/competitions/WestcoastWoodvaleWeekends2019/results/by_person#2015ZHAO13) |
 | 0.08 | [Eli Parker](https://www.worldcubeassociation.org/persons/2016PARK02) | 2:27.50 | 2:27.58 | [Music City Fall 2023](https://www.worldcubeassociation.org/competitions/MusicCitySpeedsolvingFall2023/results/by_person#2016PARK02) |
+| 0.09 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 1:32.02 | 1:32.11 | [Rutgers Winter 2025](https://www.worldcubeassociation.org/competitions/RutgersWinter2025/results/by_person#2013KLEI03) |
 | 0.09 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 2:23.74 | 2:23.83 | [DeKalb Cubing Fall 2023](https://www.worldcubeassociation.org/competitions/DeKalbCubingFall2023/results/by_person#2011FERA01) |
-| 0.10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 2:44.66 | 2:44.76 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012/results/by_person#2005AKKE01) |
 
 ### 7x7x7 Cube
 

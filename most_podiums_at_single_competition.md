@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1149,6 +1149,7 @@
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Casal Catalunya Baires Open 2019](https://www.worldcubeassociation.org/competitions/CasalCatalunyaBairesOpen2019/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/podiums) |
+| 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Pai Open VCP 2025](https://www.worldcubeassociation.org/competitions/PaiOpenVCP2025/results/podiums) |
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Abierto del Mirador 2024](https://www.worldcubeassociation.org/competitions/AbiertodelMiradorenPrimavera2024/results/podiums) |
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Hernando Summer 2020](https://www.worldcubeassociation.org/competitions/HernandoSummer2020/results/podiums) |
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/podiums) |

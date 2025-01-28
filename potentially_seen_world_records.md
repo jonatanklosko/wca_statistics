@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -23,8 +23,8 @@
 | 124 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 121 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 115 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 113 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 113 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
-| 112 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 111 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
 | 108 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 107 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
@@ -33,9 +33,9 @@
 | 103 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 102 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 102 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
-| 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
-| 99 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
+| 100 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 99 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
+| 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 95 | [Devin Corr-Robinett](https://www.worldcubeassociation.org/persons/2006CORR01) |
 | 95 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
@@ -71,11 +71,11 @@
 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 78 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 76 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
+| 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 76 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 76 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 76 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
-| 76 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
-| 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
 | 74 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
@@ -85,12 +85,12 @@
 | 73 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 73 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 72 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 71 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 71 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
-| 71 | [David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01) |
 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 71 | [Peter Still](https://www.worldcubeassociation.org/persons/2005STIL01) |
 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |
+| 71 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
+| 71 | [David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01) |
+| 71 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 70 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
 | 70 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 69 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |

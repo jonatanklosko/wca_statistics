@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -67,6 +67,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 7.31 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 | 7.34 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [San Jose del Monte Open II 2024](https://www.worldcubeassociation.org/competitions/SanJosedelMonteOpenII2024/results/by_person#2017VILL41) |
 | 7.38 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024/results/by_person#2017GARR05) |
 | 7.39 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Ayat-Ti Cubing Elyu Fest 2024](https://www.worldcubeassociation.org/competitions/AyatTiCubingElyuFest2024/results/by_person#2023ARRA01) |
@@ -76,7 +77,6 @@
 | 7.67 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [Xi'an New Year 2025](https://www.worldcubeassociation.org/competitions/XianNewYear2025/results/by_person#2023CHEN30) |
 | 7.68 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023/results/by_person#2014SEBA01) |
 | 7.70 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2024](https://www.worldcubeassociation.org/competitions/BaztanOpen2024/results/by_person#2012PONC02) |
-| 7.71 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2012PONC02) |
 
 ### Megaminx
 

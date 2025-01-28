@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -118,6 +118,7 @@
 | 4 | [Yu Gu (谷雨)](https://www.worldcubeassociation.org/persons/2013GUYU01) |
 | 4 | [Eva Kato (加藤映葉)](https://www.worldcubeassociation.org/persons/2013KATO01) |
 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
+| 4 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
 | 4 | [Yanfeng Zhu (朱艳枫)](https://www.worldcubeassociation.org/persons/2013ZHUY02) |
 | 4 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 4 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -72,6 +72,7 @@
 | 2632 | [Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02) |
 | 2639 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 2647 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) |
+| 2653 | [Danny Buschert](https://www.worldcubeassociation.org/persons/2017BUSC03) |
 | 2660 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 2664 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
 | 2703 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
@@ -98,6 +99,7 @@
 | 3143 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
 | 3221 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 3282 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
+| 3402 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) |
 | 3542 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 3570 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 3586 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |

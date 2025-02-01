@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 31 January 2025*
+*Updated on  1 February 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 14117 |
+| 1.46 | World | 14129 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.73 | Europe | 4582 |
-| 1.48 | South America | 1756 |
-| 1.48 | Oceania | 616 |
-| 1.41 | Asia | 2980 |
+| 1.73 | Europe | 4584 |
+| 1.48 | South America | 1757 |
+| 1.48 | Oceania | 618 |
+| 1.41 | Asia | 2981 |
 | 1.30 | Africa | 171 |
-| 1.20 | North America | 4012 |
+| 1.20 | North America | 4018 |
 
 ### Countries
 
@@ -56,17 +56,17 @@
 | 1.75 | Luxembourg | 4 |
 | 1.71 | Ukraine | 139 |
 | 1.71 | Argentina | 96 |
+| 1.71 | Poland | 500 |
 | 1.71 | Belgium | 89 |
-| 1.71 | Poland | 499 |
 | 1.69 | Brazil | 548 |
 | 1.67 | Ireland | 72 |
 | 1.67 | North Macedonia | 6 |
 | 1.62 | Italy | 241 |
 | 1.60 | Iran | 43 |
+| 1.59 | New Zealand | 135 |
 | 1.59 | Netherlands | 126 |
 | 1.59 | Denmark | 198 |
 | 1.59 | Indonesia | 234 |
-| 1.58 | New Zealand | 133 |
 | 1.58 | Greece | 33 |
 | 1.57 | San Marino | 7 |
 | 1.57 | India | 626 |
@@ -79,9 +79,9 @@
 | 1.50 | Madagascar | 2 |
 | 1.50 | Montenegro | 6 |
 | 1.49 | Peru | 226 |
+| 1.48 | Bulgaria | 25 |
 | 1.48 | South Africa | 86 |
 | 1.46 | Latvia | 37 |
-| 1.46 | Bulgaria | 24 |
 | 1.45 | Australia | 483 |
 | 1.44 | Jordan | 16 |
 | 1.43 | Nigeria | 7 |
@@ -89,8 +89,8 @@
 | 1.42 | Israel | 62 |
 | 1.40 | Costa Rica | 25 |
 | 1.38 | Estonia | 63 |
+| 1.38 | Chinese Taipei | 146 |
 | 1.38 | Ecuador | 56 |
-| 1.37 | Chinese Taipei | 145 |
 | 1.37 | Romania | 130 |
 | 1.36 | Vietnam | 69 |
 | 1.35 | Paraguay | 34 |
@@ -102,9 +102,9 @@
 | 1.29 | Philippines | 333 |
 | 1.29 | Portugal | 31 |
 | 1.29 | Andorra | 7 |
+| 1.28 | Uruguay | 57 |
 | 1.27 | Kuwait | 11 |
 | 1.27 | Panama | 22 |
-| 1.27 | Uruguay | 56 |
 | 1.26 | Chile | 144 |
 | 1.26 | Singapore | 78 |
 | 1.25 | Venezuela | 79 |
@@ -118,7 +118,7 @@
 | 1.18 | Mongolia | 39 |
 | 1.17 | Canada | 408 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3217 |
+| 1.16 | United States | 3223 |
 | 1.13 | Azerbaijan | 46 |
 | 1.11 | Honduras | 18 |
 | 1.08 | Cyprus | 12 |

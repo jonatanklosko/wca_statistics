@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 
 ### Rubik's Cube
@@ -76,7 +76,7 @@
 | 7.67 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2022ROBI05) |
 | 7.67 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [Xi'an New Year 2025](https://www.worldcubeassociation.org/competitions/XianNewYear2025/results/by_person#2023CHEN30) |
 | 7.68 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023/results/by_person#2014SEBA01) |
-| 7.70 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2024](https://www.worldcubeassociation.org/competitions/BaztanOpen2024/results/by_person#2012PONC02) |
+| 7.69 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Cubing on the Plains Auburn 2025](https://www.worldcubeassociation.org/competitions/CubingonthePlainsAuburn2025/results/by_person#2012PARK03) |
 
 ### Megaminx
 
@@ -142,16 +142,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 3.81 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Cubing in Southern Oregon 2025](https://www.worldcubeassociation.org/competitions/CubinginSouthernOregon2025/results/by_person#2017AGGA01) |
+| 3.88 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Cubing in Southern Oregon 2025](https://www.worldcubeassociation.org/competitions/CubinginSouthernOregon2025/results/by_person#2017AGGA01) |
 | 4.18 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025/results/by_person#2017AGGA01) |
 | 4.19 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue Squan Fest 2024](https://www.worldcubeassociation.org/competitions/BellevueSquanFest2024/results/by_person#2017AGGA01) |
 | 4.23 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/by_person#2019BAUM02) |
 | 4.28 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN26) |
 | 4.33 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
+| 4.34 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Cubing in Southern Oregon 2025](https://www.worldcubeassociation.org/competitions/CubinginSouthernOregon2025/results/by_person#2017AGGA01) |
 | 4.35 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Tri-State Corner Comms PA 2024](https://www.worldcubeassociation.org/competitions/TriStateCornerCommsPA2024/results/by_person#2018KHAN26) |
 | 4.35 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Fall 2024](https://www.worldcubeassociation.org/competitions/DFWCubingFall2024/results/by_person#2019BAUM02) |
-| 4.36 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Texas Championship 2024](https://www.worldcubeassociation.org/competitions/TexasChampionship2024/results/by_person#2019BAUM02) |
-| 4.40 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube More in Ardmore 2024](https://www.worldcubeassociation.org/competitions/CubeMoreinArdmore2024/results/by_person#2019BAUM02) |
-| 4.40 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Mountains Open Up 2023](https://www.worldcubeassociation.org/competitions/MountainsOpenUp2023/results/by_person#2021DUNA01) |
 
 ### 3x3x3 With Feet
 

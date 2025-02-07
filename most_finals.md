@@ -1,16 +1,16 @@
 ## Most finals
 
-*Updated on  4 February 2025*
+*Updated on  7 February 2025*
 
 | Finals | Person |
 | ---: | :--- |
-| 2437 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 2447 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 2389 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2372 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2131 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 1795 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 1803 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 1734 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 1678 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 1688 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1675 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 1667 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1572 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
@@ -31,7 +31,7 @@
 | 1250 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 1243 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1228 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
-| 1190 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
+| 1193 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 1178 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1175 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 1175 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
@@ -51,8 +51,8 @@
 | 1056 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 1047 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 1033 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
+| 1032 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 1029 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 1025 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 1016 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 999 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
@@ -65,7 +65,7 @@
 | 967 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 966 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 953 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
-| 951 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
+| 952 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 951 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 933 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
@@ -78,8 +78,8 @@
 | 906 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 902 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
+| 901 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 896 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
-| 891 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 887 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 884 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 883 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |

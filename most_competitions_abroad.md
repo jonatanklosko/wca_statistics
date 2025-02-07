@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 February 2025*
+*Updated on  7 February 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -48,7 +48,7 @@
 | 87 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 86 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
-| 80 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
+| 81 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
 | 79 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 77 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 76 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
@@ -82,6 +82,7 @@
 | 62 | [Danny Sungin Park (박성인)](https://www.worldcubeassociation.org/persons/2015PARK13) |
 | 61 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 61 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
+| 61 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 61 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
 | 60 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 60 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
@@ -90,7 +91,6 @@
 | 60 | [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) |
 | 60 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 60 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
-| 60 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 60 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 59 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 59 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |

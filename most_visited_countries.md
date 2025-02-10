@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -16,8 +16,8 @@
 | 35 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 34 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 33 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 33 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
+| 33 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 29 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 27 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 27 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
@@ -26,13 +26,13 @@
 | 26 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 25 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 24 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 24 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
+| 25 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 24 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
-| 24 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 24 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
+| 24 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
+| 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 24 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 24 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
+| 24 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 23 | [Roman Sokolovskyi](https://www.worldcubeassociation.org/persons/2021SOKO03) |
 | 23 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 22 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
@@ -53,10 +53,10 @@
 | 20 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 20 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 20 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
+| 19 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 19 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
-| 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 19 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 19 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 19 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |

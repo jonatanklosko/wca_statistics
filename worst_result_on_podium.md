@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 
 ### Rubik's Cube
@@ -29,10 +29,10 @@
 | [Carl-Johan Kjellander](https://www.worldcubeassociation.org/persons/2005KJEL01) | 26.45 | **33.99** | [Chalmers Open 2005](https://www.worldcubeassociation.org/competitions/ChalmersOpen2005/results/podiums#e222) | 3 |
 | [Deepthi Rathakrishnan](https://www.worldcubeassociation.org/persons/2009RATH01) | 13.81 | **30.03** | [Dubai Open 2009](https://www.worldcubeassociation.org/competitions/DubaiOpen2009/results/podiums#e222) | 2 |
 | [Rathakrishnan Mathan](https://www.worldcubeassociation.org/persons/2009MATH01) | 26.96 | **29.49** | [Dubai Open 2009](https://www.worldcubeassociation.org/competitions/DubaiOpen2009/results/podiums#e222) | 1 |
+| [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) | 20.58 | **27.27** | [São Miguel Cubikon 2025](https://www.worldcubeassociation.org/competitions/SaoMiguelCubikon2025/results/podiums#e222) | 3 |
 | [Afef Thabet](https://www.worldcubeassociation.org/persons/2014THAB01) | 15.76 | **25.57** | [Tunisia Spring Open 2015](https://www.worldcubeassociation.org/competitions/TunisiaSpringOpen2015/results/podiums#e222) | 3 |
 | [Sahil Mirchandani](https://www.worldcubeassociation.org/persons/2022MIRC02) | 20.38 | **25.52** | [Curaçao Open 2022](https://www.worldcubeassociation.org/competitions/CuracaoOpen2022/results/podiums#e222) | 3 |
 | [Abdesalam Derdour](https://www.worldcubeassociation.org/persons/2014DERD01) | 16.02 | **24.35** | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014/results/podiums#e222) | 3 |
-| [Gavin Lopez Ramirez](https://www.worldcubeassociation.org/persons/2022RAMI17) | 13.66 | **23.03** | [Curaçao Open 2022](https://www.worldcubeassociation.org/competitions/CuracaoOpen2022/results/podiums#e222) | 2 |
 
 ### 4x4x4 Cube
 

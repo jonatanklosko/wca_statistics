@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -247,6 +247,7 @@
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Raleigh Open 2012](https://www.worldcubeassociation.org/competitions/RaleighOpen2012/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Chemung Cubing 2023](https://www.worldcubeassociation.org/competitions/ChemungCubing2023/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015/results/podiums) |
+| 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Empire State Winter 2025](https://www.worldcubeassociation.org/competitions/EmpireStateWinter2025/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Gouverneur Quick & Quiet 2024](https://www.worldcubeassociation.org/competitions/GouverneurQuickQuiet2024/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Pittsburgh Open 2018](https://www.worldcubeassociation.org/competitions/PittsburghOpen2018/results/podiums) |

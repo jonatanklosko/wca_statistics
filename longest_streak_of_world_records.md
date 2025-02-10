@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -9,7 +9,7 @@
 | 11 | 5x5x5 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018) |  | 6.66 |
 | 11 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) | [Daegu Cold Winter 2024](https://www.worldcubeassociation.org/competitions/DaeguColdWinter2024) | 6.06 |
 | 9 | Rubik's Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | [OCSEF 2017](https://www.worldcubeassociation.org/competitions/OCSEFOpen2017) | 7.23 |
-| 8 | 4x4x4 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks for the InFive 2018](https://www.worldcubeassociation.org/competitions/ThanksfortheInFive2018) |  | 6.75 |
+| 8 | 4x4x4 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks for the InFive 2018](https://www.worldcubeassociation.org/competitions/ThanksfortheInFive2018) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025) | 6.75 |
 | 8 | 6x6x6 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing III 2018](https://www.worldcubeassociation.org/competitions/SacCubingIII2018) |  | 7.04 |
 | 8 | 7x7x7 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | [Puget Sound Fall 2017](https://www.worldcubeassociation.org/competitions/PugetSoundFall2017) | 2.19 |
 | 8 | 7x7x7 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [COpen2 2018](https://www.worldcubeassociation.org/competitions/Cerritos2018) |  | 6.83 |
@@ -141,7 +141,7 @@
 | 2 | 6x6x6 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2015](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2015) | [Asian Championship 2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016) | 0.90 |
 | 2 | 6x6x6 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2016](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2016) | [Lexington Summer 2017](https://www.worldcubeassociation.org/competitions/LexingtonSummer2017) | 0.65 |
 | 2 | 6x6x6 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) | 0.52 |
-| 2 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |  | 0.56 |
+| 2 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |  | 0.57 |
 | 2 | 7x7x7 Cube | Single | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Czech Open 2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010) | 0.18 |
 | 2 | 7x7x7 Cube | Single | [Vladislav Shavelskiy](https://www.worldcubeassociation.org/persons/2012SHAV01) | [CCC Autumn Open 2014](https://www.worldcubeassociation.org/competitions/CCCAutumnOpen2014) | [Speed Days Kraśnik 2015](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2015) | 0.65 |
 | 2 | 7x7x7 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018) | 0.67 |

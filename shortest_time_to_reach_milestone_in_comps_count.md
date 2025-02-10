@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 
 ### 300 Competitions
@@ -21,6 +21,7 @@
 | 4706 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 5048 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 5146 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
+| 5734 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 
 ### 200 Competitions
 
@@ -101,6 +102,7 @@
 
 | Days | Person |
 | ---: | :--- |
+| 449 | [Juan Miguel Y. Magallanes](https://www.worldcubeassociation.org/persons/2023MAGA09) |
 | 475 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 520 | [Kyle Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 524 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
@@ -120,7 +122,6 @@
 | 631 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 631 | [Kenji Gipson-Nahman](https://www.worldcubeassociation.org/persons/2023GIPS01) |
 | 658 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
-| 660 | [Luis Tan Hong Yi (陈宏溢)](https://www.worldcubeassociation.org/persons/2023YILU01) |
 
 ### 25 Competitions
 

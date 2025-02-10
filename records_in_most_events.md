@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 
 ### World
@@ -16,6 +16,7 @@
 | 5 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Square-1 |
 | 4 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | 3x3x3 Cube, 2x2x2 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed |
 | 4 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 4x4x4 Cube, 3x3x3 One-Handed, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
+| 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, Pyraminx |
 | 4 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 3x3x3 Cube, 5x5x5 Cube, 7x7x7 Cube, 3x3x3 One-Handed |
 | 4 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
 | 3 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 One-Handed |
@@ -23,7 +24,6 @@
 | 3 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 4x4x4 Cube, 5x5x5 Cube, Square-1 |
 | 3 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 3x3x3 Cube, 2x2x2 Cube, 5x5x5 Cube |
 | 3 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 2x2x2 Cube, 3x3x3 One-Handed, Pyraminx |
-| 3 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube, 5x5x5 Cube, Pyraminx |
 | 3 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 3 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 3 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |

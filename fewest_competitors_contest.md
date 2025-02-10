@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -47,6 +47,7 @@
 | 5 | [Michigan Mini 27 2025](https://www.worldcubeassociation.org/competitions/MichiganMini272025) |
 | 5 | [Please Be Quiet Anchorage 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietAnchorage2024) |
 | 5 | [São Miguel Blind Sides 2024](https://www.worldcubeassociation.org/competitions/SaoMiguelBlindSides2024) |
+| 5 | [São Miguel Cubikon 2025](https://www.worldcubeassociation.org/competitions/SaoMiguelCubikon2025) |
 | 5 | [Vardagscubing II - Hive B 2022](https://www.worldcubeassociation.org/competitions/VardagscubingIIHiveB2022) |
 | 6 | [Akiba Expo Open 2018](https://www.worldcubeassociation.org/competitions/AkibaExpoOpen2018) |
 | 6 | [Big Cubata BLD II 2023](https://www.worldcubeassociation.org/competitions/BigCubataBLDII2023) |
@@ -235,6 +236,7 @@
 | 10 | [Arena Bernô 3 City FM 2022](https://www.worldcubeassociation.org/competitions/ArenaBerno3CityFM2022) |
 | 10 | [Ashfield Summer Challenge 2024](https://www.worldcubeassociation.org/competitions/AshfieldSummerChallenge2024) |
 | 10 | [A Sunday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/ASundayinAshfield2024) |
+| 10 | [Azores Cubikon 2025](https://www.worldcubeassociation.org/competitions/AzoresCubikon2025) |
 | 10 | [Back in Mauritius 2023](https://www.worldcubeassociation.org/competitions/BackinMauritius2023) |
 | 10 | [Back to Cambridge A 2021](https://www.worldcubeassociation.org/competitions/BacktoCambridgeA2021) |
 | 10 | [Barberton Mini 6 2025](https://www.worldcubeassociation.org/competitions/BarbertonMini62025) |
@@ -273,6 +275,7 @@
 | 10 | [Hilliard Hippocampus IX 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusIX2023) |
 | 10 | [Hilliard Hippocampus V 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusV2023) |
 | 10 | [Hilliard Hippocampus VI 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusVI2023) |
+| 10 | [Hungarian All-Rounder 2: 2025](https://www.worldcubeassociation.org/competitions/HungarianAllRounder2Frozen2025) |
 | 10 | [Idaho Open 2005](https://www.worldcubeassociation.org/competitions/IdahoOpen2005) |
 | 10 | [IMI Bhubaneswar Cube Open 2024](https://www.worldcubeassociation.org/competitions/IMIBhubaneswarCubeOpen2024) |
 | 10 | [İstanbul FMC and BLD 2019](https://www.worldcubeassociation.org/competitions/IstanbulFMCandBLD2019) |

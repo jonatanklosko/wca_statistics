@@ -1,20 +1,21 @@
 ## Current world records count by country
 
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
 | 24 | United States | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06), [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03), [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01), [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07), [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) |
 | 5 | China | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 4 | Poland | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 2 | Argentina | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 2 | United Kingdom | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01), [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
+| 1 | Argentina | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 1 | Australia | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) |
 | 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |
 | 1 | Italy | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 1 | Malaysia | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 1 | New Zealand | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
+| 1 | Russia | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 1 | Singapore | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 1 | Switzerland | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) |
 

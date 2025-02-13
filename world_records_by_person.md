@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -287,6 +287,7 @@
 | 1 | [Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01) |
 | 1 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) |
+| 1 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 1 | [Toby Mao (毛台立)](https://www.worldcubeassociation.org/persons/2004MAOT01) |
 | 1 | [Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01) |
 | 1 | [Tong Jiang (蒋彤)](https://www.worldcubeassociation.org/persons/2009JIAN03) |

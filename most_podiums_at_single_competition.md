@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1337,6 +1337,7 @@
 | 10 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [24 Hours in Åker 2024](https://www.worldcubeassociation.org/competitions/24HoursinAker2024/results/podiums) |
 | 10 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023/results/podiums) |
 | 12 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/podiums) |
+| 10 | [Abdallah Almaharmeh](https://www.worldcubeassociation.org/persons/2022ALMA01) | [ Al-Madar Open 2025](https://www.worldcubeassociation.org/competitions/AlMadarOpen2025/results/podiums) |
 | 10 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Bolton Spring 2023](https://www.worldcubeassociation.org/competitions/BoltonSpring2023/results/podiums) |
 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [24 Horas El Tambo 2024](https://www.worldcubeassociation.org/competitions/24HorasElTambo2024/results/podiums) |
 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Imbabura Open 2023](https://www.worldcubeassociation.org/competitions/ImbaburaOpen2023/results/podiums) |

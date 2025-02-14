@@ -55,8 +55,8 @@
 | [Lorenzo Guazzo](https://www.worldcubeassociation.org/persons/2012GUAZ01) | 11.65 |
 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) | 11.58 |
 | [Ryosuke Higo (肥後亮佑)](https://www.worldcubeassociation.org/persons/2006HIGO01) | 11.54 |
-| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
+| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Kobe Balin](https://www.worldcubeassociation.org/persons/2012BALI01) | 11.50 |
 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) | 11.48 |
 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | 11.48 |
@@ -92,8 +92,8 @@
 | [Yinghao Zhu (朱英豪)](https://www.worldcubeassociation.org/persons/2013ZHUY01) | 10.37 |
 | [Maggie Jordan](https://www.worldcubeassociation.org/persons/2013JORD01) | 10.35 |
 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) | 10.33 |
-| [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
 | [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
+| [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 10.31 |
 | [Vi Dinh](https://www.worldcubeassociation.org/persons/2013DINH01) | 10.29 |
 | [Hime Arellano](https://www.worldcubeassociation.org/persons/2014AREL01) | 10.25 |

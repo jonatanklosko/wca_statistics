@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 February 2025*
+*Updated on 16 February 2025*
 
 
 ### Rubik's Cube
@@ -23,7 +23,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 0.88 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 0.89, 0.54, DNF, 0.90, 0.86 |
+| 0.84 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.80, 0.75, 0.80, 0.84, 0.89 |
 | 0.89 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.15, 0.79, 0.91, 0.97, 0.71 |
 | 0.92 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | 0.92, 0.93, 0.86, 2.49, 0.91 |
 | 0.96 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 0.71, 3.62, 1.10, 0.96, 0.82 |
@@ -42,10 +42,10 @@
 | 19.17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 22.21, 19.55, 18.95, 17.84, 19.01 |
 | 19.41 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 20.61, 19.78, 17.57, 18.69, 19.75 |
 | 20.42 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 21.77, 17.10, 19.51, 27.31, 19.97 |
+| 20.60 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 25.91, 19.15, 22.24, 18.88, 20.41 |
 | 20.85 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 19.82, 25.18, 20.63, 22.10, 18.51 |
 | 21.04 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 19.80, 21.17, 20.83, 22.47, 21.13 |
 | 21.24 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 21.61, 28.11, 19.78, 21.73, 20.39 |
-| 21.26 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 18.79, 25.52, 19.74, 20.48, 23.56 |
 | 21.30 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 19.84, 23.49, 20.37, 22.49, 21.05 |
 | 21.44 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 26.61, 21.30, 17.98, 21.05, 21.97 |
 
@@ -191,10 +191,10 @@
 | 1.33 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | 1.16, 1.32, 0.91, 2.61, 1.50 |
 | 1.40 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.30, 1.17, 1.74, 1.82, 1.13 |
 | 1.46 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.69, 1.89, 1.14, 1.55, 1.14 |
+| 1.57 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.34, 1.84, 2.35, 1.53, 1.22 |
 | 1.57 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.64, 1.52, 1.54, 3.64, 1.35 |
 | 1.59 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | 1.41, 1.39, 2.32, 1.49, 1.88 |
 | 1.65 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 1.41, 4.80, 2.11, 1.43, 1.27 |
-| 1.67 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.28, 2.06, 1.67, 1.86, 1.49 |
 | 1.69 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.67, 1.67, 1.70, 3.78, 1.71 |
 | 1.71 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.70, 1.50, 2.27, 1.69, 1.75 |
 | 1.74 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 1.00, 1.72, 3.65, 2.35, 1.14 |

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 13 February 2025*
+*Updated on 16 February 2025*
 
 
 ### Rubik's Cube
@@ -42,8 +42,8 @@
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 15 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | 15 |
 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) | 13 |
-| [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | 12 |
 | [Justin Jaffray](https://www.worldcubeassociation.org/persons/2008JAFF01) | 11 |
+| [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | 11 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 10 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 9 |
 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | 9 |
@@ -170,7 +170,7 @@
 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) | 19 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | 18 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 17 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 15 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 16 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 14 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 13 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 13 |
@@ -212,7 +212,7 @@
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 36 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 30 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 25 |
-| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 25 |
+| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 24 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | 21 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 19 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 17 |
@@ -360,7 +360,7 @@
 | :--- | ---: |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 56 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 36 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 30 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 31 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 16 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 16 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 16 |
@@ -387,7 +387,7 @@
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 31 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 28 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 27 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 26 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 27 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 18 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 15 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 13 |

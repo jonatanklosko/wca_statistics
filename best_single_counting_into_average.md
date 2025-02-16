@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 February 2025*
+*Updated on 16 February 2025*
 
 
 ### Rubik's Cube
@@ -30,8 +30,8 @@
 | 0.78 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024/results/by_person#2021ZAJD03) |
 | 0.79 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2018KHAN28) |
 | 0.80 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/by_person#2018KHAN28) |
+| 0.80 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Chengdu Spring Open 2025](https://www.worldcubeassociation.org/competitions/ChengduSpringOpen2025/results/by_person#2019WANY36) |
 | 0.82 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | [50th Anniversary in Elverum 2024](https://www.worldcubeassociation.org/competitions/50thAnniversaryinElverum2024/results/by_person#2015LARS04) |
-| 0.82 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
 
 ### 4x4x4 Cube
 

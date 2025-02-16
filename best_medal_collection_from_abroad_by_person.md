@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 February 2025*
+*Updated on 16 February 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -49,8 +49,8 @@
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **69** | 29 | 20 | 118 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **68** | 84 | 72 | 224 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | **68** | 47 | 52 | 167 |
+| [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **67** | 40 | 13 | 120 |
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **66** | 55 | 36 | 157 |
-| [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **66** | 40 | 13 | 119 |
 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **64** | 48 | 29 | 141 |
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **61** | 51 | 36 | 148 |

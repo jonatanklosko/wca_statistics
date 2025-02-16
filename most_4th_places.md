@@ -1,13 +1,13 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 13 February 2025*
+*Updated on 16 February 2025*
 
 | 4th places | Person |
 | ---: | :--- |
 | 257 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 239 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
-| 204 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 205 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 187 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 181 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 180 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -34,7 +34,7 @@
 | 117 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 116 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 116 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
-| 114 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 115 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 113 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 111 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |

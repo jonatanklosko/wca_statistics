@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 13 February 2025*
+*Updated on 16 February 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -34,9 +34,9 @@
 | 55 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 6x6x6 Cube | [Vancouver Winter 2011](https://www.worldcubeassociation.org/competitions/VancouverWinter2011) | [Vancouver Big Cubes Open 2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019) |
 | 54 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 3x3x3 Cube | [Newport Fall 2016](https://www.worldcubeassociation.org/competitions/NewportFall2016) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 54 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | Square-1 | [Gaston Toe Twiddling 2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 54 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3x3x3 Cube | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) |  |
 | 53 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 4x4x4 Cube | [Athens SNFestival Cubing 2019](https://www.worldcubeassociation.org/competitions/AthensSNFestivalCubing2019) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 53 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | Megaminx | [Colombia MetodoGenius 2011](https://www.worldcubeassociation.org/competitions/ColombiaMetodoGenius2011) | [Edén Cubing 2022](https://www.worldcubeassociation.org/competitions/EdenCubing2022) |
-| 53 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3x3x3 Cube | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) |  |
 | 52 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 6x6x6 Cube | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 52 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 3x3x3 Cube | [Melbourne Summer 2012](https://www.worldcubeassociation.org/competitions/MelbourneSummer2012) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 52 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 3x3x3 Blindfolded | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1121,6 +1121,7 @@
 | 10 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Taman Anggrek Speedcubing 2023](https://www.worldcubeassociation.org/competitions/TamanAnggrekSpeedcubing2023/results/podiums) |
 | 11 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Washington Championship 2023](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2023/results/podiums) |
 | 13 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Blenkir Wanka Cube 2024](https://www.worldcubeassociation.org/competitions/BlenkirWankaCube2024/results/podiums) |
+| 13 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [San Valencube Huancayo 2025](https://www.worldcubeassociation.org/competitions/SanValencubeHuancayo2025/results/podiums) |
 | 11 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Open Christmas Huancayo 2024](https://www.worldcubeassociation.org/competitions/OpenChristmasCubeHuancayo2024/results/podiums) |
 | 10 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Iquitos Cubing 2018](https://www.worldcubeassociation.org/competitions/IquitosCubing2018/results/podiums) |
 | 10 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Speedsolving Huancayo 2022](https://www.worldcubeassociation.org/competitions/SpeedsolvingHuancayo2022/results/podiums) |
@@ -1304,6 +1305,7 @@
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Longstone City Blind Open 2024](https://www.worldcubeassociation.org/competitions/LongstoneCityBlindOpen2024/results/podiums) |
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Serbian Championship 2023](https://www.worldcubeassociation.org/competitions/SerbianChampionship2023/results/podiums) |
 | 12 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2024](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2024/results/podiums) |
+| 10 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Bishkek 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourBishkek2025/results/podiums) |
 | 10 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Cubing Kazakhstan Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingKazakhstanNationals2023/results/podiums) |
 | 10 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums) |
 | 10 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) | [Billings Speedcubing 2023](https://www.worldcubeassociation.org/competitions/BillingsSpeedcubing2023/results/podiums) |
@@ -1337,6 +1339,7 @@
 | 10 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [24 Hours in Åker 2024](https://www.worldcubeassociation.org/competitions/24HoursinAker2024/results/podiums) |
 | 10 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023/results/podiums) |
 | 12 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/podiums) |
+| 10 | [Misael Alexander Mancuello Ayala](https://www.worldcubeassociation.org/persons/2021AYAL04) | [Verano on Asunción 2025](https://www.worldcubeassociation.org/competitions/VeranoonAsuncion2025/results/podiums) |
 | 10 | [Abdallah Almaharmeh](https://www.worldcubeassociation.org/persons/2022ALMA01) | [ Al-Madar Open 2025](https://www.worldcubeassociation.org/competitions/AlMadarOpen2025/results/podiums) |
 | 10 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Bolton Spring 2023](https://www.worldcubeassociation.org/competitions/BoltonSpring2023/results/podiums) |
 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [24 Horas El Tambo 2024](https://www.worldcubeassociation.org/competitions/24HorasElTambo2024/results/podiums) |
@@ -1349,6 +1352,7 @@
 | 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Cubing Comes to Bihar 2023](https://www.worldcubeassociation.org/competitions/CubingComestoBihar2023/results/podiums) |
 | 12 | [Ahmad Alolaimi](https://www.worldcubeassociation.org/persons/2022ALOL01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
 | 11 | [Grigor Shahverdyan](https://www.worldcubeassociation.org/persons/2022SHAH29) | [Weekend Madness in Yerevan 2024](https://www.worldcubeassociation.org/competitions/WeekendMadnessinYerevan2024/results/podiums) |
+| 13 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Paraíso Summer DC 2025](https://www.worldcubeassociation.org/competitions/ParaisoSummerDC2025/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Araruama ao Cubo 2024](https://www.worldcubeassociation.org/competitions/AraruamaaoCubo2024/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [CubUai UFMG Open 2024](https://www.worldcubeassociation.org/competitions/CubUaiUFMGOpen2024/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Paraíso ao Cubo II DC 2024](https://www.worldcubeassociation.org/competitions/ParaisoaoCuboIIDC2024/results/podiums) |

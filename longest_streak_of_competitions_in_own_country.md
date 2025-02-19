@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -14,7 +14,7 @@
 | 59 | [Nobuaki Suga (菅信昭)](https://www.worldcubeassociation.org/persons/2007SUGA01) | Japan | [JRCA Kanto Summer 2009](https://www.worldcubeassociation.org/competitions/JRCAKantoSummer2009) | [East Osaka 2013](https://www.worldcubeassociation.org/competitions/EastOsaka2013) |
 | 54 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | United Kingdom | [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014) | [British Summer Open 2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019) |
 | 54 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | United Kingdom | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015) | [West London Open 2022](https://www.worldcubeassociation.org/competitions/WestLondonOpen2022) |
-| 51 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | Republic of Korea | [Play Cube 2017](https://www.worldcubeassociation.org/competitions/PlayCube2017) | [Korea Qualifier - Daegu C 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierDaeguC2024) |
+| 51 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | Republic of Korea | [Play Cube 2017](https://www.worldcubeassociation.org/competitions/PlayCube2017) | [Korea Qualifier - Daegu B 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierDaeguB2024) |
 | 51 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [Korean Spring Picnic 2017](https://www.worldcubeassociation.org/competitions/KoreanSpringPicnic2017) | [Korea Qualifier - Seoul B 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierSeoulB2024) |
 | 51 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Chinese Taipei | [Taipei Open 2017](https://www.worldcubeassociation.org/competitions/TaipeiOpen2017) | [Taiwan Blind Day 2023](https://www.worldcubeassociation.org/competitions/TaiwanBlindDay2023) |
 | 50 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) |  |
@@ -25,7 +25,7 @@
 | 44 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poland | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 43 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) | Sweden | [Swedish Championship 2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012) | [SSL 1 Åkers Styckebruk 2019](https://www.worldcubeassociation.org/competitions/SSL1AkersStyckebruk2019) |
 | 41 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) | Japan | [JRCA Kansai Summer 2009](https://www.worldcubeassociation.org/competitions/JRCAKansaiSummer2009) | [East Osaka 2012](https://www.worldcubeassociation.org/competitions/EastOsaka2012) |
-| 40 | [Jang Seok Won (장석원)](https://www.worldcubeassociation.org/persons/2015SUCK01) | Republic of Korea | [Busan Winter 2018](https://www.worldcubeassociation.org/competitions/BusanWinter2018) | [Korea Qualifier - Daegu C 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierDaeguC2024) |
+| 40 | [Jang Seok Won (장석원)](https://www.worldcubeassociation.org/persons/2015SUCK01) | Republic of Korea | [Busan Winter 2018](https://www.worldcubeassociation.org/competitions/BusanWinter2018) | [Korea Qualifier - Daegu B 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierDaeguB2024) |
 | 39 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | Hungary | [Hungarian Nationals 2016](https://www.worldcubeassociation.org/competitions/HungarianNationals2016) |  |
 | 39 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | Poland | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
 | 39 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | Republic of Korea | [Busan Winter 2018](https://www.worldcubeassociation.org/competitions/BusanWinter2018) | [Korea Qualifier - Seoul B 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierSeoulB2024) |

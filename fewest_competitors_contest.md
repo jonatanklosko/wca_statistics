@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -55,6 +55,7 @@
 | 6 | [Cuban Open 2016](https://www.worldcubeassociation.org/competitions/CubanOpen2016) |
 | 6 | [Fantabulous MN Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMinnesota2015) |
 | 6 | [Fewest Moves Helsinki 2019](https://www.worldcubeassociation.org/competitions/FewestMovesHelsinki2019) |
+| 6 | [Finnish FMC Series III 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesIII2025) |
 | 6 | [Fitchburg FMC II 2023](https://www.worldcubeassociation.org/competitions/FitchburgFMCII2023) |
 | 6 | [FMC Day in Trnava 2024](https://www.worldcubeassociation.org/competitions/FMCDayinTrnava2024) |
 | 6 | [GA Cubers BBQ 2023](https://www.worldcubeassociation.org/competitions/GACubersBigBlindQualifier2023) |

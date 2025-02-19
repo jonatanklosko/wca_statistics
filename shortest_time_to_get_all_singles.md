@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -108,6 +108,7 @@
 | 700 | [Elias Lampert](https://www.worldcubeassociation.org/persons/2021LAMP01) |
 | 700 | [Luke Selle](https://www.worldcubeassociation.org/persons/2022SELL05) |
 | 719 | [Yoad Yahalom Weiss](https://www.worldcubeassociation.org/persons/2022WEIS03) |
+| 721 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
 | 726 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
 | 727 | [Jakov Srečković](https://www.worldcubeassociation.org/persons/2021SREC01) |
 | 727 | [Marius Bergo Nielsen](https://www.worldcubeassociation.org/persons/2022NIEL06) |
@@ -170,6 +171,7 @@
 | 915 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 924 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 924 | [Zongwen Mu (牟宗文)](https://www.worldcubeassociation.org/persons/2015MUZO01) |
+| 924 | [Angel David Alvarado Sandoval](https://www.worldcubeassociation.org/persons/2022SAND19) |
 | 929 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
 | 931 | [Jianxu Chen (陈建旭)](https://www.worldcubeassociation.org/persons/2016CHEJ04) |
 | 937 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
@@ -276,6 +278,7 @@
 | 1391 | [Achia Engel](https://www.worldcubeassociation.org/persons/2019ENGE02) |
 | 1399 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1400 | [Faiz Wareh](https://www.worldcubeassociation.org/persons/2019WARE01) |
+| 1400 | [Putian Ye (叶溥天)](https://www.worldcubeassociation.org/persons/2021YEPU01) |
 | 1406 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
 | 1406 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) |
 | 1407 | [Hanns Hub](https://www.worldcubeassociation.org/persons/2013HUBH01) |
@@ -428,6 +431,7 @@
 | 2072 | [Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02) |
 | 2073 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
 | 2085 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 2086 | [Samuel Martinez Sanchez](https://www.worldcubeassociation.org/persons/2019SANC20) |
 | 2093 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 2099 | [Currin Wilson](https://www.worldcubeassociation.org/persons/2018WILS11) |
 | 2105 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |

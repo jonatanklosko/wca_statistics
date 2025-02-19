@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -17,7 +17,7 @@
 | 6.70 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
 | 6.85 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
 | 6.86 | [Mingzhu Zheng (郑名竹)](https://www.worldcubeassociation.org/persons/2024ZHEN13) |
-| 7.03 | [Anton Angeletti](https://www.worldcubeassociation.org/persons/2024ANGE07) |
+| 6.93 | [Tankhun Panyakham (แทนคุณ ปัญญาคำ)](https://www.worldcubeassociation.org/persons/2025PANY02) |
 
 ### 2x2x2 Cube
 
@@ -113,8 +113,8 @@
 
 | First single | Person |
 | ---: | :--- |
-| 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
 | 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
+| 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
 | 22 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
 | 23 | [Mosfikul Islam](https://www.worldcubeassociation.org/persons/2023ISLA08) |
 | 23 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
@@ -167,7 +167,7 @@
 | 2.20 | [Heath Flick](https://www.worldcubeassociation.org/persons/2020FLIC01) |
 | 2.25 | [Shuda Huang (黄黍达)](https://www.worldcubeassociation.org/persons/2021HUAN02) |
 | 2.32 | [Marcela Luna de Albuquerque](https://www.worldcubeassociation.org/persons/2025ALBU02) |
-| 2.34 | [Jhian Francis Padron](https://www.worldcubeassociation.org/persons/2019PADR02) |
+| 2.33 | [Antonín Prynych](https://www.worldcubeassociation.org/persons/2025PRYN01) |
 
 ### Rubik's Clock
 

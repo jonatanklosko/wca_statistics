@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -10,12 +10,12 @@
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **271** | 147 | 99 | 517 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **260** | 54 | 30 | 344 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **230** | 182 | 136 | 548 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **208** | 65 | 34 | 307 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **206** | 62 | 21 | 289 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **205** | 65 | 34 | 304 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **180** | 24 | 10 | 214 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **183** | 24 | 10 | 217 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **167** | 69 | 38 | 274 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
-| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **161** | 171 | 87 | 419 |
+| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **163** | 171 | 87 | 421 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **142** | 157 | 135 | 434 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **140** | 77 | 38 | 255 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **140** | 74 | 43 | 257 |
@@ -42,7 +42,7 @@
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **81** | 59 | 52 | 192 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **80** | 67 | 52 | 199 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **76** | 47 | 50 | 173 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **75** | 77 | 42 | 194 |
+| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **75** | 80 | 43 | 198 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **72** | 82 | 52 | 206 |
 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **69** | 29 | 37 | 135 |
@@ -77,6 +77,7 @@
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **48** | 43 | 30 | 121 |
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **48** | 39 | 21 | 108 |
 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | **48** | 23 | 13 | 84 |
+| [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **47** | 17 | 11 | 75 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | **47** | 9 | 8 | 64 |
 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | **46** | 61 | 31 | 138 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | **46** | 36 | 26 | 108 |
@@ -101,7 +102,6 @@
 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) | **40** | 24 | 43 | 107 |
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |
 | [Ivan Torgashov](https://www.worldcubeassociation.org/persons/2011TORG01) | **39** | 17 | 23 | 79 |
-| [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **39** | 15 | 11 | 65 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **38** | 75 | 159 | 272 |
 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) | **38** | 37 | 33 | 108 |
 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | **38** | 32 | 20 | 90 |

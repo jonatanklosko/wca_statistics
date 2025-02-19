@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -35,7 +35,7 @@
 | 5 | 7x7x7 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [WCCT Fresno 2018](https://www.worldcubeassociation.org/competitions/WCCTFresno2018) |  | 6.60 |
 | 5 | 3x3x3 Fewest Moves | Average | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Moves are for n00bs 2012](https://www.worldcubeassociation.org/competitions/MovesN00bs2012) | [US Nationals 2014](https://www.worldcubeassociation.org/competitions/USNationals2014) | 1.93 |
 | 5 | Megaminx | Single | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | 2.45 |
-| 5 | Megaminx | Single | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Open 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpen2023) |  | 1.92 |
+| 5 | Megaminx | Single | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Open 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpen2023) |  | 1.93 |
 | 5 | Megaminx | Average | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) | 2.55 |
 | 5 | Megaminx | Average | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025) | 1.71 |
 | 5 | Pyraminx | Average | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Pabianice Open 2008](https://www.worldcubeassociation.org/competitions/PabianiceOpen2008) | 1.65 |
@@ -197,13 +197,13 @@
 | 2 | Skewb | Single | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) | [Taiwan Open 2015](https://www.worldcubeassociation.org/competitions/TaiwanOpen2015) | 0.96 |
 | 2 | Skewb | Average | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) | [Starlight Open 2014](https://www.worldcubeassociation.org/competitions/StarlightOpen2014) | 0.46 |
 | 2 | Skewb | Average | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | [GLS Cup II 2016](https://www.worldcubeassociation.org/competitions/GLSCupII2016) | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) | 0.48 |
-| 2 | Skewb | Average | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) |  | 1.60 |
+| 2 | Skewb | Average | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023) |  | 1.61 |
 | 2 | Square-1 | Single | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | [Dutch Open 2004](https://www.worldcubeassociation.org/competitions/DutchOpen2004) | [Dutch Open 2006](https://www.worldcubeassociation.org/competitions/DutchOpen2006) | 2.01 |
 | 2 | Square-1 | Average | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | [Cheonan 2008](https://www.worldcubeassociation.org/competitions/Cheonan2008) | 1.05 |
 | 2 | Square-1 | Average | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Schoolmark Open 2018](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2018) | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 2.47 |
 | 2 | Square-1 | Average | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024) | 2.25 |
 | 2 | Square-1 | Average | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) | 0.38 |
-| 2 | Square-1 | Average | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) |  | 0.10 |
+| 2 | Square-1 | Average | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) |  | 0.11 |
 | 2 | 4x4x4 Blindfolded | Single | [Dror Vomberg](https://www.worldcubeassociation.org/persons/2003VOMB01) | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003) | [US Nationals 2006](https://www.worldcubeassociation.org/competitions/US2006) | 2.95 |
 | 2 | 4x4x4 Blindfolded | Single | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | 0.96 |
 | 2 | 4x4x4 Blindfolded | Single | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) | 1.84 |

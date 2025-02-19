@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -248,6 +248,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 60 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) | [Amore Amorebieta Open 2025](https://www.worldcubeassociation.org/competitions/AmoreAmorebietaOpen2025) |
 | 43 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | [Telšiai Open 2019](https://www.worldcubeassociation.org/competitions/TelsiaiOpen2019) |
 | 37 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) | [Meiringen Masterminds 2025](https://www.worldcubeassociation.org/competitions/MeiringenMasterminds2025) |
 | 33 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | [Roma ar Cubbo 2024](https://www.worldcubeassociation.org/competitions/RomaarCubbo2024) |
@@ -257,7 +258,6 @@
 | 25 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) | [Pocos Cupos VII 2024](https://www.worldcubeassociation.org/competitions/PocosCuposVII2024) |
 | 24 | [John Edison Ubaldo (ᜇ᜔ᜌᜓ︀ᜈ᜔ ᜁᜇᜒᜐᜓ︀ᜈ᜔ ᜂᜊᜎ᜔ᜇᜓ︀)](https://www.worldcubeassociation.org/persons/2010UBAL01) | [Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/VisayasChampionship2019) |
 | 23 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | [PBQ CBC 2022](https://www.worldcubeassociation.org/competitions/PBQCBC2022) |
-| 23 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) | [Norwegian Championship 2024](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2024) |
 
 ### 3x3x3 With Feet
 

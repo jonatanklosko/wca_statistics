@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -39,8 +39,8 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 18.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 17.72, 20.46, 17.60, 18.49, 19.37 |
+| 19.06 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 18.47, 19.02, 18.71, 20.56, 19.44 |
 | 19.17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 22.21, 19.55, 18.95, 17.84, 19.01 |
-| 19.41 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 20.61, 19.78, 17.57, 18.69, 19.75 |
 | 20.42 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 21.77, 17.10, 19.51, 27.31, 19.97 |
 | 20.60 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 25.91, 19.15, 22.24, 18.88, 20.41 |
 | 20.85 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 19.82, 25.18, 20.63, 22.10, 18.51 |
@@ -70,7 +70,7 @@
 | ---: | :--- | :--- |
 | 1:05.51 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 58.03, 1:00.00, 1:12.29, 1:06.96, 1:09.58 |
 | 1:08.85 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:18.06, 1:09.86, 1:08.52, 1:02.67, 1:08.18 |
-| 1:12.35 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:12.77, 1:12.63, 1:11.65, 1:15.50, 1:11.46 |
+| 1:11.33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:05.42, 1:15.77, 1:18.06, 1:08.52, 1:09.69 |
 | 1:13.32 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:11.96, 1:13.14, 1:08.59, 1:30.01, 1:14.87 |
 | 1:13.35 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:12.98, 1:20.67, 1:14.63, 1:12.44, 1:11.75 |
 | 1:14.93 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:16.27, 1:15.39, 1:16.90, 1:13.14, 1:12.01 |

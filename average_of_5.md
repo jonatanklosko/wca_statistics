@@ -1,14 +1,14 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 February 2025*
+*Updated on 22 February 2025*
 
 
 ### Rubik's Cube
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 4.04 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3.78, 3.84, 4.25, 4.14, 4.13 |
+| 3.99 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3.93, 4.58, 3.88, 3.62, 4.17 |
 | 4.32 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 3.89, 3.90, 5.17, 4.02, 5.03 |
 | 4.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.45, 4.72, 4.23, 5.60, 4.30 |
 | 4.71 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 4.43, 4.73, 5.35, 4.96, 4.42 |

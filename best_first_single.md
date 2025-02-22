@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 19 February 2025*
+*Updated on 22 February 2025*
 
 
 ### Rubik's Cube
@@ -130,6 +130,7 @@
 | ---: | :--- |
 | 11.05 | [Youyu Peng (彭宥裕)](https://www.worldcubeassociation.org/persons/2023PENG14) |
 | 11.08 | [Yingtong Huang (黄颖彤)](https://www.worldcubeassociation.org/persons/2021HUAN08) |
+| 11.11 | [Muhammad Qaiser Ikram bin Khairil Ikram](https://www.worldcubeassociation.org/persons/2025IKRA01) |
 | 11.15 | [Aragon Martin Gonzales](https://www.worldcubeassociation.org/persons/2023GONZ18) |
 | 11.28 | [Yaxin Song (宋亚新)](https://www.worldcubeassociation.org/persons/2023SONG24) |
 | 11.65 | [Boxun Zhang (张博勋)](https://www.worldcubeassociation.org/persons/2024ZHAB01) |
@@ -137,7 +138,6 @@
 | 11.72 | [Arthur Vinicios Medeiros Alves](https://www.worldcubeassociation.org/persons/2023ALVE12) |
 | 11.90 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
 | 12.47 | [Zih-Yang Chen (陳子揚)](https://www.worldcubeassociation.org/persons/2017CHEZ06) |
-| 12.61 | [Yihan Cai (蔡依函)](https://www.worldcubeassociation.org/persons/2017CAIY02) |
 
 ### Megaminx
 

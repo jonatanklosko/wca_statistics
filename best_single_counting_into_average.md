@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 February 2025*
+*Updated on 22 February 2025*
 
 
 ### Rubik's Cube
@@ -12,11 +12,11 @@
 | 3.86 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Zhengzhou Open 2024](https://www.worldcubeassociation.org/competitions/ZhengzhouOpen2024/results/by_person#2019WANY36) |
 | 3.87 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Zhengzhou Open 2024](https://www.worldcubeassociation.org/competitions/ZhengzhouOpen2024/results/by_person#2019WANY36) |
 | 3.88 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xuzhou Autumn 2024](https://www.worldcubeassociation.org/competitions/XuzhouAutumn2024/results/by_person#2019WANY36) |
+| 3.88 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [XMUM Cube Open 2025](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2025/results/by_person#2019WANY36) |
 | 3.90 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024/results/by_person#2023GENG02) |
+| 3.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [XMUM Cube Open 2025](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2025/results/by_person#2019WANY36) |
 | 3.96 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019WANY36) |
 | 3.98 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/by_person#2019WANY36) |
-| 3.99 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Mofunland Cruise Open 2023](https://www.worldcubeassociation.org/competitions/MofunlandCruiseOpen2023/results/by_person#2019WANY36) |
-| 3.99 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | [Beijing Winter 2025](https://www.worldcubeassociation.org/competitions/BeijingWinter2025/results/by_person#2023DUYU01) |
 
 ### 2x2x2 Cube
 

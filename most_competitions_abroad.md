@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 19 February 2025*
+*Updated on 22 February 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -12,8 +12,8 @@
 | 141 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 134 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 132 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
+| 130 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 129 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 129 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 119 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 119 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 114 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
@@ -37,9 +37,9 @@
 | 95 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 95 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 94 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
+| 94 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 93 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 93 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
-| 92 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
+| 93 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 89 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 89 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 89 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
@@ -62,8 +62,8 @@
 | 73 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 73 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 72 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 71 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
-| 70 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
 | 70 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 70 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
 | 69 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |

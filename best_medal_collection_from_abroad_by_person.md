@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 February 2025*
+*Updated on 22 February 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -42,7 +42,7 @@
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **81** | 59 | 52 | 192 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **80** | 67 | 52 | 199 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **76** | 47 | 50 | 173 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **75** | 80 | 43 | 198 |
+| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **75** | 82 | 43 | 200 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **72** | 82 | 52 | 206 |
 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **69** | 29 | 37 | 135 |
@@ -53,8 +53,8 @@
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **66** | 55 | 36 | 157 |
 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **64** | 48 | 29 | 141 |
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
+| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **62** | 14 | 3 | 79 |
 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **61** | 51 | 36 | 148 |
-| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **61** | 13 | 3 | 77 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **60** | 70 | 81 | 211 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **60** | 67 | 56 | 183 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
@@ -94,11 +94,11 @@
 | [Olivier Vos](https://www.worldcubeassociation.org/persons/2016VOSO01) | **42** | 22 | 19 | 83 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | **42** | 1 | 0 | 43 |
 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) | **41** | 36 | 36 | 113 |
+| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | **41** | 32 | 38 | 111 |
 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | **41** | 27 | 9 | 77 |
 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) | **41** | 26 | 18 | 85 |
 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) | **40** | 67 | 65 | 172 |
 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | **40** | 51 | 51 | 142 |
-| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | **40** | 32 | 36 | 108 |
 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) | **40** | 24 | 43 | 107 |
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |
 | [Ivan Torgashov](https://www.worldcubeassociation.org/persons/2011TORG01) | **39** | 17 | 23 | 79 |

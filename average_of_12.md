@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 February 2025*
+*Updated on 22 February 2025*
 
 
 ### Rubik's Cube
@@ -86,7 +86,7 @@
 | 1:44.47 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:42.73, 1:49.04, 1:43.96, 1:46.49, 1:46.11, 1:46.69, 1:41.71, 1:41.02, 1:40.69, 1:43.63, 1:45.95, 1:46.39 |
 | 1:48.69 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:45.96, 1:47.65, 1:50.40, 1:56.46, 1:46.65, 1:42.58, 1:46.49, 2:00.70, 1:54.30, 1:38.42, 1:49.41, 1:47.02 |
 | 1:50.00 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:46.78, 1:58.55, 1:57.32, 1:48.73, 1:44.42, 1:49.85, 1:51.87, 1:52.33, 1:53.31, 1:50.09, 1:44.37, 1:45.33 |
-| 1:51.83 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:56.72, 1:48.33, 1:49.51, 1:54.83, 1:53.49, 1:48.72, 1:46.40, 1:52.82, 1:47.96, 1:58.26, 2:01.12, 1:47.63 |
+| 1:51.42 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:44.43, 1:48.06, 1:54.15, 2:11.38, 1:50.36, 1:52.79, 1:56.82, 1:53.45, 1:54.36, 1:45.08, 1:53.93, 1:45.20 |
 | 1:52.71 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:54.26, 1:53.40, 1:51.11, 1:53.94, 1:54.88, 1:44.38, 1:52.70, 1:58.80, 1:55.19, 1:43.89, 1:49.75, 1:57.50 |
 | 1:53.54 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:50.81, 1:51.26, 1:55.09, 1:58.28, 2:16.87, 2:03.39, 1:44.29, 1:44.76, 2:02.05, 1:46.31, 1:53.46, 1:49.95 |
 | 1:55.61 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:02.94, 1:55.06, 1:54.91, 2:02.88, 1:50.66, 1:54.41, 1:48.00, 1:57.33, 1:56.64, 1:58.46, 1:49.94, 1:55.81 |

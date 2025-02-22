@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 February 2025*
+*Updated on 22 February 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1174,6 +1174,7 @@
 | 10 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Eastwood Cubing 2024](https://www.worldcubeassociation.org/competitions/EastwoodCubing2024/results/podiums) |
 | 10 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Everything in Evanston B 2023](https://www.worldcubeassociation.org/competitions/EverythinginEvanstonB2023/results/podiums) |
 | 10 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023/results/podiums) |
+| 10 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Pittsburgh Winter 2025](https://www.worldcubeassociation.org/competitions/PittsburghWinter2025/results/podiums) |
 | 12 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022/results/podiums) |
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2023](https://www.worldcubeassociation.org/competitions/IcelandicNationals2023/results/podiums) |

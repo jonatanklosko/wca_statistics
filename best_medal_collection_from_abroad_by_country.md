@@ -1,30 +1,30 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| Hungary | **1463** | 1243 | 1071 | 3777 |
-| United States | **1319** | 1041 | 902 | 3262 |
+| Hungary | **1463** | 1243 | 1073 | 3779 |
+| United States | **1319** | 1041 | 903 | 3263 |
 | Germany | **1240** | 1174 | 1176 | 3590 |
 | Russia | **1067** | 600 | 476 | 2143 |
 | France | **1041** | 911 | 775 | 2727 |
 | Netherlands | **999** | 808 | 683 | 2490 |
 | China | **878** | 827 | 721 | 2426 |
 | Poland | **702** | 456 | 356 | 1514 |
-| Malaysia | **479** | 490 | 453 | 1422 |
-| United Kingdom | **443** | 492 | 472 | 1407 |
+| Malaysia | **479** | 493 | 455 | 1427 |
+| United Kingdom | **443** | 494 | 473 | 1410 |
 | Canada | **421** | 442 | 475 | 1338 |
 | Republic of Korea | **394** | 338 | 291 | 1023 |
-| Hong Kong, China | **379** | 389 | 322 | 1090 |
+| Hong Kong, China | **379** | 389 | 323 | 1091 |
 | Switzerland | **374** | 451 | 353 | 1178 |
 | Denmark | **366** | 307 | 252 | 925 |
 | India | **354** | 340 | 328 | 1022 |
 | Italy | **349** | 334 | 309 | 992 |
 | Sweden | **327** | 374 | 381 | 1082 |
 | Australia | **305** | 159 | 110 | 574 |
-| Ukraine | **299** | 302 | 324 | 925 |
+| Ukraine | **301** | 302 | 325 | 928 |
 | Finland | **297** | 238 | 208 | 743 |
 | Argentina | **269** | 185 | 153 | 607 |
 | Chinese Taipei | **237** | 215 | 211 | 663 |
@@ -53,11 +53,11 @@
 | Venezuela | **80** | 93 | 83 | 256 |
 | Guatemala | **77** | 47 | 51 | 175 |
 | New Zealand | **74** | 84 | 70 | 228 |
-| Brazil | **72** | 87 | 66 | 225 |
+| Brazil | **73** | 90 | 67 | 230 |
 | Vietnam | **68** | 91 | 85 | 244 |
 | Estonia | **63** | 69 | 64 | 196 |
 | Jordan | **63** | 17 | 18 | 98 |
-| Israel | **44** | 43 | 51 | 138 |
+| Israel | **44** | 44 | 56 | 144 |
 | Iran | **43** | 34 | 26 | 103 |
 | Serbia | **41** | 51 | 48 | 140 |
 | Kosovo | **40** | 28 | 24 | 92 |

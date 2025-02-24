@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 14292 |
+| 1.46 | World | 14299 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 4636 |
-| 1.48 | South America | 1781 |
+| 1.72 | Europe | 4638 |
+| 1.48 | South America | 1782 |
 | 1.48 | Oceania | 626 |
-| 1.41 | Asia | 3003 |
+| 1.41 | Asia | 3004 |
 | 1.31 | Africa | 175 |
-| 1.20 | North America | 4071 |
+| 1.20 | North America | 4074 |
 
 ### Countries
 
@@ -51,7 +51,7 @@
 | 1.79 | Guatemala | 57 |
 | 1.79 | Bosnia and Herzegovina | 14 |
 | 1.78 | Slovenia | 36 |
-| 1.77 | Switzerland | 136 |
+| 1.77 | Switzerland | 137 |
 | 1.75 | Austria | 32 |
 | 1.75 | Luxembourg | 4 |
 | 1.71 | Ukraine | 140 |
@@ -68,7 +68,7 @@
 | 1.59 | Indonesia | 235 |
 | 1.59 | Denmark | 198 |
 | 1.57 | San Marino | 7 |
-| 1.57 | India | 632 |
+| 1.57 | India | 633 |
 | 1.56 | Dominican Republic | 27 |
 | 1.55 | Malaysia | 104 |
 | 1.55 | Nepal | 22 |
@@ -90,13 +90,13 @@
 | 1.40 | Costa Rica | 25 |
 | 1.38 | Estonia | 63 |
 | 1.38 | Chinese Taipei | 146 |
-| 1.37 | Romania | 131 |
+| 1.36 | Romania | 132 |
 | 1.36 | Vietnam | 69 |
 | 1.36 | Ecuador | 58 |
 | 1.35 | Paraguay | 34 |
 | 1.33 | Ghana | 3 |
 | 1.33 | Tajikistan | 3 |
-| 1.31 | Colombia | 389 |
+| 1.31 | Colombia | 390 |
 | 1.31 | Republic of Korea | 111 |
 | 1.30 | Hong Kong, China | 23 |
 | 1.29 | Philippines | 337 |
@@ -118,7 +118,7 @@
 | 1.18 | Mongolia | 40 |
 | 1.17 | Canada | 413 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3267 |
+| 1.16 | United States | 3270 |
 | 1.13 | Azerbaijan | 46 |
 | 1.11 | Honduras | 18 |
 | 1.08 | Cyprus | 12 |

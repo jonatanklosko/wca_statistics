@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -152,6 +152,7 @@
 | 2 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) |
 | 2 | [Mirek Goljan](https://www.worldcubeassociation.org/persons/2003GOLJ01) |
 | 2 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
+| 2 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 2 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 2 | [Oskar Åsbrink](https://www.worldcubeassociation.org/persons/2009ASBR01) |
 | 2 | [Patrick Jameson](https://www.worldcubeassociation.org/persons/2007JAME01) |
@@ -257,7 +258,6 @@
 | 1 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
 | 1 | [Neil Gour](https://www.worldcubeassociation.org/persons/2022GOUR01) |
 | 1 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
-| 1 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 1 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) |
 | 1 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
 | 1 | [Olivier Gaucher](https://www.worldcubeassociation.org/persons/2004GAUC01) |

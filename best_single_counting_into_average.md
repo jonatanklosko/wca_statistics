@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 
 ### Rubik's Cube
@@ -119,9 +119,9 @@
 | 2.31 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Grand Forks 2024](https://www.worldcubeassociation.org/competitions/GrandForks2024/results/by_person#2022KAPU01) |
 | 2.32 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Hasty Hastings 2024](https://www.worldcubeassociation.org/competitions/HastyHastings2024/results/by_person#2022GIBS04) |
 | 2.35 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Minnesota Championship 2024](https://www.worldcubeassociation.org/competitions/MinnesotaChampionship2024/results/by_person#2022KAPU01) |
+| 2.41 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Dębica Cubing Winter 2025](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2025/results/by_person#2021KASP01) |
 | 2.41 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Grand Forks 2024](https://www.worldcubeassociation.org/competitions/GrandForks2024/results/by_person#2022KAPU01) |
 | 2.42 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Hasty Hastings 2024](https://www.worldcubeassociation.org/competitions/HastyHastings2024/results/by_person#2022GIBS04) |
-| 2.43 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Grand Forks 2024](https://www.worldcubeassociation.org/competitions/GrandForks2024/results/by_person#2022KAPU01) |
 
 ### Skewb
 

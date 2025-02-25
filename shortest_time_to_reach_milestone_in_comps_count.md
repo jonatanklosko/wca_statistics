@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 
 ### 300 Competitions
@@ -21,12 +21,14 @@
 | 4706 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 5048 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 5146 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
+| 5557 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 5734 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 
 ### 200 Competitions
 
 | Days | Person |
 | ---: | :--- |
+| 1289 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 1408 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 2506 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2840 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
@@ -46,7 +48,6 @@
 | 4201 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 4306 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 4315 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
-| 4509 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 
 ### 150 Competitions
 

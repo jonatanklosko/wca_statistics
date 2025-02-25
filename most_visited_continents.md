@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -40,6 +40,7 @@
 | 5 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 5 | [Helmut Heilig](https://www.worldcubeassociation.org/persons/2010HEIL02) |
 | 5 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
+| 5 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 5 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 5 | [Donna Hays](https://www.worldcubeassociation.org/persons/2011HAYS02) |
 | 5 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
@@ -55,6 +56,7 @@
 | 5 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
 | 5 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) |
 | 5 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
+| 5 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 4 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 4 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
@@ -82,7 +84,6 @@
 | 4 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 4 | [Jorge Leonardo Sánchez Salazar](https://www.worldcubeassociation.org/persons/2009SALA01) |
 | 4 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
-| 4 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 4 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 4 | [Justin Mallari](https://www.worldcubeassociation.org/persons/2010MALL01) |
 | 4 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
@@ -152,11 +153,11 @@
 | 4 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
 | 4 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) |
 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 4 | [Ricardo Olea Catalán](https://www.worldcubeassociation.org/persons/2017CATA04) |
 | 4 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) |
 | 4 | [Mohammad Almoumen](https://www.worldcubeassociation.org/persons/2017ALMO03) |
 | 4 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
 | 4 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
-| 4 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
 | 4 | [John Cook](https://www.worldcubeassociation.org/persons/2018COOK04) |
 | 4 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 4 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |

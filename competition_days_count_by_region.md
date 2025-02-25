@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 14299 |
+| 1.46 | World | 14307 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 4638 |
+| 1.72 | Europe | 4639 |
 | 1.48 | South America | 1782 |
-| 1.48 | Oceania | 626 |
+| 1.48 | Oceania | 627 |
 | 1.41 | Asia | 3004 |
 | 1.31 | Africa | 175 |
-| 1.20 | North America | 4074 |
+| 1.20 | North America | 4080 |
 
 ### Countries
 
@@ -39,7 +39,7 @@
 | 1.88 | Kyrgyzstan | 8 |
 | 1.87 | Norway | 140 |
 | 1.86 | United Kingdom | 280 |
-| 1.86 | Spain | 394 |
+| 1.86 | Spain | 395 |
 | 1.84 | Thailand | 75 |
 | 1.84 | Finland | 154 |
 | 1.83 | Hungary | 54 |
@@ -82,7 +82,7 @@
 | 1.49 | South Africa | 90 |
 | 1.48 | Bulgaria | 25 |
 | 1.46 | Latvia | 37 |
-| 1.44 | Australia | 488 |
+| 1.45 | Australia | 489 |
 | 1.44 | Jordan | 16 |
 | 1.43 | Nigeria | 7 |
 | 1.42 | Bangladesh | 19 |
@@ -116,9 +116,9 @@
 | 1.20 | Japan | 237 |
 | 1.18 | Armenia | 11 |
 | 1.18 | Mongolia | 40 |
-| 1.17 | Canada | 413 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3270 |
+| 1.17 | Canada | 415 |
+| 1.16 | United States | 3274 |
 | 1.13 | Azerbaijan | 46 |
 | 1.11 | Honduras | 18 |
 | 1.08 | Cyprus | 12 |

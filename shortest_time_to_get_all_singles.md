@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -500,6 +500,7 @@
 | 2498 | [Enoch Gray](https://www.worldcubeassociation.org/persons/2012GRAY01) |
 | 2500 | [Michael Larsen](https://www.worldcubeassociation.org/persons/2017LARS03) |
 | 2505 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) |
+| 2513 | [Adrien Neveu](https://www.worldcubeassociation.org/persons/2018NEVE02) |
 | 2520 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 2533 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |
 | 2534 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |

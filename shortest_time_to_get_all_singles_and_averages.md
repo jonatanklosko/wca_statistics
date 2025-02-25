@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -29,6 +29,7 @@
 | 1153 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 1170 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 1198 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
+| 1309 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 1372 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 | 1449 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 1470 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
@@ -98,6 +99,7 @@
 | 3115 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) |
 | 3136 | [Matej Bolta](https://www.worldcubeassociation.org/persons/2015BOLT01) |
 | 3143 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
+| 3213 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 3221 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 3282 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
 | 3402 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) |

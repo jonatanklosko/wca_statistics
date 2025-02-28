@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 February 2025*
+*Updated on 28 February 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -118,6 +118,7 @@
 | 4193 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 4592 | [Andrei Răzvan Ionel](https://www.worldcubeassociation.org/persons/2012IONE01) |
 | 4703 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
+| 5215 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 6040 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 6047 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 6258 | [Takuma Shirahase (白波瀬拓磨)](https://www.worldcubeassociation.org/persons/2007SHIR01) |

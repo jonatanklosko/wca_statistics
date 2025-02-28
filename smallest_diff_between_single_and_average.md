@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 February 2025*
+*Updated on 28 February 2025*
 
 
 ### Rubik's Cube
@@ -54,6 +54,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.07 | [Micki Kanaiya Harning](https://www.worldcubeassociation.org/persons/2014HARN01) | 1:39.88 | 1:39.95 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2014HARN01) |
+| 0.08 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | 48.77 | 48.85 | [Hurlubiks Cube Mouscron 2025](https://www.worldcubeassociation.org/competitions/HurlubiksCubeMouscron2025/results/by_person#2015CHEA01) |
 | 0.09 | [Justin John Navarro](https://www.worldcubeassociation.org/persons/2016NAVA07) | 1:22.65 | 1:22.74 | [General Santos City Open 2020](https://www.worldcubeassociation.org/competitions/GeneralSantosCityOpen2020/results/by_person#2016NAVA07) |
 | 0.10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 59.04 | 59.14 | [Long Island Side Events 2024](https://www.worldcubeassociation.org/competitions/LongIslandSideEvents2024/results/by_person#2009LIUE01) |
 | 0.11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 57.44 | 57.55 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/by_person#2013EGDA02) |
@@ -62,7 +63,6 @@
 | 0.13 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 54.06 | 54.19 | [Daegu Cold Winter 2024](https://www.worldcubeassociation.org/competitions/DaeguColdWinter2024/results/by_person#2019HANS03) |
 | 0.13 | [Declan Wilhelm](https://www.worldcubeassociation.org/persons/2016WILH03) | 1:20.85 | 1:20.98 | [Pennsylvania Championship 2024](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2024/results/by_person#2016WILH03) |
 | 0.13 | [Andy Liu](https://www.worldcubeassociation.org/persons/2022LIUA05) | 2:15.73 | 2:15.86 | [Virginia Championship 2023](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2023/results/by_person#2022LIUA05) |
-| 0.14 | [Clément Valot](https://www.worldcubeassociation.org/persons/2010VALO01) | 2:35.06 | 2:35.20 | [Diñs Open 2012](https://www.worldcubeassociation.org/competitions/DinsOpen2012/results/by_person#2010VALO01) |
 
 ### 6x6x6 Cube
 

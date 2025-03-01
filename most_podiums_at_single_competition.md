@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 February 2025*
+*Updated on  1 March 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -264,6 +264,7 @@
 | 10 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) | [Cebu Speedcubing Year End 2019](https://www.worldcubeassociation.org/competitions/CebuSpeedcubingYearEnd2019/results/podiums) |
 | 10 | [Angga Atrie](https://www.worldcubeassociation.org/persons/2011ATRI01) | [Celebes 2012](https://www.worldcubeassociation.org/competitions/Celebes2012/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Celebes Open 2024](https://www.worldcubeassociation.org/competitions/CelebesOpen2024/results/podiums) |
+| 10 | [Edgar Nogueira Garcia Pinho](https://www.worldcubeassociation.org/persons/2019PINH01) | [CEMS ao Cubo Vila Velha 2025](https://www.worldcubeassociation.org/competitions/CEMSaoCuboVilaVelha2025/results/podiums) |
 | 10 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Bishkek 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourBishkek2025/results/podiums) |
 | 12 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Cerbuna Open 2015](https://www.worldcubeassociation.org/competitions/CerbunaOpen2015/results/podiums) |
 | 17 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Cerrado Open 2022](https://www.worldcubeassociation.org/competitions/CerradoOpen2022/results/podiums) |

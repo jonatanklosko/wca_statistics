@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 February 2025*
+*Updated on  1 March 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -9,11 +9,11 @@
 | 2376 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2131 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 1813 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
-| 1734 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 1739 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 1689 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 1688 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 1683 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 1667 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 1574 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
+| 1579 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 1552 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1521 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
@@ -22,7 +22,7 @@
 | 1406 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1391 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 1375 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
-| 1341 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 1346 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 1329 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1327 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1311 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
@@ -85,7 +85,7 @@
 | 887 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 887 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 883 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
-| 877 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
+| 881 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 876 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 875 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 873 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |

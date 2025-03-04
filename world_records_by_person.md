@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -157,6 +157,7 @@
 | 2 | [Oskar Åsbrink](https://www.worldcubeassociation.org/persons/2009ASBR01) |
 | 2 | [Patrick Jameson](https://www.worldcubeassociation.org/persons/2007JAME01) |
 | 2 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) |
+| 2 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 2 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 2 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 2 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) |
@@ -266,7 +267,6 @@
 | 1 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2009TOMC01) |
 | 1 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 1 | [Quinn Lewis](https://www.worldcubeassociation.org/persons/2005LEWI01) |
-| 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 1 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 1 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) |
 | 1 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) |

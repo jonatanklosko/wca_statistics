@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -590,6 +590,7 @@
 | 3380 | [Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02) |
 | 3381 | [Felix Lee](https://www.worldcubeassociation.org/persons/2008LEEF01) |
 | 3388 | [Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02) |
+| 3421 | [Saiyam Jain](https://www.worldcubeassociation.org/persons/2015JAIN21) |
 | 3430 | [Artur Miralles Hernàndez](https://www.worldcubeassociation.org/persons/2015HERN17) |
 | 3437 | [Carlos Pedro Casado de Achával](https://www.worldcubeassociation.org/persons/2012ACHA01) |
 | 3452 | [Luis Gabriel Magadia](https://www.worldcubeassociation.org/persons/2014MAGA04) |

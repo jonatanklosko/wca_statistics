@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -10,19 +10,19 @@
 | Germany | **1248** | 1181 | 1179 | 3608 |
 | Russia | **1080** | 606 | 475 | 2161 |
 | France | **1044** | 915 | 778 | 2737 |
-| Netherlands | **1001** | 809 | 684 | 2494 |
-| China | **883** | 836 | 729 | 2448 |
-| Poland | **703** | 457 | 356 | 1516 |
-| Malaysia | **480** | 496 | 457 | 1433 |
+| Netherlands | **1001** | 809 | 685 | 2495 |
+| China | **884** | 837 | 729 | 2450 |
+| Poland | **704** | 457 | 357 | 1518 |
+| Malaysia | **481** | 498 | 458 | 1437 |
 | United Kingdom | **443** | 494 | 473 | 1410 |
-| Canada | **423** | 442 | 476 | 1341 |
+| Canada | **423** | 444 | 477 | 1344 |
 | Republic of Korea | **397** | 341 | 291 | 1029 |
-| Hong Kong, China | **381** | 390 | 328 | 1099 |
+| Hong Kong, China | **382** | 393 | 330 | 1105 |
 | Switzerland | **376** | 454 | 359 | 1189 |
 | Denmark | **366** | 307 | 252 | 925 |
-| India | **355** | 345 | 332 | 1032 |
+| India | **359** | 345 | 335 | 1039 |
 | Italy | **353** | 335 | 310 | 998 |
-| Sweden | **327** | 374 | 382 | 1083 |
+| Sweden | **327** | 374 | 383 | 1084 |
 | Ukraine | **305** | 308 | 328 | 941 |
 | Australia | **305** | 159 | 110 | 574 |
 | Finland | **299** | 239 | 210 | 748 |
@@ -30,7 +30,7 @@
 | Chinese Taipei | **240** | 215 | 216 | 671 |
 | Singapore | **234** | 210 | 237 | 681 |
 | Romania | **230** | 177 | 146 | 553 |
-| Japan | **212** | 168 | 149 | 529 |
+| Japan | **216** | 168 | 152 | 536 |
 | Spain | **206** | 194 | 225 | 625 |
 | Indonesia | **206** | 193 | 156 | 555 |
 | Ireland | **190** | 91 | 78 | 359 |
@@ -82,8 +82,8 @@
 | Uruguay | **11** | 8 | 18 | 37 |
 | Bosnia and Herzegovina | **10** | 23 | 15 | 48 |
 | Turkey | **10** | 17 | 17 | 44 |
+| Kuwait | **10** | 10 | 22 | 42 |
 | Tunisia | **10** | 10 | 8 | 28 |
-| Kuwait | **10** | 9 | 22 | 41 |
 | Bangladesh | **9** | 16 | 10 | 35 |
 | Egypt | **8** | 27 | 32 | 67 |
 | Cyprus | **8** | 18 | 18 | 44 |

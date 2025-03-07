@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -865,6 +865,7 @@
 | 13 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Nebraska Heartland Warmup 2023](https://www.worldcubeassociation.org/competitions/NebraskaHeartlandWarmup2023/results/podiums) |
 | 11 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Nebraska Heartland Warmup 2023](https://www.worldcubeassociation.org/competitions/NebraskaHeartlandWarmup2023/results/podiums) |
 | 11 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [Negros Speedcubing Open 2019](https://www.worldcubeassociation.org/competitions/NegrosSpeedcubingOpen2019/results/podiums) |
+| 11 | [Salon Ngakhushi](https://www.worldcubeassociation.org/persons/2017NGAK01) | [Nepali Nationals 2025](https://www.worldcubeassociation.org/competitions/NepaliNationals2025/results/podiums) |
 | 13 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [New Zealand Nationals 2017](https://www.worldcubeassociation.org/competitions/NewZealandNationals2017/results/podiums) |
 | 11 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [No Clock in Lužice 2023](https://www.worldcubeassociation.org/competitions/NoClockinLuzice2023/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018/results/podiums) |

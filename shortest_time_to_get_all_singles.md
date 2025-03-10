@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 March 2025*
+*Updated on 10 March 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -645,6 +645,7 @@
 | 5712 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 5834 | [Mats Bergsten](https://www.worldcubeassociation.org/persons/2008BERG04) |
 | 5880 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
+| 5943 | [Vasco Vasconcelos](https://www.worldcubeassociation.org/persons/2008VASC01) |
 | 6083 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
 | 6516 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
 

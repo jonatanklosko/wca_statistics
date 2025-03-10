@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 March 2025*
+*Updated on 10 March 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -171,6 +171,8 @@
 | 12 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/podiums) |
 | 10 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/podiums) |
 | 10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Berlin Open 2013](https://www.worldcubeassociation.org/competitions/BerlinOpen2013/results/podiums) |
+| 13 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Big and Blind Queenstown 2025](https://www.worldcubeassociation.org/competitions/BigandBlindQueenstown2025/results/podiums) |
+| 10 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | [Big and Blind Queenstown 2025](https://www.worldcubeassociation.org/competitions/BigandBlindQueenstown2025/results/podiums) |
 | 12 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Big Cubes in Stafsinge 2024](https://www.worldcubeassociation.org/competitions/BigCubesinStafsinge2024/results/podiums) |
 | 15 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [BiH Open 2012](https://www.worldcubeassociation.org/competitions/BIHOpen2012/results/podiums) |
 | 12 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [BiH Open 2012](https://www.worldcubeassociation.org/competitions/BIHOpen2012/results/podiums) |

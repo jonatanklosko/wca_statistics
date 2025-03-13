@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -245,6 +245,7 @@
 | 1 | [Lee Chun Hin (李震軒)](https://www.worldcubeassociation.org/persons/2008HINL01) |
 | 1 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) |
 | 1 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
+| 1 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
 | 1 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 1 | [Mario Laurent](https://www.worldcubeassociation.org/persons/2008LAUR01) |

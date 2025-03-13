@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -24,8 +24,8 @@
 | 139 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 134 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 129 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
+| 129 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 128 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 128 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 122 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 120 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 120 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
@@ -34,7 +34,7 @@
 | 118 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 118 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 117 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
-| 115 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
+| 116 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 115 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 114 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
@@ -74,7 +74,7 @@
 | 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 92 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 91 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 90 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
+| 91 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 88 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 88 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 87 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
@@ -85,12 +85,12 @@
 | 86 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) |
 | 85 | [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
 | 85 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
+| 85 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 85 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 | 84 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 84 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 83 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 83 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
-| 83 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 82 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) |
 | 82 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |

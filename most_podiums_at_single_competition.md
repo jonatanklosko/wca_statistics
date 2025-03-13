@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -233,7 +233,7 @@
 | 12 | [Gabriel Bergue](https://www.worldcubeassociation.org/persons/2017BORG02) | [Campeonato Baiano 2020](https://www.worldcubeassociation.org/competitions/CampeonatoBaiano2020/results/podiums) |
 | 13 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Campeonato Brasileiro 2019](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2019/results/podiums) |
 | 14 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Campeonato Brasileiro 2023](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2023/results/podiums) |
-| 10 | [Bárbara Guerra Ribeiro](https://www.worldcubeassociation.org/persons/2019RIBE11) | [Campeonato do Cerrado 2024](https://www.worldcubeassociation.org/competitions/CampeonatoCerrado2024/results/podiums) |
+| 10 | [Bárbara Guerra](https://www.worldcubeassociation.org/persons/2019RIBE11) | [Campeonato do Cerrado 2024](https://www.worldcubeassociation.org/competitions/CampeonatoCerrado2024/results/podiums) |
 | 13 | [Aharon Campoli Tono](https://www.worldcubeassociation.org/persons/2014TONO01) | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017/results/podiums) |
 | 10 | [Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01) | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017/results/podiums) |
 | 10 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Campeonato Profecía 2012](https://www.worldcubeassociation.org/competitions/CampeonatoProfecia2012/results/podiums) |

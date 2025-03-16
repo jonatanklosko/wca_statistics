@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 13 March 2025*
+*Updated on 16 March 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -11,6 +11,7 @@
 | 57 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) |
 | 50 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 44 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
+| 44 | [Luis Tan Hong Yi (陈宏溢)](https://www.worldcubeassociation.org/persons/2023YILU01) |
 | 43 | [Noah Paredes](https://www.worldcubeassociation.org/persons/2016PARE03) |
 | 43 | [Mihail Stoicescu](https://www.worldcubeassociation.org/persons/2018STOI03) |
 | 38 | [Blue James](https://www.worldcubeassociation.org/persons/2022JAME01) |
@@ -26,7 +27,6 @@
 | 31 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 31 | [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01) |
 | 30 | [Nobuaki Suga (菅信昭)](https://www.worldcubeassociation.org/persons/2007SUGA01) |
-| 29 | [Xiaojian Li (李晓健)](https://www.worldcubeassociation.org/persons/2009LIXI02) |
 
 ### 4x4x4 Blindfolded
 

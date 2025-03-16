@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 March 2025*
+*Updated on 16 March 2025*
 
 
 ### Rubik's Cube
@@ -26,13 +26,13 @@
 | 0.01 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | 1.33 | 1.34 | [Parla Open 2024](https://www.worldcubeassociation.org/competitions/ParlaOpen2024/results/by_person#2013GERH01) |
 | 0.01 | [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) | 2.74 | 2.75 | [Cubing Peoria 2020](https://www.worldcubeassociation.org/competitions/CubingPeoria2020/results/by_person#2013BARK01) |
 | 0.01 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 11.56 | 11.57 | [Berkeley Summer 2015](https://www.worldcubeassociation.org/competitions/BerkeleySummer2015/results/by_person#2011ALVI01) |
+| 0.02 | [Jack Maddigan](https://www.worldcubeassociation.org/persons/2020MADD02) | 1.55 | 1.57 | [Johnsonville FTOpen 2025](https://www.worldcubeassociation.org/competitions/JohnsonvilleFTOpen2025/results/by_person#2020MADD02) |
 | 0.02 | [Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04) | 1.73 | 1.75 | [UIUC Fall 2023](https://www.worldcubeassociation.org/competitions/UIUCFall2023/results/by_person#2016SORI04) |
 | 0.02 | [Jack Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) | 1.95 | 1.97 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2012PANJ02) |
 | 0.02 | [Jamila Raine C. Espiritu](https://www.worldcubeassociation.org/persons/2018ESPI05) | 2.97 | 2.99 | [Pampanga Speedcubing Open 2024](https://www.worldcubeassociation.org/competitions/PampangaSpeedcubingOpen2024/results/by_person#2018ESPI05) |
 | 0.02 | [Samuel Alzate Muñoz](https://www.worldcubeassociation.org/persons/2022MUNO13) | 2.99 | 3.01 | [Aves María Nuevos Campeones 2024](https://www.worldcubeassociation.org/competitions/AvesMariaNuevosCampeones2024/results/by_person#2022MUNO13) |
 | 0.02 | [John Lexel Alejandrino](https://www.worldcubeassociation.org/persons/2014ALEJ01) | 3.59 | 3.61 | [Philippine Championship 2017](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2017/results/by_person#2014ALEJ01) |
 | 0.02 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | 3.59 | 3.61 | [Azerbaijan Nationals 2023](https://www.worldcubeassociation.org/competitions/AzerbaijanNationals2023/results/by_person#2017ZHAD01) |
-| 0.02 | [Samuel Edwards](https://www.worldcubeassociation.org/persons/2022EDWA05) | 3.64 | 3.66 | [New to Sherwood Park 2024](https://www.worldcubeassociation.org/competitions/NewtoSherwoodPark2024/results/by_person#2022EDWA05) |
 
 ### 4x4x4 Cube
 

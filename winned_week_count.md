@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 13 March 2025*
+*Updated on 16 March 2025*
 
 
 ### Rubik's Cube
@@ -237,7 +237,7 @@
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 36 |
 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 30 |
 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 28 |
-| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 26 |
+| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 27 |
 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | 23 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | 22 |
 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 21 |

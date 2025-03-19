@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -38,6 +38,7 @@
 | 405 | [Benton Tolley](https://www.worldcubeassociation.org/persons/2023TOLL02) |
 | 406 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 412 | [Andrei Solntsev](https://www.worldcubeassociation.org/persons/2018SOLN01) |
+| 426 | [Mikael Ribeiro do Nascimento](https://www.worldcubeassociation.org/persons/2024NASC01) |
 | 427 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 428 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 434 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) |
@@ -197,6 +198,7 @@
 | 1015 | [Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01) |
 | 1015 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) |
 | 1022 | [Jonah Blakeley](https://www.worldcubeassociation.org/persons/2021BLAK01) |
+| 1022 | [Lucas Lippman-Bruno](https://www.worldcubeassociation.org/persons/2022LIPP01) |
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1030 | [Tuval Stone](https://www.worldcubeassociation.org/persons/2022STON03) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
@@ -240,6 +242,7 @@
 | 1197 | [Reid James Sungy](https://www.worldcubeassociation.org/persons/2021SUNG02) |
 | 1199 | [Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01) |
 | 1204 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
+| 1204 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
 | 1218 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1219 | [Mihály Horváth](https://www.worldcubeassociation.org/persons/2016HORV04) |
 | 1225 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |

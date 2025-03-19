@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1011,6 +1011,7 @@
 | 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Qubes Don' Lie Bursa 2022](https://www.worldcubeassociation.org/competitions/QubesDonLieBursa2022/results/podiums) |
 | 10 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | [Québec City 2019](https://www.worldcubeassociation.org/competitions/QuebecCity2019/results/podiums) |
 | 11 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Quijote Open 2016](https://www.worldcubeassociation.org/competitions/QuijoteOpen2016/results/podiums) |
+| 10 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [Rahn Education Open 2025](https://www.worldcubeassociation.org/competitions/RahnEducationOpen2025/results/podiums) |
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Raleigh Open 2012](https://www.worldcubeassociation.org/competitions/RaleighOpen2012/results/podiums) |
 | 11 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Rapid Dash Open 2012](https://www.worldcubeassociation.org/competitions/RapidashOpen2012/results/podiums) |
 | 11 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Rapid Dash Open 2012](https://www.worldcubeassociation.org/competitions/RapidashOpen2012/results/podiums) |

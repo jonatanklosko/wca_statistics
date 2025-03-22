@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 19 March 2025*
+*Updated on 22 March 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -24,7 +24,7 @@
 | 1386 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1352 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 1339 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 1330 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
+| 1333 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1323 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 1296 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1278 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -93,9 +93,9 @@
 | 872 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 871 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 869 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
+| 867 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 863 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 862 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
-| 856 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 853 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 851 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 848 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |

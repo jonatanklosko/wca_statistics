@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 March 2025*
+*Updated on 22 March 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -279,6 +279,7 @@
 | 10 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [Chelny Open 2018](https://www.worldcubeassociation.org/competitions/ChelnyOpen2018/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Chemung Cubing 2023](https://www.worldcubeassociation.org/competitions/ChemungCubing2023/results/podiums) |
 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Chernivtsi Open 2024](https://www.worldcubeassociation.org/competitions/ChernivtsiOpen2024/results/podiums) |
+| 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Chernivtsi Open 2025](https://www.worldcubeassociation.org/competitions/ChernivtsiOpen2025/results/podiums) |
 | 10 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | [Chojnice Open 2014](https://www.worldcubeassociation.org/competitions/ChojniceOpen2014/results/podiums) |
 | 11 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [City of Joy Open 2019](https://www.worldcubeassociation.org/competitions/CityofJoyOpen2019/results/podiums) |
 | 13 | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) | [CMI Tessellate Cube Open 2019](https://www.worldcubeassociation.org/competitions/CMITessellateCubeOpen2019/results/podiums) |

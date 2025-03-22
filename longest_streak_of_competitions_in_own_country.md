@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 19 March 2025*
+*Updated on 22 March 2025*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -14,7 +14,7 @@
 | 59 | [Nobuaki Suga (菅信昭)](https://www.worldcubeassociation.org/persons/2007SUGA01) | Japan | [JRCA Kanto Summer 2009](https://www.worldcubeassociation.org/competitions/JRCAKantoSummer2009) | [East Osaka 2013](https://www.worldcubeassociation.org/competitions/EastOsaka2013) |
 | 54 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | United Kingdom | [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014) | [British Summer Open 2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019) |
 | 54 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | United Kingdom | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015) | [West London Open 2022](https://www.worldcubeassociation.org/competitions/WestLondonOpen2022) |
-| 52 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [Korean Spring Picnic 2017](https://www.worldcubeassociation.org/competitions/KoreanSpringPicnic2017) | [Korea Qualifier - Daegu C 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierDaeguC2024) |
+| 52 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [Korean Spring Picnic 2017](https://www.worldcubeassociation.org/competitions/KoreanSpringPicnic2017) | [Korea Qualifier - Seoul A 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierSeoulA2024) |
 | 51 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) |  |
 | 51 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | Hungary | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008) |  |
 | 51 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Chinese Taipei | [Taipei Open 2017](https://www.worldcubeassociation.org/competitions/TaipeiOpen2017) | [Taiwan Blind Day 2023](https://www.worldcubeassociation.org/competitions/TaiwanBlindDay2023) |
@@ -41,11 +41,11 @@
 | 34 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 34 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | Slovenia | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) |  |
 | 34 | [Andro Gvaramadze](https://www.worldcubeassociation.org/persons/2018GVAR01) | Georgia | [Georgia Open 2018](https://www.worldcubeassociation.org/competitions/GeorgiaOpen2018) |  |
-| 33 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | Poland | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024) | [Gniezno Open 2024](https://www.worldcubeassociation.org/competitions/GnieznoOpen2024) |
 | 33 | [Francisco Javier Lemes Sáez](https://www.worldcubeassociation.org/persons/2009SAEZ01) | Chile | [Invierno 2010](https://www.worldcubeassociation.org/competitions/CampeonatoInvierno2010) | [CECREA 2016](https://www.worldcubeassociation.org/competitions/CECREA2016) |
 | 33 | [Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02) | Slovenia | [Slovenian Open 2012](https://www.worldcubeassociation.org/competitions/SlovenianOpen2012) |  |
 | 33 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | Colombia | [Colombia Nationals 2014](https://www.worldcubeassociation.org/competitions/ColombiaNationals2014) | [USTA Winter Open 2017](https://www.worldcubeassociation.org/competitions/USTAWinterOpen2017) |
 | 33 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) | El Salvador | [Sivar Open 2015](https://www.worldcubeassociation.org/competitions/SivarOpen2015) |  |
+| 32 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | Poland | [SLS Styczeń 2024](https://www.worldcubeassociation.org/competitions/SLSStyczen2024) | [Gniezno Open 2024](https://www.worldcubeassociation.org/competitions/GnieznoOpen2024) |
 | 32 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | Thailand | [TCA Championship 2011](https://www.worldcubeassociation.org/competitions/TCAChampionship2011) | [Ratchapruek Cubing Sunday 2023](https://www.worldcubeassociation.org/competitions/RatchapruekCubingSunday2023) |
 | 32 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | Venezuela | [Venezuela Open 2013](https://www.worldcubeassociation.org/competitions/VenezuelaOpen2013) | [CojedesRubik 2016](https://www.worldcubeassociation.org/competitions/CojedesRubik2016) |
 | 31 | [Hideki Niina (新名秀樹)](https://www.worldcubeassociation.org/persons/2008NIIN01) | Japan | [Waseda Brain 2012](https://www.worldcubeassociation.org/competitions/WasedaBrainChallenge2012) | [Kawasaki Autumn 2013](https://www.worldcubeassociation.org/competitions/KawasakiAutumn2013) |

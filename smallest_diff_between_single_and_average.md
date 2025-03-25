@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 
 ### Rubik's Cube
@@ -72,12 +72,12 @@
 | 0.01 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | 1:56.22 | 1:56.23 | [Edukent Weekend 2022](https://www.worldcubeassociation.org/competitions/EdukentWeekend2022/results/by_person#2018ABLA01) |
 | 0.04 | [Jascha Bakarinow](https://www.worldcubeassociation.org/persons/2009BAKA01) | 1:57.09 | 1:57.13 | [German Big Cube Open 2018](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2018/results/by_person#2009BAKA01) |
 | 0.04 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) | 2:20.54 | 2:20.58 | [Oceania 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Oceania10thAnniversary2019/results/by_person#2016STAN05) |
+| 0.04 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 2:28.29 | 2:28.33 | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025/results/by_person#2011SZAT01) |
 | 0.05 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 2:03.37 | 2:03.42 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/by_person#2012MCNE01) |
 | 0.05 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 4:48.06 | 4:48.11 | [Santiago Open 2009](https://www.worldcubeassociation.org/competitions/SantiagoOpen2009/results/by_person#2007GUIM01) |
 | 0.06 | [Alan Zhao](https://www.worldcubeassociation.org/persons/2015ZHAO13) | 2:32.43 | 2:32.49 | [Westcoast Woodvale Weekends 2019](https://www.worldcubeassociation.org/competitions/WestcoastWoodvaleWeekends2019/results/by_person#2015ZHAO13) |
 | 0.08 | [Eli Parker](https://www.worldcubeassociation.org/persons/2016PARK02) | 2:27.50 | 2:27.58 | [Music City Fall 2023](https://www.worldcubeassociation.org/competitions/MusicCitySpeedsolvingFall2023/results/by_person#2016PARK02) |
 | 0.09 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 1:32.02 | 1:32.11 | [Rutgers Winter 2025](https://www.worldcubeassociation.org/competitions/RutgersWinter2025/results/by_person#2013KLEI03) |
-| 0.09 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 2:23.74 | 2:23.83 | [DeKalb Cubing Fall 2023](https://www.worldcubeassociation.org/competitions/DeKalbCubingFall2023/results/by_person#2011FERA01) |
 
 ### 7x7x7 Cube
 

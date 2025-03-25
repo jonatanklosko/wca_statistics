@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 
 ### Rubik's Cube
@@ -85,13 +85,13 @@
 | 24.49 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
 | 24.61 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
 | 24.89 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Bishkek 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourBishkek2025/results/by_person#2019TARA09) |
+| 24.98 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [NUR Cubing Stars SC 2025](https://www.worldcubeassociation.org/competitions/NURCubingStarsSC2025/results/by_person#2018LOPE22) |
 | 25.01 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019TARA09) |
 | 25.03 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Bishkek 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourBishkek2025/results/by_person#2019TARA09) |
 | 25.15 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2024](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2024/results/by_person#2019TARA09) |
 | 25.35 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/by_person#2016YONG02) |
 | 25.57 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
-| 25.62 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Bishkek 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourBishkek2025/results/by_person#2019TARA09) |
-| 25.64 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Rosario 2024](https://www.worldcubeassociation.org/competitions/Rosario2024/results/by_person#2018LOPE22) |
+| 25.59 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [NUR Cubing Stars SC 2025](https://www.worldcubeassociation.org/competitions/NURCubingStarsSC2025/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 

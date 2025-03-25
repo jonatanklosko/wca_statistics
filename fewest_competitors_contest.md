@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -510,6 +510,7 @@
 | 12 | [Zoioff Campinas 2023](https://www.worldcubeassociation.org/competitions/ZoioffCampinas2023) |
 | 13 | [5BLD Madness Seoul 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSeoul2024) |
 | 13 | [Aarhus Diverse 2024](https://www.worldcubeassociation.org/competitions/AarhusDiverse2024) |
+| 13 | [Altavista Mind-blowing 2025](https://www.worldcubeassociation.org/competitions/AltavistaMindblowing2025) |
 | 13 | [Apenas 3 Fortaleza 2024](https://www.worldcubeassociation.org/competitions/Apenas3Fortaleza2024) |
 | 13 | [Ashfield Winter Challenge 2024](https://www.worldcubeassociation.org/competitions/AshfieldWinterChallenge2024) |
 | 13 | [Autotalo Rare 2023](https://www.worldcubeassociation.org/competitions/AutotaloRare2023) |
@@ -652,6 +653,7 @@
 | 14 | [Please Be Quiet Johor 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietJohor2024) |
 | 14 | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) |
 | 14 | [Poções Geek 2024](https://www.worldcubeassociation.org/competitions/PocoesGeek2024) |
+| 14 | [Ponte Tresamateurs 2025](https://www.worldcubeassociation.org/competitions/PonteTresamateurs2025) |
 | 14 | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016) |
 | 14 | [Reto del Guaz 2022](https://www.worldcubeassociation.org/competitions/RetodelGuaz2022) |
 | 14 | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022) |

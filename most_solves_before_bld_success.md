@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -14,6 +14,7 @@
 | 44 | [Luis Tan Hong Yi (陈宏溢)](https://www.worldcubeassociation.org/persons/2023YILU01) |
 | 43 | [Noah Paredes](https://www.worldcubeassociation.org/persons/2016PARE03) |
 | 43 | [Mihail Stoicescu](https://www.worldcubeassociation.org/persons/2018STOI03) |
+| 39 | [Roel Hoogeveen](https://www.worldcubeassociation.org/persons/2019HOOG01) |
 | 38 | [Blue James](https://www.worldcubeassociation.org/persons/2022JAME01) |
 | 37 | [Konstantin Ushakov](https://www.worldcubeassociation.org/persons/2014USHA02) |
 | 37 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
@@ -26,7 +27,6 @@
 | 32 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 31 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 31 | [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01) |
-| 30 | [Nobuaki Suga (菅信昭)](https://www.worldcubeassociation.org/persons/2007SUGA01) |
 
 ### 4x4x4 Blindfolded
 
@@ -75,8 +75,8 @@
 | 23 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
 | 22 | [Ryan DeLine](https://www.worldcubeassociation.org/persons/2012DELI01) |
 | 22 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
+| 22 | [Leo Johansson](https://www.worldcubeassociation.org/persons/2022JOHA08) |
 | 21 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) |
-| 21 | [Brendan Bakker](https://www.worldcubeassociation.org/persons/2015BAKK01) |
 
 ### 3x3x3 Multi-Blind
 

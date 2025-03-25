@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -186,11 +186,12 @@
 | 3 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [Fantabulous MN Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMinnesota2015) |
 | 3 | [Cameron Soulagnet](https://www.worldcubeassociation.org/persons/2017SOUL02) | United States | [Northampton Newcomers C 2024](https://www.worldcubeassociation.org/competitions/NorthamptonNewcomersC2024) |
 | 3 | [Canyon Pettitt](https://www.worldcubeassociation.org/persons/2019PETT01) | United States | [Spanish Fork AM 2024](https://www.worldcubeassociation.org/competitions/SpanishForkAM2024) |
+| 3 | [Canyon Pettitt](https://www.worldcubeassociation.org/persons/2019PETT01) | United States | [Utah Newcomers 2025](https://www.worldcubeassociation.org/competitions/UtahNewcomers2025) |
 | 3 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | United States | [Minnesota Meetup IV Tuesday 2024](https://www.worldcubeassociation.org/competitions/MinnesotaMeetupIVTuesday2024) |
 | 3 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | United States | [Evanston Fall Mini B 2023](https://www.worldcubeassociation.org/competitions/EvanstonFallMiniB2023) |
-| 3 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Smart Cubers Egypt 2019](https://www.worldcubeassociation.org/competitions/SmartCubersEgypt2019) |
 | 3 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Grizz Cubing League II 2023](https://www.worldcubeassociation.org/competitions/GrizzCubingLeagueII2023) |
 | 3 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Grizz League Small Cubes 2023](https://www.worldcubeassociation.org/competitions/GrizzLeagueSmallCubes2023) |
+| 3 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Smart Cubers Egypt 2019](https://www.worldcubeassociation.org/competitions/SmartCubersEgypt2019) |
 | 3 | [Daniel Cano Salgado](https://www.worldcubeassociation.org/persons/2011SALG01) | Colombia | [Los Alpes 2014](https://www.worldcubeassociation.org/competitions/SpeedcubingLosAlpes2014) |
 | 3 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | Sweden | [Nairobi Cube Challenge 2019](https://www.worldcubeassociation.org/competitions/NairobiCubeChallenge2019) |
 | 3 | [Dante Navarro Vera](https://www.worldcubeassociation.org/persons/2022VERA02) | Chile | [MorrOpen 2025](https://www.worldcubeassociation.org/competitions/MorrOpen2025) |
@@ -236,6 +237,7 @@
 | 3 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | Australia | [Cranbourne Spring Sunday 2023](https://www.worldcubeassociation.org/competitions/CranbourneSpringSunday2023) |
 | 3 | [Pieterjan Joubert](https://www.worldcubeassociation.org/persons/2014JOUB01) | South Africa | [Pretoria Science Week 2015](https://www.worldcubeassociation.org/competitions/PretoriaScienceWeek2015) |
 | 3 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | Denmark | [Hverdagscubing - Fyn 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingFyn2024) |
+| 3 | [Riccardo Fiumefreddo](https://www.worldcubeassociation.org/persons/2024RICC01) | Italy | [Ponte Tresamateurs 2025](https://www.worldcubeassociation.org/competitions/PonteTresamateurs2025) |
 | 3 | [Riccardo Fiumefreddo](https://www.worldcubeassociation.org/persons/2024RICC01) | Italy | [Romandie Rookies 2025](https://www.worldcubeassociation.org/competitions/RomandieRookies2025) |
 | 3 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | United States | [DFW Minicomp A 2024](https://www.worldcubeassociation.org/competitions/DFWMinicompA2024) |
 | 3 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | Japan | [Caltech Spring 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -163,6 +163,7 @@
 | 861 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 868 | [Brayden Thompson](https://www.worldcubeassociation.org/persons/2022THOM14) |
 | 873 | [Felipe Santamaría Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ03) |
+| 876 | [Leo Johansson](https://www.worldcubeassociation.org/persons/2022JOHA08) |
 | 881 | [Georgiy Titov (Георгій Тітов)](https://www.worldcubeassociation.org/persons/2013TITO02) |
 | 881 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) |
 | 882 | [Haoyang Chen (陈浩杨)](https://www.worldcubeassociation.org/persons/2016CHEH02) |
@@ -203,8 +204,8 @@
 | 1030 | [Tuval Stone](https://www.worldcubeassociation.org/persons/2022STON03) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
+| 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
 | 1056 | [Renske Idzenga](https://www.worldcubeassociation.org/persons/2022IDZE01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |

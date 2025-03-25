@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -613,6 +613,7 @@
 | 12 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022/results/podiums) |
 | 10 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022/results/podiums) |
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Icelandic Nationals 2023](https://www.worldcubeassociation.org/competitions/IcelandicNationals2023/results/podiums) |
+| 10 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Iceland Open 2025](https://www.worldcubeassociation.org/competitions/IcelandOpen2025/results/podiums) |
 | 10 | [Aziz Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS03) | [Idéale Nabeul Open 2018](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2018/results/podiums) |
 | 13 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019/results/podiums) |
 | 10 | [Hassen Kallala](https://www.worldcubeassociation.org/persons/2016KALL01) | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019/results/podiums) |
@@ -1186,6 +1187,7 @@
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Swisscubing Cup Final 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2024/results/podiums) |
 | 10 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Swisscubing Cup I 2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2019/results/podiums) |
 | 10 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Swiss Open 2009](https://www.worldcubeassociation.org/competitions/SwissOpen2009/results/podiums) |
+| 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Sydals Open 2025](https://www.worldcubeassociation.org/competitions/SydalsOpen2025/results/podiums) |
 | 11 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [Tagum City Open 2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019/results/podiums) |
 | 10 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) | [Taiwan Summer Open 2009](https://www.worldcubeassociation.org/competitions/TaiwanSummerOpen2009/results/podiums) |
 | 11 | [Assylkhan Meirkhanov (Асылхан Мейрханов)](https://www.worldcubeassociation.org/persons/2018MEIR04) | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019/results/podiums) |

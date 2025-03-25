@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -90,8 +90,8 @@
 | [A Monday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/AMondayinAshfield2024) | 8.73 | 11 | United States |
 | [Dvina Open 2014](https://www.worldcubeassociation.org/competitions/DvinaOpen2014) | 8.71 | 35 | Belarus |
 | [Myyrmäki Summer Challenge 2019](https://www.worldcubeassociation.org/competitions/MyyrmakiSummerChallenge2019) | 8.69 | 55 | Finland |
-| [Vårgårda Open 2011](https://www.worldcubeassociation.org/competitions/VargardaOpen2011) | 8.67 | 48 | Sweden |
 | [Juhannus 2024](https://www.worldcubeassociation.org/competitions/Juhannus2024) | 8.67 | 15 | Finland |
+| [Vårgårda Open 2011](https://www.worldcubeassociation.org/competitions/VargardaOpen2011) | 8.67 | 48 | Sweden |
 | [Bristol Open 2009](https://www.worldcubeassociation.org/competitions/BristolOpen2009) | 8.67 | 27 | United Kingdom |
 | [Kostelec Nonstop Cubing 2023](https://www.worldcubeassociation.org/competitions/KostelecNonstopCubing2023) | 8.65 | 62 | Czech Republic |
 | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011) | 8.63 | 52 | Denmark |

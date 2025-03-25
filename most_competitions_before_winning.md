@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 
 ### Rubik's Cube
@@ -133,11 +133,11 @@
 | 115 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Montenegro Open 2024](https://www.worldcubeassociation.org/competitions/MontenegroOpen2024) |
 | 114 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [Nebraska Championship 2024](https://www.worldcubeassociation.org/competitions/NebraskaChampionship2024) |
 | 105 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | [Cuban Open 2016](https://www.worldcubeassociation.org/competitions/CubanOpen2016) |
+| 92 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | [Catskills Spring 2025](https://www.worldcubeassociation.org/competitions/CatskillsSpring2025) |
 | 86 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Villa de Catral 2013](https://www.worldcubeassociation.org/competitions/VilladeCatral2013) |
 | 81 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | [North Slovakian Open 2024](https://www.worldcubeassociation.org/competitions/NorthSlovakianOpen2024) |
 | 77 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [North Jersey Speedsolving A 2024](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingA2024) |
 | 76 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Puerto Rico Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRicoOpen2024) |
-| 74 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [Thunder Bay 2019](https://www.worldcubeassociation.org/competitions/SuperiorCubingThunderBay2019) |
 
 ### Megaminx
 
@@ -193,11 +193,11 @@
 | 67 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | [Cobb Library Cubing A 2022](https://www.worldcubeassociation.org/competitions/CobbLibraryCubingA2022) |
 | 67 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [San Bernardo al Cubo 2023](https://www.worldcubeassociation.org/competitions/SanBernardoalCubo2023) |
 | 60 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | [Wiltshire Winter 2023](https://www.worldcubeassociation.org/competitions/WiltshireWinter2023) |
+| 59 | [Andrew Tyberg](https://www.worldcubeassociation.org/persons/2016TYBE01) | [Minnesota Newcomer Saturday 2025](https://www.worldcubeassociation.org/competitions/MinnesotaNewcomerSaturday2025) |
 | 59 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Ruta Valenciana IV: Sueca 2024](https://www.worldcubeassociation.org/competitions/RutaValencianaIVSueca2024) |
 | 56 | [Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03) | [L'Eliana Open 2024](https://www.worldcubeassociation.org/competitions/LElianaOpen2024) |
 | 54 | [Ricardo Olea Catalán](https://www.worldcubeassociation.org/persons/2017CATA04) | [São Miguel Cubikon 2025](https://www.worldcubeassociation.org/competitions/SaoMiguelCubikon2025) |
 | 53 | [Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02) | [El Masnou Open 2024](https://www.worldcubeassociation.org/competitions/ElMasnouOpen2024) |
-| 52 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | [Project Biała Podlaska 2018](https://www.worldcubeassociation.org/competitions/ProjectBialaPodlaska2018) |
 
 ### Square-1
 

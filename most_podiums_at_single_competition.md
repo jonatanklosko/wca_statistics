@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 March 2025*
+*Updated on 28 March 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -43,7 +43,7 @@
 | 10 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Alicante Open 2016](https://www.worldcubeassociation.org/competitions/AlicanteOpen2016/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [All Events in Stockholm 2024](https://www.worldcubeassociation.org/competitions/AllEventsinStockholm2024/results/podiums) |
 | 10 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [All Events in Stockholm 2024](https://www.worldcubeassociation.org/competitions/AllEventsinStockholm2024/results/podiums) |
-| 10 | [Abdallah Almaharmeh](https://www.worldcubeassociation.org/persons/2022ALMA01) | [ Al-Madar Open 2025](https://www.worldcubeassociation.org/competitions/AlMadarOpen2025/results/podiums) |
+| 10 | [Abdallah Almaharmeh](https://www.worldcubeassociation.org/persons/2022ALMA01) | [Al-Madar Open 2025](https://www.worldcubeassociation.org/competitions/AlMadarOpen2025/results/podiums) |
 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Almadar School 2022](https://www.worldcubeassociation.org/competitions/AlmadarSchool2022/results/podiums) |
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Almaty Altyn Cube 2018](https://www.worldcubeassociation.org/competitions/AlmatyAltynCube2018/results/podiums) |
 | 10 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Almaty Cubers Open 2024](https://www.worldcubeassociation.org/competitions/AlmatyCubersOpen2024/results/podiums) |
@@ -921,6 +921,7 @@
 | 10 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Open Cidade da Criança 2016](https://www.worldcubeassociation.org/competitions/OpenCidadedaCrianca2016/results/podiums) |
 | 11 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | [Open Ovalle Summer 2024](https://www.worldcubeassociation.org/competitions/OpenOvalleSummer2024/results/podiums) |
 | 13 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Opentrópolis CEFET 2024](https://www.worldcubeassociation.org/competitions/OpentropolisCEFET2024/results/podiums) |
+| 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Opentrópolis CEFET 2025](https://www.worldcubeassociation.org/competitions/OpentropolisCEFET2025/results/podiums) |
 | 12 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Open UTF ao Cubo 2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Oradea Cubing Finals 2018](https://www.worldcubeassociation.org/competitions/OradeaCubingFinals2018/results/podiums) |
 | 17 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Oregon 2016](https://www.worldcubeassociation.org/competitions/Oregon2016/results/podiums) |

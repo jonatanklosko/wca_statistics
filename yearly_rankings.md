@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 March 2025*
+*Updated on 28 March 2025*
 
 
 ### Rubik's Cube - Single
@@ -253,11 +253,11 @@
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **6.78** | China | [Chengdu Spring Open 2025](https://www.worldcubeassociation.org/competitions/ChengduSpringOpen2025) | 9.14, 6.78, 9.27, 8.81, 8.16 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **6.82** | United States | [Chicagoland Newcomers 2025](https://www.worldcubeassociation.org/competitions/ChicagolandNewcomers2025) | 8.57, 7.13, 6.82, 7.45, 12.80 |
 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | **7.15** | China | [Luoyang Spring 2025](https://www.worldcubeassociation.org/competitions/LuoyangSpring2025) | 7.15, 12.43, 9.13, 10.87, 10.58 |
+| [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | **7.24** | Brazil | [Opentrópolis CEFET 2025](https://www.worldcubeassociation.org/competitions/OpentropolisCEFET2025) | 10.92, 7.24, 10.49, 9.01, 9.30 |
 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **7.25** | Hong Kong, China | [Berkeley Jan Tricubealon 2025](https://www.worldcubeassociation.org/competitions/BerkeleyJanTricubealon2025) | 7.25, 9.62, 8.76, 10.02, DNF |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **7.33** | United States | [Cubing on the Plains Auburn 2025](https://www.worldcubeassociation.org/competitions/CubingonthePlainsAuburn2025) | 10.40, 10.15, 7.76, 7.33, 8.96 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **7.39** | Denmark | [Risbjerg Februar 2025](https://www.worldcubeassociation.org/competitions/RisbjergFebruar2025) | 11.32, 11.17, 7.39, 10.05, 12.05 |
 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **7.42** | United States | [Cube Against Cancer DFW 2025](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerDFW2025) | 7.42, 8.76, 14.09, 10.25, 12.04 |
-| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **7.48** | New Zealand | [Twisting in Titirangi 2025](https://www.worldcubeassociation.org/competitions/TwistinginTitirangi2025) | 9.59, 9.47, 11.78, 7.48, 8.81 |
 
 ### 3x3x3 One-Handed - Average
 

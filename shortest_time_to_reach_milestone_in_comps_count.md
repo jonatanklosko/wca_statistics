@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 March 2025*
+*Updated on 28 March 2025*
 
 
 ### 300 Competitions
@@ -55,6 +55,7 @@
 
 | Days | Person |
 | ---: | :--- |
+| 803 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 983 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 1198 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 2219 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
@@ -74,7 +75,6 @@
 | 2885 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 2969 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 3011 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
-| 3038 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 
 ### 100 Competitions
 
@@ -156,6 +156,7 @@
 | Days | Person |
 | ---: | :--- |
 | 95 | [Vilgot Almroth](https://www.worldcubeassociation.org/persons/2023ALMR01) |
+| 101 | [Leon Granér](https://www.worldcubeassociation.org/persons/2024GRAN16) |
 | 103 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
 | 111 | [Martin König](https://www.worldcubeassociation.org/persons/2024KONI03) |
 | 112 | [Ramanujan Srinivasan](https://www.worldcubeassociation.org/persons/2024SRIN06) |
@@ -174,7 +175,6 @@
 | 133 | [Anthony E. Cho](https://www.worldcubeassociation.org/persons/2023CHOA02) |
 | 138 | [Arnelio Manaca Mola](https://www.worldcubeassociation.org/persons/2023MOLA06) |
 | 139 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
-| 139 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 
 ### 5 Competitions
 

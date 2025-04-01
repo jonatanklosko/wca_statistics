@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -76,6 +76,7 @@
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [ARGO Open 2013](https://www.worldcubeassociation.org/competitions/ArgoOpen2013/results/podiums) |
 | 13 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Arizona Championship 2024](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2024/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Ark 2018](https://www.worldcubeassociation.org/competitions/Ark2018/results/podiums) |
+| 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Arkansas Championship 2025](https://www.worldcubeassociation.org/competitions/ArkansasChampionship2025/results/podiums) |
 | 15 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2018](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2018/results/podiums) |
 | 16 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2019](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2019/results/podiums) |
 | 14 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2022](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2022/results/podiums) |
@@ -727,6 +728,7 @@
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kublördag Västerås V - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasV2024/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås VI - 2025](https://www.worldcubeassociation.org/competitions/KublordagVasterasVI2025/results/podiums) |
 | 11 | [Fernando Daniel Hernández Sánchez](https://www.worldcubeassociation.org/persons/2010SANC04) | [Kuikuiltik 2012](https://www.worldcubeassociation.org/competitions/Kuikuiltik2012/results/podiums) |
+| 12 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) | [Kuldīgas Pavasaris 2025](https://www.worldcubeassociation.org/competitions/KuldigasPavasaris2025/results/podiums) |
 | 11 | [David Arzamastsev](https://www.worldcubeassociation.org/persons/2016ARZA01) | [Kursk Open 2017](https://www.worldcubeassociation.org/competitions/KurskOpen2017/results/podiums) |
 | 12 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
 | 12 | [Ahmad Alolaimi](https://www.worldcubeassociation.org/persons/2022ALOL01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
@@ -1307,6 +1309,7 @@
 | 11 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Veikkola Open 2017](https://www.worldcubeassociation.org/competitions/VeikkolaOpen2017/results/podiums) |
 | 13 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Venezuela Nationals 2023](https://www.worldcubeassociation.org/competitions/VenezuelaNationals2023/results/podiums) |
 | 10 | [Misael Alexander Mancuello Ayala](https://www.worldcubeassociation.org/persons/2021AYAL04) | [Verano on Asunción 2025](https://www.worldcubeassociation.org/competitions/VeranoonAsuncion2025/results/podiums) |
+| 10 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [VERK IV 2025](https://www.worldcubeassociation.org/competitions/VERKIV2025/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/podiums) |
 | 11 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Villa Carlos Paz Otoño 2019](https://www.worldcubeassociation.org/competitions/VillaCarlosPazOtono2019/results/podiums) |

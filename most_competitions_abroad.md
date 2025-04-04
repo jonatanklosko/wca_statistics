@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  1 April 2025*
+*Updated on  4 April 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -46,8 +46,8 @@
 | 89 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 89 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 88 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
+| 87 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
 | 86 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 86 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 82 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 80 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
@@ -74,9 +74,9 @@
 | 66 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 66 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
 | 65 | [Ethan Ekstrom](https://www.worldcubeassociation.org/persons/2018EKST01) |
+| 65 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 64 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 64 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
-| 64 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 64 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 63 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 63 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |

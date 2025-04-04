@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  1 April 2025*
+*Updated on  4 April 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -36,8 +36,8 @@
 | [Phopphon Suwattee (ภพพนธ์ สุวัตถี)](https://www.worldcubeassociation.org/persons/2010SUWA03) | 12.38 |
 | [Tariq Ali](https://www.worldcubeassociation.org/persons/2012ALIT01) | 12.34 |
 | [Mohammed Arif](https://www.worldcubeassociation.org/persons/2011ARIF04) | 12.32 |
-| [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 12.28 |
 | [Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03) | 12.28 |
+| [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 12.28 |
 | [Harith Luqman bin Bahrin](https://www.worldcubeassociation.org/persons/2010BAHR02) | 12.24 |
 | [Edoardo Annesi](https://www.worldcubeassociation.org/persons/2011ANNE01) | 12.17 |
 | [Sumeet Agarwal](https://www.worldcubeassociation.org/persons/2011AGAR05) | 12.05 |
@@ -55,8 +55,8 @@
 | [Lorenzo Guazzo](https://www.worldcubeassociation.org/persons/2012GUAZ01) | 11.65 |
 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) | 11.58 |
 | [Ryosuke Higo (肥後亮佑)](https://www.worldcubeassociation.org/persons/2006HIGO01) | 11.54 |
-| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
+| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Kobe Balin](https://www.worldcubeassociation.org/persons/2012BALI01) | 11.50 |
 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) | 11.48 |
 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | 11.48 |

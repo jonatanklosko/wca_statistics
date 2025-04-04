@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  1 April 2025*
+*Updated on  4 April 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -75,8 +75,8 @@
 | 23 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
 | 22 | [Ryan DeLine](https://www.worldcubeassociation.org/persons/2012DELI01) |
 | 22 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
+| 22 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 22 | [Leo Johansson](https://www.worldcubeassociation.org/persons/2022JOHA08) |
-| 21 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) |
 
 ### 3x3x3 Multi-Blind
 

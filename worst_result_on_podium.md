@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -134,10 +134,10 @@
 | [Samala Prabhakar Dheeraj](https://www.worldcubeassociation.org/persons/2008DHEE01) | 2:43.12 | **3:14.86** | [Indian Open 2008](https://www.worldcubeassociation.org/competitions/IndianOpen2008/results/podiums#e333oh) | 3 |
 | [Mahmoud Ibrahim](https://www.worldcubeassociation.org/persons/2014IBRA01) | 2:14.55 | **2:48.73** | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014/results/podiums#e333oh) | 1 |
 | [Sachin Kumar Singh](https://www.worldcubeassociation.org/persons/2009SING08) | 2:13.08 | **2:39.85** | [Shristi Open 2009](https://www.worldcubeassociation.org/competitions/ShristiOpen2009/results/podiums#e333oh) | 3 |
+| [Mohamed Hammouda](https://www.worldcubeassociation.org/persons/2025HAMM08) | 1:54.75 | **2:29.52** | [Beni-Isguen Open 2025](https://www.worldcubeassociation.org/competitions/BeniIsguenOpen2025/results/podiums#e333oh) | 3 |
 | [Adil Cümşüdlü](https://www.worldcubeassociation.org/persons/2018CUMS01) | 1:59.33 | **2:18.98** | [Northern Decathlon 2018](https://www.worldcubeassociation.org/competitions/NorthernAzerbaijanDecathlon2018/results/podiums#e333oh) | 3 |
 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) | 1:59.81 | **2:13.31** | [Svekub 2005](https://www.worldcubeassociation.org/competitions/Svekub2005/results/podiums#e333oh) | 3 |
 | [Sirac Niyazov](https://www.worldcubeassociation.org/persons/2018NIYA01) | 1:40.28 | **1:58.25** | [Northern Decathlon 2018](https://www.worldcubeassociation.org/competitions/NorthernAzerbaijanDecathlon2018/results/podiums#e333oh) | 2 |
-| [Gəray İzzətov](https://www.worldcubeassociation.org/persons/2018IZZA01) | 1:38.97 | **1:53.13** | [Northern Decathlon 2018](https://www.worldcubeassociation.org/competitions/NorthernAzerbaijanDecathlon2018/results/podiums#e333oh) | 1 |
 
 ### Megaminx
 

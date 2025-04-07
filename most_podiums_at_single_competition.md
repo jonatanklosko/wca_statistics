@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -783,6 +783,7 @@
 | 17 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | [Malaysian Cube Open 2015](https://www.worldcubeassociation.org/competitions/MalaysianCubeOpen2015/results/podiums) |
 | 14 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Mallorca Open 2014](https://www.worldcubeassociation.org/competitions/Mallorca2014/results/podiums) |
 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Mallorca Open 2024](https://www.worldcubeassociation.org/competitions/MallorcaOpen2024/results/podiums) |
+| 12 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | [Mallorca Open 2025](https://www.worldcubeassociation.org/competitions/MallorcaOpen2025/results/podiums) |
 | 11 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Malpensa: IC Qualifier 2023](https://www.worldcubeassociation.org/competitions/MalpensaICQualifier2023/results/podiums) |
 | 11 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016/results/podiums) |
@@ -878,6 +879,10 @@
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019/results/podiums) |
 | 10 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Norrköping Open 2009](https://www.worldcubeassociation.org/competitions/NorrkopingOpen2009/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norrlandsmästerskapet 2024](https://www.worldcubeassociation.org/competitions/Norrlandsmasterskapet2024/results/podiums) |
+| 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norrland Tour: Kubfors 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourKubfors2025/results/podiums) |
+| 12 | [Jack Larsson Backsell](https://www.worldcubeassociation.org/persons/2021BACK01) | [Norrland Tour: Kubfors 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourKubfors2025/results/podiums) |
+| 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norrland Tour: Umekuben 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourUmekuben2025/results/podiums) |
+| 11 | [Jack Larsson Backsell](https://www.worldcubeassociation.org/persons/2021BACK01) | [Norrland Tour: Umekuben 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourUmekuben2025/results/podiums) |
 | 12 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013/results/podiums) |
 | 11 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Northern Lights Open 2018](https://www.worldcubeassociation.org/competitions/NorthernLightsOpen2018/results/podiums) |
 | 11 | [Gustav Wälivaara](https://www.worldcubeassociation.org/persons/2016WALI01) | [Northern Lights Open 2018](https://www.worldcubeassociation.org/competitions/NorthernLightsOpen2018/results/podiums) |
@@ -966,6 +971,9 @@
 | 13 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Paraíso Summer DC 2025](https://www.worldcubeassociation.org/competitions/ParaisoSummerDC2025/results/podiums) |
 | 13 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Parets Open 2024](https://www.worldcubeassociation.org/competitions/ParetsOpen2024/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Partage Open 2023](https://www.worldcubeassociation.org/competitions/PartageOpen2023/results/podiums) |
+| 12 | [Suzane Coelho](https://www.worldcubeassociation.org/persons/2016COEL04) | [Passo Fundo Cubing 2025](https://www.worldcubeassociation.org/competitions/PassoFundoCubing2025/results/podiums) |
+| 10 | [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | [Passo Fundo Cubing 2025](https://www.worldcubeassociation.org/competitions/PassoFundoCubing2025/results/podiums) |
+| 10 | [Samuel Barbosa Pinheiro](https://www.worldcubeassociation.org/persons/2023PINH03) | [Passo Fundo Cubing 2025](https://www.worldcubeassociation.org/competitions/PassoFundoCubing2025/results/podiums) |
 | 10 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [PB Smashathon 2015](https://www.worldcubeassociation.org/competitions/PBSmashathon2015/results/podiums) |
 | 10 | [Farhan Siddiq](https://www.worldcubeassociation.org/persons/2017SIDD03) | [Pekanbaru Open 2017](https://www.worldcubeassociation.org/competitions/PekanbaruOpen2017/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Pequi Open 2020](https://www.worldcubeassociation.org/competitions/PequiOpen2020/results/podiums) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 April 2025*
+*Updated on 10 April 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -204,8 +204,8 @@
 | 1030 | [Tuval Stone](https://www.worldcubeassociation.org/persons/2022STON03) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1056 | [Renske Idzenga](https://www.worldcubeassociation.org/persons/2022IDZE01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
@@ -420,6 +420,7 @@
 | 2002 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 2002 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) |
 | 2009 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 2009 | [Jingcai Li (李经才)](https://www.worldcubeassociation.org/persons/2019LIJI25) |
 | 2016 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
 | 2023 | [David McLean](https://www.worldcubeassociation.org/persons/2017MCLE03) |
 | 2023 | [Brayden Adams](https://www.worldcubeassociation.org/persons/2018ADAM06) |
@@ -441,6 +442,7 @@
 | 2093 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 2099 | [Currin Wilson](https://www.worldcubeassociation.org/persons/2018WILS11) |
 | 2105 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
+| 2114 | [Thomas Heiden](https://www.worldcubeassociation.org/persons/2019HEID03) |
 | 2121 | [Étienne Aubry](https://www.worldcubeassociation.org/persons/2018AUBR01) |
 | 2135 | [Alex Hauben](https://www.worldcubeassociation.org/persons/2018HAUB01) |
 | 2140 | [Matteo Colombo](https://www.worldcubeassociation.org/persons/2009COLO03) |
@@ -622,6 +624,7 @@
 | 3795 | [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) |
 | 3892 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 3912 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
+| 3933 | [Jihu Mun (문지후)](https://www.worldcubeassociation.org/persons/2014MUNJ02) |
 | 4010 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 4025 | [Lanshi Zhang (张岚石)](https://www.worldcubeassociation.org/persons/2013ZHAN41) |
 | 4047 | [Nathan Seeto](https://www.worldcubeassociation.org/persons/2012SEET01) |

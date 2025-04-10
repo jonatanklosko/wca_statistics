@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  7 April 2025*
+*Updated on 10 April 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -11,6 +11,7 @@
 | 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 6 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 6 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 6 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
 | 5 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 5 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
 | 5 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
@@ -56,7 +57,6 @@
 | 5 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
 | 5 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) |
 | 5 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
-| 5 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 4 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 4 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |

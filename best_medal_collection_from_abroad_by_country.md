@@ -1,17 +1,17 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  7 April 2025*
+*Updated on 10 April 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| Hungary | **1478** | 1252 | 1082 | 3812 |
-| United States | **1340** | 1063 | 925 | 3328 |
-| Germany | **1262** | 1194 | 1189 | 3645 |
-| Russia | **1093** | 614 | 478 | 2185 |
-| France | **1048** | 921 | 784 | 2753 |
+| Hungary | **1482** | 1253 | 1086 | 3821 |
+| United States | **1343** | 1064 | 926 | 3333 |
+| Germany | **1262** | 1197 | 1192 | 3651 |
+| Russia | **1097** | 614 | 478 | 2189 |
+| France | **1048** | 923 | 784 | 2755 |
 | Netherlands | **1011** | 811 | 689 | 2511 |
-| China | **901** | 847 | 737 | 2485 |
+| China | **902** | 848 | 737 | 2487 |
 | Poland | **719** | 463 | 363 | 1545 |
 | Malaysia | **484** | 504 | 459 | 1447 |
 | United Kingdom | **453** | 502 | 481 | 1436 |
@@ -23,7 +23,7 @@
 | India | **365** | 351 | 353 | 1069 |
 | Italy | **360** | 340 | 318 | 1018 |
 | Sweden | **327** | 375 | 383 | 1085 |
-| Ukraine | **313** | 320 | 341 | 974 |
+| Ukraine | **313** | 320 | 342 | 975 |
 | Australia | **305** | 159 | 111 | 575 |
 | Finland | **299** | 239 | 210 | 748 |
 | Argentina | **277** | 187 | 155 | 619 |
@@ -46,13 +46,13 @@
 | Norway | **117** | 125 | 128 | 370 |
 | Belarus | **115** | 82 | 93 | 290 |
 | Lithuania | **107** | 91 | 97 | 295 |
-| Slovakia | **94** | 115 | 121 | 330 |
+| Slovakia | **94** | 116 | 121 | 331 |
 | Thailand | **94** | 103 | 59 | 256 |
 | Philippines | **84** | 103 | 105 | 292 |
-| Venezuela | **84** | 97 | 93 | 274 |
+| Venezuela | **84** | 98 | 94 | 276 |
 | Croatia | **81** | 114 | 88 | 283 |
 | Guatemala | **77** | 47 | 51 | 175 |
-| Brazil | **74** | 92 | 68 | 234 |
+| Brazil | **74** | 92 | 70 | 236 |
 | New Zealand | **74** | 84 | 70 | 228 |
 | Vietnam | **72** | 91 | 86 | 249 |
 | Estonia | **64** | 70 | 66 | 200 |
@@ -67,7 +67,7 @@
 | Kyrgyzstan | **30** | 43 | 46 | 119 |
 | South Africa | **30** | 39 | 46 | 115 |
 | Costa Rica | **29** | 39 | 34 | 102 |
-| Portugal | **27** | 34 | 38 | 99 |
+| Portugal | **29** | 36 | 40 | 105 |
 | Mexico | **27** | 32 | 39 | 98 |
 | Macau, China | **26** | 37 | 39 | 102 |
 | Pakistan | **26** | 18 | 23 | 67 |

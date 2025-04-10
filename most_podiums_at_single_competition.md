@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 April 2025*
+*Updated on 10 April 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -971,9 +971,6 @@
 | 13 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Paraíso Summer DC 2025](https://www.worldcubeassociation.org/competitions/ParaisoSummerDC2025/results/podiums) |
 | 13 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Parets Open 2024](https://www.worldcubeassociation.org/competitions/ParetsOpen2024/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Partage Open 2023](https://www.worldcubeassociation.org/competitions/PartageOpen2023/results/podiums) |
-| 12 | [Suzane Coelho](https://www.worldcubeassociation.org/persons/2016COEL04) | [Passo Fundo Cubing 2025](https://www.worldcubeassociation.org/competitions/PassoFundoCubing2025/results/podiums) |
-| 10 | [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | [Passo Fundo Cubing 2025](https://www.worldcubeassociation.org/competitions/PassoFundoCubing2025/results/podiums) |
-| 10 | [Samuel Barbosa Pinheiro](https://www.worldcubeassociation.org/persons/2023PINH03) | [Passo Fundo Cubing 2025](https://www.worldcubeassociation.org/competitions/PassoFundoCubing2025/results/podiums) |
 | 10 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [PB Smashathon 2015](https://www.worldcubeassociation.org/competitions/PBSmashathon2015/results/podiums) |
 | 10 | [Farhan Siddiq](https://www.worldcubeassociation.org/persons/2017SIDD03) | [Pekanbaru Open 2017](https://www.worldcubeassociation.org/competitions/PekanbaruOpen2017/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Pequi Open 2020](https://www.worldcubeassociation.org/competitions/PequiOpen2020/results/podiums) |

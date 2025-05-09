@@ -13,16 +13,16 @@ class MostVisitedContinents < Statistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link
       FROM (
         SELECT
-          personId,
-          COUNT(DISTINCT continentId) visited_continents
-        FROM Results
-        JOIN Competitions competition ON competition.id = competitionId
-        JOIN Countries country ON country.id = competition.countryId
-        WHERE continentId != "_Multiple Continents"
-        GROUP BY personId
+          person_id,
+          COUNT(DISTINCT continent_id) visited_continents
+        FROM results
+        JOIN competitions competition ON competition.id = competition_id
+        JOIN countries country ON country.id = competition.country_id
+        WHERE continent_id != "_Multiple Continents"
+        GROUP BY person_id
         HAVING visited_continents >= 4
       ) AS people_with_visited_continents
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1
       ORDER BY visited_continents DESC
     SQL
   end

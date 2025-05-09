@@ -10,14 +10,14 @@ class LongestStreakOfPersonalRecords < Statistic
     <<-SQL
       SELECT
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
-        eventId event_id,
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
+        event_id,
         best single,
         average
-      FROM Results
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      JOIN RoundTypes round_type ON round_type.id = roundTypeId
+      FROM results
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      JOIN round_types round_type ON round_type.id = round_type_id
       ORDER BY competition.start_date, round_type.rank
     SQL
   end

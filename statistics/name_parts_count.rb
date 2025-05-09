@@ -12,9 +12,9 @@ class NamePartsCount < Statistic
       SELECT
         person.name name,
         country.name country_name
-      FROM Persons person
-      JOIN Countries country ON country.id = countryId
-      WHERE subId = 1
+      FROM persons person
+      JOIN countries country ON country.id = country_id
+      WHERE sub_id = 1
     SQL
   end
 

@@ -8,22 +8,22 @@ module Database
   DATABASE_CONFIG["init_command"] = "SET SESSION group_concat_max_len=4096;"
   REQUIRED_TABLES = %w(
     championships
-    Competitions
+    competitions
     competition_delegates
-    Continents
-    Countries
-    Events
-    Formats
-    Persons
+    continents
+    countries
+    events
+    formats
+    persons
     preferred_formats
-    RanksSingle
-    RanksAverage
-    Results
-    RoundTypes
+    ranks_single
+    ranks_average
+    results
+    round_types
     users
   )
   INDICES = [
-    "CREATE INDEX index_Results_on_competitionId_personId ON Results (competitionId, personId);",
+    "CREATE INDEX index_results_on_competition_id_person_id ON results (competition_id, person_id);",
   ]
 
   def self.client

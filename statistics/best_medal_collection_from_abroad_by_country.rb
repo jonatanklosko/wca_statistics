@@ -17,19 +17,19 @@ class BestMedalCollectionFromAbroadByCountry < Statistic
         gold_medals + silver_medals + bronze_medals total
       FROM (
         SELECT
-          result.countryId,
+          result.country_id,
           SUM(IF(pos = 1, 1, 0)) gold_medals,
           SUM(IF(pos = 2, 1, 0)) silver_medals,
           SUM(IF(pos = 3, 1, 0)) bronze_medals
-        FROM Results result
-        JOIN Competitions competition ON competition.id = competitionId
+        FROM results result
+        JOIN competitions competition ON competition.id = competition_id
         WHERE 1
-          AND roundTypeId IN ('c', 'f')
+          AND round_type_id IN ('c', 'f')
           AND best > 0
-          AND competition.countryId != result.countryId
-        GROUP BY result.countryId
+          AND competition.country_id != result.country_id
+        GROUP BY result.country_id
       ) AS medals_by_country
-      JOIN Countries country ON country.id = countryId
+      JOIN countries country ON country.id = country_id
       WHERE gold_medals + silver_medals + bronze_medals > 0
       ORDER BY gold_medals DESC, silver_medals DESC, bronze_medals DESC, country.name
     SQL

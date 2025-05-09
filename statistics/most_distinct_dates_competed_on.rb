@@ -16,26 +16,26 @@ class MostDistinctDatesCompetedOn < Statistic
       FROM (
         SELECT
           COUNT(DISTINCT competition_date) AS attended_dates,
-          personId,
+          person_id,
           GROUP_CONCAT(DISTINCT competition_date ORDER BY competition_date ASC SEPARATOR ',') dates_list
         FROM (
-          SELECT Results.personId, DATE_FORMAT(competition_dates.competition_date, '%m/%d') competition_date
-          FROM Results
+          SELECT results.person_id, DATE_FORMAT(competition_dates.competition_date, '%m/%d') competition_date
+          FROM results
           JOIN (
             SELECT
-              Competitions.id AS competitionId,
-              DATE_ADD(Competitions.start_date, INTERVAL nums.num DAY) AS competition_date
-            FROM Competitions
+              competitions.id AS competition_id,
+              DATE_ADD(competitions.start_date, INTERVAL nums.num DAY) AS competition_date
+            FROM competitions
             JOIN (
               SELECT 0 AS num UNION ALL SELECT 1 UNION ALL SELECT 2 UNION ALL SELECT 3 UNION ALL SELECT 4 UNION ALL SELECT 5 UNION ALL SELECT 6 UNION ALL SELECT 7 UNION ALL SELECT 8 UNION ALL SELECT 9
             ) AS nums
-            WHERE DATE_ADD(Competitions.start_date, INTERVAL nums.num DAY) <= Competitions.end_date
-          ) AS competition_dates ON competition_dates.competitionId = Results.competitionId
+            WHERE DATE_ADD(competitions.start_date, INTERVAL nums.num DAY) <= competitions.end_date
+          ) AS competition_dates ON competition_dates.competition_id = results.competition_id
         ) AS competitions_dates
-        GROUP BY personId
+        GROUP BY person_id
         HAVING attended_dates >= 100
       ) AS comp_dates_by_person
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1
       ORDER BY attended_dates DESC, person.name
     SQL
   end

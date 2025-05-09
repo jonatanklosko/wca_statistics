@@ -14,32 +14,32 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         start_date,
         best,
         average
       FROM (
         -- People who have single for every official event.
-        SELECT personId
-        FROM RanksSingle
-        JOIN Events event ON event.id = eventId
+        SELECT person_id
+        FROM ranks_single
+        JOIN events event ON event.id = event_id
         WHERE event.rank < 900
-        GROUP BY personId
-        HAVING COUNT(eventId) = #{Events::OFFICIAL.length}
+        GROUP BY person_id
+        HAVING COUNT(event_id) = #{Events::OFFICIAL.length}
       ) AS all_events_people
       JOIN (
         -- People who have average for every official event.
-        SELECT personId
-        FROM RanksAverage
-        JOIN Events event ON event.id = eventId
+        SELECT person_id
+        FROM ranks_average
+        JOIN events event ON event.id = event_id
         WHERE event.rank < 900
-        GROUP BY personId
-        HAVING COUNT(eventId) = #{NUM_EVENTS_WITH_AVERAGES}
-      ) AS all_average_people ON all_average_people.personId = all_events_people.personId
-      JOIN Results result ON result.personId = all_events_people.personId
-      JOIN Persons person ON person.wca_id = result.personId and person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
+        GROUP BY person_id
+        HAVING COUNT(event_id) = #{NUM_EVENTS_WITH_AVERAGES}
+      ) AS all_average_people ON all_average_people.person_id = all_events_people.person_id
+      JOIN results result ON result.person_id = all_events_people.person_id
+      JOIN persons person ON person.wca_id = result.person_id and person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
       ORDER BY start_date
     SQL
   end

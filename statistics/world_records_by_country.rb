@@ -13,13 +13,13 @@ class WorldRecordsByCountry < Statistic
         country.name
       FROM (
         SELECT
-          countryId,
-          SUM((IF(regionalSingleRecord = 'WR', 1, 0) + IF(regionalAverageRecord = 'WR', 1, 0))) wrs_count
-        FROM Results
-        GROUP BY countryId
+          country_id,
+          SUM((IF(regional_single_record = 'WR', 1, 0) + IF(regional_average_record = 'WR', 1, 0))) wrs_count
+        FROM results
+        GROUP BY country_id
         HAVING wrs_count > 0
       ) AS wrs_count_by_country
-      JOIN Countries country ON country.id = countryId
+      JOIN countries country ON country.id = country_id
       ORDER BY wrs_count DESC, country.name
     SQL
   end

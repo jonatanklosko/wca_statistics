@@ -14,7 +14,7 @@ class CurrentWorldRecordsByCountry < Statistic
         people
       FROM (
         SELECT
-          countryId,
+          country_id,
           COUNT(*) wrs_count,
           GROUP_CONCAT(
             DISTINCT CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')')
@@ -22,14 +22,14 @@ class CurrentWorldRecordsByCountry < Statistic
             SEPARATOR ', '
           ) people
         FROM (
-          SELECT personId FROM RanksSingle WHERE worldRank = 1
+          SELECT person_id FROM ranks_single WHERE world_rank = 1
           UNION ALL
-          SELECT personId FROM RanksAverage WHERE worldRank = 1
+          SELECT person_id FROM ranks_average WHERE world_rank = 1
         ) AS ranks
-        JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-        GROUP BY countryId
+        JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+        GROUP BY country_id
       ) AS wrs_count_by_country
-      JOIN Countries country ON country.id = countryId
+      JOIN countries country ON country.id = country_id
       ORDER BY wrs_count DESC, country.name
     SQL
   end

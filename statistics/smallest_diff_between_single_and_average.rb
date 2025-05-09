@@ -12,15 +12,15 @@ class SmallestDiffBetweenSingleAndAverage < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id,
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
-      FROM Results
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      WHERE eventId != '333fm' AND average > 0
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
+      FROM results
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      WHERE event_id != '333fm' AND average > 0
     SQL
   end
 

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 April 2025*
+*Updated on  7 May 2025*
 
 
 ### Rubik's Cube
@@ -56,12 +56,12 @@
 | 33.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
 | 33.75 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
 | 34.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
+| 34.19 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Burbank Big Cubes 2025](https://www.worldcubeassociation.org/competitions/BurbankBigCubes2025/results/by_person#2012PARK03) |
+| 34.26 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nevada Championship 2025](https://www.worldcubeassociation.org/competitions/NevadaChampionship2025/results/by_person#2012PARK03) |
 | 34.33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 | 34.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
 | 34.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubeChella 2024](https://www.worldcubeassociation.org/competitions/CubeChella2024/results/by_person#2012PARK03) |
 | 34.68 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Big Cub 2024](https://www.worldcubeassociation.org/competitions/SanDiegoBigCub2024/results/by_person#2012PARK03) |
-| 34.73 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
-| 34.76 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024/results/by_person#2016KOLA02) |
 
 ### 3x3x3 One-Handed
 
@@ -82,6 +82,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 24.03 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Chimehuin al Cubo 2025](https://www.worldcubeassociation.org/competitions/ChimehuinalCubo2025/results/by_person#2018LOPE22) |
 | 24.49 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Lomas de Zamora 2025](https://www.worldcubeassociation.org/competitions/LomasdeZamora2025/results/by_person#2018LOPE22) |
 | 24.49 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
 | 24.61 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
@@ -90,13 +91,13 @@
 | 25.01 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019TARA09) |
 | 25.03 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Bishkek 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourBishkek2025/results/by_person#2019TARA09) |
 | 25.15 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2024](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2024/results/by_person#2019TARA09) |
-| 25.35 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/by_person#2016YONG02) |
-| 25.57 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
+| 25.25 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Chimehuin al Cubo 2025](https://www.worldcubeassociation.org/competitions/ChimehuinalCubo2025/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 0.98 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Shenyang Spring 2025](https://www.worldcubeassociation.org/competitions/ShenyangSpring2025/results/by_person#2019JIAN54) |
 | 1.07 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Prague Open 2024](https://www.worldcubeassociation.org/competitions/PragueOpen2024/results/by_person#2017TSVE02) |
 | 1.07 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Xuzhou Newcomers 2025](https://www.worldcubeassociation.org/competitions/XuzhouNewcomers2025/results/by_person#2019JIAN54) |
 | 1.09 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019JIAN54) |
@@ -106,12 +107,12 @@
 | 1.15 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Maitland Spring 2024](https://www.worldcubeassociation.org/competitions/MaitlandSpring2024/results/by_person#2021LEES01) |
 | 1.16 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Yancheng Open 2024](https://www.worldcubeassociation.org/competitions/YanchengOpen2024/results/by_person#2019JIAN54) |
 | 1.18 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Lyttelton Spring 2023](https://www.worldcubeassociation.org/competitions/LytteltonSpring2023/results/by_person#2018MURR03) |
-| 1.18 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Nanchang Spring 2024](https://www.worldcubeassociation.org/competitions/NanchangSpring2024/results/by_person#2019JIAN54) |
 
 ### Rubik's Clock
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 2.14 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Auckland Autumn 2025](https://www.worldcubeassociation.org/competitions/AucklandAutumn2025/results/by_person#2022GIBS04) |
 | 2.26 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [NZ Cubing Decathlon 2024](https://www.worldcubeassociation.org/competitions/NZCubingDecathlon2024/results/by_person#2022GIBS04) |
 | 2.29 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Grand Forks 2024](https://www.worldcubeassociation.org/competitions/GrandForks2024/results/by_person#2022KAPU01) |
 | 2.29 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Minnesota Championship 2024](https://www.worldcubeassociation.org/competitions/MinnesotaChampionship2024/results/by_person#2022KAPU01) |
@@ -120,8 +121,7 @@
 | 2.32 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [South Dakota Playhouse 2025](https://www.worldcubeassociation.org/competitions/SouthDakotaPlayhouse2025/results/by_person#2022KAPU01) |
 | 2.32 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Hasty Hastings 2024](https://www.worldcubeassociation.org/competitions/HastyHastings2024/results/by_person#2022GIBS04) |
 | 2.34 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [South Dakota Playhouse 2025](https://www.worldcubeassociation.org/competitions/SouthDakotaPlayhouse2025/results/by_person#2022KAPU01) |
-| 2.35 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Minnesota Championship 2024](https://www.worldcubeassociation.org/competitions/MinnesotaChampionship2024/results/by_person#2022KAPU01) |
-| 2.40 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Queenspark O'Clock 2025](https://www.worldcubeassociation.org/competitions/QueensparkOClock2025/results/by_person#2022GIBS04) |
+| 2.34 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Minnesota Cube Melt 2025](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2025/results/by_person#2022KAPU01) |
 
 ### Skewb
 
@@ -144,14 +144,14 @@
 | ---: | :--- | :--- |
 | 3.81 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Cubing in Southern Oregon 2025](https://www.worldcubeassociation.org/competitions/CubinginSouthernOregon2025/results/by_person#2017AGGA01) |
 | 3.88 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Cubing in Southern Oregon 2025](https://www.worldcubeassociation.org/competitions/CubinginSouthernOregon2025/results/by_person#2017AGGA01) |
+| 4.16 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Aldergrove Clock Fest 2025](https://www.worldcubeassociation.org/competitions/AldergroveClockFest2025/results/by_person#2017AGGA01) |
 | 4.18 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025/results/by_person#2017AGGA01) |
 | 4.19 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue Squan Fest 2024](https://www.worldcubeassociation.org/competitions/BellevueSquanFest2024/results/by_person#2017AGGA01) |
 | 4.23 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/by_person#2019BAUM02) |
 | 4.28 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN26) |
+| 4.29 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Front Royal Spring 2025](https://www.worldcubeassociation.org/competitions/FrontRoyalSpring2025/results/by_person#2018KHAN26) |
 | 4.33 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
 | 4.34 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Cubing in Southern Oregon 2025](https://www.worldcubeassociation.org/competitions/CubinginSouthernOregon2025/results/by_person#2017AGGA01) |
-| 4.35 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Tri-State Corner Comms PA 2024](https://www.worldcubeassociation.org/competitions/TriStateCornerCommsPA2024/results/by_person#2018KHAN26) |
-| 4.35 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Fall 2024](https://www.worldcubeassociation.org/competitions/DFWCubingFall2024/results/by_person#2019BAUM02) |
 
 ### 3x3x3 With Feet
 

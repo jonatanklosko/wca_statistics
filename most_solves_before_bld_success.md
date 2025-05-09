@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 13 April 2025*
+*Updated on  7 May 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -36,6 +36,7 @@
 | 41 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 40 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
 | 36 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
+| 35 | [Emmett O'Leary-Liu](https://www.worldcubeassociation.org/persons/2019OLEA02) |
 | 30 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) |
 | 27 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) |
 | 27 | [Balázs Polyák](https://www.worldcubeassociation.org/persons/2017POLY02) |
@@ -51,7 +52,6 @@
 | 21 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 21 | [Lim Chun Yik (林峻毅)](https://www.worldcubeassociation.org/persons/2018YIKL01) |
 | 20 | [Joel Ulin](https://www.worldcubeassociation.org/persons/2011ULIN01) |
-| 20 | [Jonas Balsfulland](https://www.worldcubeassociation.org/persons/2012BALS01) |
 
 ### 5x5x5 Blindfolded
 
@@ -63,6 +63,7 @@
 | 43 | [Jefferson Durango](https://www.worldcubeassociation.org/persons/2014ARGA02) |
 | 39 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 37 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) |
+| 30 | [Nikolai Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) |
 | 30 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
 | 30 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 28 | [Luis Kleinheinz](https://www.worldcubeassociation.org/persons/2017KLEI02) |
@@ -76,7 +77,6 @@
 | 22 | [Ryan DeLine](https://www.worldcubeassociation.org/persons/2012DELI01) |
 | 22 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 22 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
-| 22 | [Leo Johansson](https://www.worldcubeassociation.org/persons/2022JOHA08) |
 
 ### 3x3x3 Multi-Blind
 

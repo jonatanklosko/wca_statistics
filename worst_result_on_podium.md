@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 13 April 2025*
+*Updated on  7 May 2025*
 
 
 ### Rubik's Cube
@@ -113,16 +113,16 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 77 | **78.00** | [Finnish FMC Series VI 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVI2025/results/podiums#e333fm) | 2 |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 75 | **77.67** | [Kirkkonummi Side Open 2025](https://www.worldcubeassociation.org/competitions/KirkkonummiSideOpen2025/results/podiums#e333fm) | 3 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 75 | **75.00** | [Finnish FMC Series V 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesV2025/results/podiums#e333fm) | 2 |
 | [Emú Ticknor Byrd](https://www.worldcubeassociation.org/persons/2022TICK02) | 64 | **69.67** | [JAM FMC V 2023](https://www.worldcubeassociation.org/competitions/JAMFMCV2023/results/podiums#e333fm) | 2 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 67 | **69.00** | [FMC in the Gulf of Finland 2024](https://www.worldcubeassociation.org/competitions/FewestMovesintheGulfofFinlan2024/results/podiums#e333fm) | 2 |
+| [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 59 | **68.67** | [Finnish FMC Series VI 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVI2025/results/podiums#e333fm) | 1 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 65 | **67.67** | [Fewest Moves Kirkkonummi 2024](https://www.worldcubeassociation.org/competitions/FewestMovesKirkkonummi2024/results/podiums#e333fm) | 3 |
 | [Manuel Aleandro Chang Pérez](https://www.worldcubeassociation.org/persons/2015PERE29) | 59 | **67.00** | [Xela Open 2016](https://www.worldcubeassociation.org/competitions/XelaOpen2016/results/podiums#e333fm) | 3 |
 | [Hossein Mastan (حسین مستان)](https://www.worldcubeassociation.org/persons/2015MAST01) | 59 | **67.00** | [IranFMC 2015](https://www.worldcubeassociation.org/competitions/IranFMC2015/results/podiums#e333fm) | 2 |
 | [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 58 | **63.33** | [Finnish FMC Series IV 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesIV2025/results/podiums#e333fm) | 3 |
-| [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) | 55 | **62.67** | [Please Be Quiet Utah 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietUtah2019/results/podiums#e333fm) | 2 |
-| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 29 | **62.67** | [Finnish FMC Series I 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesI2025/results/podiums#e333fm) | 2 |
-| [Hannu Vanhatalo](https://www.worldcubeassociation.org/persons/2018VANH04) | 61 | **62.00** | [Pulmapelipäivät 2019](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2019/results/podiums#e333fm) | 2 |
 
 ### 3x3x3 One-Handed
 
@@ -207,12 +207,12 @@
 | [Saori Hashimoto (橋本沙織)](https://www.worldcubeassociation.org/persons/2008HASH01) | 3:03.53 | **3:50.00** | [Utah Open 2008](https://www.worldcubeassociation.org/competitions/UtahOpen2008/results/podiums#esq1) | 2 |
 | [Luchen Zhang (张录辰)](https://www.worldcubeassociation.org/persons/2007LUCH02) | 51.30 | **3:49.53** | [Shenyang Boxing Day 2010](https://www.worldcubeassociation.org/competitions/ShenyangBoxingDay2010/results/podiums#esq1) | 3 |
 | [Ben VonDerHaar](https://www.worldcubeassociation.org/persons/2008VOND01) | 2:10.27 | **3:29.77** | [Indiana Winter Open 2008](https://www.worldcubeassociation.org/competitions/IndianaWinterOpen2008/results/podiums#esq1) | 3 |
+| [Noe Andre Smith](https://www.worldcubeassociation.org/persons/2023SMIT22) | 2:08.82 | **3:29.54** | [Orange Walk Cube-a-thon 2025](https://www.worldcubeassociation.org/competitions/OrangeWalkCubeathon2025/results/podiums#esq1) | 2 |
 | [Peter Babcock](https://www.worldcubeassociation.org/persons/2003BABC01) | 2:48.78 | **3:26.50** | [Minnesota Open 2007](https://www.worldcubeassociation.org/competitions/MinnesotaOpen2007/results/podiums#esq1) | 3 |
 | [Saori Hashimoto (橋本沙織)](https://www.worldcubeassociation.org/persons/2008HASH01) | 2:32.91 | **3:17.59** | [Cincinnati Summer Open 2008](https://www.worldcubeassociation.org/competitions/CincinnatiSummerOpen2008/results/podiums#esq1) | 3 |
 | [Claudio Gonzalez](https://www.worldcubeassociation.org/persons/2009GONZ04) | 1:16.55 | **3:15.92** | [Rubik's Baires 2.0 2011](https://www.worldcubeassociation.org/competitions/RubiksBaires2011/results/podiums#esq1) | 2 |
 | [Karel Doorman](https://www.worldcubeassociation.org/persons/2010DOOR01) | 2:12.78 | **3:11.29** | [New Zealand Champs 2010](https://www.worldcubeassociation.org/competitions/NewZealand2010/results/podiums#esq1) | 3 |
 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) | 2:11.19 | **3:05.77** | [Finnish Open 2008](https://www.worldcubeassociation.org/competitions/FinnishOpen2008/results/podiums#esq1) | 3 |
-| [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | 1:01.34 | **2:53.81** | [Cerbuna Open 2015](https://www.worldcubeassociation.org/competitions/CerbunaOpen2015/results/podiums#esq1) | 3 |
 
 ### 4x4x4 Blindfolded
 

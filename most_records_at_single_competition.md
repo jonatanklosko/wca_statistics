@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 13 April 2025*
+*Updated on  7 May 2025*
 
 
 ### World
@@ -77,6 +77,7 @@
 | 24 | [Lucas Jacobs](https://www.worldcubeassociation.org/persons/2018JACO10) | [Canadian Championship 2019](https://www.worldcubeassociation.org/competitions/CanadianChampionship2019/results/by_person#2018JACO10) |
 | 23 | [Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01) | [MPEI Open 2010](https://www.worldcubeassociation.org/competitions/MPEIOpen2010/results/by_person#2010VYNN01) |
 | 23 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) | [Castellon Open 2011](https://www.worldcubeassociation.org/competitions/CastellonOpen2011/results/by_person#2010MOND01) |
+| 23 | [Arnelio Manaca Mola](https://www.worldcubeassociation.org/persons/2023MOLA06) | [CubingZA Nationals 2025](https://www.worldcubeassociation.org/competitions/CubingZANationals2025/results/by_person#2023MOLA06) |
 | 21 | [Joel Spang](https://www.worldcubeassociation.org/persons/2009SPAN01) | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009/results/by_person#2009SPAN01) |
 | 21 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009/results/by_person#2009BAUM01) |
 | 21 | [Anatoly Kim](https://www.worldcubeassociation.org/persons/2009KIMA01) | [Russia Open 2010](https://www.worldcubeassociation.org/competitions/RussiaOpen2010/results/by_person#2009KIMA01) |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 April 2025*
+*Updated on  7 May 2025*
 
 
 ### Rubik's Cube
@@ -129,6 +129,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.08 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | 1:03.85 | 1:03.93 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2012ELLI01) |
+| 0.08 | [Remo Decio](https://www.worldcubeassociation.org/persons/2020DECI01) | 1:33.25 | 1:33.33 | [Sonvico Spring 2025](https://www.worldcubeassociation.org/competitions/SonvicoSpring2025/results/by_person#2020DECI01) |
 | 0.09 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 1:04.02 | 1:04.11 | [Mt. Prospect Mini Marathon 2023](https://www.worldcubeassociation.org/competitions/MtProspectMiniMarathon2023/results/by_person#2011FERA01) |
 | 0.10 | [Vito Kosasih (高耀梁)](https://www.worldcubeassociation.org/persons/2011KOSA01) | 52.00 | 52.10 | [Lanyang Open 2019](https://www.worldcubeassociation.org/competitions/LanyangOpen2019/results/by_person#2011KOSA01) |
 | 0.13 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | 50.45 | 50.58 | [Seminario 2022](https://www.worldcubeassociation.org/competitions/Seminario2022/results/by_person#2011CAST02) |
@@ -137,7 +138,6 @@
 | 0.14 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 1:11.10 | 1:11.24 | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018/results/by_person#2017GOLU01) |
 | 0.14 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 1:26.82 | 1:26.96 | [Altona Algorithms Attempt 2 2021](https://www.worldcubeassociation.org/competitions/AltonaAlgorithmsAttempt22021/results/by_person#2015FENG12) |
 | 0.16 | [Zaiyang Zhang (张在旸)](https://www.worldcubeassociation.org/persons/2017ZHAZ09) | 1:24.57 | 1:24.73 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2017ZHAZ09) |
-| 0.17 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 30.56 | 30.73 | [DFW Cubing Fall 2022](https://www.worldcubeassociation.org/competitions/DFWCubingFall2022/results/by_person#2015NAIN01) |
 
 ### Pyraminx
 
@@ -164,10 +164,10 @@
 | 0.04 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.46 | 3.50 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
 | 0.04 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.76 | 3.80 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2021POLI02) |
 | 0.04 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.22 | 4.26 | [GCU Spring 2023](https://www.worldcubeassociation.org/competitions/GCUSpring2023/results/by_person#2017BREE02) |
+| 0.04 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) | 5.05 | 5.09 | [Sonvico Spring 2025](https://www.worldcubeassociation.org/competitions/SonvicoSpring2025/results/by_person#2017DUMM01) |
 | 0.04 | [Vinicius Shaw](https://www.worldcubeassociation.org/persons/2021SHAW02) | 5.24 | 5.28 | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/by_person#2021SHAW02) |
 | 0.04 | [Miguel Angel Zamorano Beltran](https://www.worldcubeassociation.org/persons/2023BELT03) | 8.06 | 8.10 | [Niños Héroes Jalisco 2023](https://www.worldcubeassociation.org/competitions/NinosHeroesJalisco2023/results/by_person#2023BELT03) |
 | 0.04 | [Lee Yu Zhe](https://www.worldcubeassociation.org/persons/2019ZHEL01) | 11.18 | 11.22 | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/by_person#2019ZHEL01) |
-| 0.04 | [Justin Cawley](https://www.worldcubeassociation.org/persons/2022CAWL01) | 14.43 | 14.47 | [Puzzles in Pottsville 2025](https://www.worldcubeassociation.org/competitions/PuzzlesinPottsville2025/results/by_person#2022CAWL01) |
 
 ### Skewb
 

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 April 2025*
+*Updated on  7 May 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -73,6 +73,7 @@
 | 2512 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 2569 | [Aaron Soley](https://www.worldcubeassociation.org/persons/2017SOLE01) |
 | 2575 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
+| 2624 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) |
 | 2632 | [Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02) |
 | 2639 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 2647 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) |
@@ -115,6 +116,7 @@
 | 3703 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 3760 | [Luis Gabriel Magadia](https://www.worldcubeassociation.org/persons/2014MAGA04) |
 | 3850 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
+| 3878 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 3983 | [Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01) |
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 4144 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |

@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 13 April 2025*
+*Updated on  7 May 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -20,7 +20,7 @@
 | 127 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 126 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) |
 | 126 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
-| 124 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 125 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 121 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 115 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 113 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
@@ -61,13 +61,13 @@
 | 85 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 84 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 84 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
+| 82 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 81 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 81 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
-| 81 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
-| 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 80 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 80 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 78 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
@@ -78,16 +78,16 @@
 | 76 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 75 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
 | 74 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
+| 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 73 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 72 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 71 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 71 | [David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01) |
 | 71 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
+| 71 | [David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01) |
 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 71 | [Peter Still](https://www.worldcubeassociation.org/persons/2005STIL01) |
 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |
@@ -102,8 +102,8 @@
 | 67 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 66 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 66 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
-| 66 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 66 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
+| 66 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 66 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 
 

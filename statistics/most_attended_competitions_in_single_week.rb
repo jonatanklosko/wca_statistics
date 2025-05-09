@@ -17,23 +17,23 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
       FROM (
         SELECT
           COUNT(*) attended_within_week,
-          personId,
+          person_id,
           DATE_ADD(competition.start_date, INTERVAL(-WEEKDAY(competition.start_date)) DAY) week_start_date,
           DATE_ADD(competition.start_date, INTERVAL(6-WEEKDAY(competition.start_date)) DAY) week_end_date,
           GROUP_CONCAT(
-            CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')')
+            CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')')
             ORDER BY competition.start_date ASC
             SEPARATOR ', '
           ) competition_links
         FROM (
-          SELECT DISTINCT competitionId, personId
-          FROM Results
+          SELECT DISTINCT competition_id, person_id
+          FROM results
         ) AS results
-        JOIN Competitions competition ON competition.id = competitionId
-        GROUP BY personId, week_start_date, week_end_date, YEAR(competition.start_date)
+        JOIN competitions competition ON competition.id = competition_id
+        GROUP BY person_id, week_start_date, week_end_date, YEAR(competition.start_date)
         HAVING attended_within_week >= 3
       ) AS comps_within_single_week_by_person
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1
       ORDER BY attended_within_week DESC, person.name
     SQL
   end

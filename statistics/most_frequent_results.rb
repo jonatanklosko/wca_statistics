@@ -10,14 +10,14 @@ class MostFrequentResults < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id,
         value1,
         value2,
         value3,
         value4,
         value5
-      FROM Results
-      WHERE eventId != '333mbo'
+      FROM results
+      WHERE event_id != '333mbo'
     SQL
   end
 

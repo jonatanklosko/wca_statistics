@@ -9,15 +9,15 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         value1, value2, value3, value4, value5
-      FROM Results
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      JOIN RoundTypes round_type ON round_type.id = roundTypeId
-      JOIN Events event ON event.id = eventId
-      WHERE eventId IN ('333bf', '444bf', '555bf', '333mbf')
+      FROM results
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      JOIN round_types round_type ON round_type.id = round_type_id
+      JOIN events event ON event.id = event_id
+      WHERE event_id IN ('333bf', '444bf', '555bf', '333mbf')
       ORDER BY competition.start_date, round_type.rank
     SQL
   end

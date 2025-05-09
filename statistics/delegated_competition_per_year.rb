@@ -22,12 +22,12 @@ class DelegatedCompetitionPerYear < Statistic
           (DATEDIFF(MAX(end_date), MIN(start_date)) / 365.25) years,
           delegate_id
         FROM competition_delegates
-        JOIN Competitions competition ON competition.id = competition_id
-        WHERE showAtAll = 1 AND cancelled_at IS NULL AND start_date < CURDATE()
+        JOIN competitions competition ON competition.id = competition_id
+        WHERE show_at_all = 1 AND cancelled_at IS NULL AND start_date < CURDATE()
         GROUP BY delegate_id
       ) AS delegated_count_by_user
       JOIN users user ON user.id = delegate_id
-      JOIN Persons person ON person.wca_id = user.wca_id AND person.subId = 1
+      JOIN persons person ON person.wca_id = user.wca_id AND person.sub_id = 1
       WHERE delegated_count >= 5
       ORDER BY delegated_per_year DESC
     SQL

@@ -13,17 +13,17 @@ class MostVisitedCountries < Statistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link
       FROM (
         SELECT
-          personId,
-          COUNT(DISTINCT competition.countryId) visited_countries
-        FROM Results result
-        JOIN Competitions competition ON competition.id = competitionId
-        WHERE competition.countryId -- Ignore Multiple Countries used for continental FMC competitions.
+          person_id,
+          COUNT(DISTINCT competition.country_id) visited_countries
+        FROM results result
+        JOIN competitions competition ON competition.id = competition_id
+        WHERE competition.country_id -- Ignore Multiple Countries used for continental FMC competitions.
           NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')
-        GROUP BY personId
+        GROUP BY person_id
         ORDER BY visited_countries DESC
         LIMIT 100
       ) AS visited_countries_by_person
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       ORDER BY visited_countries DESC
     SQL
   end

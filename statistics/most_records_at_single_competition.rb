@@ -9,15 +9,15 @@ class MostRecordsAtSingleCompetition < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        regionalSingleRecord regional_single_record,
-        regionalAverageRecord regional_average_record,
+        regional_single_record,
+        regional_average_record,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
-      FROM Results
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      WHERE (regionalSingleRecord IS NOT NULL AND regionalSingleRecord != '')
-         OR (regionalAverageRecord IS NOT NULL AND regionalAverageRecord != '')
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
+      FROM results
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      WHERE (regional_single_record IS NOT NULL AND regional_single_record != '')
+         OR (regional_average_record IS NOT NULL AND regional_average_record != '')
     SQL
   end
 

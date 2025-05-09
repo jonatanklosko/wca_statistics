@@ -10,7 +10,7 @@ class DnfRateByEvent < Statistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
+        event_id,
         SUM(
             IF(value1 = -1, 1, 0)
           + IF(value2 = -1, 1, 0)
@@ -25,8 +25,8 @@ class DnfRateByEvent < Statistic
           + IF(value4 NOT IN (-2, 0), 1, 0)
           + IF(value5 NOT IN (-2, 0), 1, 0)
         ) attempts
-      FROM Results
-      GROUP BY eventId
+      FROM results
+      GROUP BY event_id
     SQL
   end
 

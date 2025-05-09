@@ -12,12 +12,12 @@ class CompetitionDaysCountByRegion < GroupedStatistic
         (DATEDIFF(end_date, start_date) + 1) days,
         country.name country,
         continent.name continent
-      FROM Competitions
-      JOIN Countries country ON country.id = countryId
-      JOIN Continents continent ON continent.id = continentId
-      WHERE countryId -- Ignore Multiple Countries used for continental FMC competitions.
+      FROM competitions
+      JOIN countries country ON country.id = country_id
+      JOIN continents continent ON continent.id = continent_id
+      WHERE country_id -- Ignore Multiple Countries used for continental FMC competitions.
         NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')
-        AND continentId != "_Multiple Continents"
+        AND continent_id != "_Multiple Continents"
     SQL
   end
 

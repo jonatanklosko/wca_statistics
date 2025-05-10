@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  7 May 2025*
+*Updated on 10 May 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |

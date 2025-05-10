@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  7 May 2025*
+*Updated on 10 May 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -8,10 +8,10 @@
 | 2407 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2389 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2144 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 1895 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 1899 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 1767 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1762 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
-| 1713 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 1716 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1672 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1597 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1594 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
@@ -24,7 +24,7 @@
 | 1410 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 1393 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 1365 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 1349 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
+| 1354 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1348 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1346 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 1304 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -41,7 +41,7 @@
 | 1153 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 1151 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 1137 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
-| 1130 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 1133 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 1125 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 1109 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1107 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |

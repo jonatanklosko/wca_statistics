@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  7 May 2025*
+*Updated on 10 May 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -30,15 +30,15 @@
 | [Khairur Rachim](https://www.worldcubeassociation.org/persons/2011RACH01) | 13.26 |
 | [Daniel Song](https://www.worldcubeassociation.org/persons/2010SONG02) | 13.13 |
 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) | 12.70 |
-| [Charl Jovan Borromeo](https://www.worldcubeassociation.org/persons/2012BORR01) | 12.63 |
 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | 12.63 |
+| [Charl Jovan Borromeo](https://www.worldcubeassociation.org/persons/2012BORR01) | 12.63 |
 | [Toru Morooka (諸岡徹)](https://www.worldcubeassociation.org/persons/2010MORO01) | 12.59 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | 12.46 |
 | [Phopphon Suwattee (ภพพนธ์ สุวัตถี)](https://www.worldcubeassociation.org/persons/2010SUWA03) | 12.38 |
 | [Tariq Ali](https://www.worldcubeassociation.org/persons/2012ALIT01) | 12.34 |
 | [Mohammed Arif](https://www.worldcubeassociation.org/persons/2011ARIF04) | 12.32 |
-| [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 12.28 |
 | [Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03) | 12.28 |
+| [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 12.28 |
 | [Harith Luqman bin Bahrin](https://www.worldcubeassociation.org/persons/2010BAHR02) | 12.24 |
 | [Edoardo Annesi](https://www.worldcubeassociation.org/persons/2011ANNE01) | 12.17 |
 | [Sumeet Agarwal](https://www.worldcubeassociation.org/persons/2011AGAR05) | 12.05 |

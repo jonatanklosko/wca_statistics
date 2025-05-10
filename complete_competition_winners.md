@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on  7 May 2025*
+*Updated on 10 May 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -765,14 +765,15 @@
 | 1 | [Yuki Sako](https://www.worldcubeassociation.org/persons/2023SAKO02) | Japan | [Ayase FMC 2023](https://www.worldcubeassociation.org/competitions/AyaseFMC2023) |
 | 1 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | China | [Kewbz UK Championship FMC 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionshipFMC2022) |
 | 1 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | China | [Rubik's UK Championship FMC 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2023) |
+| 1 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | China | [WCC Western FMC Champs 2025](https://www.worldcubeassociation.org/competitions/WCCWesternFMCChampionship2025) |
+| 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [FMC Ukraine Friendship 2023](https://www.worldcubeassociation.org/competitions/FMCUkraineFriendship2023) |
+| 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [FMC Ukraine-Italy 2024](https://www.worldcubeassociation.org/competitions/FMCUkraineItaly2024) |
+| 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [FMC Warm Up Ukraine 2024](https://www.worldcubeassociation.org/competitions/FMCWarmUpUkraine2024) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kyiv FMC Friends I 2024](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsI2024) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kyiv FMC Friends II 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsII2023) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kyiv FMC Friends IV 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsIV2023) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kyiv FMC Friends October 2022](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsOctober2022) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kyiv FMC Friends V 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsV2023) |
-| 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [FMC Ukraine Friendship 2023](https://www.worldcubeassociation.org/competitions/FMCUkraineFriendship2023) |
-| 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [FMC Ukraine-Italy 2024](https://www.worldcubeassociation.org/competitions/FMCUkraineItaly2024) |
-| 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [FMC Warm Up Ukraine 2024](https://www.worldcubeassociation.org/competitions/FMCWarmUpUkraine2024) |
 | 1 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | United States | [Southeast FMC Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2022) |
 | 1 | [Zecharya Moshavi](https://www.worldcubeassociation.org/persons/2018MOSH01) | Israel | [FMC Party Israel 2022](https://www.worldcubeassociation.org/competitions/FMCPartyIsrael2022) |
 | 1 | [Zecharya Moshavi](https://www.worldcubeassociation.org/persons/2018MOSH01) | Israel | [Israel FMC Championship 2024](https://www.worldcubeassociation.org/competitions/IsraelFMCChampionship2024) |

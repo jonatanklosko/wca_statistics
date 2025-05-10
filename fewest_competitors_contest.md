@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 May 2025*
+*Updated on 10 May 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -324,6 +324,7 @@
 | 10 | [Mazate Open 2015](https://www.worldcubeassociation.org/competitions/MazateOpen2015) |
 | 10 | [Michigan Mini 2 2023](https://www.worldcubeassociation.org/competitions/MichiganMini22023) |
 | 10 | [Michigan Mini 3 2023](https://www.worldcubeassociation.org/competitions/MichiganMini32023) |
+| 10 | [Mini-sota Monday Qualifier 2025](https://www.worldcubeassociation.org/competitions/MinisotaMondayQualifier2025) |
 | 10 | [Minx Open PM 2022](https://www.worldcubeassociation.org/competitions/MinxOpenPM2022) |
 | 10 | [MIT FMC 2014](https://www.worldcubeassociation.org/competitions/MITFMC2014) |
 | 10 | [New England FMC Warmup 2023](https://www.worldcubeassociation.org/competitions/NewEnglandFMCWarmup2023) |

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  7 May 2025*
+*Updated on 10 May 2025*
 
 
 ### Rubik's Cube
@@ -86,7 +86,7 @@
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 83 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 80 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 49 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 40 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 41 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 35 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 33 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 27 |
@@ -139,8 +139,8 @@
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 48 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 30 |
 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 28 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 27 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 26 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 26 |
 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | 19 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 18 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 17 |
@@ -274,9 +274,9 @@
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 10 |
 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 10 |
 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) | 9 |
+| [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | 9 |
 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 8 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 8 |
-| [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | 8 |
 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 8 |
 
 ### Rubik's Clock

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 May 2025*
+*Updated on 10 May 2025*
 
 
 ### Rubik's Cube
@@ -61,7 +61,7 @@
 | 34.33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 | 34.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
 | 34.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubeChella 2024](https://www.worldcubeassociation.org/competitions/CubeChella2024/results/by_person#2012PARK03) |
-| 34.68 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [San Diego Big Cub 2024](https://www.worldcubeassociation.org/competitions/SanDiegoBigCub2024/results/by_person#2012PARK03) |
+| 34.65 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Flatåsen Open 2025](https://www.worldcubeassociation.org/competitions/FlatasenOpen2025/results/by_person#2016KOLA02) |
 
 ### 3x3x3 One-Handed
 

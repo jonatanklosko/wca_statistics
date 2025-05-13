@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -117,10 +117,12 @@
 | 3760 | [Luis Gabriel Magadia](https://www.worldcubeassociation.org/persons/2014MAGA04) |
 | 3850 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 3878 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
+| 3947 | [Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01) |
 | 3983 | [Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01) |
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 4144 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |
 | 4193 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
+| 4578 | [Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01) |
 | 4592 | [Andrei Răzvan Ionel](https://www.worldcubeassociation.org/persons/2012IONE01) |
 | 4703 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
 | 5215 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |

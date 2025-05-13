@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -123,7 +123,7 @@
 | 4 | [Yanfeng Zhu (朱艳枫)](https://www.worldcubeassociation.org/persons/2013ZHUY02) |
 | 4 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 4 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) |
-| 4 | [MinSeo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
+| 4 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
 | 4 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 4 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) |
 | 4 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |

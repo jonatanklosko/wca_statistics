@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -206,8 +206,8 @@
 | 1030 | [Tuval Stone](https://www.worldcubeassociation.org/persons/2022STON03) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1056 | [Renske Idzenga](https://www.worldcubeassociation.org/persons/2022IDZE01) |
 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
@@ -498,6 +498,7 @@
 | 2402 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 2408 | [Dallas McNeil](https://www.worldcubeassociation.org/persons/2017MCNE01) |
 | 2422 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
+| 2429 | [Yuto Date (伊達優人)](https://www.worldcubeassociation.org/persons/2018DATE01) |
 | 2435 | [Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06) |
 | 2436 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) |
 | 2436 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
@@ -567,6 +568,7 @@
 | 3023 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 3030 | [Brendan Bakker](https://www.worldcubeassociation.org/persons/2015BAKK01) |
 | 3031 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
+| 3038 | [Azael Toysehua](https://www.worldcubeassociation.org/persons/2017TOYS01) |
 | 3046 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
 | 3065 | [Matej Bolta](https://www.worldcubeassociation.org/persons/2015BOLT01) |
 | 3086 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |

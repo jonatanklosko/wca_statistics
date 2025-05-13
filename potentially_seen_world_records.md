@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -57,8 +57,8 @@
 | 86 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
 | 86 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 86 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) |
+| 86 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 85 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) |
-| 85 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 84 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 84 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
 | 82 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
@@ -78,8 +78,8 @@
 | 76 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 75 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 74 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
+| 74 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |

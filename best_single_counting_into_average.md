@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 
 ### Rubik's Cube
@@ -86,12 +86,12 @@
 | 24.49 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Lomas de Zamora 2025](https://www.worldcubeassociation.org/competitions/LomasdeZamora2025/results/by_person#2018LOPE22) |
 | 24.49 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
 | 24.61 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
+| 24.63 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Monte Grande Cubea 2025](https://www.worldcubeassociation.org/competitions/MonteGrandeCubea2025/results/by_person#2018LOPE22) |
+| 24.72 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Monte Grande Cubea 2025](https://www.worldcubeassociation.org/competitions/MonteGrandeCubea2025/results/by_person#2018LOPE22) |
 | 24.89 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Bishkek 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourBishkek2025/results/by_person#2019TARA09) |
 | 24.98 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [NUR Cubing Stars SC 2025](https://www.worldcubeassociation.org/competitions/NURCubingStarsSC2025/results/by_person#2018LOPE22) |
 | 25.01 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019TARA09) |
 | 25.03 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Bishkek 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourBishkek2025/results/by_person#2019TARA09) |
-| 25.15 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2024](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2024/results/by_person#2019TARA09) |
-| 25.25 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Chimehuin al Cubo 2025](https://www.worldcubeassociation.org/competitions/ChimehuinalCubo2025/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 
@@ -113,15 +113,15 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 2.14 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Auckland Autumn 2025](https://www.worldcubeassociation.org/competitions/AucklandAutumn2025/results/by_person#2022GIBS04) |
+| 2.18 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Moorhead Madness 2025](https://www.worldcubeassociation.org/competitions/MoorheadMadness2025/results/by_person#2022KAPU01) |
+| 2.22 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Puzzling Papatoetoe 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPapatoetoe2025/results/by_person#2022GIBS04) |
 | 2.26 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [NZ Cubing Decathlon 2024](https://www.worldcubeassociation.org/competitions/NZCubingDecathlon2024/results/by_person#2022GIBS04) |
+| 2.26 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Puzzling Papatoetoe 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPapatoetoe2025/results/by_person#2022GIBS04) |
+| 2.28 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Puzzling Papatoetoe 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPapatoetoe2025/results/by_person#2022GIBS04) |
 | 2.29 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Grand Forks 2024](https://www.worldcubeassociation.org/competitions/GrandForks2024/results/by_person#2022KAPU01) |
 | 2.29 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Minnesota Championship 2024](https://www.worldcubeassociation.org/competitions/MinnesotaChampionship2024/results/by_person#2022KAPU01) |
 | 2.30 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025/results/by_person#2022GIBS04) |
 | 2.31 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Grand Forks 2024](https://www.worldcubeassociation.org/competitions/GrandForks2024/results/by_person#2022KAPU01) |
-| 2.32 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [South Dakota Playhouse 2025](https://www.worldcubeassociation.org/competitions/SouthDakotaPlayhouse2025/results/by_person#2022KAPU01) |
-| 2.32 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Hasty Hastings 2024](https://www.worldcubeassociation.org/competitions/HastyHastings2024/results/by_person#2022GIBS04) |
-| 2.34 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [South Dakota Playhouse 2025](https://www.worldcubeassociation.org/competitions/SouthDakotaPlayhouse2025/results/by_person#2022KAPU01) |
-| 2.34 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Minnesota Cube Melt 2025](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2025/results/by_person#2022KAPU01) |
 
 ### Skewb
 

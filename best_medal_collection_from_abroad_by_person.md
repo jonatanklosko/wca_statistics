@@ -1,13 +1,13 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **578** | 366 | 247 | 1191 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 204 | 125 | 663 |
-| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **290** | 57 | 30 | 377 |
+| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **294** | 58 | 30 | 382 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **272** | 147 | 99 | 518 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **238** | 184 | 137 | 559 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **208** | 65 | 34 | 307 |
@@ -16,7 +16,7 @@
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **173** | 183 | 96 | 452 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **171** | 69 | 38 | 278 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
-| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **151** | 91 | 41 | 283 |
+| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **155** | 93 | 41 | 289 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **144** | 157 | 136 | 437 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **140** | 74 | 43 | 257 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **128** | 103 | 83 | 314 |
@@ -27,8 +27,8 @@
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **110** | 39 | 21 | 170 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **108** | 122 | 108 | 338 |
 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **106** | 100 | 99 | 305 |
+| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **106** | 68 | 34 | 208 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **105** | 121 | 73 | 299 |
-| [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **105** | 66 | 34 | 205 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **101** | 102 | 63 | 266 |
 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **96** | 67 | 94 | 257 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **95** | 103 | 87 | 285 |
@@ -70,11 +70,11 @@
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **54** | 16 | 3 | 73 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **52** | 51 | 39 | 142 |
 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | **51** | 64 | 38 | 153 |
+| [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | **50** | 71 | 49 | 170 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **50** | 66 | 65 | 181 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **50** | 33 | 21 | 104 |
 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **50** | 24 | 10 | 84 |
 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | **50** | 13 | 4 | 67 |
-| [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | **49** | 71 | 49 | 169 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | **49** | 44 | 40 | 133 |
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **48** | 43 | 30 | 121 |
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **48** | 39 | 21 | 108 |

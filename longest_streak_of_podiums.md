@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -82,13 +82,13 @@
 | 39 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | Megaminx | [Australian Nationals 2013](https://www.worldcubeassociation.org/competitions/AustralianNationals2013) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 39 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | 5x5x5 Cube | [Bucaramanga Cultural 2017](https://www.worldcubeassociation.org/competitions/BucaramangaCultural2017) |  |
 | 39 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | 5x5x5 Cube | [Aguascalientes 2014](https://www.worldcubeassociation.org/competitions/Ags2014) | [Baja Spring 2024](https://www.worldcubeassociation.org/competitions/BajaSpring2024) |
+| 39 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | Megaminx | [New Zealand Nationals 2019](https://www.worldcubeassociation.org/competitions/NewZealandNationals2019) |  |
 | 38 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 3x3x3 Multi-Blind | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) |  |
+| 38 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 3x3x3 One-Handed | [Santa Fe Primavera 2019](https://www.worldcubeassociation.org/competitions/SantaFePrimavera2019) |  |
 | 38 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 3x3x3 Cube | [Fairview Cube Day 2018](https://www.worldcubeassociation.org/competitions/FairviewCubeDay2018) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 38 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | 3x3x3 Cube | [Edukent Weekend 2022](https://www.worldcubeassociation.org/competitions/EdukentWeekend2022) |  |
-| 38 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | Megaminx | [New Zealand Nationals 2019](https://www.worldcubeassociation.org/competitions/NewZealandNationals2019) |  |
 | 37 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 5x5x5 Cube | [German Nationals 2017](https://www.worldcubeassociation.org/competitions/GermanNationals2017) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019) |
 | 37 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Clock | [Project Radom 2018](https://www.worldcubeassociation.org/competitions/ProjectRadom2018) | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021) |
-| 37 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 3x3x3 One-Handed | [Santa Fe Primavera 2019](https://www.worldcubeassociation.org/competitions/SantaFePrimavera2019) |  |
 | 37 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | 3x3x3 Cube | [Chillan CDP 2022](https://www.worldcubeassociation.org/competitions/ChillanCDP2022) | [SAC 2024](https://www.worldcubeassociation.org/competitions/SAC2024) |
 | 36 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | Square-1 | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003) | [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) |
 | 36 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | 7x7x7 Cube | [Hangzhou Open 2011](https://www.worldcubeassociation.org/competitions/HangzhouOpen2011) | [China Championship 2019](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019) |

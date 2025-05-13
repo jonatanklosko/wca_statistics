@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 
 ### Rubik's Cube
@@ -236,13 +236,13 @@
 | 30 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) | [Meiringen Masterminds 2025](https://www.worldcubeassociation.org/competitions/MeiringenMasterminds2025) |
 | 27 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | [Aachen Summer 2012](https://www.worldcubeassociation.org/competitions/AachenSummer2012) |
 | 26 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Nittedal MB Spring 2025](https://www.worldcubeassociation.org/competitions/NittedalMBSpring2025) |
+| 24 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [German Open 2025](https://www.worldcubeassociation.org/competitions/GermanOpen2025) |
 | 24 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Try to Get a Mean Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryToGetAMeanRzeszow2023) |
 | 23 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 22 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Kongens Lyngby Open 2017](https://www.worldcubeassociation.org/competitions/KongensLyngbyOpen2017) |
 | 21 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Swiss Nationals 2018](https://www.worldcubeassociation.org/competitions/SwissNationals2018) |
 | 20 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | [Country Roads Huntington 2024](https://www.worldcubeassociation.org/competitions/CountryRoadsHuntington2024) |
 | 19 | [Ivan Krueger](https://www.worldcubeassociation.org/persons/2016KRUE01) | [PBS Pickering Evening 2023](https://www.worldcubeassociation.org/competitions/PBSPickeringEvening2023) |
-| 19 | [Aaron Spiller](https://www.worldcubeassociation.org/persons/2018SPIL01) | [Side N Blind Narre Warren 2024](https://www.worldcubeassociation.org/competitions/SideNBlindNarreWarren2024) |
 
 ### 3x3x3 Multi-Blind
 

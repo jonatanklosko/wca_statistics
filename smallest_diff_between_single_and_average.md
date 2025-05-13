@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 
 ### Rubik's Cube
@@ -12,7 +12,7 @@
 | 0.01 | [Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01) | 9.55 | 9.56 | [Zonhoven Open 2016](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2016/results/by_person#2010SCHI01) |
 | 0.01 | [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | 10.99 | 11.00 | [SJTU Winter Open 2018](https://www.worldcubeassociation.org/competitions/SJTUWinterOpen2018/results/by_person#2017YINX01) |
 | 0.01 | [Michael](https://www.worldcubeassociation.org/persons/2010MICH03) | 25.03 | 25.04 | [Indonesian Open 2011](https://www.worldcubeassociation.org/competitions/IndonesianOpen2011/results/by_person#2010MICH03) |
-| 0.02 | [MinSeo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | 7.71 | 7.73 | [Brown Fall Seongnam 2024](https://www.worldcubeassociation.org/competitions/BrownFallSeongnam2024/results/by_person#2014GUMI01) |
+| 0.02 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | 7.71 | 7.73 | [Brown Fall Seongnam 2024](https://www.worldcubeassociation.org/competitions/BrownFallSeongnam2024/results/by_person#2014GUMI01) |
 | 0.02 | [Ethan Yeh](https://www.worldcubeassociation.org/persons/2020YEHE01) | 7.93 | 7.95 | [Agoura Cubing Returns 2024](https://www.worldcubeassociation.org/competitions/AgouraCubingReturns2024/results/by_person#2020YEHE01) |
 | 0.02 | [Vishal Chandrasekar](https://www.worldcubeassociation.org/persons/2022CHAN59) | 8.30 | 8.32 | [Malaysia Cube Championship 2024](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2024/results/by_person#2022CHAN59) |
 | 0.02 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | 8.64 | 8.66 | [San Diego's Final Cube-Down 2022](https://www.worldcubeassociation.org/competitions/SanDiegosFinalCubeDown2022/results/by_person#2015BROW03) |
@@ -86,13 +86,13 @@
 | 0.03 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 3:45.86 | 3:45.89 | [Luxembourg Open 2018](https://www.worldcubeassociation.org/competitions/LuxembourgOpen2018/results/by_person#2012HALE01) |
 | 0.04 | [Marco Vorländer](https://www.worldcubeassociation.org/persons/2014VORL01) | 3:27.49 | 3:27.53 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2014VORL01) |
 | 0.07 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3:02.84 | 3:02.91 | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023/results/by_person#2013OWCZ01) |
+| 0.07 | [Stefan Uzelac](https://www.worldcubeassociation.org/persons/2022UZEL01) | 7:19.63 | 7:19.70 | [Arizona Championship 2025](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2025/results/by_person#2022UZEL01) |
 | 0.08 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 3:13.56 | 3:13.64 | [Dutch Open 2018](https://www.worldcubeassociation.org/competitions/DutchOpen2018/results/by_person#2007VALK01) |
 | 0.09 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 5:14.66 | 5:14.75 | [Eat Sleep Cube Repeat 2014](https://www.worldcubeassociation.org/competitions/EatSleepCubeRepeat2014/results/by_person#2008AURO01) |
 | 0.10 | [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | 3:23.59 | 3:23.69 | [UCSD Fall 2024](https://www.worldcubeassociation.org/competitions/UCSDFall2024/results/by_person#2011GROG02) |
 | 0.10 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) | 6:25.15 | 6:25.25 | [Oregon 2016](https://www.worldcubeassociation.org/competitions/Oregon2016/results/by_person#2007WOOR01) |
 | 0.11 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2:17.68 | 2:17.79 | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/by_person#2019YANG94) |
 | 0.11 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 3:07.96 | 3:08.07 | [Albany Fall 2019](https://www.worldcubeassociation.org/competitions/AlbanyFall2019/results/by_person#2011FERA01) |
-| 0.12 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | 2:36.76 | 2:36.88 | [Hamchang Open 2023](https://www.worldcubeassociation.org/competitions/HamchangOpen2023/results/by_person#2014KIMD06) |
 
 ### 3x3x3 Blindfolded
 

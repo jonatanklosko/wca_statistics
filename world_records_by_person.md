@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -89,6 +89,7 @@
 | 4 | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) |
 | 4 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 4 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
+| 4 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) |
 | 4 | [Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01) |
 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
 | 3 | [Alexander Yu](https://www.worldcubeassociation.org/persons/2007YUAL01) |
@@ -109,6 +110,7 @@
 | 3 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
 | 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 3 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
+| 3 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
 | 3 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) |
 | 3 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 3 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
@@ -118,7 +120,6 @@
 | 3 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 3 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) |
 | 3 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
-| 3 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) |
 | 3 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 3 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) |
@@ -144,7 +145,6 @@
 | 2 | [Jean Pons](https://www.worldcubeassociation.org/persons/2004PONS01) |
 | 2 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) |
 | 2 | [Jianwei Zhu (朱剑伟)](https://www.worldcubeassociation.org/persons/2007ZHUJ01) |
-| 2 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
 | 2 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) |
 | 2 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
 | 2 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) |

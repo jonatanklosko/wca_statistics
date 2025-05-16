@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 May 2025*
+*Updated on 16 May 2025*
 
 
 ### Rubik's Cube - Single
@@ -362,7 +362,7 @@
 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | **2.99** |  | [Cube4fun Biała Rawska 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaRawska2025) | 2.54, 2.83, 3.63, 3.02, 3.11 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **3.04** |  | [Crewe Spring 2025](https://www.worldcubeassociation.org/competitions/CreweSpring2025) | 3.50, 2.61, 3.67, 3.02, 2.50 |
 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | **3.04** |  | [Crewe Spring 2025](https://www.worldcubeassociation.org/competitions/CreweSpring2025) | 3.22, 2.99, 2.91, 3.96, 2.51 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **3.06** |  | [Cube4fun Biała Rawska 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaRawska2025) | 4.23, 2.35, 2.73, 2.56, 3.90 |
+| [Clement D. Tucker](https://www.worldcubeassociation.org/persons/2022TUCK09) | **3.04** |  | [Connecticut Spring 2025](https://www.worldcubeassociation.org/competitions/ConnecticutSpring2025) | 2.90, 2.84, 2.85, 3.36, 3.88 |
 
 ### Skewb - Single
 

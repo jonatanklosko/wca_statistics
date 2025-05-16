@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 May 2025*
+*Updated on 16 May 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -176,6 +176,7 @@
 | 924 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 924 | [Zongwen Mu (牟宗文)](https://www.worldcubeassociation.org/persons/2015MUZO01) |
 | 924 | [Angel David Alvarado Sandoval](https://www.worldcubeassociation.org/persons/2022SAND19) |
+| 924 | [Eli Rogers](https://www.worldcubeassociation.org/persons/2022ROGE05) |
 | 929 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
 | 931 | [Jianxu Chen (陈建旭)](https://www.worldcubeassociation.org/persons/2016CHEJ04) |
 | 937 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
@@ -407,6 +408,7 @@
 | 1938 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) |
 | 1953 | [Alvin Cheng Hiu Yeung (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) |
 | 1953 | [Liav Bengayev](https://www.worldcubeassociation.org/persons/2019BENG02) |
+| 1953 | [Remo Decio](https://www.worldcubeassociation.org/persons/2020DECI01) |
 | 1960 | [Danny Buschert](https://www.worldcubeassociation.org/persons/2017BUSC03) |
 | 1960 | [Earl Bien D. Celestino](https://www.worldcubeassociation.org/persons/2019CELE01) |
 | 1974 | [Deni Mintsaev](https://www.worldcubeassociation.org/persons/2013MINT01) |
@@ -444,6 +446,7 @@
 | 2086 | [Samuel Martinez Sanchez](https://www.worldcubeassociation.org/persons/2019SANC20) |
 | 2093 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 2099 | [Currin Wilson](https://www.worldcubeassociation.org/persons/2018WILS11) |
+| 2100 | [Cyrill Speiser](https://www.worldcubeassociation.org/persons/2019SPEI01) |
 | 2105 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 2114 | [Thomas Heiden](https://www.worldcubeassociation.org/persons/2019HEID03) |
 | 2121 | [Étienne Aubry](https://www.worldcubeassociation.org/persons/2018AUBR01) |

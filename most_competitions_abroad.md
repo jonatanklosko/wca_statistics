@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 13 May 2025*
+*Updated on 16 May 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -8,7 +8,7 @@
 | 201 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 162 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 153 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 152 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
+| 153 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 145 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 143 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 135 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |

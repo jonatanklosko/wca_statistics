@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 
 ### 300 Competitions
@@ -16,6 +16,7 @@
 | ---: | :--- |
 | 1555 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 2815 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 3480 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 3690 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 4061 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 4215 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
@@ -25,6 +26,7 @@
 | 5146 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 5524 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 5557 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
+| 5558 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 5734 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 
 ### 200 Competitions
@@ -35,6 +37,7 @@
 | 1408 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 2506 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2840 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
+| 3144 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 3158 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 3212 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 3289 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
@@ -50,7 +53,6 @@
 | 3978 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 4012 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 4040 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
-| 4152 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 
 ### 150 Competitions
 

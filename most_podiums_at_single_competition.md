@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1081,6 +1081,7 @@
 | 10 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | [San Lorenzo Invierno 2015](https://www.worldcubeassociation.org/competitions/SanLorenzoInvierno2015/results/podiums) |
 | 10 | [Facundo Finola](https://www.worldcubeassociation.org/persons/2012FINO02) | [San Lorenzo Open 2015](https://www.worldcubeassociation.org/competitions/SanLorenzoOpen2015/results/podiums) |
 | 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [San Marino Nationals 2018](https://www.worldcubeassociation.org/competitions/SanMarinoNationals2018/results/podiums) |
+| 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Sant'Anna Open Araruama 2025](https://www.worldcubeassociation.org/competitions/SantAnnaOpenAraruama2025/results/podiums) |
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Santiago Cubea 2023](https://www.worldcubeassociation.org/competitions/SantiagoCubea2023/results/podiums) |
 | 12 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [Santiago Open 2009](https://www.worldcubeassociation.org/competitions/SantiagoOpen2009/results/podiums) |
 | 13 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [San Valencube Huancayo 2025](https://www.worldcubeassociation.org/competitions/SanValencubeHuancayo2025/results/podiums) |

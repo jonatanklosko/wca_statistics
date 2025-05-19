@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -70,6 +70,7 @@
 | 2462 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 2471 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) |
 | 2490 | [Raymos Castillo](https://www.worldcubeassociation.org/persons/2017CAST41) |
+| 2499 | [Tien Tran](https://www.worldcubeassociation.org/persons/2018TRAN09) |
 | 2512 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 2569 | [Aaron Soley](https://www.worldcubeassociation.org/persons/2017SOLE01) |
 | 2575 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |

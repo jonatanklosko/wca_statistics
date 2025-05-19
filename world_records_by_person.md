@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -180,6 +180,7 @@
 | 2 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |
 | 1 | [Abhishek Sathyanarayanan](https://www.worldcubeassociation.org/persons/2012SATH01) |
 | 1 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) |
+| 1 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) |
 | 1 | [Andrea Santambrogio](https://www.worldcubeassociation.org/persons/2008SANT01) |
 | 1 | [Andrew Huang](https://www.worldcubeassociation.org/persons/2016HUAN43) |
 | 1 | [Andrew Nelson](https://www.worldcubeassociation.org/persons/2007NELS01) |

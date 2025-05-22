@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 19 May 2025*
+*Updated on 22 May 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -164,6 +164,7 @@
 | 4 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 4 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 4 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) |
+| 4 | [Tom Noble](https://www.worldcubeassociation.org/persons/2019NOBL01) |
 | 4 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 4 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
 | 4 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) |

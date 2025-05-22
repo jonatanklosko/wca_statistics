@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 19 May 2025*
+*Updated on 22 May 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -132,7 +132,7 @@
 | 4 | [Afonso Carapeto](https://www.worldcubeassociation.org/persons/2015CARA03) | Portugal | [CLIP Open 2019](https://www.worldcubeassociation.org/competitions/CLIPOpen2019) |
 | 4 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | Turkey | [Ankara May B 2025](https://www.worldcubeassociation.org/competitions/AnkaraMayB2025) |
 | 4 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | Turkey | [Farewell Cubing in Ankara 2023](https://www.worldcubeassociation.org/competitions/FarewellCubinginAnkara2023) |
-| 4 | [Alexander Mutch](https://www.worldcubeassociation.org/persons/2014MUTC01) | Canada | [I Hope It's Solved EDM 2 2019](https://www.worldcubeassociation.org/competitions/IHopeItsSolvedEDM22019) |
+| 4 | [Alex Mutch](https://www.worldcubeassociation.org/persons/2014MUTC01) | Canada | [I Hope It's Solved EDM 2 2019](https://www.worldcubeassociation.org/competitions/IHopeItsSolvedEDM22019) |
 | 4 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | Russia | [Lipovljani Newcomer Day 2024](https://www.worldcubeassociation.org/competitions/LipovljaniNewcomerDay2024) |
 | 4 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | Russia | [Lipovljani Newcomer Day 2025](https://www.worldcubeassociation.org/competitions/LipovljaniNewcomerDay2025) |
 | 4 | [Alvin Cheng Hiu Yeung (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) | Hong Kong, China | [Toronto Blindfolded 2025](https://www.worldcubeassociation.org/competitions/TorontoBlindfolded2025) |

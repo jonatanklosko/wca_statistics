@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 May 2025*
+*Updated on 22 May 2025*
 
 
 ### Rubik's Cube
@@ -190,9 +190,9 @@
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 19 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 17 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 16 |
+| [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 16 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 16 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 15 |
-| [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 15 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 14 |
 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) | 14 |
 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 13 |
@@ -249,10 +249,10 @@
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 13 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 12 |
 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 12 |
+| [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 12 |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 12 |
 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) | 11 |
 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | 11 |
-| [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 11 |
 
 ### Pyraminx
 
@@ -273,9 +273,9 @@
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 10 |
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 10 |
 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 10 |
+| [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 9 |
 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) | 9 |
 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | 9 |
-| [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 8 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 8 |
 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 8 |
 

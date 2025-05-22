@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 May 2025*
+*Updated on 22 May 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1250,6 +1250,7 @@
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Tietomaa Open 2017](https://www.worldcubeassociation.org/competitions/TietomaaOpen2017/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Tietomaa Open 2018](https://www.worldcubeassociation.org/competitions/TietomaaOpen2018/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Tietomaa Open 2019](https://www.worldcubeassociation.org/competitions/TietomaaOpen2019/results/podiums) |
+| 11 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [Tivat Open 2025](https://www.worldcubeassociation.org/competitions/TivatOpen2025/results/podiums) |
 | 10 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | [Tlaxcala 2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Tofta Summer Open 2023](https://www.worldcubeassociation.org/competitions/ToftaSummerOpen2023/results/podiums) |
 | 11 | [Samuel Asafe Ludugel Fagundes](https://www.worldcubeassociation.org/persons/2015FAGU01) | [Torneio Mestre Álvaro 2017](https://www.worldcubeassociation.org/competitions/TorneioMestreAlvaro2017/results/podiums) |

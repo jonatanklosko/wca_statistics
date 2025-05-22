@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 19 May 2025*
+*Updated on 22 May 2025*
 
 
 ### Rubik's Cube
@@ -205,6 +205,7 @@
 | ---: | :--- | :--- |
 | 89 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [Nebraska Championship 2024](https://www.worldcubeassociation.org/competitions/NebraskaChampionship2024) |
 | 84 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [The Amerinst Cubing CBBA 2024](https://www.worldcubeassociation.org/competitions/TheAmerinstCubingCBBA2024) |
+| 74 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | [New Rochelle Night Faves 2025](https://www.worldcubeassociation.org/competitions/NewRochelleNightFavorites2025) |
 | 65 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | [Washtenaw Mini 3 2024](https://www.worldcubeassociation.org/competitions/WashtenawMini32024) |
 | 57 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Íslandsmótið 2024](https://www.worldcubeassociation.org/competitions/Islandsmotid2024) |
 | 57 | [Roy Lee](https://www.worldcubeassociation.org/persons/2011LEER01) | [Cowbell Cubing 2022](https://www.worldcubeassociation.org/competitions/CowbellCubing2022) |
@@ -212,7 +213,6 @@
 | 51 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | [Couffoul'Events 2024](https://www.worldcubeassociation.org/competitions/CouffoulEvents2024) |
 | 50 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Montenegro Open 2019](https://www.worldcubeassociation.org/competitions/MontenegroOpen2019) |
 | 48 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023) |
-| 48 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) | [Glasgow Fav Evening II 2024](https://www.worldcubeassociation.org/competitions/GlasgowFavEveningII2024) |
 
 ### 4x4x4 Blindfolded
 

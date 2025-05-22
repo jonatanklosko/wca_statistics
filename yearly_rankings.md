@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 May 2025*
+*Updated on 22 May 2025*
 
 
 ### Rubik's Cube - Single
@@ -236,13 +236,13 @@
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **19.67** |  | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) | 22, 20, 17 |
 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **20.00** |  | [Buckeye Big Brain OH 2025](https://www.worldcubeassociation.org/competitions/BuckeyeBigBrainOhioState2025) | 22, 20, 18 |
 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | **20.33** |  | [Please Be Quiet Shanghai 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietShanghai2025) | 21, 19, 21 |
+| [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **20.33** |  | [QLD Quiet State Champs 2025](https://www.worldcubeassociation.org/competitions/QLDQuietStateChamps2025) | 19, 21, 21 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **20.33** |  | [Singapore Championship 2025](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2025) | 22, 17, 22 |
 | [Joseph Guzman](https://www.worldcubeassociation.org/persons/2015GUZM03) | **20.67** |  | [New York Multimate PBQ 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQ2025) | 21, 21, 20 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **20.67** |  | [Baton Rouge Winter FMC 2025](https://www.worldcubeassociation.org/competitions/BatonRougeWinterFMC2025) | 20, 20, 22 |
 | [Enrico Tenuti](https://www.worldcubeassociation.org/persons/2017TENU01) | **20.67** |  | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025) | 20, 20, 22 |
 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | **20.67** |  | [Please Be Quiet Shanghai 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietShanghai2025) | 23, 20, 19 |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | **20.67** |  | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025) | 20, 20, 22 |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **20.67** |  | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025) | 20, 20, 22 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -401,10 +401,10 @@
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **3.42** |  | [Cubing in Southern Oregon 2025](https://www.worldcubeassociation.org/competitions/CubinginSouthernOregon2025) | 8.08, 6.20, 3.42, 3.81, 3.88 |
 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **3.88** |  | [Austin Spring Open 2025](https://www.worldcubeassociation.org/competitions/AustinSpringOpen2025) | 9.35, 3.88, 5.54, 5.88, 8.46 |
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | **3.93** |  | [UMBC Spring 2025](https://www.worldcubeassociation.org/competitions/UMBCSpring2025) | 3.93, 4.52, 5.51, 5.49, 6.57 |
+| [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **4.10** |  | [Evanston Qualifier 2025](https://www.worldcubeassociation.org/competitions/EvanstonQualifier2025) | 4.10, 9.51, 6.65, 5.85, 5.65 |
 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **4.15** |  | [Dåstrup Diverse 2025](https://www.worldcubeassociation.org/competitions/DastrupDiverse2025) | 5.63, 4.15, 8.46, 5.17, 6.74 |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **4.17** |  | [Santa Barbara Winter 2025](https://www.worldcubeassociation.org/competitions/SantaBarbaraWinter2025) | 5.33, 5.30, 4.17, 6.13, DNF |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **4.57** |  | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) | 4.57, 6.17, 5.91, 6.49, 6.41 |
-| [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **4.65** |  | [Naperville Winter 2025](https://www.worldcubeassociation.org/competitions/NapervilleWinter2025) | 5.90, 4.84, 4.65, 7.65, 5.99 |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **4.77** |  | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | 14.45, 8.52, 4.77, 7.41, 8.18 |
 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | **4.87** |  | [Flushing Glow Open PM 2025](https://www.worldcubeassociation.org/competitions/FlushingGlowOpenPM2025) | 9.74, 8.11, 6.97, 4.87, 8.20 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **4.88** |  | [Tacoma Winter 2025](https://www.worldcubeassociation.org/competitions/TacomaWinter2025) | 6.64, 7.14, 9.14, 7.55, 4.88 |
@@ -492,9 +492,9 @@
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **61/66 59:04** |  | [Bay Area Slowcubin' 2025](https://www.worldcubeassociation.org/competitions/BayAreaSlowcubin2025) | 61/66 59:04 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **60/64 1:00:04** |  | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) | 60/64 1:00:04 |
 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **53/57 55:51** |  | [KoprCube Blind 2025](https://www.worldcubeassociation.org/competitions/KoprCubeBlind2025) | 50/59 1:00:00, 53/57 55:51 |
+| [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **50/53 59:03** |  | [More Cubes Karori 2025](https://www.worldcubeassociation.org/competitions/MoreCubesKarori2025) | 50/53 59:03, 50/54 1:00:02 |
 | [Andrew Tao](https://www.worldcubeassociation.org/persons/2022TAOA01) | **50/53 1:00:02** |  | [New York Multimate PBQ 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQ2025) | 39/53 1:00:00, 50/53 1:00:02, 39/52 1:00:00 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **45/46 59:15** |  | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | 35/41 56:55, 45/46 59:15 |
-| [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **49/55 1:00:00** |  | [NZ South Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2025) | 49/55 1:00:00, 48/55 1:00:00 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **41/41 55:35** |  | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | 41/41 55:35, 35/51 1:00:00 |
 | [Jorian Meeuse](https://www.worldcubeassociation.org/persons/2022MEEU02) | **40/42 57:37** |  | [Mental Breakdown Hoorn 2025](https://www.worldcubeassociation.org/competitions/MentalBreakdownHoorn2025) | 40/42 57:37, DNS |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **41/44 59:58** |  | [CFL Goes Sideways Rogów 2025](https://www.worldcubeassociation.org/competitions/CFLGoesSidewaysRogow2025) | 41/44 59:58, DNF |

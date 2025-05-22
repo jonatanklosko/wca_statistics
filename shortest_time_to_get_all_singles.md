@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 May 2025*
+*Updated on 22 May 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -72,6 +72,7 @@
 | 581 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) |
 | 582 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) |
 | 588 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) |
+| 589 | [Dylan Himmelfarb](https://www.worldcubeassociation.org/persons/2023HIMM02) |
 | 594 | [Bowen Xiao (肖博文)](https://www.worldcubeassociation.org/persons/2017XIAO09) |
 | 595 | [Maxim Pürstinger](https://www.worldcubeassociation.org/persons/2022PURS01) |
 | 596 | [Karl Liam L. Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) |

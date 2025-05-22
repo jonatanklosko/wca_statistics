@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 May 2025*
+*Updated on 22 May 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -86,6 +86,7 @@
 | 2737 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 2744 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2799 | [Yonghao Xu (徐永浩)](https://www.worldcubeassociation.org/persons/2017XUYO01) |
+| 2800 | [David McLean](https://www.worldcubeassociation.org/persons/2017MCLE03) |
 | 2821 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 2829 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 2829 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |

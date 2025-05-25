@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 May 2025*
+*Updated on 25 May 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -224,6 +224,7 @@
 | 1092 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 1092 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 1092 | [Kai Yamamoto (山本快)](https://www.worldcubeassociation.org/persons/2021YAMA01) |
+| 1092 | [Maria Holton](https://www.worldcubeassociation.org/persons/2022HOLT03) |
 | 1112 | [Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13) |
 | 1112 | [Kristian Gil Caragan](https://www.worldcubeassociation.org/persons/2016CARA04) |
 | 1113 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |

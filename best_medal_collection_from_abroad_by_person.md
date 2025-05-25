@@ -1,13 +1,13 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 22 May 2025*
+*Updated on 25 May 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **578** | 366 | 247 | 1191 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 204 | 125 | 663 |
-| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **294** | 58 | 30 | 382 |
+| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **297** | 61 | 30 | 388 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **272** | 147 | 99 | 518 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **238** | 184 | 137 | 559 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **211** | 65 | 34 | 310 |
@@ -17,7 +17,7 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **171** | 69 | 38 | 278 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **156** | 95 | 44 | 295 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **144** | 157 | 136 | 437 |
+| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **144** | 158 | 137 | 439 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **140** | 74 | 43 | 257 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **128** | 103 | 83 | 314 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
@@ -51,8 +51,8 @@
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **69** | 29 | 37 | 135 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **68** | 84 | 72 | 224 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | **68** | 47 | 52 | 167 |
+| [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **66** | 56 | 40 | 162 |
 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **66** | 55 | 36 | 157 |
-| [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **65** | 52 | 40 | 157 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **65** | 16 | 3 | 84 |
 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
 | [Gergely Novotni](https://www.worldcubeassociation.org/persons/2016NOVO01) | **62** | 34 | 20 | 116 |

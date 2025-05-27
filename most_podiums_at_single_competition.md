@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 May 2025*
+*Updated on 26 May 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -381,6 +381,7 @@
 | 14 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2022](https://www.worldcubeassociation.org/competitions/DanishChampionship2022/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2023](https://www.worldcubeassociation.org/competitions/DanishChampionship2023/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2024](https://www.worldcubeassociation.org/competitions/DanishChampionship2024/results/podiums) |
+| 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2025](https://www.worldcubeassociation.org/competitions/DanishChampionship2025/results/podiums) |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Danish Open 2008](https://www.worldcubeassociation.org/competitions/DanishOpen2008/results/podiums) |
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Danish Open 2009](https://www.worldcubeassociation.org/competitions/DanishOpen2009/results/podiums) |
 | 14 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Danish Open 2010](https://www.worldcubeassociation.org/competitions/DanishOpen2010/results/podiums) |
@@ -463,6 +464,7 @@
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Empire State Spring 2019](https://www.worldcubeassociation.org/competitions/EmpireStateSpring2019/results/podiums) |
 | 10 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | [Empire State Spring Special 2024](https://www.worldcubeassociation.org/competitions/EmpireStateSpringSpecial2024/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Empire State Winter 2025](https://www.worldcubeassociation.org/competitions/EmpireStateWinter2025/results/podiums) |
+| 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Entre Ríos Cubea 2025](https://www.worldcubeassociation.org/competitions/EntreRiosCubea2025/results/podiums) |
 | 10 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Eretum Open 2018](https://www.worldcubeassociation.org/competitions/EretumOpen2018/results/podiums) |
 | 12 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | [Erfurt Open 2014](https://www.worldcubeassociation.org/competitions/ErfurtOpen2014/results/podiums) |
 | 11 | [Teemu Tiinanen](https://www.worldcubeassociation.org/persons/2007TIIN01) | [Estonian Open 2010](https://www.worldcubeassociation.org/competitions/EstonianOpen2010/results/podiums) |

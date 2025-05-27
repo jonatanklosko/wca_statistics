@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 May 2025*
+*Updated on 26 May 2025*
 
 
 ### 300 Competitions
@@ -139,6 +139,7 @@
 | 271 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 274 | [August Barnard](https://www.worldcubeassociation.org/persons/2022BARN21) |
 | 274 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
+| 281 | [Ramanujan Srinivasan](https://www.worldcubeassociation.org/persons/2024SRIN06) |
 | 287 | [Thomas Cabezas Casallas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 289 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
 | 294 | [Kyle Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
@@ -153,7 +154,6 @@
 | 351 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) |
 | 351 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 358 | [Juan David Blanco Sanabria](https://www.worldcubeassociation.org/persons/2023SANA04) |
-| 359 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
 
 ### 10 Competitions
 

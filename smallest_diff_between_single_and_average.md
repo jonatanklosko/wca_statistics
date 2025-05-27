@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 May 2025*
+*Updated on 26 May 2025*
 
 
 ### Rubik's Cube
@@ -143,6 +143,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.02 | [Yiyang Shen (申伊杨)](https://www.worldcubeassociation.org/persons/2024SHEN20) | 2.48 | 2.50 | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025/results/by_person#2024SHEN20) |
 | 0.02 | [Yi Wang (王旖)](https://www.worldcubeassociation.org/persons/2011WANG33) | 2.98 | 3.00 | [Suzhou Open 2017](https://www.worldcubeassociation.org/competitions/SuzhouOpen2017/results/by_person#2011WANG33) |
 | 0.02 | [Cai Giesinger](https://www.worldcubeassociation.org/persons/2022GIES01) | 5.16 | 5.18 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022/results/by_person#2022GIES01) |
 | 0.02 | [Toby Hogenhorst](https://www.worldcubeassociation.org/persons/2022HOGE01) | 5.60 | 5.62 | [Dutch Open 2024](https://www.worldcubeassociation.org/competitions/DutchOpen2024/results/by_person#2022HOGE01) |
@@ -152,7 +153,6 @@
 | 0.03 | [Seungho Song (송승호)](https://www.worldcubeassociation.org/persons/2018SONG36) | 1.98 | 2.01 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2018SONG36) |
 | 0.03 | [Mario Armando Takahashi Martins Dias](https://www.worldcubeassociation.org/persons/2019DIAS02) | 2.73 | 2.76 | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/by_person#2019DIAS02) |
 | 0.03 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 3.43 | 3.46 | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024/results/by_person#2018THOM29) |
-| 0.03 | [Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02) | 4.36 | 4.39 | [Julekubing 2024](https://www.worldcubeassociation.org/competitions/Julekubing2024/results/by_person#2016HARA02) |
 
 ### Rubik's Clock
 
@@ -174,6 +174,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.03 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 2.17 | 2.20 | [Żmigród Open 2024](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2024/results/by_person#2022SAMS03) |
+| 0.03 | [Titus Sutterfield](https://www.worldcubeassociation.org/persons/2017SUTT01) | 3.07 | 3.10 | [Cubing in Cave Springs 2025](https://www.worldcubeassociation.org/competitions/CubinginCaveSprings2025/results/by_person#2017SUTT01) |
 | 0.03 | [Maxence Baudry](https://www.worldcubeassociation.org/persons/2014BAUD02) | 3.16 | 3.19 | [Rhein-Neckar Autumn 2023](https://www.worldcubeassociation.org/competitions/RheinNeckarAutumn2023/results/by_person#2014BAUD02) |
 | 0.04 | [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.90 | 2.94 | [You May Open 2018](https://www.worldcubeassociation.org/competitions/YouMayOpen2018/results/by_person#2016CAIY03) |
 | 0.04 | [Alessandro Calzoni](https://www.worldcubeassociation.org/persons/2021CALZ01) | 2.90 | 2.94 | [Ticino Open 2023](https://www.worldcubeassociation.org/competitions/TicinoOpen2023/results/by_person#2021CALZ01) |
@@ -182,7 +183,6 @@
 | 0.04 | [Rasmus Händén](https://www.worldcubeassociation.org/persons/2016HAND04) | 3.80 | 3.84 | [Cuboss Open 2024](https://www.worldcubeassociation.org/competitions/CubossOpen2024/results/by_person#2016HAND04) |
 | 0.04 | [Jiachen Xu (徐嘉辰)](https://www.worldcubeassociation.org/persons/2016XUJI02) | 3.96 | 4.00 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2016XUJI02) |
 | 0.04 | [Dominik Fürer](https://www.worldcubeassociation.org/persons/2017FURE01) | 4.22 | 4.26 | [Wiler Würfelfest 2019](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2019/results/by_person#2017FURE01) |
-| 0.04 | [Julián García Sánchez](https://www.worldcubeassociation.org/persons/2014SANC28) | 4.48 | 4.52 | [Tlaxcala 2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018/results/by_person#2014SANC28) |
 
 ### Square-1
 
@@ -209,10 +209,10 @@
 | 1.62 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 1:34.29 | 1:35.91 | [Swisscubing Cup MB I 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupMentalBreakdow2024/results/by_person#2019HIRS01) |
 | 1.71 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2:00.90 | 2:02.61 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2014SCHO02) |
 | 2.68 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 3:01.00 | 3:03.68 | [Stevenage January 2024](https://www.worldcubeassociation.org/competitions/StevenageJanuary2024/results/by_person#2018SHEN07) |
+| 2.74 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) | 4:28.09 | 4:30.83 | [Kölner Kubing 2025](https://www.worldcubeassociation.org/competitions/KolnerKubing2025/results/by_person#2015WITM01) |
 | 3.06 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 1:45.21 | 1:48.27 | [East Bay Big and Blind 2024](https://www.worldcubeassociation.org/competitions/EastBayBigandBlind2024/results/by_person#2016SIGG01) |
 | 3.08 | [Jaxon Foster](https://www.worldcubeassociation.org/persons/2021FOST01) | 8:44.21 | 8:47.29 | [Please Be Solved Padbury 2024](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedPadbury2024/results/by_person#2021FOST01) |
 | 3.21 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 2:49.87 | 2:53.08 | [Manchester MBLD Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterMBLDDay2024/results/by_person#2018SHEN07) |
-| 3.24 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) | 2:54.96 | 2:58.20 | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/by_person#2010YAMA04) |
 
 ### 5x5x5 Blindfolded
 

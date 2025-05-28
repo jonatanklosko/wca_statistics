@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 26 May 2025*
+*Updated on 28 May 2025*
 
 
 ### Rubik's Cube
@@ -70,6 +70,7 @@
 | ---: | :--- |
 | 1:26.84 | [Tianzuo Du (杜天佐)](https://www.worldcubeassociation.org/persons/2021DUTI01) |
 | 1:35.17 | [Jiayang Zhang (张嘉阳)](https://www.worldcubeassociation.org/persons/2018ZHAJ16) |
+| 1:38.96 | [Shih-Si Yao (姚詩璽)](https://www.worldcubeassociation.org/persons/2023YAOS03) |
 | 1:40.88 | [Caleb Chang](https://www.worldcubeassociation.org/persons/2020CHAN10) |
 | 1:41.02 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) |
 | 1:44.37 | [Chongkui Chen (陈崇魁)](https://www.worldcubeassociation.org/persons/2023CHEC12) |
@@ -77,7 +78,6 @@
 | 1:44.97 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) |
 | 1:45.53 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
 | 1:45.58 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |
-| 1:45.78 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) |
 
 ### 7x7x7 Cube
 

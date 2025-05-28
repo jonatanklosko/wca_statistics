@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 26 May 2025*
+*Updated on 28 May 2025*
 
 
 ### Rubik's Cube
@@ -164,10 +164,10 @@
 | 1.33 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | 1.05, 1.29, 1.35, 2.58, 1.36 |
 | 1.42 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.36, 1.14, 2.28, 1.52, 1.39 |
 | 1.43 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.42, 1.50, 1.38, 3.53, 1.21 |
+| 1.45 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | 1.28, 1.73, 1.41, 1.32, 1.61 |
 | 1.45 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | 1.24, 1.56, 2.46, 1.55, 1.24 |
 | 1.45 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | 1.26, 1.61, 1.26, 2.33, 1.47 |
 | 1.46 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 2.05, 1.66, 0.95, 1.64, 1.07 |
-| 1.46 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.27, 1.38, 1.18, 3.32, 1.73 |
 
 ### Rubik's Clock
 

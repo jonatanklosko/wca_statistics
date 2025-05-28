@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 26 May 2025*
+*Updated on 28 May 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -140,6 +140,7 @@
 | 789 | [Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02) |
 | 790 | [Olivier Vos](https://www.worldcubeassociation.org/persons/2016VOSO01) |
 | 791 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
+| 791 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) |
 | 797 | [Hirosh Nividu](https://www.worldcubeassociation.org/persons/2022WIJE01) |
 | 798 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) |
 | 798 | [Daniel Winterberg](https://www.worldcubeassociation.org/persons/2022WINT09) |
@@ -554,6 +555,7 @@
 | 2759 | [Tessa Cookmeyer](https://www.worldcubeassociation.org/persons/2010COOK01) |
 | 2778 | [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01) |
 | 2807 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) |
+| 2807 | [Joel Mamani Tumiri](https://www.worldcubeassociation.org/persons/2017TUMI02) |
 | 2828 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 2829 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 2843 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |

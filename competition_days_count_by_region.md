@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 26 May 2025*
+*Updated on 28 May 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 14979 |
+| 1.46 | World | 14996 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 4840 |
-| 1.48 | Oceania | 654 |
+| 1.72 | Europe | 4844 |
+| 1.47 | Oceania | 655 |
 | 1.47 | South America | 1877 |
-| 1.41 | Asia | 3120 |
+| 1.41 | Asia | 3124 |
 | 1.32 | Africa | 185 |
-| 1.20 | North America | 4303 |
+| 1.20 | North America | 4311 |
 
 ### Countries
 
@@ -28,10 +28,10 @@
 | 2.00 | Liechtenstein | 3 |
 | 1.99 | Czech Republic | 68 |
 | 1.98 | Kazakhstan | 55 |
-| 1.93 | Germany | 255 |
+| 1.93 | Germany | 256 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
-| 1.92 | Turkey | 116 |
+| 1.91 | Turkey | 118 |
 | 1.89 | Lithuania | 28 |
 | 1.89 | Kyrgyzstan | 9 |
 | 1.89 | France | 330 |
@@ -69,8 +69,8 @@
 | 1.57 | Denmark | 209 |
 | 1.57 | Dominican Republic | 28 |
 | 1.57 | San Marino | 7 |
-| 1.56 | India | 662 |
-| 1.55 | Nepal | 22 |
+| 1.57 | Nepal | 23 |
+| 1.56 | India | 664 |
 | 1.54 | Malaysia | 111 |
 | 1.54 | Greece | 39 |
 | 1.52 | Bulgaria | 27 |
@@ -81,16 +81,16 @@
 | 1.50 | Madagascar | 2 |
 | 1.50 | Montenegro | 6 |
 | 1.48 | Peru | 236 |
-| 1.46 | Latvia | 39 |
-| 1.44 | Australia | 506 |
+| 1.48 | Latvia | 40 |
+| 1.44 | Australia | 507 |
 | 1.43 | Nigeria | 7 |
+| 1.42 | Costa Rica | 31 |
 | 1.41 | Jordan | 17 |
 | 1.40 | Bangladesh | 20 |
 | 1.40 | Israel | 68 |
 | 1.38 | Vietnam | 71 |
 | 1.38 | Estonia | 64 |
 | 1.37 | Chinese Taipei | 149 |
-| 1.37 | Costa Rica | 30 |
 | 1.36 | Romania | 136 |
 | 1.35 | Ecuador | 60 |
 | 1.34 | Paraguay | 35 |
@@ -116,10 +116,10 @@
 | 1.22 | El Salvador | 36 |
 | 1.19 | Japan | 243 |
 | 1.18 | Armenia | 11 |
-| 1.17 | Canada | 432 |
+| 1.17 | Canada | 433 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3455 |
-| 1.15 | Mongolia | 46 |
+| 1.16 | United States | 3461 |
+| 1.15 | Mongolia | 47 |
 | 1.13 | Azerbaijan | 46 |
 | 1.11 | Honduras | 18 |
 | 1.08 | Cyprus | 13 |

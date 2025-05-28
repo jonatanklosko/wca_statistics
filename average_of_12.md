@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 26 May 2025*
+*Updated on 28 May 2025*
 
 
 ### Rubik's Cube
@@ -179,8 +179,8 @@
 | 2.91 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.96, 2.65, 2.66, 3.20, 3.20, 2.69, 2.95, 2.82, 3.04, 2.59, 3.78, 2.97 |
 | 2.96 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 2.91, 2.96, 2.42, 2.86, 3.05, 7.09, 3.05, 3.53, 3.07, 2.25, 3.21, 2.57 |
 | 2.98 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 2.43, 2.73, 3.02, 3.75, 3.15, 2.50, 2.89, 3.02, 3.64, 3.36, 2.97, 2.49 |
-| 3.18 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | 2.80, 3.57, 2.57, 2.82, 2.74, DNF, 3.22, 3.46, 3.28, 2.88, 3.57, 3.49 |
 | 3.18 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.10, 7.17, 2.96, 3.05, 2.80, 3.69, 3.11, 3.31, 2.77, 3.53, 3.27, 2.94 |
+| 3.18 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | 2.80, 3.57, 2.57, 2.82, 2.74, DNF, 3.22, 3.46, 3.28, 2.88, 3.57, 3.49 |
 | 3.18 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 3.22, 2.99, 2.91, 3.96, 2.51, 4.12, 2.59, 2.89, 3.39, 2.82, 5.05, 2.88 |
 | 3.23 | [Karl Liam L. Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 3.30, 3.50, 2.62, 4.13, 3.23, 3.06, 3.95, 2.53, 2.89, 3.64, 2.84, 3.26 |
 

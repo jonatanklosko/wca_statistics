@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 26 May 2025*
+*Updated on 28 May 2025*
 
 
 ### Rubik's Cube - Single
@@ -118,7 +118,7 @@
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **37.05** |  | [Please Big Cubes Korea 2025](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2025) | 37.06, 42.87, 38.35, 35.63, 35.75 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **37.42** |  | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | 36.68, 37.01, 35.61, 38.57, 39.61 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **37.50** |  | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025) | 39.18, 36.80, 38.53, 37.17, 36.48 |
-| [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **39.61** |  | [Pingtung Winter Open 2025](https://www.worldcubeassociation.org/competitions/PingtungWinterOpen2025) | 36.55, 42.44, 40.73, 38.19, 39.90 |
+| [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **39.44** |  | [Chien Kuo Cubing Party 2025](https://www.worldcubeassociation.org/competitions/ChienKuoCubingParty2025) | 40.27, 37.17, 38.71, 39.33, DNF |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **40.51** |  | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025) | 38.32, 42.29, 43.97, 40.91, 37.77 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **40.53** |  | [No Parity Mayhem Singapore 2025](https://www.worldcubeassociation.org/competitions/NoParityMayhemSingapore2025) | 39.53, 42.86, 41.51, 40.43, 39.64 |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **41.02** |  | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025) | 39.44, 41.50, 40.97, 40.97, 41.12 |
@@ -329,10 +329,10 @@
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | **1.42** |  | [Cubing with the Cougars WV 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeCougarsWV2025) | 1.36, 1.14, 2.28, 1.52, 1.39 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **1.53** |  | [Ivanka pri Dunaji Open 2025](https://www.worldcubeassociation.org/competitions/IvankapriDunajiOpen2025) | 1.66, 1.47, 1.47, 4.36, 1.23 |
 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) | **1.55** |  | [Pickering Favourites Spring 2025](https://www.worldcubeassociation.org/competitions/PickeringFavouritesSpring2025) | 1.55, 1.34, 1.73, 3.21, 1.36 |
+| [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | **1.59** |  | [North Carolina Championship 2025](https://www.worldcubeassociation.org/competitions/NorthCarolinaChampionship2025) | 1.41, 1.32, 1.61, 3.21, 1.74 |
 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | **1.63** |  | [Tafalla Open 2025](https://www.worldcubeassociation.org/competitions/TafallaOpen2025) | 1.57, 1.86, 1.51, 1.81, 1.41 |
 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) | **1.65** |  | [DFW Cubing Spring 2025](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2025) | 3.05, 1.66, 1.64, 1.49, 1.66 |
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | **1.66** |  | [Pop Off Princeton 2025](https://www.worldcubeassociation.org/competitions/PopOffPrinceton2025) | 2.23, 1.96, 1.42, 1.42, 1.59 |
-| [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | **1.67** |  | [Waterloo Winter 2025](https://www.worldcubeassociation.org/competitions/WaterlooWinter2025) | 1.86, 1.46, 1.49, 1.66, 3.49 |
 
 ### Rubik's Clock - Single
 

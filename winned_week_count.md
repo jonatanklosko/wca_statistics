@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 26 May 2025*
+*Updated on 28 May 2025*
 
 
 ### Rubik's Cube
@@ -9,7 +9,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 62 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 46 |
+| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 47 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 37 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 37 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 32 |
@@ -66,7 +66,7 @@
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 34 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 23 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 19 |
-| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 15 |
+| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 16 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | 13 |
 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | 13 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 11 |
@@ -99,7 +99,7 @@
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 16 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 16 |
 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) | 13 |
-| [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 12 |
+| [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 13 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 11 |
 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) | 10 |
 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 10 |

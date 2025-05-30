@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 28 May 2025*
+*Updated on 29 May 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -44,6 +44,7 @@
 | 22 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 21 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 21 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
 | 21 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 20 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
@@ -51,7 +52,6 @@
 | 20 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 20 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 20 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
-| 20 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
 | 20 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 19 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |

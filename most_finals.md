@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 May 2025*
+*Updated on 29 May 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -63,7 +63,7 @@
 | 996 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 996 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 995 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
-| 990 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 995 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 966 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |

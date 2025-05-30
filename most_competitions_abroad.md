@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 May 2025*
+*Updated on 29 May 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -58,9 +58,9 @@
 | 76 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 76 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
 | 76 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
+| 75 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
 | 75 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 74 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
-| 74 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 73 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 73 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
@@ -71,7 +71,7 @@
 | 70 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 69 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 68 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
-| 66 | [Ethan Ekstrom](https://www.worldcubeassociation.org/persons/2018EKST01) |
+| 67 | [Ethan Ekstrom](https://www.worldcubeassociation.org/persons/2018EKST01) |
 | 66 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
 | 66 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 66 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |

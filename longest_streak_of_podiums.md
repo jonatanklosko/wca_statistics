@@ -1,14 +1,14 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
 | 100 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 4x4x4 Cube | [SacCubing II 2017](https://www.worldcubeassociation.org/competitions/SacCubingII2017) |  |
 | 97 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 5x5x5 Cube | [Caltech Fall 2016](https://www.worldcubeassociation.org/competitions/CaltechFall2016) |  |
 | 95 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 5x5x5 Cube | [Melbourne Summer 2012](https://www.worldcubeassociation.org/competitions/MelbourneSummer2012) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
-| 94 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
+| 95 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 90 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 3x3x3 One-Handed | [Swiss Nationals 2018](https://www.worldcubeassociation.org/competitions/SwissNationals2018) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 86 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 85 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 3x3x3 One-Handed | [Berkeley Summer 2016](https://www.worldcubeassociation.org/competitions/BerkeleySummer2016) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
@@ -17,9 +17,9 @@
 | 78 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 2x2x2 Cube | [Dutch Nationals 2014](https://www.worldcubeassociation.org/competitions/DutchNationals2014) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 76 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 3x3x3 Cube | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024) |
 | 67 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5x5x5 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
+| 66 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | 3x3x3 Cube | [Schoolmark Open 2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019) |  |
 | 65 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 3x3x3 One-Handed | [Melbourne Summer 2012](https://www.worldcubeassociation.org/competitions/MelbourneSummer2012) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) |
 | 65 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | 4x4x4 Cube | [Lomas 2015](https://www.worldcubeassociation.org/competitions/LasLomas2015) | [SAC 2024](https://www.worldcubeassociation.org/competitions/SAC2024) |
-| 65 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | 3x3x3 Cube | [Schoolmark Open 2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019) |  |
 | 64 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 4x4x4 Cube | [Melbourne Summer 2012](https://www.worldcubeassociation.org/competitions/MelbourneSummer2012) | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018) |
 | 63 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7x7x7 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) |  |
 | 63 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 7x7x7 Cube | [SacCubing II 2017](https://www.worldcubeassociation.org/competitions/SacCubingII2017) |  |

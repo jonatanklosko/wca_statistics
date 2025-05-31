@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -27,13 +27,13 @@
 | 1373 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1364 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 1363 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
-| 1312 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 1316 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1255 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1250 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 1244 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 1242 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 1226 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
-| 1216 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
+| 1222 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 1206 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 1204 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1193 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
@@ -44,9 +44,9 @@
 | 1137 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 1133 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 1113 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
+| 1110 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1109 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1107 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 1106 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1092 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1090 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |

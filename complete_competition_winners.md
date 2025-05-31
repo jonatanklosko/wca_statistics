@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -273,10 +273,10 @@
 | 2 | [Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13) | United States | [Exceedingly Mini-sota 2025](https://www.worldcubeassociation.org/competitions/ExceedinglyMinisota2025) |
 | 2 | [Ashten Jampayas](https://www.worldcubeassociation.org/persons/2017JAMP01) | United States | [GA Cubers February A 2022](https://www.worldcubeassociation.org/competitions/GACubersFebruaryA2022) |
 | 2 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | Israel | [6 by Road 6 Israel 2024](https://www.worldcubeassociation.org/competitions/6byRoad6Israel2024) |
-| 2 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | Israel | [PBQ Strikes Back Israel 2025](https://www.worldcubeassociation.org/competitions/PBQStrikesBackIsrael2025) |
 | 2 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | Israel | [Sharet School 2018](https://www.worldcubeassociation.org/competitions/SharetSchool2018) |
-| 2 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | United States | [Unorthodox Blocks Wisconsin 2025](https://www.worldcubeassociation.org/competitions/UnorthodoxBlocksWisconsin2025) |
+| 2 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | Israel | [PBQ Strikes Back Israel 2025](https://www.worldcubeassociation.org/competitions/PBQStrikesBackIsrael2025) |
 | 2 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | United States | [Midwest Cubing Classic 2025](https://www.worldcubeassociation.org/competitions/MidwestCubingClassic2025) |
+| 2 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | United States | [Unorthodox Blocks Wisconsin 2025](https://www.worldcubeassociation.org/competitions/UnorthodoxBlocksWisconsin2025) |
 | 2 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) | Uruguay | [Mental Breakdown Uruguay 2022](https://www.worldcubeassociation.org/competitions/MentalBreakdownUruguay2022) |
 | 2 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | Brazil | [Bom Viver Open 2024](https://www.worldcubeassociation.org/competitions/BomViverOpen2024) |
 | 2 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Grizz Leap 2024](https://www.worldcubeassociation.org/competitions/GrizzLeap2024) |
@@ -327,11 +327,11 @@
 | 2 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | United States | [All Quiet in Lexington 2022](https://www.worldcubeassociation.org/competitions/AllQuietinLexington2022) |
 | 1 | [Abdou El Barri I. H. Boudjeltia](https://www.worldcubeassociation.org/persons/2023BOUD02) | Algeria | [Ottawa 3x3x3 Fall C 2024](https://www.worldcubeassociation.org/competitions/Ottawa3x3x3FallC2024) |
 | 1 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | Ireland | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024) |
+| 1 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | Denmark | [Finnish FMC Championship 2024](https://www.worldcubeassociation.org/competitions/FinnishFMCChampionship2024) |
+| 1 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | Denmark | [HDC X - Hvidovre i Få Træk 2024](https://www.worldcubeassociation.org/competitions/HDCXHvidovreiFaTraek2024) |
 | 1 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | Denmark | [Danish FM Championship 2023](https://www.worldcubeassociation.org/competitions/DanishFMChampionship2023) |
 | 1 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | Denmark | [Danish FM Championship 2025](https://www.worldcubeassociation.org/competitions/DanishFMChampionship2025) |
 | 1 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | Denmark | [Don't Move Copenhagen 2022](https://www.worldcubeassociation.org/competitions/DontMoveCopenhagen2022) |
-| 1 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | Denmark | [Finnish FMC Championship 2024](https://www.worldcubeassociation.org/competitions/FinnishFMCChampionship2024) |
-| 1 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | Denmark | [HDC X - Hvidovre i Få Træk 2024](https://www.worldcubeassociation.org/competitions/HDCXHvidovreiFaTraek2024) |
 | 1 | [Advay Sant](https://www.worldcubeassociation.org/persons/2015SANT44) | United States | [Indian Nationals FMC 2023](https://www.worldcubeassociation.org/competitions/IndianNationalsFMC2023) |
 | 1 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) | United States | [Amherst FMC Challenge 2024](https://www.worldcubeassociation.org/competitions/AmherstFMCChallenge2024) |
 | 1 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) | United States | [Cambridge Holiday FMC 2022](https://www.worldcubeassociation.org/competitions/CambridgeHolidayFMC2022) |
@@ -406,6 +406,7 @@
 | 1 | [Cailyn Sinclair](https://www.worldcubeassociation.org/persons/2016HOOV01) | United States | [JAM FMC I 2023](https://www.worldcubeassociation.org/competitions/JAMFMCI2023) |
 | 1 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | Brazil | [Arena Bernô 6 City FM 2024](https://www.worldcubeassociation.org/competitions/ArenaBerno6CityFM2024) |
 | 1 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | Brazil | [Desafio Hungria em SP 2024](https://www.worldcubeassociation.org/competitions/DesafioHungriaemSP2024) |
+| 1 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | Brazil | [FECAP Open 2025](https://www.worldcubeassociation.org/competitions/FECAPOpen2025) |
 | 1 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [FMC Americas 2019](https://www.worldcubeassociation.org/competitions/FMCAmericas2019) |
 | 1 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [Great Lakes FMC Champs 2023](https://www.worldcubeassociation.org/competitions/GreatLakesFMCChampionship2023) |
 | 1 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [Heartland FMC Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandFMCChampionship2023) |

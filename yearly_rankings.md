@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 
 ### Rubik's Cube - Single
@@ -38,6 +38,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **0.47** |  | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) | 1.30, 1.02, 0.47, 1.64, 3.06 |
 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | **0.47** |  | [Queenspark O'Clock 2025](https://www.worldcubeassociation.org/competitions/QueensparkOClock2025) | 1.59, 0.47, 1.85, DNF, 1.68 |
 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | **0.49** |  | [NSW State Championship 2025](https://www.worldcubeassociation.org/competitions/NSWStateChampionship2025) | 1.78, 1.50, 0.49, 1.76, 1.51 |
 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | **0.50** |  | [Jesuitinas Txantrea Open 2025](https://www.worldcubeassociation.org/competitions/JesuitinasTxantreaOpen2025) | 3.83, 1.97, 0.50, 1.75, 1.29 |
@@ -47,7 +48,6 @@
 | [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) | **0.56** |  | [Birmingham Spring 2025](https://www.worldcubeassociation.org/competitions/BirminghamSpring2025) | 1.61, 1.66, 0.56, 1.72, 4.09 |
 | [Hans Lin](https://www.worldcubeassociation.org/persons/2018LINH02) | **0.58** |  | [NSW State Championship 2025](https://www.worldcubeassociation.org/competitions/NSWStateChampionship2025) | 3.95, 1.80, 0.58, 2.24, 1.70 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **0.59** |  | [Aldergrove Clock Fest 2025](https://www.worldcubeassociation.org/competitions/AldergroveClockFest2025) | 0.59, 1.20, 4.87, DNF, 1.85 |
-| [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) | **0.59** |  | [NSW State Championship 2025](https://www.worldcubeassociation.org/competitions/NSWStateChampionship2025) | 2.86, 1.54, 0.59, 1.49, 1.93 |
 
 ### 2x2x2 Cube - Average
 

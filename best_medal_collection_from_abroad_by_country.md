@@ -1,15 +1,15 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1491** | 1268 | 1093 | 3852 |
 | United States | **1376** | 1092 | 946 | 3414 |
 | Germany | **1282** | 1209 | 1205 | 3696 |
-| Russia | **1127** | 631 | 492 | 2250 |
-| France | **1062** | 937 | 796 | 2795 |
+| Russia | **1127** | 632 | 492 | 2251 |
+| France | **1062** | 937 | 797 | 2796 |
 | Netherlands | **1024** | 819 | 697 | 2540 |
 | China | **919** | 871 | 756 | 2546 |
 | Poland | **730** | 466 | 367 | 1563 |
@@ -23,7 +23,7 @@
 | Denmark | **376** | 321 | 263 | 960 |
 | Italy | **369** | 355 | 328 | 1052 |
 | Sweden | **329** | 378 | 386 | 1093 |
-| Ukraine | **321** | 331 | 350 | 1002 |
+| Ukraine | **323** | 333 | 350 | 1006 |
 | Australia | **305** | 159 | 114 | 578 |
 | Finland | **304** | 240 | 211 | 755 |
 | Argentina | **277** | 189 | 155 | 621 |
@@ -76,7 +76,7 @@
 | North Macedonia | **20** | 27 | 31 | 78 |
 | Bulgaria | **16** | 44 | 46 | 106 |
 | Nigeria | **16** | 29 | 21 | 66 |
-| Morocco | **14** | 15 | 18 | 47 |
+| Morocco | **14** | 15 | 19 | 48 |
 | Nicaragua | **14** | 6 | 10 | 30 |
 | Bolivia | **12** | 28 | 32 | 72 |
 | Bangladesh | **11** | 17 | 12 | 40 |
@@ -107,6 +107,7 @@
 | Albania | **1** | 7 | 2 | 10 |
 | Tajikistan | **1** | 5 | 4 | 10 |
 | Luxembourg | **1** | 3 | 4 | 8 |
+| Brunei | **1** | 3 | 1 | 5 |
 | Cuba | **1** | 1 | 0 | 2 |
 | United Arab Emirates | **1** | 0 | 2 | 3 |
 | Syria | **0** | 6 | 1 | 7 |

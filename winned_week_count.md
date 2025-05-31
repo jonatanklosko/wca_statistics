@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 
 ### Rubik's Cube
@@ -34,7 +34,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 32 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 21 |
+| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 20 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 18 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 18 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 17 |
@@ -49,9 +49,9 @@
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 9 |
 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | 9 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 9 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 9 |
 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) | 8 |
 | [Yinghao Wang (王鹰豪)](https://www.worldcubeassociation.org/persons/2010WANG07) | 8 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 8 |
 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 7 |
 
 ### 4x4x4 Cube
@@ -113,7 +113,7 @@
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 42 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 40 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 34 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 28 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 29 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 25 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 22 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 16 |

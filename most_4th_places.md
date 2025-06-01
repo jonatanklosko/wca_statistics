@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 31 May 2025*
+*Updated on  1 June 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -9,7 +9,7 @@
 | 252 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 220 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 198 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
-| 184 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 185 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 183 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 183 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 182 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |

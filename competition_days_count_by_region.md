@@ -1,23 +1,23 @@
 ## Competition days count by region
 
-*Updated on 31 May 2025*
+*Updated on  1 June 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 15021 |
+| 1.46 | World | 15025 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
 | 1.72 | Europe | 4851 |
-| 1.47 | Oceania | 655 |
-| 1.47 | South America | 1878 |
+| 1.47 | Oceania | 657 |
+| 1.47 | South America | 1879 |
 | 1.41 | Asia | 3133 |
-| 1.32 | Africa | 185 |
+| 1.32 | Africa | 186 |
 | 1.20 | North America | 4319 |
 
 ### Countries
@@ -58,7 +58,7 @@
 | 1.71 | Poland | 531 |
 | 1.69 | Belgium | 95 |
 | 1.69 | Ireland | 81 |
-| 1.68 | Brazil | 582 |
+| 1.68 | Brazil | 583 |
 | 1.68 | Argentina | 105 |
 | 1.67 | North Macedonia | 6 |
 | 1.63 | Italy | 260 |
@@ -83,7 +83,7 @@
 | 1.48 | Peru | 236 |
 | 1.48 | Latvia | 40 |
 | 1.44 | Jordan | 18 |
-| 1.44 | Australia | 507 |
+| 1.44 | Australia | 509 |
 | 1.43 | Nigeria | 7 |
 | 1.42 | Costa Rica | 31 |
 | 1.40 | Bangladesh | 20 |
@@ -126,7 +126,7 @@
 | 1.05 | Georgia | 38 |
 | 1.00 | Albania | 3 |
 | 1.00 | Algeria | 10 |
-| 1.00 | Angola | 5 |
+| 1.00 | Angola | 6 |
 | 1.00 | Barbados | 1 |
 | 1.00 | Cambodia | 3 |
 | 1.00 | Cuba | 1 |

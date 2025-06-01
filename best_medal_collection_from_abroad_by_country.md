@@ -1,18 +1,18 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 31 May 2025*
+*Updated on  1 June 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| Hungary | **1491** | 1268 | 1093 | 3852 |
-| United States | **1376** | 1092 | 946 | 3414 |
-| Germany | **1282** | 1209 | 1205 | 3696 |
-| Russia | **1127** | 632 | 492 | 2251 |
+| Hungary | **1493** | 1271 | 1094 | 3858 |
+| United States | **1376** | 1092 | 947 | 3415 |
+| Germany | **1283** | 1210 | 1206 | 3699 |
+| Russia | **1129** | 633 | 492 | 2254 |
 | France | **1062** | 937 | 797 | 2796 |
 | Netherlands | **1024** | 819 | 697 | 2540 |
 | China | **919** | 871 | 756 | 2546 |
-| Poland | **730** | 466 | 367 | 1563 |
+| Poland | **730** | 467 | 367 | 1564 |
 | Malaysia | **484** | 506 | 467 | 1457 |
 | United Kingdom | **456** | 505 | 483 | 1444 |
 | Canada | **431** | 460 | 493 | 1384 |
@@ -34,7 +34,7 @@
 | Indonesia | **216** | 206 | 162 | 584 |
 | Spain | **208** | 197 | 227 | 632 |
 | Ireland | **195** | 94 | 81 | 370 |
-| Austria | **188** | 244 | 263 | 695 |
+| Austria | **188** | 245 | 263 | 696 |
 | Slovenia | **177** | 235 | 245 | 657 |
 | Latvia | **161** | 232 | 241 | 634 |
 | Belgium | **155** | 225 | 215 | 595 |
@@ -46,11 +46,11 @@
 | Norway | **118** | 125 | 128 | 371 |
 | Belarus | **115** | 82 | 93 | 290 |
 | Lithuania | **107** | 93 | 97 | 297 |
-| Slovakia | **96** | 122 | 128 | 346 |
+| Slovakia | **97** | 122 | 128 | 347 |
 | Thailand | **95** | 103 | 60 | 258 |
 | Venezuela | **86** | 100 | 97 | 283 |
 | Philippines | **85** | 104 | 106 | 295 |
-| Croatia | **81** | 118 | 91 | 290 |
+| Croatia | **81** | 119 | 93 | 293 |
 | Guatemala | **77** | 47 | 51 | 175 |
 | Brazil | **76** | 93 | 71 | 240 |
 | New Zealand | **75** | 87 | 72 | 234 |
@@ -74,7 +74,7 @@
 | Belize | **24** | 6 | 3 | 33 |
 | El Salvador | **21** | 27 | 23 | 71 |
 | North Macedonia | **20** | 27 | 31 | 78 |
-| Bulgaria | **16** | 44 | 46 | 106 |
+| Bulgaria | **16** | 44 | 47 | 107 |
 | Nigeria | **16** | 29 | 21 | 66 |
 | Morocco | **14** | 15 | 19 | 48 |
 | Nicaragua | **14** | 6 | 10 | 30 |
@@ -110,6 +110,7 @@
 | Brunei | **1** | 3 | 1 | 5 |
 | Cuba | **1** | 1 | 0 | 2 |
 | United Arab Emirates | **1** | 0 | 2 | 3 |
+| Angola | **1** | 0 | 0 | 1 |
 | Syria | **0** | 6 | 1 | 7 |
 | Dominican Republic | **0** | 3 | 3 | 6 |
 | Sri Lanka | **0** | 3 | 2 | 5 |

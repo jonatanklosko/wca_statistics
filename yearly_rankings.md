@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 31 May 2025*
+*Updated on  1 June 2025*
 
 
 ### Rubik's Cube - Single
@@ -389,10 +389,10 @@
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **1.69** |  | [Silesian Cubing Mysłowice 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingMyslowice2025) | 1.65, 2.85, 1.72, 1.71, 1.52 |
 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | **1.70** |  | [Tafalla Open 2025](https://www.worldcubeassociation.org/competitions/TafallaOpen2025) | 1.55, 1.53, 1.93, 1.70, 1.86 |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | **1.71** |  | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025) | 1.61, 1.74, 1.28, 1.88, 1.79 |
+| [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | **1.73** |  | [Grand Junction Dysfunction 2025](https://www.worldcubeassociation.org/competitions/GrandJunctionDysfunction2025) | 1.77, 1.70, 1.72, 3.44, 1.33 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **1.74** |  | [Cube4fun in Tylmanowa 2025](https://www.worldcubeassociation.org/competitions/Cube4funinTylmanowa2025) | 1.62, 1.87, 1.66, 3.23, 1.68 |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | **1.85** |  | [Gdańska Liga Speedcubingu I 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguI2025) | 1.59, 2.25, 3.75, 1.71, 1.21 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.86** |  | [Southern Indiana Qualifier 2025](https://www.worldcubeassociation.org/competitions/SouthernIndianaQualifier2025) | 0.96, 1.70, 3.87, 1.93, 1.95 |
-| [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | **1.89** |  | [Longjum'Open 2025](https://www.worldcubeassociation.org/competitions/LongjumOpen2025) | 1.90, 2.92, 1.94, 1.30, 1.83 |
 
 ### Square-1 - Single
 
@@ -406,8 +406,8 @@
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **4.17** |  | [Santa Barbara Winter 2025](https://www.worldcubeassociation.org/competitions/SantaBarbaraWinter2025) | 5.33, 5.30, 4.17, 6.13, DNF |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **4.57** |  | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) | 4.57, 6.17, 5.91, 6.49, 6.41 |
 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **4.57** |  | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025) | 4.57, 7.47, 8.87, 6.08, 6.85 |
+| [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | **4.73** |  | [Bigs Na Esquina Beagá Open 2025](https://www.worldcubeassociation.org/competitions/BigsNaEsquinaBeagaOpen2025) | 6.00, 13.29, 6.56, 5.02, 4.73 |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **4.77** |  | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | 14.45, 8.52, 4.77, 7.41, 8.18 |
-| [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | **4.87** |  | [Flushing Glow Open PM 2025](https://www.worldcubeassociation.org/competitions/FlushingGlowOpenPM2025) | 9.74, 8.11, 6.97, 4.87, 8.20 |
 
 ### Square-1 - Average
 
@@ -420,9 +420,9 @@
 | [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | **5.69** |  | [NZ South Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2025) | 7.23, 5.40, 5.74, 5.92, 5.38 |
 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **5.77** |  | [Oldenburg Oster Open 2025](https://www.worldcubeassociation.org/competitions/OldenburgOsterOpen2025) | 4.78, 5.87, 5.09, 6.35, 6.75 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **5.80** |  | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) | 5.42, 5.88, 6.84, 5.56, 5.95 |
+| [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | **5.86** |  | [Bigs Na Esquina Beagá Open 2025](https://www.worldcubeassociation.org/competitions/BigsNaEsquinaBeagaOpen2025) | 6.00, 13.29, 6.56, 5.02, 4.73 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **6.08** |  | [Warmup for Worlds Olympia 2025](https://www.worldcubeassociation.org/competitions/WarmupforWorldsOlympia2025) | 8.82, 4.88, 7.87, 5.31, 5.06 |
 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **6.16** |  | [Brazos Cubing Spring 2025](https://www.worldcubeassociation.org/competitions/BrazosCubingSpring2025) | 9.03, 7.10, 5.24, 6.15, 4.63 |
-| [Guy Zarian](https://www.worldcubeassociation.org/persons/2022ZARI01) | **6.21** |  | [Return of the Cubers Israel 2025](https://www.worldcubeassociation.org/competitions/ReturnoftheCubersIsrael2025) | 7.28, 5.02, 5.52, 11.32, 5.82 |
 
 ### 4x4x4 Blindfolded - Single
 

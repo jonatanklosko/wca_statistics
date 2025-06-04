@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 
 ### Rubik's Cube
@@ -218,6 +218,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 1.39 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) | 8:50.68 | 8:52.07 | [Rheinland-Pfalz Open 2025](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2025/results/by_person#2018BLOC01) |
 | 2.89 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 3:51.73 | 3:54.62 | [SacQuiet Fall 2023](https://www.worldcubeassociation.org/competitions/SacQuietFall2023/results/by_person#2016SIGG01) |
 | 4.13 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4:17.98 | 4:22.11 | [Cambridge Side Events 2023](https://www.worldcubeassociation.org/competitions/CambridgeSideEventsWinter2023/results/by_person#2019ECKE02) |
 | 5.54 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 3:56.51 | 4:02.05 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2016SIGG01) |
@@ -227,7 +228,6 @@
 | 7.78 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 8:41.99 | 8:49.77 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019/results/by_person#2016FANG01) |
 | 8.15 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:46.56 | 3:54.71 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/by_person#2013LINK01) |
 | 8.35 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 4:28.31 | 4:36.66 | [10th Anniversary Cervantes 2024](https://www.worldcubeassociation.org/competitions/10thAnniversaryCervantes2024/results/by_person#2017GUTM01) |
-| 9.69 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 3:43.58 | 3:53.27 | [Manchester BLD Day 2023](https://www.worldcubeassociation.org/competitions/ManchesterBLDDay2023/results/by_person#2019ECKE02) |
 
 ### 3x3x3 With Feet
 

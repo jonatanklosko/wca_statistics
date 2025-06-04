@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 
 ### Rubik's Cube
@@ -158,6 +158,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.26 | **2.04** | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/all#epyram_f) | 4 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.86 | **2.07** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 4 |
 | [Tianyu Sun (孙天宇)](https://www.worldcubeassociation.org/persons/2021SUNT01) | 1.67 | **2.11** | [Luoyang Spring 2025](https://www.worldcubeassociation.org/competitions/LuoyangSpring2025/results/all#epyram_f) | 4 |
 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.45 | **2.12** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 5 |
@@ -167,7 +168,6 @@
 | [Keon Wilson](https://www.worldcubeassociation.org/persons/2018WILS10) | 1.70 | **2.14** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 4 |
 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.57 | **2.15** | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/all#epyram_f) | 4 |
 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.90 | **2.15** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 6 |
-| [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) | 1.67 | **2.16** | [Luoyang Spring 2025](https://www.worldcubeassociation.org/competitions/LuoyangSpring2025/results/all#epyram_f) | 5 |
 
 ### Rubik's Clock
 

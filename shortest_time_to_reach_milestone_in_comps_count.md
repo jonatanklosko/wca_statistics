@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 
 ### 300 Competitions
@@ -87,6 +87,7 @@
 | 660 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 764 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 883 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 926 | [Kyle Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 1065 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 1080 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
 | 1407 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
@@ -103,7 +104,6 @@
 | 2010 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 2038 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 2067 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
-| 2080 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 
 ### 50 Competitions
 

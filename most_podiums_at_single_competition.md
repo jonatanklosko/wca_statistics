@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -559,6 +559,7 @@
 | 10 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | [Gotirubik Fest 2016](https://www.worldcubeassociation.org/competitions/GotirubikFest2016/results/podiums) |
 | 13 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Gotland Open 2023](https://www.worldcubeassociation.org/competitions/GotlandOpen2023/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Gouverneur Quick & Quiet 2024](https://www.worldcubeassociation.org/competitions/GouverneurQuickQuiet2024/results/podiums) |
+| 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [Granollers Open 2025](https://www.worldcubeassociation.org/competitions/GranollersOpen2025/results/podiums) |
 | 10 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Great South Open 2016](https://www.worldcubeassociation.org/competitions/GreatSouthOpen2016/results/podiums) |
 | 11 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Greece Winter Open 2016](https://www.worldcubeassociation.org/competitions/GreeceWinterOpen2016/results/podiums) |
 | 11 | [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) | [Greek Nationals 2024](https://www.worldcubeassociation.org/competitions/GreekNationals2024/results/podiums) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -38,6 +38,7 @@
 | 405 | [Benton Tolley](https://www.worldcubeassociation.org/persons/2023TOLL02) |
 | 406 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 412 | [Andrei Solntsev](https://www.worldcubeassociation.org/persons/2018SOLN01) |
+| 413 | [Akito Koike](https://www.worldcubeassociation.org/persons/2024KOIK01) |
 | 426 | [Mikael Ribeiro do Nascimento](https://www.worldcubeassociation.org/persons/2024NASC01) |
 | 427 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 428 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
@@ -47,6 +48,7 @@
 | 442 | [Rodrigo Ángeles Montes de Oca](https://www.worldcubeassociation.org/persons/2023OCAR01) |
 | 447 | [Xiaoliang Zhu (朱校良)](https://www.worldcubeassociation.org/persons/2017ZHUX01) |
 | 448 | [Jáchym Střelec](https://www.worldcubeassociation.org/persons/2022STRE03) |
+| 456 | [Juan Miguel C. Manalo](https://www.worldcubeassociation.org/persons/2024MANA05) |
 | 475 | [Maxime Madrzyk](https://www.worldcubeassociation.org/persons/2018MADR02) |
 | 476 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) |
 | 476 | [Jorian Meeuse](https://www.worldcubeassociation.org/persons/2022MEEU02) |

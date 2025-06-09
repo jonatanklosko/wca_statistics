@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  4 June 2025*
+*Updated on  8 June 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -104,6 +104,7 @@
 | 4 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 4 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
+| 4 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 4 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |
 | 4 | [Jonah Crosby](https://www.worldcubeassociation.org/persons/2012CROS01) |
 | 4 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |

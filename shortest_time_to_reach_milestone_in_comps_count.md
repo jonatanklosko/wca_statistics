@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 
 ### 300 Competitions
@@ -9,6 +9,7 @@
 | ---: | :--- |
 | 4012 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 4963 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 5294 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 5539 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 
 ### 250 Competitions

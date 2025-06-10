@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -48,10 +48,10 @@
 | 23 | [Felix Christian Schmidt](https://www.worldcubeassociation.org/persons/2022SCHM01) |
 | 22 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) |
 | 22 | [Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01) |
+| 22 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) |
 | 22 | [Davide Arnesano](https://www.worldcubeassociation.org/persons/2018ARNE04) |
 | 21 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) |
 | 21 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
-| 21 | [Lim Chun Yik (林峻毅)](https://www.worldcubeassociation.org/persons/2018YIKL01) |
 
 ### 5x5x5 Blindfolded
 

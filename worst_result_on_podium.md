@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 10 June 2025*
+*Updated on 13 June 2025*
 
 
 ### Rubik's Cube
@@ -224,10 +224,10 @@
 | [Sam Sieracki](https://www.worldcubeassociation.org/persons/2017SIER01) | **43:27.00** | DNF | [WA State Championship 2021](https://www.worldcubeassociation.org/competitions/WAStateChampionship2021/results/podiums#e444bf) | 1 |
 | [Tomasz Tokarski](https://www.worldcubeassociation.org/persons/2012TOKA02) | **41:46.00** |  | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/podiums#e444bf) | 1 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **40:16.00** |  | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007/results/podiums#e444bf) | 1 |
+| [Wade Buhrman](https://www.worldcubeassociation.org/persons/2024BUHR02) | **40:03.00** | DNF | [Kansas Championship 2025](https://www.worldcubeassociation.org/competitions/KansasChampionship2025/results/podiums#e444bf) | 3 |
 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) | **39:58.00** |  | [Indian Open 2010](https://www.worldcubeassociation.org/competitions/IndianOpen2010/results/podiums#e444bf) | 1 |
 | [Saoud Abdulaziz Almutawa](https://www.worldcubeassociation.org/persons/2018ALMU03) | **39:50.00** | DNF | [Kuwaiti Nationals 2024](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2024/results/podiums#e444bf) | 3 |
 | [Teruki Miyazaki (宮崎輝樹)](https://www.worldcubeassociation.org/persons/2006MIYA01) | **38:58.00** |  | [Japan Open 2007](https://www.worldcubeassociation.org/competitions/JapanOpen2007/results/podiums#e444bf) | 1 |
-| [Gilberto Caracciolo Morelli](https://www.worldcubeassociation.org/persons/2008CARA01) | **36:44.00** |  | [São Paulo Open 2014](https://www.worldcubeassociation.org/competitions/SPOpen2014/results/podiums#e444bf) | 2 |
 
 ### 5x5x5 Blindfolded
 

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1051,6 +1051,7 @@
 | 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Rio Cubolympics 2024](https://www.worldcubeassociation.org/competitions/RioCubolympics2024/results/podiums) |
 | 12 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Rio Cubolympics 2025](https://www.worldcubeassociation.org/competitions/RioCubolympics2025/results/podiums) |
 | 10 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Rio Cubolympics 2025](https://www.worldcubeassociation.org/competitions/RioCubolympics2025/results/podiums) |
+| 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Risbjerg Juni 2025](https://www.worldcubeassociation.org/competitions/RisbjergJuni2025/results/podiums) |
 | 10 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | [Rocky Mountain Championship 2024](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2024/results/podiums) |
 | 10 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [Rocky Top 2017](https://www.worldcubeassociation.org/competitions/RockyTop2017/results/podiums) |
 | 11 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023/results/podiums) |
@@ -1151,6 +1152,7 @@
 | 10 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | [SoCal 2016](https://www.worldcubeassociation.org/competitions/SoCal2016/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
 | 10 | [Will Gurnett](https://www.worldcubeassociation.org/persons/2016GURN01) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
+| 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Solving in Sayre 2025](https://www.worldcubeassociation.org/competitions/SolvinginSayre2025/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Sommer uden Sol Lejre 2024](https://www.worldcubeassociation.org/competitions/SommerudenSolLejre2024/results/podiums) |
 | 16 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Sønderjysk Sommercubing 2022](https://www.worldcubeassociation.org/competitions/SonderjyskSommercubing2022/results/podiums) |
 | 10 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Sønderjysk Sommercubing 2022](https://www.worldcubeassociation.org/competitions/SonderjyskSommercubing2022/results/podiums) |
@@ -1343,6 +1345,7 @@
 | 10 | [Misael Alexander Mancuello Ayala](https://www.worldcubeassociation.org/persons/2021AYAL04) | [Verano on Asunción 2025](https://www.worldcubeassociation.org/competitions/VeranoonAsuncion2025/results/podiums) |
 | 10 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [VERK IV 2025](https://www.worldcubeassociation.org/competitions/VERKIV2025/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/podiums) |
+| 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025/results/podiums) |
 | 11 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Villa Carlos Paz Otoño 2019](https://www.worldcubeassociation.org/competitions/VillaCarlosPazOtono2019/results/podiums) |
 | 12 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Villanueva Open 2017](https://www.worldcubeassociation.org/competitions/VillanuevadelaCanadaOpen2017/results/podiums) |

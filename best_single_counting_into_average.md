@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 
 ### Rubik's Cube
@@ -128,6 +128,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 1.14 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023/results/by_person#2015KUCA01) |
+| 1.22 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/by_person#2022SAMS03) |
 | 1.30 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
 | 1.30 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [New Jersey Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyChampionship2024/results/by_person#2018KHAN28) |
 | 1.32 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | [Trains on Main La Grange 2024](https://www.worldcubeassociation.org/competitions/TrainsonMainLaGrange2024/results/by_person#2019REDI02) |
@@ -136,7 +137,6 @@
 | 1.38 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/by_person#2019REDI02) |
 | 1.39 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2013KRAS02) |
 | 1.39 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | [Yancheng Open 2025](https://www.worldcubeassociation.org/competitions/YanchengOpen2025/results/by_person#2021TANG03) |
-| 1.41 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Race the Clock Minnesota 2023](https://www.worldcubeassociation.org/competitions/RacetheClockMinnesota2023/results/by_person#2016KELL12) |
 
 ### Square-1
 

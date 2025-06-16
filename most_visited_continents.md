@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -171,6 +171,8 @@
 | 4 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) |
 | 4 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 4 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
+| 4 | [Henry Syn](https://www.worldcubeassociation.org/persons/2021SYNH01) |
+| 4 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 4 | [Thomas Pierroz](https://www.worldcubeassociation.org/persons/2021PIER01) |
 | 4 | [Achilles Standring](https://www.worldcubeassociation.org/persons/2022STAN14) |
 | 4 | [Joseph Liu (劉睿博)](https://www.worldcubeassociation.org/persons/2023LIUJ01) |

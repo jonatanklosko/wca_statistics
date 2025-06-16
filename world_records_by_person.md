@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -220,6 +220,7 @@
 | 1 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 1 | [Hideki Niina (新名秀樹)](https://www.worldcubeassociation.org/persons/2008NIIN01) |
 | 1 | [Hong Zhang (张宏)](https://www.worldcubeassociation.org/persons/2008ZHAN13) |
+| 1 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 1 | [Ishaan Agrawal](https://www.worldcubeassociation.org/persons/2015AGRA03) |
 | 1 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 1 | [Jackey Zheng](https://www.worldcubeassociation.org/persons/2017ZHEN10) |

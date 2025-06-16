@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -263,6 +263,7 @@
 | 1238 | [Madeline Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
 | 1238 | [Alex Butera](https://www.worldcubeassociation.org/persons/2021BUTE03) |
 | 1239 | [Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03) |
+| 1240 | [Auric Cui](https://www.worldcubeassociation.org/persons/2022CUIA01) |
 | 1245 | [Aaron Spiller](https://www.worldcubeassociation.org/persons/2018SPIL01) |
 | 1246 | [Sebastian Werb](https://www.worldcubeassociation.org/persons/2012WERB01) |
 | 1252 | [Jack Maddigan](https://www.worldcubeassociation.org/persons/2020MADD02) |
@@ -475,6 +476,7 @@
 | 2218 | [Aria Querubin](https://www.worldcubeassociation.org/persons/2017QUER02) |
 | 2219 | [Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01) |
 | 2219 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 2219 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) |
 | 2232 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
 | 2233 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) |
 | 2233 | [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01) |

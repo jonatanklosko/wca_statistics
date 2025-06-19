@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### Rubik's Cube
@@ -27,12 +27,12 @@
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 0.98 | **1.41** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e222_f) | 4 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.12 | **1.41** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 5 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.24 | **1.41** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e222_f) | 5 |
+| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.29 | **1.44** | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025/results/all#e222_f) | 4 |
 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 1.05 | **1.46** | [NoVa Cube Winter 2024](https://www.worldcubeassociation.org/competitions/NoVaCubeWinter2024/results/all#e222_f) | 4 |
 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) | 1.33 | **1.46** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e222_f) | 4 |
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1.25 | **1.47** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 6 |
 | [Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06) | 1.21 | **1.49** | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025/results/all#e222_f) | 4 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 1.39 | **1.51** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 7 |
-| [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 1.23 | **1.52** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e222_f) | 6 |
 
 ### 4x4x4 Cube
 

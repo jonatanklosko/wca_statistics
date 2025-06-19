@@ -1,121 +1,121 @@
 ## Competitions per year by country
 
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | Competitions per year | Competitions | Years | Country |
 | ---: | ---: | ---: | :--- |
-| 152.44 | 3262 | 21.40 | United States |
-| 37.32 | 661 | 17.71 | China |
-| 37.21 | 645 | 17.34 | India |
-| 32.06 | 562 | 17.53 | Brazil |
+| 152.65 | 3267 | 21.40 | United States |
+| 37.37 | 662 | 17.72 | China |
+| 37.20 | 645 | 17.34 | India |
+| 32.12 | 563 | 17.53 | Brazil |
 | 29.84 | 459 | 15.38 | Australia |
-| 29.45 | 414 | 14.06 | Colombia |
+| 29.58 | 416 | 14.06 | Colombia |
 | 26.38 | 521 | 19.75 | Poland |
-| 19.71 | 406 | 20.59 | Spain |
-| 19.25 | 343 | 17.82 | Philippines |
+| 19.81 | 408 | 20.60 | Spain |
+| 19.36 | 345 | 17.82 | Philippines |
 | 19.02 | 415 | 21.82 | Canada |
 | 16.41 | 232 | 14.14 | Peru |
-| 15.76 | 324 | 20.56 | Sweden |
+| 15.86 | 326 | 20.56 | Sweden |
 | 15.06 | 238 | 15.80 | Indonesia |
-| 14.93 | 316 | 21.17 | France |
+| 14.92 | 316 | 21.17 | France |
 | 14.69 | 273 | 18.58 | United Kingdom |
-| 13.89 | 251 | 18.06 | Italy |
-| 13.53 | 136 | 10.05 | Bolivia |
-| 12.72 | 207 | 16.28 | Russia |
-| 12.37 | 204 | 16.49 | Mexico |
-| 11.94 | 238 | 19.94 | Japan |
+| 13.89 | 251 | 18.07 | Italy |
+| 13.52 | 136 | 10.06 | Bolivia |
+| 12.71 | 207 | 16.28 | Russia |
+| 12.43 | 205 | 16.50 | Mexico |
+| 11.93 | 238 | 19.94 | Japan |
 | 11.67 | 201 | 17.22 | Denmark |
-| 11.58 | 245 | 21.15 | Germany |
-| 9.72 | 137 | 14.10 | Ukraine |
-| 9.47 | 115 | 12.14 | Turkey |
-| 9.00 | 146 | 16.22 | Chile |
+| 11.63 | 246 | 21.15 | Germany |
+| 9.79 | 138 | 14.10 | Ukraine |
+| 9.47 | 115 | 12.15 | Turkey |
+| 9.00 | 146 | 16.23 | Chile |
 | 8.74 | 161 | 18.43 | Finland |
 | 8.69 | 130 | 14.96 | Romania |
-| 8.61 | 137 | 15.92 | New Zealand |
+| 8.67 | 138 | 15.92 | New Zealand |
 | 8.31 | 138 | 16.61 | Switzerland |
-| 8.05 | 92 | 11.43 | South Africa |
-| 7.96 | 138 | 17.33 | Norway |
-| 7.78 | 147 | 18.90 | Chinese Taipei |
+| 8.04 | 92 | 11.44 | South Africa |
+| 7.96 | 138 | 17.34 | Norway |
+| 7.77 | 147 | 18.91 | Chinese Taipei |
 | 6.96 | 100 | 14.37 | Argentina |
-| 6.88 | 107 | 15.55 | Malaysia |
+| 6.88 | 107 | 15.56 | Malaysia |
 | 6.83 | 57 | 8.35 | Ecuador |
 | 6.83 | 80 | 11.72 | Venezuela |
-| 6.76 | 52 | 7.69 | Kazakhstan |
-| 5.82 | 113 | 19.40 | Republic of Korea |
+| 6.76 | 52 | 7.70 | Kazakhstan |
+| 5.82 | 113 | 19.41 | Republic of Korea |
 | 5.67 | 123 | 21.69 | Netherlands |
+| 5.54 | 74 | 13.35 | Ireland |
 | 5.52 | 59 | 10.69 | Uruguay |
-| 5.47 | 73 | 13.35 | Ireland |
 | 5.09 | 83 | 16.30 | Singapore |
 | 4.85 | 56 | 11.55 | Guatemala |
 | 4.76 | 91 | 19.12 | Belgium |
 | 4.74 | 78 | 16.44 | Thailand |
 | 4.44 | 44 | 9.92 | Azerbaijan |
-| 4.41 | 65 | 14.72 | Israel |
-| 4.05 | 13 | 3.21 | Sri Lanka |
-| 4.04 | 60 | 14.86 | Vietnam |
-| 4.04 | 63 | 15.61 | Estonia |
+| 4.41 | 65 | 14.73 | Israel |
+| 4.04 | 13 | 3.21 | Sri Lanka |
+| 4.04 | 60 | 14.87 | Vietnam |
+| 4.03 | 63 | 15.61 | Estonia |
 | 3.89 | 34 | 8.74 | Paraguay |
 | 3.66 | 43 | 11.74 | Mongolia |
-| 3.58 | 34 | 9.49 | El Salvador |
+| 3.58 | 34 | 9.50 | El Salvador |
 | 3.49 | 41 | 11.74 | Belarus |
 | 3.40 | 25 | 7.35 | Bulgaria |
-| 3.39 | 64 | 18.90 | Czech Republic |
-| 3.34 | 26 | 7.77 | Costa Rica |
+| 3.38 | 64 | 18.91 | Czech Republic |
+| 3.34 | 26 | 7.78 | Costa Rica |
 | 3.22 | 37 | 11.49 | Georgia |
 | 3.04 | 42 | 13.80 | Iran |
 | 2.98 | 38 | 12.74 | Latvia |
 | 2.93 | 48 | 16.38 | Slovakia |
 | 2.85 | 22 | 7.72 | Panama |
-| 2.74 | 21 | 7.68 | Uzbekistan |
-| 2.39 | 18 | 7.52 | Honduras |
+| 2.73 | 21 | 7.68 | Uzbekistan |
+| 2.39 | 18 | 7.53 | Honduras |
 | 2.38 | 36 | 15.15 | Greece |
 | 2.38 | 36 | 15.15 | Slovenia |
 | 2.36 | 5 | 2.12 | Angola |
 | 2.34 | 27 | 11.53 | Dominican Republic |
 | 2.34 | 28 | 11.97 | Lithuania |
-| 2.34 | 22 | 9.42 | Nepal |
+| 2.33 | 22 | 9.42 | Nepal |
 | 2.29 | 24 | 10.49 | Tunisia |
 | 2.28 | 31 | 13.58 | Croatia |
 | 2.27 | 17 | 7.49 | Bangladesh |
 | 2.18 | 14 | 6.43 | Kenya |
-| 2.15 | 32 | 14.88 | Austria |
+| 2.15 | 32 | 14.89 | Austria |
 | 1.99 | 33 | 16.55 | Portugal |
 | 1.83 | 24 | 13.10 | Serbia |
-| 1.68 | 13 | 7.73 | Cyprus |
-| 1.49 | 11 | 7.36 | Armenia |
-| 1.42 | 24 | 16.89 | Hong Kong, China |
+| 1.68 | 13 | 7.74 | Cyprus |
+| 1.49 | 11 | 7.37 | Armenia |
+| 1.42 | 24 | 16.90 | Hong Kong, China |
 | 1.39 | 11 | 7.93 | Kuwait |
-| 1.33 | 3 | 2.25 | Belize |
+| 1.33 | 3 | 2.26 | Belize |
 | 1.32 | 57 | 43.04 | Hungary |
 | 1.29 | 17 | 13.22 | Jordan |
-| 1.26 | 15 | 11.95 | Multiple Countries (Europe) |
-| 1.23 | 16 | 13.02 | Iceland |
+| 1.25 | 15 | 11.95 | Multiple Countries (Europe) |
+| 1.23 | 16 | 13.03 | Iceland |
 | 1.20 | 9 | 7.48 | Kyrgyzstan |
 | 1.19 | 9 | 7.58 | Bahrain |
-| 1.17 | 19 | 16.23 | United Arab Emirates |
+| 1.17 | 19 | 16.24 | United Arab Emirates |
 | 1.15 | 7 | 6.07 | Nigeria |
 | 1.13 | 10 | 8.83 | Algeria |
 | 1.01 | 13 | 12.89 | Bosnia and Herzegovina |
 | 1.01 | 6 | 5.95 | Palestine |
 | 1.00 | 6 | 5.99 | Egypt |
-| 0.97 | 8 | 8.29 | Morocco |
+| 0.96 | 8 | 8.29 | Morocco |
 | 0.84 | 8 | 9.56 | Multiple Countries (Asia) |
-| 0.76 | 5 | 6.58 | North Macedonia |
+| 0.76 | 5 | 6.59 | North Macedonia |
 | 0.75 | 6 | 8.04 | Montenegro |
 | 0.68 | 6 | 8.81 | San Marino |
 | 0.67 | 5 | 7.45 | Mauritius |
-| 0.65 | 5 | 7.67 | Multiple Countries (Americas) |
+| 0.67 | 4 | 6.01 | Multiple Countries (World) |
+| 0.65 | 5 | 7.68 | Multiple Countries (Americas) |
 | 0.65 | 7 | 10.80 | Andorra |
-| 0.53 | 3 | 5.62 | Cambodia |
+| 0.53 | 3 | 5.63 | Cambodia |
 | 0.52 | 3 | 5.78 | Multiple Countries (North America) |
 | 0.50 | 5 | 9.90 | Moldova |
-| 0.50 | 3 | 6.01 | Multiple Countries (World) |
 | 0.48 | 3 | 6.20 | Ghana |
 | 0.46 | 3 | 6.58 | Kosovo |
-| 0.45 | 3 | 6.60 | Luxembourg |
-| 0.44 | 1 | 2.27 | Oman |
-| 0.44 | 3 | 6.84 | Tajikistan |
-| 0.44 | 3 | 6.85 | Pakistan |
+| 0.45 | 3 | 6.61 | Luxembourg |
+| 0.44 | 1 | 2.28 | Oman |
+| 0.44 | 3 | 6.85 | Tajikistan |
+| 0.44 | 3 | 6.86 | Pakistan |
 | 0.43 | 4 | 9.38 | Multiple Countries (South America) |
 | 0.42 | 3 | 7.18 | Albania |
 | 0.40 | 3 | 7.43 | Liechtenstein |

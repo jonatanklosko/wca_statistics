@@ -1,19 +1,19 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **578** | 366 | 247 | 1191 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 204 | 125 | 663 |
-| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **304** | 63 | 30 | 397 |
+| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **305** | 65 | 30 | 400 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **272** | 147 | 99 | 518 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **240** | 185 | 140 | 565 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **211** | 65 | 34 | 310 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **206** | 62 | 21 | 289 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **194** | 25 | 10 | 229 |
-| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **174** | 185 | 99 | 458 |
+| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **178** | 187 | 103 | 468 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **171** | 69 | 38 | 278 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **157** | 96 | 47 | 300 |
@@ -87,7 +87,7 @@
 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | **46** | 28 | 33 | 107 |
 | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) | **46** | 19 | 14 | 79 |
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | **45** | 38 | 27 | 110 |
-| [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) | **45** | 25 | 24 | 94 |
+| [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) | **45** | 26 | 24 | 95 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | **44** | 72 | 46 | 162 |
 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) | **44** | 27 | 18 | 89 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **43** | 50 | 46 | 139 |

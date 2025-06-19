@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### Rubik's Cube
@@ -164,8 +164,8 @@
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 26 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | 26 |
 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) | 23 |
-| [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | 22 |
 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) | 21 |
+| [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | 21 |
 | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) | 20 |
 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) | 19 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 19 |
@@ -243,16 +243,16 @@
 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 21 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 19 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | 16 |
+| [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 16 |
 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 15 |
-| [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 15 |
 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) | 13 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 13 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 12 |
 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 12 |
-| [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 12 |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 12 |
 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) | 11 |
 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | 11 |
+| [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 11 |
 
 ### Pyraminx
 
@@ -335,10 +335,10 @@
 | :--- | ---: |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 33 |
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | 27 |
+| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 27 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 26 |
-| [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 26 |
-| [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 24 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 23 |
+| [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 23 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 23 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | 21 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 19 |
@@ -358,14 +358,14 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 60 |
+| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 61 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 36 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 31 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 17 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 16 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 16 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 16 |
-| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 16 |
+| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 15 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 14 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 14 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 14 |
@@ -383,7 +383,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 46 |
+| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 47 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 31 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 28 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 28 |
@@ -409,14 +409,14 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 38 |
-| [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | 36 |
+| [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | 35 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 33 |
 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 33 |
 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | 25 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 24 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 22 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 21 |
-| [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 18 |
+| [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 19 |
 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 17 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 17 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | 14 |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -180,6 +180,7 @@
 | 8 | [Sides Bahia - June's Vie 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaJunesVie2023) |
 | 8 | [Sides Cubata 2025](https://www.worldcubeassociation.org/competitions/SidesCubata2025) |
 | 8 | [Silentia 1 - FMC 2023](https://www.worldcubeassociation.org/competitions/Silentia1FMC2023) |
+| 8 | [Spokane Spring PBQ 2025](https://www.worldcubeassociation.org/competitions/SpokaneSpringPBQ2025) |
 | 8 | [Spooky Mini-sota 2024](https://www.worldcubeassociation.org/competitions/SpookyMinisota2024) |
 | 8 | [Thunder Bay 2019](https://www.worldcubeassociation.org/competitions/SuperiorCubingThunderBay2019) |
 | 8 | [Suur-Kloostri Side Events 2024](https://www.worldcubeassociation.org/competitions/SuurKloostriSideEvents2024) |
@@ -299,6 +300,7 @@
 | 10 | [Fewest Moves Bogotá III 2025](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaIII2025) |
 | 10 | [First Friday First FMC Täby 2024](https://www.worldcubeassociation.org/competitions/FirstFridayFirstFMCTaby2024) |
 | 10 | [Fitchburg FMC 2023](https://www.worldcubeassociation.org/competitions/FitchburgFMC2023) |
+| 10 | [FMC Colombia VI 2025](https://www.worldcubeassociation.org/competitions/FMCColombiaVI2025) |
 | 10 | [FMC Ukrainian Nationals 2024](https://www.worldcubeassociation.org/competitions/FMCUkrainianNationals2024) |
 | 10 | [FMC WPI 2024](https://www.worldcubeassociation.org/competitions/FMCWPI2024) |
 | 10 | [FMC Ya Dublin OH 2024](https://www.worldcubeassociation.org/competitions/FMCYaDublinOH2024) |
@@ -817,6 +819,7 @@
 | 15 | [Mineirim Open Spring 2018](https://www.worldcubeassociation.org/competitions/MineirimOpenSpring2018) |
 | 15 | [Minx Open AM 2022](https://www.worldcubeassociation.org/competitions/MinxOpenAM2022) |
 | 15 | [New Rochelle at Nite 4 2024](https://www.worldcubeassociation.org/competitions/NewRochelleatNite42024) |
+| 15 | [New York Multimate PBQ II 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQII2025) |
 | 15 | [No 3x3x3 Diliman 2018](https://www.worldcubeassociation.org/competitions/No3x3x3Diliman2018) |
 | 15 | [OH Alright Mini-sota 2025](https://www.worldcubeassociation.org/competitions/OHAlrightMinisota2025) |
 | 15 | [Ohio State Duos VI 2025](https://www.worldcubeassociation.org/competitions/OhioStateDuosVI2025) |

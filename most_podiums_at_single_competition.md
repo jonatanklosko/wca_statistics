@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -172,6 +172,7 @@
 | 12 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/podiums) |
 | 10 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/podiums) |
 | 10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Berlin Open 2013](https://www.worldcubeassociation.org/competitions/BerlinOpen2013/results/podiums) |
+| 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Berlin Summer Open 2025](https://www.worldcubeassociation.org/competitions/BerlinSummerOpen2025/results/podiums) |
 | 13 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Big and Blind Queenstown 2025](https://www.worldcubeassociation.org/competitions/BigandBlindQueenstown2025/results/podiums) |
 | 10 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | [Big and Blind Queenstown 2025](https://www.worldcubeassociation.org/competitions/BigandBlindQueenstown2025/results/podiums) |
 | 12 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Big Cubes in Stafsinge 2024](https://www.worldcubeassociation.org/competitions/BigCubesinStafsinge2024/results/podiums) |
@@ -1300,6 +1301,7 @@
 | 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2024](https://www.worldcubeassociation.org/competitions/UkrainianNationals2024/results/podiums) |
 | 11 | [Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01) | [Ukrainian Open 2015](https://www.worldcubeassociation.org/competitions/UkrainianOpen2015/results/podiums) |
 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Open 2023](https://www.worldcubeassociation.org/competitions/UkrainianOpen2023/results/podiums) |
+| 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Open 2025](https://www.worldcubeassociation.org/competitions/UkrainianOpen2025/results/podiums) |
 | 14 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | [ULA Rubiks 2014](https://www.worldcubeassociation.org/competitions/ULARubiks2014/results/podiums) |
 | 10 | [Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01) | [ULA Rubiks 2014](https://www.worldcubeassociation.org/competitions/ULARubiks2014/results/podiums) |
 | 14 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [UNESP Open 2009](https://www.worldcubeassociation.org/competitions/UNESPOpen2009/results/podiums) |

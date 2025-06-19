@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -165,6 +165,7 @@
 | 839 | [Oana-Simona Vrabie](https://www.worldcubeassociation.org/persons/2022VRAB01) |
 | 840 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 | 847 | [Alessio Pandin](https://www.worldcubeassociation.org/persons/2021PAND01) |
+| 853 | [Jude Fleming](https://www.worldcubeassociation.org/persons/2023FLEM01) |
 | 855 | [Matěj Mužátko](https://www.worldcubeassociation.org/persons/2013MUAT01) |
 | 861 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 868 | [Brayden Thompson](https://www.worldcubeassociation.org/persons/2022THOM14) |
@@ -577,6 +578,7 @@
 | 2913 | [Liam Highducheck](https://www.worldcubeassociation.org/persons/2015HIGH01) |
 | 2925 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2962 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
+| 2967 | [Daniel Hicklin](https://www.worldcubeassociation.org/persons/2017HICK04) |
 | 2975 | [Mihail Petrochenkov](https://www.worldcubeassociation.org/persons/2017PETR02) |
 | 2982 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 2982 | [Damian Wilding](https://www.worldcubeassociation.org/persons/2014WILD03) |
@@ -669,6 +671,7 @@
 | 4430 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) |
 | 4446 | [Austin Reed](https://www.worldcubeassociation.org/persons/2011REED01) |
 | 4583 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
+| 4682 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) |
 | 4711 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) |
 | 4739 | [Ole Nikolai Gjerset](https://www.worldcubeassociation.org/persons/2011GJER02) |
 | 4767 | [Zachary McWilliams](https://www.worldcubeassociation.org/persons/2009MCWI01) |

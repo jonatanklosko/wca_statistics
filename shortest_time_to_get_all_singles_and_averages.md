@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -85,6 +85,7 @@
 | 2736 | [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01) |
 | 2737 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 2744 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 2784 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) |
 | 2799 | [Yonghao Xu (徐永浩)](https://www.worldcubeassociation.org/persons/2017XUYO01) |
 | 2800 | [David McLean](https://www.worldcubeassociation.org/persons/2017MCLE03) |
 | 2821 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
@@ -116,6 +117,7 @@
 | 3681 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 3682 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 3703 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
+| 3703 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 3760 | [Luis Gabriel Magadia](https://www.worldcubeassociation.org/persons/2014MAGA04) |
 | 3850 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 3878 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |

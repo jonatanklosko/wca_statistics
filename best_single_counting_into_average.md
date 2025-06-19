@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### Rubik's Cube
@@ -112,16 +112,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 2.08 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Milford Winter Warm Up 2025](https://www.worldcubeassociation.org/competitions/MilfordWinterWarmUp2025/results/by_person#2022GIBS04) |
 | 2.14 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Auckland Autumn 2025](https://www.worldcubeassociation.org/competitions/AucklandAutumn2025/results/by_person#2022GIBS04) |
 | 2.18 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Moorhead Madness 2025](https://www.worldcubeassociation.org/competitions/MoorheadMadness2025/results/by_person#2022KAPU01) |
+| 2.21 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Milford Winter Warm Up 2025](https://www.worldcubeassociation.org/competitions/MilfordWinterWarmUp2025/results/by_person#2022GIBS04) |
 | 2.22 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Puzzling Papatoetoe 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPapatoetoe2025/results/by_person#2022GIBS04) |
 | 2.26 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [NZ Cubing Decathlon 2024](https://www.worldcubeassociation.org/competitions/NZCubingDecathlon2024/results/by_person#2022GIBS04) |
 | 2.26 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Puzzling Papatoetoe 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPapatoetoe2025/results/by_person#2022GIBS04) |
 | 2.28 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Puzzling Papatoetoe 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPapatoetoe2025/results/by_person#2022GIBS04) |
 | 2.29 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Grand Forks 2024](https://www.worldcubeassociation.org/competitions/GrandForks2024/results/by_person#2022KAPU01) |
 | 2.29 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Minnesota Championship 2024](https://www.worldcubeassociation.org/competitions/MinnesotaChampionship2024/results/by_person#2022KAPU01) |
-| 2.30 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025/results/by_person#2022GIBS04) |
-| 2.31 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Grand Forks 2024](https://www.worldcubeassociation.org/competitions/GrandForks2024/results/by_person#2022KAPU01) |
 
 ### Skewb
 
@@ -142,6 +142,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 3.76 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025/results/by_person#2018KHAN26) |
 | 3.81 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Cubing in Southern Oregon 2025](https://www.worldcubeassociation.org/competitions/CubinginSouthernOregon2025/results/by_person#2017AGGA01) |
 | 3.88 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Cubing in Southern Oregon 2025](https://www.worldcubeassociation.org/competitions/CubinginSouthernOregon2025/results/by_person#2017AGGA01) |
 | 4.16 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Aldergrove Clock Fest 2025](https://www.worldcubeassociation.org/competitions/AldergroveClockFest2025/results/by_person#2017AGGA01) |
@@ -151,7 +152,6 @@
 | 4.28 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN26) |
 | 4.29 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Front Royal Spring 2025](https://www.worldcubeassociation.org/competitions/FrontRoyalSpring2025/results/by_person#2018KHAN26) |
 | 4.33 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
-| 4.34 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Cubing in Southern Oregon 2025](https://www.worldcubeassociation.org/competitions/CubinginSouthernOregon2025/results/by_person#2017AGGA01) |
 
 ### 3x3x3 With Feet
 

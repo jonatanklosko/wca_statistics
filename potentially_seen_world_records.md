@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -44,10 +44,10 @@
 | 93 | [Adam Zamora](https://www.worldcubeassociation.org/persons/2004ZAMO01) |
 | 93 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) |
 | 93 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 91 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 90 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
 | 90 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |
 | 90 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) |
-| 89 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 89 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
 | 88 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
 | 88 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |
@@ -71,13 +71,13 @@
 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 78 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 77 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 76 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 76 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 76 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 76 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
-| 75 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
 | 74 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |

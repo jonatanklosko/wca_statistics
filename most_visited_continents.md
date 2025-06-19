@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -160,6 +160,7 @@
 | 4 | [Mohammad Almoumen](https://www.worldcubeassociation.org/persons/2017ALMO03) |
 | 4 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
 | 4 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
+| 4 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 4 | [John Cook](https://www.worldcubeassociation.org/persons/2018COOK04) |
 | 4 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 4 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### Rubik's Cube
@@ -149,7 +149,7 @@
 | 26.12 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 25.69, 26.87, 25.21, DNF, 25.79 |
 | 26.63 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 27.05, 27.13, 29.81, 25.71, 25.28 |
 | 27.51 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 27.78, 27.73, 30.00, 26.93, 27.03 |
-| 28.31 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 29.82, 28.13, 28.57, 28.23, 27.90 |
+| 27.85 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 28.60, 29.78, 26.80, 28.14, 26.00 |
 | 28.34 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 28.96, 27.49, 28.58, 33.70, 25.47 |
 | 28.48 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 27.49, 27.76, 29.69, 34.48, 27.99 |
 | 29.05 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 32.79, 28.06, 25.53, 27.27, 31.83 |
@@ -218,7 +218,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:02.10 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 1:04.15, 1:00.99, DNF, 1:01.17, 58.86 |
+| 1:01.12 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 1:06.33, 1:00.75, 57.83, 1:04.79, 55.54 |
 | 1:20.08 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 1:19.22, 1:19.07, 1:21.94, DNF, 1:11.34 |
 | 1:27.00 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | DNF, 1:32.68, 1:25.81, 1:21.42, 1:22.50 |
 | 1:27.76 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | DNF, 1:20.63, 1:25.93, 1:33.68, 1:23.66 |

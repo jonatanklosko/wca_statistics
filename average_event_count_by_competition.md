@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -39,8 +39,8 @@
 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | 9.47 | 15 | Ireland |
 | [Autotalo Anime Adventure VI 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureVI2024) | 9.46 | 24 | Finland |
 | [Twixmas Flen 2024](https://www.worldcubeassociation.org/competitions/TwixmasFlen2024) | 9.39 | 57 | Sweden |
-| [Lyon Winter Open 2012](https://www.worldcubeassociation.org/competitions/LyonWinterOpen2012) | 9.36 | 25 | France |
 | [GA Cubers Mashed Potatoes 2022](https://www.worldcubeassociation.org/competitions/GACubersMashedPotatoes2022) | 9.36 | 25 | United States |
+| [Lyon Winter Open 2012](https://www.worldcubeassociation.org/competitions/LyonWinterOpen2012) | 9.36 | 25 | France |
 | [Solving in Sayre 2025](https://www.worldcubeassociation.org/competitions/SolvinginSayre2025) | 9.33 | 3 | United States |
 | [Kārķi Open 2024](https://www.worldcubeassociation.org/competitions/KarkiOpen2024) | 9.31 | 32 | Latvia |
 | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023) | 9.31 | 74 | Poland |
@@ -63,9 +63,9 @@
 | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019) | 9.07 | 15 | Finland |
 | [Poções 2019](https://www.worldcubeassociation.org/competitions/Pocoes2019) | 9.06 | 18 | Brazil |
 | [Southern Indiana Qualifier 2025](https://www.worldcubeassociation.org/competitions/SouthernIndianaQualifier2025) | 9.04 | 53 | United States |
+| [Sint Michielsgestel 2019](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2019) | 9.00 | 45 | Netherlands |
 | [NZ South Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2025) | 9.00 | 34 | New Zealand |
 | [Bulacan Open 2010](https://www.worldcubeassociation.org/competitions/BulacanOpen2010) | 9.00 | 16 | Philippines |
-| [Sint Michielsgestel 2019](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2019) | 9.00 | 45 | Netherlands |
 | [Danish Open 2014](https://www.worldcubeassociation.org/competitions/DanishOpen2014) | 8.97 | 36 | Denmark |
 | [Heartland Championship 2019](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2019) | 8.96 | 93 | United States |
 | [Maribor Open 2014](https://www.worldcubeassociation.org/competitions/MariborOpen2014) | 8.95 | 20 | Slovenia |

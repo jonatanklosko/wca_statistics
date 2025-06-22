@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 June 2025*
+*Updated on 22 June 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -259,6 +259,7 @@
 | 9 | [Saratoga Silent Springs 2024](https://www.worldcubeassociation.org/competitions/SaratogaSilentSprings2024) |
 | 9 | [Saturday Big Blind Israel 2024](https://www.worldcubeassociation.org/competitions/SaturdayBigBlindIsrael2024) |
 | 9 | [Savoie Mental Breakdown 2019](https://www.worldcubeassociation.org/competitions/SavoieMentalBreakdown2019) |
+| 9 | [Serbian FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SerbianFMCChampionship2025) |
 | 9 | [Supermiya PBQ in Tashkent 2024](https://www.worldcubeassociation.org/competitions/SupermiyaPBQinTashkent2024) |
 | 9 | [TKTK Side Events II 2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsII2024) |
 | 9 | [Try Not To DNF Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryNotToDNFRzeszow2023) |
@@ -700,6 +701,7 @@
 | 14 | [Kinda Maybe Mini-sota 2025](https://www.worldcubeassociation.org/competitions/KindaMaybeMinisota2025) |
 | 14 | [KoprCube Blind 2025](https://www.worldcubeassociation.org/competitions/KoprCubeBlind2025) |
 | 14 | [Lex Mini II 2024](https://www.worldcubeassociation.org/competitions/LexMiniII2024) |
+| 14 | [Lubec Cubec 2025](https://www.worldcubeassociation.org/competitions/LubecCubec2025) |
 | 14 | [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019) |
 | 14 | [Michigan Mini FMC 2023](https://www.worldcubeassociation.org/competitions/MichiganMiniFMC2023) |
 | 14 | [Mini Mental Breakdown SD 2022](https://www.worldcubeassociation.org/competitions/MiniMentalBreakdownSanDiego2022) |
@@ -769,6 +771,7 @@
 | 15 | [Cambridge Fall Challenge 2022](https://www.worldcubeassociation.org/competitions/CambridgeFallChallenge2022) |
 | 15 | [Cambridge Spring Challenge 2023](https://www.worldcubeassociation.org/competitions/CambridgeSpringChallenge2023) |
 | 15 | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017) |
+| 15 | [Campobello Favorites 2025](https://www.worldcubeassociation.org/competitions/CampobelloFavorites2025) |
 | 15 | [Chambea en Tu PB Lima 2025](https://www.worldcubeassociation.org/competitions/ChambeaenTuPBLima2025) |
 | 15 | [Chennai Beach House Open 2025](https://www.worldcubeassociation.org/competitions/ChennaiBeachHouseOpen2025) |
 | 15 | [China FM Xi'an 2011](https://www.worldcubeassociation.org/competitions/ChinaFMXian2011) |

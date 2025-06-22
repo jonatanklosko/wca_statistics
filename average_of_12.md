@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 June 2025*
+*Updated on 22 June 2025*
 
 
 ### Rubik's Cube
@@ -76,8 +76,8 @@
 | 1:15.66 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:20.04, 1:18.86, 1:15.64, 1:09.04, 1:20.62, 1:16.90, 1:11.96, 1:13.14, 1:08.59, 1:30.01, 1:14.87, 1:15.50 |
 | 1:16.36 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:16.67, 1:22.01, 1:15.74, 1:13.50, 1:19.91, 1:15.51, 1:16.27, 1:15.39, 1:16.90, 1:13.14, 1:12.01, 1:20.53 |
 | 1:16.67 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:16.87, 1:14.88, 1:20.52, 1:10.42, 1:18.54, 1:14.19, 1:16.45, 1:21.14, 1:22.33, 1:19.46, 1:09.36, 1:14.22 |
+| 1:16.69 | [Omar Ellabban](https://www.worldcubeassociation.org/persons/2018ELLA01) | 1:17.18, 1:17.79, 1:19.72, 1:17.89, 1:11.53, 1:28.53, 1:09.80, 1:19.80, 1:09.32, 1:20.74, 1:13.97, 1:18.51 |
 | 1:17.13 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:26.83, 1:30.24, 1:23.02, 1:19.70, 1:15.13, 1:08.40, 1:16.72, 1:17.08, 1:10.44, 1:16.16, 1:10.38, 1:15.88 |
-| 1:17.39 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:12.61, 1:13.63, 1:18.89, 1:19.01, 1:29.02, 1:12.66, 1:12.75, DNF, 1:16.01, 1:13.80, 1:15.50, 1:22.59 |
 
 ### 7x7x7 Cube
 
@@ -163,11 +163,11 @@
 | 1.50 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.52, 1.24, 1.41, 2.33, 1.73, 1.43, 1.64, 1.60, 1.82, 1.08, 1.18, 1.40 |
 | 1.56 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.62, 1.69, 1.67, 1.32, 1.70, 1.73, 1.29, 1.63, 1.35, 14.94, 1.53, 1.37 |
 | 1.58 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.52, 1.39, 1.47, 2.02, 1.34, 1.45, 3.97, 1.87, 2.06, 1.34, 1.28, 1.32 |
+| 1.61 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | 1.51, 1.76, 1.22, 1.47, 1.73, 1.64, 1.45, 1.59, 1.70, 1.70, DNF, 1.57 |
 | 1.69 | [Hewson Kang Poh Jun](https://www.worldcubeassociation.org/persons/2022JUNH02) | 1.09, 1.86, 2.28, 1.16, 1.39, 1.50, 2.24, 1.89, 1.45, 1.78, DNF, 1.37 |
 | 1.70 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 1.75, 1.36, 2.01, 1.56, 1.80, 4.58, 1.37, 1.55, 1.83, 2.17, 1.40, 1.58 |
 | 1.71 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.76, 1.69, 1.26, 1.69, 1.44, 1.99, 4.46, 1.65, 1.63, 1.70, 1.74, 1.82 |
 | 1.72 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | 1.60, 1.56, 1.83, 1.92, 1.90, 1.78, 1.24, 1.56, 2.46, 1.55, 1.24, 2.28 |
-| 1.73 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) | 2.26, 1.77, 1.92, 1.58, 2.10, 1.30, 1.62, 2.36, 1.77, 1.42, 1.23, 1.59 |
 
 ### Rubik's Clock
 

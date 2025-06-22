@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 June 2025*
+*Updated on 22 June 2025*
 
 
 ### Rubik's Cube
@@ -75,9 +75,9 @@
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 9 |
 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 9 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 8 |
+| [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 8 |
 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) | 7 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 7 |
-| [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 7 |
 
 ### 5x5x5 Cube
 
@@ -221,8 +221,8 @@
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 13 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | 11 |
 | [Justin Mallari](https://www.worldcubeassociation.org/persons/2010MALL01) | 11 |
+| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 11 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | 10 |
-| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 10 |
 | [Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01) | 9 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 9 |
 | [Dan Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA03) | 9 |

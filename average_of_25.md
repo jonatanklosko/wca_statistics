@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 June 2025*
+*Updated on 22 June 2025*
 
 
 ### Rubik's Cube
@@ -163,8 +163,8 @@
 | 1.65 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.28, 2.82, 1.49, 1.34, 1.81, 1.29, 2.11, 2.17, 1.19, 3.94, 1.88, 1.95, 1.58, 1.88, 1.52, 1.24, 1.41, 2.33, 1.73, 1.43, 1.64, 1.60, 1.82, 1.08, 1.18 |
 | 1.67 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.28, 1.45, 1.72, 2.45, 1.82, 1.74, 1.65, 1.81, 1.96, 1.97, 2.03, 1.67, 1.79, 1.63, 1.47, 1.85, 1.90, 1.81, 1.32, 1.61, 1.53, 1.42, 1.39, 1.57, 1.41 |
 | 1.69 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 1.44, 1.99, 1.42, 1.57, 1.31, 1.86, 2.80, 1.45, 1.31, 1.05, 1.34, 5.23, 2.24, 1.08, 2.19, 3.26, 1.47, 1.46, 1.83, 1.44, 2.20, 1.44, 1.46, 1.99, 1.31 |
+| 1.70 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | 1.81, 1.73, 1.94, 1.51, 1.77, 1.83, 1.56, 1.19, 1.37, 2.08, 2.31, 2.64, 1.51, 1.76, 1.22, 1.47, 1.73, 1.64, 1.45, 1.59, 1.70, 1.70, DNF, 1.57, 1.67 |
 | 1.76 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.38, 1.48, DNF, 1.76, 1.69, 1.26, 1.69, 1.44, 1.99, 4.46, 1.65, 1.63, 1.70, 1.74, 1.82, 3.20, 1.22, 2.48, 1.74, 1.97, 1.71, 1.66, 1.43, 1.43, 1.35 |
-| 1.78 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | 1.67, 2.15, 1.41, 1.69, 1.52, 1.91, 1.51, 1.40, 2.23, 1.85, 2.24, 1.82, 1.44, 1.95, 1.56, 1.86, 3.26, 1.36, 1.93, 1.83, 2.36, 3.16, 1.26, 1.61, 1.26 |
 | 1.81 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | 1.56, 1.83, 1.92, 1.90, 1.78, 1.24, 1.56, 2.46, 1.55, 1.24, 2.28, 2.76, 1.65, 1.57, 1.65, 2.42, 1.99, 2.09, 2.87, 1.72, 1.47, 1.49, 1.94, 1.86, 1.39 |
 | 1.87 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.67, 1.58, 2.49, 1.45, 1.62, 2.22, 1.34, 2.94, 1.46, 2.59, 1.23, 1.34, 2.19, 2.66, 2.36, 2.12, 1.94, 1.84, 2.35, 1.53, 1.25, 1.50, 1.55, 1.93, 2.21 |
 | 1.87 | [Hewson Kang Poh Jun](https://www.worldcubeassociation.org/persons/2022JUNH02) | 1.94, 1.49, 1.61, 1.79, 1.54, 1.40, 1.94, 3.04, 3.52, 2.00, 2.00, 1.09, 1.86, 2.28, 1.16, 1.39, 1.50, 2.24, 1.89, 1.45, 1.78, DNF, 1.37, DNF, 1.22 |

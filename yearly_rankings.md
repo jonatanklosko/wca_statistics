@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 June 2025*
+*Updated on 22 June 2025*
 
 
 ### Rubik's Cube - Single
@@ -253,11 +253,11 @@
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **6.49** |  | [Kublördag Västerås VIII - 2025](https://www.worldcubeassociation.org/competitions/KublordagVasterasVIII2025) | 9.77, 6.49, 11.76, 10.02, 10.44 |
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **6.49** |  | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025) | 8.51, 8.66, 7.66, 7.68, 6.49 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **6.78** |  | [Chengdu Spring Open 2025](https://www.worldcubeassociation.org/competitions/ChengduSpringOpen2025) | 9.14, 6.78, 9.27, 8.81, 8.16 |
+| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **6.80** |  | [Cluj Cubing Sports Festival 2025](https://www.worldcubeassociation.org/competitions/ClujCubingSportsFestival2025) | 10.24, 10.08, 11.18, 6.80, 8.89 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **6.82** |  | [Chicagoland Newcomers 2025](https://www.worldcubeassociation.org/competitions/ChicagolandNewcomers2025) | 8.57, 7.13, 6.82, 7.45, 12.80 |
 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | **6.83** |  | [Entre Ríos Cubea 2025](https://www.worldcubeassociation.org/competitions/EntreRiosCubea2025) | 9.27, 11.32, 11.15, 9.39, 6.83 |
 | [Pranav Gadge](https://www.worldcubeassociation.org/persons/2017GADG01) | **6.83** |  | [Korum Cube Challenge 2025](https://www.worldcubeassociation.org/competitions/KorumCubeChallenge2025) | 8.80, 10.79, 6.83, 7.94, 12.58 |
 | [Jack Larsson Backsell](https://www.worldcubeassociation.org/persons/2021BACK01) | **6.90** |  | [Swedish Championship 2025](https://www.worldcubeassociation.org/competitions/SwedishChampionship2025) | 15.13, 11.67, 12.16, 12.61, 6.90 |
-| [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | **6.96** |  | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025) | 6.96, 10.24, 10.39, 9.25, 8.87 |
 
 ### 3x3x3 One-Handed - Average
 
@@ -329,8 +329,8 @@
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | **1.42** |  | [Cubing with the Cougars WV 2025](https://www.worldcubeassociation.org/competitions/CubingwiththeCougarsWV2025) | 1.36, 1.14, 2.28, 1.52, 1.39 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **1.53** |  | [Ivanka pri Dunaji Open 2025](https://www.worldcubeassociation.org/competitions/IvankapriDunajiOpen2025) | 1.66, 1.47, 1.47, 4.36, 1.23 |
 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) | **1.55** |  | [Pickering Favourites Spring 2025](https://www.worldcubeassociation.org/competitions/PickeringFavouritesSpring2025) | 1.55, 1.34, 1.73, 3.21, 1.36 |
+| [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | **1.57** |  | [Santpedor Open 2025](https://www.worldcubeassociation.org/competitions/SantpedorOpen2025) | 1.51, 1.76, 1.22, 1.47, 1.73 |
 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | **1.59** |  | [North Carolina Championship 2025](https://www.worldcubeassociation.org/competitions/NorthCarolinaChampionship2025) | 1.41, 1.32, 1.61, 3.21, 1.74 |
-| [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | **1.63** |  | [Tafalla Open 2025](https://www.worldcubeassociation.org/competitions/TafallaOpen2025) | 1.57, 1.86, 1.51, 1.81, 1.41 |
 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) | **1.65** |  | [DFW Cubing Spring 2025](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2025) | 3.05, 1.66, 1.64, 1.49, 1.66 |
 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | **1.65** |  | [Milford Winter Warm Up 2025](https://www.worldcubeassociation.org/competitions/MilfordWinterWarmUp2025) | 1.55, 1.83, 2.17, 1.40, 1.58 |
 

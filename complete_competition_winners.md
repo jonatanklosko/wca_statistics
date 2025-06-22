@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 19 June 2025*
+*Updated on 22 June 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -172,6 +172,7 @@
 | 4 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | Australia | [Mandurah Mayhem 2023](https://www.worldcubeassociation.org/competitions/MandurahMayhem2023) |
 | 4 | [Jonathan Hamstad](https://www.worldcubeassociation.org/persons/2011HAMS01) | Norway | [Bergen Open 2014](https://www.worldcubeassociation.org/competitions/BergenOpen2014) |
 | 4 | [Jose Carlos García Vélez](https://www.worldcubeassociation.org/persons/2016VELE01) | Colombia | [Salamandra Cartagena 2024](https://www.worldcubeassociation.org/competitions/SalamandraCartagena2024) |
+| 4 | [Kenji Julián Cáceres Matsumoto](https://www.worldcubeassociation.org/persons/2022CACE02) | Paraguay | [Superseis Cubea - Asunción 2025](https://www.worldcubeassociation.org/competitions/SuperseisCubeaAsuncion2025) |
 | 4 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | Norway | [Cubing Portal Sandnes 2023](https://www.worldcubeassociation.org/competitions/CubingPortalSandnes2023) |
 | 4 | [Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02) | United States | [Arnold Classic NA B 2020](https://www.worldcubeassociation.org/competitions/ArnoldClassicNorthAmericaB2020) |
 | 4 | [Marcos Ferreira Semolini](https://www.worldcubeassociation.org/persons/2017SEMO02) | Brazil | [Zoioff Brasília 2024](https://www.worldcubeassociation.org/competitions/ZoioffBrasilia2024) |
@@ -427,6 +428,7 @@
 | 1 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Chinese Taipei | [Taipei FMC All Day 2022](https://www.worldcubeassociation.org/competitions/TaipeiFMCAllDay2022) |
 | 1 | [Chengbiao Liu (刘承彪)](https://www.worldcubeassociation.org/persons/2010LIUC01) | China | [Hot Spring Festival 2012](https://www.worldcubeassociation.org/competitions/HotSpringFestival2012) |
 | 1 | [Chi-Ning Chou (周紀寧)](https://www.worldcubeassociation.org/persons/2009CHOU02) | Chinese Taipei | [Taichung Pyraminx Competition 2009](https://www.worldcubeassociation.org/competitions/TaichungPyraminx2009) |
+| 1 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) | Italy | [Serbian FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SerbianFMCChampionship2025) |
 | 1 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) | Italy | [FMC Romania January 2025](https://www.worldcubeassociation.org/competitions/FMCRomaniaJanuary2025) |
 | 1 | [Chong Min (민총)](https://www.worldcubeassociation.org/persons/2019MINC02) | Republic of Korea | [Korea Qualifier - Daegu B 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierDaeguB2024) |
 | 1 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | United States | [Ohio State Mental Madness 2024](https://www.worldcubeassociation.org/competitions/OhioStateMentalMadness2024) |

@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 19 June 2025*
+*Updated on 22 June 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -18,8 +18,8 @@
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 33 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 33 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 29 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 29 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 28 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 27 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 27 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 27 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
@@ -40,14 +40,14 @@
 | 22 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 22 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
+| 22 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
 | 22 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 22 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 21 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
+| 21 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 21 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 21 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 21 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 21 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 20 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 20 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |

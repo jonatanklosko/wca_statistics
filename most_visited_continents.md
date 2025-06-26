@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -46,6 +46,7 @@
 | 5 | [Donna Hays](https://www.worldcubeassociation.org/persons/2011HAYS02) |
 | 5 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 5 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
+| 5 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 5 | [Katie Hardwick](https://www.worldcubeassociation.org/persons/2013ENGE01) |
 | 5 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
 | 5 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
@@ -115,7 +116,6 @@
 | 4 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 4 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
 | 4 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
-| 4 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 4 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 4 | [Yu Gu (谷雨)](https://www.worldcubeassociation.org/persons/2013GUYU01) |
 | 4 | [Eva Kato (加藤映葉)](https://www.worldcubeassociation.org/persons/2013KATO01) |
@@ -133,6 +133,7 @@
 | 4 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 4 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) |
 | 4 | [Karen Brooks](https://www.worldcubeassociation.org/persons/2015BROO01) |
+| 4 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 4 | [Dylan Govic](https://www.worldcubeassociation.org/persons/2015GOVI01) |
 | 4 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 4 | [Oliver Jenks](https://www.worldcubeassociation.org/persons/2015JENK02) |

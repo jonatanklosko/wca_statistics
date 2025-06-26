@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 
 ### Rubik's Cube - Single
@@ -10,7 +10,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | **3.05** |  | [Shenyang Spring 2025](https://www.worldcubeassociation.org/competitions/ShenyangSpring2025) | 4.24, 4.69, 3.05, 4.57, 4.46 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **3.08** |  | [XMUM Cube Open 2025](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2025) | 4.41, 7.24, 3.08, 6.67, 3.93 |
-| [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **3.64** |  | [Kansas Championship 2025](https://www.worldcubeassociation.org/competitions/KansasChampionship2025) | 3.64, 7.38, 4.89, 6.28, 5.14 |
+| [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **3.34** |  | [DFW Cubing Summer 2025](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2025) | 6.14, 6.10, 6.47, 7.39, 3.34 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **3.71** |  | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025) | 5.32, 5.32, 4.02, 8.64, 3.71 |
 | [Caleb Chen](https://www.worldcubeassociation.org/persons/2022CHEN37) | **3.71** |  | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025) | 3.71, 9.06, 7.36, 7.25, 5.01 |
 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | **3.72** |  | [Beijing Winter 2025](https://www.worldcubeassociation.org/competitions/BeijingWinter2025) | 4.87, 5.52, 3.72, 5.94, 3.99 |
@@ -257,7 +257,7 @@
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **6.82** |  | [Chicagoland Newcomers 2025](https://www.worldcubeassociation.org/competitions/ChicagolandNewcomers2025) | 8.57, 7.13, 6.82, 7.45, 12.80 |
 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | **6.83** |  | [Entre Ríos Cubea 2025](https://www.worldcubeassociation.org/competitions/EntreRiosCubea2025) | 9.27, 11.32, 11.15, 9.39, 6.83 |
 | [Pranav Gadge](https://www.worldcubeassociation.org/persons/2017GADG01) | **6.83** |  | [Korum Cube Challenge 2025](https://www.worldcubeassociation.org/competitions/KorumCubeChallenge2025) | 8.80, 10.79, 6.83, 7.94, 12.58 |
-| [Jack Larsson Backsell](https://www.worldcubeassociation.org/persons/2021BACK01) | **6.90** |  | [Swedish Championship 2025](https://www.worldcubeassociation.org/competitions/SwedishChampionship2025) | 15.13, 11.67, 12.16, 12.61, 6.90 |
+| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **6.87** |  | [McBaja II 2025](https://www.worldcubeassociation.org/competitions/McBajaII2025) | 9.34, 8.20, 8.10, 6.87, 10.26 |
 
 ### 3x3x3 One-Handed - Average
 

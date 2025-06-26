@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -409,6 +409,7 @@
 | 13 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [De Wilg Open 2014](https://www.worldcubeassociation.org/competitions/DeWilgOpen2014/results/podiums) |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [De Wilg Open 2014](https://www.worldcubeassociation.org/competitions/DeWilgOpen2014/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/podiums) |
+| 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Cubing Summer 2025](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2025/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Eclipse Cubing 2024](https://www.worldcubeassociation.org/competitions/DFWEclipseCubing2024/results/podiums) |
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Spring Warmup 2023](https://www.worldcubeassociation.org/competitions/DFWSpringWarmup2023/results/podiums) |
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Winter Variation 2024](https://www.worldcubeassociation.org/competitions/DFWWinterVariation2024/results/podiums) |
@@ -1151,6 +1152,7 @@
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [SNU Open 2017](https://www.worldcubeassociation.org/competitions/SNUOpen2017/results/podiums) |
 | 10 | [Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02) | [SNU Open 2018](https://www.worldcubeassociation.org/competitions/SNUOpen2018/results/podiums) |
 | 10 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | [SoCal 2016](https://www.worldcubeassociation.org/competitions/SoCal2016/results/podiums) |
+| 10 | [Armax Zander Guevara](https://www.worldcubeassociation.org/persons/2023GUEV06) | [SolveIt Bahrain 2025](https://www.worldcubeassociation.org/competitions/SolveItBahrain2025/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
 | 10 | [Will Gurnett](https://www.worldcubeassociation.org/persons/2016GURN01) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Solving in Sayre 2025](https://www.worldcubeassociation.org/competitions/SolvinginSayre2025/results/podiums) |

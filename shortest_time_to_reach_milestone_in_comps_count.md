@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 June 2025*
+*Updated on 28 June 2025*
 
 
 ### 300 Competitions
@@ -169,6 +169,7 @@
 | 113 | [Gabriel Subion](https://www.worldcubeassociation.org/persons/2024SUBI01) |
 | 113 | [Zachary Trimble](https://www.worldcubeassociation.org/persons/2024TRIM01) |
 | 113 | [Michael Paul Romero](https://www.worldcubeassociation.org/persons/2024ROME27) |
+| 118 | [Rane Yuan A. Dipon](https://www.worldcubeassociation.org/persons/2025DIPO01) |
 | 119 | [Yili Yi](https://www.worldcubeassociation.org/persons/2024YIYI01) |
 | 120 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 120 | [Matteo Rodríguez Colorado](https://www.worldcubeassociation.org/persons/2024COLO04) |
@@ -179,7 +180,6 @@
 | 127 | [Arya Bhatelia](https://www.worldcubeassociation.org/persons/2024BHAT07) |
 | 127 | [Henrique Votisch](https://www.worldcubeassociation.org/persons/2024VOTI01) |
 | 127 | [Shourya Meka](https://www.worldcubeassociation.org/persons/2024MEKA03) |
-| 133 | [Anthony E. Cho](https://www.worldcubeassociation.org/persons/2023CHOA02) |
 
 ### 5 Competitions
 

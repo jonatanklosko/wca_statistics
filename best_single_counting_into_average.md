@@ -1,13 +1,15 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 June 2025*
+*Updated on 28 June 2025*
 
 
 ### Rubik's Cube
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 3.56 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Twist & Fries Johor Bahru 2025](https://www.worldcubeassociation.org/competitions/TwistFriesJohorBahru2025/results/by_person#2019WANY36) |
 | 3.57 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025/results/by_person#2019WANY36) |
+| 3.68 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Singapore Mofunland Cruise 2025](https://www.worldcubeassociation.org/competitions/SingaporeMofunlandCruise2025/results/by_person#2019WANY36) |
 | 3.73 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025/results/by_person#2019WANY36) |
 | 3.74 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Lishui Open 2025](https://www.worldcubeassociation.org/competitions/LishuiOpen2025/results/by_person#2019WANY36) |
 | 3.77 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Warm Up at gateway klia2 2024](https://www.worldcubeassociation.org/competitions/WarmUpatgatewayklia22024/results/by_person#2019WANY36) |
@@ -15,8 +17,6 @@
 | 3.81 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Lishui Open 2025](https://www.worldcubeassociation.org/competitions/LishuiOpen2025/results/by_person#2019WANY36) |
 | 3.83 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xuzhou Autumn 2024](https://www.worldcubeassociation.org/competitions/XuzhouAutumn2024/results/by_person#2019WANY36) |
 | 3.86 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Zhengzhou Open 2024](https://www.worldcubeassociation.org/competitions/ZhengzhouOpen2024/results/by_person#2019WANY36) |
-| 3.87 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Zhengzhou Open 2024](https://www.worldcubeassociation.org/competitions/ZhengzhouOpen2024/results/by_person#2019WANY36) |
-| 3.88 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xuzhou Autumn 2024](https://www.worldcubeassociation.org/competitions/XuzhouAutumn2024/results/by_person#2019WANY36) |
 
 ### 2x2x2 Cube
 

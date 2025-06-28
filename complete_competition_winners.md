@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 25 June 2025*
+*Updated on 28 June 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -66,7 +66,7 @@
 | 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | Australia | [Marrickville Many May Open 2023](https://www.worldcubeassociation.org/competitions/MarrickvilleManyMayOpen2023) |
 | 6 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | Brazil | [Colégio Salesiano Open 2023](https://www.worldcubeassociation.org/competitions/ColegioSalesianoOpen2023) |
 | 6 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | Australia | [Sydney Autumn 2016](https://www.worldcubeassociation.org/competitions/SydneyAutumn2016) |
-| 6 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | Brazil | [III Open Carrancubos 2023](https://www.worldcubeassociation.org/competitions/IIIOpenCarrancubos2023) |
+| 6 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | Brazil | [III Open Carrancubos 2023](https://www.worldcubeassociation.org/competitions/IIIOpenCarrancubos2023) |
 | 6 | [Jose Carlos García Vélez](https://www.worldcubeassociation.org/persons/2016VELE01) | Colombia | [Friki Festival Valledupar 2019](https://www.worldcubeassociation.org/competitions/FrikiFestivalValledupar2019) |
 | 6 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | Colombia | [Llanocentro Open 2019](https://www.worldcubeassociation.org/competitions/LlanocentroOpen2019) |
 | 6 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | United States | [Minxville Indiana 2024](https://www.worldcubeassociation.org/competitions/MinxvilleIndiana2024) |
@@ -166,7 +166,7 @@
 | 4 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | United States | [Barberton Mini 4 2024](https://www.worldcubeassociation.org/competitions/BarbertonMini42024) |
 | 4 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | United States | [Beginner Big Cubes Ohio 2025](https://www.worldcubeassociation.org/competitions/BeginnerBigCubesOhio2025) |
 | 4 | [Jay Kuria Muthari](https://www.worldcubeassociation.org/persons/2019MUTH01) | Kenya | [Navitas 2022](https://www.worldcubeassociation.org/competitions/NavitasCubeChallengeKenya2022) |
-| 4 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | Brazil | [Big in Bahia 2024](https://www.worldcubeassociation.org/competitions/BiginBahia2024) |
+| 4 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | Brazil | [Big in Bahia 2024](https://www.worldcubeassociation.org/competitions/BiginBahia2024) |
 | 4 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | Australia | [Tassie Summer - Launceston 2022](https://www.worldcubeassociation.org/competitions/Launceston2022) |
 | 4 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | Australia | [Launceston Autumn 2023](https://www.worldcubeassociation.org/competitions/LauncestonAutumn2023) |
 | 4 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | Australia | [Mandurah Mayhem 2023](https://www.worldcubeassociation.org/competitions/MandurahMayhem2023) |
@@ -680,6 +680,7 @@
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | Poland | [Fun with FM in Warsaw II 2025](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsawII2025) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | Poland | [Góraszka FMC Sunday 2024](https://www.worldcubeassociation.org/competitions/GoraszkaFMCSunday2024) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | Poland | [2 Rounds of FMC in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/2RoundsofFMCinRzeszow2023) |
+| 1 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | Switzerland | [Sunnyvale FMC 2025](https://www.worldcubeassociation.org/competitions/SunnyvaleFMC2025) |
 | 1 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | Switzerland | [Swisscubing FMC 2017](https://www.worldcubeassociation.org/competitions/SwisscubingFMC2017) |
 | 1 | [Rex Li](https://www.worldcubeassociation.org/persons/2019LIRE01) | China | [Ottawa 3x3x3 Winter C 2024](https://www.worldcubeassociation.org/competitions/Ottawa3x3x3WinterC2024) |
 | 1 | [Rəsul Ağababayev](https://www.worldcubeassociation.org/persons/2018AGAB01) | Azerbaijan | [Baku Open 2019](https://www.worldcubeassociation.org/competitions/BakuOpen2019) |

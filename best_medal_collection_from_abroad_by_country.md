@@ -1,34 +1,34 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 June 2025*
+*Updated on 28 June 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1500** | 1271 | 1094 | 3865 |
-| United States | **1405** | 1114 | 969 | 3488 |
+| United States | **1408** | 1117 | 971 | 3496 |
 | Germany | **1300** | 1230 | 1227 | 3757 |
-| Russia | **1144** | 645 | 503 | 2292 |
+| Russia | **1146** | 645 | 503 | 2294 |
 | France | **1065** | 945 | 803 | 2813 |
 | Netherlands | **1026** | 822 | 702 | 2550 |
-| China | **947** | 889 | 781 | 2617 |
+| China | **952** | 890 | 782 | 2624 |
 | Poland | **755** | 478 | 384 | 1617 |
-| Malaysia | **486** | 508 | 470 | 1464 |
+| Malaysia | **487** | 509 | 471 | 1467 |
 | United Kingdom | **461** | 507 | 485 | 1453 |
 | Canada | **438** | 465 | 499 | 1402 |
 | Hong Kong, China | **424** | 419 | 357 | 1200 |
-| Republic of Korea | **401** | 348 | 300 | 1049 |
-| Switzerland | **397** | 471 | 375 | 1243 |
+| Republic of Korea | **404** | 349 | 301 | 1054 |
+| Switzerland | **402** | 475 | 375 | 1252 |
 | India | **384** | 375 | 371 | 1130 |
 | Denmark | **376** | 322 | 269 | 967 |
 | Italy | **371** | 358 | 328 | 1057 |
-| Ukraine | **336** | 340 | 355 | 1031 |
+| Ukraine | **336** | 340 | 354 | 1030 |
 | Sweden | **330** | 386 | 391 | 1107 |
 | Australia | **305** | 160 | 115 | 580 |
 | Finland | **304** | 240 | 211 | 755 |
 | Argentina | **280** | 190 | 156 | 626 |
-| Singapore | **244** | 217 | 239 | 700 |
-| Chinese Taipei | **244** | 216 | 225 | 685 |
+| Singapore | **246** | 220 | 240 | 706 |
+| Chinese Taipei | **245** | 216 | 226 | 687 |
 | Romania | **240** | 186 | 153 | 579 |
 | Japan | **225** | 178 | 158 | 561 |
 | Indonesia | **220** | 215 | 164 | 599 |
@@ -74,7 +74,7 @@
 | Belize | **24** | 6 | 3 | 33 |
 | El Salvador | **21** | 27 | 23 | 71 |
 | North Macedonia | **20** | 27 | 31 | 78 |
-| Nigeria | **17** | 31 | 21 | 69 |
+| Nigeria | **17** | 32 | 23 | 72 |
 | Bulgaria | **16** | 45 | 47 | 108 |
 | Kuwait | **16** | 13 | 30 | 59 |
 | Morocco | **15** | 16 | 19 | 50 |

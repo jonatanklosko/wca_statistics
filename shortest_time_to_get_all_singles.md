@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 June 2025*
+*Updated on 28 June 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -649,6 +649,7 @@
 | 3739 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 3752 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 3766 | [Luis Sinhue Medina Salas](https://www.worldcubeassociation.org/persons/2014SALA15) |
+| 3770 | [Miguel Diaz](https://www.worldcubeassociation.org/persons/2015DIAZ02) |
 | 3782 | [Kevin Arturo Huamán Ruiz](https://www.worldcubeassociation.org/persons/2014RUIZ10) |
 | 3787 | [Gabriele Bacchieri](https://www.worldcubeassociation.org/persons/2014BACC01) |
 | 3795 | [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) |

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 25 June 2025*
+*Updated on 28 June 2025*
 
 
 ### Rubik's Cube
@@ -180,9 +180,9 @@
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 3.39 | **3.86** | [Cube4fun DW Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024/results/all#eclock_f) | 4 |
 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 2.78 | **3.90** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#eclock_f) | 5 |
 | [Jaidon Poraminthara Lin (เจเดิ้น ปรมินทร์ หลิน)](https://www.worldcubeassociation.org/persons/2019LINJ04) | 2.94 | **3.91** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eclock_f) | 5 |
+| [Zian Principe](https://www.worldcubeassociation.org/persons/2022PRIN08) | 2.68 | **3.92** | [Philippine Championship 2025](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2025/results/all#eclock_f) | 4 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 2.83 | **3.94** | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024/results/all#eclock_f) | 4 |
 | [Asier Adell Díaz](https://www.worldcubeassociation.org/persons/2023DIAZ20) | 3.63 | **3.94** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 5 |
-| [Michal Černý](https://www.worldcubeassociation.org/persons/2022CERN03) | 3.27 | **3.96** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 6 |
 
 ### Skewb
 

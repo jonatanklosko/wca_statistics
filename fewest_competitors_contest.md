@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -31,6 +31,7 @@
 | 4 | [Finnish FMC Series VIII 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVIII2025) |
 | 4 | [Grizz Leap 2024](https://www.worldcubeassociation.org/competitions/GrizzLeap2024) |
 | 4 | [Hilliard Hippocampus XV 2024](https://www.worldcubeassociation.org/competitions/HilliardHippocampusXV2024) |
+| 4 | [Horseheads Evens 2025](https://www.worldcubeassociation.org/competitions/HorseheadsEvens2025) |
 | 4 | [JAM FMC I 2023](https://www.worldcubeassociation.org/competitions/JAMFMCI2023) |
 | 4 | [Kansas Holiday Cube-Off PM 2023](https://www.worldcubeassociation.org/competitions/KansasHolidayCubeOffPM2023) |
 | 4 | [Lake Orion FMC Meltdown 2025](https://www.worldcubeassociation.org/competitions/LakeOrionFMCMeltdown2025) |

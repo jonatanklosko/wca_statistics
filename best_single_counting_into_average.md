@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 
 ### Rubik's Cube
@@ -74,9 +74,9 @@
 | 7.39 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Ayat-Ti Cubing Elyu Fest 2024](https://www.worldcubeassociation.org/competitions/AyatTiCubingElyuFest2024/results/by_person#2023ARRA01) |
 | 7.45 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Chicagoland Newcomers 2025](https://www.worldcubeassociation.org/competitions/ChicagolandNewcomers2025/results/by_person#2017GARR05) |
 | 7.49 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
+| 7.54 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Warm Up Seattle 2025](https://www.worldcubeassociation.org/competitions/WarmUpSeattle2025/results/by_person#2017GARR05) |
 | 7.54 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Baguio Speedcubing Open 2025](https://www.worldcubeassociation.org/competitions/BaguioSpeedcubingOpen2025/results/by_person#2023ARRA01) |
 | 7.59 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [Schnelle Solves Siegen 2025](https://www.worldcubeassociation.org/competitions/SchnelleSolvesSiegen2025/results/by_person#2015CHEA01) |
-| 7.61 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | [Swiss Nationals 2025](https://www.worldcubeassociation.org/competitions/SwissNationals2025/results/by_person#2022ROBI05) |
 
 ### Megaminx
 

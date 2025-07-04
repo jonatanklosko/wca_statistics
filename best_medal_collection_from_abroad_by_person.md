@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -63,6 +63,7 @@
 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | **59** | 54 | 39 | 152 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **59** | 21 | 17 | 97 |
 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **58** | 74 | 65 | 197 |
+| [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | **55** | 68 | 43 | 166 |
 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | **55** | 58 | 50 | 163 |
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **55** | 38 | 22 | 115 |
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
@@ -73,7 +74,6 @@
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **52** | 51 | 39 | 142 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **52** | 35 | 21 | 108 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **51** | 66 | 65 | 182 |
-| [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | **51** | 64 | 40 | 155 |
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **50** | 39 | 21 | 110 |
 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **50** | 24 | 10 | 84 |
 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | **50** | 13 | 4 | 67 |

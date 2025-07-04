@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -92,6 +92,7 @@
 | 2829 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 2829 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 2833 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 2855 | [Wayne Pi](https://www.worldcubeassociation.org/persons/2017PIWA01) |
 | 2857 | [Mihály Horváth](https://www.worldcubeassociation.org/persons/2016HORV04) |
 | 2864 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 2870 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |

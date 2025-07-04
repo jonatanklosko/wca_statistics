@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 
 ### Rubik's Cube - Single
@@ -404,10 +404,10 @@
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **4.10** |  | [Evanston Qualifier 2025](https://www.worldcubeassociation.org/competitions/EvanstonQualifier2025) | 4.10, 9.51, 6.65, 5.85, 5.65 |
 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **4.15** |  | [Dåstrup Diverse 2025](https://www.worldcubeassociation.org/competitions/DastrupDiverse2025) | 5.63, 4.15, 8.46, 5.17, 6.74 |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **4.17** |  | [Santa Barbara Winter 2025](https://www.worldcubeassociation.org/competitions/SantaBarbaraWinter2025) | 5.33, 5.30, 4.17, 6.13, DNF |
+| [Jacob Bennett](https://www.worldcubeassociation.org/persons/2023BENN04) | **4.38** |  | [Gem City Warm Up OH 2025](https://www.worldcubeassociation.org/competitions/GemCityWarmUpOH2025) | 8.38, 7.35, 10.37, 4.38, 6.36 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **4.57** |  | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) | 4.57, 6.17, 5.91, 6.49, 6.41 |
 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **4.57** |  | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025) | 4.57, 7.47, 8.87, 6.08, 6.85 |
 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | **4.73** |  | [Bigs Na Esquina Beagá Open 2025](https://www.worldcubeassociation.org/competitions/BigsNaEsquinaBeagaOpen2025) | 6.00, 13.29, 6.56, 5.02, 4.73 |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **4.77** |  | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | 14.45, 8.52, 4.77, 7.41, 8.18 |
 
 ### Square-1 - Average
 

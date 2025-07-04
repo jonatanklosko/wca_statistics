@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -692,6 +692,7 @@
 | 11 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | [Kaspiy Open 2018](https://www.worldcubeassociation.org/competitions/KaspiyOpen2018/results/podiums) |
 | 11 | [Jeremy Singson](https://www.worldcubeassociation.org/persons/2015SING22) | [CubeHub Open 2017](https://www.worldcubeassociation.org/competitions/CubeHubOpen2017/results/podiums) |
 | 11 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) | [Guwahati Summer Open 2019](https://www.worldcubeassociation.org/competitions/GuwahatiSummerOpen2019/results/podiums) |
+| 11 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Serbian Championship 2025](https://www.worldcubeassociation.org/competitions/SerbianChampionship2025/results/podiums) |
 | 11 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | [Serbian Open 2019](https://www.worldcubeassociation.org/competitions/SerbianOpen2019/results/podiums) |
 | 11 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) | [Cube Ta Bai sa Cebu 2022](https://www.worldcubeassociation.org/competitions/CubeTaBaisaCebu2022/results/podiums) |
 | 11 | [David Arzamastsev](https://www.worldcubeassociation.org/persons/2016ARZA01) | [Kursk Open 2017](https://www.worldcubeassociation.org/competitions/KurskOpen2017/results/podiums) |

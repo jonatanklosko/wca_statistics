@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 July 2025*
+*Updated on  7 July 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1370,6 +1370,7 @@
 | 10 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Romanian 24h Championship 2024](https://www.worldcubeassociation.org/competitions/Romanian24hChampionship2024/results/podiums) |
 | 12 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/podiums) |
 | 11 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2023](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2023/results/podiums) |
+| 11 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025/results/podiums) |
 | 13 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Big and Blind Queenstown 2025](https://www.worldcubeassociation.org/competitions/BigandBlindQueenstown2025/results/podiums) |
 | 12 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Ōtepoti Big Cubes 2024](https://www.worldcubeassociation.org/competitions/OtepotiBigCubes2024/results/podiums) |
 | 11 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Southern Solves 2024](https://www.worldcubeassociation.org/competitions/SouthernSolvesInvercargill2024/results/podiums) |

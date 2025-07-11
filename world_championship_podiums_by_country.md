@@ -1,46 +1,48 @@
 ## World Championship podiums by country
 
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| United States | **46** | 39 | 42 | 127 |
-| Poland | **20** | 20 | 15 | 55 |
-| Australia | **18** | 13 | 6 | 37 |
+| United States | **55** | 46 | 49 | 150 |
+| Poland | **23** | 22 | 18 | 63 |
+| Australia | **19** | 13 | 6 | 38 |
 | Hungary | **16** | 11 | 10 | 37 |
-| Germany | **12** | 9 | 11 | 32 |
+| Germany | **13** | 9 | 11 | 33 |
 | Japan | **11** | 12 | 14 | 37 |
-| Netherlands | **6** | 10 | 15 | 31 |
-| China | **5** | 5 | 5 | 15 |
+| Netherlands | **6** | 10 | 16 | 32 |
+| China | **6** | 7 | 5 | 18 |
 | Sweden | **4** | 6 | 5 | 15 |
-| France | **4** | 4 | 5 | 13 |
+| France | **4** | 5 | 5 | 14 |
 | India | **3** | 3 | 3 | 9 |
 | Brazil | **3** | 1 | 0 | 4 |
+| United Kingdom | **2** | 3 | 5 | 10 |
 | Denmark | **2** | 3 | 3 | 8 |
 | Indonesia | **2** | 3 | 2 | 7 |
 | Belgium | **2** | 3 | 1 | 6 |
-| United Kingdom | **2** | 2 | 5 | 9 |
+| Philippines | **2** | 2 | 0 | 4 |
 | Peru | **2** | 1 | 4 | 7 |
+| Argentina | **2** | 1 | 3 | 6 |
 | Finland | **2** | 1 | 0 | 3 |
 | Israel | **2** | 1 | 0 | 3 |
-| Malaysia | **2** | 0 | 1 | 3 |
+| Malaysia | **2** | 0 | 2 | 4 |
 | Canada | **1** | 3 | 3 | 7 |
 | Spain | **1** | 2 | 2 | 5 |
-| Philippines | **1** | 2 | 0 | 3 |
-| Argentina | **1** | 1 | 1 | 3 |
+| New Zealand | **1** | 1 | 2 | 4 |
 | Greece | **1** | 1 | 0 | 2 |
-| New Zealand | **1** | 0 | 1 | 2 |
 | Czech Republic | **1** | 0 | 0 | 1 |
 | Singapore | **1** | 0 | 0 | 1 |
 | Republic of Korea | **0** | 5 | 6 | 11 |
+| Russia | **0** | 3 | 1 | 4 |
 | Ireland | **0** | 2 | 1 | 3 |
 | Italy | **0** | 2 | 1 | 3 |
 | Thailand | **0** | 1 | 2 | 3 |
-| Russia | **0** | 1 | 1 | 2 |
+| Austria | **0** | 1 | 1 | 2 |
 | Switzerland | **0** | 1 | 1 | 2 |
 | Mexico | **0** | 1 | 0 | 1 |
 | Norway | **0** | 1 | 0 | 1 |
 | Vietnam | **0** | 1 | 0 | 1 |
+| Chinese Taipei | **0** | 0 | 1 | 1 |
 | Colombia | **0** | 0 | 1 | 1 |
 
 

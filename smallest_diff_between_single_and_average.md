@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 
 ### Rubik's Cube
@@ -76,8 +76,8 @@
 | 0.05 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 2:03.37 | 2:03.42 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/by_person#2012MCNE01) |
 | 0.05 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 4:48.06 | 4:48.11 | [Santiago Open 2009](https://www.worldcubeassociation.org/competitions/SantiagoOpen2009/results/by_person#2007GUIM01) |
 | 0.06 | [Alan Zhao](https://www.worldcubeassociation.org/persons/2015ZHAO13) | 2:32.43 | 2:32.49 | [Westcoast Woodvale Weekends 2019](https://www.worldcubeassociation.org/competitions/WestcoastWoodvaleWeekends2019/results/by_person#2015ZHAO13) |
+| 0.08 | [Robbie Villarica](https://www.worldcubeassociation.org/persons/2010VILL03) | 1:54.38 | 1:54.46 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2010VILL03) |
 | 0.08 | [Eli Parker](https://www.worldcubeassociation.org/persons/2016PARK02) | 2:27.50 | 2:27.58 | [Music City Fall 2023](https://www.worldcubeassociation.org/competitions/MusicCitySpeedsolvingFall2023/results/by_person#2016PARK02) |
-| 0.09 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 1:32.02 | 1:32.11 | [Rutgers Winter 2025](https://www.worldcubeassociation.org/competitions/RutgersWinter2025/results/by_person#2013KLEI03) |
 
 ### 7x7x7 Cube
 
@@ -87,12 +87,12 @@
 | 0.04 | [Marco Vorländer](https://www.worldcubeassociation.org/persons/2014VORL01) | 3:27.49 | 3:27.53 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2014VORL01) |
 | 0.07 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3:02.84 | 3:02.91 | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023/results/by_person#2013OWCZ01) |
 | 0.07 | [Stefan Uzelac](https://www.worldcubeassociation.org/persons/2022UZEL01) | 7:19.63 | 7:19.70 | [Arizona Championship 2025](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2025/results/by_person#2022UZEL01) |
+| 0.08 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 2:01.05 | 2:01.13 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016PFEI01) |
 | 0.08 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 3:13.56 | 3:13.64 | [Dutch Open 2018](https://www.worldcubeassociation.org/competitions/DutchOpen2018/results/by_person#2007VALK01) |
 | 0.09 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 5:14.66 | 5:14.75 | [Eat Sleep Cube Repeat 2014](https://www.worldcubeassociation.org/competitions/EatSleepCubeRepeat2014/results/by_person#2008AURO01) |
 | 0.10 | [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | 3:23.59 | 3:23.69 | [UCSD Fall 2024](https://www.worldcubeassociation.org/competitions/UCSDFall2024/results/by_person#2011GROG02) |
 | 0.10 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) | 6:25.15 | 6:25.25 | [Oregon 2016](https://www.worldcubeassociation.org/competitions/Oregon2016/results/by_person#2007WOOR01) |
 | 0.11 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2:17.68 | 2:17.79 | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/by_person#2019YANG94) |
-| 0.11 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 3:07.96 | 3:08.07 | [Albany Fall 2019](https://www.worldcubeassociation.org/competitions/AlbanyFall2019/results/by_person#2011FERA01) |
 
 ### 3x3x3 Blindfolded
 
@@ -210,9 +210,9 @@
 | 1.62 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 1:34.29 | 1:35.91 | [Swisscubing Cup MB I 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupMentalBreakdow2024/results/by_person#2019HIRS01) |
 | 1.71 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2:00.90 | 2:02.61 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2014SCHO02) |
 | 2.21 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 1:00.08 | 1:02.29 | [Warm Up Seattle PBQ 2025](https://www.worldcubeassociation.org/competitions/WarmUpSeattlePBQ2025/results/by_person#2016CHAP04) |
+| 2.45 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 1:36.94 | 1:39.39 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2021TRIP01) |
+| 2.56 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 59.76 | 1:02.32 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016CHAP04) |
 | 2.68 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 3:01.00 | 3:03.68 | [Stevenage January 2024](https://www.worldcubeassociation.org/competitions/StevenageJanuary2024/results/by_person#2018SHEN07) |
-| 2.74 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) | 4:28.09 | 4:30.83 | [Kölner Kubing 2025](https://www.worldcubeassociation.org/competitions/KolnerKubing2025/results/by_person#2015WITM01) |
-| 3.06 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 1:45.21 | 1:48.27 | [East Bay Big and Blind 2024](https://www.worldcubeassociation.org/competitions/EastBayBigandBlind2024/results/by_person#2016SIGG01) |
 
 ### 5x5x5 Blindfolded
 

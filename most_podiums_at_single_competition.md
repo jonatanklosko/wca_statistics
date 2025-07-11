@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -789,6 +789,7 @@
 | 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2024](https://www.worldcubeassociation.org/competitions/UkrainianNationals2024/results/podiums) |
 | 12 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Belgorod Open 2018](https://www.worldcubeassociation.org/competitions/BelgorodOpen2018/results/podiums) |
 | 12 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Frankivsk Open 2019](https://www.worldcubeassociation.org/competitions/FrankivskOpen2019/results/podiums) |
+| 12 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [MriyDiy Cubing Lviv 2025](https://www.worldcubeassociation.org/competitions/MriyDiyCubingLviv2025/results/podiums) |
 | 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Chernivtsi Open 2025](https://www.worldcubeassociation.org/competitions/ChernivtsiOpen2025/results/podiums) |
 | 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Podolian Open 2023](https://www.worldcubeassociation.org/competitions/PodolianOpen2023/results/podiums) |
 | 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Open 2025](https://www.worldcubeassociation.org/competitions/UkrainianOpen2025/results/podiums) |
@@ -1335,6 +1336,7 @@
 | 10 | [Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17) | [Vladivostok Spring 2020](https://www.worldcubeassociation.org/competitions/VladivostokSpring2020/results/podiums) |
 | 11 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Gajah Mada Speedcubing 2024](https://www.worldcubeassociation.org/competitions/GajahMadaSpeedcubing2024/results/podiums) |
 | 10 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Binus Speedcubing 2024](https://www.worldcubeassociation.org/competitions/BinusSpeedcubing2024/results/podiums) |
+| 10 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Jawa Timur Open 2025](https://www.worldcubeassociation.org/competitions/JawaTimurOpen2025/results/podiums) |
 | 10 | [Edgar Nogueira Garcia Pinho](https://www.worldcubeassociation.org/persons/2019PINH01) | [CEMS ao Cubo Vila Velha 2025](https://www.worldcubeassociation.org/competitions/CEMSaoCuboVilaVelha2025/results/podiums) |
 | 12 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Southern Solves 2024](https://www.worldcubeassociation.org/competitions/SouthernSolvesInvercargill2024/results/podiums) |
 | 11 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022/results/podiums) |

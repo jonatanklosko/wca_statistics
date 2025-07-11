@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 
 ### Rubik's Cube
@@ -38,6 +38,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 17.56 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
+| 17.61 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 17.62 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
 | 17.93 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024/results/by_person#2012PARK03) |
 | 18.06 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Yucaipa 2024](https://www.worldcubeassociation.org/competitions/NubOpenYucaipa2024/results/by_person#2012PARK03) |
@@ -46,28 +47,28 @@
 | 18.48 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Temecula Valley Fall 2024](https://www.worldcubeassociation.org/competitions/TemeculaValleyFall2024/results/by_person#2012PARK03) |
 | 18.49 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Arizona Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSpring2023/results/by_person#2012PARK03) |
 | 18.69 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024/results/by_person#2010WEYE02) |
-| 18.74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
 
 ### 5x5x5 Cube
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 33.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 33.28 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [PBs in Palisades Winter 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesWinter2025/results/by_person#2016KOLA02) |
+| 33.36 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 33.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
 | 33.75 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
+| 33.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 34.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
+| 34.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 34.19 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Burbank Big Cubes 2025](https://www.worldcubeassociation.org/competitions/BurbankBigCubes2025/results/by_person#2012PARK03) |
 | 34.21 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2016KOLA02) |
-| 34.26 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nevada Championship 2025](https://www.worldcubeassociation.org/competitions/NevadaChampionship2025/results/by_person#2012PARK03) |
-| 34.33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
-| 34.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
-| 34.52 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubeChella 2024](https://www.worldcubeassociation.org/competitions/CubeChella2024/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 7.13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Chicagoland Newcomers 2025](https://www.worldcubeassociation.org/competitions/ChicagolandNewcomers2025/results/by_person#2017GARR05) |
+| 7.27 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2020ARCH01) |
 | 7.31 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 | 7.34 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [San Jose del Monte Open II 2024](https://www.worldcubeassociation.org/competitions/SanJosedelMonteOpenII2024/results/by_person#2017VILL41) |
 | 7.38 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024/results/by_person#2017GARR05) |
@@ -76,7 +77,6 @@
 | 7.49 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
 | 7.54 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Warm Up Seattle 2025](https://www.worldcubeassociation.org/competitions/WarmUpSeattle2025/results/by_person#2017GARR05) |
 | 7.54 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Baguio Speedcubing Open 2025](https://www.worldcubeassociation.org/competitions/BaguioSpeedcubingOpen2025/results/by_person#2023ARRA01) |
-| 7.59 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [Schnelle Solves Siegen 2025](https://www.worldcubeassociation.org/competitions/SchnelleSolvesSiegen2025/results/by_person#2015CHEA01) |
 
 ### Megaminx
 
@@ -103,10 +103,10 @@
 | 1.09 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019JIAN54) |
 | 1.09 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Maitland Spring 2024](https://www.worldcubeassociation.org/competitions/MaitlandSpring2024/results/by_person#2021LEES01) |
 | 1.11 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024/results/by_person#2019JIAN54) |
+| 1.14 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2017NIEL03) |
 | 1.15 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/by_person#2019JIAN54) |
 | 1.15 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Maitland Spring 2024](https://www.worldcubeassociation.org/competitions/MaitlandSpring2024/results/by_person#2021LEES01) |
 | 1.16 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Yancheng Open 2024](https://www.worldcubeassociation.org/competitions/YanchengOpen2024/results/by_person#2019JIAN54) |
-| 1.18 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Lyttelton Spring 2023](https://www.worldcubeassociation.org/competitions/LytteltonSpring2023/results/by_person#2018MURR03) |
 
 ### Rubik's Clock
 
@@ -135,8 +135,8 @@
 | 1.38 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023/results/by_person#2018KHAN28) |
 | 1.38 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Across the Woods Kentucky B 2023](https://www.worldcubeassociation.org/competitions/AcrosstheWoodsKentuckyB2023/results/by_person#2018KHAN28) |
 | 1.38 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/by_person#2019REDI02) |
+| 1.38 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2019REDI02) |
 | 1.39 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2013KRAS02) |
-| 1.39 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | [Yancheng Open 2025](https://www.worldcubeassociation.org/competitions/YanchengOpen2025/results/by_person#2021TANG03) |
 
 ### Square-1
 

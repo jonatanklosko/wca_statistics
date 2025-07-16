@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Pairs
@@ -70,11 +70,11 @@
 | 95 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) & [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) |
 | 94 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) & [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 93 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) & [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 93 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) & [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) |
 | 92 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) & [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
 | 92 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) & [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
 | 91 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) & [Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01) |
 | 91 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) & [Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19) |
-| 91 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) & [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) |
 | 90 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) |
 | 90 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) & [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) |
 | 90 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |

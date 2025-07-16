@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube
@@ -46,7 +46,7 @@
 | 18.31 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Summer 2022](https://www.worldcubeassociation.org/competitions/CircleCitySummer2022/results/by_person#2012PARK03) |
 | 18.48 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Temecula Valley Fall 2024](https://www.worldcubeassociation.org/competitions/TemeculaValleyFall2024/results/by_person#2012PARK03) |
 | 18.49 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Arizona Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSpring2023/results/by_person#2012PARK03) |
-| 18.69 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024/results/by_person#2010WEYE02) |
+| 18.64 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [FLIP Open 2025](https://www.worldcubeassociation.org/competitions/FLIPOpen2025/results/by_person#2010WEYE02) |
 
 ### 5x5x5 Cube
 

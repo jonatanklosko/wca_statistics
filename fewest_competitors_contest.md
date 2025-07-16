@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -476,6 +476,7 @@
 | 12 | [Finnish FMC Championship 2022](https://www.worldcubeassociation.org/competitions/FinnishFMCChampionship2022) |
 | 12 | [Finnish Open 2011](https://www.worldcubeassociation.org/competitions/FinnishOpen2011) |
 | 12 | [FMC Colombia II 2024](https://www.worldcubeassociation.org/competitions/FMCColombiaII2024) |
+| 12 | [FMC Colombia VII 2025](https://www.worldcubeassociation.org/competitions/FMCColombiaVII2025) |
 | 12 | [French Merry Christmas 2022](https://www.worldcubeassociation.org/competitions/FMCFrance2022) |
 | 12 | [FM Chalet SG 2023](https://www.worldcubeassociation.org/competitions/FMChaletSG2023) |
 | 12 | [GA Cubers Leap Day 2024](https://www.worldcubeassociation.org/competitions/GACubersLeapDay2024) |

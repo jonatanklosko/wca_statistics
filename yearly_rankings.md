@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube - Single
@@ -209,16 +209,17 @@
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **16.52** |  | [Mid-Atlantic Quiet Champs 2025](https://www.worldcubeassociation.org/competitions/MidAtlanticQuietChampionship2025) | 15.68, 16.36, 17.51 |
 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **16.91** |  | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025) | 16.46, 19.36, 14.92 |
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **16.92** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 15.48, 17.05, 18.24 |
+| [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **17.12** |  | [MBLD Madness in Dobřejovice 2025](https://www.worldcubeassociation.org/competitions/MBLDMadnessinDobrejovice2025) | 18.57, 16.05, 16.74 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **17.39** |  | [Entre Ríos Cubea 2025](https://www.worldcubeassociation.org/competitions/EntreRiosCubea2025) | 16.16, 17.72, 18.30 |
-| [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **17.96** |  | [KoprCube Blind 2025](https://www.worldcubeassociation.org/competitions/KoprCubeBlind2025) | 17.77, 18.28, 17.82 |
+| [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | **18.09** |  | [MBLD Madness in Dobřejovice 2025](https://www.worldcubeassociation.org/competitions/MBLDMadnessinDobrejovice2025) | 19.32, 17.48, 17.47 |
 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | **18.18** |  | [DFW Cubing Spring 2025](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2025) | 17.76, 21.54, 15.24 |
-| [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **18.23** |  | [Danish Championship 2025](https://www.worldcubeassociation.org/competitions/DanishChampionship2025) | 18.54, 16.72, 19.42 |
 
 ### 3x3x3 Fewest Moves - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **17** |  | [Singapore Championship 2025](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2025) | 22, 17, 22 |
+| [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) | **17** |  | [Campeonato Brasileiro FMC 2025](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiroFMC2025) | 24, 25, 17 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **17** |  | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) | 22, 20, 17 |
 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) | **18** |  | [Tokyo Open FMC Winter 2025](https://www.worldcubeassociation.org/competitions/TokyoOpenFMCWinter2025) | 25, 24, 18 |
 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **18** |  | [Tokyo Open FMC Winter 2025](https://www.worldcubeassociation.org/competitions/TokyoOpenFMCWinter2025) | 23, 22, 18 |
@@ -227,7 +228,6 @@
 | [Enrico Tenuti](https://www.worldcubeassociation.org/persons/2017TENU01) | **18** |  | [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025) | 18, 24, 24 |
 | [Brandon Villadolid](https://www.worldcubeassociation.org/persons/2019VILL03) | **18** |  | [Amherst Winter Challenge 2025](https://www.worldcubeassociation.org/competitions/AmherstWinterChallenge2025) | 18, DNF, 39 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **18** |  | [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025) | 18, 23, 24 |
-| [Hajime Miyazaki (宮崎朔)](https://www.worldcubeassociation.org/persons/2022MIYA01) | **18** |  | [Tokyo Open FMC Winter 2025](https://www.worldcubeassociation.org/competitions/TokyoOpenFMCWinter2025) | 26, 25, 18 |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -491,8 +491,8 @@
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **63/66 59:50** |  | [New York Multimate PBQ 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQ2025) | 60/66 1:00:00, 63/66 59:50, 61/67 59:56 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **61/66 59:04** |  | [Bay Area Slowcubin' 2025](https://www.worldcubeassociation.org/competitions/BayAreaSlowcubin2025) | 61/66 59:04 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **60/64 1:00:04** |  | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) | 60/64 1:00:04 |
+| [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **54/57 56:55** |  | [MBLD Madness in Dobřejovice 2025](https://www.worldcubeassociation.org/competitions/MBLDMadnessinDobrejovice2025) | 54/57 56:55, DNF, DNF |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **54/58 59:28** |  | [Swiss Nationals 2025](https://www.worldcubeassociation.org/competitions/SwissNationals2025) | DNS, 54/58 59:28 |
-| [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **53/57 55:51** |  | [KoprCube Blind 2025](https://www.worldcubeassociation.org/competitions/KoprCubeBlind2025) | 50/59 1:00:00, 53/57 55:51 |
 | [Andrew Tao](https://www.worldcubeassociation.org/persons/2022TAOA01) | **52/55 59:52** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 52/55 59:52, 40/57 1:00:00 |
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **50/53 59:03** |  | [More Cubes Karori 2025](https://www.worldcubeassociation.org/competitions/MoreCubesKarori2025) | 50/53 59:03, 50/54 1:00:02 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **45/46 59:15** |  | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | 35/41 56:55, 45/46 59:15 |

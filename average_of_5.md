@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube
@@ -106,8 +106,8 @@
 | 16.44 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | 15.67, 17.28, 17.51, 15.68, 16.36 |
 | 16.70 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 16.30, 15.65, DNF, 16.35, 17.45 |
 | 16.89 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | DNF, 16.36, 14.81, 18.36, 15.96 |
+| 17.08 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | 18.57, 16.05, 16.74, 18.44, 15.60 |
 | 17.24 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | 17.76, 21.54, 15.24, 17.89, 16.07 |
-| 17.64 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | DNF, 17.94, 16.15, 18.60, 16.37 |
 
 ### 3x3x3 Fewest Moves
 
@@ -239,10 +239,10 @@
 | 3:25.88 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 3:16.92, DNF, 3:24.64, 3:08.14, 3:36.07 |
 | 3:27.90 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:21.84, 3:33.47, 3:06.91, DNF, 3:28.38 |
 | 3:27.90 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 3:15.68, 3:34.04, DNF, 3:33.97, 2:58.31 |
+| 4:10.73 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | 4:02.12, 2:57.34, DNF, 3:41.69, 4:48.38 |
 | 4:15.39 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 3:56.14, 3:58.55, 3:46.48, 5:12.40, 4:51.48 |
 | 4:18.48 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | DNF, 4:00.53, 4:25.98, 4:28.94, 3:33.98 |
 | 4:25.46 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4:30.97, 4:39.16, 4:06.26, DNF, 3:34.45 |
-| 4:27.15 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 4:30.47, 4:08.12, 3:52.32, DNF, 4:42.85 |
 
 ### 3x3x3 With Feet
 

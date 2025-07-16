@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube
@@ -115,6 +115,7 @@
 | ---: | :--- | :--- |
 | 59 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [GLS Winter Camp 2019](https://www.worldcubeassociation.org/competitions/GLSWinterCamp2019) |
 | 56 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Seomara Cube Fest 2024](https://www.worldcubeassociation.org/competitions/SeomaraCubeFest2024) |
+| 50 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) |
 | 48 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) | [The Hague Open 2017](https://www.worldcubeassociation.org/competitions/TheHagueOpen2017) |
 | 46 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | [Michigan Mini 27 2025](https://www.worldcubeassociation.org/competitions/MichiganMini272025) |
 | 45 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | [Cuberussia in Kalmykia 2017](https://www.worldcubeassociation.org/competitions/CuberussiainKalmykia2017) |
@@ -122,7 +123,6 @@
 | 39 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | [Mallorca Open 2025](https://www.worldcubeassociation.org/competitions/MallorcaOpen2025) |
 | 38 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) | [Pi Berkeley Quiet 2020](https://www.worldcubeassociation.org/competitions/PiBerkeleyQuiet2020) |
 | 36 | [Marcos Ameijeiras Moreno](https://www.worldcubeassociation.org/persons/2008MORE01) | [Andorra 2019](https://www.worldcubeassociation.org/competitions/Andorra2019) |
-| 35 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019) |
 
 ### 3x3x3 One-Handed
 
@@ -256,8 +256,8 @@
 | 28 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) | [Vilnius Open 2021](https://www.worldcubeassociation.org/competitions/VilniusOpen2021) |
 | 27 | [Saiyam Jain](https://www.worldcubeassociation.org/persons/2015JAIN21) | [Nepali Nationals 2025](https://www.worldcubeassociation.org/competitions/NepaliNationals2025) |
 | 27 | [Ivan Krueger](https://www.worldcubeassociation.org/persons/2016KRUE01) | [Hilliard Hippocampus VII 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusVII2023) |
+| 26 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) |
 | 25 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) | [Pocos Cupos VII 2024](https://www.worldcubeassociation.org/competitions/PocosCuposVII2024) |
-| 24 | [John Edison Ubaldo (ᜇ᜔ᜌᜓ︀ᜈ᜔ ᜁᜇᜒᜐᜓ︀ᜈ᜔ ᜂᜊᜎ᜔ᜇᜓ︀)](https://www.worldcubeassociation.org/persons/2010UBAL01) | [Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/VisayasChampionship2019) |
 
 ### 3x3x3 With Feet
 

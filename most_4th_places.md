@@ -1,14 +1,14 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 16 July 2025*
+*Updated on 19 July 2025*
 
 | 4th places | Person |
 | ---: | :--- |
 | 259 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 258 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 223 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
-| 211 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 212 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 190 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 185 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 183 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -26,7 +26,7 @@
 | 137 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 134 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 129 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
-| 126 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
+| 128 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 126 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 126 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 126 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
@@ -90,13 +90,13 @@
 | 87 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 87 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 86 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
+| 86 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 85 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
-| 85 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
-| 84 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
+| 84 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 84 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 84 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
+| 84 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 84 | [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) |
-| 84 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 83 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 83 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 82 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |

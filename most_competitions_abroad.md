@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 16 July 2025*
+*Updated on 19 July 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -9,7 +9,7 @@
 | 162 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 157 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 156 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 152 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
+| 153 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 147 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 137 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 136 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
@@ -27,16 +27,16 @@
 | 110 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 108 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 108 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
+| 107 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 107 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 106 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
+| 106 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 105 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
-| 104 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 103 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
+| 104 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 103 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 101 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
-| 99 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
+| 101 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 100 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 99 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
-| 99 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 97 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
 | 97 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 97 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
@@ -98,11 +98,11 @@
 | 61 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 61 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 61 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
-| 60 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 60 | [Amey Gaba](https://www.worldcubeassociation.org/persons/2016GABA02) |
+| 60 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 60 | [Chia-Wei Lu (呂家維)](https://www.worldcubeassociation.org/persons/2007LUCH01) |
 | 60 | [Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02) |
-| 59 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
+| 59 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 59 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 
 

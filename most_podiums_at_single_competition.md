@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -245,6 +245,7 @@
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Exeter Open 2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016/results/podiums) |
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Pittsburgh Fall 2019](https://www.worldcubeassociation.org/competitions/PittsburghFall2019/results/podiums) |
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Raleigh Open 2012](https://www.worldcubeassociation.org/competitions/RaleighOpen2012/results/podiums) |
+| 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Binghamton Summer 2025](https://www.worldcubeassociation.org/competitions/BinghamtonSummer2025/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Chemung Cubing 2023](https://www.worldcubeassociation.org/competitions/ChemungCubing2023/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Danish Special 2015](https://www.worldcubeassociation.org/competitions/DanishSpecial2015/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Empire State Winter 2025](https://www.worldcubeassociation.org/competitions/EmpireStateWinter2025/results/podiums) |
@@ -714,6 +715,7 @@
 | 12 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Swedish Championship 2017](https://www.worldcubeassociation.org/competitions/SwedishChampionship2017/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [ÅF Swedish Cube Open 2016](https://www.worldcubeassociation.org/competitions/AFSwedishCubeOpen2016/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Björneborg Winter 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWinter2023/results/podiums) |
+| 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Uppsala I - 2025](https://www.worldcubeassociation.org/competitions/KublordagUppsalaI2025/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås VIII - 2025](https://www.worldcubeassociation.org/competitions/KublordagVasterasVIII2025/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norrland Tour: Umekuben 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourUmekuben2025/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norwegian Championship 2019](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2019/results/podiums) |
@@ -1068,6 +1070,7 @@
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Tietomaa Open 2019](https://www.worldcubeassociation.org/competitions/TietomaaOpen2019/results/podiums) |
 | 17 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Kansas Championship 2024](https://www.worldcubeassociation.org/competitions/KansasChampionship2024/results/podiums) |
 | 15 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Kansas Championship 2025](https://www.worldcubeassociation.org/competitions/KansasChampionship2025/results/podiums) |
+| 15 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Southern Championship 2025](https://www.worldcubeassociation.org/competitions/SouthernChampionship2025/results/podiums) |
 | 13 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Arizona Championship 2024](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2024/results/podiums) |
 | 13 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Nebraska Heartland Warmup 2023](https://www.worldcubeassociation.org/competitions/NebraskaHeartlandWarmup2023/results/podiums) |
 | 13 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/podiums) |
@@ -1365,6 +1368,7 @@
 | 10 | [Sujan Irosha Kumarapperuma](https://www.worldcubeassociation.org/persons/2019KUMA59) | [Colombo Cubing Christmas 2023](https://www.worldcubeassociation.org/competitions/ColomboCubingChristmas2023/results/podiums) |
 | 10 | [Sujan Irosha Kumarapperuma](https://www.worldcubeassociation.org/persons/2019KUMA59) | [Marawila Cubing Challenge 2024](https://www.worldcubeassociation.org/competitions/MarawilaCubingChallenge2024/results/podiums) |
 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
+| 12 | [Jack McDougall](https://www.worldcubeassociation.org/persons/2020MCDO01) | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025/results/podiums) |
 | 10 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | [Big and Blind Queenstown 2025](https://www.worldcubeassociation.org/competitions/BigandBlindQueenstown2025/results/podiums) |
 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/podiums) |
 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Romanian Championship 2023](https://www.worldcubeassociation.org/competitions/RomanianNationalChampionship2023/results/podiums) |

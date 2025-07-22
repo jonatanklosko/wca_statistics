@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 
 ### Rubik's Cube - Single
@@ -58,11 +58,11 @@
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **0.95** |  | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025) | 0.89, 0.88, 1.06, 3.83, 0.90 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **0.97** |  | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025) | 1.02, 0.82, 1.06, 1.06, 0.71 |
 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | **0.99** |  | [Preble Spring 2025](https://www.worldcubeassociation.org/competitions/PrebleSpring2025) | 1.00, 0.91, 0.80, 1.59, 1.06 |
+| [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | **1.00** |  | [Stevenage July 2025](https://www.worldcubeassociation.org/competitions/StevenageJuly2025) | 1.35, 0.91, 1.10, 0.99, 0.91 |
 | [Emanuel Schelin](https://www.worldcubeassociation.org/persons/2022SCHE13) | **1.07** |  | [Sörmland Open 2025](https://www.worldcubeassociation.org/competitions/SormlandOpen2025) | 1.25, 0.99, 0.97, 3.67, 0.92 |
 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | **1.08** |  | [Luoyang Spring 2025](https://www.worldcubeassociation.org/competitions/LuoyangSpring2025) | 1.08, 1.09, 2.53, 1.02, 1.07 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **1.11** |  | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025) | 1.15, 1.12, 1.21, 1.06, 0.73 |
 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) | **1.13** |  | [Great Peconic Bay 2025](https://www.worldcubeassociation.org/competitions/GreatPeconicBay2025) | 1.09, 4.09, 1.06, 1.25, 0.72 |
-| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **1.14** |  | [Leersum Squared 2025](https://www.worldcubeassociation.org/competitions/LeersumSquared2025) | 1.21, 1.20, 1.00, 0.89, DNF |
 
 ### 4x4x4 Cube - Single
 
@@ -331,8 +331,8 @@
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **1.53** |  | [Ivanka pri Dunaji Open 2025](https://www.worldcubeassociation.org/competitions/IvankapriDunajiOpen2025) | 1.66, 1.47, 1.47, 4.36, 1.23 |
 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) | **1.55** |  | [Pickering Favourites Spring 2025](https://www.worldcubeassociation.org/competitions/PickeringFavouritesSpring2025) | 1.55, 1.34, 1.73, 3.21, 1.36 |
 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | **1.57** |  | [Santpedor Open 2025](https://www.worldcubeassociation.org/competitions/SantpedorOpen2025) | 1.51, 1.76, 1.22, 1.47, 1.73 |
+| [Carson Clark (张卡森)](https://www.worldcubeassociation.org/persons/2023CLAR02) | **1.58** |  | [Ohio State Summer 2025](https://www.worldcubeassociation.org/competitions/OhioStateSummer2025) | 1.65, 1.52, 1.84, 1.56, 1.44 |
 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | **1.59** |  | [North Carolina Championship 2025](https://www.worldcubeassociation.org/competitions/NorthCarolinaChampionship2025) | 1.41, 1.32, 1.61, 3.21, 1.74 |
-| [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **1.60** |  | [Bristol June 2025](https://www.worldcubeassociation.org/competitions/BristolJune2025) | 2.83, 1.57, 1.39, 1.74, 1.48 |
 
 ### Rubik's Clock - Single
 

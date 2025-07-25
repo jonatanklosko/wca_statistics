@@ -1,13 +1,13 @@
 ## Most competitions abroad
 
-*Updated on 22 July 2025*
+*Updated on 25 July 2025*
 
 | Competitions | Person |
 | ---: | :--- |
 | 214 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 204 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 162 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 157 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
+| 158 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 156 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 153 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 147 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
@@ -45,9 +45,9 @@
 | 93 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 93 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 91 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
+| 90 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 89 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 89 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
-| 89 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 89 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 86 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 86 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |

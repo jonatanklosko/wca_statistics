@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 22 July 2025*
+*Updated on 25 July 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -46,7 +46,7 @@
 | 52 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 7x7x7 Cube | [YJ Malaysia Cube Open 2022](https://www.worldcubeassociation.org/competitions/YJMalaysiaCubeOpen2022) |  |
 | 51 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | Square-1 | [Big Pine Open 2015](https://www.worldcubeassociation.org/competitions/BigPineOpen2015) |  |
 | 50 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | Pyraminx | [Kristianstad Open 2009](https://www.worldcubeassociation.org/competitions/KristianstadOpen2009) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
-| 49 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | 7x7x7 Cube | [Fénix 2014](https://www.worldcubeassociation.org/competitions/Fenix2014) |  |
+| 50 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | 7x7x7 Cube | [Fénix 2014](https://www.worldcubeassociation.org/competitions/Fenix2014) |  |
 | 49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4x4x4 Cube | [Kubsala Winter 2023](https://www.worldcubeassociation.org/competitions/KubsalaWinter2023) |  |
 | 48 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 5x5x5 Cube | [Pleasantville Fall 2007](https://www.worldcubeassociation.org/competitions/PleasantvilleFall2007) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
 | 48 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | 4x4x4 Cube | [XPU Open 2017](https://www.worldcubeassociation.org/competitions/XPUOpen2017) | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023) |

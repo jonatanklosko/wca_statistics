@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 July 2025*
+*Updated on 25 July 2025*
 
 
 ### Rubik's Cube
@@ -59,7 +59,7 @@
 | 38.35 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 40.52, 34.82, 40.12, 36.76, 39.67, 43.31, 38.02, 44.40, 34.49, 34.16, 37.95, 37.82 |
 | 38.53 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 38.06, 37.75, 37.62, 32.98, 50.62, 39.18, 36.80, 38.53, 37.17, 36.48, 42.12, 41.55 |
 | 39.01 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 38.56, 38.65, 39.73, 39.29, 41.54, 43.81, 39.26, 33.83, DNF, 36.68, 37.01, 35.61 |
-| 40.88 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 45.14, 38.45, 41.20, 37.37, 45.32, 40.92, 39.39, 41.52, 42.68, 37.25, 38.56, 43.55 |
+| 40.79 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 36.26, 41.23, 39.58, 42.99, 44.71, 39.78, 41.65, 40.89, 38.67, 42.69, 38.49, 41.89 |
 | 41.23 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 42.38, 40.56, 36.37, 43.64, 43.44, 46.13, 44.83, 39.50, 37.72, 41.32, 41.15, 37.75 |
 | 41.53 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 41.77, 39.44, 41.50, 40.97, 40.97, 41.12, 46.82, 38.91, 40.54, 46.40, 41.82, 40.81 |
 | 41.59 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 41.81, 38.28, 40.37, 45.46, 47.66, 38.32, 42.29, 43.97, 40.91, 37.77, 41.07, 43.45 |
@@ -92,7 +92,7 @@
 | 1:51.28 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:43.89, 1:49.75, 1:57.50, 1:58.64, 1:50.38, 1:48.12, 2:02.23, 1:45.58, 1:38.58, 2:01.50, 1:58.81, 1:36.79 |
 | 1:54.74 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:51.90, 1:52.28, 1:50.04, 1:46.44, 2:01.64, 1:59.54, 1:57.76, 1:50.09, 1:53.85, 1:51.64, 1:58.74, 2:01.54 |
 | 1:55.79 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:55.25, 1:54.40, 2:10.43, 1:55.63, 1:53.75, 1:57.75, 1:52.60, 1:49.39, 1:57.61, 1:51.04, 2:14.29, 1:48.53 |
-| 1:56.44 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:58.88, 1:44.33, 1:58.29, 2:01.16, 1:50.59, 1:55.89, 2:02.91, 2:00.30, 1:46.66, 1:55.52, 2:03.27, 1:54.20 |
+| 1:56.08 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:54.20, 2:01.02, 1:56.14, 1:54.65, 2:13.48, 2:01.05, 2:04.32, 1:53.35, 1:47.78, 1:47.52, 2:00.76, 1:46.79 |
 
 ### 3x3x3 Blindfolded
 

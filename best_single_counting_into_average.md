@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 22 July 2025*
+*Updated on 25 July 2025*
 
 
 ### Rubik's Cube
@@ -105,8 +105,8 @@
 | 1.11 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024/results/by_person#2019JIAN54) |
 | 1.14 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2017NIEL03) |
 | 1.15 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/by_person#2019JIAN54) |
+| 1.15 | [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) | [Xi'an Summer 2025](https://www.worldcubeassociation.org/competitions/XianSummer2025/results/by_person#2021LILI03) |
 | 1.15 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Maitland Spring 2024](https://www.worldcubeassociation.org/competitions/MaitlandSpring2024/results/by_person#2021LEES01) |
-| 1.16 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Yancheng Open 2024](https://www.worldcubeassociation.org/competitions/YanchengOpen2024/results/by_person#2019JIAN54) |
 
 ### Rubik's Clock
 

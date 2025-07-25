@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 July 2025*
+*Updated on 25 July 2025*
 
 
 ### Rubik's Cube - Single
@@ -180,9 +180,9 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:44.78** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 1:39.95, 1:52.79, 1:41.60 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:46.72** |  | [Please Big Cubes Korea 2025](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2025) | 1:48.43, 1:46.84, 1:44.90 |
 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **1:48.80** |  | [Please Big Cubes Korea 2025](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2025) | 2:02.23, 1:45.58, 1:38.58 |
+| [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **1:49.55** |  | [WisconsiNxN 2025](https://www.worldcubeassociation.org/competitions/WisconsiNxN2025) | 1:53.35, 1:47.78, 1:47.52 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:52.71** |  | [French Championship 2025](https://www.worldcubeassociation.org/competitions/FrenchChampionship2025) | 1:50.04, 1:46.44, 2:01.64 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **1:53.14** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 2:00.92, 1:46.25, 1:52.24 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **1:53.23** |  | [Cavite Speedcubing Open XI 2025](https://www.worldcubeassociation.org/competitions/CaviteSpeedcubingOpenXI2025) | 1:55.91, 1:51.04, 1:52.75 |
 
 ### 3x3x3 Blindfolded - Single
 

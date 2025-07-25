@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 July 2025*
+*Updated on 25 July 2025*
 
 
 ### Rubik's Cube
@@ -90,9 +90,9 @@
 | 1:44.98 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:39.95, 1:52.79, 1:41.60, 1:50.15, 1:43.19 |
 | 1:47.66 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:45.58, 1:38.58, 2:01.50, 1:58.81, 1:36.79 |
 | 1:47.79 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:42.58, 1:46.49, 2:00.70, 1:54.30, 1:38.42 |
+| 1:49.55 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:53.35, 1:47.78, 1:47.52, 2:00.76, 1:46.79 |
 | 1:51.41 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 2:05.47, 1:51.90, 1:52.28, 1:50.04, 1:46.44 |
 | 1:52.68 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:49.39, 1:57.61, 1:51.04, 2:14.29, 1:48.53 |
-| 1:54.45 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 1:59.63, 1:49.27, 1:53.95, 1:55.00, 1:54.39 |
 
 ### 3x3x3 Blindfolded
 

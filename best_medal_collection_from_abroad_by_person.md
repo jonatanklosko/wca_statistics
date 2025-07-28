@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -16,8 +16,8 @@
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **178** | 187 | 103 | 468 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **171** | 69 | 38 | 278 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
-| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **163** | 99 | 50 | 312 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **146** | 160 | 137 | 443 |
+| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **163** | 99 | 51 | 313 |
+| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **147** | 161 | 137 | 445 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **140** | 74 | 43 | 257 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **128** | 103 | 84 | 315 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
@@ -36,18 +36,18 @@
 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | **92** | 99 | 67 | 258 |
 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **91** | 53 | 46 | 190 |
 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | **88** | 31 | 27 | 146 |
-| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **86** | 94 | 48 | 228 |
+| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **86** | 95 | 49 | 230 |
 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **86** | 75 | 58 | 219 |
-| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **85** | 65 | 59 | 209 |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **85** | 65 | 60 | 210 |
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **85** | 65 | 55 | 205 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **83** | 45 | 31 | 159 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **82** | 20 | 4 | 106 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **77** | 50 | 52 | 179 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **74** | 31 | 20 | 125 |
+| [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **73** | 53 | 32 | 158 |
 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **73** | 44 | 15 | 132 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **72** | 83 | 55 | 210 |
-| [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **71** | 52 | 32 | 155 |
 | [Gergely Novotni](https://www.worldcubeassociation.org/persons/2016NOVO01) | **71** | 36 | 20 | 127 |
 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |
 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **69** | 59 | 42 | 170 |

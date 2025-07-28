@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 
 ### Rubik's Cube
@@ -60,9 +60,9 @@
 | 38.53 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 38.06, 37.75, 37.62, 32.98, 50.62, 39.18, 36.80, 38.53, 37.17, 36.48, 42.12, 41.55 |
 | 39.01 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 38.56, 38.65, 39.73, 39.29, 41.54, 43.81, 39.26, 33.83, DNF, 36.68, 37.01, 35.61 |
 | 40.79 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 36.26, 41.23, 39.58, 42.99, 44.71, 39.78, 41.65, 40.89, 38.67, 42.69, 38.49, 41.89 |
+| 40.94 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 43.79, 40.55, 44.80, 40.30, 37.53, 45.01, 36.14, DNF, 38.57, 41.28, 39.50, 38.08 |
 | 41.23 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 42.38, 40.56, 36.37, 43.64, 43.44, 46.13, 44.83, 39.50, 37.72, 41.32, 41.15, 37.75 |
 | 41.53 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 41.77, 39.44, 41.50, 40.97, 40.97, 41.12, 46.82, 38.91, 40.54, 46.40, 41.82, 40.81 |
-| 41.59 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 41.81, 38.28, 40.37, 45.46, 47.66, 38.32, 42.29, 43.97, 40.91, 37.77, 41.07, 43.45 |
 
 ### 6x6x6 Cube
 

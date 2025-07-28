@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -163,6 +163,7 @@
 | 8 | [La Florita Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/LaFloritaMentalBreakdown2022) |
 | 8 | [Lake George 2024](https://www.worldcubeassociation.org/competitions/LakeGeorge2024) |
 | 8 | [Last Minute Qualifier 2017](https://www.worldcubeassociation.org/competitions/LastMinuteQualifier2017) |
+| 8 | [Latina Minimal Moves 2025](https://www.worldcubeassociation.org/competitions/LatinaMinimalMoves2025) |
 | 8 | [Latvian FMC Championship 2023](https://www.worldcubeassociation.org/competitions/LatvianFMCChampionship2023) |
 | 8 | [Lejre Side Events 2025](https://www.worldcubeassociation.org/competitions/LejreSideEvents2025) |
 | 8 | [Micro Minnesota 2024](https://www.worldcubeassociation.org/competitions/MicroMinnesota2024) |
@@ -386,6 +387,7 @@
 | 11 | [Curaçao Open 2022](https://www.worldcubeassociation.org/competitions/CuracaoOpen2022) |
 | 11 | [Destino Maya Honduras 2019](https://www.worldcubeassociation.org/competitions/DestinoMayaHonduras2019) |
 | 11 | [DFW Fall Warmup 2023](https://www.worldcubeassociation.org/competitions/DFWFallWarmup2023) |
+| 11 | [FMC at Fosters Pointe 2025](https://www.worldcubeassociation.org/competitions/FMCatFostersPointe2025) |
 | 11 | [FMC Carrières 2024](https://www.worldcubeassociation.org/competitions/FMCCarrieres2024) |
 | 11 | [FMC with Some Sides 2023](https://www.worldcubeassociation.org/competitions/FMCHelsinkiwithSomeSides2023) |
 | 11 | [FMC Quezon City 2025](https://www.worldcubeassociation.org/competitions/FMCQuezonCity2025) |
@@ -854,6 +856,7 @@
 | 15 | [Please Be Quiet Toronto 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietToronto2019) |
 | 15 | [Please Be Solved Vancouver 2022](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2022) |
 | 15 | [Poznań Side Challenge 2017](https://www.worldcubeassociation.org/competitions/PoznanSideChallenge2017) |
+| 15 | [PU Villavicencio II 2025](https://www.worldcubeassociation.org/competitions/PUVillavicencioII2025) |
 | 15 | [Puy de Dome Open 2011](https://www.worldcubeassociation.org/competitions/PuydeDomeOpen2011) |
 | 15 | [Qəbələ Payız 2019](https://www.worldcubeassociation.org/competitions/QebelePayiz2019) |
 | 15 | [Qualifornia 2018](https://www.worldcubeassociation.org/competitions/Qualifornia2018) |

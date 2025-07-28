@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -254,6 +254,7 @@
 | 1199 | [Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01) |
 | 1204 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 | 1204 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
+| 1211 | [Pierce Tickle](https://www.worldcubeassociation.org/persons/2022TICK01) |
 | 1218 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1219 | [Mihály Horváth](https://www.worldcubeassociation.org/persons/2016HORV04) |
 | 1222 | [Harry Forbes](https://www.worldcubeassociation.org/persons/2021FORB01) |
@@ -526,6 +527,7 @@
 | 2499 | [Tien Tran](https://www.worldcubeassociation.org/persons/2018TRAN09) |
 | 2500 | [Michael Larsen](https://www.worldcubeassociation.org/persons/2017LARS03) |
 | 2505 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) |
+| 2511 | [Cyrille Beauchesne](https://www.worldcubeassociation.org/persons/2018BEAU06) |
 | 2513 | [Adrien Neveu](https://www.worldcubeassociation.org/persons/2018NEVE02) |
 | 2520 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 2533 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |

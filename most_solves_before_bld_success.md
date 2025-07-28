@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -70,13 +70,13 @@
 | 25 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 25 | [Alistair Robequin](https://www.worldcubeassociation.org/persons/2019ROBE01) |
 | 24 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
+| 24 | [Pierce Tickle](https://www.worldcubeassociation.org/persons/2022TICK01) |
 | 23 | [Ole Nikolai Gjerset](https://www.worldcubeassociation.org/persons/2011GJER02) |
 | 23 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 23 | [Jae Park](https://www.worldcubeassociation.org/persons/2015PARK24) |
 | 23 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
 | 22 | [Ryan DeLine](https://www.worldcubeassociation.org/persons/2012DELI01) |
 | 22 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
-| 22 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 
 ### 3x3x3 Multi-Blind
 

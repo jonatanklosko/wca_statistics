@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 
 ### Pairs
@@ -58,14 +58,14 @@
 | 102 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 102 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) & [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 100 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
+| 99 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 99 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) & [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
 | 99 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 98 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
-| 98 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 98 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) & [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
+| 97 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) & [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 97 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) & [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) |
 | 96 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) & [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
-| 96 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) & [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 95 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) & [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) |
 | 95 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) & [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) |
 | 94 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) & [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
@@ -82,6 +82,7 @@
 | 88 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) & [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 88 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) & [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) |
 | 87 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) & [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 86 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) & [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
 | 86 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) & [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 86 | [Alejandro Marze Rossel](https://www.worldcubeassociation.org/persons/2016ROSS04) & [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) |
 | 86 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) & [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
@@ -91,7 +92,6 @@
 | 83 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 | 83 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) & [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
 | 83 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) & [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
-| 83 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) & [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
 | 82 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) & [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) |
 | 82 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) & [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |
 | 82 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) & [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
@@ -178,6 +178,7 @@
 | 18 | [Carlos Miguel Parra Gonzalez](https://www.worldcubeassociation.org/persons/2013GONZ07) & [Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01) & [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) |
 | 18 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) & [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) & [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 18 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) & [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) & [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
+| 18 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) & [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 18 | [Gabriel Santiago Velez Gonzalez](https://www.worldcubeassociation.org/persons/2016GONZ52) & [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) & [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) |
 | 18 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) & [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) & [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 18 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) & [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) & [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
@@ -187,7 +188,6 @@
 | 18 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) & [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) & [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 17 | [Arvid Ahlstrand](https://www.worldcubeassociation.org/persons/2022AHLS01) & [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 17 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) & [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) & [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
-| 17 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) & [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 17 | [Magnus Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN01) & [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) & [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 17 | [Francisco Thales Rocha Sousa](https://www.worldcubeassociation.org/persons/2013SOUS03) & [Levi Cordeiro do Vale Menezes](https://www.worldcubeassociation.org/persons/2019MENE03) & [Lucas Cordeiro do Vale Menezes](https://www.worldcubeassociation.org/persons/2019MENE04) |
 | 17 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) & [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) & [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
@@ -208,10 +208,10 @@
 | 16 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) & [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) & [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 16 | [Aldo José Gramajo de León](https://www.worldcubeassociation.org/persons/2015LEON08) & [Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02) & [Jesser Armando Ramírez Diaz](https://www.worldcubeassociation.org/persons/2016DIAZ21) |
 | 16 | [Tomas Jankauskas](https://www.worldcubeassociation.org/persons/2013JANK02) & [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) & [Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03) |
+| 16 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) & [Gergely Novotni](https://www.worldcubeassociation.org/persons/2016NOVO01) & [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) |
 | 15 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) & [Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06) & [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
 | 15 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) & [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) & [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 15 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) & [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) & [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
-| 15 | [Mantas Urbanavičius](https://www.worldcubeassociation.org/persons/2017URBA01) & [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) & [Rūdolfs Vīnkalns](https://www.worldcubeassociation.org/persons/2017VNKA01) |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

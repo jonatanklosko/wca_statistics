@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1106,6 +1106,8 @@
 | 11 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [São Paulo Open 2009](https://www.worldcubeassociation.org/competitions/SaoPauloOpen2009/results/podiums) |
 | 10 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [São Paulo Open 2009](https://www.worldcubeassociation.org/competitions/SaoPauloOpen2009/results/podiums) |
 | 12 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Saratoga Silent Springs 2024](https://www.worldcubeassociation.org/competitions/SaratogaSilentSprings2024/results/podiums) |
+| 13 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Saratoga Springs Summer 2025](https://www.worldcubeassociation.org/competitions/SaratogaSpringsSummer2025/results/podiums) |
+| 12 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) | [Saratoga Springs Summer 2025](https://www.worldcubeassociation.org/competitions/SaratogaSpringsSummer2025/results/podiums) |
 | 13 | [Artem Yashkov](https://www.worldcubeassociation.org/persons/2014YASH01) | [Saratov Winter Open 2017](https://www.worldcubeassociation.org/competitions/SaratovWinterOpen2017/results/podiums) |
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Say Hi to Cubing in Ankara 2024](https://www.worldcubeassociation.org/competitions/SayHitoCubinginAnkara2024/results/podiums) |
 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Schoolmark Open 2018](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2018/results/podiums) |

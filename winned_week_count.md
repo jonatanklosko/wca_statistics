@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 
 ### Rubik's Cube
@@ -159,7 +159,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 50 |
-| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 33 |
+| [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 34 |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | 28 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 26 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | 26 |
@@ -171,13 +171,13 @@
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 19 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | 18 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 17 |
-| [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 15 |
+| [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 16 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 13 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 13 |
 | [Noa Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) | 12 |
-| [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | 12 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 11 |
 | [Sreeram Venkatarao](https://www.worldcubeassociation.org/persons/2008VENK01) | 11 |
+| [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | 11 |
 
 ### 3x3x3 Fewest Moves
 
@@ -201,8 +201,8 @@
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | 12 |
 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | 12 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 12 |
+| [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 11 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 11 |
-| [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) | 10 |
 
 ### 3x3x3 One-Handed
 
@@ -237,7 +237,7 @@
 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 37 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 36 |
 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 28 |
-| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 27 |
+| [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 28 |
 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | 23 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | 22 |
 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 21 |
@@ -247,10 +247,10 @@
 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 15 |
 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) | 13 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 13 |
-| [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 13 |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 13 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 12 |
 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 12 |
+| [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 12 |
 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) | 11 |
 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) | 11 |
 
@@ -275,8 +275,8 @@
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 10 |
 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 10 |
 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) | 9 |
+| [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 9 |
 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 8 |
-| [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 8 |
 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 8 |
 
 ### Rubik's Clock
@@ -308,7 +308,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 36 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 37 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 29 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 26 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 20 |

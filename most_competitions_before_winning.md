@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 
 ### Rubik's Cube
@@ -32,7 +32,7 @@
 | 88 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | [North Highlands Summer 2025](https://www.worldcubeassociation.org/competitions/NorthHighlandsSummer2025) |
 | 87 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | [Honolulu Hoʻoilo 2025](https://www.worldcubeassociation.org/competitions/HonoluluHooilo2025) |
 | 79 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023) |
-| 76 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [Idaho Spudcubing II 2021](https://www.worldcubeassociation.org/competitions/IdahoSpudcubingII2021) |
+| 77 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | [Hungarian All-Rounder 8 2025](https://www.worldcubeassociation.org/competitions/HungarianAllRounder82025) |
 
 ### 4x4x4 Cube
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 
 ### Rubik's Cube
@@ -60,9 +60,9 @@
 | 36.75 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 44.40, 34.49, 34.16, 37.95, 37.82 |
 | 37.50 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 39.18, 36.80, 38.53, 37.17, 36.48 |
 | 39.47 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 39.50, 37.72, 41.32, 41.15, 37.75 |
+| 39.78 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 36.14, DNF, 38.57, 41.28, 39.50 |
 | 39.82 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 39.39, 41.52, 42.68, 37.25, 38.56 |
 | 40.10 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 40.19, 39.70, 46.64, 40.40, 38.76 |
-| 40.14 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | 37.31, 39.86, 44.91, 38.68, 41.88 |
 
 ### 6x6x6 Cube
 

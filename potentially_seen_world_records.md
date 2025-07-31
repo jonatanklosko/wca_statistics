@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 28 July 2025*
+*Updated on 31 July 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -59,9 +59,9 @@
 | 86 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 86 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) |
 | 85 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) |
+| 84 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 84 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 84 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
-| 83 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 82 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 81 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |

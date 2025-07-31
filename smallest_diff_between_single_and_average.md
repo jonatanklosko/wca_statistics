@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 July 2025*
+*Updated on 31 July 2025*
 
 
 ### Rubik's Cube
@@ -106,8 +106,8 @@
 | 0.11 | [Adam Bermingham](https://www.worldcubeassociation.org/persons/2020BERM02) | 1:12.09 | 1:12.20 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024/results/by_person#2020BERM02) |
 | 0.12 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | 54.67 | 54.79 | [Oulu Open 2022](https://www.worldcubeassociation.org/competitions/OuluOpen2022/results/by_person#2014VIKS01) |
 | 0.13 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | 36.81 | 36.94 | [Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017/results/by_person#2014ZHAO12) |
+| 0.14 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) | 20.46 | 20.60 | [Spark Melbourne July 2025](https://www.worldcubeassociation.org/competitions/SparkMelbourneJuly2025/results/by_person#2016CHAN25) |
 | 0.14 | [Ahmet Faruk Acar](https://www.worldcubeassociation.org/persons/2022ACAR01) | 20.72 | 20.86 | [Turkish Nationals 2024](https://www.worldcubeassociation.org/competitions/TurkishNationals2024/results/by_person#2022ACAR01) |
-| 0.14 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 23.32 | 23.46 | [BrizZon Side Open V 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2023/results/by_person#2020BARA02) |
 
 ### 3x3x3 One-Handed
 

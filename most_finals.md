@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 31 July 2025*
+*Updated on  1 August 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -27,7 +27,7 @@
 | 1407 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1384 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1368 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
-| 1352 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 1359 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1274 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1263 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 1260 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
@@ -61,17 +61,17 @@
 | 1036 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 1015 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 1003 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 1001 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 998 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
-| 998 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 996 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 988 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 977 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
+| 972 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 966 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 965 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
-| 963 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 956 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 955 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 952 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |

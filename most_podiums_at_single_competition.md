@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 31 July 2025*
+*Updated on  1 August 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1364,6 +1364,7 @@
 | 10 | [Samuel Martinez Sanchez](https://www.worldcubeassociation.org/persons/2019SANC20) | [Cubing Comicfest Cali 2025](https://www.worldcubeassociation.org/competitions/CubingComicfestCali2025/results/podiums) |
 | 11 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | [Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/VisayasChampionship2023/results/podiums) |
 | 10 | [Bárbara Guerra](https://www.worldcubeassociation.org/persons/2019RIBE11) | [Campeonato do Cerrado 2024](https://www.worldcubeassociation.org/competitions/CampeonatoCerrado2024/results/podiums) |
+| 11 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Khuvsgul Lake Open 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulLakeOpen2025/results/podiums) |
 | 12 | [Elias Nordlund](https://www.worldcubeassociation.org/persons/2019NORD06) | [Gutekuben 2024](https://www.worldcubeassociation.org/competitions/Gutekuben2024/results/podiums) |
 | 11 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales El Salvador 2024](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2024/results/podiums) |
 | 10 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales Guatemala 2023](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2023/results/podiums) |

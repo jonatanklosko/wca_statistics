@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 
 ### Rubik's Cube
@@ -211,8 +211,8 @@
 | 5.93 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 5.73, 7.28, 5.91, 4.86, 5.33, 5.30, 4.17, 6.13, DNF, 8.07, 5.94, 5.40, 5.03, 8.06, 5.85, 6.26, 5.44, 5.39, 5.33, 5.64, 5.50, 6.44, 6.83, 6.17, 5.53 |
 | 5.96 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 4.82, 5.56, 7.48, 6.00, 4.49, 5.90, 7.41, 6.00, 4.83, 6.07, 5.34, 7.38, 4.97, 6.74, 6.58, 5.72, 4.64, 5.57, 7.60, 7.11, 6.12, 6.50, 6.53, 4.70, 5.28 |
 | 6.13 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 5.56, 4.95, 5.97, 5.56, 6.78, 6.46, 6.31, DNF, 6.48, 5.72, 6.97, 5.53, 5.78, 7.50, 6.42, 5.17, 6.83, 5.96, 5.81, 4.10, 9.51, 6.65, 5.85, 5.65, 5.76 |
+| 6.13 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 4.35, 5.23, 5.62, 4.84, 7.94, 9.10, 5.40, 6.88, 4.90, DNF, 4.68, 6.04, 4.57, 7.51, 8.80, 4.97, 9.03, 7.35, 5.43, 4.91, 5.68, 5.30, 6.74, 6.85, 4.58 |
 | 6.14 | [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | 6.33, 6.80, 5.96, 6.32, 4.47, 4.68, 11.90, 7.00, 5.57, 11.55, 6.98, 5.97, 5.56, 5.91, 5.30, 6.23, 5.76, 6.29, 7.18, 5.75, 6.71, 5.88, 6.28, 5.06, 6.13 |
-| 6.20 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 4.78, 5.87, 5.09, 6.35, 6.75, 6.13, 5.84, 5.11, 9.95, 5.52, 4.60, 7.16, 6.97, 14.98, 4.35, 5.23, 5.62, 4.84, 7.94, 9.10, 5.40, 6.88, 4.90, DNF, 4.68 |
 
 ### 4x4x4 Blindfolded
 

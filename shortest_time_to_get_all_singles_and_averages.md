@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -125,6 +125,7 @@
 | 3935 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 3947 | [Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01) |
 | 3983 | [Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01) |
+| 4060 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 4144 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |
 | 4193 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |

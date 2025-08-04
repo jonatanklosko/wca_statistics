@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -61,6 +61,7 @@
 | 6 | [Alejandro Restrepo Echeverri](https://www.worldcubeassociation.org/persons/2017ECHE04) | Colombia | [Wembley Quimbaya II 2024](https://www.worldcubeassociation.org/competitions/WembleyQuimbayaII2024) |
 | 6 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | Russia | [Geel Beginners Sunday 2024](https://www.worldcubeassociation.org/competitions/GeelBeginnersSunday2024) |
 | 6 | [Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02) | India | [Cube Jatra 2017](https://www.worldcubeassociation.org/competitions/CubeJatra2017) |
+| 6 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | Israel | [Yeruham Cubing 2025](https://www.worldcubeassociation.org/competitions/YeruhamCubing2025) |
 | 6 | [Daniel Cano Salgado](https://www.worldcubeassociation.org/persons/2011SALG01) | Colombia | [San Luis Gonzaga 2014](https://www.worldcubeassociation.org/competitions/SanLuisGonzaga2014) |
 | 6 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | United States | [Buffalo Be Quiet 2024](https://www.worldcubeassociation.org/competitions/BuffaloBeQuiet2024) |
 | 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | Australia | [Marrickville Many May Open 2023](https://www.worldcubeassociation.org/competitions/MarrickvilleManyMayOpen2023) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 
 ### Rubik's Cube - Single
@@ -420,9 +420,9 @@
 | [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | **5.69** |  | [NZ South Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2025) | 7.23, 5.40, 5.74, 5.92, 5.38 |
 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **5.73** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 5.40, 6.88, 4.90, DNF, 4.68 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **5.80** |  | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) | 5.42, 5.88, 6.84, 5.56, 5.95 |
+| [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | **5.84** |  | [Fort Lee Summer 2025](https://www.worldcubeassociation.org/competitions/FortLeeSummer2025) | 6.26, 5.58, 5.45, 5.68, 7.09 |
 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | **5.86** |  | [Bigs Na Esquina Beagá Open 2025](https://www.worldcubeassociation.org/competitions/BigsNaEsquinaBeagaOpen2025) | 6.00, 13.29, 6.56, 5.02, 4.73 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **6.08** |  | [Warmup for Worlds Olympia 2025](https://www.worldcubeassociation.org/competitions/WarmupforWorldsOlympia2025) | 8.82, 4.88, 7.87, 5.31, 5.06 |
-| [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **6.16** |  | [Brazos Cubing Spring 2025](https://www.worldcubeassociation.org/competitions/BrazosCubingSpring2025) | 9.03, 7.10, 5.24, 6.15, 4.63 |
 
 ### 4x4x4 Blindfolded - Single
 
@@ -444,6 +444,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **59.39** |  | [New York Multimate PBQ II 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQII2025) | 57.83, 1:04.79, 55.54 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1:38.94** |  | [Swedish Blind Marathon 2025](https://www.worldcubeassociation.org/competitions/SwedishBlindMarathon2025) | 1:51.86, 1:31.99, 1:32.97 |
 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **1:39.39** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 1:41.60, 1:36.94, 1:39.62 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **1:41.67** |  | [Bay Area Slowcubin' 2025](https://www.worldcubeassociation.org/competitions/BayAreaSlowcubin2025) | 1:37.82, 1:45.70, 1:41.50 |
 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) | **1:43.42** |  | [Jog Your Memory Joondalup 2025](https://www.worldcubeassociation.org/competitions/JogYourMemoryJoondalup2025) | 1:41.97, 1:43.90, 1:44.38 |
@@ -452,7 +453,6 @@
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **2:13.07** |  | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | 2:25.78, 2:10.96, 2:02.48 |
 | [Marcos Ferreira Semolini](https://www.worldcubeassociation.org/persons/2017SEMO02) | **2:19.95** |  | [House Is Quiet Cidade Líder 2025](https://www.worldcubeassociation.org/competitions/HouseIsQuietCidadeLider2025) | 2:11.37, 2:59.13, 1:49.34 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | **2:21.15** |  | [Wellington Mind Games 2025](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2025) | 2:36.48, 2:24.61, 2:02.37 |
-| [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **2:24.42** |  | [Side & Blind North Andover 2025](https://www.worldcubeassociation.org/competitions/SideBlindNorthAndover2025) | 1:59.25, 2:24.96, 2:49.05 |
 
 ### 5x5x5 Blindfolded - Single
 

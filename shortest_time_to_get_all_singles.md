@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -191,6 +191,7 @@
 | 945 | [Arvid Ahlstrand](https://www.worldcubeassociation.org/persons/2022AHLS01) |
 | 952 | [Enzo Bruder-Jeannot](https://www.worldcubeassociation.org/persons/2021BRUD01) |
 | 953 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) |
+| 956 | [Eitan Ofer](https://www.worldcubeassociation.org/persons/2022OFER01) |
 | 958 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 958 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) |
 | 960 | [Chunyu Zhang (张春雨)](https://www.worldcubeassociation.org/persons/2011ZHAN24) |
@@ -301,6 +302,7 @@
 | 1406 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
 | 1406 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) |
 | 1407 | [Hanns Hub](https://www.worldcubeassociation.org/persons/2013HUBH01) |
+| 1414 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 | 1421 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
 | 1428 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) |
 | 1430 | [Liew Yee Voon (劉倚文)](https://www.worldcubeassociation.org/persons/2015VOON01) |

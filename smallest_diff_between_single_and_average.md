@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 
 ### Rubik's Cube
@@ -160,6 +160,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.01 | [Ihor Kastranets (Ігор Кастранець)](https://www.worldcubeassociation.org/persons/2018KAST02) | 4.47 | 4.48 | [Podolian Open 2024](https://www.worldcubeassociation.org/competitions/PodolianOpen2024/results/by_person#2018KAST02) |
 | 0.01 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 7.23 | 7.24 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019MORG10) |
+| 0.03 | [Jervis Yeo](https://www.worldcubeassociation.org/persons/2019YEOJ01) | 4.30 | 4.33 | [Clock Battle August SG 2025](https://www.worldcubeassociation.org/competitions/ClockBattleAugustSG2025/results/by_person#2019YEOJ01) |
 | 0.03 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 7.98 | 8.01 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2015SPEN01) |
 | 0.04 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.46 | 3.50 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
 | 0.04 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.76 | 3.80 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2021POLI02) |
@@ -167,7 +168,6 @@
 | 0.04 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) | 5.05 | 5.09 | [Sonvico Spring 2025](https://www.worldcubeassociation.org/competitions/SonvicoSpring2025/results/by_person#2017DUMM01) |
 | 0.04 | [Vinicius Shaw](https://www.worldcubeassociation.org/persons/2021SHAW02) | 5.24 | 5.28 | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/by_person#2021SHAW02) |
 | 0.04 | [Miguel Angel Zamorano Beltran](https://www.worldcubeassociation.org/persons/2023BELT03) | 8.06 | 8.10 | [Niños Héroes Jalisco 2023](https://www.worldcubeassociation.org/competitions/NinosHeroesJalisco2023/results/by_person#2023BELT03) |
-| 0.04 | [Lee Yu Zhe](https://www.worldcubeassociation.org/persons/2019ZHEL01) | 11.18 | 11.22 | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/by_person#2019ZHEL01) |
 
 ### Skewb
 

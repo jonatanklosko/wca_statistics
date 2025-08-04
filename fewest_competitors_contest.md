@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -189,6 +189,7 @@
 | 8 | [Spooky Mini-sota 2024](https://www.worldcubeassociation.org/competitions/SpookyMinisota2024) |
 | 8 | [Thunder Bay 2019](https://www.worldcubeassociation.org/competitions/SuperiorCubingThunderBay2019) |
 | 8 | [Suur-Kloostri Side Events 2024](https://www.worldcubeassociation.org/competitions/SuurKloostriSideEvents2024) |
+| 8 | [Swedish Blind Marathon 2025](https://www.worldcubeassociation.org/competitions/SwedishBlindMarathon2025) |
 | 8 | [The Sides Bahia Experience 2023](https://www.worldcubeassociation.org/competitions/TheSidesBahiaExperience2023) |
 | 8 | [Titán FMC 2025](https://www.worldcubeassociation.org/competitions/TitanFMC2025) |
 | 8 | [Tolong Diam Medan 2018](https://www.worldcubeassociation.org/competitions/TolongDiamMedan2018) |

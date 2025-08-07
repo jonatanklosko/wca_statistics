@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -133,6 +133,7 @@
 | 762 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
 | 762 | [Jerónimo Espinosa](https://www.worldcubeassociation.org/persons/2023ESPI07) |
 | 763 | [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) |
+| 769 | [Fabián Sánchez Del Toro](https://www.worldcubeassociation.org/persons/2023TORO02) |
 | 770 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) |
 | 774 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) |
 | 784 | [Anton Krokhmal (Антон Крохмаль)](https://www.worldcubeassociation.org/persons/2012KROK01) |

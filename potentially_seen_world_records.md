@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -71,8 +71,8 @@
 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 79 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 78 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 77 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
+| 79 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 78 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 77 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 77 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |

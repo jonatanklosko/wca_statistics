@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -147,6 +147,7 @@
 | 4 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) |
 | 4 | [Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02) |
 | 4 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
+| 4 | [Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03) |
 | 4 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 4 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
 | 4 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 August 2025*
+*Updated on 10 August 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -334,7 +334,7 @@
 | 12 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | [Cube4fun Bełżyce Autumn 2024](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceAutumn2024/results/podiums) |
 | 11 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2023](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2023/results/podiums) |
 | 12 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/podiums) |
-| 10 | [Bexo Bergardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Cubeando Ando Caracas 2018](https://www.worldcubeassociation.org/competitions/CubeandoCaracas2018/results/podiums) |
+| 10 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Cubeando Ando Caracas 2018](https://www.worldcubeassociation.org/competitions/CubeandoCaracas2018/results/podiums) |
 | 12 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Cubéate Weekend 2016](https://www.worldcubeassociation.org/competitions/CubeateWeekend2016/results/podiums) |
 | 11 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | [Cube Camp In Kaeng Krachan 2023](https://www.worldcubeassociation.org/competitions/CubeCampinKaengKrachan2023/results/podiums) |
 | 13 | [Andy Mok Man Cheuk (莫文卓)](https://www.worldcubeassociation.org/persons/2016CHEU04) | [Cube Camp in Nakhon Nayok 2024](https://www.worldcubeassociation.org/competitions/CubeCampinNakhonNayok2024/results/podiums) |
@@ -1361,7 +1361,7 @@
 | 12 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Vårgårda Open 2011](https://www.worldcubeassociation.org/competitions/VargardaOpen2011/results/podiums) |
 | 14 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Vårgårda Open 2012](https://www.worldcubeassociation.org/competitions/VargardaOpen2012/results/podiums) |
 | 11 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Veikkola Open 2017](https://www.worldcubeassociation.org/competitions/VeikkolaOpen2017/results/podiums) |
-| 13 | [Bexo Bergardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Venezuela Nationals 2023](https://www.worldcubeassociation.org/competitions/VenezuelaNationals2023/results/podiums) |
+| 13 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Venezuela Nationals 2023](https://www.worldcubeassociation.org/competitions/VenezuelaNationals2023/results/podiums) |
 | 10 | [Misael Alexander Mancuello Ayala](https://www.worldcubeassociation.org/persons/2021AYAL04) | [Verano on Asunción 2025](https://www.worldcubeassociation.org/competitions/VeranoonAsuncion2025/results/podiums) |
 | 10 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [VERK IV 2025](https://www.worldcubeassociation.org/competitions/VERKIV2025/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/podiums) |

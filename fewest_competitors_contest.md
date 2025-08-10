@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 August 2025*
+*Updated on 10 August 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -103,6 +103,7 @@
 | 7 | [Fantabulous MI Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMichigan2015) |
 | 7 | [FMC Fools Sanse 2025](https://www.worldcubeassociation.org/competitions/FMCFoolsSanse2025) |
 | 7 | [FMC Tijuas I 2025](https://www.worldcubeassociation.org/competitions/FMCTijuasI2025) |
+| 7 | [FMC Tijuas II 2025](https://www.worldcubeassociation.org/competitions/FMCTijuasII2025) |
 | 7 | [Gem City Airplane Mode II 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeII2023) |
 | 7 | [Gem City Airplane Mode VI 2024](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeVI2024) |
 | 7 | [Gem City Airplane XII OH 2024](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeXIIOH2024) |

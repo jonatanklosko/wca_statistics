@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 
 ### 300 Competitions
@@ -25,6 +25,7 @@
 | 4215 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 4355 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 4706 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 5042 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 5048 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 5146 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 5524 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
@@ -47,6 +48,7 @@
 | 3212 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 3289 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 3312 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 3395 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 3469 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 3515 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 3550 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
@@ -56,7 +58,6 @@
 | 3859 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 3922 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 3978 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
-| 4012 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 
 ### 150 Competitions
 
@@ -65,6 +66,7 @@
 | 803 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 983 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 1198 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 1378 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 2219 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 2247 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 2312 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
@@ -81,7 +83,6 @@
 | 2885 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 2885 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 2969 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
-| 3011 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 
 ### 100 Competitions
 

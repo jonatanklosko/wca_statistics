@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 
 ### Rubik's Cube
@@ -105,9 +105,9 @@
 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) | **20:10.00** | DNF | [GuateMaya Open 2013](https://www.worldcubeassociation.org/competitions/GuateMayaOpen2013/results/podiums#e333bf) | 2 |
 | [Mats Kollbrink](https://www.worldcubeassociation.org/persons/2007KOLL01) | **20:04.00** | DNF | [Estonian Open 2010](https://www.worldcubeassociation.org/competitions/EstonianOpen2010/results/podiums#e333bf) | 3 |
 | [Thomas Kohn](https://www.worldcubeassociation.org/persons/2005KOHN01) | **19:58.00** |  | [Chalmers Open 2005](https://www.worldcubeassociation.org/competitions/ChalmersOpen2005/results/podiums#e333bf) | 1 |
+| [Sanjay Kumar](https://www.worldcubeassociation.org/persons/2022KUMA02) | **18:29.00** | DNF | [Plenty O' Pauses Finprov 2025](https://www.worldcubeassociation.org/competitions/PlentyOPausesFinprov2025/results/podiums#e333bf) | 2 |
 | [Danila Rogozhnikov (Данила Рогожников)](https://www.worldcubeassociation.org/persons/2018ROGO03) | **17:06.00** | DNF | [Almet Open 2018](https://www.worldcubeassociation.org/competitions/AlmetOpen2018/results/podiums#e333bf) | 2 |
 | [John Louis](https://www.worldcubeassociation.org/persons/2006LOUI01) | **16:07.00** |  | [Delhi Open 2011](https://www.worldcubeassociation.org/competitions/DelhiOpen2011/results/podiums#e333bf) | 1 |
-| [Fyodor Borisov](https://www.worldcubeassociation.org/persons/2013BORI01) | **15:55.00** | DNF | [Ural Open 2016](https://www.worldcubeassociation.org/competitions/UralOpen2016/results/podiums#e333bf) | 3 |
 
 ### 3x3x3 Fewest Moves
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 August 2025*
+*Updated on 28 August 2025*
 
 
 ### Rubik's Cube
@@ -77,7 +77,7 @@
 | 1:12.23 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:10.44, 1:16.16, 1:10.38, 1:15.88, 1:03.43 |
 | 1:12.69 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1:19.92, 1:14.45, 1:08.09, 1:11.50, 1:12.13 |
 | 1:13.32 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:11.96, 1:13.14, 1:08.59, 1:30.01, 1:14.87 |
-| 1:13.71 | [Omar Ellabban](https://www.worldcubeassociation.org/persons/2018ELLA01) | 1:11.53, 1:28.53, 1:09.80, 1:19.80, 1:09.32 |
+| 1:13.49 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:14.22, 1:11.15, 1:15.10, 1:17.42, 1:10.87 |
 
 ### 7x7x7 Cube
 
@@ -196,8 +196,8 @@
 | 1.57 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.64, 1.52, 1.54, 3.64, 1.35 |
 | 1.59 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | 1.41, 1.39, 2.32, 1.49, 1.88 |
 | 1.63 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.52, 1.69, 1.69, 2.28, 1.52 |
+| 1.64 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 3.52, 1.85, 1.42, 1.66, 1.22 |
 | 1.65 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.72, 1.71, 1.52, 3.51, 1.44 |
-| 1.65 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 1.41, 4.80, 2.11, 1.43, 1.27 |
 
 ### Square-1
 
@@ -227,7 +227,7 @@
 | 1:38.09 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 1:22.17, 1:44.92, 1:39.21, 2:12.52, 1:30.13 |
 | 1:41.88 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | DNF, 1:44.42, 1:41.60, 1:36.94, 1:39.62 |
 | 1:46.31 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 1:37.82, 1:45.70, 1:41.50, 1:53.78, 1:51.72 |
-| 1:53.84 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | 1:50.38, 1:55.47, 1:55.66, DNF, 1:39.53 |
+| 1:48.48 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 1:30.48, 2:35.08, 1:48.77, 1:50.62, 1:46.04 |
 
 ### 5x5x5 Blindfolded
 

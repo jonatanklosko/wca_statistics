@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 August 2025*
+*Updated on 28 August 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1374,7 +1374,6 @@
 | 14 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Vårgårda Open 2012](https://www.worldcubeassociation.org/competitions/VargardaOpen2012/results/podiums) |
 | 11 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Veikkola Open 2017](https://www.worldcubeassociation.org/competitions/VeikkolaOpen2017/results/podiums) |
 | 13 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Venezuela Nationals 2023](https://www.worldcubeassociation.org/competitions/VenezuelaNationals2023/results/podiums) |
-| 10 | [Misael Alexander Mancuello Ayala](https://www.worldcubeassociation.org/persons/2021AYAL04) | [Verano on Asunción 2025](https://www.worldcubeassociation.org/competitions/VeranoonAsuncion2025/results/podiums) |
 | 10 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [VERK IV 2025](https://www.worldcubeassociation.org/competitions/VERKIV2025/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025/results/podiums) |

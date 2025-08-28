@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 August 2025*
+*Updated on 28 August 2025*
 
 
 ### Rubik's Cube
@@ -113,6 +113,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 2.08 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Milford Winter Warm Up 2025](https://www.worldcubeassociation.org/competitions/MilfordWinterWarmUp2025/results/by_person#2022GIBS04) |
+| 2.14 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Heartland Championship 2025](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2025/results/by_person#2022KAPU01) |
 | 2.14 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Auckland Autumn 2025](https://www.worldcubeassociation.org/competitions/AucklandAutumn2025/results/by_person#2022GIBS04) |
 | 2.18 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Moorhead Madness 2025](https://www.worldcubeassociation.org/competitions/MoorheadMadness2025/results/by_person#2022KAPU01) |
 | 2.21 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Milford Winter Warm Up 2025](https://www.worldcubeassociation.org/competitions/MilfordWinterWarmUp2025/results/by_person#2022GIBS04) |
@@ -121,7 +122,6 @@
 | 2.26 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [NZ Cubing Decathlon 2024](https://www.worldcubeassociation.org/competitions/NZCubingDecathlon2024/results/by_person#2022GIBS04) |
 | 2.26 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Puzzling Papatoetoe 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPapatoetoe2025/results/by_person#2022GIBS04) |
 | 2.26 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [2x2 in Tāmaki Makaurau 2025](https://www.worldcubeassociation.org/competitions/2x2inTamakiMakaurau2025/results/by_person#2022GIBS04) |
-| 2.27 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [2x2 in Tāmaki Makaurau 2025](https://www.worldcubeassociation.org/competitions/2x2inTamakiMakaurau2025/results/by_person#2022GIBS04) |
 
 ### Skewb
 

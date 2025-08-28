@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 August 2025*
+*Updated on 28 August 2025*
 
 
 ### Rubik's Cube
@@ -76,8 +76,8 @@
 | 1:14.35 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:12.10, 1:08.27, 1:12.88, 1:11.98, 1:12.22, 1:17.01, 1:18.08, 1:17.53, 1:10.62, 1:25.06, 1:11.23, 1:19.88 |
 | 1:14.69 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:18.49, 1:23.03, 1:18.06, 1:16.06, 1:18.74, 1:06.80, 1:10.02, 1:17.33, 1:07.32, 1:17.27, 1:10.66, 1:12.93 |
 | 1:15.50 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:09.25, 1:14.98, 1:13.37, 1:19.86, 1:18.78, 1:16.29, 1:13.71, 1:15.91, 1:19.91, 1:13.13, 1:13.97, 1:14.95 |
+| 1:15.52 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:10.21, 1:14.41, 1:28.91, 1:19.82, 1:17.38, 1:22.22, 1:12.57, 1:14.22, 1:11.15, 1:15.10, 1:17.42, 1:10.87 |
 | 1:15.58 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1:09.09, 1:18.75, 1:13.31, 1:32.84, 1:23.72, 1:13.79, 1:19.15, 1:19.92, 1:14.45, 1:08.09, 1:11.50, 1:12.13 |
-| 1:16.08 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:11.56, 1:18.75, 1:16.60, 1:20.30, 1:18.80, 1:12.22, 1:26.46, 1:18.13, 1:12.45, 1:17.60, 1:10.21, 1:14.41 |
 
 ### 7x7x7 Cube
 
@@ -90,7 +90,7 @@
 | 1:48.92 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:42.41, 1:52.18, 1:50.98, 1:56.22, 1:38.39, 1:42.46, 1:42.87, 1:49.17, 1:48.09, 1:50.84, 1:57.89, 1:53.93 |
 | 1:49.64 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 2:06.00, 1:47.56, 2:01.70, 1:39.95, 1:52.79, 1:41.60, 1:50.15, 1:43.19, 1:53.71, 1:42.37, 1:52.04, 1:51.26 |
 | 1:51.28 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:43.89, 1:49.75, 1:57.50, 1:58.64, 1:50.38, 1:48.12, 2:02.23, 1:45.58, 1:38.58, 2:01.50, 1:58.81, 1:36.79 |
-| 1:54.74 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:51.90, 1:52.28, 1:50.04, 1:46.44, 2:01.64, 1:59.54, 1:57.76, 1:50.09, 1:53.85, 1:51.64, 1:58.74, 2:01.54 |
+| 1:53.61 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:56.76, 1:47.55, 1:50.67, 1:59.64, 1:47.86, 1:49.84, 1:59.60, 1:56.03, 1:56.69, 2:02.30, 1:47.81, 1:51.18 |
 | 1:55.79 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:55.25, 1:54.40, 2:10.43, 1:55.63, 1:53.75, 1:57.75, 1:52.60, 1:49.39, 1:57.61, 1:51.04, 2:14.29, 1:48.53 |
 | 1:56.06 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 2:01.05, 2:04.32, 1:53.35, 1:47.78, 1:47.52, 2:00.76, 1:46.79, 1:54.47, 2:15.78, 2:01.34, 2:00.81, 1:49.20 |
 
@@ -119,16 +119,16 @@
 | 21.30 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 25, 19, 20, 20, 22, 22, 22, 21, 22, 22, 20, 22 |
 | 21.50 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 20, 22, 20, 23, 23, 23, 22, 23, 18, 22, 21, 19 |
 | 21.60 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 19, 20, 21, 20, 24, 22, 21, 23, 24, 24, 22, 19 |
+| 21.60 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 22, 21, 23, 19, 22, 22, DNF, 21, 21, 22, 21, 21 |
 | 21.60 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 21, 23, 23, 21, 23, 20, 19, 22, 21, 21, 23, 21 |
 | 21.80 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 24, 21, 23, 22, 20, 24, 20, 22, 23, 20, 20, 23 |
 | 21.90 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 27, 20, 23, 21, 23, 23, 22, 20, 21, 22, 21, 23 |
-| 22.00 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 22, 22, 22, 24, 26, 24, 19, 23, 20, 21, 23, 19 |
 
 ### 3x3x3 One-Handed
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 8.31 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8.51, 10.11, 9.53, 8.77, 8.51, 8.66, 7.66, 7.68, 6.49, 8.53, 6.73, 8.50 |
+| 8.21 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 6.59, 8.79, 8.38, 8.10, 7.77, 8.28, 8.92, 8.28, 8.16, 8.66, 7.86, 7.77 |
 | 8.46 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 9.23, 8.71, 7.79, 9.06, 10.11, 8.09, 8.41, 7.64, 9.34, 8.20, 8.10, 6.87 |
 | 8.58 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | 7.39, 6.49, 8.29, 8.43, 9.48, 7.78, 9.67, 10.28, 12.52, 8.37, 8.12, 7.94 |
 | 8.63 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | 9.00, 9.48, 7.93, 9.43, 8.84, 7.11, 7.61, 8.10, 8.09, 9.18, 8.99, 9.12 |
@@ -225,9 +225,9 @@
 | 3:16.73 | [Kevin Liu](https://www.worldcubeassociation.org/persons/2023LIUK02) | 3:22.81, 3:33.85, DNF, 3:15.55, 2:52.03, 3:21.91, 2:43.80, 3:21.40, 3:57.69, 3:14.17, 3:04.07, 2:18.13 |
 | 3:37.08 | [Mihály Horváth](https://www.worldcubeassociation.org/persons/2016HORV04) | 3:07.53, 3:28.12, 3:52.29, 3:47.57, 3:25.79, 3:38.07, 3:40.91, 4:19.17, 3:23.51, 3:32.08, 3:07.23, 4:14.97 |
 | 4:07.27 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) | DNF, 3:54.26, 4:14.18, 4:56.83, 3:57.92, 3:59.95, 4:29.77, 3:41.16, 3:53.24, 4:14.62, 3:43.30, 3:48.59 |
+| 4:08.49 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 5:12.77, 5:01.51, 5:18.44, 3:48.33, 3:41.70, 3:34.99, 3:59.85, 3:40.56, DNF, 3:20.84, 3:34.11, 3:32.63 |
 | 4:14.80 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) | DNF, 5:56.02, 4:28.45, 3:56.10, 4:12.95, 4:09.99, 4:23.92, 4:15.71, 3:56.43, 3:37.42, 3:24.40, 3:30.98 |
 | 4:19.04 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 4:39.68, 3:39.13, 4:59.18, 5:57.50, 3:36.16, 4:08.54, 4:04.34, 2:53.51, 4:45.55, 4:53.48, 4:14.80, 4:09.54 |
-| 4:20.11 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 6:29.53, 4:13.01, 3:46.86, 4:35.71, 5:19.05, 3:41.19, 4:18.33, 4:05.88, DNF, 3:10.18, 3:38.16, 3:13.42 |
 
 ### 5x5x5 Blindfolded
 

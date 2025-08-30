@@ -1,13 +1,13 @@
 ## Most completed solves
 
-*Updated on 28 August 2025*
+*Updated on 29 August 2025*
 
 
 ### Competition
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | **68922** | 71876 |
+| [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | **68920** | 71874 |
 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | **42369** | 44136 |
 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023) | **38660** | 40160 |
 | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) | **38230** | 39775 |
@@ -57,7 +57,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **5743048** | 6013310 |
+| United States | **5743404** | 6013711 |
 | China | **1415083** | 1483896 |
 | Poland | **1240565** | 1306139 |
 | Australia | **1009340** | 1064131 |
@@ -82,10 +82,10 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **9760209** | 10239997 |
-| North America | **7095420** | 7423190 |
+| Europe | **9760239** | 10240036 |
+| North America | **7095776** | 7423591 |
 | Asia | **5137679** | 5379296 |
-| South America | **2132296** | 2231224 |
+| South America | **2132649** | 2231625 |
 | Oceania | **1257904** | 1324973 |
 | Africa | **182948** | 190959 |
 | Multiple Continents | **5025** | 6631 |
@@ -96,7 +96,7 @@
 | :--- | ---: | ---: |
 | 2024 | **4729280** | 4946391 |
 | 2023 | **3999250** | 4182871 |
-| 2025 | **2918511** | 3049270 |
+| 2025 | **2919250** | 3050111 |
 | 2019 | **2537001** | 2656542 |
 | 2018 | **2218482** | 2324544 |
 | 2022 | **2118011** | 2217441 |
@@ -119,20 +119,20 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **7779977** | 7945731 |
+| 3x3x3 Cube | **7780189** | 7945946 |
 | 2x2x2 Cube | **4393807** | 4506382 |
-| Pyraminx | **2842105** | 2916548 |
+| Pyraminx | **2842106** | 2916548 |
 | 4x4x4 Cube | **2221460** | 2305552 |
-| 3x3x3 One-Handed | **2041153** | 2108084 |
-| Skewb | **1833557** | 1879430 |
+| 3x3x3 One-Handed | **2041265** | 2108199 |
+| Skewb | **1833777** | 1879655 |
 | 5x5x5 Cube | **1162285** | 1198684 |
 | Megaminx | **805003** | 839311 |
-| Clock | **766895** | 884898 |
-| Square-1 | **721453** | 751582 |
+| Clock | **766950** | 884966 |
+| Square-1 | **721520** | 751657 |
 | 6x6x6 Cube | **279399** | 289562 |
 | 7x7x7 Cube | **227116** | 237324 |
-| 3x3x3 Blindfolded | **170061** | 463862 |
-| 3x3x3 Fewest Moves | **107582** | 147511 |
+| 3x3x3 Blindfolded | **170103** | 463966 |
+| 3x3x3 Fewest Moves | **107612** | 147550 |
 | Magic | **78268** | 86498 |
 | 3x3x3 With Feet | **51884** | 56650 |
 | Master Magic | **39964** | 41445 |

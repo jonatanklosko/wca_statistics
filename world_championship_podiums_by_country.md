@@ -1,11 +1,11 @@
 ## World Championship podiums by country
 
-*Updated on 28 August 2025*
+*Updated on 29 August 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| United States | **55** | 46 | 49 | 150 |
-| Poland | **23** | 22 | 18 | 63 |
+| United States | **56** | 46 | 48 | 150 |
+| Poland | **22** | 22 | 19 | 63 |
 | Australia | **19** | 13 | 6 | 38 |
 | Hungary | **16** | 11 | 10 | 37 |
 | Germany | **13** | 9 | 11 | 33 |

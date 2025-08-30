@@ -1,6 +1,6 @@
 ## World Championship podiums by person
 
-*Updated on 28 August 2025*
+*Updated on 29 August 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -76,7 +76,6 @@
 | [Andrew Tao](https://www.worldcubeassociation.org/persons/2022TAOA01) | **1** | 0 | 0 | 1 |
 | [Andy Bellenir](https://www.worldcubeassociation.org/persons/2003BELL01) | **1** | 0 | 0 | 1 |
 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | **1** | 0 | 0 | 1 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **1** | 0 | 0 | 1 |
 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) | **1** | 0 | 0 | 1 |
 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) | **1** | 0 | 0 | 1 |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **1** | 0 | 0 | 1 |
@@ -117,6 +116,7 @@
 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | **1** | 0 | 0 | 1 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | **1** | 0 | 0 | 1 |
 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | **1** | 0 | 0 | 1 |
+| [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | **1** | 0 | 0 | 1 |
 | [Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01) | **1** | 0 | 0 | 1 |
 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | **1** | 0 | 0 | 1 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | **1** | 0 | 0 | 1 |
@@ -220,6 +220,7 @@
 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) | **0** | 0 | 1 | 1 |
 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | **0** | 0 | 1 | 1 |
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | **0** | 0 | 1 | 1 |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **0** | 0 | 1 | 1 |
 | [Bálint Horváth](https://www.worldcubeassociation.org/persons/2007HORV02) | **0** | 0 | 1 | 1 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **0** | 0 | 1 | 1 |
 | [Chris Szlatenyi](https://www.worldcubeassociation.org/persons/2005SZLA01) | **0** | 0 | 1 | 1 |
@@ -261,7 +262,6 @@
 | [Takumi Yoshida (吉田匠)](https://www.worldcubeassociation.org/persons/2007YOSH01) | **0** | 0 | 1 | 1 |
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | **0** | 0 | 1 | 1 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **0** | 0 | 1 | 1 |
-| [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | **0** | 0 | 1 | 1 |
 | [Weston Mizumoto](https://www.worldcubeassociation.org/persons/2008MIZU01) | **0** | 0 | 1 | 1 |
 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) | **0** | 0 | 1 | 1 |
 | [William Phommaha](https://www.worldcubeassociation.org/persons/2015PHOM01) | **0** | 0 | 1 | 1 |

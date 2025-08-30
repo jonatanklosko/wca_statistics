@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 August 2025*
+*Updated on 29 August 2025*
 
 
 ### Rubik's Cube
@@ -179,10 +179,10 @@
 | 3.10 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.91, 2.47, 4.72, 10.02, 3.94, 2.69, 3.50, 3.93, 2.55, 3.38, 2.95, 2.99, 3.27, 2.96, 2.65, 2.66, 3.20, 3.20, 2.69, 2.95, 2.82, 3.04, 2.59, 3.78, 2.97 |
 | 3.14 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 2.91, 2.87, 3.72, 2.93, 3.25, DNF, 2.57, 4.30, 3.12, 3.05, 3.98, 2.98, 2.76, 2.70, 2.85, 2.88, 3.19, 2.94, 3.22, 4.24, 2.93, 3.38, 2.99, 2.87, 2.88 |
 | 3.23 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | 3.76, 2.96, 3.59, 3.85, 2.92, 2.72, DNF, 2.68, 2.33, 2.96, 3.19, DNF, 5.86, 4.02, 2.34, 3.21, 2.88, 4.14, 3.50, 2.11, 2.34, 2.32, 2.20, 3.04, 3.27 |
-| 3.25 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.66, 3.14, 3.96, 2.73, 2.54, 8.88, 3.33, 3.46, 4.14, 3.36, DNF, 3.21, 3.32, 2.95, 2.59, 2.78, 3.12, 5.68, 2.56, 2.56, 2.65, 3.96, 3.51, 2.54, 2.61 |
 | 3.27 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 2.36, 4.99, 3.91, 3.22, 2.99, 2.91, 3.96, 2.51, 4.12, 2.59, 2.89, 3.39, 2.82, 5.05, 2.88, 3.35, 2.99, 4.20, 4.44, 2.71, 2.70, 2.56, 2.63, 4.12, 3.26 |
 | 3.28 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 2.87, 2.85, 4.26, 2.99, 4.36, 3.48, 2.56, 2.73, 4.01, 3.11, 3.25, 2.67, 2.84, 11.34, 3.46, 3.66, 2.91, 3.00, 2.70, 4.23, 3.44, 3.58, 2.84, 2.75, 3.98 |
 | 3.29 | [Karl Liam L. Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 4.92, 3.77, 4.85, 2.89, 2.53, 2.79, 6.66, 3.09, 2.73, 2.87, 3.26, 2.85, 2.40, 2.69, DNF, 3.07, 4.91, 2.64, 3.46, 3.41, 2.66, 1.91, 4.65, 2.62, 2.37 |
+| 3.31 | [Lachlan Adams-Romyn](https://www.worldcubeassociation.org/persons/2022ADAM01) | 2.85, 2.91, 3.49, 3.24, 2.74, 3.45, 3.23, 2.93, 3.71, 3.91, DNF, 2.75, 3.71, 3.32, 3.13, 2.65, 4.66, 2.67, DNF, 3.06, 3.98, 2.29, 3.45, 3.17, 3.13 |
 
 ### Skewb
 

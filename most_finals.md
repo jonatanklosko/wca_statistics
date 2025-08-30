@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 August 2025*
+*Updated on 29 August 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -15,15 +15,15 @@
 | 1714 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1698 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1675 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 1657 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
+| 1658 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1636 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 1545 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1523 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 1504 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
+| 1505 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1457 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 1445 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
-| 1430 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 1431 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 1412 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1405 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1383 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |

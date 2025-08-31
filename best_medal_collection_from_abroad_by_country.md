@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 29 August 2025*
+*Updated on 31 August 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -48,7 +48,7 @@
 | Lithuania | **111** | 96 | 99 | 306 |
 | Thailand | **104** | 109 | 65 | 278 |
 | Slovakia | **100** | 128 | 132 | 360 |
-| Venezuela | **97** | 115 | 112 | 324 |
+| Venezuela | **97** | 115 | 113 | 325 |
 | Philippines | **95** | 114 | 111 | 320 |
 | Croatia | **86** | 125 | 102 | 313 |
 | New Zealand | **78** | 92 | 75 | 245 |

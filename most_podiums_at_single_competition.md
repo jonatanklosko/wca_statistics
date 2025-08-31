@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 29 August 2025*
+*Updated on 31 August 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -690,6 +690,7 @@
 | 12 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2022](https://www.worldcubeassociation.org/competitions/IsraelChampionship2022/results/podiums) |
 | 10 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelChampionship2023/results/podiums) |
 | 13 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2024](https://www.worldcubeassociation.org/competitions/IsraelChampionship2024/results/podiums) |
+| 13 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2025](https://www.worldcubeassociation.org/competitions/IsraelChampionship2025/results/podiums) |
 | 13 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Itajaí ao Cubo 2023](https://www.worldcubeassociation.org/competitions/ItajaiaoCubo2023/results/podiums) |
 | 15 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Italian Championship 2010](https://www.worldcubeassociation.org/competitions/ItalianChampionship2010/results/podiums) |
 | 12 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Italian Championship 2018](https://www.worldcubeassociation.org/competitions/ItalianChampionship2018/results/podiums) |

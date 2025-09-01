@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -687,6 +687,8 @@
 | 10 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Iruña Open 2019](https://www.worldcubeassociation.org/competitions/IrunaOpen2019/results/podiums) |
 | 14 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Íslandsmótið 2024](https://www.worldcubeassociation.org/competitions/Islandsmotid2024/results/podiums) |
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Íslandsmótið 2024](https://www.worldcubeassociation.org/competitions/Islandsmotid2024/results/podiums) |
+| 11 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Íslandsmótið 2025](https://www.worldcubeassociation.org/competitions/Islandsmotid2025/results/podiums) |
+| 10 | [Kasper Warberg Borg](https://www.worldcubeassociation.org/persons/2020BORG01) | [Íslandsmótið 2025](https://www.worldcubeassociation.org/competitions/Islandsmotid2025/results/podiums) |
 | 12 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2022](https://www.worldcubeassociation.org/competitions/IsraelChampionship2022/results/podiums) |
 | 10 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelChampionship2023/results/podiums) |
 | 13 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2024](https://www.worldcubeassociation.org/competitions/IsraelChampionship2024/results/podiums) |
@@ -984,6 +986,8 @@
 | 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024/results/podiums) |
 | 12 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Ōtepoti Big Cubes 2024](https://www.worldcubeassociation.org/competitions/OtepotiBigCubes2024/results/podiums) |
 | 11 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Ōtepoti Big Cubes 2024](https://www.worldcubeassociation.org/competitions/OtepotiBigCubes2024/results/podiums) |
+| 12 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Ōtepoti Big Cubes 2025](https://www.worldcubeassociation.org/competitions/OtepotiBigCubes2025/results/podiums) |
+| 10 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Ōtepoti Big Cubes 2025](https://www.worldcubeassociation.org/competitions/OtepotiBigCubes2025/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2017](https://www.worldcubeassociation.org/competitions/OuluOpen2017/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2022](https://www.worldcubeassociation.org/competitions/OuluOpen2022/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019/results/podiums) |
@@ -993,6 +997,7 @@
 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010/results/podiums) |
 | 11 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Pahang Cube Open 2019](https://www.worldcubeassociation.org/competitions/PahangCubeOpen2019/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Pai Open VCP 2025](https://www.worldcubeassociation.org/competitions/PaiOpenVCP2025/results/podiums) |
+| 10 | [Mohammad Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS07) | [Palestine Summer 2025](https://www.worldcubeassociation.org/competitions/PalestineSummer2025/results/podiums) |
 | 13 | [Andres Sanchez Ponce](https://www.worldcubeassociation.org/persons/2018PONC02) | [Panama Nationals 2022](https://www.worldcubeassociation.org/competitions/PanamaNationals2022/results/podiums) |
 | 10 | [Egdar Castillo](https://www.worldcubeassociation.org/persons/2017CAST48) | [Panama Nationals 2022](https://www.worldcubeassociation.org/competitions/PanamaNationals2022/results/podiums) |
 | 14 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Panama Nationals 2023](https://www.worldcubeassociation.org/competitions/PanamaNationals2023/results/podiums) |
@@ -1087,6 +1092,7 @@
 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Romanian Championship 2023](https://www.worldcubeassociation.org/competitions/RomanianNationalChampionship2023/results/podiums) |
 | 13 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Romanian National Day 2018](https://www.worldcubeassociation.org/competitions/RomanianNationalDay2018/results/podiums) |
 | 11 | [Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01) | [Romanian National Day 2018](https://www.worldcubeassociation.org/competitions/RomanianNationalDay2018/results/podiums) |
+| 10 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Romanian Nationals 2025](https://www.worldcubeassociation.org/competitions/RomanianNationals2025/results/podiums) |
 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Romanian Open 2011](https://www.worldcubeassociation.org/competitions/RomanianOpen2011/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Romanian Open 2011](https://www.worldcubeassociation.org/competitions/RomanianOpen2011/results/podiums) |
 | 12 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Romanian Open 2012](https://www.worldcubeassociation.org/competitions/RomanianOpen2012/results/podiums) |

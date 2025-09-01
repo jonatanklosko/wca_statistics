@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 
 ### 300 Competitions
@@ -74,6 +74,7 @@
 | 2476 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 2564 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 2565 | [Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31) |
+| 2569 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 2634 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) |
 | 2699 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 2724 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
@@ -82,7 +83,6 @@
 | 2871 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 2885 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 2885 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
-| 2969 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 
 ### 100 Competitions
 
@@ -93,6 +93,7 @@
 | 883 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 926 | [Kyle Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 1031 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
+| 1037 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 | 1065 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 1080 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
 | 1407 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
@@ -107,7 +108,6 @@
 | 1918 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1933 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 2010 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 2038 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 
 ### 50 Competitions
 

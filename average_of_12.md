@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 
 ### Rubik's Cube
@@ -32,7 +32,7 @@
 | 1.15 | [Emanuel Schelin](https://www.worldcubeassociation.org/persons/2022SCHE13) | 0.82, 1.02, 1.20, 1.21, 1.42, 1.01, 1.72, 1.14, 1.58, 0.97, 0.87, 1.11 |
 | 1.15 | [Roman Rudakov](https://www.worldcubeassociation.org/persons/2022RUDA02) | 1.78, 1.16, 0.96, 0.94, 1.24, 0.91, 1.27, 1.23, 1.56, 0.97, 0.94, 1.25 |
 | 1.15 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | 1.16, 1.20, 1.35, 0.91, 1.10, 0.99, 0.91, 3.12, 0.93, 1.48, 1.39, 0.99 |
-| 1.17 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.31, 1.17, 1.22, 1.08, 0.55, 1.05, 2.46, 1.15, 1.45, 0.91, 0.92, 1.46 |
+| 1.16 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.36, 0.90, 1.58, 1.02, 1.20, 1.14, 0.99, 1.28, 1.34, 1.05, 1.33, 0.87 |
 
 ### 4x4x4 Cube
 
@@ -106,7 +106,7 @@
 | 17.75 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 13.86, DNF, 16.84, 19.08, 17.70, 16.92, 19.52, 19.29, 17.41, 15.48, 17.05, 18.24 |
 | 18.03 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | 16.81, 18.10, 19.54, 16.82, 18.51, 17.72, 20.46, 19.21, 17.14, 16.34, 17.88, 18.58 |
 | 18.50 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | 20.68, 19.22, 18.02, 16.83, 16.09, DNF, 16.49, 17.18, 19.98, 19.88, 16.47, 20.27 |
-| 19.38 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | 18.11, 22.51, 22.48, 17.13, 17.00, 17.43, 20.37, 19.06, 20.56, 16.79, 21.49, 20.17 |
+| 19.37 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | 17.42, 17.49, DNF, 21.64, 17.20, 17.79, 22.77, 21.28, 19.70, 20.49, 17.87, 16.90 |
 | 19.81 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | 17.65, 18.42, 17.02, 21.33, 18.53, 20.37, DNF, 21.41, 17.06, 21.55, 22.33, 19.44 |
 
 ### 3x3x3 Fewest Moves
@@ -150,9 +150,9 @@
 | 28.23 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 29.57, 27.10, 29.16, 28.72, 27.51, 31.00, 23.81, 26.93, 30.38, 36.41, 26.51, 25.45 |
 | 28.46 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 28.61, 29.82, 28.13, 28.57, 28.23, 27.90, 33.23, 28.60, 29.78, 26.80, 28.14, 26.00 |
 | 28.89 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 27.78, 27.73, 30.00, 26.93, 27.03, 29.01, 29.92, 29.15, 30.69, 29.48, 28.71, 30.12 |
+| 29.33 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 26.94, 28.01, 31.77, 33.10, 28.62, 32.15, 27.34, 30.34, 28.52, 29.16, 28.47, 28.87 |
 | 29.43 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 28.97, 28.11, 28.37, 34.12, 28.70, 32.71, 30.47, 29.48, 29.93, 27.71, 29.10, 28.45 |
 | 29.67 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.50, 30.56, 26.75, 28.88, 30.36, 31.15, 33.44, 28.96, 27.49, 28.58, 33.70, 25.47 |
-| 30.14 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 26.13, 30.87, 34.72, 30.67, 37.32, 28.66, 29.02, 28.89, 28.56, 28.42, 26.39, 35.17 |
 
 ### Pyraminx
 

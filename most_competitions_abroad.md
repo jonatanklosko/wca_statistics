@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  1 September 2025*
+*Updated on  4 September 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -37,7 +37,7 @@
 | 103 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 102 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 100 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
-| 99 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
+| 100 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 99 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 97 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
 | 97 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) |
@@ -72,9 +72,9 @@
 | 72 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 72 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 71 | [Ethan Ekstrom](https://www.worldcubeassociation.org/persons/2018EKST01) |
+| 71 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 71 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
-| 70 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 70 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 69 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 68 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |

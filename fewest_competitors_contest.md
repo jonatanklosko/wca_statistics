@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 September 2025*
+*Updated on  4 September 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -262,6 +262,7 @@
 | 9 | [Please Be Quiet Joburg 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietJoburg2023) |
 | 9 | [PBQ Reno Spring 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietRenoSpring2023) |
 | 9 | [Puy de Dome Open 2010](https://www.worldcubeassociation.org/competitions/PuyDeDomeOpen2010) |
+| 9 | [Road to Nats Barquisimeto 2025](https://www.worldcubeassociation.org/competitions/RoadtoNatsBarquisimeto2025) |
 | 9 | [Rubik Sin Fronteras 2015](https://www.worldcubeassociation.org/competitions/RubikSinFronteras2015) |
 | 9 | [STGO Verano 2014](https://www.worldcubeassociation.org/competitions/SantiaguinodeVerano2014) |
 | 9 | [Saratoga Silent Springs 2024](https://www.worldcubeassociation.org/competitions/SaratogaSilentSprings2024) |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 September 2025*
+*Updated on  4 September 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1421,6 +1421,7 @@
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [West Coast 2: Mölnlycke 2024](https://www.worldcubeassociation.org/competitions/WestCoast2Molnlycke2024/results/podiums) |
 | 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [West Coast 3: Trollhättan 2024](https://www.worldcubeassociation.org/competitions/WestCoast3Trollhattan2024/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [West Coast 4: Göteborg 2024](https://www.worldcubeassociation.org/competitions/WestCoast4Goteborg2024/results/podiums) |
+| 10 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [WCC Western Championship 2025](https://www.worldcubeassociation.org/competitions/WesternChampionship2025/results/podiums) |
 | 10 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Weston-super-Mare 2012](https://www.worldcubeassociation.org/competitions/WestonsuperMare2012/results/podiums) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Weston-super-Mare 2012](https://www.worldcubeassociation.org/competitions/WestonsuperMare2012/results/podiums) |
 | 12 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [West Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2019/results/podiums) |

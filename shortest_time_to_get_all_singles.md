@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 September 2025*
+*Updated on  7 September 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -212,6 +212,7 @@
 | 994 | [Brandon Mikel](https://www.worldcubeassociation.org/persons/2011MIKE01) |
 | 995 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) |
 | 1007 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 1007 | [Joseph Burnett](https://www.worldcubeassociation.org/persons/2022BURN09) |
 | 1014 | [Simon Dimpker](https://www.worldcubeassociation.org/persons/2021DIMP01) |
 | 1015 | [Jianyu Que (阙剑宇)](https://www.worldcubeassociation.org/persons/2011QUEJ01) |
 | 1015 | [Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01) |
@@ -580,6 +581,7 @@
 | 2778 | [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01) |
 | 2807 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) |
 | 2807 | [Joel Mamani Tumiri](https://www.worldcubeassociation.org/persons/2017TUMI02) |
+| 2814 | [Haruka Kitamura (北村晴香)](https://www.worldcubeassociation.org/persons/2017KITA03) |
 | 2828 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 2829 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 2843 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
@@ -676,6 +678,7 @@
 | 3892 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 3912 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 3933 | [Jihu Mun (문지후)](https://www.worldcubeassociation.org/persons/2014MUNJ02) |
+| 3933 | [Benjamin Paul](https://www.worldcubeassociation.org/persons/2014PAUL05) |
 | 4010 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 4025 | [Lanshi Zhang (张岚石)](https://www.worldcubeassociation.org/persons/2013ZHAN41) |
 | 4047 | [Nathan Seeto](https://www.worldcubeassociation.org/persons/2012SEET01) |

@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on  4 September 2025*
+*Updated on  7 September 2025*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -74,10 +74,10 @@
 | 27 | [Dante Navarro Vera](https://www.worldcubeassociation.org/persons/2022VERA02) | Chile | [Stgo Cubikz Challenge Skewb 2024](https://www.worldcubeassociation.org/competitions/SantiagoCubikzChallengeSkewb2024) | [CubiKonce 2025](https://www.worldcubeassociation.org/competitions/CubiKonce2025) |
 | 27 | [Amitai Ziv](https://www.worldcubeassociation.org/persons/2022ZIVA01) | Israel | [6 by Road 6 Israel 2024](https://www.worldcubeassociation.org/competitions/6byRoad6Israel2024) |  |
 | 27 | [Orgil Otgonbayar (Отгонбаяр Оргил)](https://www.worldcubeassociation.org/persons/2016OTGO01) | Mongolia | [Darkhan Cube Day 2019](https://www.worldcubeassociation.org/competitions/DarkhanCubeDay2019) | [Khuvsgul Cube Day 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulCubeDay2025) |
+| 27 | [Christian Rodríguez](https://www.worldcubeassociation.org/persons/2017RODR51) | Costa Rica | [Bekubes Costa Rica 2017](https://www.worldcubeassociation.org/competitions/BekubesCostaRica2017) |  |
 | 26 | [Bence Kiácz](https://www.worldcubeassociation.org/persons/2016KIAC01) | Hungary | [Hungarian Open 2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019) | [Budapest FMClvester 2024](https://www.worldcubeassociation.org/competitions/BudapestFMClvester2024) |
 | 26 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | United Kingdom | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019) |
 | 26 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | Brazil | [Torneio DRACO 2012](https://www.worldcubeassociation.org/competitions/TorneioDraco2012) | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014) |
-| 26 | [Christian Rodríguez](https://www.worldcubeassociation.org/persons/2017RODR51) | Costa Rica | [Bekubes Costa Rica 2017](https://www.worldcubeassociation.org/competitions/BekubesCostaRica2017) |  |
 | 26 | [Todor Enikov](https://www.worldcubeassociation.org/persons/2012ENIK01) | Bulgaria | [Bulgarian Open 2018](https://www.worldcubeassociation.org/competitions/BulgarianOpen2018) |  |
 | 25 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | Brazil | [Mogi Open 2014](https://www.worldcubeassociation.org/competitions/MogiOpen2014) | [CBS Open 2015](https://www.worldcubeassociation.org/competitions/CBSOpen2015) |
 | 25 | [Mike Vidrik Rätsep](https://www.worldcubeassociation.org/persons/2019RATS05) | Estonia | [Tartu Open 2022](https://www.worldcubeassociation.org/competitions/TartuOpen2022) |  |

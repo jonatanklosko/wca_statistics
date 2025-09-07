@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 September 2025*
+*Updated on  7 September 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -58,6 +58,7 @@
 | 1987 | [Rodolphe Rouyrre](https://www.worldcubeassociation.org/persons/2020ROUY01) |
 | 2009 | [Jingcai Li (李经才)](https://www.worldcubeassociation.org/persons/2019LIJI25) |
 | 2084 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 2086 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) |
 | 2100 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 2155 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 2177 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |

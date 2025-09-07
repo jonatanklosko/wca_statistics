@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  4 September 2025*
+*Updated on  7 September 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -15,9 +15,9 @@
 | 37 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 36 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 35 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
+| 34 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 34 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
-| 33 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 29 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 29 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 27 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |

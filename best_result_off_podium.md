@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 September 2025*
+*Updated on 10 September 2025*
 
 
 ### Rubik's Cube
@@ -165,9 +165,9 @@
 | [Tianyu Sun (孙天宇)](https://www.worldcubeassociation.org/persons/2021SUNT01) | 1.67 | **2.11** | [Luoyang Spring 2025](https://www.worldcubeassociation.org/competitions/LuoyangSpring2025/results/all#epyram_f) | 4 |
 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.45 | **2.12** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 5 |
 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.55 | **2.12** | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/all#epyram_f) | 4 |
+| [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) | 1.77 | **2.13** | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/all#epyram_f) | 4 |
 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.83 | **2.13** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#epyram_f) | 4 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.64 | **2.14** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#epyram_f) | 4 |
-| [Keon Wilson](https://www.worldcubeassociation.org/persons/2018WILS10) | 1.70 | **2.14** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 
@@ -181,8 +181,8 @@
 | [Zoei Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) | 2.77 | **3.53** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#eclock_f) | 4 |
 | [Greyson James](https://www.worldcubeassociation.org/persons/2022JAME02) | 2.97 | **3.58** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eclock_f) | 8 |
 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.20 | **3.68** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eclock_f) | 4 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 3.28 | **3.69** | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/all#eclock_f) | 4 |
 | [Alessandro Diomampo](https://www.worldcubeassociation.org/persons/2023DIOM01) | 2.77 | **3.73** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eclock_f) | 9 |
-| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.46 | **3.80** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 4 |
 
 ### Skewb
 

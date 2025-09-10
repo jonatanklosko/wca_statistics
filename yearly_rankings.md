@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 September 2025*
+*Updated on 10 September 2025*
 
 
 ### Rubik's Cube - Single
@@ -62,13 +62,14 @@
 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | **1.07** |  | [Zibo Open 2025](https://www.worldcubeassociation.org/competitions/ZiboOpen2025) | 3.59, 1.04, 0.89, 0.69, 1.27 |
 | [Emanuel Schelin](https://www.worldcubeassociation.org/persons/2022SCHE13) | **1.07** |  | [Sörmland Open 2025](https://www.worldcubeassociation.org/competitions/SormlandOpen2025) | 1.25, 0.99, 0.97, 3.67, 0.92 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **1.10** |  | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025) | 0.73, 0.95, 1.32, 3.30, 1.03 |
-| [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) | **1.13** |  | [Great Peconic Bay 2025](https://www.worldcubeassociation.org/competitions/GreatPeconicBay2025) | 1.09, 4.09, 1.06, 1.25, 0.72 |
+| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **1.13** |  | [Locked in Coshocton 2025](https://www.worldcubeassociation.org/competitions/LockedinCoshocton2025) | 1.17, 1.12, 1.22, 1.06, 1.11 |
 
 ### 4x4x4 Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **16.19** |  | [Piła Open 2025](https://www.worldcubeassociation.org/competitions/PilaOpen2025) | 22.65, 16.19, 24.12, 20.48, 20.55 |
+| [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | **16.52** |  | [Makati Speedcubing Open IV 2025](https://www.worldcubeassociation.org/competitions/MakatiSpeedcubingOpenIV2025) | 16.52, 24.71, 23.80, 23.17, 20.35 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **16.56** |  | [Vegas Cubing Cup Spring 2025](https://www.worldcubeassociation.org/competitions/VegasCubingCupSpring2025) | 20.84, 19.10, 20.87, 22.39, 16.56 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **16.95** |  | [Uzbekistan Nationals 2025](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2025) | 23.71, 20.65, 16.95, 20.21, 19.55 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **17.00** |  | [Rheinland-Pfalz Open 2025](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2025) | 22.91, 22.16, 17.00, 20.12, 23.10 |
@@ -77,7 +78,6 @@
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **17.98** |  | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025) | 20.64, 20.21, 17.98, 25.23, 26.68 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **18.39** |  | [Paradise Park Bangkok NxNxN 2025](https://www.worldcubeassociation.org/competitions/ParadiseParkBangkokNxNxN2025) | 23.53, 22.72, 26.48, 18.39, 27.05 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **18.41** |  | [Maru Cube Day Taiwan 2025](https://www.worldcubeassociation.org/competitions/MaruCubeDayTaiwan2025) | 23.19, 21.55, 18.41, 21.11, 22.50 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **18.45** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 21.56, 23.41, 25.65, 18.45, 25.48 |
 
 ### 4x4x4 Cube - Average
 
@@ -197,7 +197,7 @@
 | [Gavriel Johann Arcilla](https://www.worldcubeassociation.org/persons/2023ARCI02) | **15.02** |  | [Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/LuzonChampionship2025) | 15.02, 17.88, DNF |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **15.04** |  | [Championnat Canadien 2025](https://www.worldcubeassociation.org/competitions/ChampionnatCanadien2025) | DNF, 15.04, 18.14 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **15.10** |  | [Airplane Mode XV OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVOH2025) | 30.88, DNF, 15.10 |
-| [Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04) | **15.27** |  | [SacQuiet Winter 2025](https://www.worldcubeassociation.org/competitions/SacQuietWinter2025) | DNF, 15.27, 16.79 |
+| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **15.22** |  | [New York Quiet Championship 2025](https://www.worldcubeassociation.org/competitions/NewYorkQuietChampionship2025) | 15.22, DNF, DNF |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -370,14 +370,14 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | **0.86** |  | [Oredigger Open CO 2025](https://www.worldcubeassociation.org/competitions/OrediggerOpenCO2025) | 2.02, 0.86, 1.94, 1.96, 1.97 |
 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | **0.87** |  | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) | 0.87, 4.84, 3.11, 7.77, 2.56 |
+| [Jory Hullin](https://www.worldcubeassociation.org/persons/2022HULL02) | **0.90** |  | [Clock on the Madison Rocks 2025](https://www.worldcubeassociation.org/competitions/ClockontheMadisonRocks2025) | 3.29, 4.48, 5.42, 2.97, 0.90 |
 | [Jonathan Pires Medeiros](https://www.worldcubeassociation.org/persons/2022MEDE02) | **0.92** |  | [Paraíso Summer DC 2025](https://www.worldcubeassociation.org/competitions/ParaisoSummerDC2025) | 3.45, 3.30, 2.48, 3.54, 0.92 |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **0.93** |  | [Clock on the Madison Rocks 2025](https://www.worldcubeassociation.org/competitions/ClockontheMadisonRocks2025) | 3.31, 2.57, 7.43, 2.51, 0.93 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **0.94** |  | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) | 0.94, 3.04, 1.89, 3.86, 2.33 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **0.96** |  | [Southern Indiana Qualifier 2025](https://www.worldcubeassociation.org/competitions/SouthernIndianaQualifier2025) | 0.96, 1.70, 3.87, 1.93, 1.95 |
 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | **0.99** |  | [Yunnan Open 2025](https://www.worldcubeassociation.org/competitions/YunnanOpen2025) | 2.15, 3.28, 2.46, 1.89, 0.99 |
 | [Jiawen Liu (刘佳雯)](https://www.worldcubeassociation.org/persons/2023LIUJ15) | **1.00** |  | [Nanchang Spring 2025](https://www.worldcubeassociation.org/competitions/NanchangSpring2025) | 3.71, 2.16, 2.91, 2.32, 1.00 |
 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | **1.04** |  | [Zhongshan Open 2025](https://www.worldcubeassociation.org/competitions/ZhongshanOpen2025) | 2.75, 1.99, 6.53, 2.04, 1.04 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **1.05** |  | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | 3.87, 1.05, 1.54, 4.78, 5.17 |
-| [Luis Tan Hong Yi (陈宏溢)](https://www.worldcubeassociation.org/persons/2023YILU01) | **1.05** |  | [Twist & Fries Johor Bahru 2025](https://www.worldcubeassociation.org/competitions/TwistFriesJohorBahru2025) | 1.80, 1.92, 2.12, 3.18, 1.05 |
 
 ### Skewb - Average
 
@@ -497,7 +497,7 @@
 | [Andrew Tao](https://www.worldcubeassociation.org/persons/2022TAOA01) | **52/55 59:52** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 52/55 59:52, 40/57 1:00:00 |
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **50/53 59:03** |  | [More Cubes Karori 2025](https://www.worldcubeassociation.org/competitions/MoreCubesKarori2025) | 50/53 59:03, 50/54 1:00:02 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **45/46 59:15** |  | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | 35/41 56:55, 45/46 59:15 |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **41/41 55:35** |  | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | 41/41 55:35, 35/51 1:00:00 |
+| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **46/50 1:00:00** |  | [Gniezno Side Open 2025](https://www.worldcubeassociation.org/competitions/GnieznoSideOpen2025) | 46/50 1:00:00 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 September 2025*
+*Updated on 10 September 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -543,6 +543,7 @@
 | 2505 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) |
 | 2511 | [Cyrille Beauchesne](https://www.worldcubeassociation.org/persons/2018BEAU06) |
 | 2513 | [Adrien Neveu](https://www.worldcubeassociation.org/persons/2018NEVE02) |
+| 2513 | [Elliott Perkins](https://www.worldcubeassociation.org/persons/2018PERK01) |
 | 2520 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 2533 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) |
 | 2534 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
@@ -588,6 +589,7 @@
 | 2855 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 2856 | [Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53) |
 | 2864 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 2876 | [Vincent Chan](https://www.worldcubeassociation.org/persons/2017CHAN44) |
 | 2877 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) |
 | 2877 | [Cyril Teichmann](https://www.worldcubeassociation.org/persons/2017TEIC01) |
 | 2891 | [Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01) |
@@ -687,6 +689,7 @@
 | 4073 | [Ben Yu](https://www.worldcubeassociation.org/persons/2011YUBE01) |
 | 4108 | [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) |
 | 4109 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
+| 4122 | [Ethan Woll](https://www.worldcubeassociation.org/persons/2014WOLL01) |
 | 4212 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) |
 | 4221 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 4229 | [Andrei Răzvan Ionel](https://www.worldcubeassociation.org/persons/2012IONE01) |

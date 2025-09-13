@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 
 ### 300 Competitions
@@ -8,6 +8,7 @@
 | Days | Person |
 | ---: | :--- |
 | 4012 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 4380 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 4963 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 5294 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 5539 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
@@ -28,6 +29,7 @@
 | 5042 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 5048 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 5146 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
+| 5518 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 5524 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 5557 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 5558 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
@@ -177,12 +179,12 @@
 | 120 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 120 | [Matteo Rodríguez Colorado](https://www.worldcubeassociation.org/persons/2024COLO04) |
 | 121 | [Goodwin Liu](https://www.worldcubeassociation.org/persons/2024LIUG01) |
+| 121 | [Izaak Ridge Aguirre](https://www.worldcubeassociation.org/persons/2025AGUI10) |
 | 127 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
 | 127 | [Thomas Cabezas Casallas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 127 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
 | 127 | [Arya Bhatelia](https://www.worldcubeassociation.org/persons/2024BHAT07) |
 | 127 | [Henrique Votisch](https://www.worldcubeassociation.org/persons/2024VOTI01) |
-| 127 | [Shourya Meka](https://www.worldcubeassociation.org/persons/2024MEKA03) |
 
 ### 5 Competitions
 

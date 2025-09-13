@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 
 ### Rubik's Cube
@@ -164,10 +164,10 @@
 | 83 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) | [Dubai Open 2013](https://www.worldcubeassociation.org/competitions/DubaiOpen2013) |
 | 77 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019) |
 | 75 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | [Billings Fall 2024](https://www.worldcubeassociation.org/competitions/BillingsFall2024) |
+| 70 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) | [Stockholmsligan - Ng'ombe 2025](https://www.worldcubeassociation.org/competitions/StockholmsliganNgombe2025) |
 | 69 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Puerto Rico Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRicoOpen2024) |
 | 65 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | [A Friday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/AFridayinAshfield2024) |
 | 58 | [Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02) | [Cambodia Championship 2024](https://www.worldcubeassociation.org/competitions/CambodiaChampionship2024) |
-| 58 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) | [INPT Olympiads 2025](https://www.worldcubeassociation.org/competitions/INPTOlympiads2025) |
 
 ### Rubik's Clock
 

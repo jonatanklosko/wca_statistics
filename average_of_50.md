@@ -1,7 +1,7 @@
 ## Average of 50
 
 *Note: 50 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 
 ### Rubik's Cube
@@ -122,7 +122,7 @@
 | 22.52 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 20, 25, 21, 21, 25, 21, 24, 25, 23, 27, 22, 24, 21, 25, 24, 26, 23, 19, 20, 21, 20, 24, 22, 21, 23, 24, 24, 22, 19, 20, 22, 23, 21, 20, 22, 22, 22, 24, DNF, 23, DNF, 21, 25, 19, 23, DNF, 21, 21, 23, 20 |
 | 22.70 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 19, 23, 20, 21, 23, 19, 23, 25, 27, 21, 23, 23, 21, DNF, 23, 23, 22, 22, 24, 24, 25, 23, DNF, 21, 24, 24, 23, 22, 24, 23, 20, 23, 25, 24, 18, 20, 22, 25, 23, 23, 22, 23, 23, 24, 23, 23, 22, 21, 23, 20 |
 | 22.91 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 25, 23, 18, 22, 27, 26, 22, 23, 22, 23, 23, 23, 21, 21, 24, 23, 23, 22, 22, 24, 24, 19, 20, 21, 28, 25, 23, 22, 22, 24, 25, 25, 21, 21, 24, 25, 20, 20, 21, 22, 24, DNF, 24, 24, 26, 24, 23, 21, 23 |
-| 23.00 | [Enrico Tenuti](https://www.worldcubeassociation.org/persons/2017TENU01) | 25, 21, 20, 24, 28, 21, 24, 22, 25, 28, 23, 24, 25, 25, 18, 24, 24, 23, 20, 24, 20, 20, 22, 21, 22, 25, 26, 26, 24, 20, 23, 28, 23, 23, 23, 23, 24, 23, 25, 20, 23, 23, 24, 22, 23, 24, 21, 23, 20, 22 |
+| 22.91 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 25, 22, 23, 21, 24, 22, 24, 25, 22, 25, 25, 27, 20, 23, 21, 23, 23, 22, 20, 21, 22, 21, 23, 23, 20, 24, 24, 22, 23, 24, 24, 25, 23, 23, 23, 22, 25, 24, 23, 22, 20, 23, 19, 24, 24, 26, 22, 24, 22, 23 |
 
 ### 3x3x3 One-Handed
 

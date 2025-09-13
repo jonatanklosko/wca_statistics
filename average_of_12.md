@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 
 ### Rubik's Cube
@@ -195,8 +195,8 @@
 | 1.74 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.72, 1.40, 1.63, 2.32, 1.93, 1.64, 1.52, 1.54, 3.64, 1.35, 2.10, 1.57 |
 | 1.78 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 2.78, 1.54, 1.86, 1.68, 1.79, 2.01, 1.78, 1.52, 1.69, 1.69, 2.28, 1.52 |
 | 1.78 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | 1.99, 1.45, 4.05, 2.14, 0.99, 1.63, 1.62, 1.62, 2.00, 1.74, 2.18, 1.38 |
+| 1.79 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.40, 1.84, 2.32, 1.44, 1.56, 2.50, 1.64, 1.66, 1.88, 3.51, 1.65, 1.09 |
 | 1.81 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.67, 2.00, 1.93, 1.60, 2.05, 1.64, 3.34, 1.57, 1.25, 1.52, 2.63, 1.48 |
-| 1.82 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.95, 1.59, 1.77, 1.70, 1.72, 3.44, 1.33, 1.94, 1.87, 2.11, 1.52, 1.98 |
 | 1.92 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 1.69, 2.23, 2.82, 1.27, 1.75, 2.37, 1.92, 1.80, 2.29, 1.89, 1.49, 1.76 |
 
 ### Square-1

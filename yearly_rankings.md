@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 
 ### Rubik's Cube - Single
@@ -209,10 +209,10 @@
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **16.52** |  | [Mid-Atlantic Quiet Champs 2025](https://www.worldcubeassociation.org/competitions/MidAtlanticQuietChampionship2025) | 15.68, 16.36, 17.51 |
 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **16.91** |  | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025) | 16.46, 19.36, 14.92 |
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **16.92** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 15.48, 17.05, 18.24 |
+| [Ian Guevarra Santos](https://www.worldcubeassociation.org/persons/2024SANT11) | **16.94** |  | [QC Speedcubing Open 2025](https://www.worldcubeassociation.org/competitions/QCSpeedcubingOpen2025) | 16.92, 17.65, 16.24 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **17.12** |  | [Championnat Canadien 2025](https://www.worldcubeassociation.org/competitions/ChampionnatCanadien2025) | 16.78, 17.59, 16.99 |
 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **17.12** |  | [MBLD Madness in Dobřejovice 2025](https://www.worldcubeassociation.org/competitions/MBLDMadnessinDobrejovice2025) | 18.57, 16.05, 16.74 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **17.39** |  | [Entre Ríos Cubea 2025](https://www.worldcubeassociation.org/competitions/EntreRiosCubea2025) | 16.16, 17.72, 18.30 |
-| [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | **18.08** |  | [Small Sides Alphen 2025](https://www.worldcubeassociation.org/competitions/SmallSidesAlphen2025) | 19.33, 17.42, 17.49 |
 
 ### 3x3x3 Fewest Moves - Single
 

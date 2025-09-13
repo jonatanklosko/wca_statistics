@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -83,8 +83,8 @@
 | [Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07) | 11.03 |
 | [Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02) | 11.02 |
 | [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | 11.00 |
-| [Chisanupong Chulasereekul (ชิษณุพงศ์ จุฬาเสรีกุล)](https://www.worldcubeassociation.org/persons/2014CHUL02) | 11.00 |
 | [Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01) | 11.00 |
+| [Chisanupong Chulasereekul (ชิษณุพงศ์ จุฬาเสรีกุล)](https://www.worldcubeassociation.org/persons/2014CHUL02) | 11.00 |
 | [Santiago A. Ospina Botero](https://www.worldcubeassociation.org/persons/2013BOTE01) | 10.94 |
 | [Jakka Chang](https://www.worldcubeassociation.org/persons/2014CHAN17) | 10.94 |
 | [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) | 10.90 |
@@ -100,8 +100,8 @@
 | [Brandon Lugtu](https://www.worldcubeassociation.org/persons/2012LUGT01) | 10.69 |
 | [Martin Henry](https://www.worldcubeassociation.org/persons/2013HENR01) | 10.67 |
 | [Giles Mampaey](https://www.worldcubeassociation.org/persons/2012MAMP01) | 10.60 |
-| [Jesse Hartnett](https://www.worldcubeassociation.org/persons/2012HART03) | 10.56 |
 | [Dániel Lázár](https://www.worldcubeassociation.org/persons/2014LAZA04) | 10.56 |
+| [Jesse Hartnett](https://www.worldcubeassociation.org/persons/2012HART03) | 10.56 |
 | [Pepijn Huigen](https://www.worldcubeassociation.org/persons/2013HUIG01) | 10.44 |
 | [Frieder Klein](https://www.worldcubeassociation.org/persons/2013KLEI01) | 10.43 |
 

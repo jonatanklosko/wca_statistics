@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 
 ### Rubik's Cube
@@ -188,7 +188,7 @@
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 27 |
 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | 19 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 19 |
-| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 18 |
+| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 19 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 17 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 16 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 16 |

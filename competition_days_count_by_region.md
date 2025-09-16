@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 13 September 2025*
+*Updated on 16 September 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 15793 |
+| 1.46 | World | 15805 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 5103 |
-| 1.47 | South America | 2005 |
+| 1.72 | Europe | 5107 |
+| 1.47 | South America | 2006 |
 | 1.47 | Oceania | 694 |
 | 1.41 | Asia | 3264 |
 | 1.33 | Africa | 203 |
-| 1.21 | North America | 4524 |
+| 1.21 | North America | 4531 |
 
 ### Countries
 
@@ -42,7 +42,7 @@
 | 1.86 | Serbia | 28 |
 | 1.86 | Spain | 449 |
 | 1.85 | Croatia | 33 |
-| 1.84 | United Kingdom | 310 |
+| 1.84 | United Kingdom | 311 |
 | 1.82 | Finland | 170 |
 | 1.81 | Slovakia | 52 |
 | 1.81 | Mexico | 237 |
@@ -65,7 +65,7 @@
 | 1.64 | Italy | 274 |
 | 1.60 | Iran | 43 |
 | 1.60 | Indonesia | 245 |
-| 1.59 | Netherlands | 135 |
+| 1.60 | Netherlands | 136 |
 | 1.59 | Dominican Republic | 29 |
 | 1.57 | San Marino | 7 |
 | 1.57 | New Zealand | 159 |
@@ -78,9 +78,9 @@
 | 1.52 | Bulgaria | 27 |
 | 1.51 | Bolivia | 154 |
 | 1.51 | South Africa | 102 |
-| 1.50 | Sweden | 357 |
+| 1.50 | Sweden | 358 |
 | 1.50 | Laos | 2 |
-| 1.47 | Peru | 245 |
+| 1.47 | Peru | 246 |
 | 1.44 | Australia | 532 |
 | 1.43 | Israel | 72 |
 | 1.43 | Montenegro | 7 |
@@ -91,8 +91,8 @@
 | 1.38 | Andorra | 8 |
 | 1.38 | Bangladesh | 24 |
 | 1.38 | Ecuador | 64 |
-| 1.37 | Romania | 140 |
 | 1.37 | Chinese Taipei | 154 |
+| 1.37 | Romania | 141 |
 | 1.36 | Jordan | 22 |
 | 1.33 | Belize | 3 |
 | 1.33 | Ghana | 3 |
@@ -116,9 +116,9 @@
 | 1.22 | El Salvador | 37 |
 | 1.19 | Japan | 253 |
 | 1.18 | Armenia | 11 |
-| 1.17 | Canada | 452 |
+| 1.17 | Canada | 454 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3626 |
+| 1.16 | United States | 3631 |
 | 1.15 | Mongolia | 48 |
 | 1.12 | Azerbaijan | 48 |
 | 1.11 | Egypt | 9 |

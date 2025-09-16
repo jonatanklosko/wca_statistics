@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 September 2025*
+*Updated on 16 September 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1387,6 +1387,7 @@
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025/results/podiums) |
 | 11 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Villa Carlos Paz Otoño 2019](https://www.worldcubeassociation.org/competitions/VillaCarlosPazOtono2019/results/podiums) |
+| 10 | [Matías Ponte](https://www.worldcubeassociation.org/persons/2018PONT03) | [Villa María al Cubo 2025](https://www.worldcubeassociation.org/competitions/VillaMariaalCubo2025/results/podiums) |
 | 12 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Villanueva Open 2017](https://www.worldcubeassociation.org/competitions/VillanuevadelaCanadaOpen2017/results/podiums) |
 | 11 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Vilnius Open 2016](https://www.worldcubeassociation.org/competitions/VilniusOpen2016/results/podiums) |
 | 10 | [Fabricio Andrés Yañez Terrazas](https://www.worldcubeassociation.org/persons/2015TERR01) | [Viña Cubing Fest IV SC 2024](https://www.worldcubeassociation.org/competitions/VinaCubingFestIVSC2024/results/podiums) |
@@ -1428,6 +1429,7 @@
 | 12 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [West Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2019/results/podiums) |
 | 11 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Willimiehen Kuutiopäivät 2023](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2023/results/podiums) |
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Willimiehen Kuutiopäivät 2024](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2024/results/podiums) |
+| 12 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Willimiehen Kuutiopäivät 2025](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2025/results/podiums) |
 | 12 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
 | 12 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
 | 13 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |

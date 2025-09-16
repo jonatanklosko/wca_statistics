@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 September 2025*
+*Updated on 16 September 2025*
 
 
 ### Rubik's Cube
@@ -60,7 +60,7 @@
 | 36.75 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 44.40, 34.49, 34.16, 37.95, 37.82 |
 | 37.50 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 39.18, 36.80, 38.53, 37.17, 36.48 |
 | 39.47 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 39.50, 37.72, 41.32, 41.15, 37.75 |
-| 39.78 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 36.14, DNF, 38.57, 41.28, 39.50 |
+| 39.72 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 43.02, 50.14, 37.08, 37.70, 38.43 |
 | 39.82 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 39.39, 41.52, 42.68, 37.25, 38.56 |
 | 40.10 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 40.19, 39.70, 46.64, 40.40, 38.76 |
 
@@ -209,7 +209,7 @@
 | 4.89 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 9.73, 4.97, 4.84, 4.86, 4.84 |
 | 5.03 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 5.37, 5.23, 9.93, 4.23, 4.49 |
 | 5.03 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 5.11, 11.42, 3.53, 4.64, 5.33 |
-| 5.20 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 5.65, 5.18, 10.73, 4.76, 4.68 |
+| 5.16 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 5.16, 4.99, 4.76, 6.10, 5.34 |
 | 5.40 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.37, 7.96, 4.67, 5.96, 4.86 |
 | 5.43 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 4.71, 7.32, 5.97, 4.75, 5.57 |
 | 5.46 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 4.82, 5.56, 7.48, 6.00, 4.49 |

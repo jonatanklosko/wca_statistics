@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 September 2025*
+*Updated on 16 September 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -633,6 +633,7 @@
 | 3267 | [Samuel Cuellar Ramirez](https://www.worldcubeassociation.org/persons/2015RAMI14) |
 | 3277 | [Ben Bergen](https://www.worldcubeassociation.org/persons/2015BERG10) |
 | 3290 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
+| 3290 | [Ben Erwin](https://www.worldcubeassociation.org/persons/2016ERWI01) |
 | 3304 | [Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01) |
 | 3310 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
 | 3332 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) |

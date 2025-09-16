@@ -1,12 +1,13 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 13 September 2025*
+*Updated on 16 September 2025*
 
 
 ### 300 Competitions
 
 | Days | Person |
 | ---: | :--- |
+| 1849 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 4012 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 4380 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 4963 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
@@ -101,15 +102,15 @@
 | 1093 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 1093 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
 | 1407 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
+| 1429 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 1646 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1646 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 1701 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 1701 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 1744 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1757 | [Keenan Darkins](https://www.worldcubeassociation.org/persons/2019DARK02) |
 | 1835 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) |
 | 1911 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
-| 1918 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 
 ### 50 Competitions
 

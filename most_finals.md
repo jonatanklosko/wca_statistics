@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 16 September 2025*
+*Updated on 19 September 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -32,7 +32,7 @@
 | 1287 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 1284 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1280 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
-| 1270 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
+| 1280 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 1251 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 1248 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 1229 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
@@ -49,14 +49,14 @@
 | 1148 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1137 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 1123 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 1118 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
+| 1122 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 1100 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1094 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 1093 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1086 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
+| 1081 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 1079 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
-| 1075 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 1056 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 1050 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 1039 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
@@ -84,24 +84,24 @@
 | 940 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 940 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 936 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 934 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 931 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 922 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 921 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 917 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 915 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
-| 912 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 912 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
+| 912 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 911 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
+| 908 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 908 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 908 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 903 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
 | 903 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
+| 903 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
 | 901 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 898 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
-| 897 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 896 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 889 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
 

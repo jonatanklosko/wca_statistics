@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 16 September 2025*
+*Updated on 19 September 2025*
 
 
 ### Rubik's Cube - Single
@@ -357,11 +357,11 @@
 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | **2.31** |  | [Moorhead Madness 2025](https://www.worldcubeassociation.org/competitions/MoorheadMadness2025) | 2.35, 2.40, 2.18, 3.71, 1.64 |
 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | **2.55** |  | [Coffs Big Banana Bonanza 2025](https://www.worldcubeassociation.org/competitions/CoffsBigBananaBonanza2025) | 2.81, 2.34, DNF, 2.20, 2.49 |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **2.64** |  | [Nub Open Mission Viejo 2025](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejoSpring2025) | 2.36, 2.46, DNF, 2.86, 2.61 |
+| [Alessandro Diomampo](https://www.worldcubeassociation.org/persons/2023DIOM01) | **2.65** |  | [Benicia Open 2025](https://www.worldcubeassociation.org/competitions/BeniciaOpen2025) | 2.35, 3.09, 2.55, 2.24, 3.06 |
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | **2.67** |  | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | 2.48, 3.01, 2.52, 3.52, 2.36 |
 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | **2.68** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 4.44, 2.71, 2.70, 2.56, 2.63 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **2.82** |  | [Cube4fun Lublin Holidays 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinHolidays2025) | 2.78, 3.12, 5.68, 2.56, 2.56 |
 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | **2.83** |  | [Kristiansand Open 2025](https://www.worldcubeassociation.org/competitions/KristiansandOpen2025) | 3.13, 2.59, 2.59, 3.36, 2.78 |
-| [Alessandro Diomampo](https://www.worldcubeassociation.org/persons/2023DIOM01) | **2.85** |  | [Davis Summer 2025](https://www.worldcubeassociation.org/competitions/DavisSummer2025) | 3.07, 6.15, 2.87, 2.62, 2.11 |
 | [Jonathan Wang (王嘉洺)](https://www.worldcubeassociation.org/persons/2022WANG23) | **2.86** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 2.84, 2.92, 2.64, 3.50, 2.83 |
 
 ### Skewb - Single

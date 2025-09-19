@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 September 2025*
+*Updated on 19 September 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -10,12 +10,12 @@
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **322** | 73 | 35 | 430 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **272** | 147 | 101 | 520 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **240** | 185 | 140 | 565 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **221** | 66 | 34 | 321 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **222** | 67 | 34 | 323 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **206** | 62 | 21 | 289 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **203** | 27 | 12 | 242 |
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **196** | 191 | 107 | 494 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **179** | 69 | 40 | 288 |
-| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **171** | 104 | 52 | 327 |
+| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **182** | 69 | 40 | 291 |
+| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **173** | 107 | 52 | 332 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **147** | 161 | 137 | 445 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **140** | 74 | 43 | 257 |
@@ -82,9 +82,9 @@
 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) | **48** | 46 | 44 | 138 |
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **48** | 43 | 30 | 121 |
 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | **48** | 30 | 39 | 117 |
+| [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) | **48** | 29 | 22 | 99 |
 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) | **48** | 27 | 25 | 100 |
-| [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) | **47** | 29 | 20 | 96 |
-| [Olivier Vos](https://www.worldcubeassociation.org/persons/2016VOSO01) | **47** | 23 | 19 | 89 |
+| [Olivier Vos](https://www.worldcubeassociation.org/persons/2016VOSO01) | **48** | 23 | 22 | 93 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | **47** | 9 | 8 | 64 |
 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | **46** | 61 | 31 | 138 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | **46** | 36 | 26 | 108 |
@@ -96,7 +96,7 @@
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **43** | 50 | 46 | 139 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | **43** | 44 | 52 | 139 |
 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) | **43** | 37 | 32 | 112 |
-| [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | **42** | 53 | 52 | 147 |
+| [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | **42** | 53 | 53 | 148 |
 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | **42** | 47 | 54 | 143 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | **42** | 1 | 0 | 43 |
 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | **41** | 44 | 40 | 125 |

@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 September 2025*
+*Updated on 22 September 2025*
 
 
 ### Rubik's Cube
@@ -121,8 +121,8 @@
 | 21.95 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 20, 22, 19, 22, 23, 23, 22, 21, 23, 23, 21, 23, 20, 19, 22, 21, 21, 23, 21, DNF, 28, 24, 22, 22, 22 |
 | 22.00 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 20, 20, 22, 22, 22, 22, 24, 24, 22, 23, 23, 25, 23, 20, 22, 20, 23, 23, 23, 22, 23, 18, 22, 21, 19 |
 | 22.05 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 22, 22, 23, 21, 23, 22, 22, 27, 22, 22, 21, 23, 19, 22, 22, DNF, 21, 21, 22, 21, 21, 25, 23, 22, 21 |
+| 22.48 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 20, 26, 21, 20, 23, 24, 25, 24, 23, 28, 24, 21, 23, 22, 20, 24, 20, 22, 23, 20, 20, 23, 26, 23, 21 |
 | 22.48 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 20, 23, 25, 24, 18, 20, 22, 25, 23, 23, 22, 23, 23, 24, 23, 23, 22, 21, 23, 20, 25, 26, 23, 20, 19 |
-| 22.52 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 22, 25, 23, 18, 22, 27, 26, 22, 23, 22, 23, 23, 23, 21, 21, 24, 23, 23, 22, 22, 24, 24, 19, 20, 21 |
 
 ### 3x3x3 One-Handed
 

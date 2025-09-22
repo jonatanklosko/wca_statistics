@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 September 2025*
+*Updated on 22 September 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1076,6 +1076,7 @@
 | 10 | [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) | [Real Geekcuber Pucallpa 2023](https://www.worldcubeassociation.org/competitions/RealGeekcuberPucallpa2023/results/podiums) |
 | 10 | [Angel Jesus Panebra Rodriguez](https://www.worldcubeassociation.org/persons/2016RODR37) | [Real Geekcuber Pucallpa 2023](https://www.worldcubeassociation.org/competitions/RealGeekcuberPucallpa2023/results/podiums) |
 | 11 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | [Rebild Open 2014](https://www.worldcubeassociation.org/competitions/RebildOpen2014/results/podiums) |
+| 10 | [Cristian Castellanos Guevara](https://www.worldcubeassociation.org/persons/2024GUEV01) | [Regionales Santander 2025](https://www.worldcubeassociation.org/competitions/RegionalesSantander2025/results/podiums) |
 | 10 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Rheinland-Pfalz Open 2022](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2022/results/podiums) |
 | 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Rio Cubolympics 2024](https://www.worldcubeassociation.org/competitions/RioCubolympics2024/results/podiums) |
 | 12 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Rio Cubolympics 2025](https://www.worldcubeassociation.org/competitions/RioCubolympics2025/results/podiums) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 September 2025*
+*Updated on 25 September 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -136,6 +136,7 @@
 | 4578 | [Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01) |
 | 4592 | [Andrei Răzvan Ionel](https://www.worldcubeassociation.org/persons/2012IONE01) |
 | 4703 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
+| 4895 | [Hiroto Fujita (藤田浩斗)](https://www.worldcubeassociation.org/persons/2012FUJI01) |
 | 5172 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 5215 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 6040 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |

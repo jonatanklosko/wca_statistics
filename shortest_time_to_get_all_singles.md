@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 September 2025*
+*Updated on 25 September 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -101,6 +101,7 @@
 | 665 | [Haotian Hu (胡皓天)](https://www.worldcubeassociation.org/persons/2022HUHA01) |
 | 665 | [Riccardo Ripoldi](https://www.worldcubeassociation.org/persons/2022RIPO01) |
 | 667 | [Tianping Ding (丁天平)](https://www.worldcubeassociation.org/persons/2016DING05) |
+| 667 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
 | 670 | [Shunsuke Wada (和田俊輔)](https://www.worldcubeassociation.org/persons/2016WADA01) |
 | 671 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 672 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
@@ -279,6 +280,7 @@
 | 1240 | [Auric Cui](https://www.worldcubeassociation.org/persons/2022CUIA01) |
 | 1245 | [Aaron Spiller](https://www.worldcubeassociation.org/persons/2018SPIL01) |
 | 1246 | [Sebastian Werb](https://www.worldcubeassociation.org/persons/2012WERB01) |
+| 1246 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) |
 | 1252 | [Jack Maddigan](https://www.worldcubeassociation.org/persons/2020MADD02) |
 | 1253 | [Victor Tang Yao Jun (湯曜駿)](https://www.worldcubeassociation.org/persons/2015JUNV01) |
 | 1253 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) |
@@ -708,6 +710,7 @@
 | 4795 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 4809 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 4838 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
+| 4895 | [Hiroto Fujita (藤田浩斗)](https://www.worldcubeassociation.org/persons/2012FUJI01) |
 | 4984 | [Nikolai Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) |
 | 5061 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
 | 5134 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |

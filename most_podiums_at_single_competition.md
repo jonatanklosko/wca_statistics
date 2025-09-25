@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 September 2025*
+*Updated on 25 September 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -489,6 +489,8 @@
 | 10 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | [Everything in Evanston B 2023](https://www.worldcubeassociation.org/competitions/EverythinginEvanstonB2023/results/podiums) |
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Exeter Open 2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016/results/podiums) |
 | 11 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Exeter Open 2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016/results/podiums) |
+| 11 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Eyes Open Open - Ōtautahi 2025](https://www.worldcubeassociation.org/competitions/EyesOpenOpenOtautahi2025/results/podiums) |
+| 11 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | [Eyes Open Open - Ōtautahi 2025](https://www.worldcubeassociation.org/competitions/EyesOpenOpenOtautahi2025/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Falukorv Open 2023](https://www.worldcubeassociation.org/competitions/FalukorvOpen2023/results/podiums) |
 | 11 | [Jack Larsson Backsell](https://www.worldcubeassociation.org/persons/2021BACK01) | [Falukorv Open 2023](https://www.worldcubeassociation.org/competitions/FalukorvOpen2023/results/podiums) |
 | 10 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023/results/podiums) |

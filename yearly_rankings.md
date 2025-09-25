@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 September 2025*
+*Updated on 25 September 2025*
 
 
 ### Rubik's Cube - Single
@@ -38,6 +38,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **0.46** |  | [HKRCU 20th Anniversary 2025](https://www.worldcubeassociation.org/competitions/HKRCU20thAnniversary2025) | 1.04, 0.91, 0.46, 1.02, 1.44 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **0.47** |  | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) | 1.30, 1.02, 0.47, 1.64, 3.06 |
 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | **0.47** |  | [Queenspark O'Clock 2025](https://www.worldcubeassociation.org/competitions/QueensparkOClock2025) | 1.59, 0.47, 1.85, DNF, 1.68 |
 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | **0.49** |  | [NSW State Championship 2025](https://www.worldcubeassociation.org/competitions/NSWStateChampionship2025) | 1.78, 1.50, 0.49, 1.76, 1.51 |
@@ -47,7 +48,6 @@
 | [Ian Cantius Fredric](https://www.worldcubeassociation.org/persons/2022FRED05) | **0.54** |  | [Coffee Cup Tacoma 2025](https://www.worldcubeassociation.org/competitions/CoffeeCupTacoma2025) | 1.51, 1.33, 0.54, 1.36, 2.60 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **0.55** |  | [Cincinnati Open 2025](https://www.worldcubeassociation.org/competitions/CincinnatiOpen2025) | 0.55, 1.05, 2.46, 1.15, 1.45 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **0.56** |  | [NSW State Championship 2025](https://www.worldcubeassociation.org/competitions/NSWStateChampionship2025) | 7.58, 1.42, 0.56, 2.00, DNF |
-| [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) | **0.56** |  | [Birmingham Spring 2025](https://www.worldcubeassociation.org/competitions/BirminghamSpring2025) | 1.61, 1.66, 0.56, 1.72, 4.09 |
 
 ### 2x2x2 Cube - Average
 
@@ -384,8 +384,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | **1.37** |  | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025) | 1.22, 1.43, 1.16, 1.46, 2.93 |
+| [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | **1.57** |  | [Shenyang Autumn 2025](https://www.worldcubeassociation.org/competitions/ShenyangAutumn2025) | 1.20, 1.49, 1.80, 9.61, 1.42 |
 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | **1.61** |  | [Southern Indiana Qualifier 2025](https://www.worldcubeassociation.org/competitions/SouthernIndianaQualifier2025) | DNF, 1.52, 1.72, 1.35, 1.59 |
-| [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | **1.63** |  | [Xi'an New Year 2025](https://www.worldcubeassociation.org/competitions/XianNewYear2025) | 1.61, 1.60, 1.69, 1.43, 2.97 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **1.64** |  | [Beskidy Cubing Day 2025](https://www.worldcubeassociation.org/competitions/BeskidyCubingDay2025) | 1.62, 1.64, 1.46, 2.14, 1.65 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **1.67** |  | [River Hill Spring 2025](https://www.worldcubeassociation.org/competitions/RiverHillSpring2025) | 1.74, 1.72, 1.20, 1.82, 1.56 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **1.69** |  | [Silesian Cubing Mysłowice 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingMyslowice2025) | 1.65, 2.85, 1.72, 1.71, 1.52 |

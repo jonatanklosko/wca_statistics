@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 September 2025*
+*Updated on 28 September 2025*
 
 
 ### Rubik's Cube - Single
@@ -257,7 +257,7 @@
 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | **6.52** |  | [Sorg'Open 2025](https://www.worldcubeassociation.org/competitions/SorgOpen2025) | 8.66, 8.37, 11.55, 8.88, 6.52 |
 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | **6.60** |  | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025) | 6.60, 12.56, 10.60, 9.23, 9.22 |
 | [Nipun Das](https://www.worldcubeassociation.org/persons/2017DASN01) | **6.61** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 10.15, 10.84, 11.75, 6.61, 11.94 |
-| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **6.73** |  | [We Laugh Pohanghang 2025](https://www.worldcubeassociation.org/competitions/WeLaughPohanghang2025) | 10.51, 11.85, 11.32, 13.66, 6.73 |
+| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **6.66** |  | [Bucharest Cubing September 2025](https://www.worldcubeassociation.org/competitions/BucharestCubingSeptember2025) | 6.66, 10.88, 8.25, 9.31, 10.02 |
 
 ### 3x3x3 One-Handed - Average
 
@@ -338,8 +338,8 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | **1.53** |  | [Hasty Hastings 2025](https://www.worldcubeassociation.org/competitions/HastyHastings2025) | 3.52, 2.33, 7.02, 1.53, 3.08 |
 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | **1.64** |  | [Moorhead Madness 2025](https://www.worldcubeassociation.org/competitions/MoorheadMadness2025) | 2.35, 2.40, 2.18, 3.71, 1.64 |
-| [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | **1.82** |  | [Puzzling Papatoetoe 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPapatoetoe2025) | 2.28, 1.82, 2.63, 4.07, 2.46 |
 | [Anatolii Turenko](https://www.worldcubeassociation.org/persons/2018TURE01) | **1.87** |  | [Back to Kostelec 2025](https://www.worldcubeassociation.org/competitions/BacktoKostelec2025) | 1.87, 4.53, 3.43, 5.36, DNF |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **1.90** |  | [Agoura Side Events Day 2025](https://www.worldcubeassociation.org/competitions/AgouraSideEventsDay2025) | 4.24, 3.85, 4.34, 3.40, 1.90 |
 | [Karl Liam L. Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | **1.91** |  | [Makati Heroes Speedcubing 2025](https://www.worldcubeassociation.org/competitions/MakatiHeroesSpeedcubing2025) | 2.64, 3.46, 3.41, 2.66, 1.91 |

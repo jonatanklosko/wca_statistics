@@ -1,25 +1,25 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 September 2025*
+*Updated on 28 September 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1516** | 1290 | 1113 | 3919 |
 | United States | **1454** | 1154 | 992 | 3600 |
 | Germany | **1339** | 1266 | 1258 | 3863 |
-| Russia | **1195** | 671 | 518 | 2384 |
+| Russia | **1200** | 671 | 518 | 2389 |
 | France | **1096** | 963 | 824 | 2883 |
 | Netherlands | **1040** | 834 | 713 | 2587 |
-| China | **1026** | 938 | 825 | 2789 |
+| China | **1027** | 941 | 828 | 2796 |
 | Poland | **805** | 527 | 419 | 1751 |
-| Malaysia | **492** | 520 | 482 | 1494 |
+| Malaysia | **492** | 521 | 483 | 1496 |
 | United Kingdom | **480** | 530 | 504 | 1514 |
-| Canada | **459** | 483 | 526 | 1468 |
-| Hong Kong, China | **456** | 454 | 376 | 1286 |
+| Canada | **461** | 483 | 527 | 1471 |
+| Hong Kong, China | **456** | 454 | 377 | 1287 |
 | Switzerland | **428** | 489 | 392 | 1309 |
 | Republic of Korea | **414** | 355 | 311 | 1080 |
-| India | **406** | 400 | 386 | 1192 |
+| India | **407** | 400 | 386 | 1193 |
 | Italy | **400** | 391 | 361 | 1152 |
 | Denmark | **386** | 331 | 280 | 997 |
 | Ukraine | **338** | 345 | 366 | 1049 |
@@ -35,7 +35,7 @@
 | Spain | **228** | 222 | 245 | 695 |
 | Ireland | **209** | 99 | 88 | 396 |
 | Austria | **201** | 254 | 273 | 728 |
-| Slovenia | **187** | 246 | 257 | 690 |
+| Slovenia | **187** | 248 | 257 | 692 |
 | Latvia | **161** | 232 | 242 | 635 |
 | Belgium | **157** | 232 | 226 | 615 |
 | Colombia | **154** | 128 | 119 | 401 |
@@ -47,9 +47,9 @@
 | Lithuania | **117** | 99 | 101 | 317 |
 | Belarus | **115** | 82 | 93 | 290 |
 | Thailand | **104** | 109 | 66 | 279 |
-| Slovakia | **102** | 143 | 139 | 384 |
+| Slovakia | **102** | 144 | 141 | 387 |
+| Philippines | **97** | 117 | 114 | 328 |
 | Venezuela | **97** | 115 | 113 | 325 |
-| Philippines | **96** | 117 | 114 | 327 |
 | Croatia | **86** | 127 | 102 | 315 |
 | New Zealand | **78** | 92 | 75 | 245 |
 | Brazil | **77** | 100 | 70 | 247 |

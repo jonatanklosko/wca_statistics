@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 25 September 2025*
+*Updated on 28 September 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -62,6 +62,7 @@
 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 5 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
 | 5 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
+| 5 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
 | 5 | [Máté Horváth](https://www.worldcubeassociation.org/persons/2007HORV01) |
 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
@@ -76,7 +77,6 @@
 | 4 | [Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09) |
 | 4 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 4 | [Keisuke Hiraya (平谷啓輔)](https://www.worldcubeassociation.org/persons/2007HIRA02) |
-| 4 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
 | 4 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) |
 | 4 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 4 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -10,6 +10,7 @@
 | 14 | [Lichao Liu (刘立超)](https://www.worldcubeassociation.org/persons/2018LIUL05) |
 | 140 | [Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21) |
 | 154 | [Khaled Al-Hathlool (خالد الهذلول)](https://www.worldcubeassociation.org/persons/2024ALHA03) |
+| 161 | [Marcel Martel](https://www.worldcubeassociation.org/persons/2025MART42) |
 | 163 | [Joshua Gao](https://www.worldcubeassociation.org/persons/2023GAOJ02) |
 | 181 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 194 | [Weijie Fang (方伟杰)](https://www.worldcubeassociation.org/persons/2018FANG10) |
@@ -266,6 +267,7 @@
 | 1199 | [Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01) |
 | 1204 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 | 1204 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
+| 1204 | [Elias Chong](https://www.worldcubeassociation.org/persons/2022CHON03) |
 | 1211 | [Pierce Tickle](https://www.worldcubeassociation.org/persons/2022TICK01) |
 | 1218 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1219 | [Mihály Horváth](https://www.worldcubeassociation.org/persons/2016HORV04) |
@@ -518,6 +520,7 @@
 | 2317 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 2323 | [Can Mao (毛灿)](https://www.worldcubeassociation.org/persons/2010MAOC01) |
 | 2323 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
+| 2324 | [Breton MacDonald](https://www.worldcubeassociation.org/persons/2019MACD02) |
 | 2331 | [Lakshmi Sai Srivatsa](https://www.worldcubeassociation.org/persons/2017SRIV11) |
 | 2338 | [Saul Emmanuel Ramirez Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ21) |
 | 2351 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |

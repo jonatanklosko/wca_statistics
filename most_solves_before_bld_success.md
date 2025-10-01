@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -8,6 +8,7 @@
 | Attempts | Person |
 | ---: | :--- |
 | 81 | [Serhii Koksharov (Сергій Кокшаров)](https://www.worldcubeassociation.org/persons/2013KOKS01) |
+| 71 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) |
 | 62 | [Samuel Jehanno](https://www.worldcubeassociation.org/persons/2018JEHA01) |
 | 57 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) |
 | 53 | [Lucas Patrick Dowling](https://www.worldcubeassociation.org/persons/2023DOWL01) |
@@ -26,7 +27,6 @@
 | 34 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
 | 33 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) |
 | 33 | [Oscar Coleman Green](https://www.worldcubeassociation.org/persons/2018GREE09) |
-| 32 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 
 ### 4x4x4 Blindfolded
 

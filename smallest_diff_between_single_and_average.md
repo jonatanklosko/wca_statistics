@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### Rubik's Cube
@@ -46,8 +46,8 @@
 | 0.06 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | 47.44 | 47.50 | [Cali Cube 2018](https://www.worldcubeassociation.org/competitions/CaliCube2018/results/by_person#2011EDUA01) |
 | 0.07 | [Yuhang Chen (陈宇航)](https://www.worldcubeassociation.org/persons/2023CHEY30) | 35.74 | 35.81 | [Cube Camp in Suan Phueng 2025](https://www.worldcubeassociation.org/competitions/CubeCampinSuanPhueng2025/results/by_person#2023CHEY30) |
 | 0.08 | [Kaloyan Vladimirov Kalev](https://www.worldcubeassociation.org/persons/2022KALE01) | 52.48 | 52.56 | [Sofia Spring 2024](https://www.worldcubeassociation.org/competitions/SofiaSpring2024/results/by_person#2022KALE01) |
+| 0.09 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | 26.18 | 26.27 | [Menlo Cubing Open 2025](https://www.worldcubeassociation.org/competitions/MenloCubingOpen2025/results/by_person#2018RUSH01) |
 | 0.09 | [Geovanny Cueva](https://www.worldcubeassociation.org/persons/2018CUEV01) | 44.94 | 45.03 | [Guayaquil Championship 2018](https://www.worldcubeassociation.org/competitions/GuayaquilChampionship2018/results/by_person#2018CUEV01) |
-| 0.11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 34.94 | 35.05 | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022/results/by_person#2013OWCZ01) |
 
 ### 5x5x5 Cube
 

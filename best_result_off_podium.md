@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 
 ### Rubik's Cube
@@ -30,9 +30,9 @@
 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) | 1.19 | **1.37** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e222_f) | 6 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.01 | **1.38** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e222_f) | 7 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 0.87 | **1.39** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 4 |
+| [Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11) | 1.20 | **1.39** | [Atlanta Algs at AIS Autumn 2025](https://www.worldcubeassociation.org/competitions/AtlantaAlgsatAISAutumn2025/results/all#e222_f) | 4 |
+| [Micah Heckerling](https://www.worldcubeassociation.org/persons/2023HECK01) | 1.02 | **1.40** | [Atlanta Algs at AIS Autumn 2025](https://www.worldcubeassociation.org/competitions/AtlantaAlgsatAISAutumn2025/results/all#e222_f) | 5 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 0.98 | **1.41** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e222_f) | 4 |
-| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.12 | **1.41** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 5 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.24 | **1.41** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e222_f) | 5 |
 
 ### 4x4x4 Cube
 

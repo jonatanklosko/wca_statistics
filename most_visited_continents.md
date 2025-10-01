@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -211,6 +211,7 @@
 | 4 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 4 | [Thomas Pierroz](https://www.worldcubeassociation.org/persons/2021PIER01) |
 | 4 | [Mitchell Anderson](https://www.worldcubeassociation.org/persons/2022ANDE01) |
+| 4 | [Don Daniels](https://www.worldcubeassociation.org/persons/2022DANI10) |
 | 4 | [Achilles Standring](https://www.worldcubeassociation.org/persons/2022STAN14) |
 | 4 | [Joseph Liu (劉睿博)](https://www.worldcubeassociation.org/persons/2023LIUJ01) |
 | 4 | [Catherine Rush](https://www.worldcubeassociation.org/persons/2023RUSH01) |

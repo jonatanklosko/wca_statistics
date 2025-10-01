@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 September 2025*
+*Updated on  1 October 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -851,6 +851,7 @@
 | 15 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer 2011](https://www.worldcubeassociation.org/competitions/MelbourneSummer2011/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021/results/podiums) |
 | 11 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025/results/podiums) |
+| 10 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [Menlo Cubing Open 2025](https://www.worldcubeassociation.org/competitions/MenloCubingOpen2025/results/podiums) |
 | 11 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [Mestre Álvaro 2016](https://www.worldcubeassociation.org/competitions/MestreAlvaro2016/results/podiums) |
 | 11 | [Samuel Asafe Ludugel Fagundes](https://www.worldcubeassociation.org/persons/2015FAGU01) | [Mestre Álvaro 2016](https://www.worldcubeassociation.org/competitions/MestreAlvaro2016/results/podiums) |
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Michigan 2018](https://www.worldcubeassociation.org/competitions/Michigan2018/results/podiums) |
@@ -1141,6 +1142,7 @@
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [SCMU Freedom Open 2015](https://www.worldcubeassociation.org/competitions/SCMUFreedomOpen2015/results/podiums) |
 | 10 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [Sébra Open 2016](https://www.worldcubeassociation.org/competitions/SebraOpen2016/results/podiums) |
 | 12 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [See You Next Year İstanbul 2023](https://www.worldcubeassociation.org/competitions/SeeYouNextYearIstanbul2023/results/podiums) |
+| 10 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Sej Sejere Sejs 2025](https://www.worldcubeassociation.org/competitions/SejSejereSejs2025/results/podiums) |
 | 10 | [Hendry Cahyadi](https://www.worldcubeassociation.org/persons/2011CAHY03) | [Semarang Fun Cube 2016](https://www.worldcubeassociation.org/competitions/SemarangFunCube2016/results/podiums) |
 | 10 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | [Semey Open 2018](https://www.worldcubeassociation.org/competitions/SemeyOpen2018/results/podiums) |
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Serbian Championship 2023](https://www.worldcubeassociation.org/competitions/SerbianChampionship2023/results/podiums) |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 
 ### Rubik's Cube
@@ -117,12 +117,12 @@
 | 0.02 | [Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01) | 17.90 | 17.92 | [Caltech Winter 2012](https://www.worldcubeassociation.org/competitions/CaltechWinter2012/results/by_person#2008NADU01) |
 | 0.03 | [Kymo Hendriks](https://www.worldcubeassociation.org/persons/2023HEND11) | 13.88 | 13.91 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2023HEND11) |
 | 0.03 | [Luiggi Giovanucci](https://www.worldcubeassociation.org/persons/2012GIOV02) | 25.67 | 25.70 | [Pequi Open 2020](https://www.worldcubeassociation.org/competitions/PequiOpen2020/results/by_person#2012GIOV02) |
+| 0.04 | [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) | 12.41 | 12.45 | [Berkeley Fall 2025](https://www.worldcubeassociation.org/competitions/BerkeleyFall2025/results/by_person#2017OSTD02) |
 | 0.04 | [Simon Lim (林少秋)](https://www.worldcubeassociation.org/persons/2008LIMS01) | 17.83 | 17.87 | [Bayani 2012](https://www.worldcubeassociation.org/competitions/Bayani2012/results/by_person#2008LIMS01) |
 | 0.05 | [Muhammad Fitri Hakim Bin Dzulkarnain](https://www.worldcubeassociation.org/persons/2017DZUL02) | 19.02 | 19.07 | [Warm Up at gateway klia2 2024](https://www.worldcubeassociation.org/competitions/WarmUpatgatewayklia22024/results/by_person#2017DZUL02) |
 | 0.05 | [Han Dong (董晗)](https://www.worldcubeassociation.org/persons/2012DONG02) | 20.84 | 20.89 | [Shanghai Winter is Coming 2016](https://www.worldcubeassociation.org/competitions/ShanghaiWinterisComing2016/results/by_person#2012DONG02) |
 | 0.05 | [Naman Jain](https://www.worldcubeassociation.org/persons/2016JAIN04) | 21.24 | 21.29 | [Guwahati Summer Open 2019](https://www.worldcubeassociation.org/competitions/GuwahatiSummerOpen2019/results/by_person#2016JAIN04) |
 | 0.05 | [Trần Hữu Phổ](https://www.worldcubeassociation.org/persons/2018PHTR01) | 29.51 | 29.56 | [Da Nang Open 2018](https://www.worldcubeassociation.org/competitions/DaNangOpen2018/results/by_person#2018PHTR01) |
-| 0.06 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 15.06 | 15.12 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2010WUIF01) |
 
 ### Megaminx
 

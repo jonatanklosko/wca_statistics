@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -245,6 +245,7 @@
 | 1112 | [Kristian Gil Caragan](https://www.worldcubeassociation.org/persons/2016CARA04) |
 | 1113 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
 | 1119 | [Ognian Baruh](https://www.worldcubeassociation.org/persons/2022BARU03) |
+| 1121 | [Nate Garthon](https://www.worldcubeassociation.org/persons/2022GART03) |
 | 1127 | [Samuel Hernandez Castro](https://www.worldcubeassociation.org/persons/2016CAST31) |
 | 1128 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 1133 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |

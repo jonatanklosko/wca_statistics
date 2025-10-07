@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 
 ### Rubik's Cube
@@ -52,6 +52,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 32.38 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Trabuco Hills Fall 2025](https://www.worldcubeassociation.org/competitions/NubOpenTrabucoHillsFall2025/results/by_person#2012PARK03) |
 | 33.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 33.28 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [PBs in Palisades Winter 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesWinter2025/results/by_person#2016KOLA02) |
 | 33.36 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
@@ -61,7 +62,6 @@
 | 34.00 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025/results/by_person#2016KOLA02) |
 | 34.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 | 34.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
-| 34.19 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Burbank Big Cubes 2025](https://www.worldcubeassociation.org/competitions/BurbankBigCubes2025/results/by_person#2012PARK03) |
 
 ### 3x3x3 One-Handed
 
@@ -114,6 +114,7 @@
 | ---: | :--- | :--- |
 | 2.04 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Beachside Auckland 2025](https://www.worldcubeassociation.org/competitions/BeachsideAuckland2025/results/by_person#2022GIBS04) |
 | 2.08 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Milford Winter Warm Up 2025](https://www.worldcubeassociation.org/competitions/MilfordWinterWarmUp2025/results/by_person#2022GIBS04) |
+| 2.10 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Grand Forks 2025](https://www.worldcubeassociation.org/competitions/GrandForks2025/results/by_person#2022KAPU01) |
 | 2.14 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Heartland Championship 2025](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2025/results/by_person#2022KAPU01) |
 | 2.14 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Auckland Autumn 2025](https://www.worldcubeassociation.org/competitions/AucklandAutumn2025/results/by_person#2022GIBS04) |
 | 2.17 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Beachside Auckland 2025](https://www.worldcubeassociation.org/competitions/BeachsideAuckland2025/results/by_person#2022GIBS04) |
@@ -121,7 +122,6 @@
 | 2.20 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Beachside Auckland 2025](https://www.worldcubeassociation.org/competitions/BeachsideAuckland2025/results/by_person#2022GIBS04) |
 | 2.21 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Milford Winter Warm Up 2025](https://www.worldcubeassociation.org/competitions/MilfordWinterWarmUp2025/results/by_person#2022GIBS04) |
 | 2.22 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Puzzling Papatoetoe 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPapatoetoe2025/results/by_person#2022GIBS04) |
-| 2.24 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [2x2 in Tāmaki Makaurau 2025](https://www.worldcubeassociation.org/competitions/2x2inTamakiMakaurau2025/results/by_person#2022GIBS04) |
 
 ### Skewb
 

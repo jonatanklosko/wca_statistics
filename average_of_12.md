@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 
 ### Rubik's Cube
@@ -23,8 +23,8 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 0.98 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | 0.86, 0.77, 0.82, 0.94, 3.19, 0.99, 0.94, 0.89, 1.33, 1.11, 0.88, 1.03 |
 | 1.00 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 0.84, DNF, 1.00, 1.01, 1.27, 0.89, 0.90, 0.98, 1.01, 0.90, 0.91, 1.14 |
-| 1.01 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | 0.99, 0.96, 1.23, 0.68, 1.01, 1.84, 1.04, 0.91, 1.00, 0.70, 0.87, 1.35 |
 | 1.02 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.06, 4.65, 1.19, 0.86, 1.10, 0.78, 1.02, 1.04, 1.22, 0.89, 0.58, 1.02 |
 | 1.04 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 0.88, 1.20, 1.92, 0.87, 1.10, 1.15, 1.25, 0.85, 1.16, 1.00, 0.92, 0.72 |
 | 1.05 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 0.96, 1.08, 1.03, 0.93, 1.48, 5.19, 0.81, 1.16, 1.05, 0.84, 1.06, 0.95 |
@@ -83,7 +83,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1:43.47 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:47.71, 1:47.19, 1:39.90, 1:40.00, 1:44.83, 1:34.59, 1:48.73, 1:43.28, 1:51.03, 1:42.49, 1:41.75, 1:38.85 |
+| 1:43.16 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:37.93, 1:47.39, 1:41.48, 1:54.86, 1:44.33, 1:37.56, 1:47.52, 1:53.30, 1:44.93, 1:33.48, 1:41.36, 1:35.75 |
 | 1:46.29 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:51.80, 1:53.82, 1:47.28, 1:35.28, 1:41.95, 1:53.73, 1:37.69, 2:10.49, 1:37.07, 1:47.41, 1:51.73, 1:40.41 |
 | 1:46.98 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:44.37, 1:45.33, 1:41.20, 1:46.80, 1:40.17, 1:50.26, 1:43.66, 1:54.42, 1:48.68, 2:02.59, 1:54.93, 1:39.76 |
 | 1:48.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:47.56, 2:01.70, 1:39.95, 1:52.79, 1:41.60, 1:50.15, 1:43.19, 1:53.71, 1:42.37, 1:52.04, 1:51.26, 1:49.41 |

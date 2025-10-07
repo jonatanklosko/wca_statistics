@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -186,6 +186,7 @@
 | 4 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
 | 4 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) |
 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 4 | [Alexandre Ondet](https://www.worldcubeassociation.org/persons/2017ONDE01) |
 | 4 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) |
 | 4 | [Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31) |
 | 4 | [Mohammad Almoumen](https://www.worldcubeassociation.org/persons/2017ALMO03) |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -414,6 +414,7 @@
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [Delhi Open 2017](https://www.worldcubeassociation.org/competitions/DelhiOpen2017/results/podiums) |
 | 13 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [De Wilg Open 2014](https://www.worldcubeassociation.org/competitions/DeWilgOpen2014/results/podiums) |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [De Wilg Open 2014](https://www.worldcubeassociation.org/competitions/DeWilgOpen2014/results/podiums) |
+| 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Cubing Fall 2025](https://www.worldcubeassociation.org/competitions/DFWCubingFall2025/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/podiums) |
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Cubing Summer 2025](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2025/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [DFW Eclipse Cubing 2024](https://www.worldcubeassociation.org/competitions/DFWEclipseCubing2024/results/podiums) |
@@ -801,6 +802,7 @@
 | 10 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | [Los Lagos Open 2016](https://www.worldcubeassociation.org/competitions/LosLagosOpen2016/results/podiums) |
 | 11 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Los Reyes del Cubo III 2025](https://www.worldcubeassociation.org/competitions/LosReyesdelCuboChiclayoIII2025/results/podiums) |
 | 10 | [Teri McAcy](https://www.worldcubeassociation.org/persons/2015MCAC01) | [Louisiana Mega Two Day 2023](https://www.worldcubeassociation.org/competitions/LouisianaMegaTwoDay2023/results/podiums) |
+| 11 | [Tiago Morais](https://www.worldcubeassociation.org/persons/2023MORA20) | [Luso-Bussaco Open 2025](https://www.worldcubeassociation.org/competitions/LusoBussacoOpen2025/results/podiums) |
 | 10 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/LuzonChampionship2025/results/podiums) |
 | 16 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Lyon Open 2011](https://www.worldcubeassociation.org/competitions/LyonOpen2011/results/podiums) |
 | 10 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Macedonian Nationals 2019](https://www.worldcubeassociation.org/competitions/MacedonianNationals2019/results/podiums) |
@@ -815,6 +817,7 @@
 | 11 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | [Malaysia Cube Open 2016](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2016/results/podiums) |
 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Malaysia Cube Open 2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017/results/podiums) |
 | 17 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | [Malaysian Cube Open 2015](https://www.worldcubeassociation.org/competitions/MalaysianCubeOpen2015/results/podiums) |
+| 11 | [Ian Yazid Zavala](https://www.worldcubeassociation.org/persons/2023LOPE06) | [MalecOpen Mazatlán 2025](https://www.worldcubeassociation.org/competitions/MalecOpenMazatlan2025/results/podiums) |
 | 14 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Mallorca Open 2014](https://www.worldcubeassociation.org/competitions/Mallorca2014/results/podiums) |
 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Mallorca Open 2024](https://www.worldcubeassociation.org/competitions/MallorcaOpen2024/results/podiums) |
 | 12 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | [Mallorca Open 2025](https://www.worldcubeassociation.org/competitions/MallorcaOpen2025/results/podiums) |
@@ -1350,6 +1353,7 @@
 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [UNESP Open 2018](https://www.worldcubeassociation.org/competitions/UNESPOpen2018/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023/results/podiums) |
 | 13 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Otoño 2023](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingOtono2023/results/podiums) |
+| 11 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Primavera 2025](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingPrimavera2025/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [UoSM Cube Open 2024](https://www.worldcubeassociation.org/competitions/UoSMCubeOpen2024/results/podiums) |
 | 13 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [U.R.A. Back to School 2016](https://www.worldcubeassociation.org/competitions/URABacktoSchool2016/results/podiums) |
 | 10 | [Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01) | [U.R.A. Back to School 2016](https://www.worldcubeassociation.org/competitions/URABacktoSchool2016/results/podiums) |
@@ -1387,6 +1391,7 @@
 | 14 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Vårgårda Open 2012](https://www.worldcubeassociation.org/competitions/VargardaOpen2012/results/podiums) |
 | 11 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Veikkola Open 2017](https://www.worldcubeassociation.org/competitions/VeikkolaOpen2017/results/podiums) |
 | 13 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Venezuela Nationals 2023](https://www.worldcubeassociation.org/competitions/VenezuelaNationals2023/results/podiums) |
+| 11 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Venezuela Nationals 2025](https://www.worldcubeassociation.org/competitions/VenezuelaNationals2025/results/podiums) |
 | 10 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [VERK IV 2025](https://www.worldcubeassociation.org/competitions/VERKIV2025/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025/results/podiums) |

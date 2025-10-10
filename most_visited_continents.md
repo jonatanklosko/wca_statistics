@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -58,11 +58,13 @@
 | 5 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
 | 5 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) |
 | 5 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
+| 5 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
 | 5 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
 | 5 | [Ricardo Olea Catalán](https://www.worldcubeassociation.org/persons/2017CATA04) |
 | 5 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) |
 | 5 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 5 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 4 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 4 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 4 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) |
@@ -167,7 +169,6 @@
 | 4 | [Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01) |
 | 4 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
 | 4 | [Jason Vindvamara](https://www.worldcubeassociation.org/persons/2015VIND01) |
-| 4 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
 | 4 | [Tim Xie](https://www.worldcubeassociation.org/persons/2015XIET01) |
 | 4 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 4 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
@@ -209,7 +210,6 @@
 | 4 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 4 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 4 | [Henry Syn](https://www.worldcubeassociation.org/persons/2021SYNH01) |
-| 4 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 4 | [Thomas Pierroz](https://www.worldcubeassociation.org/persons/2021PIER01) |
 | 4 | [Mitchell Anderson](https://www.worldcubeassociation.org/persons/2022ANDE01) |
 | 4 | [Don Daniels](https://www.worldcubeassociation.org/persons/2022DANI10) |

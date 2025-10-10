@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -38,6 +38,7 @@
 | 1526 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 1533 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 1555 | [Jack McDougall](https://www.worldcubeassociation.org/persons/2020MCDO01) |
+| 1559 | [Jaxon Foster](https://www.worldcubeassociation.org/persons/2021FOST01) |
 | 1575 | [Katharina Schlomberg](https://www.worldcubeassociation.org/persons/2020SCHL01) |
 | 1589 | [Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48) |
 | 1589 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) |

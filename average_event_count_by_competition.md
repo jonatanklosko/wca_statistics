@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -29,8 +29,8 @@
 | [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) | 9.82 | 55 | Czech Republic |
 | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023) | 9.77 | 35 | Indonesia |
 | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | 9.77 | 39 | Poland |
-| [Bogotá No Duerme 2024](https://www.worldcubeassociation.org/competitions/BogotaNoDuerme2024) | 9.75 | 28 | Colombia |
 | [Val d'Aran Open 2024](https://www.worldcubeassociation.org/competitions/ValdAranOpen2024) | 9.75 | 28 | Spain |
+| [Bogotá No Duerme 2024](https://www.worldcubeassociation.org/competitions/BogotaNoDuerme2024) | 9.75 | 28 | Colombia |
 | [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021) | 9.72 | 25 | Sweden |
 | [Kediri Open 2013](https://www.worldcubeassociation.org/competitions/KediriOpen2013) | 9.65 | 23 | Indonesia |
 | [Begastri Open 2025](https://www.worldcubeassociation.org/competitions/BegastriOpen2025) | 9.62 | 48 | Spain |

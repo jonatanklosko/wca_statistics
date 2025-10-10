@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 
 ### Rubik's Cube - Single
@@ -188,7 +188,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **12.96** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 12.96, 13.00, DNF |
+| [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **12.95** |  | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) | 12.95, 14.67, 15.70 |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **13.12** |  | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) | 16.32, 16.32, 13.12 |
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **13.86** |  | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025) | 13.86, DNF, 16.84 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **14.05** |  | [Championnat Canadien 2025](https://www.worldcubeassociation.org/competitions/ChampionnatCanadien2025) | 14.05, 19.97, 20.35 |
@@ -203,8 +203,8 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **14.44** |  | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) | 12.95, 14.67, 15.70 |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **15.25** |  | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) | 16.32, 16.32, 13.12 |
-| [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **15.38** |  | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025) | 13.72, 15.40, 17.01 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **16.41** |  | [Buckeye Big Brain OH 2025](https://www.worldcubeassociation.org/competitions/BuckeyeBigBrainOhioState2025) | 15.56, 16.77, 16.90 |
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **16.52** |  | [Mid-Atlantic Quiet Champs 2025](https://www.worldcubeassociation.org/competitions/MidAtlanticQuietChampionship2025) | 15.68, 16.36, 17.51 |
 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **16.91** |  | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025) | 16.46, 19.36, 14.92 |
@@ -343,7 +343,7 @@
 | [Anatolii Turenko](https://www.worldcubeassociation.org/persons/2018TURE01) | **1.87** |  | [Back to Kostelec 2025](https://www.worldcubeassociation.org/competitions/BacktoKostelec2025) | 1.87, 4.53, 3.43, 5.36, DNF |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **1.90** |  | [Agoura Side Events Day 2025](https://www.worldcubeassociation.org/competitions/AgouraSideEventsDay2025) | 4.24, 3.85, 4.34, 3.40, 1.90 |
 | [Karl Liam L. Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | **1.91** |  | [Makati Heroes Speedcubing 2025](https://www.worldcubeassociation.org/competitions/MakatiHeroesSpeedcubing2025) | 2.64, 3.46, 3.41, 2.66, 1.91 |
-| [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | **1.99** |  | [Don't Inverloch Up 2025](https://www.worldcubeassociation.org/competitions/DontInverlochUp2025) | 3.46, 3.22, 2.66, 1.99, 3.67 |
+| [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | **1.96** |  | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) | 2.52, 2.74, 1.96, 2.98, DNF |
 | [Mick Boekema](https://www.worldcubeassociation.org/persons/2022BOEK01) | **2.00** |  | [Lente in Lent 2025](https://www.worldcubeassociation.org/competitions/LenteinLent2025) | 4.76, 3.17, DNF, 2.00, 4.12 |
 | [Sebastian Stone](https://www.worldcubeassociation.org/persons/2022STON09) | **2.02** |  | [Davis Summer 2025](https://www.worldcubeassociation.org/competitions/DavisSummer2025) | 3.19, DNF, 3.22, DNF, 2.02 |
 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | **2.06** |  | [Twist & Fries Johor Bahru 2025](https://www.worldcubeassociation.org/competitions/TwistFriesJohorBahru2025) | 3.74, 3.99, 3.31, 2.79, 2.06 |
@@ -464,8 +464,8 @@
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **2:53.25** |  | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | DNF, 3:18.30, 2:53.25 |
 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **2:57.34** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 4:02.12, 2:57.34, DNF |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **2:58.31** |  | [SacQuiet Spring 2025](https://www.worldcubeassociation.org/competitions/SacQuietSpring2025) | DNF, 3:33.97, 2:58.31 |
+| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **3:10.28** |  | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) | DNF, DNF, 3:10.28 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **3:17.44** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | DNF, DNF, 3:17.44 |
-| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **3:17.74** |  | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025) | 3:17.74, DNF, DNF |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **3:18.09** |  | [Crevalcore al Cubo 2025](https://www.worldcubeassociation.org/competitions/CrevalcorealCubo2025) | 3:18.09, DNF, DNF |
 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) | **3:28.54** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 3:28.54, DNF, DNF |
 
@@ -481,8 +481,8 @@
 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **6:01.90** |  | [Franconia Winter 2025](https://www.worldcubeassociation.org/competitions/FranconiaWinter2025) | 5:28.05, 5:52.33, 6:45.33 |
 | [Daniel Wang](https://www.worldcubeassociation.org/persons/2022WANG06) | **6:17.06** |  | [Adelaide Summer 2025](https://www.worldcubeassociation.org/competitions/AdelaideSummer2025) | 5:14.79, 5:37.06, 7:59.34 |
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | **6:18.50** |  | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | 6:20.20, 5:41.86, 6:53.43 |
+| [Felix Williams](https://www.worldcubeassociation.org/persons/2023WILL26) | **6:27.54** |  | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) | 5:56.44, 5:57.66, 7:28.51 |
 | [Joshua Gao](https://www.worldcubeassociation.org/persons/2023GAOJ02) | **6:57.52** |  | [DFW Mega Mental Breakdown 2025](https://www.worldcubeassociation.org/competitions/DFWMegaMentalBreakdown2025) | 6:51.88, 6:10.19, 7:50.49 |
-| [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **7:22.11** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 7:16.68, 5:55.42, 8:54.24 |
 
 ### 3x3x3 Multi-Blind - Single
 

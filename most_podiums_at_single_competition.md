@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -767,6 +767,7 @@
 | 12 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
 | 12 | [Ahmad Alolaimi](https://www.worldcubeassociation.org/persons/2022ALOL01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
 | 11 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Kuwaiti Nationals 2024](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2024/results/podiums) |
+| 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Kuwaiti Nationals 2025](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2025/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Kvissel Fall 2017](https://www.worldcubeassociation.org/competitions/KvisselFall2017/results/podiums) |
 | 15 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Kvissel Fall 2018](https://www.worldcubeassociation.org/competitions/KvisselFall2018/results/podiums) |
 | 10 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Kvissel Fall 2018](https://www.worldcubeassociation.org/competitions/KvisselFall2018/results/podiums) |

@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 
 ### 300 Competitions
@@ -151,6 +151,7 @@
 | 287 | [Thomas Cabezas Casallas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 289 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
 | 294 | [Kyle Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
+| 297 | [Leon Granér](https://www.worldcubeassociation.org/persons/2024GRAN16) |
 | 299 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 | 302 | [Matteo Rodríguez Colorado](https://www.worldcubeassociation.org/persons/2024COLO04) |
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
@@ -160,7 +161,6 @@
 | 337 | [Jacob Goossens Celis](https://www.worldcubeassociation.org/persons/2023CELI06) |
 | 338 | [Mohith B (ಮೋಹಿತ್ ಬಿ)](https://www.worldcubeassociation.org/persons/2023BMOH01) |
 | 351 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) |
-| 351 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 
 ### 10 Competitions
 

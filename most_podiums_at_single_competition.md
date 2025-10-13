@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1070,6 +1070,7 @@
 | 12 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Pulmapelipäivät 2024](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2024/results/podiums) |
 | 10 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Pulmapelipäivät 2025](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2025/results/podiums) |
 | 10 | [Leo Alanen](https://www.worldcubeassociation.org/persons/2022ALAN02) | [Pulmapelipäivät 2025](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2025/results/podiums) |
+| 10 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [Puzzling Puzzles Vantaa 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPuzzlesVantaa2025/results/podiums) |
 | 13 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Q8speedcubing in K.S.E 2023](https://www.worldcubeassociation.org/competitions/Q8speedcubinginKSE2023/results/podiums) |
 | 10 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [QQQ 2018](https://www.worldcubeassociation.org/competitions/QuabbinQualifier2018/results/podiums) |
 | 11 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Qubes Don' Lie Ankara 2022](https://www.worldcubeassociation.org/competitions/QubesDonLieAnkara2022/results/podiums) |

@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 
 ### Rubik's Cube
@@ -151,7 +151,7 @@
 | 28.96 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 28.57, 28.23, 27.90, 33.23, 28.60, 29.78, 26.80, 28.14, 26.00, 31.06, 34.57, 29.97, 27.33, 31.09, 36.48, 26.24, 29.53, 28.22, 28.11, 33.37, 30.10, 27.27, 26.53, 28.19, 26.00 |
 | 29.18 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 26.67, 28.82, 31.36, DNF, 26.39, 30.45, DNF, 29.17, 32.93, 27.78, 27.73, 30.00, 26.93, 27.03, 29.01, 29.92, 29.15, 30.69, 29.48, 28.71, 30.12, 28.97, 29.20, 27.42, 27.95 |
 | 29.70 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 29.66, 28.97, 28.11, 28.37, 34.12, 28.70, 32.71, 30.47, 29.48, 29.93, 27.71, 29.10, 28.45, 29.17, 30.99, 29.83, 30.41, 31.12, 31.75, 31.67, 30.85, 27.70, 30.30, 28.03, 28.29 |
-| 30.04 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 30.07, 31.53, 28.53, 27.07, 31.59, 34.77, 28.96, 34.61, 33.74, 29.95, 26.94, 28.01, 31.77, 33.10, 28.62, 32.15, 27.34, 30.34, 28.52, 29.16, 28.47, 28.87, 31.67, 28.62, 29.77 |
+| 29.91 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 26.94, 28.01, 31.77, 33.10, 28.62, 32.15, 27.34, 30.34, 28.52, 29.16, 28.47, 28.87, 31.67, 28.62, 29.77, DNF, 32.78, 35.26, 28.16, 31.81, 29.88, 28.00, 31.21, 28.86, 28.24 |
 | 30.24 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 31.25, 28.43, 34.59, 28.09, 30.50, 30.56, 26.75, 28.88, 30.36, 31.15, 33.44, 28.96, 27.49, 28.58, 33.70, 25.47, 32.64, 28.79, 29.57, 32.71, 28.24, 31.22, 31.41, 31.57, 31.14 |
 
 ### Pyraminx

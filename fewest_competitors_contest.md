@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -261,6 +261,7 @@
 | 9 | [Nalsar Cube Open C 2025](https://www.worldcubeassociation.org/competitions/NalsarCubeOpenC2025) |
 | 9 | [Nevada Quiet Championship 2025](https://www.worldcubeassociation.org/competitions/NevadaQuietChampionship2025) |
 | 9 | [Nidaros FMC Winter 2025](https://www.worldcubeassociation.org/competitions/NidarosFMCWinter2025) |
+| 9 | [Oberlin Challenge I 2025](https://www.worldcubeassociation.org/competitions/OberlinChallengeI2025) |
 | 9 | [PBQ CBC 2022](https://www.worldcubeassociation.org/competitions/PBQCBC2022) |
 | 9 | [PBQ UCLA 2017](https://www.worldcubeassociation.org/competitions/PBQUCLA2017) |
 | 9 | [Perdiendo el Tiempo Granada 2025](https://www.worldcubeassociation.org/competitions/PerdiendoelTiempoenGranada2025) |
@@ -523,6 +524,7 @@
 | 12 | [Hot Spring Festival 2012](https://www.worldcubeassociation.org/competitions/HotSpringFestival2012) |
 | 12 | [Hverdagscubing XII Hvidovre 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingXIIHvidovre2024) |
 | 12 | [IFAB Sides Santa Maria 2025](https://www.worldcubeassociation.org/competitions/IFABSidesSantaMaria2025) |
+| 12 | [Instituto David Cube Open 2025](https://www.worldcubeassociation.org/competitions/InstitutoDavidCubeOpen2025) |
 | 12 | [Itämeri 2023](https://www.worldcubeassociation.org/competitions/Itameri2023) |
 | 12 | [Java FMC Cube Day 2010](https://www.worldcubeassociation.org/competitions/JavaFMCCubeDay2010) |
 | 12 | [Jönköpingsligan 3 Stormvind 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan3Stormvind2023) |

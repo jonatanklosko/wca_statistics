@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 
 ### Rubik's Cube
@@ -14,8 +14,8 @@
 | 4.83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.88, 4.20, 5.80, 4.96, 4.54, 5.29, 4.86, 5.55, 4.84, 4.03, 4.28, 4.88 |
 | 5.07 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.25, 4.43, 5.73, 5.40, 5.84, 4.43, 4.39, 4.84, 7.31, 4.83, 5.46, 4.47 |
 | 5.09 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.18, 4.01, 4.87, 4.60, 6.12, 5.56, 5.48, 5.53, 4.69, 4.92, 5.79, 4.25 |
+| 5.12 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 7.86, 4.60, 4.74, 4.70, 4.63, 4.76, 5.88, 5.08, 4.64, 5.47, 5.05, 6.22 |
 | 5.15 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 5.08, 5.02, 4.12, 5.04, 6.16, 5.33, 5.79, 5.56, 4.35, 5.79, 4.72, 4.85 |
-| 5.17 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5.39, 6.02, 7.15, 5.52, 4.54, 4.51, 4.28, 5.97, 4.76, 5.21, 4.44, 5.30 |
 | 5.25 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 4.67, 4.57, 6.18, 5.37, 5.01, 5.18, 4.67, 4.72, 5.14, 5.37, 7.03, 6.20 |
 | 5.29 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 5.74, 4.75, 5.35, 4.72, 5.26, 5.67, 5.99, 4.23, 5.87, 5.46, 4.92, 5.19 |
 
@@ -122,7 +122,7 @@
 | 21.60 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 22, 21, 23, 19, 22, 22, DNF, 21, 21, 22, 21, 21 |
 | 21.60 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 21, 23, 23, 21, 23, 20, 19, 22, 21, 21, 23, 21 |
 | 21.80 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 24, 21, 23, 22, 20, 24, 20, 22, 23, 20, 20, 23 |
-| 21.90 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 27, 20, 23, 21, 23, 23, 22, 20, 21, 22, 21, 23 |
+| 21.80 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) | 20, 21, 20, 22, 24, 24, 20, 25, 23, 22, 19, 22 |
 
 ### 3x3x3 One-Handed
 

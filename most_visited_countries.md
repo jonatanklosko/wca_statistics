@@ -1,11 +1,11 @@
 ## Most visited countries
 
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Countries | Person |
 | ---: | :--- |
 | 76 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
-| 59 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
+| 60 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
 | 56 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 49 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
@@ -38,12 +38,12 @@
 | 24 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
 | 24 | [Roman Sokolovskyi](https://www.worldcubeassociation.org/persons/2021SOKO03) |
 | 24 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
+| 23 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 23 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 22 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 22 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
-| 22 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 22 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 21 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 21 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |

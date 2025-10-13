@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -25,8 +25,8 @@
 | [A Tuesday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/ATuesdayinAshfield2024) | 9.92 | 12 | United States |
 | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | 9.84 | 50 | Czech Republic |
 | [Spring Cubing in Stafsinge 2025](https://www.worldcubeassociation.org/competitions/SpringCubinginStafsinge2025) | 9.83 | 24 | Sweden |
-| [Björneborg Winter 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWinter2023) | 9.82 | 11 | Sweden |
 | [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) | 9.82 | 55 | Czech Republic |
+| [Björneborg Winter 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWinter2023) | 9.82 | 11 | Sweden |
 | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023) | 9.77 | 35 | Indonesia |
 | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | 9.77 | 39 | Poland |
 | [Val d'Aran Open 2024](https://www.worldcubeassociation.org/competitions/ValdAranOpen2024) | 9.75 | 28 | Spain |

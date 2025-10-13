@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -55,10 +55,10 @@
 | 47 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3x3x3 Blindfolded | [Guangdong Open 2014](https://www.worldcubeassociation.org/competitions/GuangdongOpen2014) | [Chongqing Open 2017](https://www.worldcubeassociation.org/competitions/ChongqingOpen2017) |
 | 47 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | 3x3x3 One-Handed | [III Barueri Open 2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019) |  |
 | 46 | [David Remolina Amórtegui](https://www.worldcubeassociation.org/persons/2011AMOR01) | 4x4x4 Cube | [IV Bogota 2012](https://www.worldcubeassociation.org/competitions/IVBogota2012) | [Martelli Open Otoño 2019](https://www.worldcubeassociation.org/competitions/MartelliOpenOtono2019) |
+| 46 | [Damián Jail Campos](https://www.worldcubeassociation.org/persons/2015CAMP03) | Megaminx | [La Plata Open 2015](https://www.worldcubeassociation.org/competitions/LaPlataOpen2015) |  |
 | 46 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 3x3x3 Cube | [Luoyang Spring 2024](https://www.worldcubeassociation.org/competitions/LuoyangSpring2024) |  |
 | 45 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 6x6x6 Cube | [Australian Nationals 2013](https://www.worldcubeassociation.org/competitions/AustralianNationals2013) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 45 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 3x3x3 Blindfolded | [Kubkvarna 2022](https://www.worldcubeassociation.org/competitions/Kubkvarna2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
-| 45 | [Damián Jail Campos](https://www.worldcubeassociation.org/persons/2015CAMP03) | Megaminx | [La Plata Open 2015](https://www.worldcubeassociation.org/competitions/LaPlataOpen2015) |  |
 | 45 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | 3x3x3 Cube | [Edukent Weekend 2022](https://www.worldcubeassociation.org/competitions/EdukentWeekend2022) |  |
 | 44 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | Skewb | [Kubekings Villanueva Open 2018](https://www.worldcubeassociation.org/competitions/KubekingsVillanuevaOpen2018) | [UMA Open 2023](https://www.worldcubeassociation.org/competitions/UMAOpen2023) |
 | 44 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | Square-1 | [BCCC B 2021](https://www.worldcubeassociation.org/competitions/BCCubingComebackB2021) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |

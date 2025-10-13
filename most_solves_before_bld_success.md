@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -17,6 +17,7 @@
 | 44 | [Luis Tan Hong Yi (陈宏溢)](https://www.worldcubeassociation.org/persons/2023YILU01) |
 | 43 | [Noah Paredes](https://www.worldcubeassociation.org/persons/2016PARE03) |
 | 43 | [Mihail Stoicescu](https://www.worldcubeassociation.org/persons/2018STOI03) |
+| 40 | [Dan Boharon](https://www.worldcubeassociation.org/persons/2016BOHA01) |
 | 39 | [Roel Hoogeveen](https://www.worldcubeassociation.org/persons/2019HOOG01) |
 | 38 | [Blue James](https://www.worldcubeassociation.org/persons/2022JAME01) |
 | 37 | [Konstantin Ushakov](https://www.worldcubeassociation.org/persons/2014USHA02) |
@@ -26,7 +27,6 @@
 | 34 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 34 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
 | 33 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) |
-| 33 | [Oscar Coleman Green](https://www.worldcubeassociation.org/persons/2018GREE09) |
 
 ### 4x4x4 Blindfolded
 

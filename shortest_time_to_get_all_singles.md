@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -541,6 +541,7 @@
 | 2471 | [Nick Vu](https://www.worldcubeassociation.org/persons/2007VUNI01) |
 | 2471 | [David Akerboom](https://www.worldcubeassociation.org/persons/2018AKER01) |
 | 2485 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) |
+| 2485 | [Keiichiro Taira (平佳一郎)](https://www.worldcubeassociation.org/persons/2018TAIR02) |
 | 2490 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |
 | 2491 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2498 | [Enoch Gray](https://www.worldcubeassociation.org/persons/2012GRAY01) |
@@ -600,6 +601,7 @@
 | 2877 | [Cyril Teichmann](https://www.worldcubeassociation.org/persons/2017TEIC01) |
 | 2891 | [Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01) |
 | 2891 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
+| 2891 | [Raphael Riener](https://www.worldcubeassociation.org/persons/2017RIEN01) |
 | 2897 | [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
 | 2897 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 2913 | [Liam Highducheck](https://www.worldcubeassociation.org/persons/2015HIGH01) |
@@ -616,6 +618,7 @@
 | 3030 | [Brendan Bakker (貝庭笙)](https://www.worldcubeassociation.org/persons/2015BAKK01) |
 | 3031 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 3038 | [Azael Toysehua](https://www.worldcubeassociation.org/persons/2017TOYS01) |
+| 3038 | [Marco Yang](https://www.worldcubeassociation.org/persons/2017YANG62) |
 | 3046 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
 | 3065 | [Matej Bolta](https://www.worldcubeassociation.org/persons/2015BOLT01) |
 | 3086 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |

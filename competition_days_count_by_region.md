@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 13 October 2025*
+*Updated on 14 October 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 16027 |
+| 1.46 | World | 16034 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 5179 |
+| 1.72 | Europe | 5181 |
 | 1.47 | Oceania | 703 |
-| 1.47 | South America | 2036 |
-| 1.41 | Asia | 3309 |
+| 1.47 | South America | 2037 |
+| 1.41 | Asia | 3311 |
 | 1.33 | Africa | 205 |
-| 1.21 | North America | 4595 |
+| 1.21 | North America | 4597 |
 
 ### Countries
 
@@ -38,15 +38,15 @@
 | 1.88 | Iceland | 17 |
 | 1.86 | Thailand | 85 |
 | 1.86 | Palestine | 7 |
-| 1.86 | Norway | 153 |
 | 1.85 | Spain | 452 |
 | 1.85 | Croatia | 33 |
+| 1.85 | Norway | 155 |
 | 1.84 | United Kingdom | 318 |
 | 1.83 | Serbia | 29 |
 | 1.82 | Finland | 176 |
 | 1.81 | Slovakia | 53 |
 | 1.80 | Bosnia and Herzegovina | 15 |
-| 1.80 | Mexico | 243 |
+| 1.80 | Mexico | 244 |
 | 1.78 | Switzerland | 158 |
 | 1.78 | Slovenia | 41 |
 | 1.76 | Guatemala | 59 |
@@ -99,27 +99,27 @@
 | 1.33 | Ghana | 3 |
 | 1.33 | Kuwait | 12 |
 | 1.33 | Tajikistan | 3 |
-| 1.31 | Republic of Korea | 121 |
 | 1.31 | Portugal | 48 |
+| 1.31 | Republic of Korea | 122 |
 | 1.30 | Bahrain | 10 |
 | 1.30 | Morocco | 10 |
 | 1.30 | Hong Kong, China | 27 |
 | 1.29 | Colombia | 468 |
 | 1.29 | Uruguay | 59 |
 | 1.28 | Philippines | 378 |
-| 1.25 | Venezuela | 91 |
+| 1.26 | Venezuela | 92 |
 | 1.25 | Panama | 28 |
 | 1.25 | Chile | 159 |
 | 1.24 | China | 700 |
 | 1.24 | United Arab Emirates | 21 |
-| 1.21 | Singapore | 98 |
+| 1.21 | Singapore | 99 |
 | 1.21 | El Salvador | 38 |
 | 1.18 | Japan | 256 |
 | 1.18 | Armenia | 11 |
 | 1.17 | Canada | 461 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | Mongolia | 49 |
-| 1.16 | United States | 3679 |
+| 1.16 | United States | 3680 |
 | 1.12 | Azerbaijan | 48 |
 | 1.11 | Egypt | 9 |
 | 1.10 | Honduras | 20 |

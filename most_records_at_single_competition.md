@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 13 October 2025*
+*Updated on 14 October 2025*
 
 
 ### World
@@ -18,7 +18,7 @@
 | 5 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2009ZEMD01) |
 | 4 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Swedish Cube Day 2007](https://www.worldcubeassociation.org/competitions/SwedishCubeDay2007/results/by_person#2005AKKE01) |
 | 4 | [Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09) | [Taiwan Winter Open 2009](https://www.worldcubeassociation.org/competitions/TaiwanWinterOpen2009/results/by_person#2008CHAN09) |
-| 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/by_person#2006HALC01) |
+| 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/by_person#2006HALC01) |
 | 4 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) | [German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004/results/by_person#2003SCHE01) |
 | 4 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | [US Nationals 2004](https://www.worldcubeassociation.org/competitions/US2004/results/by_person#2003HARD01) |
 | 4 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | [Euro 2004](https://www.worldcubeassociation.org/competitions/Euro2004/results/by_person#2003POCH01) |

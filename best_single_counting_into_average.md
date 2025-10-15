@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 October 2025*
+*Updated on 14 October 2025*
 
 
 ### Rubik's Cube
@@ -40,13 +40,13 @@
 | 17.56 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Bay Area Speedcubin' 29 PM 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin29PM2022/results/by_person#2012PARK03) |
 | 17.61 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 17.62 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
+| 17.76 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Mission Viejo Fall 2025](https://www.worldcubeassociation.org/competitions/MissionViejoFall2025/results/by_person#2012PARK03) |
 | 17.93 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024/results/by_person#2012PARK03) |
 | 17.95 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025/results/by_person#2016KOLA02) |
 | 17.97 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025/results/by_person#2016KOLA02) |
 | 18.06 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Yucaipa 2024](https://www.worldcubeassociation.org/competitions/NubOpenYucaipa2024/results/by_person#2012PARK03) |
 | 18.08 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/by_person#2010WEYE02) |
 | 18.31 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Summer 2022](https://www.worldcubeassociation.org/competitions/CircleCitySummer2022/results/by_person#2012PARK03) |
-| 18.46 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025/results/by_person#2016KOLA02) |
 
 ### 5x5x5 Cube
 
@@ -112,6 +112,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 1.92 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Mission Viejo Fall 2025](https://www.worldcubeassociation.org/competitions/MissionViejoFall2025/results/by_person#2021DUNA01) |
 | 2.04 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Beachside Auckland 2025](https://www.worldcubeassociation.org/competitions/BeachsideAuckland2025/results/by_person#2022GIBS04) |
 | 2.08 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Milford Winter Warm Up 2025](https://www.worldcubeassociation.org/competitions/MilfordWinterWarmUp2025/results/by_person#2022GIBS04) |
 | 2.10 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Grand Forks 2025](https://www.worldcubeassociation.org/competitions/GrandForks2025/results/by_person#2022KAPU01) |
@@ -121,7 +122,6 @@
 | 2.18 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Moorhead Madness 2025](https://www.worldcubeassociation.org/competitions/MoorheadMadness2025/results/by_person#2022KAPU01) |
 | 2.20 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Beachside Auckland 2025](https://www.worldcubeassociation.org/competitions/BeachsideAuckland2025/results/by_person#2022GIBS04) |
 | 2.21 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Milford Winter Warm Up 2025](https://www.worldcubeassociation.org/competitions/MilfordWinterWarmUp2025/results/by_person#2022GIBS04) |
-| 2.22 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Puzzling Papatoetoe 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPapatoetoe2025/results/by_person#2022GIBS04) |
 
 ### Skewb
 

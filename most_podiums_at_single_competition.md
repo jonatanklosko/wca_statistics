@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 14 October 2025*
+*Updated on 16 October 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -477,6 +477,7 @@
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Entre Ríos Cubea 2025](https://www.worldcubeassociation.org/competitions/EntreRiosCubea2025/results/podiums) |
 | 10 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Eretum Open 2018](https://www.worldcubeassociation.org/competitions/EretumOpen2018/results/podiums) |
 | 12 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | [Erfurt Open 2014](https://www.worldcubeassociation.org/competitions/ErfurtOpen2014/results/podiums) |
+| 10 | [Enrico Tenuti](https://www.worldcubeassociation.org/persons/2017TENU01) | [Estonian Championship 2025](https://www.worldcubeassociation.org/competitions/EstonianChampionship2025/results/podiums) |
 | 11 | [Teemu Tiinanen](https://www.worldcubeassociation.org/persons/2007TIIN01) | [Estonian Open 2010](https://www.worldcubeassociation.org/competitions/EstonianOpen2010/results/podiums) |
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023/results/podiums) |
 | 10 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Etna Open 2018](https://www.worldcubeassociation.org/competitions/EtnaOpen2018/results/podiums) |

@@ -1,13 +1,13 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 16 October 2025*
+*Updated on 19 October 2025*
 
 | 4th places | Person |
 | ---: | :--- |
 | 267 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 259 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 232 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 236 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 217 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 199 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 189 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -40,8 +40,8 @@
 | 122 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 121 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 120 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 120 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 119 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 119 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 119 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 117 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 114 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) |

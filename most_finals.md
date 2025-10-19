@@ -1,10 +1,10 @@
 ## Most finals
 
-*Updated on 16 October 2025*
+*Updated on 19 October 2025*
 
 | Finals | Person |
 | ---: | :--- |
-| 2721 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 2728 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 2456 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2444 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2179 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
@@ -51,8 +51,8 @@
 | 1145 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 1141 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 1125 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
+| 1113 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 1109 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
-| 1105 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 1101 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 1099 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |

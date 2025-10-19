@@ -1,16 +1,16 @@
 ## Most competitions abroad
 
-*Updated on 16 October 2025*
+*Updated on 19 October 2025*
 
 | Competitions | Person |
 | ---: | :--- |
 | 219 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 208 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
+| 209 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 166 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 162 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 162 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 157 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 150 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
+| 151 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 139 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 138 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 137 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
@@ -77,8 +77,8 @@
 | 72 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 72 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
+| 71 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
 | 71 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
-| 70 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
 | 68 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 67 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
 | 67 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |

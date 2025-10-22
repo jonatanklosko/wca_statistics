@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -327,6 +327,7 @@
 | 1448 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 1449 | [Christopher Cabrera](https://www.worldcubeassociation.org/persons/2013CABR01) |
 | 1449 | [Jason Bilgrei](https://www.worldcubeassociation.org/persons/2014BILG01) |
+| 1456 | [Jan Zeman](https://www.worldcubeassociation.org/persons/2021ZEMA01) |
 | 1463 | [Shantanu Modak](https://www.worldcubeassociation.org/persons/2014MODA01) |
 | 1463 | [Guilherme Santana Campos](https://www.worldcubeassociation.org/persons/2019CAMP10) |
 | 1471 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
@@ -523,6 +524,7 @@
 | 2323 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
 | 2324 | [Breton MacDonald](https://www.worldcubeassociation.org/persons/2019MACD02) |
 | 2331 | [Lakshmi Sai Srivatsa](https://www.worldcubeassociation.org/persons/2017SRIV11) |
+| 2331 | [Emmett O'Leary-Liu](https://www.worldcubeassociation.org/persons/2019OLEA02) |
 | 2338 | [Saul Emmanuel Ramirez Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ21) |
 | 2351 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
 | 2352 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) |

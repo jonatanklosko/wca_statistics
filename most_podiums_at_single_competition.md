@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -647,6 +647,7 @@
 | 10 | [Rafael Hiroshi Eguchi Neves](https://www.worldcubeassociation.org/persons/2023NEVE01) | [II Cubo de Barro ES 2025](https://www.worldcubeassociation.org/competitions/IICubodeBarroES2025/results/podiums) |
 | 13 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [II Mineirim Open 2019](https://www.worldcubeassociation.org/competitions/IIMineirimOpen2019/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Ikast Winter Cubing 2023](https://www.worldcubeassociation.org/competitions/IkastWinterCubing2023/results/podiums) |
+| 10 | [William Lavoie](https://www.worldcubeassociation.org/persons/2023LAVO01) | [Imaginaire Québec 2025](https://www.worldcubeassociation.org/competitions/ImaginaireQuebec2025/results/podiums) |
 | 12 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Imaginalia Open 2017](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2017/results/podiums) |
 | 11 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Imaginalia Open 2018](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2018/results/podiums) |
 | 10 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Imaginalia Open 2018](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2018/results/podiums) |

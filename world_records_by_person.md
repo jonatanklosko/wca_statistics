@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 19 October 2025*
+*Updated on 22 October 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -59,6 +59,7 @@
 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |
+| 5 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 5 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
 | 5 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
@@ -73,7 +74,6 @@
 | 4 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) |
 | 4 | [Craig Bouchard](https://www.worldcubeassociation.org/persons/2005BOUC01) |
 | 4 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
-| 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
 | 4 | [Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09) |
 | 4 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 4 | [Keisuke Hiraya (平谷啓輔)](https://www.worldcubeassociation.org/persons/2007HIRA02) |

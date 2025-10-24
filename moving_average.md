@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 22 October 2025*
+*Updated on 23 October 2025*
 
 
 ### Rubik's Cube
@@ -550,10 +550,10 @@
 | 2.36 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) |
 | 2.37 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) |
 | 2.37 | [Zejin Liu (刘泽锦)](https://www.worldcubeassociation.org/persons/2021LIUZ04) |
+| 2.40 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) |
 | 2.40 | [Eli Panetta](https://www.worldcubeassociation.org/persons/2021PANE01) |
 | 2.40 | [Matouš Keder](https://www.worldcubeassociation.org/persons/2022KEDE01) |
 | 2.40 | [Lim Jia Ying](https://www.worldcubeassociation.org/persons/2022YING02) |
-| 2.41 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) |
 | 2.41 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) |
 | 2.42 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) |
 | 2.45 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) |

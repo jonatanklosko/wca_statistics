@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 23 October 2025*
+*Updated on 25 October 2025*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -55,13 +55,13 @@
 | 31 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | Croatia | [Osijek Open 2015](https://www.worldcubeassociation.org/competitions/OsijekOpen2015) |  |
 | 30 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | Sweden | [SSL 3 Kungsbacka 2017](https://www.worldcubeassociation.org/competitions/SSL3Kungsbacka2017) | [Flen - Lilla Manschetten 2021](https://www.worldcubeassociation.org/competitions/FlenLillaManschetten2021) |
 | 30 | [Hideki Niina (新名秀樹)](https://www.worldcubeassociation.org/persons/2008NIIN01) | Japan | [Waseda Brain 2012](https://www.worldcubeassociation.org/competitions/WasedaBrainChallenge2012) | [Kawasaki Autumn 2013](https://www.worldcubeassociation.org/competitions/KawasakiAutumn2013) |
+| 30 | [Amitai Ziv](https://www.worldcubeassociation.org/persons/2022ZIVA01) | Israel | [Weekend Cubing B Israel 2024](https://www.worldcubeassociation.org/competitions/WeekendCubingBIsrael2024) |  |
 | 30 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | Peru | [Peru Open 2011](https://www.worldcubeassociation.org/competitions/PeruOpen2011) | [Mega Rubik 2015](https://www.worldcubeassociation.org/competitions/MegaRubik2015) |
 | 30 | [İskender Aznavur](https://www.worldcubeassociation.org/persons/2013AZNA01) | Turkey | [Turkish Open 2013](https://www.worldcubeassociation.org/competitions/TurkishOpen2013) | [Turkish Cubing Tour Ankara 2020](https://www.worldcubeassociation.org/competitions/TurkishCubingTourAnkara2020) |
 | 29 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | Germany | [German Nationals 2009](https://www.worldcubeassociation.org/competitions/Germany2009) | [Schleswig-Holstein Open 2012](https://www.worldcubeassociation.org/competitions/SHOpen2012) |
 | 29 | [Malte Oliver Bøgh Kjøller](https://www.worldcubeassociation.org/persons/2018KJOL01) | Denmark | [Østerhøj NxNxN 2019](https://www.worldcubeassociation.org/competitions/OsterhojNxNxN2019) | [Fast Faster Falster 2022](https://www.worldcubeassociation.org/competitions/FastFasterFalster2022) |
-| 29 | [Amitai Ziv](https://www.worldcubeassociation.org/persons/2022ZIVA01) | Israel | [Weekend Cubing B Israel 2024](https://www.worldcubeassociation.org/competitions/WeekendCubingBIsrael2024) |  |
-| 29 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 29 | [Rafael Gregorio Martinez Paredes](https://www.worldcubeassociation.org/persons/2013PARE02) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
+| 29 | [Nestor Sanchez](https://www.worldcubeassociation.org/persons/2013SANC10) | Dominican Republic | [Republica Dominicana 2013](https://www.worldcubeassociation.org/competitions/RepublicaDominicana2013) |  |
 | 28 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) | Switzerland | [Swiss Open 2014](https://www.worldcubeassociation.org/competitions/SwissOpen2014) | [Swisscubing Mental 2018](https://www.worldcubeassociation.org/competitions/SwisscubingMentalBreakdown2018) |
 | 28 | [Ana Marchilashvili (ანა მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2022MARC10) | Georgia | [Georgia Open 2022](https://www.worldcubeassociation.org/competitions/GeorgiaOpen2022) | [Tbilisi June Open 2024](https://www.worldcubeassociation.org/competitions/TbilisiJuneOpen2024) |
 | 28 | [Sebastiano Benato](https://www.worldcubeassociation.org/persons/2014BENA03) | Uruguay | [Nacionales Uruguayas UCHI 2017](https://www.worldcubeassociation.org/competitions/NacionalesUruguayasUCHI2017) | [Evento al Qbo 2023](https://www.worldcubeassociation.org/competitions/EventoalQbo2023) |

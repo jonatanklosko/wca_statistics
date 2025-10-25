@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 23 October 2025*
+*Updated on 25 October 2025*
 
 
 ### Rubik's Cube - Single
@@ -190,6 +190,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **12.95** |  | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) | 12.95, 14.67, 15.70 |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **13.12** |  | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) | 16.32, 16.32, 13.12 |
+| [Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01) | **13.76** |  | [Strossburi Open 2025](https://www.worldcubeassociation.org/competitions/StrossburiOpen2025) | 13.76, DNF, DNF |
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **13.86** |  | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025) | 13.86, DNF, 16.84 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **14.05** |  | [Championnat Canadien 2025](https://www.worldcubeassociation.org/competitions/ChampionnatCanadien2025) | 14.05, 19.97, 20.35 |
 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **14.81** |  | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025) | DNF, 16.36, 14.81 |
@@ -197,7 +198,6 @@
 | [Gavriel Johann Arcilla](https://www.worldcubeassociation.org/persons/2023ARCI02) | **15.02** |  | [Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/LuzonChampionship2025) | 15.02, 17.88, DNF |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **15.04** |  | [Championnat Canadien 2025](https://www.worldcubeassociation.org/competitions/ChampionnatCanadien2025) | DNF, 15.04, 18.14 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **15.10** |  | [Airplane Mode XV OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVOH2025) | 30.88, DNF, 15.10 |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **15.22** |  | [New York Quiet Championship 2025](https://www.worldcubeassociation.org/competitions/NewYorkQuietChampionship2025) | 15.22, DNF, DNF |
 
 ### 3x3x3 Blindfolded - Average
 

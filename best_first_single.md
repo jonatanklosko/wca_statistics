@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 25 October 2025*
+*Updated on 28 October 2025*
 
 
 ### Rubik's Cube
@@ -60,7 +60,7 @@
 | 52.37 | [Yuzhe Gan (甘宇喆)](https://www.worldcubeassociation.org/persons/2018GANY01) |
 | 53.61 | [Shaoyi Liu (刘少一)](https://www.worldcubeassociation.org/persons/2024LIUS04) |
 | 53.92 | [Yuqi Fu (傅钰淇)](https://www.worldcubeassociation.org/persons/2019FUYU02) |
-| 54.99 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) |
+| 54.99 | [Branson Lau (劉朗朗)](https://www.worldcubeassociation.org/persons/2025LAUB01) |
 | 55.22 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 55.78 | [Boxun Zhang (张博勋)](https://www.worldcubeassociation.org/persons/2024ZHAB01) |
 
@@ -133,7 +133,7 @@
 | 11.08 | [Yingtong Huang (黄颖彤)](https://www.worldcubeassociation.org/persons/2021HUAN08) |
 | 11.11 | [Muhammad Qaiser Ikram bin Khairil Ikram](https://www.worldcubeassociation.org/persons/2025IKRA01) |
 | 11.15 | [Aragon Martin Gonzales](https://www.worldcubeassociation.org/persons/2023GONZ18) |
-| 11.16 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) |
+| 11.16 | [Branson Lau (劉朗朗)](https://www.worldcubeassociation.org/persons/2025LAUB01) |
 | 11.28 | [Yaxin Song (宋亚新)](https://www.worldcubeassociation.org/persons/2023SONG24) |
 | 11.36 | [Yixin Luo (罗益鑫)](https://www.worldcubeassociation.org/persons/2025LUOY02) |
 | 11.47 | [Liang Liang (梁亮)](https://www.worldcubeassociation.org/persons/2019LIAN50) |

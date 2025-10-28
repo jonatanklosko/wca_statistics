@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 October 2025*
+*Updated on 28 October 2025*
 
 
 ### Rubik's Cube
@@ -27,12 +27,12 @@
 | 0.01 | [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) | 2.74 | 2.75 | [Cubing Peoria 2020](https://www.worldcubeassociation.org/competitions/CubingPeoria2020/results/by_person#2013BARK01) |
 | 0.01 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 11.56 | 11.57 | [Berkeley Summer 2015](https://www.worldcubeassociation.org/competitions/BerkeleySummer2015/results/by_person#2011ALVI01) |
 | 0.02 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.33 | 1.35 | [Midwest Cubing Classic 2025](https://www.worldcubeassociation.org/competitions/MidwestCubingClassic2025/results/by_person#2013JOHN10) |
+| 0.02 | [Dante Navarro Vera](https://www.worldcubeassociation.org/persons/2022VERA02) | 1.47 | 1.49 | [UFRO al Cubo 2025](https://www.worldcubeassociation.org/competitions/UFROalCubo2025/results/by_person#2022VERA02) |
 | 0.02 | [Jack Maddigan](https://www.worldcubeassociation.org/persons/2020MADD02) | 1.55 | 1.57 | [Johnsonville FTOpen 2025](https://www.worldcubeassociation.org/competitions/JohnsonvilleFTOpen2025/results/by_person#2020MADD02) |
 | 0.02 | [Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04) | 1.73 | 1.75 | [UIUC Fall 2023](https://www.worldcubeassociation.org/competitions/UIUCFall2023/results/by_person#2016SORI04) |
 | 0.02 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 1.85 | 1.87 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2018STOK01) |
 | 0.02 | [Jack Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) | 1.95 | 1.97 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2012PANJ02) |
 | 0.02 | [Joonhee Lee](https://www.worldcubeassociation.org/persons/2022LEEJ28) | 2.11 | 2.13 | [Okcheon Autumn Breeze 2025](https://www.worldcubeassociation.org/competitions/OkcheonAutumnBreeze2025/results/by_person#2022LEEJ28) |
-| 0.02 | [Jamila Raine C. Espiritu](https://www.worldcubeassociation.org/persons/2018ESPI05) | 2.97 | 2.99 | [Pampanga Speedcubing Open 2024](https://www.worldcubeassociation.org/competitions/PampangaSpeedcubingOpen2024/results/by_person#2018ESPI05) |
 
 ### 4x4x4 Cube
 
@@ -71,13 +71,13 @@
 | 0.01 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1:46.52 | 1:46.53 | [6x6 Still in a Madison Park 2024](https://www.worldcubeassociation.org/competitions/6x6StillinaMadisonPark2024/results/by_person#2013JOHN10) |
 | 0.01 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | 1:56.22 | 1:56.23 | [Edukent Weekend 2022](https://www.worldcubeassociation.org/competitions/EdukentWeekend2022/results/by_person#2018ABLA01) |
 | 0.04 | [Jascha Bakarinow](https://www.worldcubeassociation.org/persons/2009BAKA01) | 1:57.09 | 1:57.13 | [German Big Cube Open 2018](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2018/results/by_person#2009BAKA01) |
+| 0.04 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 2:02.10 | 2:02.14 | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025/results/by_person#2022SOLO01) |
 | 0.04 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) | 2:20.54 | 2:20.58 | [Oceania 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Oceania10thAnniversary2019/results/by_person#2016STAN05) |
 | 0.04 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 2:28.29 | 2:28.33 | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025/results/by_person#2011SZAT01) |
 | 0.05 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 2:03.37 | 2:03.42 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/by_person#2012MCNE01) |
 | 0.05 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 4:48.06 | 4:48.11 | [Santiago Open 2009](https://www.worldcubeassociation.org/competitions/SantiagoOpen2009/results/by_person#2007GUIM01) |
 | 0.06 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) | 2:02.67 | 2:02.73 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022BLAC01) |
 | 0.06 | [Alan Zhao](https://www.worldcubeassociation.org/persons/2015ZHAO13) | 2:32.43 | 2:32.49 | [Westcoast Woodvale Weekends 2019](https://www.worldcubeassociation.org/competitions/WestcoastWoodvaleWeekends2019/results/by_person#2015ZHAO13) |
-| 0.08 | [Robbie Villarica](https://www.worldcubeassociation.org/persons/2010VILL03) | 1:54.38 | 1:54.46 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2010VILL03) |
 
 ### 7x7x7 Cube
 

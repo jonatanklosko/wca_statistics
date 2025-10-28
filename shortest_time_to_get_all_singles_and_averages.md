@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 October 2025*
+*Updated on 28 October 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -100,6 +100,7 @@
 | 2864 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 2870 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 2871 | [Jeremy Benik](https://www.worldcubeassociation.org/persons/2016BENI05) |
+| 2884 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
 | 2897 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 2919 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) |
 | 2926 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |

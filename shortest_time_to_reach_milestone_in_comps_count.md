@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 October 2025*
+*Updated on 28 October 2025*
 
 
 ### 300 Competitions
@@ -194,7 +194,7 @@
 | Days | Person |
 | ---: | :--- |
 | 23 | [Steve Godoy](https://www.worldcubeassociation.org/persons/2024GODO08) |
-| 26 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) |
+| 26 | [Branson Lau (劉朗朗)](https://www.worldcubeassociation.org/persons/2025LAUB01) |
 | 29 | [Luke Kim](https://www.worldcubeassociation.org/persons/2024KIML04) |
 | 29 | [Michael Paul Romero](https://www.worldcubeassociation.org/persons/2024ROME27) |
 | 36 | [Ramanujan Srinivasan](https://www.worldcubeassociation.org/persons/2024SRIN06) |

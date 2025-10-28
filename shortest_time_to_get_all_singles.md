@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 October 2025*
+*Updated on 28 October 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -525,6 +525,7 @@
 | 2324 | [Breton MacDonald](https://www.worldcubeassociation.org/persons/2019MACD02) |
 | 2331 | [Lakshmi Sai Srivatsa](https://www.worldcubeassociation.org/persons/2017SRIV11) |
 | 2331 | [Emmett O'Leary-Liu](https://www.worldcubeassociation.org/persons/2019OLEA02) |
+| 2337 | [Ryan Morrison](https://www.worldcubeassociation.org/persons/2019MORR07) |
 | 2338 | [Saul Emmanuel Ramirez Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ21) |
 | 2351 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
 | 2352 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) |
@@ -532,6 +533,7 @@
 | 2381 | [Renan da Cunha Santos](https://www.worldcubeassociation.org/persons/2017SANT12) |
 | 2386 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) |
 | 2402 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) |
+| 2407 | [Canyon Pettitt](https://www.worldcubeassociation.org/persons/2019PETT01) |
 | 2408 | [Dallas McNeil](https://www.worldcubeassociation.org/persons/2017MCNE01) |
 | 2422 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 2429 | [Yuto Date (伊達優人)](https://www.worldcubeassociation.org/persons/2018DATE01) |
@@ -720,6 +722,7 @@
 | 4809 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 4838 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
 | 4895 | [Hiroto Fujita (藤田浩斗)](https://www.worldcubeassociation.org/persons/2012FUJI01) |
+| 4906 | [José David Castiblanco Marin](https://www.worldcubeassociation.org/persons/2012MARI04) |
 | 4984 | [Nikolai Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) |
 | 5061 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
 | 5134 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 October 2025*
+*Updated on 28 October 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -598,6 +598,7 @@
 | 10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Hamburg Open 2011](https://www.worldcubeassociation.org/competitions/HamburgOpen2011/results/podiums) |
 | 11 | [Daniel Grabski](https://www.worldcubeassociation.org/persons/2010GRAB01) | [Haute-Patate Open 2012](https://www.worldcubeassociation.org/competitions/HautePatateOpen2012/results/podiums) |
 | 10 | [Alexandre Philiponet](https://www.worldcubeassociation.org/persons/2011PHIL01) | [Haute-Patate Open 2012](https://www.worldcubeassociation.org/competitions/HautePatateOpen2012/results/podiums) |
+| 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Hawaiʻi Big Island Fall 2025](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandFall2025/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022/results/podiums) |
 | 13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/podiums) |
 | 11 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Helsinki 2024](https://www.worldcubeassociation.org/competitions/Helsinki2024/results/podiums) |
@@ -738,6 +739,7 @@
 | 11 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) | [Kārķi Open 2025](https://www.worldcubeassociation.org/competitions/KarkiOpen2025/results/podiums) |
 | 10 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Karlstad Open 2010](https://www.worldcubeassociation.org/competitions/KarlstadOpen2010/results/podiums) |
 | 11 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | [Kaspiy Open 2018](https://www.worldcubeassociation.org/competitions/KaspiyOpen2018/results/podiums) |
+| 10 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) | [Kaunas KTU Open 2025](https://www.worldcubeassociation.org/competitions/KaunasKTUOpen2025/results/podiums) |
 | 13 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Kazakhstan Nationals 2018](https://www.worldcubeassociation.org/competitions/KazakhstanNationals2018/results/podiums) |
 | 13 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Kediri Open 2013](https://www.worldcubeassociation.org/competitions/KediriOpen2013/results/podiums) |
 | 10 | [Arian Geravandi (آرین گراوندی)](https://www.worldcubeassociation.org/persons/2015GERA02) | [Kerman Summer 2023](https://www.worldcubeassociation.org/competitions/KermanSummer2023/results/podiums) |

@@ -7,18 +7,18 @@
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 16105 |
+| 1.46 | World | 16112 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 5201 |
+| 1.72 | Europe | 5204 |
 | 1.47 | Oceania | 705 |
-| 1.47 | South America | 2046 |
+| 1.47 | South America | 2048 |
 | 1.40 | Asia | 3330 |
 | 1.33 | Africa | 206 |
-| 1.21 | North America | 4617 |
+| 1.21 | North America | 4619 |
 
 ### Countries
 
@@ -41,7 +41,7 @@
 | 1.85 | Croatia | 34 |
 | 1.85 | Spain | 453 |
 | 1.85 | Norway | 156 |
-| 1.84 | United Kingdom | 320 |
+| 1.83 | United Kingdom | 323 |
 | 1.83 | Serbia | 29 |
 | 1.82 | Finland | 176 |
 | 1.81 | Slovakia | 53 |
@@ -59,7 +59,7 @@
 | 1.71 | Ireland | 87 |
 | 1.69 | Argentina | 116 |
 | 1.68 | Belgium | 102 |
-| 1.67 | Brazil | 637 |
+| 1.67 | Brazil | 638 |
 | 1.67 | Madagascar | 3 |
 | 1.67 | North Macedonia | 6 |
 | 1.63 | Italy | 278 |
@@ -80,7 +80,7 @@
 | 1.51 | Malaysia | 124 |
 | 1.50 | Laos | 2 |
 | 1.50 | Sweden | 368 |
-| 1.47 | Peru | 247 |
+| 1.47 | Peru | 248 |
 | 1.44 | Australia | 539 |
 | 1.43 | Montenegro | 7 |
 | 1.43 | Nigeria | 7 |
@@ -119,7 +119,7 @@
 | 1.17 | Canada | 463 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | Mongolia | 49 |
-| 1.16 | United States | 3695 |
+| 1.16 | United States | 3697 |
 | 1.12 | Azerbaijan | 48 |
 | 1.11 | Egypt | 9 |
 | 1.10 | Honduras | 20 |

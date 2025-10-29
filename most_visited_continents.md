@@ -208,6 +208,7 @@
 | 4 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
 | 4 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) |
 | 4 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
+| 4 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
 | 4 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 4 | [Henry Syn](https://www.worldcubeassociation.org/persons/2021SYNH01) |
 | 4 | [Thomas Pierroz](https://www.worldcubeassociation.org/persons/2021PIER01) |

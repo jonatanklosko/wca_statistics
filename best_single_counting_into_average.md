@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 28 October 2025*
+*Updated on 31 October 2025*
 
 
 ### Rubik's Cube
@@ -14,9 +14,9 @@
 | 3.68 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Guilin Open 2025](https://www.worldcubeassociation.org/competitions/GuilinOpen2025/results/by_person#2019WANY36) |
 | 3.73 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025/results/by_person#2019WANY36) |
 | 3.74 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Lishui Open 2025](https://www.worldcubeassociation.org/competitions/LishuiOpen2025/results/by_person#2019WANY36) |
+| 3.75 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Hefei Open 2025](https://www.worldcubeassociation.org/competitions/HefeiOpen2025/results/by_person#2019WANY36) |
 | 3.77 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Warm Up at gateway klia2 2024](https://www.worldcubeassociation.org/competitions/WarmUpatgatewayklia22024/results/by_person#2019WANY36) |
 | 3.77 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2023GENG02) |
-| 3.80 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [HKRCU 20th Anniversary 2025](https://www.worldcubeassociation.org/competitions/HKRCU20thAnniversary2025/results/by_person#2019WANY36) |
 
 ### 2x2x2 Cube
 
@@ -134,9 +134,9 @@
 | 1.29 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | [Slovak Championship 2025](https://www.worldcubeassociation.org/competitions/SlovakChampionship2025/results/by_person#2021GROH01) |
 | 1.30 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
 | 1.30 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [New Jersey Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyChampionship2024/results/by_person#2018KHAN28) |
+| 1.31 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | [Hefei Open 2025](https://www.worldcubeassociation.org/competitions/HefeiOpen2025/results/by_person#2023GUOK01) |
 | 1.32 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | [Trains on Main La Grange 2024](https://www.worldcubeassociation.org/competitions/TrainsonMainLaGrange2024/results/by_person#2019REDI02) |
-| 1.38 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023/results/by_person#2018KHAN28) |
-| 1.38 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Across the Woods Kentucky B 2023](https://www.worldcubeassociation.org/competitions/AcrosstheWoodsKentuckyB2023/results/by_person#2018KHAN28) |
+| 1.37 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | [Hefei Open 2025](https://www.worldcubeassociation.org/competitions/HefeiOpen2025/results/by_person#2021YEZI01) |
 
 ### Square-1
 

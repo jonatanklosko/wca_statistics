@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 October 2025*
+*Updated on 31 October 2025*
 
 
 ### Rubik's Cube - Single
@@ -38,16 +38,16 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | **0.39** | China | [Hefei Open 2025](https://www.worldcubeassociation.org/competitions/HefeiOpen2025) | 1.94, 1.31, 1.38, 1.46, 0.39 |
+| [Sky Guo (郭建欣)](https://www.worldcubeassociation.org/persons/2016GUOS02) | **0.41** | Hong Kong, China | [Hefei Open 2025](https://www.worldcubeassociation.org/competitions/HefeiOpen2025) | 2.64, 1.63, 2.19, 4.54, 0.41 |
+| [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) | **0.45** | China | [Hefei Open 2025](https://www.worldcubeassociation.org/competitions/HefeiOpen2025) | 1.89, 1.89, 1.99, 1.41, 0.45 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | **0.46** | China | [HKRCU 20th Anniversary 2025](https://www.worldcubeassociation.org/competitions/HKRCU20thAnniversary2025) | 1.04, 0.91, 0.46, 1.02, 1.44 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **0.47** | Poland | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) | 1.30, 1.02, 0.47, 1.64, 3.06 |
 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | **0.47** | New Zealand | [Queenspark O'Clock 2025](https://www.worldcubeassociation.org/competitions/QueensparkOClock2025) | 1.59, 0.47, 1.85, DNF, 1.68 |
 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | **0.49** | Australia | [NSW State Championship 2025](https://www.worldcubeassociation.org/competitions/NSWStateChampionship2025) | 1.78, 1.50, 0.49, 1.76, 1.51 |
 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | **0.49** | Spain | [León Open 2025](https://www.worldcubeassociation.org/competitions/LeonOpen2025) | 1.35, 2.46, DNF, 0.49, 1.92 |
-| [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | **0.51** | China | [Yancheng Open 2025](https://www.worldcubeassociation.org/competitions/YanchengOpen2025) | 0.51, 1.14, 0.85, 3.32, 1.24 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **0.54** | United Kingdom | [Birmingham Spring 2025](https://www.worldcubeassociation.org/competitions/BirminghamSpring2025) | 15.71, 1.41, 0.54, 1.85, 1.52 |
 | [Ian Cantius Fredric](https://www.worldcubeassociation.org/persons/2022FRED05) | **0.54** | India | [Coffee Cup Tacoma 2025](https://www.worldcubeassociation.org/competitions/CoffeeCupTacoma2025) | 1.51, 1.33, 0.54, 1.36, 2.60 |
-| [Roman Rudakov](https://www.worldcubeassociation.org/persons/2022RUDA02) | **0.54** | Australia | [Apollo Bay Cubing 2025](https://www.worldcubeassociation.org/competitions/ApolloBayCubing2025) | 1.31, 0.54, 2.48, 1.46, 3.40 |
-| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **0.55** | United States | [Cincinnati Open 2025](https://www.worldcubeassociation.org/competitions/CincinnatiOpen2025) | 0.55, 1.05, 2.46, 1.15, 1.45 |
 
 ### 2x2x2 Cube - Average
 
@@ -384,8 +384,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | **1.37** | Poland | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025) | 1.22, 1.43, 1.16, 1.46, 2.93 |
+| [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | **1.53** | China | [Hefei Open 2025](https://www.worldcubeassociation.org/competitions/HefeiOpen2025) | 1.66, 1.61, 1.29, 2.32, 1.31 |
 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | **1.54** | Spain | [Sarriguren Open 2025](https://www.worldcubeassociation.org/competitions/SarrigurenOpen2025) | 0.95, 1.24, 2.32, 1.75, 1.64 |
-| [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | **1.57** | China | [Shenyang Autumn 2025](https://www.worldcubeassociation.org/competitions/ShenyangAutumn2025) | 1.20, 1.49, 1.80, 9.61, 1.42 |
 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | **1.61** | United States | [Southern Indiana Qualifier 2025](https://www.worldcubeassociation.org/competitions/SouthernIndianaQualifier2025) | DNF, 1.52, 1.72, 1.35, 1.59 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **1.64** | Poland | [Beskidy Cubing Day 2025](https://www.worldcubeassociation.org/competitions/BeskidyCubingDay2025) | 1.62, 1.64, 1.46, 2.14, 1.65 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **1.67** | United States | [River Hill Spring 2025](https://www.worldcubeassociation.org/competitions/RiverHillSpring2025) | 1.74, 1.72, 1.20, 1.82, 1.56 |

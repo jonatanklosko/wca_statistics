@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 28 October 2025*
+*Updated on 31 October 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -42,8 +42,8 @@
 | [Phopphon Suwattee (ภพพนธ์ สุวัตถี)](https://www.worldcubeassociation.org/persons/2010SUWA03) | 12.38 |
 | [Tariq Ali](https://www.worldcubeassociation.org/persons/2012ALIT01) | 12.34 |
 | [Mohammed Arif](https://www.worldcubeassociation.org/persons/2011ARIF04) | 12.32 |
-| [Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03) | 12.28 |
 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 12.28 |
+| [Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03) | 12.28 |
 | [Harith Luqman bin Bahrin](https://www.worldcubeassociation.org/persons/2010BAHR02) | 12.24 |
 | [Edoardo Annesi](https://www.worldcubeassociation.org/persons/2011ANNE01) | 12.17 |
 | [Enzo Gonçalves Motta](https://www.worldcubeassociation.org/persons/2013MOTT01) | 12.10 |
@@ -64,8 +64,8 @@
 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) | 11.58 |
 | [Anshuman Singh](https://www.worldcubeassociation.org/persons/2014SING04) | 11.56 |
 | [Ryosuke Higo (肥後亮佑)](https://www.worldcubeassociation.org/persons/2006HIGO01) | 11.54 |
-| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
+| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Kobe Balin](https://www.worldcubeassociation.org/persons/2012BALI01) | 11.50 |
 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) | 11.48 |
 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | 11.48 |
@@ -90,8 +90,8 @@
 | [Chisanupong Chulasereekul (ชิษณุพงศ์ จุฬาเสรีกุล)](https://www.worldcubeassociation.org/persons/2014CHUL02) | 11.00 |
 | [Santiago A. Ospina Botero](https://www.worldcubeassociation.org/persons/2013BOTE01) | 10.94 |
 | [Jakka Chang](https://www.worldcubeassociation.org/persons/2014CHAN17) | 10.94 |
-| [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) | 10.90 |
 | [Xiaobo Jin (金晓波)](https://www.worldcubeassociation.org/persons/2008JINX01) | 10.90 |
+| [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) | 10.90 |
 | [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 10.87 |
 | [Ottfried Kejs](https://www.worldcubeassociation.org/persons/2012KEJS01) | 10.83 |
 | [Carsten Matheus](https://www.worldcubeassociation.org/persons/2014MATH02) | 10.80 |

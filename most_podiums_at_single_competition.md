@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 October 2025*
+*Updated on 31 October 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1125,6 +1125,7 @@
 | 10 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | [Ruta Cubera: Arriate Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaArriateOpen2025/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Salta al Cubo 2024](https://www.worldcubeassociation.org/competitions/SaltaalCubo2024/results/podiums) |
 | 10 | [Nikita Navrotskiy](https://www.worldcubeassociation.org/persons/2015NAVR01) | [Samara Open 2016](https://www.worldcubeassociation.org/competitions/SamaraOpen2016/results/podiums) |
+| 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [San Antonio Fall 2025](https://www.worldcubeassociation.org/competitions/SanAntonioFall2025/results/podiums) |
 | 10 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | [Sandnes Open 2016](https://www.worldcubeassociation.org/competitions/SandnesOpen2016/results/podiums) |
 | 11 | [Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02) | [Sandnes Open 2017](https://www.worldcubeassociation.org/competitions/SandnesOpen2017/results/podiums) |
 | 12 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Sandnes Open 2018](https://www.worldcubeassociation.org/competitions/SandnesOpen2018/results/podiums) |

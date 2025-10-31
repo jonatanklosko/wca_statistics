@@ -1,10 +1,10 @@
 ## Most finals
 
-*Updated on 28 October 2025*
+*Updated on 31 October 2025*
 
 | Finals | Person |
 | ---: | :--- |
-| 2728 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 2741 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 2456 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2444 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2179 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
@@ -25,9 +25,9 @@
 | 1513 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1470 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 1441 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 1435 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1433 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 1431 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
-| 1404 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
+| 1409 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 1319 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 1306 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 1302 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -36,10 +36,10 @@
 | 1256 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1251 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 1248 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 1242 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 1241 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 1237 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1237 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
-| 1235 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 1203 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 1193 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 1191 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
@@ -50,16 +50,16 @@
 | 1156 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 1155 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1141 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 1136 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
+| 1141 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
+| 1127 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 1121 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
-| 1115 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 1112 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1101 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1093 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1074 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 1060 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
-| 1053 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
+| 1054 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 1045 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 1028 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 1028 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |

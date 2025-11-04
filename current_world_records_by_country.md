@@ -1,19 +1,19 @@
 ## Current world records count by country
 
-*Updated on  1 November 2025*
+*Updated on  4 November 2025*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
 | 21 | United States | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06), [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04), [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03), [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01), [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
-| 7 | China | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02), [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13), [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) |
+| 8 | China | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02), [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13), [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04), [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) |
 | 4 | Poland | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 2 | New Zealand | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
-| 2 | Russia | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 1 | Australia | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) |
 | 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |
 | 1 | Italy | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 1 | Malaysia | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
+| 1 | Russia | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 1 | Switzerland | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) |
 | 1 | United Kingdom | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) |
 

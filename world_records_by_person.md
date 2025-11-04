@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  1 November 2025*
+*Updated on  4 November 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -305,6 +305,7 @@
 | 1 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
 | 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 1 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) |
+| 1 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |
 | 1 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) |
 
 

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 November 2025*
+*Updated on  4 November 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -177,6 +177,7 @@
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Berlin Summer Open 2025](https://www.worldcubeassociation.org/competitions/BerlinSummerOpen2025/results/podiums) |
 | 13 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Big and Blind Queenstown 2025](https://www.worldcubeassociation.org/competitions/BigandBlindQueenstown2025/results/podiums) |
 | 10 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | [Big and Blind Queenstown 2025](https://www.worldcubeassociation.org/competitions/BigandBlindQueenstown2025/results/podiums) |
+| 12 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Big Cubes in Little Kode 2025](https://www.worldcubeassociation.org/competitions/BigCubesinLittleKode2025/results/podiums) |
 | 12 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Big Cubes in Stafsinge 2024](https://www.worldcubeassociation.org/competitions/BigCubesinStafsinge2024/results/podiums) |
 | 15 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [BiH Open 2012](https://www.worldcubeassociation.org/competitions/BIHOpen2012/results/podiums) |
 | 12 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [BiH Open 2012](https://www.worldcubeassociation.org/competitions/BIHOpen2012/results/podiums) |
@@ -477,6 +478,7 @@
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Entre Ríos Cubea 2025](https://www.worldcubeassociation.org/competitions/EntreRiosCubea2025/results/podiums) |
 | 10 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Eretum Open 2018](https://www.worldcubeassociation.org/competitions/EretumOpen2018/results/podiums) |
 | 12 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | [Erfurt Open 2014](https://www.worldcubeassociation.org/competitions/ErfurtOpen2014/results/podiums) |
+| 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Esteban Echeverría 2025](https://www.worldcubeassociation.org/competitions/EstebanEcheverria2025/results/podiums) |
 | 10 | [Enrico Tenuti](https://www.worldcubeassociation.org/persons/2017TENU01) | [Estonian Championship 2025](https://www.worldcubeassociation.org/competitions/EstonianChampionship2025/results/podiums) |
 | 11 | [Teemu Tiinanen](https://www.worldcubeassociation.org/persons/2007TIIN01) | [Estonian Open 2010](https://www.worldcubeassociation.org/competitions/EstonianOpen2010/results/podiums) |
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023/results/podiums) |

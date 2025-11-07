@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 November 2025*
+*Updated on  7 November 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -359,6 +359,7 @@
 | 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Cubing Comes to Bihar 2023](https://www.worldcubeassociation.org/competitions/CubingComestoBihar2023/results/podiums) |
 | 12 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) | [Cubing Comicfest Cali 2025](https://www.worldcubeassociation.org/competitions/CubingComicfestCali2025/results/podiums) |
 | 10 | [Samuel Martinez Sanchez](https://www.worldcubeassociation.org/persons/2019SANC20) | [Cubing Comicfest Cali 2025](https://www.worldcubeassociation.org/competitions/CubingComicfestCali2025/results/podiums) |
+| 10 | [Samuel Martinez Sanchez](https://www.worldcubeassociation.org/persons/2019SANC20) | [Cubing Comicfest Cali II 2025](https://www.worldcubeassociation.org/competitions/CubingComicfestCaliII2025/results/podiums) |
 | 10 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [Cubing Fest 2014](https://www.worldcubeassociation.org/competitions/CubingFest2014/results/podiums) |
 | 10 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Cubing Kazakhstan Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingKazakhstanNationals2023/results/podiums) |
 | 12 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | [Cubing Mérida 2013](https://www.worldcubeassociation.org/competitions/CubingMerida2013/results/podiums) |
@@ -626,6 +627,7 @@
 | 11 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Hungarian Open 2013](https://www.worldcubeassociation.org/competitions/HungarianOpen2013/results/podiums) |
 | 11 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Hungarian Open 2014](https://www.worldcubeassociation.org/competitions/HungarianOpen2014/results/podiums) |
 | 10 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Hungarian Open 2015](https://www.worldcubeassociation.org/competitions/HungarianOpen2015/results/podiums) |
+| 11 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Hungarian Open 2025](https://www.worldcubeassociation.org/competitions/HungarianOpen2025/results/podiums) |
 | 10 | [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) | [Hunter Open 2015](https://www.worldcubeassociation.org/competitions/HunterOpen2015/results/podiums) |
 | 11 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Hvidovre Sommer 2023](https://www.worldcubeassociation.org/competitions/HvidovreSommer2023/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Hvidovre Sommer 2023](https://www.worldcubeassociation.org/competitions/HvidovreSommer2023/results/podiums) |
@@ -1353,6 +1355,7 @@
 | 13 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016/results/podiums) |
 | 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2023](https://www.worldcubeassociation.org/competitions/UkrainianNationals2023/results/podiums) |
 | 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2024](https://www.worldcubeassociation.org/competitions/UkrainianNationals2024/results/podiums) |
+| 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2025](https://www.worldcubeassociation.org/competitions/UkrainianNationals2025/results/podiums) |
 | 11 | [Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01) | [Ukrainian Open 2015](https://www.worldcubeassociation.org/competitions/UkrainianOpen2015/results/podiums) |
 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Open 2023](https://www.worldcubeassociation.org/competitions/UkrainianOpen2023/results/podiums) |
 | 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Open 2025](https://www.worldcubeassociation.org/competitions/UkrainianOpen2025/results/podiums) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 November 2025*
+*Updated on  7 November 2025*
 
 
 ### Rubik's Cube - Single
@@ -376,8 +376,8 @@
 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | **0.92** | United States | [CubingUSA All-Stars 2025](https://www.worldcubeassociation.org/competitions/CubingUSAAllStars2025) | 4.38, 2.83, DNF, 1.15, 0.92 |
 | [Jonathan Pires Medeiros](https://www.worldcubeassociation.org/persons/2022MEDE02) | **0.92** | Brazil | [Paraíso Summer DC 2025](https://www.worldcubeassociation.org/competitions/ParaisoSummerDC2025) | 3.45, 3.30, 2.48, 3.54, 0.92 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **0.93** | United States | [Clock on the Madison Rocks 2025](https://www.worldcubeassociation.org/competitions/ClockontheMadisonRocks2025) | 3.31, 2.57, 7.43, 2.51, 0.93 |
+| [Benjamin Spradley](https://www.worldcubeassociation.org/persons/2023SPRA03) | **0.93** | United States | [Temple Cubing Fall 2025](https://www.worldcubeassociation.org/competitions/TempleCubingFall2025) | 1.90, 4.78, 4.09, 0.93, DNF |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **0.94** | Poland | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) | 0.94, 3.04, 1.89, 3.86, 2.33 |
-| [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | **0.95** | Spain | [Sarriguren Open 2025](https://www.worldcubeassociation.org/competitions/SarrigurenOpen2025) | 0.95, 1.24, 2.32, 1.75, 1.64 |
 
 ### Skewb - Average
 

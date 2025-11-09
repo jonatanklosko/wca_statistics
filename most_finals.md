@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  7 November 2025*
+*Updated on  8 November 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -47,7 +47,7 @@
 | 1185 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 1166 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 1164 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 1156 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 1159 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 1155 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1149 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 1141 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |

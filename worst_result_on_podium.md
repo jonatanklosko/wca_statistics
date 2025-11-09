@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  7 November 2025*
+*Updated on  8 November 2025*
 
 
 ### Rubik's Cube
@@ -118,11 +118,11 @@
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 75 | **77.33** | [Finnish FMC Series VII 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVII2025/results/podiums#e333fm) | 3 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 76 | **77.00** | [Finnish FMC Series VIII 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVIII2025/results/podiums#e333fm) | 3 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 75 | **75.00** | [Finnish FMC Series V 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesV2025/results/podiums#e333fm) | 2 |
+| [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 69 | **72.33** | [Finnish FMC Series X 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesX2025/results/podiums#e333fm) | 3 |
 | [Emú Ticknor Byrd](https://www.worldcubeassociation.org/persons/2022TICK02) | 64 | **69.67** | [JAM FMC V 2023](https://www.worldcubeassociation.org/competitions/JAMFMCV2023/results/podiums#e333fm) | 2 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 67 | **69.00** | [FMC in the Gulf of Finland 2024](https://www.worldcubeassociation.org/competitions/FewestMovesintheGulfofFinlan2024/results/podiums#e333fm) | 2 |
 | [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 59 | **68.67** | [Finnish FMC Series VI 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVI2025/results/podiums#e333fm) | 1 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 65 | **67.67** | [Fewest Moves Kirkkonummi 2024](https://www.worldcubeassociation.org/competitions/FewestMovesKirkkonummi2024/results/podiums#e333fm) | 3 |
-| [Manuel Aleandro Chang Pérez](https://www.worldcubeassociation.org/persons/2015PERE29) | 59 | **67.00** | [Xela Open 2016](https://www.worldcubeassociation.org/competitions/XelaOpen2016/results/podiums#e333fm) | 3 |
 
 ### 3x3x3 One-Handed
 

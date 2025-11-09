@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  7 November 2025*
+*Updated on  8 November 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -38,8 +38,8 @@
 | 125 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 123 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 122 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
+| 121 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 121 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
-| 120 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 120 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 119 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 119 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |

@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  7 November 2025*
+*Updated on  8 November 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 16178 |
+| 1.46 | World | 16188 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 5227 |
+| 1.72 | Europe | 5231 |
 | 1.47 | Oceania | 705 |
-| 1.47 | South America | 2055 |
-| 1.40 | Asia | 3348 |
+| 1.47 | South America | 2057 |
+| 1.40 | Asia | 3349 |
 | 1.33 | Africa | 208 |
-| 1.21 | North America | 4635 |
+| 1.21 | North America | 4638 |
 
 ### Countries
 
@@ -27,7 +27,7 @@
 | 2.04 | Uzbekistan | 26 |
 | 2.02 | Kazakhstan | 59 |
 | 2.00 | Liechtenstein | 3 |
-| 1.95 | Czech Republic | 78 |
+| 1.95 | Czech Republic | 79 |
 | 1.94 | Germany | 276 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Turkey | 130 |
@@ -55,7 +55,7 @@
 | 1.75 | Sri Lanka | 16 |
 | 1.74 | Hungary | 68 |
 | 1.73 | Ukraine | 148 |
-| 1.72 | Poland | 568 |
+| 1.72 | Poland | 570 |
 | 1.72 | Ireland | 88 |
 | 1.69 | Argentina | 116 |
 | 1.68 | Belgium | 102 |
@@ -77,17 +77,17 @@
 | 1.52 | South Africa | 104 |
 | 1.52 | Bulgaria | 27 |
 | 1.51 | Bolivia | 160 |
-| 1.51 | Malaysia | 124 |
+| 1.50 | Malaysia | 125 |
 | 1.50 | Laos | 2 |
 | 1.50 | Sweden | 370 |
-| 1.47 | Peru | 249 |
+| 1.47 | Peru | 251 |
 | 1.44 | Australia | 539 |
 | 1.43 | Montenegro | 7 |
 | 1.43 | Nigeria | 7 |
 | 1.42 | Costa Rica | 31 |
 | 1.41 | Israel | 75 |
 | 1.41 | Vietnam | 73 |
-| 1.39 | Estonia | 66 |
+| 1.39 | Estonia | 67 |
 | 1.38 | Ecuador | 66 |
 | 1.38 | Andorra | 8 |
 | 1.37 | Chinese Taipei | 160 |
@@ -118,7 +118,7 @@
 | 1.18 | Armenia | 11 |
 | 1.17 | Canada | 463 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3712 |
+| 1.16 | United States | 3715 |
 | 1.16 | Mongolia | 51 |
 | 1.12 | Azerbaijan | 48 |
 | 1.11 | Egypt | 9 |

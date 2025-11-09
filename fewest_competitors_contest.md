@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 November 2025*
+*Updated on  8 November 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -19,6 +19,7 @@
 | 3 | [Finnish FMC Series V 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesV2025) |
 | 3 | [Finnish FMC Series VI 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVI2025) |
 | 3 | [Finnish FMC Series VII 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVII2025) |
+| 3 | [Finnish FMC Series X 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesX2025) |
 | 3 | [Grizz League II 2024](https://www.worldcubeassociation.org/competitions/GrizzLeagueII2024) |
 | 3 | [Hike 2 Cube Kenya 2023](https://www.worldcubeassociation.org/competitions/Hike2CubeKenya2023) |
 | 3 | [Sides Bahia - Poções Quest 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaPocoesQuest2023) |

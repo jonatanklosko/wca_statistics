@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  7 November 2025*
+*Updated on  8 November 2025*
 
 
 ### Rubik's Cube
@@ -143,6 +143,7 @@
 
 | First single | Person |
 | ---: | :--- |
+| 37.61 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) |
 | 41.46 | [Lê Đình Nguyên Khôi](https://www.worldcubeassociation.org/persons/2025KHOI02) |
 | 42.16 | [Alina Zhu](https://www.worldcubeassociation.org/persons/2023ZHUA03) |
 | 44.09 | [Luis Ernesto Gutierrez Tolaba](https://www.worldcubeassociation.org/persons/2019TOLA01) |
@@ -152,7 +153,6 @@
 | 46.39 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) |
 | 47.35 | [Jorge Luis Castillo Carrasco](https://www.worldcubeassociation.org/persons/2019CARR22) |
 | 47.47 | [Tyler Gee](https://www.worldcubeassociation.org/persons/2019GEET02) |
-| 47.78 | [Ida Putu Sucita Danuartha](https://www.worldcubeassociation.org/persons/2022DANU01) |
 
 ### Pyraminx
 

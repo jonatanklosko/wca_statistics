@@ -1,13 +1,13 @@
 ## Competition days count by region
 
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 16188 |
+| 1.46 | World | 16189 |
 
 ### Continents
 
@@ -15,7 +15,7 @@
 | ---: | :--- | ---: |
 | 1.72 | Europe | 5231 |
 | 1.47 | Oceania | 705 |
-| 1.47 | South America | 2057 |
+| 1.47 | South America | 2058 |
 | 1.40 | Asia | 3349 |
 | 1.33 | Africa | 208 |
 | 1.21 | North America | 4638 |
@@ -104,7 +104,7 @@
 | 1.30 | Portugal | 50 |
 | 1.30 | Uruguay | 60 |
 | 1.30 | Hong Kong, China | 27 |
-| 1.29 | Colombia | 472 |
+| 1.29 | Colombia | 473 |
 | 1.28 | Philippines | 385 |
 | 1.27 | Morocco | 11 |
 | 1.26 | Venezuela | 94 |

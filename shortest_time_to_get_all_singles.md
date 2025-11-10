@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -612,6 +612,7 @@
 | 2925 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2962 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 2967 | [Daniel Hicklin](https://www.worldcubeassociation.org/persons/2017HICK04) |
+| 2974 | [Akatsuki Kitamura (北村曉)](https://www.worldcubeassociation.org/persons/2017KITA01) |
 | 2975 | [Mihail Petrochenkov](https://www.worldcubeassociation.org/persons/2017PETR02) |
 | 2982 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 2982 | [Damian Wilding](https://www.worldcubeassociation.org/persons/2014WILD03) |

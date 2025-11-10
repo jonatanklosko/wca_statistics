@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 
 ### Rubik's Cube
@@ -151,8 +151,8 @@
 | 44.56 | [Jiahao Chen (陈嘉豪)](https://www.worldcubeassociation.org/persons/2024CHEJ11) |
 | 44.68 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) |
 | 46.39 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) |
+| 46.42 | [Jiaqi Zeng (曾嘉祺)](https://www.worldcubeassociation.org/persons/2025ZENG09) |
 | 47.35 | [Jorge Luis Castillo Carrasco](https://www.worldcubeassociation.org/persons/2019CARR22) |
-| 47.47 | [Tyler Gee](https://www.worldcubeassociation.org/persons/2019GEET02) |
 
 ### Pyraminx
 

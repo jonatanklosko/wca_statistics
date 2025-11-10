@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -179,6 +179,7 @@
 | 2 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 2 | [Yuhui Xu (许宇辉)](https://www.worldcubeassociation.org/persons/2007XUYU01) |
 | 2 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |
+| 2 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |
 | 1 | [Abhishek Sathyanarayanan](https://www.worldcubeassociation.org/persons/2012SATH01) |
 | 1 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) |
 | 1 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) |
@@ -305,7 +306,6 @@
 | 1 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
 | 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 1 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) |
-| 1 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |
 | 1 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) |
 
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 
 ### Rubik's Cube
@@ -143,9 +143,9 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 24.30 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 24.58, 27.15, 22.86, 25.38, 22.93 |
 | 24.72 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 24.88, 24.03, 29.94, 23.39, 25.25 |
 | 24.93 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 25.69, 24.61, 23.39, 30.66, 24.49 |
-| 25.02 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 23.68, 25.13, 27.46, 24.18, 25.74 |
 | 25.88 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 32.91, 24.85, 25.90, 23.78, 26.90 |
 | 26.12 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 25.69, 26.87, 25.21, DNF, 25.79 |
 | 27.33 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 30.10, 27.27, 26.53, 28.19, 26.00 |

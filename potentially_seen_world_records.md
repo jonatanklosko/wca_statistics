@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -76,8 +76,8 @@
 | 78 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 77 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 76 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
+| 76 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
-| 75 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 74 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |

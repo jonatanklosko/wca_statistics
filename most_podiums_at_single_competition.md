@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1385,6 +1385,8 @@
 | 10 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Open 2009](https://www.worldcubeassociation.org/competitions/UtahOpen2009/results/podiums) |
 | 12 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Spring 2011](https://www.worldcubeassociation.org/competitions/UtahSpring2011/results/podiums) |
 | 10 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Summer 2010](https://www.worldcubeassociation.org/competitions/UtahSummer2010/results/podiums) |
+| 14 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Utsjoki 2025](https://www.worldcubeassociation.org/competitions/Utsjoki2025/results/podiums) |
+| 13 | [Leo Alanen](https://www.worldcubeassociation.org/persons/2022ALAN02) | [Utsjoki 2025](https://www.worldcubeassociation.org/competitions/Utsjoki2025/results/podiums) |
 | 16 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Uzbekistan All Events 2019](https://www.worldcubeassociation.org/competitions/UzbekistanAllEvents2019/results/podiums) |
 | 11 | [Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36) | [Uzbekistan Nationals 2023](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2023/results/podiums) |
 | 12 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2024](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2024/results/podiums) |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 
 ### Rubik's Cube
@@ -82,7 +82,9 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 22.93 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Guangzhou Special 2025](https://www.worldcubeassociation.org/competitions/GuangzhouSpecial2025/results/by_person#2016WUZI04) |
 | 23.74 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Entre Ríos Cubea 2025](https://www.worldcubeassociation.org/competitions/EntreRiosCubea2025/results/by_person#2018LOPE22) |
+| 23.94 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Guangzhou Special 2025](https://www.worldcubeassociation.org/competitions/GuangzhouSpecial2025/results/by_person#2016WUZI04) |
 | 24.03 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Chimehuin al Cubo 2025](https://www.worldcubeassociation.org/competitions/ChimehuinalCubo2025/results/by_person#2018LOPE22) |
 | 24.26 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2025](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2025/results/by_person#2019TARA09) |
 | 24.38 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2025](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2025/results/by_person#2019TARA09) |
@@ -90,8 +92,6 @@
 | 24.49 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
 | 24.58 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Xi'an Autumn 2025](https://www.worldcubeassociation.org/competitions/XianAutumn2025/results/by_person#2016WUZI04) |
 | 24.61 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
-| 24.63 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Monte Grande Cubea 2025](https://www.worldcubeassociation.org/competitions/MonteGrandeCubea2025/results/by_person#2018LOPE22) |
-| 24.71 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Xi'an Autumn 2025](https://www.worldcubeassociation.org/competitions/XianAutumn2025/results/by_person#2016WUZI04) |
 
 ### Pyraminx
 

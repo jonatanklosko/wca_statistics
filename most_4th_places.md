@@ -1,14 +1,14 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 | 4th places | Person |
 | ---: | :--- |
 | 269 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 259 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 240 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
-| 218 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 222 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 199 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 189 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 189 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
@@ -64,8 +64,8 @@
 | 106 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 105 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 105 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
+| 105 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 103 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 103 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 103 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |

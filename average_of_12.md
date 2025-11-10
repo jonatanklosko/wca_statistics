@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 
 ### Rubik's Cube
@@ -90,9 +90,9 @@
 | 1:48.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:47.56, 2:01.70, 1:39.95, 1:52.79, 1:41.60, 1:50.15, 1:43.19, 1:53.71, 1:42.37, 1:52.04, 1:51.26, 1:49.41 |
 | 1:48.81 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:41.39, 1:53.16, 1:53.63, 1:43.70, 1:40.90, 1:49.09, 1:46.55, 1:54.98, 1:51.64, 1:54.14, 1:51.02, 1:43.78 |
 | 1:51.28 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:43.89, 1:49.75, 1:57.50, 1:58.64, 1:50.38, 1:48.12, 2:02.23, 1:45.58, 1:38.58, 2:01.50, 1:58.81, 1:36.79 |
+| 1:53.04 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:44.18, 2:08.60, 1:51.91, 2:04.87, 1:48.62, 1:50.97, 1:56.32, 2:00.69, 1:39.47, 1:45.93, 1:50.21, 1:56.68 |
 | 1:53.61 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:56.76, 1:47.55, 1:50.67, 1:59.64, 1:47.86, 1:49.84, 1:59.60, 1:56.03, 1:56.69, 2:02.30, 1:47.81, 1:51.18 |
 | 1:55.20 | [Mark Zimmermann](https://www.worldcubeassociation.org/persons/2018ZIMM02) | 1:52.35, 1:52.13, 2:09.72, 1:51.63, 1:58.86, 1:58.47, 2:04.99, 1:51.73, 1:49.43, 1:55.55, 1:56.89, 1:45.54 |
-| 1:55.79 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:55.25, 1:54.40, 2:10.43, 1:55.63, 1:53.75, 1:57.75, 1:52.60, 1:49.39, 1:57.61, 1:51.04, 2:14.29, 1:48.53 |
 
 ### 3x3x3 Blindfolded
 
@@ -143,9 +143,9 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 24.87 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 24.18, 25.74, 24.58, 27.15, 22.86, 25.38, 22.93, 26.29, 25.03, 27.75, 23.49, 23.94 |
 | 25.77 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 26.84, 27.31, 26.75, 24.88, 24.03, 29.94, 23.39, 25.25, 27.74, 26.42, 24.63, 23.84 |
 | 26.02 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 29.12, 24.96, 24.26, 28.65, 28.55, 24.38, 22.05, 25.08, 25.56, 27.49, 25.38, 25.87 |
-| 27.12 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 29.18, 33.06, 33.48, 24.71, 29.91, 27.26, 23.68, 25.13, 27.46, 24.18, 25.74, 24.58 |
 | 27.61 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 28.54, 29.26, 26.83, 28.20, 25.69, 26.87, 25.21, DNF, 25.79, 32.35, 24.63, 27.37 |
 | 27.92 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 26.60, 28.16, 27.29, 27.89, 29.43, 27.87, 31.18, 25.78, 29.56, 25.54, 28.43, 28.16 |
 | 28.44 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 26.53, 28.19, 26.00, 29.69, 31.39, 32.45, 27.62, 32.46, 25.09, 26.16, 31.24, 25.05 |

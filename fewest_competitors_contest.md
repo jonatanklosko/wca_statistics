@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -93,6 +93,7 @@
 | 6 | [Spokane Winter Big Cubes 2024](https://www.worldcubeassociation.org/competitions/SpokaneWinterBigCubes2024) |
 | 6 | [Stockholm Mental Meltdown 2023](https://www.worldcubeassociation.org/competitions/StockholmMentalMeltdown2023) |
 | 6 | [Ticonderoga 2024](https://www.worldcubeassociation.org/competitions/Ticonderoga2024) |
+| 6 | [Utsjoki 2025](https://www.worldcubeassociation.org/competitions/Utsjoki2025) |
 | 6 | [Vila Velha Cálice 2025](https://www.worldcubeassociation.org/competitions/VilaVelhaCalice2025) |
 | 6 | [VilaVelhaQuiet 2019](https://www.worldcubeassociation.org/competitions/VilaVelhaQuiet2019) |
 | 6 | [Yay Yarışları - Lənkəran 2022](https://www.worldcubeassociation.org/competitions/YayYarislariILankaran2022) |
@@ -327,6 +328,7 @@
 | 10 | [DNFeandont Tijuana 2024](https://www.worldcubeassociation.org/competitions/DNFeandontTijuana2024) |
 | 10 | [Don't DNF in Tijuana 2023](https://www.worldcubeassociation.org/competitions/DontDNFinTijuana2023) |
 | 10 | [Draughons 2006](https://www.worldcubeassociation.org/competitions/Draughons2006) |
+| 10 | [El Coca Open 2025](https://www.worldcubeassociation.org/competitions/ElCocaOpen2025) |
 | 10 | [Estonian Open 2014](https://www.worldcubeassociation.org/competitions/EstonianOpen2014) |
 | 10 | [Festive Mini-sota 2024](https://www.worldcubeassociation.org/competitions/FestiveMinisota2024) |
 | 10 | [Fewest Moves Bogotá III 2025](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaIII2025) |

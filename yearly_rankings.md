@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 
 ### Rubik's Cube - Single
@@ -61,8 +61,8 @@
 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | **1.00** | United Kingdom | [Stevenage July 2025](https://www.worldcubeassociation.org/competitions/StevenageJuly2025) | 1.35, 0.91, 1.10, 0.99, 0.91 |
 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | **1.07** | China | [Zibo Open 2025](https://www.worldcubeassociation.org/competitions/ZiboOpen2025) | 3.59, 1.04, 0.89, 0.69, 1.27 |
 | [Emanuel Schelin](https://www.worldcubeassociation.org/persons/2022SCHE13) | **1.07** | Sweden | [Sörmland Open 2025](https://www.worldcubeassociation.org/competitions/SormlandOpen2025) | 1.25, 0.99, 0.97, 3.67, 0.92 |
+| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **1.09** | Russia | [Ladce Open 2025](https://www.worldcubeassociation.org/competitions/LadceOpen2025) | 0.86, 0.91, 1.20, 1.15, 4.00 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **1.10** | Poland | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025) | 0.73, 0.95, 1.32, 3.30, 1.03 |
-| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **1.13** | United States | [Locked in Coshocton 2025](https://www.worldcubeassociation.org/competitions/LockedinCoshocton2025) | 1.17, 1.12, 1.22, 1.06, 1.11 |
 
 ### 4x4x4 Cube - Single
 

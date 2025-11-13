@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -236,6 +236,7 @@
 | 13 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Bulldog Qualifier 2019](https://www.worldcubeassociation.org/competitions/BulldogQualifier2019/results/podiums) |
 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Burjassot Open 2023](https://www.worldcubeassociation.org/competitions/BurjassotOpen2023/results/podiums) |
 | 10 | [Erwan de Lépinau](https://www.worldcubeassociation.org/persons/2012LEPI01) | [Bussières Open 2013](https://www.worldcubeassociation.org/competitions/BussieresOpen2013/results/podiums) |
+| 11 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Calvià Open 2025](https://www.worldcubeassociation.org/competitions/CalviaOpen2025/results/podiums) |
 | 12 | [Gabriel Bergue](https://www.worldcubeassociation.org/persons/2017BORG02) | [Campeonato Baiano 2020](https://www.worldcubeassociation.org/competitions/CampeonatoBaiano2020/results/podiums) |
 | 13 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Campeonato Brasileiro 2019](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2019/results/podiums) |
 | 14 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Campeonato Brasileiro 2023](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2023/results/podiums) |
@@ -820,6 +821,9 @@
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Madrid Open 2009](https://www.worldcubeassociation.org/competitions/MadridOpen2009/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Madrid Open 2013](https://www.worldcubeassociation.org/competitions/MadridOpen2013/results/podiums) |
 | 12 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Magic Cube Days 2012](https://www.worldcubeassociation.org/competitions/MagicCubeDays2012/results/podiums) |
+| 14 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025/results/podiums) |
+| 11 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025/results/podiums) |
+| 10 | [Jaden Matsunaka](https://www.worldcubeassociation.org/persons/2023MATS01) | [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025/results/podiums) |
 | 10 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [Málaga Al Cubo 2024](https://www.worldcubeassociation.org/competitions/MalagaAlCubo2024/results/podiums) |
 | 10 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | [Malaysia Cube Championship 2022](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2022/results/podiums) |
 | 13 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Malaysia Cube Open 2016](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2016/results/podiums) |
@@ -1017,6 +1021,7 @@
 | 13 | [Andres Sanchez Ponce](https://www.worldcubeassociation.org/persons/2018PONC02) | [Panama Nationals 2022](https://www.worldcubeassociation.org/competitions/PanamaNationals2022/results/podiums) |
 | 10 | [Egdar Castillo](https://www.worldcubeassociation.org/persons/2017CAST48) | [Panama Nationals 2022](https://www.worldcubeassociation.org/competitions/PanamaNationals2022/results/podiums) |
 | 14 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Panama Nationals 2023](https://www.worldcubeassociation.org/competitions/PanamaNationals2023/results/podiums) |
+| 12 | [Omar Aguilar](https://www.worldcubeassociation.org/persons/2023AGUI24) | [Panama Nationals 2025](https://www.worldcubeassociation.org/competitions/PanamaNationals2025/results/podiums) |
 | 11 | [Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01) | [Pão de Queijo Open 2017](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2017/results/podiums) |
 | 10 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums) |
 | 12 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Pão de Queijo Open 2023](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2023/results/podiums) |

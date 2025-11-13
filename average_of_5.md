@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 
 ### Rubik's Cube
@@ -106,8 +106,8 @@
 | 16.44 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | 15.67, 17.28, 17.51, 15.68, 16.36 |
 | 16.70 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 16.30, 15.65, DNF, 16.35, 17.45 |
 | 16.89 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | DNF, 16.36, 14.81, 18.36, 15.96 |
+| 17.02 | [Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01) | 15.14, 16.84, 19.09, DNF, 14.67 |
 | 17.08 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | 18.57, 16.05, 16.74, 18.44, 15.60 |
-| 17.10 | [Ian Guevarra Santos](https://www.worldcubeassociation.org/persons/2024SANT11) | DNF, 16.72, 16.92, 17.65, 16.24 |
 
 ### 3x3x3 Fewest Moves
 

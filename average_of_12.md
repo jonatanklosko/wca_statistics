@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 
 ### Rubik's Cube
@@ -68,7 +68,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1:07.70 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:20.61, 1:07.70, 1:03.89, 1:06.08, 1:02.14, 1:16.67, 1:04.60, 1:04.80, 1:05.73, 1:11.61, 1:06.99, 1:08.88 |
+| 1:06.89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:06.08, 1:02.14, 1:16.67, 1:04.60, 1:04.80, 1:05.73, 1:11.61, 1:06.99, 1:08.88, 1:08.92, 1:07.67, 1:03.59 |
 | 1:11.77 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:06.83, DNF, 1:15.46, 1:22.33, 1:17.99, 1:08.68, 1:07.83, 1:07.88, 1:07.60, 1:13.42, 1:07.10, 1:09.36 |
 | 1:11.92 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:14.09, 1:15.52, 1:10.37, 1:12.68, 1:09.51, 1:16.77, 1:17.53, 1:08.19, 1:08.77, 1:12.65, 1:10.63, 1:06.48 |
 | 1:12.16 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:09.40, 1:12.53, 1:14.44, 1:10.80, 1:09.00, 1:12.59, 1:07.81, 1:16.73, 1:10.27, 1:12.41, 1:14.64, 1:15.50 |

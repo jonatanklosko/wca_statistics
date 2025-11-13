@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -268,6 +268,7 @@
 | 9 | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018) |
 | 9 | [Latium & Sicily FMC 2025](https://www.worldcubeassociation.org/competitions/LatiumSicilyFMC2025) |
 | 9 | [Llanocentro Open 2019](https://www.worldcubeassociation.org/competitions/LlanocentroOpen2019) |
+| 9 | [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025) |
 | 9 | [Mental Breakdown Uruguay 2022](https://www.worldcubeassociation.org/competitions/MentalBreakdownUruguay2022) |
 | 9 | [Michigan Mini 16 2024](https://www.worldcubeassociation.org/competitions/MichiganMini162024) |
 | 9 | [Nalsar Cube Open C 2025](https://www.worldcubeassociation.org/competitions/NalsarCubeOpenC2025) |

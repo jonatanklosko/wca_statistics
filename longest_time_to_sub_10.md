@@ -37,8 +37,8 @@
 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) | 12.70 |
 | [Charl Jovan Borromeo](https://www.worldcubeassociation.org/persons/2012BORR01) | 12.63 |
 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | 12.63 |
-| [Toru Morooka (諸岡徹)](https://www.worldcubeassociation.org/persons/2010MORO01) | 12.59 |
 | [Ryan Harris](https://www.worldcubeassociation.org/persons/2013HARR01) | 12.59 |
+| [Toru Morooka (諸岡徹)](https://www.worldcubeassociation.org/persons/2010MORO01) | 12.59 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | 12.46 |
 | [Phopphon Suwattee (ภพพนธ์ สุวัตถี)](https://www.worldcubeassociation.org/persons/2010SUWA03) | 12.38 |
 | [Tariq Ali](https://www.worldcubeassociation.org/persons/2012ALIT01) | 12.34 |
@@ -65,8 +65,8 @@
 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) | 11.58 |
 | [Anshuman Singh](https://www.worldcubeassociation.org/persons/2014SING04) | 11.56 |
 | [Ryosuke Higo (肥後亮佑)](https://www.worldcubeassociation.org/persons/2006HIGO01) | 11.54 |
-| [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
 | [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
+| [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
 | [Kobe Balin](https://www.worldcubeassociation.org/persons/2012BALI01) | 11.50 |
 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) | 11.48 |
 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | 11.48 |

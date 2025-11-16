@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 13 November 2025*
+*Updated on 16 November 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -40,11 +40,11 @@
 | 54 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | Square-1 | [Gaston Toe Twiddling 2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 53 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 4x4x4 Cube | [Athens SNFestival Cubing 2019](https://www.worldcubeassociation.org/competitions/AthensSNFestivalCubing2019) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 53 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | Megaminx | [Colombia MetodoGenius 2011](https://www.worldcubeassociation.org/competitions/ColombiaMetodoGenius2011) | [Edén Cubing 2022](https://www.worldcubeassociation.org/competitions/EdenCubing2022) |
+| 53 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | 7x7x7 Cube | [Fénix 2014](https://www.worldcubeassociation.org/competitions/Fenix2014) |  |
 | 53 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 7x7x7 Cube | [YJ Malaysia Cube Open 2022](https://www.worldcubeassociation.org/competitions/YJMalaysiaCubeOpen2022) |  |
 | 52 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 6x6x6 Cube | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 52 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 3x3x3 Cube | [Melbourne Summer 2012](https://www.worldcubeassociation.org/competitions/MelbourneSummer2012) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 52 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 3x3x3 Blindfolded | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
-| 52 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | 7x7x7 Cube | [Fénix 2014](https://www.worldcubeassociation.org/competitions/Fenix2014) |  |
 | 52 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | Megaminx | [Wrocław Side Challenge 2019](https://www.worldcubeassociation.org/competitions/WroclawSideChallenge2019) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 51 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | Square-1 | [Big Pine Open 2015](https://www.worldcubeassociation.org/competitions/BigPineOpen2015) |  |
 | 51 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | 4x4x4 Cube | [Ankara Fall 2020](https://www.worldcubeassociation.org/competitions/AnkaraFall2020) |  |

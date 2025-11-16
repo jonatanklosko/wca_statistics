@@ -1,38 +1,38 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 November 2025*
+*Updated on 16 November 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1523** | 1298 | 1119 | 3940 |
-| United States | **1481** | 1171 | 1004 | 3656 |
+| United States | **1482** | 1171 | 1005 | 3658 |
 | Germany | **1356** | 1280 | 1274 | 3910 |
 | Russia | **1244** | 685 | 526 | 2455 |
-| France | **1110** | 974 | 837 | 2921 |
+| France | **1110** | 974 | 838 | 2922 |
 | China | **1056** | 965 | 851 | 2872 |
 | Netherlands | **1052** | 839 | 728 | 2619 |
 | Poland | **818** | 534 | 423 | 1775 |
 | Malaysia | **494** | 523 | 487 | 1504 |
-| United Kingdom | **482** | 531 | 506 | 1519 |
-| Canada | **479** | 490 | 534 | 1503 |
-| Hong Kong, China | **467** | 467 | 385 | 1319 |
+| United Kingdom | **482** | 534 | 506 | 1522 |
+| Canada | **480** | 490 | 536 | 1506 |
+| Hong Kong, China | **467** | 467 | 387 | 1321 |
 | Switzerland | **445** | 500 | 407 | 1352 |
+| India | **425** | 421 | 405 | 1251 |
 | Republic of Korea | **424** | 361 | 314 | 1099 |
-| India | **423** | 421 | 405 | 1249 |
 | Italy | **421** | 412 | 381 | 1214 |
 | Denmark | **386** | 331 | 280 | 997 |
 | Ukraine | **345** | 354 | 372 | 1071 |
 | Sweden | **339** | 393 | 398 | 1130 |
 | Finland | **315** | 250 | 222 | 787 |
 | Australia | **313** | 174 | 127 | 614 |
-| Argentina | **286** | 194 | 165 | 645 |
+| Argentina | **292** | 196 | 169 | 657 |
 | Romania | **260** | 192 | 158 | 610 |
 | Singapore | **259** | 233 | 248 | 740 |
-| Chinese Taipei | **254** | 239 | 240 | 733 |
+| Chinese Taipei | **254** | 239 | 241 | 734 |
 | Indonesia | **243** | 232 | 176 | 651 |
 | Japan | **243** | 202 | 175 | 620 |
-| Spain | **232** | 233 | 253 | 718 |
+| Spain | **233** | 233 | 253 | 719 |
 | Ireland | **217** | 104 | 93 | 414 |
 | Austria | **207** | 259 | 280 | 746 |
 | Slovenia | **195** | 260 | 265 | 720 |
@@ -47,13 +47,13 @@
 | Lithuania | **118** | 99 | 101 | 318 |
 | Belarus | **115** | 82 | 94 | 291 |
 | Thailand | **105** | 110 | 67 | 282 |
+| Philippines | **104** | 120 | 116 | 340 |
 | Slovakia | **103** | 145 | 142 | 390 |
-| Philippines | **102** | 119 | 116 | 337 |
 | Venezuela | **100** | 122 | 117 | 339 |
-| New Zealand | **89** | 98 | 87 | 274 |
+| New Zealand | **89** | 98 | 88 | 275 |
 | Croatia | **86** | 127 | 102 | 315 |
 | Guatemala | **82** | 47 | 51 | 180 |
-| Vietnam | **79** | 96 | 92 | 267 |
+| Vietnam | **79** | 96 | 93 | 268 |
 | Brazil | **77** | 104 | 70 | 251 |
 | Estonia | **70** | 85 | 78 | 233 |
 | Israel | **66** | 63 | 73 | 202 |

@@ -1,14 +1,14 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 November 2025*
+*Updated on 16 November 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **578** | 366 | 247 | 1191 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **346** | 77 | 36 | 459 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 204 | 125 | 663 |
-| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **280** | 151 | 107 | 538 |
+| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **280** | 151 | 108 | 539 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **240** | 185 | 140 | 565 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **226** | 67 | 34 | 327 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **210** | 27 | 12 | 249 |
@@ -47,7 +47,7 @@
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **79** | 31 | 20 | 130 |
 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **78** | 56 | 33 | 167 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **77** | 50 | 52 | 179 |
-| [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **77** | 46 | 15 | 138 |
+| [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **77** | 46 | 17 | 140 |
 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **74** | 70 | 45 | 189 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **72** | 85 | 55 | 212 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **72** | 71 | 57 | 200 |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 November 2025*
+*Updated on 16 November 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1420,6 +1420,7 @@
 | 12 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Villanueva Open 2017](https://www.worldcubeassociation.org/competitions/VillanuevadelaCanadaOpen2017/results/podiums) |
 | 11 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Vilnius Open 2016](https://www.worldcubeassociation.org/competitions/VilniusOpen2016/results/podiums) |
 | 10 | [Fabricio Andrés Yañez Terrazas](https://www.worldcubeassociation.org/persons/2015TERR01) | [Viña Cubing Fest IV SC 2024](https://www.worldcubeassociation.org/competitions/VinaCubingFestIVSC2024/results/podiums) |
+| 12 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [Viña Cubing Fest V SC 2025](https://www.worldcubeassociation.org/competitions/VinaCubingFestVSC2025/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vinderup Open 2016](https://www.worldcubeassociation.org/competitions/VinderupOpen2016/results/podiums) |
 | 14 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Virginia Championship 2023](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2023/results/podiums) |
 | 10 | [John Edison Ubaldo (ᜇ᜔ᜌᜓ︀ᜈ᜔ ᜁᜇᜒᜐᜓ︀ᜈ᜔ ᜂᜊᜎ᜔ᜇᜓ︀)](https://www.worldcubeassociation.org/persons/2010UBAL01) | [Visayas Championship 2017](https://www.worldcubeassociation.org/competitions/VisayasChampionship2017/results/podiums) |

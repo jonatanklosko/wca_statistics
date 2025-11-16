@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 13 November 2025*
+*Updated on 16 November 2025*
 
 
 ### Rubik's Cube
@@ -66,7 +66,7 @@
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 34 |
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 23 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 19 |
-| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 15 |
+| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 16 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | 13 |
 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | 13 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 11 |
@@ -164,8 +164,8 @@
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 26 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | 26 |
 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) | 23 |
+| [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | 22 |
 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) | 21 |
-| [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | 21 |
 | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) | 20 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 20 |
 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) | 19 |
@@ -316,9 +316,9 @@
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 12 |
 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 11 |
 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 9 |
+| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 8 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 8 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 7 |
-| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 7 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 7 |
 | [Chetan Roger Dhanjal](https://www.worldcubeassociation.org/persons/2014DHAN01) | 6 |
 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | 6 |

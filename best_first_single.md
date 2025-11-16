@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 13 November 2025*
+*Updated on 16 November 2025*
 
 
 ### Rubik's Cube
@@ -99,6 +99,7 @@
 | First single | Person |
 | ---: | :--- |
 | 19.70 | [Ian Guevarra Santos](https://www.worldcubeassociation.org/persons/2024SANT11) |
+| 21.61 | [Yiming Liu (刘一鸣)](https://www.worldcubeassociation.org/persons/2025LIUY24) |
 | 24.43 | [Yuye Yan (严宇业)](https://www.worldcubeassociation.org/persons/2024YANY02) |
 | 24.56 | [Keita Hayakawa (早川慶太)](https://www.worldcubeassociation.org/persons/2022HAYA03) |
 | 25.50 | [Zhaoxuan Ning (宁照轩)](https://www.worldcubeassociation.org/persons/2019NING06) |
@@ -107,7 +108,6 @@
 | 29.98 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) |
 | 30.73 | [Jorian Meeuse](https://www.worldcubeassociation.org/persons/2022MEEU02) |
 | 33.64 | [Dương Công Tuyền](https://www.worldcubeassociation.org/persons/2022TUYE01) |
-| 34.05 | [Haozhen Ding (丁昊桢)](https://www.worldcubeassociation.org/persons/2019DING22) |
 
 ### 3x3x3 Fewest Moves
 

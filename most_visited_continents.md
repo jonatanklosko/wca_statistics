@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 13 November 2025*
+*Updated on 16 November 2025*
 
 | Continents | Person |
 | ---: | :--- |
@@ -154,6 +154,7 @@
 | 4 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 4 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
 | 4 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 4 | [Pedro Henrique Maciel Ceccopieri Belo (陈昊然)](https://www.worldcubeassociation.org/persons/2015BELO02) |
 | 4 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) |
 | 4 | [Karen Brooks](https://www.worldcubeassociation.org/persons/2015BROO01) |
 | 4 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) |

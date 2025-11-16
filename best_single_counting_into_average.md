@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 November 2025*
+*Updated on 16 November 2025*
 
 
 ### Rubik's Cube
@@ -70,13 +70,13 @@
 | 7.13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Chicagoland Newcomers 2025](https://www.worldcubeassociation.org/competitions/ChicagolandNewcomers2025/results/by_person#2017GARR05) |
 | 7.27 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2020ARCH01) |
 | 7.31 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
+| 7.31 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) | [Berkeley November Weekday 2025](https://www.worldcubeassociation.org/competitions/BerkeleyNovemberWeekday2025/results/by_person#2023CUAR03) |
 | 7.34 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [San Jose del Monte Open II 2024](https://www.worldcubeassociation.org/competitions/SanJosedelMonteOpenII2024/results/by_person#2017VILL41) |
 | 7.38 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024/results/by_person#2017GARR05) |
 | 7.39 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Ayat-Ti Cubing Elyu Fest 2024](https://www.worldcubeassociation.org/competitions/AyatTiCubingElyuFest2024/results/by_person#2023ARRA01) |
 | 7.45 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Chicagoland Newcomers 2025](https://www.worldcubeassociation.org/competitions/ChicagolandNewcomers2025/results/by_person#2017GARR05) |
 | 7.46 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Cube Plan Baie 2025](https://www.worldcubeassociation.org/competitions/CubePlanBaie2025/results/by_person#2021CHEL01) |
 | 7.49 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
-| 7.54 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Warm Up Seattle 2025](https://www.worldcubeassociation.org/competitions/WarmUpSeattle2025/results/by_person#2017GARR05) |
 
 ### Megaminx
 

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 November 2025*
+*Updated on 16 November 2025*
 
 
 ### Rubik's Cube - Single
@@ -254,10 +254,10 @@
 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **6.43** | United States | [Brazos Cubing Spring 2025](https://www.worldcubeassociation.org/competitions/BrazosCubingSpring2025) | 10.66, 15.61, 11.64, 14.12, 6.43 |
 | [Jonas Pilhöfer](https://www.worldcubeassociation.org/persons/2019PILH01) | **6.46** | Germany | [Mainzelcubing 2025](https://www.worldcubeassociation.org/competitions/Mainzelcubing2025) | 11.95, 14.71, 11.69, 9.39, 6.46 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **6.49** | Russia | [Kublördag Västerås VIII - 2025](https://www.worldcubeassociation.org/competitions/KublordagVasterasVIII2025) | 9.77, 6.49, 11.76, 10.02, 10.44 |
+| [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) | **6.50** | Philippines | [Berkeley November Weekday 2025](https://www.worldcubeassociation.org/competitions/BerkeleyNovemberWeekday2025) | 9.48, 9.48, 9.86, 6.50, 10.01 |
 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | **6.52** | Switzerland | [Sorg'Open 2025](https://www.worldcubeassociation.org/competitions/SorgOpen2025) | 8.66, 8.37, 11.55, 8.88, 6.52 |
 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | **6.60** | China | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025) | 6.60, 12.56, 10.60, 9.23, 9.22 |
 | [Nipun Das](https://www.worldcubeassociation.org/persons/2017DASN01) | **6.61** | United States | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 10.15, 10.84, 11.75, 6.61, 11.94 |
-| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **6.66** | Romania | [Bucharest Cubing September 2025](https://www.worldcubeassociation.org/competitions/BucharestCubingSeptember2025) | 6.66, 10.88, 8.25, 9.31, 10.02 |
 
 ### 3x3x3 One-Handed - Average
 
@@ -327,8 +327,8 @@
 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **1.40** | New Zealand | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025) | 1.09, 2.11, 1.60, 1.35, 1.26 |
 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | **1.40** | Australia | [Lake Macquarie Open 2025](https://www.worldcubeassociation.org/competitions/LakeMacquarieOpen2025) | 1.09, 1.74, 1.37, 1.55, 1.29 |
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | **1.41** | United States | [Virginia Championship 2025](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2025) | 1.31, 1.35, 1.56, 1.15, 3.10 |
+| [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | **1.42** | United States | [Saint Mike's Cube Fest VT 2025](https://www.worldcubeassociation.org/competitions/SaintMikesCubeFestVT2025) | 1.48, 1.39, 1.40, 1.69, 1.38 |
 | [Owen Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | **1.47** | China | [Mission Viejo Fall 2025](https://www.worldcubeassociation.org/competitions/MissionViejoFall2025) | 1.41, 1.16, 1.14, 1.84, 4.22 |
-| [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | **1.52** | United States | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 1.25, 1.36, 1.67, 2.46, 1.52 |
 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) | **1.52** | Canada | [Brockport Bolt 2025](https://www.worldcubeassociation.org/competitions/BrockportBolt2025) | 1.43, 1.62, 1.39, 3.03, 1.50 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **1.53** | Russia | [Ivanka pri Dunaji Open 2025](https://www.worldcubeassociation.org/competitions/IvankapriDunajiOpen2025) | 1.66, 1.47, 1.47, 4.36, 1.23 |
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | **1.53** | United States | [Ephrata Fall 2025](https://www.worldcubeassociation.org/competitions/EphrataFall2025) | 1.50, 1.60, 1.49, 1.81, 1.45 |

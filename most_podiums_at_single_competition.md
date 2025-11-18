@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 November 2025*
+*Updated on 17 November 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -243,6 +243,8 @@
 | 10 | [Bárbara Guerra](https://www.worldcubeassociation.org/persons/2019RIBE11) | [Campeonato do Cerrado 2024](https://www.worldcubeassociation.org/competitions/CampeonatoCerrado2024/results/podiums) |
 | 13 | [Aharon Campoli Tono](https://www.worldcubeassociation.org/persons/2014TONO01) | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017/results/podiums) |
 | 10 | [Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01) | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017/results/podiums) |
+| 14 | [Bárbara Guerra](https://www.worldcubeassociation.org/persons/2019RIBE11) | [Campeonato do Cerrado 2025](https://www.worldcubeassociation.org/competitions/CampeonatodoCerrado2025/results/podiums) |
+| 12 | [Miguel Meireles Godoi](https://www.worldcubeassociation.org/persons/2023GODO07) | [Campeonato do Cerrado 2025](https://www.worldcubeassociation.org/competitions/CampeonatodoCerrado2025/results/podiums) |
 | 10 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Campeonato Profecía 2012](https://www.worldcubeassociation.org/competitions/CampeonatoProfecia2012/results/podiums) |
 | 10 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | [Sudamericano 2013](https://www.worldcubeassociation.org/competitions/CampeonatoSudamericano2013/results/podiums) |
 | 11 | [Paris Dorn](https://www.worldcubeassociation.org/persons/2015DORN02) | [Canada's Best in the West 2018](https://www.worldcubeassociation.org/competitions/CanadasBestInTheWest2018/results/podiums) |
@@ -320,6 +322,7 @@
 | 11 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Copper Country Winter 2020](https://www.worldcubeassociation.org/competitions/CopperCountryWinter2020/results/podiums) |
 | 13 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Córdoba Cubea 2024](https://www.worldcubeassociation.org/competitions/CordobaCubea2024/results/podiums) |
 | 10 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019/results/podiums) |
+| 11 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Cottbus Cubing 2025](https://www.worldcubeassociation.org/competitions/CottbusCubing2025/results/podiums) |
 | 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [Couffouleux Open 2023](https://www.worldcubeassociation.org/competitions/CouffouleuxOpen2023/results/podiums) |
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Countless Cubes Chicago A 2024](https://www.worldcubeassociation.org/competitions/CountlessCubesChicagoA2024/results/podiums) |
 | 12 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Countless Cubes Chicago B 2024](https://www.worldcubeassociation.org/competitions/CountlessCubesChicagoB2024/results/podiums) |
@@ -765,6 +768,7 @@
 | 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Kublördag Jönköping I - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingI2024/results/podiums) |
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kublördag Jönköping I - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingI2024/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Uppsala I - 2025](https://www.worldcubeassociation.org/competitions/KublordagUppsalaI2025/results/podiums) |
+| 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Uppsala III - 2025](https://www.worldcubeassociation.org/competitions/KublordagUppsalaIII2025/results/podiums) |
 | 15 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås IV - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasIV2024/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås V - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasV2024/results/podiums) |
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kublördag Västerås V - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasV2024/results/podiums) |
@@ -1129,6 +1133,8 @@
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Royal Corner Twist 2018](https://www.worldcubeassociation.org/competitions/RoyalCornerTwist2018/results/podiums) |
 | 13 | [Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02) | [Xela 2015](https://www.worldcubeassociation.org/competitions/RubiksXelaOpen2015/results/podiums) |
 | 10 | [Shubham Kumar](https://www.worldcubeassociation.org/persons/2013KUMA15) | [Rubi Quest 2014](https://www.worldcubeassociation.org/competitions/RubiQuest2014/results/podiums) |
+| 17 | [Nikita Popkov](https://www.worldcubeassociation.org/persons/2017POPK01) | [Rudny Open 2025](https://www.worldcubeassociation.org/competitions/RudnyOpen2025/results/podiums) |
+| 15 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Rudny Open 2025](https://www.worldcubeassociation.org/competitions/RudnyOpen2025/results/podiums) |
 | 14 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Ruta Cubera: Arriate Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaArriateOpen2025/results/podiums) |
 | 13 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | [Ruta Cubera: Arriate Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaArriateOpen2025/results/podiums) |
 | 10 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | [Ruta Cubera: Arriate Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaArriateOpen2025/results/podiums) |

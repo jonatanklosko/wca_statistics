@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 16 November 2025*
+*Updated on 17 November 2025*
 
 
 ### Rubik's Cube - Single
@@ -129,8 +129,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **57.69** | United States | [Burbank Big Cubes 2025](https://www.worldcubeassociation.org/competitions/BurbankBigCubes2025) | 57.69, 1:11.14, 1:09.39 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:02.12** | Poland | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 1:08.80, 1:02.12, 1:10.01 |
 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **1:03.43** | United States | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 1:03.43, 1:22.73, 1:10.55 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:05.24** | Poland | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 1:17.06, 1:18.60, 1:05.24 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **1:06.80** | Singapore | [Singapore Megaland July 2025](https://www.worldcubeassociation.org/competitions/SingaporeMegalandJuly2025) | 1:18.74, 1:06.80, 1:10.02 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:06.83** | Vietnam | [Paradise Park Bangkok NxNxN 2025](https://www.worldcubeassociation.org/competitions/ParadiseParkBangkokNxNxN2025) | 1:06.83, DNF, 1:15.46 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:06.96** | Republic of Korea | [We Laugh Pohanghang 2025](https://www.worldcubeassociation.org/competitions/WeLaughPohanghang2025) | 1:20.11, 1:10.06, 1:06.96 |
@@ -144,13 +144,13 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **1:05.04** | United States | [Nub Open Trabuco Hills Fall 2025](https://www.worldcubeassociation.org/competitions/NubOpenTrabucoHillsFall2025) | 1:04.60, 1:04.80, 1:05.73 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:06.98** | Poland | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 1:08.80, 1:02.12, 1:10.01 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:07.77** | Vietnam | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | 1:07.83, 1:07.88, 1:07.60 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:09.80** | Republic of Korea | [Paradise Park Bangkok NxNxN 2025](https://www.worldcubeassociation.org/competitions/ParadiseParkBangkokNxNxN2025) | 1:09.00, 1:12.59, 1:07.81 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:09.87** | Poland | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) | 1:08.19, 1:08.77, 1:12.65 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **1:10.57** | Russia | [Uzbekistan Nationals 2025](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2025) | 1:08.09, 1:11.50, 1:12.13 |
+| [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **1:10.64** | United States | [Machesney Park Fall 2025](https://www.worldcubeassociation.org/competitions/MachesneyParkFall2025) | 1:10.76, 1:15.76, 1:05.39 |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:11.08** | China | [Lishui Open 2025](https://www.worldcubeassociation.org/competitions/LishuiOpen2025) | 1:12.10, 1:08.27, 1:12.88 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **1:11.85** | Singapore | [Singapore Megaland July 2025](https://www.worldcubeassociation.org/competitions/SingaporeMegalandJuly2025) | 1:18.74, 1:06.80, 1:10.02 |
-| [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **1:12.24** | United States | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 1:03.43, 1:22.73, 1:10.55 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **1:12.53** | Malaysia | [gateway KLIA2 Cube Open 2025](https://www.worldcubeassociation.org/competitions/gatewayKLIA2CubeOpen2025) | 1:09.25, 1:14.98, 1:13.37 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:12.65** | Ireland | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025) | 1:12.57, 1:14.22, 1:11.15 |
 
@@ -167,7 +167,7 @@
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **1:38.39** | Singapore | [Singapore Jumbo June 2025](https://www.worldcubeassociation.org/competitions/SingaporeJumboJune2025) | 1:38.39, 1:42.46, 1:42.87 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:38.57** | Republic of Korea | [SuNxNter Speedcubing 2025](https://www.worldcubeassociation.org/competitions/SuNxNterSpeedcubing2025) | 1:46.08, 2:27.31, 1:38.57 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:39.47** | Vietnam | [Lakewood Fall 2025](https://www.worldcubeassociation.org/competitions/LakewoodFall2025) | 1:56.32, 2:00.69, 1:39.47 |
-| [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **1:44.33** | United States | [Naperville Mini II 2025](https://www.worldcubeassociation.org/competitions/NapervilleMiniII2025) | 1:58.88, 1:44.33, 1:58.29 |
+| [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **1:42.80** | United States | [Machesney Park Fall 2025](https://www.worldcubeassociation.org/competitions/MachesneyParkFall2025) | 1:57.97, 1:42.80, 2:00.88 |
 
 ### 7x7x7 Cube - Average
 
@@ -342,10 +342,10 @@
 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | **1.64** | United States | [Moorhead Madness 2025](https://www.worldcubeassociation.org/competitions/MoorheadMadness2025) | 2.35, 2.40, 2.18, 3.71, 1.64 |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **1.84** | United States | [Mission Viejo Fall 2025](https://www.worldcubeassociation.org/competitions/MissionViejoFall2025) | 1.92, 1.84, 3.78, 2.52, 6.24 |
 | [Anatolii Turenko](https://www.worldcubeassociation.org/persons/2018TURE01) | **1.87** | Russia | [Back to Kostelec 2025](https://www.worldcubeassociation.org/competitions/BacktoKostelec2025) | 1.87, 4.53, 3.43, 5.36, DNF |
+| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | **1.90** | Poland | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 3.20, 3.63, 1.90, 3.09, 3.99 |
 | [Karl Liam L. Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | **1.91** | Philippines | [Makati Heroes Speedcubing 2025](https://www.worldcubeassociation.org/competitions/MakatiHeroesSpeedcubing2025) | 2.64, 3.46, 3.41, 2.66, 1.91 |
 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | **1.96** | Australia | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) | 2.52, 2.74, 1.96, 2.98, DNF |
 | [Mick Boekema](https://www.worldcubeassociation.org/persons/2022BOEK01) | **2.00** | Netherlands | [Lente in Lent 2025](https://www.worldcubeassociation.org/competitions/LenteinLent2025) | 4.76, 3.17, DNF, 2.00, 4.12 |
-| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | **2.01** | Poland | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025) | 3.66, DNF, 4.14, 2.01, 3.04 |
 | [Sebastian Stone](https://www.worldcubeassociation.org/persons/2022STON09) | **2.02** | United States | [Davis Summer 2025](https://www.worldcubeassociation.org/competitions/DavisSummer2025) | 3.19, DNF, 3.22, DNF, 2.02 |
 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | **2.06** | Singapore | [Twist & Fries Johor Bahru 2025](https://www.worldcubeassociation.org/competitions/TwistFriesJohorBahru2025) | 3.74, 3.99, 3.31, 2.79, 2.06 |
 
@@ -370,6 +370,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Pratik Khanna](https://www.worldcubeassociation.org/persons/2017KHAN32) | **0.76** | India | [BITS Pilani Cube Open 2025](https://www.worldcubeassociation.org/competitions/BITSPilaniCubeOpen2025) | 3.00, 2.94, 3.91, 0.76, 4.09 |
 | [Divij Yadav](https://www.worldcubeassociation.org/persons/2018YADA02) | **0.83** | India | [BITS Pilani Cube Open 2025](https://www.worldcubeassociation.org/competitions/BITSPilaniCubeOpen2025) | 5.23, 4.59, 4.93, 0.83, 3.85 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **0.84** | Poland | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 3.44, 1.89, 4.24, 5.73, 0.84 |
 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | **0.86** | United States | [Oredigger Open CO 2025](https://www.worldcubeassociation.org/competitions/OrediggerOpenCO2025) | 2.02, 0.86, 1.94, 1.96, 1.97 |
 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | **0.87** | Poland | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) | 0.87, 4.84, 3.11, 7.77, 2.56 |
 | [Jory Hullin](https://www.worldcubeassociation.org/persons/2022HULL02) | **0.90** | United States | [Clock on the Madison Rocks 2025](https://www.worldcubeassociation.org/competitions/ClockontheMadisonRocks2025) | 3.29, 4.48, 5.42, 2.97, 0.90 |
@@ -377,7 +378,6 @@
 | [Jonathan Pires Medeiros](https://www.worldcubeassociation.org/persons/2022MEDE02) | **0.92** | Brazil | [Paraíso Summer DC 2025](https://www.worldcubeassociation.org/competitions/ParaisoSummerDC2025) | 3.45, 3.30, 2.48, 3.54, 0.92 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **0.93** | United States | [Clock on the Madison Rocks 2025](https://www.worldcubeassociation.org/competitions/ClockontheMadisonRocks2025) | 3.31, 2.57, 7.43, 2.51, 0.93 |
 | [Benjamin Spradley](https://www.worldcubeassociation.org/persons/2023SPRA03) | **0.93** | United States | [Temple Cubing Fall 2025](https://www.worldcubeassociation.org/competitions/TempleCubingFall2025) | 1.90, 4.78, 4.09, 0.93, DNF |
-| [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **0.94** | Poland | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) | 0.94, 3.04, 1.89, 3.86, 2.33 |
 
 ### Skewb - Average
 
@@ -391,8 +391,8 @@
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **1.67** | United States | [River Hill Spring 2025](https://www.worldcubeassociation.org/competitions/RiverHillSpring2025) | 1.74, 1.72, 1.20, 1.82, 1.56 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **1.69** | Poland | [Silesian Cubing Mysłowice 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingMyslowice2025) | 1.65, 2.85, 1.72, 1.71, 1.52 |
 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | **1.73** | United States | [Grand Junction Dysfunction 2025](https://www.worldcubeassociation.org/competitions/GrandJunctionDysfunction2025) | 1.77, 1.70, 1.72, 3.44, 1.33 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.78** | United States | [Cubing on the Green MN 2025](https://www.worldcubeassociation.org/competitions/CubingontheGreenMN2025) | 1.59, 2.03, 2.18, 1.73, 1.09 |
 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | **1.80** | United States | [Warm Up Seattle 2025](https://www.worldcubeassociation.org/competitions/WarmUpSeattle2025) | 1.64, 2.25, 1.70, 1.81, 1.89 |
-| [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | **1.81** | Poland | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025) | 2.43, 2.65, 1.40, 1.56, 1.45 |
 
 ### Square-1 - Single
 
@@ -464,9 +464,9 @@
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **2:53.25** | United Kingdom | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025) | DNF, 3:18.30, 2:53.25 |
 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **2:57.34** | Austria | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 4:02.12, 2:57.34, DNF |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **2:58.31** | United States | [SacQuiet Spring 2025](https://www.worldcubeassociation.org/competitions/SacQuietSpring2025) | DNF, 3:33.97, 2:58.31 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **3:06.34** | Sweden | [Kublördag Uppsala III - 2025](https://www.worldcubeassociation.org/competitions/KublordagUppsalaIII2025) | 3:06.34, 3:27.92, DNF |
 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **3:10.28** | Australia | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) | DNF, DNF, 3:10.28 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **3:17.44** | Argentina | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | DNF, DNF, 3:17.44 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **3:18.09** | Sweden | [Crevalcore al Cubo 2025](https://www.worldcubeassociation.org/competitions/CrevalcorealCubo2025) | 3:18.09, DNF, DNF |
 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) | **3:28.54** | Australia | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 3:28.54, DNF, DNF |
 
 ### 5x5x5 Blindfolded - Average

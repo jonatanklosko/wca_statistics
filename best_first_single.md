@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 16 November 2025*
+*Updated on 17 November 2025*
 
 
 ### Rubik's Cube
@@ -255,9 +255,9 @@
 | 21/21 56:32 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 20/20 51:17 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) |
 | 21/22 59:29 | [Naoto Kobayashi (小林直登)](https://www.worldcubeassociation.org/persons/2017SHIN02) |
+| 20/21 56:28 | [Nikita Popkov](https://www.worldcubeassociation.org/persons/2017POPK01) |
 | 22/26 50:39 | [Jianing Luo (罗佳宁)](https://www.worldcubeassociation.org/persons/2019LUOJ04) |
 | 20/23 56:08 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
-| 16/16 53:28 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 
 ### 3x3x3 With Feet
 

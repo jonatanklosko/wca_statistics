@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 17 November 2025*
+*Updated on 19 November 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -9,7 +9,7 @@
 | 2453 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2186 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 2088 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
-| 1929 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 1938 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 1898 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1770 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1765 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
@@ -50,14 +50,14 @@
 | 1159 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 1158 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 1155 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
-| 1147 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
+| 1153 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 1141 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 1130 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 1120 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1104 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1093 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
-| 1084 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
+| 1086 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 1060 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 1054 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 1050 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |

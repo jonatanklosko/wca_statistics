@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 17 November 2025*
+*Updated on 19 November 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -70,7 +70,7 @@
 | 103 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 103 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 102 | [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
-| 101 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
+| 102 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 98 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) |
 | 98 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 97 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |

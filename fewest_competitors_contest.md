@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 17 November 2025*
+*Updated on 19 November 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -656,6 +656,7 @@
 | 13 | [FMCow Ohio State II 2024](https://www.worldcubeassociation.org/competitions/FMCowOhioStateII2024) |
 | 13 | [FMC Philippines 2025](https://www.worldcubeassociation.org/competitions/FMCPhilippines2025) |
 | 13 | [FMC Thailand 2022](https://www.worldcubeassociation.org/competitions/FMCThailand2022) |
+| 13 | [Ganja NxN Day 2025](https://www.worldcubeassociation.org/competitions/GanjaNxNDay2025) |
 | 13 | [Georgia October Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaOctoberOpen2023) |
 | 13 | [Georgia September Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaSeptemberOpen2023) |
 | 13 | [German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 November 2025*
+*Updated on 22 November 2025*
 
 
 ### Rubik's Cube - Single
@@ -151,8 +151,8 @@
 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **1:10.64** | United States | [Machesney Park Fall 2025](https://www.worldcubeassociation.org/competitions/MachesneyParkFall2025) | 1:10.76, 1:15.76, 1:05.39 |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:11.08** | China | [Lishui Open 2025](https://www.worldcubeassociation.org/competitions/LishuiOpen2025) | 1:12.10, 1:08.27, 1:12.88 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **1:11.85** | Singapore | [Singapore Megaland July 2025](https://www.worldcubeassociation.org/competitions/SingaporeMegalandJuly2025) | 1:18.74, 1:06.80, 1:10.02 |
+| [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | **1:12.44** | United States | [Oberlin Big Cubes 2025](https://www.worldcubeassociation.org/competitions/OberlinBigCubes2025) | 1:09.43, 1:12.10, 1:15.78 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **1:12.53** | Malaysia | [gateway KLIA2 Cube Open 2025](https://www.worldcubeassociation.org/competitions/gatewayKLIA2CubeOpen2025) | 1:09.25, 1:14.98, 1:13.37 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:12.65** | Ireland | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025) | 1:12.57, 1:14.22, 1:11.15 |
 
 ### 7x7x7 Cube - Single
 
@@ -329,10 +329,10 @@
 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | **1.41** | United States | [Virginia Championship 2025](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2025) | 1.31, 1.35, 1.56, 1.15, 3.10 |
 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | **1.42** | United States | [Saint Mike's Cube Fest VT 2025](https://www.worldcubeassociation.org/competitions/SaintMikesCubeFestVT2025) | 1.48, 1.39, 1.40, 1.69, 1.38 |
 | [Owen Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | **1.47** | China | [Mission Viejo Fall 2025](https://www.worldcubeassociation.org/competitions/MissionViejoFall2025) | 1.41, 1.16, 1.14, 1.84, 4.22 |
+| [Carson Clark (张卡森)](https://www.worldcubeassociation.org/persons/2023CLAR02) | **1.51** | United States | [Bowling Green Fall 2025](https://www.worldcubeassociation.org/competitions/BowlingGreenFall2025) | 1.13, 1.42, 1.69, 2.11, 1.41 |
 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) | **1.52** | Canada | [Brockport Bolt 2025](https://www.worldcubeassociation.org/competitions/BrockportBolt2025) | 1.43, 1.62, 1.39, 3.03, 1.50 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **1.53** | Russia | [Ivanka pri Dunaji Open 2025](https://www.worldcubeassociation.org/competitions/IvankapriDunajiOpen2025) | 1.66, 1.47, 1.47, 4.36, 1.23 |
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | **1.53** | United States | [Ephrata Fall 2025](https://www.worldcubeassociation.org/competitions/EphrataFall2025) | 1.50, 1.60, 1.49, 1.81, 1.45 |
-| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **1.56** | United States | [Naperville Fall 2025](https://www.worldcubeassociation.org/competitions/NapervilleFall2025) | 0.88, 2.61, 1.81, 1.54, 1.34 |
 
 ### Rubik's Clock - Single
 

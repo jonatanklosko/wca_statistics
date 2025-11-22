@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 November 2025*
+*Updated on 22 November 2025*
 
 
 ### Rubik's Cube
@@ -8,6 +8,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 3.56 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Twist & Fries Johor Bahru 2025](https://www.worldcubeassociation.org/competitions/TwistFriesJohorBahru2025/results/by_person#2019WANY36) |
+| 3.56 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xuzhou Open 2025](https://www.worldcubeassociation.org/competitions/XuzhouOpen2025/results/by_person#2019WANY36) |
 | 3.57 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025/results/by_person#2019WANY36) |
 | 3.62 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025/results/by_person#2019WANY36) |
 | 3.68 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Singapore Mofunland Cruise 2025](https://www.worldcubeassociation.org/competitions/SingaporeMofunlandCruise2025/results/by_person#2019WANY36) |
@@ -16,7 +17,6 @@
 | 3.73 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025/results/by_person#2019WANY36) |
 | 3.74 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Lishui Open 2025](https://www.worldcubeassociation.org/competitions/LishuiOpen2025/results/by_person#2019WANY36) |
 | 3.75 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Hefei Open 2025](https://www.worldcubeassociation.org/competitions/HefeiOpen2025/results/by_person#2019WANY36) |
-| 3.77 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Warm Up at gateway klia2 2024](https://www.worldcubeassociation.org/competitions/WarmUpatgatewayklia22024/results/by_person#2019WANY36) |
 
 ### 2x2x2 Cube
 
@@ -67,6 +67,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 7.05 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [Guangzhou Small Cubes 2025](https://www.worldcubeassociation.org/competitions/GuangzhouSmallCubes2025/results/by_person#2023CHEN30) |
 | 7.13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Chicagoland Newcomers 2025](https://www.worldcubeassociation.org/competitions/ChicagolandNewcomers2025/results/by_person#2017GARR05) |
 | 7.27 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2020ARCH01) |
 | 7.31 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
@@ -76,7 +77,6 @@
 | 7.39 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Ayat-Ti Cubing Elyu Fest 2024](https://www.worldcubeassociation.org/competitions/AyatTiCubingElyuFest2024/results/by_person#2023ARRA01) |
 | 7.45 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Chicagoland Newcomers 2025](https://www.worldcubeassociation.org/competitions/ChicagolandNewcomers2025/results/by_person#2017GARR05) |
 | 7.46 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Cube Plan Baie 2025](https://www.worldcubeassociation.org/competitions/CubePlanBaie2025/results/by_person#2021CHEL01) |
-| 7.49 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
 
 ### Megaminx
 

@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 22 November 2025*
+*Updated on 25 November 2025*
 
 
 ### 300 Competitions
@@ -26,6 +26,7 @@
 | 3480 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 3541 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 3690 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 3935 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 4061 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 4215 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 4355 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |

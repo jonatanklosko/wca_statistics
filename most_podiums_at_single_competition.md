@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 November 2025*
+*Updated on 25 November 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1259,6 +1259,7 @@
 | 10 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [SSL V Uppsala 2023](https://www.worldcubeassociation.org/competitions/SSLVUppsala2023/results/podiums) |
 | 14 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [SSN Cube Open 2018](https://www.worldcubeassociation.org/competitions/SSNCubeOpen2018/results/podiums) |
 | 12 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Stekt Falukorv Open 2024](https://www.worldcubeassociation.org/competitions/StektFalukorvOpen2024/results/podiums) |
+| 10 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Sudestão ABRACM 2025](https://www.worldcubeassociation.org/competitions/SudestaoABRACM2025/results/podiums) |
 | 11 | [Andre Febriato Jonathan](https://www.worldcubeassociation.org/persons/2011JONA01) | [Sumatra Open 2016](https://www.worldcubeassociation.org/competitions/SumatraOpen2016/results/podiums) |
 | 10 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | [Sumatra Open 2016](https://www.worldcubeassociation.org/competitions/SumatraOpen2016/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Sumatra Open 2016](https://www.worldcubeassociation.org/competitions/SumatraOpen2016/results/podiums) |

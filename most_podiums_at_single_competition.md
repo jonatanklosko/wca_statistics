@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 November 2025*
+*Updated on 28 November 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -876,6 +876,7 @@
 | 10 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [Menlo Cubing Open 2025](https://www.worldcubeassociation.org/competitions/MenloCubingOpen2025/results/podiums) |
 | 11 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [Mestre Álvaro 2016](https://www.worldcubeassociation.org/competitions/MestreAlvaro2016/results/podiums) |
 | 11 | [Samuel Asafe Ludugel Fagundes](https://www.worldcubeassociation.org/persons/2015FAGU01) | [Mestre Álvaro 2016](https://www.worldcubeassociation.org/competitions/MestreAlvaro2016/results/podiums) |
+| 12 | [Louis Rodriguez](https://www.worldcubeassociation.org/persons/2018RODR43) | [Metropolis Lara League III 2025](https://www.worldcubeassociation.org/competitions/MetropolisLaraLeagueIII2025/results/podiums) |
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Michigan 2018](https://www.worldcubeassociation.org/competitions/Michigan2018/results/podiums) |
 | 15 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Michigan 2019](https://www.worldcubeassociation.org/competitions/Michigan2019/results/podiums) |
 | 11 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [Minas Open 2008](https://www.worldcubeassociation.org/competitions/MinasOpen2008/results/podiums) |
@@ -1217,6 +1218,7 @@
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [SNU Open 2017](https://www.worldcubeassociation.org/competitions/SNUOpen2017/results/podiums) |
 | 10 | [Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02) | [SNU Open 2018](https://www.worldcubeassociation.org/competitions/SNUOpen2018/results/podiums) |
 | 10 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | [SoCal 2016](https://www.worldcubeassociation.org/competitions/SoCal2016/results/podiums) |
+| 11 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | [Sogndal Open 2025](https://www.worldcubeassociation.org/competitions/SogndalOpen2025/results/podiums) |
 | 10 | [Armax Zander Guevara](https://www.worldcubeassociation.org/persons/2023GUEV06) | [SolveIt Bahrain 2025](https://www.worldcubeassociation.org/competitions/SolveItBahrain2025/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
 | 10 | [Will Gurnett](https://www.worldcubeassociation.org/persons/2016GURN01) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
@@ -1303,6 +1305,7 @@
 | 10 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Taman Anggrek Speedcubing 2023](https://www.worldcubeassociation.org/competitions/TamanAnggrekSpeedcubing2023/results/podiums) |
 | 10 | [Antonio Gabriel Freitas da Silva](https://www.worldcubeassociation.org/persons/2015SILV55) | [Tambaqui Plaza Open 2018](https://www.worldcubeassociation.org/competitions/Tambaqui2018/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Tårnby Cube Træf 2018](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2018/results/podiums) |
+| 10 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | [Tarraco Open 2025](https://www.worldcubeassociation.org/competitions/TarracoOpen2025/results/podiums) |
 | 13 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
 | 12 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
 | 11 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Summer 2025](https://www.worldcubeassociation.org/competitions/TassieSummer2025/results/podiums) |

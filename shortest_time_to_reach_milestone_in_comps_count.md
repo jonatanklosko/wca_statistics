@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 November 2025*
+*Updated on 28 November 2025*
 
 
 ### 300 Competitions
@@ -104,6 +104,7 @@
 | 1051 | [Zoei Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) |
 | 1065 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 1080 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
+| 1080 | [Zian Principe](https://www.worldcubeassociation.org/persons/2022PRIN08) |
 | 1093 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 1093 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
 | 1407 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
@@ -114,7 +115,6 @@
 | 1701 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 1744 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 1757 | [Keenan Darkins](https://www.worldcubeassociation.org/persons/2019DARK02) |
 
 ### 50 Competitions
 

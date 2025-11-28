@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 November 2025*
+*Updated on 28 November 2025*
 
 
 ### Rubik's Cube
@@ -9,15 +9,15 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 4.09 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3.52, 4.73, 3.80, 3.56, 4.56, 6.41, 4.04, 4.03, 4.08, 4.53, 3.45, 4.00 |
-| 4.31 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 4.55, 5.39, 4.53, 3.55, 4.56, 4.61, 3.46, 5.10, 4.33, 3.78, 4.36, 3.72 |
+| 4.30 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 4.07, 4.48, 4.48, 4.58, 3.56, 4.49, 4.40, 4.56, 3.56, 4.19, 5.28, 4.19 |
 | 4.68 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 5.26, 4.07, 4.64, 4.70, 5.11, 4.96, 4.01, 4.41, 4.67, 4.39, 5.18, 4.68 |
 | 4.83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.88, 4.20, 5.80, 4.96, 4.54, 5.29, 4.86, 5.55, 4.84, 4.03, 4.28, 4.88 |
 | 5.03 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.56, 4.88, 5.38, 4.37, 7.30, 5.01, 5.59, 5.18, 4.61, 4.92, 4.56, 4.64 |
 | 5.07 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.25, 4.43, 5.73, 5.40, 5.84, 4.43, 4.39, 4.84, 7.31, 4.83, 5.46, 4.47 |
 | 5.09 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 5.18, 4.01, 4.87, 4.60, 6.12, 5.56, 5.48, 5.53, 4.69, 4.92, 5.79, 4.25 |
+| 5.10 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 4.72, 4.96, 4.88, 4.79, 5.19, 4.72, 6.21, 4.69, 5.45, 4.89, 7.22, 5.23 |
 | 5.12 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 7.86, 4.60, 4.74, 4.70, 4.63, 4.76, 5.88, 5.08, 4.64, 5.47, 5.05, 6.22 |
 | 5.15 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 5.08, 5.02, 4.12, 5.04, 6.16, 5.33, 5.79, 5.56, 4.35, 5.79, 4.72, 4.85 |
-| 5.19 | [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) | 5.56, 5.20, 6.21, 4.02, 5.23, 5.26, 5.33, 4.84, 4.82, 4.68, 5.95, 5.04 |
 
 ### 2x2x2 Cube
 
@@ -175,6 +175,7 @@
 | ---: | :--- | :--- |
 | 2.32 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | 2.14, 6.07, 2.57, 2.43, 2.10, 2.20, 2.22, 2.26, 2.36, 2.65, 2.28, 1.82 |
 | 2.50 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.20, 2.31, 2.78, 2.45, 3.48, 2.96, 2.46, 2.24, 2.29, 2.43, 2.69, 2.35 |
+| 2.65 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 2.58, 3.16, 2.66, 2.14, 3.27, 2.75, 2.82, 2.46, 2.48, 2.35, 2.57, 2.68 |
 | 2.76 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 2.00, 2.94, 2.92, 2.74, 2.42, 6.37, 3.50, 2.92, 2.04, 2.62, 2.95, 2.52 |
 | 2.76 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.55, 2.98, DNF, 2.48, 3.01, 2.52, 3.52, 2.36, 2.20, 3.06, 2.50, 2.57 |
 | 2.83 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | 2.54, 2.68, 4.14, 3.60, 2.83, 2.92, 3.15, 2.35, 2.70, 2.88, 2.61, 2.36 |
@@ -182,7 +183,6 @@
 | 2.91 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | 4.02, 2.34, 3.21, 2.88, 4.14, 3.50, 2.11, 2.34, 2.32, 2.20, 3.04, 3.27 |
 | 2.92 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.59, 2.78, 3.12, 5.68, 2.56, 2.56, 2.65, 3.96, 3.51, 2.54, 2.61, 2.84 |
 | 2.93 | [Lachlan Adams-Romyn](https://www.worldcubeassociation.org/persons/2022ADAM01) | 2.75, 3.09, 4.63, 3.17, 3.36, 2.39, 2.56, 2.51, 3.20, 2.64, 3.17, 2.83 |
-| 2.96 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 2.91, 2.96, 2.42, 2.86, 3.05, 7.09, 3.05, 3.53, 3.07, 2.25, 3.21, 2.57 |
 
 ### Skewb
 
@@ -236,6 +236,7 @@
 | 6:17.52 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 7:03.67, 6:55.16, 6:33.16, 6:49.43, 6:03.21, 6:32.35, 6:56.63, 4:39.12, 4:20.84, 5:14.92, DNF, 6:07.51 |
 | 8:42.94 | [Michael Ngan (顏律言)](https://www.worldcubeassociation.org/persons/2016NGAN02) | DNF, 8:34.14, 6:11.32, 8:55.04, 8:06.72, 9:53.98, 7:40.37, 8:10.89, 9:09.91, 10:00.00, 7:45.47, 8:52.87 |
 | 10:19.58 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 11:40.00, 8:36.88, 10:32.00, DNF, 9:10.54, 8:49.83, 9:08.65, 9:07.15, 8:36.70, 8:29.70, 14:29.00, 13:05.00 |
+| 15:14.90 | [Claudio Fabrizio Scalia](https://www.worldcubeassociation.org/persons/2018SCAL02) | 15:14.00, 13:58.00, 16:06.00, 12:32.00, 14:07.00, 16:00.00, 15:12.00, 16:30.00, 16:34.00, DNF, 14:54.00, 13:54.00 |
 | 15:58.10 | [Angelo Melera](https://www.worldcubeassociation.org/persons/2022MELE01) | 13:10.00, 14:52.00, 14:02.00, DNF, 14:50.00, 14:24.00, 14:49.00, 21:12.00, 14:46.00, 18:00.00, 19:04.00, 13:42.00 |
 
 ### 3x3x3 With Feet

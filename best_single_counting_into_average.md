@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 November 2025*
+*Updated on 28 November 2025*
 
 
 ### Rubik's Cube
@@ -12,11 +12,11 @@
 | 3.56 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xuzhou Open 2025](https://www.worldcubeassociation.org/competitions/XuzhouOpen2025/results/by_person#2019WANY36) |
 | 3.57 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025/results/by_person#2019WANY36) |
 | 3.62 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025/results/by_person#2019WANY36) |
+| 3.64 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Beijing Only 3x3 2025](https://www.worldcubeassociation.org/competitions/BeijingOnly3x32025/results/by_person#2019WANY36) |
 | 3.68 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Singapore Mofunland Cruise 2025](https://www.worldcubeassociation.org/competitions/SingaporeMofunlandCruise2025/results/by_person#2019WANY36) |
 | 3.68 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Guilin Open 2025](https://www.worldcubeassociation.org/competitions/GuilinOpen2025/results/by_person#2019WANY36) |
 | 3.71 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xi'an Autumn 2025](https://www.worldcubeassociation.org/competitions/XianAutumn2025/results/by_person#2019WANY36) |
 | 3.73 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025/results/by_person#2019WANY36) |
-| 3.74 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Lishui Open 2025](https://www.worldcubeassociation.org/competitions/LishuiOpen2025/results/by_person#2019WANY36) |
 
 ### 2x2x2 Cube
 

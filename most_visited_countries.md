@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 25 November 2025*
+*Updated on 28 November 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -63,6 +63,7 @@
 | 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 19 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 19 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
+| 19 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 19 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 19 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
@@ -77,8 +78,7 @@
 | 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
 | 18 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 18 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
-| 18 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
-| 18 | [Jochen Bauer](https://www.worldcubeassociation.org/persons/2018BAUE04) |
+| 18 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 18 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
@@ -87,7 +87,7 @@
 | 18 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 18 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 18 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 18 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
+| 18 | [Jochen Bauer](https://www.worldcubeassociation.org/persons/2018BAUE04) |
 | 17 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 17 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 17 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |

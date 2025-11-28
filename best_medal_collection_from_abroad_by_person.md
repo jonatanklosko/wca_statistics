@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 November 2025*
+*Updated on 28 November 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -9,21 +9,21 @@
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **356** | 77 | 36 | 469 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 204 | 125 | 663 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **280** | 152 | 109 | 541 |
-| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **240** | 185 | 140 | 565 |
+| [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **240** | 186 | 141 | 567 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **226** | 67 | 34 | 327 |
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **220** | 201 | 119 | 540 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **210** | 27 | 12 | 249 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **206** | 62 | 21 | 289 |
-| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **189** | 109 | 54 | 352 |
+| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **190** | 111 | 54 | 355 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **186** | 71 | 40 | 297 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **147** | 162 | 139 | 448 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **140** | 74 | 43 | 257 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **130** | 103 | 84 | 317 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **127** | 62 | 46 | 235 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **126** | 43 | 15 | 184 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **122** | 124 | 73 | 319 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **120** | 43 | 15 | 178 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **116** | 107 | 101 | 324 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **110** | 39 | 21 | 170 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **109** | 122 | 108 | 339 |
@@ -81,11 +81,11 @@
 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | **50** | 13 | 4 | 67 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **50** | 6 | 3 | 59 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | **49** | 44 | 40 | 133 |
-| [Olivier Vos](https://www.worldcubeassociation.org/persons/2016VOSO01) | **49** | 24 | 24 | 97 |
+| [Olivier Vos](https://www.worldcubeassociation.org/persons/2016VOSO01) | **49** | 25 | 24 | 98 |
 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) | **48** | 46 | 44 | 138 |
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **48** | 43 | 30 | 121 |
 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | **48** | 30 | 39 | 117 |
-| [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) | **48** | 29 | 22 | 99 |
+| [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) | **48** | 29 | 24 | 101 |
 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) | **47** | 38 | 33 | 118 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | **47** | 9 | 8 | 64 |
 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | **46** | 61 | 31 | 138 |

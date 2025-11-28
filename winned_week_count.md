@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 25 November 2025*
+*Updated on 28 November 2025*
 
 
 ### Rubik's Cube
@@ -9,7 +9,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 62 |
-| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 52 |
+| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 53 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 46 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 37 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 32 |
@@ -24,10 +24,10 @@
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 12 |
 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | 12 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 12 |
-| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 12 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 11 |
 | [Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01) | 11 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 11 |
+| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 11 |
 
 ### 2x2x2 Cube
 
@@ -166,8 +166,8 @@
 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) | 23 |
 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) | 21 |
 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | 21 |
-| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 21 |
 | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) | 20 |
+| [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 20 |
 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) | 19 |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | 18 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 17 |
@@ -234,7 +234,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 57 |
-| [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 39 |
+| [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 40 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 36 |
 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 29 |
 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 28 |
@@ -246,8 +246,8 @@
 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 17 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | 16 |
 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 15 |
-| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 14 |
 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) | 13 |
+| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 13 |
 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 13 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 12 |
 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 12 |

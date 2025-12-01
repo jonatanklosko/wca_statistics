@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -723,6 +723,7 @@
 | 4795 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 4809 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 4838 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
+| 4845 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 4895 | [Hiroto Fujita (藤田浩斗)](https://www.worldcubeassociation.org/persons/2012FUJI01) |
 | 4906 | [José David Castiblanco Marin](https://www.worldcubeassociation.org/persons/2012MARI04) |
 | 4984 | [Nikolai Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) |

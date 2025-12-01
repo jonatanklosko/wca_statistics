@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 
 ### Rubik's Cube
@@ -104,10 +104,10 @@
 | 73 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | [Rockies Rager Fall 2022](https://www.worldcubeassociation.org/competitions/RockiesRagerFall2022) |
 | 72 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | [North Highlands Summer 2023](https://www.worldcubeassociation.org/competitions/NorthHighlandsSummer2023) |
 | 71 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | [GAN Odd-yssey Ortigas 2025](https://www.worldcubeassociation.org/competitions/GANOddysseyOrtigas2025) |
+| 67 | [Luis Kleinheinz](https://www.worldcubeassociation.org/persons/2017KLEI02) | [Rahn Education Advent Open 2025](https://www.worldcubeassociation.org/competitions/RahnEducationAdventOpen2025) |
 | 66 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Hessen Open 2015](https://www.worldcubeassociation.org/competitions/HessenOpen2015) |
 | 66 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | [Avenida Chile XXIII 2025](https://www.worldcubeassociation.org/competitions/AvenidaChileXXIII2025) |
 | 65 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Eagle of the East 2018](https://www.worldcubeassociation.org/competitions/EagleoftheEast2018) |
-| 63 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [CCPA Open 2019](https://www.worldcubeassociation.org/competitions/CCPAOpen2019) |
 
 ### 3x3x3 Fewest Moves
 

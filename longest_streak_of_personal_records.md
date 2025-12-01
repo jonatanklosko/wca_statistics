@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -32,12 +32,12 @@
 | 62 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Rapid Dash Open 2012](https://www.worldcubeassociation.org/competitions/RapidashOpen2012) | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
 | 61 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | [Amstelveen Open 2012](https://www.worldcubeassociation.org/competitions/AmstelveenOpen2012) |  |
 | 60 | [Hannes Müller](https://www.worldcubeassociation.org/persons/2018MULL07) | [Schwandorf Open 2018](https://www.worldcubeassociation.org/competitions/SchwandorfOpen2018) |  |
+| 59 | [Leo Alanen](https://www.worldcubeassociation.org/persons/2022ALAN02) | [Pulmapelipäivät 2022](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2022) |  |
 | 58 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | [Cubetcha 2011](https://www.worldcubeassociation.org/competitions/Cubetcha2011) | [Fargo Fall 2017](https://www.worldcubeassociation.org/competitions/FargoFall2017) |
 | 58 | [Linus Buck](https://www.worldcubeassociation.org/persons/2016BUCK01) | [Hessen Open 2016](https://www.worldcubeassociation.org/competitions/HessenOpen2016) | [OH My March Singapore 2025](https://www.worldcubeassociation.org/competitions/OHMyMarchSingapore2025) |
 | 58 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [MCC Beta 2016](https://www.worldcubeassociation.org/competitions/MichiganCubingClubBeta2016) | [Michigan Cubing Club Gamma 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubGamma2019) |
 | 58 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | [Michigan 2016](https://www.worldcubeassociation.org/competitions/Michigan2016) | [Imagination Station A 2023](https://www.worldcubeassociation.org/competitions/ImaginationStationA2023) |
 | 58 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | [FME & Cubo y Calla 2016](https://www.worldcubeassociation.org/competitions/FMECuboyCalla2016) | [Tarragona Open 2024](https://www.worldcubeassociation.org/competitions/TarragonaOpen2024) |
-| 58 | [Leo Alanen](https://www.worldcubeassociation.org/persons/2022ALAN02) | [Pulmapelipäivät 2022](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2022) |  |
 | 57 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | [UK Championship 2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014) | [Guildford Open 2020](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020) |
 | 57 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | [Athens Fall Late Night 2016](https://www.worldcubeassociation.org/competitions/AthensFallLateNight2016) | [Cobb Cubes Comeback 2A 2021](https://www.worldcubeassociation.org/competitions/CobbCubesComeback2A2021) |
 | 57 | [Étienne Aubry](https://www.worldcubeassociation.org/persons/2018AUBR01) | [Croissy Open 2018](https://www.worldcubeassociation.org/competitions/CroissyOpen2018) | [Polytechnique Open 2024](https://www.worldcubeassociation.org/competitions/PolytechniqueOpen2024) |
@@ -88,12 +88,12 @@
 | 49 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [Flen New Year's Blind 2017](https://www.worldcubeassociation.org/competitions/FlenNewYearsBlind2017) | [Stockholmsligan 5: The Reds 2023](https://www.worldcubeassociation.org/competitions/Stockholmsligan5TheReds2023) |
 | 49 | [Peter Weyers](https://www.worldcubeassociation.org/persons/2018WEYE01) | [Lions Cubing 2018](https://www.worldcubeassociation.org/competitions/LionsCubing2018) |  |
 | 49 | [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) | [ALL1- Pittsburgh 2023](https://www.worldcubeassociation.org/competitions/ALL1Pittsburgh2023) |
+| 49 | [Felix Hincks](https://www.worldcubeassociation.org/persons/2022HINC01) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022) |  |
 | 49 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) | [Swedish Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishChampionship2022) | [SL 413: Kalle i Kubik 2024](https://www.worldcubeassociation.org/competitions/SL413KalleiKubik2024) |
 | 48 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Norwich Summer 2015](https://www.worldcubeassociation.org/competitions/NorwichSummer2015) | [GA Cubers Greetings 2022](https://www.worldcubeassociation.org/competitions/GACubersGreetings2022) |
 | 48 | [Serafim Weiß](https://www.worldcubeassociation.org/persons/2018WEIS10) | [Franconia Open 2018](https://www.worldcubeassociation.org/competitions/FranconiaOpen2018) |  |
 | 48 | [Takeru Victor Muto Asmund](https://www.worldcubeassociation.org/persons/2020ASMU01) | [Lonely Denmark 2020](https://www.worldcubeassociation.org/competitions/LonelyDenmark2020) |  |
 | 48 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | [Bucharest Autumn Cubing A 2023](https://www.worldcubeassociation.org/competitions/BucharestAutumnCubingA2023) |
-| 48 | [Felix Hincks](https://www.worldcubeassociation.org/persons/2022HINC01) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022) |  |
 | 48 | [John Wanger II](https://www.worldcubeassociation.org/persons/2022WANG39) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022) |  |
 | 48 | [Eli Sanderson](https://www.worldcubeassociation.org/persons/2022SAND23) | [Get to the Point 2022](https://www.worldcubeassociation.org/competitions/GettothePoint2022) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | 48 | [Kévin Ky](https://www.worldcubeassociation.org/persons/2022KYKE01) | [Massy Palais'Open A 2022](https://www.worldcubeassociation.org/competitions/MassyPalaisOpenA2022) |  |

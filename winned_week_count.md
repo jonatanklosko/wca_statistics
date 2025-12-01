@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 
 ### Rubik's Cube
@@ -42,8 +42,8 @@
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 15 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | 15 |
 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) | 13 |
+| [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | 12 |
 | [Justin Jaffray](https://www.worldcubeassociation.org/persons/2008JAFF01) | 11 |
-| [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | 11 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 11 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 11 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 10 |
@@ -336,8 +336,8 @@
 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 35 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 34 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 32 |
+| [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 28 |
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | 27 |
-| [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 27 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 23 |
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 23 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | 21 |
@@ -360,7 +360,7 @@
 | :--- | ---: |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 68 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 36 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 32 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 33 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 19 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 16 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 16 |
@@ -384,8 +384,8 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 52 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 32 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 31 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 31 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 28 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 27 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 22 |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -635,6 +635,8 @@
 | 10 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Hungarian Open 2015](https://www.worldcubeassociation.org/competitions/HungarianOpen2015/results/podiums) |
 | 11 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Hungarian Open 2025](https://www.worldcubeassociation.org/competitions/HungarianOpen2025/results/podiums) |
 | 10 | [Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01) | [Hunter Open 2015](https://www.worldcubeassociation.org/competitions/HunterOpen2015/results/podiums) |
+| 10 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Hvidovre Open 2025](https://www.worldcubeassociation.org/competitions/HvidovreOpen2025/results/podiums) |
+| 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Hvidovre Open 2025](https://www.worldcubeassociation.org/competitions/HvidovreOpen2025/results/podiums) |
 | 11 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Hvidovre Sommer 2023](https://www.worldcubeassociation.org/competitions/HvidovreSommer2023/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Hvidovre Sommer 2023](https://www.worldcubeassociation.org/competitions/HvidovreSommer2023/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Hvidovre Sommer 2024](https://www.worldcubeassociation.org/competitions/HvidovreSommer2024/results/podiums) |
@@ -939,6 +941,9 @@
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019/results/podiums) |
 | 10 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Norrköping Open 2009](https://www.worldcubeassociation.org/competitions/NorrkopingOpen2009/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norrlandsmästerskapet 2024](https://www.worldcubeassociation.org/competitions/Norrlandsmasterskapet2024/results/podiums) |
+| 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norrlandsmästerskapet 2025](https://www.worldcubeassociation.org/competitions/Norrlandsmasterskapet2025/results/podiums) |
+| 12 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) | [Norrlandsmästerskapet 2025](https://www.worldcubeassociation.org/competitions/Norrlandsmasterskapet2025/results/podiums) |
+| 10 | [Jack Larsson Backsell](https://www.worldcubeassociation.org/persons/2021BACK01) | [Norrlandsmästerskapet 2025](https://www.worldcubeassociation.org/competitions/Norrlandsmasterskapet2025/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norrland Tour: Kubfors 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourKubfors2025/results/podiums) |
 | 12 | [Jack Larsson Backsell](https://www.worldcubeassociation.org/persons/2021BACK01) | [Norrland Tour: Kubfors 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourKubfors2025/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Norrland Tour: Umekuben 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourUmekuben2025/results/podiums) |
@@ -1347,6 +1352,7 @@
 | 10 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Spring Open 2017](https://www.worldcubeassociation.org/competitions/TunisiaSpringOpen2017/results/podiums) |
 | 10 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Winter Open 2018](https://www.worldcubeassociation.org/competitions/TunisiaWinterOpen2018/results/podiums) |
 | 10 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Winter Open Day 2017](https://www.worldcubeassociation.org/competitions/TunisiaWinterOpenDay2017/results/podiums) |
+| 11 | [Samuel Barbosa Pinheiro](https://www.worldcubeassociation.org/persons/2023PINH03) | [Tuparendi Open Quati 2025](https://www.worldcubeassociation.org/competitions/TuparendiOpenQuati2025/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Cubing Tour Ankara 2020](https://www.worldcubeassociation.org/competitions/TurkishCubingTourAnkara2020/results/podiums) |
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Nationals 2023](https://www.worldcubeassociation.org/competitions/TurkishNationals2023/results/podiums) |
 | 14 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Turkish Nationals 2024](https://www.worldcubeassociation.org/competitions/TurkishNationals2024/results/podiums) |

@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 
 ### Rubik's Cube
@@ -175,14 +175,14 @@
 | ---: | :--- | :--- |
 | 2.32 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | 2.14, 6.07, 2.57, 2.43, 2.10, 2.20, 2.22, 2.26, 2.36, 2.65, 2.28, 1.82 |
 | 2.50 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.20, 2.31, 2.78, 2.45, 3.48, 2.96, 2.46, 2.24, 2.29, 2.43, 2.69, 2.35 |
-| 2.65 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 2.58, 3.16, 2.66, 2.14, 3.27, 2.75, 2.82, 2.46, 2.48, 2.35, 2.57, 2.68 |
+| 2.59 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 2.14, 3.27, 2.75, 2.82, 2.46, 2.48, 2.35, 2.57, 2.68, 2.85, 2.70, 2.25 |
 | 2.76 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 2.00, 2.94, 2.92, 2.74, 2.42, 6.37, 3.50, 2.92, 2.04, 2.62, 2.95, 2.52 |
 | 2.76 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.55, 2.98, DNF, 2.48, 3.01, 2.52, 3.52, 2.36, 2.20, 3.06, 2.50, 2.57 |
 | 2.83 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | 2.54, 2.68, 4.14, 3.60, 2.83, 2.92, 3.15, 2.35, 2.70, 2.88, 2.61, 2.36 |
 | 2.84 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 2.89, 2.91, 2.68, 2.63, 2.44, 3.04, 3.08, DNF, 2.66, 2.48, 2.94, 3.13 |
+| 2.90 | [Jonathan Wang (王嘉洺)](https://www.worldcubeassociation.org/persons/2022WANG23) | 2.10, 2.67, DNF, 2.41, 3.44, 4.13, 2.44, 2.38, 3.10, 2.42, 3.30, 2.67 |
 | 2.91 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | 4.02, 2.34, 3.21, 2.88, 4.14, 3.50, 2.11, 2.34, 2.32, 2.20, 3.04, 3.27 |
 | 2.92 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.59, 2.78, 3.12, 5.68, 2.56, 2.56, 2.65, 3.96, 3.51, 2.54, 2.61, 2.84 |
-| 2.93 | [Lachlan Adams-Romyn](https://www.worldcubeassociation.org/persons/2022ADAM01) | 2.75, 3.09, 4.63, 3.17, 3.36, 2.39, 2.56, 2.51, 3.20, 2.64, 3.17, 2.83 |
 
 ### Skewb
 

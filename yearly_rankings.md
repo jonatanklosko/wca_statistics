@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 
 ### Rubik's Cube - Single
@@ -193,11 +193,11 @@
 | [Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01) | **13.76** | France | [Strossburi Open 2025](https://www.worldcubeassociation.org/competitions/StrossburiOpen2025) | 13.76, DNF, DNF |
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **13.86** | United States | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025) | 13.86, DNF, 16.84 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **14.05** | Argentina | [Championnat Canadien 2025](https://www.worldcubeassociation.org/competitions/ChampionnatCanadien2025) | 14.05, 19.97, 20.35 |
+| [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **14.79** | Austria | [PBQ Madness in Dobřejovice 2025](https://www.worldcubeassociation.org/competitions/PBQMadnessinDobrejovice2025) | 14.79, 18.48, 20.74 |
 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **14.81** | China | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025) | DNF, 16.36, 14.81 |
 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | **14.88** | United States | [DFW Mega Mental Breakdown 2025](https://www.worldcubeassociation.org/competitions/DFWMegaMentalBreakdown2025) | DNF, 14.88, DNF |
 | [Gavriel Johann Arcilla](https://www.worldcubeassociation.org/persons/2023ARCI02) | **15.01** | Philippines | [Rizal Raise a Silence 2025](https://www.worldcubeassociation.org/competitions/RizalRaiseaSilence2025) | DNF, 15.01, DNF |
 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **15.04** | Canada | [Championnat Canadien 2025](https://www.worldcubeassociation.org/competitions/ChampionnatCanadien2025) | DNF, 15.04, 18.14 |
-| [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **15.10** | United States | [Airplane Mode XV OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVOH2025) | 30.88, DNF, 15.10 |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -251,13 +251,13 @@
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **6.05** | United Kingdom | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 12.45, 6.05, 9.22, 9.77, 7.82 |
 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | **6.19** | Indonesia | [Jawa Timur Open 2025](https://www.worldcubeassociation.org/competitions/JawaTimurOpen2025) | 12.27, 13.84, 13.71, 12.68, 6.19 |
 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | **6.21** | Switzerland | [Swisscubing Cup MB II 2025](https://www.worldcubeassociation.org/competitions/SwisscubingCupMBII2025) | 14.19, 11.52, 6.21, 8.84, 8.12 |
+| [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **6.35** | Romania | [Ploiesti Cubing 2025](https://www.worldcubeassociation.org/competitions/PloiestiCubing2025) | 11.78, 8.29, 6.35, 8.81, 10.05 |
 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **6.43** | United States | [Brazos Cubing Spring 2025](https://www.worldcubeassociation.org/competitions/BrazosCubingSpring2025) | 10.66, 15.61, 11.64, 14.12, 6.43 |
 | [Jonas Pilhöfer](https://www.worldcubeassociation.org/persons/2019PILH01) | **6.46** | Germany | [Mainzelcubing 2025](https://www.worldcubeassociation.org/competitions/Mainzelcubing2025) | 11.95, 14.71, 11.69, 9.39, 6.46 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **6.49** | Russia | [Kublördag Västerås VIII - 2025](https://www.worldcubeassociation.org/competitions/KublordagVasterasVIII2025) | 9.77, 6.49, 11.76, 10.02, 10.44 |
 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) | **6.50** | Philippines | [Berkeley November Weekday 2025](https://www.worldcubeassociation.org/competitions/BerkeleyNovemberWeekday2025) | 9.48, 9.48, 9.86, 6.50, 10.01 |
 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | **6.52** | Switzerland | [Sorg'Open 2025](https://www.worldcubeassociation.org/competitions/SorgOpen2025) | 8.66, 8.37, 11.55, 8.88, 6.52 |
 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | **6.60** | China | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025) | 6.60, 12.56, 10.60, 9.23, 9.22 |
-| [Nipun Das](https://www.worldcubeassociation.org/persons/2017DASN01) | **6.61** | United States | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 10.15, 10.84, 11.75, 6.61, 11.94 |
 
 ### 3x3x3 One-Handed - Average
 
@@ -430,13 +430,13 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **54.92** | United States | [CubingUSA All-Stars 2025](https://www.worldcubeassociation.org/competitions/CubingUSAAllStars2025) | 1:10.45, 54.92, 1:03.50 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **1:07.48** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 1:07.48, DNF, DNF |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1:12.45** | Sweden | [Norrlandsmästerskapet 2025](https://www.worldcubeassociation.org/competitions/Norrlandsmasterskapet2025) | 1:23.80, DNF, 1:12.45 |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **1:16.43** | Argentina | [Championnat Canadien 2025](https://www.worldcubeassociation.org/competitions/ChampionnatCanadien2025) | 1:16.43, DNF, 1:22.29 |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **1:28.23** | Australia | [Cubing at The Cube 2025](https://www.worldcubeassociation.org/competitions/CubingatTheCube2025) | 1:28.23, DNF, DNF |
 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **1:29.16** | Austria | [KoprCube Blind 2025](https://www.worldcubeassociation.org/competitions/KoprCubeBlind2025) | 1:29.16, DNF, DNF |
 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **1:29.37** | Australia | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025) | DNF, 1:29.37, 1:51.75 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **1:30.13** | Switzerland | [Swiss Nationals 2025](https://www.worldcubeassociation.org/competitions/SwissNationals2025) | 1:30.13, DNF, DNF |
 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **1:30.48** | Republic of Korea | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025) | 1:30.48, 2:35.08, 1:48.77 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1:31.40** | Sweden | [Norrland Tour: Umekuben 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourUmekuben2025) | DNF, 1:53.88, 1:31.40 |
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **1:32.61** | United States | [Please Be Quiet UMBC 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietUMBC2025) | 1:34.81, DNF, 1:32.61 |
 
 ### 4x4x4 Blindfolded - Average
@@ -474,7 +474,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **3:11.65** | Switzerland | [Swiss Nationals 2025](https://www.worldcubeassociation.org/competitions/SwissNationals2025) | 3:28.30, 2:47.94, 3:18.71 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4:07.29** | Sweden | [Sörmland Open 2025](https://www.worldcubeassociation.org/competitions/SormlandOpen2025) | 3:44.85, 4:13.34, 4:23.69 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4:07.09** | Sweden | [Norrlandsmästerskapet 2025](https://www.worldcubeassociation.org/competitions/Norrlandsmasterskapet2025) | 4:44.85, 3:50.35, 3:46.07 |
 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **4:56.25** | Republic of Korea | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025) | 4:26.51, 4:16.93, 6:05.32 |
 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **5:43.93** | China | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 5:59.85, 6:21.68, 4:50.26 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **5:57.86** | United States | [DFW Mega Mental Breakdown 2025](https://www.worldcubeassociation.org/competitions/DFWMegaMentalBreakdown2025) | 5:48.88, 7:05.94, 4:58.76 |

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 
 ### Rubik's Cube
@@ -181,8 +181,8 @@
 | 2.50 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 2.82, 2.46, 2.48, 2.35, 2.57 |
 | 2.56 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | 2.35, 2.70, 2.88, 2.61, 2.36 |
 | 2.57 | [Lachlan Adams-Romyn](https://www.worldcubeassociation.org/persons/2022ADAM01) | 2.39, 2.56, 2.51, 3.20, 2.64 |
+| 2.65 | [Jonathan Wang (王嘉洺)](https://www.worldcubeassociation.org/persons/2022WANG23) | 4.13, 2.44, 2.38, 3.10, 2.42 |
 | 2.65 | [Alessandro Diomampo](https://www.worldcubeassociation.org/persons/2023DIOM01) | 2.35, 3.09, 2.55, 2.24, 3.06 |
-| 2.67 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 2.46, 3.11, 2.29, 4.77, 2.45 |
 
 ### Skewb
 
@@ -239,8 +239,8 @@
 | 3:25.88 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 3:16.92, DNF, 3:24.64, 3:08.14, 3:36.07 |
 | 3:27.90 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:21.84, 3:33.47, 3:06.91, DNF, 3:28.38 |
 | 3:27.90 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 3:15.68, 3:34.04, DNF, 3:33.97, 2:58.31 |
+| 4:01.04 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 3:06.34, 3:27.92, DNF, 4:44.85, 3:50.35 |
 | 4:10.73 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | 4:02.12, 2:57.34, DNF, 3:41.69, 4:48.38 |
-| 4:15.39 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 3:56.14, 3:58.55, 3:46.48, 5:12.40, 4:51.48 |
 | 4:18.48 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | DNF, 4:00.53, 4:25.98, 4:28.94, 3:33.98 |
 | 4:25.46 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4:30.97, 4:39.16, 4:06.26, DNF, 3:34.45 |
 

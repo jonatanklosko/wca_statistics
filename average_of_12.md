@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 
 ### Rubik's Cube
@@ -113,7 +113,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 20.80 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 23, 19, 21, 21, 22, 25, 21, 19, 20, 22, 20, 19 |
+| 20.40 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 19, 21, 21, 22, 25, 21, 19, 20, 22, 20, 19, 18 |
 | 20.90 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 21, 19, 21, 20, 19, 21, 23, 20, 27, 24, 20, 20 |
 | 21.20 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 20, 22, 20, 21, 20, 24, 21, 23, 20, 24, 21, 19 |
 | 21.20 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 20, 22, 21, 21, 20, 20, 22, 22, 22, DNF, 20, 22 |

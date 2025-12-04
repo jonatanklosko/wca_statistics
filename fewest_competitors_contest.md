@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -465,6 +465,7 @@
 | 11 | [OSU Blind Weekend 2018](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2018) |
 | 11 | [Ōtepoti Big Cubes 2025](https://www.worldcubeassociation.org/competitions/OtepotiBigCubes2025) |
 | 11 | [PBQ Berkeley Fall 2019](https://www.worldcubeassociation.org/competitions/PBQBerkeleyFall2019) |
+| 11 | [PBQ Kuala Lumpur 2025](https://www.worldcubeassociation.org/competitions/PBQKualaLumpur2025) |
 | 11 | [PBQ Ropaži 2024](https://www.worldcubeassociation.org/competitions/PBQRopazi2024) |
 | 11 | [PBQtah 4 2022](https://www.worldcubeassociation.org/competitions/PBQtah42022) |
 | 11 | [PBQtah 5 2023](https://www.worldcubeassociation.org/competitions/PBQtah52023) |

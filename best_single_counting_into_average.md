@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 
 ### Rubik's Cube
@@ -132,11 +132,11 @@
 | 1.22 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/by_person#2022SAMS03) |
 | 1.23 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025/results/by_person#2022SAMS03) |
 | 1.24 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | [Sarriguren Open 2025](https://www.worldcubeassociation.org/competitions/SarrigurenOpen2025/results/by_person#2023LANG03) |
+| 1.26 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Minnesota Championship 2025](https://www.worldcubeassociation.org/competitions/MinnesotaChampionship2025/results/by_person#2015KUCA01) |
 | 1.29 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | [Slovak Championship 2025](https://www.worldcubeassociation.org/competitions/SlovakChampionship2025/results/by_person#2021GROH01) |
 | 1.30 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
 | 1.30 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [New Jersey Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyChampionship2024/results/by_person#2018KHAN28) |
 | 1.31 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | [Hefei Open 2025](https://www.worldcubeassociation.org/competitions/HefeiOpen2025/results/by_person#2023GUOK01) |
-| 1.32 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | [Trains on Main La Grange 2024](https://www.worldcubeassociation.org/competitions/TrainsonMainLaGrange2024/results/by_person#2019REDI02) |
 
 ### Square-1
 

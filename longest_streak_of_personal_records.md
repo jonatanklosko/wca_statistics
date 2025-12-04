@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -64,7 +64,6 @@
 | 52 | [Tristan Paulussen](https://www.worldcubeassociation.org/persons/2009PAUL01) | [Dutch Open 2009](https://www.worldcubeassociation.org/competitions/DutchOpen2009) |  |
 | 52 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Swedish Championship 2021](https://www.worldcubeassociation.org/competitions/SwedishChampionship2021) | [Kublördag Jönköping IV - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingIV2024) |
 | 52 | [Atilla Kopecky](https://www.worldcubeassociation.org/persons/2022KOPE01) | [Pulmapelipäivät 2022](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2022) | [Linz Summer 2025](https://www.worldcubeassociation.org/competitions/LinzSummer2025) |
-| 52 | [Ankit A](https://www.worldcubeassociation.org/persons/2023AANK01) | [Mysore Cube Open 2023](https://www.worldcubeassociation.org/competitions/MysoreCubeOpen2023) | [VR Bengaluru Cube Open B 2025](https://www.worldcubeassociation.org/competitions/VRBengaluruCubeOpenB2025) |
 | 51 | [Diego Fraile](https://www.worldcubeassociation.org/persons/2013FRAI01) | [Bussières Open 2013](https://www.worldcubeassociation.org/competitions/BussieresOpen2013) | [Polytechnique Open 2024](https://www.worldcubeassociation.org/competitions/PolytechniqueOpen2024) |
 | 51 | [Garrett Hadaway](https://www.worldcubeassociation.org/persons/2015HADA01) | [Indiana 2015](https://www.worldcubeassociation.org/competitions/Indiana2015) | [Appalachian Highlands TN 2024](https://www.worldcubeassociation.org/competitions/AppalachianHighlandsTN2024) |
 | 51 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | [For The Love Of Cubing 2016](https://www.worldcubeassociation.org/competitions/ForTheLoveOfCubing2016) | [Big Cubes for Dunwoody 2020](https://www.worldcubeassociation.org/competitions/BigCubesforDunwoody2020) |
@@ -83,21 +82,22 @@
 | 49 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) | [Ekonomik Elektryk Cube Race 2018](https://www.worldcubeassociation.org/competitions/EkonomikElektrykCubeRace2018) |
 | 49 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | [Shepparton Autumn 2014](https://www.worldcubeassociation.org/competitions/SheppartonAutumn2014) | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023) |
 | 49 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) | [Chambéry Cube Open 2015](https://www.worldcubeassociation.org/competitions/ChamberyCube2015) | [Warm Up Stockholm 2022](https://www.worldcubeassociation.org/competitions/WarmUpStockholm2022) |
-| 49 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016) | [Apollo Bay Cubing 2022](https://www.worldcubeassociation.org/competitions/ApolloBayCubing2022) |
 | 49 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | [Shanghai Spring 2016](https://www.worldcubeassociation.org/competitions/ShanghaiSpring2016) | [Nanchang Medium & Small 2018](https://www.worldcubeassociation.org/competitions/NanchangMediumnSmallCubes2018) |
+| 49 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016) | [Apollo Bay Cubing 2022](https://www.worldcubeassociation.org/competitions/ApolloBayCubing2022) |
 | 49 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [Flen New Year's Blind 2017](https://www.worldcubeassociation.org/competitions/FlenNewYearsBlind2017) | [Stockholmsligan 5: The Reds 2023](https://www.worldcubeassociation.org/competitions/Stockholmsligan5TheReds2023) |
 | 49 | [Peter Weyers](https://www.worldcubeassociation.org/persons/2018WEYE01) | [Lions Cubing 2018](https://www.worldcubeassociation.org/competitions/LionsCubing2018) |  |
 | 49 | [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) | [ALL1- Pittsburgh 2023](https://www.worldcubeassociation.org/competitions/ALL1Pittsburgh2023) |
 | 49 | [Felix Hincks](https://www.worldcubeassociation.org/persons/2022HINC01) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022) |  |
+| 49 | [Kévin Ky](https://www.worldcubeassociation.org/persons/2022KYKE01) | [Massy Palais'Open A 2022](https://www.worldcubeassociation.org/competitions/MassyPalaisOpenA2022) |  |
 | 49 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) | [Swedish Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishChampionship2022) | [SL 413: Kalle i Kubik 2024](https://www.worldcubeassociation.org/competitions/SL413KalleiKubik2024) |
+| 49 | [Ian Yazid Zavala](https://www.worldcubeassociation.org/persons/2023LOPE06) | [Agoura Cubing Again 2023](https://www.worldcubeassociation.org/competitions/AgouraCubingAgain2023) |  |
 | 48 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Norwich Summer 2015](https://www.worldcubeassociation.org/competitions/NorwichSummer2015) | [GA Cubers Greetings 2022](https://www.worldcubeassociation.org/competitions/GACubersGreetings2022) |
 | 48 | [Serafim Weiß](https://www.worldcubeassociation.org/persons/2018WEIS10) | [Franconia Open 2018](https://www.worldcubeassociation.org/competitions/FranconiaOpen2018) |  |
 | 48 | [Takeru Victor Muto Asmund](https://www.worldcubeassociation.org/persons/2020ASMU01) | [Lonely Denmark 2020](https://www.worldcubeassociation.org/competitions/LonelyDenmark2020) |  |
 | 48 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | [Bucharest Autumn Cubing A 2023](https://www.worldcubeassociation.org/competitions/BucharestAutumnCubingA2023) |
+| 48 | [Xavier Lianto](https://www.worldcubeassociation.org/persons/2022LIAN01) | [Melbourne Summer 2022](https://www.worldcubeassociation.org/competitions/MelbourneSummer2022) |  |
 | 48 | [John Wanger II](https://www.worldcubeassociation.org/persons/2022WANG39) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022) |  |
 | 48 | [Eli Sanderson](https://www.worldcubeassociation.org/persons/2022SAND23) | [Get to the Point 2022](https://www.worldcubeassociation.org/competitions/GettothePoint2022) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
-| 48 | [Kévin Ky](https://www.worldcubeassociation.org/persons/2022KYKE01) | [Massy Palais'Open A 2022](https://www.worldcubeassociation.org/competitions/MassyPalaisOpenA2022) |  |
-| 48 | [Ian Yazid Zavala](https://www.worldcubeassociation.org/persons/2023LOPE06) | [Agoura Cubing Again 2023](https://www.worldcubeassociation.org/competitions/AgouraCubingAgain2023) |  |
 | 47 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | [Netherlands 2007](https://www.worldcubeassociation.org/competitions/Netherlands2007) | [Amstelveen Open 2012](https://www.worldcubeassociation.org/competitions/AmstelveenOpen2012) |
 | 47 | [Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01) | [Russia Open 2010](https://www.worldcubeassociation.org/competitions/RussiaOpen2010) | [Sergach Winter 2019](https://www.worldcubeassociation.org/competitions/SergachWinter2019) |
 | 47 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) | [Montevideo Open 2014](https://www.worldcubeassociation.org/competitions/MontevideoOpen2014) | [Altavista Side Events 2025](https://www.worldcubeassociation.org/competitions/AltavistaSideEvents2025) |

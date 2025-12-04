@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -38,8 +38,8 @@
 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) | 12.70 |
 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | 12.63 |
 | [Charl Jovan Borromeo](https://www.worldcubeassociation.org/persons/2012BORR01) | 12.63 |
-| [Toru Morooka (諸岡徹)](https://www.worldcubeassociation.org/persons/2010MORO01) | 12.59 |
 | [Ryan Harris](https://www.worldcubeassociation.org/persons/2013HARR01) | 12.59 |
+| [Toru Morooka (諸岡徹)](https://www.worldcubeassociation.org/persons/2010MORO01) | 12.59 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | 12.46 |
 | [Phopphon Suwattee (ภพพนธ์ สุวัตถี)](https://www.worldcubeassociation.org/persons/2010SUWA03) | 12.38 |
 | [Tariq Ali](https://www.worldcubeassociation.org/persons/2012ALIT01) | 12.34 |
@@ -54,8 +54,8 @@
 | [Alexander Laiche](https://www.worldcubeassociation.org/persons/2013LAIC01) | 12.00 |
 | [Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01) | 11.96 |
 | [Yannick Richter](https://www.worldcubeassociation.org/persons/2010RICH04) | 11.96 |
-| [Luke Hudlass-Galley](https://www.worldcubeassociation.org/persons/2010HUDL01) | 11.92 |
 | [Nicolás Lasso Peña](https://www.worldcubeassociation.org/persons/2013PENA05) | 11.92 |
+| [Luke Hudlass-Galley](https://www.worldcubeassociation.org/persons/2010HUDL01) | 11.92 |
 | [Phil Yu](https://www.worldcubeassociation.org/persons/2010YUPH01) | 11.90 |
 | [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 11.90 |
 | [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) | 11.88 |

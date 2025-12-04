@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 
 ### Rubik's Cube
@@ -179,10 +179,10 @@
 | 62 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
 | 56 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) | [Run and Cube Side Events NH 2025](https://www.worldcubeassociation.org/competitions/RunandCubeSideEventsNH2025) |
 | 54 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | [Arizona Speedcubing Summer 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSummer2023) |
+| 52 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [Ushuaia 2025](https://www.worldcubeassociation.org/competitions/Ushuaia2025) |
 | 51 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [Back to Berlin 2024](https://www.worldcubeassociation.org/competitions/BacktoBerlin2024) |
 | 50 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) | [Rheinland-Pfalz Open 2024](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2024) |
 | 50 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) | [Belfast Autumn 2025](https://www.worldcubeassociation.org/competitions/BelfastAutumn2025) |
-| 49 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Szczecin Winter 2022](https://www.worldcubeassociation.org/competitions/SzczecinWinter2022) |
 
 ### Skewb
 

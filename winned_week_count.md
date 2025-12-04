@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 
 ### Rubik's Cube
@@ -58,7 +58,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 107 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 108 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 93 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 65 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 53 |
@@ -109,7 +109,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 76 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 53 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 54 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 42 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 40 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 34 |
@@ -134,7 +134,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 63 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 51 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 52 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 49 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 48 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 30 |
@@ -160,7 +160,7 @@
 | :--- | ---: |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 50 |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 37 |
-| [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | 31 |
+| [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | 32 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 26 |
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | 26 |
 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) | 23 |
@@ -184,7 +184,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 53 |
-| [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 32 |
+| [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 33 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 27 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 20 |
 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | 19 |
@@ -308,7 +308,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 36 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 37 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 30 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 26 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 20 |

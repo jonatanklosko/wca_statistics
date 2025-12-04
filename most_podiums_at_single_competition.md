@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -872,6 +872,7 @@
 | 15 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Medan Open 2018](https://www.worldcubeassociation.org/competitions/MedanOpen2018/results/podiums) |
 | 11 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Medan Speedcube Challenge 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubeChallenge2023/results/podiums) |
 | 10 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Day 2010](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2010/results/podiums) |
+| 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Melbourne Cube Days 2025](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2025/results/podiums) |
 | 15 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer 2011](https://www.worldcubeassociation.org/competitions/MelbourneSummer2011/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021/results/podiums) |
 | 11 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025/results/podiums) |
@@ -1403,6 +1404,9 @@
 | 10 | [Oleg Martynov](https://www.worldcubeassociation.org/persons/2012MART05) | [Ural Winter 2017](https://www.worldcubeassociation.org/competitions/UralWinter2017/results/podiums) |
 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [U.R.A. Spring of Colors 2018](https://www.worldcubeassociation.org/competitions/URASpringofColors2018/results/podiums) |
 | 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [URJC Open 2024](https://www.worldcubeassociation.org/competitions/URJCOpen2024/results/podiums) |
+| 10 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [Ushuaia 2025](https://www.worldcubeassociation.org/competitions/Ushuaia2025/results/podiums) |
+| 10 | [Mario Armando Takahashi Martins Dias](https://www.worldcubeassociation.org/persons/2019DIAS02) | [Ushuaia 2025](https://www.worldcubeassociation.org/competitions/Ushuaia2025/results/podiums) |
+| 10 | [Luciano David Rosales Gomez](https://www.worldcubeassociation.org/persons/2023GOME56) | [Ushuaia 2025](https://www.worldcubeassociation.org/competitions/Ushuaia2025/results/podiums) |
 | 13 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Utah Championship 2022](https://www.worldcubeassociation.org/competitions/UtahChampionship2022/results/podiums) |
 | 10 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Fall 2009](https://www.worldcubeassociation.org/competitions/UtahFall2009/results/podiums) |
 | 10 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Open 2009](https://www.worldcubeassociation.org/competitions/UtahOpen2009/results/podiums) |

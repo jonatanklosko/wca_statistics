@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 December 2025*
+*Updated on  7 December 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -296,6 +296,7 @@
 | 1295 | [Marco Edoardo Cittar](https://www.worldcubeassociation.org/persons/2015CITT01) |
 | 1307 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 1316 | [Marco Guarasci](https://www.worldcubeassociation.org/persons/2020GUAR01) |
+| 1326 | [Amitai Ziv](https://www.worldcubeassociation.org/persons/2022ZIVA01) |
 | 1330 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
 | 1343 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 1344 | [Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17) |
@@ -594,6 +595,7 @@
 | 2807 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) |
 | 2807 | [Joel Mamani Tumiri](https://www.worldcubeassociation.org/persons/2017TUMI02) |
 | 2814 | [Haruka Kitamura (北村晴香)](https://www.worldcubeassociation.org/persons/2017KITA03) |
+| 2821 | [Pedro Azevedo](https://www.worldcubeassociation.org/persons/2018AZEV03) |
 | 2828 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 2829 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 2843 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
@@ -679,6 +681,7 @@
 | 3541 | [Jason Hammerman](https://www.worldcubeassociation.org/persons/2014HAMM01) |
 | 3543 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 3544 | [Ishaan Lal](https://www.worldcubeassociation.org/persons/2014LALI01) |
+| 3549 | [David Martins](https://www.worldcubeassociation.org/persons/2016MART16) |
 | 3564 | [Tomas Kristiansson](https://www.worldcubeassociation.org/persons/2007KRIS01) |
 | 3619 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 3639 | [Alexander Wheeler](https://www.worldcubeassociation.org/persons/2014WHEE01) |

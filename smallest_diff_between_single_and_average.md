@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 December 2025*
+*Updated on  7 December 2025*
 
 
 ### Rubik's Cube
@@ -17,7 +17,7 @@
 | 0.02 | [Vishal Chandrasekar](https://www.worldcubeassociation.org/persons/2022CHAN59) | 8.30 | 8.32 | [Malaysia Cube Championship 2024](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2024/results/by_person#2022CHAN59) |
 | 0.02 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | 8.64 | 8.66 | [San Diego's Final Cube-Down 2022](https://www.worldcubeassociation.org/competitions/SanDiegosFinalCubeDown2022/results/by_person#2015BROW03) |
 | 0.02 | [Yongting You (尤永庭)](https://www.worldcubeassociation.org/persons/2010YOUY01) | 9.40 | 9.42 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/by_person#2010YOUY01) |
-| 0.02 | [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) | 10.43 | 10.45 | [More Cubing Cougars WV 2025](https://www.worldcubeassociation.org/competitions/MoreCubingCougarsWV2025/results/by_person#2018KEAR02) |
+| 0.02 | [Shenye Zhang (张沈业)](https://www.worldcubeassociation.org/persons/2024ZHAN60) | 9.45 | 9.47 | [Hangzhou Winter 2025](https://www.worldcubeassociation.org/competitions/HangzhouWinter2025/results/by_person#2024ZHAN60) |
 
 ### 2x2x2 Cube
 

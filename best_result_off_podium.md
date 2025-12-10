@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 December 2025*
+*Updated on 10 December 2025*
 
 
 ### Rubik's Cube
@@ -158,6 +158,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Clem Tucker](https://www.worldcubeassociation.org/persons/2022TUCK09) | 1.32 | **1.95** | [Brooklyn Waldorf Winter 2025](https://www.worldcubeassociation.org/competitions/BrooklynWaldorfWinter2025/results/all#epyram_f) | 4 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.54 | **2.02** | [CubingUSA All-Stars 2025](https://www.worldcubeassociation.org/competitions/CubingUSAAllStars2025/results/all#epyram_f) | 4 |
 | [Elliott Perkins](https://www.worldcubeassociation.org/persons/2018PERK01) | 1.57 | **2.02** | [CubingUSA All-Stars 2025](https://www.worldcubeassociation.org/competitions/CubingUSAAllStars2025/results/all#epyram_f) | 5 |
 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.26 | **2.04** | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/all#epyram_f) | 4 |
@@ -167,7 +168,6 @@
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.92 | **2.09** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#epyram_f) | 5 |
 | [Tianyu Sun (孙天宇)](https://www.worldcubeassociation.org/persons/2021SUNT01) | 1.67 | **2.11** | [Luoyang Spring 2025](https://www.worldcubeassociation.org/competitions/LuoyangSpring2025/results/all#epyram_f) | 4 |
 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.45 | **2.12** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 5 |
-| [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.55 | **2.12** | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 

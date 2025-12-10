@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  7 December 2025*
+*Updated on 10 December 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -36,10 +36,10 @@
 | [Daniel Song](https://www.worldcubeassociation.org/persons/2010SONG02) | 13.13 |
 | [Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01) | 12.84 |
 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) | 12.70 |
-| [Charl Jovan Borromeo](https://www.worldcubeassociation.org/persons/2012BORR01) | 12.63 |
 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | 12.63 |
-| [Toru Morooka (諸岡徹)](https://www.worldcubeassociation.org/persons/2010MORO01) | 12.59 |
+| [Charl Jovan Borromeo](https://www.worldcubeassociation.org/persons/2012BORR01) | 12.63 |
 | [Ryan Harris](https://www.worldcubeassociation.org/persons/2013HARR01) | 12.59 |
+| [Toru Morooka (諸岡徹)](https://www.worldcubeassociation.org/persons/2010MORO01) | 12.59 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | 12.46 |
 | [Phopphon Suwattee (ภพพนธ์ สุวัตถี)](https://www.worldcubeassociation.org/persons/2010SUWA03) | 12.38 |
 | [Tariq Ali](https://www.worldcubeassociation.org/persons/2012ALIT01) | 12.34 |
@@ -54,8 +54,8 @@
 | [Alexander Laiche](https://www.worldcubeassociation.org/persons/2013LAIC01) | 12.00 |
 | [Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01) | 11.96 |
 | [Yannick Richter](https://www.worldcubeassociation.org/persons/2010RICH04) | 11.96 |
-| [Luke Hudlass-Galley](https://www.worldcubeassociation.org/persons/2010HUDL01) | 11.92 |
 | [Nicolás Lasso Peña](https://www.worldcubeassociation.org/persons/2013PENA05) | 11.92 |
+| [Luke Hudlass-Galley](https://www.worldcubeassociation.org/persons/2010HUDL01) | 11.92 |
 | [Phil Yu](https://www.worldcubeassociation.org/persons/2010YUPH01) | 11.90 |
 | [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 11.90 |
 | [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) | 11.88 |
@@ -67,8 +67,8 @@
 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) | 11.58 |
 | [Anshuman Singh](https://www.worldcubeassociation.org/persons/2014SING04) | 11.56 |
 | [Ryosuke Higo (肥後亮佑)](https://www.worldcubeassociation.org/persons/2006HIGO01) | 11.54 |
-| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
+| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Kobe Balin](https://www.worldcubeassociation.org/persons/2012BALI01) | 11.50 |
 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) | 11.48 |
 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | 11.48 |

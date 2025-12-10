@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 December 2025*
+*Updated on 10 December 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -916,6 +916,7 @@
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/podiums) |
 | 10 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/podiums) |
+| 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2025](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2025/results/podiums) |
 | 10 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | [Nacionales El Salvador 2018](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2018/results/podiums) |
 | 10 | [Samuel Cuellar Ramirez](https://www.worldcubeassociation.org/persons/2015RAMI14) | [Nacionales El Salvador 2019](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2019/results/podiums) |
 | 11 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Nacionales El Salvador 2023](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2023/results/podiums) |
@@ -1392,6 +1393,8 @@
 | 13 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Otoño 2023](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingOtono2023/results/podiums) |
 | 11 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Primavera 2025](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingPrimavera2025/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [UoSM Cube Open 2024](https://www.worldcubeassociation.org/competitions/UoSMCubeOpen2024/results/podiums) |
+| 14 | [Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02) | [UPEC Open 2025](https://www.worldcubeassociation.org/competitions/UPECOpen2025/results/podiums) |
+| 12 | [Pablo Sebastián Flores Peralta](https://www.worldcubeassociation.org/persons/2022PERA02) | [UPEC Open 2025](https://www.worldcubeassociation.org/competitions/UPECOpen2025/results/podiums) |
 | 13 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [U.R.A. Back to School 2016](https://www.worldcubeassociation.org/competitions/URABacktoSchool2016/results/podiums) |
 | 10 | [Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01) | [U.R.A. Back to School 2016](https://www.worldcubeassociation.org/competitions/URABacktoSchool2016/results/podiums) |
 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [U.R.A. Easter Open 2017](https://www.worldcubeassociation.org/competitions/URAEasterOpen2017/results/podiums) |

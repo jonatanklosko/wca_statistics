@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 December 2025*
+*Updated on 13 December 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -24,9 +24,9 @@
 | 14 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 13 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) |
 | 13 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
+| 13 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 12 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 12 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) |
-| 12 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 12 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 11 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
@@ -90,6 +90,7 @@
 | 4 | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) |
 | 4 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 4 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
+| 4 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 4 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) |
 | 4 | [Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01) |
 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
@@ -167,7 +168,6 @@
 | 2 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 2 | [Tang Yiu Chun (鄧耀俊)](https://www.worldcubeassociation.org/persons/2009CHUN07) |
 | 2 | [Thibaut Jacquinot](https://www.worldcubeassociation.org/persons/2006JACQ01) |
-| 2 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 2 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) |
 | 2 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 2 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) |

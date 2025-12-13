@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 10 December 2025*
+*Updated on 13 December 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -33,8 +33,8 @@
 | 104 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 103 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 102 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 100 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 100 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
+| 100 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 96 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |

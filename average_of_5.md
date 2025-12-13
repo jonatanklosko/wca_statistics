@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 December 2025*
+*Updated on 13 December 2025*
 
 
 ### Rubik's Cube
@@ -70,11 +70,11 @@
 | ---: | :--- | :--- |
 | 1:04.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:03.89, 1:06.08, 1:02.14, 1:16.67, 1:04.60 |
 | 1:07.77 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:07.83, 1:07.88, 1:07.60, 1:13.42, 1:07.10 |
-| 1:08.43 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:06.48, DNF, 1:08.80, 1:02.12, 1:10.01 |
+| 1:08.00 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | DNF, 1:08.80, 1:02.12, 1:10.01, 1:05.18 |
 | 1:08.85 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:18.06, 1:09.86, 1:08.52, 1:02.67, 1:08.18 |
+| 1:11.34 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1:05.88, 1:19.23, 1:12.45, 1:15.61, 1:05.96 |
 | 1:11.54 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:06.80, 1:10.02, 1:17.33, 1:07.32, 1:17.27 |
 | 1:11.78 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:14.55, 1:16.60, 1:10.68, 1:10.11, 1:08.23 |
-| 1:11.90 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1:14.45, 1:08.09, 1:11.50, 1:12.13, 1:12.06 |
 | 1:12.10 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:12.10, 1:08.27, 1:12.88, 1:11.98, 1:12.22 |
 | 1:12.23 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:10.44, 1:16.16, 1:10.38, 1:15.88, 1:03.43 |
 | 1:13.32 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:11.96, 1:13.14, 1:08.59, 1:30.01, 1:14.87 |
@@ -144,8 +144,8 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 24.30 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 24.58, 27.15, 22.86, 25.38, 22.93 |
+| 24.34 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 25.54, 21.99, 27.44, 23.81, 23.67 |
 | 24.72 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | 24.88, 24.03, 29.94, 23.39, 25.25 |
-| 24.93 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 25.69, 24.61, 23.39, 30.66, 24.49 |
 | 25.88 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 32.91, 24.85, 25.90, 23.78, 26.90 |
 | 26.12 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 25.69, 26.87, 25.21, DNF, 25.79 |
 | 27.33 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 30.10, 27.27, 26.53, 28.19, 26.00 |
@@ -189,13 +189,13 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1.33 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | 1.16, 1.32, 0.91, 2.61, 1.50 |
+| 1.34 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 1.36, 1.33, 1.34, 2.33, 1.29 |
 | 1.37 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 3.76, 1.22, 1.43, 1.16, 1.46 |
 | 1.40 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.30, 1.17, 1.74, 1.82, 1.13 |
 | 1.41 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.42, 1.46, 2.93, 1.02, 1.34 |
 | 1.46 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.69, 1.89, 1.14, 1.55, 1.14 |
 | 1.48 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.33, 2.12, 1.24, 1.67, 1.43 |
 | 1.51 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.61, 1.29, 2.32, 1.31, 1.60 |
-| 1.54 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 0.95, 1.24, 2.32, 1.75, 1.64 |
 | 1.59 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | 1.41, 1.39, 2.32, 1.49, 1.88 |
 | 1.64 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 3.52, 1.85, 1.42, 1.66, 1.22 |
 

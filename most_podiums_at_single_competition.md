@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 December 2025*
+*Updated on 13 December 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1314,6 +1314,7 @@
 | 10 | [Antonio Gabriel Freitas da Silva](https://www.worldcubeassociation.org/persons/2015SILV55) | [Tambaqui Plaza Open 2018](https://www.worldcubeassociation.org/competitions/Tambaqui2018/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Tårnby Cube Træf 2018](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2018/results/podiums) |
 | 10 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | [Tarraco Open 2025](https://www.worldcubeassociation.org/competitions/TarracoOpen2025/results/podiums) |
+| 11 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Tashkent Open 2025](https://www.worldcubeassociation.org/competitions/TashkentOpen2025/results/podiums) |
 | 13 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
 | 12 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tasmanian Open 2022](https://www.worldcubeassociation.org/competitions/TasmanianOpen2022/results/podiums) |
 | 11 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [Tassie Summer 2025](https://www.worldcubeassociation.org/competitions/TassieSummer2025/results/podiums) |
@@ -1326,6 +1327,7 @@
 | 11 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | [Teresina Open 2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019/results/podiums) |
 | 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2023](https://www.worldcubeassociation.org/competitions/TexasChampionship2023/results/podiums) |
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2024](https://www.worldcubeassociation.org/competitions/TexasChampionship2024/results/podiums) |
+| 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2025](https://www.worldcubeassociation.org/competitions/TexasChampionship2025/results/podiums) |
 | 12 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | [Thailand 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Thailand10thAnniversary2019/results/podiums) |
 | 11 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Thailand Championship 2014](https://www.worldcubeassociation.org/competitions/ThailandChampionship2014/results/podiums) |
 | 12 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | [Thailand Championship 2015](https://www.worldcubeassociation.org/competitions/ThailandChampionship2015/results/podiums) |

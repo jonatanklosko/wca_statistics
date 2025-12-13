@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 December 2025*
+*Updated on 13 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -159,6 +159,7 @@
 | 8 | [Eden Village Winter 2017](https://www.worldcubeassociation.org/competitions/EdenVillageWinter2017) |
 | 8 | [Efficient Minnesota Summer 2025](https://www.worldcubeassociation.org/competitions/EfficientMinnesotaSummer2025) |
 | 8 | [Færrest Trekk i Barnehagen 2023](https://www.worldcubeassociation.org/competitions/FaerrestTrekkiBarnehagen2023) |
+| 8 | [Fewest Moves Bogotá IX 2025](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaIX2025) |
 | 8 | [Fewest Moves Bogotá VII 2025](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaVII2025) |
 | 8 | [FMC Argentina 2024](https://www.worldcubeassociation.org/competitions/FMCArgentina2024) |
 | 8 | [FMC Kamppi 2019](https://www.worldcubeassociation.org/competitions/FMCKamppi2019) |

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 13 December 2025*
+*Updated on 16 December 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -126,6 +126,7 @@
 | 3 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) |
 | 2 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
+| 2 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 2 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
 | 2 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 2 | [Chang Jee-Hoon](https://www.worldcubeassociation.org/persons/2007JEEH01) |
@@ -192,7 +193,6 @@
 | 1 | [Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01) |
 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 1 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) |
-| 1 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 1 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) |
 | 1 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) |
 | 1 | [Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01) |
@@ -284,6 +284,7 @@
 | 1 | [Shuang Chen (陈霜)](https://www.worldcubeassociation.org/persons/2008CHEN27) |
 | 1 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) |
 | 1 | [Suen Ming Chi (孫銘志)](https://www.worldcubeassociation.org/persons/2017CHIS02) |
+| 1 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) |
 | 1 | [Sunil Pedapudi](https://www.worldcubeassociation.org/persons/2004PEDA01) |
 | 1 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 1 | [Taki Sugimoto (杉本太暉)](https://www.worldcubeassociation.org/persons/2008SUGI01) |

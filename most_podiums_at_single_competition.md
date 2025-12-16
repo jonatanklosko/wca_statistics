@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 December 2025*
+*Updated on 16 December 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -77,6 +77,7 @@
 | 13 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Arizona Championship 2024](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2024/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Ark 2018](https://www.worldcubeassociation.org/competitions/Ark2018/results/podiums) |
 | 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Arkansas Championship 2025](https://www.worldcubeassociation.org/competitions/ArkansasChampionship2025/results/podiums) |
+| 11 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Armando Sueños Blenkir 2025](https://www.worldcubeassociation.org/competitions/ArmandoSuenosBlenkir2025/results/podiums) |
 | 15 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2018](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2018/results/podiums) |
 | 16 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2019](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2019/results/podiums) |
 | 14 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2022](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2022/results/podiums) |
@@ -587,6 +588,7 @@
 | 10 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Great South Open 2016](https://www.worldcubeassociation.org/competitions/GreatSouthOpen2016/results/podiums) |
 | 11 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Greece Winter Open 2016](https://www.worldcubeassociation.org/competitions/GreeceWinterOpen2016/results/podiums) |
 | 11 | [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) | [Greek Nationals 2024](https://www.worldcubeassociation.org/competitions/GreekNationals2024/results/podiums) |
+| 14 | [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) | [Greek Nationals 2025](https://www.worldcubeassociation.org/competitions/GreekNationals2025/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Greve Gymnasium 2020](https://www.worldcubeassociation.org/competitions/GreveGymnasium2020/results/podiums) |
 | 12 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Grizz Cubing 2022](https://www.worldcubeassociation.org/competitions/GrizzCubing2022/results/podiums) |
 | 10 | [Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01) | [Grizz Cubing 2022](https://www.worldcubeassociation.org/competitions/GrizzCubing2022/results/podiums) |
@@ -731,6 +733,8 @@
 | 10 | [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | [J Cube Jammu 2017](https://www.worldcubeassociation.org/competitions/JCubeJammu2017/results/podiums) |
 | 11 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Jogjakarta Open 2013](https://www.worldcubeassociation.org/competitions/JogjaAltamiraSportOpen2013/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Joinville Open 2024](https://www.worldcubeassociation.org/competitions/JoinvilleOpen2024/results/podiums) |
+| 11 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) | [Jonava Ralys Open 2025](https://www.worldcubeassociation.org/competitions/JonavaRalysOpen2025/results/podiums) |
+| 10 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) | [Jonava Ralys Open 2025](https://www.worldcubeassociation.org/competitions/JonavaRalysOpen2025/results/podiums) |
 | 10 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023/results/podiums) |
 | 13 | [Florian Truckenthanner](https://www.worldcubeassociation.org/persons/2013TRUC01) | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/podiums) |
 | 10 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/podiums) |
@@ -923,6 +927,7 @@
 | 11 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales El Salvador 2024](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2024/results/podiums) |
 | 10 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales Guatemala 2023](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2023/results/podiums) |
 | 10 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales Guatemala 2024](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2024/results/podiums) |
+| 13 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales Guatemala 2025](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2025/results/podiums) |
 | 15 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Nacionales Uruguayas 2023](https://www.worldcubeassociation.org/competitions/NacionalesUruguayas2023/results/podiums) |
 | 15 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Uruguayas 2024](https://www.worldcubeassociation.org/competitions/NacionalesUruguayas2024/results/podiums) |
 | 11 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) | [Nacionales Uruguayas 2024](https://www.worldcubeassociation.org/competitions/NacionalesUruguayas2024/results/podiums) |
@@ -1043,6 +1048,7 @@
 | 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Pão de Queijo Open 2023](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2023/results/podiums) |
 | 12 | [José Chávez](https://www.worldcubeassociation.org/persons/2016CHAV18) | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums) |
 | 10 | [Milko Sebastián Gutiérrez Arroyo](https://www.worldcubeassociation.org/persons/2016ARRO05) | [Paraguay Nationals 2019](https://www.worldcubeassociation.org/competitions/ParaguayNationals2019/results/podiums) |
+| 13 | [Kenji Julián Cáceres Matsumoto](https://www.worldcubeassociation.org/persons/2022CACE02) | [Paraguay Nationals 2025](https://www.worldcubeassociation.org/competitions/ParaguayNationals2025/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Paraíso ao Cubo II DC 2024](https://www.worldcubeassociation.org/competitions/ParaisoaoCuboIIDC2024/results/podiums) |
 | 13 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Paraíso Summer DC 2025](https://www.worldcubeassociation.org/competitions/ParaisoSummerDC2025/results/podiums) |
 | 13 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Parets Open 2024](https://www.worldcubeassociation.org/competitions/ParetsOpen2024/results/podiums) |
@@ -1391,6 +1397,8 @@
 | 10 | [Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01) | [ULA Rubiks 2014](https://www.worldcubeassociation.org/competitions/ULARubiks2014/results/podiums) |
 | 14 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [UNESP Open 2009](https://www.worldcubeassociation.org/competitions/UNESPOpen2009/results/podiums) |
 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [UNESP Open 2018](https://www.worldcubeassociation.org/competitions/UNESPOpen2018/results/podiums) |
+| 12 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [UNESP Rio Preto Open 2025](https://www.worldcubeassociation.org/competitions/UNESPRioPretoOpen2025/results/podiums) |
+| 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [UNESP Rio Preto Open 2025](https://www.worldcubeassociation.org/competitions/UNESPRioPretoOpen2025/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023/results/podiums) |
 | 13 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Otoño 2023](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingOtono2023/results/podiums) |
 | 11 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Primavera 2025](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingPrimavera2025/results/podiums) |

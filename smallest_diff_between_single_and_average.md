@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 December 2025*
+*Updated on 16 December 2025*
 
 
 ### Rubik's Cube
@@ -85,6 +85,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.03 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 3:45.86 | 3:45.89 | [Luxembourg Open 2018](https://www.worldcubeassociation.org/competitions/LuxembourgOpen2018/results/by_person#2012HALE01) |
 | 0.04 | [Marco Vorländer](https://www.worldcubeassociation.org/persons/2014VORL01) | 3:27.49 | 3:27.53 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2014VORL01) |
+| 0.06 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | 3:44.09 | 3:44.15 | [New Zealand Nationals 2025](https://www.worldcubeassociation.org/competitions/NewZealandNationals2025/results/by_person#2022JOHN14) |
 | 0.07 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3:02.84 | 3:02.91 | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023/results/by_person#2013OWCZ01) |
 | 0.07 | [Stefan Uzelac](https://www.worldcubeassociation.org/persons/2022UZEL01) | 7:19.63 | 7:19.70 | [Arizona Championship 2025](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2025/results/by_person#2022UZEL01) |
 | 0.08 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 2:01.05 | 2:01.13 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016PFEI01) |
@@ -92,7 +93,6 @@
 | 0.09 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 5:14.66 | 5:14.75 | [Eat Sleep Cube Repeat 2014](https://www.worldcubeassociation.org/competitions/EatSleepCubeRepeat2014/results/by_person#2008AURO01) |
 | 0.10 | [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | 3:23.59 | 3:23.69 | [UCSD Fall 2024](https://www.worldcubeassociation.org/competitions/UCSDFall2024/results/by_person#2011GROG02) |
 | 0.10 | [Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01) | 6:25.15 | 6:25.25 | [Oregon 2016](https://www.worldcubeassociation.org/competitions/Oregon2016/results/by_person#2007WOOR01) |
-| 0.11 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2:17.68 | 2:17.79 | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/by_person#2019YANG94) |
 
 ### 3x3x3 Blindfolded
 

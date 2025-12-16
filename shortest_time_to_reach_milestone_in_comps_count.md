@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 13 December 2025*
+*Updated on 16 December 2025*
 
 
 ### 300 Competitions
@@ -85,11 +85,11 @@
 | 2634 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) |
 | 2699 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 2724 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
+| 2829 | [Malte Oliver Bøgh Kjøller](https://www.worldcubeassociation.org/persons/2018KJOL01) |
 | 2844 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 2850 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 2871 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 2885 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 2885 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 
 ### 100 Competitions
 
@@ -103,18 +103,18 @@
 | 1037 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 | 1051 | [Zoei Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) |
 | 1065 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
+| 1066 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
 | 1080 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
 | 1080 | [Zian Principe](https://www.worldcubeassociation.org/persons/2022PRIN08) |
 | 1093 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 1093 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
+| 1233 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 1407 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 1429 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 1526 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
 | 1646 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1646 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 1701 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
-| 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 1744 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 
 ### 50 Competitions
 

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 December 2025*
+*Updated on 16 December 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -128,6 +128,7 @@
 | 729 | [Rafael Sultanaliev](https://www.worldcubeassociation.org/persons/2023SULT02) |
 | 733 | [Yedidya Nisim Shimoni](https://www.worldcubeassociation.org/persons/2022SHIM03) |
 | 734 | [Shawn Lee Zhi Xuan (李致轩)](https://www.worldcubeassociation.org/persons/2017XUAN03) |
+| 734 | [Daniel Baeza](https://www.worldcubeassociation.org/persons/2023BAEZ06) |
 | 735 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 736 | [Braulio Lael Hernández Rosas](https://www.worldcubeassociation.org/persons/2023ROSA05) |
 | 741 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
@@ -647,6 +648,7 @@
 | 3178 | [Emmet Hobbs](https://www.worldcubeassociation.org/persons/2016HOBB01) |
 | 3193 | [Joey Mait](https://www.worldcubeassociation.org/persons/2016MAIT02) |
 | 3198 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
+| 3220 | [Lee Jun Yee Allen (李俊毅)](https://www.worldcubeassociation.org/persons/2017YEEA01) |
 | 3267 | [Samuel Cuellar Ramirez](https://www.worldcubeassociation.org/persons/2015RAMI14) |
 | 3277 | [Ben Bergen](https://www.worldcubeassociation.org/persons/2015BERG10) |
 | 3290 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
@@ -675,6 +677,7 @@
 | 3452 | [Luis Gabriel Magadia](https://www.worldcubeassociation.org/persons/2014MAGA04) |
 | 3493 | [Ethan Rusnak](https://www.worldcubeassociation.org/persons/2015RUSN01) |
 | 3494 | [Alex Lehman](https://www.worldcubeassociation.org/persons/2015LEHM01) |
+| 3507 | [Isac Lindqvist](https://www.worldcubeassociation.org/persons/2016LIND07) |
 | 3521 | [Chris Nankervis](https://www.worldcubeassociation.org/persons/2016NANK01) |
 | 3528 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 3535 | [Vasile Dan](https://www.worldcubeassociation.org/persons/2013VASI02) |
@@ -700,6 +703,7 @@
 | 3912 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 3933 | [Jihu Mun (문지후)](https://www.worldcubeassociation.org/persons/2014MUNJ02) |
 | 3933 | [Benjamin Paul](https://www.worldcubeassociation.org/persons/2014PAUL05) |
+| 3955 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 4010 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 4025 | [Lanshi Zhang (张岚石)](https://www.worldcubeassociation.org/persons/2013ZHAN41) |
 | 4047 | [Nathan Seeto](https://www.worldcubeassociation.org/persons/2012SEET01) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 December 2025*
+*Updated on 16 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -41,6 +41,7 @@
 | 4 | [Kansas Holiday Cube-Off PM 2023](https://www.worldcubeassociation.org/competitions/KansasHolidayCubeOffPM2023) |
 | 4 | [Lake Orion FMC Meltdown 2025](https://www.worldcubeassociation.org/competitions/LakeOrionFMCMeltdown2025) |
 | 4 | [Mental Breakdown II Rzeszów 2024](https://www.worldcubeassociation.org/competitions/MentalBreakdownIIRzeszow2024) |
+| 4 | [Mini Blind Odivelas 2025](https://www.worldcubeassociation.org/competitions/MiniBlindOdivelas2025) |
 | 4 | [Please Be Quiet Dhaka 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietDhaka2025) |
 | 4 | [Please Don't DNF Kuwait 2024](https://www.worldcubeassociation.org/competitions/PleaseDontDNFKuwait2024) |
 | 4 | [Saskatchewan FMC Sandwich 2024](https://www.worldcubeassociation.org/competitions/SaskatchewanFMCSandwich2024) |
@@ -151,6 +152,7 @@
 | 8 | [Big Cubata 2023](https://www.worldcubeassociation.org/competitions/BigCubata2023) |
 | 8 | [Big in Bahia 2025](https://www.worldcubeassociation.org/competitions/BiginBahia2025) |
 | 8 | [Boards & Cubes Venteira PM 2025](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraPM2025) |
+| 8 | [Bolivia Nationals FMC 2025](https://www.worldcubeassociation.org/competitions/BoliviaNationalsFMC2025) |
 | 8 | [Budapest FMClvester 2024](https://www.worldcubeassociation.org/competitions/BudapestFMClvester2024) |
 | 8 | [Buffalo Be Quiet 2024](https://www.worldcubeassociation.org/competitions/BuffaloBeQuiet2024) |
 | 8 | [Cordillera Cubea 2024](https://www.worldcubeassociation.org/competitions/CordilleraCubea2024) |
@@ -185,6 +187,7 @@
 | 8 | [Latvian FMC Championship 2023](https://www.worldcubeassociation.org/competitions/LatvianFMCChampionship2023) |
 | 8 | [Lejre Side Events 2025](https://www.worldcubeassociation.org/competitions/LejreSideEvents2025) |
 | 8 | [Micro Minnesota 2024](https://www.worldcubeassociation.org/competitions/MicroMinnesota2024) |
+| 8 | [Mini Blind Canelas 2025](https://www.worldcubeassociation.org/competitions/MiniBlindCanelas2025) |
 | 8 | [Nacionales Uruguayas FMC 2024](https://www.worldcubeassociation.org/competitions/NacionalesUruguayasFMC2024) |
 | 8 | [Naxçıvan 2018](https://www.worldcubeassociation.org/competitions/Nakhchivan2018) |
 | 8 | [Noordhoek Aeroplane Mode 2025](https://www.worldcubeassociation.org/competitions/NoordhoekAeroplaneMode2025) |

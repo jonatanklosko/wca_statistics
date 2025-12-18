@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 16 December 2025*
+*Updated on 17 December 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -17,10 +17,10 @@
 | 1721 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1676 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1662 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 1632 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 1635 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1600 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 1565 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
-| 1558 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 1561 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1538 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1490 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
@@ -84,8 +84,8 @@
 | 973 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 969 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 960 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
-| 958 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 958 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
+| 958 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 957 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 946 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 944 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |

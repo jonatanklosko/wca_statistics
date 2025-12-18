@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 16 December 2025*
+*Updated on 17 December 2025*
 
 
 ### Rubik's Cube - Single
@@ -313,11 +313,11 @@
 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **0.86** | New Zealand | [Crazy Christchurch 2025](https://www.worldcubeassociation.org/competitions/CrazyCubinginChristchurch2025) | 0.86, 3.93, 1.99, 2.12, 1.41 |
 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | **0.86** | China | [Shenyang Spring 2025](https://www.worldcubeassociation.org/competitions/ShenyangSpring2025) | 0.86, 3.61, 2.71, 1.98, 0.98 |
 | [Lim Jia Ying](https://www.worldcubeassociation.org/persons/2022YING02) | **0.86** | Singapore | [SG Small and Sides Feb 2025](https://www.worldcubeassociation.org/competitions/SGSmallandSidesFeb2025) | 2.40, 1.66, 3.82, 0.86, 3.16 |
+| [Manuel Francisco Beltrán](https://www.worldcubeassociation.org/persons/2023BELT07) | **0.87** | Colombia | [Bima al Cubo II Bogotá 2025](https://www.worldcubeassociation.org/competitions/BimaalCuboIIBogota2025) | 2.44, 0.87, 2.22, 1.68, 2.43 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **0.88** | United States | [Naperville Fall 2025](https://www.worldcubeassociation.org/competitions/NapervilleFall2025) | 0.88, 2.61, 1.81, 1.54, 1.34 |
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | **0.95** | United States | [Clock & 'Minx Ohio 2025](https://www.worldcubeassociation.org/competitions/ClockMinxOhio2025) | 1.91, 1.96, 0.95, 13.27, 7.29 |
 | [Felizian Baumgartner](https://www.worldcubeassociation.org/persons/2023BAUM08) | **0.95** | Austria | [Slovak Championship 2025](https://www.worldcubeassociation.org/competitions/SlovakChampionship2025) | DNF, 3.21, 0.95, 3.26, 6.47 |
 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | **0.96** | Denmark | [Friheden Open 2025](https://www.worldcubeassociation.org/competitions/FrihedenOpen2025) | 4.44, 0.96, 3.45, 4.48, 4.74 |
-| [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **0.96** | United States | [Space City Fall TX 2025](https://www.worldcubeassociation.org/competitions/SpaceCityFallTX2025) | 3.20, 1.67, 3.10, 0.96, 3.16 |
 
 ### Pyraminx - Average
 

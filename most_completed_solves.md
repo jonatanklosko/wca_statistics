@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 16 December 2025*
+*Updated on 17 December 2025*
 
 
 ### Competition
@@ -38,11 +38,11 @@
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **18983** | 19726 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **18897** | 19689 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **17616** | 18280 |
-| [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **17422** | 17941 |
+| [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **17480** | 18001 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **17097** | 17849 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **17065** | 17878 |
+| [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) | **16030** | 16552 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **16024** | 16938 |
-| [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) | **15955** | 16477 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **15530** | 16164 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **15440** | 16610 |
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **14809** | 15498 |
@@ -57,18 +57,18 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **6055128** | 6339156 |
+| United States | **6055583** | 6339643 |
 | China | **1456927** | 1526940 |
 | Poland | **1322419** | 1392093 |
 | Australia | **1066056** | 1123955 |
 | India | **1036878** | 1090515 |
-| United Kingdom | **1027007** | 1078997 |
+| United Kingdom | **1027234** | 1079242 |
 | Spain | **999660** | 1046866 |
 | Germany | **806898** | 844130 |
 | Canada | **753577** | 785669 |
-| France | **699738** | 737311 |
+| France | **699808** | 737386 |
 | Brazil | **648038** | 678131 |
-| Colombia | **575806** | 603877 |
+| Colombia | **577610** | 605732 |
 | Sweden | **533756** | 561423 |
 | Italy | **483598** | 507892 |
 | Philippines | **480014** | 498774 |
@@ -82,12 +82,12 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **10401259** | 10911287 |
-| North America | **7476712** | 7821120 |
-| Asia | **5369852** | 5620879 |
-| South America | **2263295** | 2368156 |
+| Europe | **10401599** | 10911652 |
+| North America | **7477167** | 7821607 |
+| Asia | **5370876** | 5621923 |
+| South America | **2265099** | 2370011 |
 | Oceania | **1340990** | 1412256 |
-| Africa | **199738** | 208446 |
+| Africa | **199876** | 208594 |
 | Multiple Continents | **5131** | 6776 |
 
 ### Year
@@ -95,7 +95,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | 2024 | **4728904** | 4946141 |
-| 2025 | **4404462** | 4602212 |
+| 2025 | **4408223** | 4606111 |
 | 2023 | **3999171** | 4182829 |
 | 2019 | **2537001** | 2656542 |
 | 2018 | **2218482** | 2324544 |
@@ -119,19 +119,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **8199995** | 8373380 |
-| 2x2x2 Cube | **4634031** | 4752571 |
-| Pyraminx | **3010326** | 3088719 |
-| 4x4x4 Cube | **2347479** | 2435319 |
-| 3x3x3 One-Handed | **2149808** | 2219683 |
-| Skewb | **1952363** | 2000745 |
-| 5x5x5 Cube | **1227557** | 1265882 |
-| Megaminx | **863539** | 899795 |
-| Clock | **849560** | 979504 |
-| Square-1 | **766684** | 798448 |
-| 6x6x6 Cube | **297936** | 308708 |
+| 3x3x3 Cube | **8201176** | 8374575 |
+| 2x2x2 Cube | **4634362** | 4752914 |
+| Pyraminx | **3010879** | 3089289 |
+| 4x4x4 Cube | **2347997** | 2435851 |
+| 3x3x3 One-Handed | **2149937** | 2219820 |
+| Skewb | **1952692** | 2001085 |
+| 5x5x5 Cube | **1227902** | 1266242 |
+| Megaminx | **863549** | 899807 |
+| Clock | **849742** | 979717 |
+| Square-1 | **766872** | 798648 |
+| 6x6x6 Cube | **297930** | 308702 |
 | 7x7x7 Cube | **242517** | 253389 |
-| 3x3x3 Blindfolded | **179736** | 489166 |
+| 3x3x3 Blindfolded | **179737** | 489169 |
 | 3x3x3 Fewest Moves | **113132** | 154511 |
 | Magic | **78268** | 86498 |
 | 3x3x3 With Feet | **51884** | 56650 |

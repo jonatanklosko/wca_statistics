@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 17 December 2025*
+*Updated on 19 December 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -288,6 +288,7 @@
 | 1252 | [Jack Maddigan](https://www.worldcubeassociation.org/persons/2020MADD02) |
 | 1253 | [Victor Tang Yao Jun (湯曜駿)](https://www.worldcubeassociation.org/persons/2015JUNV01) |
 | 1253 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) |
+| 1253 | [Thodoris Iatrou](https://www.worldcubeassociation.org/persons/2022IATR01) |
 | 1254 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
 | 1260 | [Jeremy Sheng](https://www.worldcubeassociation.org/persons/2019SHEN10) |
 | 1267 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) |

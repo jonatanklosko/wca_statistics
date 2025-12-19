@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 17 December 2025*
+*Updated on 19 December 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -97,12 +97,12 @@
 | 39 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | 2x2x2 Cube | [DNFools Boulevard 2023](https://www.worldcubeassociation.org/competitions/DNFoolsBoulevard2023) |  |
 | 38 | [Sebastiano Benato](https://www.worldcubeassociation.org/persons/2014BENA03) | Pyraminx | [Wirewood Pre-Nacionales 2018](https://www.worldcubeassociation.org/competitions/WirewoodPreNacionales2018) |  |
 | 38 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 3x3x3 Multi-Blind | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) |  |
+| 38 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | 4x4x4 Cube | [CojedesRubik 2016](https://www.worldcubeassociation.org/competitions/CojedesRubik2016) |  |
 | 38 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | 3x3x3 Cube | [Fairview Cube Day 2018](https://www.worldcubeassociation.org/competitions/FairviewCubeDay2018) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 38 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | Pyraminx | [Qubes Don' Lie Bursa 2022](https://www.worldcubeassociation.org/competitions/QubesDonLieBursa2022) |  |
 | 38 | [Juan Miguel Saboya Soto](https://www.worldcubeassociation.org/persons/2021SOTO01) | 2x2x2 Cube | [Duitama II 2023](https://www.worldcubeassociation.org/competitions/DuitamaII2023) | [Metrópolis Bogotá 2025](https://www.worldcubeassociation.org/competitions/MetropolisBogota2025) |
 | 37 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 5x5x5 Cube | [German Nationals 2017](https://www.worldcubeassociation.org/competitions/GermanNationals2017) | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019) |
 | 37 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Clock | [Project Radom 2018](https://www.worldcubeassociation.org/competitions/ProjectRadom2018) | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021) |
-| 37 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | 4x4x4 Cube | [CojedesRubik 2016](https://www.worldcubeassociation.org/competitions/CojedesRubik2016) |  |
 | 37 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | 3x3x3 Cube | [Chillan CDP 2022](https://www.worldcubeassociation.org/competitions/ChillanCDP2022) | [SAC 2024](https://www.worldcubeassociation.org/competitions/SAC2024) |
 | 36 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | Square-1 | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003) | [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) |
 

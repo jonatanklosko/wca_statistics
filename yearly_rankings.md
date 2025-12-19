@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 17 December 2025*
+*Updated on 19 December 2025*
 
 
 ### Rubik's Cube - Single
@@ -62,7 +62,7 @@
 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | **1.06** | China | [Nanchang Winter 2025](https://www.worldcubeassociation.org/competitions/NanchangWinter2025) | 0.99, 0.77, 0.82, 1.38, DNF |
 | [Emanuel Schelin](https://www.worldcubeassociation.org/persons/2022SCHE13) | **1.07** | Sweden | [Sörmland Open 2025](https://www.worldcubeassociation.org/competitions/SormlandOpen2025) | 1.25, 0.99, 0.97, 3.67, 0.92 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **1.08** | Poland | [Gdańska LS Final 2025](https://www.worldcubeassociation.org/competitions/GLSFinal2025) | 1.14, 1.07, 0.68, 3.52, 1.04 |
-| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **1.09** | Russia | [Ladce Open 2025](https://www.worldcubeassociation.org/competitions/LadceOpen2025) | 0.86, 0.91, 1.20, 1.15, 4.00 |
+| [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) | **1.08** | Israel | [NR Hanukkah A Israel 2025](https://www.worldcubeassociation.org/competitions/NRHanukkahAIsrael2025) | 1.07, 0.96, 4.37, 1.09, 1.09 |
 
 ### 4x4x4 Cube - Single
 

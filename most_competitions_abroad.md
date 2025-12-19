@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 17 December 2025*
+*Updated on 19 December 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -28,8 +28,8 @@
 | 113 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 112 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 110 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
+| 109 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 109 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 108 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 107 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 107 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 107 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
@@ -37,9 +37,9 @@
 | 104 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 104 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 103 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
+| 103 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 102 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
-| 102 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
-| 101 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
+| 102 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 100 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 100 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 98 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |

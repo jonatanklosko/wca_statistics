@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 17 December 2025*
+*Updated on 19 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -163,6 +163,7 @@
 | 8 | [Færrest Trekk i Barnehagen 2023](https://www.worldcubeassociation.org/competitions/FaerrestTrekkiBarnehagen2023) |
 | 8 | [Fewest Moves Bogotá IX 2025](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaIX2025) |
 | 8 | [Fewest Moves Bogotá VII 2025](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaVII2025) |
+| 8 | [Fewest Moves Bogotá X 2025](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaX2025) |
 | 8 | [FMC Argentina 2024](https://www.worldcubeassociation.org/competitions/FMCArgentina2024) |
 | 8 | [FMC Kamppi 2019](https://www.worldcubeassociation.org/competitions/FMCKamppi2019) |
 | 8 | [FMC Ukraine Friendship 2022](https://www.worldcubeassociation.org/competitions/FMCUkraineFriendship2022) |

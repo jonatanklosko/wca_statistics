@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 December 2025*
+*Updated on 22 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -187,6 +187,7 @@
 | 8 | [Latina Minimal Moves 2025](https://www.worldcubeassociation.org/competitions/LatinaMinimalMoves2025) |
 | 8 | [Latvian FMC Championship 2023](https://www.worldcubeassociation.org/competitions/LatvianFMCChampionship2023) |
 | 8 | [Lejre Side Events 2025](https://www.worldcubeassociation.org/competitions/LejreSideEvents2025) |
+| 8 | [Master Cube Salvador A 2025](https://www.worldcubeassociation.org/competitions/MasterCubeSalvadorA2025) |
 | 8 | [Micro Minnesota 2024](https://www.worldcubeassociation.org/competitions/MicroMinnesota2024) |
 | 8 | [Mini Blind Canelas 2025](https://www.worldcubeassociation.org/competitions/MiniBlindCanelas2025) |
 | 8 | [Nacionales Uruguayas FMC 2024](https://www.worldcubeassociation.org/competitions/NacionalesUruguayasFMC2024) |
@@ -304,6 +305,7 @@
 | 9 | [TKTK Side Events II 2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsII2024) |
 | 9 | [Try Not To DNF Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryNotToDNFRzeszow2023) |
 | 9 | [U-Cube Gronau Silent 2025](https://www.worldcubeassociation.org/competitions/UCubeGronauSilent2025) |
+| 9 | [Uppsala Christmas Special 2025](https://www.worldcubeassociation.org/competitions/UppsalaChristmasSpecial2025) |
 | 9 | [Vltava FMC 2025](https://www.worldcubeassociation.org/competitions/VltavaFMC2025) |
 | 9 | [Waihopai Winter 2025](https://www.worldcubeassociation.org/competitions/WaihopaiWinter2025) |
 | 9 | [Waikato Autumn Open 2010](https://www.worldcubeassociation.org/competitions/WaikatoAutumnOpen2010) |
@@ -409,6 +411,7 @@
 | 10 | [TKTK Side Events I 2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsI2024) |
 | 10 | [Toba Cubetastrophe 2022](https://www.worldcubeassociation.org/competitions/TobaCubetastrophe2022) |
 | 10 | [U.R.A. Big Cubes and FMC 2019](https://www.worldcubeassociation.org/competitions/URABigCubesandFMC2019) |
+| 10 | [VERK X 2025](https://www.worldcubeassociation.org/competitions/VERKX2025) |
 | 10 | [Warden of the West 2019](https://www.worldcubeassociation.org/competitions/WardenoftheWest2019) |
 | 10 | [Warsaw FMC Tour II Sunday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIISunday2024) |
 | 10 | [Warsaw FMC Tour Saturday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourSaturday2024) |
@@ -560,6 +563,7 @@
 | 12 | [IFAB Sides Santa Maria 2025](https://www.worldcubeassociation.org/competitions/IFABSidesSantaMaria2025) |
 | 12 | [Instituto David Cube Open 2025](https://www.worldcubeassociation.org/competitions/InstitutoDavidCubeOpen2025) |
 | 12 | [Itämeri 2023](https://www.worldcubeassociation.org/competitions/Itameri2023) |
+| 12 | [It's Christmas Time Lima 2025](https://www.worldcubeassociation.org/competitions/ItsChristmasTimeLima2025) |
 | 12 | [Java FMC Cube Day 2010](https://www.worldcubeassociation.org/competitions/JavaFMCCubeDay2010) |
 | 12 | [Jönköpingsligan 3 Stormvind 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan3Stormvind2023) |
 | 12 | [JRCA Hokuriku 2009](https://www.worldcubeassociation.org/competitions/JRCAHokuriku2009) |
@@ -642,6 +646,7 @@
 | 13 | [Balakən Open 2019](https://www.worldcubeassociation.org/competitions/BalakanOpen2019) |
 | 13 | [Bergen Open 2014](https://www.worldcubeassociation.org/competitions/BergenOpen2014) |
 | 13 | [Big in Luanda 2024](https://www.worldcubeassociation.org/competitions/BiginLuanda2024) |
+| 13 | [Boards & Cubes Venteira CC 2025](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraCC2025) |
 | 13 | [Bratislava Outside Cubing 2023](https://www.worldcubeassociation.org/competitions/BratislavaOutsideCubing2023) |
 | 13 | [Cagayan de Oro Open 2012](https://www.worldcubeassociation.org/competitions/Cagayan2012) |
 | 13 | [Cambridge Summer Challenge 2022](https://www.worldcubeassociation.org/competitions/CambridgeSummerChallenge2022) |

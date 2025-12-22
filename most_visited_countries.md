@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 19 December 2025*
+*Updated on 22 December 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -44,6 +44,7 @@
 | 22 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 22 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
+| 22 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 22 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 22 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
@@ -51,7 +52,6 @@
 | 21 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 21 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 21 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 21 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 20 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 20 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |

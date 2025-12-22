@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 19 December 2025*
+*Updated on 22 December 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -139,6 +139,7 @@
 | 5 | [Rasmus Händén](https://www.worldcubeassociation.org/persons/2016HAND04) | Sweden | [JL3: Capricciosa 2023](https://www.worldcubeassociation.org/competitions/JL3Capricciosa2023) |
 | 5 | [Rey Danilo Florez](https://www.worldcubeassociation.org/persons/2023FLOR03) | Colombia | [Speedcubing La Guajira 2024](https://www.worldcubeassociation.org/competitions/SpeedcubingLaGuajira2024) |
 | 5 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | South Africa | [Inni-Horie-Fees Speedcubing 2022](https://www.worldcubeassociation.org/competitions/InniHorieFeesSpeedcubing2022) |
+| 5 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | United States | [Georgetown Side Events 2025](https://www.worldcubeassociation.org/competitions/GeorgetownSideEvents2025) |
 | 5 | [Saravanan Gowthaman](https://www.worldcubeassociation.org/persons/2015GOWT01) | India | [Virudhunagar KCET Cube Open 2018](https://www.worldcubeassociation.org/competitions/VirudhunagarKCETCubeOpen2018) |
 | 5 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | Japan | [Kansai Star 2013](https://www.worldcubeassociation.org/competitions/KansaiStarFestival2013) |
 | 5 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | Guatemala | [Credisa Open 2025](https://www.worldcubeassociation.org/competitions/CredisaOpen2025) |
@@ -171,14 +172,15 @@
 | 4 | [Carl Overbye](https://www.worldcubeassociation.org/persons/2018OVER04) | United States | [MN Meetup III Thursday 2024](https://www.worldcubeassociation.org/competitions/MinnesotaMeetupIIIThursday2024) |
 | 4 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Grizz League III 2023](https://www.worldcubeassociation.org/competitions/GrizzLeagueIII2023) |
 | 4 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | Sweden | [Mini Mental Milano II 2025](https://www.worldcubeassociation.org/competitions/MiniMentalMilanoII2025) |
+| 4 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | Sweden | [Uppsala Christmas Special 2025](https://www.worldcubeassociation.org/competitions/UppsalaChristmasSpecial2025) |
 | 4 | [Dhruva Nikhil Jagtap](https://www.worldcubeassociation.org/persons/2023JAGT01) | India | [Kalyani Cube Open 2024](https://www.worldcubeassociation.org/competitions/KalyaniCubeOpen2024) |
 | 4 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | Canada | [PBQ Pickering 2022](https://www.worldcubeassociation.org/competitions/PBQPickering2022) |
 | 4 | [Emilio Alberto Rodríguez Jiménez](https://www.worldcubeassociation.org/persons/2018JIME14) | Mexico | [Don't DNF in Tijuana 2023](https://www.worldcubeassociation.org/competitions/DontDNFinTijuana2023) |
 | 4 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | United States | [Clifton Park Big Cubes 2025](https://www.worldcubeassociation.org/competitions/CliftonParkBigCubes2025) |
 | 4 | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) | India | [Nalsar Cube Open C 2025](https://www.worldcubeassociation.org/competitions/NalsarCubeOpenC2025) |
-| 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | United States | [Mini Mental Breakdown SD 2022](https://www.worldcubeassociation.org/competitions/MiniMentalBreakdownSanDiego2022) |
-| 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | United States | [Do You Remember San Diego 2024](https://www.worldcubeassociation.org/competitions/DoYouRememberSanDiego2024) |
 | 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | United States | [Please Be Quiet Reno 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietReno2025) |
+| 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | United States | [Do You Remember San Diego 2024](https://www.worldcubeassociation.org/competitions/DoYouRememberSanDiego2024) |
+| 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | United States | [Mini Mental Breakdown SD 2022](https://www.worldcubeassociation.org/competitions/MiniMentalBreakdownSanDiego2022) |
 | 4 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | Sweden | [Chalmers Open 2006](https://www.worldcubeassociation.org/competitions/ChalmersOpen2006) |
 | 4 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | Malaysia | [PBQ Kuala Lumpur 2025](https://www.worldcubeassociation.org/competitions/PBQKualaLumpur2025) |
 | 4 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | Malaysia | [Slow and Easy Selangor 2024](https://www.worldcubeassociation.org/competitions/SlowandEasySelangor2024) |
@@ -423,10 +425,10 @@
 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) | Brazil | [FMC Latin America 2025](https://www.worldcubeassociation.org/competitions/FMCLatinAmerica2025) |
 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) | Brazil | [FMC Lusófono 2025](https://www.worldcubeassociation.org/competitions/FMCLusofono2025) |
 | 1 | [Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01) | Japan | [Ota Summer 2022](https://www.worldcubeassociation.org/competitions/OtaSummer2022) |
-| 1 | [Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01) | Japan | [Challenge IV 2023](https://www.worldcubeassociation.org/competitions/TokyoChallengeIV2023) |
-| 1 | [Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01) | Japan | [Tokyo Open PM Winter 2025](https://www.worldcubeassociation.org/competitions/TokyoOpenPMWinter2025) |
 | 1 | [Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01) | Japan | [Tokyo Challenge VIII 2023](https://www.worldcubeassociation.org/competitions/TokyoChallengeVIII2023) |
 | 1 | [Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01) | Japan | [Tokyo Challenge Winter B 2023](https://www.worldcubeassociation.org/competitions/TokyoChallengeWinterB2023) |
+| 1 | [Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01) | Japan | [Challenge IV 2023](https://www.worldcubeassociation.org/competitions/TokyoChallengeIV2023) |
+| 1 | [Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01) | Japan | [Tokyo Open PM Winter 2025](https://www.worldcubeassociation.org/competitions/TokyoOpenPMWinter2025) |
 | 1 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) | Japan | [Kurukuru Summer 2019](https://www.worldcubeassociation.org/competitions/KurukuruSummer2019) |
 | 1 | [Ayush Kumar](https://www.worldcubeassociation.org/persons/2011KULS01) | India | [Apogee Open 2013](https://www.worldcubeassociation.org/competitions/ApogeeOpen2013) |
 | 1 | [Azhar Virani](https://www.worldcubeassociation.org/persons/2015VIRA02) | United States | [Cubing Is A Sport Frisco PM 2021](https://www.worldcubeassociation.org/competitions/CubingIsASportFriscoPM2021) |
@@ -750,9 +752,9 @@
 | 1 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | United States | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025) |
 | 1 | [Nolan Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | United States | [South Bay Weeknight BF 2 2024](https://www.worldcubeassociation.org/competitions/SouthBayWeeknightBF22024) |
 | 1 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | Hungary | [Athens Open 2010](https://www.worldcubeassociation.org/competitions/AthensOpen2010) |
+| 1 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | United States | [Washtenaw FMC 1 2024](https://www.worldcubeassociation.org/competitions/WashtenawFMC12024) |
 | 1 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | United States | [Lake Orion FMC Meltdown 2025](https://www.worldcubeassociation.org/competitions/LakeOrionFMCMeltdown2025) |
 | 1 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | United States | [Michigan Mini 16 2024](https://www.worldcubeassociation.org/competitions/MichiganMini162024) |
-| 1 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | United States | [Washtenaw FMC 1 2024](https://www.worldcubeassociation.org/competitions/WashtenawFMC12024) |
 | 1 | [Parist Pariyakanok (พริษฐ์ ปริยกนก)](https://www.worldcubeassociation.org/persons/2018PARI07) | Thailand | [Ratchapruek Cubing Sunday 2023](https://www.worldcubeassociation.org/competitions/RatchapruekCubingSunday2023) |
 | 1 | [Pedro Azevedo](https://www.worldcubeassociation.org/persons/2018AZEV03) | Portugal | [Boards & Cubes Venteira MM 2025](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraMM2025) |
 | 1 | [Pedro Henrique Maciel Ceccopieri Belo (陈昊然)](https://www.worldcubeassociation.org/persons/2015BELO02) | Brazil | [Arena Bernô 8 City FM 2024](https://www.worldcubeassociation.org/competitions/ArenaBerno8CityFM2024) |
@@ -863,9 +865,9 @@
 | 1 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | Indonesia | [Fewest Moves Southeast Asia 2018](https://www.worldcubeassociation.org/competitions/FewestMovesSoutheastAsia2018) |
 | 1 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | Poland | [FMC Fun in Verona 2025](https://www.worldcubeassociation.org/competitions/FMCFuninVerona2025) |
 | 1 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | Poland | [Fun with FM in Warsaw 2025](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsaw2025) |
-| 1 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | Poland | [Warsaw FMC Tour II Sunday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIISunday2024) |
 | 1 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | Poland | [Warsaw FMC Tour Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourFriday2024) |
 | 1 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | Poland | [Warsaw FMC Tour II Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIIFriday2024) |
+| 1 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | Poland | [Warsaw FMC Tour II Sunday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIISunday2024) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [Few Better Mean It Diliman 2024](https://www.worldcubeassociation.org/competitions/FewBetterMeanItDiliman2024) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [Fewest Moves Singapore 2025](https://www.worldcubeassociation.org/competitions/FewestMovesSingapore2025) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) |
@@ -888,8 +890,8 @@
 | 1 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | Republic of Korea | [5BLD Madness Seongnam 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSeongnam2024) |
 | 1 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | Republic of Korea | [5BLD Madness Seoul 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSeoul2024) |
 | 1 | [Yiliang Lu (路义亮)](https://www.worldcubeassociation.org/persons/2008LUYI01) | China | [Henan Countryside 2012](https://www.worldcubeassociation.org/competitions/HenanCountryside2012) |
-| 1 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | China | [Tokyo Open FMC Winter 2025](https://www.worldcubeassociation.org/competitions/TokyoOpenFMCWinter2025) |
 | 1 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | China | [Tokyo FMC Spring 2025](https://www.worldcubeassociation.org/competitions/TokyoFMCSpring2025) |
+| 1 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | China | [Tokyo Open FMC Winter 2025](https://www.worldcubeassociation.org/competitions/TokyoOpenFMCWinter2025) |
 | 1 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | China | [Shanghai FMC Summer 2024](https://www.worldcubeassociation.org/competitions/ShanghaiFMCSummer2024) |
 | 1 | [Yoav Zaidenberg](https://www.worldcubeassociation.org/persons/2006ZAID01) | Israel | [Israel Open 2010](https://www.worldcubeassociation.org/competitions/IsraelOpen2010) |
 | 1 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) | Japan | [JRCA Hokuriku 2009](https://www.worldcubeassociation.org/competitions/JRCAHokuriku2009) |

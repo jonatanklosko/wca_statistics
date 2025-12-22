@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 December 2025*
+*Updated on 22 December 2025*
 
 
 ### Rubik's Cube - Single
@@ -249,6 +249,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **6.05** | United Kingdom | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 12.45, 6.05, 9.22, 9.77, 7.82 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **6.17** | Poland | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025) | 8.06, 8.82, 8.72, 6.17, 11.90 |
 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | **6.19** | Indonesia | [Jawa Timur Open 2025](https://www.worldcubeassociation.org/competitions/JawaTimurOpen2025) | 12.27, 13.84, 13.71, 12.68, 6.19 |
 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | **6.21** | Switzerland | [Swisscubing Cup MB II 2025](https://www.worldcubeassociation.org/competitions/SwisscubingCupMBII2025) | 14.19, 11.52, 6.21, 8.84, 8.12 |
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **6.35** | Romania | [Ploiesti Cubing 2025](https://www.worldcubeassociation.org/competitions/PloiestiCubing2025) | 11.78, 8.29, 6.35, 8.81, 10.05 |
@@ -257,7 +258,6 @@
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **6.49** | Russia | [Kublördag Västerås VIII - 2025](https://www.worldcubeassociation.org/competitions/KublordagVasterasVIII2025) | 9.77, 6.49, 11.76, 10.02, 10.44 |
 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) | **6.50** | Philippines | [Berkeley November Weekday 2025](https://www.worldcubeassociation.org/competitions/BerkeleyNovemberWeekday2025) | 9.48, 9.48, 9.86, 6.50, 10.01 |
 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | **6.52** | Switzerland | [Sorg'Open 2025](https://www.worldcubeassociation.org/competitions/SorgOpen2025) | 8.66, 8.37, 11.55, 8.88, 6.52 |
-| [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | **6.60** | China | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025) | 6.60, 12.56, 10.60, 9.23, 9.22 |
 
 ### 3x3x3 One-Handed - Average
 
@@ -271,8 +271,8 @@
 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | **8.22** | China | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025) | 8.21, 7.08, 10.61, 8.42, 8.04 |
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **8.37** | Romania | [Cube Plan Baie 2025](https://www.worldcubeassociation.org/competitions/CubePlanBaie2025) | 9.41, 7.19, 7.46, 8.23, 11.69 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **8.47** | New Zealand | [Crazy Christchurch 2025](https://www.worldcubeassociation.org/competitions/CrazyCubinginChristchurch2025) | 8.56, 7.68, 7.13, 10.04, 9.17 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **8.53** | Poland | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025) | 8.06, 8.82, 8.72, 6.17, 11.90 |
 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) | **8.57** | Philippines | [Berkeley October Weekday 2025](https://www.worldcubeassociation.org/competitions/BerkeleyOctoberWeekday2025) | 11.39, 8.94, 7.71, 8.55, 8.21 |
-| [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | **8.58** | Philippines | [Baguio Speedcubing Open 2025](https://www.worldcubeassociation.org/competitions/BaguioSpeedcubingOpen2025) | 12.52, 8.37, 8.12, 7.94, 9.24 |
 
 ### Megaminx - Single
 
@@ -308,6 +308,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) | **0.77** | United States | [Georgetown Side Events 2025](https://www.worldcubeassociation.org/competitions/GeorgetownSideEvents2025) | 3.72, 3.11, 0.77, 4.30, 6.38 |
 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **0.78** | Malaysia | [SG Small and Sides Feb 2025](https://www.worldcubeassociation.org/competitions/SGSmallandSidesFeb2025) | 2.80, 3.54, 2.64, 0.78, 2.06 |
 | [Jovan Lee](https://www.worldcubeassociation.org/persons/2024LEEJ08) | **0.80** | Singapore | [SG Small and Sides Feb 2025](https://www.worldcubeassociation.org/competitions/SGSmallandSidesFeb2025) | 2.26, 2.08, 2.54, 0.80, 1.79 |
 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **0.86** | New Zealand | [Crazy Christchurch 2025](https://www.worldcubeassociation.org/competitions/CrazyCubinginChristchurch2025) | 0.86, 3.93, 1.99, 2.12, 1.41 |
@@ -317,7 +318,6 @@
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **0.88** | United States | [Naperville Fall 2025](https://www.worldcubeassociation.org/competitions/NapervilleFall2025) | 0.88, 2.61, 1.81, 1.54, 1.34 |
 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | **0.95** | United States | [Clock & 'Minx Ohio 2025](https://www.worldcubeassociation.org/competitions/ClockMinxOhio2025) | 1.91, 1.96, 0.95, 13.27, 7.29 |
 | [Felizian Baumgartner](https://www.worldcubeassociation.org/persons/2023BAUM08) | **0.95** | Austria | [Slovak Championship 2025](https://www.worldcubeassociation.org/competitions/SlovakChampionship2025) | DNF, 3.21, 0.95, 3.26, 6.47 |
-| [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | **0.96** | Denmark | [Friheden Open 2025](https://www.worldcubeassociation.org/competitions/FrihedenOpen2025) | 4.44, 0.96, 3.45, 4.48, 4.74 |
 
 ### Pyraminx - Average
 
@@ -406,8 +406,8 @@
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **4.17** | United States | [Santa Barbara Winter 2025](https://www.worldcubeassociation.org/competitions/SantaBarbaraWinter2025) | 5.33, 5.30, 4.17, 6.13, DNF |
 | [Jacob Bennett](https://www.worldcubeassociation.org/persons/2023BENN04) | **4.38** | United States | [Gem City Warm Up OH 2025](https://www.worldcubeassociation.org/competitions/GemCityWarmUpOH2025) | 8.38, 7.35, 10.37, 4.38, 6.36 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **4.39** | Poland | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) | 7.30, 6.90, 6.97, 5.31, 4.39 |
+| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **4.39** | United States | [Portland in a Pyra Tree 2025](https://www.worldcubeassociation.org/competitions/PortlandinaPyraTree2025) | 6.03, 4.39, 8.43, 10.90, 5.17 |
 | [Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05) | **4.57** | China | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025) | 4.57, 7.47, 8.87, 6.08, 6.85 |
-| [Yen-An Chen (陳彥安)](https://www.worldcubeassociation.org/persons/2019CHEY31) | **4.65** | Chinese Taipei | [Taipei Summer Open 2025](https://www.worldcubeassociation.org/competitions/TaipeiSummerOpen2025) | 6.58, 5.83, 7.72, 4.65, 7.87 |
 
 ### Square-1 - Average
 

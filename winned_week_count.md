@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 December 2025*
+*Updated on 22 December 2025*
 
 
 ### Rubik's Cube
@@ -295,8 +295,8 @@
 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) | 17 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 16 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | 14 |
+| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 14 |
 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | 13 |
-| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 13 |
 | [Ernesto Fernández Regueira](https://www.worldcubeassociation.org/persons/2004FERN01) | 12 |
 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 12 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 11 |
@@ -338,8 +338,8 @@
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 32 |
 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 28 |
 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | 27 |
+| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 24 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 23 |
-| [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 23 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | 21 |
 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 19 |
 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 18 |
@@ -360,7 +360,7 @@
 | :--- | ---: |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 68 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 36 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 34 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 35 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 19 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 16 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 16 |
@@ -422,7 +422,7 @@
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | 14 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 14 |
 | [Fabrizio Cirnigliaro](https://www.worldcubeassociation.org/persons/2008CIRN01) | 13 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 12 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 13 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 11 |
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | 11 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 9 |

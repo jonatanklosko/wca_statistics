@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 19 December 2025*
+*Updated on 22 December 2025*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -38,11 +38,11 @@
 | 58 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [MCC Beta 2016](https://www.worldcubeassociation.org/competitions/MichiganCubingClubBeta2016) | [Michigan Cubing Club Gamma 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubGamma2019) |
 | 58 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | [Michigan 2016](https://www.worldcubeassociation.org/competitions/Michigan2016) | [Imagination Station A 2023](https://www.worldcubeassociation.org/competitions/ImaginationStationA2023) |
 | 58 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | [FME & Cubo y Calla 2016](https://www.worldcubeassociation.org/competitions/FMECuboyCalla2016) | [Tarragona Open 2024](https://www.worldcubeassociation.org/competitions/TarragonaOpen2024) |
+| 58 | [Eskil Munthe](https://www.worldcubeassociation.org/persons/2022MUNT02) | [Herrljunga Open 2022](https://www.worldcubeassociation.org/competitions/HerrljungaOpen2022) |  |
+| 58 | [Quinn Maloney](https://www.worldcubeassociation.org/persons/2023MALO01) | [Pioneer Valley Cubing B 2023](https://www.worldcubeassociation.org/competitions/PioneerValleyCubingB2023) |  |
 | 57 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | [UK Championship 2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014) | [Guildford Open 2020](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020) |
 | 57 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | [Athens Fall Late Night 2016](https://www.worldcubeassociation.org/competitions/AthensFallLateNight2016) | [Cobb Cubes Comeback 2A 2021](https://www.worldcubeassociation.org/competitions/CobbCubesComeback2A2021) |
 | 57 | [Étienne Aubry](https://www.worldcubeassociation.org/persons/2018AUBR01) | [Croissy Open 2018](https://www.worldcubeassociation.org/competitions/CroissyOpen2018) | [Polytechnique Open 2024](https://www.worldcubeassociation.org/competitions/PolytechniqueOpen2024) |
-| 57 | [Eskil Munthe](https://www.worldcubeassociation.org/persons/2022MUNT02) | [Herrljunga Open 2022](https://www.worldcubeassociation.org/competitions/HerrljungaOpen2022) |  |
-| 57 | [Quinn Maloney](https://www.worldcubeassociation.org/persons/2023MALO01) | [Pioneer Valley Cubing B 2023](https://www.worldcubeassociation.org/competitions/PioneerValleyCubingB2023) |  |
 | 56 | [Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01) | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) | [Ladce Open 2025](https://www.worldcubeassociation.org/competitions/LadceOpen2025) |
 | 56 | [Evan Wright](https://www.worldcubeassociation.org/persons/2017WRIG03) | [Howland High Fall 2017](https://www.worldcubeassociation.org/competitions/HowlandHighFall2017) |  |
 | 56 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |

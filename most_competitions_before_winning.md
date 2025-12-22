@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 19 December 2025*
+*Updated on 22 December 2025*
 
 
 ### Rubik's Cube
@@ -70,6 +70,7 @@
 | ---: | :--- | :--- |
 | 84 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) |
 | 71 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Finnish Champs Qualifier 2025](https://www.worldcubeassociation.org/competitions/FinnishChampsQualifier2025) |
+| 66 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | [Manhattan Mini PM 2025](https://www.worldcubeassociation.org/competitions/ManhattanMiniPM2025) |
 | 65 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | [Billings Fall 2024](https://www.worldcubeassociation.org/competitions/BillingsFall2024) |
 | 60 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024) |
 | 57 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Olsztyn Squared 2024](https://www.worldcubeassociation.org/competitions/OlsztynSquared2024) |
@@ -77,7 +78,6 @@
 | 52 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Schnelle Solves Siegen 2024](https://www.worldcubeassociation.org/competitions/SchnelleSolvesSiegen2024) |
 | 49 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | [Idaho Megacomp 2019](https://www.worldcubeassociation.org/competitions/IdahoMegacomp2019) |
 | 49 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [North Branch Campfire 2024](https://www.worldcubeassociation.org/competitions/NorthBranchCampfire2024) |
-| 48 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | [North Highlands Summer 2023](https://www.worldcubeassociation.org/competitions/NorthHighlandsSummer2023) |
 
 ### 7x7x7 Cube
 

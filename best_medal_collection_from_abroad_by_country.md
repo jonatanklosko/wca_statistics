@@ -1,45 +1,45 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 22 December 2025*
+*Updated on 25 December 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1536** | 1306 | 1122 | 3964 |
-| United States | **1496** | 1179 | 1009 | 3684 |
+| United States | **1499** | 1181 | 1011 | 3691 |
 | Germany | **1372** | 1294 | 1283 | 3949 |
-| Russia | **1289** | 706 | 536 | 2531 |
-| France | **1125** | 984 | 849 | 2958 |
-| China | **1072** | 983 | 871 | 2926 |
+| Russia | **1290** | 707 | 536 | 2533 |
+| France | **1125** | 985 | 849 | 2959 |
+| China | **1073** | 983 | 871 | 2927 |
 | Netherlands | **1058** | 847 | 733 | 2638 |
 | Poland | **840** | 546 | 434 | 1820 |
-| Malaysia | **494** | 528 | 488 | 1510 |
-| United Kingdom | **486** | 537 | 512 | 1535 |
+| Malaysia | **494** | 529 | 488 | 1511 |
+| United Kingdom | **490** | 540 | 512 | 1542 |
 | Canada | **484** | 493 | 545 | 1522 |
-| Hong Kong, China | **478** | 472 | 397 | 1347 |
-| Switzerland | **464** | 507 | 410 | 1381 |
+| Hong Kong, China | **483** | 474 | 397 | 1354 |
+| Switzerland | **466** | 511 | 411 | 1388 |
 | India | **432** | 431 | 413 | 1276 |
 | Italy | **432** | 421 | 391 | 1244 |
 | Republic of Korea | **425** | 360 | 315 | 1100 |
-| Denmark | **386** | 331 | 280 | 997 |
+| Denmark | **386** | 332 | 280 | 998 |
 | Ukraine | **350** | 368 | 381 | 1099 |
 | Sweden | **339** | 394 | 398 | 1131 |
 | Finland | **316** | 256 | 222 | 794 |
 | Australia | **314** | 176 | 131 | 621 |
 | Argentina | **294** | 200 | 175 | 669 |
 | Singapore | **264** | 236 | 251 | 751 |
-| Romania | **260** | 193 | 160 | 613 |
+| Romania | **261** | 193 | 160 | 614 |
 | Chinese Taipei | **257** | 244 | 245 | 746 |
 | Indonesia | **255** | 242 | 187 | 684 |
-| Japan | **251** | 206 | 180 | 637 |
+| Japan | **251** | 206 | 181 | 638 |
 | Spain | **238** | 233 | 255 | 726 |
 | Ireland | **229** | 115 | 100 | 444 |
 | Austria | **211** | 261 | 281 | 753 |
 | Slovenia | **199** | 263 | 271 | 733 |
 | Peru | **194** | 177 | 227 | 598 |
 | Latvia | **173** | 252 | 251 | 676 |
-| Czech Republic | **163** | 188 | 193 | 544 |
-| Belgium | **158** | 233 | 229 | 620 |
+| Czech Republic | **163** | 188 | 195 | 546 |
+| Belgium | **158** | 234 | 229 | 621 |
 | Colombia | **154** | 128 | 121 | 403 |
 | Kazakhstan | **134** | 146 | 160 | 440 |
 | Greece | **132** | 163 | 127 | 422 |
@@ -52,7 +52,7 @@
 | Venezuela | **101** | 128 | 121 | 350 |
 | New Zealand | **89** | 98 | 90 | 277 |
 | Croatia | **87** | 130 | 104 | 321 |
-| Brazil | **87** | 110 | 73 | 270 |
+| Brazil | **87** | 110 | 74 | 271 |
 | Vietnam | **82** | 96 | 94 | 272 |
 | Guatemala | **82** | 47 | 51 | 180 |
 | Estonia | **71** | 87 | 79 | 237 |
@@ -112,9 +112,9 @@
 | Cuba | **1** | 1 | 0 | 2 |
 | Angola | **1** | 0 | 2 | 3 |
 | United Arab Emirates | **1** | 0 | 2 | 3 |
+| Dominican Republic | **0** | 6 | 5 | 11 |
 | Syria | **0** | 6 | 1 | 7 |
 | Sri Lanka | **0** | 4 | 3 | 7 |
-| Dominican Republic | **0** | 3 | 3 | 6 |
 | Saint Kitts and Nevis | **0** | 3 | 0 | 3 |
 | Zimbabwe | **0** | 2 | 8 | 10 |
 | Kenya | **0** | 2 | 1 | 3 |

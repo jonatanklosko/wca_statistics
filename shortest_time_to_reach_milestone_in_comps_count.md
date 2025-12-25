@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 22 December 2025*
+*Updated on 25 December 2025*
 
 
 ### 300 Competitions
@@ -139,8 +139,8 @@
 | 595 | [Jacob Bennett](https://www.worldcubeassociation.org/persons/2023BENN04) |
 | 601 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 | 610 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 610 | [Thomas Cabezas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 610 | [Jacob Goossens Celis](https://www.worldcubeassociation.org/persons/2023CELI06) |
-| 610 | [Thomas Cabezas Casallas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 
 ### 25 Competitions
 
@@ -153,7 +153,7 @@
 | 274 | [August Barnard](https://www.worldcubeassociation.org/persons/2022BARN21) |
 | 274 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 | 281 | [Ramanujan Srinivasan](https://www.worldcubeassociation.org/persons/2024SRIN06) |
-| 287 | [Thomas Cabezas Casallas](https://www.worldcubeassociation.org/persons/2023CASA08) |
+| 287 | [Thomas Cabezas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 289 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
 | 294 | [Kyle Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 297 | [Leon Granér](https://www.worldcubeassociation.org/persons/2024GRAN16) |
@@ -188,7 +188,7 @@
 | 121 | [Goodwin Liu](https://www.worldcubeassociation.org/persons/2024LIUG01) |
 | 121 | [Izaak Ridge Aguirre](https://www.worldcubeassociation.org/persons/2025AGUI10) |
 | 127 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
-| 127 | [Thomas Cabezas Casallas](https://www.worldcubeassociation.org/persons/2023CASA08) |
+| 127 | [Thomas Cabezas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 127 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
 | 127 | [Arya Bhatelia](https://www.worldcubeassociation.org/persons/2024BHAT07) |
 

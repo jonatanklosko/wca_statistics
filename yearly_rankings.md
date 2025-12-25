@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 December 2025*
+*Updated on 25 December 2025*
 
 
 ### Rubik's Cube - Single
@@ -71,9 +71,9 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **15.18** | Poland | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025) | 20.27, 22.54, 19.57, 15.18, 20.34 |
 | [Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01) | **16.52** | Philippines | [Makati Speedcubing Open IV 2025](https://www.worldcubeassociation.org/competitions/MakatiSpeedcubingOpenIV2025) | 16.52, 24.71, 23.80, 23.17, 20.35 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **16.56** | United States | [Vegas Cubing Cup Spring 2025](https://www.worldcubeassociation.org/competitions/VegasCubingCupSpring2025) | 20.84, 19.10, 20.87, 22.39, 16.56 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **16.64** | Germany | [Franconia Christmas 2025](https://www.worldcubeassociation.org/competitions/FranconiaChristmas2025) | 18.75, 21.39, 16.64, 22.64, 22.50 |
 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) | **16.84** | United States | [Texas Championship 2025](https://www.worldcubeassociation.org/competitions/TexasChampionship2025) | 22.26, 27.31, 24.62, 16.84, 26.24 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **16.95** | Russia | [Uzbekistan Nationals 2025](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2025) | 23.71, 20.65, 16.95, 20.21, 19.55 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **17.00** | Germany | [Rheinland-Pfalz Open 2025](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2025) | 22.91, 22.16, 17.00, 20.12, 23.10 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **17.10** | United States | [Honolulu Hoʻoilo 2025](https://www.worldcubeassociation.org/competitions/HonoluluHooilo2025) | 25.72, 21.77, 17.10, 19.51, 27.31 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **17.65** | Vietnam | [Paradise Park Bangkok NxNxN 2025](https://www.worldcubeassociation.org/competitions/ParadiseParkBangkokNxNxN2025) | 22.21, 19.74, 19.17, 17.65, DNF |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **17.89** | China | [Beijing University 2025](https://www.worldcubeassociation.org/competitions/BeijingUniversity2025) | 17.89, 20.40, 24.23, 19.49, 24.27 |
@@ -130,12 +130,12 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **57.69** | United States | [Burbank Big Cubes 2025](https://www.worldcubeassociation.org/competitions/BurbankBigCubes2025) | 57.69, 1:11.14, 1:09.39 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:02.12** | Poland | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 1:08.80, 1:02.12, 1:10.01 |
+| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:03.30** | China | [Guangzhou Big Cubes 2025](https://www.worldcubeassociation.org/competitions/GuangzhouBigCubes2025) | 1:11.11, 1:03.30, 1:13.39 |
 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **1:03.43** | United States | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 1:03.43, 1:22.73, 1:10.55 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **1:05.88** | Russia | [Astana Open 2025](https://www.worldcubeassociation.org/competitions/AstanaOpen2025) | 1:12.06, 1:19.36, 1:05.88 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **1:06.80** | Singapore | [Singapore Megaland July 2025](https://www.worldcubeassociation.org/competitions/SingaporeMegalandJuly2025) | 1:18.74, 1:06.80, 1:10.02 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:06.83** | Vietnam | [Paradise Park Bangkok NxNxN 2025](https://www.worldcubeassociation.org/competitions/ParadiseParkBangkokNxNxN2025) | 1:06.83, DNF, 1:15.46 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:06.96** | Republic of Korea | [We Laugh Pohanghang 2025](https://www.worldcubeassociation.org/competitions/WeLaughPohanghang2025) | 1:20.11, 1:10.06, 1:06.96 |
-| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:07.18** | China | [Beijing Spring Open 2025](https://www.worldcubeassociation.org/competitions/BeijingSpringOpen2025) | 1:19.76, 1:07.18, 1:20.70 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:07.76** | Ireland | [Rubik's German Nationals 2025](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2025) | 1:20.11, 1:07.76, 1:18.57 |
 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | **1:08.61** | United States | [Alliance Big Cubes 2025](https://www.worldcubeassociation.org/competitions/AllianceBigCubes2025) | 1:25.42, 1:19.25, 1:08.61 |
 
@@ -146,11 +146,11 @@
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **1:05.04** | United States | [Nub Open Trabuco Hills Fall 2025](https://www.worldcubeassociation.org/competitions/NubOpenTrabucoHillsFall2025) | 1:04.60, 1:04.80, 1:05.73 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:06.98** | Poland | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 1:08.80, 1:02.12, 1:10.01 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:07.77** | Vietnam | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | 1:07.83, 1:07.88, 1:07.60 |
+| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:09.27** | China | [Guangzhou Big Cubes 2025](https://www.worldcubeassociation.org/competitions/GuangzhouBigCubes2025) | 1:11.11, 1:03.30, 1:13.39 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **1:09.67** | Ireland | [Manchester 5x5 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester5x5Day2025) | 1:10.68, 1:10.11, 1:08.23 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:09.80** | Republic of Korea | [Paradise Park Bangkok NxNxN 2025](https://www.worldcubeassociation.org/competitions/ParadiseParkBangkokNxNxN2025) | 1:09.00, 1:12.59, 1:07.81 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **1:10.06** | Russia | [Tashkent Open 2025](https://www.worldcubeassociation.org/competitions/TashkentOpen2025) | 1:05.96, 1:10.71, 1:13.51 |
 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **1:10.64** | United States | [Machesney Park Fall 2025](https://www.worldcubeassociation.org/competitions/MachesneyParkFall2025) | 1:10.76, 1:15.76, 1:05.39 |
-| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:11.08** | China | [Lishui Open 2025](https://www.worldcubeassociation.org/competitions/LishuiOpen2025) | 1:12.10, 1:08.27, 1:12.88 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **1:11.85** | Singapore | [Singapore Megaland July 2025](https://www.worldcubeassociation.org/competitions/SingaporeMegalandJuly2025) | 1:18.74, 1:06.80, 1:10.02 |
 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | **1:12.44** | United States | [Oberlin Big Cubes 2025](https://www.worldcubeassociation.org/competitions/OberlinBigCubes2025) | 1:09.43, 1:12.10, 1:15.78 |
 
@@ -159,10 +159,10 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **1:33.48** | United States | [Nub Open Trabuco Hills Fall 2025](https://www.worldcubeassociation.org/competitions/NubOpenTrabucoHillsFall2025) | 1:33.48, 1:41.36, 1:35.75 |
+| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:34.11** | China | [Guangzhou Big Cubes 2025](https://www.worldcubeassociation.org/competitions/GuangzhouBigCubes2025) | 1:49.52, 1:39.65, 1:34.11 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **1:35.28** | Malaysia | [gateway KLIA2 Cube Open 2025](https://www.worldcubeassociation.org/competitions/gatewayKLIA2CubeOpen2025) | 1:53.82, 1:47.28, 1:35.28 |
 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **1:36.79** | Republic of Korea | [Please Big Cubes Korea 2025](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2025) | 2:01.50, 1:58.81, 1:36.79 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:36.84** | Poland | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025) | 1:36.84, 1:53.07, 2:06.25 |
-| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:37.26** | China | [Singapore Independence Day 2025](https://www.worldcubeassociation.org/competitions/SingaporeIndependenceDay2025) | 1:46.49, 1:46.95, 1:37.26 |
 | [Omar Ellabban](https://www.worldcubeassociation.org/persons/2018ELLA01) | **1:37.93** | Canada | [Ottawa Big Cubes 2025](https://www.worldcubeassociation.org/competitions/OttawaBigCubes2025) | 1:51.89, 1:46.34, 1:37.93 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **1:38.39** | Singapore | [Singapore Jumbo June 2025](https://www.worldcubeassociation.org/competitions/SingaporeJumboJune2025) | 1:38.39, 1:42.46, 1:42.87 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:38.57** | Republic of Korea | [SuNxNter Speedcubing 2025](https://www.worldcubeassociation.org/competitions/SuNxNterSpeedcubing2025) | 1:46.08, 2:27.31, 1:38.57 |
@@ -174,8 +174,8 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **1:36.86** | United States | [Nub Open Trabuco Hills Fall 2025](https://www.worldcubeassociation.org/competitions/NubOpenTrabucoHillsFall2025) | 1:33.48, 1:41.36, 1:35.75 |
+| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:41.09** | China | [Guangzhou Big Cubes 2025](https://www.worldcubeassociation.org/competitions/GuangzhouBigCubes2025) | 1:49.52, 1:39.65, 1:34.11 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **1:41.24** | Singapore | [Singapore Jumbo June 2025](https://www.worldcubeassociation.org/competitions/SingaporeJumboJune2025) | 1:38.39, 1:42.46, 1:42.87 |
-| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:42.72** | China | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025) | 1:41.20, 1:46.80, 1:40.17 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:44.32** | Poland | [Bergen Fall 2025](https://www.worldcubeassociation.org/competitions/BergenFall2025) | 1:45.65, 1:41.50, 1:45.80 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **1:44.46** | Malaysia | [One Shamelin Cube Open 2025](https://www.worldcubeassociation.org/competitions/OneShamelinCubeOpen2025) | 1:41.95, 1:53.73, 1:37.69 |
 | [Omar Ellabban](https://www.worldcubeassociation.org/persons/2018ELLA01) | **1:45.39** | Canada | [Ottawa Big Cubes 2025](https://www.worldcubeassociation.org/competitions/OttawaBigCubes2025) | 1:51.89, 1:46.34, 1:37.93 |
@@ -267,12 +267,12 @@
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **7.94** | United States | [WCC Western Championship 2025](https://www.worldcubeassociation.org/competitions/WesternChampionship2025) | 8.27, 7.46, 7.96, 10.89, 7.60 |
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **7.95** | United Kingdom | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025) | 8.51, 8.66, 7.66, 7.68, 6.49 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **8.09** | Russia | [Schnelle Solves Siegen 2025](https://www.worldcubeassociation.org/competitions/SchnelleSolvesSiegen2025) | 7.59, 7.36, 8.05, 8.62, 12.18 |
+| [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | **8.11** | Switzerland | [Franconia Christmas 2025](https://www.worldcubeassociation.org/competitions/FranconiaChristmas2025) | 7.14, 8.26, 7.98, 9.76, 8.08 |
 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | **8.13** | Switzerland | [Swiss Nationals 2025](https://www.worldcubeassociation.org/competitions/SwissNationals2025) | 7.93, 9.43, 8.84, 7.11, 7.61 |
 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | **8.22** | China | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025) | 8.21, 7.08, 10.61, 8.42, 8.04 |
 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **8.37** | Romania | [Cube Plan Baie 2025](https://www.worldcubeassociation.org/competitions/CubePlanBaie2025) | 9.41, 7.19, 7.46, 8.23, 11.69 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **8.47** | New Zealand | [Crazy Christchurch 2025](https://www.worldcubeassociation.org/competitions/CrazyCubinginChristchurch2025) | 8.56, 7.68, 7.13, 10.04, 9.17 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **8.53** | Poland | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025) | 8.06, 8.82, 8.72, 6.17, 11.90 |
-| [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) | **8.57** | Philippines | [Berkeley October Weekday 2025](https://www.worldcubeassociation.org/competitions/BerkeleyOctoberWeekday2025) | 11.39, 8.94, 7.71, 8.55, 8.21 |
 
 ### Megaminx - Single
 

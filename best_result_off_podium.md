@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 22 December 2025*
+*Updated on 25 December 2025*
 
 
 ### Rubik's Cube
@@ -122,7 +122,7 @@
 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | 20 | **22.33** | [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025/results/all#e333fm_f) | 4 |
 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) | 20 | **22.33** | [Tokyo FMC Spring 2025](https://www.worldcubeassociation.org/competitions/TokyoFMCSpring2025/results/all#e333fm_f) | 4 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 21 | **22.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 6 |
-| [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 22 | **22.33** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e333fm_f) | 5 |
+| [Moritz Lotz](https://www.worldcubeassociation.org/persons/2017LOTZ01) | 21 | **22.33** | [FMC under the Mistletoe 2025](https://www.worldcubeassociation.org/competitions/FMCundertheMistletoe2025/results/all#e333fm_f) | 4 |
 
 ### 3x3x3 One-Handed
 
@@ -161,13 +161,13 @@
 | [Clem Tucker](https://www.worldcubeassociation.org/persons/2022TUCK09) | 1.32 | **1.95** | [Brooklyn Waldorf Winter 2025](https://www.worldcubeassociation.org/competitions/BrooklynWaldorfWinter2025/results/all#epyram_f) | 4 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.54 | **2.02** | [CubingUSA All-Stars 2025](https://www.worldcubeassociation.org/competitions/CubingUSAAllStars2025/results/all#epyram_f) | 4 |
 | [Elliott Perkins](https://www.worldcubeassociation.org/persons/2018PERK01) | 1.57 | **2.02** | [CubingUSA All-Stars 2025](https://www.worldcubeassociation.org/competitions/CubingUSAAllStars2025/results/all#epyram_f) | 5 |
+| [Carson Clark (张卡森)](https://www.worldcubeassociation.org/persons/2023CLAR02) | 1.20 | **2.04** | [Ohio Championship 2025](https://www.worldcubeassociation.org/competitions/OhioChampionship2025/results/all#epyram_f) | 4 |
 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.26 | **2.04** | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/all#epyram_f) | 4 |
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.49 | **2.04** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#epyram_f) | 4 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.86 | **2.07** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 4 |
 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 1.58 | **2.09** | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025/results/all#epyram_f) | 4 |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.92 | **2.09** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#epyram_f) | 5 |
 | [Tianyu Sun (孙天宇)](https://www.worldcubeassociation.org/persons/2021SUNT01) | 1.67 | **2.11** | [Luoyang Spring 2025](https://www.worldcubeassociation.org/competitions/LuoyangSpring2025/results/all#epyram_f) | 4 |
-| [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.45 | **2.12** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 5 |
 
 ### Rubik's Clock
 

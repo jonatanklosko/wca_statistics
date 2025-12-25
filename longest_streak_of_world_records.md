@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 22 December 2025*
+*Updated on 25 December 2025*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -8,7 +8,7 @@
 | 11 | 5x5x5 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2012](https://www.worldcubeassociation.org/competitions/AustralianNationals2012) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) | 5.73 |
 | 11 | 5x5x5 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) | 7.05 |
 | 11 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018) | [Daegu Cold Winter 2024](https://www.worldcubeassociation.org/competitions/DaeguColdWinter2024) | 6.06 |
-| 10 | Rubik's Cube | Average | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) |  | 2.79 |
+| 10 | Rubik's Cube | Average | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023) |  | 2.80 |
 | 9 | Rubik's Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | [OCSEF 2017](https://www.worldcubeassociation.org/competitions/OCSEFOpen2017) | 7.23 |
 | 9 | 6x6x6 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing III 2018](https://www.worldcubeassociation.org/competitions/SacCubingIII2018) |  | 7.91 |
 | 9 | 7x7x7 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [COpen2 2018](https://www.worldcubeassociation.org/competitions/Cerritos2018) |  | 7.70 |
@@ -68,7 +68,7 @@
 | 3 | 4x4x4 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Kubaroo Open 2011](https://www.worldcubeassociation.org/competitions/KubarooOpen2011) | [Dutch Nationals 2011](https://www.worldcubeassociation.org/competitions/DutchNationals2011) | 0.61 |
 | 3 | 4x4x4 Cube | Average | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008) | [Tokyo Open 2008](https://www.worldcubeassociation.org/competitions/TokyoOpen2008) | 0.50 |
 | 3 | 4x4x4 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) | [German Open 2012](https://www.worldcubeassociation.org/competitions/GermanOpen2012) | 0.50 |
-| 3 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |  | 1.43 |
+| 3 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |  | 1.44 |
 | 3 | 7x7x7 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | [Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017) | 1.84 |
 | 3 | 3x3x3 Blindfolded | Single | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [US Nationals 2004](https://www.worldcubeassociation.org/competitions/US2004) | [Caltech Spring 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005) | 0.77 |
 | 3 | 3x3x3 Blindfolded | Single | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | [Zonhoven Open 2012](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2012) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | 1.34 |

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 December 2025*
+*Updated on 25 December 2025*
 
 
 ### Rubik's Cube
@@ -72,10 +72,10 @@
 | 1:07.77 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:07.83, 1:07.88, 1:07.60, 1:13.42, 1:07.10 |
 | 1:08.00 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | DNF, 1:08.80, 1:02.12, 1:10.01, 1:05.18 |
 | 1:08.85 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:18.06, 1:09.86, 1:08.52, 1:02.67, 1:08.18 |
+| 1:10.92 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:13.04, 1:10.72, 1:10.92, 1:11.11, 1:03.30 |
 | 1:11.34 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1:05.88, 1:19.23, 1:12.45, 1:15.61, 1:05.96 |
 | 1:11.54 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:06.80, 1:10.02, 1:17.33, 1:07.32, 1:17.27 |
 | 1:11.78 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:14.55, 1:16.60, 1:10.68, 1:10.11, 1:08.23 |
-| 1:12.10 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:12.10, 1:08.27, 1:12.88, 1:11.98, 1:12.22 |
 | 1:12.23 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:10.44, 1:16.16, 1:10.38, 1:15.88, 1:03.43 |
 | 1:13.32 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:11.96, 1:13.14, 1:08.59, 1:30.01, 1:14.87 |
 
@@ -84,8 +84,8 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1:37.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:33.48, 1:41.36, 1:35.75, 1:48.81, 1:35.83 |
+| 1:40.88 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:40.90, 1:42.09, 1:49.52, 1:39.65, 1:34.11 |
 | 1:42.31 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:47.28, 1:35.28, 1:41.95, 1:53.73, 1:37.69 |
-| 1:43.63 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:44.37, 1:45.33, 1:41.20, 1:46.80, 1:40.17 |
 | 1:44.47 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:38.39, 1:42.46, 1:42.87, 1:49.17, 1:48.09 |
 | 1:44.53 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:40.49, 1:46.08, 2:27.31, 1:38.57, 1:47.03 |
 | 1:44.98 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:39.95, 1:52.79, 1:41.60, 1:50.15, 1:43.19 |

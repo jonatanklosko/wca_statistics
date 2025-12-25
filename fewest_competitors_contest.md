@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 December 2025*
+*Updated on 25 December 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -80,6 +80,7 @@
 | 6 | [Fitchburg FMC II 2023](https://www.worldcubeassociation.org/competitions/FitchburgFMCII2023) |
 | 6 | [FMC Day in Trnava 2024](https://www.worldcubeassociation.org/competitions/FMCDayinTrnava2024) |
 | 6 | [GA Cubers BBQ 2023](https://www.worldcubeassociation.org/competitions/GACubersBigBlindQualifier2023) |
+| 6 | [Georgetown FMC 2025](https://www.worldcubeassociation.org/competitions/GeorgetownFMC2025) |
 | 6 | [Grizz League Small Cubes 2023](https://www.worldcubeassociation.org/competitions/GrizzLeagueSmallCubes2023) |
 | 6 | [Helsinki Big Cubes 2024](https://www.worldcubeassociation.org/competitions/HelsinkiBigCubes2024) |
 | 6 | [Hilliard Hippocampus III 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusIII2023) |
@@ -950,6 +951,7 @@
 | 15 | [Please Be Quiet Toronto 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietToronto2019) |
 | 15 | [Please Be Solved UBC 2025](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedUBC2025) |
 | 15 | [Please Be Solved Vancouver 2022](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2022) |
+| 15 | [Pocos Cupos Bogotá XVI 2025](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaXVI2025) |
 | 15 | [Poznań Side Challenge 2017](https://www.worldcubeassociation.org/competitions/PoznanSideChallenge2017) |
 | 15 | [PU Villavicencio II 2025](https://www.worldcubeassociation.org/competitions/PUVillavicencioII2025) |
 | 15 | [Puy de Dome Open 2011](https://www.worldcubeassociation.org/competitions/PuydeDomeOpen2011) |

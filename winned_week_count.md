@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 22 December 2025*
+*Updated on 25 December 2025*
 
 
 ### Rubik's Cube
@@ -17,7 +17,7 @@
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 19 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 17 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | 17 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 16 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 17 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 15 |
 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | 12 |
 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) | 12 |
@@ -58,7 +58,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 107 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 108 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 94 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 65 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 54 |
@@ -91,8 +91,8 @@
 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 33 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 27 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 22 |
+| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 21 |
 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 20 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 20 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 20 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 19 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 19 |
@@ -127,7 +127,7 @@
 | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) | 9 |
 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 8 |
 | [Niko Paavilainen](https://www.worldcubeassociation.org/persons/2011PAAV01) | 8 |
-| [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | 7 |
+| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 8 |
 
 ### 7x7x7 Cube
 
@@ -409,7 +409,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 42 |
-| [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | 37 |
+| [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | 38 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 33 |
 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 33 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 28 |
@@ -422,7 +422,7 @@
 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | 14 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 14 |
 | [Fabrizio Cirnigliaro](https://www.worldcubeassociation.org/persons/2008CIRN01) | 13 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 13 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 12 |
 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | 11 |
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | 11 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 9 |

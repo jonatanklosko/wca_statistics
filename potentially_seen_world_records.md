@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -74,9 +74,9 @@
 | 79 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 79 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 78 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
+| 77 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 77 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 76 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
-| 76 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 74 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
@@ -100,10 +100,10 @@
 | 68 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
 | 68 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 67 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
-| 67 | [Fumiki Koseki (古関章記)](https://www.worldcubeassociation.org/persons/2005KOSE01) |
 | 67 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 67 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 67 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 67 | [Fumiki Koseki (古関章記)](https://www.worldcubeassociation.org/persons/2005KOSE01) |
 | 67 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
 
 

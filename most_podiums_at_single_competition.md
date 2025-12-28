@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -689,6 +689,7 @@
 | 13 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Indonesian Championship 2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019/results/podiums) |
 | 13 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesian Championship 2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019/results/podiums) |
 | 14 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesian Championship 2022](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2022/results/podiums) |
+| 14 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesian Championship 2025](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2025/results/podiums) |
 | 12 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesia Open 2022](https://www.worldcubeassociation.org/competitions/IndonesiaOpen2022/results/podiums) |
 | 11 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | [Indonesia Open 2022](https://www.worldcubeassociation.org/competitions/IndonesiaOpen2022/results/podiums) |
 | 10 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012/results/podiums) |
@@ -925,6 +926,8 @@
 | 10 | [Samuel Cuellar Ramirez](https://www.worldcubeassociation.org/persons/2015RAMI14) | [Nacionales El Salvador 2019](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2019/results/podiums) |
 | 11 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Nacionales El Salvador 2023](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2023/results/podiums) |
 | 11 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales El Salvador 2024](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2024/results/podiums) |
+| 12 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales El Salvador 2025](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2025/results/podiums) |
+| 11 | [Jose Javier Melendez Maldonado](https://www.worldcubeassociation.org/persons/2018MALD02) | [Nacionales El Salvador 2025](https://www.worldcubeassociation.org/competitions/NacionalesElSalvador2025/results/podiums) |
 | 10 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales Guatemala 2023](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2023/results/podiums) |
 | 10 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales Guatemala 2024](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2024/results/podiums) |
 | 13 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Nacionales Guatemala 2025](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2025/results/podiums) |

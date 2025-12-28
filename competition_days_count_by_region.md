@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 16515 |
+| 1.46 | World | 16525 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 5359 |
+| 1.72 | Europe | 5362 |
 | 1.48 | Oceania | 722 |
-| 1.46 | South America | 2100 |
+| 1.46 | South America | 2101 |
 | 1.41 | Asia | 3389 |
 | 1.32 | Africa | 213 |
-| 1.21 | North America | 4732 |
+| 1.21 | North America | 4738 |
 
 ### Countries
 
@@ -42,7 +42,7 @@
 | 1.85 | Spain | 460 |
 | 1.84 | Norway | 160 |
 | 1.83 | Serbia | 30 |
-| 1.82 | Finland | 179 |
+| 1.82 | Finland | 180 |
 | 1.82 | United Kingdom | 334 |
 | 1.80 | Bosnia and Herzegovina | 15 |
 | 1.80 | Slovakia | 55 |
@@ -69,9 +69,9 @@
 | 1.60 | Dominican Republic | 30 |
 | 1.59 | New Zealand | 167 |
 | 1.58 | Latvia | 43 |
-| 1.58 | Greece | 45 |
 | 1.57 | San Marino | 7 |
 | 1.57 | Nepal | 23 |
+| 1.55 | Greece | 47 |
 | 1.55 | India | 724 |
 | 1.54 | Denmark | 235 |
 | 1.54 | Bulgaria | 28 |
@@ -105,7 +105,7 @@
 | 1.30 | Uruguay | 60 |
 | 1.29 | Hong Kong, China | 28 |
 | 1.28 | Philippines | 389 |
-| 1.28 | Colombia | 494 |
+| 1.28 | Colombia | 495 |
 | 1.27 | Morocco | 11 |
 | 1.26 | El Salvador | 39 |
 | 1.25 | Venezuela | 95 |
@@ -116,9 +116,9 @@
 | 1.22 | Singapore | 100 |
 | 1.18 | Japan | 263 |
 | 1.18 | Armenia | 11 |
-| 1.17 | Canada | 476 |
+| 1.17 | Canada | 477 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3788 |
+| 1.16 | United States | 3793 |
 | 1.15 | Mongolia | 52 |
 | 1.12 | Cyprus | 16 |
 | 1.12 | Azerbaijan | 49 |

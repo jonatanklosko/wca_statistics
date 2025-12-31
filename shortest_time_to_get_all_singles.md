@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 December 2025*
+*Updated on 31 December 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -75,6 +75,7 @@
 | 581 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) |
 | 581 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) |
 | 582 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) |
+| 582 | [Zaya Qiaolong (俏龙扎雅)](https://www.worldcubeassociation.org/persons/2024QIAO03) |
 | 588 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) |
 | 589 | [Dylan Himmelfarb](https://www.worldcubeassociation.org/persons/2023HIMM02) |
 | 594 | [Bowen Xiao (肖博文)](https://www.worldcubeassociation.org/persons/2017XIAO09) |
@@ -381,6 +382,7 @@
 | 1680 | [Vianne Chang](https://www.worldcubeassociation.org/persons/2017CHAN47) |
 | 1693 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) |
 | 1702 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) |
+| 1702 | [Zijun Liu (刘子钧)](https://www.worldcubeassociation.org/persons/2021LIUZ07) |
 | 1708 | [Aaron Soley](https://www.worldcubeassociation.org/persons/2017SOLE01) |
 | 1715 | [Draco Tong](https://www.worldcubeassociation.org/persons/2020TONG02) |
 | 1722 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) |

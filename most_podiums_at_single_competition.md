@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 December 2025*
+*Updated on 31 December 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -380,6 +380,7 @@
 | 12 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Cuthberts Open 2014](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2014/results/podiums) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Cuthberts Open 2015](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2015/results/podiums) |
 | 12 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [CVDB Open 2017](https://www.worldcubeassociation.org/competitions/CVDBOpen2017/results/podiums) |
+| 13 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Cyprus Nationals 2025](https://www.worldcubeassociation.org/competitions/CyprusNationals2025/results/podiums) |
 | 10 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007/results/podiums) |
 | 10 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Czech Open 2008](https://www.worldcubeassociation.org/competitions/CzechOpen2008/results/podiums) |
 | 11 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Czech Open 2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010/results/podiums) |
@@ -419,6 +420,7 @@
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Dåstrup Diverse 2024](https://www.worldcubeassociation.org/competitions/DastrupDiverse2024/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Dåstrup Sleepover 2018](https://www.worldcubeassociation.org/competitions/DastrupSleepover2018/results/podiums) |
 | 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Dębica Cubing Winter 2025](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2025/results/podiums) |
+| 10 | [Cristian Castellanos Guevara](https://www.worldcubeassociation.org/persons/2024GUEV01) | [Delacuesta Xmas 2025](https://www.worldcubeassociation.org/competitions/DelacuestaXmas2025/results/podiums) |
 | 10 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [Delhi Open 2017](https://www.worldcubeassociation.org/competitions/DelhiOpen2017/results/podiums) |
 | 13 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [De Wilg Open 2014](https://www.worldcubeassociation.org/competitions/DeWilgOpen2014/results/podiums) |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [De Wilg Open 2014](https://www.worldcubeassociation.org/competitions/DeWilgOpen2014/results/podiums) |

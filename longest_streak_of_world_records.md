@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -60,7 +60,7 @@
 | 4 | 4x4x4 Blindfolded | Average | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) | 3.29 |
 | 4 | 5x5x5 Blindfolded | Single | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | [Zune Open 2012](https://www.worldcubeassociation.org/competitions/ZuneOpen2012) | [Welcome To Cambridge 2014](https://www.worldcubeassociation.org/competitions/WelcomeToCambridge2014) | 2.20 |
 | 4 | 5x5x5 Blindfolded | Single | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | [Xi'an Cherry Blossom 2017](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2017) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) | 1.32 |
-| 4 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Square-1 Madison Square 2023](https://www.worldcubeassociation.org/competitions/Square1onaMadisonSquare2023) |  | 2.21 |
+| 4 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Square-1 Madison Square 2023](https://www.worldcubeassociation.org/competitions/Square1onaMadisonSquare2023) |  | 2.22 |
 | 4 | 3x3x3 Multi-Blind | Single | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | [Silence in the Grove 2019](https://www.worldcubeassociation.org/competitions/SilenceInTheGrove2019) | [New York Multimate PBQ 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQ2025) | 5.86 |
 | 4 | Rubik's Magic | Average | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Nanjing Spring Open 2010](https://www.worldcubeassociation.org/competitions/NanjingSpringOpen2010) |  | 15.69 |
 | 3 | Rubik's Cube | Average | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [Caltech Winter 2004](https://www.worldcubeassociation.org/competitions/CaltechWinter2004) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) | 2.15 |
@@ -68,7 +68,7 @@
 | 3 | 4x4x4 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Kubaroo Open 2011](https://www.worldcubeassociation.org/competitions/KubarooOpen2011) | [Dutch Nationals 2011](https://www.worldcubeassociation.org/competitions/DutchNationals2011) | 0.61 |
 | 3 | 4x4x4 Cube | Average | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008) | [Tokyo Open 2008](https://www.worldcubeassociation.org/competitions/TokyoOpen2008) | 0.50 |
 | 3 | 4x4x4 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) | [German Open 2012](https://www.worldcubeassociation.org/competitions/GermanOpen2012) | 0.50 |
-| 3 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |  | 1.45 |
+| 3 | 6x6x6 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024) |  | 1.46 |
 | 3 | 7x7x7 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | [Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017) | 1.84 |
 | 3 | 3x3x3 Blindfolded | Single | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [US Nationals 2004](https://www.worldcubeassociation.org/competitions/US2004) | [Caltech Spring 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005) | 0.77 |
 | 3 | 3x3x3 Blindfolded | Single | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | [Zonhoven Open 2012](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2012) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | 1.34 |

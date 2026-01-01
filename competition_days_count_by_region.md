@@ -1,21 +1,21 @@
 ## Competition days count by region
 
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 16541 |
+| 1.46 | World | 16545 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 5365 |
-| 1.48 | Oceania | 722 |
-| 1.46 | South America | 2105 |
+| 1.72 | Europe | 5366 |
+| 1.48 | Oceania | 723 |
+| 1.46 | South America | 2107 |
 | 1.41 | Asia | 3391 |
 | 1.32 | Africa | 213 |
 | 1.21 | North America | 4745 |
@@ -54,14 +54,14 @@
 | 1.75 | Luxembourg | 4 |
 | 1.75 | Sri Lanka | 16 |
 | 1.73 | Ukraine | 149 |
-| 1.72 | Poland | 587 |
+| 1.72 | Poland | 588 |
 | 1.72 | Ireland | 92 |
 | 1.71 | Hungary | 70 |
 | 1.69 | Argentina | 118 |
 | 1.67 | Belgium | 105 |
+| 1.67 | Brazil | 651 |
 | 1.67 | Madagascar | 3 |
 | 1.67 | North Macedonia | 6 |
-| 1.67 | Brazil | 650 |
 | 1.63 | Italy | 283 |
 | 1.60 | Iran | 43 |
 | 1.60 | Netherlands | 141 |
@@ -81,7 +81,7 @@
 | 1.50 | Laos | 2 |
 | 1.49 | Sweden | 386 |
 | 1.47 | Peru | 255 |
-| 1.45 | Australia | 552 |
+| 1.45 | Australia | 553 |
 | 1.43 | Montenegro | 7 |
 | 1.43 | Nigeria | 7 |
 | 1.41 | Vietnam | 73 |
@@ -105,7 +105,7 @@
 | 1.30 | Uruguay | 61 |
 | 1.29 | Hong Kong, China | 28 |
 | 1.28 | Philippines | 389 |
-| 1.28 | Colombia | 495 |
+| 1.28 | Colombia | 496 |
 | 1.27 | Morocco | 11 |
 | 1.26 | El Salvador | 39 |
 | 1.25 | Venezuela | 95 |

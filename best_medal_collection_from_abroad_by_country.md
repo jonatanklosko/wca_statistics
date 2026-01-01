@@ -1,12 +1,12 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1536** | 1306 | 1123 | 3965 |
-| United States | **1500** | 1184 | 1011 | 3695 |
+| United States | **1500** | 1184 | 1012 | 3696 |
 | Germany | **1374** | 1299 | 1288 | 3961 |
 | Russia | **1290** | 707 | 536 | 2533 |
 | France | **1125** | 985 | 849 | 2959 |
@@ -105,6 +105,7 @@
 | Algeria | **2** | 1 | 11 | 14 |
 | Paraguay | **2** | 1 | 4 | 7 |
 | Albania | **1** | 7 | 2 | 10 |
+| Dominican Republic | **1** | 6 | 6 | 13 |
 | Tajikistan | **1** | 5 | 4 | 10 |
 | Luxembourg | **1** | 3 | 5 | 9 |
 | Brunei | **1** | 3 | 1 | 5 |
@@ -112,7 +113,6 @@
 | Cuba | **1** | 1 | 0 | 2 |
 | Angola | **1** | 0 | 2 | 3 |
 | United Arab Emirates | **1** | 0 | 2 | 3 |
-| Dominican Republic | **0** | 6 | 5 | 11 |
 | Syria | **0** | 6 | 1 | 7 |
 | Sri Lanka | **0** | 4 | 3 | 7 |
 | Saint Kitts and Nevis | **0** | 3 | 0 | 3 |

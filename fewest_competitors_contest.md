@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -156,6 +156,7 @@
 | 8 | [Boards & Cubes Venteira PM 2025](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraPM2025) |
 | 8 | [Bolivia Nationals FMC 2025](https://www.worldcubeassociation.org/competitions/BoliviaNationalsFMC2025) |
 | 8 | [Budapest FMClvester 2024](https://www.worldcubeassociation.org/competitions/BudapestFMClvester2024) |
+| 8 | [Budapest FMClveszter 2025](https://www.worldcubeassociation.org/competitions/BudapestFMClveszter2025) |
 | 8 | [Buffalo Be Quiet 2024](https://www.worldcubeassociation.org/competitions/BuffaloBeQuiet2024) |
 | 8 | [Cordillera Cubea 2024](https://www.worldcubeassociation.org/competitions/CordilleraCubea2024) |
 | 8 | [Cubetec CEFET Timóteo 2025](https://www.worldcubeassociation.org/competitions/CubetecCEFETTimoteo2025) |

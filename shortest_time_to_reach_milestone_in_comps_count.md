@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 
 ### 300 Competitions
@@ -110,12 +110,12 @@
 | 1093 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 1093 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
 | 1233 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
+| 1391 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 1407 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 1429 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 1526 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
 | 1646 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1646 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 
 ### 50 Competitions
 

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -27,8 +27,8 @@
 | 145 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 142 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 142 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
-| 138 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 138 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 138 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 137 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 131 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 130 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |

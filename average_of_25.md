@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 January 2026*
+*Updated on  4 January 2026*
 
 
 ### Rubik's Cube
@@ -122,7 +122,7 @@
 | 21.95 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 20, 22, 19, 22, 23, 23, 22, 21, 23, 23, 21, 23, 20, 19, 22, 21, 21, 23, 21, DNF, 28, 24, 22, 22, 22 |
 | 22.05 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 22, 22, 23, 21, 23, 22, 22, 27, 22, 22, 21, 23, 19, 22, 22, DNF, 21, 21, 22, 21, 21, 25, 23, 22, 21 |
 | 22.38 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | 21, 23, 20, 21, 24, 23, 20, 21, 22, 21, DNF, 27, 23, 22, 24, 23, 24, DNF, 20, 21, 24, 20, 22, 23, 21 |
-| 22.48 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 20, 26, 21, 20, 23, 24, 25, 24, 23, 28, 24, 21, 23, 22, 20, 24, 20, 22, 23, 20, 20, 23, 26, 23, 21 |
+| 22.38 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) | 22, 25, 25, 24, DNF, 20, 21, 20, 22, 24, 24, 20, 25, 23, 22, 19, 22, 21, 21, 22, 24, 22, 22, 24, 20 |
 
 ### 3x3x3 One-Handed
 
@@ -151,7 +151,7 @@
 | 28.82 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 26.24, 29.53, 28.22, 28.11, 33.37, 30.10, 27.27, 26.53, 28.19, 26.00, 29.69, 31.39, 32.45, 27.62, 32.46, 25.09, 26.16, 31.24, 25.05, 32.80, 24.32, 30.00, 31.65, 29.57, 27.76 |
 | 29.18 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 26.67, 28.82, 31.36, DNF, 26.39, 30.45, DNF, 29.17, 32.93, 27.78, 27.73, 30.00, 26.93, 27.03, 29.01, 29.92, 29.15, 30.69, 29.48, 28.71, 30.12, 28.97, 29.20, 27.42, 27.95 |
 | 29.70 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 29.66, 28.97, 28.11, 28.37, 34.12, 28.70, 32.71, 30.47, 29.48, 29.93, 27.71, 29.10, 28.45, 29.17, 30.99, 29.83, 30.41, 31.12, 31.75, 31.67, 30.85, 27.70, 30.30, 28.03, 28.29 |
-| 29.72 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.87, 31.67, 28.62, 29.77, DNF, 32.78, 35.26, 28.16, 31.81, 29.88, 28.00, 31.21, 28.86, 28.24, 31.28, 27.15, 28.96, 30.41, 30.01, 32.42, 29.40, 28.75, 27.62, 26.55, 27.50 |
+| 29.72 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.87, 31.67, 28.62, 29.77, DNF, 32.78, 35.26, 28.16, 31.81, 29.88, 28.00, 31.21, 28.86, 28.24, 31.28, 27.15, 28.96, 30.41, 30.01, 32.42, 29.40, 28.75, 27.62, 26.55, 27.50 |
 | 30.24 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 31.25, 28.43, 34.59, 28.09, 30.50, 30.56, 26.75, 28.88, 30.36, 31.15, 33.44, 28.96, 27.49, 28.58, 33.70, 25.47, 32.64, 28.79, 29.57, 32.71, 28.24, 31.22, 31.41, 31.57, 31.14 |
 
 ### Pyraminx
@@ -166,8 +166,8 @@
 | 1.70 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | 1.81, 1.73, 1.94, 1.51, 1.77, 1.83, 1.56, 1.19, 1.37, 2.08, 2.31, 2.64, 1.51, 1.76, 1.22, 1.47, 1.73, 1.64, 1.45, 1.59, 1.70, 1.70, DNF, 1.57, 1.67 |
 | 1.73 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 2.97, 1.22, 1.30, 1.33, 2.58, 2.07, 1.51, 1.56, 2.24, 1.81, 2.23, 1.60, 2.35, 1.39, 1.45, 1.73, 1.82, 1.06, 1.95, 1.49, 2.20, 1.40, 1.57, 1.18, 2.12 |
 | 1.75 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.48, 1.52, 1.65, 1.66, 1.91, 3.48, 4.23, 2.62, 1.20, 1.92, 2.06, 1.33, 1.50, 1.60, 1.49, 1.81, 1.45, 1.07, 2.15, 1.84, 1.57, 2.35, 1.33, 1.87, 1.57 |
+| 1.77 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | 1.39, 1.30, 2.26, 2.15, 2.64, 2.22, 1.48, 1.39, 1.40, 1.69, 1.38, 1.10, 4.64, 1.24, 2.34, 1.64, 1.30, 1.30, 2.00, 1.39, 3.44, 3.98, 2.01, 1.28, 1.14 |
 | 1.81 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | 1.56, 1.83, 1.92, 1.90, 1.78, 1.24, 1.56, 2.46, 1.55, 1.24, 2.28, 2.76, 1.65, 1.57, 1.65, 2.42, 1.99, 2.09, 2.87, 1.72, 1.47, 1.49, 1.94, 1.86, 1.39 |
-| 1.81 | [Netanel Pour](https://www.worldcubeassociation.org/persons/2022POUR02) | 1.38, 1.98, 1.73, 2.37, 2.30, 1.65, DNF, 1.34, 1.34, 1.63, 2.31, 1.64, 1.40, 3.93, 2.61, 1.45, 1.38, 1.82, 1.77, 1.70, 2.14, 1.75, 1.92, 1.63, 1.39 |
 
 ### Rubik's Clock
 

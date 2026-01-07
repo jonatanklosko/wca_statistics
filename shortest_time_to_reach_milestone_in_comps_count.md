@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 
 ### 300 Competitions
@@ -22,6 +22,7 @@
 | Days | Person |
 | ---: | :--- |
 | 1555 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 1607 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 2815 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 3326 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 3480 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
@@ -40,7 +41,6 @@
 | 5557 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 5558 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 5734 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
-| 7981 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 
 ### 200 Competitions
 
@@ -109,13 +109,13 @@
 | 1080 | [Zian Principe](https://www.worldcubeassociation.org/persons/2022PRIN08) |
 | 1093 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 1093 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
+| 1162 | [Eli Rogers](https://www.worldcubeassociation.org/persons/2022ROGE05) |
 | 1233 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 1391 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 1407 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 1429 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 1526 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
 | 1646 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
-| 1646 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 
 ### 50 Competitions
 
@@ -182,6 +182,7 @@
 | 113 | [Zachary Trimble](https://www.worldcubeassociation.org/persons/2024TRIM01) |
 | 113 | [Michael Paul Romero](https://www.worldcubeassociation.org/persons/2024ROME27) |
 | 118 | [Rane Yuan A. Dipon](https://www.worldcubeassociation.org/persons/2025DIPO01) |
+| 118 | [Eliass Perts](https://www.worldcubeassociation.org/persons/2025PERT01) |
 | 119 | [Yili Yi](https://www.worldcubeassociation.org/persons/2024YIYI01) |
 | 120 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 120 | [Matteo Rodríguez Colorado](https://www.worldcubeassociation.org/persons/2024COLO04) |
@@ -190,7 +191,6 @@
 | 127 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
 | 127 | [Thomas Cabezas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 127 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
-| 127 | [Arya Bhatelia](https://www.worldcubeassociation.org/persons/2024BHAT07) |
 
 ### 5 Competitions
 

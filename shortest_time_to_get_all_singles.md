@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -337,6 +337,7 @@
 | 1463 | [Shantanu Modak](https://www.worldcubeassociation.org/persons/2014MODA01) |
 | 1463 | [Guilherme Santana Campos](https://www.worldcubeassociation.org/persons/2019CAMP10) |
 | 1471 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
+| 1476 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 1477 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 1483 | [Will Belote](https://www.worldcubeassociation.org/persons/2015BELO03) |
 | 1484 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
@@ -655,6 +656,7 @@
 | 3193 | [Joey Mait](https://www.worldcubeassociation.org/persons/2016MAIT02) |
 | 3198 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
 | 3220 | [Lee Jun Yee Allen (李俊毅)](https://www.worldcubeassociation.org/persons/2017YEEA01) |
+| 3234 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) |
 | 3267 | [Samuel Cuellar Ramirez](https://www.worldcubeassociation.org/persons/2015RAMI14) |
 | 3277 | [Ben Bergen](https://www.worldcubeassociation.org/persons/2015BERG10) |
 | 3290 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
@@ -724,10 +726,11 @@
 | 4221 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 4229 | [Andrei Răzvan Ionel](https://www.worldcubeassociation.org/persons/2012IONE01) |
 | 4318 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) |
+| 4367 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 4383 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) |
 | 4430 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) |
 | 4446 | [Austin Reed](https://www.worldcubeassociation.org/persons/2011REED01) |
-| 4460 | [Shiori Yanai (矢内詩織)](https://www.worldcubeassociation.org/persons/2013SATO01) |
+| 4460 | [Shiori Yanai](https://www.worldcubeassociation.org/persons/2013SATO01) |
 | 4583 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 4682 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) |
 | 4711 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) |

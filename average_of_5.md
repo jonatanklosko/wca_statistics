@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 
 ### Rubik's Cube
@@ -77,7 +77,7 @@
 | 1:11.54 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:06.80, 1:10.02, 1:17.33, 1:07.32, 1:17.27 |
 | 1:11.78 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:14.55, 1:16.60, 1:10.68, 1:10.11, 1:08.23 |
 | 1:12.23 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:10.44, 1:16.16, 1:10.38, 1:15.88, 1:03.43 |
-| 1:13.32 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:11.96, 1:13.14, 1:08.59, 1:30.01, 1:14.87 |
+| 1:12.81 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:11.20, 1:20.37, 1:11.24, 1:14.14, 1:13.05 |
 
 ### 7x7x7 Cube
 

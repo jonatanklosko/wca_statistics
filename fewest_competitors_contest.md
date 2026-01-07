@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -115,6 +115,7 @@
 | 7 | [Fewest Moves Bogotá VIII 2025](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaVIII2025) |
 | 7 | [FMC Fools Sanse 2025](https://www.worldcubeassociation.org/competitions/FMCFoolsSanse2025) |
 | 7 | [FMC Tijuas I 2025](https://www.worldcubeassociation.org/competitions/FMCTijuasI2025) |
+| 7 | [FMC Tijuas I 2026](https://www.worldcubeassociation.org/competitions/FMCTijuasI2026) |
 | 7 | [FMC Tijuas II 2025](https://www.worldcubeassociation.org/competitions/FMCTijuasII2025) |
 | 7 | [FMC Ya Dublin OH 2025](https://www.worldcubeassociation.org/competitions/FMCYaDublinOH2025) |
 | 7 | [Gem City Airplane Mode II 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeII2023) |

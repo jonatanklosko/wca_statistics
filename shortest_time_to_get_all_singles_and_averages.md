@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -22,12 +22,14 @@
 | 910 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 917 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
 | 924 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
+| 925 | [Joshua Gao](https://www.worldcubeassociation.org/persons/2023GAOJ02) |
 | 929 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
 | 1021 | [Nathan Benson](https://www.worldcubeassociation.org/persons/2022BENS01) |
 | 1036 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 1085 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 1127 | [Elias Lampert](https://www.worldcubeassociation.org/persons/2021LAMP01) |
 | 1153 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 1161 | [Eli Rogers](https://www.worldcubeassociation.org/persons/2022ROGE05) |
 | 1170 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 1198 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
 | 1239 | [Alessio Pandin](https://www.worldcubeassociation.org/persons/2021PAND01) |
@@ -137,7 +139,7 @@
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 4144 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |
 | 4193 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
-| 4466 | [Shiori Yanai (矢内詩織)](https://www.worldcubeassociation.org/persons/2013SATO01) |
+| 4466 | [Shiori Yanai](https://www.worldcubeassociation.org/persons/2013SATO01) |
 | 4578 | [Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01) |
 | 4592 | [Andrei Răzvan Ionel](https://www.worldcubeassociation.org/persons/2012IONE01) |
 | 4703 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |

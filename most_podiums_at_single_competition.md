@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1425,7 +1425,7 @@
 | 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [URJC Open 2024](https://www.worldcubeassociation.org/competitions/URJCOpen2024/results/podiums) |
 | 10 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [Ushuaia 2025](https://www.worldcubeassociation.org/competitions/Ushuaia2025/results/podiums) |
 | 10 | [Mario Armando Takahashi Martins Dias](https://www.worldcubeassociation.org/persons/2019DIAS02) | [Ushuaia 2025](https://www.worldcubeassociation.org/competitions/Ushuaia2025/results/podiums) |
-| 10 | [Luciano David Rosales Gomez](https://www.worldcubeassociation.org/persons/2023GOME56) | [Ushuaia 2025](https://www.worldcubeassociation.org/competitions/Ushuaia2025/results/podiums) |
+| 10 | [David Rosales](https://www.worldcubeassociation.org/persons/2023GOME56) | [Ushuaia 2025](https://www.worldcubeassociation.org/competitions/Ushuaia2025/results/podiums) |
 | 13 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Utah Championship 2022](https://www.worldcubeassociation.org/competitions/UtahChampionship2022/results/podiums) |
 | 10 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Fall 2009](https://www.worldcubeassociation.org/competitions/UtahFall2009/results/podiums) |
 | 10 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Utah Open 2009](https://www.worldcubeassociation.org/competitions/UtahOpen2009/results/podiums) |

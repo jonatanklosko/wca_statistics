@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 
 ### Pairs
@@ -66,9 +66,9 @@
 | 105 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) & [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 104 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) & [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) |
 | 103 | [Magnus Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN01) & [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
+| 102 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 | 102 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
-| 101 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
-| 101 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 102 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 100 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 100 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) & [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
 | 100 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
@@ -77,8 +77,8 @@
 | 97 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) & [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) |
 | 95 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) & [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) |
 | 95 | [Gabriel Santiago Velez Gonzalez](https://www.worldcubeassociation.org/persons/2016GONZ52) & [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) |
+| 94 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) & [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 94 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) & [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
-| 93 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) & [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 92 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) & [Parist Pariyakanok (พริษฐ์ ปริยกนก)](https://www.worldcubeassociation.org/persons/2018PARI07) |
 | 92 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) |
 | 91 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) & [Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01) |
@@ -96,9 +96,9 @@
 | 86 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) & [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 86 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) & [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 85 | [Federico da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) & [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
+| 85 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) & [Louis Rodriguez](https://www.worldcubeassociation.org/persons/2018RODR43) |
 | 85 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) |
 | 84 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) & [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
-| 84 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) & [Louis Rodriguez](https://www.worldcubeassociation.org/persons/2018RODR43) |
 | 84 | [Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01) & [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 83 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) & [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 83 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) & [Miguel Gonzaga](https://www.worldcubeassociation.org/persons/2017GONZ21) |

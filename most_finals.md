@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  7 January 2026*
+*Updated on 10 January 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -16,10 +16,10 @@
 | 1783 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1726 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1676 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
+| 1667 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1663 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 1663 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1612 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 1584 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 1589 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1569 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1543 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
@@ -85,8 +85,8 @@
 | 973 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 960 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 958 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
-| 958 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 958 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
+| 958 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 957 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 948 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 944 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |

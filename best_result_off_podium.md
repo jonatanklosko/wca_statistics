@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 January 2026*
+*Updated on 10 January 2026*
 
 
 ### Rubik's Cube
@@ -174,7 +174,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 3.09 | **3.33** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eclock_f) | 4 |
-| [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) | 3.00 | **3.34** | [Worlds Prep in Palisades 2025](https://www.worldcubeassociation.org/competitions/WorldsPrepinPalisades2025/results/all#eclock_f) | 4 |
+| [Rex Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) | 3.00 | **3.34** | [Worlds Prep in Palisades 2025](https://www.worldcubeassociation.org/competitions/WorldsPrepinPalisades2025/results/all#eclock_f) | 4 |
 | [Aarni Salakari](https://www.worldcubeassociation.org/persons/2022SALA09) | 2.86 | **3.43** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eclock_f) | 5 |
 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | 2.72 | **3.45** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eclock_f) | 6 |
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.61 | **3.46** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eclock_f) | 7 |

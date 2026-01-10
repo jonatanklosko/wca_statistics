@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  7 January 2026*
+*Updated on 10 January 2026*
 
 
 ### 300 Competitions
@@ -107,8 +107,8 @@
 | 1066 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
 | 1080 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
 | 1080 | [Zian Principe](https://www.worldcubeassociation.org/persons/2022PRIN08) |
-| 1093 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
-| 1093 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
+| 1093 | [Nico Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
+| 1093 | [Rex Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
 | 1162 | [Eli Rogers](https://www.worldcubeassociation.org/persons/2022ROGE05) |
 | 1233 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 1391 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |

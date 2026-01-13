@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -462,6 +462,8 @@
 | 10 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Dutch Open 2014](https://www.worldcubeassociation.org/competitions/DutchOpen2014/results/podiums) |
 | 13 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Dutch Open 2016](https://www.worldcubeassociation.org/competitions/DutchOpen2016/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Dutch Open 2017](https://www.worldcubeassociation.org/competitions/DutchOpen2017/results/podiums) |
+| 15 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Dvärsätt Open 2026](https://www.worldcubeassociation.org/competitions/DvarsattOpen2026/results/podiums) |
+| 12 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Dvärsätt Open 2026](https://www.worldcubeassociation.org/competitions/DvarsattOpen2026/results/podiums) |
 | 14 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [Dvina OH Edition 2014](https://www.worldcubeassociation.org/competitions/DvinaOHEdition2014/results/podiums) |
 | 12 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [Dvina Open 2014](https://www.worldcubeassociation.org/competitions/DvinaOpen2014/results/podiums) |
 | 11 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Eagle of the East 2018](https://www.worldcubeassociation.org/competitions/EagleoftheEast2018/results/podiums) |
@@ -1506,6 +1508,7 @@
 | 13 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |
 | 10 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |
 | 10 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | [Winona 2013](https://www.worldcubeassociation.org/competitions/WinonaOpen2013/results/podiums) |
+| 10 | [Asset Agabekov](https://www.worldcubeassociation.org/persons/2018AGAB03) | [Winter in Bishkek 2026](https://www.worldcubeassociation.org/competitions/WinterinBishkek2026/results/podiums) |
 | 10 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) | [WWU 2015](https://www.worldcubeassociation.org/competitions/WinterWestUkraine2015/results/podiums) |
 | 12 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Wisconsin Qualifier 2024](https://www.worldcubeassociation.org/competitions/WisconsinQualifier2024/results/podiums) |
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Wiscube 2018](https://www.worldcubeassociation.org/competitions/Wiscube2018/results/podiums) |

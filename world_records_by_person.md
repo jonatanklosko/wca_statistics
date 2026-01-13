@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -97,6 +97,7 @@
 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
 | 3 | [Alexander Yu](https://www.worldcubeassociation.org/persons/2007YUAL01) |
 | 3 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
+| 3 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) |
 | 3 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 3 | [Claes Hedin](https://www.worldcubeassociation.org/persons/2009HEDI01) |
 | 3 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
@@ -177,6 +178,7 @@
 | 2 | [Vladislav Shavelskiy](https://www.worldcubeassociation.org/persons/2012SHAV01) |
 | 2 | [Will Arnold](https://www.worldcubeassociation.org/persons/2005ARNO01) |
 | 2 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
+| 2 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) |
 | 2 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 2 | [Yuhui Xu (许宇辉)](https://www.worldcubeassociation.org/persons/2007XUYU01) |
 | 2 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |
@@ -196,7 +198,6 @@
 | 1 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) |
 | 1 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) |
 | 1 | [Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01) |
-| 1 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) |
 | 1 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 1 | [Christian Kaserer](https://www.worldcubeassociation.org/persons/2009KASE02) |
 | 1 | [Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01) |
@@ -300,7 +301,6 @@
 | 1 | [Ty Marshall](https://www.worldcubeassociation.org/persons/2014MARS04) |
 | 1 | [Uladzislau Ushakov (Владислав Ушаков)](https://www.worldcubeassociation.org/persons/2014USHA01) |
 | 1 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |
-| 1 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) |
 | 1 | [Yulun Wu (吴宇伦)](https://www.worldcubeassociation.org/persons/2010WUYU02) |
 | 1 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
 | 1 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) |

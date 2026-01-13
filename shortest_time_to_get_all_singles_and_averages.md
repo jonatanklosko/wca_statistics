@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -73,6 +73,7 @@
 | 2213 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 2232 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
 | 2359 | [Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04) |
+| 2408 | [Ivo Stoutjesdijk](https://www.worldcubeassociation.org/persons/2019STOU02) |
 | 2426 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 2462 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 2471 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) |

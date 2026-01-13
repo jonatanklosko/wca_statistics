@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 
 ### Rubik's Cube
@@ -10,14 +10,14 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 4.72 | **5.28** | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025/results/all#e333_f) | 4 |
 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.38 | **5.32** | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025/results/all#e333_f) | 4 |
+| [Yize Dong (董一泽)](https://www.worldcubeassociation.org/persons/2023DONG20) | 5.07 | **5.36** | [Beijing Winter 2026](https://www.worldcubeassociation.org/competitions/BeijingWinter2026/results/all#e333_f) | 4 |
 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 4.26 | **5.41** | [Zhengzhou Zest 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZest2025/results/all#e333_f) | 4 |
 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.72 | **5.41** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e333_f) | 4 |
 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 4.41 | **5.43** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e333_f) | 4 |
 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | 5.10 | **5.43** | [Lishui Open 2025](https://www.worldcubeassociation.org/competitions/LishuiOpen2025/results/all#e333_f) | 4 |
 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 4.94 | **5.44** | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024/results/all#e333_f) | 4 |
 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 4.06 | **5.45** | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025/results/all#e333_f) | 5 |
-| [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.11 | **5.47** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e333_f) | 5 |
-| [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 4.68 | **5.49** | [Zibo Open 2025](https://www.worldcubeassociation.org/competitions/ZiboOpen2025/results/all#e333_f) | 4 |
+| [Yi Shen (沈懿)](https://www.worldcubeassociation.org/persons/2026SHEN01) | 5.02 | **5.46** | [Beijing Winter 2026](https://www.worldcubeassociation.org/competitions/BeijingWinter2026/results/all#e333_f) | 5 |
 
 ### 2x2x2 Cube
 

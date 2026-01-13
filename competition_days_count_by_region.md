@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 16628 |
+| 1.46 | World | 16633 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.71 | Europe | 5393 |
-| 1.48 | Oceania | 723 |
+| 1.71 | Europe | 5394 |
+| 1.48 | Oceania | 724 |
 | 1.46 | South America | 2121 |
-| 1.41 | Asia | 3399 |
+| 1.40 | Asia | 3400 |
 | 1.32 | Africa | 216 |
-| 1.21 | North America | 4776 |
+| 1.21 | North America | 4778 |
 
 ### Countries
 
@@ -43,7 +43,7 @@
 | 1.84 | Norway | 160 |
 | 1.83 | Serbia | 30 |
 | 1.82 | Finland | 182 |
-| 1.81 | United Kingdom | 341 |
+| 1.81 | United Kingdom | 342 |
 | 1.80 | Bosnia and Herzegovina | 15 |
 | 1.80 | Slovakia | 55 |
 | 1.79 | Mexico | 252 |
@@ -67,7 +67,7 @@
 | 1.60 | Indonesia | 249 |
 | 1.60 | Dominican Republic | 30 |
 | 1.60 | Netherlands | 142 |
-| 1.59 | New Zealand | 167 |
+| 1.60 | New Zealand | 168 |
 | 1.58 | Latvia | 43 |
 | 1.57 | San Marino | 7 |
 | 1.57 | Nepal | 23 |
@@ -114,11 +114,11 @@
 | 1.24 | Singapore | 101 |
 | 1.23 | Panama | 30 |
 | 1.22 | United Arab Emirates | 23 |
-| 1.18 | Japan | 263 |
 | 1.18 | Armenia | 11 |
+| 1.18 | Japan | 264 |
 | 1.17 | Canada | 477 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3826 |
+| 1.16 | United States | 3828 |
 | 1.15 | Mongolia | 52 |
 | 1.12 | Cyprus | 16 |
 | 1.12 | Azerbaijan | 49 |

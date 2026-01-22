@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -194,6 +194,7 @@
 | 924 | [Zongwen Mu (牟宗文)](https://www.worldcubeassociation.org/persons/2015MUZO01) |
 | 924 | [Angel David Alvarado Sandoval](https://www.worldcubeassociation.org/persons/2022SAND19) |
 | 924 | [Eli Rogers](https://www.worldcubeassociation.org/persons/2022ROGE05) |
+| 924 | [Luke Satko](https://www.worldcubeassociation.org/persons/2023SATK01) |
 | 929 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
 | 931 | [Jianxu Chen (陈建旭)](https://www.worldcubeassociation.org/persons/2016CHEJ04) |
 | 937 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
@@ -652,6 +653,7 @@
 | 3158 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 3164 | [Moisés Alberto Rojas León](https://www.worldcubeassociation.org/persons/2016LEON04) |
 | 3170 | [Luboš Bartík](https://www.worldcubeassociation.org/persons/2015BART01) |
+| 3173 | [Matthew Low](https://www.worldcubeassociation.org/persons/2017LOWM01) |
 | 3178 | [Emmet Hobbs](https://www.worldcubeassociation.org/persons/2016HOBB01) |
 | 3193 | [Joey Mait](https://www.worldcubeassociation.org/persons/2016MAIT02) |
 | 3198 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |

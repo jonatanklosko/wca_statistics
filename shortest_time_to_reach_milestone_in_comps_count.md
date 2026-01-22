@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 
 ### 300 Competitions
@@ -16,6 +16,7 @@
 | 5539 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 5856 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 5930 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
+| 6077 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 
 ### 250 Competitions
 
@@ -31,6 +32,7 @@
 | 3935 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 4061 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 4215 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
+| 4348 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 4355 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 4706 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 5042 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
@@ -40,7 +42,6 @@
 | 5524 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 5557 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 5558 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
-| 5734 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 
 ### 200 Competitions
 
@@ -111,11 +112,11 @@
 | 1093 | [Rex Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
 | 1162 | [Eli Rogers](https://www.worldcubeassociation.org/persons/2022ROGE05) |
 | 1233 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
+| 1358 | [Imanuel Müller](https://www.worldcubeassociation.org/persons/2022MULL02) |
 | 1391 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 1407 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 1429 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 1526 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
-| 1646 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 
 ### 50 Competitions
 

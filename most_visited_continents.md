@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -8,6 +8,7 @@
 | 6 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 6 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
 | 6 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
+| 6 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 6 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 6 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
@@ -35,7 +36,6 @@
 | 5 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 5 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 5 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
-| 5 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 5 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 5 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 5 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |

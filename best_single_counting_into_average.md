@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 
 ### Rubik's Cube
@@ -45,8 +45,8 @@
 | 17.93 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024/results/by_person#2012PARK03) |
 | 17.95 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025/results/by_person#2016KOLA02) |
 | 17.97 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025/results/by_person#2016KOLA02) |
+| 18.01 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/by_person#2016KOLA02) |
 | 18.06 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Yucaipa 2024](https://www.worldcubeassociation.org/competitions/NubOpenYucaipa2024/results/by_person#2012PARK03) |
-| 18.08 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/by_person#2010WEYE02) |
 
 ### 5x5x5 Cube
 
@@ -72,11 +72,11 @@
 | 7.27 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2020ARCH01) |
 | 7.31 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 | 7.31 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) | [Berkeley November Weekday 2025](https://www.worldcubeassociation.org/competitions/BerkeleyNovemberWeekday2025/results/by_person#2023CUAR03) |
+| 7.32 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Luzon Championship 2026](https://www.worldcubeassociation.org/competitions/LuzonChampionship2026/results/by_person#2023ARRA01) |
 | 7.34 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [San Jose del Monte Open II 2024](https://www.worldcubeassociation.org/competitions/SanJosedelMonteOpenII2024/results/by_person#2017VILL41) |
 | 7.38 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024/results/by_person#2017GARR05) |
 | 7.39 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Ayat-Ti Cubing Elyu Fest 2024](https://www.worldcubeassociation.org/competitions/AyatTiCubingElyuFest2024/results/by_person#2023ARRA01) |
 | 7.45 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Chicagoland Newcomers 2025](https://www.worldcubeassociation.org/competitions/ChicagolandNewcomers2025/results/by_person#2017GARR05) |
-| 7.46 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Cube Plan Baie 2025](https://www.worldcubeassociation.org/competitions/CubePlanBaie2025/results/by_person#2021CHEL01) |
 
 ### Megaminx
 
@@ -149,9 +149,9 @@
 | 4.18 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025/results/by_person#2017AGGA01) |
 | 4.19 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue Squan Fest 2024](https://www.worldcubeassociation.org/competitions/BellevueSquanFest2024/results/by_person#2017AGGA01) |
 | 4.23 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/by_person#2019BAUM02) |
+| 4.26 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [No Sprinting NY 2026](https://www.worldcubeassociation.org/competitions/NoSprintingNY2026/results/by_person#2018KHAN26) |
 | 4.28 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN26) |
 | 4.29 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Front Royal Spring 2025](https://www.worldcubeassociation.org/competitions/FrontRoyalSpring2025/results/by_person#2018KHAN26) |
-| 4.33 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
 
 ### 3x3x3 With Feet
 

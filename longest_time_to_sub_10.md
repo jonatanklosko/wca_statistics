@@ -1,9 +1,10 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 | Person | Years |
 | :--- | ---: |
+| [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | 19.99 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 17.67 |
 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) | 17.53 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | 16.89 |
@@ -39,8 +40,8 @@
 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) | 12.70 |
 | [Charl Jovan Borromeo](https://www.worldcubeassociation.org/persons/2012BORR01) | 12.63 |
 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | 12.63 |
-| [Ryan Harris](https://www.worldcubeassociation.org/persons/2013HARR01) | 12.59 |
 | [Toru Morooka (諸岡徹)](https://www.worldcubeassociation.org/persons/2010MORO01) | 12.59 |
+| [Ryan Harris](https://www.worldcubeassociation.org/persons/2013HARR01) | 12.59 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | 12.46 |
 | [Phopphon Suwattee (ภพพนธ์ สุวัตถี)](https://www.worldcubeassociation.org/persons/2010SUWA03) | 12.38 |
 | [Tariq Ali](https://www.worldcubeassociation.org/persons/2012ALIT01) | 12.34 |
@@ -55,8 +56,8 @@
 | [Alexander Laiche](https://www.worldcubeassociation.org/persons/2013LAIC01) | 12.00 |
 | [Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01) | 11.96 |
 | [Yannick Richter](https://www.worldcubeassociation.org/persons/2010RICH04) | 11.96 |
-| [Nicolás Lasso Peña](https://www.worldcubeassociation.org/persons/2013PENA05) | 11.92 |
 | [Luke Hudlass-Galley](https://www.worldcubeassociation.org/persons/2010HUDL01) | 11.92 |
+| [Nicolás Lasso Peña](https://www.worldcubeassociation.org/persons/2013PENA05) | 11.92 |
 | [Phil Yu](https://www.worldcubeassociation.org/persons/2010YUPH01) | 11.90 |
 | [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 11.90 |
 | [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) | 11.88 |
@@ -68,8 +69,8 @@
 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) | 11.58 |
 | [Anshuman Singh](https://www.worldcubeassociation.org/persons/2014SING04) | 11.56 |
 | [Ryosuke Higo (肥後亮佑)](https://www.worldcubeassociation.org/persons/2006HIGO01) | 11.54 |
-| [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
 | [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
+| [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
 | [Kobe Balin](https://www.worldcubeassociation.org/persons/2012BALI01) | 11.50 |
 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) | 11.48 |
 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | 11.48 |
@@ -90,8 +91,9 @@
 | [Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07) | 11.03 |
 | [Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02) | 11.02 |
 | [Chisanupong Chulasereekul (ชิษณุพงศ์ จุฬาเสรีกุล)](https://www.worldcubeassociation.org/persons/2014CHUL02) | 11.00 |
-| [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | 11.00 |
 | [Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01) | 11.00 |
+| [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | 11.00 |
+| [Markus Wolf](https://www.worldcubeassociation.org/persons/2015WOLF01) | 11.00 |
 | [Santiago A. Ospina Botero](https://www.worldcubeassociation.org/persons/2013BOTE01) | 10.94 |
 | [Jakka Chang](https://www.worldcubeassociation.org/persons/2014CHAN17) | 10.94 |
 | [Xiaobo Jin (金晓波)](https://www.worldcubeassociation.org/persons/2008JINX01) | 10.90 |
@@ -102,8 +104,6 @@
 | [Dominik Beese](https://www.worldcubeassociation.org/persons/2013BEES01) | 10.79 |
 | [Simon Stannek](https://www.worldcubeassociation.org/persons/2012STAN04) | 10.75 |
 | [Tsang Hon Pong (曾漢邦)](https://www.worldcubeassociation.org/persons/2014PONG01) | 10.74 |
-| [Gustavo Galle de Melo](https://www.worldcubeassociation.org/persons/2014MELO03) | 10.73 |
-| [Chengming Su (苏成明)](https://www.worldcubeassociation.org/persons/2013SUCH02) | 10.72 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

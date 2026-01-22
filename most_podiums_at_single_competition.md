@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1410,6 +1410,7 @@
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023/results/podiums) |
 | 13 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Otoño 2023](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingOtono2023/results/podiums) |
 | 11 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Primavera 2025](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingPrimavera2025/results/podiums) |
+| 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [UNSA Speedcubing Spring 2026](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingSpring2026/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [UoSM Cube Open 2024](https://www.worldcubeassociation.org/competitions/UoSMCubeOpen2024/results/podiums) |
 | 14 | [Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02) | [UPEC Open 2025](https://www.worldcubeassociation.org/competitions/UPECOpen2025/results/podiums) |
 | 12 | [Pablo Sebastián Flores Peralta](https://www.worldcubeassociation.org/persons/2022PERA02) | [UPEC Open 2025](https://www.worldcubeassociation.org/competitions/UPECOpen2025/results/podiums) |

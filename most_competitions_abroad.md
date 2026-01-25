@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 22 January 2026*
+*Updated on 25 January 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -18,11 +18,11 @@
 | 134 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 129 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 127 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 125 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
-| 124 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 126 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 125 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 119 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 119 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 119 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
-| 118 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 116 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 113 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
@@ -70,9 +70,9 @@
 | 77 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 77 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 76 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
-| 76 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
 | 76 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 76 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
+| 76 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
 | 75 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 74 | [Ethan Ekstrom](https://www.worldcubeassociation.org/persons/2018EKST01) |
 | 73 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
@@ -89,16 +89,16 @@
 | 67 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 67 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 67 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
+| 66 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
+| 66 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 66 | [Elias Malomgré](https://www.worldcubeassociation.org/persons/2017MALO02) |
 | 66 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
-| 66 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 65 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
-| 65 | [Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02) |
+| 65 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 65 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 65 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 65 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
-| 65 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
-| 65 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
-| 65 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 65 | [Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02) |
 | 64 | [Danny Sungin Park (박성인)](https://www.worldcubeassociation.org/persons/2015PARK13) |
 | 64 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 63 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |

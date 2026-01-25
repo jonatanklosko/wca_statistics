@@ -1,10 +1,10 @@
 ## Most finals
 
-*Updated on 22 January 2026*
+*Updated on 25 January 2026*
 
 | Finals | Person |
 | ---: | :--- |
-| 2885 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 2891 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 2479 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2455 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2187 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
@@ -15,11 +15,11 @@
 | 1808 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1783 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1736 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
+| 1681 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1680 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 1678 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1668 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 1620 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 1597 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 1624 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 1600 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1579 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1543 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
@@ -35,8 +35,8 @@
 | 1308 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1307 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1291 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
+| 1280 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 1279 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
-| 1274 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 1255 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1254 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 1251 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
@@ -59,8 +59,8 @@
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1093 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1073 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
+| 1065 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
 | 1065 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
-| 1063 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
 | 1062 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 1061 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 1060 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
@@ -87,8 +87,8 @@
 | 966 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 960 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 960 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
-| 958 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 958 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
+| 958 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 958 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 953 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
 | 942 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |

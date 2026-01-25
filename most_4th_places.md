@@ -1,13 +1,13 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 22 January 2026*
+*Updated on 25 January 2026*
 
 | 4th places | Person |
 | ---: | :--- |
 | 275 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 259 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 253 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 254 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 229 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 204 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 191 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |

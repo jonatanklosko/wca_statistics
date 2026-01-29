@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 
 ### Rubik's Cube
@@ -209,8 +209,8 @@
 | 4.89 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 9.73, 4.97, 4.84, 4.86, 4.84 |
 | 5.00 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 5.01, 5.15, 4.85, 6.41, 4.56 |
 | 5.03 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 5.37, 5.23, 9.93, 4.23, 4.49 |
+| 5.08 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 4.88, 5.07, 7.51, 5.30, 4.59 |
 | 5.16 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 5.16, 4.99, 4.76, 6.10, 5.34 |
-| 5.38 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 4.59, 4.88, 4.62, 11.85, 6.64 |
 | 5.40 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.37, 7.96, 4.67, 5.96, 4.86 |
 | 5.42 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.28, 5.03, 6.26, 5.94, 4.53 |
 

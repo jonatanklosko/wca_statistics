@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -218,6 +218,7 @@
 | 995 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) |
 | 1007 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1007 | [Joseph Burnett](https://www.worldcubeassociation.org/persons/2022BURN09) |
+| 1008 | [Romain Velcin](https://www.worldcubeassociation.org/persons/2023VELC01) |
 | 1014 | [Simon Dimpker](https://www.worldcubeassociation.org/persons/2021DIMP01) |
 | 1015 | [Jianyu Que (阙剑宇)](https://www.worldcubeassociation.org/persons/2011QUEJ01) |
 | 1015 | [Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01) |
@@ -282,7 +283,7 @@
 | 1231 | [Max Day](https://www.worldcubeassociation.org/persons/2014DAYM01) |
 | 1232 | [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) |
 | 1232 | [Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01) |
-| 1238 | [Madeline Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
+| 1238 | [Olivia Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
 | 1238 | [Alex Butera](https://www.worldcubeassociation.org/persons/2021BUTE03) |
 | 1239 | [Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03) |
 | 1240 | [Auric Cui](https://www.worldcubeassociation.org/persons/2022CUIA01) |
@@ -534,6 +535,7 @@
 | 2324 | [Breton MacDonald](https://www.worldcubeassociation.org/persons/2019MACD02) |
 | 2331 | [Lakshmi Sai Srivatsa](https://www.worldcubeassociation.org/persons/2017SRIV11) |
 | 2331 | [Emmett O'Leary-Liu](https://www.worldcubeassociation.org/persons/2019OLEA02) |
+| 2331 | [Ethan George Hayes](https://www.worldcubeassociation.org/persons/2019HAYE05) |
 | 2337 | [Ryan Morrison](https://www.worldcubeassociation.org/persons/2019MORR07) |
 | 2338 | [Saul Emmanuel Ramirez Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ21) |
 | 2351 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
@@ -685,6 +687,7 @@
 | 3430 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 3437 | [Carlos Pedro Casado de Achával](https://www.worldcubeassociation.org/persons/2012ACHA01) |
 | 3452 | [Luis Gabriel Magadia](https://www.worldcubeassociation.org/persons/2014MAGA04) |
+| 3465 | [Teruki Tamura (田村旭輝)](https://www.worldcubeassociation.org/persons/2016TAMU01) |
 | 3493 | [Ethan Rusnak](https://www.worldcubeassociation.org/persons/2015RUSN01) |
 | 3494 | [Alex Lehman](https://www.worldcubeassociation.org/persons/2015LEHM01) |
 | 3507 | [Isac Lindqvist](https://www.worldcubeassociation.org/persons/2016LIND07) |

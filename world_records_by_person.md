@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -142,6 +142,7 @@
 | 2 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) |
+| 2 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 2 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
 | 2 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) |
@@ -217,7 +218,6 @@
 | 1 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 1 | [Haixin Yang (杨海鑫)](https://www.worldcubeassociation.org/persons/2014YANG11) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
-| 1 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 1 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 1 | [Henrik Bui](https://www.worldcubeassociation.org/persons/2009BUIH02) |
 | 1 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |

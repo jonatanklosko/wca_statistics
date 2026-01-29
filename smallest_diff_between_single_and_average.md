@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 
 ### Rubik's Cube
@@ -161,13 +161,13 @@
 | 0.01 | [Ihor Kastranets (Ігор Кастранець)](https://www.worldcubeassociation.org/persons/2018KAST02) | 4.47 | 4.48 | [Podolian Open 2024](https://www.worldcubeassociation.org/competitions/PodolianOpen2024/results/by_person#2018KAST02) |
 | 0.01 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 7.23 | 7.24 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019MORG10) |
 | 0.03 | [Jervis Yeo](https://www.worldcubeassociation.org/persons/2019YEOJ01) | 4.30 | 4.33 | [Clock Battle August SG 2025](https://www.worldcubeassociation.org/competitions/ClockBattleAugustSG2025/results/by_person#2019YEOJ01) |
+| 0.03 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 5.06 | 5.09 | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/by_person#2013HANU01) |
 | 0.03 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 7.98 | 8.01 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2015SPEN01) |
 | 0.04 | [Jack Corr](https://www.worldcubeassociation.org/persons/2022CORR06) | 3.46 | 3.50 | [Please Be Qualified Ireland 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQualifiedIreland2024/results/by_person#2022CORR06) |
 | 0.04 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.76 | 3.80 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2021POLI02) |
 | 0.04 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.22 | 4.26 | [GCU Spring 2023](https://www.worldcubeassociation.org/competitions/GCUSpring2023/results/by_person#2017BREE02) |
 | 0.04 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) | 5.05 | 5.09 | [Sonvico Spring 2025](https://www.worldcubeassociation.org/competitions/SonvicoSpring2025/results/by_person#2017DUMM01) |
 | 0.04 | [Vinicius Shaw](https://www.worldcubeassociation.org/persons/2021SHAW02) | 5.24 | 5.28 | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/by_person#2021SHAW02) |
-| 0.04 | [Miguel Angel Zamorano Beltran](https://www.worldcubeassociation.org/persons/2023BELT03) | 8.06 | 8.10 | [Niños Héroes Jalisco 2023](https://www.worldcubeassociation.org/competitions/NinosHeroesJalisco2023/results/by_person#2023BELT03) |
 
 ### Skewb
 
@@ -190,6 +190,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.02 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 22.37 | 22.39 | [Cube4fun Skierniewice 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueSkierniewice2022/results/by_person#2013OWCZ01) |
 | 0.04 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 10.23 | 10.27 | [Washtenaw Qualifier 2023](https://www.worldcubeassociation.org/competitions/WashtenawQualifier2023/results/by_person#2016CHAP04) |
+| 0.06 | [Ryan Hughes](https://www.worldcubeassociation.org/persons/2022HUGH04) | 8.34 | 8.40 | [Fort Lee Winter 2026](https://www.worldcubeassociation.org/competitions/FortLeeWinter2026/results/by_person#2022HUGH04) |
 | 0.07 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 11.27 | 11.34 | [Hangzhou Autumn 2016](https://www.worldcubeassociation.org/competitions/HangzhouAutumn2016/results/by_person#2013FENG02) |
 | 0.07 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | 33.02 | 33.09 | [Dixon Winter 2013](https://www.worldcubeassociation.org/competitions/DixonWinter2013/results/by_person#2010BREC01) |
 | 0.08 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 11.69 | 11.77 | [BrizZon Side Open IV 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2023/results/by_person#2021WARC01) |
@@ -197,7 +198,6 @@
 | 0.09 | [Muhammad Hafizuddin Akhtar Bin Mohd Zainal Abidin](https://www.worldcubeassociation.org/persons/2017ABID02) | 12.03 | 12.12 | [Malaysia Cube Championship 2019](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2019/results/by_person#2017ABID02) |
 | 0.09 | [Lukas Hörbach](https://www.worldcubeassociation.org/persons/2022HORB01) | 12.62 | 12.71 | [UBC Side Events 2023](https://www.worldcubeassociation.org/competitions/UBCSideEvents2023/results/by_person#2022HORB01) |
 | 0.09 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 14.42 | 14.51 | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022/results/by_person#2014ZYCH01) |
-| 0.09 | [Dilshawn Sidhu](https://www.worldcubeassociation.org/persons/2018SIDH02) | 15.74 | 15.83 | [Canada's Best in the West 2024](https://www.worldcubeassociation.org/competitions/CanadasBestintheWest2024/results/by_person#2018SIDH02) |
 
 ### 4x4x4 Blindfolded
 

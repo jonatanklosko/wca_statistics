@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -13,6 +13,7 @@
 | 426 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 496 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 567 | [Ge Shi (石歌)](https://www.worldcubeassociation.org/persons/2024GESH01) |
+| 602 | [Zaya Qiaolong (俏龙扎雅)](https://www.worldcubeassociation.org/persons/2024QIAO03) |
 | 665 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
 | 671 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
 | 707 | [János Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
@@ -119,6 +120,7 @@
 | 3143 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
 | 3213 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 3221 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
+| 3262 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) |
 | 3282 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
 | 3282 | [Michael Ngan (顏律言)](https://www.worldcubeassociation.org/persons/2016NGAN02) |
 | 3402 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) |
@@ -131,6 +133,7 @@
 | 3703 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 3703 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 3760 | [Luis Gabriel Magadia](https://www.worldcubeassociation.org/persons/2014MAGA04) |
+| 3830 | [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) |
 | 3850 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
 | 3878 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 3935 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |

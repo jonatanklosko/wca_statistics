@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 January 2026*
+*Updated on 31 January 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -15,18 +15,18 @@
 | 1811 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1783 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 1736 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
-| 1687 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 1690 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1680 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 1668 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 1624 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 1611 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 1612 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1579 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1543 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 1531 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 1515 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1490 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 1468 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1467 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 1462 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 1423 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 1378 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 1363 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
@@ -53,8 +53,8 @@
 | 1175 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1169 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1162 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 1153 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 1147 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
-| 1144 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 1105 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1093 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |

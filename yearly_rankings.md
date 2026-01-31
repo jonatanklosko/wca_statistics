@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 January 2026*
+*Updated on 31 January 2026*
 
 
 ### Rubik's Cube - Single
@@ -255,9 +255,9 @@
 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **7.47** | United States | [Brazos Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/BrazosCubingWinter2026) | 13.66, 13.14, 7.47, 10.85, 11.56 |
 | [Andreas Lambropoulos](https://www.worldcubeassociation.org/persons/2017LAMB06) | **7.58** | United States | [Georgia Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaChampionship2026) | 11.15, 9.44, 12.13, 12.35, 7.58 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **7.58** | Poland | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 10.20, 7.58, 8.55, 10.49, 8.97 |
+| [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | **7.63** | Brazil | [Itapeva 2026](https://www.worldcubeassociation.org/competitions/Itapeva2026) | 9.45, 12.13, 10.75, 9.51, 7.63 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **7.64** | United States | [No Sprinting NY 2026](https://www.worldcubeassociation.org/competitions/NoSprintingNY2026) | 7.64, 12.96, 11.63, 8.77, 9.45 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **7.65** | Russia | [Chanteloup Open 2026](https://www.worldcubeassociation.org/competitions/ChanteloupOpen2026) | 11.06, 13.31, 10.11, 7.65, 9.43 |
-| [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **7.66** | United States | [Super Duper San Diego 2026](https://www.worldcubeassociation.org/competitions/SuperDuperSanDiego2026) | 8.53, 9.78, 10.16, 7.66, 10.09 |
 
 ### 3x3x3 One-Handed - Average
 
@@ -270,9 +270,9 @@
 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **9.18** | Hong Kong, China | [Berkeley January Weekday 2026](https://www.worldcubeassociation.org/competitions/BerkeleyJanuaryWeekday2026) | 10.54, 10.42, 8.14, 8.99, 8.00 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **9.25** | United States | [Super Duper San Diego 2026](https://www.worldcubeassociation.org/competitions/SuperDuperSanDiego2026) | 9.88, 9.40, 8.95, 9.40, 7.70 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **9.32** | New Zealand | [Hurry Up Hutt Valley 2026](https://www.worldcubeassociation.org/competitions/HurryUpHuttValley2026) | 8.91, 10.28, 9.60, 9.44, 8.31 |
+| [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | **9.59** | Brazil | [Itapeva 2026](https://www.worldcubeassociation.org/competitions/Itapeva2026) | 8.31, 10.70, 8.55, 13.19, 9.53 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **9.66** | United States | [Imagination Station A 2026](https://www.worldcubeassociation.org/competitions/ImaginationStationA2026) | 9.64, 8.57, 9.12, 11.86, 10.23 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **9.68** | France | [Chanteloup Open 2026](https://www.worldcubeassociation.org/competitions/ChanteloupOpen2026) | 7.36, 10.44, 8.77, 11.44, 9.82 |
-| [Parist Pariyakanok (พริษฐ์ ปริยกนก)](https://www.worldcubeassociation.org/persons/2018PARI07) | **9.68** | Thailand | [Bravo BKK Cube Master 2026](https://www.worldcubeassociation.org/competitions/BravoBKKCubeMaster2026) | 10.54, 9.71, 8.78, 8.16, 11.88 |
 
 ### Megaminx - Single
 
@@ -473,6 +473,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Marcos Ferreira Semolini](https://www.worldcubeassociation.org/persons/2017SEMO02) | **7:10.97** | Brazil | [Itapeva 2026](https://www.worldcubeassociation.org/competitions/Itapeva2026) | 7:00.68, 7:12.33, 7:19.90 |
 | [Ivo Stoutjesdijk](https://www.worldcubeassociation.org/persons/2019STOU02) | **9:31.20** | Netherlands | [Leersum Open 2026](https://www.worldcubeassociation.org/competitions/LeersumOpen2026) | 9:13.64, 8:58.97, 10:21.00 |
 | [Rodolphe Rouyrre](https://www.worldcubeassociation.org/persons/2020ROUY01) | **13:29.00** | France | [Saucisse Vergèze au PBQ 2026](https://www.worldcubeassociation.org/competitions/SaucisseVergezeauPBQ2026) | 12:16.00, 12:49.00, 15:22.00 |
 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) | **15:17.00** | Latvia | [PBQ Ropaži 2026](https://www.worldcubeassociation.org/competitions/PBQRopazi2026) | 16:42.00, 13:21.00, 15:49.00 |
@@ -494,7 +495,7 @@
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **48/55 58:52** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 45/53 59:45, 35/41 58:07, 48/55 58:52 |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **39/44 1:00:00** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 39/44 1:00:00 |
 | [Matthew Hollinger](https://www.worldcubeassociation.org/persons/2014HOLL01) | **35/37 58:56** | United States | [Georgia Quiet Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaQuietChampionship2026) | 35/37 58:56 |
-| [Jason Hammerman](https://www.worldcubeassociation.org/persons/2014HAMM01) | **30/31 57:43** | United States | [Riverside PBQ 2026](https://www.worldcubeassociation.org/competitions/RiversidePBQ2026) | 27/31 1:00:02, 30/31 57:43 |
+| [Marcos Ferreira Semolini](https://www.worldcubeassociation.org/persons/2017SEMO02) | **37/42 58:19** | Brazil | [Itapeva 2026](https://www.worldcubeassociation.org/competitions/Itapeva2026) | DNF, 37/42 58:19 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

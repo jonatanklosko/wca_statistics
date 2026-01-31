@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 January 2026*
+*Updated on 31 January 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -725,6 +725,7 @@
 | 10 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Italian Championship 2018](https://www.worldcubeassociation.org/competitions/ItalianChampionship2018/results/podiums) |
 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Italian Open 2012](https://www.worldcubeassociation.org/competitions/ItalianOpen2012/results/podiums) |
 | 10 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Italian Open 2018](https://www.worldcubeassociation.org/competitions/ItalianOpen2018/results/podiums) |
+| 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Itapeva 2026](https://www.worldcubeassociation.org/competitions/Itapeva2026/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [İzmir Spring 2019](https://www.worldcubeassociation.org/competitions/IzmirSpring2019/results/podiums) |
 | 10 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Jakarta Open 2018](https://www.worldcubeassociation.org/competitions/JakartaOpen2018/results/podiums) |
 | 10 | [Andre Febriato Jonathan](https://www.worldcubeassociation.org/persons/2011JONA01) | [Jakarta Open 2019](https://www.worldcubeassociation.org/competitions/JakartaOpen2019/results/podiums) |

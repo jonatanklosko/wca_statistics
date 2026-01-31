@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 January 2026*
+*Updated on 31 January 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -311,6 +311,7 @@
 | 1350 | [Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01) |
 | 1351 | [Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01) |
 | 1357 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
+| 1358 | [Nicolo David Lodato](https://www.worldcubeassociation.org/persons/2022LODA01) |
 | 1372 | [Adam Ahmad](https://www.worldcubeassociation.org/persons/2018AHMA02) |
 | 1377 | [Jinge Li (李金戈)](https://www.worldcubeassociation.org/persons/2021LIJI02) |
 | 1379 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |

@@ -1,24 +1,24 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 31 January 2026*
+*Updated on  1 February 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1545** | 1310 | 1130 | 3985 |
-| United States | **1519** | 1195 | 1020 | 3734 |
+| United States | **1519** | 1196 | 1020 | 3735 |
 | Germany | **1381** | 1303 | 1290 | 3974 |
-| Russia | **1319** | 717 | 539 | 2575 |
-| France | **1125** | 987 | 849 | 2961 |
+| Russia | **1320** | 717 | 541 | 2578 |
+| France | **1125** | 988 | 851 | 2964 |
 | China | **1084** | 1001 | 889 | 2974 |
 | Netherlands | **1060** | 852 | 739 | 2651 |
 | Poland | **849** | 551 | 438 | 1838 |
 | Malaysia | **503** | 538 | 492 | 1533 |
 | United Kingdom | **493** | 546 | 515 | 1554 |
-| Canada | **491** | 499 | 550 | 1540 |
-| Hong Kong, China | **491** | 482 | 404 | 1377 |
+| Canada | **491** | 503 | 551 | 1545 |
+| Hong Kong, China | **491** | 482 | 405 | 1378 |
 | Switzerland | **470** | 514 | 412 | 1396 |
-| India | **446** | 435 | 418 | 1299 |
+| India | **446** | 436 | 418 | 1300 |
 | Italy | **435** | 428 | 398 | 1261 |
 | Republic of Korea | **428** | 366 | 319 | 1113 |
 | Denmark | **386** | 332 | 280 | 998 |
@@ -27,10 +27,10 @@
 | Finland | **318** | 263 | 222 | 803 |
 | Australia | **314** | 182 | 135 | 631 |
 | Argentina | **295** | 201 | 178 | 674 |
-| Singapore | **269** | 239 | 251 | 759 |
+| Singapore | **269** | 239 | 253 | 761 |
 | Romania | **262** | 193 | 162 | 617 |
+| Chinese Taipei | **260** | 244 | 245 | 749 |
 | Indonesia | **258** | 242 | 188 | 688 |
-| Chinese Taipei | **257** | 244 | 245 | 746 |
 | Japan | **254** | 208 | 185 | 647 |
 | Spain | **238** | 233 | 255 | 726 |
 | Ireland | **229** | 116 | 101 | 446 |
@@ -57,7 +57,7 @@
 | Israel | **85** | 79 | 82 | 246 |
 | Vietnam | **82** | 97 | 95 | 274 |
 | Estonia | **71** | 87 | 79 | 237 |
-| Jordan | **65** | 20 | 24 | 109 |
+| Jordan | **66** | 20 | 24 | 110 |
 | Iran | **59** | 41 | 31 | 131 |
 | Serbia | **57** | 64 | 56 | 177 |
 | Macau, China | **47** | 58 | 46 | 151 |

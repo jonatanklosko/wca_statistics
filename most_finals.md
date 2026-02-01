@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 31 January 2026*
+*Updated on  1 February 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -94,7 +94,7 @@
 | 952 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 938 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 929 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
+| 931 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 927 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 924 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 922 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |

@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 
 ### 300 Competitions
@@ -77,6 +77,7 @@
 | 1198 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 1378 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 2219 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 2241 | [Keenan Darkins](https://www.worldcubeassociation.org/persons/2019DARK02) |
 | 2247 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 2312 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 2340 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
@@ -91,7 +92,6 @@
 | 2844 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 2850 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 2871 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
-| 2885 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 
 ### 100 Competitions
 
@@ -148,6 +148,7 @@
 | Days | Person |
 | ---: | :--- |
 | 224 | [Juan Miguel Y. Magallanes](https://www.worldcubeassociation.org/persons/2023MAGA09) |
+| 240 | [Wilhelm Öhman](https://www.worldcubeassociation.org/persons/2025OHMA01) |
 | 247 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
 | 251 | [Yili Yi](https://www.worldcubeassociation.org/persons/2024YIYI01) |
 | 271 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
@@ -166,7 +167,6 @@
 | 337 | [Jack Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI08) |
 | 337 | [Jacob Goossens Celis](https://www.worldcubeassociation.org/persons/2023CELI06) |
 | 338 | [Mohith B (ಮೋಹಿತ್ ಬಿ)](https://www.worldcubeassociation.org/persons/2023BMOH01) |
-| 351 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) |
 
 ### 10 Competitions
 

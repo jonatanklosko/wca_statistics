@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -15,6 +15,7 @@
 | 6 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 6 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 6 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
+| 6 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 5 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 5 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
 | 5 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
@@ -46,6 +47,7 @@
 | 5 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 5 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 5 | [Donna Hays](https://www.worldcubeassociation.org/persons/2011HAYS02) |
+| 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 5 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 5 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
 | 5 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
@@ -64,7 +66,6 @@
 | 5 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) |
 | 5 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 5 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
-| 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 5 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 4 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 4 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
@@ -94,6 +95,7 @@
 | 4 | [Howard Wong Jun Yen (黄俊仁)](https://www.worldcubeassociation.org/persons/2009JUNY01) |
 | 4 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) |
 | 4 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
+| 4 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 4 | [Jorge Leonardo Sánchez Salazar](https://www.worldcubeassociation.org/persons/2009SALA01) |
 | 4 | [Tse Yuet Ming (謝乙銘)](https://www.worldcubeassociation.org/persons/2009TSEM01) |
 | 4 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
@@ -117,7 +119,6 @@
 | 4 | [Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02) |
 | 4 | [Thaynara Santana de Oliveira](https://www.worldcubeassociation.org/persons/2011OLIV03) |
 | 4 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 4 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 4 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 4 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |
 | 4 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
@@ -161,6 +162,7 @@
 | 4 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 4 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 4 | [Dylan Govic](https://www.worldcubeassociation.org/persons/2015GOVI01) |
+| 4 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 4 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 4 | [Oliver Jenks](https://www.worldcubeassociation.org/persons/2015JENK02) |
 | 4 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) |
@@ -200,6 +202,7 @@
 | 4 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 4 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 4 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) |
+| 4 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 4 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 4 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 4 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |

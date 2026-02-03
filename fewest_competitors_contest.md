@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -423,6 +423,7 @@
 | 10 | [Toba Cubetastrophe 2022](https://www.worldcubeassociation.org/competitions/TobaCubetastrophe2022) |
 | 10 | [U.R.A. Big Cubes and FMC 2019](https://www.worldcubeassociation.org/competitions/URABigCubesandFMC2019) |
 | 10 | [VERK X 2025](https://www.worldcubeassociation.org/competitions/VERKX2025) |
+| 10 | [VERK XI 2026](https://www.worldcubeassociation.org/competitions/VERKXI2026) |
 | 10 | [Warden of the West 2019](https://www.worldcubeassociation.org/competitions/WardenoftheWest2019) |
 | 10 | [Warsaw FMC Tour II Sunday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIISunday2024) |
 | 10 | [Warsaw FMC Tour Saturday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourSaturday2024) |
@@ -482,6 +483,7 @@
 | 11 | [Málaga UIS 2018](https://www.worldcubeassociation.org/competitions/MalagaUIS2018) |
 | 11 | [Mental Breakdown Minnesota 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownMinnesota2019) |
 | 11 | [Mini Mental Milano II 2025](https://www.worldcubeassociation.org/competitions/MiniMentalMilanoII2025) |
+| 11 | [Mini Mental Milano VIII 2026](https://www.worldcubeassociation.org/competitions/MiniMentalMilanoVIII2026) |
 | 11 | [Mini Minnesota Fall 2017](https://www.worldcubeassociation.org/competitions/MiniMinnesotaFall2017) |
 | 11 | [Naga City Cube Open 2019](https://www.worldcubeassociation.org/competitions/NagaCityCubeOpen2019) |
 | 11 | [Namangan Open 2019](https://www.worldcubeassociation.org/competitions/NamanganOpen2019) |
@@ -802,6 +804,7 @@
 | 14 | [FMC and More Minnesota 2025](https://www.worldcubeassociation.org/competitions/FMCandMoreMinnesota2025) |
 | 14 | [FMC Bulgaria x Romania 2024](https://www.worldcubeassociation.org/competitions/FMCBulgariaxRomania2024) |
 | 14 | [FMC Colombia IV 2024](https://www.worldcubeassociation.org/competitions/FMCColombiaIV2024) |
+| 14 | [FMC Colombia IX 2026](https://www.worldcubeassociation.org/competitions/FMCColombiaIX2026) |
 | 14 | [FMCow Ohio State 2023](https://www.worldcubeassociation.org/competitions/FMCowOhioState2023) |
 | 14 | [FMC Singapore 2022](https://www.worldcubeassociation.org/competitions/FMCSingapore2022) |
 | 14 | [Furesø Side Events 2025](https://www.worldcubeassociation.org/competitions/FuresoSideEvents2025) |
@@ -813,6 +816,7 @@
 | 14 | [Hooshinoo Quiet Day 2024](https://www.worldcubeassociation.org/competitions/HooshinooQuietDay2024) |
 | 14 | [HDC Dec - Fyn 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingDecemberFyn2024) |
 | 14 | [I Hope It's Solved EDM 2 2019](https://www.worldcubeassociation.org/competitions/IHopeItsSolvedEDM22019) |
+| 14 | [Ilo Speedcubing Summer 2026](https://www.worldcubeassociation.org/competitions/IloSpeedcubingSummer2026) |
 | 14 | [IranFMC 2015](https://www.worldcubeassociation.org/competitions/IranFMC2015) |
 | 14 | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023) |
 | 14 | [Keep Portland Quiet 2016](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2016) |
@@ -991,6 +995,7 @@
 | 15 | [Saideira Araruama 2025](https://www.worldcubeassociation.org/competitions/SaideiraAraruama2025) |
 | 15 | [Saratoga Springs Big Cubes 2024](https://www.worldcubeassociation.org/competitions/SaratogaSpringsBigCubes2024) |
 | 15 | [Shakarim Open 2023](https://www.worldcubeassociation.org/competitions/ShakarimOpen2023) |
+| 15 | [Sicily Smart Solving 2026](https://www.worldcubeassociation.org/competitions/SicilySmartSolving2026) |
 | 15 | [Silent Brasília 2023](https://www.worldcubeassociation.org/competitions/SilentBrasilia2023) |
 | 15 | [Silent Summer Orlando 2019](https://www.worldcubeassociation.org/competitions/SilentSummerOrlando2019) |
 | 15 | [Speed and Music Caracas 2019](https://www.worldcubeassociation.org/competitions/SpeedandMusicCaracas2019) |

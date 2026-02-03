@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 
 ### Rubik's Cube
@@ -197,7 +197,7 @@
 | 60 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | [Wiltshire Winter 2023](https://www.worldcubeassociation.org/competitions/WiltshireWinter2023) |
 | 59 | [Andrew Tyberg](https://www.worldcubeassociation.org/persons/2016TYBE01) | [Minnesota Newcomer Saturday 2025](https://www.worldcubeassociation.org/competitions/MinnesotaNewcomerSaturday2025) |
 | 59 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Ruta Valenciana IV: Sueca 2024](https://www.worldcubeassociation.org/competitions/RutaValencianaIVSueca2024) |
-| 58 | [Zachary Miller](https://www.worldcubeassociation.org/persons/2017MILL04) | [Great North Woods 2025](https://www.worldcubeassociation.org/competitions/GreatNorthWoods2025) |
+| 59 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Marrakech Open 2026](https://www.worldcubeassociation.org/competitions/MarrakechOpen2026) |
 
 ### Square-1
 
@@ -252,12 +252,12 @@
 | 45 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) | [Poulseur Quiet Open 2026](https://www.worldcubeassociation.org/competitions/PoulseurQuietOpen2026) |
 | 43 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | [Telšiai Open 2019](https://www.worldcubeassociation.org/competitions/TelsiaiOpen2019) |
 | 37 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) | [Meiringen Masterminds 2025](https://www.worldcubeassociation.org/competitions/MeiringenMasterminds2025) |
+| 35 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) | [Cubing in the Rain 2026](https://www.worldcubeassociation.org/competitions/CubingintheRain2026) |
 | 33 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | [Roma ar Cubbo 2024](https://www.worldcubeassociation.org/competitions/RomaarCubbo2024) |
 | 31 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Dvärsätt Open 2026](https://www.worldcubeassociation.org/competitions/DvarsattOpen2026) |
 | 31 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023) |
 | 28 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) | [Vilnius Open 2021](https://www.worldcubeassociation.org/competitions/VilniusOpen2021) |
 | 27 | [Saiyam Jain](https://www.worldcubeassociation.org/persons/2015JAIN21) | [Nepali Nationals 2025](https://www.worldcubeassociation.org/competitions/NepaliNationals2025) |
-| 27 | [Ivan Krueger](https://www.worldcubeassociation.org/persons/2016KRUE01) | [Hilliard Hippocampus VII 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusVII2023) |
 
 ### 3x3x3 With Feet
 

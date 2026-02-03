@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 
 ### Rubik's Cube
@@ -117,12 +117,12 @@
 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 19 | **21.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 4 |
 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 20 | **22.00** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 4 |
 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 20 | **22.00** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 5 |
+| [Enrico Tenuti](https://www.worldcubeassociation.org/persons/2017TENU01) | 21 | **22.00** | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026/results/all#e333fm_f) | 5 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 21 | **22.00** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e333fm_f) | 4 |
 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 19 | **22.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 5 |
 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | 20 | **22.33** | [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025/results/all#e333fm_f) | 4 |
 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) | 20 | **22.33** | [Tokyo FMC Spring 2025](https://www.worldcubeassociation.org/competitions/TokyoFMCSpring2025/results/all#e333fm_f) | 4 |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 21 | **22.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 6 |
-| [Moritz Lotz](https://www.worldcubeassociation.org/persons/2017LOTZ01) | 21 | **22.33** | [FMC under the Mistletoe 2025](https://www.worldcubeassociation.org/competitions/FMCundertheMistletoe2025/results/all#e333fm_f) | 4 |
+| [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | 21 | **22.33** | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026/results/all#e333fm_f) | 6 |
 
 ### 3x3x3 One-Handed
 
@@ -193,11 +193,11 @@
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.39 | **1.93** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eskewb_f) | 6 |
 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | 1.79 | **2.06** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eskewb_f) | 7 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.61 | **2.09** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eskewb_f) | 4 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1.97 | **2.18** | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/all#eskewb_f) | 4 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.85 | **2.30** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#eskewb_f) | 4 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.12 | **2.31** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#eskewb_f) | 5 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 1.88 | **2.33** | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/all#eskewb_f) | 4 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.86 | **2.34** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eskewb_f) | 4 |
-| [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 2.00 | **2.35** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eskewb_f) | 5 |
 
 ### Square-1
 

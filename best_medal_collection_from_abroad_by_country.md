@@ -1,13 +1,13 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  2 February 2026*
+*Updated on  4 February 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1551** | 1318 | 1140 | 4009 |
 | United States | **1519** | 1196 | 1021 | 3736 |
-| Germany | **1383** | 1305 | 1292 | 3980 |
+| Germany | **1383** | 1306 | 1292 | 3981 |
 | Russia | **1325** | 719 | 543 | 2587 |
 | France | **1127** | 988 | 851 | 2966 |
 | China | **1084** | 1001 | 889 | 2974 |
@@ -26,7 +26,7 @@
 | Sweden | **342** | 397 | 399 | 1138 |
 | Finland | **320** | 263 | 222 | 805 |
 | Australia | **315** | 183 | 136 | 634 |
-| Argentina | **295** | 201 | 178 | 674 |
+| Argentina | **295** | 201 | 179 | 675 |
 | Singapore | **269** | 239 | 253 | 761 |
 | Romania | **263** | 193 | 163 | 619 |
 | Chinese Taipei | **260** | 244 | 245 | 749 |
@@ -36,17 +36,17 @@
 | Ireland | **233** | 118 | 101 | 452 |
 | Austria | **211** | 261 | 283 | 755 |
 | Slovenia | **199** | 266 | 271 | 736 |
-| Peru | **196** | 178 | 228 | 602 |
+| Peru | **196** | 182 | 233 | 611 |
 | Latvia | **177** | 256 | 261 | 694 |
 | Czech Republic | **163** | 190 | 200 | 553 |
-| Belgium | **158** | 234 | 229 | 621 |
+| Belgium | **159** | 235 | 229 | 623 |
 | Colombia | **154** | 128 | 124 | 406 |
 | Norway | **138** | 149 | 147 | 434 |
 | Kazakhstan | **136** | 158 | 171 | 465 |
 | Greece | **132** | 166 | 131 | 429 |
 | Lithuania | **120** | 105 | 107 | 332 |
 | Belarus | **115** | 84 | 95 | 294 |
-| Venezuela | **108** | 139 | 124 | 371 |
+| Venezuela | **108** | 139 | 125 | 372 |
 | Philippines | **108** | 126 | 119 | 353 |
 | Thailand | **105** | 111 | 68 | 284 |
 | Slovakia | **103** | 149 | 149 | 401 |
@@ -60,13 +60,13 @@
 | Jordan | **66** | 20 | 24 | 110 |
 | Iran | **60** | 44 | 32 | 136 |
 | Serbia | **57** | 64 | 56 | 177 |
-| Macau, China | **47** | 58 | 46 | 151 |
+| Macau, China | **48** | 58 | 46 | 152 |
 | Kosovo | **45** | 31 | 32 | 108 |
+| Chile | **40** | 33 | 36 | 109 |
 | Mongolia | **38** | 52 | 52 | 142 |
 | Portugal | **37** | 43 | 59 | 139 |
 | South Africa | **36** | 55 | 59 | 150 |
 | Uzbekistan | **36** | 31 | 32 | 99 |
-| Chile | **36** | 29 | 32 | 97 |
 | Mexico | **34** | 46 | 52 | 132 |
 | Kyrgyzstan | **33** | 44 | 48 | 125 |
 | Costa Rica | **31** | 44 | 38 | 113 |

@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on  4 February 2026*
+*Updated on  7 February 2026*
 
 
 ### Rubik's Cube
@@ -219,7 +219,6 @@
 | 47.59 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
 | 47.61 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) |
 | 47.64 | [Mark Zimmermann](https://www.worldcubeassociation.org/persons/2018ZIMM02) |
-| 47.69 | [Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01) |
 | 47.74 | [Zhiyuan Ma (马之元)](https://www.worldcubeassociation.org/persons/2017MAZH04) |
 | 47.75 | [Wei-Ming Zeng (曾唯銘)](https://www.worldcubeassociation.org/persons/2019ZENG10) |
 | 47.77 | [Chen Chen (陈晨)](https://www.worldcubeassociation.org/persons/2017CHEN24) |
@@ -229,6 +228,7 @@
 | 48.18 | [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) |
 | 48.31 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 48.35 | [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) |
+| 48.41 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) |
 
 ### 6x6x6 Cube
 
@@ -273,12 +273,12 @@
 | 1:27.85 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) |
 | 1:27.98 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) |
 | 1:28.23 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
-| 1:28.38 | [Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01) |
 | 1:28.43 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 1:28.67 | [Tianlan Geng (耿天澜)](https://www.worldcubeassociation.org/persons/2025GENG04) |
 | 1:28.78 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 1:28.80 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) |
 | 1:29.21 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) |
+| 1:29.47 | [Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01) |
 | 1:29.51 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) |
 | 1:29.63 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) |
 | 1:30.02 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
@@ -469,10 +469,10 @@
 | 32.36 | [Beth Lee](https://www.worldcubeassociation.org/persons/2022LEEB01) |
 | 32.53 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 32.89 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
+| 33.00 | [Alessandro Calzoni](https://www.worldcubeassociation.org/persons/2021CALZ01) |
 | 33.09 | [Lucas Kuczaj](https://www.worldcubeassociation.org/persons/2018KUCZ01) |
 | 33.17 | [Prabhav Rajaram Nayak](https://www.worldcubeassociation.org/persons/2019NAYA01) |
 | 33.35 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
-| 33.45 | [Alessandro Calzoni](https://www.worldcubeassociation.org/persons/2021CALZ01) |
 | 33.53 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 33.62 | [Masayuki Hirai (平井雅之)](https://www.worldcubeassociation.org/persons/2014HIRA05) |
 | 33.66 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) |

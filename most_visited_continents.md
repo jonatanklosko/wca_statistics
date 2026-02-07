@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  4 February 2026*
+*Updated on  7 February 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -67,6 +67,7 @@
 | 5 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 5 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 5 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
+| 5 | [Achilles Standring](https://www.worldcubeassociation.org/persons/2022STAN14) |
 | 4 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 4 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 4 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) |
@@ -218,7 +219,6 @@
 | 4 | [Thomas Pierroz](https://www.worldcubeassociation.org/persons/2021PIER01) |
 | 4 | [Mitchell Anderson](https://www.worldcubeassociation.org/persons/2022ANDE01) |
 | 4 | [Don Daniels](https://www.worldcubeassociation.org/persons/2022DANI10) |
-| 4 | [Achilles Standring](https://www.worldcubeassociation.org/persons/2022STAN14) |
 | 4 | [Joseph Liu (劉睿博)](https://www.worldcubeassociation.org/persons/2023LIUJ01) |
 | 4 | [Catherine Rush](https://www.worldcubeassociation.org/persons/2023RUSH01) |
 | 4 | [Kyle Rongkai Wang](https://www.worldcubeassociation.org/persons/2023WANG90) |

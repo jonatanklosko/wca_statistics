@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  4 February 2026*
+*Updated on  7 February 2026*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -23,18 +23,18 @@
 | [Czech Open 2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010) | 10.16 | 49 | Czech Republic |
 | [VERK IX 2025](https://www.worldcubeassociation.org/competitions/VERKIX2025) | 10.07 | 14 | Finland |
 | [Czech Open 2011](https://www.worldcubeassociation.org/competitions/CzechOpen2011) | 10.06 | 52 | Czech Republic |
-| [Porfyrkuben 2024](https://www.worldcubeassociation.org/competitions/Porfyrkuben2024) | 10.00 | 17 | Sweden |
 | [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025) | 10.00 | 9 | United States |
+| [Porfyrkuben 2024](https://www.worldcubeassociation.org/competitions/Porfyrkuben2024) | 10.00 | 17 | Sweden |
 | [Bristol Spring 2010](https://www.worldcubeassociation.org/competitions/BristolSpring2010) | 9.94 | 32 | United Kingdom |
 | [A Tuesday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/ATuesdayinAshfield2024) | 9.92 | 12 | United States |
 | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | 9.84 | 50 | Czech Republic |
 | [Spring Cubing in Stafsinge 2025](https://www.worldcubeassociation.org/competitions/SpringCubinginStafsinge2025) | 9.83 | 24 | Sweden |
-| [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) | 9.82 | 55 | Czech Republic |
 | [Björneborg Winter 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWinter2023) | 9.82 | 11 | Sweden |
+| [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) | 9.82 | 55 | Czech Republic |
 | [Cyprus Nationals 2025](https://www.worldcubeassociation.org/competitions/CyprusNationals2025) | 9.79 | 42 | Cyprus |
 | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023) | 9.77 | 35 | Indonesia |
-| [Dvärsätt Open 2026](https://www.worldcubeassociation.org/competitions/DvarsattOpen2026) | 9.77 | 26 | Sweden |
 | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | 9.77 | 39 | Poland |
+| [Dvärsätt Open 2026](https://www.worldcubeassociation.org/competitions/DvarsattOpen2026) | 9.77 | 26 | Sweden |
 | [Bogotá No Duerme 2024](https://www.worldcubeassociation.org/competitions/BogotaNoDuerme2024) | 9.75 | 28 | Colombia |
 | [Val d'Aran Open 2024](https://www.worldcubeassociation.org/competitions/ValdAranOpen2024) | 9.75 | 28 | Spain |
 | [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021) | 9.72 | 25 | Sweden |
@@ -77,9 +77,9 @@
 | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019) | 9.07 | 15 | Finland |
 | [Poções 2019](https://www.worldcubeassociation.org/competitions/Pocoes2019) | 9.06 | 18 | Brazil |
 | [Southern Indiana Qualifier 2025](https://www.worldcubeassociation.org/competitions/SouthernIndianaQualifier2025) | 9.04 | 53 | United States |
+| [NZ South Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2025) | 9.00 | 34 | New Zealand |
 | [Bulacan Open 2010](https://www.worldcubeassociation.org/competitions/BulacanOpen2010) | 9.00 | 16 | Philippines |
 | [Sint Michielsgestel 2019](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2019) | 9.00 | 45 | Netherlands |
-| [NZ South Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2025) | 9.00 | 34 | New Zealand |
 | [Danish Open 2014](https://www.worldcubeassociation.org/competitions/DanishOpen2014) | 8.97 | 36 | Denmark |
 | [Heartland Championship 2019](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2019) | 8.96 | 93 | United States |
 | [Maribor Open 2014](https://www.worldcubeassociation.org/competitions/MariborOpen2014) | 8.95 | 20 | Slovenia |

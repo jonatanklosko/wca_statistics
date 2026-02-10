@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -170,6 +170,7 @@
 | 2 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 2 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 2 | [Tang Yiu Chun (鄧耀俊)](https://www.worldcubeassociation.org/persons/2009CHUN07) |
+| 2 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 2 | [Thibaut Jacquinot](https://www.worldcubeassociation.org/persons/2006JACQ01) |
 | 2 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) |
 | 2 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
@@ -290,7 +291,6 @@
 | 1 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 1 | [Taki Sugimoto (杉本太暉)](https://www.worldcubeassociation.org/persons/2008SUGI01) |
 | 1 | [Takumi Yoshida (吉田匠)](https://www.worldcubeassociation.org/persons/2007YOSH01) |
-| 1 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 1 | [Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01) |
 | 1 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) |

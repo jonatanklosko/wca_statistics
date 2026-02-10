@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -10,7 +10,7 @@
 | 53 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 49 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 41 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 42 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 38 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 37 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |

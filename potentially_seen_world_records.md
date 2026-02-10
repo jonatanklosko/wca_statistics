@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -81,29 +81,29 @@
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 74 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
+| 73 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 72 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 72 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 72 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 72 | [David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01) |
 | 71 | [Peter Still](https://www.worldcubeassociation.org/persons/2005STIL01) |
 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |
 | 70 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
+| 70 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 70 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
-| 70 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 70 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
-| 69 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 68 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
+| 70 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 68 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
 | 68 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
+| 68 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 68 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
-| 67 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 67 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 67 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 67 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 67 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 67 | [Fumiki Koseki (古関章記)](https://www.worldcubeassociation.org/persons/2005KOSE01) |
 
 

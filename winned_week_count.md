@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 10 February 2026*
+*Updated on 13 February 2026*
 
 
 ### Rubik's Cube
@@ -60,7 +60,7 @@
 | :--- | ---: |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 108 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 95 |
-| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 65 |
+| [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 66 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 55 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 35 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 34 |
@@ -221,8 +221,8 @@
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 13 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | 11 |
 | [Justin Mallari](https://www.worldcubeassociation.org/persons/2010MALL01) | 11 |
+| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | 11 |
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 11 |
-| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | 10 |
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 10 |
 | [Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01) | 9 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 9 |
@@ -363,10 +363,10 @@
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 35 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 20 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 17 |
+| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 17 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 16 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 16 |
-| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 16 |
-| [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 16 |
+| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 15 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 14 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 14 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 14 |
@@ -384,7 +384,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 53 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 33 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 34 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 32 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 28 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 27 |

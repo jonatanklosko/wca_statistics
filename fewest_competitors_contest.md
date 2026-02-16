@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -59,6 +59,7 @@
 | 5 | [FMC Juazeiro 2023](https://www.worldcubeassociation.org/competitions/FMCJuazeiro2023) |
 | 5 | [Grizz League III 2023](https://www.worldcubeassociation.org/competitions/GrizzLeagueIII2023) |
 | 5 | [Grizz League IV 2023](https://www.worldcubeassociation.org/competitions/GrizzLeagueIV2023) |
+| 5 | [Hungarian FMC Series 1 2026](https://www.worldcubeassociation.org/competitions/HungarianFMCSeries12026) |
 | 5 | [JAM FMC III 2023](https://www.worldcubeassociation.org/competitions/JAMFMCIII2023) |
 | 5 | [JL3: Capricciosa 2023](https://www.worldcubeassociation.org/competitions/JL3Capricciosa2023) |
 | 5 | [Keep Christchurch Qualified 2024](https://www.worldcubeassociation.org/competitions/KeepChristchurchQualified2024) |
@@ -602,6 +603,7 @@
 | 12 | [Minnesota Qualifier 2024](https://www.worldcubeassociation.org/competitions/MinnesotaQualifier2024) |
 | 12 | [More Cubes Karori 2025](https://www.worldcubeassociation.org/competitions/MoreCubesKarori2025) |
 | 12 | [MSU Quiet Qualifier 2022](https://www.worldcubeassociation.org/competitions/MSUQuietQualifier2022) |
+| 12 | [Multi-Blind i Jönköping 2026](https://www.worldcubeassociation.org/competitions/MultiBlindiJonkoping2026) |
 | 12 | [Nakuru Speedcubing Camp 2025](https://www.worldcubeassociation.org/competitions/NakuruSpeedcubingCamp2025) |
 | 12 | [Nørre Campus Side Events 2024](https://www.worldcubeassociation.org/competitions/NorreCampusSideEvents2024) |
 | 12 | [Norrland Tour: Kubfors 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourKubfors2025) |
@@ -807,6 +809,7 @@
 | 14 | [FMC Bulgaria x Romania 2024](https://www.worldcubeassociation.org/competitions/FMCBulgariaxRomania2024) |
 | 14 | [FMC Colombia IV 2024](https://www.worldcubeassociation.org/competitions/FMCColombiaIV2024) |
 | 14 | [FMC Colombia IX 2026](https://www.worldcubeassociation.org/competitions/FMCColombiaIX2026) |
+| 14 | [FMC Lovers Fürth 2026](https://www.worldcubeassociation.org/competitions/FMCLoversFurth2026) |
 | 14 | [FMCow Ohio State 2023](https://www.worldcubeassociation.org/competitions/FMCowOhioState2023) |
 | 14 | [FMC Singapore 2022](https://www.worldcubeassociation.org/competitions/FMCSingapore2022) |
 | 14 | [Furesø Side Events 2025](https://www.worldcubeassociation.org/competitions/FuresoSideEvents2025) |

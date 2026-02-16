@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -10,7 +10,7 @@
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 204 | 125 | 663 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **280** | 152 | 111 | 543 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **240** | 186 | 141 | 567 |
-| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **231** | 211 | 121 | 563 |
+| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **235** | 211 | 122 | 568 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **229** | 69 | 34 | 332 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **222** | 27 | 13 | 262 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **206** | 62 | 21 | 289 |
@@ -49,7 +49,7 @@
 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **83** | 45 | 31 | 159 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **81** | 34 | 21 | 136 |
 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **79** | 50 | 17 | 146 |
-| [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **76** | 79 | 50 | 205 |
+| [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | **76** | 80 | 50 | 206 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **75** | 72 | 63 | 210 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **72** | 85 | 55 | 212 |
 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |

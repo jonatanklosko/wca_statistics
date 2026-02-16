@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 
 ### 300 Competitions
@@ -126,7 +126,7 @@
 | 475 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 520 | [Kyle Capiral](https://www.worldcubeassociation.org/persons/2022CAPI02) |
 | 524 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
-| 526 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
+| 526 | [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 | 546 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 548 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 552 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
@@ -153,7 +153,7 @@
 | 251 | [Yili Yi](https://www.worldcubeassociation.org/persons/2024YIYI01) |
 | 271 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 274 | [August Barnard](https://www.worldcubeassociation.org/persons/2022BARN21) |
-| 274 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
+| 274 | [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 | 281 | [Ramanujan Srinivasan](https://www.worldcubeassociation.org/persons/2024SRIN06) |
 | 287 | [Thomas Cabezas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 289 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |

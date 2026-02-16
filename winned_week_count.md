@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 
 ### Rubik's Cube
@@ -246,8 +246,8 @@
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 18 |
 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | 16 |
 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 15 |
+| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 14 |
 | [Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02) | 13 |
-| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 13 |
 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 13 |
 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 12 |
 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | 12 |
@@ -294,8 +294,8 @@
 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | 18 |
 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) | 17 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 16 |
+| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 15 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | 14 |
-| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 14 |
 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | 13 |
 | [Ernesto Fernández Regueira](https://www.worldcubeassociation.org/persons/2004FERN01) | 12 |
 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | 12 |
@@ -412,7 +412,7 @@
 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | 38 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 33 |
 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 33 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 29 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 30 |
 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | 25 |
 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 22 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 22 |

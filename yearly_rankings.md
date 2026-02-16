@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 
 ### Rubik's Cube - Single
@@ -223,26 +223,26 @@
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **19** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 24, 20, 19 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **19** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 23, 20, 19 |
 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | **20** | Italy | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 25, 20, 22 |
+| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **20** | United Kingdom | [FMC Cheltenham Winter 2026](https://www.worldcubeassociation.org/competitions/FMCCheltenhamWinter2026) | 21, 21, 20 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **20** | United States | [North Star MN 2026](https://www.worldcubeassociation.org/competitions/NorthStarMN2026) | 22, 20, 22 |
 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | **20** | Philippines | [Luzon Championship 2026](https://www.worldcubeassociation.org/competitions/LuzonChampionship2026) | 20 |
 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | **20** | Hungary | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 25, 20, 27 |
 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | **20** | Denmark | [Glasgow Winter SBO 2026](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2026) | 20, 25, 23 |
-| [Moritz Lotz](https://www.worldcubeassociation.org/persons/2017LOTZ01) | **20** | Germany | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 20, 24, 22 |
 
 ### 3x3x3 Fewest Moves - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **20.67** | United Kingdom | [FMC Cheltenham Winter 2026](https://www.worldcubeassociation.org/competitions/FMCCheltenhamWinter2026) | 21, 21, 20 |
 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | **20.67** | France | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 22, 20, 20 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **20.67** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 23, 20, 19 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **21.00** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 24, 20, 19 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **21.33** | United States | [North Star MN 2026](https://www.worldcubeassociation.org/competitions/NorthStarMN2026) | 22, 20, 22 |
+| [Moritz Lotz](https://www.worldcubeassociation.org/persons/2017LOTZ01) | **21.33** | Germany | [FMC Lovers Fürth 2026](https://www.worldcubeassociation.org/competitions/FMCLoversFurth2026) | 20, 22, 22 |
 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | **21.33** | Ukraine | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 21, 22, 21 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **21.67** | United States | [No Sprinting NY 2026](https://www.worldcubeassociation.org/competitions/NoSprintingNY2026) | 21, 22, 22 |
 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | **21.67** | Spain | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 21, 22, 22 |
 | [Hajime Miyazaki (宮崎朔)](https://www.worldcubeassociation.org/persons/2022MIYA01) | **21.67** | Japan | [Tokyo FMC Winter 2026](https://www.worldcubeassociation.org/competitions/TokyoFMCWinter2026) | 23, 21, 21 |
-| [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **22.00** | United States | [No Sprinting NY 2026](https://www.worldcubeassociation.org/competitions/NoSprintingNY2026) | 21, 22, 23 |
-| [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | **22.00** | Italy | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 24, 21, 21 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -264,6 +264,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **8.55** | Poland | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 8.34, 9.59, 8.16, 8.62, 8.70 |
+| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | **8.57** | Poland | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) | 7.99, 8.10, 8.88, 9.96, 8.74 |
 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | **8.76** | Philippines | [Luzon Championship 2026](https://www.worldcubeassociation.org/competitions/LuzonChampionship2026) | 7.32, 9.06, 11.94, 7.24, 9.90 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **8.88** | Russia | [Battle for Belgrade 2026](https://www.worldcubeassociation.org/competitions/BattleforBelgrade2026) | 7.84, 8.59, 10.74, 9.26, 8.80 |
 | [Jonas Pilhöfer](https://www.worldcubeassociation.org/persons/2019PILH01) | **9.12** | Germany | [Franconia Winter 2026](https://www.worldcubeassociation.org/competitions/FranconiaWinter2026) | 14.95, 7.82, 10.41, 7.79, 9.12 |
@@ -272,7 +273,6 @@
 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **9.32** | New Zealand | [Hurry Up Hutt Valley 2026](https://www.worldcubeassociation.org/competitions/HurryUpHuttValley2026) | 8.91, 10.28, 9.60, 9.44, 8.31 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **9.55** | United States | [Deerfield Dodecahedrons 2026](https://www.worldcubeassociation.org/competitions/DeerfieldDodecahedrons2026) | 9.07, 8.23, 11.32, 14.30, 8.27 |
 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | **9.59** | Brazil | [Itapeva 2026](https://www.worldcubeassociation.org/competitions/Itapeva2026) | 8.31, 10.70, 8.55, 13.19, 9.53 |
-| [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **9.66** | United States | [Imagination Station A 2026](https://www.worldcubeassociation.org/competitions/ImaginationStationA2026) | 9.64, 8.57, 9.12, 11.86, 10.23 |
 
 ### Megaminx - Single
 
@@ -329,10 +329,10 @@
 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | **1.51** | United States | [Wide Moves & Waterslides CT 2026](https://www.worldcubeassociation.org/competitions/WideMovesWaterslidesCT2026) | 1.17, 1.81, 3.97, 1.55, 1.11 |
 | [Matouš Keder](https://www.worldcubeassociation.org/persons/2022KEDE01) | **1.57** | Czech Republic | [Vltava Cube: February 2026](https://www.worldcubeassociation.org/competitions/VltavaCubeFebruary2026) | 2.55, 1.51, 1.56, 1.49, 1.63 |
 | [Manuel Francisco Beltrán](https://www.worldcubeassociation.org/persons/2023BELT07) | **1.59** | Colombia | [Avenida Chile XXX 2026](https://www.worldcubeassociation.org/competitions/AvenidaChileXXX2026) | 1.31, 1.34, 1.95, 1.47, 2.53 |
-| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | **1.72** | Poland | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1.72, 2.37, 1.53, 1.78, 1.67 |
+| [David Andron-Silva](https://www.worldcubeassociation.org/persons/2022SILV37) | **1.68** | United States | [The Battle of Concord MA 2026](https://www.worldcubeassociation.org/competitions/TheBattleofConcordMA2026) | 1.70, 1.56, 1.71, 1.63, 3.35 |
+| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | **1.70** | Poland | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) | 1.60, 1.67, 2.38, 1.57, 1.83 |
 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | **1.74** | United States | [Georgia Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaChampionship2026) | 1.03, 5.51, 1.62, 2.10, 1.51 |
 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | **1.75** | Poland | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 1.89, 1.48, 1.32, 1.88, 3.85 |
-| [Ismaele Chiarella](https://www.worldcubeassociation.org/persons/2022CHIA12) | **1.78** | Italy | [Chanteloup Open 2026](https://www.worldcubeassociation.org/competitions/ChanteloupOpen2026) | 1.99, 1.25, 2.50, 1.97, 1.37 |
 
 ### Rubik's Clock - Single
 
@@ -420,9 +420,9 @@
 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **5.77** | Denmark | [Hvidovre for Alle 2026](https://www.worldcubeassociation.org/competitions/HvidovreforAlle2026) | 5.71, 5.87, 7.57, 5.73, 5.68 |
 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **6.27** | United States | [DFW Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/DFWCubingWinter2026) | 6.00, 6.62, 5.26, 7.64, 6.20 |
 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) | **6.33** | United Kingdom | [Manchester Square-1 Day 2026](https://www.worldcubeassociation.org/competitions/ManchesterSquare1Day2026) | 4.89, 6.21, 6.12, 7.81, 6.67 |
+| [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) | **6.40** | United States | [Georgetown Weeknight 1 2026](https://www.worldcubeassociation.org/competitions/GeorgetownWeeknight12026) | 10.18, 6.33, 6.67, 6.08, 6.21 |
 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | **6.40** | Poland | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 6.48, 8.05, 5.98, 5.92, 6.75 |
 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) | **6.42** | United States | [Fort Lee Winter 2026](https://www.worldcubeassociation.org/competitions/FortLeeWinter2026) | 6.93, 6.35, 5.98, 7.65, 5.69 |
-| [Camerone Chin](https://www.worldcubeassociation.org/persons/2019CHIN08) | **6.49** | Malaysia | [A New Year in Auckland 2026](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2026) | 6.00, 7.79, 9.28, 5.68, 5.51 |
 
 ### 4x4x4 Blindfolded - Single
 
@@ -491,12 +491,12 @@
 | [Andrew Tao](https://www.worldcubeassociation.org/persons/2022TAOA01) | **57/61 1:00:00** | United States | [Multi Mayhem VA 2026](https://www.worldcubeassociation.org/competitions/MultiMayhemVA2026) | 50/60 59:10, 53/61 59:43, 57/61 1:00:00 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **58/64 59:01** | United States | [No Sprinting NY 2026](https://www.worldcubeassociation.org/competitions/NoSprintingNY2026) | 58/64 59:01 |
 | [Joshua Gao](https://www.worldcubeassociation.org/persons/2023GAOJ02) | **56/60 59:05** | United States | [Multi Mayhem VA 2026](https://www.worldcubeassociation.org/competitions/MultiMayhemVA2026) | 48/60 59:02, 56/60 59:05, DNF |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **54/61 59:07** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 48/64 1:00:00, 46/51 57:16, 54/61 59:07 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **49/51 56:36** | Poland | [Multi-Blind i Jönköping 2026](https://www.worldcubeassociation.org/competitions/MultiBlindiJonkoping2026) | 18/21 27:58, 49/51 56:36, DNF |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **49/57 57:52** | United States | [Multi Mayhem VA 2026](https://www.worldcubeassociation.org/competitions/MultiMayhemVA2026) | 32/63 1:00:00, 43/57 59:48, 49/57 57:52 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **48/55 58:52** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 45/53 59:45, 35/41 58:07, 48/55 58:52 |
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **49/58 1:00:00** | New Zealand | [Wellington Mind Games 2026](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2026) | 49/58 1:00:00, 46/58 1:00:00 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **40/45 59:30** | Sweden | [Multi-Blind i Jönköping 2026](https://www.worldcubeassociation.org/competitions/MultiBlindiJonkoping2026) | 37/45 59:45, 40/45 59:30, DNF |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **39/44 1:00:00** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 39/44 1:00:00 |
-| [Matthew Hollinger](https://www.worldcubeassociation.org/persons/2014HOLL01) | **35/37 58:56** | United States | [Georgia Quiet Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaQuietChampionship2026) | 35/37 58:56 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

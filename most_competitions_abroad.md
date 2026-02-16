@@ -1,13 +1,13 @@
 ## Most competitions abroad
 
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
 | 227 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 213 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 179 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
-| 171 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
+| 172 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 162 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 158 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 152 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
@@ -19,21 +19,21 @@
 | 129 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 128 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 127 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
-| 125 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 126 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 120 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 119 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 119 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 116 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
+| 114 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 113 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 112 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
-| 112 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 112 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 111 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 110 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 110 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
+| 108 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 108 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
-| 107 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 107 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 105 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 105 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |

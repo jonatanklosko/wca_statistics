@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 February 2026*
+*Updated on 19 February 2026*
 
 
 ### 300 Competitions
@@ -34,6 +34,7 @@
 | 4215 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 4348 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 4355 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
+| 4588 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 4706 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 5042 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 5048 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
@@ -41,7 +42,6 @@
 | 5518 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 5524 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 5557 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
-| 5558 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 
 ### 200 Competitions
 

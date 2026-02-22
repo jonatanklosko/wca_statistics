@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -189,6 +189,7 @@
 | 4 | [Emmet Hobbs](https://www.worldcubeassociation.org/persons/2016HOBB01) |
 | 4 | [Hitoki Kidahashi (木田橋仁毅)](https://www.worldcubeassociation.org/persons/2016KIDA02) |
 | 4 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
+| 4 | [Tyler Williams](https://www.worldcubeassociation.org/persons/2017WILL05) |
 | 4 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
 | 4 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) |
 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |

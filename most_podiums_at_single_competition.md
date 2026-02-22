@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1342,6 +1342,7 @@
 | 15 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | [TAS State Championship 2021](https://www.worldcubeassociation.org/competitions/TASStateChampionship2021/results/podiums) |
 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [TAS State Championship 2021](https://www.worldcubeassociation.org/competitions/TASStateChampionship2021/results/podiums) |
 | 10 | [Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15) | [TCG Spring 2019](https://www.worldcubeassociation.org/competitions/TCGSpring2019/results/podiums) |
+| 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Temple Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/TempleCubingWinter2026/results/podiums) |
 | 11 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | [Teresina Open 2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019/results/podiums) |
 | 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2023](https://www.worldcubeassociation.org/competitions/TexasChampionship2023/results/podiums) |
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2024](https://www.worldcubeassociation.org/competitions/TexasChampionship2024/results/podiums) |

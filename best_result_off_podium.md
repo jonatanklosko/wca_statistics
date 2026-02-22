@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 
 ### Rubik's Cube
@@ -91,8 +91,8 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:55.35 | **1:57.84** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e777_f) | 4 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:46.76 | **1:58.63** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e777_f) | 5 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 1:57.09 | **1:59.06** | [Taiwan Championship 2025](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2025/results/all#e777_f) | 4 |
+| [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:50.35 | **1:59.47** | [Guangdong Revival & Rival 2026](https://www.worldcubeassociation.org/competitions/GuangdongRevivalRival2026/results/all#e777_f) | 4 |
 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:59.22 | **1:59.68** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e777_f) | 5 |
-| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:56.94 | **2:00.32** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e777_f) | 6 |
 
 ### 3x3x3 Blindfolded
 

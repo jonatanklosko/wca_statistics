@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 
 ### Rubik's Cube
@@ -159,6 +159,7 @@
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 137 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Bornholm Open 2025](https://www.worldcubeassociation.org/competitions/BornholmOpen2025) |
+| 120 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | [Mohawk Valley Winter 2026](https://www.worldcubeassociation.org/competitions/MohawkValleyWinter2026) |
 | 113 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [Unicentro Pereira 2024](https://www.worldcubeassociation.org/competitions/UnicentroPereira2024) |
 | 105 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Montenegro Open 2024](https://www.worldcubeassociation.org/competitions/MontenegroOpen2024) |
 | 83 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) | [Dubai Open 2013](https://www.worldcubeassociation.org/competitions/DubaiOpen2013) |
@@ -167,7 +168,6 @@
 | 70 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) | [Stockholmsligan - Ng'ombe 2025](https://www.worldcubeassociation.org/competitions/StockholmsliganNgombe2025) |
 | 69 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Puerto Rico Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRicoOpen2024) |
 | 65 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | [A Friday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/AFridayinAshfield2024) |
-| 59 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) |
 
 ### Rubik's Clock
 

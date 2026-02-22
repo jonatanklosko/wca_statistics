@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -66,10 +66,10 @@
 | 30 | [Nikolai Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) |
 | 30 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
 | 30 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 28 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
 | 28 | [Luis Kleinheinz](https://www.worldcubeassociation.org/persons/2017KLEI02) |
 | 25 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 25 | [Alistair Robequin](https://www.worldcubeassociation.org/persons/2019ROBE01) |
-| 24 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
 | 24 | [Pierce Tickle](https://www.worldcubeassociation.org/persons/2022TICK01) |
 | 23 | [Ole Nikolai Gjerset](https://www.worldcubeassociation.org/persons/2011GJER02) |
 | 23 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |

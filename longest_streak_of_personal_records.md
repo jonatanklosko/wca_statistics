@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -16,9 +16,9 @@
 | 67 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | [Nanjing Autumn 2015](https://www.worldcubeassociation.org/competitions/NanjingAutumn2015) | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025) |
 | 67 | [Oana-Simona Vrabie](https://www.worldcubeassociation.org/persons/2022VRAB01) | [Bucharest Back to Cube 2022](https://www.worldcubeassociation.org/competitions/BucharestBacktoCube2022) |  |
 | 66 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) | [German Nationals 2010](https://www.worldcubeassociation.org/competitions/Germany2010) | [Rhein-Neckar Open 2019](https://www.worldcubeassociation.org/competitions/RheinNeckarOpen2019) |
+| 66 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) |  |
 | 65 | [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) | [UIUC Spring 2013](https://www.worldcubeassociation.org/competitions/UIUCSpring2013) | [Scenic City Scramble TN 2024](https://www.worldcubeassociation.org/competitions/ScenicCityScrambleTN2024) |
 | 65 | [Daniel Greigg](https://www.worldcubeassociation.org/persons/2015GREI01) | [River Hill Winter 2015](https://www.worldcubeassociation.org/competitions/RiverHillWinter2015) | [Slow N Steady Fall 2023](https://www.worldcubeassociation.org/competitions/SlowNSteadyFall2023) |
-| 65 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) |  |
 | 65 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) | [Colorado Qualifier 2019](https://www.worldcubeassociation.org/competitions/ColoradoQualifier2019) | [Cubing with an Altitude CO 2024](https://www.worldcubeassociation.org/competitions/CubingwithanAltitudeCO2024) |
 | 65 | [Roman Sokolovskyi](https://www.worldcubeassociation.org/persons/2021SOKO03) | [Cubes Masters Zhytomyr 2021](https://www.worldcubeassociation.org/competitions/CubesMastersZhytomyr2021) |  |
 | 64 | [Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03) | [UK Open 2011](https://www.worldcubeassociation.org/competitions/UKOpen2011) | [August Bank Holiday Crawley 2024](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCrawley2024) |
@@ -93,13 +93,13 @@
 | 49 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [Flen New Year's Blind 2017](https://www.worldcubeassociation.org/competitions/FlenNewYearsBlind2017) | [Stockholmsligan 5: The Reds 2023](https://www.worldcubeassociation.org/competitions/Stockholmsligan5TheReds2023) |
 | 49 | [Peter Weyers](https://www.worldcubeassociation.org/persons/2018WEYE01) | [Lions Cubing 2018](https://www.worldcubeassociation.org/competitions/LionsCubing2018) |  |
 | 49 | [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) | [ALL1- Pittsburgh 2023](https://www.worldcubeassociation.org/competitions/ALL1Pittsburgh2023) |
-| 49 | [Xavier Lianto](https://www.worldcubeassociation.org/persons/2022LIAN01) | [Melbourne Summer 2022](https://www.worldcubeassociation.org/competitions/MelbourneSummer2022) |  |
 | 49 | [Annye Bennett](https://www.worldcubeassociation.org/persons/2022BENN11) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022) |  |
 | 49 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) | [Swedish Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishChampionship2022) | [SL 413: Kalle i Kubik 2024](https://www.worldcubeassociation.org/competitions/SL413KalleiKubik2024) |
 | 48 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Norwich Summer 2015](https://www.worldcubeassociation.org/competitions/NorwichSummer2015) | [GA Cubers Greetings 2022](https://www.worldcubeassociation.org/competitions/GACubersGreetings2022) |
 | 48 | [Jaden Thompson](https://www.worldcubeassociation.org/persons/2016THOM01) | [BASC 8 2016](https://www.worldcubeassociation.org/competitions/BASC82016) |  |
 | 48 | [Brandon Villadolid](https://www.worldcubeassociation.org/persons/2019VILL03) | [Hudson Valley Winter 2019](https://www.worldcubeassociation.org/competitions/HudsonValleyWinter2019) |  |
 | 48 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | [Bucharest Autumn Cubing A 2023](https://www.worldcubeassociation.org/competitions/BucharestAutumnCubingA2023) |
+| 48 | [Xavier Lianto](https://www.worldcubeassociation.org/persons/2022LIAN01) | [Melbourne Summer 2022](https://www.worldcubeassociation.org/competitions/MelbourneSummer2022) | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) |
 | 48 | [James Kirschner](https://www.worldcubeassociation.org/persons/2022KIRS01) | [Canberra Autumn 2022](https://www.worldcubeassociation.org/competitions/CanberraAutumn2022) | [Luzon Championship 2026](https://www.worldcubeassociation.org/competitions/LuzonChampionship2026) |
 | 48 | [Eli Sanderson](https://www.worldcubeassociation.org/persons/2022SAND23) | [Get to the Point 2022](https://www.worldcubeassociation.org/competitions/GettothePoint2022) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | 47 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | [Netherlands 2007](https://www.worldcubeassociation.org/competitions/Netherlands2007) | [Amstelveen Open 2012](https://www.worldcubeassociation.org/competitions/AmstelveenOpen2012) |

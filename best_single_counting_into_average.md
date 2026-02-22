@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 
 ### Rubik's Cube
@@ -59,9 +59,9 @@
 | 33.53 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [DFW Megacomp 2024](https://www.worldcubeassociation.org/competitions/DFWMegacomp2024/results/by_person#2012PARK03) |
 | 33.69 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA All-Stars 2025](https://www.worldcubeassociation.org/competitions/CubingUSAAllStars2025/results/by_person#2012PARK03) |
 | 33.75 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2012PARK03) |
+| 33.79 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026/results/by_person#2016KOLA02) |
 | 33.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 34.00 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025/results/by_person#2016KOLA02) |
-| 34.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 
 ### 3x3x3 One-Handed
 
@@ -101,12 +101,12 @@
 | 1.04 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Zhengzhou Zest 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZest2025/results/by_person#2019JIAN54) |
 | 1.07 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Prague Open 2024](https://www.worldcubeassociation.org/competitions/PragueOpen2024/results/by_person#2017TSVE02) |
 | 1.07 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Xuzhou Newcomers 2025](https://www.worldcubeassociation.org/competitions/XuzhouNewcomers2025/results/by_person#2019JIAN54) |
+| 1.08 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Guangdong Revival & Rival 2026](https://www.worldcubeassociation.org/competitions/GuangdongRevivalRival2026/results/by_person#2019JIAN54) |
 | 1.09 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019JIAN54) |
 | 1.09 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025/results/by_person#2019JIAN54) |
 | 1.09 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Maitland Spring 2024](https://www.worldcubeassociation.org/competitions/MaitlandSpring2024/results/by_person#2021LEES01) |
 | 1.11 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024/results/by_person#2019JIAN54) |
 | 1.11 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025/results/by_person#2019JIAN54) |
-| 1.14 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2017NIEL03) |
 
 ### Rubik's Clock
 

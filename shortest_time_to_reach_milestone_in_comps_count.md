@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 February 2026*
+*Updated on 28 February 2026*
 
 
 ### 300 Competitions

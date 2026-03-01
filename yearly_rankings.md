@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 
 ### Rubik's Cube - Single
@@ -197,13 +197,14 @@
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **15.54** | France | [Amore Amorebieta Open 2026](https://www.worldcubeassociation.org/competitions/AmoreAmorebietaOpen2026) | DNF, 28.22, 15.54, DNF, 24.36 |
 | [Hans Lin](https://www.worldcubeassociation.org/persons/2018LINH02) | **15.66** | Australia | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 18.12, 20.59, DNF, DNF, 15.66 |
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **15.70** | United States | [Multi Mayhem VA 2026](https://www.worldcubeassociation.org/competitions/MultiMayhemVA2026) | DNF, 16.38, 15.70, DNF, 17.48 |
-| [Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13) | **15.85** | United States | [Micro Minnesota 2026](https://www.worldcubeassociation.org/competitions/MicroMinnesota2026) | DNF, 21.88, DNF, 15.85, DNF |
+| [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **15.72** | Austria | [BLD Dobřejovice I 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceI2026) | 16.78, 18.02, DNF, DNF, 15.72 |
 
 ### 3x3x3 Blindfolded - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **14.05** | Australia | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) | 14.34, DNF, 13.95, 13.85, 11.67 |
+| [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **17.12** | Austria | [BLD Dobřejovice I 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceI2026) | 17.01, 16.93, 16.56, DNF, 17.41 |
 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | **18.05** | Israel | [PBQ Ropaži 2026](https://www.worldcubeassociation.org/competitions/PBQRopazi2026) | 18.83, 16.67, 18.05, 17.58, 18.51 |
 | [Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01) | **18.12** | France | [Haguen'Open 2026](https://www.worldcubeassociation.org/competitions/HaguenOpen2026) | 17.15, 16.01, DNF, 16.45, 20.77 |
 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | **18.75** | Germany | [Rhön Open 2026](https://www.worldcubeassociation.org/competitions/RhonOpen2026) | 19.15, 15.43, DNF, 18.64, 18.47 |
@@ -212,7 +213,6 @@
 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **20.04** | Poland | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026) | 17.23, 19.22, 19.43, 21.82, 21.48 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **20.18** | Indonesia | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 25.63, 21.22, 16.88, 20.72, 18.60 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **20.22** | China | [Guangdong Revival & Rival 2026](https://www.worldcubeassociation.org/competitions/GuangdongRevivalRival2026) | 21.36, DNF, 18.92, 18.02, 20.37 |
-| [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **20.54** | United States | [DFW Favorites 2026](https://www.worldcubeassociation.org/competitions/DFWFavorites2026) | 22.92, DNF, 19.44, 19.25, 18.60 |
 
 ### 3x3x3 Fewest Moves - Single
 
@@ -249,11 +249,11 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | **6.29** | Poland | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 14.20, 10.38, 9.28, 11.80, 6.29 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **6.50** | Poland | [Cube4fun Lublin February 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinFebruary2026) | 10.22, 10.09, 7.94, 9.12, 6.50 |
 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | **6.84** | China | [Guangdong Revival & Rival 2026](https://www.worldcubeassociation.org/competitions/GuangdongRevivalRival2026) | 9.08, 8.86, 9.91, 6.84, 12.47 |
 | [Jose Antonio Cuipal Maguiña](https://www.worldcubeassociation.org/persons/2019MAGU04) | **7.00** | Peru | [Steel's Cubes Lima 2026](https://www.worldcubeassociation.org/competitions/SteelsCubesLima2026) | 12.79, 7.00, 11.19, 12.38, 12.37 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **7.18** | China | [Guangdong Revival & Rival 2026](https://www.worldcubeassociation.org/competitions/GuangdongRevivalRival2026) | 9.73, 7.18, 10.38, 12.29, 8.40 |
 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | **7.24** | Philippines | [Luzon Championship 2026](https://www.worldcubeassociation.org/competitions/LuzonChampionship2026) | 7.32, 9.06, 11.94, 7.24, 9.90 |
-| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **7.34** | Poland | [Dębica Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2026) | 10.30, 8.45, 7.34, 9.66, 8.73 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **7.36** | France | [Chanteloup Open 2026](https://www.worldcubeassociation.org/competitions/ChanteloupOpen2026) | 7.36, 10.44, 8.77, 11.44, 9.82 |
 | [Caleb Chen](https://www.worldcubeassociation.org/persons/2022CHEN37) | **7.40** | United States | [Georgia Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaChampionship2026) | 14.55, 13.24, 7.40, 9.19, 11.15 |
 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **7.47** | United States | [Brazos Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/BrazosCubingWinter2026) | 13.66, 13.14, 7.47, 10.85, 11.56 |
@@ -355,6 +355,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **2.27** | United States | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 2.07, 1.97, 1.60, DNF, 2.77 |
 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | **2.42** | Australia | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 2.65, 3.70, 2.30, 1.61, 2.32 |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **2.42** | Poland | [Cube4fun Lublin February 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinFebruary2026) | 2.70, 2.35, 2.22, 2.26, 2.64 |
 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | **2.53** | New Zealand | [Hurry Up Hutt Valley 2026](https://www.worldcubeassociation.org/competitions/HurryUpHuttValley2026) | 2.58, DNF, 2.57, 2.30, 2.43 |
 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | **2.55** | Philippines | [Greenwoods Clock Clash 2026](https://www.worldcubeassociation.org/competitions/GreenwoodsClockClash2026) | 2.71, 4.45, 2.67, 2.27, 1.89 |
 | [Ivan ThanhDanh Duong](https://www.worldcubeassociation.org/persons/2022DUON09) | **2.57** | United States | [North Star MN 2026](https://www.worldcubeassociation.org/competitions/NorthStarMN2026) | 2.72, 2.18, 2.47, 3.05, 2.51 |
@@ -362,7 +363,6 @@
 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | **2.75** | United States | [Fredericksburg Winter AM 2026](https://www.worldcubeassociation.org/competitions/FredericksburgWinterAM2026) | 2.34, 4.23, 2.49, 2.78, 2.97 |
 | [Jonathan Wang (王嘉洺)](https://www.worldcubeassociation.org/persons/2022WANG23) | **2.78** | Canada | [Two Buffalo Cube Days 2026](https://www.worldcubeassociation.org/competitions/TwoBuffaloCubeDays2026) | 3.64, 2.52, 2.67, 2.61, 3.07 |
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | **2.88** | Poland | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.97, 2.58, 2.83, 2.85, DNF |
-| [Elvis Chung](https://www.worldcubeassociation.org/persons/2024CHUN24) | **2.90** | New Zealand | [Invercargill Summer 2026](https://www.worldcubeassociation.org/competitions/InvercargillSummer2026) | 3.98, 3.27, 2.86, 2.56, 2.07 |
 
 ### Skewb - Single
 
@@ -390,9 +390,9 @@
 | [Max Parris](https://www.worldcubeassociation.org/persons/2022PARR10) | **1.78** | Australia | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 1.35, 2.23, 1.77, 2.79, 1.13 |
 | [Luis Tan Hong Yi (陈宏溢)](https://www.worldcubeassociation.org/persons/2023YILU01) | **1.78** | Singapore | [Singapore Championship 2026](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2026) | 1.75, 1.79, 1.80, 1.65, 1.79 |
 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | **1.82** | China | [Beijing Winter 2026](https://www.worldcubeassociation.org/competitions/BeijingWinter2026) | 1.53, 2.41, 1.22, 1.51, 2.82 |
+| [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | **1.84** | Poland | [Cube4fun Lublin February 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinFebruary2026) | 1.79, 3.16, 1.82, 1.90, 1.77 |
 | [Jacob Levie](https://www.worldcubeassociation.org/persons/2022LEVI06) | **1.87** | United States | [Cubing with Dinosaurs Lehi 2026](https://www.worldcubeassociation.org/competitions/CubingwithDinosaursLehi2026) | 1.75, 1.58, 2.29, 3.02, 1.55 |
 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | **1.88** | Spain | [Amore Amorebieta Open 2026](https://www.worldcubeassociation.org/competitions/AmoreAmorebietaOpen2026) | 1.52, 4.10, 1.86, 1.96, 1.81 |
-| [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | **1.99** | Poland | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 1.66, 1.88, 1.81, 2.29, 4.46 |
 
 ### Square-1 - Single
 
@@ -428,15 +428,15 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **1:11.30** | Austria | [Vienna Winter 2026](https://www.worldcubeassociation.org/competitions/ViennaWinter2026) | DNF, 1:30.81, 1:11.30 |
+| [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **1:06.08** | Austria | [BLD Dobřejovice I 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceI2026) | DNF, 1:06.08, 1:07.81 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **1:12.82** | United States | [Multi Mayhem VA 2026](https://www.worldcubeassociation.org/competitions/MultiMayhemVA2026) | DNF, DNF, 1:12.82 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **1:13.75** | China | [Guangdong Revival & Rival 2026](https://www.worldcubeassociation.org/competitions/GuangdongRevivalRival2026) | 1:23.67, DNF, 1:13.75 |
 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **1:24.28** | Australia | [Don't Inverloch Up 2026](https://www.worldcubeassociation.org/competitions/DontInverlochUp2026) | DNF, DNF, 1:24.28 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1:24.66** | Sweden | [Kublördag Uppsala IV - 2026](https://www.worldcubeassociation.org/competitions/KublordagUppsalaIV2026) | 1:24.66, 1:33.30, DNF |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **1:29.55** | United States | [Riverside PBQ 2026](https://www.worldcubeassociation.org/competitions/RiversidePBQ2026) | 1:49.07, 1:29.55, DNF |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **1:31.56** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 5:59.35, DNF, 1:31.56 |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **1:32.01** | United States | [Multi Mayhem VA 2026](https://www.worldcubeassociation.org/competitions/MultiMayhemVA2026) | DNF, 1:36.04, 1:32.01 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **1:32.66** | United Kingdom | [Glasgow Winter SBO 2026](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2026) | 1:32.66, DNF, DNF |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1:32.77** | Sweden | [Dvärsätt Open 2026](https://www.worldcubeassociation.org/competitions/DvarsattOpen2026) | DNF, 1:32.77, DNF |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **1:33.13** | Australia | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) | 1:48.64, 1:33.13, 1:50.52 |
 
 ### 4x4x4 Blindfolded - Average

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -31,8 +31,8 @@
 | 113 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 112 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 111 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 111 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 110 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
-| 110 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 108 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 107 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 106 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |

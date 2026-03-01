@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -912,6 +912,7 @@
 | 15 | [Big N Blind Minnesota 2018](https://www.worldcubeassociation.org/competitions/BigBlindMinnesota2018) |
 | 15 | [Big n BLD Finprov 2024](https://www.worldcubeassociation.org/competitions/BignBLDFinprov2024) |
 | 15 | [Big n Blind Bangalore July 2024](https://www.worldcubeassociation.org/competitions/BignBlindBangaloreJuly2024) |
+| 15 | [BLD Dobřejovice I 2026](https://www.worldcubeassociation.org/competitions/BlindLeagueDobrejoviceI2026) |
 | 15 | [Bora Bora Quick Rio 2026](https://www.worldcubeassociation.org/competitions/BoraBoraQuickRio2026) |
 | 15 | [Bornholm Open 2023](https://www.worldcubeassociation.org/competitions/BornholmOpen2023) |
 | 15 | [Buckeye Big Brain OH 2025](https://www.worldcubeassociation.org/competitions/BuckeyeBigBrainOhioState2025) |

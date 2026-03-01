@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -787,6 +787,7 @@
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kublördag Jönköping I - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingI2024/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Uppsala I - 2025](https://www.worldcubeassociation.org/competitions/KublordagUppsalaI2025/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Uppsala III - 2025](https://www.worldcubeassociation.org/competitions/KublordagUppsalaIII2025/results/podiums) |
+| 10 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) | [Kublördag Uppsala IV - 2026](https://www.worldcubeassociation.org/competitions/KublordagUppsalaIV2026/results/podiums) |
 | 15 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås IV - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasIV2024/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås V - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasV2024/results/podiums) |
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kublördag Västerås V - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasV2024/results/podiums) |

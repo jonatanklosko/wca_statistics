@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 28 February 2026*
+*Updated on  1 March 2026*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -23,8 +23,8 @@
 | [Czech Open 2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010) | 10.16 | 49 | Czech Republic |
 | [VERK IX 2025](https://www.worldcubeassociation.org/competitions/VERKIX2025) | 10.07 | 14 | Finland |
 | [Czech Open 2011](https://www.worldcubeassociation.org/competitions/CzechOpen2011) | 10.06 | 52 | Czech Republic |
-| [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025) | 10.00 | 9 | United States |
 | [Porfyrkuben 2024](https://www.worldcubeassociation.org/competitions/Porfyrkuben2024) | 10.00 | 17 | Sweden |
+| [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025) | 10.00 | 9 | United States |
 | [Bristol Spring 2010](https://www.worldcubeassociation.org/competitions/BristolSpring2010) | 9.94 | 32 | United Kingdom |
 | [A Tuesday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/ATuesdayinAshfield2024) | 9.92 | 12 | United States |
 | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | 9.84 | 50 | Czech Republic |

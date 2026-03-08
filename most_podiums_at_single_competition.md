@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 March 2026*
+*Updated on  7 March 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -613,6 +613,8 @@
 | 10 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | [HFX 2018](https://www.worldcubeassociation.org/competitions/HalifaxOpen2018/results/podiums) |
 | 11 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | [Hamburg Open 2011](https://www.worldcubeassociation.org/competitions/HamburgOpen2011/results/podiums) |
 | 10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Hamburg Open 2011](https://www.worldcubeassociation.org/competitions/HamburgOpen2011/results/podiums) |
+| 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Hämeenlinna 2026](https://www.worldcubeassociation.org/competitions/Hameenlinna2026/results/podiums) |
+| 10 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [Hämeenlinna 2026](https://www.worldcubeassociation.org/competitions/Hameenlinna2026/results/podiums) |
 | 11 | [Daniel Grabski](https://www.worldcubeassociation.org/persons/2010GRAB01) | [Haute-Patate Open 2012](https://www.worldcubeassociation.org/competitions/HautePatateOpen2012/results/podiums) |
 | 10 | [Alexandre Philiponet](https://www.worldcubeassociation.org/persons/2011PHIL01) | [Haute-Patate Open 2012](https://www.worldcubeassociation.org/competitions/HautePatateOpen2012/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Hawaiʻi Big Island Fall 2025](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandFall2025/results/podiums) |
@@ -857,6 +859,7 @@
 | 14 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Mallorca Open 2014](https://www.worldcubeassociation.org/competitions/Mallorca2014/results/podiums) |
 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Mallorca Open 2024](https://www.worldcubeassociation.org/competitions/MallorcaOpen2024/results/podiums) |
 | 12 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | [Mallorca Open 2025](https://www.worldcubeassociation.org/competitions/MallorcaOpen2025/results/podiums) |
+| 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Malmö Cubing Open 2026](https://www.worldcubeassociation.org/competitions/MalmoCubingOpen2026/results/podiums) |
 | 11 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Malpensa: IC Qualifier 2023](https://www.worldcubeassociation.org/competitions/MalpensaICQualifier2023/results/podiums) |
 | 11 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016/results/podiums) |
@@ -918,6 +921,7 @@
 | 10 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Moroccan Championship 2025](https://www.worldcubeassociation.org/competitions/MoroccanChampionship2025/results/podiums) |
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Morro Reuter Cubing 2023](https://www.worldcubeassociation.org/competitions/MorroReuterCubing2023/results/podiums) |
 | 10 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [Mossoró Open 2013](https://www.worldcubeassociation.org/competitions/MossoroOpen2013/results/podiums) |
+| 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Moura Lacerda Open 2026](https://www.worldcubeassociation.org/competitions/MouraLacerdaOpen2026/results/podiums) |
 | 14 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [MPEI Open 2010](https://www.worldcubeassociation.org/competitions/MPEIOpen2010/results/podiums) |
 | 12 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [MriyDiy Cubing Lviv 2025](https://www.worldcubeassociation.org/competitions/MriyDiyCubingLviv2025/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [MTD Spring 2017](https://www.worldcubeassociation.org/competitions/MTDSpring2017/results/podiums) |
@@ -1298,6 +1302,7 @@
 | 10 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | [Sumatra Open 2018](https://www.worldcubeassociation.org/competitions/SumatraOpen2018/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Summer Cubing in Stafsinge 2024](https://www.worldcubeassociation.org/competitions/SummerCubinginStafsinge2024/results/podiums) |
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Summer Kube Vila Velha 2020](https://www.worldcubeassociation.org/competitions/SummerKubeVilaVelha2020/results/podiums) |
+| 12 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Summer of the Cube Huancayo 2026](https://www.worldcubeassociation.org/competitions/SummeroftheCubeHuancayo2026/results/podiums) |
 | 10 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Sum of Ranks Granada 2024](https://www.worldcubeassociation.org/competitions/SumofRanksGranada2024/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Svealandsmästerskapet 2024](https://www.worldcubeassociation.org/competitions/Svealandsmasterskapet2024/results/podiums) |
 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006/results/podiums) |

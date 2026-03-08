@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 March 2026*
+*Updated on  7 March 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -88,6 +88,7 @@
 | 6 | [Helsinki Big Cubes 2024](https://www.worldcubeassociation.org/competitions/HelsinkiBigCubes2024) |
 | 6 | [Hilliard Hippocampus III 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusIII2023) |
 | 6 | [Hilliard Hippocampus VIII 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusVIII2023) |
+| 6 | [Hungarian FMC Series 2 2026](https://www.worldcubeassociation.org/competitions/HungarianFMCSeries22026) |
 | 6 | [JL4: Quattro Stagioni 2023](https://www.worldcubeassociation.org/competitions/JL4QuattroStagioni2023) |
 | 6 | [Jönköpingsligan 2: Vesuvio 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan2Vesuvio2023) |
 | 6 | [Jönköpingsligan 6: Heroes 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan6Heroes2023) |
@@ -159,6 +160,7 @@
 | 8 | [Big in Bahia 2025](https://www.worldcubeassociation.org/competitions/BiginBahia2025) |
 | 8 | [Boards & Cubes Venteira PM 2025](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraPM2025) |
 | 8 | [Bolivia Nationals FMC 2025](https://www.worldcubeassociation.org/competitions/BoliviaNationalsFMC2025) |
+| 8 | [Boquete Big Cubes 2026](https://www.worldcubeassociation.org/competitions/BoqueteBigCubes2026) |
 | 8 | [Budapest FMClvester 2024](https://www.worldcubeassociation.org/competitions/BudapestFMClvester2024) |
 | 8 | [Budapest FMClveszter 2025](https://www.worldcubeassociation.org/competitions/BudapestFMClveszter2025) |
 | 8 | [Buffalo Be Quiet 2024](https://www.worldcubeassociation.org/competitions/BuffaloBeQuiet2024) |
@@ -425,6 +427,7 @@
 | 10 | [Tbilisi July Side Events 2024](https://www.worldcubeassociation.org/competitions/TbilisiJulySideEvents2024) |
 | 10 | [TKTK Side Events I 2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsI2024) |
 | 10 | [Toba Cubetastrophe 2022](https://www.worldcubeassociation.org/competitions/TobaCubetastrophe2022) |
+| 10 | [UFBA IX 2026](https://www.worldcubeassociation.org/competitions/UFBAIX2026) |
 | 10 | [U.R.A. Big Cubes and FMC 2019](https://www.worldcubeassociation.org/competitions/URABigCubesandFMC2019) |
 | 10 | [VERK X 2025](https://www.worldcubeassociation.org/competitions/VERKX2025) |
 | 10 | [VERK XI 2026](https://www.worldcubeassociation.org/competitions/VERKXI2026) |
@@ -468,6 +471,7 @@
 | 11 | [Hari-Hari Horas 4 FMC PM 2024](https://www.worldcubeassociation.org/competitions/HariHariHoras4HorasFMCTourPM2024) |
 | 11 | [Hari-Hari Horas 5 FMC S 2024](https://www.worldcubeassociation.org/competitions/HariHariHoras5HorasFMCS2024) |
 | 11 | [Hari-Hari Horas 5 SC 2024](https://www.worldcubeassociation.org/competitions/HariHariHoras5SC2024) |
+| 11 | [Hawaiʻi Big Island Winter 2026](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandWinter2026) |
 | 11 | [HDC XI - Hvidovre 2024](https://www.worldcubeassociation.org/competitions/HDCXIHvidovre2024) |
 | 11 | [HDC XVIII - Hvidovre 2025](https://www.worldcubeassociation.org/competitions/HDCXVIIIHvidovre2025) |
 | 11 | [Heimaey Open 2018](https://www.worldcubeassociation.org/competitions/HeimaeyOpen2018) |
@@ -532,6 +536,7 @@
 | 11 | [Titan Blind Open 2023](https://www.worldcubeassociation.org/competitions/TitanBlindOpen2023) |
 | 11 | [Titan FMC 2023](https://www.worldcubeassociation.org/competitions/TitanFMC2023) |
 | 11 | [Two FMC Ohio State 2024](https://www.worldcubeassociation.org/competitions/TwoFMCOhioState2024) |
+| 11 | [UJCV Cubing Honduras 2026](https://www.worldcubeassociation.org/competitions/UJCVCubingHonduras2026) |
 | 11 | [UnOrono-thodox Blocks 2025](https://www.worldcubeassociation.org/competitions/UnOronothodoxBlocks2025) |
 | 11 | [Zigzag Zambia Cubing 2026](https://www.worldcubeassociation.org/competitions/ZigzagZambiaCubing2026) |
 | 11 | [Zoioff Brasília 2024](https://www.worldcubeassociation.org/competitions/ZoioffBrasilia2024) |
@@ -820,6 +825,7 @@
 | 14 | [FMC Singapore 2022](https://www.worldcubeassociation.org/competitions/FMCSingapore2022) |
 | 14 | [Furesø Side Events 2025](https://www.worldcubeassociation.org/competitions/FuresoSideEvents2025) |
 | 14 | [Georgia End of August 2023](https://www.worldcubeassociation.org/competitions/GeorgiaEndofAugust2023) |
+| 14 | [Grove City Trios III 2026](https://www.worldcubeassociation.org/competitions/GroveCityTriosIII2026) |
 | 14 | [Guwahati Side Events Quest 2023](https://www.worldcubeassociation.org/competitions/GuwahatiSideEventsQuest2023) |
 | 14 | [Hawaiʻi Big Island Fall 2025](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandFall2025) |
 | 14 | [Helsinki Open 2009](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2009) |

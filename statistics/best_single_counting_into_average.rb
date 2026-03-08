@@ -12,10 +12,21 @@ class BestSingleCountingIntoAverage < GroupedStatistic
     <<-SQL
       SELECT
         event_id,
-        value1, value2, value3, value4, value5,
+        attempts.value1, attempts.value2, attempts.value3, attempts.value4, attempts.value5,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
-      FROM results
+      FROM (
+        SELECT
+          result_id,
+          COALESCE(MAX(CASE WHEN attempt_number = 1 THEN value END), 0) value1,
+          COALESCE(MAX(CASE WHEN attempt_number = 2 THEN value END), 0) value2,
+          COALESCE(MAX(CASE WHEN attempt_number = 3 THEN value END), 0) value3,
+          COALESCE(MAX(CASE WHEN attempt_number = 4 THEN value END), 0) value4,
+          COALESCE(MAX(CASE WHEN attempt_number = 5 THEN value END), 0) value5
+        FROM result_attempts
+        GROUP BY result_id
+      ) attempts
+      JOIN results ON results.id = attempts.result_id
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       JOIN competitions competition ON competition.id = competition_id
       WHERE format_id = 'a'

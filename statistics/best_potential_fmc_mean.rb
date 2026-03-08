@@ -15,12 +15,13 @@ class BestPotentialFmcMean < Statistic
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/all#e333fm', '_', round_type_id, ')') round_link
       FROM (
         SELECT
-          MIN(IF(value1 > 0, value1, NULL)) best1,
-          MIN(IF(value2 > 0, value2, NULL)) best2,
-          MIN(IF(value3 > 0, value3, NULL)) best3,
+          MIN(CASE WHEN ra.attempt_number = 1 AND ra.value > 0 THEN ra.value END) best1,
+          MIN(CASE WHEN ra.attempt_number = 2 AND ra.value > 0 THEN ra.value END) best2,
+          MIN(CASE WHEN ra.attempt_number = 3 AND ra.value > 0 THEN ra.value END) best3,
           competition_id,
           round_type_id
         FROM results
+        JOIN result_attempts ra ON ra.result_id = results.id
         WHERE event_id = '333fm'
         GROUP BY competition_id, round_type_id
       ) AS best_attempts_by_competition_and_round

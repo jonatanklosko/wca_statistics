@@ -10,7 +10,7 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
         with:
           # We need the previous commit to determine which stats source changed
           fetch-depth: 2

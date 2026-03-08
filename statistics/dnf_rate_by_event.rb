@@ -11,21 +11,10 @@ class DnfRateByEvent < Statistic
     <<-SQL
       SELECT
         event_id,
-        SUM(
-            IF(value1 = -1, 1, 0)
-          + IF(value2 = -1, 1, 0)
-          + IF(value3 = -1, 1, 0)
-          + IF(value4 = -1, 1, 0)
-          + IF(value5 = -1, 1, 0)
-        ) dnfs,
-        SUM(
-            IF(value1 NOT IN (-2, 0), 1, 0)
-          + IF(value2 NOT IN (-2, 0), 1, 0)
-          + IF(value3 NOT IN (-2, 0), 1, 0)
-          + IF(value4 NOT IN (-2, 0), 1, 0)
-          + IF(value5 NOT IN (-2, 0), 1, 0)
-        ) attempts
+        SUM(CASE WHEN ra.value = -1 THEN 1 ELSE 0 END) dnfs,
+        SUM(CASE WHEN ra.value != -2 THEN 1 ELSE 0 END) attempts
       FROM results
+      JOIN result_attempts ra ON ra.result_id = results.id
       GROUP BY event_id
     SQL
   end

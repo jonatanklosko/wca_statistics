@@ -9,15 +9,23 @@ class MostCompletedSolves < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        IF(value1 > 0, 1, 0) + IF(value2 > 0, 1, 0) + IF(value3 > 0, 1, 0) + IF(value4 > 0, 1, 0) + IF(value5 > 0, 1, 0) completed_count,
-        IF(value1 = -1, 1, 0) + IF(value2 = -1, 1, 0) + IF(value3 = -1, 1, 0) + IF(value4 = -1, 1, 0) + IF(value5 = -1, 1, 0) dnfs_count,
+        counts.completed_count,
+        counts.dnfs_count,
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         country.name country,
         continent.name continent,
         YEAR(competition.start_date) year,
         event.name event
-      FROM results result
+      FROM (
+        SELECT
+          result_id,
+          SUM(CASE WHEN value > 0 THEN 1 ELSE 0 END) completed_count,
+          SUM(CASE WHEN value = -1 THEN 1 ELSE 0 END) dnfs_count
+        FROM result_attempts
+        GROUP BY result_id
+      ) counts
+      JOIN results result ON result.id = counts.result_id
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = competition.country_id

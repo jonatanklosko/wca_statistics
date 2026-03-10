@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 March 2026*
+*Updated on 10 March 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1143,6 +1143,7 @@
 | 10 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Rio Cubolympics 2025](https://www.worldcubeassociation.org/competitions/RioCubolympics2025/results/podiums) |
 | 10 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [Río Grande TDF 2025](https://www.worldcubeassociation.org/competitions/RioGrandeTDF2025/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Risbjerg Juni 2025](https://www.worldcubeassociation.org/competitions/RisbjergJuni2025/results/podiums) |
+| 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Riverlake 2026](https://www.worldcubeassociation.org/competitions/Riverlake2026/results/podiums) |
 | 10 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | [Rocky Mountain Championship 2024](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2024/results/podiums) |
 | 10 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [Rocky Top 2017](https://www.worldcubeassociation.org/competitions/RockyTop2017/results/podiums) |
 | 11 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023/results/podiums) |
@@ -1252,6 +1253,7 @@
 | 10 | [Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02) | [SNU Open 2018](https://www.worldcubeassociation.org/competitions/SNUOpen2018/results/podiums) |
 | 10 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | [SoCal 2016](https://www.worldcubeassociation.org/competitions/SoCal2016/results/podiums) |
 | 11 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | [Sogndal Open 2025](https://www.worldcubeassociation.org/competitions/SogndalOpen2025/results/podiums) |
+| 12 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Sogndal Spring 2026](https://www.worldcubeassociation.org/competitions/SogndalSpring2026/results/podiums) |
 | 10 | [Armax Zander Guevara](https://www.worldcubeassociation.org/persons/2023GUEV06) | [SolveIt Bahrain 2025](https://www.worldcubeassociation.org/competitions/SolveItBahrain2025/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
 | 10 | [Will Gurnett](https://www.worldcubeassociation.org/persons/2016GURN01) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |

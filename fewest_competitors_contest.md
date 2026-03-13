@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -375,6 +375,7 @@
 | 10 | [Fun with FM in Warsaw II 2025](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsawII2025) |
 | 10 | [GA Cubers Study May 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyMay2023) |
 | 10 | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014) |
+| 10 | [Glasgow BLD Evening Spring 2026](https://www.worldcubeassociation.org/competitions/GlasgowBlindEveningSpring2026) |
 | 10 | [Goiânia Xiu 2024](https://www.worldcubeassociation.org/competitions/GoianiaXiu2024) |
 | 10 | [Gouverneur Quick & Quiet 2024](https://www.worldcubeassociation.org/competitions/GouverneurQuickQuiet2024) |
 | 10 | [Greenland Open 2023](https://www.worldcubeassociation.org/competitions/GreenlandOpen2023) |

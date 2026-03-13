@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -438,6 +438,7 @@
 | 13 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/podiums) |
 | 11 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/podiums) |
 | 10 | [Adrian Jorghy](https://www.worldcubeassociation.org/persons/2010JORG01) | [DIY Open 2017](https://www.worldcubeassociation.org/competitions/DIYOpen2017/results/podiums) |
+| 10 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) | [Dobeles Pavasaris 2026](https://www.worldcubeassociation.org/competitions/DobelesPavasaris2026/results/podiums) |
 | 10 | [Rūdolfs Vīnkalns](https://www.worldcubeassociation.org/persons/2017VNKA01) | [Dobeles Vasara 2024](https://www.worldcubeassociation.org/competitions/DobelesVasara2024/results/podiums) |
 | 12 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Doge Open 2016](https://www.worldcubeassociation.org/competitions/DogeOpen2016/results/podiums) |
 | 10 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Doge Open 2016](https://www.worldcubeassociation.org/competitions/DogeOpen2016/results/podiums) |

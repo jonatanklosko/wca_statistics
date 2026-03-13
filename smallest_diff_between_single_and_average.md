@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 
 ### Rubik's Cube
@@ -208,11 +208,11 @@
 | 1.05 | [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) | 3:21.39 | 3:22.44 | [Please Be Quiet DST 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietDST2023/results/by_person#2013GHOD01) |
 | 1.45 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) | 1:41.97 | 1:43.42 | [Jog Your Memory Joondalup 2025](https://www.worldcubeassociation.org/competitions/JogYourMemoryJoondalup2025/results/by_person#2019SMIT36) |
 | 1.62 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 1:34.29 | 1:35.91 | [Swisscubing Cup MB I 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupMentalBreakdow2024/results/by_person#2019HIRS01) |
+| 1.70 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 1:24.29 | 1:25.99 | [Glasgow BLD Evening Spring 2026](https://www.worldcubeassociation.org/competitions/GlasgowBlindEveningSpring2026/results/by_person#2019ECKE02) |
 | 1.71 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2:00.90 | 2:02.61 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2014SCHO02) |
 | 2.21 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 1:00.08 | 1:02.29 | [Warm Up Seattle PBQ 2025](https://www.worldcubeassociation.org/competitions/WarmUpSeattlePBQ2025/results/by_person#2016CHAP04) |
 | 2.45 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 1:36.94 | 1:39.39 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2021TRIP01) |
 | 2.56 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 59.76 | 1:02.32 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016CHAP04) |
-| 2.68 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 3:01.00 | 3:03.68 | [Stevenage January 2024](https://www.worldcubeassociation.org/competitions/StevenageJanuary2024/results/by_person#2018SHEN07) |
 
 ### 5x5x5 Blindfolded
 

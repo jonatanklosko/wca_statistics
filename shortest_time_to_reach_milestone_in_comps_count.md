@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 
 ### 300 Competitions
@@ -131,8 +131,8 @@
 | 548 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 552 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 557 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) |
-| 562 | [Zoei Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) |
 | 562 | [Zian Principe](https://www.worldcubeassociation.org/persons/2022PRIN08) |
+| 562 | [Zoei Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) |
 | 568 | [August Barnard](https://www.worldcubeassociation.org/persons/2022BARN21) |
 | 575 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 | 575 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
@@ -152,8 +152,8 @@
 | 247 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
 | 251 | [Yili Yi](https://www.worldcubeassociation.org/persons/2024YIYI01) |
 | 271 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
-| 274 | [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 | 274 | [August Barnard](https://www.worldcubeassociation.org/persons/2022BARN21) |
+| 274 | [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 | 281 | [Ramanujan Srinivasan](https://www.worldcubeassociation.org/persons/2024SRIN06) |
 | 287 | [Thomas Cabezas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 | 289 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) |
@@ -164,8 +164,8 @@
 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
 | 315 | [Gabriel Subion](https://www.worldcubeassociation.org/persons/2024SUBI01) |
 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
-| 337 | [Jack Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI08) |
 | 337 | [Jacob Goossens Celis](https://www.worldcubeassociation.org/persons/2023CELI06) |
+| 337 | [Jack Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI08) |
 | 338 | [Mohith B (ಮೋಹಿತ್ ಬಿ)](https://www.worldcubeassociation.org/persons/2023BMOH01) |
 
 ### 10 Competitions
@@ -178,20 +178,20 @@
 | 108 | [Wilhelm Öhman](https://www.worldcubeassociation.org/persons/2025OHMA01) |
 | 111 | [Martin König](https://www.worldcubeassociation.org/persons/2024KONI03) |
 | 112 | [Ramanujan Srinivasan](https://www.worldcubeassociation.org/persons/2024SRIN06) |
+| 113 | [Gabriel Subion](https://www.worldcubeassociation.org/persons/2024SUBI01) |
+| 113 | [Zachary Trimble](https://www.worldcubeassociation.org/persons/2024TRIM01) |
 | 113 | [Juan Miguel Y. Magallanes](https://www.worldcubeassociation.org/persons/2023MAGA09) |
 | 113 | [Michael Paul Romero](https://www.worldcubeassociation.org/persons/2024ROME27) |
-| 113 | [Zachary Trimble](https://www.worldcubeassociation.org/persons/2024TRIM01) |
-| 113 | [Gabriel Subion](https://www.worldcubeassociation.org/persons/2024SUBI01) |
 | 118 | [Rane Yuan A. Dipon](https://www.worldcubeassociation.org/persons/2025DIPO01) |
 | 118 | [Eliass Perts](https://www.worldcubeassociation.org/persons/2025PERT01) |
 | 119 | [Yili Yi](https://www.worldcubeassociation.org/persons/2024YIYI01) |
-| 120 | [Matteo Rodríguez Colorado](https://www.worldcubeassociation.org/persons/2024COLO04) |
 | 120 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
-| 121 | [Izaak Ridge Aguirre](https://www.worldcubeassociation.org/persons/2025AGUI10) |
+| 120 | [Matteo Rodríguez Colorado](https://www.worldcubeassociation.org/persons/2024COLO04) |
 | 121 | [Goodwin Liu](https://www.worldcubeassociation.org/persons/2024LIUG01) |
-| 127 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) |
+| 121 | [Izaak Ridge Aguirre](https://www.worldcubeassociation.org/persons/2025AGUI10) |
 | 127 | [Shourya Meka](https://www.worldcubeassociation.org/persons/2024MEKA03) |
-| 127 | [Henrique Votisch](https://www.worldcubeassociation.org/persons/2024VOTI01) |
+| 127 | [Arya Bhatelia](https://www.worldcubeassociation.org/persons/2024BHAT07) |
+| 127 | [Thomas Cabezas](https://www.worldcubeassociation.org/persons/2023CASA08) |
 
 ### 5 Competitions
 
@@ -199,20 +199,20 @@
 | ---: | :--- |
 | 23 | [Steve Godoy](https://www.worldcubeassociation.org/persons/2024GODO08) |
 | 26 | [Branson Lau (劉朗朗)](https://www.worldcubeassociation.org/persons/2025LAUB01) |
-| 29 | [Michael Paul Romero](https://www.worldcubeassociation.org/persons/2024ROME27) |
 | 29 | [Luke Kim](https://www.worldcubeassociation.org/persons/2024KIML04) |
+| 29 | [Michael Paul Romero](https://www.worldcubeassociation.org/persons/2024ROME27) |
 | 36 | [Ramanujan Srinivasan](https://www.worldcubeassociation.org/persons/2024SRIN06) |
-| 36 | [Nasir Villamarín](https://www.worldcubeassociation.org/persons/2025VILL58) |
-| 36 | [Luis Pinlei Pan Ma](https://www.worldcubeassociation.org/persons/2024MALU02) |
 | 36 | [Sutong Wang (王苏桐)](https://www.worldcubeassociation.org/persons/2025WANS07) |
+| 36 | [Nasir Villamarín](https://www.worldcubeassociation.org/persons/2025VILL58) |
 | 36 | [Hugo Enrique Torres Gallegos](https://www.worldcubeassociation.org/persons/2024GALL40) |
+| 36 | [Luis Pinlei Pan Ma](https://www.worldcubeassociation.org/persons/2024MALU02) |
 | 42 | [Yili Yi](https://www.worldcubeassociation.org/persons/2024YIYI01) |
 | 42 | [Augusto D'Ambra](https://www.worldcubeassociation.org/persons/2025DAMB01) |
-| 43 | [Antoni Rumowski](https://www.worldcubeassociation.org/persons/2014RUMO01) |
-| 43 | [Matteo Rodríguez Colorado](https://www.worldcubeassociation.org/persons/2024COLO04) |
-| 43 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 43 | [Matias Moreno](https://www.worldcubeassociation.org/persons/2024MORE03) |
 | 43 | [Zachary Trimble](https://www.worldcubeassociation.org/persons/2024TRIM01) |
+| 43 | [Matteo Rodríguez Colorado](https://www.worldcubeassociation.org/persons/2024COLO04) |
+| 43 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
+| 43 | [Antoni Rumowski](https://www.worldcubeassociation.org/persons/2014RUMO01) |
 | 44 | [Wilhelm Öhman](https://www.worldcubeassociation.org/persons/2025OHMA01) |
 | 44 | [Yechen Fang](https://www.worldcubeassociation.org/persons/2025FANG02) |
 | 45 | [Rafe Murray](https://www.worldcubeassociation.org/persons/2024MURR08) |

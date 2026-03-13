@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -47,8 +47,8 @@
 | 97 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 96 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 96 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
+| 95 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 94 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
-| 94 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 93 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 89 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 89 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |

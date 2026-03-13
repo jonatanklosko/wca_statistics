@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 17127 |
+| 1.46 | World | 17177 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 5557 |
-| 1.48 | Oceania | 744 |
-| 1.46 | South America | 2188 |
-| 1.40 | Asia | 3481 |
-| 1.33 | Africa | 223 |
-| 1.21 | North America | 4934 |
+| 1.72 | Europe | 5578 |
+| 1.48 | Oceania | 746 |
+| 1.46 | South America | 2197 |
+| 1.40 | Asia | 3487 |
+| 1.33 | Africa | 226 |
+| 1.21 | North America | 4943 |
 
 ### Countries
 
@@ -26,62 +26,62 @@
 | ---: | :--- | ---: |
 | 2.04 | Uzbekistan | 28 |
 | 2.00 | Liechtenstein | 3 |
-| 1.97 | Kazakhstan | 67 |
+| 1.96 | Kazakhstan | 68 |
 | 1.94 | Germany | 294 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
-| 1.92 | Turkey | 134 |
+| 1.92 | Turkey | 135 |
 | 1.91 | Kyrgyzstan | 11 |
-| 1.90 | France | 372 |
+| 1.91 | France | 379 |
 | 1.88 | Iceland | 17 |
-| 1.88 | Lithuania | 32 |
 | 1.88 | Palestine | 8 |
 | 1.86 | Croatia | 36 |
 | 1.85 | Norway | 169 |
+| 1.85 | Lithuania | 33 |
+| 1.85 | Finland | 191 |
 | 1.85 | Czech Republic | 92 |
-| 1.85 | Finland | 190 |
 | 1.85 | Thailand | 97 |
-| 1.84 | Spain | 482 |
+| 1.84 | Spain | 483 |
 | 1.83 | Serbia | 30 |
 | 1.81 | United Kingdom | 351 |
 | 1.80 | Slovakia | 56 |
 | 1.80 | Bosnia and Herzegovina | 15 |
-| 1.79 | Slovenia | 43 |
-| 1.78 | Mexico | 260 |
-| 1.77 | Switzerland | 177 |
+| 1.78 | Mexico | 263 |
+| 1.77 | Slovenia | 44 |
+| 1.77 | Switzerland | 178 |
 | 1.76 | Austria | 38 |
 | 1.75 | Luxembourg | 4 |
 | 1.75 | Madagascar | 4 |
 | 1.75 | Sri Lanka | 16 |
 | 1.75 | Guatemala | 63 |
 | 1.74 | Ukraine | 151 |
-| 1.72 | Poland | 613 |
 | 1.72 | Ireland | 96 |
+| 1.72 | Poland | 614 |
 | 1.68 | Hungary | 75 |
-| 1.67 | Argentina | 125 |
+| 1.67 | Argentina | 127 |
 | 1.67 | North Macedonia | 6 |
 | 1.66 | Belgium | 109 |
-| 1.65 | Brazil | 680 |
-| 1.63 | Italy | 290 |
+| 1.65 | Brazil | 682 |
+| 1.63 | Italy | 291 |
 | 1.60 | Iran | 43 |
 | 1.60 | Dominican Republic | 30 |
-| 1.60 | Netherlands | 144 |
+| 1.60 | Netherlands | 145 |
 | 1.60 | Indonesia | 253 |
 | 1.59 | New Zealand | 173 |
 | 1.58 | Latvia | 45 |
 | 1.57 | San Marino | 7 |
 | 1.57 | Nepal | 23 |
 | 1.55 | Bulgaria | 29 |
-| 1.55 | Denmark | 241 |
-| 1.54 | India | 745 |
+| 1.55 | Denmark | 242 |
+| 1.54 | India | 748 |
 | 1.53 | Greece | 49 |
-| 1.53 | South Africa | 112 |
+| 1.52 | South Africa | 113 |
 | 1.51 | Bolivia | 170 |
 | 1.51 | Malaysia | 129 |
 | 1.50 | Laos | 2 |
-| 1.50 | Sweden | 398 |
+| 1.50 | Sweden | 400 |
 | 1.48 | Peru | 261 |
-| 1.45 | Australia | 568 |
+| 1.45 | Australia | 570 |
 | 1.43 | Montenegro | 7 |
 | 1.41 | Vietnam | 76 |
 | 1.41 | Costa Rica | 32 |
@@ -92,7 +92,7 @@
 | 1.38 | Nigeria | 8 |
 | 1.36 | Ecuador | 69 |
 | 1.36 | Paraguay | 39 |
-| 1.36 | Romania | 148 |
+| 1.36 | Romania | 149 |
 | 1.35 | Bangladesh | 26 |
 | 1.33 | Belize | 3 |
 | 1.33 | Ghana | 3 |
@@ -103,31 +103,31 @@
 | 1.30 | Bahrain | 10 |
 | 1.30 | Uruguay | 61 |
 | 1.29 | Hong Kong, China | 28 |
-| 1.28 | Philippines | 401 |
+| 1.28 | Philippines | 402 |
 | 1.27 | Portugal | 62 |
 | 1.27 | Morocco | 11 |
-| 1.27 | Colombia | 522 |
+| 1.27 | Colombia | 525 |
 | 1.25 | Chile | 166 |
-| 1.25 | Venezuela | 95 |
 | 1.25 | El Salvador | 40 |
+| 1.25 | Venezuela | 97 |
 | 1.24 | China | 722 |
 | 1.23 | Panama | 30 |
-| 1.22 | Singapore | 107 |
+| 1.22 | Singapore | 108 |
 | 1.22 | United Arab Emirates | 23 |
 | 1.18 | Japan | 269 |
 | 1.17 | Canada | 494 |
 | 1.17 | Armenia | 12 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 3954 |
+| 1.16 | United States | 3960 |
 | 1.15 | Mongolia | 54 |
 | 1.12 | Azerbaijan | 50 |
 | 1.12 | Cyprus | 17 |
-| 1.11 | Egypt | 9 |
+| 1.10 | Egypt | 10 |
 | 1.09 | Honduras | 23 |
-| 1.05 | Georgia | 39 |
+| 1.05 | Georgia | 40 |
 | 1.00 | Albania | 3 |
 | 1.00 | Algeria | 10 |
-| 1.00 | Angola | 7 |
+| 1.00 | Angola | 8 |
 | 1.00 | Bahamas | 1 |
 | 1.00 | Barbados | 2 |
 | 1.00 | Cambodia | 3 |

@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -14,7 +14,7 @@
 | 9 | Rubik's Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010) | [OCSEF 2017](https://www.worldcubeassociation.org/competitions/OCSEFOpen2017) | 7.23 |
 | 8 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 4.81 |
 | 8 | 3x3x3 Multi-Blind | Single | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | [Keep Portland Quiet 2018](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2018) | 5.73 |
-| 8 | 4x4x4 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Mental Breakdown Washington 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownWashington2019) |  | 6.87 |
+| 8 | 4x4x4 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Mental Breakdown Washington 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownWashington2019) |  | 6.88 |
 | 8 | 7x7x7 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | [Puget Sound Fall 2017](https://www.worldcubeassociation.org/competitions/PugetSoundFall2017) | 2.19 |
 | 8 | 4x4x4 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks for the InFive 2018](https://www.worldcubeassociation.org/competitions/ThanksfortheInFive2018) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025) | 6.75 |
 | 7 | 5x5x5 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024) | 6.34 |
@@ -108,7 +108,7 @@
 | 2 | Square-1 | Average | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Schoolmark Open 2018](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2018) | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 2.47 |
 | 2 | Square-1 | Average | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024) | 2.25 |
 | 2 | Square-1 | Average | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) | 0.38 |
-| 2 | Square-1 | Average | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) |  | 1.16 |
+| 2 | Square-1 | Average | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) |  | 1.17 |
 | 2 | 4x4x4 Blindfolded | Single | [Dror Vomberg](https://www.worldcubeassociation.org/persons/2003VOMB01) | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003) | [US Nationals 2006](https://www.worldcubeassociation.org/competitions/US2006) | 2.95 |
 | 2 | 4x4x4 Cube | Single | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021) | 2.32 |
 | 2 | 4x4x4 Blindfolded | Single | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | 0.96 |

@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 13 March 2026*
+*Updated on 16 March 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -22,11 +22,11 @@
 | 38 | [Nikolas Baxevanis](https://www.worldcubeassociation.org/persons/2019BAXE02) |
 | 38 | [Blue James](https://www.worldcubeassociation.org/persons/2022JAME01) |
 | 37 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
-| 37 | [Thomas Sonnenberg Jarner](https://www.worldcubeassociation.org/persons/2017JARN01) |
 | 37 | [Konstantin Ushakov](https://www.worldcubeassociation.org/persons/2014USHA02) |
+| 37 | [Thomas Sonnenberg Jarner](https://www.worldcubeassociation.org/persons/2017JARN01) |
 | 36 | [Orion Donovan](https://www.worldcubeassociation.org/persons/2016DONO02) |
 | 36 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
-| 34 | [Jacob Vincent Vicente Mangosing](https://www.worldcubeassociation.org/persons/2022MANG07) |
+| 34 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 
 ### 4x4x4 Blindfolded
 
@@ -40,17 +40,17 @@
 | 30 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) |
 | 27 | [Balázs Polyák](https://www.worldcubeassociation.org/persons/2017POLY02) |
 | 27 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) |
-| 25 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 25 | [AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01) |
+| 25 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 24 | [Vinit Nalhe](https://www.worldcubeassociation.org/persons/2012NALH01) |
 | 24 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
-| 23 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 23 | [Felix Christian Schmidt](https://www.worldcubeassociation.org/persons/2022SCHM01) |
+| 23 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 22 | [Davide Arnesano](https://www.worldcubeassociation.org/persons/2018ARNE04) |
+| 22 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) |
 | 22 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) |
 | 22 | [Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01) |
-| 22 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) |
-| 21 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) |
+| 21 | [Lim Chun Yik (林峻毅)](https://www.worldcubeassociation.org/persons/2018YIKL01) |
 | 21 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 
 ### 5x5x5 Blindfolded
@@ -68,39 +68,39 @@
 | 30 | [Nikolai Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) |
 | 29 | [Artur Udatsnoi](https://www.worldcubeassociation.org/persons/2023UDAT01) |
 | 28 | [Luis Kleinheinz](https://www.worldcubeassociation.org/persons/2017KLEI02) |
-| 25 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
+| 26 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
 | 25 | [Alistair Robequin](https://www.worldcubeassociation.org/persons/2019ROBE01) |
-| 24 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
+| 25 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 24 | [Pierce Tickle](https://www.worldcubeassociation.org/persons/2022TICK01) |
-| 23 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
 | 23 | [Jae Park](https://www.worldcubeassociation.org/persons/2015PARK24) |
-| 23 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 23 | [Ole Nikolai Gjerset](https://www.worldcubeassociation.org/persons/2011GJER02) |
-| 22 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
+| 23 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) |
+| 23 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
+| 22 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 
 ### 3x3x3 Multi-Blind
 
 | Attempts | Person |
 | ---: | :--- |
 | 24 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 19 | [Goodwin Liu](https://www.worldcubeassociation.org/persons/2024LIUG01) |
 | 19 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
-| 15 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
+| 19 | [Goodwin Liu](https://www.worldcubeassociation.org/persons/2024LIUG01) |
 | 15 | [Denis Reimer](https://www.worldcubeassociation.org/persons/2016REIM01) |
-| 13 | [Sebastian Carrillo](https://www.worldcubeassociation.org/persons/2018CARR07) |
-| 13 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 15 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 13 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) |
-| 12 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
+| 13 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 13 | [Sebastian Carrillo](https://www.worldcubeassociation.org/persons/2018CARR07) |
 | 12 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
 | 12 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
+| 12 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
+| 11 | [Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01) |
 | 11 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 11 | [Hussain Merza](https://www.worldcubeassociation.org/persons/2022MERZ01) |
-| 11 | [Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01) |
 | 11 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 10 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) |
+| 10 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 10 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
-| 10 | [Nicolás Shwkyng Monroy](https://www.worldcubeassociation.org/persons/2013MONR01) |
 | 10 | [Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11) |
+| 10 | [Nicolás Shwkyng Monroy](https://www.worldcubeassociation.org/persons/2013MONR01) |
 | 10 | [Laura Tarrés Gimeno](https://www.worldcubeassociation.org/persons/2015GIME02) |
 
 

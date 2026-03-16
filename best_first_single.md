@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 13 March 2026*
+*Updated on 16 March 2026*
 
 
 ### Rubik's Cube
@@ -17,7 +17,7 @@
 | 6.60 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) |
 | 6.70 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
 | 6.71 | [Zirui Xu (许子睿)](https://www.worldcubeassociation.org/persons/2025XUZI02) |
-| 6.85 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
+| 6.72 | [Qixuan Zheng (郑岐轩)](https://www.worldcubeassociation.org/persons/2026ZHEN08) |
 
 ### 2x2x2 Cube
 
@@ -121,8 +121,8 @@
 | 23 | [Mosfikul Islam](https://www.worldcubeassociation.org/persons/2023ISLA08) |
 | 23 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
 | 24 | [Thomas Heiden](https://www.worldcubeassociation.org/persons/2019HEID03) |
-| 24 | [Yuto Morishita (森下優斗)](https://www.worldcubeassociation.org/persons/2023SHIK03) |
 | 24 | [Yuki Sako](https://www.worldcubeassociation.org/persons/2023SAKO02) |
+| 24 | [Yuto Morishita (森下優斗)](https://www.worldcubeassociation.org/persons/2023SHIK03) |
 
 ### 3x3x3 One-Handed
 
@@ -175,10 +175,10 @@
 | ---: | :--- |
 | 3.67 | [Lang Cheng (程朗)](https://www.worldcubeassociation.org/persons/2024CHEN89) |
 | 3.72 | [Kexin Huang (黄可欣)](https://www.worldcubeassociation.org/persons/2023HUAN75) |
-| 4.20 | [John H. Lee](https://www.worldcubeassociation.org/persons/2025LEEJ20) |
 | 4.20 | [Wataru Takamiya (髙宮径)](https://www.worldcubeassociation.org/persons/2023TAKA02) |
-| 4.21 | [Alina Zhu](https://www.worldcubeassociation.org/persons/2023ZHUA03) |
+| 4.20 | [John H. Lee](https://www.worldcubeassociation.org/persons/2025LEEJ20) |
 | 4.21 | [Lachlan Adams-Romyn](https://www.worldcubeassociation.org/persons/2022ADAM01) |
+| 4.21 | [Alina Zhu](https://www.worldcubeassociation.org/persons/2023ZHUA03) |
 | 4.33 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 4.40 | [Yu-Lun Huang (黃于倫)](https://www.worldcubeassociation.org/persons/2023HUAN31) |
 | 4.64 | [Adrián Morales Morales](https://www.worldcubeassociation.org/persons/2022MORA09) |
@@ -287,7 +287,7 @@
 | 0.96 | [Di Wu (吴迪)](https://www.worldcubeassociation.org/persons/2012WUDI01) |
 | 0.96 | [Yu Shi (时宇)](https://www.worldcubeassociation.org/persons/2011SHIY02) |
 | 0.97 | [Hongming Zhang (张洪铭)](https://www.worldcubeassociation.org/persons/2010ZHAN40) |
-| 1.00 | [Kai Liu (刘恺)](https://www.worldcubeassociation.org/persons/2009LIUK01) |
+| 1.00 | [Luis Mario Villela Chávez](https://www.worldcubeassociation.org/persons/2010VILL02) |
 
 ### Master Magic
 
@@ -297,8 +297,8 @@
 | 2.02 | [Máté Horváth](https://www.worldcubeassociation.org/persons/2007HORV01) |
 | 2.15 | [Oleksandr Pohasii (Олександр Погасій)](https://www.worldcubeassociation.org/persons/2012POHA01) |
 | 2.21 | [Amir Hossein Nafisi (امیر حسین نفیسی)](https://www.worldcubeassociation.org/persons/2012NAFI01) |
-| 2.28 | [Yiming Hua (华一鸣)](https://www.worldcubeassociation.org/persons/2008HUAY01) |
 | 2.28 | [Rudy](https://www.worldcubeassociation.org/persons/2012RUDY01) |
+| 2.28 | [Yiming Hua (华一鸣)](https://www.worldcubeassociation.org/persons/2008HUAY01) |
 | 2.33 | [Xu Zhao (赵旭)](https://www.worldcubeassociation.org/persons/2009ZHAO05) |
 | 2.34 | [Xiao Tan (谭啸)](https://www.worldcubeassociation.org/persons/2009TANX01) |
 | 2.38 | [Gabriel Felipe Rodríguez Manrique](https://www.worldcubeassociation.org/persons/2011RODR04) |

@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 13 March 2026*
+*Updated on 16 March 2026*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -509,7 +509,7 @@
 | 1 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) | Italy | [FMC Romania January 2025](https://www.worldcubeassociation.org/competitions/FMCRomaniaJanuary2025) |
 | 1 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) | Italy | [FMC Sicily 2025](https://www.worldcubeassociation.org/competitions/FMCSicily2025) |
 | 1 | [Chong Min (민총)](https://www.worldcubeassociation.org/persons/2019MINC02) | Republic of Korea | [Korea Qualifier - Daegu B 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierDaeguB2024) |
-| 1 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | United States | [Ohio State Mental Madness 2024](https://www.worldcubeassociation.org/competitions/OhioStateMentalMadness2024) |
+| 1 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | United States | [Ohio State Mental Madness 2024](https://www.worldcubeassociation.org/competitions/OhioStateMentalMadness2024) |
 | 1 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | Chile | [Olimpiadas de la Mente Stgo 2025](https://www.worldcubeassociation.org/competitions/OlimpiadasdelaMenteStgo2025) |
 | 1 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | Chile | [Patio Cubik Masters Sábado 2023](https://www.worldcubeassociation.org/competitions/PatioCubikMastersSabado2023) |
 | 1 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | Chile | [Patio Cubik Open 2023](https://www.worldcubeassociation.org/competitions/PatioCubikOpen2023) |

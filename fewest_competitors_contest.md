@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 March 2026*
+*Updated on 16 March 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -451,6 +451,7 @@
 | 11 | [Bigs & Blinds El Alto 2023](https://www.worldcubeassociation.org/competitions/BigsBlindsElAlto2023) |
 | 11 | [Björneborg Winter 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWinter2023) |
 | 11 | [BLDepok 2023](https://www.worldcubeassociation.org/competitions/BLDepok2023) |
+| 11 | [Blind in Aveiro 2026](https://www.worldcubeassociation.org/competitions/BlindinAveiro2026) |
 | 11 | [Boards & Cubes Venteira II 2025](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraII2025) |
 | 11 | [Brasil 7-Squaring Open 2025](https://www.worldcubeassociation.org/competitions/Brasil7SquaringOpen2025) |
 | 11 | [Burabay Open 2024](https://www.worldcubeassociation.org/competitions/BurabayOpen2024) |
@@ -661,6 +662,7 @@
 | 12 | [Titán Big N' Mega 2025](https://www.worldcubeassociation.org/competitions/TitanBigNMega2025) |
 | 12 | [Trois-Rivières 2021](https://www.worldcubeassociation.org/competitions/TroisRivieres2021) |
 | 12 | [Uppsalaligan 2: Polaris - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan2Polaris2024) |
+| 12 | [Uppsalaligan 3: Gear - 2026](https://www.worldcubeassociation.org/competitions/Uppsalaligan3Gear2026) |
 | 12 | [Uppsalaligan 3: Puppet - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan3Puppet2024) |
 | 12 | [Vaasa Open 2009](https://www.worldcubeassociation.org/competitions/VaasaOpen2009) |
 | 12 | [Valencia Summer 2018](https://www.worldcubeassociation.org/competitions/ValenciaSummer2018) |
@@ -1000,6 +1002,7 @@
 | 15 | [PBQ Kentucky 2023](https://www.worldcubeassociation.org/competitions/PBQKentucky2023) |
 | 15 | [PBQtah 8 2025](https://www.worldcubeassociation.org/competitions/PBQtah82025) |
 | 15 | [Perth Summer Open 2011](https://www.worldcubeassociation.org/competitions/PerthSummerOpen2011) |
+| 15 | [Pi Day at Finprov Alleppey 2026](https://www.worldcubeassociation.org/competitions/PiDayatFinprovAlleppey2026) |
 | 15 | [Pirih Rubik's Competition 2014](https://www.worldcubeassociation.org/competitions/PirihRubiksCompetition2014) |
 | 15 | [Please Be Quiet Beijing 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBeijing2019) |
 | 15 | [Please Be Quiet Philippines 2018](https://www.worldcubeassociation.org/competitions/PleaseBeQuietPhilippines2018) |

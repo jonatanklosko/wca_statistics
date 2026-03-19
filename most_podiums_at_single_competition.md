@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 March 2026*
+*Updated on 19 March 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1021,6 +1021,7 @@
 | 11 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | [Open Ovalle Summer 2024](https://www.worldcubeassociation.org/competitions/OpenOvalleSummer2024/results/podiums) |
 | 13 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Opentrópolis CEFET 2024](https://www.worldcubeassociation.org/competitions/OpentropolisCEFET2024/results/podiums) |
 | 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Opentrópolis CEFET 2025](https://www.worldcubeassociation.org/competitions/OpentropolisCEFET2025/results/podiums) |
+| 12 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Opentrópolis CEFET 2026](https://www.worldcubeassociation.org/competitions/OpentropolisCEFET2026/results/podiums) |
 | 12 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Open UTF ao Cubo 2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Oradea Cubing Finals 2018](https://www.worldcubeassociation.org/competitions/OradeaCubingFinals2018/results/podiums) |
 | 11 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Orange Walk Cube-a-thon 2025](https://www.worldcubeassociation.org/competitions/OrangeWalkCubeathon2025/results/podiums) |

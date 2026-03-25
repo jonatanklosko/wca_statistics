@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 March 2026*
+*Updated on 25 March 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -77,6 +77,7 @@
 | 13 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Arizona Championship 2024](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2024/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Ark 2018](https://www.worldcubeassociation.org/competitions/Ark2018/results/podiums) |
 | 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Arkansas Championship 2025](https://www.worldcubeassociation.org/competitions/ArkansasChampionship2025/results/podiums) |
+| 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Arkansas Championship 2026](https://www.worldcubeassociation.org/competitions/ArkansasChampionship2026/results/podiums) |
 | 11 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Armando Sueños Blenkir 2025](https://www.worldcubeassociation.org/competitions/ArmandoSuenosBlenkir2025/results/podiums) |
 | 15 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2018](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2018/results/podiums) |
 | 16 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [Arnold Classic Africa 2019](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2019/results/podiums) |
@@ -748,6 +749,7 @@
 | 11 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) | [Jonava Ralys Open 2025](https://www.worldcubeassociation.org/competitions/JonavaRalysOpen2025/results/podiums) |
 | 10 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) | [Jonava Ralys Open 2025](https://www.worldcubeassociation.org/competitions/JonavaRalysOpen2025/results/podiums) |
 | 10 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023/results/podiums) |
+| 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Jonsered Open 2026](https://www.worldcubeassociation.org/competitions/JonseredOpen2026/results/podiums) |
 | 13 | [Florian Truckenthanner](https://www.worldcubeassociation.org/persons/2013TRUC01) | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/podiums) |
 | 10 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/podiums) |
 | 12 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Jordan Nationals 2023](https://www.worldcubeassociation.org/competitions/JordanNationals2023/results/podiums) |
@@ -764,6 +766,7 @@
 | 12 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | [Kansai Open 2013](https://www.worldcubeassociation.org/competitions/KansaiOpen2013/results/podiums) |
 | 17 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Kansas Championship 2024](https://www.worldcubeassociation.org/competitions/KansasChampionship2024/results/podiums) |
 | 15 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Kansas Championship 2025](https://www.worldcubeassociation.org/competitions/KansasChampionship2025/results/podiums) |
+| 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Kanta-Hämeen Vääntelyt 2026](https://www.worldcubeassociation.org/competitions/KantaHameenKuutionvaantelyt2026/results/podiums) |
 | 10 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | [Kaohsiung Winter Open 2016](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2016/results/podiums) |
 | 11 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) | [Kārķi Open 2025](https://www.worldcubeassociation.org/competitions/KarkiOpen2025/results/podiums) |
 | 10 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Karlstad Open 2010](https://www.worldcubeassociation.org/competitions/KarlstadOpen2010/results/podiums) |

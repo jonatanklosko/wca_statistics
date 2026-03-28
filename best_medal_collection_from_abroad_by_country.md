@@ -1,21 +1,21 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 March 2026*
+*Updated on 28 March 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | Hungary | **1555** | 1330 | 1145 | 4030 |
 | United States | **1539** | 1215 | 1040 | 3794 |
-| Germany | **1397** | 1317 | 1299 | 4013 |
+| Germany | **1403** | 1320 | 1300 | 4023 |
 | Russia | **1352** | 737 | 550 | 2639 |
-| France | **1135** | 995 | 859 | 2989 |
-| China | **1108** | 1044 | 914 | 3066 |
+| France | **1138** | 1001 | 861 | 3000 |
+| China | **1112** | 1048 | 916 | 3076 |
 | Netherlands | **1064** | 855 | 747 | 2666 |
 | Poland | **872** | 568 | 451 | 1891 |
 | Malaysia | **509** | 545 | 499 | 1553 |
 | Canada | **502** | 511 | 557 | 1570 |
-| United Kingdom | **495** | 547 | 518 | 1560 |
+| United Kingdom | **495** | 547 | 519 | 1561 |
 | Hong Kong, China | **495** | 492 | 416 | 1403 |
 | Switzerland | **478** | 516 | 414 | 1408 |
 | India | **460** | 457 | 432 | 1349 |
@@ -41,13 +41,13 @@
 | Czech Republic | **173** | 196 | 209 | 578 |
 | Belgium | **159** | 235 | 230 | 624 |
 | Colombia | **154** | 128 | 125 | 407 |
+| Kazakhstan | **139** | 164 | 177 | 480 |
 | Norway | **138** | 149 | 148 | 435 |
-| Kazakhstan | **136** | 158 | 175 | 469 |
 | Greece | **133** | 167 | 131 | 431 |
 | Lithuania | **125** | 112 | 113 | 350 |
 | Belarus | **115** | 84 | 95 | 294 |
 | Philippines | **109** | 126 | 121 | 356 |
-| Venezuela | **108** | 141 | 125 | 374 |
+| Venezuela | **108** | 141 | 126 | 375 |
 | Slovakia | **107** | 151 | 158 | 416 |
 | Thailand | **105** | 111 | 68 | 284 |
 | Guatemala | **94** | 59 | 52 | 205 |

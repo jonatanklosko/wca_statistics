@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 March 2026*
+*Updated on 28 March 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -24,8 +24,8 @@
 | 154 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 153 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 151 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 150 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 149 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
-| 149 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 145 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 143 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 141 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
@@ -46,10 +46,10 @@
 | 123 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) |
 | 122 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 121 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
-| 119 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
+| 120 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
 | 119 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
+| 119 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 118 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
-| 118 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 117 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 116 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 114 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
@@ -91,10 +91,10 @@
 | 94 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 93 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 93 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 92 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
-| 92 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
-| 92 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
+| 93 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
+| 92 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
+| 92 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 91 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) |
 | 91 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 90 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |

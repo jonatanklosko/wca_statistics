@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 March 2026*
+*Updated on 28 March 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -72,11 +72,12 @@
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | **55** | 24 | 13 | 92 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **54** | 35 | 21 | 110 |
+| [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | **54** | 33 | 40 | 127 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 24 | 18 | 96 |
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **54** | 16 | 5 | 75 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **53** | 52 | 39 | 144 |
+| [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **53** | 42 | 21 | 116 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **52** | 68 | 67 | 187 |
-| [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **52** | 41 | 21 | 114 |
 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | **51** | 28 | 13 | 92 |
 | [Olivier Vos](https://www.worldcubeassociation.org/persons/2016VOSO01) | **50** | 26 | 24 | 100 |
 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **50** | 24 | 10 | 84 |
@@ -89,7 +90,6 @@
 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) | **48** | 47 | 45 | 140 |
 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | **48** | 47 | 43 | 138 |
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **48** | 43 | 30 | 121 |
-| [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | **48** | 30 | 39 | 117 |
 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) | **47** | 38 | 33 | 118 |
 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | **47** | 9 | 8 | 64 |
 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | **46** | 61 | 31 | 138 |

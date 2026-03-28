@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 25 March 2026*
+*Updated on 28 March 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -26,8 +26,8 @@
 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 118 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 117 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
-| 115 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 115 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
+| 115 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 114 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 113 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 112 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
@@ -67,10 +67,10 @@
 | 81 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 80 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 78 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
+| 78 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 78 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 78 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
 | 78 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
-| 77 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 76 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 76 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) |
 | 76 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
@@ -81,9 +81,9 @@
 | 73 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 71 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
+| 70 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 70 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 70 | [Amey Gaba](https://www.worldcubeassociation.org/persons/2016GABA02) |
-| 69 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 69 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 68 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 68 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |

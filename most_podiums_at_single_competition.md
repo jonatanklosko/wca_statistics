@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 March 2026*
+*Updated on 28 March 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1074,6 +1074,7 @@
 | 13 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Paraíso Summer DC 2025](https://www.worldcubeassociation.org/competitions/ParaisoSummerDC2025/results/podiums) |
 | 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Paraty Open 2026](https://www.worldcubeassociation.org/competitions/ParatyOpen2026/results/podiums) |
 | 13 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Parets Open 2024](https://www.worldcubeassociation.org/competitions/ParetsOpen2024/results/podiums) |
+| 10 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Parets Open 2026](https://www.worldcubeassociation.org/competitions/ParetsOpen2026/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Partage Open 2023](https://www.worldcubeassociation.org/competitions/PartageOpen2023/results/podiums) |
 | 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Patna Cube Challenge 2025](https://www.worldcubeassociation.org/competitions/PatnaCubeChallenge2025/results/podiums) |
 | 11 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Pavlodar Open 2025](https://www.worldcubeassociation.org/competitions/PavlodarOpen2025/results/podiums) |

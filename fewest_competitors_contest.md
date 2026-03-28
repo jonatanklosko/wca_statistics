@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 March 2026*
+*Updated on 28 March 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -623,6 +623,7 @@
 | 12 | [Nørre Campus Side Events 2024](https://www.worldcubeassociation.org/competitions/NorreCampusSideEvents2024) |
 | 12 | [Norrland Tour: Kubfors 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourKubfors2025) |
 | 12 | [Northwest FMC Championship 2024](https://www.worldcubeassociation.org/competitions/NorthwestFMCChampionship2024) |
+| 12 | [Oberlin Weeknights I 2026](https://www.worldcubeassociation.org/competitions/OberlinWeeknightsI2026) |
 | 12 | [Only FMC 2020](https://www.worldcubeassociation.org/competitions/OnlyFMC2020) |
 | 12 | [Optimal Solving in Povo 2024](https://www.worldcubeassociation.org/competitions/OptimalSolvinginPovo2024) |
 | 12 | [Örebro Minxfest 2024](https://www.worldcubeassociation.org/competitions/OrebroMinxfest2024) |

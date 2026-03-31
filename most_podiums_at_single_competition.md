@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -234,6 +234,7 @@
 | 11 | [Pavel Yushkevich](https://www.worldcubeassociation.org/persons/2013YUSH01) | [BSU Cubing Days 2016](https://www.worldcubeassociation.org/competitions/BSUCubingDays2016/results/podiums) |
 | 10 | [Vladislav Kaminskiy](https://www.worldcubeassociation.org/persons/2013KAMI03) | [BSU Cubing Days 2017](https://www.worldcubeassociation.org/competitions/BSUCubingDays2017/results/podiums) |
 | 11 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Bucaramanga Cultural 2017](https://www.worldcubeassociation.org/competitions/BucaramangaCultural2017/results/podiums) |
+| 11 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Budapest Open 2026](https://www.worldcubeassociation.org/competitions/BudapestOpen2026/results/podiums) |
 | 10 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | [Budapest Special 2024](https://www.worldcubeassociation.org/competitions/BudapestSpecial2024/results/podiums) |
 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Budapest Summer 2024](https://www.worldcubeassociation.org/competitions/BudapestSummer2024/results/podiums) |
 | 13 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Bulldog Qualifier 2019](https://www.worldcubeassociation.org/competitions/BulldogQualifier2019/results/podiums) |
@@ -760,6 +761,8 @@
 | 13 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Jukkasjärvi Midnight Sun 2024](https://www.worldcubeassociation.org/competitions/JukkasjarviMidnightSun2024/results/podiums) |
 | 12 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kalmar Cubing 2023](https://www.worldcubeassociation.org/competitions/KalmarCubing2023/results/podiums) |
 | 10 | [Toni Beljo](https://www.worldcubeassociation.org/persons/2015BELJ01) | [Kalmar Cubing 2023](https://www.worldcubeassociation.org/competitions/KalmarCubing2023/results/podiums) |
+| 12 | [Theo Skoog](https://www.worldcubeassociation.org/persons/2018SKOO01) | [Kalmar Cubing 2026](https://www.worldcubeassociation.org/competitions/KalmarCubing2026/results/podiums) |
+| 12 | [Emanuel Schelin](https://www.worldcubeassociation.org/persons/2022SCHE13) | [Kalmar Cubing 2026](https://www.worldcubeassociation.org/competitions/KalmarCubing2026/results/podiums) |
 | 10 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) | [Kalmykia Open 2017](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2017/results/podiums) |
 | 10 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | [Kalmykia Open 2017](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2017/results/podiums) |
 | 11 | [Saveliy Surikov](https://www.worldcubeassociation.org/persons/2017SURI01) | [Kalmykia Open 2018](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2018/results/podiums) |

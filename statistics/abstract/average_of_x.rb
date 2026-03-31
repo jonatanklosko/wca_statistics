@@ -23,13 +23,45 @@ class AverageOfX < GroupedStatistic
         result.event_id,
         ra.value
       FROM results result
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
-      JOIN competitions competition ON competition.id = competition_id
-      JOIN round_types round_type ON round_type.id = round_type_id
-      JOIN ranks_single ON ranks_single.event_id = result.event_id AND ranks_single.person_id = result.person_id
-      JOIN result_attempts ra ON ra.result_id = result.id
-      -- Take people from top 200 single for optimization reasons.
-      WHERE ranks_single.country_rank <= 200 AND result.event_id NOT IN ('333mbf', '333mbo')
+      JOIN persons person
+        ON person.wca_id = result.person_id
+       AND person.sub_id = 1
+      JOIN competitions competition
+        ON competition.id = result.competition_id
+      JOIN round_types round_type
+        ON round_type.id = result.round_type_id
+      JOIN result_attempts ra
+        ON ra.result_id = result.id
+      JOIN (
+        SELECT event_id, person_id
+        FROM (
+          SELECT
+            person_best.event_id,
+            person_best.person_id,
+            RANK() OVER (
+              PARTITION BY person_best.event_id, person_best.country_id
+              ORDER BY person_best.best
+            ) AS country_rank
+          FROM (
+            SELECT
+              r.event_id,
+              r.person_id,
+              p.country_id,
+              MIN(r.best) AS best
+            FROM results r
+            JOIN persons p
+              ON p.wca_id = r.person_id
+             AND p.sub_id = 1
+            WHERE r.best > 0
+              AND r.event_id NOT IN ('333mbf', '333mbo')
+            GROUP BY r.event_id, r.person_id, p.country_id
+          ) AS person_best
+        ) ranked_people
+        WHERE country_rank <= 200
+      ) top_people
+        ON top_people.event_id = result.event_id
+       AND top_people.person_id = result.person_id
+      WHERE result.event_id NOT IN ('333mbf', '333mbo')
       ORDER BY competition.start_date, round_type.rank, ra.attempt_number
     SQL
   end

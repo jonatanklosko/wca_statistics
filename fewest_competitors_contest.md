@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 31 March 2026*
+*Updated on  1 April 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -153,6 +153,7 @@
 | 7 | [Waterloo Blindfolded 2025](https://www.worldcubeassociation.org/competitions/WaterlooBlindfolded2025) |
 | 7 | [Yay Yarışları - Gəncə 2022](https://www.worldcubeassociation.org/competitions/YayYarislariGanca2022) |
 | 8 | [24 Horas El Tambo 2024](https://www.worldcubeassociation.org/competitions/24HorasElTambo2024) |
+| 8 | [All Blind Adelaide 2026](https://www.worldcubeassociation.org/competitions/AllBlindAdelaide2026) |
 | 8 | [Amherst FMC Challenge 2024](https://www.worldcubeassociation.org/competitions/AmherstFMCChallenge2024) |
 | 8 | [Amman FMC 2025](https://www.worldcubeassociation.org/competitions/AmmanFMC2025) |
 | 8 | [Arena Bernô 4 City FM 2023](https://www.worldcubeassociation.org/competitions/ArenaBerno4CityFM2023) |

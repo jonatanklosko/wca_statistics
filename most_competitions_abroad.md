@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 31 March 2026*
+*Updated on  1 April 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -56,13 +56,13 @@
 | 89 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 88 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
-| 86 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 86 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
+| 86 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 84 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
+| 84 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 84 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 84 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
-| 84 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
-| 82 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
+| 83 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 82 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 81 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 80 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
@@ -81,7 +81,7 @@
 | 73 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 71 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
 | 71 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
-| 70 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
+| 71 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 70 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 70 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 70 | [Amey Gaba](https://www.worldcubeassociation.org/persons/2016GABA02) |

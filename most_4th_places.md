@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 31 March 2026*
+*Updated on  1 April 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -21,8 +21,8 @@
 | 162 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 157 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 157 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
+| 155 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 154 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 153 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 151 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 150 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 149 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
@@ -40,12 +40,12 @@
 | 129 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 127 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 126 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
-| 124 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) |
 | 124 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
+| 124 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
+| 124 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) |
 | 123 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 123 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 122 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
-| 121 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
 | 120 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
 | 120 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 119 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |

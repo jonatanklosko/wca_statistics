@@ -14,49 +14,69 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
   def query
     <<-SQL
       SELECT
-        event_id,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        start_date,
-        best,
-        average
+        DATEDIFF(
+          GREATEST(single_completion.last_single_date, average_completion.last_average_date),
+          first_comp.first_competition_date
+        ) AS days,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') AS person_link
       FROM (
-        -- People who have single for every official event.
-        SELECT person_id
-        FROM ranks_single
-        JOIN events event ON event.id = event_id
-        WHERE event.rank < 900
-        GROUP BY person_id
-        HAVING COUNT(event_id) = #{Events::OFFICIAL.length}
-      ) AS all_events_people
+        SELECT
+          s.person_id,
+          MAX(s.first_single_date) AS last_single_date
+        FROM (
+          SELECT
+            r.person_id,
+            r.event_id,
+            MIN(c.start_date) AS first_single_date
+          FROM results r
+          JOIN competitions c ON c.id = r.competition_id
+          JOIN events e ON e.id = r.event_id
+          WHERE e.rank < 900
+            AND r.best > 0
+          GROUP BY r.person_id, r.event_id
+        ) s
+        GROUP BY s.person_id
+        HAVING COUNT(*) = #{Events::OFFICIAL.length}
+      ) single_completion
       JOIN (
-        -- People who have average for every official event.
-        SELECT person_id
-        FROM ranks_average
-        JOIN events event ON event.id = event_id
-        WHERE event.rank < 900
-        GROUP BY person_id
-        HAVING COUNT(event_id) = #{NUM_EVENTS_WITH_AVERAGES}
-      ) AS all_average_people ON all_average_people.person_id = all_events_people.person_id
-      JOIN results result ON result.person_id = all_events_people.person_id
-      JOIN persons person ON person.wca_id = result.person_id and person.sub_id = 1
-      JOIN competitions competition ON competition.id = competition_id
-      ORDER BY start_date
+        SELECT
+          a.person_id,
+          MAX(a.first_average_date) AS last_average_date
+        FROM (
+          SELECT
+            r.person_id,
+            r.event_id,
+            MIN(c.start_date) AS first_average_date
+          FROM results r
+          JOIN competitions c ON c.id = r.competition_id
+          JOIN events e ON e.id = r.event_id
+          WHERE e.rank < 900
+            AND r.average > 0
+          GROUP BY r.person_id, r.event_id
+        ) a
+        GROUP BY a.person_id
+        HAVING COUNT(*) = #{NUM_EVENTS_WITH_AVERAGES}
+      ) average_completion
+        ON average_completion.person_id = single_completion.person_id
+      JOIN (
+        SELECT
+          r.person_id,
+          MIN(c.start_date) AS first_competition_date
+        FROM results r
+        JOIN competitions c ON c.id = r.competition_id
+        GROUP BY r.person_id
+      ) first_comp
+        ON first_comp.person_id = single_completion.person_id
+      JOIN persons person
+        ON person.wca_id = single_completion.person_id
+       AND person.sub_id = 1
+      ORDER BY days ASC
     SQL
   end
 
   def transform(query_results)
-    query_results
-      .group_by { |result| result["person_link"] }
-      .map do |person_link, results|
-        first_competition_date = results[0]["start_date"]
-        first_successes = %w(best average).flat_map do |type|
-          results
-            .select { |result| result[type] > 0 }
-            .group_by { |result| result["event_id"] }
-            .map { |event_id, results| results.map { |result| result["start_date"] }.min }
-        end
-        [(first_successes.max - first_competition_date).to_i, person_link]
-      end
-      .sort_by! { |days, person_link| days }
+    query_results.map do |result|
+      [result["days"].to_i, result["person_link"]]
+    end
   end
 end

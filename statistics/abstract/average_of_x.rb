@@ -7,7 +7,8 @@ class AverageOfX < GroupedStatistic
     @solve_count = solve_count
 
     @title = "Average of #{@solve_count}"
-    @note = "#{@solve_count} consecutive official attempts are considered. Only people from top 200 single are taken into account."
+    -- Take people from top 200 single for optimization reasons.
+    @note = "#{@solve_count} consecutive official attempts are considered. Only people from top 500 single are taken into account."
     @table_header = { "Ao#{@solve_count}" => :right, "Person" => :left, "Times" => :left }
   end
 
@@ -39,14 +40,13 @@ class AverageOfX < GroupedStatistic
             person_best.event_id,
             person_best.person_id,
             RANK() OVER (
-              PARTITION BY person_best.event_id, person_best.country_id
+              PARTITION BY person_best.event_id
               ORDER BY person_best.best
-            ) AS country_rank
+            ) AS world_rank
           FROM (
             SELECT
               r.event_id,
               r.person_id,
-              p.country_id,
               MIN(r.best) AS best
             FROM results r
             JOIN persons p
@@ -54,10 +54,11 @@ class AverageOfX < GroupedStatistic
              AND p.sub_id = 1
             WHERE r.best > 0
               AND r.event_id NOT IN ('333mbf', '333mbo')
-            GROUP BY r.event_id, r.person_id, p.country_id
+            GROUP BY r.event_id, r.person_id
           ) AS person_best
         ) ranked_people
-        WHERE country_rank <= 200
+        -- Take people from top 500 single for optimization reasons.
+        WHERE world_rank <= 500
       ) top_people
         ON top_people.event_id = result.event_id
        AND top_people.person_id = result.person_id

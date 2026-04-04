@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 April 2026*
+*Updated on  4 April 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1431,6 +1431,7 @@
 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [UNESP Open 2018](https://www.worldcubeassociation.org/competitions/UNESPOpen2018/results/podiums) |
 | 12 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [UNESP Rio Preto Open 2025](https://www.worldcubeassociation.org/competitions/UNESPRioPretoOpen2025/results/podiums) |
 | 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [UNESP Rio Preto Open 2025](https://www.worldcubeassociation.org/competitions/UNESPRioPretoOpen2025/results/podiums) |
+| 11 | [Fabricio Andrés Yañez Terrazas](https://www.worldcubeassociation.org/persons/2015TERR01) | [Unicen Open SCZ 2026](https://www.worldcubeassociation.org/competitions/UnicenOpenSCZ2026/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023/results/podiums) |
 | 13 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Otoño 2023](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingOtono2023/results/podiums) |
 | 11 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [UNSA Speedcubing Primavera 2025](https://www.worldcubeassociation.org/competitions/UNSASpeedcubingPrimavera2025/results/podiums) |

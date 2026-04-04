@@ -1,10 +1,10 @@
 ## Most finals
 
-*Updated on  1 April 2026*
+*Updated on  4 April 2026*
 
 | Finals | Person |
 | ---: | :--- |
-| 3013 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 3020 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 2496 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2466 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2213 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
@@ -48,20 +48,20 @@
 | 1214 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1209 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 1200 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
-| 1200 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 1200 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
+| 1200 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 1194 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 1193 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 1175 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1165 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 1164 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 1110 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
+| 1107 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 1104 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
-| 1099 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1096 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 1095 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 1093 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
-| 1092 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 1085 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 1081 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 1077 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
@@ -70,9 +70,9 @@
 | 1038 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 1029 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 1026 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
+| 1025 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 1025 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 1021 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
-| 1019 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 1015 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 1012 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
@@ -85,11 +85,11 @@
 | 997 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 986 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
+| 983 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 981 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
-| 978 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
+| 979 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 977 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
-| 976 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 974 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 971 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 970 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |

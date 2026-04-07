@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 April 2026*
+*Updated on  7 April 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -780,6 +780,7 @@
 | 10 | [Arian Geravandi (آرین گراوندی)](https://www.worldcubeassociation.org/persons/2015GERA02) | [Kerman Summer 2023](https://www.worldcubeassociation.org/competitions/KermanSummer2023/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Ke Solo Lur 2024](https://www.worldcubeassociation.org/competitions/KeSoloLur2024/results/podiums) |
 | 11 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | [Khuvsgul Lake Open 2025](https://www.worldcubeassociation.org/competitions/KhuvsgulLakeOpen2025/results/podiums) |
+| 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Knummen Kuutionvääntelyt 2026](https://www.worldcubeassociation.org/competitions/KirkkonummenKuutionvaantelyt2026/results/podiums) |
 | 11 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) | [Kirkkonummi Open 2011](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2011/results/podiums) |
 | 10 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Kirkkonummi Open 2011](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2011/results/podiums) |
 | 12 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Kirkkonummi Open 2015](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2015/results/podiums) |
@@ -1380,6 +1381,7 @@
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Tietomaa Open 2017](https://www.worldcubeassociation.org/competitions/TietomaaOpen2017/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Tietomaa Open 2018](https://www.worldcubeassociation.org/competitions/TietomaaOpen2018/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Tietomaa Open 2019](https://www.worldcubeassociation.org/competitions/TietomaaOpen2019/results/podiums) |
+| 10 | [Carlos Villanueva](https://www.worldcubeassociation.org/persons/2017VILL30) | [Tilcara Open 2026](https://www.worldcubeassociation.org/competitions/TilcaraOpen2026/results/podiums) |
 | 11 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [Tivat Open 2025](https://www.worldcubeassociation.org/competitions/TivatOpen2025/results/podiums) |
 | 10 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | [Tlaxcala 2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Tofta Summer Open 2023](https://www.worldcubeassociation.org/competitions/ToftaSummerOpen2023/results/podiums) |

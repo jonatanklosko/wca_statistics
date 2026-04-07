@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 April 2026*
+*Updated on  7 April 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -322,6 +322,7 @@
 | 1343 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 1344 | [Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17) |
 | 1344 | [Tommy Moreno](https://www.worldcubeassociation.org/persons/2019MORE28) |
+| 1344 | [Rex Kotovich](https://www.worldcubeassociation.org/persons/2022KOTO01) |
 | 1350 | [Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01) |
 | 1351 | [Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01) |
 | 1357 | [Kalin Doherty](https://www.worldcubeassociation.org/persons/2021DOHE02) |
@@ -657,6 +658,7 @@
 | 3046 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
 | 3065 | [Matej Bolta](https://www.worldcubeassociation.org/persons/2015BOLT01) |
 | 3086 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
+| 3100 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 3101 | [Bernabe Kondrak](https://www.worldcubeassociation.org/persons/2016KOND04) |
 | 3101 | [James Moore](https://www.worldcubeassociation.org/persons/2016MOOR07) |
 | 3108 | [Tomas Kristiansson](https://www.worldcubeassociation.org/persons/2007KRIS01) |

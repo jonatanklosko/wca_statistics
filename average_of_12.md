@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 
 ### Rubik's Cube
@@ -150,7 +150,7 @@
 | 27.39 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 27.62, 26.55, 27.50, 29.47, 28.77, 27.40, 25.93, 29.00, 26.04, 27.55, 25.59, 27.49 |
 | 27.58 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 27.48, 26.62, 29.36, 28.59, 33.66, 30.58, 28.03, 27.82, 26.60, 25.38, 24.15, 25.32 |
 | 27.61 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 28.54, 29.26, 26.83, 28.20, 25.69, 26.87, 25.21, DNF, 25.79, 32.35, 24.63, 27.37 |
-| 28.89 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 27.78, 27.73, 30.00, 26.93, 27.03, 29.01, 29.92, 29.15, 30.69, 29.48, 28.71, 30.12 |
+| 28.55 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 25.21, 34.28, 24.74, 26.94, 31.54, 27.92, 26.97, 31.01, 30.38, 29.93, 25.37, 30.25 |
 | 29.43 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 28.97, 28.11, 28.37, 34.12, 28.70, 32.71, 30.47, 29.48, 29.93, 27.71, 29.10, 28.45 |
 | 29.67 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 30.50, 30.56, 26.75, 28.88, 30.36, 31.15, 33.44, 28.96, 27.49, 28.58, 33.70, 25.47 |
 

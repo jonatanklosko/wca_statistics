@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 17432 |
+| 1.46 | World | 17444 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 5658 |
+| 1.72 | Europe | 5660 |
 | 1.48 | Oceania | 762 |
-| 1.46 | South America | 2235 |
-| 1.40 | Asia | 3529 |
+| 1.46 | South America | 2237 |
+| 1.40 | Asia | 3535 |
 | 1.32 | Africa | 230 |
-| 1.21 | North America | 5018 |
+| 1.21 | North America | 5020 |
 
 ### Countries
 
@@ -45,11 +45,11 @@
 | 1.84 | Norway | 172 |
 | 1.83 | Slovakia | 59 |
 | 1.81 | United Kingdom | 356 |
+| 1.80 | Slovenia | 46 |
 | 1.80 | Bosnia and Herzegovina | 15 |
-| 1.80 | Slovenia | 45 |
 | 1.79 | Mexico | 267 |
 | 1.77 | Switzerland | 178 |
-| 1.76 | Austria | 38 |
+| 1.77 | Austria | 39 |
 | 1.75 | Guatemala | 64 |
 | 1.75 | Luxembourg | 4 |
 | 1.75 | Madagascar | 4 |
@@ -61,7 +61,7 @@
 | 1.68 | Argentina | 130 |
 | 1.67 | North Macedonia | 6 |
 | 1.66 | Belgium | 109 |
-| 1.66 | Brazil | 690 |
+| 1.66 | Brazil | 691 |
 | 1.65 | Italy | 296 |
 | 1.61 | Netherlands | 148 |
 | 1.60 | Iran | 43 |
@@ -92,7 +92,7 @@
 | 1.38 | Nigeria | 8 |
 | 1.38 | Paraguay | 40 |
 | 1.37 | Bangladesh | 27 |
-| 1.37 | Ecuador | 71 |
+| 1.36 | Ecuador | 72 |
 | 1.35 | Romania | 150 |
 | 1.33 | Belize | 3 |
 | 1.33 | Ghana | 3 |
@@ -102,7 +102,7 @@
 | 1.31 | Kuwait | 13 |
 | 1.30 | Bahrain | 10 |
 | 1.29 | Uruguay | 62 |
-| 1.28 | Philippines | 406 |
+| 1.28 | Philippines | 407 |
 | 1.28 | Hong Kong, China | 29 |
 | 1.27 | Colombia | 538 |
 | 1.26 | Portugal | 68 |
@@ -110,7 +110,7 @@
 | 1.25 | El Salvador | 40 |
 | 1.25 | Morocco | 12 |
 | 1.24 | Venezuela | 98 |
-| 1.24 | China | 732 |
+| 1.24 | China | 737 |
 | 1.23 | Panama | 31 |
 | 1.22 | Singapore | 108 |
 | 1.22 | United Arab Emirates | 23 |
@@ -118,7 +118,7 @@
 | 1.17 | Armenia | 12 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | Canada | 504 |
-| 1.16 | United States | 4018 |
+| 1.16 | United States | 4020 |
 | 1.14 | Mongolia | 58 |
 | 1.14 | Azerbaijan | 51 |
 | 1.12 | Honduras | 24 |

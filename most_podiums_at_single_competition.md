@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -37,6 +37,7 @@
 | 10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Alania Open 2011](https://www.worldcubeassociation.org/competitions/AlaniaOpen2011/results/podiums) |
 | 10 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Albacete Open 2016](https://www.worldcubeassociation.org/competitions/AlbaceteOpen2016/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Alekuben 2024](https://www.worldcubeassociation.org/competitions/Alekuben2024/results/podiums) |
+| 10 | [Mohammad Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS07) | [Alexandria Spring 2026](https://www.worldcubeassociation.org/competitions/AlexandriaSpring2026/results/podiums) |
 | 13 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | [Alhambra LMO 2014](https://www.worldcubeassociation.org/competitions/AlhambraLMO2014/results/podiums) |
 | 11 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Alhambra LMO 2014](https://www.worldcubeassociation.org/competitions/AlhambraLMO2014/results/podiums) |
 | 11 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Alicante Open 2016](https://www.worldcubeassociation.org/competitions/AlicanteOpen2016/results/podiums) |
@@ -798,6 +799,7 @@
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Uppsala I - 2025](https://www.worldcubeassociation.org/competitions/KublordagUppsalaI2025/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Uppsala III - 2025](https://www.worldcubeassociation.org/competitions/KublordagUppsalaIII2025/results/podiums) |
 | 10 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) | [Kublördag Uppsala IV - 2026](https://www.worldcubeassociation.org/competitions/KublordagUppsalaIV2026/results/podiums) |
+| 11 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) | [Kublördag Uppsala V - 2026](https://www.worldcubeassociation.org/competitions/KublordagUppsalaV2026/results/podiums) |
 | 15 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås IV - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasIV2024/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås V - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasV2024/results/podiums) |
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kublördag Västerås V - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasV2024/results/podiums) |

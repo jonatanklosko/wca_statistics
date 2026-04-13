@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 
 ### Rubik's Cube
@@ -113,6 +113,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 23.33 | [Haru Matsuki (松木晴琉)](https://www.worldcubeassociation.org/persons/2024MATS09) |
 | 24.00 | [Yuto Morishita (森下優斗)](https://www.worldcubeassociation.org/persons/2023SHIK03) |
 | 24.33 | [Jihan Lee (이지한)](https://www.worldcubeassociation.org/persons/2025LEEJ41) |
 | 24.67 | [Yuki Sako](https://www.worldcubeassociation.org/persons/2023SAKO02) |
@@ -121,7 +122,6 @@
 | 25.67 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
 | 26.67 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 27.00 | [Wu Chun Yin (胡俊賢)](https://www.worldcubeassociation.org/persons/2012YINW01) |
-| 27.00 | [Yasunari Kumekawa (粂川泰成)](https://www.worldcubeassociation.org/persons/2022KUME01) |
 | 27.00 | [Rodney Kinney](https://www.worldcubeassociation.org/persons/2025KINN03) |
 
 ### 3x3x3 One-Handed
@@ -222,12 +222,12 @@
 | 5:49.23 | [Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02) |
 | 6:09.39 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 6:35.61 | [Sebastián Yuste Lucero](https://www.worldcubeassociation.org/persons/2017LUCE03) |
+| 6:35.72 | [Po-Ling Lin (林柏伶)](https://www.worldcubeassociation.org/persons/2019LINP03) |
 | 6:51.77 | [Ng Hoi Ying (吳鎧楹)](https://www.worldcubeassociation.org/persons/2023YING03) |
 | 7:00.25 | [Beomseok Ryu (류범석)](https://www.worldcubeassociation.org/persons/2019RYUB01) |
 | 7:39.75 | [Alec Cheng](https://www.worldcubeassociation.org/persons/2024CHEN23) |
 | 8:18.98 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) |
 | 8:22.15 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) |
-| 8:37.97 | [Mykhailo Yartsun (Михайло Ярцун)](https://www.worldcubeassociation.org/persons/2018YART01) |
 
 ### 5x5x5 Blindfolded
 
@@ -265,8 +265,8 @@
 | 0.97 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) |
 | 1.03 | [Ke Pan (潘轲)](https://www.worldcubeassociation.org/persons/2010PANK01) |
 | 1.06 | [Jiawei Chen (陈嘉威)](https://www.worldcubeassociation.org/persons/2010JIAW01) |
-| 1.07 | [Bohdan Zhuravel (Богдан Журавель)](https://www.worldcubeassociation.org/persons/2011ZHUR01) |
 | 1.07 | [Ricardo Angulo Mora](https://www.worldcubeassociation.org/persons/2011MORA01) |
+| 1.07 | [Bohdan Zhuravel (Богдан Журавель)](https://www.worldcubeassociation.org/persons/2011ZHUR01) |
 | 1.08 | [Kacper Szumigaj](https://www.worldcubeassociation.org/persons/2012SZUM01) |
 | 1.09 | [Jian Xing (邢建)](https://www.worldcubeassociation.org/persons/2010XING03) |
 | 1.11 | [Xiao Liu (刘潇)](https://www.worldcubeassociation.org/persons/2011LIUX02) |

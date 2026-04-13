@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -40,6 +40,7 @@
 | 5 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 5 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 5 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
+| 5 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 5 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 5 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 5 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
@@ -102,7 +103,6 @@
 | 4 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 4 | [Jorge Leonardo Sánchez Salazar](https://www.worldcubeassociation.org/persons/2009SALA01) |
 | 4 | [Tse Yuet Ming (謝乙銘)](https://www.worldcubeassociation.org/persons/2009TSEM01) |
-| 4 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 4 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 4 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 4 | [Justin Mallari](https://www.worldcubeassociation.org/persons/2010MALL01) |

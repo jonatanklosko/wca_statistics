@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -30,11 +30,11 @@
 | 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 26 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
+| 25 | [Roman Sokolovskyi](https://www.worldcubeassociation.org/persons/2021SOKO03) |
 | 25 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 25 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 25 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 24 | [Roman Sokolovskyi](https://www.worldcubeassociation.org/persons/2021SOKO03) |
 | 24 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 24 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -612,6 +612,7 @@
 | 2695 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) |
 | 2702 | [Ivo Bakker](https://www.worldcubeassociation.org/persons/2009BAKK01) |
 | 2703 | [Li Chengyu](https://www.worldcubeassociation.org/persons/2017CHEN16) |
+| 2723 | [Jochen Bauer](https://www.worldcubeassociation.org/persons/2018BAUE04) |
 | 2730 | [Thomas Bevan](https://www.worldcubeassociation.org/persons/2017BEVA01) |
 | 2743 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
 | 2744 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) |
@@ -679,6 +680,7 @@
 | 3193 | [Joey Mait](https://www.worldcubeassociation.org/persons/2016MAIT02) |
 | 3198 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
 | 3220 | [Lee Jun Yee Allen (李俊毅)](https://www.worldcubeassociation.org/persons/2017YEEA01) |
+| 3227 | [Luis Kleinheinz](https://www.worldcubeassociation.org/persons/2017KLEI02) |
 | 3234 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) |
 | 3258 | [Junhe Zhang (张钧鹤)](https://www.worldcubeassociation.org/persons/2009ZHAN24) |
 | 3267 | [Samuel Cuellar Ramirez](https://www.worldcubeassociation.org/persons/2015RAMI14) |

@@ -27,8 +27,8 @@
 | 1.19 | [Zachary Lam](https://www.worldcubeassociation.org/persons/2016LAMZ01) |
 | 1.28 | [Caleb Kinman](https://www.worldcubeassociation.org/persons/2017KINM02) |
 | 1.37 | [Jayden Aaryan Kundargi](https://www.worldcubeassociation.org/persons/2026KUND01) |
-| 1.39 | [Zavian Valedon](https://www.worldcubeassociation.org/persons/2016VALE01) |
 | 1.39 | [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) |
+| 1.39 | [Zavian Valedon](https://www.worldcubeassociation.org/persons/2016VALE01) |
 | 1.41 | [Juan Kim](https://www.worldcubeassociation.org/persons/2024KIMJ30) |
 | 1.45 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) |
 | 1.47 | [Samarth Sinha](https://www.worldcubeassociation.org/persons/2025SINH04) |
@@ -115,14 +115,14 @@
 | ---: | :--- |
 | 21 | [Haru Matsuki (松木晴琉)](https://www.worldcubeassociation.org/persons/2024MATS09) |
 | 22 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
-| 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
 | 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
+| 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
 | 22 | [Galih Arya Santosa](https://www.worldcubeassociation.org/persons/2016SANT40) |
 | 22 | [Yasunari Kumekawa (粂川泰成)](https://www.worldcubeassociation.org/persons/2022KUME01) |
+| 23 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
 | 23 | [Jihan Lee (이지한)](https://www.worldcubeassociation.org/persons/2025LEEJ41) |
 | 23 | [Mosfikul Islam](https://www.worldcubeassociation.org/persons/2023ISLA08) |
-| 23 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
-| 24 | [Yuto Morishita (森下優斗)](https://www.worldcubeassociation.org/persons/2023SHIK03) |
+| 24 | [Yuki Sako](https://www.worldcubeassociation.org/persons/2023SAKO02) |
 
 ### 3x3x3 One-Handed
 
@@ -287,7 +287,7 @@
 | 0.96 | [Yu Shi (时宇)](https://www.worldcubeassociation.org/persons/2011SHIY02) |
 | 0.96 | [Di Wu (吴迪)](https://www.worldcubeassociation.org/persons/2012WUDI01) |
 | 0.97 | [Hongming Zhang (张洪铭)](https://www.worldcubeassociation.org/persons/2010ZHAN40) |
-| 1.00 | [Bingfeng Wu (吴炳峰)](https://www.worldcubeassociation.org/persons/2009WUBI01) |
+| 1.00 | [Zuqi Chen (陈祖祺)](https://www.worldcubeassociation.org/persons/2008CHEN13) |
 
 ### Master Magic
 

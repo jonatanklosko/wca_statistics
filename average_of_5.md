@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 
 ### Rubik's Cube
@@ -10,7 +10,7 @@
 | ---: | :--- | :--- |
 | 3.68 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3.67, 3.57, 3.81, 7.28, 3.32 |
 | 3.79 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 3.95, 3.91, 3.87, 3.29, 3.60 |
-| 4.37 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 4.23, 6.79, 4.01, 4.43, 4.46 |
+| 4.32 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 4.07, 5.37, 3.83, 4.38, 4.51 |
 | 4.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3.98, 5.11, 4.77, 3.82, 4.49 |
 | 4.49 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 4.54, 4.22, 4.46, 4.99, 4.48 |
 | 4.55 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.17, 5.96, 4.33, 4.49, 4.83 |
@@ -23,8 +23,8 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 0.83 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | 1.13, 0.69, 0.84, 0.82, 0.84 |
 | 0.83 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 0.85, 0.79, 0.85, 1.99, 0.70 |
-| 0.86 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | 0.86, 1.02, 0.56, 1.42, 0.70 |
 | 0.88 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 0.66, 0.82, 0.94, 0.98, 0.87 |
 | 0.89 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.15, 0.79, 0.91, 0.97, 0.71 |
 | 0.90 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 0.80, 1.05, 1.17, 0.85, 0.72 |

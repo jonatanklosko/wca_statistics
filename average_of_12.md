@@ -1,23 +1,23 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 
 ### Rubik's Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 3.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 4.13, 3.95, 3.73, 4.27, 3.65, 3.79, DNF, 3.90, 4.02, 3.31, 3.95, 3.95 |
 | 4.06 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 3.99, 4.01, 4.43, 3.47, 3.85, 4.06, 4.60, 4.09, 3.69, 4.57, 4.41, 3.45 |
-| 4.07 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3.33, 6.30, 4.00, 4.70, 3.95, 3.88, 3.85, 3.99, 4.57, 4.00, 3.98, 3.80 |
 | 4.68 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 5.26, 4.07, 4.64, 4.70, 5.11, 4.96, 4.01, 4.41, 4.67, 4.39, 5.18, 4.68 |
 | 4.78 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.00, 4.93, 4.86, 4.24, 4.71, 3.56, 5.86, 4.52, 5.61, 3.99, 5.39, 4.56 |
 | 4.90 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.48, 5.10, 4.50, 5.13, 5.16, 4.56, 4.78, 5.71, 7.46, 5.07, 4.50, 3.35 |
 | 4.91 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 5.02, 4.24, 4.86, 4.72, 5.71, 4.53, 5.35, 5.64, 3.80, 4.83, 4.87, 5.03 |
 | 5.03 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.56, 4.88, 5.38, 4.37, 7.30, 5.01, 5.59, 5.18, 4.61, 4.92, 4.56, 4.64 |
+| 5.06 | [Yize Dong (董一泽)](https://www.worldcubeassociation.org/persons/2023DONG20) | 5.29, 5.55, 5.34, 4.94, 4.85, 5.01, 4.91, 5.18, 6.08, 4.43, 5.13, 4.39 |
 | 5.07 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.25, 4.43, 5.73, 5.40, 5.84, 4.43, 4.39, 4.84, 7.31, 4.83, 5.46, 4.47 |
 | 5.10 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 4.72, 4.96, 4.88, 4.79, 5.19, 4.72, 6.21, 4.69, 5.45, 4.89, 7.22, 5.23 |
-| 5.12 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 7.86, 4.60, 4.74, 4.70, 4.63, 4.76, 5.88, 5.08, 4.64, 5.47, 5.05, 6.22 |
 
 ### 2x2x2 Cube
 
@@ -59,7 +59,7 @@
 | 37.11 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 33.83, DNF, 36.68, 37.01, 35.61, 38.57, 39.61, 34.73, 41.63, 33.85, 37.26, 36.18 |
 | 37.37 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 36.04, 36.35, 33.99, 36.55, 40.76, 37.02, 35.97, 41.29, 40.65, 38.64, 36.43, 35.27 |
 | 38.35 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 40.52, 34.82, 40.12, 36.76, 39.67, 43.31, 38.02, 44.40, 34.49, 34.16, 37.95, 37.82 |
-| 38.67 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 34.46, 41.59, 41.71, 42.72, 37.40, 38.28, 38.56, 36.57, 40.21, 38.30, 36.55, 37.57 |
+| 38.63 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 37.40, 38.28, 38.56, 36.57, 40.21, 38.30, 36.55, 37.57, 37.05, 43.33, 43.99, 39.03 |
 | 40.04 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 37.66, DNF, 39.31, 36.29, 34.97, 38.76, 47.79, 40.31, 39.46, 40.22, 40.08, 40.56 |
 | 40.21 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 40.81, 41.04, 36.48, 38.64, DNF, 41.80, 38.18, 42.02, 41.64, 40.56, 38.23, 39.13 |
 | 40.59 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 39.78, 41.65, 40.89, 38.67, 42.69, 38.49, 41.89, 39.79, 40.93, 59.76, 41.10, 37.93 |

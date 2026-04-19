@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -41,7 +41,7 @@
 | 5 | 6x6x6 Cube | Average | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011) | [TCG & Friends 2015](https://www.worldcubeassociation.org/competitions/TCGAndFriends2015) | 3.91 |
 | 5 | Megaminx | Average | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025) | 1.71 |
 | 5 | 5x5x5 Blindfolded | Single | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | [CCC End of Summer 2015](https://www.worldcubeassociation.org/competitions/CCCEndofSummer2015) | [Shanghai Winter is Coming 2016](https://www.worldcubeassociation.org/competitions/ShanghaiWinterisComing2016) | 1.19 |
-| 5 | Rubik's Magic | Single | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [BUAA Open 2010](https://www.worldcubeassociation.org/competitions/BUAAOpen2010) |  | 15.94 |
+| 5 | Rubik's Magic | Single | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [BUAA Open 2010](https://www.worldcubeassociation.org/competitions/BUAAOpen2010) |  | 15.95 |
 | 5 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Square-1 Madison Square 2023](https://www.worldcubeassociation.org/competitions/Square1onaMadisonSquare2023) |  | 2.51 |
 | 5 | 4x4x4 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021) | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025) | 4.03 |
 | 5 | 3x3x3 With Feet | Average | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [SE Champ 2018](https://www.worldcubeassociation.org/competitions/SEChamp2018) | [Medan 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019) | 1.69 |
@@ -108,7 +108,7 @@
 | 2 | Square-1 | Average | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Schoolmark Open 2018](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2018) | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 2.47 |
 | 2 | Square-1 | Average | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024) | 2.25 |
 | 2 | Square-1 | Average | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) | 0.38 |
-| 2 | Square-1 | Average | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) |  | 1.26 |
+| 2 | Square-1 | Average | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) |  | 1.27 |
 | 2 | 4x4x4 Blindfolded | Single | [Dror Vomberg](https://www.worldcubeassociation.org/persons/2003VOMB01) | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003) | [US Nationals 2006](https://www.worldcubeassociation.org/competitions/US2006) | 2.95 |
 | 2 | 4x4x4 Cube | Single | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021) | 2.32 |
 | 2 | 4x4x4 Blindfolded | Single | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | 0.96 |
@@ -198,7 +198,7 @@
 | 2 | Rubik's Clock | Single | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024) | [Chicago Area Twist Spring A 2024](https://www.worldcubeassociation.org/competitions/ChicagoAreaTwistSpringA2024) | 0.08 |
 | 2 | Rubik's Clock | Single | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023) | 1.90 |
 | 2 | Rubik's Clock | Single | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) | [Shanghai Winter 2011](https://www.worldcubeassociation.org/competitions/ShanghaiWinter2011) | [Generalen 2015](https://www.worldcubeassociation.org/competitions/Generalforsamlingen2015) | 3.16 |
-| 2 | 5x5x5 Cube | Single | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024) |  | 1.55 |
+| 2 | 5x5x5 Cube | Single | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024) |  | 1.56 |
 | 2 | 5x5x5 Cube | Average | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | [Euro 2004](https://www.worldcubeassociation.org/competitions/Euro2004) | [Caltech Dallas 2005](https://www.worldcubeassociation.org/competitions/CaltechDallas2005) | 1.02 |
 | 2 | Pyraminx | Average | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024) | 0.61 |
 | 2 | 5x5x5 Cube | Average | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) | [US Nationals 2006](https://www.worldcubeassociation.org/competitions/US2006) | [Osaka 2007](https://www.worldcubeassociation.org/competitions/Osaka2007) | 0.65 |
@@ -222,7 +222,7 @@
 | 2 | Megaminx | Average | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011) | 0.99 |
 | 2 | 6x6x6 Cube | Average | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | [Melbourne Cube Days 2015](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2015) | 0.31 |
 | 2 | Megaminx | Average | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | [German Open 2006](https://www.worldcubeassociation.org/competitions/GermanOpen2006) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | 1.46 |
-| 2 | Megaminx | Single | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2025](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2025) |  | 0.67 |
+| 2 | Megaminx | Single | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2025](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2025) |  | 0.68 |
 | 2 | 6x6x6 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2015](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2015) | [Asian Championship 2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016) | 0.90 |
 
 

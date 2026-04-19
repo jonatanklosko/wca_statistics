@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -115,6 +115,7 @@
 | 2926 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 2968 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) |
 | 2982 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 3002 | [Yuheng Wu (吴雨衡)](https://www.worldcubeassociation.org/persons/2018WUYU03) |
 | 3031 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) |
 | 3032 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 3074 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |

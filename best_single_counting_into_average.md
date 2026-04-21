@@ -14,8 +14,8 @@
 | 3.57 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025/results/by_person#2019WANY36) |
 | 3.62 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025/results/by_person#2019WANY36) |
 | 3.64 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Beijing Only 3x3 2025](https://www.worldcubeassociation.org/competitions/BeijingOnly3x32025/results/by_person#2019WANY36) |
-| 3.68 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Singapore Mofunland Cruise 2025](https://www.worldcubeassociation.org/competitions/SingaporeMofunlandCruise2025/results/by_person#2019WANY36) |
 | 3.68 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Guilin Open 2025](https://www.worldcubeassociation.org/competitions/GuilinOpen2025/results/by_person#2019WANY36) |
+| 3.68 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Singapore Mofunland Cruise 2025](https://www.worldcubeassociation.org/competitions/SingaporeMofunlandCruise2025/results/by_person#2019WANY36) |
 | 3.69 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | [Yancheng Spring Open 2026](https://www.worldcubeassociation.org/competitions/YanchengSpringOpen2026/results/by_person#2023GENG02) |
 
 ### 2x2x2 Cube
@@ -102,11 +102,11 @@
 | 1.07 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Xuzhou Newcomers 2025](https://www.worldcubeassociation.org/competitions/XuzhouNewcomers2025/results/by_person#2019JIAN54) |
 | 1.07 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Prague Open 2024](https://www.worldcubeassociation.org/competitions/PragueOpen2024/results/by_person#2017TSVE02) |
 | 1.08 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Guangdong Revival & Rival 2026](https://www.worldcubeassociation.org/competitions/GuangdongRevivalRival2026/results/by_person#2019JIAN54) |
-| 1.09 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025/results/by_person#2019JIAN54) |
 | 1.09 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Maitland Spring 2024](https://www.worldcubeassociation.org/competitions/MaitlandSpring2024/results/by_person#2021LEES01) |
+| 1.09 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025/results/by_person#2019JIAN54) |
 | 1.09 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019JIAN54) |
-| 1.11 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025/results/by_person#2019JIAN54) |
 | 1.11 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024/results/by_person#2019JIAN54) |
+| 1.11 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Taizhou Open 2025](https://www.worldcubeassociation.org/competitions/TaizhouOpen2025/results/by_person#2019JIAN54) |
 
 ### Rubik's Clock
 
@@ -172,16 +172,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
-| 0.75 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Tianjin Winter 2012](https://www.worldcubeassociation.org/competitions/TianjinWinter2012/results/by_person#2009WANG13) |
 | 0.75 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing Summer Open 2011](https://www.worldcubeassociation.org/competitions/BeijingSummer2011/results/by_person#2009WANG13) |
+| 0.75 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Tianjin Winter 2012](https://www.worldcubeassociation.org/competitions/TianjinWinter2012/results/by_person#2009WANG13) |
 | 0.77 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Taiyuan 2011](https://www.worldcubeassociation.org/competitions/Taiyuan2011/results/by_person#2009WANG13) |
 | 0.77 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing Summer Open 2011](https://www.worldcubeassociation.org/competitions/BeijingSummer2011/results/by_person#2009WANG13) |
 | 0.77 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing Summer Open 2011](https://www.worldcubeassociation.org/competitions/BeijingSummer2011/results/by_person#2009WANG13) |
-| 0.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Shanghai Open 2010](https://www.worldcubeassociation.org/competitions/ShanghaiOpen2010/results/by_person#2009WANG13) |
-| 0.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Shanghai Open 2010](https://www.worldcubeassociation.org/competitions/ShanghaiOpen2010/results/by_person#2009WANG13) |
 | 0.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing No Cubes 2010](https://www.worldcubeassociation.org/competitions/BeijingNoCubes2010/results/by_person#2009WANG13) |
 | 0.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing Spring 2011](https://www.worldcubeassociation.org/competitions/BeijingSpring2011/results/by_person#2009WANG13) |
-| 0.80 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing No Cubes 2010](https://www.worldcubeassociation.org/competitions/BeijingNoCubes2010/results/by_person#2009WANG13) |
+| 0.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Shanghai Open 2010](https://www.worldcubeassociation.org/competitions/ShanghaiOpen2010/results/by_person#2009WANG13) |
+| 0.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Shanghai Open 2010](https://www.worldcubeassociation.org/competitions/ShanghaiOpen2010/results/by_person#2009WANG13) |
+| 0.80 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Tianjin Open 2011](https://www.worldcubeassociation.org/competitions/TianjinOpen2011/results/by_person#2009WANG13) |
 
 ### Master Magic
 
@@ -190,13 +190,13 @@
 | 1.71 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2010PULC01) |
 | 1.77 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2010PULC01) |
 | 1.77 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Tianjin Winter 2012](https://www.worldcubeassociation.org/competitions/TianjinWinter2012/results/by_person#2009WANG13) |
-| 1.78 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2010PULC01) |
 | 1.78 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Wuhan Open 2012](https://www.worldcubeassociation.org/competitions/WuhanOpen2012/results/by_person#2009WANG13) |
+| 1.78 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2010PULC01) |
 | 1.80 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [SJC Winter 2012](https://www.worldcubeassociation.org/competitions/SJCWinter2012/results/by_person#2010PULC01) |
-| 1.81 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [Newark Head to Head 2011](https://www.worldcubeassociation.org/competitions/NewarkH2H2011/results/by_person#2010PULC01) |
 | 1.81 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [Jersey Shore Open 2012](https://www.worldcubeassociation.org/competitions/JerseyShoreOpen2012/results/by_person#2010PULC01) |
 | 1.81 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing Winter 2012](https://www.worldcubeassociation.org/competitions/BeijingWinter2012/results/by_person#2009WANG13) |
-| 1.83 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Taiyuan 2011](https://www.worldcubeassociation.org/competitions/Taiyuan2011/results/by_person#2009WANG13) |
+| 1.81 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [Newark Head to Head 2011](https://www.worldcubeassociation.org/competitions/NewarkH2H2011/results/by_person#2010PULC01) |
+| 1.83 | [Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01) | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012/results/by_person#2012FIED01) |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

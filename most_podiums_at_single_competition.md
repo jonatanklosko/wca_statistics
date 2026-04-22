@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -88,6 +88,7 @@
 | 10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Arnold Open 2017](https://www.worldcubeassociation.org/competitions/ArnoldOpen2017/results/podiums) |
 | 10 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Arnold Open 2018](https://www.worldcubeassociation.org/competitions/ArnoldOpen2018/results/podiums) |
 | 13 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Around the Clock Israel 2024](https://www.worldcubeassociation.org/competitions/AroundtheClockIsrael2024/results/podiums) |
+| 11 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Arriate Open 2026](https://www.worldcubeassociation.org/competitions/ArriateOpen2026/results/podiums) |
 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Asian Championship 2010](https://www.worldcubeassociation.org/competitions/AsianChampionship2010/results/podiums) |
 | 11 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Astana Open 2023](https://www.worldcubeassociation.org/competitions/AstanaOpen2023/results/podiums) |
 | 10 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [Astana Open 2023](https://www.worldcubeassociation.org/competitions/AstanaOpen2023/results/podiums) |
@@ -575,6 +576,7 @@
 | 10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [German Open 2014](https://www.worldcubeassociation.org/competitions/GermanOpen2014/results/podiums) |
 | 14 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [German Open 2019](https://www.worldcubeassociation.org/competitions/GermanOpen2019/results/podiums) |
 | 14 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [German Open 2025](https://www.worldcubeassociation.org/competitions/GermanOpen2025/results/podiums) |
+| 13 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [German Open 2026](https://www.worldcubeassociation.org/competitions/GermanOpen2026/results/podiums) |
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [German Nationals 2010](https://www.worldcubeassociation.org/competitions/Germany2010/results/podiums) |
 | 12 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Gernika Open 2013](https://www.worldcubeassociation.org/competitions/GernikaOpen2013/results/podiums) |
 | 10 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Gernika Open 2015](https://www.worldcubeassociation.org/competitions/GernikaOpen2015/results/podiums) |
@@ -1271,6 +1273,7 @@
 | 10 | [Armax Zander Guevara](https://www.worldcubeassociation.org/persons/2023GUEV06) | [SolveIt Bahrain 2025](https://www.worldcubeassociation.org/competitions/SolveItBahrain2025/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
 | 10 | [Will Gurnett](https://www.worldcubeassociation.org/persons/2016GURN01) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
+| 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Solving in Sale 2026](https://www.worldcubeassociation.org/competitions/SolvinginSale2026/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Solving in Sayre 2025](https://www.worldcubeassociation.org/competitions/SolvinginSayre2025/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Sommer uden Sol Lejre 2024](https://www.worldcubeassociation.org/competitions/SommerudenSolLejre2024/results/podiums) |
 | 16 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Sønderjysk Sommercubing 2022](https://www.worldcubeassociation.org/competitions/SonderjyskSommercubing2022/results/podiums) |
@@ -1424,6 +1427,8 @@
 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UFBA II 2023](https://www.worldcubeassociation.org/competitions/UFBAII2023/results/podiums) |
 | 11 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [UFBA II 2023](https://www.worldcubeassociation.org/competitions/UFBAII2023/results/podiums) |
 | 10 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [UFCG Open 2012](https://www.worldcubeassociation.org/competitions/UFCGOpen2012/results/podiums) |
+| 12 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Ugnsbakad Falukorv Open 2026](https://www.worldcubeassociation.org/competitions/UgnsbakadFalukorvOpen2026/results/podiums) |
+| 10 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) | [Ugnsbakad Falukorv Open 2026](https://www.worldcubeassociation.org/competitions/UgnsbakadFalukorvOpen2026/results/podiums) |
 | 13 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016/results/podiums) |
 | 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2023](https://www.worldcubeassociation.org/competitions/UkrainianNationals2023/results/podiums) |
 | 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2024](https://www.worldcubeassociation.org/competitions/UkrainianNationals2024/results/podiums) |

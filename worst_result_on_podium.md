@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 
 ### Rubik's Cube
@@ -113,6 +113,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 77 | **78.33** | [Ugnsbakad Falukorv Open 2026](https://www.worldcubeassociation.org/competitions/UgnsbakadFalukorvOpen2026/results/podiums#e333fm) | 2 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 77 | **78.00** | [Finnish FMC Series VI 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVI2025/results/podiums#e333fm) | 2 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 75 | **77.67** | [Kirkkonummi Side Open 2025](https://www.worldcubeassociation.org/competitions/KirkkonummiSideOpen2025/results/podiums#e333fm) | 3 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 75 | **77.33** | [Finnish FMC Series VII 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVII2025/results/podiums#e333fm) | 3 |
@@ -122,7 +123,6 @@
 | [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 69 | **72.33** | [Finnish FMC Series X 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesX2025/results/podiums#e333fm) | 3 |
 | [Emú Ticknor Byrd](https://www.worldcubeassociation.org/persons/2022TICK02) | 64 | **69.67** | [JAM FMC V 2023](https://www.worldcubeassociation.org/competitions/JAMFMCV2023/results/podiums#e333fm) | 2 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 67 | **69.00** | [FMC in the Gulf of Finland 2024](https://www.worldcubeassociation.org/competitions/FewestMovesintheGulfofFinlan2024/results/podiums#e333fm) | 2 |
-| [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 59 | **68.67** | [Finnish FMC Series VI 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVI2025/results/podiums#e333fm) | 1 |
 
 ### 3x3x3 One-Handed
 

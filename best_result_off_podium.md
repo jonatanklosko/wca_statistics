@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 
 ### Rubik's Cube
@@ -32,7 +32,7 @@
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.01 | **1.38** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e222_f) | 7 |
 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 0.87 | **1.39** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 4 |
 | [Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11) | 1.20 | **1.39** | [Atlanta Algs at AIS Autumn 2025](https://www.worldcubeassociation.org/competitions/AtlantaAlgsatAISAutumn2025/results/all#e222_f) | 4 |
-| [Micah Heckerling](https://www.worldcubeassociation.org/persons/2023HECK01) | 1.02 | **1.40** | [Atlanta Algs at AIS Autumn 2025](https://www.worldcubeassociation.org/competitions/AtlantaAlgsatAISAutumn2025/results/all#e222_f) | 5 |
+| [Qiyu Zhang (张淇奥)](https://www.worldcubeassociation.org/persons/2017ZHAQ04) | 1.00 | **1.40** | [Xuzhou Zenith 2026](https://www.worldcubeassociation.org/competitions/XuzhouZenith2026/results/all#e222_f) | 4 |
 
 ### 4x4x4 Cube
 
@@ -164,10 +164,10 @@
 | [Carson Clark (张卡森)](https://www.worldcubeassociation.org/persons/2023CLAR02) | 1.20 | **2.04** | [Ohio Championship 2025](https://www.worldcubeassociation.org/competitions/OhioChampionship2025/results/all#epyram_f) | 4 |
 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.26 | **2.04** | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/all#epyram_f) | 4 |
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.49 | **2.04** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#epyram_f) | 4 |
+| [Elliott Perkins](https://www.worldcubeassociation.org/persons/2018PERK01) | 1.28 | **2.06** | [Edgemont Cubing 2026](https://www.worldcubeassociation.org/competitions/EdgemontCubing2026/results/all#epyram_f) | 4 |
 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.86 | **2.07** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 4 |
 | [Yang Pin Xiu (楊品修)](https://www.worldcubeassociation.org/persons/2023XIUY01) | 1.36 | **2.09** | [Zhengzhou Zest 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZest2025/results/all#epyram_f) | 4 |
 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 1.58 | **2.09** | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025/results/all#epyram_f) | 4 |
-| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.92 | **2.09** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#epyram_f) | 5 |
 
 ### Rubik's Clock
 

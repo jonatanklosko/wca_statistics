@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -205,6 +205,7 @@
 | 929 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |
 | 931 | [Jianxu Chen (陈建旭)](https://www.worldcubeassociation.org/persons/2016CHEJ04) |
 | 931 | [Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01) |
+| 933 | [Shen Flindell](https://www.worldcubeassociation.org/persons/2023FLIN02) |
 | 937 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
 | 938 | [Alexis Fedeler](https://www.worldcubeassociation.org/persons/2015FEDE01) |
 | 944 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
@@ -524,6 +525,7 @@
 | 2232 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
 | 2233 | [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01) |
 | 2233 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) |
+| 2240 | [Patrick Bessel](https://www.worldcubeassociation.org/persons/2020BESS01) |
 | 2241 | [Lage Bonde](https://www.worldcubeassociation.org/persons/2018BOND06) |
 | 2245 | [Yan Xuan (宣炎)](https://www.worldcubeassociation.org/persons/2009XUAN03) |
 | 2248 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) |
@@ -639,6 +641,7 @@
 | 2897 | [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
 | 2897 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 2913 | [Liam Highducheck](https://www.worldcubeassociation.org/persons/2015HIGH01) |
+| 2919 | [Sora Sato](https://www.worldcubeassociation.org/persons/2018SATO01) |
 | 2925 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2953 | [Nikita Popkov](https://www.worldcubeassociation.org/persons/2017POPK01) |
 | 2962 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
@@ -775,6 +778,7 @@
 | 4935 | [Yuichi Hamada (濵田祐一)](https://www.worldcubeassociation.org/persons/2012HAMA02) |
 | 4984 | [Nikolai Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) |
 | 5061 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
+| 5089 | [Fabian Common](https://www.worldcubeassociation.org/persons/2012COMM01) |
 | 5215 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 5347 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 5503 | [Takuma Shirahase (白波瀬拓磨)](https://www.worldcubeassociation.org/persons/2007SHIR01) |

@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -44,7 +44,7 @@
 | 5 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 5 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 5 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 5 | [Helmut Heilig](https://www.worldcubeassociation.org/persons/2010HEIL02) |
+| 5 | [Martin Heilig](https://www.worldcubeassociation.org/persons/2010HEIL02) |
 | 5 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 5 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 5 | [Donna Hays](https://www.worldcubeassociation.org/persons/2011HAYS02) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -54,6 +54,7 @@
 | 1625 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
 | 1628 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) |
 | 1715 | [Draco Tong](https://www.worldcubeassociation.org/persons/2020TONG02) |
+| 1715 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) |
 | 1729 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 1764 | [Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21) |
 | 1771 | [Hanns Hub](https://www.worldcubeassociation.org/persons/2013HUBH01) |

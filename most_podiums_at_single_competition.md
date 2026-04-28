@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -565,6 +565,7 @@
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Fuglsangpark Open 2009](https://www.worldcubeassociation.org/competitions/FuglsangparkOpen2009/results/podiums) |
 | 10 | [Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02) | [Fundación de Cuenca Open 2024](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2024/results/podiums) |
 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Fundación de Cuenca Open 2024](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2024/results/podiums) |
+| 10 | [Pablo Sebastián Flores Peralta](https://www.worldcubeassociation.org/persons/2022PERA02) | [Fundación de Cuenca Open 2026](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2026/results/podiums) |
 | 11 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Gajah Mada Speedcubing 2024](https://www.worldcubeassociation.org/competitions/GajahMadaSpeedcubing2024/results/podiums) |
 | 10 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [GamMa Spring 2022](https://www.worldcubeassociation.org/competitions/GamMaSpring2022/results/podiums) |
 | 10 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | [Gbg Summer Cubing 2022](https://www.worldcubeassociation.org/competitions/GbgSummerCubing2022/results/podiums) |
@@ -791,6 +792,7 @@
 | 12 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Kirkkonummi Open 2015](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2015/results/podiums) |
 | 11 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Kirkkonummi Open 2016](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2016/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [KMG Spring 2019](https://www.worldcubeassociation.org/competitions/KMGSpring2019/results/podiums) |
+| 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Kokkola 2026](https://www.worldcubeassociation.org/competitions/Kokkola2026/results/podiums) |
 | 10 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) | [Krivbass Open 2016](https://www.worldcubeassociation.org/competitions/KrivbassOpen2016/results/podiums) |
 | 10 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | [KSF Atyrau City 2019](https://www.worldcubeassociation.org/competitions/KSFAtyrauCity2019/results/podiums) |
 | 10 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | [KSF Club Almaty 2022](https://www.worldcubeassociation.org/competitions/KSFClubAlmaty2022/results/podiums) |
@@ -823,6 +825,7 @@
 | 10 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [Lagarto Open 2012](https://www.worldcubeassociation.org/competitions/LagartoOpen2012/results/podiums) |
 | 12 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/podiums) |
 | 13 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Lande Open 2018](https://www.worldcubeassociation.org/competitions/LandeOpen2018/results/podiums) |
+| 11 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Langenstein City Blind Open 2026](https://www.worldcubeassociation.org/competitions/LangensteinCityBlindOpen2026/results/podiums) |
 | 12 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | [La Serena Open 2018](https://www.worldcubeassociation.org/competitions/LaSerenaOpen2018/results/podiums) |
 | 11 | [Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03) | [Latvian Open 2013](https://www.worldcubeassociation.org/competitions/LatvianOpen2013/results/podiums) |
 | 13 | [Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03) | [Latvian Open 2014](https://www.worldcubeassociation.org/competitions/LatvianOpen2014/results/podiums) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -30,6 +30,7 @@
 | 4 | [Big Cubes in Borås 2024](https://www.worldcubeassociation.org/competitions/BigCubesinBoras2024) |
 | 4 | [BlindCon Venteira 2026](https://www.worldcubeassociation.org/competitions/BlindConVenteira2026) |
 | 4 | [Fewest Moves Bogotá 2024](https://www.worldcubeassociation.org/competitions/FewestMovesBogota2024) |
+| 4 | [Fewest Moves Bogotá XII 2026](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaXII2026) |
 | 4 | [Fewest Moves Kirkkonummi 2024](https://www.worldcubeassociation.org/competitions/FewestMovesKirkkonummi2024) |
 | 4 | [Finnish FMC Series IX 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesIX2025) |
 | 4 | [Finnish FMC Series VIII 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesVIII2025) |
@@ -48,6 +49,7 @@
 | 4 | [Saskatchewan FMC Sandwich 2024](https://www.worldcubeassociation.org/competitions/SaskatchewanFMCSandwich2024) |
 | 4 | [Sides Bahia VI 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaQualificationClash2023) |
 | 4 | [Vardagscubing III - Flen A 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenA2023) |
+| 4 | [Westerns PBQ Reno 2026](https://www.worldcubeassociation.org/competitions/WesternPBQChampionshipReno2026) |
 | 5 | [All Quiet in Lexington 2022](https://www.worldcubeassociation.org/competitions/AllQuietinLexington2022) |
 | 5 | [Arena Bernô 300 City 2025](https://www.worldcubeassociation.org/competitions/ArenaBerno300City2025) |
 | 5 | [Big & Blind Kenya 2024](https://www.worldcubeassociation.org/competitions/BigBlindKenya2024) |
@@ -84,6 +86,7 @@
 | 6 | [Finnish FMC Series III 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesIII2025) |
 | 6 | [Fitchburg FMC II 2023](https://www.worldcubeassociation.org/competitions/FitchburgFMCII2023) |
 | 6 | [FMC Day in Trnava 2024](https://www.worldcubeassociation.org/competitions/FMCDayinTrnava2024) |
+| 6 | [FMC på GKV 2026](https://www.worldcubeassociation.org/competitions/FMCpaGKV2026) |
 | 6 | [GA Cubers BBQ 2023](https://www.worldcubeassociation.org/competitions/GACubersBigBlindQualifier2023) |
 | 6 | [Georgetown FMC 2025](https://www.worldcubeassociation.org/competitions/GeorgetownFMC2025) |
 | 6 | [Grizz League Small Cubes 2023](https://www.worldcubeassociation.org/competitions/GrizzLeagueSmallCubes2023) |
@@ -334,6 +337,7 @@
 | 9 | [Waihopai Winter 2025](https://www.worldcubeassociation.org/competitions/WaihopaiWinter2025) |
 | 9 | [Waikato Autumn Open 2010](https://www.worldcubeassociation.org/competitions/WaikatoAutumnOpen2010) |
 | 9 | [Warsaw FMC Tour II Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIIThursday2024) |
+| 9 | [Westerns PBQ Santa Clara 2026](https://www.worldcubeassociation.org/competitions/WesternsPBQChampionshipSanta2026) |
 | 9 | [Zambia Cubing Open 2025](https://www.worldcubeassociation.org/competitions/ZambiaCubingOpen2025) |
 | 10 | [2 Rounds of FMC in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/2RoundsofFMCinRzeszow2023) |
 | 10 | [5BLD Madness Suwon 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSuwon2024) |
@@ -360,6 +364,7 @@
 | 10 | [Blind in Aveiro 2025](https://www.worldcubeassociation.org/competitions/BlindinAveiro2025) |
 | 10 | [Boards & Cubes Venteira III 2025](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraIII2025) |
 | 10 | [Bucharest Blind 2023](https://www.worldcubeassociation.org/competitions/BucharestBlind2023) |
+| 10 | [Campeonato Mineiro FMC 2026](https://www.worldcubeassociation.org/competitions/CampeonatoMineiroFMC2026) |
 | 10 | [Clock N' FMC Wisconsin 2019](https://www.worldcubeassociation.org/competitions/ClockNFMCWisconsin2019) |
 | 10 | [Cornhusker Quiet Classic 2024](https://www.worldcubeassociation.org/competitions/CornhuskerQuietClassic2024) |
 | 10 | [Cowboys FMC Party 2017](https://www.worldcubeassociation.org/competitions/CowboysFMCParty2017) |
@@ -418,6 +423,7 @@
 | 10 | [Minx Open PM 2022](https://www.worldcubeassociation.org/competitions/MinxOpenPM2022) |
 | 10 | [MIT FMC 2014](https://www.worldcubeassociation.org/competitions/MITFMC2014) |
 | 10 | [New England FMC Warmup 2023](https://www.worldcubeassociation.org/competitions/NewEnglandFMCWarmup2023) |
+| 10 | [North Idaho Big Cubes 2026](https://www.worldcubeassociation.org/competitions/NorthIdahoBigCubes2026) |
 | 10 | [Oberlin Challenge I 2026](https://www.worldcubeassociation.org/competitions/OberlinChallengeI2026) |
 | 10 | [Panaad Memo & Demo 2023](https://www.worldcubeassociation.org/competitions/PanaadMemoDemo2023) |
 | 10 | [Please Be Quiet Auckland 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietAuckland2025) |
@@ -434,6 +440,7 @@
 | 10 | [Santarém Open 2019](https://www.worldcubeassociation.org/competitions/SantaremOpen2019) |
 | 10 | [Silencio Total 2018](https://www.worldcubeassociation.org/competitions/SilencioTotal2018) |
 | 10 | [South Bay Weeknight BF 2 2024](https://www.worldcubeassociation.org/competitions/SouthBayWeeknightBF22024) |
+| 10 | [Survive FMC in Bangalore 2026](https://www.worldcubeassociation.org/competitions/SurviveFMCinBangalore2026) |
 | 10 | [Tbilisi July Side Events 2024](https://www.worldcubeassociation.org/competitions/TbilisiJulySideEvents2024) |
 | 10 | [TKTK Side Events I 2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsI2024) |
 | 10 | [Toba Cubetastrophe 2022](https://www.worldcubeassociation.org/competitions/TobaCubetastrophe2022) |

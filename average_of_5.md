@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 
 ### Rubik's Cube
@@ -13,9 +13,9 @@
 | 4.32 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 4.07, 5.37, 3.83, 4.38, 4.51 |
 | 4.39 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 3.97, 4.88, 4.31, 5.04, 3.66 |
 | 4.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3.98, 5.11, 4.77, 3.82, 4.49 |
+| 4.41 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5.36, 4.86, 3.84, 3.94, 4.43 |
 | 4.48 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 5.00, 4.35, 4.70, 4.21, 4.39 |
 | 4.55 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.17, 5.96, 4.33, 4.49, 4.83 |
-| 4.60 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4.54, 4.51, 4.28, 5.97, 4.76 |
 | 4.67 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.65, 5.59, 4.68, 4.68, 4.56 |
 | 4.70 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.43, 4.39, 4.84, 7.31, 4.83 |
 
@@ -70,11 +70,11 @@
 | ---: | :--- | :--- |
 | 1:04.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:03.89, 1:06.08, 1:02.14, 1:16.67, 1:04.60 |
 | 1:06.39 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1:05.04, 1:06.07, 1:16.22, 1:08.05, 1:04.79 |
+| 1:07.53 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:11.43, 1:06.81, 1:07.04, 1:08.74, 1:05.02 |
 | 1:07.77 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:07.83, 1:07.88, 1:07.60, 1:13.42, 1:07.10 |
 | 1:08.00 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | DNF, 1:08.80, 1:02.12, 1:10.01, 1:05.18 |
 | 1:08.77 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:11.57, 1:07.51, 1:09.36, 1:03.81, 1:09.44 |
 | 1:09.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:10.68, 1:10.11, 1:08.23, 1:17.24, 1:08.60 |
-| 1:10.00 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:11.52, 1:11.56, 1:11.43, 1:06.81, 1:07.04 |
 | 1:10.03 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:14.66, 1:18.44, 1:08.24, 1:04.50, 1:07.18 |
 | 1:11.46 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:07.92, 1:08.65, 1:19.92, 1:13.42, 1:12.30 |
 | 1:12.23 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:10.44, 1:16.16, 1:10.38, 1:15.88, 1:03.43 |
@@ -105,9 +105,9 @@
 | 15.90 | [Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01) | 15.94, 15.72, 15.66, 16.08, 16.03 |
 | 15.98 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 14.52, 15.23, 17.90, 18.57, 14.82 |
 | 16.03 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | 15.51, 15.47, 15.12, DNF, 17.12 |
+| 16.33 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | 15.34, DNF, 15.48, 17.45, 16.07 |
 | 16.44 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | 15.67, 17.28, 17.51, 15.68, 16.36 |
 | 16.70 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 16.30, 15.65, DNF, 16.35, 17.45 |
-| 16.80 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | 15.68, DNF, 17.16, 15.96, 17.27 |
 
 ### 3x3x3 Fewest Moves
 
@@ -149,7 +149,7 @@
 | 25.77 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 27.82, 26.60, 25.38, 24.15, 25.32 |
 | 25.88 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 32.91, 24.85, 25.90, 23.78, 26.90 |
 | 26.12 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 25.69, 26.87, 25.21, DNF, 25.79 |
-| 26.51 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 25.93, 29.00, 26.04, 27.55, 25.59 |
+| 26.36 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 27.29, 26.66, 25.24, 24.79, 27.17 |
 | 27.28 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | 24.74, 26.94, 31.54, 27.92, 26.97 |
 | 28.34 | [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02) | 28.96, 27.49, 28.58, 33.70, 25.47 |
 | 28.37 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 29.43, 27.61, 30.80, 28.06, 27.60 |

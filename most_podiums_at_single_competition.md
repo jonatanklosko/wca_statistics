@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 April 2026*
+*Updated on  1 May 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -27,6 +27,7 @@
 | 11 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [ABC Open 2010](https://www.worldcubeassociation.org/competitions/ABCOpen2010/results/podiums) |
 | 12 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [ABHC 2016](https://www.worldcubeassociation.org/competitions/ABHC2016/results/podiums) |
 | 10 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Abierto del Mirador 2024](https://www.worldcubeassociation.org/competitions/AbiertodelMiradorenPrimavera2024/results/podiums) |
+| 10 | [Alim Jahangırov](https://www.worldcubeassociation.org/persons/2022JAHA03) | [ACA 11th Anniversary Baku 2026](https://www.worldcubeassociation.org/competitions/ACA11thAnniversaryBaku2026/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [ACA 7th Anniversary 2022](https://www.worldcubeassociation.org/competitions/ACA7thAnniversary2022/results/podiums) |
 | 10 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Adelaide Summer 2016](https://www.worldcubeassociation.org/competitions/AdelaideSummer2016/results/podiums) |
 | 10 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Adelaide Summer 2018](https://www.worldcubeassociation.org/competitions/AdelaideSummer2018/results/podiums) |

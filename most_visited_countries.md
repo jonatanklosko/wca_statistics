@@ -1,13 +1,13 @@
 ## Most visited countries
 
-*Updated on 28 April 2026*
+*Updated on  1 May 2026*
 
 | Countries | Person |
 | ---: | :--- |
 | 80 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 63 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
 | 57 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
-| 55 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
+| 56 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 49 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 42 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |

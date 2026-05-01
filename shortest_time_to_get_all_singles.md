@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 April 2026*
+*Updated on  1 May 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -282,6 +282,7 @@
 | 1183 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) |
 | 1190 | [Gianluca Placenti](https://www.worldcubeassociation.org/persons/2012PLAC01) |
 | 1190 | [Katharina Schlomberg](https://www.worldcubeassociation.org/persons/2020SCHL01) |
+| 1190 | [Avi Kumar Agarwal](https://www.worldcubeassociation.org/persons/2023AGAR02) |
 | 1197 | [Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01) |
 | 1197 | [Reid James Sungy](https://www.worldcubeassociation.org/persons/2021SUNG02) |
 | 1199 | [Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01) |

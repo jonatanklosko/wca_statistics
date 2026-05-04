@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  1 May 2026*
+*Updated on  4 May 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -10,8 +10,8 @@
 | 214 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 181 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 169 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
+| 165 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 165 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 163 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 159 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 138 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 134 | [Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01) |

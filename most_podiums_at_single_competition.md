@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 May 2026*
+*Updated on  4 May 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -252,6 +252,8 @@
 | 10 | [Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01) | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017/results/podiums) |
 | 14 | [Bárbara Guerra](https://www.worldcubeassociation.org/persons/2019RIBE11) | [Campeonato do Cerrado 2025](https://www.worldcubeassociation.org/competitions/CampeonatodoCerrado2025/results/podiums) |
 | 12 | [Miguel Meireles Godoi](https://www.worldcubeassociation.org/persons/2023GODO07) | [Campeonato do Cerrado 2025](https://www.worldcubeassociation.org/competitions/CampeonatodoCerrado2025/results/podiums) |
+| 11 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Campeonato Mineiro 2026](https://www.worldcubeassociation.org/competitions/CampeonatoMineiro2026/results/podiums) |
+| 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Campeonato Mineiro 2026](https://www.worldcubeassociation.org/competitions/CampeonatoMineiro2026/results/podiums) |
 | 10 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Campeonato Profecía 2012](https://www.worldcubeassociation.org/competitions/CampeonatoProfecia2012/results/podiums) |
 | 10 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | [Sudamericano 2013](https://www.worldcubeassociation.org/competitions/CampeonatoSudamericano2013/results/podiums) |
 | 11 | [Paris Dorn](https://www.worldcubeassociation.org/persons/2015DORN02) | [Canada's Best in the West 2018](https://www.worldcubeassociation.org/competitions/CanadasBestInTheWest2018/results/podiums) |

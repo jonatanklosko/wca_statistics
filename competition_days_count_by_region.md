@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  1 May 2026*
+*Updated on  4 May 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 17568 |
+| 1.46 | World | 17572 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.72 | Europe | 5708 |
+| 1.72 | Europe | 5709 |
 | 1.48 | Oceania | 765 |
 | 1.46 | South America | 2250 |
-| 1.40 | Asia | 3557 |
+| 1.40 | Asia | 3559 |
 | 1.32 | Africa | 234 |
-| 1.21 | North America | 5054 |
+| 1.21 | North America | 5055 |
 
 ### Countries
 
@@ -35,7 +35,6 @@
 | 1.91 | Kyrgyzstan | 11 |
 | 1.88 | Iceland | 17 |
 | 1.88 | Palestine | 8 |
-| 1.85 | Lithuania | 34 |
 | 1.85 | Finland | 193 |
 | 1.85 | Thailand | 99 |
 | 1.84 | Spain | 504 |
@@ -43,6 +42,7 @@
 | 1.84 | Serbia | 31 |
 | 1.83 | Slovakia | 60 |
 | 1.83 | Norway | 173 |
+| 1.83 | Lithuania | 35 |
 | 1.82 | Czech Republic | 96 |
 | 1.82 | United Kingdom | 357 |
 | 1.81 | Slovenia | 47 |
@@ -76,7 +76,7 @@
 | 1.54 | Greece | 50 |
 | 1.53 | India | 763 |
 | 1.52 | South Africa | 116 |
-| 1.51 | Malaysia | 131 |
+| 1.51 | Malaysia | 132 |
 | 1.50 | Bolivia | 176 |
 | 1.50 | Laos | 2 |
 | 1.49 | Sweden | 407 |
@@ -102,7 +102,7 @@
 | 1.31 | Kuwait | 13 |
 | 1.30 | Bahrain | 10 |
 | 1.29 | Uruguay | 62 |
-| 1.28 | Philippines | 409 |
+| 1.28 | Philippines | 410 |
 | 1.28 | Hong Kong, China | 29 |
 | 1.27 | Colombia | 539 |
 | 1.26 | Portugal | 68 |
@@ -118,7 +118,7 @@
 | 1.17 | Canada | 509 |
 | 1.17 | Armenia | 12 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 4046 |
+| 1.16 | United States | 4047 |
 | 1.14 | Azerbaijan | 51 |
 | 1.13 | Mongolia | 61 |
 | 1.12 | Honduras | 24 |

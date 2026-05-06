@@ -20,8 +20,8 @@
 | [Hirotaka Ito (伊藤大平)](https://www.worldcubeassociation.org/persons/2008ITOH01) | 14.89 |
 | [Mingsen Han (韩明森)](https://www.worldcubeassociation.org/persons/2010HANM01) | 14.85 |
 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) | 14.78 |
-| [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | 14.76 |
 | [Ric Donati](https://www.worldcubeassociation.org/persons/2011DONA02) | 14.76 |
+| [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | 14.76 |
 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 14.65 |
 | [Nattasit Phaisalrittiwong (ณัฐสิทธิ์ ไพศาลฤทธิวงศ์)](https://www.worldcubeassociation.org/persons/2009PHAI01) | 14.28 |
 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) | 14.16 |
@@ -43,8 +43,8 @@
 | [Joey Stahl](https://www.worldcubeassociation.org/persons/2013STAH02) | 12.84 |
 | [Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01) | 12.84 |
 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) | 12.70 |
-| [Charl Jovan Borromeo](https://www.worldcubeassociation.org/persons/2012BORR01) | 12.63 |
 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | 12.63 |
+| [Charl Jovan Borromeo](https://www.worldcubeassociation.org/persons/2012BORR01) | 12.63 |
 | [Toru Morooka (諸岡徹)](https://www.worldcubeassociation.org/persons/2010MORO01) | 12.59 |
 | [Ryan Harris](https://www.worldcubeassociation.org/persons/2013HARR01) | 12.59 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | 12.46 |
@@ -82,12 +82,12 @@
 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | 11.48 |
 | [Bohdan Yaryha (Богдан Ярига)](https://www.worldcubeassociation.org/persons/2012YARY01) | 11.46 |
 | [Alexander Karlov](https://www.worldcubeassociation.org/persons/2014KARL01) | 11.44 |
-| [David Lin](https://www.worldcubeassociation.org/persons/2012LIND02) | 11.44 |
 | [Xiran Chen (陈袭然)](https://www.worldcubeassociation.org/persons/2014CHEN51) | 11.44 |
+| [David Lin](https://www.worldcubeassociation.org/persons/2012LIND02) | 11.44 |
 | [Angus Hannelly](https://www.worldcubeassociation.org/persons/2013HANN01) | 11.43 |
 | [Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03) | 11.36 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11.31 |
 | [Jakob Fiechter](https://www.worldcubeassociation.org/persons/2014FIEC01) | 11.31 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11.31 |
 | [Annika Stein](https://www.worldcubeassociation.org/persons/2014STEI03) | 11.27 |
 | [Lilyn Ma](https://www.worldcubeassociation.org/persons/2014MALI04) | 11.23 |
 | [Francisco Thales Rocha Sousa](https://www.worldcubeassociation.org/persons/2013SOUS03) | 11.21 |
@@ -100,8 +100,8 @@
 | [Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07) | 11.03 |
 | [Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02) | 11.02 |
 | [Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01) | 11.00 |
-| [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | 11.00 |
 | [Chisanupong Chulasereekul (ชิษณุพงศ์ จุฬาเสรีกุล)](https://www.worldcubeassociation.org/persons/2014CHUL02) | 11.00 |
+| [Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22) | 11.00 |
 | [Markus Wolf](https://www.worldcubeassociation.org/persons/2015WOLF01) | 11.00 |
 | [Santiago A. Ospina Botero](https://www.worldcubeassociation.org/persons/2013BOTE01) | 10.94 |
 

@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  7 May 2026*
+*Updated on 10 May 2026*
 
 
 ### Competition
@@ -32,9 +32,9 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **22061** | 23899 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **22124** | 23964 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **21906** | 22325 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **20219** | 21044 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **20274** | 21099 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **19494** | 20041 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **19045** | 19850 |
 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **18824** | 19393 |
@@ -57,35 +57,35 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **6409800** | 6710069 |
+| United States | **6412121** | 6712470 |
 | China | **1551012** | 1624674 |
-| Poland | **1408247** | 1483054 |
+| Poland | **1409140** | 1483967 |
 | Australia | **1127754** | 1189256 |
-| United Kingdom | **1083316** | 1138431 |
+| United Kingdom | **1084257** | 1139381 |
 | India | **1075469** | 1131158 |
 | Spain | **1057677** | 1108178 |
 | Germany | **852011** | 891343 |
-| Canada | **787048** | 820499 |
+| Canada | **789022** | 822546 |
 | France | **742232** | 783364 |
 | Brazil | **680915** | 712916 |
-| Colombia | **621996** | 652195 |
-| Sweden | **584498** | 615318 |
+| Colombia | **622632** | 652845 |
+| Sweden | **585888** | 616751 |
 | Italy | **510445** | 536077 |
 | Philippines | **504438** | 524086 |
-| Mexico | **468997** | 488960 |
+| Mexico | **471435** | 491500 |
 | Russia | **430990** | 455777 |
 | Netherlands | **419903** | 437955 |
-| Chinese Taipei | **376874** | 388686 |
+| Chinese Taipei | **379148** | 391011 |
 | Peru | **337768** | 352536 |
 
 ### Continent
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **11006491** | 11549797 |
-| North America | **7908736** | 8272636 |
-| Asia | **5657179** | 5921671 |
-| South America | **2394311** | 2505595 |
+| Europe | **11010816** | 11554223 |
+| North America | **7916171** | 8280386 |
+| Asia | **5662946** | 5927653 |
+| South America | **2396345** | 2507690 |
 | Oceania | **1422838** | 1498718 |
 | Africa | **213728** | 223150 |
 | Multiple Continents | **6215** | 8051 |
@@ -101,7 +101,7 @@
 | 2018 | **2218482** | 2324544 |
 | 2022 | **2118011** | 2217441 |
 | 2017 | **1744769** | 1828013 |
-| 2026 | **1423924** | 1495740 |
+| 2026 | **1443485** | 1515993 |
 | 2016 | **1195496** | 1252781 |
 | 2015 | **885133** | 928597 |
 | 2014 | **678834** | 717042 |
@@ -119,24 +119,24 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **8649318** | 8830828 |
-| 2x2x2 Cube | **4879497** | 5004032 |
-| Pyraminx | **3172381** | 3254674 |
-| 4x4x4 Cube | **2484116** | 2575848 |
-| 3x3x3 One-Handed | **2254731** | 2327486 |
-| Skewb | **2064466** | 2115250 |
-| 5x5x5 Cube | **1307415** | 1347723 |
-| Clock | **928124** | 1069383 |
-| Megaminx | **927101** | 965324 |
-| Square-1 | **814887** | 848358 |
-| 6x6x6 Cube | **321982** | 333397 |
-| 7x7x7 Cube | **263379** | 275060 |
-| 3x3x3 Blindfolded | **195111** | 529236 |
+| 3x3x3 Cube | **8655361** | 8836998 |
+| 2x2x2 Cube | **4881807** | 5006392 |
+| Pyraminx | **3173500** | 3255829 |
+| 4x4x4 Cube | **2485780** | 2577556 |
+| 3x3x3 One-Handed | **2256333** | 2329118 |
+| Skewb | **2066575** | 2117413 |
+| 5x5x5 Cube | **1308643** | 1348978 |
+| Clock | **929249** | 1070667 |
+| Megaminx | **928149** | 966390 |
+| Square-1 | **815357** | 848840 |
+| 6x6x6 Cube | **322390** | 333814 |
+| 7x7x7 Cube | **263754** | 275440 |
+| 3x3x3 Blindfolded | **195167** | 529412 |
 | 3x3x3 Fewest Moves | **121117** | 164242 |
 | Magic | **78268** | 86498 |
 | 3x3x3 With Feet | **51884** | 56650 |
 | Master Magic | **39964** | 41445 |
-| 3x3x3 Multi-Blind | **29620** | 49941 |
+| 3x3x3 Multi-Blind | **29624** | 49946 |
 | 4x4x4 Blindfolded | **18062** | 67534 |
 | 5x5x5 Blindfolded | **7670** | 36118 |
 

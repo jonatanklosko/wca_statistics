@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 May 2026*
+*Updated on 10 May 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -17,6 +17,7 @@
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [2:a Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/2aLordagskubeniVasteras2024/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [3:e Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/3eLordagskubeniVasteras2024/results/podiums) |
 | 10 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [3:e Lördagskuben i Västerås 2024](https://www.worldcubeassociation.org/competitions/3eLordagskubeniVasteras2024/results/podiums) |
+| 10 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | [555 - Puebla 2026](https://www.worldcubeassociation.org/competitions/555Puebla2026/results/podiums) |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Aachen Open 2010](https://www.worldcubeassociation.org/competitions/AachenOpen2010/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019/results/podiums) |
 | 13 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Aarhus Open 2012](https://www.worldcubeassociation.org/competitions/AarhusOpen2012/results/podiums) |
@@ -743,6 +744,7 @@
 | 10 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Italian Open 2018](https://www.worldcubeassociation.org/competitions/ItalianOpen2018/results/podiums) |
 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Itapeva 2026](https://www.worldcubeassociation.org/competitions/Itapeva2026/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [İzmir Spring 2019](https://www.worldcubeassociation.org/competitions/IzmirSpring2019/results/podiums) |
+| 10 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Jakarta Cube Feast 2026](https://www.worldcubeassociation.org/competitions/JakartaCubeFeast2026/results/podiums) |
 | 10 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Jakarta Open 2018](https://www.worldcubeassociation.org/competitions/JakartaOpen2018/results/podiums) |
 | 10 | [Andre Febriato Jonathan](https://www.worldcubeassociation.org/persons/2011JONA01) | [Jakarta Open 2019](https://www.worldcubeassociation.org/competitions/JakartaOpen2019/results/podiums) |
 | 10 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Jakarta Open 2020](https://www.worldcubeassociation.org/competitions/JakartaOpen2020/results/podiums) |

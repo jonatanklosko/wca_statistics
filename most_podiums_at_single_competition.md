@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -40,6 +40,7 @@
 | 10 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Albacete Open 2016](https://www.worldcubeassociation.org/competitions/AlbaceteOpen2016/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Alekuben 2024](https://www.worldcubeassociation.org/competitions/Alekuben2024/results/podiums) |
 | 10 | [Mohammad Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS07) | [Alexandria Spring 2026](https://www.worldcubeassociation.org/competitions/AlexandriaSpring2026/results/podiums) |
+| 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Alfred University 2026](https://www.worldcubeassociation.org/competitions/AlfredUniversity2026/results/podiums) |
 | 13 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | [Alhambra LMO 2014](https://www.worldcubeassociation.org/competitions/AlhambraLMO2014/results/podiums) |
 | 11 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Alhambra LMO 2014](https://www.worldcubeassociation.org/competitions/AlhambraLMO2014/results/podiums) |
 | 11 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Alicante Open 2016](https://www.worldcubeassociation.org/competitions/AlicanteOpen2016/results/podiums) |
@@ -757,6 +758,7 @@
 | 10 | [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | [J Cube Jammu 2017](https://www.worldcubeassociation.org/competitions/JCubeJammu2017/results/podiums) |
 | 11 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Jogjakarta Open 2013](https://www.worldcubeassociation.org/competitions/JogjaAltamiraSportOpen2013/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Joinville Open 2024](https://www.worldcubeassociation.org/competitions/JoinvilleOpen2024/results/podiums) |
+| 11 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) | [Jonava Open 2026](https://www.worldcubeassociation.org/competitions/JonavaOpen2026/results/podiums) |
 | 11 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) | [Jonava Ralys Open 2025](https://www.worldcubeassociation.org/competitions/JonavaRalysOpen2025/results/podiums) |
 | 10 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) | [Jonava Ralys Open 2025](https://www.worldcubeassociation.org/competitions/JonavaRalysOpen2025/results/podiums) |
 | 10 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023/results/podiums) |
@@ -776,6 +778,7 @@
 | 10 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) | [Kalmykia Open 2017](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2017/results/podiums) |
 | 10 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | [Kalmykia Open 2017](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2017/results/podiums) |
 | 11 | [Saveliy Surikov](https://www.worldcubeassociation.org/persons/2017SURI01) | [Kalmykia Open 2018](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2018/results/podiums) |
+| 11 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [Kampin Kuutiopäivät 2026](https://www.worldcubeassociation.org/competitions/KampinKuutiopaivat2026/results/podiums) |
 | 12 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | [Kansai Open 2013](https://www.worldcubeassociation.org/competitions/KansaiOpen2013/results/podiums) |
 | 17 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Kansas Championship 2024](https://www.worldcubeassociation.org/competitions/KansasChampionship2024/results/podiums) |
 | 15 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Kansas Championship 2025](https://www.worldcubeassociation.org/competitions/KansasChampionship2025/results/podiums) |

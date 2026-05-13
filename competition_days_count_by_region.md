@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 17614 |
+| 1.46 | World | 17620 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.71 | Europe | 5726 |
+| 1.71 | Europe | 5729 |
 | 1.48 | Oceania | 766 |
 | 1.46 | South America | 2252 |
-| 1.40 | Asia | 3567 |
+| 1.40 | Asia | 3569 |
 | 1.32 | Africa | 234 |
-| 1.21 | North America | 5069 |
+| 1.21 | North America | 5070 |
 
 ### Countries
 
@@ -26,8 +26,8 @@
 | ---: | :--- | ---: |
 | 2.07 | Uzbekistan | 29 |
 | 2.00 | Liechtenstein | 3 |
+| 1.94 | Germany | 298 |
 | 1.94 | Kazakhstan | 70 |
-| 1.94 | Germany | 296 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Russia | 220 |
 | 1.91 | Turkey | 137 |
@@ -62,7 +62,7 @@
 | 1.66 | Belgium | 109 |
 | 1.66 | Brazil | 696 |
 | 1.65 | Italy | 297 |
-| 1.61 | Netherlands | 148 |
+| 1.61 | Netherlands | 149 |
 | 1.60 | Iran | 43 |
 | 1.60 | Indonesia | 256 |
 | 1.60 | Dominican Republic | 30 |
@@ -83,7 +83,7 @@
 | 1.47 | Peru | 266 |
 | 1.45 | Australia | 584 |
 | 1.43 | Montenegro | 7 |
-| 1.41 | Vietnam | 76 |
+| 1.40 | Vietnam | 77 |
 | 1.40 | Israel | 80 |
 | 1.39 | Costa Rica | 33 |
 | 1.39 | Estonia | 72 |
@@ -102,7 +102,7 @@
 | 1.31 | Kuwait | 13 |
 | 1.30 | Bahrain | 10 |
 | 1.29 | Uruguay | 62 |
-| 1.28 | Philippines | 411 |
+| 1.28 | Philippines | 412 |
 | 1.28 | Hong Kong, China | 29 |
 | 1.27 | Colombia | 539 |
 | 1.26 | Portugal | 68 |
@@ -118,7 +118,7 @@
 | 1.17 | Canada | 509 |
 | 1.17 | Armenia | 12 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 4060 |
+| 1.16 | United States | 4061 |
 | 1.14 | Azerbaijan | 51 |
 | 1.13 | Mongolia | 61 |
 | 1.12 | Honduras | 24 |

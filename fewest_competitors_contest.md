@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -47,6 +47,7 @@
 | 4 | [Please Be Quiet Dhaka 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietDhaka2025) |
 | 4 | [Please Don't DNF Kuwait 2024](https://www.worldcubeassociation.org/competitions/PleaseDontDNFKuwait2024) |
 | 4 | [Saskatchewan FMC Sandwich 2024](https://www.worldcubeassociation.org/competitions/SaskatchewanFMCSandwich2024) |
+| 4 | [Shymkent Open 2026](https://www.worldcubeassociation.org/competitions/ShymkentOpen2026) |
 | 4 | [Sides Bahia VI 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaQualificationClash2023) |
 | 4 | [Vardagscubing III - Flen A 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenA2023) |
 | 4 | [Westerns PBQ Reno 2026](https://www.worldcubeassociation.org/competitions/WesternPBQChampionshipReno2026) |
@@ -218,6 +219,7 @@
 | 8 | [Oregon State PBQ 2026](https://www.worldcubeassociation.org/competitions/OregonStatePBQ2026) |
 | 8 | [Pavlodar Open 2025](https://www.worldcubeassociation.org/competitions/PavlodarOpen2025) |
 | 8 | [PBQtah Sandy Summer 2019](https://www.worldcubeassociation.org/competitions/PBQtahSandySummer2019) |
+| 8 | [Please Be Quiet Odivelas II 2026](https://www.worldcubeassociation.org/competitions/PleaseBeQuietOdivelasII2026) |
 | 8 | [Please Be Quiet Reno 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietReno2025) |
 | 8 | [Please Be Quiet Thailand 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietThailand2025) |
 | 8 | [Please Be Quiet Washtenaw 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietWashtenaw2024) |
@@ -348,6 +350,7 @@
 | 10 | [ACA League II 2019](https://www.worldcubeassociation.org/competitions/ACALeagueII2019) |
 | 10 | [A Friday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/AFridayinAshfield2024) |
 | 10 | [A Good Friday in Horseheads 2025](https://www.worldcubeassociation.org/competitions/AGoodFridayinHorseheads2025) |
+| 10 | [Alfred University 2026](https://www.worldcubeassociation.org/competitions/AlfredUniversity2026) |
 | 10 | [Amman FMC 2023](https://www.worldcubeassociation.org/competitions/AmmanFMC2023) |
 | 10 | [ABCD 2015](https://www.worldcubeassociation.org/competitions/AnotherBaliCubeDay2015) |
 | 10 | [Arctic Open 2015](https://www.worldcubeassociation.org/competitions/ArcticOpen2015) |
@@ -644,6 +647,7 @@
 | 12 | [Mini Mental Milano VII 2025](https://www.worldcubeassociation.org/competitions/MiniMentalMilanoVII2025) |
 | 12 | [Minnesota Qualifier 2024](https://www.worldcubeassociation.org/competitions/MinnesotaQualifier2024) |
 | 12 | [MN Heartland Warmup I 2026](https://www.worldcubeassociation.org/competitions/MNHeartlandWarmUpI2026) |
+| 12 | [MN Heartland Warm-Up II 2026](https://www.worldcubeassociation.org/competitions/MNHeartlandWarmUpII2026) |
 | 12 | [More Cubes Karori 2025](https://www.worldcubeassociation.org/competitions/MoreCubesKarori2025) |
 | 12 | [MSU Quiet Qualifier 2022](https://www.worldcubeassociation.org/competitions/MSUQuietQualifier2022) |
 | 12 | [Multi-Blind i Jönköping 2026](https://www.worldcubeassociation.org/competitions/MultiBlindiJonkoping2026) |
@@ -899,6 +903,7 @@
 | 14 | [New York Multimate PBQ 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQ2025) |
 | 14 | [New York Multimate PBQ III 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQIII2025) |
 | 14 | [Northern Decathlon 2019](https://www.worldcubeassociation.org/competitions/NorthernDecathlon2019) |
+| 14 | [North Idaho No NxN's 2026](https://www.worldcubeassociation.org/competitions/NorthIdahoNoNxNs2026) |
 | 14 | [Ohio State Mental Madness 2026](https://www.worldcubeassociation.org/competitions/OhioStateMentalMadness2026) |
 | 14 | [Onnellista Uutta Vuotta 2023](https://www.worldcubeassociation.org/competitions/OnnellistaUuttaVuotta2023) |
 | 14 | [PBQ at MSU 2024](https://www.worldcubeassociation.org/competitions/PBQatMSU2024) |

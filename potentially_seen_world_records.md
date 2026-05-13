@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -66,13 +66,13 @@
 | 82 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
 | 81 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
+| 81 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 80 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 80 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 80 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 79 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 79 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 78 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 77 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |

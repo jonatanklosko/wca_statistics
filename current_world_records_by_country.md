@@ -1,19 +1,19 @@
 ## Current world records count by country
 
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
-| 20 | United States | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06), [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01), [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26), [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04), [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01), [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
+| 18 | United States | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06), [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01), [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10), [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01), [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01), [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26), [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04), [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05), [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03), [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01), [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12), [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04), [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01), [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 6 | China | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54), [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13), [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) |
 | 6 | Poland | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 3 | Malaysia | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 2 | Australia | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) |
 | 2 | Russia | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 1 | Czech Republic | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) |
 | 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |
 | 1 | Italy | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
-| 1 | Malaysia | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 1 | New Zealand | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
 | 1 | Switzerland | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) |
 | 1 | United Kingdom | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -23,6 +23,7 @@
 | 265 | [Felix Williams](https://www.worldcubeassociation.org/persons/2023WILL26) |
 | 266 | [Yikang Xie (谢轶康)](https://www.worldcubeassociation.org/persons/2016XIEY03) |
 | 280 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
+| 280 | [Jiahao Han (韩嘉豪)](https://www.worldcubeassociation.org/persons/2025HANJ03) |
 | 287 | [Martin Fröhlich](https://www.worldcubeassociation.org/persons/2023FROH01) |
 | 301 | [Bernhard Brodowsky](https://www.worldcubeassociation.org/persons/2016BROD01) |
 | 308 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -114,6 +114,7 @@
 | 3 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
 | 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 3 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
+| 3 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 3 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
 | 3 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 3 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
@@ -251,7 +252,6 @@
 | 1 | [Lee Chiang (蔣礪)](https://www.worldcubeassociation.org/persons/2013CHIA02) |
 | 1 | [Lee Chun Hin (李震軒)](https://www.worldcubeassociation.org/persons/2008HINL01) |
 | 1 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) |
-| 1 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 1 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
 | 1 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |

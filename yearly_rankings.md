@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 May 2026*
+*Updated on 16 May 2026*
 
 
 ### Rubik's Cube - Single
@@ -357,7 +357,7 @@
 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | **2.35** | United States | [Eau Clock Wisconsin 2026](https://www.worldcubeassociation.org/competitions/EauClockWisconsin2026) | 2.09, 2.74, 2.97, 2.21, 2.07 |
 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | **2.42** | Australia | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 2.65, 3.70, 2.30, 1.61, 2.32 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **2.42** | Poland | [Cube4fun Lublin February 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinFebruary2026) | 2.70, 2.35, 2.22, 2.26, 2.64 |
-| [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | **2.53** | New Zealand | [Hurry Up Hutt Valley 2026](https://www.worldcubeassociation.org/competitions/HurryUpHuttValley2026) | 2.58, DNF, 2.57, 2.30, 2.43 |
+| [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | **2.44** | New Zealand | [Welcome Back Hamilton 2026](https://www.worldcubeassociation.org/competitions/WelcomeBackHamilton2026) | 2.23, 2.46, 3.27, 1.98, 2.63 |
 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | **2.55** | Philippines | [Greenwoods Clock Clash 2026](https://www.worldcubeassociation.org/competitions/GreenwoodsClockClash2026) | 2.71, 4.45, 2.67, 2.27, 1.89 |
 | [Ivan ThanhDanh Duong](https://www.worldcubeassociation.org/persons/2022DUON09) | **2.57** | United States | [North Star MN 2026](https://www.worldcubeassociation.org/competitions/NorthStarMN2026) | 2.72, 2.18, 2.47, 3.05, 2.51 |
 | [Aaron Jake Wong](https://www.worldcubeassociation.org/persons/2021WONG02) | **2.58** | United States | [PBs in Palisades Spring 2026](https://www.worldcubeassociation.org/competitions/PBsinPalisadesSpring2026) | 2.29, 2.79, 2.47, 2.96, 2.48 |
@@ -374,10 +374,10 @@
 | [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | **0.98** | China | [Singapore Skewby March 2026](https://www.worldcubeassociation.org/competitions/SingaporeSkewbyMarch2026) | 0.98, 3.39, 3.07, 3.54, 1.77 |
 | [Quinn Maloney](https://www.worldcubeassociation.org/persons/2023MALO01) | **1.00** | United States | [Westport Icebreaker 2026](https://www.worldcubeassociation.org/competitions/WestportIcebreaker2026) | 1.00, DNF, 2.27, 2.30, 2.32 |
 | [Adrien Romain](https://www.worldcubeassociation.org/persons/2022ROMA05) | **1.02** | France | [Camargue Open 2026](https://www.worldcubeassociation.org/competitions/CamargueOpen2026) | 1.02, 4.07, DNF, 3.59, 3.50 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.03** | United States | [3x3 in Madison 2026](https://www.worldcubeassociation.org/competitions/3x3inMadison2026) | 1.64, DNF, 3.87, 1.03, 2.97 |
 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | **1.09** | Poland | [Dębica Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2026) | 2.08, 3.03, 1.09, 2.19, 5.57 |
 | [Sid Shivnath](https://www.worldcubeassociation.org/persons/2023SHIV05) | **1.09** | United States | [McBaja II 2026](https://www.worldcubeassociation.org/competitions/McBajaII2026) | 3.82, 2.68, DNF, 1.09, DNF |
 | [Daniel Brem](https://www.worldcubeassociation.org/persons/2019BREM02) | **1.10** | Switzerland | [Ghem Ammò Vöia Da Cubaa 2026](https://www.worldcubeassociation.org/competitions/GhemAmmoVoiaDaCubaa2026) | 3.34, 2.75, 2.68, 3.27, 1.10 |
-| [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | **1.10** | United Kingdom | [Crewe Winter 2026](https://www.worldcubeassociation.org/competitions/CreweWinter2026) | 1.10, 1.48, 2.17, 4.71, 1.63 |
 
 ### Skewb - Average
 
@@ -402,12 +402,12 @@
 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **4.08** | Denmark | [Roskilde by Night 2026](https://www.worldcubeassociation.org/competitions/RoskildebyNight2026) | 4.08, 8.01, DNF, 6.67, 8.54 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **4.20** | Poland | [WLS Styczeń 2026](https://www.worldcubeassociation.org/competitions/WLSStyczen2026) | 8.72, 7.60, 7.40, 4.99, 4.20 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **4.31** | United States | [Lakewood Spring 2026](https://www.worldcubeassociation.org/competitions/LakewoodSpring2026) | 4.78, 8.20, 4.31, 6.08, 10.24 |
+| [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **4.33** | United States | [3x3 in Madison 2026](https://www.worldcubeassociation.org/competitions/3x3inMadison2026) | 6.04, 4.33, 6.07, 8.54, 6.46 |
 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | **4.36** | Poland | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026) | 7.02, 6.30, 7.16, 8.02, 4.36 |
 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | **4.39** | United States | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 5.03, 8.09, 5.81, 4.39, 4.53 |
 | [Zach Ridall](https://www.worldcubeassociation.org/persons/2018RIDA01) | **4.53** | United States | [Happy Valley Spring PA 2026](https://www.worldcubeassociation.org/competitions/HappyValleySpringPA2026) | 9.88, 7.60, 8.49, 4.53, 9.61 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **4.59** | United States | [No Sprinting NY 2026](https://www.worldcubeassociation.org/competitions/NoSprintingNY2026) | 6.76, 9.20, 4.59, 4.88, 4.62 |
 | [Eeshir Pannun](https://www.worldcubeassociation.org/persons/2021PANN01) | **4.65** | Canada | [Surrey Side Events 2026](https://www.worldcubeassociation.org/competitions/SurreySideEvents2026) | 10.03, 4.65, 10.16, 11.01, 6.71 |
-| [Liu Yik Yung (劉益融)](https://www.worldcubeassociation.org/persons/2023YUNG02) | **4.69** | Hong Kong, China | [Crewe Spring 2026](https://www.worldcubeassociation.org/competitions/CreweSpring2026) | 8.02, 4.69, DNF, 7.30, 10.24 |
 
 ### Square-1 - Average
 
@@ -418,7 +418,7 @@
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **5.40** | United States | [Wisconsin on Ice 2026](https://www.worldcubeassociation.org/competitions/WisconsinonIce2026) | 5.07, 7.51, 5.30, 4.59, 5.84 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **5.76** | Poland | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 5.80, 5.54, 5.94, 6.90, 4.82 |
 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **5.77** | Denmark | [Hvidovre for Alle 2026](https://www.worldcubeassociation.org/competitions/HvidovreforAlle2026) | 5.71, 5.87, 7.57, 5.73, 5.68 |
-| [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **6.05** | United States | [Skowhegan Puzzlefest 2026](https://www.worldcubeassociation.org/competitions/SkowheganPuzzlefest2026) | 6.36, 4.91, 6.09, 8.20, 5.69 |
+| [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **5.91** | United States | [DFW Weeknights 3 2026](https://www.worldcubeassociation.org/competitions/DFWWeeknights32026) | 7.27, 5.00, 5.32, 5.14, 8.18 |
 | [Zijia Liu (刘子甲)](https://www.worldcubeassociation.org/persons/2024LIUZ10) | **6.29** | China | [Odd Day in Hong Kong 2026](https://www.worldcubeassociation.org/competitions/OddDayinHongKong2026) | 5.93, 5.45, 6.09, 8.12, 6.84 |
 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) | **6.32** | China | [Foshan Open 2026](https://www.worldcubeassociation.org/competitions/FoshanOpen2026) | 6.85, 6.59, 6.41, 5.95, 5.93 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **6.33** | United States | [Lakewood Spring 2026](https://www.worldcubeassociation.org/competitions/LakewoodSpring2026) | 5.96, 7.06, 5.98, 5.87, 7.50 |

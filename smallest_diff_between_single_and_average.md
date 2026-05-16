@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 May 2026*
+*Updated on 16 May 2026*
 
 
 ### Rubik's Cube
@@ -75,9 +75,9 @@
 | 0.04 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 2:02.10 | 2:02.14 | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025/results/by_person#2022SOLO01) |
 | 0.04 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) | 2:20.54 | 2:20.58 | [Oceania 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Oceania10thAnniversary2019/results/by_person#2016STAN05) |
 | 0.04 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 2:28.29 | 2:28.33 | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025/results/by_person#2011SZAT01) |
+| 0.04 | [Trishan Reddy Katamreddy](https://www.worldcubeassociation.org/persons/2023KATA05) | 3:56.67 | 3:56.71 | [Temple Qualifier 2026](https://www.worldcubeassociation.org/competitions/TempleQualifier2026/results/by_person#2023KATA05) |
 | 0.05 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 2:03.37 | 2:03.42 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/by_person#2012MCNE01) |
 | 0.05 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 4:48.06 | 4:48.11 | [Santiago Open 2009](https://www.worldcubeassociation.org/competitions/SantiagoOpen2009/results/by_person#2007GUIM01) |
-| 0.06 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) | 2:02.67 | 2:02.73 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2022BLAC01) |
 
 ### 7x7x7 Cube
 
@@ -178,8 +178,8 @@
 | 0.03 | [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.45 | 2.48 | [XMUM Cube Open 2026](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2026/results/by_person#2016CAIY03) |
 | 0.03 | [Titus Sutterfield](https://www.worldcubeassociation.org/persons/2017SUTT01) | 3.07 | 3.10 | [Cubing in Cave Springs 2025](https://www.worldcubeassociation.org/competitions/CubinginCaveSprings2025/results/by_person#2017SUTT01) |
 | 0.03 | [Maxence Baudry](https://www.worldcubeassociation.org/persons/2014BAUD02) | 3.16 | 3.19 | [Rhein-Neckar Autumn 2023](https://www.worldcubeassociation.org/competitions/RheinNeckarAutumn2023/results/by_person#2014BAUD02) |
-| 0.04 | [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.90 | 2.94 | [You May Open 2018](https://www.worldcubeassociation.org/competitions/YouMayOpen2018/results/by_person#2016CAIY03) |
 | 0.04 | [Alessandro Calzoni](https://www.worldcubeassociation.org/persons/2021CALZ01) | 2.90 | 2.94 | [Ticino Open 2023](https://www.worldcubeassociation.org/competitions/TicinoOpen2023/results/by_person#2021CALZ01) |
+| 0.04 | [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.90 | 2.94 | [You May Open 2018](https://www.worldcubeassociation.org/competitions/YouMayOpen2018/results/by_person#2016CAIY03) |
 | 0.04 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 3.36 | 3.40 | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025/results/by_person#2023ZAST01) |
 | 0.04 | [Jesús Julián De Niz Hernandez](https://www.worldcubeassociation.org/persons/2014HERN12) | 3.44 | 3.48 | [Guadalajara 2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017/results/by_person#2014HERN12) |
 | 0.04 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.57 | 3.61 | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/by_person#2022STOJ03) |
@@ -255,8 +255,8 @@
 | 0.01 | [Korneliusz Tombarkiewicz](https://www.worldcubeassociation.org/persons/2009TOMB01) | 0.91 | 0.92 | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011/results/by_person#2009TOMB01) |
 | 0.01 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 0.96 | 0.97 | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012/results/by_person#2010KIPA01) |
 | 0.01 | [Paulo Salgado Alvarez](https://www.worldcubeassociation.org/persons/2010ALVA01) | 1.15 | 1.16 | [Cuberos.cl 2nd Anniversary Open 2011](https://www.worldcubeassociation.org/competitions/Cuberos2011/results/by_person#2010ALVA01) |
-| 0.01 | [Quentin Lefebvre](https://www.worldcubeassociation.org/persons/2009LEFE01) | 1.16 | 1.17 | [Toulouse Open 2010](https://www.worldcubeassociation.org/competitions/ToulouseOpen2010/results/by_person#2009LEFE01) |
 | 0.01 | [Justin Badua](https://www.worldcubeassociation.org/persons/2010BADU01) | 1.16 | 1.17 | [Dixon Open 2012](https://www.worldcubeassociation.org/competitions/DixonOpen2012/results/by_person#2010BADU01) |
+| 0.01 | [Quentin Lefebvre](https://www.worldcubeassociation.org/persons/2009LEFE01) | 1.16 | 1.17 | [Toulouse Open 2010](https://www.worldcubeassociation.org/competitions/ToulouseOpen2010/results/by_person#2009LEFE01) |
 | 0.01 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | 1.19 | 1.20 | [Princeton Fall 2012](https://www.worldcubeassociation.org/competitions/PrincetonFall2012/results/by_person#2007HASH01) |
 
 ### Master Magic

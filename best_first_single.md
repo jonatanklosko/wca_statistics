@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 
 ### Rubik's Cube
@@ -28,8 +28,8 @@
 | 1.19 | [Zachary Lam](https://www.worldcubeassociation.org/persons/2016LAMZ01) |
 | 1.28 | [Caleb Kinman](https://www.worldcubeassociation.org/persons/2017KINM02) |
 | 1.37 | [Jayden Aaryan Kundargi](https://www.worldcubeassociation.org/persons/2026KUND01) |
-| 1.39 | [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) |
 | 1.39 | [Zavian Valedon](https://www.worldcubeassociation.org/persons/2016VALE01) |
+| 1.39 | [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) |
 | 1.41 | [Juan Kim](https://www.worldcubeassociation.org/persons/2024KIMJ30) |
 | 1.45 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) |
 | 1.47 | [Samarth Sinha](https://www.worldcubeassociation.org/persons/2025SINH04) |
@@ -114,13 +114,13 @@
 | First single | Person |
 | ---: | :--- |
 | 21 | [Haru Matsuki (松木晴琉)](https://www.worldcubeassociation.org/persons/2024MATS09) |
-| 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
-| 22 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
-| 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
-| 22 | [Yasunari Kumekawa (粂川泰成)](https://www.worldcubeassociation.org/persons/2022KUME01) |
 | 22 | [Galih Arya Santosa](https://www.worldcubeassociation.org/persons/2016SANT40) |
-| 23 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
+| 22 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
+| 22 | [Yasunari Kumekawa (粂川泰成)](https://www.worldcubeassociation.org/persons/2022KUME01) |
+| 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
+| 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
 | 23 | [Jihan Lee (이지한)](https://www.worldcubeassociation.org/persons/2025LEEJ41) |
+| 23 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
 | 23 | [Mosfikul Islam](https://www.worldcubeassociation.org/persons/2023ISLA08) |
 | 24 | [Thomas Heiden](https://www.worldcubeassociation.org/persons/2019HEID03) |
 
@@ -175,14 +175,14 @@
 | ---: | :--- |
 | 3.67 | [Lang Cheng (程朗)](https://www.worldcubeassociation.org/persons/2024CHEN89) |
 | 3.72 | [Kexin Huang (黄可欣)](https://www.worldcubeassociation.org/persons/2023HUAN75) |
-| 4.20 | [John H. Lee](https://www.worldcubeassociation.org/persons/2025LEEJ20) |
 | 4.20 | [Wataru Takamiya (髙宮径)](https://www.worldcubeassociation.org/persons/2023TAKA02) |
-| 4.21 | [Alina Zhu](https://www.worldcubeassociation.org/persons/2023ZHUA03) |
+| 4.20 | [John H. Lee](https://www.worldcubeassociation.org/persons/2025LEEJ20) |
 | 4.21 | [Lachlan Adams-Romyn](https://www.worldcubeassociation.org/persons/2022ADAM01) |
+| 4.21 | [Alina Zhu](https://www.worldcubeassociation.org/persons/2023ZHUA03) |
 | 4.33 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 4.40 | [Yu-Lun Huang (黃于倫)](https://www.worldcubeassociation.org/persons/2023HUAN31) |
-| 4.64 | [Yoon Beom Kim (김윤범)](https://www.worldcubeassociation.org/persons/2024BEOM01) |
 | 4.64 | [Adrián Morales Morales](https://www.worldcubeassociation.org/persons/2022MORA09) |
+| 4.64 | [Yoon Beom Kim (김윤범)](https://www.worldcubeassociation.org/persons/2024BEOM01) |
 
 ### Skewb
 
@@ -241,8 +241,8 @@
 | 9:23.29 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) |
 | 10:03.00 | [Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02) |
 | 11:19.00 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) |
+| 11:31.00 | [Xiangjie Li (李祥杰)](https://www.worldcubeassociation.org/persons/2016LIXI04) |
 | 12:05.00 | [Greehith Annabathina](https://www.worldcubeassociation.org/persons/2022ANNA01) |
-| 12:50.00 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) |
 
 ### 3x3x3 Multi-Blind
 
@@ -284,8 +284,8 @@
 | 0.93 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) |
 | 0.94 | [Ke Pan (潘轲)](https://www.worldcubeassociation.org/persons/2010PANK01) |
 | 0.94 | [Tang Yiu Chun (鄧耀俊)](https://www.worldcubeassociation.org/persons/2009CHUN07) |
-| 0.96 | [Di Wu (吴迪)](https://www.worldcubeassociation.org/persons/2012WUDI01) |
 | 0.96 | [Yu Shi (时宇)](https://www.worldcubeassociation.org/persons/2011SHIY02) |
+| 0.96 | [Di Wu (吴迪)](https://www.worldcubeassociation.org/persons/2012WUDI01) |
 | 0.97 | [Hongming Zhang (张洪铭)](https://www.worldcubeassociation.org/persons/2010ZHAN40) |
 | 1.00 | [Kai Liu (刘恺)](https://www.worldcubeassociation.org/persons/2009LIUK01) |
 
@@ -297,12 +297,12 @@
 | 2.02 | [Máté Horváth](https://www.worldcubeassociation.org/persons/2007HORV01) |
 | 2.15 | [Oleksandr Pohasii (Олександр Погасій)](https://www.worldcubeassociation.org/persons/2012POHA01) |
 | 2.21 | [Amir Hossein Nafisi (امیر حسین نفیسی)](https://www.worldcubeassociation.org/persons/2012NAFI01) |
-| 2.28 | [Rudy](https://www.worldcubeassociation.org/persons/2012RUDY01) |
 | 2.28 | [Yiming Hua (华一鸣)](https://www.worldcubeassociation.org/persons/2008HUAY01) |
+| 2.28 | [Rudy](https://www.worldcubeassociation.org/persons/2012RUDY01) |
 | 2.33 | [Xu Zhao (赵旭)](https://www.worldcubeassociation.org/persons/2009ZHAO05) |
 | 2.34 | [Xiao Tan (谭啸)](https://www.worldcubeassociation.org/persons/2009TANX01) |
 | 2.38 | [Gabriel Felipe Rodríguez Manrique](https://www.worldcubeassociation.org/persons/2011RODR04) |
-| 2.40 | [Xiaojian Li (李晓健)](https://www.worldcubeassociation.org/persons/2009LIXI02) |
+| 2.40 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) |
 
 ### Rubik's Cube: Multiple blind old style
 

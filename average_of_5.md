@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 
 ### Rubik's Cube
@@ -10,11 +10,11 @@
 | ---: | :--- | :--- |
 | 3.68 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3.67, 3.57, 3.81, 7.28, 3.32 |
 | 3.71 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 3.79, 4.33, 3.61, 3.74, 2.80 |
+| 4.32 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4.86, 3.84, 3.94, 4.43, 4.58 |
 | 4.32 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 4.07, 5.37, 3.83, 4.38, 4.51 |
 | 4.38 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.47, 4.86, 5.37, 3.39, 3.80 |
 | 4.39 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 3.97, 4.88, 4.31, 5.04, 3.66 |
 | 4.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3.98, 5.11, 4.77, 3.82, 4.49 |
-| 4.41 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5.36, 4.86, 3.84, 3.94, 4.43 |
 | 4.48 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 5.00, 4.35, 4.70, 4.21, 4.39 |
 | 4.55 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.17, 5.96, 4.33, 4.49, 4.83 |
 | 4.67 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.65, 5.59, 4.68, 4.68, 4.56 |

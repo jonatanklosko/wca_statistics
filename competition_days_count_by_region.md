@@ -1,13 +1,13 @@
 ## Competition days count by region
 
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 17646 |
+| 1.46 | World | 17659 |
 
 ### Continents
 
@@ -15,10 +15,10 @@
 | ---: | :--- | ---: |
 | 1.71 | Europe | 5736 |
 | 1.48 | Oceania | 766 |
-| 1.46 | South America | 2253 |
-| 1.40 | Asia | 3571 |
-| 1.32 | Africa | 236 |
-| 1.21 | North America | 5084 |
+| 1.46 | South America | 2254 |
+| 1.40 | Asia | 3577 |
+| 1.32 | Africa | 237 |
+| 1.21 | North America | 5089 |
 
 ### Countries
 
@@ -50,9 +50,9 @@
 | 1.79 | Mexico | 270 |
 | 1.77 | Austria | 39 |
 | 1.76 | Switzerland | 182 |
-| 1.75 | Guatemala | 64 |
 | 1.75 | Luxembourg | 4 |
 | 1.75 | Sri Lanka | 16 |
+| 1.74 | Guatemala | 65 |
 | 1.74 | Ireland | 102 |
 | 1.73 | Ukraine | 154 |
 | 1.71 | Poland | 636 |
@@ -73,7 +73,7 @@
 | 1.57 | Nepal | 23 |
 | 1.55 | Denmark | 247 |
 | 1.54 | Latvia | 48 |
-| 1.53 | India | 764 |
+| 1.53 | India | 766 |
 | 1.52 | Greece | 52 |
 | 1.52 | South Africa | 116 |
 | 1.51 | Malaysia | 132 |
@@ -87,8 +87,8 @@
 | 1.40 | Israel | 80 |
 | 1.39 | Costa Rica | 33 |
 | 1.39 | Estonia | 72 |
-| 1.38 | Chinese Taipei | 165 |
 | 1.38 | Andorra | 8 |
+| 1.38 | Chinese Taipei | 168 |
 | 1.38 | Nigeria | 8 |
 | 1.38 | Paraguay | 40 |
 | 1.37 | Bangladesh | 27 |
@@ -104,7 +104,7 @@
 | 1.29 | Uruguay | 62 |
 | 1.28 | Philippines | 412 |
 | 1.28 | Hong Kong, China | 29 |
-| 1.27 | Colombia | 539 |
+| 1.26 | Colombia | 540 |
 | 1.26 | Portugal | 68 |
 | 1.25 | Chile | 170 |
 | 1.25 | El Salvador | 40 |
@@ -113,12 +113,12 @@
 | 1.23 | Morocco | 13 |
 | 1.23 | Panama | 31 |
 | 1.22 | United Arab Emirates | 23 |
-| 1.21 | Singapore | 113 |
+| 1.21 | Singapore | 114 |
 | 1.17 | Japan | 275 |
-| 1.17 | Canada | 509 |
 | 1.17 | Armenia | 12 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 4075 |
+| 1.17 | Canada | 511 |
+| 1.16 | United States | 4077 |
 | 1.14 | Azerbaijan | 51 |
 | 1.13 | Mongolia | 61 |
 | 1.12 | Honduras | 24 |
@@ -135,7 +135,7 @@
 | 1.00 | Cuba | 1 |
 | 1.00 | Côte d'Ivoire | 1 |
 | 1.00 | Fiji | 1 |
-| 1.00 | Kenya | 28 |
+| 1.00 | Kenya | 29 |
 | 1.00 | Kosovo | 3 |
 | 1.00 | Macau, China | 1 |
 | 1.00 | Malta | 3 |

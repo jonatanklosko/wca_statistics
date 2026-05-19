@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -131,6 +131,7 @@
 | 2 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
 | 2 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
+| 2 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 2 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
 | 2 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 2 | [Chang Jee-Hoon](https://www.worldcubeassociation.org/persons/2007JEEH01) |
@@ -198,7 +199,6 @@
 | 1 | [Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01) |
 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) |
 | 1 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) |
-| 1 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 1 | [Caleb Trelford](https://www.worldcubeassociation.org/persons/2015TREL02) |
 | 1 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) |
 | 1 | [Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01) |

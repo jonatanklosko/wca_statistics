@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -253,9 +253,11 @@
 | 1065 | [Jakob Kogler](https://www.worldcubeassociation.org/persons/2011KOGL01) |
 | 1071 | [Patrick Kern](https://www.worldcubeassociation.org/persons/2011KERN02) |
 | 1078 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
+| 1078 | [Jacob Tucker](https://www.worldcubeassociation.org/persons/2023TUCK04) |
 | 1084 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 1085 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 1085 | [Pranav Veera](https://www.worldcubeassociation.org/persons/2015VEER01) |
+| 1091 | [Jack Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI08) |
 | 1092 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 1092 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 1092 | [Kai Yamamoto (山本快)](https://www.worldcubeassociation.org/persons/2021YAMA01) |
@@ -385,6 +387,7 @@
 | 1561 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) |
 | 1568 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 1568 | [Chenhao Sun (孙晨皓)](https://www.worldcubeassociation.org/persons/2018SUNC02) |
+| 1568 | [Blue James](https://www.worldcubeassociation.org/persons/2022JAME01) |
 | 1574 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) |
 | 1576 | [Sebastián Morón Mariscal](https://www.worldcubeassociation.org/persons/2019MARI16) |
 | 1581 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) |
@@ -618,6 +621,7 @@
 | 2703 | [Li Chengyu](https://www.worldcubeassociation.org/persons/2017CHEN16) |
 | 2723 | [Jochen Bauer](https://www.worldcubeassociation.org/persons/2018BAUE04) |
 | 2730 | [Thomas Bevan](https://www.worldcubeassociation.org/persons/2017BEVA01) |
+| 2730 | [Yifan Cheng (程依凡)](https://www.worldcubeassociation.org/persons/2018CHEY36) |
 | 2743 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
 | 2744 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) |
 | 2745 | [Luke Meszar](https://www.worldcubeassociation.org/persons/2016MESZ01) |
@@ -729,6 +733,7 @@
 | 3619 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 3639 | [Alexander Wheeler](https://www.worldcubeassociation.org/persons/2014WHEE01) |
 | 3659 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
+| 3668 | [Xiangjie Li (李祥杰)](https://www.worldcubeassociation.org/persons/2016LIXI04) |
 | 3682 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 3702 | [William Phommaha](https://www.worldcubeassociation.org/persons/2015PHOM01) |
 | 3710 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) |

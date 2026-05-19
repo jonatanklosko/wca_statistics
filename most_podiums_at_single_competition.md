@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1506,6 +1506,8 @@
 | 10 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [VERK IV 2025](https://www.worldcubeassociation.org/competitions/VERKIV2025/results/podiums) |
 | 13 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [VERK XIV 2026](https://www.worldcubeassociation.org/competitions/VERKXIV2026/results/podiums) |
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XIV 2026](https://www.worldcubeassociation.org/competitions/VERKXIV2026/results/podiums) |
+| 11 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [VERK XV 2026](https://www.worldcubeassociation.org/competitions/VERKXV2026/results/podiums) |
+| 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XV 2026](https://www.worldcubeassociation.org/competitions/VERKXV2026/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025/results/podiums) |
 | 11 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums) |

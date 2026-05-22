@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 May 2026*
+*Updated on 22 May 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -559,6 +559,7 @@
 | 11 | [Svekub 2005](https://www.worldcubeassociation.org/competitions/Svekub2005) |
 | 11 | [Swisscubing FMC 2018](https://www.worldcubeassociation.org/competitions/SwisscubingFMC2018) |
 | 11 | [Tartu Open 2016](https://www.worldcubeassociation.org/competitions/TartuOpen2016) |
+| 11 | [Texoma Twist-Off Tuesday 2026](https://www.worldcubeassociation.org/competitions/TexomaTwistOffTuesday2026) |
 | 11 | [Thailand FMC Championship 2025](https://www.worldcubeassociation.org/competitions/ThailandFMCChampionship2025) |
 | 11 | [TGPBQ Burley 2022](https://www.worldcubeassociation.org/competitions/ThanksgivingPBQBurley2022) |
 | 11 | [TGPBQ Lehi 2022](https://www.worldcubeassociation.org/competitions/ThanksgivingPBQLehi2022) |

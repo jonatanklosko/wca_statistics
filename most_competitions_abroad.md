@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 19 May 2026*
+*Updated on 22 May 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -12,7 +12,7 @@
 | 159 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 156 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 150 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 142 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
+| 143 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 142 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 139 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 135 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
@@ -36,8 +36,8 @@
 | 110 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 108 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 108 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
+| 108 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 107 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 107 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 106 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 105 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 103 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |

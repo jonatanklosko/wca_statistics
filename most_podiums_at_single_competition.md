@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 May 2026*
+*Updated on 22 May 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1033,6 +1033,7 @@
 | 13 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | [Ohio Open 2009](https://www.worldcubeassociation.org/competitions/OhioOpen2009/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Oklahoma Championship 2024](https://www.worldcubeassociation.org/competitions/OklahomaChampionship2024/results/podiums) |
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Oklahoma Championship 2025](https://www.worldcubeassociation.org/competitions/OklahomaChampionship2025/results/podiums) |
+| 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Oklahoma Championship 2026](https://www.worldcubeassociation.org/competitions/OklahomaChampionship2026/results/podiums) |
 | 17 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [OktoberBrest 2014](https://www.worldcubeassociation.org/competitions/OktoberBrest2014/results/podiums) |
 | 12 | [Anatoly Kim](https://www.worldcubeassociation.org/persons/2009KIMA01) | [OktoberBrest 2014](https://www.worldcubeassociation.org/competitions/OktoberBrest2014/results/podiums) |
 | 10 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [Oleksandriia Open 2013](https://www.worldcubeassociation.org/competitions/OleksandriiaOpen2013/results/podiums) |

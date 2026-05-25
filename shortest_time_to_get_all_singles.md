@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -340,6 +340,7 @@
 | 1386 | [Timo Günthardt](https://www.worldcubeassociation.org/persons/2019GUNT04) |
 | 1387 | [Andrew Tan Jing Bang](https://www.worldcubeassociation.org/persons/2019BANG01) |
 | 1391 | [Achia Engel](https://www.worldcubeassociation.org/persons/2019ENGE02) |
+| 1393 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 1399 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 1400 | [Faiz Wareh](https://www.worldcubeassociation.org/persons/2019WARE01) |
 | 1400 | [Putian Ye (叶溥天)](https://www.worldcubeassociation.org/persons/2021YEPU01) |

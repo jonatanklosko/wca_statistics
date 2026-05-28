@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### Rubik's Cube
@@ -166,7 +166,7 @@
 | 1.53 | [Jeriyah Griffin](https://www.worldcubeassociation.org/persons/2023GRIF07) | 1.39, 1.62, 1.82, 1.77, 1.44, DNF, 0.79, 1.33, 1.41, 1.85, 1.40, 1.28 |
 | 1.56 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.62, 1.69, 1.67, 1.32, 1.70, 1.73, 1.29, 1.63, 1.35, 14.94, 1.53, 1.37 |
 | 1.58 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.52, 1.39, 1.47, 2.02, 1.34, 1.45, 3.97, 1.87, 2.06, 1.34, 1.28, 1.32 |
-| 1.60 | [Shuda Huang (黄黍达)](https://www.worldcubeassociation.org/persons/2021HUAN02) | 1.68, 1.32, 4.22, 1.53, 1.79, 1.80, 1.51, 1.40, 1.29, 1.69, 1.74, 1.50 |
+| 1.58 | [Shuda Huang (黄黍达)](https://www.worldcubeassociation.org/persons/2021HUAN02) | 1.53, 1.79, 1.80, 1.51, 1.40, 1.29, 1.69, 1.74, 1.50, 1.67, 1.34, 1.60 |
 | 1.61 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.39, 1.45, 1.73, 1.82, 1.06, 1.95, 1.49, 2.20, 1.40, 1.57, 1.18, 2.12 |
 
 ### Rubik's Clock
@@ -174,7 +174,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 2.32 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | 2.14, 6.07, 2.57, 2.43, 2.10, 2.20, 2.22, 2.26, 2.36, 2.65, 2.28, 1.82 |
-| 2.50 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.20, 2.31, 2.78, 2.45, 3.48, 2.96, 2.46, 2.24, 2.29, 2.43, 2.69, 2.35 |
+| 2.38 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.21, 2.07, 2.44, 2.10, 2.14, 4.88, 2.77, 2.46, 1.91, 3.32, 1.76, 2.42 |
 | 2.56 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 2.26, 2.49, 2.02, 3.27, 1.93, 2.27, 2.43, 2.15, 4.15, DNF, 2.62, 1.70 |
 | 2.59 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 2.14, 3.27, 2.75, 2.82, 2.46, 2.48, 2.35, 2.57, 2.68, 2.85, 2.70, 2.25 |
 | 2.74 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.33, 2.32, 2.25, 2.97, 2.58, 2.83, 2.85, DNF, 2.00, 3.60, 2.99, 2.63 |

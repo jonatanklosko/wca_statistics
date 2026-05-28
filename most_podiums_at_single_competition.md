@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -500,6 +500,7 @@
 | 10 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | [Empire State Spring Special 2024](https://www.worldcubeassociation.org/competitions/EmpireStateSpringSpecial2024/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Empire State Winter 2025](https://www.worldcubeassociation.org/competitions/EmpireStateWinter2025/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Entre Ríos Cubea 2025](https://www.worldcubeassociation.org/competitions/EntreRiosCubea2025/results/podiums) |
+| 10 | [Federico da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) | [Entre Ríos Cubea 2026](https://www.worldcubeassociation.org/competitions/EntreRiosCubea2026/results/podiums) |
 | 10 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Eretum Open 2018](https://www.worldcubeassociation.org/competitions/EretumOpen2018/results/podiums) |
 | 12 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | [Erfurt Open 2014](https://www.worldcubeassociation.org/competitions/ErfurtOpen2014/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Esteban Echeverría 2025](https://www.worldcubeassociation.org/competitions/EstebanEcheverria2025/results/podiums) |
@@ -633,6 +634,7 @@
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Hawaiʻi Big Island Fall 2025](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandFall2025/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022/results/podiums) |
 | 13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/podiums) |
+| 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Heartland Championship 2026](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2026/results/podiums) |
 | 11 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Helsinki 2024](https://www.worldcubeassociation.org/competitions/Helsinki2024/results/podiums) |
 | 14 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Helsinki Open 2011](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2011/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Helsinki Open 2017](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2017/results/podiums) |

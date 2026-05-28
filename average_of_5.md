@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### Rubik's Cube
@@ -27,12 +27,12 @@
 | 0.83 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 0.85, 0.79, 0.85, 1.99, 0.70 |
 | 0.88 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 0.66, 0.82, 0.94, 0.98, 0.87 |
 | 0.89 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.15, 0.79, 0.91, 0.97, 0.71 |
+| 0.89 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | 1.11, 0.89, 1.59, 0.65, 0.67 |
 | 0.90 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 0.80, 1.05, 1.17, 0.85, 0.72 |
 | 0.93 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 0.91, 1.39, 0.90, 0.94, 0.95 |
 | 0.96 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | 0.70, 0.99, 3.28, 1.02, 0.87 |
 | 0.97 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 0.93, 1.05, 0.66, 1.43, 0.92 |
 | 0.97 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 0.97, 0.86, 1.47, 1.06, 0.87 |
-| 0.98 | [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) | 1.67, 0.98, 0.92, 1.04, 0.70 |
 
 ### 4x4x4 Cube
 
@@ -118,11 +118,11 @@
 | 20.00 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 20, 24, 21, 19, 19 |
 | 20.00 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 21, 19, 21, 20, 19 |
 | 20.33 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 23, 19, 20, 21, 20 |
+| 20.33 | [Adrien Neveu](https://www.worldcubeassociation.org/persons/2018NEVE02) | 21, 21, 20, 19, 20 |
 | 20.33 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 19, 22, 22, 19, 20 |
 | 20.33 | [Quentin Rivault](https://www.worldcubeassociation.org/persons/2017RIVA09) | 19, 19, 21, 25, 21 |
 | 20.67 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 20, 22, 23, 20, 20 |
 | 20.67 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 20, 22, 21, 19, 21 |
-| 20.67 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 23, 18, 22, 21, 19 |
 
 ### 3x3x3 One-Handed
 
@@ -175,8 +175,8 @@
 | ---: | :--- | :--- |
 | 2.11 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | 2.08, 1.87, 2.21, 2.53, 2.03 |
 | 2.14 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 2.43, 2.08, DNF, 1.92, 1.84 |
+| 2.15 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.21, 2.07, 2.44, 2.10, 2.14 |
 | 2.29 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | 3.50, 2.11, 2.34, 2.32, 2.20 |
-| 2.31 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.35, 2.40, 2.18, 3.71, 1.64 |
 | 2.41 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.33, 2.32, 2.25, 2.97, 2.58 |
 | 2.42 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.70, 2.35, 2.22, 2.26, 2.64 |
 | 2.50 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 2.82, 2.46, 2.48, 2.35, 2.57 |

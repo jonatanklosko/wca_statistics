@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -160,6 +160,7 @@
 | 10 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | [Basauri Open 2022](https://www.worldcubeassociation.org/competitions/BasauriOpen2022/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Basel Open 2020](https://www.worldcubeassociation.org/competitions/BaselOpen2020/results/podiums) |
 | 10 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | [Batam Open 2018](https://www.worldcubeassociation.org/competitions/BatamOpen2018/results/podiums) |
+| 12 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Batumi May Open 2026](https://www.worldcubeassociation.org/competitions/BatumiMayOpen2026/results/podiums) |
 | 10 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | [BASC 5 2015](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin52015/results/podiums) |
 | 10 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Begastri Open 2024](https://www.worldcubeassociation.org/competitions/BegastriOpen2024/results/podiums) |
 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Begastri Open 2025](https://www.worldcubeassociation.org/competitions/BegastriOpen2025/results/podiums) |

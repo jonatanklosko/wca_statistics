@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -15,15 +15,15 @@
 | 159 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 138 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 134 | [Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01) |
+| 132 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 131 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
-| 131 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 130 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 128 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 127 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
 | 126 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) |
 | 121 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 115 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 114 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
+| 115 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 113 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 112 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
 | 108 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
@@ -36,8 +36,8 @@
 | 100 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 100 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
 | 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
+| 97 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
-| 96 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 95 | [Devin Corr-Robinett](https://www.worldcubeassociation.org/persons/2006CORR01) |
 | 94 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 94 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
@@ -64,8 +64,8 @@
 | 84 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 83 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 82 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
+| 82 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
-| 81 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 81 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 80 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 80 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
@@ -79,27 +79,27 @@
 | 76 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
+| 75 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
-| 74 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
+| 73 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
-| 73 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 72 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 72 | [David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01) |
 | 72 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
+| 72 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
+| 71 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 71 | [Peter Still](https://www.worldcubeassociation.org/persons/2005STIL01) |
 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |
 | 70 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
 | 70 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 70 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 70 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) |
 | 70 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
+| 69 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
 | 68 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
 | 68 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 68 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
-| 68 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
 | 67 | [Fumiki Koseki (古関章記)](https://www.worldcubeassociation.org/persons/2005KOSE01) |
 | 67 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 67 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |

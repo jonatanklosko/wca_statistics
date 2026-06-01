@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -612,6 +612,7 @@
 | 12 | [French Merry Christmas 2022](https://www.worldcubeassociation.org/competitions/FMCFrance2022) |
 | 12 | [FM Chalet SG 2023](https://www.worldcubeassociation.org/competitions/FMChaletSG2023) |
 | 12 | [FMC Ménival 2025](https://www.worldcubeassociation.org/competitions/FMCMenival2025) |
+| 12 | [FMC Ukraine-Poland I 2026](https://www.worldcubeassociation.org/competitions/FMCUkrainePolandI2026) |
 | 12 | [Folia ao Cubo Sides Manaus 2026](https://www.worldcubeassociation.org/competitions/FoliaaoCuboSidesManaus2026) |
 | 12 | [GA Cubers Leap Day 2024](https://www.worldcubeassociation.org/competitions/GACubersLeapDay2024) |
 | 12 | [Gem City Airplane Mode Spec 2024](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeSpecial2024) |
@@ -1062,6 +1063,7 @@
 | 15 | [Ottawa Blindfolded 2025](https://www.worldcubeassociation.org/competitions/OttawaBlindfolded2025) |
 | 15 | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019) |
 | 15 | [Pando City Open 2018](https://www.worldcubeassociation.org/competitions/PandoCityOpen2018) |
+| 15 | [Panhandling for Cubes 2026](https://www.worldcubeassociation.org/competitions/PanhandlingforCubes2026) |
 | 15 | [PBQ Kentucky 2023](https://www.worldcubeassociation.org/competitions/PBQKentucky2023) |
 | 15 | [PBQtah 8 2025](https://www.worldcubeassociation.org/competitions/PBQtah82025) |
 | 15 | [PBQtah 9 2026](https://www.worldcubeassociation.org/competitions/PBQtah92026) |

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 
 ### Rubik's Cube
@@ -29,10 +29,10 @@
 | [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) | 1.05 | **1.35** | [Foshan Open 2026](https://www.worldcubeassociation.org/competitions/FoshanOpen2026/results/all#e222_f) | 4 |
 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 1.17 | **1.35** | [CubingUSA All-Stars 2025](https://www.worldcubeassociation.org/competitions/CubingUSAAllStars2025/results/all#e222_f) | 4 |
 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | 0.90 | **1.36** | [Cincinnati Open 2025](https://www.worldcubeassociation.org/competitions/CincinnatiOpen2025/results/all#e222_f) | 4 |
+| [Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11) | 0.82 | **1.37** | [CAC Franklin 2026](https://www.worldcubeassociation.org/competitions/CACFranklin2026/results/all#e222_f) | 4 |
 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) | 1.19 | **1.37** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e222_f) | 6 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.01 | **1.38** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e222_f) | 7 |
 | [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) | 0.85 | **1.39** | [Chengdu Welcoming Summer 2026](https://www.worldcubeassociation.org/competitions/ChengduWelcomingSummer2026/results/all#e222_f) | 4 |
-| [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 0.87 | **1.39** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 4 |
 
 ### 4x4x4 Cube
 
@@ -119,10 +119,10 @@
 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 20 | **22.00** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 5 |
 | [Enrico Tenuti](https://www.worldcubeassociation.org/persons/2017TENU01) | 21 | **22.00** | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026/results/all#e333fm_f) | 5 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 21 | **22.00** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e333fm_f) | 4 |
+| [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | 22 | **22.00** | [Fewest Moves May Singapore 2026](https://www.worldcubeassociation.org/competitions/FewestMovesMaySingapore2026/results/all#e333fm_f) | 4 |
 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 19 | **22.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 5 |
 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | 20 | **22.33** | [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025/results/all#e333fm_f) | 4 |
 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) | 20 | **22.33** | [Tokyo FMC Spring 2025](https://www.worldcubeassociation.org/competitions/TokyoFMCSpring2025/results/all#e333fm_f) | 4 |
-| [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | 21 | **22.33** | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026/results/all#e333fm_f) | 6 |
 
 ### 3x3x3 One-Handed
 

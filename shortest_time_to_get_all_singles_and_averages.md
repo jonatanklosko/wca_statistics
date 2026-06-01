@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -154,6 +154,7 @@
 | 4466 | [Shiori Yanai](https://www.worldcubeassociation.org/persons/2013SATO01) |
 | 4578 | [Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01) |
 | 4592 | [Andrei Răzvan Ionel](https://www.worldcubeassociation.org/persons/2012IONE01) |
+| 4677 | [Lanshi Zhang (张岚石)](https://www.worldcubeassociation.org/persons/2013ZHAN41) |
 | 4703 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) |
 | 4895 | [Hiroto Fujita (藤田浩斗)](https://www.worldcubeassociation.org/persons/2012FUJI01) |
 | 5172 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |

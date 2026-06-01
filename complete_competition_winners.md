@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -505,13 +505,13 @@
 | 1 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | Hong Kong, China | [Ajax 3x3x3 Evening 2023](https://www.worldcubeassociation.org/competitions/Ajax333Evening2023) |
 | 1 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | Hong Kong, China | [Ajax 3x3x3 Newcomers B 2024](https://www.worldcubeassociation.org/competitions/Ajax3x3x3NewcomersB2024) |
 | 1 | [Cailyn Sinclair](https://www.worldcubeassociation.org/persons/2016HOOV01) | United States | [JAM FMC I 2023](https://www.worldcubeassociation.org/competitions/JAMFMCI2023) |
-| 1 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | Brazil | [FECAP Open 2025](https://www.worldcubeassociation.org/competitions/FECAPOpen2025) |
 | 1 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | Brazil | [Arena Bernô 6 City FM 2024](https://www.worldcubeassociation.org/competitions/ArenaBerno6CityFM2024) |
 | 1 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | Brazil | [Desafio Hungria em SP 2024](https://www.worldcubeassociation.org/competitions/DesafioHungriaemSP2024) |
 | 1 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | Brazil | [Desafio Hungria em SP 2025](https://www.worldcubeassociation.org/competitions/DesafioHungriaemSP2025) |
+| 1 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | Brazil | [FECAP Open 2025](https://www.worldcubeassociation.org/competitions/FECAPOpen2025) |
+| 1 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [FMC Americas 2019](https://www.worldcubeassociation.org/competitions/FMCAmericas2019) |
 | 1 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [Great Lakes FMC Champs 2023](https://www.worldcubeassociation.org/competitions/GreatLakesFMCChampionship2023) |
 | 1 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [Heartland FMC Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandFMCChampionship2023) |
-| 1 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | United States | [FMC Americas 2019](https://www.worldcubeassociation.org/competitions/FMCAmericas2019) |
 | 1 | [Caleb Chen](https://www.worldcubeassociation.org/persons/2022CHEN37) | United States | [Marietta the Gathering 2026](https://www.worldcubeassociation.org/competitions/MariettatheGathering2026) |
 | 1 | [Caleb Lalik](https://www.worldcubeassociation.org/persons/2023LALI01) | United States | [Michigan Mini 14 2024](https://www.worldcubeassociation.org/competitions/MichiganMini142024) |
 | 1 | [Cameron Brown](https://www.worldcubeassociation.org/persons/2008BROW01) | United States | [Nisei Week Open 2009](https://www.worldcubeassociation.org/competitions/NiseiWeek2009) |
@@ -526,20 +526,20 @@
 | 1 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | Chinese Taipei | [Taipei FMC All Day 2022](https://www.worldcubeassociation.org/competitions/TaipeiFMCAllDay2022) |
 | 1 | [Chengbiao Liu (刘承彪)](https://www.worldcubeassociation.org/persons/2010LIUC01) | China | [Hot Spring Festival 2012](https://www.worldcubeassociation.org/competitions/HotSpringFestival2012) |
 | 1 | [Chi-Ning Chou (周紀寧)](https://www.worldcubeassociation.org/persons/2009CHOU02) | Chinese Taipei | [Taichung Pyraminx Competition 2009](https://www.worldcubeassociation.org/competitions/TaichungPyraminx2009) |
-| 1 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) | Italy | [Latina Minimal Moves 2025](https://www.worldcubeassociation.org/competitions/LatinaMinimalMoves2025) |
 | 1 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) | Italy | [Serbian FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SerbianFMCChampionship2025) |
 | 1 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) | Italy | [FMC Romania January 2025](https://www.worldcubeassociation.org/competitions/FMCRomaniaJanuary2025) |
 | 1 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) | Italy | [FMC Sicily 2025](https://www.worldcubeassociation.org/competitions/FMCSicily2025) |
+| 1 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) | Italy | [Latina Minimal Moves 2025](https://www.worldcubeassociation.org/competitions/LatinaMinimalMoves2025) |
 | 1 | [Chong Min (민총)](https://www.worldcubeassociation.org/persons/2019MINC02) | Republic of Korea | [Korea Qualifier - Daegu B 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierDaeguB2024) |
 | 1 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | United States | [Ohio State Mental Madness 2024](https://www.worldcubeassociation.org/competitions/OhioStateMentalMadness2024) |
 | 1 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | United States | [Ohio State Mental Madness 2026](https://www.worldcubeassociation.org/competitions/OhioStateMentalMadness2026) |
 | 1 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | Chile | [Olimpiadas de la Mente Stgo 2025](https://www.worldcubeassociation.org/competitions/OlimpiadasdelaMenteStgo2025) |
 | 1 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | Chile | [Patio Cubik Masters Sábado 2023](https://www.worldcubeassociation.org/competitions/PatioCubikMastersSabado2023) |
 | 1 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | Chile | [Patio Cubik Open 2023](https://www.worldcubeassociation.org/competitions/PatioCubikOpen2023) |
-| 1 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | Chile | [Back To School Santiago 2024](https://www.worldcubeassociation.org/competitions/SparkingBackToSchoolSantiago2024) |
 | 1 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | Chile | [Colegio Pablo Garrido 2025](https://www.worldcubeassociation.org/competitions/ColegioPabloGarrido2025) |
-| 1 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [First Solves at Fisketorvet 2024](https://www.worldcubeassociation.org/competitions/FirstSolvesatFisketorvet2024) |
+| 1 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | Chile | [Back To School Santiago 2024](https://www.worldcubeassociation.org/competitions/SparkingBackToSchoolSantiago2024) |
 | 1 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Grizz Cubing League I 2023](https://www.worldcubeassociation.org/competitions/GrizzCubingLeagueI2023) |
+| 1 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [First Solves at Fisketorvet 2024](https://www.worldcubeassociation.org/competitions/FirstSolvesatFisketorvet2024) |
 | 1 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | Poland | [Fast Minds in Poznań 2022](https://www.worldcubeassociation.org/competitions/FastMindsinPoznan2022) |
 | 1 | [Daniel Orlando Valdes Arzola](https://www.worldcubeassociation.org/persons/2022ARZO01) | Cuba | [First Solves at Fisketorvet 2023](https://www.worldcubeassociation.org/competitions/FirstSolvesatFisketorvet2023) |
 | 1 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | United States | [Lexington Feet Fest 2019](https://www.worldcubeassociation.org/competitions/LexingtonFeetFest2019) |
@@ -709,14 +709,15 @@
 | 1 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | United States | [FMC Anglo America 2023](https://www.worldcubeassociation.org/competitions/FMCAngloAmerica2023) |
 | 1 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | Poland | [Blindowy Wieczór w Gdańsku 2025](https://www.worldcubeassociation.org/competitions/BlindowyPiatekwGdansku2025) |
 | 1 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | Poland | [Multi-Blind i Jönköping 2026](https://www.worldcubeassociation.org/competitions/MultiBlindiJonkoping2026) |
-| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [FMC Fall San Diego 2022](https://www.worldcubeassociation.org/competitions/FMCFallSanDiego2022) |
-| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [WCC FMC Leap Day 2024](https://www.worldcubeassociation.org/competitions/WCCFMCLeapDay2024) |
-| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Western FMC Championship 2024](https://www.worldcubeassociation.org/competitions/WesternFMCChampions2024) |
-| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Western FMC Championship 2023](https://www.worldcubeassociation.org/competitions/WesternFMCChampionship2023) |
+| 1 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | Poland | [FMC Ukraine-Poland I 2026](https://www.worldcubeassociation.org/competitions/FMCUkrainePolandI2026) |
 | 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [FMC Under the Mistletoe 2022](https://www.worldcubeassociation.org/competitions/FMCUndertheMistletoe2022) |
 | 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Irvine FMC A 2022](https://www.worldcubeassociation.org/competitions/IrvineFMCA2022) |
 | 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
 | 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) |
+| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [WCC FMC Leap Day 2024](https://www.worldcubeassociation.org/competitions/WCCFMCLeapDay2024) |
+| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Western FMC Championship 2024](https://www.worldcubeassociation.org/competitions/WesternFMCChampions2024) |
+| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Western FMC Championship 2023](https://www.worldcubeassociation.org/competitions/WesternFMCChampionship2023) |
+| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [FMC Fall San Diego 2022](https://www.worldcubeassociation.org/competitions/FMCFallSanDiego2022) |
 | 1 | [Lachlan Stephens](https://www.worldcubeassociation.org/persons/2018STEP07) | Australia | [Perth Underground Open 2022](https://www.worldcubeassociation.org/competitions/PerthUndergroundOpen2022) |
 | 1 | [Lars Petrus](https://www.worldcubeassociation.org/persons/1982PETR01) | Sweden | [Kennedy Middle 2004](https://www.worldcubeassociation.org/competitions/KennedyMiddleFall2004) |
 | 1 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | Argentina | [Clases de FMC BA I 2026](https://www.worldcubeassociation.org/competitions/ClasesdeFMCBAI2026) |
@@ -951,6 +952,7 @@
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [Malaysia FMC Championship 2024](https://www.worldcubeassociation.org/competitions/MalaysiaFMCChampionship2024) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [Malaysia FMC Championship 2025](https://www.worldcubeassociation.org/competitions/MalaysiaFMCChampionship2025) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [Few Better Mean It Diliman 2024](https://www.worldcubeassociation.org/competitions/FewBetterMeanItDiliman2024) |
+| 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [Fewest Moves May Singapore 2026](https://www.worldcubeassociation.org/competitions/FewestMovesMaySingapore2026) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [Fewest Moves Singapore 2025](https://www.worldcubeassociation.org/competitions/FewestMovesSingapore2025) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) |
 | 1 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | Singapore | [FMCanton Nansha 2026](https://www.worldcubeassociation.org/competitions/FMCantonNansha2026) |
@@ -979,6 +981,7 @@
 | 1 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | China | [Rubik's UK Championship FMC 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2023) |
 | 1 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | China | [WCC Western FMC Champs 2025](https://www.worldcubeassociation.org/competitions/WCCWesternFMCChampionship2025) |
 | 1 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | China | [Kewbz UK Championship FMC 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionshipFMC2022) |
+| 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [FMC Ukraine Friendship 2023](https://www.worldcubeassociation.org/competitions/FMCUkraineFriendship2023) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [FMC Ukraine-Italy 2024](https://www.worldcubeassociation.org/competitions/FMCUkraineItaly2024) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [FMC Ukrainian Nationals 2025](https://www.worldcubeassociation.org/competitions/FMCUkrainianNationals2025) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [FMC Warm Up Ukraine 2024](https://www.worldcubeassociation.org/competitions/FMCWarmUpUkraine2024) |
@@ -987,10 +990,9 @@
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kyiv FMC Friends IV 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsIV2023) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kyiv FMC Friends October 2022](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsOctober2022) |
 | 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [Kyiv FMC Friends V 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsV2023) |
-| 1 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | Ukraine | [FMC Ukraine Friendship 2023](https://www.worldcubeassociation.org/competitions/FMCUkraineFriendship2023) |
 | 1 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | United States | [Southeast FMC Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2022) |
-| 1 | [Zecharya Moshavi](https://www.worldcubeassociation.org/persons/2018MOSH01) | Israel | [FMC Party Israel 2022](https://www.worldcubeassociation.org/competitions/FMCPartyIsrael2022) |
 | 1 | [Zecharya Moshavi](https://www.worldcubeassociation.org/persons/2018MOSH01) | Israel | [Israel FMC Championship 2024](https://www.worldcubeassociation.org/competitions/IsraelFMCChampionship2024) |
+| 1 | [Zecharya Moshavi](https://www.worldcubeassociation.org/persons/2018MOSH01) | Israel | [FMC Party Israel 2022](https://www.worldcubeassociation.org/competitions/FMCPartyIsrael2022) |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

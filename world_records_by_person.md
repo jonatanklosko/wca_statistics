@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -128,6 +128,7 @@
 | 3 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 3 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) |
 | 3 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) |
+| 3 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |
 | 2 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 2 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
 | 2 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
@@ -186,7 +187,6 @@
 | 2 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 2 | [Yuhui Xu (许宇辉)](https://www.worldcubeassociation.org/persons/2007XUYU01) |
 | 2 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |
-| 2 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |
 | 1 | [Abhishek Sathyanarayanan](https://www.worldcubeassociation.org/persons/2012SATH01) |
 | 1 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) |
 | 1 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) |

@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  2 June 2026*
+*Updated on  4 June 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -28,7 +28,7 @@
 | 1516 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 1499 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1493 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
-| 1443 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
+| 1450 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 1430 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 1407 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1396 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
@@ -41,8 +41,8 @@
 | 1277 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1277 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 1260 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 1260 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1258 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
-| 1253 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1251 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 1248 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 1245 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |

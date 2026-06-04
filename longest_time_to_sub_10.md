@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  2 June 2026*
+*Updated on  4 June 2026*
 
 | Person | Years |
 | :--- | ---: |
@@ -20,8 +20,8 @@
 | [Hirotaka Ito (伊藤大平)](https://www.worldcubeassociation.org/persons/2008ITOH01) | 14.89 |
 | [Mingsen Han (韩明森)](https://www.worldcubeassociation.org/persons/2010HANM01) | 14.85 |
 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) | 14.78 |
-| [Ric Donati](https://www.worldcubeassociation.org/persons/2011DONA02) | 14.76 |
 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | 14.76 |
+| [Ric Donati](https://www.worldcubeassociation.org/persons/2011DONA02) | 14.76 |
 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 14.65 |
 | [Taewon Hwang (황태원)](https://www.worldcubeassociation.org/persons/2012HWAN01) | 14.35 |
 | [Nattasit Phaisalrittiwong (ณัฐสิทธิ์ ไพศาลฤทธิวงศ์)](https://www.worldcubeassociation.org/persons/2009PHAI01) | 14.28 |
@@ -65,8 +65,8 @@
 | [Alexander Laiche](https://www.worldcubeassociation.org/persons/2013LAIC01) | 12.00 |
 | [Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01) | 11.96 |
 | [Yannick Richter](https://www.worldcubeassociation.org/persons/2010RICH04) | 11.96 |
-| [Nicolás Lasso Peña](https://www.worldcubeassociation.org/persons/2013PENA05) | 11.92 |
 | [Luke Hudlass-Galley](https://www.worldcubeassociation.org/persons/2010HUDL01) | 11.92 |
+| [Nicolás Lasso Peña](https://www.worldcubeassociation.org/persons/2013PENA05) | 11.92 |
 | [Phil Yu](https://www.worldcubeassociation.org/persons/2010YUPH01) | 11.90 |
 | [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 11.90 |
 | [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) | 11.88 |
@@ -87,8 +87,8 @@
 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | 11.48 |
 | [Bohdan Yaryha (Богдан Ярига)](https://www.worldcubeassociation.org/persons/2012YARY01) | 11.46 |
 | [Alexander Karlov](https://www.worldcubeassociation.org/persons/2014KARL01) | 11.44 |
-| [Xiran Chen (陈袭然)](https://www.worldcubeassociation.org/persons/2014CHEN51) | 11.44 |
 | [David Lin](https://www.worldcubeassociation.org/persons/2012LIND02) | 11.44 |
+| [Xiran Chen (陈袭然)](https://www.worldcubeassociation.org/persons/2014CHEN51) | 11.44 |
 | [Angus Hannelly](https://www.worldcubeassociation.org/persons/2013HANN01) | 11.43 |
 | [Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03) | 11.36 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11.31 |

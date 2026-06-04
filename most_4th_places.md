@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  2 June 2026*
+*Updated on  4 June 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -22,7 +22,7 @@
 | 160 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 159 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 157 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
-| 155 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
+| 156 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 154 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 153 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 150 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
@@ -93,10 +93,10 @@
 | 95 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 95 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 95 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 94 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) |
 | 94 | [Federico da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) |
 | 93 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 93 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 93 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) |
 | 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 91 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
 | 91 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) |

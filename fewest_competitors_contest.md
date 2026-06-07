@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 June 2026*
+*Updated on  7 June 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -42,6 +42,7 @@
 | 4 | [JAM FMC I 2023](https://www.worldcubeassociation.org/competitions/JAMFMCI2023) |
 | 4 | [Kansas Holiday Cube-Off PM 2023](https://www.worldcubeassociation.org/competitions/KansasHolidayCubeOffPM2023) |
 | 4 | [Lake Orion FMC Meltdown 2025](https://www.worldcubeassociation.org/competitions/LakeOrionFMCMeltdown2025) |
+| 4 | [Lofoten Open 2026](https://www.worldcubeassociation.org/competitions/LofotenOpen2026) |
 | 4 | [Mental Breakdown II Rzeszów 2024](https://www.worldcubeassociation.org/competitions/MentalBreakdownIIRzeszow2024) |
 | 4 | [Mini Blind Odivelas 2025](https://www.worldcubeassociation.org/competitions/MiniBlindOdivelas2025) |
 | 4 | [Please Be Quiet Dhaka 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietDhaka2025) |

@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  4 June 2026*
+*Updated on  7 June 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -9,7 +9,7 @@
 | 2474 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2296 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 2212 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 2143 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 2152 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 2004 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1891 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1885 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
@@ -40,18 +40,18 @@
 | 1315 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1277 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1277 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 1267 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 1260 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 1260 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
-| 1258 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 1251 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 1248 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 1245 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 1241 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 1232 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 1225 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 1225 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
+| 1224 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 1214 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 1198 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
+| 1206 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 1193 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 1175 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1168 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
@@ -59,8 +59,8 @@
 | 1147 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 1147 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
 | 1121 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 1119 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 1119 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
+| 1119 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 1112 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 1098 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 1093 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |

@@ -1,14 +1,14 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  4 June 2026*
+*Updated on  7 June 2026*
 
 | 4th places | Person |
 | ---: | :--- |
 | 283 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 279 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 262 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 253 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 255 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 214 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 195 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 194 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -56,18 +56,18 @@
 | 116 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 115 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 114 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
-| 114 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 114 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 114 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
+| 114 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 113 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 111 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 110 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 109 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 109 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
+| 107 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 107 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 107 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 107 | [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
 | 106 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 105 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |

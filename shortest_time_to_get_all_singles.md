@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 June 2026*
+*Updated on  7 June 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -32,6 +32,7 @@
 | 322 | [Anawin Chaichana (อนาวิล ชัยชนะ)](https://www.worldcubeassociation.org/persons/2023CHAI02) |
 | 342 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) |
 | 343 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
+| 356 | [Mirei Morioka (森岡美玲)](https://www.worldcubeassociation.org/persons/2025MORI09) |
 | 357 | [Yu Zhou (周煜)](https://www.worldcubeassociation.org/persons/2017YUZH03) |
 | 357 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 363 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |

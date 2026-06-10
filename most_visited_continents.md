@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  7 June 2026*
+*Updated on 10 June 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -61,6 +61,7 @@
 | 5 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 5 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
 | 5 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) |
+| 5 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 5 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
 | 5 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) |
 | 5 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
@@ -167,7 +168,6 @@
 | 4 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 4 | [Dylan Govic](https://www.worldcubeassociation.org/persons/2015GOVI01) |
 | 4 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
-| 4 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 4 | [Oliver Jenks](https://www.worldcubeassociation.org/persons/2015JENK02) |
 | 4 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) |
 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |

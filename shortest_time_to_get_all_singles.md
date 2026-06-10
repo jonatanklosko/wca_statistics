@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 June 2026*
+*Updated on 10 June 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -97,6 +97,7 @@
 | 636 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
 | 637 | [Owl Carpenter](https://www.worldcubeassociation.org/persons/2022CARP05) |
 | 638 | [Jacob Keh Zheng Xing (郭正兴)](https://www.worldcubeassociation.org/persons/2023XING02) |
+| 644 | [Haotian Shi (史浩天)](https://www.worldcubeassociation.org/persons/2024SHIH06) |
 | 644 | [Nolan Wayman](https://www.worldcubeassociation.org/persons/2024WAYM01) |
 | 650 | [Christopher Reid](https://www.worldcubeassociation.org/persons/2022REID01) |
 | 651 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |
@@ -301,7 +302,7 @@
 | 1231 | [Max Day](https://www.worldcubeassociation.org/persons/2014DAYM01) |
 | 1232 | [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) |
 | 1232 | [Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01) |
-| 1238 | [Olivia Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
+| 1238 | [Aubrey Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
 | 1238 | [Alex Butera](https://www.worldcubeassociation.org/persons/2021BUTE03) |
 | 1239 | [Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03) |
 | 1240 | [Auric Cui](https://www.worldcubeassociation.org/persons/2022CUIA01) |
@@ -666,7 +667,7 @@
 | 3030 | [Brendan Bakker (貝庭笙)](https://www.worldcubeassociation.org/persons/2015BAKK01) |
 | 3031 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 3038 | [Azael Toysehua](https://www.worldcubeassociation.org/persons/2017TOYS01) |
-| 3038 | [Marco Yang](https://www.worldcubeassociation.org/persons/2017YANG62) |
+| 3038 | [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) |
 | 3046 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
 | 3065 | [Matej Bolta](https://www.worldcubeassociation.org/persons/2015BOLT01) |
 | 3086 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |

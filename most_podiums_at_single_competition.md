@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 June 2026*
+*Updated on 10 June 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1154,6 +1154,7 @@
 | 12 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Pulmapelipäivät 2024](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2024/results/podiums) |
 | 10 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Pulmapelipäivät 2025](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2025/results/podiums) |
 | 10 | [Leo Alanen](https://www.worldcubeassociation.org/persons/2022ALAN02) | [Pulmapelipäivät 2025](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2025/results/podiums) |
+| 14 | [Leo Alanen](https://www.worldcubeassociation.org/persons/2022ALAN02) | [Pulmapelipäivät 2026](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2026/results/podiums) |
 | 10 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [Puzzling Puzzles Vantaa 2025](https://www.worldcubeassociation.org/competitions/PuzzlingPuzzlesVantaa2025/results/podiums) |
 | 13 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Q8speedcubing in K.S.E 2023](https://www.worldcubeassociation.org/competitions/Q8speedcubinginKSE2023/results/podiums) |
 | 10 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [QQQ 2018](https://www.worldcubeassociation.org/competitions/QuabbinQualifier2018/results/podiums) |

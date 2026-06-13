@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 June 2026*
+*Updated on 13 June 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -135,6 +135,7 @@
 | 11 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Back to Bishkek 2024](https://www.worldcubeassociation.org/competitions/BacktoBishkek2024/results/podiums) |
 | 10 | [Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19) | [Back to Cubing San Carlos 2022](https://www.worldcubeassociation.org/competitions/BacktoCubingSanCarlos2022/results/podiums) |
 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/podiums) |
+| 10 | [Ian Yazid Zavala](https://www.worldcubeassociation.org/persons/2023LOPE06) | [Baja Summer 2026](https://www.worldcubeassociation.org/competitions/BajaSummer2026/results/podiums) |
 | 11 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Ballerup Open 2012](https://www.worldcubeassociation.org/competitions/BallerupOpen2012/results/podiums) |
 | 11 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Bandung Open 2016](https://www.worldcubeassociation.org/competitions/BandungOpen2016/results/podiums) |
 | 14 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Banja Luka Open 2017](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2017/results/podiums) |

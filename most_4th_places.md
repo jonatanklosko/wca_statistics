@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 June 2026*
+*Updated on 13 June 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -22,7 +22,7 @@
 | 160 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 159 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 159 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
-| 156 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
+| 157 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 154 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 153 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 152 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |

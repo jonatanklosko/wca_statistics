@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 June 2026*
+*Updated on 13 June 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -285,6 +285,7 @@
 | 1176 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
 | 1182 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) |
 | 1183 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) |
+| 1183 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
 | 1190 | [Gianluca Placenti](https://www.worldcubeassociation.org/persons/2012PLAC01) |
 | 1190 | [Katharina Schlomberg](https://www.worldcubeassociation.org/persons/2020SCHL01) |
 | 1190 | [Avi Kumar Agarwal](https://www.worldcubeassociation.org/persons/2023AGAR02) |
@@ -606,6 +607,7 @@
 | 2583 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |
 | 2598 | [Tessa Cookmeyer](https://www.worldcubeassociation.org/persons/2010COOK01) |
 | 2604 | [Nicholas Patterson](https://www.worldcubeassociation.org/persons/2016PATT02) |
+| 2611 | [Gerardo Ornelas Sifuentes](https://www.worldcubeassociation.org/persons/2019SIFU01) |
 | 2631 | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) |
 | 2631 | [Yuheng Wu (吴雨衡)](https://www.worldcubeassociation.org/persons/2018WUYU03) |
 | 2633 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
@@ -725,6 +727,7 @@
 | 3493 | [Ethan Rusnak](https://www.worldcubeassociation.org/persons/2015RUSN01) |
 | 3494 | [Alex Lehman](https://www.worldcubeassociation.org/persons/2015LEHM01) |
 | 3507 | [Isac Lindqvist](https://www.worldcubeassociation.org/persons/2016LIND07) |
+| 3520 | [Omar Ornelas Sifuentes](https://www.worldcubeassociation.org/persons/2016SIFU02) |
 | 3521 | [Chris Nankervis](https://www.worldcubeassociation.org/persons/2016NANK01) |
 | 3528 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 3535 | [Vasile Dan](https://www.worldcubeassociation.org/persons/2013VASI02) |

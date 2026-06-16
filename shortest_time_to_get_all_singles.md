@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -103,6 +103,7 @@
 | 651 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |
 | 651 | [Jinsol Hong](https://www.worldcubeassociation.org/persons/2022HONG01) |
 | 658 | [Ha Min Oh (오해민)](https://www.worldcubeassociation.org/persons/2015OHHA01) |
+| 658 | [Oscar Niizeki](https://www.worldcubeassociation.org/persons/2024NIIZ01) |
 | 665 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) |
 | 665 | [Mats Walker](https://www.worldcubeassociation.org/persons/2021WALK02) |
 | 665 | [Haotian Hu (胡皓天)](https://www.worldcubeassociation.org/persons/2022HUHA01) |

@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -209,6 +209,7 @@
 | 4 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) |
 | 4 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 4 | [Anjie Zhao (赵安洁)](https://www.worldcubeassociation.org/persons/2018ZHAO48) |
+| 4 | [Nikita Kim (Никита Ким)](https://www.worldcubeassociation.org/persons/2018KIMN03) |
 | 4 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 4 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 4 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |

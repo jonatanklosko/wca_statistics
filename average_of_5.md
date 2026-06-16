@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 
 ### Rubik's Cube
@@ -12,8 +12,8 @@
 | 3.71 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 3.79, 4.33, 3.61, 3.74, 2.80 |
 | 4.30 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 3.91, 5.10, 4.84, 3.81, 4.15 |
 | 4.32 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4.86, 3.84, 3.94, 4.43, 4.58 |
+| 4.34 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 5.40, 3.88, 4.83, 3.72, 4.30 |
 | 4.36 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.86, 5.37, 3.39, 3.80, 4.43 |
-| 4.39 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 3.97, 4.88, 4.31, 5.04, 3.66 |
 | 4.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3.98, 5.11, 4.77, 3.82, 4.49 |
 | 4.48 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 5.00, 4.35, 4.70, 4.21, 4.39 |
 | 4.55 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.17, 5.96, 4.33, 4.49, 4.83 |
@@ -76,7 +76,7 @@
 | 1:08.00 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | DNF, 1:08.80, 1:02.12, 1:10.01, 1:05.18 |
 | 1:08.77 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:11.57, 1:07.51, 1:09.36, 1:03.81, 1:09.44 |
 | 1:09.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:10.68, 1:10.11, 1:08.23, 1:17.24, 1:08.60 |
-| 1:11.46 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:07.92, 1:08.65, 1:19.92, 1:13.42, 1:12.30 |
+| 1:10.33 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:03.03, 1:12.02, 1:15.34, 1:11.58, 1:07.38 |
 | 1:12.23 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:10.44, 1:16.16, 1:10.38, 1:15.88, 1:03.43 |
 
 ### 7x7x7 Cube
@@ -89,8 +89,8 @@
 | 1:41.86 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:39.09, 1:39.63, 1:44.16, 1:48.61, 1:41.80 |
 | 1:43.26 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:40.73, 1:39.27, 1:44.66, 1:47.78, 1:44.40 |
 | 1:43.47 | [Omar Ellabban](https://www.worldcubeassociation.org/persons/2018ELLA01) | 1:46.34, 1:37.93, 1:47.11, 1:46.14, 1:37.34 |
+| 1:44.46 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:40.12, 1:42.79, 1:44.80, 2:03.52, 1:45.78 |
 | 1:44.98 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:39.95, 1:52.79, 1:41.60, 1:50.15, 1:43.19 |
-| 1:45.54 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:54.24, 1:46.88, 1:44.30, 1:45.43, 1:43.70 |
 | 1:45.56 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1:41.45, 1:56.02, 1:39.94, 1:46.38, 1:48.85 |
 | 1:46.49 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 1:51.27, 1:44.40, 1:53.96, 1:41.75, 1:43.79 |
 
@@ -100,9 +100,9 @@
 | ---: | :--- | :--- |
 | 13.63 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | 13.85, 11.67, 14.08, DNF, 12.96 |
 | 14.31 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 14.27, DNF, 13.48, 14.42, 14.24 |
+| 15.06 | [Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01) | 14.65, 15.12, 15.20, DNF, 14.85 |
 | 15.64 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | DNF, 15.23, 15.83, 14.87, 15.87 |
 | 15.90 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 15.83, 16.95, 15.72, 15.39, 16.15 |
-| 15.90 | [Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01) | 15.94, 15.72, 15.66, 16.08, 16.03 |
 | 15.98 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 14.52, 15.23, 17.90, 18.57, 14.82 |
 | 16.03 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | 15.51, 15.47, 15.12, DNF, 17.12 |
 | 16.33 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | 15.34, DNF, 15.48, 17.45, 16.07 |

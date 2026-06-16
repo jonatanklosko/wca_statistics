@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -175,6 +175,7 @@
 | 8 | [Big and Blind Rīga 2025](https://www.worldcubeassociation.org/competitions/BigandBlindRiga2025) |
 | 8 | [Big Cubata 2023](https://www.worldcubeassociation.org/competitions/BigCubata2023) |
 | 8 | [Big in Bahia 2025](https://www.worldcubeassociation.org/competitions/BiginBahia2025) |
+| 8 | [Boards & Cubes Mini A 2026](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraMiniA2026) |
 | 8 | [Boards & Cubes Venteira PM 2025](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraPM2025) |
 | 8 | [Bolivia Nationals FMC 2025](https://www.worldcubeassociation.org/competitions/BoliviaNationalsFMC2025) |
 | 8 | [Boquete Big Cubes 2026](https://www.worldcubeassociation.org/competitions/BoqueteBigCubes2026) |
@@ -595,6 +596,7 @@
 | 12 | [Big and Blind Rīga 2024](https://www.worldcubeassociation.org/competitions/BigandBlindRiga2024) |
 | 12 | [Big N Blind Bengaluru Oct 2025](https://www.worldcubeassociation.org/competitions/BigNBlindBengaluruOct2025) |
 | 12 | [Blind in Aveiro 2024](https://www.worldcubeassociation.org/competitions/BlindinAveiro2024) |
+| 12 | [Boards & Cubes Mini B 2026](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraMiniB2026) |
 | 12 | [Buckeye Blind Off 2022](https://www.worldcubeassociation.org/competitions/BuckeyeBlindOff2022) |
 | 12 | [Cagayan Valley Open 2016](https://www.worldcubeassociation.org/competitions/CagayanValleyOpen2016) |
 | 12 | [Campus Classic Cape Town 2019](https://www.worldcubeassociation.org/competitions/CampusClassicCapeTown2019) |
@@ -726,6 +728,7 @@
 | 12 | [Zomblinders Lima 2025](https://www.worldcubeassociation.org/competitions/ZomblindersLima2025) |
 | 13 | [5BLD Madness Seoul 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSeoul2024) |
 | 13 | [Aarhus Diverse 2024](https://www.worldcubeassociation.org/competitions/AarhusDiverse2024) |
+| 13 | [Agadir Open 2026](https://www.worldcubeassociation.org/competitions/AgadirOpen2026) |
 | 13 | [Airplane Mode XVI OH 2025](https://www.worldcubeassociation.org/competitions/AirplaneModeXVIOH2025) |
 | 13 | [Altavista Mind-blowing 2025](https://www.worldcubeassociation.org/competitions/AltavistaMindblowing2025) |
 | 13 | [Apenas 3 Fortaleza 2024](https://www.worldcubeassociation.org/competitions/Apenas3Fortaleza2024) |

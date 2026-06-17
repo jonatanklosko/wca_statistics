@@ -91,8 +91,8 @@
 | 61 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Cube4fun in Tylmanowa 2025](https://www.worldcubeassociation.org/competitions/Cube4funinTylmanowa2025) |
 | 58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Sioux City Sunday 2023](https://www.worldcubeassociation.org/competitions/SiouxCitySunday2023) |
 | 54 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) | [Gewürfel Göttingen 2025](https://www.worldcubeassociation.org/competitions/GeselligesGewurfelGottingen2025) |
-| 52 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022) |
 | 52 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | [Saint Mikes Winter VT 2026](https://www.worldcubeassociation.org/competitions/SaintMikesWinterVT2026) |
+| 52 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Icelandic Nationals 2022](https://www.worldcubeassociation.org/competitions/IcelandicNationals2022) |
 
 ### 3x3x3 Blindfolded
 
@@ -107,7 +107,7 @@
 | 69 | [Laura Freitas Martín](https://www.worldcubeassociation.org/persons/2018MART18) | [Velilla Open 2026](https://www.worldcubeassociation.org/competitions/VelillaOpen2026) |
 | 68 | [Thor Muto Asmund](https://www.worldcubeassociation.org/persons/2017ASMU01) | [Bornholm Open 2026](https://www.worldcubeassociation.org/competitions/BornholmOpen2026) |
 | 67 | [Luis Kleinheinz](https://www.worldcubeassociation.org/persons/2017KLEI02) | [Rahn Education Advent Open 2025](https://www.worldcubeassociation.org/competitions/RahnEducationAdventOpen2025) |
-| 66 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Hessen Open 2015](https://www.worldcubeassociation.org/competitions/HessenOpen2015) |
+| 66 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | [Avenida Chile XXIII 2025](https://www.worldcubeassociation.org/competitions/AvenidaChileXXIII2025) |
 
 ### 3x3x3 Fewest Moves
 
@@ -120,7 +120,7 @@
 | 48 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) | [The Hague Open 2017](https://www.worldcubeassociation.org/competitions/TheHagueOpen2017) |
 | 46 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | [Michigan Mini 27 2025](https://www.worldcubeassociation.org/competitions/MichiganMini272025) |
 | 45 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | [Cuberussia in Kalmykia 2017](https://www.worldcubeassociation.org/competitions/CuberussiainKalmykia2017) |
-| 42 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024) |
+| 43 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024) |
 | 41 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | [Redhawk Madness OH 2026](https://www.worldcubeassociation.org/competitions/RedhawkMadnessOH2026) |
 | 39 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | [Mallorca Open 2025](https://www.worldcubeassociation.org/competitions/MallorcaOpen2025) |
 
@@ -208,8 +208,8 @@
 | 84 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [The Amerinst Cubing CBBA 2024](https://www.worldcubeassociation.org/competitions/TheAmerinstCubingCBBA2024) |
 | 74 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | [New Rochelle Night Faves 2025](https://www.worldcubeassociation.org/competitions/NewRochelleNightFavorites2025) |
 | 65 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | [Washtenaw Mini 3 2024](https://www.worldcubeassociation.org/competitions/WashtenawMini32024) |
-| 57 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Íslandsmótið 2024](https://www.worldcubeassociation.org/competitions/Islandsmotid2024) |
 | 57 | [Roy Lee](https://www.worldcubeassociation.org/persons/2011LEER01) | [Cowbell Cubing 2022](https://www.worldcubeassociation.org/competitions/CowbellCubing2022) |
+| 57 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Íslandsmótið 2024](https://www.worldcubeassociation.org/competitions/Islandsmotid2024) |
 | 54 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | [A Friday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/AFridayinAshfield2024) |
 | 54 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | [Lejre Side Events 2025](https://www.worldcubeassociation.org/competitions/LejreSideEvents2025) |
 | 51 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | [Couffoul'Events 2024](https://www.worldcubeassociation.org/competitions/CouffoulEvents2024) |
@@ -222,8 +222,8 @@
 | 44 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023) |
 | 43 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | [Please Be Quiet Anchorage 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietAnchorage2024) |
 | 41 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Heartland Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2023) |
-| 39 | [Adrien Neveu](https://www.worldcubeassociation.org/persons/2018NEVE02) | [Camargue Open 2026](https://www.worldcubeassociation.org/competitions/CamargueOpen2026) |
 | 39 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | [TahimiKubing in MultiLupa 2024](https://www.worldcubeassociation.org/competitions/TahimiKubinginMultiLupa2024) |
+| 39 | [Adrien Neveu](https://www.worldcubeassociation.org/persons/2018NEVE02) | [Camargue Open 2026](https://www.worldcubeassociation.org/competitions/CamargueOpen2026) |
 | 35 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) | [FMC Ya Dublin OH 2025](https://www.worldcubeassociation.org/competitions/FMCYaDublinOH2025) |
 | 32 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) | [Jönköpingsligan 3 Stormvind 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan3Stormvind2023) |
 | 28 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [All Rounders in Stobierna 2023](https://www.worldcubeassociation.org/competitions/AllRoundersinStobierna2023) |
@@ -255,8 +255,8 @@
 | 37 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) | [Meiringen Masterminds 2025](https://www.worldcubeassociation.org/competitions/MeiringenMasterminds2025) |
 | 35 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) | [Cubing in the Rain 2026](https://www.worldcubeassociation.org/competitions/CubingintheRain2026) |
 | 33 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | [Roma ar Cubbo 2024](https://www.worldcubeassociation.org/competitions/RomaarCubbo2024) |
-| 31 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023) |
 | 31 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Dvärsätt Open 2026](https://www.worldcubeassociation.org/competitions/DvarsattOpen2026) |
+| 31 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023) |
 | 28 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) | [Vilnius Open 2021](https://www.worldcubeassociation.org/competitions/VilniusOpen2021) |
 
 ### 3x3x3 With Feet
@@ -270,8 +270,8 @@
 | 18 | [Gilson Sousa da Silva](https://www.worldcubeassociation.org/persons/2011SILV05) | [Domus Sapiens 2015](https://www.worldcubeassociation.org/competitions/DomusSapiens2015) |
 | 17 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | [Wolfpack Winter 2019](https://www.worldcubeassociation.org/competitions/WolfpackWinter2019) |
 | 16 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [New Zealand Nationals 2019](https://www.worldcubeassociation.org/competitions/NewZealandNationals2019) |
-| 15 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Mega Minnesota Winter 2016](https://www.worldcubeassociation.org/competitions/MegaMinnesotaWinter2016) |
 | 15 | [Riadi Arsandi](https://www.worldcubeassociation.org/persons/2009ARSA01) | [Singapore Special 2013](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2013) |
+| 15 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Mega Minnesota Winter 2016](https://www.worldcubeassociation.org/competitions/MegaMinnesotaWinter2016) |
 | 14 | [Kyra Joiner](https://www.worldcubeassociation.org/persons/2015JOIN01) | [Hendersonville Winter 2018](https://www.worldcubeassociation.org/competitions/HendersonvilleWinter2018) |
 
 ### Rubik's Magic
@@ -297,12 +297,12 @@
 | 47 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) | [Waikato Summer 2011](https://www.worldcubeassociation.org/competitions/WaikatoSummerOpen2011) |
 | 23 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) | [Moves are for n00bs 2012](https://www.worldcubeassociation.org/competitions/MovesN00bs2012) |
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | [Benelux Open 2009](https://www.worldcubeassociation.org/competitions/BeneluxOpen2009) |
-| 17 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) | [Twente Open 2012](https://www.worldcubeassociation.org/competitions/TwenteOpen2012) |
 | 17 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | [Barcelona Winter Open 2012](https://www.worldcubeassociation.org/competitions/BarcelonaWinterOpen2012) |
+| 17 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) | [Twente Open 2012](https://www.worldcubeassociation.org/competitions/TwenteOpen2012) |
 | 14 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012) |
 | 12 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [Rzeszow Open 2010](https://www.worldcubeassociation.org/competitions/RzeszowOpen2010) |
-| 10 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) | [Austrian Open 2012](https://www.worldcubeassociation.org/competitions/AustrianOpen2012) |
 | 10 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) | [Válgame Open 2011](https://www.worldcubeassociation.org/competitions/ValgameOpen2011) |
+| 10 | [Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01) | [Austrian Open 2012](https://www.worldcubeassociation.org/competitions/AustrianOpen2012) |
 
 ### Rubik's Cube: Multiple blind old style
 
@@ -312,12 +312,12 @@
 | 2 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | [Belgian Open 2007](https://www.worldcubeassociation.org/competitions/BelgianOpen2007) |
 | 2 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) | [Shaastra Open 2008](https://www.worldcubeassociation.org/competitions/ShaastraOpen2008) |
 | 2 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007) |
-| 2 | [Ángel de Jaén Gotarredona](https://www.worldcubeassociation.org/persons/2007GOTA01) | [Spanish Championship 2008](https://www.worldcubeassociation.org/competitions/Spain2008) |
 | 2 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | [French Open 2008](https://www.worldcubeassociation.org/competitions/FrenchOpen2008) |
+| 2 | [Ángel de Jaén Gotarredona](https://www.worldcubeassociation.org/persons/2007GOTA01) | [Spanish Championship 2008](https://www.worldcubeassociation.org/competitions/Spain2008) |
 | 1 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | [Galanta Open 2009](https://www.worldcubeassociation.org/competitions/GalantaOpen2009) |
-| 1 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | [German Open 2008](https://www.worldcubeassociation.org/competitions/GermanOpen2008) |
-| 1 | [Constantin Ceausu](https://www.worldcubeassociation.org/persons/2006CEAU01) | [Dutch Open 2006](https://www.worldcubeassociation.org/competitions/DutchOpen2006) |
 | 1 | [Antoine Simon-Chautemps](https://www.worldcubeassociation.org/persons/2005SIMO01) | [Lyon Open 2007](https://www.worldcubeassociation.org/competitions/LyonOpen2007) |
+| 1 | [Constantin Ceausu](https://www.worldcubeassociation.org/persons/2006CEAU01) | [Dutch Open 2006](https://www.worldcubeassociation.org/competitions/DutchOpen2006) |
+| 1 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | [German Open 2008](https://www.worldcubeassociation.org/competitions/GermanOpen2008) |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

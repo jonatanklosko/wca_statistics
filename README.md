@@ -40,6 +40,7 @@
 - [Most podiums at a single competition](most_podiums_at_single_competition)
 - [Most podiums together](most_podiums_together)
 - [Most records at a single competition](most_records_at_single_competition)
+- [Most records delegated](most_records_delegated)
 - [Most solves before getting a successful BLD attempt](most_solves_before_bld_success)
 - [Most visited continents](most_visited_continents)
 - [Most visited countries](most_visited_countries)

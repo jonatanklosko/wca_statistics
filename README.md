@@ -36,6 +36,7 @@
 - [Most delegated competitions](most_delegated_competitions)
 - [Most distinct dates competed on](most_distinct_dates_competed_on)
 - [Most finals](most_finals)
+- [Most frequent delegate pairs](most_frequent_delegate_pairs)
 - [Most frequent results](most_frequent_results)
 - [Most podiums at a single competition](most_podiums_at_single_competition)
 - [Most podiums together](most_podiums_together)

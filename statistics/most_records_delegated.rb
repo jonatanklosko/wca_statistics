@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class MostRecordsDelegated < Statistic
   def initialize
-    @title = "Most Records Delegated"
+    @title = "Most records delegated"
     @note = "Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate."
     @table_header = {
       "Records" => :right,

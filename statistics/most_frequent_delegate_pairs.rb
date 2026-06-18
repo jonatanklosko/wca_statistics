@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class MostFrequentDelegatePairs < Statistic
   def initialize
-    @title = "Most Frequent Delegate Pairs"
+    @title = "Most frequent delegate pairs"
     @note = "Shows the most frequent cases of co-delegation between 2 Delegates"
     @table_header = {
       "Names" => :left,

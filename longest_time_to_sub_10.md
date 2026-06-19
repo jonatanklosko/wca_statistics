@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 16 June 2026*
+*Updated on 19 June 2026*
 
 | Person | Years |
 | :--- | ---: |
@@ -20,8 +20,8 @@
 | [Hirotaka Ito (伊藤大平)](https://www.worldcubeassociation.org/persons/2008ITOH01) | 14.89 |
 | [Mingsen Han (韩明森)](https://www.worldcubeassociation.org/persons/2010HANM01) | 14.85 |
 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) | 14.78 |
-| [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | 14.76 |
 | [Ric Donati](https://www.worldcubeassociation.org/persons/2011DONA02) | 14.76 |
+| [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | 14.76 |
 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 14.65 |
 | [Taewon Hwang (황태원)](https://www.worldcubeassociation.org/persons/2012HWAN01) | 14.35 |
 | [Nattasit Phaisalrittiwong (ณัฐสิทธิ์ ไพศาลฤทธิวงศ์)](https://www.worldcubeassociation.org/persons/2009PHAI01) | 14.28 |
@@ -55,8 +55,8 @@
 | [Phopphon Suwattee (ภพพนธ์ สุวัตถี)](https://www.worldcubeassociation.org/persons/2010SUWA03) | 12.38 |
 | [Tariq Ali](https://www.worldcubeassociation.org/persons/2012ALIT01) | 12.34 |
 | [Mohammed Arif](https://www.worldcubeassociation.org/persons/2011ARIF04) | 12.32 |
-| [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 12.28 |
 | [Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03) | 12.28 |
+| [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 12.28 |
 | [Harith Luqman bin Bahrin](https://www.worldcubeassociation.org/persons/2010BAHR02) | 12.24 |
 | [Edoardo Annesi](https://www.worldcubeassociation.org/persons/2011ANNE01) | 12.17 |
 | [Enzo Gonçalves Motta](https://www.worldcubeassociation.org/persons/2013MOTT01) | 12.10 |
@@ -80,19 +80,19 @@
 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) | 11.58 |
 | [Anshuman Singh](https://www.worldcubeassociation.org/persons/2014SING04) | 11.56 |
 | [Ryosuke Higo (肥後亮佑)](https://www.worldcubeassociation.org/persons/2006HIGO01) | 11.54 |
-| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
+| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Kobe Balin](https://www.worldcubeassociation.org/persons/2012BALI01) | 11.50 |
 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) | 11.48 |
 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | 11.48 |
 | [Bohdan Yaryha (Богдан Ярига)](https://www.worldcubeassociation.org/persons/2012YARY01) | 11.46 |
 | [Alexander Karlov](https://www.worldcubeassociation.org/persons/2014KARL01) | 11.44 |
-| [David Lin](https://www.worldcubeassociation.org/persons/2012LIND02) | 11.44 |
 | [Xiran Chen (陈袭然)](https://www.worldcubeassociation.org/persons/2014CHEN51) | 11.44 |
+| [David Lin](https://www.worldcubeassociation.org/persons/2012LIND02) | 11.44 |
 | [Angus Hannelly](https://www.worldcubeassociation.org/persons/2013HANN01) | 11.43 |
 | [Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03) | 11.36 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11.31 |
 | [Jakob Fiechter](https://www.worldcubeassociation.org/persons/2014FIEC01) | 11.31 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11.31 |
 | [Annika Stein](https://www.worldcubeassociation.org/persons/2014STEI03) | 11.27 |
 | [Lilyn Ma](https://www.worldcubeassociation.org/persons/2014MALI04) | 11.23 |
 | [Francisco Thales Rocha Sousa](https://www.worldcubeassociation.org/persons/2013SOUS03) | 11.21 |

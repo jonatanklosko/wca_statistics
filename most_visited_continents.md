@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 16 June 2026*
+*Updated on 19 June 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -175,10 +175,12 @@
 | 4 | [Ryan Peh (白凯明)](https://www.worldcubeassociation.org/persons/2015PEHR01) |
 | 4 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
 | 4 | [Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01) |
+| 4 | [Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11) |
 | 4 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
 | 4 | [Jason Vindvamara](https://www.worldcubeassociation.org/persons/2015VIND01) |
 | 4 | [Tim Xie](https://www.worldcubeassociation.org/persons/2015XIET01) |
 | 4 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
+| 4 | [Luis Eduardo Martínez Castellanos](https://www.worldcubeassociation.org/persons/2016CAST01) |
 | 4 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 4 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) |
 | 4 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |

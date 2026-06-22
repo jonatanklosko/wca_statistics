@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 
 ### Rubik's Cube
@@ -17,7 +17,7 @@
 | 4.85 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 4.29, 8.43, 5.78, 5.18, 4.71, 4.60, 5.54, 5.00, 4.35, 4.70, 4.21, 4.39 |
 | 4.90 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.48, 5.10, 4.50, 5.13, 5.16, 4.56, 4.78, 5.71, 7.46, 5.07, 4.50, 3.35 |
 | 4.93 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.89, 4.88, 5.18, 5.76, 6.23, 5.62, 4.47, 4.86, 5.37, 3.39, 3.80, 4.43 |
-| 5.01 | [Yi Shen (沈懿)](https://www.worldcubeassociation.org/persons/2026SHEN01) | 4.09, 4.96, 5.03, 4.89, 6.19, 5.13, 5.33, 5.36, 5.18, 4.87, 4.74, 4.58 |
+| 4.97 | [Yi Shen (沈懿)](https://www.worldcubeassociation.org/persons/2026SHEN01) | 4.40, 4.86, 6.51, 4.79, 4.08, 6.15, 4.63, 5.38, 5.07, 5.32, 4.13, 4.92 |
 
 ### 2x2x2 Cube
 
@@ -121,8 +121,8 @@
 | 21.20 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 20, 22, 20, 21, 20, 24, 21, 23, 20, 24, 21, 19 |
 | 21.20 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 21, 20, 22, 21, 22, 26, 22, 20, 22, 21, 19, 21 |
 | 21.20 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 20, 22, 21, 21, 20, 20, 22, 22, 22, DNF, 20, 22 |
+| 21.40 | [Joseph Guzman](https://www.worldcubeassociation.org/persons/2015GUZM03) | 22, 22, 20, 23, 21, 24, 19, 22, 22, 21, 22, 19 |
 | 21.60 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 21, 21, 19, 25, 23, 20, 23, 23, 20, 22, 21, 22 |
-| 21.60 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 21, 23, 23, 21, 23, 20, 19, 22, 21, 21, 23, 21 |
 
 ### 3x3x3 One-Handed
 

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -16,8 +16,8 @@
 | 190 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 189 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 183 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 179 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 179 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 178 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 169 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 161 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 160 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
@@ -56,8 +56,8 @@
 | 117 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 116 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 115 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
-| 114 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 114 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
+| 114 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 114 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 114 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 112 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
@@ -74,11 +74,11 @@
 | 105 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 103 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 103 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 103 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 | 103 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 103 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
+| 103 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 102 | [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) |
 | 101 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 101 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
@@ -103,7 +103,7 @@
 | 91 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
 | 91 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) |
 | 91 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
-| 90 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
+| 90 | [Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11) |
 | 90 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) |
 
 

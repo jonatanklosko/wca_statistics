@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -12,7 +12,7 @@
 | 1122 | 8 | 36 | 1078 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1049 | 23 | 101 | 925 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 1047 | 97 | 245 | 705 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
-| 1020 | 49 | 142 | 829 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
+| 1023 | 49 | 142 | 832 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 991 | 24 | 147 | 820 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 957 | 22 | 140 | 795 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 892 | 13 | 78 | 801 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
@@ -55,9 +55,9 @@
 | 497 | 3 | 11 | 483 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
 | 491 | 3 | 33 | 455 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 480 | 8 | 227 | 245 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) |
+| 475 | 19 | 70 | 386 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 475 | 11 | 35 | 429 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 474 | 1 | 1 | 472 | [Roman Ostapenko (Роман Остапенко)](https://www.worldcubeassociation.org/persons/2009OSTA01) |
-| 474 | 19 | 70 | 385 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 469 | 15 | 95 | 359 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 468 | 2 | 20 | 446 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 466 | 2 | 39 | 425 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |

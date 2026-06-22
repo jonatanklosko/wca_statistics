@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -20,9 +20,9 @@
 | 16 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 15 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
 | 15 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) |
+| 15 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 14 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
 | 14 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
-| 14 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 13 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) |
 | 13 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 12 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |

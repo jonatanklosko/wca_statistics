@@ -1,13 +1,13 @@
 ## World records count by country
 
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 | WRs | Country |
 | ---: | :--- |
 | 387 | United States |
 | 136 | Australia |
 | 130 | Poland |
-| 126 | China |
+| 127 | China |
 | 73 | Japan |
 | 61 | Netherlands |
 | 59 | Hungary |

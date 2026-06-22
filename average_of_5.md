@@ -1,14 +1,14 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 
 ### Rubik's Cube
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 3.68 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3.67, 3.57, 3.81, 7.28, 3.32 |
+| 3.51 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 3.68, 4.61, 3.39, 3.41, 3.45 |
 | 3.71 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 3.79, 4.33, 3.61, 3.74, 2.80 |
 | 4.30 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 3.91, 5.10, 4.84, 3.81, 4.15 |
 | 4.32 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4.86, 3.84, 3.94, 4.43, 4.58 |
@@ -121,8 +121,8 @@
 | 20.33 | [Adrien Neveu](https://www.worldcubeassociation.org/persons/2018NEVE02) | 21, 21, 20, 19, 20 |
 | 20.33 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 19, 22, 22, 19, 20 |
 | 20.33 | [Quentin Rivault](https://www.worldcubeassociation.org/persons/2017RIVA09) | 19, 19, 21, 25, 21 |
+| 20.67 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 17, DNF, 18, 22, 22 |
 | 20.67 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 20, 22, 23, 20, 20 |
-| 20.67 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 20, 22, 21, 19, 21 |
 
 ### 3x3x3 One-Handed
 

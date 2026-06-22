@@ -1,25 +1,25 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
+| United States | **1581** | 1247 | 1070 | 3898 |
 | Hungary | **1579** | 1353 | 1154 | 4086 |
-| United States | **1578** | 1245 | 1070 | 3893 |
 | Germany | **1439** | 1353 | 1333 | 4125 |
 | Russia | **1410** | 771 | 563 | 2744 |
-| China | **1168** | 1104 | 972 | 3244 |
+| China | **1168** | 1105 | 972 | 3245 |
 | France | **1164** | 1022 | 886 | 3072 |
 | Netherlands | **1075** | 867 | 759 | 2701 |
 | Poland | **909** | 603 | 478 | 1990 |
-| Canada | **538** | 548 | 589 | 1675 |
-| Hong Kong, China | **537** | 516 | 432 | 1485 |
+| Canada | **541** | 552 | 593 | 1686 |
+| Hong Kong, China | **538** | 517 | 433 | 1488 |
 | Malaysia | **514** | 552 | 507 | 1573 |
 | United Kingdom | **505** | 561 | 525 | 1591 |
 | Switzerland | **504** | 535 | 431 | 1470 |
 | India | **475** | 484 | 446 | 1405 |
-| Republic of Korea | **456** | 388 | 340 | 1184 |
+| Republic of Korea | **456** | 388 | 342 | 1186 |
 | Italy | **453** | 459 | 435 | 1347 |
 | Ukraine | **412** | 421 | 435 | 1268 |
 | Denmark | **403** | 348 | 291 | 1042 |

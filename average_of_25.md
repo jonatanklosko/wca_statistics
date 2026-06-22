@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 
 ### Rubik's Cube
@@ -15,9 +15,9 @@
 | 5.00 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 3.97, 4.88, 4.31, 5.04, 3.66, 5.12, 4.41, 4.82, 5.72, 5.70, 5.73, 5.13, 5.11, 5.35, 4.84, 4.83, 4.56, 4.70, 6.93, 4.27, 5.85, 5.63, 6.21, 4.46, 4.54 |
 | 5.04 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4.88, 4.28, 4.93, 6.77, 6.31, 5.66, 5.73, 4.50, 5.36, 4.86, 3.84, 3.94, 4.43, 4.58, 6.33, 3.41, 4.85, 6.22, 4.50, 4.56, 5.84, 4.79, 5.55, 4.99, 5.04 |
 | 5.05 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.75, 4.48, 5.10, 4.50, 5.13, 5.16, 4.56, 4.78, 5.71, 7.46, 5.07, 4.50, 3.35, 5.03, 5.67, 4.60, 5.27, 4.51, 6.03, 6.09, 6.82, 4.63, 5.47, 4.90, 4.66 |
+| 5.08 | [Yi Shen (沈懿)](https://www.worldcubeassociation.org/persons/2026SHEN01) | 5.32, 4.97, 4.65, 4.73, 4.65, 5.42, 5.40, 5.45, 5.10, 6.34, 4.40, 4.86, 6.51, 4.79, 4.08, 6.15, 4.63, 5.38, 5.07, 5.32, 4.13, 4.92, 5.17, 5.44, 4.88 |
 | 5.11 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.83, 5.47, 4.87, 4.87, 5.32, 8.01, 4.38, 5.44, 4.46, 5.65, 6.08, 5.89, 4.52, 4.89, 4.88, 5.18, 5.76, 6.23, 5.62, 4.47, 4.86, 5.37, 3.39, 3.80, 4.43 |
 | 5.15 | [Yize Dong (董一泽)](https://www.worldcubeassociation.org/persons/2023DONG20) | 4.94, 4.85, 5.01, 4.91, 5.18, 6.08, 4.43, 5.13, 4.39, 7.44, 5.64, 4.30, 5.04, 6.34, 4.65, 7.64, 5.08, 5.48, 5.51, 4.79, 4.88, 5.40, 4.87, 4.75, 5.29 |
-| 5.15 | [Yi Shen (沈懿)](https://www.worldcubeassociation.org/persons/2026SHEN01) | 5.28, 5.74, 4.09, 4.96, 5.03, 4.89, 6.19, 5.13, 5.33, 5.36, 5.18, 4.87, 4.74, 4.58, 5.19, 5.20, 6.28, 4.58, 5.85, 4.85, 5.13, 4.78, 6.11, 5.14, 4.74 |
 
 ### 2x2x2 Cube
 

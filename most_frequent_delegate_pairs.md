@@ -140,6 +140,7 @@
 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) & [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | 41 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) & [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 41 |
 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) & [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) | 41 |
+| [Maralgoo Ganbold (Ганболд Маралгоо)](https://www.worldcubeassociation.org/persons/2018GANB02) & [Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01) | 41 |
 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) & [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 41 |
 | [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) & [Sherry Tao (陶心仪)](https://www.worldcubeassociation.org/persons/2022TAOS01) | 41 |
 | [Ada Cooke](https://www.worldcubeassociation.org/persons/2020COOK03) & [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 40 |
@@ -151,7 +152,6 @@
 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) & [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) | 40 |
 | [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) & [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) | 40 |
 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) & [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 40 |
-| [Maralgoo Ganbold (Ганболд Маралгоо)](https://www.worldcubeassociation.org/persons/2018GANB02) & [Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01) | 40 |
 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) & [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 40 |
 | [Alex Lehman](https://www.worldcubeassociation.org/persons/2015LEHM01) & [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | 39 |
 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) & [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) | 39 |

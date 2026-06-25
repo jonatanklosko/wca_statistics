@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 June 2026*
+*Updated on 25 June 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -193,6 +193,7 @@
 | 12 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [BiH Open 2012](https://www.worldcubeassociation.org/competitions/BIHOpen2012/results/podiums) |
 | 10 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Bilbao Open 2019](https://www.worldcubeassociation.org/competitions/BilbaoOpen2019/results/podiums) |
 | 10 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) | [Billings Speedcubing 2023](https://www.worldcubeassociation.org/competitions/BillingsSpeedcubing2023/results/podiums) |
+| 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Billund Open 2026](https://www.worldcubeassociation.org/competitions/BillundOpen2026/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Binghamton Summer 2025](https://www.worldcubeassociation.org/competitions/BinghamtonSummer2025/results/podiums) |
 | 10 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Binus Speedcubing 2024](https://www.worldcubeassociation.org/competitions/BinusSpeedcubing2024/results/podiums) |
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Birmingham Open 2016](https://www.worldcubeassociation.org/competitions/BirminghamOpen2016/results/podiums) |
@@ -877,6 +878,7 @@
 | 14 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025/results/podiums) |
 | 11 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025/results/podiums) |
 | 10 | [Jaden Matsunaka](https://www.worldcubeassociation.org/persons/2023MATS01) | [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025/results/podiums) |
+| 10 | [Aidan McKenzie](https://www.worldcubeassociation.org/persons/2017MCKE02) | [Maine Open 2026](https://www.worldcubeassociation.org/competitions/MaineOpen2026/results/podiums) |
 | 10 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [Málaga Al Cubo 2024](https://www.worldcubeassociation.org/competitions/MalagaAlCubo2024/results/podiums) |
 | 10 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | [Malaysia Cube Championship 2022](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2022/results/podiums) |
 | 13 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Malaysia Cube Open 2016](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2016/results/podiums) |

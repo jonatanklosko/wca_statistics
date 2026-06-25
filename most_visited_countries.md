@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 22 June 2026*
+*Updated on 25 June 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -23,7 +23,7 @@
 | 31 | [Oscar Luigi M. Gravador](https://www.worldcubeassociation.org/persons/2016GRAV02) |
 | 31 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
 | 30 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 28 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
+| 29 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 27 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 27 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 27 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
@@ -39,12 +39,12 @@
 | 24 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 24 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
+| 24 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 24 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 24 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
-| 23 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
-| 23 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
-| 23 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 23 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
+| 23 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
+| 23 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 22 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 22 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |

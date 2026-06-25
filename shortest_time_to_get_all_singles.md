@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 June 2026*
+*Updated on 25 June 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -329,6 +329,7 @@
 | 1326 | [Amitai Ziv](https://www.worldcubeassociation.org/persons/2022ZIVA01) |
 | 1330 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
 | 1343 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
+| 1343 | [Oscar Shapiama](https://www.worldcubeassociation.org/persons/2022SHAP06) |
 | 1344 | [Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17) |
 | 1344 | [Tommy Moreno](https://www.worldcubeassociation.org/persons/2019MORE28) |
 | 1344 | [Rex Kotovich](https://www.worldcubeassociation.org/persons/2022KOTO01) |

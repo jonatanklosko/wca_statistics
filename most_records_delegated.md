@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -76,8 +76,9 @@
 | 428 | 4 | 24 | 400 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 417 | 9 | 25 | 383 | [Philippe Lucien](https://www.worldcubeassociation.org/persons/2011LUCI01) |
 | 416 | 3 | 15 | 398 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 411 | 0 | 14 | 397 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
+| 412 | 0 | 14 | 398 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 408 | 11 | 7 | 390 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
+| 399 | 3 | 4 | 392 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) |
 | 398 | 6 | 21 | 371 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) |
 | 392 | 2 | 4 | 386 | [İskender Aznavur](https://www.worldcubeassociation.org/persons/2013AZNA01) |
 | 390 | 5 | 23 | 362 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
@@ -88,7 +89,6 @@
 | 376 | 4 | 22 | 350 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
 | 375 | 4 | 15 | 356 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 | 375 | 27 | 67 | 281 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
-| 371 | 3 | 3 | 365 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) |
 | 370 | 9 | 23 | 338 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |
 | 369 | 2 | 39 | 328 | [Felipe Andres Rojas Garces](https://www.worldcubeassociation.org/persons/2009GARC02) |
 | 361 | 5 | 72 | 284 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |

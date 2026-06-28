@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1500,6 +1500,7 @@
 | 11 | [Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36) | [Uzbekistan Nationals 2023](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2023/results/podiums) |
 | 12 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2024](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2024/results/podiums) |
 | 12 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2025](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2025/results/podiums) |
+| 11 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2026](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2026/results/podiums) |
 | 10 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [Uzbekistan New Year 2023](https://www.worldcubeassociation.org/competitions/UzbekistanNewYear2023/results/podiums) |
 | 12 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Uzbekistan Open 2018](https://www.worldcubeassociation.org/competitions/UzbekistanOpen2018/results/podiums) |
 | 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Uzhhorod Open 2024](https://www.worldcubeassociation.org/competitions/UzhhorodOpen2024/results/podiums) |

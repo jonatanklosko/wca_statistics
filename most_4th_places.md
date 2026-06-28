@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -15,7 +15,7 @@
 | 190 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 190 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 189 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 183 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 184 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 179 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 179 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 169 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
@@ -32,9 +32,9 @@
 | 143 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 140 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 139 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
-| 138 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 138 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 139 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 138 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
+| 138 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 135 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) |
 | 133 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 130 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |

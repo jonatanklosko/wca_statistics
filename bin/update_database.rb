@@ -2,6 +2,7 @@
 
 require 'tmpdir'
 require 'fileutils'
+require 'stringio'
 require 'time'
 require_relative "helpers"
 require_relative "../core/database"
@@ -79,7 +80,13 @@ Dir.mktmpdir do |tmp_direcory|
         # Custom indices.
         table_sql += Database::INDICES.join("\n")
         table_filename = "#{table_name}.sql"
-        File.write(table_filename, table_sql)
+        File.open(table_filename, 'wb') do |file|
+          body_io = StringIO.new(table_sql)
+          until body_io.eof?
+            file.write(body_io.read(100 * 1024 * 1024)) # Write 100 MB chunks at a time to avoid Errno::EINVAL
+          end
+        end
+
         `#{mysql_with_credentials} #{config["database"]} < #{table_filename} #{filter_out_mysql_warning}`
       end
     end

@@ -13,20 +13,20 @@ class CompleteCompetitionWinners < Statistic
         events_count,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         country.name,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link
       FROM (
         SELECT
-          competitionId,
-          GROUP_CONCAT(DISTINCT personId) personId,
-          COUNT(DISTINCT eventId) events_count
-        FROM Results
-        WHERE roundTypeId IN ('c', 'f') AND pos = 1 AND best > 0
-        GROUP BY competitionId
-        HAVING COUNT(DISTINCT personId) = 1
+          competition_id,
+          GROUP_CONCAT(DISTINCT person_id) person_id,
+          COUNT(DISTINCT event_id) events_count
+        FROM results
+        WHERE round_type_id IN ('c', 'f') AND pos = 1 AND best > 0
+        GROUP BY competition_id
+        HAVING COUNT(DISTINCT person_id) = 1
       ) AS competitions_with_complete_winners
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      JOIN Countries country ON country.id = person.countryId
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      JOIN countries country ON country.id = person.country_id
       ORDER BY events_count DESC, person.name
     SQL
   end

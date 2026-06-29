@@ -14,20 +14,20 @@ class PotentiallySeenWorldRecords < Statistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_name
       FROM (
         SELECT
-          personId,
+          person_id,
           SUM(wrs_count) potentially_seen_wrs_count
-        FROM (SELECT DISTINCT personId, competitionId FROM Results) AS person_with_competition
+        FROM (SELECT DISTINCT person_id, competition_id FROM results) AS person_with_competition
         JOIN (
           SELECT
-            competitionId,
-            SUM((IF(regionalSingleRecord = 'WR', 1, 0) + IF(regionalAverageRecord = 'WR', 1, 0))) wrs_count
-          FROM Results
-          GROUP BY competitionId
+            competition_id,
+            SUM((IF(regional_single_record = 'WR', 1, 0) + IF(regional_average_record = 'WR', 1, 0))) wrs_count
+          FROM results
+          GROUP BY competition_id
           HAVING wrs_count > 0
-        ) AS wrs_count_by_competition ON person_with_competition.competitionId = wrs_count_by_competition.competitionId
-        GROUP BY personId
+        ) AS wrs_count_by_competition ON person_with_competition.competition_id = wrs_count_by_competition.competition_id
+        GROUP BY person_id
       ) AS potentially_seen_wrs_count_by_person
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       ORDER BY potentially_seen_wrs_count DESC
       LIMIT 100
     SQL

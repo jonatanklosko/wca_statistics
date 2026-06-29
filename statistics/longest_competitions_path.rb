@@ -14,12 +14,12 @@ class LongestCompetitionsPath < Statistic
         RADIANS(latitude / 1000000) latitude_radians,
         RADIANS(longitude / 1000000) longitude_radians
       FROM (
-        SELECT DISTINCT personId, competitionId
-        FROM Results
+        SELECT DISTINCT person_id, competition_id
+        FROM results
       ) AS people_with_competitions
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      WHERE competition.countryId -- Ignore Multiple Countries used for continental FMC competitions.
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      WHERE competition.country_id -- Ignore Multiple Countries used for continental FMC competitions.
         NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')
       ORDER BY competition.start_date, competition.end_date
     SQL

@@ -15,15 +15,15 @@ class CompetitionsPerYearByPerson < Statistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link
       FROM (
           SELECT
-            COUNT(DISTINCT competitionId) competitions,
+            COUNT(DISTINCT competition_id) competitions,
             (DATEDIFF(CURDATE(), MIN(start_date)) / 365.25) years,
-            personId wca_id
-          FROM Results result
-          JOIN Competitions competition ON competition.id = competitionId
-          GROUP BY personId
+            person_id wca_id
+          FROM results result
+          JOIN competitions competition ON competition.id = competition_id
+          GROUP BY person_id
           HAVING years >= 1
       ) AS data_by_person
-      JOIN Persons person ON person.wca_id = data_by_person.wca_id
+      JOIN persons person ON person.wca_id = data_by_person.wca_id
       ORDER BY competitions_per_year DESC
       LIMIT 100
     SQL

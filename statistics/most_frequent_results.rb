@@ -10,14 +10,11 @@ class MostFrequentResults < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        eventId event_id,
-        value1,
-        value2,
-        value3,
-        value4,
-        value5
-      FROM Results
-      WHERE eventId != '333mbo'
+        event_id,
+        ra.value
+      FROM results
+      JOIN result_attempts ra ON ra.result_id = results.id
+      WHERE event_id != '333mbo'
     SQL
   end
 
@@ -25,11 +22,6 @@ class MostFrequentResults < GroupedStatistic
     Events::ALL.map do |event_id, event_name|
       counts_with_results = query_results
         .select { |result| result["event_id"] == event_id }
-        .flat_map do |result|
-          (1..5).map do |n|
-            { "event_id" => result["event_id"], "value" => result["value#{n}"] }
-          end
-        end
         .select { |result| result["value"] > 0 }
         .group_by { |result| result["value"] }
         .map { |value, results| [value, results.length] }

@@ -10,26 +10,23 @@ class LongestTimeToSub10 < Statistic
     <<-SQL
       SELECT
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        (DATEDIFF(first_sub_10_competition.start_date, first_competition.start_date) / 365.25) years
+        DATEDIFF(t.first_sub_10_date, t.first_comp_date) / 365.25 AS years
       FROM (
-        SELECT personId
-        FROM RanksAverage
-        WHERE eventId = '333' AND best < 1000
-      ) AS sub_10_person
-      JOIN (
-        SELECT personId, MIN(start_date) start_date
-        FROM Results
-        JOIN Competitions competition ON competition.id = competitionId
-        GROUP BY personId
-      ) AS first_competition ON first_competition.personId = sub_10_person.personId
-      JOIN (
-        SELECT personId, MIN(start_date) start_date
-        FROM Results
-        JOIN Competitions competition ON competition.id = competitionId
-        WHERE eventId = '333' AND average > 0 AND average < 1000
-        GROUP BY personId
-      ) AS first_sub_10_competition ON first_sub_10_competition.personId = sub_10_person.personId
-      JOIN Persons person ON person.wca_id = sub_10_person.personId AND subId = 1
+        SELECT
+          r.person_id,
+          MIN(c.start_date) AS first_comp_date,
+          MIN(CASE
+                WHEN r.event_id = '333' AND r.average > 0 AND r.average < 1000
+                THEN c.start_date
+              END) AS first_sub_10_date
+        FROM results r
+        JOIN competitions c ON c.id = r.competition_id
+        GROUP BY r.person_id
+      ) t
+      JOIN persons person
+        ON person.wca_id = t.person_id
+       AND person.sub_id = 1
+      WHERE t.first_sub_10_date IS NOT NULL
       ORDER BY years DESC
       LIMIT 100
     SQL

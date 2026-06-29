@@ -11,23 +11,23 @@ class MostPodiumsAtSingleCompetition < Statistic
       SELECT
         podiums_count,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/podiums)') competition
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/podiums)') competition
       FROM (
         SELECT
           COUNT(*) podiums_count,
-          personId,
-          competitionId
-        FROM Results
+          person_id,
+          competition_id
+        FROM results
         WHERE 1
-          AND roundTypeId IN ('f', 'c')
+          AND round_type_id IN ('f', 'c')
           AND best > 0
           AND pos IN (1, 2, 3)
-        GROUP BY personId, competitionId
+        GROUP BY person_id, competition_id
         HAVING podiums_count >= 10
         ORDER BY podiums_count DESC
       ) AS podiums_count_by_person_by_competition
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
     SQL
   end
 end

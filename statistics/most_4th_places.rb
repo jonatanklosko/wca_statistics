@@ -14,16 +14,16 @@ class Most4thPlaces < Statistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link
       FROM (
         SELECT
-          personId wca_id,
+          person_id wca_id,
           COUNT(*) 4th_places_count
-        FROM Results
-        JOIN RoundTypes round_type ON round_type.id = roundTypeId
+        FROM results
+        JOIN round_types round_type ON round_type.id = round_type_id
         WHERE round_type.final = 1 AND pos = 4 AND best > 0
-        GROUP BY personId
+        GROUP BY person_id
         ORDER BY 4th_places_count DESC
         LIMIT 100
       ) AS 4th_places_count_by_person
-      JOIN Persons person ON person.wca_id = 4th_places_count_by_person.wca_id AND person.subId = 1
+      JOIN persons person ON person.wca_id = 4th_places_count_by_person.wca_id AND person.sub_id = 1
       ORDER BY 4th_places_count DESC
     SQL
   end

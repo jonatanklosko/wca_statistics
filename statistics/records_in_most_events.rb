@@ -10,15 +10,15 @@ class RecordsInMostEvents < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        regionalSingleRecord regional_single_record,
-        regionalAverageRecord regional_average_record,
+        regional_single_record,
+        regional_average_record,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         event.name event_name
-      FROM Results
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
-      JOIN Events event ON event.id = eventId
-      WHERE (regionalSingleRecord IS NOT NULL AND regionalSingleRecord != '')
-         OR (regionalAverageRecord IS NOT NULL AND regionalAverageRecord != '')
+      FROM results
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+      JOIN events event ON event.id = event_id
+      WHERE (regional_single_record IS NOT NULL AND regional_single_record != '')
+         OR (regional_average_record IS NOT NULL AND regional_average_record != '')
       ORDER BY event.rank
     SQL
   end

@@ -3,6 +3,22 @@
 *Updated on 28 June 2026*
 
 
+### 400 Competitions
+
+| Days | Person |
+| ---: | :--- |
+| 5368 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+
+### 350 Competitions
+
+| Days | Person |
+| ---: | :--- |
+| 2042 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 4334 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 4665 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 5181 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 5497 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+
 ### 300 Competitions
 
 | Days | Person |

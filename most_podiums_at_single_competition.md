@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -357,6 +357,7 @@
 | 12 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | [Cube4fun Bełżyce Autumn 2024](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceAutumn2024/results/podiums) |
 | 11 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2023](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2023/results/podiums) |
 | 12 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/podiums) |
+| 10 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | [Cube4fun Lublin on POLLUB 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinonPOLLUB2026/results/podiums) |
 | 10 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Cubeando Ando Caracas 2018](https://www.worldcubeassociation.org/competitions/CubeandoCaracas2018/results/podiums) |
 | 12 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Cubéate Weekend 2016](https://www.worldcubeassociation.org/competitions/CubeateWeekend2016/results/podiums) |
 | 11 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | [Cube Camp In Kaeng Krachan 2023](https://www.worldcubeassociation.org/competitions/CubeCampinKaengKrachan2023/results/podiums) |
@@ -525,6 +526,7 @@
 | 11 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | [Eyes Open Open - Ōtautahi 2025](https://www.worldcubeassociation.org/competitions/EyesOpenOpenOtautahi2025/results/podiums) |
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Falukorv Open 2023](https://www.worldcubeassociation.org/competitions/FalukorvOpen2023/results/podiums) |
 | 11 | [Jack Larsson Backsell](https://www.worldcubeassociation.org/persons/2021BACK01) | [Falukorv Open 2023](https://www.worldcubeassociation.org/competitions/FalukorvOpen2023/results/podiums) |
+| 16 | [Ivo Stoutjesdijk](https://www.worldcubeassociation.org/persons/2019STOU02) | [Farewell Strathclyde 2026](https://www.worldcubeassociation.org/competitions/FarewellStrathclyde2026/results/podiums) |
 | 10 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023/results/podiums) |
 | 10 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023/results/podiums) |
 | 10 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Fargo Fall 2017](https://www.worldcubeassociation.org/competitions/FargoFall2017/results/podiums) |
@@ -818,6 +820,7 @@
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Uppsala III - 2025](https://www.worldcubeassociation.org/competitions/KublordagUppsalaIII2025/results/podiums) |
 | 10 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) | [Kublördag Uppsala IV - 2026](https://www.worldcubeassociation.org/competitions/KublordagUppsalaIV2026/results/podiums) |
 | 11 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) | [Kublördag Uppsala V - 2026](https://www.worldcubeassociation.org/competitions/KublordagUppsalaV2026/results/podiums) |
+| 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Uppsala VI - 2026](https://www.worldcubeassociation.org/competitions/KublordagUppsalaVI2026/results/podiums) |
 | 15 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås IV - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasIV2024/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås V - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasV2024/results/podiums) |
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kublördag Västerås V - 2024](https://www.worldcubeassociation.org/competitions/KublordagVasterasV2024/results/podiums) |
@@ -983,6 +986,7 @@
 | 11 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | [National Capital Region 2016](https://www.worldcubeassociation.org/competitions/NationalCapitalRegion2016/results/podiums) |
 | 10 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | [National Capital Region 2018](https://www.worldcubeassociation.org/competitions/NationalCapitalRegion2018/results/podiums) |
 | 10 | [Shubham Kumar](https://www.worldcubeassociation.org/persons/2013KUMA15) | [NCR Open 2014](https://www.worldcubeassociation.org/competitions/NationalCubingRegion2014/results/podiums) |
+| 13 | [Rafael Hiroshi Eguchi Neves](https://www.worldcubeassociation.org/persons/2023NEVE01) | [NC ao Cubo 2026](https://www.worldcubeassociation.org/competitions/NCaoCubo2026/results/podiums) |
 | 11 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | [NCR Open 2017](https://www.worldcubeassociation.org/competitions/NCROpen2017/results/podiums) |
 | 14 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Nebraska Championship 2024](https://www.worldcubeassociation.org/competitions/NebraskaChampionship2024/results/podiums) |
 | 13 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Nebraska Championship 2026](https://www.worldcubeassociation.org/competitions/NebraskaChampionship2026/results/podiums) |

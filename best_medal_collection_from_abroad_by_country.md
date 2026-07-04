@@ -1,11 +1,11 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 July 2026*
+*Updated on  4 July 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| United States | **1582** | 1248 | 1075 | 3905 |
+| United States | **1582** | 1248 | 1077 | 3907 |
 | Hungary | **1581** | 1356 | 1157 | 4094 |
 | Germany | **1447** | 1359 | 1335 | 4141 |
 | Russia | **1419** | 772 | 564 | 2755 |
@@ -14,24 +14,24 @@
 | Netherlands | **1078** | 878 | 767 | 2723 |
 | Poland | **916** | 610 | 486 | 2012 |
 | Hong Kong, China | **545** | 519 | 433 | 1497 |
-| Canada | **541** | 553 | 593 | 1687 |
-| Malaysia | **519** | 554 | 511 | 1584 |
+| Canada | **542** | 553 | 593 | 1688 |
+| Malaysia | **519** | 555 | 511 | 1585 |
 | United Kingdom | **506** | 561 | 525 | 1592 |
 | Switzerland | **505** | 535 | 431 | 1471 |
 | India | **476** | 484 | 447 | 1407 |
 | Italy | **456** | 461 | 441 | 1358 |
 | Republic of Korea | **456** | 389 | 342 | 1187 |
-| Ukraine | **414** | 422 | 436 | 1272 |
+| Ukraine | **416** | 423 | 437 | 1276 |
 | Denmark | **407** | 352 | 292 | 1051 |
 | Sweden | **349** | 406 | 404 | 1159 |
 | Finland | **331** | 271 | 240 | 842 |
 | Australia | **318** | 189 | 140 | 647 |
-| Argentina | **307** | 209 | 186 | 702 |
+| Argentina | **307** | 210 | 186 | 703 |
 | Indonesia | **291** | 284 | 215 | 790 |
 | Singapore | **280** | 245 | 261 | 786 |
 | Chinese Taipei | **272** | 258 | 257 | 787 |
 | Romania | **269** | 200 | 165 | 634 |
-| Japan | **264** | 218 | 197 | 679 |
+| Japan | **265** | 218 | 200 | 683 |
 | Ireland | **245** | 124 | 107 | 476 |
 | Spain | **244** | 239 | 258 | 741 |
 | Austria | **228** | 264 | 296 | 788 |
@@ -40,7 +40,7 @@
 | Latvia | **188** | 269 | 272 | 729 |
 | Czech Republic | **184** | 205 | 221 | 610 |
 | Belgium | **163** | 240 | 234 | 637 |
-| Colombia | **154** | 130 | 130 | 414 |
+| Colombia | **154** | 131 | 131 | 416 |
 | Kazakhstan | **149** | 179 | 187 | 515 |
 | Greece | **140** | 171 | 136 | 447 |
 | Norway | **140** | 155 | 150 | 445 |

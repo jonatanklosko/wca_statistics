@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on  1 July 2026*
+*Updated on  4 July 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -31,7 +31,7 @@
 | 652 | 42 | 105 | 505 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 647 | 6 | 24 | 617 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 647 | 8 | 68 | 571 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
-| 642 | 8 | 58 | 576 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) |
+| 645 | 8 | 58 | 579 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) |
 | 635 | 4 | 26 | 605 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 619 | 0 | 0 | 619 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) |
 | 614 | 7 | 80 | 527 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) |
@@ -57,7 +57,7 @@
 | 495 | 15 | 96 | 384 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 491 | 3 | 33 | 455 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 480 | 8 | 227 | 245 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) |
-| 477 | 19 | 70 | 388 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 478 | 20 | 70 | 388 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 475 | 11 | 35 | 429 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 468 | 2 | 20 | 446 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 467 | 8 | 38 | 421 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |

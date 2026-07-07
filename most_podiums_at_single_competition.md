@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -35,6 +35,8 @@
 | 10 | [Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01) | [Adelaide Summer 2022](https://www.worldcubeassociation.org/competitions/AdelaideSummer2022/results/podiums) |
 | 10 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [Adelaide Summer 2025](https://www.worldcubeassociation.org/competitions/AdelaideSummer2025/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [ÅF Swedish Cube Open 2016](https://www.worldcubeassociation.org/competitions/AFSwedishCubeOpen2016/results/podiums) |
+| 12 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Åland Open 2026](https://www.worldcubeassociation.org/competitions/AlandOpen2026/results/podiums) |
+| 11 | [Emil Alpsten](https://www.worldcubeassociation.org/persons/2022ALPS01) | [Åland Open 2026](https://www.worldcubeassociation.org/competitions/AlandOpen2026/results/podiums) |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Alania Open 2010](https://www.worldcubeassociation.org/competitions/AlaniaOpen2010/results/podiums) |
 | 10 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Alania Open 2011](https://www.worldcubeassociation.org/competitions/AlaniaOpen2011/results/podiums) |
 | 10 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Albacete Open 2016](https://www.worldcubeassociation.org/competitions/AlbaceteOpen2016/results/podiums) |

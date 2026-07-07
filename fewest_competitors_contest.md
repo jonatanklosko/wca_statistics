@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -556,6 +556,7 @@
 | 11 | [Pocos Cupos Bogotá XIX 2026](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaXIX2026) |
 | 11 | [Pocos Cupos Bogotá XXI 2026](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaXXI2026) |
 | 11 | [San Gil Plaza 2024](https://www.worldcubeassociation.org/competitions/SanGilPlaza2024) |
+| 11 | [Selangor PBQ 2026](https://www.worldcubeassociation.org/competitions/SelangorPBQ2026) |
 | 11 | [Side Events Aves María 2024](https://www.worldcubeassociation.org/competitions/SideEventsAvesMaria2024) |
 | 11 | [Sides Bahia 2022](https://www.worldcubeassociation.org/competitions/SidesBahia2022) |
 | 11 | [Slovenian FMC Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianFMCNationals2023) |

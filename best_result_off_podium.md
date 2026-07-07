@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### Rubik's Cube
@@ -241,7 +241,7 @@
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **3:54.14** | DNF | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e555bf_f) | 4 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **4:03.23** | DNF | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e555bf_f) | 6 |
 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | **4:15.89** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e555bf_f) | 4 |
-| [Alvin Cheng Hiu Yeung (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) | **4:24.11** | DNF | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e555bf_f) | 7 |
+| [Alvin Hiu Yeung Cheng (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) | **4:24.11** | DNF | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e555bf_f) | 7 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **4:26.27** | DNF | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e555bf_f) | 5 |
 
 ### 3x3x3 Multi-Blind

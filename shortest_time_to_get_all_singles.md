@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -472,7 +472,7 @@
 | 1937 | [Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07) |
 | 1938 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) |
 | 1953 | [Liav Bengayev](https://www.worldcubeassociation.org/persons/2019BENG02) |
-| 1953 | [Alvin Cheng Hiu Yeung (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) |
+| 1953 | [Alvin Hiu Yeung Cheng (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) |
 | 1953 | [Remo Decio](https://www.worldcubeassociation.org/persons/2020DECI01) |
 | 1960 | [Danny Buschert](https://www.worldcubeassociation.org/persons/2017BUSC03) |
 | 1960 | [Earl Bien D. Celestino](https://www.worldcubeassociation.org/persons/2019CELE01) |

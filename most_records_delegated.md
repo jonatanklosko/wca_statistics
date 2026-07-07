@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -17,7 +17,7 @@
 | 957 | 22 | 140 | 795 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 892 | 13 | 78 | 801 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 827 | 5 | 22 | 800 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
-| 808 | 8 | 46 | 754 | [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) |
+| 809 | 8 | 46 | 755 | [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) |
 | 788 | 7 | 28 | 753 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
 | 786 | 9 | 29 | 748 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 742 | 5 | 16 | 721 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) |
@@ -31,7 +31,7 @@
 | 652 | 42 | 105 | 505 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 647 | 6 | 24 | 617 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 647 | 8 | 68 | 571 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
-| 645 | 8 | 58 | 579 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) |
+| 646 | 8 | 58 | 580 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) |
 | 635 | 4 | 26 | 605 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 619 | 0 | 0 | 619 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) |
 | 614 | 7 | 80 | 527 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) |
@@ -39,7 +39,7 @@
 | 585 | 7 | 15 | 563 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 571 | 9 | 159 | 403 | [Dave Campbell](https://www.worldcubeassociation.org/persons/2005CAMP01) |
 | 571 | 16 | 86 | 469 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) |
-| 560 | 8 | 46 | 506 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 561 | 8 | 46 | 507 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 551 | 13 | 32 | 506 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
 | 543 | 8 | 39 | 496 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) |
 | 535 | 5 | 11 | 519 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
@@ -69,9 +69,9 @@
 | 440 | 0 | 0 | 440 | [Ivo Kruusamägi](https://www.worldcubeassociation.org/persons/2018KRUU01) |
 | 438 | 35 | 67 | 336 | [Gilles Roux](https://www.worldcubeassociation.org/persons/2004ROUX01) |
 | 435 | 47 | 71 | 317 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
+| 434 | 4 | 28 | 402 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 434 | 6 | 33 | 395 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 433 | 33 | 99 | 301 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
-| 433 | 4 | 28 | 401 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 432 | 15 | 112 | 305 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
 | 432 | 0 | 120 | 312 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) |
 | 417 | 9 | 25 | 383 | [Philippe Lucien](https://www.worldcubeassociation.org/persons/2011LUCI01) |
@@ -97,7 +97,7 @@
 | 357 | 0 | 2 | 355 | [Areli Rubí Gordillo Martínez](https://www.worldcubeassociation.org/persons/2014MART08) |
 | 355 | 14 | 67 | 274 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) |
 | 353 | 6 | 18 | 329 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
-| 348 | 6 | 50 | 292 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 349 | 6 | 50 | 293 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 347 | 0 | 1 | 346 | [Lester Santos](https://www.worldcubeassociation.org/persons/2007SANT01) |
 | 338 | 2 | 10 | 326 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 331 | 3 | 4 | 324 | [Vidar Norstein Klungre](https://www.worldcubeassociation.org/persons/2008KLUN01) |

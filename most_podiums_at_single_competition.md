@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1530,6 +1530,7 @@
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025/results/podiums) |
 | 11 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums) |
+| 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Victoria Gardens Lviv 2026](https://www.worldcubeassociation.org/competitions/ViktoriaGardensLviv2026/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Villa Carlos Paz Otoño 2019](https://www.worldcubeassociation.org/competitions/VillaCarlosPazOtono2019/results/podiums) |
 | 10 | [Matías Ponte](https://www.worldcubeassociation.org/persons/2018PONT03) | [Villa María al Cubo 2025](https://www.worldcubeassociation.org/competitions/VillaMariaalCubo2025/results/podiums) |
 | 12 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Villanueva Open 2017](https://www.worldcubeassociation.org/competitions/VillanuevadelaCanadaOpen2017/results/podiums) |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 
 ### Rubik's Cube
@@ -151,8 +151,8 @@
 | 0.02 | [Kasper Warberg Borg](https://www.worldcubeassociation.org/persons/2020BORG01) | 9.37 | 9.39 | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022/results/by_person#2020BORG01) |
 | 0.03 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.49 | 1.52 | [Southern Solves 2024](https://www.worldcubeassociation.org/competitions/SouthernSolvesInvercargill2024/results/by_person#2018MURR03) |
 | 0.03 | [Milan Vincent Andric](https://www.worldcubeassociation.org/persons/2023ANDR25) | 1.60 | 1.63 | [LCCC Cubing Summer 2026](https://www.worldcubeassociation.org/competitions/LCCCCubingSummer2026/results/by_person#2023ANDR25) |
+| 0.03 | [David Andron-Silva](https://www.worldcubeassociation.org/persons/2022SILV37) | 1.64 | 1.67 | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/by_person#2022SILV37) |
 | 0.03 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.97 | 2.00 | [Miami in an Ohio Oxford 2023](https://www.worldcubeassociation.org/competitions/MiamiinanOhioOxford2023/results/by_person#2017PALA08) |
-| 0.03 | [Seung-Ho Song (송승호)](https://www.worldcubeassociation.org/persons/2018SONG36) | 1.98 | 2.01 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2018SONG36) |
 
 ### Rubik's Clock
 
@@ -227,7 +227,7 @@
 | 6.03 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 3:31.41 | 3:37.44 | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/by_person#2016SIGG01) |
 | 7.02 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:53.15 | 7:00.17 | [Kidderminster - BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterBlindOff2022/results/by_person#2019HIRS01) |
 | 7.78 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 8:41.99 | 8:49.77 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019/results/by_person#2016FANG01) |
-| 8.15 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:46.56 | 3:54.71 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/by_person#2013LINK01) |
+| 8.08 | [Joshua Gao](https://www.worldcubeassociation.org/persons/2023GAOJ02) | 4:28.72 | 4:36.80 | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/by_person#2023GAOJ02) |
 
 ### 3x3x3 With Feet
 

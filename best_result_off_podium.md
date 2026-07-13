@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 
 ### Rubik's Cube
@@ -196,8 +196,8 @@
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1.97 | **2.18** | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/all#eskewb_f) | 4 |
 | [William Lavoie](https://www.worldcubeassociation.org/persons/2023LAVO01) | 1.70 | **2.20** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#eskewb_f) | 4 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.70 | **2.21** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#eskewb_f) | 5 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.64 | **2.28** | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026/results/all#eskewb_f) | 4 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.85 | **2.30** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#eskewb_f) | 4 |
-| [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.12 | **2.31** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#eskewb_f) | 5 |
 
 ### Square-1
 

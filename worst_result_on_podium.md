@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 
 ### Rubik's Cube
@@ -191,13 +191,13 @@
 | [Nguyễn Ngọc Minh Châu](https://www.worldcubeassociation.org/persons/2011NGUY09) | 46.86 | **1:17.02** | [Ha Noi Open 2014](https://www.worldcubeassociation.org/competitions/HaNoiOpen2014/results/podiums#eskewb) | 3 |
 | [Rahim Məmmədli](https://www.worldcubeassociation.org/persons/2018MAMM02) | 41.18 | **1:05.54** | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018/results/podiums#eskewb) | 2 |
 | [Kent Henry Zoé González Rivas](https://www.worldcubeassociation.org/persons/2013RIVA02) | 37.49 | **1:04.77** | [GuateRubik 2014](https://www.worldcubeassociation.org/competitions/GuateRubik2014/results/podiums#eskewb) | 3 |
+| [Konan Kouadio Espérance](https://www.worldcubeassociation.org/persons/2025ESPE01) | 24.85 | **59.47** | [Côte d'Ivoire Cubing 2026](https://www.worldcubeassociation.org/competitions/CotedIvoireCubing2026/results/podiums#eskewb) | 2 |
 | [Rahim Məmmədli](https://www.worldcubeassociation.org/persons/2018MAMM02) | 52.43 | **58.12** | [Lənkəran 2018](https://www.worldcubeassociation.org/competitions/Lankaran2018/results/podiums#eskewb) | 3 |
 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | 37.28 | **52.93** | [Faria Brito 2014](https://www.worldcubeassociation.org/competitions/FariaBritoOpen2014/results/podiums#eskewb) | 3 |
 | [Carlos Alexander Zelaya Alberto](https://www.worldcubeassociation.org/persons/2019ALBE05) | 26.74 | **47.37** | [Destino Maya Honduras 2019](https://www.worldcubeassociation.org/competitions/DestinoMayaHonduras2019/results/podiums#eskewb) | 3 |
 | [Allan Ricardo Rodriguez Colindres](https://www.worldcubeassociation.org/persons/2014COLI01) | 32.31 | **47.16** | [GuateRubik 2014](https://www.worldcubeassociation.org/competitions/GuateRubik2014/results/podiums#eskewb) | 2 |
 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | 33.25 | **43.56** | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014/results/podiums#eskewb) | 3 |
 | [Vibhav Jha](https://www.worldcubeassociation.org/persons/2020JHAV01) | 29.57 | **43.55** | [Jharkhand Cube Open 2020](https://www.worldcubeassociation.org/competitions/JharkhandCubeOpen2020/results/podiums#eskewb) | 3 |
-| [Babatunde Iteoluwakishi](https://www.worldcubeassociation.org/persons/2019ITEO01) | 34.50 | **43.17** | [Nigeria Open 2019](https://www.worldcubeassociation.org/competitions/NigeriaOpen2019/results/podiums#eskewb) | 3 |
 
 ### Square-1
 

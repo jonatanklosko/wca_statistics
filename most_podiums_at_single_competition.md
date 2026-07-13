@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -932,7 +932,7 @@
 | 10 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [Menlo Cubing Open 2025](https://www.worldcubeassociation.org/competitions/MenloCubingOpen2025/results/podiums) |
 | 11 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [Mestre Álvaro 2016](https://www.worldcubeassociation.org/competitions/MestreAlvaro2016/results/podiums) |
 | 11 | [Samuel Asafe Ludugel Fagundes](https://www.worldcubeassociation.org/persons/2015FAGU01) | [Mestre Álvaro 2016](https://www.worldcubeassociation.org/competitions/MestreAlvaro2016/results/podiums) |
-| 12 | [Louis Rodriguez](https://www.worldcubeassociation.org/persons/2018RODR43) | [Metropolis Lara League III 2025](https://www.worldcubeassociation.org/competitions/MetropolisLaraLeagueIII2025/results/podiums) |
+| 12 | [Louis Rodriguez Guerrero](https://www.worldcubeassociation.org/persons/2018RODR43) | [Metropolis Lara League III 2025](https://www.worldcubeassociation.org/competitions/MetropolisLaraLeagueIII2025/results/podiums) |
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Michigan 2018](https://www.worldcubeassociation.org/competitions/Michigan2018/results/podiums) |
 | 15 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Michigan 2019](https://www.worldcubeassociation.org/competitions/Michigan2019/results/podiums) |
 | 11 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [Minas Open 2008](https://www.worldcubeassociation.org/competitions/MinasOpen2008/results/podiums) |
@@ -1023,6 +1023,7 @@
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022/results/podiums) |
 | 10 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022/results/podiums) |
 | 14 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Norwegian Open 2010](https://www.worldcubeassociation.org/competitions/NorwegianOpen2010/results/podiums) |
+| 10 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | [No Skewba Diving Greenport 2026](https://www.worldcubeassociation.org/competitions/NoSkewbaDivingGreenport2026/results/podiums) |
 | 11 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Nottingham 2013](https://www.worldcubeassociation.org/competitions/NottinghamOpen2013/results/podiums) |
 | 11 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Nottingham 2013](https://www.worldcubeassociation.org/competitions/NottinghamOpen2013/results/podiums) |
 | 11 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014/results/podiums) |

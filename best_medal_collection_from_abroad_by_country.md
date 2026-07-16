@@ -1,30 +1,30 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | United States | **1589** | 1250 | 1081 | 3920 |
 | Hungary | **1584** | 1357 | 1157 | 4098 |
-| Germany | **1448** | 1359 | 1338 | 4145 |
+| Germany | **1449** | 1359 | 1338 | 4146 |
 | Russia | **1421** | 773 | 564 | 2758 |
-| China | **1179** | 1117 | 986 | 3282 |
+| China | **1180** | 1117 | 986 | 3283 |
 | France | **1171** | 1036 | 893 | 3100 |
 | Netherlands | **1078** | 881 | 770 | 2729 |
 | Poland | **923** | 613 | 487 | 2023 |
-| Hong Kong, China | **550** | 522 | 439 | 1511 |
-| Canada | **545** | 554 | 595 | 1694 |
+| Hong Kong, China | **553** | 523 | 439 | 1515 |
+| Canada | **549** | 557 | 597 | 1703 |
 | Malaysia | **519** | 556 | 512 | 1587 |
 | United Kingdom | **507** | 564 | 525 | 1596 |
 | Switzerland | **506** | 539 | 432 | 1477 |
-| India | **476** | 484 | 447 | 1407 |
+| India | **476** | 484 | 448 | 1408 |
 | Republic of Korea | **463** | 389 | 345 | 1197 |
 | Italy | **457** | 463 | 445 | 1365 |
 | Ukraine | **418** | 427 | 437 | 1282 |
 | Denmark | **407** | 352 | 292 | 1051 |
 | Sweden | **359** | 416 | 413 | 1188 |
-| Finland | **331** | 271 | 240 | 842 |
+| Finland | **331** | 271 | 241 | 843 |
 | Australia | **318** | 189 | 140 | 647 |
 | Argentina | **307** | 210 | 186 | 703 |
 | Indonesia | **292** | 284 | 215 | 791 |
@@ -51,7 +51,7 @@
 | Philippines | **111** | 130 | 124 | 365 |
 | Thailand | **107** | 115 | 73 | 295 |
 | Brazil | **105** | 119 | 90 | 314 |
-| New Zealand | **100** | 99 | 104 | 303 |
+| New Zealand | **101** | 101 | 104 | 306 |
 | Guatemala | **96** | 60 | 53 | 209 |
 | Croatia | **93** | 144 | 121 | 358 |
 | Vietnam | **90** | 106 | 101 | 297 |
@@ -63,8 +63,8 @@
 | Macau, China | **54** | 62 | 50 | 166 |
 | South Africa | **51** | 64 | 61 | 176 |
 | Chile | **48** | 43 | 41 | 132 |
+| Portugal | **45** | 56 | 71 | 172 |
 | Kosovo | **45** | 31 | 32 | 108 |
-| Portugal | **43** | 54 | 70 | 167 |
 | Mexico | **40** | 51 | 59 | 150 |
 | Mongolia | **38** | 52 | 52 | 142 |
 | Kyrgyzstan | **38** | 47 | 51 | 136 |

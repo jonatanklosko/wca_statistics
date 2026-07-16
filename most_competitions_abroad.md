@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -25,9 +25,9 @@
 | 129 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 127 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 123 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
-| 122 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
+| 123 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 121 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
-| 119 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 120 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 118 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 113 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
@@ -78,11 +78,11 @@
 | 75 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 74 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 74 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
-| 73 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
-| 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
-| 73 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 73 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
+| 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 73 | [Bowen Deng (邓博文)](https://www.worldcubeassociation.org/persons/2009DENG01) |
+| 73 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
+| 73 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 72 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
 | 72 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 72 | [Amey Gaba](https://www.worldcubeassociation.org/persons/2016GABA02) |

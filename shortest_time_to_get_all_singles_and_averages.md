@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -153,6 +153,7 @@
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 4144 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) |
 | 4193 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
+| 4369 | [Luis Sinhue Medina Salas](https://www.worldcubeassociation.org/persons/2014SALA15) |
 | 4410 | [Gabriele Bacchieri](https://www.worldcubeassociation.org/persons/2014BACC01) |
 | 4466 | [Shiori Yanai](https://www.worldcubeassociation.org/persons/2013SATO01) |
 | 4578 | [Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01) |

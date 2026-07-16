@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -124,6 +124,7 @@
 | 7 | [Autotalo PBQ 2023](https://www.worldcubeassociation.org/competitions/AutotaloPBQ2023) |
 | 7 | [Autotalo X Episode II: FMC 2024](https://www.worldcubeassociation.org/competitions/AutotaloXEpisodeIIFMC2024) |
 | 7 | [Balakən Qış 2019](https://www.worldcubeassociation.org/competitions/BalakanQis2019) |
+| 7 | [Bigs & MBLD Vila Velha 2026](https://www.worldcubeassociation.org/competitions/BigsMbldVilaVelha2026) |
 | 7 | [Bolivia Nationals FMC 2024](https://www.worldcubeassociation.org/competitions/BoliviaNationalsFMC2024) |
 | 7 | [Dutch Open 2003](https://www.worldcubeassociation.org/competitions/DutchOpen2003) |
 | 7 | [Fantabulous MI Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMichigan2015) |
@@ -326,6 +327,7 @@
 | 9 | [Nalsar Cube Open C 2025](https://www.worldcubeassociation.org/competitions/NalsarCubeOpenC2025) |
 | 9 | [Nevada Quiet Championship 2025](https://www.worldcubeassociation.org/competitions/NevadaQuietChampionship2025) |
 | 9 | [Nidaros FMC Winter 2025](https://www.worldcubeassociation.org/competitions/NidarosFMCWinter2025) |
+| 9 | [No Olvides Paridad Tonalá 2026](https://www.worldcubeassociation.org/competitions/NoOlvidesParidadTonala2026) |
 | 9 | [Noordhoek Quiet Xmas 2025](https://www.worldcubeassociation.org/competitions/NoordhoekQuietXmas2025) |
 | 9 | [Oberlin Challenge I 2025](https://www.worldcubeassociation.org/competitions/OberlinChallengeI2025) |
 | 9 | [PBQ CBC 2022](https://www.worldcubeassociation.org/competitions/PBQCBC2022) |

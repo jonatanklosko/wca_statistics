@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 
 ### Rubik's Cube
@@ -104,8 +104,8 @@
 | [Hideaki Tomoyori (友寄英哲)](https://www.worldcubeassociation.org/persons/2005TOMO01) | **26:29.00** |  | [Kawasaki 2013](https://www.worldcubeassociation.org/competitions/KawasakiOpen2013/results/podiums#e333bf) | 3 |
 | [Pablo Cristian Duarte de Sousa](https://www.worldcubeassociation.org/persons/2012SOUS01) | **23:31.00** | DNF | [Mossoró Open 2013](https://www.worldcubeassociation.org/competitions/MossoroOpen2013/results/podiums#e333bf) | 3 |
 | [Pablo Cristian Duarte de Sousa](https://www.worldcubeassociation.org/persons/2012SOUS01) | **23:31.00** | DNF | [Mossoró Open 2013](https://www.worldcubeassociation.org/competitions/MossoroOpen2013/results/podiums#e333bf) | 3 |
-| [Vivaldo Cristóvão Roque](https://www.worldcubeassociation.org/persons/2023ROQU03) | **21:39.00** | DNF | [IMETRO Open 2026](https://www.worldcubeassociation.org/competitions/IMETROOpen2026/results/podiums#e333bf) | 2 |
-| [Vivaldo Cristóvão Roque](https://www.worldcubeassociation.org/persons/2023ROQU03) | **21:39.00** | DNF | [IMETRO Open 2026](https://www.worldcubeassociation.org/competitions/IMETROOpen2026/results/podiums#e333bf) | 2 |
+| [Vivaldo Cristóvão Roque](https://www.worldcubeassociation.org/persons/2023ROQU03) | **21:39.00** | DNF | [IMETRO Open 2026](https://www.worldcubeassociation.org/competitions/IMETROOpen2026/results/podiums#e333bf) | 3 |
+| [Vivaldo Cristóvão Roque](https://www.worldcubeassociation.org/persons/2023ROQU03) | **21:39.00** | DNF | [IMETRO Open 2026](https://www.worldcubeassociation.org/competitions/IMETROOpen2026/results/podiums#e333bf) | 3 |
 | [Daniel Lehwing](https://www.worldcubeassociation.org/persons/2014LEHW01) | **20:27.00** | DNF | [Open Cidade da Criança 2016](https://www.worldcubeassociation.org/competitions/OpenCidadedaCrianca2016/results/podiums#e333bf) | 3 |
 | [Daniel Lehwing](https://www.worldcubeassociation.org/persons/2014LEHW01) | **20:27.00** | DNF | [Open Cidade da Criança 2016](https://www.worldcubeassociation.org/competitions/OpenCidadedaCrianca2016/results/podiums#e333bf) | 3 |
 

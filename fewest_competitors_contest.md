@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -125,10 +125,12 @@
 | 7 | [Autotalo X Episode II: FMC 2024](https://www.worldcubeassociation.org/competitions/AutotaloXEpisodeIIFMC2024) |
 | 7 | [Balakən Qış 2019](https://www.worldcubeassociation.org/competitions/BalakanQis2019) |
 | 7 | [Bigs & MBLD Vila Velha 2026](https://www.worldcubeassociation.org/competitions/BigsMbldVilaVelha2026) |
+| 7 | [BLD Astana Summer 2026](https://www.worldcubeassociation.org/competitions/BLDAstanaSummer2026) |
 | 7 | [Bolivia Nationals FMC 2024](https://www.worldcubeassociation.org/competitions/BoliviaNationalsFMC2024) |
 | 7 | [Dutch Open 2003](https://www.worldcubeassociation.org/competitions/DutchOpen2003) |
 | 7 | [Fantabulous MI Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMichigan2015) |
 | 7 | [Fewest Moves Bogotá VIII 2025](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaVIII2025) |
+| 7 | [FMC Astana Summer 2026](https://www.worldcubeassociation.org/competitions/FMCAstanaSummer2026) |
 | 7 | [FMC Central Asia 2026](https://www.worldcubeassociation.org/competitions/FMCCentralAsia2026) |
 | 7 | [FMC Fools Sanse 2025](https://www.worldcubeassociation.org/competitions/FMCFoolsSanse2025) |
 | 7 | [FMC Tijuas I 2025](https://www.worldcubeassociation.org/competitions/FMCTijuasI2025) |

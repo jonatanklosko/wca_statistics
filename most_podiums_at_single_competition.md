@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -392,6 +392,7 @@
 | 13 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [CubingZA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingZANationalChampionship2023/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [CubUai UFMG Open 2024](https://www.worldcubeassociation.org/competitions/CubUaiUFMGOpen2024/results/podiums) |
 | 12 | [Christian Saenz Valdivia](https://www.worldcubeassociation.org/persons/2013VALD02) | [Cultural Open 2014](https://www.worldcubeassociation.org/competitions/CulturalOpen2014/results/podiums) |
+| 10 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Cupika Jakarta Summer 2026](https://www.worldcubeassociation.org/competitions/CupikaJakartaSummer2026/results/podiums) |
 | 10 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Curtan Cubing Contest 2024](https://www.worldcubeassociation.org/competitions/CurtanCubingContest2024/results/podiums) |
 | 12 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Cuthberts Open 2014](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2014/results/podiums) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Cuthberts Open 2015](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2015/results/podiums) |

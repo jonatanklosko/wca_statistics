@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -53,6 +53,7 @@
 | 6 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) |
 | 6 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 6 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
+| 6 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
 | 6 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
@@ -63,7 +64,6 @@
 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 5 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
 | 5 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
-| 5 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
 | 5 | [Máté Horváth](https://www.worldcubeassociation.org/persons/2007HORV01) |
 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |

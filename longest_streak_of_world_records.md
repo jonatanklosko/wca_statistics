@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -118,7 +118,7 @@
 | 2 | 4x4x4 Blindfolded | Single | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) | 1.84 |
 | 2 | 4x4x4 Blindfolded | Single | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) | [Czech Open 2012](https://www.worldcubeassociation.org/competitions/CzechOpen2012) | 0.96 |
 | 2 | 4x4x4 Blindfolded | Single | [Dror Vomberg](https://www.worldcubeassociation.org/persons/2003VOMB01) | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003) | [US Nationals 2006](https://www.worldcubeassociation.org/competitions/US2006) | 2.95 |
-| 2 | Square-1 | Average | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) |  | 1.51 |
+| 2 | Square-1 | Average | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) |  | 1.52 |
 | 2 | Square-1 | Average | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025) | 0.38 |
 | 2 | Square-1 | Average | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024) | 2.25 |
 | 2 | Square-1 | Average | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Schoolmark Open 2018](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2018) | [Solving in Sale 2021](https://www.worldcubeassociation.org/competitions/SolvinginSale2021) | 2.47 |
@@ -212,7 +212,7 @@
 | 2 | 7x7x7 Cube | Single | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Czech Open 2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010) | 0.18 |
 | 2 | 7x7x7 Cube | Single | [Vladislav Shavelskiy](https://www.worldcubeassociation.org/persons/2012SHAV01) | [CCC Autumn Open 2014](https://www.worldcubeassociation.org/competitions/CCCAutumnOpen2014) | [Speed Days Kraśnik 2015](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2015) | 0.65 |
 | 2 | 7x7x7 Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018) | 0.67 |
-| 2 | 7x7x7 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2026](https://www.worldcubeassociation.org/competitions/WesternChampionship2026) |  | 0.15 |
+| 2 | 7x7x7 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2026](https://www.worldcubeassociation.org/competitions/WesternChampionship2026) |  | 0.16 |
 | 2 | 7x7x7 Cube | Average | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Czech Open 2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010) | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) | 0.12 |
 | 2 | 7x7x7 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2013](https://www.worldcubeassociation.org/competitions/AustralianNationals2013) | [Austrian BCO 2014](https://www.worldcubeassociation.org/competitions/AustrianBigCubeOpen2014) | 1.19 |
 | 2 | 7x7x7 Cube | Average | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) | [Austrian BCO 2014](https://www.worldcubeassociation.org/competitions/AustrianBigCubeOpen2014) | [Clock N' Stuff 2015](https://www.worldcubeassociation.org/competitions/ClockNStuff2015) | 0.52 |

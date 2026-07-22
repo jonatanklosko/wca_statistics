@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -496,6 +496,7 @@
 | 11 | [Destino Maya Honduras 2019](https://www.worldcubeassociation.org/competitions/DestinoMayaHonduras2019) |
 | 11 | [DFW Fall Warmup 2023](https://www.worldcubeassociation.org/competitions/DFWFallWarmup2023) |
 | 11 | [Elmira Winter 2026](https://www.worldcubeassociation.org/competitions/ElmiraWinter2026) |
+| 11 | [Finger Lakes Side Events 2026](https://www.worldcubeassociation.org/competitions/FingerLakesSideEvents2026) |
 | 11 | [Finnish FMC Championship 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCChampionship2025) |
 | 11 | [FMC at Fosters Pointe 2025](https://www.worldcubeassociation.org/competitions/FMCatFostersPointe2025) |
 | 11 | [FMC Carrières 2024](https://www.worldcubeassociation.org/competitions/FMCCarrieres2024) |

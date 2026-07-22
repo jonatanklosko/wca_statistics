@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -201,6 +201,7 @@
 | 4 | [Alexandre Ondet](https://www.worldcubeassociation.org/persons/2017ONDE01) |
 | 4 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) |
 | 4 | [Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31) |
+| 4 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 4 | [Mohammad Almoumen](https://www.worldcubeassociation.org/persons/2017ALMO03) |
 | 4 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
 | 4 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |

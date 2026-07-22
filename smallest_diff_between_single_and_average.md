@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 
 ### Rubik's Cube
@@ -91,8 +91,8 @@
 | 0.08 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 2:01.05 | 2:01.13 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016PFEI01) |
 | 0.08 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | 2:19.92 | 2:20.00 | [Głuszyca Open 2026](https://www.worldcubeassociation.org/competitions/GluszycaOpen2026/results/by_person#2015GROH02) |
 | 0.08 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 3:13.56 | 3:13.64 | [Dutch Open 2018](https://www.worldcubeassociation.org/competitions/DutchOpen2018/results/by_person#2007VALK01) |
+| 0.09 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 2:14.17 | 2:14.26 | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2012PONC02) |
 | 0.09 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 5:14.66 | 5:14.75 | [Eat Sleep Cube Repeat 2014](https://www.worldcubeassociation.org/competitions/EatSleepCubeRepeat2014/results/by_person#2008AURO01) |
-| 0.10 | [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | 3:23.59 | 3:23.69 | [UCSD Fall 2024](https://www.worldcubeassociation.org/competitions/UCSDFall2024/results/by_person#2011GROG02) |
 
 ### 3x3x3 Blindfolded
 

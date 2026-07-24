@@ -5,7 +5,7 @@
 
 | Names | Competitions Co-Delegated |
 | :--- | ---: |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 148 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 149 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 135 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) & [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 132 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) & [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 113 |

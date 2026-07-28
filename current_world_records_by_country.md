@@ -1,6 +1,6 @@
 ## Current world records count by country
 
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
@@ -14,6 +14,7 @@
 | 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |
 | 1 | Italy | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
+| 1 | Philippines | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) |
 | 1 | Russia | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 1 | Switzerland | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) |
 | 1 | United Kingdom | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) |

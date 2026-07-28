@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -151,6 +151,7 @@
 | 10 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Barby Cube 73 2017](https://www.worldcubeassociation.org/competitions/BarbyCube732017/results/podiums) |
 | 12 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Barcelona FME Open 2015](https://www.worldcubeassociation.org/competitions/BarcelonaFMEOpen2015/results/podiums) |
 | 10 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | [Barely Awake Boulder 2024](https://www.worldcubeassociation.org/competitions/BarelyAwakeBoulder2024/results/podiums) |
+| 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Barpeta Cubing Open 2026](https://www.worldcubeassociation.org/competitions/BarpetaCubingOpen2026/results/podiums) |
 | 11 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Basauri Open 2010](https://www.worldcubeassociation.org/competitions/BasauriOpen2010/results/podiums) |
 | 11 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Basauri Open 2011](https://www.worldcubeassociation.org/competitions/BasauriOpen2011/results/podiums) |
 | 11 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | [Basauri Open 2012](https://www.worldcubeassociation.org/competitions/BasauriOpen2012/results/podiums) |
@@ -339,6 +340,7 @@
 | 11 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Copper Country Winter 2020](https://www.worldcubeassociation.org/competitions/CopperCountryWinter2020/results/podiums) |
 | 13 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Córdoba Cubea 2024](https://www.worldcubeassociation.org/competitions/CordobaCubea2024/results/podiums) |
 | 10 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Cork Open 2019](https://www.worldcubeassociation.org/competitions/CorkOpen2019/results/podiums) |
+| 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Corning Summer 2026](https://www.worldcubeassociation.org/competitions/CorningSummer2026/results/podiums) |
 | 11 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Cottbus Cubing 2025](https://www.worldcubeassociation.org/competitions/CottbusCubing2025/results/podiums) |
 | 10 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [Couffouleux Open 2023](https://www.worldcubeassociation.org/competitions/CouffouleuxOpen2023/results/podiums) |
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Countless Cubes Chicago A 2024](https://www.worldcubeassociation.org/competitions/CountlessCubesChicagoA2024/results/podiums) |
@@ -872,6 +874,8 @@
 | 10 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | [Los Lagos Open 2016](https://www.worldcubeassociation.org/competitions/LosLagosOpen2016/results/podiums) |
 | 11 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Los Reyes del Cubo III 2025](https://www.worldcubeassociation.org/competitions/LosReyesdelCuboChiclayoIII2025/results/podiums) |
 | 10 | [Teri McAcy](https://www.worldcubeassociation.org/persons/2015MCAC01) | [Louisiana Mega Two Day 2023](https://www.worldcubeassociation.org/competitions/LouisianaMegaTwoDay2023/results/podiums) |
+| 12 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Luminous Sol Open 2026](https://www.worldcubeassociation.org/competitions/LuminousSolOpen2026/results/podiums) |
+| 12 | [Beatriz Hernandes Bernardes](https://www.worldcubeassociation.org/persons/2022BERN01) | [Luminous Sol Open 2026](https://www.worldcubeassociation.org/competitions/LuminousSolOpen2026/results/podiums) |
 | 11 | [Tiago Morais](https://www.worldcubeassociation.org/persons/2023MORA20) | [Luso-Bussaco Open 2025](https://www.worldcubeassociation.org/competitions/LusoBussacoOpen2025/results/podiums) |
 | 10 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/LuzonChampionship2025/results/podiums) |
 | 16 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Lyon Open 2011](https://www.worldcubeassociation.org/competitions/LyonOpen2011/results/podiums) |
@@ -895,6 +899,7 @@
 | 14 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Mallorca Open 2014](https://www.worldcubeassociation.org/competitions/Mallorca2014/results/podiums) |
 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Mallorca Open 2024](https://www.worldcubeassociation.org/competitions/MallorcaOpen2024/results/podiums) |
 | 12 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | [Mallorca Open 2025](https://www.worldcubeassociation.org/competitions/MallorcaOpen2025/results/podiums) |
+| 12 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) | [Mallorca Open 2026](https://www.worldcubeassociation.org/competitions/MallorcaOpen2026/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Malmö Cubing Open 2026](https://www.worldcubeassociation.org/competitions/MalmoCubingOpen2026/results/podiums) |
 | 11 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | [Malpensa: IC Qualifier 2023](https://www.worldcubeassociation.org/competitions/MalpensaICQualifier2023/results/podiums) |
 | 11 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Manchester Open 2016](https://www.worldcubeassociation.org/competitions/ManchesterOpen2016/results/podiums) |

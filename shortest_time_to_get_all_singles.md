@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -187,6 +187,7 @@
 | 840 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 | 847 | [Alessio Pandin](https://www.worldcubeassociation.org/persons/2021PAND01) |
 | 853 | [Jude Fleming](https://www.worldcubeassociation.org/persons/2023FLEM01) |
+| 854 | [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
 | 855 | [Matěj Mužátko](https://www.worldcubeassociation.org/persons/2013MUAT01) |
 | 860 | [Caleb Lalik](https://www.worldcubeassociation.org/persons/2023LALI01) |
 | 861 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
@@ -229,6 +230,7 @@
 | 987 | [Beatriz Hernandes Bernardes](https://www.worldcubeassociation.org/persons/2022BERN01) |
 | 987 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 994 | [Brandon Mikel](https://www.worldcubeassociation.org/persons/2011MIKE01) |
+| 994 | [Kazuhiko Kusano (草野一彦)](https://www.worldcubeassociation.org/persons/2023KUSA03) |
 | 995 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) |
 | 1001 | [Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13) |
 | 1007 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
@@ -648,6 +650,7 @@
 | 2876 | [Vincent Chan](https://www.worldcubeassociation.org/persons/2017CHAN44) |
 | 2877 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) |
 | 2877 | [Cyril Teichmann](https://www.worldcubeassociation.org/persons/2017TEIC01) |
+| 2877 | [Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01) |
 | 2891 | [Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01) |
 | 2891 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 2891 | [Raphael Riener](https://www.worldcubeassociation.org/persons/2017RIEN01) |

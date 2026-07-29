@@ -7,7 +7,7 @@
 | Delegated per year | Delegated | Years | Person | List on WCA |
 | ---: | ---: | ---: | :--- | :--: |
 | 83.06 | 5 | 0.06 | [Hemanth Gande](https://www.worldcubeassociation.org/persons/2023GAND07) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=345232) |
-| 75.90 | 32 | 0.42 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1762) |
+| 73.50 | 33 | 0.45 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1762) |
 | 70.99 | 7 | 0.10 | [Matyáš Krejcárek](https://www.worldcubeassociation.org/persons/2023KREJ01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=298135) |
 | 57.34 | 154 | 2.69 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=10337) |
 | 55.89 | 226 | 4.04 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=5593) |
@@ -16,10 +16,10 @@
 | 50.14 | 176 | 3.51 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=51552) |
 | 49.74 | 248 | 4.99 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=13545) |
 | 49.21 | 135 | 2.74 | [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=42265) |
-| 47.44 | 20 | 0.42 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=19540) |
 | 47.18 | 58 | 1.23 | [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=156656) |
 | 47.13 | 28 | 0.59 | [Juan Nicolás Pinzón Martínez](https://www.worldcubeassociation.org/persons/2016MART84) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=18363) |
 | 46.97 | 9 | 0.19 | [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6412) |
+| 46.77 | 21 | 0.45 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=19540) |
 | 44.99 | 126 | 2.80 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1111) |
 | 43.17 | 139 | 3.22 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=24542) |
 | 42.73 | 135 | 3.16 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=9751) |
@@ -100,8 +100,8 @@
 | 25.69 | 37 | 1.44 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=14759) |
 | 25.64 | 86 | 3.35 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=40318) |
 | 25.50 | 28 | 1.10 | [Ale Restrepo](https://www.worldcubeassociation.org/persons/2017ECHE04) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=50624) |
+| 25.46 | 290 | 11.39 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=15) |
 | 25.40 | 111 | 4.37 | [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=108268) |
-| 25.38 | 289 | 11.39 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=15) |
 | 25.31 | 35 | 1.38 | [Jan Křížka](https://www.worldcubeassociation.org/persons/2018KRIZ01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=92795) |
 | 25.01 | 93 | 3.72 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=29566) |
 | 24.95 | 55 | 2.20 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=19806) |

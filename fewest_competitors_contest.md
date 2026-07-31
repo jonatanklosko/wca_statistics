@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -464,6 +464,7 @@
 | 10 | [South Bay Weeknight BF 2 2024](https://www.worldcubeassociation.org/competitions/SouthBayWeeknightBF22024) |
 | 10 | [Survive FMC in Bangalore 2026](https://www.worldcubeassociation.org/competitions/SurviveFMCinBangalore2026) |
 | 10 | [Tbilisi July Side Events 2024](https://www.worldcubeassociation.org/competitions/TbilisiJulySideEvents2024) |
+| 10 | [Thunder Bay 2026](https://www.worldcubeassociation.org/competitions/ThunderBay2026) |
 | 10 | [TKTK Side Events I 2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsI2024) |
 | 10 | [Toba Cubetastrophe 2022](https://www.worldcubeassociation.org/competitions/TobaCubetastrophe2022) |
 | 10 | [UFBA IX 2026](https://www.worldcubeassociation.org/competitions/UFBAIX2026) |

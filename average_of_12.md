@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 
 ### Rubik's Cube
@@ -16,8 +16,8 @@
 | 4.71 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4.50, 5.36, 4.86, 3.84, 3.94, 4.43, 4.58, 6.33, 3.41, 4.85, 6.22, 4.50 |
 | 4.73 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.10, 5.41, 3.85, 4.72, 4.64, 3.89, 5.76, 4.86, 4.88, 6.71, 4.97, 4.07 |
 | 4.75 | [Yize Dong (董一泽)](https://www.worldcubeassociation.org/persons/2023DONG20) | 4.50, 5.38, 4.70, 5.16, 8.03, 4.58, 3.87, 5.51, 5.27, 3.96, 4.01, 4.39 |
+| 4.81 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.58, 5.47, 5.03, 4.60, 5.95, 5.21, 4.73, 4.30, 4.83, 3.97, 5.12, 4.25 |
 | 4.85 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 4.29, 8.43, 5.78, 5.18, 4.71, 4.60, 5.54, 5.00, 4.35, 4.70, 4.21, 4.39 |
-| 4.90 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.48, 5.10, 4.50, 5.13, 5.16, 4.56, 4.78, 5.71, 7.46, 5.07, 4.50, 3.35 |
 
 ### 2x2x2 Cube
 
@@ -128,10 +128,10 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 7.83 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | 9.21, 8.43, 8.40, 8.11, 7.33, 7.67, 8.18, 7.27, 7.07, 6.12, 9.48, 6.64 |
 | 8.01 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | 7.68, 8.46, 6.76, 10.82, 8.47, 9.82, 7.47, 8.18, 7.97, 8.02, 7.16, 6.82 |
 | 8.21 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 6.59, 8.79, 8.38, 8.10, 7.77, 8.28, 8.92, 8.28, 8.16, 8.66, 7.86, 7.77 |
 | 8.25 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | 7.84, 8.33, 7.28, 8.07, 11.71, 8.82, 7.83, 8.60, 9.11, 8.00, 8.36, 7.53 |
-| 8.30 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | 6.86, 8.31, 7.78, 8.63, 7.58, 8.51, 10.70, 8.90, 8.13, 8.01, 8.65, 8.45 |
 | 8.46 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 9.23, 8.71, 7.79, 9.06, 10.11, 8.09, 8.41, 7.64, 9.34, 8.20, 8.10, 6.87 |
 | 8.47 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | 8.59, 8.94, 7.96, 9.07, 9.70, 9.01, 7.14, 8.26, 7.98, 9.76, 8.08, 7.05 |
 | 8.68 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 8.43, 6.77, 10.12, 7.63, 9.46, 9.34, 9.04, 13.11, 9.30, 8.53, 8.17, 6.77 |

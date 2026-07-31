@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -11,12 +11,12 @@
 | 2213 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 2198 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 2048 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 1950 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
-| 1915 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 1951 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 1924 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1840 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1840 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 1808 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
-| 1775 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 1814 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 1781 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1759 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 1702 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 1687 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
@@ -28,8 +28,8 @@
 | 1528 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 1514 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 1507 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 1490 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 1473 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
-| 1473 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 1459 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 1446 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1391 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
@@ -56,10 +56,10 @@
 | 1180 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1172 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
 | 1170 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
-| 1166 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
+| 1168 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 1162 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 1148 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 1148 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 1143 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 1128 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 1115 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 1099 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
@@ -90,8 +90,8 @@
 | 1007 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 997 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 995 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
-| 995 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
 | 995 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
+| 995 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 984 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 984 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |

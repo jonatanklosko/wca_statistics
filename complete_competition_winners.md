@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -21,6 +21,7 @@
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | Indonesia | [Celebes Open 2024](https://www.worldcubeassociation.org/competitions/CelebesOpen2024) |
 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | Romania | [Constanța Cube Days 2017](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2017) |
 | 9 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) | India | [Shristi Open 2009](https://www.worldcubeassociation.org/competitions/ShristiOpen2009) |
+| 9 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | United States | [Thunder Bay 2026](https://www.worldcubeassociation.org/competitions/ThunderBay2026) |
 | 9 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Helena 2024](https://www.worldcubeassociation.org/competitions/Helena2024) |
 | 9 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | France | [Kyrgyzstan Open 2019](https://www.worldcubeassociation.org/competitions/KyrgyzstanOpen2019) |
 | 9 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | Romania | [Timisoara Cube Days 2023](https://www.worldcubeassociation.org/competitions/TimisoaraCubeDays2023) |

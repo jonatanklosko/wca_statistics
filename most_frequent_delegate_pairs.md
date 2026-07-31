@@ -1,7 +1,7 @@
 ## Most frequent delegate pairs
 
 *Note: Shows the most frequent cases of co-delegation between 2 Delegates*
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 | Names | Competitions Co-Delegated |
 | :--- | ---: |

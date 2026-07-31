@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -642,6 +642,7 @@
 | 11 | [Daniel Grabski](https://www.worldcubeassociation.org/persons/2010GRAB01) | [Haute-Patate Open 2012](https://www.worldcubeassociation.org/competitions/HautePatateOpen2012/results/podiums) |
 | 10 | [Alexandre Philiponet](https://www.worldcubeassociation.org/persons/2011PHIL01) | [Haute-Patate Open 2012](https://www.worldcubeassociation.org/competitions/HautePatateOpen2012/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Hawaiʻi Big Island Fall 2025](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandFall2025/results/podiums) |
+| 12 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | [Hawaii Championship 2026](https://www.worldcubeassociation.org/competitions/HawaiiChampionship2026/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022/results/podiums) |
 | 13 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/podiums) |
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Heartland Championship 2026](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2026/results/podiums) |
@@ -1193,6 +1194,8 @@
 | 10 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [Río Grande TDF 2025](https://www.worldcubeassociation.org/competitions/RioGrandeTDF2025/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Risbjerg Juni 2025](https://www.worldcubeassociation.org/competitions/RisbjergJuni2025/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Riverlake 2026](https://www.worldcubeassociation.org/competitions/Riverlake2026/results/podiums) |
+| 12 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Road to Nats Barquisimeto 2026](https://www.worldcubeassociation.org/competitions/RoadtoNatsBarquisimeto2026/results/podiums) |
+| 10 | [Louis Rodriguez Guerrero](https://www.worldcubeassociation.org/persons/2018RODR43) | [Road to Nats Barquisimeto 2026](https://www.worldcubeassociation.org/competitions/RoadtoNatsBarquisimeto2026/results/podiums) |
 | 10 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | [Rocky Mountain Championship 2024](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2024/results/podiums) |
 | 10 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [Rocky Top 2017](https://www.worldcubeassociation.org/competitions/RockyTop2017/results/podiums) |
 | 11 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023/results/podiums) |

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -20,8 +20,8 @@
 | 136 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 134 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 133 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 131 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 131 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
+| 131 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |
 | 130 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 127 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 124 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
@@ -61,8 +61,8 @@
 | 89 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 88 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 88 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
+| 88 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 88 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
-| 87 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 86 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 86 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 83 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |

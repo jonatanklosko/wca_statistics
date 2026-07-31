@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -206,7 +206,6 @@
 | 1 | [Christian Kaserer](https://www.worldcubeassociation.org/persons/2009KASE02) |
 | 1 | [Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01) |
 | 1 | [Constantin Ceausu](https://www.worldcubeassociation.org/persons/2006CEAU01) |
-| 1 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) |
 | 1 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) |
 | 1 | [Danyang Chen (陈丹阳)](https://www.worldcubeassociation.org/persons/2007DANY01) |
 | 1 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) |
@@ -309,6 +308,7 @@
 | 1 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) |
 | 1 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
 | 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
+| 1 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) |
 | 1 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) |
 | 1 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) |
 

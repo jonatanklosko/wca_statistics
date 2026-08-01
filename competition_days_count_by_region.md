@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 31 July 2026*
+*Updated on  1 August 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 18203 |
+| 1.46 | World | 18215 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.71 | Europe | 5911 |
+| 1.71 | Europe | 5916 |
 | 1.48 | Oceania | 782 |
 | 1.45 | South America | 2330 |
 | 1.40 | Asia | 3689 |
-| 1.31 | Africa | 253 |
-| 1.21 | North America | 5238 |
+| 1.31 | Africa | 254 |
+| 1.21 | North America | 5244 |
 
 ### Countries
 
@@ -26,7 +26,7 @@
 | ---: | :--- | ---: |
 | 2.07 | Uzbekistan | 29 |
 | 2.00 | Liechtenstein | 3 |
-| 1.95 | Germany | 311 |
+| 1.95 | Germany | 312 |
 | 1.93 | Belarus | 42 |
 | 1.92 | Kyrgyzstan | 13 |
 | 1.92 | Russia | 220 |
@@ -55,7 +55,7 @@
 | 1.74 | Ireland | 104 |
 | 1.74 | Ukraine | 157 |
 | 1.73 | Guatemala | 67 |
-| 1.72 | Poland | 656 |
+| 1.72 | Poland | 657 |
 | 1.67 | Argentina | 136 |
 | 1.67 | North Macedonia | 6 |
 | 1.65 | Brazil | 724 |
@@ -100,11 +100,11 @@
 | 1.33 | Ghana | 3 |
 | 1.33 | Tajikistan | 3 |
 | 1.31 | Kuwait | 13 |
-| 1.28 | Portugal | 74 |
 | 1.28 | Uruguay | 64 |
 | 1.28 | Hong Kong, China | 29 |
 | 1.28 | Jordan | 29 |
 | 1.27 | Philippines | 424 |
+| 1.27 | Portugal | 77 |
 | 1.26 | Colombia | 559 |
 | 1.25 | Chile | 174 |
 | 1.24 | El Salvador | 42 |
@@ -119,7 +119,7 @@
 | 1.17 | Egypt | 12 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | Canada | 523 |
-| 1.16 | United States | 4195 |
+| 1.16 | United States | 4201 |
 | 1.15 | Azerbaijan | 54 |
 | 1.13 | Mongolia | 62 |
 | 1.12 | Honduras | 24 |
@@ -135,6 +135,7 @@
 | 1.00 | Cambodia | 3 |
 | 1.00 | Cuba | 1 |
 | 1.00 | Côte d'Ivoire | 2 |
+| 1.00 | Eswatini | 1 |
 | 1.00 | Fiji | 1 |
 | 1.00 | Kenya | 31 |
 | 1.00 | Kosovo | 3 |

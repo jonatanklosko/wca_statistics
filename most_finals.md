@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 31 July 2026*
+*Updated on  1 August 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -75,9 +75,9 @@
 | 1073 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 1068 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 1062 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
+| 1050 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 1048 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 1041 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
-| 1039 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 1039 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
 | 1039 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 1028 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
@@ -93,8 +93,8 @@
 | 995 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 995 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
-| 984 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 984 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 984 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 980 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 975 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |

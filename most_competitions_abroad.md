@@ -1,12 +1,12 @@
 ## Most competitions abroad
 
-*Updated on 31 July 2026*
+*Updated on  1 August 2026*
 
 | Competitions | Person |
 | ---: | :--- |
 | 234 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 219 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
-| 192 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
+| 194 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 183 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 162 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 161 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
@@ -78,11 +78,11 @@
 | 76 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 75 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 75 | [Bowen Deng (邓博文)](https://www.worldcubeassociation.org/persons/2009DENG01) |
-| 74 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
+| 74 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 74 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 74 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
+| 74 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 73 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
-| 73 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 73 | [Amey Gaba](https://www.worldcubeassociation.org/persons/2016GABA02) |
 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 72 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |

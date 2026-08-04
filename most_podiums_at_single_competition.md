@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1586,6 +1586,8 @@
 | 11 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Willimiehen Kuutiopäivät 2023](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2023/results/podiums) |
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Willimiehen Kuutiopäivät 2024](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2024/results/podiums) |
 | 12 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Willimiehen Kuutiopäivät 2025](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2025/results/podiums) |
+| 11 | [Levin Houghton](https://www.worldcubeassociation.org/persons/2016HOUG01) | [Willimiehen Kuutiopäivät 2026](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2026/results/podiums) |
+| 11 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [Willimiehen Kuutiopäivät 2026](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2026/results/podiums) |
 | 12 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
 | 12 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
 | 13 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |

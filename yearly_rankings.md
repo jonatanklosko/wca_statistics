@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 
 ### Rubik's Cube - Single
@@ -193,11 +193,11 @@
 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **12.71** | China | [Please Be Quiet Hefei 2026](https://www.worldcubeassociation.org/competitions/PleaseBeQuietHefei2026) | 12.71, DNF, 20.48, 16.94, 17.93 |
 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | **12.79** | Germany | [Swisscubing Cup MB I 2026](https://www.worldcubeassociation.org/competitions/SwisscubingCupMBI2026) | 16.85, 18.36, DNF, 12.79, DNF |
 | [Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01) | **13.22** | France | [Stenay Que le Début 2026](https://www.worldcubeassociation.org/competitions/StenayQueleDebut2026) | 13.22, DNF, DNF, DNF, 16.69 |
+| [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **13.88** | Austria | [Super Side Summer Fürth 2026](https://www.worldcubeassociation.org/competitions/SuperSideSummerFurth2026) | 17.62, 20.19, 19.77, 13.88, DNF |
 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | **14.36** | Argentina | [Irracional Di Tella 2026](https://www.worldcubeassociation.org/competitions/IrracionalDiTella2026) | 17.46, 16.06, 14.36, DNF, DNF |
 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | **14.65** | United States | [DFW Cubing Spring 2026](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2026) | DNF, 21.28, DNF, 24.28, 22.77 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **14.74** | United States | [Redhawk Slow Summer OH 2026](https://www.worldcubeassociation.org/competitions/RedhawkSlowSummerOH2026) | 17.87, 14.74, 18.64, 17.13, DNF |
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **14.83** | United States | [Qualifying Cougars WV 2026](https://www.worldcubeassociation.org/competitions/QualifyingCougarsWV2026) | 14.83, DNF, 21.34, 16.27, 16.29 |
-| [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **14.83** | United States | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026) | DNF, 16.41, DNF, 14.83, 17.96 |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -329,9 +329,9 @@
 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | **1.30** | Spain | [Gasteiz Open 2026](https://www.worldcubeassociation.org/competitions/GasteizOpen2026) | 1.36, 0.98, 1.13, 2.63, 1.40 |
 | [Jeriyah Griffin](https://www.worldcubeassociation.org/persons/2023GRIF07) | **1.38** | United States | [Ohio State Madness 2026](https://www.worldcubeassociation.org/competitions/OhioStateMadness2026) | 1.33, 1.41, 1.85, 1.40, 1.28 |
 | [Milan Vincent Andric](https://www.worldcubeassociation.org/persons/2023ANDR25) | **1.40** | United States | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 1.12, 1.31, 1.55, 2.18, 1.34 |
+| [Clem Tucker](https://www.worldcubeassociation.org/persons/2022TUCK09) | **1.42** | United States | [Mystic Cubikon 2026](https://www.worldcubeassociation.org/competitions/MysticCubikon2026) | 2.08, 1.20, 1.38, 1.54, 1.33 |
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | **1.45** | United States | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026) | 1.74, 1.31, 1.24, 1.31, 2.05 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **1.45** | United Kingdom | [Darlington Spring 2026](https://www.worldcubeassociation.org/competitions/DarlingtonSpring2026) | 1.47, 1.32, 1.43, 1.46, 2.64 |
-| [Clem Tucker](https://www.worldcubeassociation.org/persons/2022TUCK09) | **1.45** | United States | [NAC Prep in Palisades 2026](https://www.worldcubeassociation.org/competitions/NACPrepinPalisades2026) | 1.56, 1.35, 1.44, 1.14, 5.36 |
 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | **1.47** | United States | [Edgemont Cubing 2026](https://www.worldcubeassociation.org/competitions/EdgemontCubing2026) | 1.34, 1.23, 1.24, 1.82, DNF |
 
 ### Rubik's Clock - Single

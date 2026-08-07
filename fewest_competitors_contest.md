@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -459,6 +459,7 @@
 | 10 | [PUCP Zomblinders 2024](https://www.worldcubeassociation.org/competitions/PUCPZomblinders2024) |
 | 10 | [Pyraminx on the Stars 2024](https://www.worldcubeassociation.org/competitions/PyraminxontheStars2024) |
 | 10 | [Rudny Open 2025](https://www.worldcubeassociation.org/competitions/RudnyOpen2025) |
+| 10 | [Saint-Martin Saturday 2026](https://www.worldcubeassociation.org/competitions/SaintMartinSaturday2026) |
 | 10 | [Santarém Open 2019](https://www.worldcubeassociation.org/competitions/SantaremOpen2019) |
 | 10 | [Silencio Total 2018](https://www.worldcubeassociation.org/competitions/SilencioTotal2018) |
 | 10 | [South Bay Weeknight BF 2 2024](https://www.worldcubeassociation.org/competitions/SouthBayWeeknightBF22024) |

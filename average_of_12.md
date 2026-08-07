@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 
 ### Rubik's Cube
@@ -128,7 +128,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 7.83 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | 9.21, 8.43, 8.40, 8.11, 7.33, 7.67, 8.18, 7.27, 7.07, 6.12, 9.48, 6.64 |
+| 7.40 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | 7.27, 7.07, 6.12, 9.48, 6.64, 6.57, 9.32, 7.29, 7.63, 8.32, 7.02, 6.91 |
 | 8.01 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | 7.68, 8.46, 6.76, 10.82, 8.47, 9.82, 7.47, 8.18, 7.97, 8.02, 7.16, 6.82 |
 | 8.21 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 6.59, 8.79, 8.38, 8.10, 7.77, 8.28, 8.92, 8.28, 8.16, 8.66, 7.86, 7.77 |
 | 8.25 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | 7.84, 8.33, 7.28, 8.07, 11.71, 8.82, 7.83, 8.60, 9.11, 8.00, 8.36, 7.53 |
@@ -191,9 +191,9 @@
 | 1.60 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.30, 1.20, 1.79, 1.60, 4.89, 1.41, 2.03, 1.35, 1.62, 1.82, 1.27, 1.85 |
 | 1.60 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | 1.47, 1.42, 1.79, 1.53, 1.42, 1.32, 1.76, 3.03, 1.51, 1.52, 1.84, 1.77 |
 | 1.62 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.49, 1.33, 1.55, 1.23, 1.99, 6.51, 1.50, 1.71, 1.82, 1.69, 1.88, 1.20 |
+| 1.63 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 1.80, 1.40, 1.75, 1.51, 1.57, 1.76, 1.83, 1.73, 1.72, 1.57, 1.29, 1.45 |
 | 1.63 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.46, 1.45, 1.57, 1.53, 1.62, 1.57, 1.80, 1.03, 1.81, 2.01, 1.79, 1.72 |
 | 1.66 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | 1.50, 2.05, 1.63, 1.43, 1.52, 1.07, 4.60, 1.74, 1.12, 2.32, 1.92, 1.35 |
-| 1.71 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 1.71, 2.01, 1.56, 1.56, 2.41, 1.41, 1.59, 2.92, 1.92, 1.54, 1.42, 1.33 |
 | 1.74 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 2.25, 1.67, 1.41, 4.80, 2.11, 1.43, 1.27, 1.90, 1.91, 1.66, 1.63, 1.40 |
 | 1.78 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 2.78, 1.54, 1.86, 1.68, 1.79, 2.01, 1.78, 1.52, 1.69, 1.69, 2.28, 1.52 |
 | 1.79 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.40, 1.84, 2.32, 1.44, 1.56, 2.50, 1.64, 1.66, 1.88, 3.51, 1.65, 1.09 |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -201,6 +201,7 @@
 | 889 | [Artur Udatsnoi](https://www.worldcubeassociation.org/persons/2023UDAT01) |
 | 902 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) |
 | 910 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
+| 910 | [Kim Eden (김이든)](https://www.worldcubeassociation.org/persons/2024EDEN01) |
 | 915 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 924 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 924 | [Zongwen Mu (牟宗文)](https://www.worldcubeassociation.org/persons/2015MUZO01) |
@@ -222,6 +223,7 @@
 | 958 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 958 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) |
 | 960 | [Chunyu Zhang (张春雨)](https://www.worldcubeassociation.org/persons/2011ZHAN24) |
+| 960 | [Beomseo Jeon (전범서)](https://www.worldcubeassociation.org/persons/2023JEON18) |
 | 966 | [Luis Armando Guerra Garcia](https://www.worldcubeassociation.org/persons/2023GARC48) |
 | 967 | [Karthikeyan Eswaran](https://www.worldcubeassociation.org/persons/2014ESWA01) |
 | 980 | [Matt Mao](https://www.worldcubeassociation.org/persons/2023MAOS01) |
@@ -786,6 +788,7 @@
 | 4583 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 4675 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
 | 4682 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) |
+| 4690 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) |
 | 4711 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) |
 | 4739 | [Ole Nikolai Gjerset](https://www.worldcubeassociation.org/persons/2011GJER02) |
 | 4767 | [Zachary McWilliams](https://www.worldcubeassociation.org/persons/2009MCWI01) |

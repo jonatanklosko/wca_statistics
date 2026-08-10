@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -500,6 +500,7 @@
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Edukent Weekend 2022](https://www.worldcubeassociation.org/competitions/EdukentWeekend2022/results/podiums) |
 | 10 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [Edukent Weekend 2023](https://www.worldcubeassociation.org/competitions/EdukentWeekend2023/results/podiums) |
 | 10 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Edukent Weekend 2023](https://www.worldcubeassociation.org/competitions/EdukentWeekend2023/results/podiums) |
+| 10 | [Mikhail Nikitin](https://www.worldcubeassociation.org/persons/2022NIKI03) | [Egypt National 2026](https://www.worldcubeassociation.org/competitions/EgyptNational2026/results/podiums) |
 | 12 | [Diego Villarreal Salinas](https://www.worldcubeassociation.org/persons/2018SALI09) | [El Centinela Mexicali 2024](https://www.worldcubeassociation.org/competitions/ElCentinelaMexicali2024/results/podiums) |
 | 12 | [Diego Villarreal Salinas](https://www.worldcubeassociation.org/persons/2018SALI09) | [El Centinela Mexicali 2025](https://www.worldcubeassociation.org/competitions/ElCentinelaMexicali2025/results/podiums) |
 | 10 | [Ian Yazid Zavala](https://www.worldcubeassociation.org/persons/2023LOPE06) | [El Centinela Mexicali 2025](https://www.worldcubeassociation.org/competitions/ElCentinelaMexicali2025/results/podiums) |

@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -8,7 +8,7 @@
 | 2516 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2484 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 2378 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
-| 2215 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 2223 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 2213 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 2048 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1951 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
@@ -37,8 +37,8 @@
 | 1390 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 1367 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 1322 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
+| 1322 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1319 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
-| 1317 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1292 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 1283 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 1281 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
@@ -78,8 +78,8 @@
 | 1056 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 1048 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 1041 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
-| 1039 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
 | 1039 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
+| 1039 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
 | 1028 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 1023 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 1021 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |

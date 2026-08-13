@@ -1,30 +1,30 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| United States | **1629** | 1277 | 1094 | 4000 |
+| United States | **1630** | 1277 | 1095 | 4002 |
 | Hungary | **1584** | 1357 | 1159 | 4100 |
 | Germany | **1455** | 1373 | 1348 | 4176 |
 | Russia | **1442** | 785 | 574 | 2801 |
-| China | **1193** | 1127 | 996 | 3316 |
+| China | **1193** | 1128 | 996 | 3317 |
 | France | **1171** | 1039 | 899 | 3109 |
-| Netherlands | **1078** | 881 | 770 | 2729 |
+| Netherlands | **1078** | 881 | 772 | 2731 |
 | Poland | **935** | 618 | 496 | 2049 |
+| Hong Kong, China | **556** | 529 | 445 | 1530 |
 | Canada | **555** | 563 | 605 | 1723 |
-| Hong Kong, China | **555** | 527 | 443 | 1525 |
-| Malaysia | **520** | 556 | 519 | 1595 |
+| Malaysia | **520** | 557 | 520 | 1597 |
 | Switzerland | **516** | 546 | 438 | 1500 |
-| United Kingdom | **512** | 568 | 527 | 1607 |
+| United Kingdom | **514** | 568 | 527 | 1609 |
 | India | **479** | 490 | 452 | 1421 |
-| Republic of Korea | **465** | 390 | 350 | 1205 |
+| Republic of Korea | **468** | 391 | 351 | 1210 |
 | Italy | **461** | 469 | 451 | 1381 |
 | Ukraine | **423** | 432 | 439 | 1294 |
 | Denmark | **409** | 358 | 295 | 1062 |
 | Sweden | **359** | 418 | 415 | 1192 |
-| Finland | **336** | 273 | 243 | 852 |
+| Finland | **336** | 274 | 243 | 853 |
 | Australia | **319** | 189 | 141 | 649 |
 | Argentina | **308** | 215 | 188 | 711 |
 | Indonesia | **293** | 284 | 215 | 792 |
@@ -55,7 +55,7 @@
 | Guatemala | **96** | 60 | 53 | 209 |
 | Croatia | **93** | 144 | 121 | 358 |
 | Vietnam | **90** | 106 | 101 | 297 |
-| Israel | **86** | 87 | 83 | 256 |
+| Israel | **86** | 87 | 84 | 257 |
 | Estonia | **74** | 90 | 91 | 255 |
 | Jordan | **68** | 32 | 42 | 142 |
 | Iran | **61** | 46 | 33 | 140 |
@@ -80,9 +80,9 @@
 | North Macedonia | **20** | 27 | 32 | 79 |
 | Moldova | **16** | 30 | 18 | 64 |
 | Kuwait | **16** | 14 | 30 | 60 |
-| Morocco | **15** | 19 | 20 | 54 |
+| Morocco | **15** | 19 | 21 | 55 |
+| Nicaragua | **15** | 8 | 11 | 34 |
 | Uruguay | **14** | 11 | 18 | 43 |
-| Nicaragua | **14** | 8 | 10 | 32 |
 | Bolivia | **11** | 27 | 33 | 71 |
 | Bangladesh | **11** | 17 | 14 | 42 |
 | Bosnia and Herzegovina | **10** | 24 | 16 | 50 |

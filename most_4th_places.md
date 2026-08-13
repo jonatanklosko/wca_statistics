@@ -1,13 +1,13 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 | 4th places | Person |
 | ---: | :--- |
 | 288 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 286 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
-| 265 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 267 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 262 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 219 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 199 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
@@ -61,9 +61,9 @@
 | 116 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 115 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 114 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
+| 112 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 111 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
-| 110 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 109 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 109 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 108 | [Victor Valentin Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) |
@@ -97,10 +97,10 @@
 | 95 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) |
 | 94 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
 | 94 | [Federico da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) |
+| 94 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
 | 93 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
 | 93 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 93 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 93 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
 | 92 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 92 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 91 | [Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11) |

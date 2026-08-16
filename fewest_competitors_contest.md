@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -451,6 +451,7 @@
 | 10 | [North Idaho Big Cubes 2026](https://www.worldcubeassociation.org/competitions/NorthIdahoBigCubes2026) |
 | 10 | [Oberlin Challenge I 2026](https://www.worldcubeassociation.org/competitions/OberlinChallengeI2026) |
 | 10 | [Panaad Memo & Demo 2023](https://www.worldcubeassociation.org/competitions/PanaadMemoDemo2023) |
+| 10 | [Pavlodar Open 2026](https://www.worldcubeassociation.org/competitions/PavlodarOpen2026) |
 | 10 | [Please Be Quiet Auckland 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietAuckland2025) |
 | 10 | [Please Be Quiet Frisco 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietFrisco2019) |
 | 10 | [Please Be Quiet Nashville 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietNashville2025) |

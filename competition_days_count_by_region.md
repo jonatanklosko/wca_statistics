@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.46 | World | 18322 |
+| 1.46 | World | 18344 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.71 | Europe | 5948 |
-| 1.49 | Oceania | 793 |
-| 1.45 | South America | 2342 |
-| 1.40 | Asia | 3709 |
-| 1.31 | Africa | 255 |
-| 1.21 | North America | 5275 |
+| 1.71 | Europe | 5952 |
+| 1.48 | Oceania | 794 |
+| 1.45 | South America | 2348 |
+| 1.40 | Asia | 3712 |
+| 1.30 | Africa | 256 |
+| 1.21 | North America | 5282 |
 
 ### Countries
 
@@ -53,17 +53,17 @@
 | 1.75 | Guatemala | 68 |
 | 1.75 | Luxembourg | 4 |
 | 1.75 | Sri Lanka | 16 |
+| 1.75 | Ukraine | 158 |
 | 1.74 | Ireland | 105 |
-| 1.74 | Ukraine | 157 |
 | 1.72 | Poland | 659 |
 | 1.67 | Argentina | 136 |
 | 1.67 | North Macedonia | 6 |
-| 1.65 | Brazil | 729 |
+| 1.65 | Hungary | 83 |
+| 1.65 | Brazil | 732 |
 | 1.65 | Belgium | 111 |
 | 1.65 | Italy | 301 |
-| 1.65 | Hungary | 82 |
 | 1.61 | Dominican Republic | 31 |
-| 1.61 | Indonesia | 262 |
+| 1.61 | Indonesia | 263 |
 | 1.60 | Iran | 43 |
 | 1.60 | Madagascar | 5 |
 | 1.60 | Netherlands | 152 |
@@ -74,15 +74,15 @@
 | 1.56 | Andorra | 9 |
 | 1.55 | Denmark | 251 |
 | 1.55 | Bulgaria | 31 |
-| 1.53 | India | 784 |
-| 1.51 | South Africa | 121 |
+| 1.53 | India | 785 |
 | 1.51 | Malaysia | 137 |
 | 1.51 | Greece | 55 |
+| 1.51 | South Africa | 122 |
 | 1.50 | Laos | 2 |
 | 1.50 | Bolivia | 183 |
-| 1.49 | Sweden | 427 |
+| 1.49 | Sweden | 429 |
 | 1.48 | Peru | 270 |
-| 1.46 | Australia | 607 |
+| 1.46 | Australia | 608 |
 | 1.43 | Montenegro | 7 |
 | 1.42 | Vietnam | 78 |
 | 1.41 | Israel | 83 |
@@ -102,10 +102,10 @@
 | 1.31 | Kuwait | 13 |
 | 1.28 | Uruguay | 64 |
 | 1.28 | Jordan | 29 |
-| 1.27 | Philippines | 426 |
+| 1.27 | Philippines | 427 |
 | 1.27 | Portugal | 77 |
 | 1.27 | Hong Kong, China | 30 |
-| 1.26 | Colombia | 561 |
+| 1.26 | Colombia | 564 |
 | 1.25 | Chile | 175 |
 | 1.24 | El Salvador | 42 |
 | 1.24 | Venezuela | 106 |
@@ -119,7 +119,7 @@
 | 1.17 | Egypt | 12 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | Canada | 526 |
-| 1.16 | United States | 4226 |
+| 1.16 | United States | 4233 |
 | 1.15 | Azerbaijan | 55 |
 | 1.13 | Mongolia | 62 |
 | 1.12 | Honduras | 24 |

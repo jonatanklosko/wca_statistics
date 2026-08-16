@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -949,6 +949,7 @@
 | 12 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [MIR Open 2013](https://www.worldcubeassociation.org/competitions/MIROpen2013/results/podiums) |
 | 12 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | [Missouri Championship 2024](https://www.worldcubeassociation.org/competitions/MissouriChampionship2024/results/podiums) |
 | 11 | [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) | [Missouri Championship 2024](https://www.worldcubeassociation.org/competitions/MissouriChampionship2024/results/podiums) |
+| 11 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Missouri Championship 2026](https://www.worldcubeassociation.org/competitions/MissouriChampionship2026/results/podiums) |
 | 11 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) | [Missouri Open 2009](https://www.worldcubeassociation.org/competitions/MissouriOpen2009/results/podiums) |
 | 10 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | [Molina Open 2016](https://www.worldcubeassociation.org/competitions/MolinaOpen2016/results/podiums) |
 | 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Mölnlycke Open 2023](https://www.worldcubeassociation.org/competitions/MolnlyckeOpen2023/results/podiums) |

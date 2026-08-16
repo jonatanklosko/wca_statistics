@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 
 ### Rubik's Cube
@@ -134,10 +134,10 @@
 | 8.25 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | 7.84, 8.33, 7.28, 8.07, 11.71, 8.82, 7.83, 8.60, 9.11, 8.00, 8.36, 7.53 |
 | 8.46 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 9.23, 8.71, 7.79, 9.06, 10.11, 8.09, 8.41, 7.64, 9.34, 8.20, 8.10, 6.87 |
 | 8.47 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | 8.59, 8.94, 7.96, 9.07, 9.70, 9.01, 7.14, 8.26, 7.98, 9.76, 8.08, 7.05 |
+| 8.52 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 8.24, 7.07, 8.88, 10.02, 8.71, 10.24, 8.45, 6.76, 8.08, 8.51, 8.35, 8.85 |
 | 8.68 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 8.43, 6.77, 10.12, 7.63, 9.46, 9.34, 9.04, 13.11, 9.30, 8.53, 8.17, 6.77 |
 | 8.69 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 8.60, 7.99, 8.10, 8.88, 9.96, 8.74, 8.62, 8.93, 9.75, 8.95, 7.85, 8.30 |
 | 8.73 | [Neo Cuares](https://www.worldcubeassociation.org/persons/2023CUAR03) | 7.71, 8.55, 8.21, 9.48, 9.48, 9.86, 6.50, 10.01, 11.76, 9.66, 7.03, 7.31 |
-| 8.74 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 9.12, 8.72, 7.57, 9.33, 9.45, 8.56, 7.68, 7.13, 10.04, 9.17, 8.80, 8.95 |
 
 ### Megaminx
 

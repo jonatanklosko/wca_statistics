@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 
 ### Rubik's Cube
@@ -30,9 +30,9 @@
 | 0.89 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | 1.11, 0.89, 1.59, 0.65, 0.67 |
 | 0.90 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 0.80, 1.05, 1.17, 0.85, 0.72 |
 | 0.92 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 1.26, 1.02, 0.81, 0.80, 0.92 |
+| 0.93 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 0.74, 0.69, 1.32, 1.06, 0.98 |
 | 0.93 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 0.91, 1.39, 0.90, 0.94, 0.95 |
 | 0.96 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | 0.70, 0.99, 3.28, 1.02, 0.87 |
-| 0.97 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 0.93, 1.05, 0.66, 1.43, 0.92 |
 
 ### 4x4x4 Cube
 
@@ -181,8 +181,8 @@
 | 2.41 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.33, 2.32, 2.25, 2.97, 2.58 |
 | 2.42 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.70, 2.35, 2.22, 2.26, 2.64 |
 | 2.50 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 2.82, 2.46, 2.48, 2.35, 2.57 |
+| 2.53 | [Max McGill](https://www.worldcubeassociation.org/persons/2023MCGI02) | 2.61, 2.40, 3.23, 2.34, 2.57 |
 | 2.55 | [Kagen Chiu](https://www.worldcubeassociation.org/persons/2024CHIU04) | 2.31, DNF, 2.24, 2.83, 2.51 |
-| 2.56 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | 2.35, 2.70, 2.88, 2.61, 2.36 |
 
 ### Skewb
 

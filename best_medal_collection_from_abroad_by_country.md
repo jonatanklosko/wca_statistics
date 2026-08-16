@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -9,35 +9,35 @@
 | Hungary | **1584** | 1357 | 1159 | 4100 |
 | Germany | **1455** | 1373 | 1348 | 4176 |
 | Russia | **1442** | 785 | 574 | 2801 |
-| China | **1193** | 1128 | 996 | 3317 |
+| China | **1197** | 1129 | 999 | 3325 |
 | France | **1171** | 1039 | 899 | 3109 |
-| Netherlands | **1078** | 881 | 772 | 2731 |
+| Netherlands | **1078** | 882 | 773 | 2733 |
 | Poland | **935** | 618 | 496 | 2049 |
-| Hong Kong, China | **556** | 529 | 445 | 1530 |
+| Hong Kong, China | **556** | 529 | 446 | 1531 |
 | Canada | **555** | 563 | 605 | 1723 |
-| Malaysia | **520** | 557 | 520 | 1597 |
-| Switzerland | **516** | 546 | 438 | 1500 |
+| Malaysia | **520** | 557 | 521 | 1598 |
+| Switzerland | **518** | 547 | 438 | 1503 |
 | United Kingdom | **514** | 568 | 527 | 1609 |
-| India | **479** | 490 | 452 | 1421 |
+| India | **481** | 491 | 452 | 1424 |
 | Republic of Korea | **468** | 391 | 351 | 1210 |
 | Italy | **461** | 469 | 451 | 1381 |
 | Ukraine | **423** | 432 | 439 | 1294 |
 | Denmark | **409** | 358 | 295 | 1062 |
 | Sweden | **359** | 418 | 415 | 1192 |
 | Finland | **336** | 274 | 243 | 853 |
-| Australia | **319** | 189 | 141 | 649 |
+| Australia | **319** | 191 | 143 | 653 |
 | Argentina | **308** | 215 | 188 | 711 |
 | Indonesia | **293** | 284 | 215 | 792 |
 | Singapore | **282** | 247 | 264 | 793 |
 | Chinese Taipei | **276** | 264 | 258 | 798 |
-| Japan | **273** | 224 | 203 | 700 |
+| Japan | **273** | 224 | 204 | 701 |
 | Romania | **270** | 204 | 169 | 643 |
 | Ireland | **247** | 126 | 111 | 484 |
-| Spain | **245** | 239 | 259 | 743 |
+| Spain | **246** | 240 | 259 | 745 |
 | Austria | **241** | 269 | 297 | 807 |
 | Slovenia | **212** | 279 | 285 | 776 |
 | Peru | **198** | 194 | 252 | 644 |
-| Czech Republic | **193** | 214 | 225 | 632 |
+| Czech Republic | **194** | 214 | 225 | 633 |
 | Latvia | **188** | 269 | 272 | 729 |
 | Belgium | **165** | 243 | 236 | 644 |
 | Kazakhstan | **156** | 189 | 200 | 545 |

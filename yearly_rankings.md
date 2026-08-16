@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 
 ### Rubik's Cube - Single
@@ -13,11 +13,11 @@
 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | **2.80** | China | [Deqing Small & Special 2026](https://www.worldcubeassociation.org/competitions/DeqingSmallSpecial2026) | 3.79, 4.33, 3.61, 3.74, 2.80 |
 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | **3.32** | China | [Deqing Small & Special 2026](https://www.worldcubeassociation.org/competitions/DeqingSmallSpecial2026) | 5.22, 5.65, 5.21, 3.32, 7.10 |
 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | **3.32** | China | [Zhanjiang Open 2026](https://www.worldcubeassociation.org/competitions/ZhanjiangOpen2026) | 4.80, 5.23, 4.79, 4.59, 3.32 |
+| [Aaron Jake Wong](https://www.worldcubeassociation.org/persons/2021WONG02) | **3.34** | United States | [Mid-Atlantic Warm-Up 2026](https://www.worldcubeassociation.org/competitions/MidAtlanticWarmUp2026) | 3.34, 6.23, 8.24, 6.14, 6.36 |
 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | **3.34** | China | [Hangzhou Open 2026](https://www.worldcubeassociation.org/competitions/HangzhouOpen2026) | 4.82, 3.34, 4.25, 6.68, 4.73 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | **3.35** | China | [Guangdong Revival & Rival 2026](https://www.worldcubeassociation.org/competitions/GuangdongRevivalRival2026) | 5.71, 7.46, 5.07, 4.50, 3.35 |
 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | **3.39** | China | [Deqing Small & Special 2026](https://www.worldcubeassociation.org/competitions/DeqingSmallSpecial2026) | 4.47, 4.86, 5.37, 3.39, 3.80 |
 | [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) | **3.50** | China | [Chengdu Welcoming Summer 2026](https://www.worldcubeassociation.org/competitions/ChengduWelcomingSummer2026) | 6.90, 4.56, 5.77, 3.50, 5.51 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **3.56** | Poland | [Głuszyca Open 2026](https://www.worldcubeassociation.org/competitions/GluszycaOpen2026) | 3.56, 5.86, 4.52, 5.61, 3.99 |
 
 ### Rubik's Cube - Average
 
@@ -57,12 +57,12 @@
 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | **0.92** | United States | [Cubing in the Woods OH 2026](https://www.worldcubeassociation.org/competitions/CubingintheWoodsOH2026) | 1.02, 0.93, 0.94, 0.90, 0.81 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **0.93** | Poland | [Cube4fun in Barcin 2026](https://www.worldcubeassociation.org/competitions/Cube4funinBarcin2026) | 0.74, 1.16, 0.83, 1.15, 0.82 |
 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | **0.94** | Singapore | [Singapore Warm Up January 2026](https://www.worldcubeassociation.org/competitions/SingaporeWarmUpJanuary2026) | 1.11, 0.78, 0.89, 0.83, 1.65 |
+| [Seth Nasol](https://www.worldcubeassociation.org/persons/2023NASO01) | **0.98** | New Zealand | [Christchurch Winter 2026](https://www.worldcubeassociation.org/competitions/ChristchurchWinter2026) | 0.93, 0.83, 1.17, 0.73, 1.25 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **0.99** | United States | [DFW Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/DFWCubingWinter2026) | 6.22, 0.85, 0.94, 0.75, 1.18 |
 | [Emanuel Schelin](https://www.worldcubeassociation.org/persons/2022SCHE13) | **1.01** | Sweden | [Alekuben 2026](https://www.worldcubeassociation.org/competitions/Alekuben2026) | 0.81, 1.11, 0.85, 1.07, DNF |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **1.02** | Poland | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.20, 0.91, 1.39, 0.90, 0.94 |
 | [Matias Marcantoni-Nunez](https://www.worldcubeassociation.org/persons/2022NUNE03) | **1.02** | United States | [Scenic City Summer TN 2026](https://www.worldcubeassociation.org/competitions/ScenicCitySummerTN2026) | 1.12, 0.93, 1.00, 0.88, 1.12 |
 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | **1.04** | China | [Xuzhou Zenith 2026](https://www.worldcubeassociation.org/competitions/XuzhouZenith2026) | 0.86, 1.47, 1.06, 0.87, 1.19 |
-| [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | **1.05** | Spain | [GAN CubingVic 2026](https://www.worldcubeassociation.org/competitions/GANCubingVic2026) | 1.15, 1.11, 0.89, 1.59, 0.65 |
 
 ### 4x4x4 Cube - Single
 
@@ -268,7 +268,7 @@
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **7.95** | United Kingdom | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 9.60, 8.00, 8.09, 7.11, 7.76 |
 | [Pranav Gadge](https://www.worldcubeassociation.org/persons/2017GADG01) | **8.01** | India | [IISER Pune PARAM Open 2026](https://www.worldcubeassociation.org/competitions/IISERPunePARAMOpen2026) | 6.88, 8.72, 8.05, 7.76, 8.22 |
 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | **8.24** | Switzerland | [Warm Up Lent 2026](https://www.worldcubeassociation.org/competitions/WarmUpLent2026) | 7.28, 8.07, 11.71, 8.82, 7.83 |
-| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **8.36** | New Zealand | [NZ North Island Champs 2026](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2026) | 8.80, 7.45, 8.65, 8.25, 8.17 |
+| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | **8.31** | New Zealand | [Christchurch Winter 2026](https://www.worldcubeassociation.org/competitions/ChristchurchWinter2026) | 6.76, 8.08, 8.51, 8.35, 8.85 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **8.43** | France | [Racines Cubik de Beutre 2026](https://www.worldcubeassociation.org/competitions/RacinesCubikdeBeutre2026) | 8.13, 8.82, 8.01, 8.35, 9.10 |
 | [Akash Sreedharan (ஆகாஷ் ஸ்ரீதரன்)](https://www.worldcubeassociation.org/persons/2019SREE06) | **8.43** | Singapore | [Back to Downtown Singapore 2026](https://www.worldcubeassociation.org/competitions/BacktoDowntownSingapore2026) | 8.40, 9.25, 19.34, 7.49, 7.64 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **8.51** | Poland | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026) | 8.43, 6.77, 10.12, 7.63, 9.46 |
@@ -488,6 +488,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **62/64 59:56** | Switzerland | [Kewbz UK BLD Championship 2026](https://www.worldcubeassociation.org/competitions/KewbzUKBLDChampionship2026) | 49/58 53:51, 49/60 58:21, 62/64 59:56 |
 | [Andrew Tao](https://www.worldcubeassociation.org/persons/2022TAOA01) | **60/63 58:36** | United States | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026) | 54/63 1:00:00, 60/63 58:36 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **61/68 58:32** | United States | [New York Multimate PBQ V 2026](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQV2026) | 46/68 59:35, 60/68 57:59, 61/68 58:32 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **60/66 58:49** | Poland | [WIW at Opole 2026](https://www.worldcubeassociation.org/competitions/WIWatOpole2026) | 60/66 58:49 |
@@ -497,7 +498,6 @@
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | **55/58 59:15** | New Zealand | [NZ North Island Champs 2026](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2026) | 55/58 59:15 |
 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **53/57 59:05** | United States | [New York Multimate PBQ IV 2026](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQIV2026) | 53/57 59:05, 5/5 2:57, 45/57 1:00:00 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **49/53 58:12** | Poland | [Brizzon Side Open III 2026](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2026) | 41/51 1:00:00, 46/51 57:22, 49/53 58:12 |
-| [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **51/59 59:49** | China | [More Than One Cube Shanghai 2026](https://www.worldcubeassociation.org/competitions/MoreThanOneCubeShanghai2026) | 46/59 59:50, 51/59 59:49, 45/59 59:52 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

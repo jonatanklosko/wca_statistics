@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 
 ### Rubik's Cube
@@ -159,9 +159,9 @@
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 1.41 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 1.57, 1.39, 1.27, 1.16, 1.43, 1.66, 1.03, 1.19, 1.44, 1.32, 1.11, 1.77, 1.83, 1.44, 1.39, 1.65, 1.48, 1.40, 1.40, 2.20, 1.09, 2.58, 1.23, 1.20, 1.38 |
+| 1.62 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.47, 1.84, 2.07, 1.62, 1.72, 0.96, 1.15, 1.34, 1.94, 1.33, 2.19, 1.47, 1.60, 3.40, 1.70, 1.57, 1.68, 2.04, 1.70, 1.52, 1.77, 1.55, 1.47, 1.34, 1.38 |
 | 1.63 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 1.57, 1.58, 2.62, 1.97, 1.45, 1.37, 1.48, 2.44, 1.16, 1.60, 1.48, DNF, 1.09, 1.74, 1.37, 1.55, 1.29, 1.42, 1.48, 3.22, 1.27, 1.96, 1.32, 1.63, 1.62 |
 | 1.65 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.84, 1.36, 1.14, 2.28, 1.52, 1.39, 1.47, 2.02, 1.34, 1.45, 3.97, 1.87, 2.06, 1.34, 1.28, 1.32, 1.84, 2.37, 1.73, 1.52, 2.03, 1.53, 1.44, 1.64, 1.58 |
-| 1.65 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.28, 2.82, 1.49, 1.34, 1.81, 1.29, 2.11, 2.17, 1.19, 3.94, 1.88, 1.95, 1.58, 1.88, 1.52, 1.24, 1.41, 2.33, 1.73, 1.43, 1.64, 1.60, 1.82, 1.08, 1.18 |
 | 1.65 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | 2.03, 1.25, 1.47, 1.61, 1.68, 1.90, 1.43, 1.56, 2.78, 1.45, 1.62, 1.31, 1.65, 1.62, 4.04, 1.85, 1.68, 1.55, 1.47, 1.43, 1.42, 3.70, 1.16, 1.75, 1.42 |
 | 1.67 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.28, 1.45, 1.72, 2.45, 1.82, 1.74, 1.65, 1.81, 1.96, 1.97, 2.03, 1.67, 1.79, 1.63, 1.47, 1.85, 1.90, 1.81, 1.32, 1.61, 1.53, 1.42, 1.39, 1.57, 1.41 |
 | 1.68 | [Shuda Huang (黄黍达)](https://www.worldcubeassociation.org/persons/2021HUAN02) | 1.68, 1.36, 1.41, DNF, 1.70, 2.49, 1.58, 1.64, 2.20, 1.68, 1.32, 4.22, 1.53, 1.79, 1.80, 1.51, 1.40, 1.29, 1.69, 1.74, 1.50, 1.67, 1.34, 1.60, 1.97 |

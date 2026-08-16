@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -306,6 +306,7 @@
 | 1222 | [Harry Forbes](https://www.worldcubeassociation.org/persons/2021FORB01) |
 | 1225 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
 | 1231 | [Max Day](https://www.worldcubeassociation.org/persons/2014DAYM01) |
+| 1231 | [Florian Bernard](https://www.worldcubeassociation.org/persons/2023BERN07) |
 | 1232 | [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) |
 | 1232 | [Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01) |
 | 1238 | [Aubrey Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
@@ -370,6 +371,7 @@
 | 1471 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
 | 1476 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 1477 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
+| 1477 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) |
 | 1483 | [Will Belote](https://www.worldcubeassociation.org/persons/2015BELO03) |
 | 1484 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1484 | [Edward Connell](https://www.worldcubeassociation.org/persons/2018CONN04) |

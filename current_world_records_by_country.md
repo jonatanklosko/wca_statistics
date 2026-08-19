@@ -1,6 +1,6 @@
 ## Current world records count by country
 
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | WRs | Country | People |
 | ---: | :--- | :--- |
@@ -9,7 +9,6 @@
 | 6 | Poland | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 2 | Malaysia | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 2 | New Zealand | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
-| 1 | Australia | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) |
 | 1 | Czech Republic | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) |
 | 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
 | 1 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01) |

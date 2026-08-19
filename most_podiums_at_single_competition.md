@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -437,6 +437,7 @@
 | 10 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Darwin Open 2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019/results/podiums) |
 | 10 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [Darwin Open 2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Dåstrup Diverse 2024](https://www.worldcubeassociation.org/competitions/DastrupDiverse2024/results/podiums) |
+| 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Dåstrup Diverse 2026](https://www.worldcubeassociation.org/competitions/DastrupDiverse2026/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Dåstrup Sleepover 2018](https://www.worldcubeassociation.org/competitions/DastrupSleepover2018/results/podiums) |
 | 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Dębica Cubing Winter 2025](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2025/results/podiums) |
 | 10 | [Cristian Castellanos Guevara](https://www.worldcubeassociation.org/persons/2024GUEV01) | [Delacuesta Xmas 2025](https://www.worldcubeassociation.org/competitions/DelacuestaXmas2025/results/podiums) |
@@ -1122,6 +1123,7 @@
 | 10 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Parets Open 2026](https://www.worldcubeassociation.org/competitions/ParetsOpen2026/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Partage Open 2023](https://www.worldcubeassociation.org/competitions/PartageOpen2023/results/podiums) |
 | 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Patna Cube Challenge 2025](https://www.worldcubeassociation.org/competitions/PatnaCubeChallenge2025/results/podiums) |
+| 11 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Patna Cube Challenge 2026](https://www.worldcubeassociation.org/competitions/PatnaCubeChallenge2026/results/podiums) |
 | 11 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Pavlodar Open 2025](https://www.worldcubeassociation.org/competitions/PavlodarOpen2025/results/podiums) |
 | 10 | [Nikita Kolpakov](https://www.worldcubeassociation.org/persons/2017KOLP02) | [Pavlodar Open 2025](https://www.worldcubeassociation.org/competitions/PavlodarOpen2025/results/podiums) |
 | 10 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [PB Smashathon 2015](https://www.worldcubeassociation.org/competitions/PBSmashathon2015/results/podiums) |
@@ -1430,6 +1432,7 @@
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Tietomaa Open 2018](https://www.worldcubeassociation.org/competitions/TietomaaOpen2018/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Tietomaa Open 2019](https://www.worldcubeassociation.org/competitions/TietomaaOpen2019/results/podiums) |
 | 10 | [Carlos Villanueva](https://www.worldcubeassociation.org/persons/2017VILL30) | [Tilcara Open 2026](https://www.worldcubeassociation.org/competitions/TilcaraOpen2026/results/podiums) |
+| 10 | [Artur Augusto Mendes](https://www.worldcubeassociation.org/persons/2023MEND17) | [Timbó ao Cubo 2026](https://www.worldcubeassociation.org/competitions/TimboaoCubo2026/results/podiums) |
 | 11 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [Tivat Open 2025](https://www.worldcubeassociation.org/competitions/TivatOpen2025/results/podiums) |
 | 10 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | [Tlaxcala 2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Tofta Summer Open 2023](https://www.worldcubeassociation.org/competitions/ToftaSummerOpen2023/results/podiums) |

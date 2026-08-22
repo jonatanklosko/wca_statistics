@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 August 2026*
+*Updated on 22 August 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -200,6 +200,7 @@
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Binghamton Summer 2025](https://www.worldcubeassociation.org/competitions/BinghamtonSummer2025/results/podiums) |
 | 10 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Binus Speedcubing 2024](https://www.worldcubeassociation.org/competitions/BinusSpeedcubing2024/results/podiums) |
 | 11 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Birmingham Open 2016](https://www.worldcubeassociation.org/competitions/BirminghamOpen2016/results/podiums) |
+| 10 | [Mohammad Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS07) | [Birzeit Cubing 2026](https://www.worldcubeassociation.org/competitions/BirzeitCubing2026/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Bjerringbro Open 2023](https://www.worldcubeassociation.org/competitions/BjerringbroOpen2023/results/podiums) |
 | 12 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Björneborg Weekend 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWeekend2023/results/podiums) |
 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Björneborg Weekend 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWeekend2023/results/podiums) |
@@ -393,6 +394,7 @@
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [CubingUSA Southern Champ... 2022](https://www.worldcubeassociation.org/competitions/CubingUSASouthernChampionshi2022/results/podiums) |
 | 13 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [CubingZA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingZANationalChampionship2023/results/podiums) |
 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [CubUai UFMG Open 2024](https://www.worldcubeassociation.org/competitions/CubUaiUFMGOpen2024/results/podiums) |
+| 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Cultura Campos do Jordão 2026](https://www.worldcubeassociation.org/competitions/CulturaCamposdoJordao2026/results/podiums) |
 | 12 | [Christian Saenz Valdivia](https://www.worldcubeassociation.org/persons/2013VALD02) | [Cultural Open 2014](https://www.worldcubeassociation.org/competitions/CulturalOpen2014/results/podiums) |
 | 10 | [Leon Marcell Alamanda](https://www.worldcubeassociation.org/persons/2018ALAM08) | [Cupika Jakarta Summer 2026](https://www.worldcubeassociation.org/competitions/CupikaJakartaSummer2026/results/podiums) |
 | 10 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Curtan Cubing Contest 2024](https://www.worldcubeassociation.org/competitions/CurtanCubingContest2024/results/podiums) |

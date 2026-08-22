@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 19 August 2026*
+*Updated on 22 August 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -32,9 +32,9 @@
 | 144 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 144 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
 | 142 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
-| 140 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
+| 141 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 140 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
-| 138 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
+| 140 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 137 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) |
 | 136 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 132 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
@@ -92,13 +92,13 @@
 | 98 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 97 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 97 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
-| 95 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
+| 96 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
+| 95 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) |
 | 95 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 95 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
-| 95 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) |
+| 95 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 | 94 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
 | 94 | [Federico da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) |
-| 94 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
 | 93 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
 | 93 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 93 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |

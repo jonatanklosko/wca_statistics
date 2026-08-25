@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -16,6 +16,7 @@
 | 665 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
 | 671 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
 | 707 | [János Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
+| 735 | [Zicong Liu (刘子聪)](https://www.worldcubeassociation.org/persons/2024LIUZ11) |
 | 749 | [Zaya Qiaolong (俏龙扎雅)](https://www.worldcubeassociation.org/persons/2024QIAO03) |
 | 854 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
 | 861 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) |

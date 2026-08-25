@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -194,6 +194,7 @@
 | 868 | [Brayden Thompson](https://www.worldcubeassociation.org/persons/2022THOM14) |
 | 873 | [Felipe Santamaría Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ03) |
 | 876 | [Leo Johansson](https://www.worldcubeassociation.org/persons/2022JOHA08) |
+| 876 | [Tianyu Yang (杨天宇)](https://www.worldcubeassociation.org/persons/2024YANG18) |
 | 881 | [Georgiy Titov](https://www.worldcubeassociation.org/persons/2013TITO02) |
 | 881 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) |
 | 882 | [Haoyang Chen (陈浩杨)](https://www.worldcubeassociation.org/persons/2016CHEH02) |
@@ -583,7 +584,7 @@
 | 2435 | [Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06) |
 | 2436 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) |
 | 2436 | [Ben Timmons](https://www.worldcubeassociation.org/persons/2017TIMM01) |
-| 2443 | [Bowen Xie](https://www.worldcubeassociation.org/persons/2018XIEB01) |
+| 2443 | [Bowen Xie (解博文)](https://www.worldcubeassociation.org/persons/2018XIEB01) |
 | 2464 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 2471 | [Nick Vu](https://www.worldcubeassociation.org/persons/2007VUNI01) |
 | 2471 | [David Akerboom](https://www.worldcubeassociation.org/persons/2018AKER01) |

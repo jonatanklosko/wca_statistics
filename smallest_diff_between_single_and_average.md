@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 
 ### Rubik's Cube
@@ -146,13 +146,13 @@
 | 0.01 | [Matthew Jalkut](https://www.worldcubeassociation.org/persons/2023JALK01) | 2.11 | 2.12 | [Skowhegan Puzzlefest 2026](https://www.worldcubeassociation.org/competitions/SkowheganPuzzlefest2026/results/by_person#2023JALK01) |
 | 0.02 | [Yiyang Shen (申伊杨)](https://www.worldcubeassociation.org/persons/2024SHEN20) | 2.48 | 2.50 | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025/results/by_person#2024SHEN20) |
 | 0.02 | [Yi Wang (王旖)](https://www.worldcubeassociation.org/persons/2011WANG33) | 2.98 | 3.00 | [Suzhou Open 2017](https://www.worldcubeassociation.org/competitions/SuzhouOpen2017/results/by_person#2011WANG33) |
+| 0.02 | [Jhersson Cabezas Luizaga](https://www.worldcubeassociation.org/persons/2021LUIZ01) | 3.46 | 3.48 | [Cubing School SCZ 2026](https://www.worldcubeassociation.org/competitions/CubingSchoolSCZ2026/results/by_person#2021LUIZ01) |
 | 0.02 | [Cai Giesinger](https://www.worldcubeassociation.org/persons/2022GIES01) | 5.16 | 5.18 | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022/results/by_person#2022GIES01) |
 | 0.02 | [Toby Hogenhorst](https://www.worldcubeassociation.org/persons/2022HOGE01) | 5.60 | 5.62 | [Dutch Open 2024](https://www.worldcubeassociation.org/competitions/DutchOpen2024/results/by_person#2022HOGE01) |
 | 0.02 | [Kasper Warberg Borg](https://www.worldcubeassociation.org/persons/2020BORG01) | 9.37 | 9.39 | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022/results/by_person#2020BORG01) |
 | 0.03 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.49 | 1.52 | [Southern Solves 2024](https://www.worldcubeassociation.org/competitions/SouthernSolvesInvercargill2024/results/by_person#2018MURR03) |
 | 0.03 | [Milan Vincent Andric](https://www.worldcubeassociation.org/persons/2023ANDR25) | 1.60 | 1.63 | [LCCC Cubing Summer 2026](https://www.worldcubeassociation.org/competitions/LCCCCubingSummer2026/results/by_person#2023ANDR25) |
 | 0.03 | [David Andron-Silva](https://www.worldcubeassociation.org/persons/2022SILV37) | 1.64 | 1.67 | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/by_person#2022SILV37) |
-| 0.03 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.97 | 2.00 | [Miami in an Ohio Oxford 2023](https://www.worldcubeassociation.org/competitions/MiamiinanOhioOxford2023/results/by_person#2017PALA08) |
 
 ### Rubik's Clock
 

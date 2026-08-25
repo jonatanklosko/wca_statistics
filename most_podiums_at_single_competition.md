@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -823,6 +823,7 @@
 | 10 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | [KSF Club Almaty 2022](https://www.worldcubeassociation.org/competitions/KSFClubAlmaty2022/results/podiums) |
 | 11 | [Shubham Kumar](https://www.worldcubeassociation.org/persons/2013KUMA15) | [Kshitij Open 2014](https://www.worldcubeassociation.org/competitions/KshitijOpen2014/results/podiums) |
 | 11 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) | [KSRCT Cube Open 2022](https://www.worldcubeassociation.org/competitions/KSRCTCubeOpen2022/results/podiums) |
+| 10 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Kuala Lumpur CC 2026](https://www.worldcubeassociation.org/competitions/KualaLumpurCC2026/results/podiums) |
 | 13 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | [KubeKings Weekend 2015](https://www.worldcubeassociation.org/competitions/KubeKingsWeekend2015/results/podiums) |
 | 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Kublördag Jönköping I - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingI2024/results/podiums) |
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Kublördag Jönköping I - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingI2024/results/podiums) |
@@ -1313,6 +1314,7 @@
 | 11 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | [Sogndal Open 2025](https://www.worldcubeassociation.org/competitions/SogndalOpen2025/results/podiums) |
 | 12 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Sogndal Spring 2026](https://www.worldcubeassociation.org/competitions/SogndalSpring2026/results/podiums) |
 | 10 | [Armax Zander Guevara](https://www.worldcubeassociation.org/persons/2023GUEV06) | [SolveIt Bahrain 2025](https://www.worldcubeassociation.org/competitions/SolveItBahrain2025/results/podiums) |
+| 10 | [Mikhail Nikitin](https://www.worldcubeassociation.org/persons/2022NIKI03) | [SolveIt Bahrain 2026](https://www.worldcubeassociation.org/competitions/SolveItBahrain2026/results/podiums) |
 | 10 | [Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
 | 10 | [Will Gurnett](https://www.worldcubeassociation.org/persons/2016GURN01) | [Solving in Sale 2019](https://www.worldcubeassociation.org/competitions/SolvinginSale2019/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Solving in Sale 2026](https://www.worldcubeassociation.org/competitions/SolvinginSale2026/results/podiums) |

@@ -1,18 +1,18 @@
 ## Name parts count
 
 *Note: Local names within parentheses are ignored.*
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 | Parts | People | Countries of origin |
 | :--: | ---: | :--- |
 | 1 | 494 | India *(28.34 %)*, Indonesia *(20.65 %)*, United States *(10.12 %)*, China *(5.87 %)*, Australia *(3.04 %)* |
-| 2 | 215452 | United States *(25.49 %)*, China *(13.50 %)*, India *(7.45 %)*, Australia *(5.02 %)*, Canada *(4.54 %)* |
-| 3 | 49622 | United States *(12.04 %)*, India *(9.38 %)*, Spain *(8.16 %)*, Brazil *(7.08 %)*, Philippines *(5.59 %)* |
-| 4 | 25065 | Brazil *(14.43 %)*, Colombia *(12.99 %)*, Peru *(9.84 %)*, Mexico *(9.76 %)*, Philippines *(7.20 %)* |
-| 5 | 3317 | Brazil *(53.78 %)*, Malaysia *(11.70 %)*, Philippines *(5.52 %)*, Peru *(4.91 %)*, Spain *(3.01 %)* |
-| 6 | 706 | Brazil *(42.21 %)*, Malaysia *(32.29 %)*, Mexico *(4.39 %)*, Peru *(4.25 %)*, Spain *(1.56 %)* |
-| 7 | 79 | Brazil *(43.04 %)*, Malaysia *(37.97 %)*, Portugal *(8.86 %)*, Egypt *(2.53 %)*, Spain *(1.27 %)* |
-| 8 | 11 | Brazil *(36.36 %)*, Malaysia *(27.27 %)*, Dominican Republic *(9.09 %)*, Egypt *(9.09 %)*, Angola *(9.09 %)* |
+| 2 | 215702 | United States *(25.47 %)*, China *(13.52 %)*, India *(7.44 %)*, Australia *(5.02 %)*, Canada *(4.53 %)* |
+| 3 | 49706 | United States *(12.02 %)*, India *(9.37 %)*, Spain *(8.16 %)*, Brazil *(7.07 %)*, Philippines *(5.58 %)* |
+| 4 | 25138 | Brazil *(14.40 %)*, Colombia *(12.95 %)*, Peru *(9.81 %)*, Mexico *(9.73 %)*, Philippines *(7.18 %)* |
+| 5 | 3320 | Brazil *(53.73 %)*, Malaysia *(11.69 %)*, Philippines *(5.51 %)*, Peru *(4.91 %)*, Spain *(3.01 %)* |
+| 6 | 711 | Brazil *(41.91 %)*, Malaysia *(32.63 %)*, Mexico *(4.36 %)*, Peru *(4.22 %)*, Spain *(1.55 %)* |
+| 7 | 80 | Brazil *(42.50 %)*, Malaysia *(38.75 %)*, Portugal *(8.75 %)*, Egypt *(2.50 %)*, Brunei *(1.25 %)* |
+| 8 | 11 | Brazil *(36.36 %)*, Malaysia *(27.27 %)*, Angola *(9.09 %)*, Dominican Republic *(9.09 %)*, Egypt *(9.09 %)* |
 | 9 | 1 | Malaysia *(100.00 %)* |
 | 10 | 1 | Malaysia *(100.00 %)* |
 | 11 | 1 | Malaysia *(100.00 %)* |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1204,6 +1204,7 @@
 | 12 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | [Road to Nats Barquisimeto 2026](https://www.worldcubeassociation.org/competitions/RoadtoNatsBarquisimeto2026/results/podiums) |
 | 10 | [Louis Rodriguez Guerrero](https://www.worldcubeassociation.org/persons/2018RODR43) | [Road to Nats Barquisimeto 2026](https://www.worldcubeassociation.org/competitions/RoadtoNatsBarquisimeto2026/results/podiums) |
 | 10 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | [Rocky Mountain Championship 2024](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2024/results/podiums) |
+| 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Rocky Mountain Championship 2026](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2026/results/podiums) |
 | 10 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [Rocky Top 2017](https://www.worldcubeassociation.org/competitions/RockyTop2017/results/podiums) |
 | 11 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Rocky Top 2023](https://www.worldcubeassociation.org/competitions/RockyTop2023/results/podiums) |
 | 10 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Rodeo Carnivals 2017](https://www.worldcubeassociation.org/competitions/RodeoCarnivals2017/results/podiums) |
@@ -1215,6 +1216,7 @@
 | 13 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Romanian National Day 2018](https://www.worldcubeassociation.org/competitions/RomanianNationalDay2018/results/podiums) |
 | 11 | [Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01) | [Romanian National Day 2018](https://www.worldcubeassociation.org/competitions/RomanianNationalDay2018/results/podiums) |
 | 10 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Romanian Nationals 2025](https://www.worldcubeassociation.org/competitions/RomanianNationals2025/results/podiums) |
+| 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Romanian Nationals 2026](https://www.worldcubeassociation.org/competitions/RomanianNationals2026/results/podiums) |
 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Romanian Open 2011](https://www.worldcubeassociation.org/competitions/RomanianOpen2011/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Romanian Open 2011](https://www.worldcubeassociation.org/competitions/RomanianOpen2011/results/podiums) |
 | 12 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Romanian Open 2012](https://www.worldcubeassociation.org/competitions/RomanianOpen2012/results/podiums) |

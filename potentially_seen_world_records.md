@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -75,8 +75,8 @@
 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 79 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 78 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
+| 78 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 78 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
-| 77 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 76 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |

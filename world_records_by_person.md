@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -46,6 +46,7 @@
 | 7 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) |
 | 7 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 7 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
+| 7 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 7 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) |
 | 7 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 6 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) |
@@ -68,7 +69,7 @@
 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
-| 5 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
+| 5 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 4 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) |
 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
@@ -85,7 +86,6 @@
 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 4 | [Michael Fung](https://www.worldcubeassociation.org/persons/2005FUNG01) |
 | 4 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 4 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 4 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 4 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 4 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |

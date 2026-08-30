@@ -11,8 +11,8 @@
 | 4 | 25320 | Brazil *(14.30 %)*, Colombia *(12.86 %)*, Peru *(9.74 %)*, Mexico *(9.66 %)*, Philippines *(7.14 %)* |
 | 5 | 3325 | Brazil *(53.65 %)*, Malaysia *(11.67 %)*, Philippines *(5.53 %)*, Peru *(4.90 %)*, Spain *(3.01 %)* |
 | 6 | 712 | Brazil *(41.99 %)*, Malaysia *(32.58 %)*, Mexico *(4.35 %)*, Peru *(4.21 %)*, Spain *(1.54 %)* |
-| 7 | 81 | Brazil *(43.21 %)*, Malaysia *(38.27 %)*, Portugal *(8.64 %)*, Egypt *(2.47 %)*, Spain *(1.23 %)* |
-| 8 | 11 | Brazil *(36.36 %)*, Malaysia *(27.27 %)*, Dominican Republic *(9.09 %)*, Egypt *(9.09 %)*, Angola *(9.09 %)* |
+| 7 | 81 | Brazil *(43.21 %)*, Malaysia *(38.27 %)*, Portugal *(8.64 %)*, Egypt *(2.47 %)*, Brunei *(1.23 %)* |
+| 8 | 11 | Brazil *(36.36 %)*, Malaysia *(27.27 %)*, Angola *(9.09 %)*, Dominican Republic *(9.09 %)*, Egypt *(9.09 %)* |
 | 9 | 1 | Malaysia *(100.00 %)* |
 | 10 | 1 | Malaysia *(100.00 %)* |
 | 11 | 1 | Malaysia *(100.00 %)* |

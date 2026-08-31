@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -54,6 +54,7 @@
 | 447 | [Xiaoliang Zhu (朱校良)](https://www.worldcubeassociation.org/persons/2017ZHUX01) |
 | 448 | [Jáchym Střelec](https://www.worldcubeassociation.org/persons/2022STRE03) |
 | 456 | [Juan Miguel C. Manalo](https://www.worldcubeassociation.org/persons/2024MANA05) |
+| 461 | [Amian Born](https://www.worldcubeassociation.org/persons/2025BORN04) |
 | 475 | [Maxime Madrzyk](https://www.worldcubeassociation.org/persons/2018MADR02) |
 | 476 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) |
 | 476 | [Jorian Meeuse](https://www.worldcubeassociation.org/persons/2022MEEU02) |

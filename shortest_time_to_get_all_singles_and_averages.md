@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -69,6 +69,7 @@
 | 1890 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) |
 | 1939 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
 | 1945 | [Thor Muto Asmund](https://www.worldcubeassociation.org/persons/2017ASMU01) |
+| 1946 | [Zijun Liu (刘子钧)](https://www.worldcubeassociation.org/persons/2021LIUZ07) |
 | 1987 | [Rodolphe Rouyrre](https://www.worldcubeassociation.org/persons/2020ROUY01) |
 | 2009 | [Jingcai Li (李经才)](https://www.worldcubeassociation.org/persons/2019LIJI25) |
 | 2084 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |

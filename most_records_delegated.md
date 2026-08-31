@@ -1,12 +1,12 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
 | 4173 | 184 | 306 | 3683 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
-| 2011 | 43 | 128 | 1840 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 2015 | 43 | 128 | 1844 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 1638 | 16 | 43 | 1579 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 1208 | 8 | 41 | 1159 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1202 | 25 | 101 | 1076 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
@@ -25,8 +25,8 @@
 | 720 | 4 | 31 | 685 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 714 | 10 | 58 | 646 | [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) |
 | 712 | 16 | 105 | 591 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) |
+| 694 | 2 | 12 | 680 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 675 | 14 | 17 | 644 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
-| 673 | 2 | 12 | 659 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 663 | 1 | 3 | 659 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) |
 | 662 | 8 | 52 | 602 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 660 | 13 | 32 | 615 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
@@ -46,7 +46,7 @@
 | 544 | 3 | 23 | 518 | [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) |
 | 543 | 8 | 39 | 496 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) |
 | 539 | 5 | 48 | 486 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) |
-| 535 | 5 | 11 | 519 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
+| 538 | 5 | 11 | 522 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 534 | 4 | 34 | 496 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
 | 531 | 5 | 47 | 479 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
 | 530 | 3 | 10 | 517 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -802,6 +802,7 @@
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Kanta-Hämeen Vääntelyt 2026](https://www.worldcubeassociation.org/competitions/KantaHameenKuutionvaantelyt2026/results/podiums) |
 | 10 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | [Kaohsiung Winter Open 2016](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2016/results/podiums) |
 | 11 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) | [Kārķi Open 2025](https://www.worldcubeassociation.org/competitions/KarkiOpen2025/results/podiums) |
+| 12 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) | [Kārķi Open 2026](https://www.worldcubeassociation.org/competitions/KarkiOpen2026/results/podiums) |
 | 10 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | [Karlstad Open 2010](https://www.worldcubeassociation.org/competitions/KarlstadOpen2010/results/podiums) |
 | 11 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | [Kaspiy Open 2018](https://www.worldcubeassociation.org/competitions/KaspiyOpen2018/results/podiums) |
 | 10 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) | [Kaunas KTU Open 2025](https://www.worldcubeassociation.org/competitions/KaunasKTUOpen2025/results/podiums) |

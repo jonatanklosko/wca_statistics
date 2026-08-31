@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -295,6 +295,7 @@
 | 9 | [FMC Challenge Kiribathgoda 2025](https://www.worldcubeassociation.org/competitions/FMCChallengeKiribathgoda2025) |
 | 9 | [FMC Colombia XI 2026](https://www.worldcubeassociation.org/competitions/FMCColombiaXI2026) |
 | 9 | [FMC in Stupava 2026](https://www.worldcubeassociation.org/competitions/FMCinStupava2026) |
+| 9 | [FMC Nedvězí 2026](https://www.worldcubeassociation.org/competitions/FMCNedvezi2026) |
 | 9 | [FMC Open Tijuana 2023](https://www.worldcubeassociation.org/competitions/FMCOpenTijuana2023) |
 | 9 | [FMCow Ohio State III 2024](https://www.worldcubeassociation.org/competitions/FMCowOhioStateIII2024) |
 | 9 | [FMC Romania 2nd 2024](https://www.worldcubeassociation.org/competitions/FMCRomania2nd2024) |
@@ -410,6 +411,7 @@
 | 10 | [FMC Ukrainian Nationals 2024](https://www.worldcubeassociation.org/competitions/FMCUkrainianNationals2024) |
 | 10 | [FMC WPI 2024](https://www.worldcubeassociation.org/competitions/FMCWPI2024) |
 | 10 | [FMC Ya Dublin OH 2024](https://www.worldcubeassociation.org/competitions/FMCYaDublinOH2024) |
+| 10 | [FMSea Sicily 2026](https://www.worldcubeassociation.org/competitions/FMSeaSicily2026) |
 | 10 | [Fun with FM in Warsaw II 2025](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsawII2025) |
 | 10 | [GA Cubers Study May 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyMay2023) |
 | 10 | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014) |
@@ -508,6 +510,7 @@
 | 11 | [Elmira Winter 2026](https://www.worldcubeassociation.org/competitions/ElmiraWinter2026) |
 | 11 | [Finger Lakes Side Events 2026](https://www.worldcubeassociation.org/competitions/FingerLakesSideEvents2026) |
 | 11 | [Finnish FMC Championship 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCChampionship2025) |
+| 11 | [FMC à Montréal 2026](https://www.worldcubeassociation.org/competitions/FMCaMontreal2026) |
 | 11 | [FMC at Fosters Pointe 2025](https://www.worldcubeassociation.org/competitions/FMCatFostersPointe2025) |
 | 11 | [FMC Carrières 2024](https://www.worldcubeassociation.org/competitions/FMCCarrieres2024) |
 | 11 | [FMC Colombia X 2026](https://www.worldcubeassociation.org/competitions/FMCColombiaX2026) |
@@ -561,6 +564,7 @@
 | 11 | [PBQ Ropaži 2024](https://www.worldcubeassociation.org/competitions/PBQRopazi2024) |
 | 11 | [PBQtah 4 2022](https://www.worldcubeassociation.org/competitions/PBQtah42022) |
 | 11 | [PBQtah 5 2023](https://www.worldcubeassociation.org/competitions/PBQtah52023) |
+| 11 | [PBQ Žilina 2026](https://www.worldcubeassociation.org/competitions/PBQZilina2026) |
 | 11 | [PBQ Belgium 2018](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBelgium2018) |
 | 11 | [Please Be Quiet Bergen 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBergen2024) |
 | 11 | [Please Be Quiet Colombo 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietColombo2024) |
@@ -743,6 +747,7 @@
 | 12 | [VERK XIV 2026](https://www.worldcubeassociation.org/competitions/VERKXIV2026) |
 | 12 | [Very Mini-sota 2024](https://www.worldcubeassociation.org/competitions/VeryMinisota2024) |
 | 12 | [Villavicencio Open II 2018](https://www.worldcubeassociation.org/competitions/VillavicencioOpenII2018) |
+| 12 | [Waihopai Winter 2026](https://www.worldcubeassociation.org/competitions/WaihopaiWinter2026) |
 | 12 | [Warsaw FMC Tour II Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIIFriday2024) |
 | 12 | [Wellington Mind Games 2022](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2022) |
 | 12 | [Westchester Blind Leap 2024](https://www.worldcubeassociation.org/competitions/WestchesterBlindLeap2024) |
@@ -934,6 +939,7 @@
 | 14 | [I Hope It's Solved EDM 2 2019](https://www.worldcubeassociation.org/competitions/IHopeItsSolvedEDM22019) |
 | 14 | [Ilo Speedcubing Summer 2026](https://www.worldcubeassociation.org/competitions/IloSpeedcubingSummer2026) |
 | 14 | [IranFMC 2015](https://www.worldcubeassociation.org/competitions/IranFMC2015) |
+| 14 | [Isla Cristina Open 2026](https://www.worldcubeassociation.org/competitions/IslaCristinaOpen2026) |
 | 14 | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023) |
 | 14 | [Johnshhhtown 2026](https://www.worldcubeassociation.org/competitions/Johnshhhtown2026) |
 | 14 | [Keep Portland Quiet 2016](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2016) |

@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -16,7 +16,7 @@
 | 8 | 4x4x4 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks for the InFive 2018](https://www.worldcubeassociation.org/competitions/ThanksfortheInFive2018) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025) | 6.75 |
 | 8 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 4.81 |
 | 8 | 7x7x7 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | [Puget Sound Fall 2017](https://www.worldcubeassociation.org/competitions/PugetSoundFall2017) | 2.19 |
-| 8 | 4x4x4 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Mental Breakdown Washington 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownWashington2019) |  | 7.34 |
+| 8 | 4x4x4 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Mental Breakdown Washington 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownWashington2019) |  | 7.35 |
 | 7 | 4x4x4 Blindfolded | Average | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |  | 7.14 |
 | 7 | 5x5x5 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024) | 6.34 |
 | 7 | Rubik's Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Day 2010](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2010) | [Zonhoven Open 2013](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2013) | 2.30 |

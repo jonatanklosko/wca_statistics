@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 
 ### Rubik's Cube
@@ -180,9 +180,9 @@
 | 0.03 | [Mingze Lin (林铭泽)](https://www.worldcubeassociation.org/persons/2019LINM03) | 2.68 | 2.71 | [Quanzhou Summer 2026](https://www.worldcubeassociation.org/competitions/QuanzhouSummer2026/results/by_person#2019LINM03) |
 | 0.03 | [Titus Sutterfield](https://www.worldcubeassociation.org/persons/2017SUTT01) | 3.07 | 3.10 | [Cubing in Cave Springs 2025](https://www.worldcubeassociation.org/competitions/CubinginCaveSprings2025/results/by_person#2017SUTT01) |
 | 0.03 | [Maxence Baudry](https://www.worldcubeassociation.org/persons/2014BAUD02) | 3.16 | 3.19 | [Rhein-Neckar Autumn 2023](https://www.worldcubeassociation.org/competitions/RheinNeckarAutumn2023/results/by_person#2014BAUD02) |
+| 0.03 | [Jakob Kitak](https://www.worldcubeassociation.org/persons/2018KITA03) | 3.90 | 3.93 | [Slovenian Nationals 2026](https://www.worldcubeassociation.org/competitions/SlovenianNationals2026/results/by_person#2018KITA03) |
 | 0.04 | [Roman Rudakov](https://www.worldcubeassociation.org/persons/2022RUDA02) | 2.57 | 2.61 | [Australian Nationals 2026](https://www.worldcubeassociation.org/competitions/AustralianNationals2026/results/by_person#2022RUDA02) |
 | 0.04 | [Alessandro Calzoni](https://www.worldcubeassociation.org/persons/2021CALZ01) | 2.90 | 2.94 | [Ticino Open 2023](https://www.worldcubeassociation.org/competitions/TicinoOpen2023/results/by_person#2021CALZ01) |
-| 0.04 | [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.90 | 2.94 | [You May Open 2018](https://www.worldcubeassociation.org/competitions/YouMayOpen2018/results/by_person#2016CAIY03) |
 
 ### Square-1
 

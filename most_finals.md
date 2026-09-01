@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -11,7 +11,7 @@
 | 2244 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 2214 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 2063 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 1963 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 1969 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1927 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1852 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1845 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
@@ -32,10 +32,10 @@
 | 1498 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 1492 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 1479 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 1412 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
+| 1417 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 1399 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 1394 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
-| 1382 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
+| 1390 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 1332 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1322 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1319 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |

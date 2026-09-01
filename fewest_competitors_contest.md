@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -304,6 +304,7 @@
 | 9 | [FMC Spring Lima 2023](https://www.worldcubeassociation.org/competitions/FMCSpringLima2023) |
 | 9 | [FMC Tijuas III 2025](https://www.worldcubeassociation.org/competitions/FMCTijuasIII2025) |
 | 9 | [FMC Warm Up Ukraine 2024](https://www.worldcubeassociation.org/competitions/FMCWarmUpUkraine2024) |
+| 9 | [FMSea Lipari 2026](https://www.worldcubeassociation.org/competitions/FMSeaLipari2026) |
 | 9 | [GA Cubers Study July 2023](https://www.worldcubeassociation.org/competitions/GACubersStudyJuly2023) |
 | 9 | [Gem City Airplane Mode 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneMode2023) |
 | 9 | [Gem City Airplane Mode III 2023](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeIII2023) |

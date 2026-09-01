@@ -1,7 +1,7 @@
 ## Most frequent delegate pairs
 
 *Note: Shows the most frequent cases of co-delegation between 2 Delegates*
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 | Names | Competitions Co-Delegated |
 | :--- | ---: |
@@ -26,6 +26,7 @@
 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) & [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) | 70 |
 | [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) & [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 70 |
 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) & [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 70 |
+| [Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01) & [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 70 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) & [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | 69 |
 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 69 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | 69 |
@@ -33,7 +34,6 @@
 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) & [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) | 67 |
 | [Alex Lehman](https://www.worldcubeassociation.org/persons/2015LEHM01) & [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | 67 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) & [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) | 67 |
-| [Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01) & [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 67 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) & [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 66 |
 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 66 |
 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) & [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 65 |

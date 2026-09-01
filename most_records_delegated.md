@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -25,7 +25,7 @@
 | 720 | 4 | 31 | 685 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 714 | 10 | 58 | 646 | [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) |
 | 712 | 16 | 105 | 591 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) |
-| 694 | 2 | 12 | 680 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
+| 693 | 2 | 12 | 679 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 675 | 14 | 17 | 644 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 663 | 1 | 3 | 659 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) |
 | 662 | 8 | 52 | 602 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
@@ -38,12 +38,12 @@
 | 622 | 8 | 80 | 534 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) |
 | 620 | 11 | 36 | 573 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) |
 | 585 | 7 | 15 | 563 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
+| 583 | 15 | 33 | 535 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
 | 580 | 3 | 38 | 539 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 571 | 9 | 159 | 403 | [Dave Campbell](https://www.worldcubeassociation.org/persons/2005CAMP01) |
 | 571 | 16 | 86 | 469 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) |
-| 568 | 14 | 33 | 521 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
 | 562 | 2 | 44 | 516 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
-| 544 | 3 | 23 | 518 | [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) |
+| 550 | 3 | 25 | 522 | [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) |
 | 543 | 8 | 39 | 496 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) |
 | 539 | 5 | 48 | 486 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) |
 | 538 | 5 | 11 | 522 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
@@ -90,11 +90,11 @@
 | 389 | 35 | 143 | 211 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 387 | 4 | 26 | 357 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
 | 383 | 12 | 65 | 306 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
+| 376 | 7 | 19 | 350 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 375 | 24 | 63 | 288 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 375 | 4 | 15 | 356 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 | 373 | 5 | 72 | 296 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 370 | 9 | 23 | 338 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |
-| 370 | 7 | 19 | 344 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 363 | 2 | 10 | 351 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 358 | 4 | 12 | 342 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) |
 | 357 | 0 | 2 | 355 | [Areli Rubí Gordillo Martínez](https://www.worldcubeassociation.org/persons/2014MART08) |

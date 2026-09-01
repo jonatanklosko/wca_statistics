@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 
 ### Rubik's Cube
@@ -54,7 +54,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 33.45 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 32.85, 35.03, 32.46, 37.10, 32.48 |
-| 34.17 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 37.91, 30.79, 31.78, 35.59, 35.15 |
+| 33.98 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 33.98, 33.49, 33.26, DNF, 34.48 |
 | 34.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 31.74, 37.61, 34.70, 37.03, 32.22 |
 | 34.76 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 31.95, 33.48, 41.16, 35.32, 35.49 |
 | 36.23 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 35.87, 37.77, 35.03, 41.23, 35.05 |
@@ -77,14 +77,14 @@
 | 1:08.76 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:07.08, 1:07.32, 1:11.87, 1:15.78, 1:05.42 |
 | 1:08.77 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:11.57, 1:07.51, 1:09.36, 1:03.81, 1:09.44 |
 | 1:09.80 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:10.68, 1:10.11, 1:08.23, 1:17.24, 1:08.60 |
-| 1:10.64 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:07.27, 1:13.17, 1:14.02, 1:06.16, 1:11.47 |
+| 1:10.23 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 1:06.16, 1:11.47, 1:30.57, 1:11.17, 1:08.06 |
 
 ### 7x7x7 Cube
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1:37.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:33.48, 1:41.36, 1:35.75, 1:48.81, 1:35.83 |
-| 1:39.28 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1:41.18, 1:34.42, 1:40.72, 1:39.09, 1:38.03 |
+| 1:37.97 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1:39.09, 1:38.03, 1:46.54, 1:35.88, 1:36.80 |
 | 1:39.74 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:39.91, 1:47.75, 1:39.89, 1:39.07, 1:39.42 |
 | 1:39.96 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:51.40, 1:33.72, 1:43.81, 1:41.82, 1:34.26 |
 | 1:41.35 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:51.35, 1:40.86, 1:34.32, 1:40.80, 1:42.38 |

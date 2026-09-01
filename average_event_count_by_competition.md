@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -28,8 +28,8 @@
 | [VERK IX 2025](https://www.worldcubeassociation.org/competitions/VERKIX2025) | 10.07 | 14 | Finland |
 | [Czech Open 2011](https://www.worldcubeassociation.org/competitions/CzechOpen2011) | 10.06 | 52 | Czech Republic |
 | [Riverlake 2026](https://www.worldcubeassociation.org/competitions/Riverlake2026) | 10.05 | 44 | Sweden |
-| [Porfyrkuben 2024](https://www.worldcubeassociation.org/competitions/Porfyrkuben2024) | 10.00 | 17 | Sweden |
 | [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025) | 10.00 | 9 | United States |
+| [Porfyrkuben 2024](https://www.worldcubeassociation.org/competitions/Porfyrkuben2024) | 10.00 | 17 | Sweden |
 | [Bristol Spring 2010](https://www.worldcubeassociation.org/competitions/BristolSpring2010) | 9.94 | 32 | United Kingdom |
 | [A Tuesday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/ATuesdayinAshfield2024) | 9.92 | 12 | United States |
 | [Ugnsbakad Falukorv Open 2026](https://www.worldcubeassociation.org/competitions/UgnsbakadFalukorvOpen2026) | 9.90 | 21 | Sweden |
@@ -41,10 +41,10 @@
 | [VERK XVI 2026](https://www.worldcubeassociation.org/competitions/VERKXVI2026) | 9.80 | 15 | Finland |
 | [Cyprus Nationals 2025](https://www.worldcubeassociation.org/competitions/CyprusNationals2025) | 9.79 | 42 | Cyprus |
 | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023) | 9.77 | 35 | Indonesia |
-| [Dvärsätt Open 2026](https://www.worldcubeassociation.org/competitions/DvarsattOpen2026) | 9.77 | 26 | Sweden |
 | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | 9.77 | 39 | Poland |
-| [Val d'Aran Open 2024](https://www.worldcubeassociation.org/competitions/ValdAranOpen2024) | 9.75 | 28 | Spain |
+| [Dvärsätt Open 2026](https://www.worldcubeassociation.org/competitions/DvarsattOpen2026) | 9.77 | 26 | Sweden |
 | [Bogotá No Duerme 2024](https://www.worldcubeassociation.org/competitions/BogotaNoDuerme2024) | 9.75 | 28 | Colombia |
+| [Val d'Aran Open 2024](https://www.worldcubeassociation.org/competitions/ValdAranOpen2024) | 9.75 | 28 | Spain |
 | [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021) | 9.72 | 25 | Sweden |
 | [Svealandsmästerskapet 2026](https://www.worldcubeassociation.org/competitions/Svealandsmasterskapet2026) | 9.66 | 87 | Sweden |
 | [Kediri Open 2013](https://www.worldcubeassociation.org/competitions/KediriOpen2013) | 9.65 | 23 | Indonesia |
@@ -95,9 +95,9 @@
 | [Poções 2019](https://www.worldcubeassociation.org/competitions/Pocoes2019) | 9.06 | 18 | Brazil |
 | [Capelle Chaos B 2026](https://www.worldcubeassociation.org/competitions/CapelleChaosB2026) | 9.05 | 41 | Netherlands |
 | [Southern Indiana Qualifier 2025](https://www.worldcubeassociation.org/competitions/SouthernIndianaQualifier2025) | 9.04 | 53 | United States |
+| [Sint Michielsgestel 2019](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2019) | 9.00 | 45 | Netherlands |
 | [NZ South Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2025) | 9.00 | 34 | New Zealand |
 | [Bulacan Open 2010](https://www.worldcubeassociation.org/competitions/BulacanOpen2010) | 9.00 | 16 | Philippines |
-| [Sint Michielsgestel 2019](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2019) | 9.00 | 45 | Netherlands |
 | [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026) | 9.00 | 228 | United States |
 | [Danish Open 2014](https://www.worldcubeassociation.org/competitions/DanishOpen2014) | 8.97 | 36 | Denmark |
 | [Heartland Championship 2019](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2019) | 8.96 | 93 | United States |

@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -25,13 +25,13 @@
 | 720 | 4 | 31 | 685 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 714 | 10 | 58 | 646 | [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) |
 | 712 | 16 | 105 | 591 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) |
-| 693 | 2 | 12 | 679 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
+| 689 | 2 | 12 | 675 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 675 | 14 | 17 | 644 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
+| 671 | 8 | 54 | 609 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 663 | 1 | 3 | 659 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) |
-| 662 | 8 | 52 | 602 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 660 | 13 | 32 | 615 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
+| 657 | 8 | 70 | 579 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 653 | 42 | 105 | 506 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
-| 648 | 8 | 68 | 572 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 647 | 6 | 24 | 617 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 646 | 8 | 58 | 580 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) |
 | 625 | 0 | 0 | 625 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) |
@@ -45,11 +45,11 @@
 | 562 | 2 | 44 | 516 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 550 | 3 | 25 | 522 | [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) |
 | 543 | 8 | 39 | 496 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) |
+| 540 | 5 | 49 | 486 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
+| 539 | 5 | 11 | 523 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 539 | 5 | 48 | 486 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) |
-| 538 | 5 | 11 | 522 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 534 | 4 | 34 | 496 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
-| 531 | 5 | 47 | 479 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
-| 530 | 3 | 10 | 517 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) |
+| 531 | 3 | 10 | 518 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) |
 | 530 | 3 | 17 | 510 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 527 | 9 | 23 | 495 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 515 | 6 | 23 | 486 | [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) |
@@ -68,9 +68,9 @@
 | 473 | 2 | 16 | 455 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 468 | 2 | 20 | 446 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 466 | 34 | 60 | 372 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
+| 453 | 4 | 31 | 418 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 452 | 48 | 72 | 332 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 450 | 34 | 100 | 316 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
-| 444 | 4 | 29 | 411 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 442 | 10 | 30 | 402 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 442 | 6 | 34 | 402 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 440 | 0 | 0 | 440 | [Ivo Kruusamägi](https://www.worldcubeassociation.org/persons/2018KRUU01) |
@@ -79,16 +79,16 @@
 | 432 | 15 | 112 | 305 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
 | 432 | 0 | 120 | 312 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) |
 | 417 | 9 | 25 | 383 | [Philippe Lucien](https://www.worldcubeassociation.org/persons/2011LUCI01) |
+| 410 | 5 | 29 | 376 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
 | 408 | 11 | 7 | 390 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 401 | 27 | 68 | 306 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
-| 401 | 5 | 27 | 369 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
 | 399 | 3 | 4 | 392 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) |
 | 398 | 6 | 21 | 371 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) |
+| 396 | 4 | 28 | 364 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
 | 395 | 2 | 40 | 353 | [Felipe Andres Rojas Garces](https://www.worldcubeassociation.org/persons/2009GARC02) |
 | 392 | 2 | 4 | 386 | [İskender Aznavur](https://www.worldcubeassociation.org/persons/2013AZNA01) |
 | 392 | 2 | 24 | 366 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 389 | 35 | 143 | 211 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
-| 387 | 4 | 26 | 357 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
 | 383 | 12 | 65 | 306 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 376 | 7 | 19 | 350 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 375 | 24 | 63 | 288 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
@@ -96,8 +96,8 @@
 | 373 | 5 | 72 | 296 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 370 | 9 | 23 | 338 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |
 | 363 | 2 | 10 | 351 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
+| 358 | 0 | 2 | 356 | [Areli Rubí Gordillo Martínez](https://www.worldcubeassociation.org/persons/2014MART08) |
 | 358 | 4 | 12 | 342 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) |
-| 357 | 0 | 2 | 355 | [Areli Rubí Gordillo Martínez](https://www.worldcubeassociation.org/persons/2014MART08) |
 | 355 | 14 | 67 | 274 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) |
 | 347 | 0 | 1 | 346 | [Lester Santos](https://www.worldcubeassociation.org/persons/2007SANT01) |
 | 335 | 3 | 4 | 328 | [Vidar Norstein Klungre](https://www.worldcubeassociation.org/persons/2008KLUN01) |

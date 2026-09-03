@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 
 ### Rubik's Cube
@@ -181,8 +181,8 @@
 | [Dayson Lu (吕昊骏)](https://www.worldcubeassociation.org/persons/2023LUDA02) | 3.02 | **3.29** | [Singapore Championship 2026](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2026/results/all#eclock_f) | 5 |
 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 3.09 | **3.33** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eclock_f) | 4 |
 | [Rex Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) | 3.00 | **3.34** | [Worlds Prep in Palisades 2025](https://www.worldcubeassociation.org/competitions/WorldsPrepinPalisades2025/results/all#eclock_f) | 4 |
+| [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) | 2.65 | **3.40** | [Kewbz UK Championship 2026](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2026/results/all#eclock_f) | 4 |
 | [Aarni Salakari](https://www.worldcubeassociation.org/persons/2022SALA09) | 2.86 | **3.43** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eclock_f) | 5 |
-| [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 2.11 | **3.45** | [Singapore Championship 2026](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2026/results/all#eclock_f) | 6 |
 
 ### Skewb
 

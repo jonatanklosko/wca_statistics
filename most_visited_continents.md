@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -171,6 +171,7 @@
 | 4 | [Oliver Jenks](https://www.worldcubeassociation.org/persons/2015JENK02) |
 | 4 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) |
 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 4 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) |
 | 4 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 4 | [Ryan Peh (白凯明)](https://www.worldcubeassociation.org/persons/2015PEHR01) |
 | 4 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |

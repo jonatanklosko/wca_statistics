@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 
 ### Competition
@@ -32,8 +32,8 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **23273** | 23704 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **22917** | 24845 |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **23357** | 23790 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **22941** | 24871 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **21256** | 22140 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **19594** | 20141 |
 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **19451** | 20042 |
@@ -51,42 +51,42 @@
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **15112** | 15820 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **14840** | 15277 |
 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | **14839** | 15041 |
-| [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | **14805** | 15288 |
+| [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | **14837** | 15323 |
 
 ### Country
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **6733152** | 7049183 |
-| China | **1613550** | 1690267 |
+| United States | **6737161** | 7053663 |
+| China | **1615650** | 1692403 |
 | Poland | **1490454** | 1570348 |
-| Australia | **1182342** | 1246903 |
-| United Kingdom | **1142349** | 1200511 |
-| Spain | **1109931** | 1163456 |
-| India | **1108909** | 1166091 |
+| Australia | **1182070** | 1246700 |
+| United Kingdom | **1160301** | 1219129 |
+| Spain | **1112744** | 1166463 |
+| India | **1111634** | 1168925 |
 | Germany | **895876** | 937381 |
 | Canada | **829226** | 864721 |
-| France | **793541** | 839014 |
+| France | **794301** | 839838 |
 | Brazil | **699812** | 732848 |
 | Colombia | **665133** | 697391 |
-| Sweden | **607251** | 639795 |
-| Philippines | **532513** | 553232 |
+| Sweden | **608004** | 640579 |
+| Philippines | **534112** | 554856 |
 | Italy | **518927** | 544970 |
 | Mexico | **491674** | 512456 |
 | Netherlands | **482852** | 503941 |
 | Russia | **430990** | 455777 |
-| Chinese Taipei | **399989** | 412561 |
+| Chinese Taipei | **401963** | 414566 |
 | Malaysia | **348203** | 361384 |
 
 ### Continent
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **11563429** | 12139199 |
-| North America | **8303928** | 8686818 |
-| Asia | **5925014** | 6202966 |
-| South America | **2488668** | 2604310 |
-| Oceania | **1492863** | 1572575 |
+| Europe | **11588106** | 12164950 |
+| North America | **8309857** | 8693290 |
+| Asia | **5933407** | 6211560 |
+| South America | **2489029** | 2604667 |
+| Oceania | **1492591** | 1572372 |
 | Africa | **231081** | 241365 |
 | Multiple Continents | **7213** | 9316 |
 
@@ -97,7 +97,7 @@
 | 2024 | **4728904** | 4946141 |
 | 2025 | **4533060** | 4737165 |
 | 2023 | **3999170** | 4182829 |
-| 2026 | **2826622** | 2972676 |
+| 2026 | **2865710** | 3013647 |
 | 2019 | **2537001** | 2656542 |
 | 2018 | **2218482** | 2324544 |
 | 2022 | **2118011** | 2217441 |
@@ -119,26 +119,26 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **9036965** | 9225606 |
-| 2x2x2 Cube | **5092330** | 5222263 |
-| Pyraminx | **3317292** | 3403005 |
-| 4x4x4 Cube | **2600349** | 2695375 |
-| 3x3x3 One-Handed | **2362010** | 2437639 |
-| Skewb | **2182099** | 2235436 |
-| 5x5x5 Cube | **1376356** | 1418388 |
-| Clock | **1005284** | 1157463 |
-| Megaminx | **984605** | 1024712 |
-| Square-1 | **859888** | 894914 |
-| 6x6x6 Cube | **345374** | 357430 |
-| 7x7x7 Cube | **282386** | 294795 |
-| 3x3x3 Blindfolded | **209813** | 568456 |
-| 3x3x3 Fewest Moves | **128186** | 173157 |
+| 3x3x3 Cube | **9049960** | 9238827 |
+| 2x2x2 Cube | **5097264** | 5227313 |
+| Pyraminx | **3320989** | 3406770 |
+| 4x4x4 Cube | **2602957** | 2698055 |
+| 3x3x3 One-Handed | **2365748** | 2441477 |
+| Skewb | **2185930** | 2239353 |
+| 5x5x5 Cube | **1378241** | 1420312 |
+| Clock | **1006995** | 1159409 |
+| Megaminx | **985783** | 1025912 |
+| Square-1 | **860768** | 895809 |
+| 6x6x6 Cube | **346081** | 358167 |
+| 7x7x7 Cube | **282820** | 295243 |
+| 3x3x3 Blindfolded | **210217** | 569632 |
+| 3x3x3 Fewest Moves | **128245** | 173234 |
 | Magic | **78268** | 86498 |
 | 3x3x3 With Feet | **51884** | 56650 |
 | Master Magic | **39964** | 41445 |
-| 3x3x3 Multi-Blind | **31113** | 52180 |
-| 4x4x4 Blindfolded | **19376** | 71911 |
-| 5x5x5 Blindfolded | **8249** | 38635 |
+| 3x3x3 Multi-Blind | **31126** | 52203 |
+| 4x4x4 Blindfolded | **19388** | 71963 |
+| 5x5x5 Blindfolded | **8251** | 38657 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

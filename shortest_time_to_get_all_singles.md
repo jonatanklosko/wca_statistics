@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -246,6 +246,7 @@
 | 1015 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) |
 | 1022 | [Jonah Blakeley](https://www.worldcubeassociation.org/persons/2021BLAK01) |
 | 1022 | [Lucas Lippman-Bruno](https://www.worldcubeassociation.org/persons/2022LIPP01) |
+| 1023 | [Albert Mao](https://www.worldcubeassociation.org/persons/2023MAOA01) |
 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 1030 | [Tuval Stone](https://www.worldcubeassociation.org/persons/2022STON03) |
 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
@@ -460,6 +461,7 @@
 | 1847 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) |
 | 1848 | [Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01) |
 | 1848 | [Bárbara Guerra](https://www.worldcubeassociation.org/persons/2019RIBE11) |
+| 1854 | [Aditya Arunkumar](https://www.worldcubeassociation.org/persons/2021ARUN01) |
 | 1855 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 1862 | [Christian Sachgau](https://www.worldcubeassociation.org/persons/2018SACH03) |
 | 1863 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |

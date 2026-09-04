@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on  2 September 2026*
+*Updated on  4 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |

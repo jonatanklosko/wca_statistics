@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  2 September 2026*
+*Updated on  4 September 2026*
 
 
 ### Rubik's Cube
@@ -9,8 +9,8 @@
 | First single | Person |
 | ---: | :--- |
 | 5.03 | [Haokai Zeng (曾浩锴)](https://www.worldcubeassociation.org/persons/2024ZENG06) |
-| 6.16 | [Yi Shen (沈懿)](https://www.worldcubeassociation.org/persons/2026SHEN01) |
 | 6.16 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) |
+| 6.16 | [Yi Shen (沈懿)](https://www.worldcubeassociation.org/persons/2026SHEN01) |
 | 6.25 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) |
 | 6.40 | [Jing Pan (潘婧)](https://www.worldcubeassociation.org/persons/2024PANJ01) |
 | 6.41 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) |
@@ -29,8 +29,8 @@
 | 1.19 | [Zachary Lam](https://www.worldcubeassociation.org/persons/2016LAMZ01) |
 | 1.28 | [Caleb Kinman](https://www.worldcubeassociation.org/persons/2017KINM02) |
 | 1.37 | [Jayden Aaryan Kundargi](https://www.worldcubeassociation.org/persons/2026KUND01) |
-| 1.39 | [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) |
 | 1.39 | [Zavian Valedon](https://www.worldcubeassociation.org/persons/2016VALE01) |
+| 1.39 | [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) |
 | 1.41 | [Juan Kim](https://www.worldcubeassociation.org/persons/2024KIMJ30) |
 | 1.45 | [Yoav Vishne](https://www.worldcubeassociation.org/persons/2022VISH01) |
 
@@ -115,14 +115,14 @@
 | ---: | :--- |
 | 21 | [Haru Matsuki (松木晴琉)](https://www.worldcubeassociation.org/persons/2024MATS09) |
 | 22 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
-| 22 | [Galih Arya Santosa](https://www.worldcubeassociation.org/persons/2016SANT40) |
-| 22 | [Yasunari Kumekawa (粂川泰成)](https://www.worldcubeassociation.org/persons/2022KUME01) |
 | 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
+| 22 | [Yasunari Kumekawa (粂川泰成)](https://www.worldcubeassociation.org/persons/2022KUME01) |
 | 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
-| 23 | [Mosfikul Islam](https://www.worldcubeassociation.org/persons/2023ISLA08) |
+| 22 | [Galih Arya Santosa](https://www.worldcubeassociation.org/persons/2016SANT40) |
 | 23 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
 | 23 | [Jihan Lee (이지한)](https://www.worldcubeassociation.org/persons/2025LEEJ41) |
-| 24 | [Thomas Heiden](https://www.worldcubeassociation.org/persons/2019HEID03) |
+| 23 | [Mosfikul Islam](https://www.worldcubeassociation.org/persons/2023ISLA08) |
+| 24 | [Yuki Sako](https://www.worldcubeassociation.org/persons/2023SAKO02) |
 
 ### 3x3x3 One-Handed
 
@@ -162,8 +162,8 @@
 | 1.66 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) |
 | 1.72 | [Chow Lok Hang (周樂恒)](https://www.worldcubeassociation.org/persons/2023HANG02) |
 | 1.93 | [Yifan Luo (骆奕帆)](https://www.worldcubeassociation.org/persons/2021LUOY02) |
-| 1.96 | [Artem Sosnovskikh](https://www.worldcubeassociation.org/persons/2026SOSN01) |
 | 1.96 | [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) |
+| 1.96 | [Artem Sosnovskikh](https://www.worldcubeassociation.org/persons/2026SOSN01) |
 | 2.04 | [Alina Zhu](https://www.worldcubeassociation.org/persons/2023ZHUA03) |
 | 2.16 | [Xuanbin Jin (金玄彬)](https://www.worldcubeassociation.org/persons/2025JINX01) |
 | 2.18 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |

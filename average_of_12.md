@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### Rubik's Cube
@@ -212,7 +212,7 @@
 | 5.63 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 5.12, 5.46, 4.88, 5.07, 7.51, 5.30, 4.59, 5.84, 8.47, 6.41, 6.09, 4.60 |
 | 5.69 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 5.64, 5.75, 4.41, 5.04, 4.91, 6.21, 6.05, 10.04, 6.15, 6.04, 5.59, 5.56 |
 | 5.89 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 6.98, 4.82, 5.56, 7.48, 6.00, 4.49, 5.90, 7.41, 6.00, 4.83, 6.07, 5.34 |
-| 5.97 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | 4.77, 5.59, 6.48, 5.59, 4.80, 7.32, 6.14, 10.37, 6.60, 5.92, 5.34, 5.92 |
+| 5.92 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.95, 5.41, 6.79, 6.16, 5.33, 5.14, 8.35, 5.29, 6.00, 6.39, 5.58, 6.28 |
 
 ### 4x4x4 Blindfolded
 

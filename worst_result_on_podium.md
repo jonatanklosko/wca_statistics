@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### Rubik's Cube
@@ -47,7 +47,7 @@
 | [Dennis Nilsson](https://www.worldcubeassociation.org/persons/2004NILS01) | 3:15.76 | **3:29.23** | [Chalmers Open 2005](https://www.worldcubeassociation.org/competitions/ChalmersOpen2005/results/podiums#e444) | 3 |
 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) | 3:13.32 | **3:28.46** | [Hungary 2005](https://www.worldcubeassociation.org/competitions/Hungary2005/results/podiums#e444) | 3 |
 | [Bill McGaugh](https://www.worldcubeassociation.org/persons/2004MCGA01) | 2:40.73 | **3:24.53** | [Caltech Spring 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004/results/podiums#e444) | 3 |
-| [Elnathan Ayi Nsa Ayi](https://www.worldcubeassociation.org/persons/2023AYIE01) | 2:29.82 | **3:21.47** | [Nigerian Championship 2023](https://www.worldcubeassociation.org/competitions/NigerianChampionship2023/results/podiums#e444) | 3 |
+| [Adamas Devolskis](https://www.worldcubeassociation.org/persons/2026DEVO02) | 2:20.23 | **3:21.93** | [Didieji Miško Kuberiai 2026](https://www.worldcubeassociation.org/competitions/DidiejiMiskoKuberiai2026/results/podiums#e444) | 2 |
 
 ### 5x5x5 Cube
 

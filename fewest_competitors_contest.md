@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -16,6 +16,7 @@
 | 3 | [China FM Zhengzhou 2011](https://www.worldcubeassociation.org/competitions/ChinaFMZhengzhou2011) |
 | 3 | [Creativity Makers 2023](https://www.worldcubeassociation.org/competitions/CreativityMakers2023) |
 | 3 | [Deck 9 2023](https://www.worldcubeassociation.org/competitions/Deck92023) |
+| 3 | [Didieji Miško Kuberiai 2026](https://www.worldcubeassociation.org/competitions/DidiejiMiskoKuberiai2026) |
 | 3 | [FMC in the Gulf of Finland 2024](https://www.worldcubeassociation.org/competitions/FewestMovesintheGulfofFinlan2024) |
 | 3 | [Finnish FMC Series II 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesII2025) |
 | 3 | [Finnish FMC Series V 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesV2025) |
@@ -84,6 +85,7 @@
 | 6 | [Akiba Expo Open 2018](https://www.worldcubeassociation.org/competitions/AkibaExpoOpen2018) |
 | 6 | [Arena Bernô City FM 2025](https://www.worldcubeassociation.org/competitions/ArenaBernoCityFM2025) |
 | 6 | [Big Cubata BLD II 2023](https://www.worldcubeassociation.org/competitions/BigCubataBLDII2023) |
+| 6 | [Big in Bahia 2026](https://www.worldcubeassociation.org/competitions/BiginBahia2026) |
 | 6 | [China FM Guangzhou 2011](https://www.worldcubeassociation.org/competitions/ChinaFMGuangzhou2011) |
 | 6 | [Cuban Open 2016](https://www.worldcubeassociation.org/competitions/CubanOpen2016) |
 | 6 | [Fantabulous MN Competition 2015](https://www.worldcubeassociation.org/competitions/FantabulousMinnesota2015) |
@@ -556,6 +558,7 @@
 | 11 | [Nagawczyna Side Open 2026](https://www.worldcubeassociation.org/competitions/NagawczynaSideOpen2026) |
 | 11 | [Namangan Open 2019](https://www.worldcubeassociation.org/competitions/NamanganOpen2019) |
 | 11 | [Northampton Newcomers C 2024](https://www.worldcubeassociation.org/competitions/NorthamptonNewcomersC2024) |
+| 11 | [Oberlin Weeknights II 2026](https://www.worldcubeassociation.org/competitions/OberlinWeeknightsII2026) |
 | 11 | [Oklahoma Quiet Championship 2024](https://www.worldcubeassociation.org/competitions/OklahomaQuietChampionship2024) |
 | 11 | [OSU Blind Weekend 2018](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2018) |
 | 11 | [Ōtepoti Big Cubes 2025](https://www.worldcubeassociation.org/competitions/OtepotiBigCubes2025) |

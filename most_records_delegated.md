@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -39,7 +39,7 @@
 | 620 | 11 | 36 | 573 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) |
 | 585 | 7 | 15 | 563 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 583 | 15 | 33 | 535 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
-| 580 | 3 | 38 | 539 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
+| 582 | 3 | 38 | 541 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 571 | 9 | 159 | 403 | [Dave Campbell](https://www.worldcubeassociation.org/persons/2005CAMP01) |
 | 571 | 16 | 86 | 469 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) |
 | 562 | 2 | 44 | 516 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
@@ -86,8 +86,8 @@
 | 398 | 6 | 21 | 371 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) |
 | 396 | 4 | 28 | 364 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
 | 395 | 2 | 40 | 353 | [Felipe Andres Rojas Garces](https://www.worldcubeassociation.org/persons/2009GARC02) |
+| 393 | 2 | 25 | 366 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 392 | 2 | 4 | 386 | [İskender Aznavur](https://www.worldcubeassociation.org/persons/2013AZNA01) |
-| 392 | 2 | 24 | 366 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 389 | 35 | 143 | 211 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 383 | 12 | 65 | 306 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 376 | 7 | 19 | 350 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |

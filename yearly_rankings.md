@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### Rubik's Cube - Single
@@ -60,9 +60,9 @@
 | [Seth Nasol](https://www.worldcubeassociation.org/persons/2023NASO01) | **0.98** | New Zealand | [Christchurch Winter 2026](https://www.worldcubeassociation.org/competitions/ChristchurchWinter2026) | 0.93, 0.83, 1.17, 0.73, 1.25 |
 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **0.99** | United States | [DFW Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/DFWCubingWinter2026) | 6.22, 0.85, 0.94, 0.75, 1.18 |
 | [Emanuel Schelin](https://www.worldcubeassociation.org/persons/2022SCHE13) | **1.01** | Sweden | [Alekuben 2026](https://www.worldcubeassociation.org/competitions/Alekuben2026) | 0.81, 1.11, 0.85, 1.07, DNF |
+| [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | **1.01** | Spain | [Bilbao Open 2026](https://www.worldcubeassociation.org/competitions/BilbaoOpen2026) | 0.87, 1.07, 3.53, 0.91, 1.06 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **1.02** | Poland | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.20, 0.91, 1.39, 0.90, 0.94 |
 | [Matias Marcantoni-Nunez](https://www.worldcubeassociation.org/persons/2022NUNE03) | **1.02** | United States | [Scenic City Summer TN 2026](https://www.worldcubeassociation.org/competitions/ScenicCitySummerTN2026) | 1.12, 0.93, 1.00, 0.88, 1.12 |
-| [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | **1.04** | China | [Xuzhou Zenith 2026](https://www.worldcubeassociation.org/competitions/XuzhouZenith2026) | 0.86, 1.47, 1.06, 0.87, 1.19 |
 
 ### 4x4x4 Cube - Single
 
@@ -474,7 +474,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | **2:30.84** | Malaysia | [Selangor PBQ 2026](https://www.worldcubeassociation.org/competitions/SelangorPBQ2026) | 2:44.59, 2:07.11, 2:40.81 |
-| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **2:59.40** | United Kingdom | [Wakefield Summer 2026](https://www.worldcubeassociation.org/competitions/WakefieldSummer2026) | 3:14.17, 2:30.97, 3:13.06 |
+| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **2:54.01** | United Kingdom | [Mayo Cubing 2026](https://www.worldcubeassociation.org/competitions/MayoCubing2026) | 3:04.07, 2:52.53, 2:45.42 |
 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **3:27.68** | China | [Quanzhou Blindfolded 2026](https://www.worldcubeassociation.org/competitions/QuanzhouBlindfolded2026) | 3:17.30, 3:55.13, 3:10.62 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **4:03.98** | Sweden | [Headache in Kode 2026](https://www.worldcubeassociation.org/competitions/HeadacheinKode2026) | 5:27.97, 3:34.89, 3:09.09 |
 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **4:08.76** | Austria | [Langenstein City Blind Open 2026](https://www.worldcubeassociation.org/competitions/LangensteinCityBlindOpen2026) | 4:09.41, 4:03.91, 4:12.96 |

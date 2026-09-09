@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -69,8 +69,8 @@
 | 20 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 20 | [Jochen Bauer](https://www.worldcubeassociation.org/persons/2018BAUE04) |
 | 20 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
-| 19 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 19 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
+| 19 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 19 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
 | 19 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
@@ -79,6 +79,7 @@
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 19 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
+| 19 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 19 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
@@ -96,7 +97,6 @@
 | 18 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 18 | [Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01) |
-| 18 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 18 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 18 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 18 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |

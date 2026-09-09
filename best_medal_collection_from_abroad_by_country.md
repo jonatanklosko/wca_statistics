@@ -1,15 +1,15 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| United States | **1651** | 1297 | 1112 | 4060 |
+| United States | **1651** | 1297 | 1113 | 4061 |
 | Hungary | **1591** | 1365 | 1165 | 4121 |
+| Germany | **1475** | 1383 | 1355 | 4213 |
 | Russia | **1473** | 796 | 577 | 2846 |
-| Germany | **1472** | 1382 | 1355 | 4209 |
-| China | **1217** | 1142 | 1008 | 3367 |
+| China | **1218** | 1142 | 1008 | 3368 |
 | France | **1173** | 1046 | 902 | 3121 |
 | Netherlands | **1078** | 882 | 773 | 2733 |
 | Poland | **951** | 624 | 499 | 2074 |
@@ -19,9 +19,9 @@
 | Malaysia | **521** | 560 | 524 | 1605 |
 | United Kingdom | **520** | 574 | 529 | 1623 |
 | India | **486** | 494 | 454 | 1434 |
-| Republic of Korea | **469** | 392 | 352 | 1213 |
+| Republic of Korea | **469** | 392 | 353 | 1214 |
 | Italy | **466** | 473 | 467 | 1406 |
-| Ukraine | **427** | 439 | 442 | 1308 |
+| Ukraine | **428** | 439 | 442 | 1309 |
 | Denmark | **413** | 360 | 303 | 1076 |
 | Sweden | **361** | 424 | 418 | 1203 |
 | Finland | **336** | 274 | 244 | 854 |
@@ -32,20 +32,20 @@
 | Chinese Taipei | **276** | 266 | 262 | 804 |
 | Japan | **274** | 225 | 206 | 705 |
 | Romania | **271** | 204 | 169 | 644 |
+| Spain | **255** | 247 | 267 | 769 |
 | Ireland | **251** | 126 | 111 | 488 |
-| Spain | **250** | 244 | 262 | 756 |
 | Austria | **243** | 272 | 298 | 813 |
 | Slovenia | **212** | 279 | 286 | 777 |
 | Peru | **199** | 203 | 254 | 656 |
 | Czech Republic | **196** | 220 | 229 | 645 |
 | Latvia | **188** | 269 | 273 | 730 |
-| Belgium | **167** | 246 | 242 | 655 |
+| Belgium | **167** | 246 | 243 | 656 |
 | Kazakhstan | **156** | 189 | 200 | 545 |
 | Colombia | **155** | 133 | 131 | 419 |
 | Lithuania | **145** | 121 | 123 | 389 |
 | Norway | **141** | 158 | 154 | 453 |
 | Greece | **140** | 171 | 138 | 449 |
-| Venezuela | **119** | 157 | 149 | 425 |
+| Venezuela | **121** | 161 | 152 | 434 |
 | Belarus | **115** | 86 | 99 | 300 |
 | Slovakia | **114** | 165 | 176 | 455 |
 | Philippines | **112** | 137 | 130 | 379 |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -464,6 +464,7 @@
 | 10 | [Rūdolfs Vīnkalns](https://www.worldcubeassociation.org/persons/2017VNKA01) | [Dobeles Vasara 2024](https://www.worldcubeassociation.org/competitions/DobelesVasara2024/results/podiums) |
 | 12 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Doge Open 2016](https://www.worldcubeassociation.org/competitions/DogeOpen2016/results/podiums) |
 | 10 | [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) | [Doge Open 2016](https://www.worldcubeassociation.org/competitions/DogeOpen2016/results/podiums) |
+| 13 | [Nícolas Raubach Munari](https://www.worldcubeassociation.org/persons/2022MUNA04) | [Dois Vizinhos Open 2026](https://www.worldcubeassociation.org/competitions/DoisVizinhosOpen2026/results/podiums) |
 | 10 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Don't DNF Dublin 2022](https://www.worldcubeassociation.org/competitions/DontDNFDublin2022/results/podiums) |
 | 10 | [Alrimar Dias Rocha Sobrinho](https://www.worldcubeassociation.org/persons/2011SOBR01) | [DRACO 2013](https://www.worldcubeassociation.org/competitions/Draco2013/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [DSF Generalforsamlingen 2022](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2022/results/podiums) |
@@ -1549,6 +1550,7 @@
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XIV 2026](https://www.worldcubeassociation.org/competitions/VERKXIV2026/results/podiums) |
 | 11 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [VERK XV 2026](https://www.worldcubeassociation.org/competitions/VERKXV2026/results/podiums) |
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XV 2026](https://www.worldcubeassociation.org/competitions/VERKXV2026/results/podiums) |
+| 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XVII 2026](https://www.worldcubeassociation.org/competitions/VERKXVII2026/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025/results/podiums) |
 | 11 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums) |

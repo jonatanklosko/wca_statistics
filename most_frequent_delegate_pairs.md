@@ -1,7 +1,7 @@
 ## Most frequent delegate pairs
 
 *Note: Shows the most frequent cases of co-delegation between 2 Delegates*
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 | Names | Competitions Co-Delegated |
 | :--- | ---: |
@@ -145,7 +145,7 @@
 | [RJ Gohn](https://www.worldcubeassociation.org/persons/2016GOHN01) & [Seth Talbot](https://www.worldcubeassociation.org/persons/2015TALB01) | 42 |
 | [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) & [Sherry Tao (陶心仪)](https://www.worldcubeassociation.org/persons/2022TAOS01) | 42 |
 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) & [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 41 |
-| [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) & [Nolan Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | 41 |
+| [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) & [Nolan Lata Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | 41 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) & [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 41 |
 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) & [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) | 41 |
 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) & [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | 41 |
@@ -206,7 +206,7 @@
 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) & [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | 36 |
 | [Ryutaro Miyazaki (宮崎隆太郎)](https://www.worldcubeassociation.org/persons/2017MIYA04) & [Yuichi Hamada (濵田祐一)](https://www.worldcubeassociation.org/persons/2012HAMA02) | 36 |
 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) & [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 35 |
-| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) & [Nolan Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | 35 |
+| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) & [Nolan Lata Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | 35 |
 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 35 |
 | [Dan Smith](https://www.worldcubeassociation.org/persons/2018SMIT42) & [Lydia Workman](https://www.worldcubeassociation.org/persons/2018WORK01) | 35 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) & [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 35 |

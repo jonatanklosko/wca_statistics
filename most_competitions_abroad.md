@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -25,7 +25,7 @@
 | 131 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 128 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 128 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
-| 125 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
+| 126 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 123 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 123 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 123 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
@@ -54,9 +54,9 @@
 | 95 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
 | 94 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 92 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
+| 91 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 91 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 90 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
-| 90 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 89 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 89 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
 | 89 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
@@ -66,7 +66,7 @@
 | 86 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 86 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 84 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
-| 81 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
+| 82 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 81 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 81 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 80 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
@@ -98,11 +98,11 @@
 | 70 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) |
 | 70 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 70 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
+| 69 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) |
 | 69 | [Muhtasim Al-Farabi](https://www.worldcubeassociation.org/persons/2017FARA06) |
 | 69 | [Lim Chun Yik (林峻毅)](https://www.worldcubeassociation.org/persons/2018YIKL01) |
 | 69 | [Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02) |
 | 68 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
-| 68 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) |
 | 68 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 
 

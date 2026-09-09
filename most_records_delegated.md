@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -49,10 +49,10 @@
 | 539 | 5 | 11 | 523 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 539 | 5 | 48 | 486 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) |
 | 534 | 4 | 34 | 496 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
+| 532 | 3 | 17 | 512 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 531 | 3 | 10 | 518 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) |
-| 530 | 3 | 17 | 510 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 527 | 9 | 23 | 495 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
-| 515 | 6 | 23 | 486 | [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) |
+| 517 | 6 | 23 | 488 | [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) |
 | 505 | 33 | 13 | 459 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 504 | 14 | 58 | 432 | [Chatchawan Jaruwattanakun (ชัชวาลย์ จารุวัฒนกุล)](https://www.worldcubeassociation.org/persons/2009JARU02) |
 | 501 | 0 | 19 | 482 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
@@ -76,8 +76,8 @@
 | 440 | 0 | 0 | 440 | [Ivo Kruusamägi](https://www.worldcubeassociation.org/persons/2018KRUU01) |
 | 438 | 35 | 67 | 336 | [Gilles Roux](https://www.worldcubeassociation.org/persons/2004ROUX01) |
 | 437 | 6 | 55 | 376 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 437 | 0 | 120 | 317 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) |
 | 432 | 15 | 112 | 305 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
-| 432 | 0 | 120 | 312 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) |
 | 417 | 9 | 25 | 383 | [Philippe Lucien](https://www.worldcubeassociation.org/persons/2011LUCI01) |
 | 410 | 5 | 29 | 376 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
 | 408 | 11 | 7 | 390 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |

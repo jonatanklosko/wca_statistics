@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on  8 September 2026*
+*Updated on 10 September 2026*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -17,7 +17,7 @@
 | 8 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 4.81 |
 | 8 | 7x7x7 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | [Puget Sound Fall 2017](https://www.worldcubeassociation.org/competitions/PugetSoundFall2017) | 2.19 |
 | 8 | 4x4x4 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Mental Breakdown Washington 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownWashington2019) |  | 7.37 |
-| 7 | 4x4x4 Blindfolded | Average | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |  | 7.16 |
+| 7 | 4x4x4 Blindfolded | Average | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |  | 7.17 |
 | 7 | 5x5x5 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024) | 6.34 |
 | 7 | Rubik's Cube | Single | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Day 2010](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2010) | [Zonhoven Open 2013](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2013) | 2.30 |
 | 6 | 3x3x3 Blindfolded | Single | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) | [Beijing Metropolis Open 2009](https://www.worldcubeassociation.org/competitions/BeijingMetropolisOpen2009) | [Tulancingo Open 2010](https://www.worldcubeassociation.org/competitions/TulancingoOpen2010) | 1.61 |
@@ -44,7 +44,7 @@
 | 5 | 7x7x7 Cube | Single | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | [Hefei Spring 2012](https://www.worldcubeassociation.org/competitions/HefeiSpring2012) | [Austrian Big Cube Open 2013](https://www.worldcubeassociation.org/competitions/AustrianBigCube2013) | 1.46 |
 | 5 | Pyraminx | Average | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Pabianice Open 2008](https://www.worldcubeassociation.org/competitions/PabianiceOpen2008) | 1.65 |
 | 5 | 6x6x6 Cube | Average | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011) | [TCG & Friends 2015](https://www.worldcubeassociation.org/competitions/TCGAndFriends2015) | 3.91 |
-| 5 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Square-1 Madison Square 2023](https://www.worldcubeassociation.org/competitions/Square1onaMadisonSquare2023) |  | 2.90 |
+| 5 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Square-1 Madison Square 2023](https://www.worldcubeassociation.org/competitions/Square1onaMadisonSquare2023) |  | 2.91 |
 | 5 | Megaminx | Average | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | [Slovenian Open 2010](https://www.worldcubeassociation.org/competitions/SlovenianOpen2010) | 2.55 |
 | 4 | 7x7x7 Cube | Single | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010) | [Hefei Spring 2012](https://www.worldcubeassociation.org/competitions/HefeiSpring2012) | 1.48 |
 | 4 | Megaminx | Single | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) | [Amagasaki Open 2009](https://www.worldcubeassociation.org/competitions/AmagasakiOpen2009) | 1.27 |

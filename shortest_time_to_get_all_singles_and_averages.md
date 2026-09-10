@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  8 September 2026*
+*Updated on 10 September 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -169,6 +169,7 @@
 | 5172 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
 | 5215 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 5586 | [Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04) |
+| 5866 | [Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53) |
 | 6040 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 6047 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 6258 | [Takuma Shirahase (白波瀬拓磨)](https://www.worldcubeassociation.org/persons/2007SHIR01) |

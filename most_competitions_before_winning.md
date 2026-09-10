@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  8 September 2026*
+*Updated on 10 September 2026*
 
 
 ### Rubik's Cube
@@ -174,11 +174,11 @@
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
 | 84 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [North Slovakian Open 2024](https://www.worldcubeassociation.org/competitions/NorthSlovakianOpen2024) |
-| 73 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024) |
 | 73 | [Dante Tellechea Hultmark](https://www.worldcubeassociation.org/persons/2023HULT01) | [Örebro Side Events 2026](https://www.worldcubeassociation.org/competitions/OrebroSideEvents2026) |
+| 73 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [CMT Evergreen 2024](https://www.worldcubeassociation.org/competitions/CMTEvergreen2024) |
 | 70 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Liechtenstein Open 2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019) |
-| 62 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
 | 62 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | [Maine Open 2026](https://www.worldcubeassociation.org/competitions/MaineOpen2026) |
+| 62 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
 | 59 | [Matheus Casassa](https://www.worldcubeassociation.org/persons/2017VIAN01) | [CDS - Etapa Sumaúma 2026](https://www.worldcubeassociation.org/competitions/CDSEtapaSumauma2026) |
 | 56 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) | [Run and Cube Side Events NH 2025](https://www.worldcubeassociation.org/competitions/RunandCubeSideEventsNH2025) |
 | 54 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | [Arizona Speedcubing Summer 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSummer2023) |
@@ -208,10 +208,10 @@
 | 84 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [The Amerinst Cubing CBBA 2024](https://www.worldcubeassociation.org/competitions/TheAmerinstCubingCBBA2024) |
 | 74 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | [New Rochelle Night Faves 2025](https://www.worldcubeassociation.org/competitions/NewRochelleNightFavorites2025) |
 | 65 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | [Washtenaw Mini 3 2024](https://www.worldcubeassociation.org/competitions/WashtenawMini32024) |
-| 57 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Íslandsmótið 2024](https://www.worldcubeassociation.org/competitions/Islandsmotid2024) |
 | 57 | [Roy Lee](https://www.worldcubeassociation.org/persons/2011LEER01) | [Cowbell Cubing 2022](https://www.worldcubeassociation.org/competitions/CowbellCubing2022) |
-| 54 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | [Lejre Side Events 2025](https://www.worldcubeassociation.org/competitions/LejreSideEvents2025) |
+| 57 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | [Íslandsmótið 2024](https://www.worldcubeassociation.org/competitions/Islandsmotid2024) |
 | 54 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | [A Friday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/AFridayinAshfield2024) |
+| 54 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | [Lejre Side Events 2025](https://www.worldcubeassociation.org/competitions/LejreSideEvents2025) |
 | 51 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | [Couffoul'Events 2024](https://www.worldcubeassociation.org/competitions/CouffoulEvents2024) |
 
 ### 4x4x4 Blindfolded
@@ -272,7 +272,7 @@
 | 16 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [New Zealand Nationals 2019](https://www.worldcubeassociation.org/competitions/NewZealandNationals2019) |
 | 15 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Mega Minnesota Winter 2016](https://www.worldcubeassociation.org/competitions/MegaMinnesotaWinter2016) |
 | 15 | [Riadi Arsandi](https://www.worldcubeassociation.org/persons/2009ARSA01) | [Singapore Special 2013](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2013) |
-| 14 | [Kyra Joiner](https://www.worldcubeassociation.org/persons/2015JOIN01) | [Hendersonville Winter 2018](https://www.worldcubeassociation.org/competitions/HendersonvilleWinter2018) |
+| 14 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [UK Championship 2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014) |
 
 ### Rubik's Magic
 

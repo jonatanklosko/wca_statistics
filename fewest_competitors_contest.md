@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  8 September 2026*
+*Updated on 10 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -903,6 +903,7 @@
 | 14 | [Big N Blind Bangalore Jan 2025](https://www.worldcubeassociation.org/competitions/BigNBlindBangaloreJan2025) |
 | 14 | [Big N Blind Bengaluru Sep 2026](https://www.worldcubeassociation.org/competitions/BigNBlindBengaluruSep2026) |
 | 14 | [Big Skys Hurrah 2026](https://www.worldcubeassociation.org/competitions/BigSkysHurrah2026) |
+| 14 | [Bindoon Bonanza 2026](https://www.worldcubeassociation.org/competitions/BindoonBonanza2026) |
 | 14 | [Blind in the Water Tower 2019](https://www.worldcubeassociation.org/competitions/BlindintheWaterTower2019) |
 | 14 | [Bucharest Cubing November 2025](https://www.worldcubeassociation.org/competitions/BucharestCubingNovember2025) |
 | 14 | [Chattahoochee 2006](https://www.worldcubeassociation.org/competitions/Chattahoochee2006) |
@@ -1022,6 +1023,7 @@
 | 14 | [Warden of the West 2018](https://www.worldcubeassociation.org/competitions/WardenoftheWest2018) |
 | 14 | [Warden of the West 2020](https://www.worldcubeassociation.org/competitions/WardenoftheWest2020) |
 | 14 | [Warsaw FMC Tour Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourThursday2024) |
+| 14 | [WCA African FMC 2026](https://www.worldcubeassociation.org/competitions/WCAAfricanFMCChampionship2026) |
 | 14 | [Wembley Quimbaya II 2024](https://www.worldcubeassociation.org/competitions/WembleyQuimbayaII2024) |
 | 14 | [Wemblind Quimbaya III 2025](https://www.worldcubeassociation.org/competitions/WemblindQuimbayaIII2025) |
 | 14 | [Xi'an Winter 2011](https://www.worldcubeassociation.org/competitions/XianWinter2011) |

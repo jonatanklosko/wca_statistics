@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -12,12 +12,12 @@
 | 161 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 158 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 155 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 145 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
+| 146 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 144 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 144 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 142 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 140 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 138 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
+| 139 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 137 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 137 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 134 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
@@ -27,8 +27,8 @@
 | 128 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
 | 126 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 123 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
-| 123 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 123 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
+| 123 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 119 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 113 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 113 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |

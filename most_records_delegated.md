@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -101,7 +101,7 @@
 | 355 | 14 | 67 | 274 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) |
 | 347 | 0 | 1 | 346 | [Lester Santos](https://www.worldcubeassociation.org/persons/2007SANT01) |
 | 335 | 3 | 4 | 328 | [Vidar Norstein Klungre](https://www.worldcubeassociation.org/persons/2008KLUN01) |
-| 333 | 23 | 20 | 290 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
+| 334 | 23 | 20 | 291 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 333 | 0 | 1 | 332 | [Aysha Jamsheer](https://www.worldcubeassociation.org/persons/2017JAMS01) |
 | 324 | 0 | 0 | 324 | [Ömer Çetinkaya](https://www.worldcubeassociation.org/persons/2013CETI01) |
 | 322 | 3 | 24 | 295 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |

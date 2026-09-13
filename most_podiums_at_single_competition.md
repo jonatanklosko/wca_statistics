@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -564,6 +564,7 @@
 | 11 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019/results/podiums) |
 | 11 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019/results/podiums) |
 | 10 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020/results/podiums) |
+| 11 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | [Florida Championship 2026](https://www.worldcubeassociation.org/competitions/FloridaChampionship2026/results/podiums) |
 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Florida Fall Fest 2019](https://www.worldcubeassociation.org/competitions/FloridaFallFest2019/results/podiums) |
 | 14 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Florida Winter Break 2019](https://www.worldcubeassociation.org/competitions/FloridaWinterBreak2019/results/podiums) |
 | 13 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Floripa ao Cubo 2022](https://www.worldcubeassociation.org/competitions/FloripaaoCubo2022/results/podiums) |
@@ -1165,6 +1166,8 @@
 | 11 | [Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15) | [Pre-Nacionales Arequipa 2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019/results/podiums) |
 | 11 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Presidente Prudente Open 2025](https://www.worldcubeassociation.org/competitions/PresidentePrudenteOpen2025/results/podiums) |
 | 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Presidente Prudente Open 2025](https://www.worldcubeassociation.org/competitions/PresidentePrudenteOpen2025/results/podiums) |
+| 12 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Presidente Prudente Open 2026](https://www.worldcubeassociation.org/competitions/PresidentePrudenteOpen2026/results/podiums) |
+| 10 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Presidente Prudente Open 2026](https://www.worldcubeassociation.org/competitions/PresidentePrudenteOpen2026/results/podiums) |
 | 11 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [PSKG Premiere Cubing 2020](https://www.worldcubeassociation.org/competitions/PSKGPremiereCubing2020/results/podiums) |
 | 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020/results/podiums) |
 | 11 | [Vladislav Kaminskiy](https://www.worldcubeassociation.org/persons/2013KAMI03) | [PSU Open 2016](https://www.worldcubeassociation.org/competitions/PSUOpen2016/results/podiums) |

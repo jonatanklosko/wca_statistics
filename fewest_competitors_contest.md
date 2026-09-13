@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -182,6 +182,7 @@
 | 8 | [Amman FMC 2025](https://www.worldcubeassociation.org/competitions/AmmanFMC2025) |
 | 8 | [Arena Bernô 4 City FM 2023](https://www.worldcubeassociation.org/competitions/ArenaBerno4CityFM2023) |
 | 8 | [Arena Bernô 8 City FM 2024](https://www.worldcubeassociation.org/competitions/ArenaBerno8CityFM2024) |
+| 8 | [Aveiro Blind Qualifier 2026](https://www.worldcubeassociation.org/competitions/AveiroBlindQualifier2026) |
 | 8 | [Beijing Long Events Open 2015](https://www.worldcubeassociation.org/competitions/BeijingLongEvents2015) |
 | 8 | [Big and Blind Rīga 2025](https://www.worldcubeassociation.org/competitions/BigandBlindRiga2025) |
 | 8 | [Big Cubata 2023](https://www.worldcubeassociation.org/competitions/BigCubata2023) |

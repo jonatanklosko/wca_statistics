@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.45 | World | 18586 |
+| 1.45 | World | 18593 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.71 | Europe | 6032 |
+| 1.71 | Europe | 6036 |
 | 1.48 | Oceania | 806 |
 | 1.45 | South America | 2391 |
-| 1.40 | Asia | 3745 |
+| 1.40 | Asia | 3747 |
 | 1.31 | Africa | 258 |
-| 1.21 | North America | 5354 |
+| 1.21 | North America | 5355 |
 
 ### Countries
 
@@ -38,12 +38,12 @@
 | 1.85 | Thailand | 109 |
 | 1.84 | Serbia | 32 |
 | 1.84 | Finland | 201 |
-| 1.84 | Spain | 539 |
+| 1.84 | Spain | 540 |
 | 1.83 | Norway | 181 |
 | 1.81 | Slovenia | 48 |
 | 1.81 | Austria | 42 |
 | 1.81 | Croatia | 42 |
-| 1.80 | United Kingdom | 377 |
+| 1.80 | United Kingdom | 378 |
 | 1.80 | Bosnia and Herzegovina | 15 |
 | 1.80 | Luxembourg | 5 |
 | 1.79 | Lithuania | 39 |
@@ -80,7 +80,7 @@
 | 1.51 | Malaysia | 137 |
 | 1.51 | Bolivia | 187 |
 | 1.50 | Laos | 2 |
-| 1.48 | Sweden | 433 |
+| 1.48 | Sweden | 435 |
 | 1.48 | Peru | 271 |
 | 1.45 | Australia | 618 |
 | 1.43 | Montenegro | 7 |
@@ -95,7 +95,7 @@
 | 1.36 | Kuwait | 14 |
 | 1.35 | Paraguay | 43 |
 | 1.34 | Ecuador | 76 |
-| 1.34 | Republic of Korea | 136 |
+| 1.34 | Republic of Korea | 137 |
 | 1.33 | Bangladesh | 30 |
 | 1.33 | Belize | 3 |
 | 1.33 | Ghana | 3 |
@@ -114,11 +114,11 @@
 | 1.21 | Panama | 33 |
 | 1.20 | Singapore | 123 |
 | 1.19 | Morocco | 16 |
-| 1.18 | Japan | 284 |
+| 1.18 | Japan | 285 |
 | 1.17 | Egypt | 12 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | Canada | 535 |
-| 1.16 | United States | 4291 |
+| 1.16 | United States | 4292 |
 | 1.15 | Armenia | 13 |
 | 1.15 | Azerbaijan | 55 |
 | 1.13 | Mongolia | 63 |

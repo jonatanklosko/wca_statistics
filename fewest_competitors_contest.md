@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -725,6 +725,7 @@
 | 12 | [Saipan Open 2026](https://www.worldcubeassociation.org/competitions/SaipanOpen2026) |
 | 12 | [Samyak Cube Open 2019](https://www.worldcubeassociation.org/competitions/SamyakCubeOpen2019) |
 | 12 | [San Gil Plaza V 2026](https://www.worldcubeassociation.org/competitions/SanGilPlazaV2026) |
+| 12 | [Shhherborn Summer 2026](https://www.worldcubeassociation.org/competitions/ShhherbornSummer2026) |
 | 12 | [Silence in Cebu 2022](https://www.worldcubeassociation.org/competitions/SilenceinCebu2022) |
 | 12 | [Silent Brasília 2024](https://www.worldcubeassociation.org/competitions/SilentBrasilia2024) |
 | 12 | [Silent Winter Tashkent 2020](https://www.worldcubeassociation.org/competitions/SilentWinterTashkent2020) |

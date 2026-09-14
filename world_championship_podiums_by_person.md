@@ -1,6 +1,6 @@
 ## World Championship podiums by person
 
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |

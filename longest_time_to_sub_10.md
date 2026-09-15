@@ -21,8 +21,8 @@
 | [Hirotaka Ito (伊藤大平)](https://www.worldcubeassociation.org/persons/2008ITOH01) | 14.89 |
 | [Mingsen Han (韩明森)](https://www.worldcubeassociation.org/persons/2010HANM01) | 14.85 |
 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) | 14.78 |
-| [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | 14.76 |
 | [Ric Donati](https://www.worldcubeassociation.org/persons/2011DONA02) | 14.76 |
+| [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | 14.76 |
 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 14.65 |
 | [Taewon Hwang (황태원)](https://www.worldcubeassociation.org/persons/2012HWAN01) | 14.35 |
 | [Nattasit Phaisalrittiwong (ณัฐสิทธิ์ ไพศาลฤทธิวงศ์)](https://www.worldcubeassociation.org/persons/2009PHAI01) | 14.28 |
@@ -85,8 +85,8 @@
 | [Zachary Chan](https://www.worldcubeassociation.org/persons/2015CHAN04) | 11.57 |
 | [Anshuman Singh](https://www.worldcubeassociation.org/persons/2014SING04) | 11.56 |
 | [Ryosuke Higo (肥後亮佑)](https://www.worldcubeassociation.org/persons/2006HIGO01) | 11.54 |
-| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
+| [Duc Huynh](https://www.worldcubeassociation.org/persons/2010HUYN02) | 11.50 |
 | [Kobe Balin](https://www.worldcubeassociation.org/persons/2012BALI01) | 11.50 |
 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) | 11.48 |
 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | 11.48 |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -25,6 +25,7 @@
 | 3 | [Finnish FMC Series X 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesX2025) |
 | 3 | [Grizz League II 2024](https://www.worldcubeassociation.org/competitions/GrizzLeagueII2024) |
 | 3 | [Hike 2 Cube Kenya 2023](https://www.worldcubeassociation.org/competitions/Hike2CubeKenya2023) |
+| 3 | [PBQ Odivelas III 2026](https://www.worldcubeassociation.org/competitions/PBQOdivelasIII2026) |
 | 3 | [Sides Bahia - Poções Quest 2023](https://www.worldcubeassociation.org/competitions/SidesBahiaPocoesQuest2023) |
 | 3 | [Solving in Sayre 2025](https://www.worldcubeassociation.org/competitions/SolvinginSayre2025) |
 | 3 | [Try to Get a Mean Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryToGetAMeanRzeszow2023) |

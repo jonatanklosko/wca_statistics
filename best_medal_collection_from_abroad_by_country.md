@@ -1,29 +1,29 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | United States | **1653** | 1300 | 1114 | 4067 |
 | Hungary | **1591** | 1369 | 1165 | 4125 |
 | Russia | **1477** | 798 | 577 | 2852 |
-| Germany | **1476** | 1383 | 1357 | 4216 |
+| Germany | **1476** | 1387 | 1361 | 4224 |
 | China | **1220** | 1145 | 1010 | 3375 |
 | France | **1173** | 1046 | 902 | 3121 |
 | Netherlands | **1078** | 882 | 774 | 2734 |
 | Poland | **951** | 625 | 504 | 2080 |
-| Canada | **566** | 571 | 610 | 1747 |
+| Canada | **568** | 571 | 611 | 1750 |
 | Hong Kong, China | **562** | 537 | 451 | 1550 |
 | Switzerland | **528** | 554 | 441 | 1523 |
 | Malaysia | **521** | 560 | 524 | 1605 |
-| United Kingdom | **520** | 574 | 529 | 1623 |
+| United Kingdom | **520** | 574 | 530 | 1624 |
 | India | **487** | 496 | 456 | 1439 |
-| Republic of Korea | **469** | 392 | 353 | 1214 |
-| Italy | **467** | 473 | 467 | 1407 |
+| Republic of Korea | **474** | 392 | 353 | 1219 |
+| Italy | **467** | 473 | 468 | 1408 |
 | Ukraine | **429** | 439 | 442 | 1310 |
 | Denmark | **413** | 360 | 303 | 1076 |
-| Sweden | **361** | 426 | 421 | 1208 |
+| Sweden | **364** | 429 | 422 | 1215 |
 | Finland | **336** | 274 | 244 | 854 |
 | Australia | **320** | 193 | 147 | 660 |
 | Argentina | **308** | 216 | 191 | 715 |
@@ -33,7 +33,7 @@
 | Japan | **276** | 225 | 207 | 708 |
 | Romania | **272** | 204 | 169 | 645 |
 | Spain | **256** | 247 | 267 | 770 |
-| Ireland | **251** | 126 | 111 | 488 |
+| Ireland | **251** | 126 | 113 | 490 |
 | Austria | **243** | 272 | 298 | 813 |
 | Slovenia | **212** | 279 | 286 | 777 |
 | Czech Republic | **201** | 224 | 230 | 655 |
@@ -43,7 +43,7 @@
 | Kazakhstan | **156** | 189 | 200 | 545 |
 | Colombia | **155** | 133 | 131 | 419 |
 | Lithuania | **145** | 121 | 123 | 389 |
-| Norway | **141** | 158 | 154 | 453 |
+| Norway | **141** | 160 | 154 | 455 |
 | Greece | **140** | 171 | 138 | 449 |
 | Venezuela | **121** | 161 | 152 | 434 |
 | Belarus | **115** | 86 | 99 | 300 |
@@ -74,9 +74,9 @@
 | Pakistan | **30** | 28 | 26 | 84 |
 | Belize | **24** | 6 | 3 | 33 |
 | Nigeria | **22** | 41 | 32 | 95 |
-| El Salvador | **22** | 30 | 27 | 79 |
+| El Salvador | **22** | 30 | 28 | 80 |
 | Bulgaria | **21** | 57 | 65 | 143 |
-| Turkey | **21** | 21 | 24 | 66 |
+| Turkey | **21** | 22 | 25 | 68 |
 | North Macedonia | **20** | 27 | 32 | 79 |
 | Kuwait | **18** | 17 | 35 | 70 |
 | Moldova | **16** | 30 | 18 | 64 |

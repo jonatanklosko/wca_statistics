@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -303,6 +303,7 @@
 | 11 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Chachya Open Rotary Edition 2018](https://www.worldcubeassociation.org/competitions/ChachyaOpenRotaryEdition2018/results/podiums) |
 | 10 | [Marcos Masini](https://www.worldcubeassociation.org/persons/2016MASI01) | [Chaco De Invierno 2018](https://www.worldcubeassociation.org/competitions/ChacoDeInvierno2018/results/podiums) |
 | 11 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [Chak-chak cubing in Kazan 2018](https://www.worldcubeassociation.org/competitions/ChakchakcubinginKazan2018/results/podiums) |
+| 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Chau Invierno En Di Tella 2026](https://www.worldcubeassociation.org/competitions/ChauInviernoEnDiTella2026/results/podiums) |
 | 10 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [Chelny Open 2018](https://www.worldcubeassociation.org/competitions/ChelnyOpen2018/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Chemung Cubing 2023](https://www.worldcubeassociation.org/competitions/ChemungCubing2023/results/podiums) |
 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Chernivtsi Open 2024](https://www.worldcubeassociation.org/competitions/ChernivtsiOpen2024/results/podiums) |
@@ -419,6 +420,7 @@
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2023](https://www.worldcubeassociation.org/competitions/DanishChampionship2023/results/podiums) |
 | 13 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2024](https://www.worldcubeassociation.org/competitions/DanishChampionship2024/results/podiums) |
 | 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2025](https://www.worldcubeassociation.org/competitions/DanishChampionship2025/results/podiums) |
+| 12 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Danish Championship 2026](https://www.worldcubeassociation.org/competitions/DanishChampionship2026/results/podiums) |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Danish Open 2008](https://www.worldcubeassociation.org/competitions/DanishOpen2008/results/podiums) |
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Danish Open 2009](https://www.worldcubeassociation.org/competitions/DanishOpen2009/results/podiums) |
 | 14 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Danish Open 2010](https://www.worldcubeassociation.org/competitions/DanishOpen2010/results/podiums) |
@@ -841,6 +843,7 @@
 | 13 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås VI - 2025](https://www.worldcubeassociation.org/competitions/KublordagVasterasVI2025/results/podiums) |
 | 11 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Kublördag Västerås VIII - 2025](https://www.worldcubeassociation.org/competitions/KublordagVasterasVIII2025/results/podiums) |
 | 11 | [Fernando Daniel Hernández Sánchez](https://www.worldcubeassociation.org/persons/2010SANC04) | [Kuikuiltik 2012](https://www.worldcubeassociation.org/competitions/Kuikuiltik2012/results/podiums) |
+| 10 | [Shalóm Melquisedec Batz Rodríguez](https://www.worldcubeassociation.org/persons/2019RODR66) | [Kukulcán Quetzaltenango 2026](https://www.worldcubeassociation.org/competitions/KukulcanQuetzaltenango2026/results/podiums) |
 | 12 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) | [Kuldīgas Pavasaris 2025](https://www.worldcubeassociation.org/competitions/KuldigasPavasaris2025/results/podiums) |
 | 11 | [David Arzamastsev](https://www.worldcubeassociation.org/persons/2016ARZA01) | [Kursk Open 2017](https://www.worldcubeassociation.org/competitions/KurskOpen2017/results/podiums) |
 | 12 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |

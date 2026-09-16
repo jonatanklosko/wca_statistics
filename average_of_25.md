@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 
 ### Rubik's Cube
@@ -167,7 +167,7 @@
 | 1.68 | [Shuda Huang (黄黍达)](https://www.worldcubeassociation.org/persons/2021HUAN02) | 1.68, 1.36, 1.41, DNF, 1.70, 2.49, 1.58, 1.64, 2.20, 1.68, 1.32, 4.22, 1.53, 1.79, 1.80, 1.51, 1.40, 1.29, 1.69, 1.74, 1.50, 1.67, 1.34, 1.60, 1.97 |
 | 1.71 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.49, 1.16, 1.05, 1.84, 4.06, 1.47, 2.22, 1.69, 2.24, 1.40, 1.16, 1.43, 1.95, 1.62, 4.13, 3.27, 1.84, 1.76, 1.67, 1.44, 1.44, 1.41, 1.91, 1.19, 1.55 |
 | 1.73 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) | 1.33, 1.30, 1.89, 1.53, 1.70, 1.44, 2.02, 1.41, DNF, 1.47, 1.26, 2.34, 1.60, 1.39, 2.32, 3.00, 1.69, 1.84, 1.44, 1.85, 3.58, 1.65, 1.65, 1.44, 1.41 |
-| 1.74 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.20, 1.92, 2.06, 1.33, 1.50, 1.60, 1.49, 1.81, 1.45, 1.07, 2.15, 1.84, 1.57, 2.35, 1.33, 1.87, 1.57, 1.49, 1.75, 2.16, DNF, 1.62, 1.89, 2.05, 2.04 |
+| 1.74 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | 1.35, 1.36, 1.51, 1.71, 1.55, 1.60, 1.34, 1.74, 1.59, 2.15, 2.13, 1.34, 3.51, 1.62, 1.82, 1.22, 2.17, DNF, 1.53, 1.40, 1.35, 2.02, 2.09, 2.47, 2.06 |
 
 ### Rubik's Clock
 

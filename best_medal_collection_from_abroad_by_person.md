@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -13,17 +13,17 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **268** | 32 | 14 | 314 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **243** | 72 | 36 | 351 |
 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **240** | 186 | 142 | 568 |
-| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **224** | 135 | 61 | 420 |
+| [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **226** | 136 | 62 | 424 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **209** | 77 | 44 | 330 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **206** | 62 | 21 | 289 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **154** | 166 | 140 | 460 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **150** | 79 | 43 | 272 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **142** | 46 | 16 | 204 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **144** | 46 | 17 | 207 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **140** | 45 | 25 | 210 |
+| [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **138** | 155 | 91 | 384 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **138** | 110 | 89 | 337 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **137** | 71 | 55 | 263 |
-| [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **136** | 154 | 89 | 379 |
 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | **124** | 117 | 63 | 304 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **123** | 125 | 76 | 324 |
 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **119** | 120 | 119 | 358 |
@@ -75,7 +75,7 @@
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | **54** | 50 | 43 | 147 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **54** | 35 | 21 | 110 |
-| [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | **54** | 28 | 14 | 96 |
+| [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | **54** | 30 | 14 | 98 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 24 | 19 | 97 |
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | **54** | 16 | 5 | 75 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **53** | 52 | 39 | 144 |
@@ -91,7 +91,7 @@
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | **49** | 44 | 40 | 133 |
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **49** | 13 | 2 | 64 |
 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | **48** | 59 | 56 | 163 |
-| [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | **48** | 48 | 29 | 125 |
+| [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | **48** | 49 | 30 | 127 |
 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | **48** | 43 | 30 | 121 |
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | **48** | 39 | 31 | 118 |
 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) | **47** | 38 | 33 | 118 |

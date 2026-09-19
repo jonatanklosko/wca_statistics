@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -172,7 +172,7 @@
 | 10 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | [Beijing Spring Open 2008](https://www.worldcubeassociation.org/competitions/BeijingSpringOpen2008/results/podiums) |
 | 10 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008/results/podiums) |
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Belgian Open 2009](https://www.worldcubeassociation.org/competitions/BelgianOpen2009/results/podiums) |
-| 13 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | [Belgian Open 2010](https://www.worldcubeassociation.org/competitions/BelgianOpen2010/results/podiums) |
+| 13 | [Emeline Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | [Belgian Open 2010](https://www.worldcubeassociation.org/competitions/BelgianOpen2010/results/podiums) |
 | 11 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Belgian Open 2011](https://www.worldcubeassociation.org/competitions/BelgianOpen2011/results/podiums) |
 | 12 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Belgian Summer 2014](https://www.worldcubeassociation.org/competitions/BelgianSummer2014/results/podiums) |
 | 10 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) | [Belgian Summer 2014](https://www.worldcubeassociation.org/competitions/BelgianSummer2014/results/podiums) |
@@ -318,7 +318,7 @@
 | 10 | [Ricardo Zapata Cruz](https://www.worldcubeassociation.org/persons/2018CRUZ17) | [Coliseo al Gratín Yumbo 2026](https://www.worldcubeassociation.org/competitions/ColiseoalGratinYumbo2026/results/podiums) |
 | 11 | [Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01) | [Coliseo de Tovar 2014](https://www.worldcubeassociation.org/competitions/ColiseoDeTovar2014/results/podiums) |
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Cologne Open 2010](https://www.worldcubeassociation.org/competitions/CologneOpen2010/results/podiums) |
-| 11 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | [Cologne Open 2010](https://www.worldcubeassociation.org/competitions/CologneOpen2010/results/podiums) |
+| 11 | [Emeline Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | [Cologne Open 2010](https://www.worldcubeassociation.org/competitions/CologneOpen2010/results/podiums) |
 | 13 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Colombia Nationals 2012](https://www.worldcubeassociation.org/competitions/ColombiaNationals2012/results/podiums) |
 | 11 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [Colombia Nationals 2014](https://www.worldcubeassociation.org/competitions/ColombiaNationals2014/results/podiums) |
 | 11 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | [III Torneo Nacional 2013](https://www.worldcubeassociation.org/competitions/ColombiaTercer2013/results/podiums) |
@@ -478,7 +478,7 @@
 | 10 | [Gustavo Penaforte Brito](https://www.worldcubeassociation.org/persons/2013BRIT01) | [Dunas Open 2016](https://www.worldcubeassociation.org/competitions/DunasOpen2016/results/podiums) |
 | 13 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Düsseldorf Open 2010](https://www.worldcubeassociation.org/competitions/DusseldorfOpen2010/results/podiums) |
 | 10 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Dutch Masters 2020](https://www.worldcubeassociation.org/competitions/DutchMasters2020/results/podiums) |
-| 13 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | [Dutch Nationals 2010](https://www.worldcubeassociation.org/competitions/DutchNationals2010/results/podiums) |
+| 13 | [Emeline Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | [Dutch Nationals 2010](https://www.worldcubeassociation.org/competitions/DutchNationals2010/results/podiums) |
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Dutch Nationals 2010](https://www.worldcubeassociation.org/competitions/DutchNationals2010/results/podiums) |
 | 10 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Dutch Nationals 2018](https://www.worldcubeassociation.org/competitions/DutchNationals2018/results/podiums) |
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Dutch Open 2009](https://www.worldcubeassociation.org/competitions/DutchOpen2009/results/podiums) |
@@ -597,7 +597,7 @@
 | 10 | [Emanuel Rheinert](https://www.worldcubeassociation.org/persons/2011RHEI01) | [German Nationals 2015](https://www.worldcubeassociation.org/competitions/GermanNationals2015/results/podiums) |
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [German Open 2008](https://www.worldcubeassociation.org/competitions/GermanOpen2008/results/podiums) |
 | 11 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009/results/podiums) |
-| 12 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | [German Open 2010](https://www.worldcubeassociation.org/competitions/GermanOpen2010/results/podiums) |
+| 12 | [Emeline Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | [German Open 2010](https://www.worldcubeassociation.org/competitions/GermanOpen2010/results/podiums) |
 | 10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [German Open 2014](https://www.worldcubeassociation.org/competitions/GermanOpen2014/results/podiums) |
 | 14 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [German Open 2019](https://www.worldcubeassociation.org/competitions/GermanOpen2019/results/podiums) |
 | 14 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [German Open 2025](https://www.worldcubeassociation.org/competitions/GermanOpen2025/results/podiums) |
@@ -981,7 +981,7 @@
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [MTD Spring 2017](https://www.worldcubeassociation.org/competitions/MTDSpring2017/results/podiums) |
 | 13 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023/results/podiums) |
 | 12 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023/results/podiums) |
-| 11 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | [N8W8 Summer 2012](https://www.worldcubeassociation.org/competitions/N8W8Summer2012/results/podiums) |
+| 11 | [Emeline Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | [N8W8 Summer 2012](https://www.worldcubeassociation.org/competitions/N8W8Summer2012/results/podiums) |
 | 10 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [N8W8 Summer 2014](https://www.worldcubeassociation.org/competitions/N8W8Summer2014/results/podiums) |
 | 10 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) | [Nacionales Argentinas 2019](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2019/results/podiums) |
 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/podiums) |

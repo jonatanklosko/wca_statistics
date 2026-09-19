@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 
 ### Rubik's Cube
@@ -16,8 +16,8 @@
 | 4.70 | [Yize Dong (董一泽)](https://www.worldcubeassociation.org/persons/2023DONG20) | 4.09, 4.04, 5.84, 5.13, 4.64, 5.02, 5.33, 5.45, 4.49, 4.10, 4.73, 3.82 |
 | 4.71 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4.50, 5.36, 4.86, 3.84, 3.94, 4.43, 4.58, 6.33, 3.41, 4.85, 6.22, 4.50 |
 | 4.73 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.10, 5.41, 3.85, 4.72, 4.64, 3.89, 5.76, 4.86, 4.88, 6.71, 4.97, 4.07 |
+| 4.74 | [Yunzhi Lian (连允之)](https://www.worldcubeassociation.org/persons/2025LIAN01) | 7.74, 4.57, 4.89, 4.86, 4.93, 4.50, 4.74, 3.54, 5.47, 4.33, 4.39, 4.69 |
 | 4.81 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.58, 5.47, 5.03, 4.60, 5.95, 5.21, 4.73, 4.30, 4.83, 3.97, 5.12, 4.25 |
-| 4.85 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 4.29, 8.43, 5.78, 5.18, 4.71, 4.60, 5.54, 5.00, 4.35, 4.70, 4.21, 4.39 |
 
 ### 2x2x2 Cube
 

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -1036,6 +1036,7 @@
 | 15 | [Amman Mental Breakdown II 2025](https://www.worldcubeassociation.org/competitions/AmmanMentalBreakdownII2025) |
 | 15 | [Arrigorriaga Side Events 2023](https://www.worldcubeassociation.org/competitions/ArrigorriagaSideEvents2023) |
 | 15 | [Åsane Winter 2026](https://www.worldcubeassociation.org/competitions/AsaneWinter2026) |
+| 15 | [Astana Non-Cube 2026](https://www.worldcubeassociation.org/competitions/AstanaNonCube2026) |
 | 15 | [Athens Open 2010](https://www.worldcubeassociation.org/competitions/AthensOpen2010) |
 | 15 | [Autotalo Anime Adventure V 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureV2024) |
 | 15 | [Back to School in Arraiolos 2026](https://www.worldcubeassociation.org/competitions/BacktoSchoolinArraiolos2026) |
@@ -1104,6 +1105,7 @@
 | 15 | [Kyiv Big Friends II 2023](https://www.worldcubeassociation.org/competitions/KyivBigFriendsII2023) |
 | 15 | [LA Blind Cube Day 2018](https://www.worldcubeassociation.org/competitions/LABlindCubeDay2018) |
 | 15 | [LA Summer Side Events 2025](https://www.worldcubeassociation.org/competitions/LASummerSideEvents2025) |
+| 15 | [Les Beaupreau du Blind 2026](https://www.worldcubeassociation.org/competitions/LesBeaupreauduBlind2026) |
 | 15 | [Luminous Sol Open 2026](https://www.worldcubeassociation.org/competitions/LuminousSolOpen2026) |
 | 15 | [Mantua Tiny Open 2016](https://www.worldcubeassociation.org/competitions/MantuaTinyOpen2016) |
 | 15 | [Master Cube Salvador B 2024](https://www.worldcubeassociation.org/competitions/MasterCubeSalvadorB2024) |

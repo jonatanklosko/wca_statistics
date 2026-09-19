@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -315,6 +315,7 @@
 | 1238 | [Aubrey Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
 | 1238 | [Alex Butera](https://www.worldcubeassociation.org/persons/2021BUTE03) |
 | 1239 | [Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03) |
+| 1239 | [Tiago Morais](https://www.worldcubeassociation.org/persons/2023MORA20) |
 | 1240 | [Auric Cui](https://www.worldcubeassociation.org/persons/2022CUIA01) |
 | 1245 | [Aaron Spiller](https://www.worldcubeassociation.org/persons/2018SPIL01) |
 | 1246 | [Sebastian Werb](https://www.worldcubeassociation.org/persons/2012WERB01) |
@@ -537,7 +538,7 @@
 | 2177 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) |
 | 2177 | [Samuel Moliver](https://www.worldcubeassociation.org/persons/2017MOLI05) |
 | 2189 | [Víctor Adán Solis Martinez](https://www.worldcubeassociation.org/persons/2017MART94) |
-| 2197 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
+| 2197 | [Emeline Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
 | 2213 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 | 2218 | [Aria Querubin](https://www.worldcubeassociation.org/persons/2017QUER02) |
 | 2219 | [Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01) |
@@ -774,6 +775,7 @@
 | 3955 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 4010 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 4025 | [Lanshi Zhang (张岚石)](https://www.worldcubeassociation.org/persons/2013ZHAN41) |
+| 4025 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 4047 | [Nathan Seeto](https://www.worldcubeassociation.org/persons/2012SEET01) |
 | 4053 | [Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01) |
 | 4066 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |

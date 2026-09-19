@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -47,8 +47,8 @@
 | 543 | 8 | 39 | 496 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) |
 | 543 | 3 | 10 | 530 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) |
 | 541 | 5 | 49 | 487 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
+| 540 | 5 | 48 | 487 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) |
 | 539 | 5 | 11 | 523 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
-| 539 | 5 | 48 | 486 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) |
 | 534 | 4 | 34 | 496 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
 | 532 | 3 | 17 | 512 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 527 | 9 | 23 | 495 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
@@ -62,8 +62,8 @@
 | 499 | 6 | 12 | 481 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) |
 | 497 | 3 | 11 | 483 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
 | 497 | 21 | 71 | 405 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 486 | 8 | 39 | 439 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 480 | 8 | 227 | 245 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) |
-| 480 | 8 | 39 | 433 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 475 | 11 | 35 | 429 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 474 | 2 | 16 | 456 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 468 | 2 | 20 | 446 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
@@ -90,12 +90,12 @@
 | 392 | 2 | 4 | 386 | [İskender Aznavur](https://www.worldcubeassociation.org/persons/2013AZNA01) |
 | 389 | 35 | 143 | 211 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 385 | 12 | 65 | 308 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
+| 382 | 5 | 74 | 303 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 376 | 7 | 19 | 350 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 375 | 24 | 63 | 288 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 375 | 4 | 15 | 356 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
-| 373 | 5 | 72 | 296 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 370 | 9 | 23 | 338 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |
-| 363 | 2 | 10 | 351 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
+| 364 | 2 | 10 | 352 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 358 | 0 | 2 | 356 | [Areli Rubí Gordillo Martínez](https://www.worldcubeassociation.org/persons/2014MART08) |
 | 358 | 4 | 12 | 342 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) |
 | 355 | 14 | 67 | 274 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) |

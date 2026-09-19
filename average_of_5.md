@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 
 ### Rubik's Cube
@@ -12,12 +12,12 @@
 | 3.67 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 3.85, 3.70, 3.28, 3.78, 3.52 |
 | 4.20 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 3.65, 4.37, 4.46, 6.15, 3.77 |
 | 4.24 | [Yi Shen (沈懿)](https://www.worldcubeassociation.org/persons/2026SHEN01) | 3.82, 4.57, 4.33, 5.66, 3.79 |
+| 4.27 | [Yunzhi Lian (连允之)](https://www.worldcubeassociation.org/persons/2025LIAN01) | 4.20, 4.39, 4.54, 4.02, 4.22 |
 | 4.32 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4.86, 3.84, 3.94, 4.43, 4.58 |
 | 4.34 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 5.40, 3.88, 4.83, 3.72, 4.30 |
 | 4.36 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 4.86, 5.37, 3.39, 3.80, 4.43 |
 | 4.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3.98, 5.11, 4.77, 3.82, 4.49 |
 | 4.41 | [Yize Dong (董一泽)](https://www.worldcubeassociation.org/persons/2023DONG20) | 3.87, 5.51, 5.27, 3.96, 4.01 |
-| 4.46 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 4.30, 4.83, 3.97, 5.12, 4.25 |
 
 ### 2x2x2 Cube
 

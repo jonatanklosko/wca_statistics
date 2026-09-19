@@ -1,6 +1,6 @@
 ## World Championship podiums by person
 
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -229,6 +229,7 @@
 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | **0** | 0 | 1 | 1 |
 | [Daniel Wu](https://www.worldcubeassociation.org/persons/2010WUDA01) | **0** | 0 | 1 | 1 |
 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) | **0** | 0 | 1 | 1 |
+| [Emeline Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | **0** | 0 | 1 | 1 |
 | [Felipe Rueda Hernández](https://www.worldcubeassociation.org/persons/2012HERN03) | **0** | 0 | 1 | 1 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **0** | 0 | 1 | 1 |
 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | **0** | 0 | 1 | 1 |
@@ -247,7 +248,6 @@
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **0** | 0 | 1 | 1 |
 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | **0** | 0 | 1 | 1 |
 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | **0** | 0 | 1 | 1 |
-| [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | **0** | 0 | 1 | 1 |
 | [Maxence Baudry](https://www.worldcubeassociation.org/persons/2014BAUD02) | **0** | 0 | 1 | 1 |
 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | **0** | 0 | 1 | 1 |
 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **0** | 0 | 1 | 1 |

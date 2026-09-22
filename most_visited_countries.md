@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -66,9 +66,9 @@
 | 20 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 20 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 20 | [Linus Buck](https://www.worldcubeassociation.org/persons/2016BUCK01) |
+| 20 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 20 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 20 | [Jochen Bauer](https://www.worldcubeassociation.org/persons/2018BAUE04) |
-| 20 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 20 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
 | 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 19 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
@@ -94,13 +94,13 @@
 | 18 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 18 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
-| 18 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 18 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 18 | [Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01) |
 | 18 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 18 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 18 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
+| 18 | [Yuxuan Huang (黄宇轩)](https://www.worldcubeassociation.org/persons/2015HUAN32) |
 | 18 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 18 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) |
 | 18 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |

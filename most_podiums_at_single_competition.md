@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -183,6 +183,7 @@
 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Benelux Open 2009](https://www.worldcubeassociation.org/competitions/BeneluxOpen2009/results/podiums) |
 | 13 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | [Bengal Cube Open 2023](https://www.worldcubeassociation.org/competitions/BengalCubeOpen2023/results/podiums) |
 | 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Bengal Cube Open 2024](https://www.worldcubeassociation.org/competitions/BengalCubeOpen2024/results/podiums) |
+| 10 | [Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01) | [Bengal Cube Open 2026](https://www.worldcubeassociation.org/competitions/BengalCubeOpen2026/results/podiums) |
 | 10 | [Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02) | [Bengaluru Championship 2018](https://www.worldcubeassociation.org/competitions/BengaluruChampionship2018/results/podiums) |
 | 12 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/podiums) |
 | 10 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/podiums) |
@@ -1407,6 +1408,7 @@
 | 11 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Sydals Open 2026](https://www.worldcubeassociation.org/competitions/SydalsOpen2026/results/podiums) |
 | 10 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Sydals Open 2026](https://www.worldcubeassociation.org/competitions/SydalsOpen2026/results/podiums) |
 | 11 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [Tagum City Open 2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019/results/podiums) |
+| 13 | [Miguel Gonzaga](https://www.worldcubeassociation.org/persons/2017GONZ21) | [Tagum City Open 2026](https://www.worldcubeassociation.org/competitions/TagumCityOpen2026/results/podiums) |
 | 10 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) | [Taiwan Summer Open 2009](https://www.worldcubeassociation.org/competitions/TaiwanSummerOpen2009/results/podiums) |
 | 11 | [Assylkhan Meirkhanov (Асылхан Мейрханов)](https://www.worldcubeassociation.org/persons/2018MEIR04) | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019/results/podiums) |
 | 10 | [Shukrullo Ibragimov](https://www.worldcubeassociation.org/persons/2017IBRA05) | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019/results/podiums) |
@@ -1557,6 +1559,7 @@
 | 11 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) | [VERK XV 2026](https://www.worldcubeassociation.org/competitions/VERKXV2026/results/podiums) |
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XV 2026](https://www.worldcubeassociation.org/competitions/VERKXV2026/results/podiums) |
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XVII 2026](https://www.worldcubeassociation.org/competitions/VERKXVII2026/results/podiums) |
+| 12 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XVIII 2026](https://www.worldcubeassociation.org/competitions/VERKXVIII2026/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025/results/podiums) |
 | 11 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums) |

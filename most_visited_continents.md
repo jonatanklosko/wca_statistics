@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -179,6 +179,7 @@
 | 4 | [Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11) |
 | 4 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
 | 4 | [Jason Vindvamara](https://www.worldcubeassociation.org/persons/2015VIND01) |
+| 4 | [Fiona Wang](https://www.worldcubeassociation.org/persons/2015WANF02) |
 | 4 | [Tim Xie](https://www.worldcubeassociation.org/persons/2015XIET01) |
 | 4 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 4 | [Luis Eduardo Martínez Castellanos](https://www.worldcubeassociation.org/persons/2016CAST01) |

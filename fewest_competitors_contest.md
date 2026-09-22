@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -99,6 +99,7 @@
 | 6 | [FMC på GKV 2026](https://www.worldcubeassociation.org/competitions/FMCpaGKV2026) |
 | 6 | [GA Cubers BBQ 2023](https://www.worldcubeassociation.org/competitions/GACubersBigBlindQualifier2023) |
 | 6 | [Georgetown FMC 2025](https://www.worldcubeassociation.org/competitions/GeorgetownFMC2025) |
+| 6 | [Gouverneur Quiet 2026](https://www.worldcubeassociation.org/competitions/GouverneurQuiet2026) |
 | 6 | [Grizz League Small Cubes 2023](https://www.worldcubeassociation.org/competitions/GrizzLeagueSmallCubes2023) |
 | 6 | [Helsinki Big Cubes 2024](https://www.worldcubeassociation.org/competitions/HelsinkiBigCubes2024) |
 | 6 | [Hilliard Hippocampus III 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampusIII2023) |
@@ -161,6 +162,7 @@
 | 7 | [Kyiv FMC Friends III 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsIII2023) |
 | 7 | [Kyiv FMC Friends IV 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsIV2023) |
 | 7 | [Kyiv FMC Friends V 2023](https://www.worldcubeassociation.org/competitions/KyivFMCFriendsV2023) |
+| 7 | [LA Quiet Championship 2026](https://www.worldcubeassociation.org/competitions/LAQuietChampionship2026) |
 | 7 | [Leticia Open 2025](https://www.worldcubeassociation.org/competitions/LeticiaOpen2025) |
 | 7 | [Long Island No Sound 2026](https://www.worldcubeassociation.org/competitions/LongIslandNoSound2026) |
 | 7 | [Marijampolė Tyliai 2026](https://www.worldcubeassociation.org/competitions/MarijampoleTyliai2026) |

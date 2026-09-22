@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.45 | World | 18640 |
+| 1.45 | World | 18653 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.71 | Europe | 6049 |
+| 1.71 | Europe | 6052 |
 | 1.48 | Oceania | 809 |
-| 1.45 | South America | 2400 |
-| 1.40 | Asia | 3752 |
+| 1.45 | South America | 2401 |
+| 1.40 | Asia | 3754 |
 | 1.31 | Africa | 258 |
-| 1.21 | North America | 5372 |
+| 1.21 | North America | 5379 |
 
 ### Countries
 
@@ -55,12 +55,12 @@
 | 1.75 | Sri Lanka | 16 |
 | 1.75 | Ukraine | 159 |
 | 1.75 | Ireland | 106 |
-| 1.71 | Poland | 668 |
+| 1.71 | Poland | 669 |
 | 1.66 | Argentina | 143 |
 | 1.65 | Italy | 301 |
 | 1.64 | Hungary | 84 |
 | 1.64 | Brazil | 751 |
-| 1.64 | Belgium | 113 |
+| 1.63 | Belgium | 115 |
 | 1.61 | Indonesia | 264 |
 | 1.61 | Dominican Republic | 31 |
 | 1.60 | Iran | 43 |
@@ -92,8 +92,8 @@
 | 1.38 | Nigeria | 8 |
 | 1.37 | Romania | 157 |
 | 1.36 | Bahrain | 11 |
+| 1.36 | Paraguay | 44 |
 | 1.36 | Kuwait | 14 |
-| 1.35 | Paraguay | 43 |
 | 1.34 | Ecuador | 76 |
 | 1.34 | Republic of Korea | 137 |
 | 1.33 | Bangladesh | 30 |
@@ -103,12 +103,12 @@
 | 1.30 | Jordan | 30 |
 | 1.28 | Uruguay | 64 |
 | 1.27 | Portugal | 77 |
-| 1.27 | Philippines | 434 |
+| 1.27 | Philippines | 435 |
 | 1.26 | Colombia | 578 |
 | 1.26 | Hong Kong, China | 31 |
 | 1.24 | Chile | 177 |
 | 1.24 | El Salvador | 42 |
-| 1.23 | China | 782 |
+| 1.23 | China | 783 |
 | 1.23 | Venezuela | 108 |
 | 1.22 | United Arab Emirates | 23 |
 | 1.21 | Panama | 33 |
@@ -117,8 +117,8 @@
 | 1.17 | Japan | 286 |
 | 1.17 | Egypt | 12 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 4306 |
-| 1.16 | Canada | 537 |
+| 1.16 | United States | 4312 |
+| 1.16 | Canada | 538 |
 | 1.15 | Armenia | 13 |
 | 1.15 | Azerbaijan | 55 |
 | 1.13 | Mongolia | 63 |

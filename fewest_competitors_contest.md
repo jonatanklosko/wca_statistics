@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 September 2026*
+*Updated on 23 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -474,6 +474,7 @@
 | 10 | [Post-Lockdown Fest Tunisia 2020](https://www.worldcubeassociation.org/competitions/PostLockdownFestTunisia2020) |
 | 10 | [PUCP Zomblinders 2024](https://www.worldcubeassociation.org/competitions/PUCPZomblinders2024) |
 | 10 | [Pyraminx on the Stars 2024](https://www.worldcubeassociation.org/competitions/PyraminxontheStars2024) |
+| 10 | [Redondo Beach FMC Summer 2026](https://www.worldcubeassociation.org/competitions/RedondoBeachFMCSummer2026) |
 | 10 | [Rudny Open 2025](https://www.worldcubeassociation.org/competitions/RudnyOpen2025) |
 | 10 | [Saint-Martin Saturday 2026](https://www.worldcubeassociation.org/competitions/SaintMartinSaturday2026) |
 | 10 | [Santarém Open 2019](https://www.worldcubeassociation.org/competitions/SantaremOpen2019) |

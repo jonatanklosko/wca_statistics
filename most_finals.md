@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 22 September 2026*
+*Updated on 23 September 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -16,8 +16,8 @@
 | 1868 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 1854 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1850 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 1819 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1816 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 1814 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1721 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1713 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 1702 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
@@ -34,9 +34,9 @@
 | 1480 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1439 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 1411 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
+| 1404 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 1402 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
-| 1401 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
-| 1346 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
+| 1353 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 1322 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 1319 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 1303 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
@@ -57,8 +57,8 @@
 | 1193 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 1181 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1179 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
+| 1174 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 1173 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
-| 1170 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
 | 1158 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 1153 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 1149 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
@@ -85,12 +85,12 @@
 | 1033 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 1030 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 1029 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
+| 1029 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 1028 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
 | 1025 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 1020 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 1018 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 1017 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
-| 1017 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 1000 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 999 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |

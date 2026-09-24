@@ -1,13 +1,13 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 22 September 2026*
+*Updated on 23 September 2026*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | United States | **1655** | 1304 | 1118 | 4077 |
 | Hungary | **1593** | 1369 | 1165 | 4127 |
-| Russia | **1482** | 802 | 579 | 2863 |
+| Russia | **1482** | 802 | 580 | 2864 |
 | Germany | **1478** | 1391 | 1364 | 4233 |
 | China | **1229** | 1149 | 1013 | 3391 |
 | France | **1175** | 1048 | 902 | 3125 |
@@ -18,7 +18,7 @@
 | Switzerland | **528** | 554 | 441 | 1523 |
 | United Kingdom | **523** | 575 | 532 | 1630 |
 | Malaysia | **522** | 562 | 526 | 1610 |
-| India | **488** | 497 | 460 | 1445 |
+| India | **489** | 497 | 460 | 1446 |
 | Republic of Korea | **474** | 394 | 353 | 1221 |
 | Italy | **467** | 473 | 468 | 1408 |
 | Ukraine | **430** | 440 | 443 | 1313 |
@@ -66,7 +66,7 @@
 | Chile | **48** | 44 | 41 | 133 |
 | Kosovo | **45** | 31 | 32 | 108 |
 | Kyrgyzstan | **44** | 51 | 53 | 148 |
-| Mexico | **40** | 54 | 60 | 154 |
+| Mexico | **40** | 54 | 61 | 155 |
 | Mongolia | **38** | 52 | 54 | 144 |
 | Uzbekistan | **37** | 32 | 32 | 101 |
 | Costa Rica | **34** | 49 | 40 | 123 |

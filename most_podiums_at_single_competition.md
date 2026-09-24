@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 September 2026*
+*Updated on 23 September 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1493,6 +1493,7 @@
 | 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2023](https://www.worldcubeassociation.org/competitions/UkrainianNationals2023/results/podiums) |
 | 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2024](https://www.worldcubeassociation.org/competitions/UkrainianNationals2024/results/podiums) |
 | 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2025](https://www.worldcubeassociation.org/competitions/UkrainianNationals2025/results/podiums) |
+| 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2026](https://www.worldcubeassociation.org/competitions/UkrainianNationals2026/results/podiums) |
 | 11 | [Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01) | [Ukrainian Open 2015](https://www.worldcubeassociation.org/competitions/UkrainianOpen2015/results/podiums) |
 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Open 2023](https://www.worldcubeassociation.org/competitions/UkrainianOpen2023/results/podiums) |
 | 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Open 2025](https://www.worldcubeassociation.org/competitions/UkrainianOpen2025/results/podiums) |

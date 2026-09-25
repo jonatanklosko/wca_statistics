@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 23 September 2026*
+*Updated on 25 September 2026*
 
 
 ### Rubik's Cube - Single
@@ -92,7 +92,7 @@
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **20.74** | Republic of Korea | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026) | 20.52, 24.05, 21.04, 20.36, 20.65 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **21.27** | United States | [Japan Championship 2026](https://www.worldcubeassociation.org/competitions/JapanChampionship2026) | 22.07, 17.78, 21.42, 22.51, 20.32 |
 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | **21.44** | China | [Nanchang Summer 2026](https://www.worldcubeassociation.org/competitions/NanchangSummer2026) | 23.86, 16.97, 22.13, 20.31, 21.88 |
-| [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **21.46** | Hong Kong, China | [Brighton Brawl NY 2026](https://www.worldcubeassociation.org/competitions/BrightonBrawlNY2026) | 21.40, 20.60, 22.39, 20.52, 23.98 |
+| [Burno Chak Kwan Li (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **21.46** | Hong Kong, China | [Brighton Brawl NY 2026](https://www.worldcubeassociation.org/competitions/BrightonBrawlNY2026) | 21.40, 20.60, 22.39, 20.52, 23.98 |
 
 ### 5x5x5 Cube - Single
 

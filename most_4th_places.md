@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 23 September 2026*
+*Updated on 25 September 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -17,8 +17,8 @@
 | 189 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 189 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 187 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
+| 180 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 179 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 178 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 170 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 165 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 165 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
@@ -72,8 +72,8 @@
 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 106 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 | 106 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
-| 105 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 105 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
+| 105 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 104 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 103 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |

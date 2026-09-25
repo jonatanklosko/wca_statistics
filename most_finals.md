@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 23 September 2026*
+*Updated on 25 September 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -14,9 +14,9 @@
 | 1980 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1940 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1868 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
-| 1854 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 1858 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1850 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 1819 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 1822 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1816 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 1721 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1713 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
@@ -53,7 +53,7 @@
 | 1227 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 1223 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 1218 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
-| 1210 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 1212 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 1193 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 1181 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1179 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
@@ -97,8 +97,8 @@
 | 997 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 991 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
-| 983 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 983 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 982 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) |
 | 976 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 976 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) |

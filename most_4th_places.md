@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 September 2026*
+*Updated on 26 September 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -48,11 +48,11 @@
 | 128 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 128 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
 | 124 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
+| 124 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 123 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 123 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 123 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 123 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
-| 122 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 121 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 121 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
 | 121 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |

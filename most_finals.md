@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 25 September 2026*
+*Updated on 26 September 2026*
 
 | Finals | Person |
 | ---: | :--- |
@@ -33,7 +33,7 @@
 | 1507 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 1480 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1439 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
-| 1411 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
+| 1414 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 1404 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 1402 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 1353 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
@@ -52,13 +52,13 @@
 | 1236 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 1227 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 1223 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
+| 1221 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 1218 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
-| 1212 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 1193 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 1181 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 1179 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
+| 1176 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 1174 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) |
-| 1173 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 1158 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 1153 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 1149 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |

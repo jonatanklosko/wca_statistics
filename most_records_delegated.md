@@ -1,12 +1,12 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
 | 4173 | 184 | 306 | 3683 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
-| 2015 | 43 | 128 | 1844 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 2017 | 43 | 128 | 1846 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 1638 | 16 | 43 | 1579 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 1208 | 8 | 41 | 1159 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1202 | 25 | 101 | 1076 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
@@ -27,7 +27,7 @@
 | 712 | 16 | 105 | 591 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) |
 | 689 | 2 | 12 | 675 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 675 | 14 | 17 | 644 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
-| 672 | 8 | 54 | 610 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 675 | 8 | 54 | 613 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 669 | 13 | 32 | 624 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 663 | 1 | 3 | 659 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) |
 | 657 | 8 | 70 | 579 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
@@ -56,8 +56,8 @@
 | 510 | 3 | 20 | 487 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 505 | 33 | 13 | 459 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 504 | 14 | 58 | 432 | [Chatchawan Jaruwattanakun (ชัชวาลย์ จารุวัฒนกุล)](https://www.worldcubeassociation.org/persons/2009JARU02) |
+| 503 | 0 | 19 | 484 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 501 | 15 | 96 | 390 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
-| 501 | 0 | 19 | 482 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 500 | 1 | 2 | 497 | [Roman Ostapenko (Роман Остапенко)](https://www.worldcubeassociation.org/persons/2009OSTA01) |
 | 499 | 6 | 12 | 481 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) |
 | 497 | 3 | 11 | 483 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
@@ -68,18 +68,18 @@
 | 475 | 11 | 35 | 429 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
 | 468 | 2 | 20 | 446 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 466 | 34 | 60 | 372 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
-| 457 | 4 | 31 | 422 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 460 | 4 | 31 | 425 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 452 | 48 | 72 | 332 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 450 | 34 | 100 | 316 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 442 | 10 | 30 | 402 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 442 | 6 | 34 | 402 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 440 | 0 | 0 | 440 | [Ivo Kruusamägi](https://www.worldcubeassociation.org/persons/2018KRUU01) |
 | 438 | 35 | 67 | 336 | [Gilles Roux](https://www.worldcubeassociation.org/persons/2004ROUX01) |
+| 438 | 6 | 55 | 377 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 438 | 0 | 120 | 318 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) |
-| 437 | 6 | 55 | 376 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 432 | 15 | 112 | 305 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
 | 417 | 9 | 25 | 383 | [Philippe Lucien](https://www.worldcubeassociation.org/persons/2011LUCI01) |
-| 410 | 5 | 29 | 376 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
+| 413 | 5 | 29 | 379 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
 | 408 | 11 | 7 | 390 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 401 | 27 | 68 | 306 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 399 | 3 | 4 | 392 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) |

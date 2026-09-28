@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 
 ### Rubik's Cube
@@ -196,8 +196,8 @@
 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | 37.28 | **52.93** | [Faria Brito 2014](https://www.worldcubeassociation.org/competitions/FariaBritoOpen2014/results/podiums#eskewb) | 3 |
 | [Carlos Alexander Zelaya Alberto](https://www.worldcubeassociation.org/persons/2019ALBE05) | 26.74 | **47.37** | [Destino Maya Honduras 2019](https://www.worldcubeassociation.org/competitions/DestinoMayaHonduras2019/results/podiums#eskewb) | 3 |
 | [Allan Ricardo Rodriguez Colindres](https://www.worldcubeassociation.org/persons/2014COLI01) | 32.31 | **47.16** | [GuateRubik 2014](https://www.worldcubeassociation.org/competitions/GuateRubik2014/results/podiums#eskewb) | 2 |
+| [Oureana Trezentos Borges](https://www.worldcubeassociation.org/persons/2026BORG03) | 24.89 | **43.91** | [Madeira Open 2026](https://www.worldcubeassociation.org/competitions/MadeiraOpen2026/results/podiums#eskewb) | 3 |
 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | 33.25 | **43.56** | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014/results/podiums#eskewb) | 3 |
-| [Vibhav Jha](https://www.worldcubeassociation.org/persons/2020JHAV01) | 29.57 | **43.55** | [Jharkhand Cube Open 2020](https://www.worldcubeassociation.org/competitions/JharkhandCubeOpen2020/results/podiums#eskewb) | 3 |
 
 ### Square-1
 

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -38,6 +38,7 @@
 | 8 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
 | 8 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
 | 8 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 8 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 8 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) |
 | 8 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
 | 7 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
@@ -46,7 +47,6 @@
 | 7 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) |
 | 7 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 7 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
-| 7 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 7 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) |
 | 7 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 6 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -334,6 +334,7 @@
 | 9 | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018) |
 | 9 | [Latium & Sicily FMC 2025](https://www.worldcubeassociation.org/competitions/LatiumSicilyFMC2025) |
 | 9 | [Llanocentro Open 2019](https://www.worldcubeassociation.org/competitions/LlanocentroOpen2019) |
+| 9 | [Madeira Open 2026](https://www.worldcubeassociation.org/competitions/MadeiraOpen2026) |
 | 9 | [Mahalo iā Maui 2025](https://www.worldcubeassociation.org/competitions/MahaloiaMaui2025) |
 | 9 | [Maine PBQ 2025](https://www.worldcubeassociation.org/competitions/MainePBQ2025) |
 | 9 | [Mental Breakdown Uruguay 2022](https://www.worldcubeassociation.org/competitions/MentalBreakdownUruguay2022) |
@@ -972,6 +973,7 @@
 | 14 | [New York Multimate PBQ III 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQIII2025) |
 | 14 | [Northern Decathlon 2019](https://www.worldcubeassociation.org/competitions/NorthernDecathlon2019) |
 | 14 | [North Idaho No NxN's 2026](https://www.worldcubeassociation.org/competitions/NorthIdahoNoNxNs2026) |
+| 14 | [Oberlin Mid-Autumn Festival 2026](https://www.worldcubeassociation.org/competitions/OberlinMidAutumnFestival2026) |
 | 14 | [Ohio State Mental Madness 2026](https://www.worldcubeassociation.org/competitions/OhioStateMentalMadness2026) |
 | 14 | [Onnellista Uutta Vuotta 2023](https://www.worldcubeassociation.org/competitions/OnnellistaUuttaVuotta2023) |
 | 14 | [PBQ at MSU 2024](https://www.worldcubeassociation.org/competitions/PBQatMSU2024) |
@@ -1084,6 +1086,7 @@
 | 15 | [Florida Open 2007](https://www.worldcubeassociation.org/competitions/FloridaOpen2007) |
 | 15 | [FMCats Wisconsin III 2024](https://www.worldcubeassociation.org/competitions/FMCatsWisconsinIII2024) |
 | 15 | [FMC Colombia 2023](https://www.worldcubeassociation.org/competitions/FMCColombia2023) |
+| 15 | [FMC Fall Fürth 2026](https://www.worldcubeassociation.org/competitions/FMCFallFurth2026) |
 | 15 | [FMCow Ohio State V 2025](https://www.worldcubeassociation.org/competitions/FMCowOhioStateV2025) |
 | 15 | [FMC Crêpes 2022](https://www.worldcubeassociation.org/competitions/FMCrepes2022) |
 | 15 | [FMC West Melbourne 2023](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2023) |

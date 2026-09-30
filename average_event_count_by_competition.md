@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -53,8 +53,8 @@
 | [Begastri Open 2026](https://www.worldcubeassociation.org/competitions/BegastriOpen2026) | 9.61 | 56 | Spain |
 | [Medan All Events 2018](https://www.worldcubeassociation.org/competitions/MedanAllEvents2018) | 9.59 | 37 | Indonesia |
 | [Reach Your Goals 2023](https://www.worldcubeassociation.org/competitions/ReachYourGoalsWroclaw2023) | 9.57 | 44 | Poland |
-| [Sleep & Solve Landsbro 2026](https://www.worldcubeassociation.org/competitions/SleepSolveLandsbro2026) | 9.56 | 36 | Sweden |
 | [Sörmland Open 2025](https://www.worldcubeassociation.org/competitions/SormlandOpen2025) | 9.56 | 45 | Sweden |
+| [Sleep & Solve Landsbro 2026](https://www.worldcubeassociation.org/competitions/SleepSolveLandsbro2026) | 9.56 | 36 | Sweden |
 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) | 9.55 | 206 | Spain |
 | [Cube Camp In Kaeng Krachan 2023](https://www.worldcubeassociation.org/competitions/CubeCampinKaengKrachan2023) | 9.53 | 38 | Thailand |
 | [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019) | 9.50 | 14 | Indonesia |

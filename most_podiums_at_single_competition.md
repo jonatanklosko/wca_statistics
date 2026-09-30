@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -295,6 +295,7 @@
 | 10 | [Angga Atrie](https://www.worldcubeassociation.org/persons/2011ATRI01) | [Celebes 2012](https://www.worldcubeassociation.org/competitions/Celebes2012/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [Celebes Open 2024](https://www.worldcubeassociation.org/competitions/CelebesOpen2024/results/podiums) |
 | 10 | [Edgar Nogueira Garcia Pinho](https://www.worldcubeassociation.org/persons/2019PINH01) | [CEMS ao Cubo Vila Velha 2025](https://www.worldcubeassociation.org/competitions/CEMSaoCuboVilaVelha2025/results/podiums) |
+| 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Center Shopping Jacarepagua 2026](https://www.worldcubeassociation.org/competitions/CenterShoppingJacarepagua2026/results/podiums) |
 | 10 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Bishkek 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourBishkek2025/results/podiums) |
 | 12 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Cerbuna Open 2015](https://www.worldcubeassociation.org/competitions/CerbunaOpen2015/results/podiums) |
 | 17 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Cerrado Open 2022](https://www.worldcubeassociation.org/competitions/CerradoOpen2022/results/podiums) |
@@ -1596,6 +1597,7 @@
 | 11 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | [Washtenaw Qualifiers 2024](https://www.worldcubeassociation.org/competitions/WashtenawQualifiers2024/results/podiums) |
 | 11 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [WA State Championship 2021](https://www.worldcubeassociation.org/competitions/WAStateChampionship2021/results/podiums) |
 | 10 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [African Championship 2022](https://www.worldcubeassociation.org/competitions/WCAAfricanChampionship2022/results/podiums) |
+| 11 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [WCA African Championship 2026](https://www.worldcubeassociation.org/competitions/WCAAfricanChampionship2026/results/podiums) |
 | 11 | [Grigor Shahverdyan](https://www.worldcubeassociation.org/persons/2022SHAH29) | [Weekend Madness in Yerevan 2024](https://www.worldcubeassociation.org/competitions/WeekendMadnessinYerevan2024/results/podiums) |
 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021/results/podiums) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015/results/podiums) |

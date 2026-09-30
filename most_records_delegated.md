@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -63,6 +63,7 @@
 | 497 | 3 | 11 | 483 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
 | 497 | 21 | 71 | 405 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 486 | 8 | 39 | 439 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
+| 486 | 0 | 125 | 361 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) |
 | 480 | 8 | 227 | 245 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) |
 | 476 | 2 | 16 | 458 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 475 | 11 | 35 | 429 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
@@ -76,7 +77,6 @@
 | 440 | 0 | 0 | 440 | [Ivo Kruusamägi](https://www.worldcubeassociation.org/persons/2018KRUU01) |
 | 438 | 35 | 67 | 336 | [Gilles Roux](https://www.worldcubeassociation.org/persons/2004ROUX01) |
 | 438 | 6 | 55 | 377 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 438 | 0 | 120 | 318 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) |
 | 432 | 15 | 112 | 305 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
 | 417 | 9 | 25 | 383 | [Philippe Lucien](https://www.worldcubeassociation.org/persons/2011LUCI01) |
 | 413 | 5 | 29 | 379 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
@@ -101,7 +101,7 @@
 | 355 | 14 | 67 | 274 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) |
 | 347 | 0 | 1 | 346 | [Lester Santos](https://www.worldcubeassociation.org/persons/2007SANT01) |
 | 335 | 3 | 4 | 328 | [Vidar Norstein Klungre](https://www.worldcubeassociation.org/persons/2008KLUN01) |
-| 334 | 23 | 20 | 291 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
+| 335 | 23 | 20 | 292 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 333 | 0 | 1 | 332 | [Aysha Jamsheer](https://www.worldcubeassociation.org/persons/2017JAMS01) |
 | 324 | 0 | 0 | 324 | [Ömer Çetinkaya](https://www.worldcubeassociation.org/persons/2013CETI01) |
 | 322 | 3 | 24 | 295 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |

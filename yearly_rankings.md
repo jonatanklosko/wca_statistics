@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 
 ### Rubik's Cube - Single
@@ -106,8 +106,8 @@
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **31.95** | Vietnam | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 31.95, 33.48, 41.16, 35.32, 35.49 |
 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **31.98** | United States | [4x4 Off US-40 IL 2026](https://www.worldcubeassociation.org/competitions/4x4OffUS40IL2026) | 39.35, 31.98, 44.37, 39.41, 39.52 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **33.82** | Malaysia | [MYHM UoSM Final Cube Open 2026](https://www.worldcubeassociation.org/competitions/MYHMUoSMFinalCubeOpen2026) | 37.69, 43.25, 33.82, 47.08, 46.60 |
+| [Andrew Feng](https://www.worldcubeassociation.org/persons/2020FENG02) | **34.53** | New Zealand | [Dualling in Milford 2026](https://www.worldcubeassociation.org/competitions/DuallinginMilford2026) | 48.51, 45.56, 34.53, 36.02, 41.29 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **34.82** | Singapore | [Odd July Singapore 2026](https://www.worldcubeassociation.org/competitions/OddJulySingapore2026) | 38.20, 38.56, 48.92, 34.82, 43.44 |
-| [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **35.69** | Ireland | [Roscommon Cubing 2026](https://www.worldcubeassociation.org/competitions/RoscommonCubing2026) | 42.48, 35.69, 43.39, 41.71, 49.14 |
 
 ### 5x5x5 Cube - Average
 
@@ -242,7 +242,7 @@
 | [Enrico Tenuti](https://www.worldcubeassociation.org/persons/2017TENU01) | **20.00** | Italy | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) | 19, 19, 22 |
 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | **20.00** | Poland | [Silesian Minx Fest 2026](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2026) | 20, 20, 20 |
 | [Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02) | **20.33** | China | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) | 19, 19, 23 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **20.33** | United States | [For the Love of FMC USA 2026](https://www.worldcubeassociation.org/competitions/FortheLoveofFMCUSA2026) | 21, 19, 21 |
+| [Joseph Guzman](https://www.worldcubeassociation.org/persons/2015GUZM03) | **20.33** | United States | [New York Multimatum 2026](https://www.worldcubeassociation.org/competitions/NewYorkMultimatum2026) | 20, 19, 22 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -383,7 +383,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | **1.45** | Czech Republic | [Czech Open 2026](https://www.worldcubeassociation.org/competitions/CzechOpen2026) | 3.36, 1.20, 0.92, 1.36, 1.78 |
+| [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | **1.40** | Czech Republic | [Czech Championship 2026](https://www.worldcubeassociation.org/competitions/CzechChampionship2026) | 1.36, 3.74, 1.14, 1.58, 1.26 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **1.51** | Poland | [Cube Factory League Kalisz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKalisz2026) | 1.18, 1.61, 1.22, 1.71, 2.66 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **1.52** | United States | [Machesney Park Spring 2026](https://www.worldcubeassociation.org/competitions/MachesneyParkSpring2026) | 1.75, 1.32, 2.59, 1.28, 1.50 |
 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | **1.52** | China | [Xi'an Summer 2026](https://www.worldcubeassociation.org/competitions/XianSummer2026) | 1.52, 1.85, 1.08, DNF, 1.18 |

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 
 ### Rubik's Cube
@@ -182,7 +182,7 @@
 | 2.41 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.33, 2.32, 2.25, 2.97, 2.58 |
 | 2.50 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 2.82, 2.46, 2.48, 2.35, 2.57 |
 | 2.53 | [Max McGill](https://www.worldcubeassociation.org/persons/2023MCGI02) | 2.61, 2.40, 3.23, 2.34, 2.57 |
-| 2.55 | [Kagen Chiu](https://www.worldcubeassociation.org/persons/2024CHIU04) | 2.31, DNF, 2.24, 2.83, 2.51 |
+| 2.53 | [Dylan Heerikhuisen](https://www.worldcubeassociation.org/persons/2022HEER01) | 2.72, 2.41, DNF, 2.47, 2.36 |
 
 ### Skewb
 

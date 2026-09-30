@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 
 ### Rubik's Cube
@@ -115,14 +115,14 @@
 | ---: | :--- | :--- |
 | 20.95 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 20, 24, 22, 20, 20, 23, 22, 23, 21, 20, 21, 21, 21, 23, 21, 21, 19, 21, 20, 19, 22, 21, 19, 19, 22 |
 | 21.05 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 20, 21, 22, 22, 22, 23, 18, 21, 23, 28, 21, 21, 20, 20, 20, 20, 23, 21, 19, 24, 22, 19, 20, 18, 22 |
+| 21.29 | [Joseph Guzman](https://www.worldcubeassociation.org/persons/2015GUZM03) | 22, 22, 22, 20, 23, 21, 24, 19, 22, 22, 21, 22, 19, 23, 19, 21, 22, 21, 21, 22, 21, 23, 21, 20, 19 |
 | 21.33 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 21, 28, 22, 24, 24, 21, 22, 21, 18, 22, 20, 24, 21, 19, 19, 21, 21, 23, 19, 23, 20, 19, 22, 22, 21 |
 | 21.33 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 21, 21, 23, 22, 22, 21, 21, 22, 19, 21, 22, 21, 23, 22, 20, 20, 21, 22, 21, 21, 21, 24, 21, 21, 21 |
-| 21.52 | [Joseph Guzman](https://www.worldcubeassociation.org/persons/2015GUZM03) | 24, 21, 23, 21, 22, 22, 22, 20, 23, 21, 24, 19, 22, 22, 21, 22, 19, 23, 19, 21, 22, 21, 21, 22, 21 |
 | 21.71 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 22, 19, 22, 22, 19, 20, 23, 20, 23, 23, 22, 22, 24, 23, 18, 23, 24, 26, 24, 20, 22, 21, 21, 20, 20 |
 | 21.76 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 22, 21, 25, 23, 19, 21, DNF, DNF, 26, 20, 22, 20, 21, 20, 24, 21, 23, 20, 24, 21, 19, 22, 21, 20, 20 |
 | 21.90 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 21, 21, 19, 25, 23, 20, 23, 23, 20, 22, 21, 22, 23, 21, 22, 25, 20, 22, 23, 20, 23, 24, 24, 20, 22 |
 | 21.90 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 20, 24, 22, 23, 22, 24, 23, 22, 21, 24, 22, 21, 20, 22, 21, 22, 26, 22, 20, 22, 21, 19, 21, DNF, 21 |
-| 21.95 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | 20, 20, 23, 24, 25, 21, 23, 23, 21, 23, 24, 21, 22, 23, 23, 20, 23, 22, 21, 19, 19, 23, 23, 23, 19 |
+| 21.90 | [Elliot Wiecek](https://www.worldcubeassociation.org/persons/2016WIEC02) | 22, 20, 24, 25, 21, 21, DNF, 22, 21, 19, 19, 23, 23, 22, 22, 21, 25, 22, 23, 22, 23, 21, 20, 21, 21 |
 
 ### 3x3x3 One-Handed
 

@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -51,6 +51,7 @@
 | 5 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 5 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 5 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
+| 5 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 5 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 5 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 5 | [Katie Hardwick](https://www.worldcubeassociation.org/persons/2013ENGE01) |
@@ -60,6 +61,7 @@
 | 5 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 5 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 5 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
+| 5 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 5 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) |
 | 5 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 5 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
@@ -68,6 +70,7 @@
 | 5 | [Ricardo Olea Catalán](https://www.worldcubeassociation.org/persons/2017CATA04) |
 | 5 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) |
 | 5 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
+| 5 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 5 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 5 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 5 | [Don Daniels](https://www.worldcubeassociation.org/persons/2022DANI10) |
@@ -109,6 +112,7 @@
 | 4 | [Justin Mallari](https://www.worldcubeassociation.org/persons/2010MALL01) |
 | 4 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 4 | [Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01) |
+| 4 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 4 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
 | 4 | [Muhammad Syahmi](https://www.worldcubeassociation.org/persons/2010SYAH03) |
 | 4 | [Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53) |
@@ -131,7 +135,6 @@
 | 4 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) |
 | 4 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 4 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
-| 4 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 4 | [Kenneth Lu](https://www.worldcubeassociation.org/persons/2012LUKE01) |
 | 4 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 4 | [Jack Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) |
@@ -149,6 +152,7 @@
 | 4 | [Yanfeng Zhu (朱艳枫)](https://www.worldcubeassociation.org/persons/2013ZHUY02) |
 | 4 | [Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02) |
 | 4 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
+| 4 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 4 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) |
 | 4 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
 | 4 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
@@ -157,7 +161,6 @@
 | 4 | [Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02) |
 | 4 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 4 | [Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03) |
-| 4 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 4 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
 | 4 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 4 | [Pedro Henrique Maciel Ceccopieri Belo (陈昊然)](https://www.worldcubeassociation.org/persons/2015BELO02) |
@@ -222,7 +225,6 @@
 | 4 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) |
 | 4 | [Takumi Tamura (田村匠)](https://www.worldcubeassociation.org/persons/2019TAMU01) |
 | 4 | [Tom Noble](https://www.worldcubeassociation.org/persons/2019NOBL01) |
-| 4 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 4 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
 | 4 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) |
 | 4 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |

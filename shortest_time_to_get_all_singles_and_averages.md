@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -64,6 +64,7 @@
 | 1764 | [Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21) |
 | 1771 | [Hanns Hub](https://www.worldcubeassociation.org/persons/2013HUBH01) |
 | 1804 | [Jiachi Han (韩佳池)](https://www.worldcubeassociation.org/persons/2014HANJ02) |
+| 1856 | [Jakov Srečković](https://www.worldcubeassociation.org/persons/2021SREC01) |
 | 1868 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 1869 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) |
 | 1890 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) |

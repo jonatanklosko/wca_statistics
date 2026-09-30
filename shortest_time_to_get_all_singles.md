@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -791,6 +791,7 @@
 | 4229 | [Andrei Răzvan Ionel](https://www.worldcubeassociation.org/persons/2012IONE01) |
 | 4326 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) |
 | 4367 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
+| 4373 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) |
 | 4383 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) |
 | 4430 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) |
 | 4446 | [Austin Reed](https://www.worldcubeassociation.org/persons/2011REED01) |

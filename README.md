@@ -50,6 +50,7 @@
 - [Potentially seen world records](potentially_seen_world_records)
 - [Records in the highest number of events](records_in_most_events)
 - [Shortest amount of time to reach a milestone in competitions count](shortest_time_to_reach_milestone_in_comps_count)
+- [Shortest time to achieve solves milestone](shortest_time_to_achieve_solves_milestone)
 - [Shortest time to get all singles](shortest_time_to_get_all_singles)
 - [Shortest time to get all singles and averages](shortest_time_to_get_all_singles_and_averages)
 - [Smallest difference between a single and an average](smallest_diff_between_single_and_average)

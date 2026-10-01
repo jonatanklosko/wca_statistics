@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -30,8 +30,8 @@
 | 154 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 150 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 146 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 144 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 144 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
+| 144 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 143 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 142 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 141 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
@@ -39,13 +39,13 @@
 | 136 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 136 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 133 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
-| 130 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
-| 130 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
-| 130 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 130 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) |
+| 130 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 130 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
+| 130 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 129 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 129 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 129 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
+| 129 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 128 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 125 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 125 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
@@ -53,10 +53,10 @@
 | 124 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 123 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 123 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
+| 121 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 121 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 121 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
 | 121 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
-| 120 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 119 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 118 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 117 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
@@ -76,8 +76,8 @@
 | 105 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 105 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 103 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 103 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
+| 103 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 103 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 103 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |

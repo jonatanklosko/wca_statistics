@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 
 ### Competition
@@ -35,12 +35,12 @@
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **23741** | 24175 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **22996** | 24937 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **21576** | 22489 |
+| [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **19713** | 20311 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **19669** | 20219 |
-| [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **19663** | 20261 |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **19604** | 20563 |
+| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **19631** | 20591 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **19256** | 20085 |
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **19206** | 20076 |
-| [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) | **18651** | 19249 |
+| [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) | **18691** | 19289 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **18086** | 18761 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **17522** | 18612 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **17159** | 17844 |
@@ -57,7 +57,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **6830222** | 7150770 |
+| United States | **6830596** | 7151172 |
 | China | **1620885** | 1698084 |
 | Poland | **1507226** | 1588212 |
 | Australia | **1202996** | 1268496 |
@@ -68,7 +68,7 @@
 | Canada | **831668** | 867315 |
 | France | **806124** | 852645 |
 | Brazil | **712584** | 746117 |
-| Colombia | **670527** | 703005 |
+| Colombia | **671434** | 703931 |
 | Sweden | **609964** | 642661 |
 | Philippines | **542764** | 563748 |
 | Italy | **521274** | 547409 |
@@ -82,10 +82,10 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **11712068** | 12295769 |
-| North America | **8410920** | 8798858 |
+| Europe | **11717335** | 12301470 |
+| North America | **8411294** | 8799260 |
 | Asia | **5980703** | 6260836 |
-| South America | **2519636** | 2636476 |
+| South America | **2520543** | 2637402 |
 | Oceania | **1517831** | 1598707 |
 | Africa | **238976** | 249628 |
 | Multiple Continents | **7213** | 9316 |
@@ -97,7 +97,7 @@
 | 2024 | **4728904** | 4946141 |
 | 2025 | **4533058** | 4737165 |
 | 2023 | **3999170** | 4182829 |
-| 2026 | **3201775** | 3365717 |
+| 2026 | **3208323** | 3372746 |
 | 2019 | **2537001** | 2656542 |
 | 2018 | **2218482** | 2324544 |
 | 2022 | **2118011** | 2217441 |
@@ -119,25 +119,25 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **9145905** | 9336601 |
-| 2x2x2 Cube | **5151203** | 5282494 |
-| Pyraminx | **3358134** | 3444740 |
+| 3x3x3 Cube | **9147564** | 9338296 |
+| 2x2x2 Cube | **5152665** | 5283996 |
+| Pyraminx | **3358993** | 3445629 |
 | 4x4x4 Cube | **2631648** | 2727607 |
-| 3x3x3 One-Handed | **2390189** | 2466574 |
-| Skewb | **2211946** | 2265827 |
+| 3x3x3 One-Handed | **2391214** | 2467629 |
+| Skewb | **2212585** | 2266487 |
 | 5x5x5 Cube | **1394022** | 1436539 |
-| Clock | **1024147** | 1178948 |
+| Clock | **1024341** | 1179164 |
 | Megaminx | **999287** | 1039817 |
-| Square-1 | **871016** | 906483 |
-| 6x6x6 Cube | **350757** | 362990 |
+| Square-1 | **871524** | 907011 |
+| 6x6x6 Cube | **350800** | 363035 |
 | 7x7x7 Cube | **286615** | 299193 |
-| 3x3x3 Blindfolded | **213030** | 577341 |
+| 3x3x3 Blindfolded | **213178** | 577748 |
 | 3x3x3 Fewest Moves | **129499** | 174764 |
 | Magic | **78268** | 86498 |
 | 3x3x3 With Feet | **51884** | 56650 |
 | Master Magic | **39964** | 41445 |
 | 3x3x3 Multi-Blind | **31402** | 52617 |
-| 4x4x4 Blindfolded | **19663** | 72763 |
+| 4x4x4 Blindfolded | **19674** | 72795 |
 | 5x5x5 Blindfolded | **8363** | 39108 |
 
 

@@ -1,22 +1,22 @@
 ## Most finals
 
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 | Finals | Person |
 | ---: | :--- |
 | 3211 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 2527 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 2490 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 2449 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 2452 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 2284 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 2223 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 2085 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 1980 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 1940 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 1868 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
+| 1862 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 1859 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 1858 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
-| 1822 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 1824 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 1816 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 1730 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1717 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
@@ -44,7 +44,7 @@
 | 1296 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 1288 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 1283 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 1271 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
+| 1275 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 1262 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 1261 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 1251 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |

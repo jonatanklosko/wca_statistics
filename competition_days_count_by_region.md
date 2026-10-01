@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.45 | World | 18711 |
+| 1.45 | World | 18726 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.71 | Europe | 6069 |
+| 1.71 | Europe | 6075 |
 | 1.48 | Oceania | 815 |
-| 1.45 | South America | 2406 |
-| 1.40 | Asia | 3772 |
+| 1.45 | South America | 2407 |
+| 1.40 | Asia | 3773 |
 | 1.31 | Africa | 258 |
-| 1.21 | North America | 5391 |
+| 1.21 | North America | 5398 |
 
 ### Countries
 
@@ -34,26 +34,26 @@
 | 1.91 | Turkey | 140 |
 | 1.91 | France | 412 |
 | 1.89 | Palestine | 9 |
-| 1.88 | Kazakhstan | 81 |
+| 1.88 | Kazakhstan | 82 |
 | 1.86 | Thailand | 111 |
 | 1.84 | Serbia | 32 |
-| 1.84 | Finland | 201 |
+| 1.84 | Finland | 204 |
 | 1.84 | Spain | 546 |
 | 1.83 | Norway | 182 |
 | 1.82 | Slovenia | 49 |
 | 1.81 | Austria | 42 |
 | 1.81 | Croatia | 42 |
-| 1.80 | United Kingdom | 379 |
+| 1.81 | United Kingdom | 380 |
 | 1.80 | Bosnia and Herzegovina | 15 |
 | 1.80 | Luxembourg | 5 |
 | 1.79 | Lithuania | 39 |
-| 1.78 | Mexico | 287 |
+| 1.78 | Mexico | 288 |
 | 1.78 | Slovakia | 67 |
 | 1.78 | Switzerland | 196 |
 | 1.76 | Czech Republic | 116 |
 | 1.76 | Guatemala | 70 |
 | 1.75 | Sri Lanka | 16 |
-| 1.75 | Ireland | 106 |
+| 1.75 | Ireland | 107 |
 | 1.74 | Ukraine | 162 |
 | 1.71 | Poland | 671 |
 | 1.66 | Argentina | 144 |
@@ -85,7 +85,7 @@
 | 1.48 | Peru | 271 |
 | 1.45 | Australia | 624 |
 | 1.43 | Vietnam | 82 |
-| 1.42 | Israel | 84 |
+| 1.42 | Israel | 85 |
 | 1.40 | Costa Rica | 35 |
 | 1.39 | Estonia | 74 |
 | 1.38 | Chinese Taipei | 175 |
@@ -106,7 +106,7 @@
 | 1.27 | Philippines | 435 |
 | 1.26 | Colombia | 579 |
 | 1.25 | Hong Kong, China | 32 |
-| 1.24 | Chile | 177 |
+| 1.25 | Chile | 178 |
 | 1.24 | El Salvador | 42 |
 | 1.23 | China | 787 |
 | 1.23 | Venezuela | 108 |
@@ -117,7 +117,7 @@
 | 1.17 | Japan | 286 |
 | 1.17 | Egypt | 12 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 4321 |
+| 1.16 | United States | 4327 |
 | 1.16 | Canada | 540 |
 | 1.15 | Armenia | 13 |
 | 1.14 | Azerbaijan | 56 |

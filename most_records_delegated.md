@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -10,12 +10,12 @@
 | 1638 | 16 | 43 | 1579 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 1208 | 8 | 41 | 1159 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1202 | 25 | 101 | 1076 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 1074 | 49 | 149 | 876 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
+| 1075 | 49 | 149 | 877 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 1049 | 23 | 101 | 925 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 1047 | 97 | 245 | 705 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
 | 991 | 24 | 147 | 820 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 957 | 22 | 140 | 795 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 903 | 13 | 79 | 811 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
+| 904 | 13 | 79 | 812 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 882 | 9 | 34 | 839 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 877 | 7 | 33 | 837 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
 | 827 | 5 | 22 | 800 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
@@ -43,7 +43,7 @@
 | 577 | 16 | 86 | 475 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) |
 | 571 | 9 | 159 | 403 | [Dave Campbell](https://www.worldcubeassociation.org/persons/2005CAMP01) |
 | 562 | 2 | 44 | 516 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
-| 552 | 3 | 26 | 523 | [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) |
+| 553 | 3 | 26 | 524 | [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) |
 | 543 | 8 | 39 | 496 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) |
 | 543 | 3 | 10 | 530 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) |
 | 541 | 5 | 49 | 487 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
@@ -62,7 +62,7 @@
 | 499 | 6 | 12 | 481 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) |
 | 497 | 3 | 11 | 483 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
 | 497 | 21 | 71 | 405 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
-| 486 | 8 | 39 | 439 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
+| 487 | 8 | 39 | 440 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 486 | 0 | 125 | 361 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) |
 | 480 | 8 | 227 | 245 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) |
 | 476 | 2 | 16 | 458 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
@@ -72,8 +72,8 @@
 | 460 | 4 | 31 | 425 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 452 | 48 | 72 | 332 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 450 | 34 | 100 | 316 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
+| 443 | 6 | 34 | 403 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 442 | 10 | 30 | 402 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
-| 442 | 6 | 34 | 402 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 440 | 0 | 0 | 440 | [Ivo Kruusamägi](https://www.worldcubeassociation.org/persons/2018KRUU01) |
 | 438 | 35 | 67 | 336 | [Gilles Roux](https://www.worldcubeassociation.org/persons/2004ROUX01) |
 | 438 | 6 | 55 | 377 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |

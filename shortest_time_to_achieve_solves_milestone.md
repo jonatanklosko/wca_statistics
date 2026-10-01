@@ -1,6 +1,6 @@
 ## Shortest time to achieve solves milestone
 
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 
 ### 20000 Solves
@@ -67,6 +67,7 @@
 | 861 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 980 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 | 1093 | [Imanuel Müller](https://www.worldcubeassociation.org/persons/2022MULL02) |
+| 1106 | [Axel Juan Pablo Moreno Rodriguez](https://www.worldcubeassociation.org/persons/2023RODR80) |
 | 1108 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 1115 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 | 1134 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
@@ -82,7 +83,6 @@
 | 1255 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 1269 | [Leo Alanen](https://www.worldcubeassociation.org/persons/2022ALAN02) |
 | 1275 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 1288 | [Aarni Salakari](https://www.worldcubeassociation.org/persons/2022SALA09) |
 
 ### 1000 Solves
 

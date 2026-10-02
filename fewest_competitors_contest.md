@@ -165,6 +165,7 @@
 | 7 | [LA Quiet Championship 2026](https://www.worldcubeassociation.org/competitions/LAQuietChampionship2026) |
 | 7 | [Leticia Open 2025](https://www.worldcubeassociation.org/competitions/LeticiaOpen2025) |
 | 7 | [Long Island No Sound 2026](https://www.worldcubeassociation.org/competitions/LongIslandNoSound2026) |
+| 7 | [Manaus Big & Blind 2026](https://www.worldcubeassociation.org/competitions/ManausBigBlind2026) |
 | 7 | [Marijampolė Tyliai 2026](https://www.worldcubeassociation.org/competitions/MarijampoleTyliai2026) |
 | 7 | [Mental Breakdown Abu Dhabi 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownAbuDhabi2019) |
 | 7 | [Nacho-nal Day FMC Täby 2024](https://www.worldcubeassociation.org/competitions/NachonalDayFMCTaby2024) |
@@ -1116,6 +1117,7 @@
 | 15 | [LA Summer Side Events 2025](https://www.worldcubeassociation.org/competitions/LASummerSideEvents2025) |
 | 15 | [Les Beaupreau du Blind 2026](https://www.worldcubeassociation.org/competitions/LesBeaupreauduBlind2026) |
 | 15 | [Luminous Sol Open 2026](https://www.worldcubeassociation.org/competitions/LuminousSolOpen2026) |
+| 15 | [Manaus Beginners 2026](https://www.worldcubeassociation.org/competitions/ManausBeginners2026) |
 | 15 | [Mantua Tiny Open 2016](https://www.worldcubeassociation.org/competitions/MantuaTinyOpen2016) |
 | 15 | [Master Cube Salvador B 2024](https://www.worldcubeassociation.org/competitions/MasterCubeSalvadorB2024) |
 | 15 | [Mauritius Nationals 2026](https://www.worldcubeassociation.org/competitions/MauritiusNationals2026) |

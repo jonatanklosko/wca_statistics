@@ -85,8 +85,8 @@
 | 1041 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 1035 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 1030 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 1029 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 1029 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
+| 1029 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 1027 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 1025 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 1022 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |

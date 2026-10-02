@@ -7,17 +7,17 @@
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.45 | World | 18726 |
+| 1.45 | World | 18736 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.71 | Europe | 6075 |
+| 1.71 | Europe | 6084 |
 | 1.48 | Oceania | 815 |
 | 1.45 | South America | 2407 |
 | 1.40 | Asia | 3773 |
-| 1.31 | Africa | 258 |
+| 1.31 | Africa | 259 |
 | 1.21 | North America | 5398 |
 
 ### Countries
@@ -55,7 +55,7 @@
 | 1.75 | Sri Lanka | 16 |
 | 1.75 | Ireland | 107 |
 | 1.74 | Ukraine | 162 |
-| 1.71 | Poland | 671 |
+| 1.70 | Poland | 680 |
 | 1.66 | Argentina | 144 |
 | 1.65 | Italy | 301 |
 | 1.64 | Hungary | 84 |
@@ -110,12 +110,12 @@
 | 1.24 | El Salvador | 42 |
 | 1.23 | China | 787 |
 | 1.23 | Venezuela | 108 |
+| 1.23 | Egypt | 13 |
 | 1.22 | United Arab Emirates | 23 |
 | 1.21 | Panama | 33 |
 | 1.20 | Singapore | 124 |
 | 1.19 | Morocco | 16 |
 | 1.17 | Japan | 286 |
-| 1.17 | Egypt | 12 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | United States | 4327 |
 | 1.16 | Canada | 540 |

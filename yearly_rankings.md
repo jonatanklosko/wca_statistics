@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 
 ### Rubik's Cube - Single
@@ -162,9 +162,9 @@
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **1:31.63** | Russia | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026) | 1:38.11, 1:40.67, 1:31.63 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:32.69** | Poland | [Elmsford Extravaganza III 2026](https://www.worldcubeassociation.org/competitions/ElmsfordExtravaganzaIII2026) | 1:46.63, 1:32.69, 1:44.96 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **1:32.92** | Malaysia | [UniKL MIAT Cube Open 2026](https://www.worldcubeassociation.org/competitions/UniKLMIATCubeOpen2026) | 1:32.92, 1:50.69, 1:38.35 |
+| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:33.11** | Republic of Korea | [Balam Cubes Bekasi Comeback 2026](https://www.worldcubeassociation.org/competitions/BalamCubesBekasiComeback2026) | 1:33.11, 1:38.34, 1:53.87 |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:33.72** | China | [Guangzhou Big Cubes 2026](https://www.worldcubeassociation.org/competitions/GuangzhouBigCubes2026) | 1:51.40, 1:33.72, 1:43.81 |
 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:33.75** | Vietnam | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026) | 1:46.81, 1:43.30, 1:33.75 |
-| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **1:35.31** | Republic of Korea | [Korea Open 2026](https://www.worldcubeassociation.org/competitions/KoreaOpen2026) | 1:47.96, 1:35.31, 1:38.74 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **1:36.86** | Singapore | [Singapore Augu-Skewb Day 2026](https://www.worldcubeassociation.org/competitions/SingaporeAuguSkewbDay2026) | 1:58.59, 1:45.36, 1:36.86 |
 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | **1:37.08** | United States | [Hancock County NxNs 2026](https://www.worldcubeassociation.org/competitions/HancockCountyNxNs2026) | 1:37.08, 2:04.82, 1:57.79 |
 | [Omar Ellabban](https://www.worldcubeassociation.org/persons/2018ELLA01) | **1:37.34** | Canada | [Pickering NxNxN Winter 2026](https://www.worldcubeassociation.org/competitions/PickeringNxNxNWinter2026) | 1:47.11, 1:46.14, 1:37.34 |

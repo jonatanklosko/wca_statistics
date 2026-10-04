@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 | Person | Years |
 | :--- | ---: |
@@ -52,8 +52,8 @@
 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) | 12.70 |
 | [Charl Jovan Borromeo](https://www.worldcubeassociation.org/persons/2012BORR01) | 12.63 |
 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | 12.63 |
-| [Toru Morooka (諸岡徹)](https://www.worldcubeassociation.org/persons/2010MORO01) | 12.59 |
 | [Ryan Harris](https://www.worldcubeassociation.org/persons/2013HARR01) | 12.59 |
+| [Toru Morooka (諸岡徹)](https://www.worldcubeassociation.org/persons/2010MORO01) | 12.59 |
 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) | 12.57 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | 12.46 |
 | [Phopphon Suwattee (ภพพนธ์ สุวัตถี)](https://www.worldcubeassociation.org/persons/2010SUWA03) | 12.38 |
@@ -94,12 +94,12 @@
 | [Nurym Kudaibergen](https://www.worldcubeassociation.org/persons/2011KUDA01) | 11.48 |
 | [Bohdan Yaryha (Богдан Ярига)](https://www.worldcubeassociation.org/persons/2012YARY01) | 11.46 |
 | [Alexander Karlov](https://www.worldcubeassociation.org/persons/2014KARL01) | 11.44 |
-| [David Lin](https://www.worldcubeassociation.org/persons/2012LIND02) | 11.44 |
 | [Xiran Chen (陈袭然)](https://www.worldcubeassociation.org/persons/2014CHEN51) | 11.44 |
+| [David Lin](https://www.worldcubeassociation.org/persons/2012LIND02) | 11.44 |
 | [Angus Hannelly](https://www.worldcubeassociation.org/persons/2013HANN01) | 11.43 |
 | [Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03) | 11.36 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11.31 |
 | [Jakob Fiechter](https://www.worldcubeassociation.org/persons/2014FIEC01) | 11.31 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11.31 |
 | [Annika Stein](https://www.worldcubeassociation.org/persons/2014STEI03) | 11.27 |
 | [Lilyn Ma](https://www.worldcubeassociation.org/persons/2014MALI04) | 11.23 |
 | [Francisco Thales Rocha Sousa](https://www.worldcubeassociation.org/persons/2013SOUS03) | 11.21 |

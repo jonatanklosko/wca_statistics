@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -326,6 +326,7 @@
 | 1253 | [Thodoris Iatrou](https://www.worldcubeassociation.org/persons/2022IATR01) |
 | 1254 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) |
 | 1260 | [Jeremy Sheng](https://www.worldcubeassociation.org/persons/2019SHEN10) |
+| 1261 | [Francisco Israel Ortiz Pimentel](https://www.worldcubeassociation.org/persons/2023PIME02) |
 | 1267 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) |
 | 1267 | [Marcus Moberg](https://www.worldcubeassociation.org/persons/2016MOBE01) |
 | 1288 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
@@ -760,6 +761,7 @@
 | 3682 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) |
 | 3702 | [William Phommaha](https://www.worldcubeassociation.org/persons/2015PHOM01) |
 | 3710 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) |
+| 3718 | [Leonardo Sánchez Del Toro](https://www.worldcubeassociation.org/persons/2016TORO03) |
 | 3723 | [António Gomes](https://www.worldcubeassociation.org/persons/2014GOME07) |
 | 3739 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 3752 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |

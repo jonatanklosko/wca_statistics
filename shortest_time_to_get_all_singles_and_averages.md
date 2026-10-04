@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -38,6 +38,7 @@
 | 1198 | [Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29) |
 | 1203 | [Romain Velcin](https://www.worldcubeassociation.org/persons/2023VELC01) |
 | 1239 | [Alessio Pandin](https://www.worldcubeassociation.org/persons/2021PAND01) |
+| 1261 | [Rodrigo Ángeles Montes de Oca](https://www.worldcubeassociation.org/persons/2023OCAR01) |
 | 1266 | [Luke Selle](https://www.worldcubeassociation.org/persons/2022SELL05) |
 | 1309 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 1372 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |

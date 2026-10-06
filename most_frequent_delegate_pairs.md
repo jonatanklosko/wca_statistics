@@ -214,6 +214,7 @@
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) & [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) | 36 |
 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) & [Shanglin Ye](https://www.worldcubeassociation.org/persons/2013YESH01) | 35 |
 | [Asami Ohkusa](https://www.worldcubeassociation.org/persons/2014SHIO01) & [Yuichi Hamada (濵田祐一)](https://www.worldcubeassociation.org/persons/2012HAMA02) | 35 |
+| [Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01) & [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 35 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) & [Nolan Lata Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | 35 |
 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 35 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) & [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | 35 |

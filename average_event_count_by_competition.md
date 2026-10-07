@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -60,8 +60,8 @@
 | [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019) | 9.50 | 14 | Indonesia |
 | [Southern Championship 2025](https://www.worldcubeassociation.org/competitions/SouthernChampionship2025) | 9.47 | 72 | United States |
 | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | 9.47 | 49 | Poland |
-| [VERK XIII 2026](https://www.worldcubeassociation.org/competitions/VERKXIII2026) | 9.47 | 15 | Finland |
 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | 9.47 | 15 | Ireland |
+| [VERK XIII 2026](https://www.worldcubeassociation.org/competitions/VERKXIII2026) | 9.47 | 15 | Finland |
 | [Autotalo Anime Adventure VI 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureVI2024) | 9.46 | 24 | Finland |
 | [Kublördag Uppsala V - 2026](https://www.worldcubeassociation.org/competitions/KublordagUppsalaV2026) | 9.41 | 32 | Sweden |
 | [Twixmas Flen 2024](https://www.worldcubeassociation.org/competitions/TwixmasFlen2024) | 9.39 | 57 | Sweden |
@@ -95,10 +95,10 @@
 | [Poções 2019](https://www.worldcubeassociation.org/competitions/Pocoes2019) | 9.06 | 18 | Brazil |
 | [Capelle Chaos B 2026](https://www.worldcubeassociation.org/competitions/CapelleChaosB2026) | 9.05 | 41 | Netherlands |
 | [Southern Indiana Qualifier 2025](https://www.worldcubeassociation.org/competitions/SouthernIndianaQualifier2025) | 9.04 | 53 | United States |
-| [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026) | 9.00 | 228 | United States |
 | [Bulacan Open 2010](https://www.worldcubeassociation.org/competitions/BulacanOpen2010) | 9.00 | 16 | Philippines |
-| [NZ South Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2025) | 9.00 | 34 | New Zealand |
 | [Sint Michielsgestel 2019](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2019) | 9.00 | 45 | Netherlands |
+| [NZ South Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2025) | 9.00 | 34 | New Zealand |
+| [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026) | 9.00 | 228 | United States |
 | [Danish Open 2014](https://www.worldcubeassociation.org/competitions/DanishOpen2014) | 8.97 | 36 | Denmark |
 | [Heartland Championship 2019](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2019) | 8.96 | 93 | United States |
 | [Maribor Open 2014](https://www.worldcubeassociation.org/competitions/MariborOpen2014) | 8.95 | 20 | Slovenia |

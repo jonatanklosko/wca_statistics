@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -27,6 +27,7 @@
 | 13 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 12 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 12 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) |
+| 12 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 12 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 11 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
@@ -38,7 +39,6 @@
 | 8 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
 | 8 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
 | 8 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 8 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
 | 8 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) |
 | 8 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
 | 7 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
@@ -93,6 +93,7 @@
 | 4 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 4 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
 | 4 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) |
+| 4 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) |
 | 4 | [Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01) |
 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
 | 3 | [Alexander Yu](https://www.worldcubeassociation.org/persons/2007YUAL01) |
@@ -126,7 +127,6 @@
 | 3 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 3 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
-| 3 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) |
 | 3 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) |
 | 3 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |
 | 2 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |

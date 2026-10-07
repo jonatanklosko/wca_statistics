@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -324,6 +324,7 @@
 | 9 | [Grizz Cubing League II 2023](https://www.worldcubeassociation.org/competitions/GrizzCubingLeagueII2023) |
 | 9 | [Hari-Hari Horas 10 2024](https://www.worldcubeassociation.org/competitions/HariHariHoras102024) |
 | 9 | [Hari-Hari Horas 9 2024](https://www.worldcubeassociation.org/competitions/HariHariHoras92024) |
+| 9 | [Hawaiʻi Big Island Fall 2026](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandFall2026) |
 | 9 | [Honolulu Hippocampus 2024](https://www.worldcubeassociation.org/competitions/HonoluluHippocampus2024) |
 | 9 | [Hvidovre i Mange Træk 2024](https://www.worldcubeassociation.org/competitions/HvidovreiMangeTraek2024) |
 | 9 | [Hvidovre med Dessert 2025](https://www.worldcubeassociation.org/competitions/HvidovremedDessert2025) |
@@ -465,11 +466,13 @@
 | 10 | [Minx Open PM 2022](https://www.worldcubeassociation.org/competitions/MinxOpenPM2022) |
 | 10 | [MIT FMC 2014](https://www.worldcubeassociation.org/competitions/MITFMC2014) |
 | 10 | [Mombasa Twist & Turn 2026](https://www.worldcubeassociation.org/competitions/MombasaTwistTurn2026) |
+| 10 | [Nānākuli Liʻi ʻOkakopa A 2026](https://www.worldcubeassociation.org/competitions/NanakuliLiiOkakopaA2026) |
 | 10 | [New England FMC Warmup 2023](https://www.worldcubeassociation.org/competitions/NewEnglandFMCWarmup2023) |
 | 10 | [North Idaho Big Cubes 2026](https://www.worldcubeassociation.org/competitions/NorthIdahoBigCubes2026) |
 | 10 | [Oberlin Challenge I 2026](https://www.worldcubeassociation.org/competitions/OberlinChallengeI2026) |
 | 10 | [Panaad Memo & Demo 2023](https://www.worldcubeassociation.org/competitions/PanaadMemoDemo2023) |
 | 10 | [Pavlodar Open 2026](https://www.worldcubeassociation.org/competitions/PavlodarOpen2026) |
+| 10 | [Perth FMC Day 2026](https://www.worldcubeassociation.org/competitions/PerthFMCDay2026) |
 | 10 | [Please Be Quiet Auckland 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietAuckland2025) |
 | 10 | [Please Be Quiet Frisco 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietFrisco2019) |
 | 10 | [Please Be Quiet Nashville 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietNashville2025) |
@@ -812,6 +815,7 @@
 | 13 | [Elmsford Evening I 2026](https://www.worldcubeassociation.org/competitions/ElmsfordEveningI2026) |
 | 13 | [Elyu Sides 2024](https://www.worldcubeassociation.org/competitions/ElyuSides2024) |
 | 13 | [Fabulous MN Competition 2015](https://www.worldcubeassociation.org/competitions/FabulousMinnesotaCompetition2015) |
+| 13 | [Faça Mais pelas Crianças 2026](https://www.worldcubeassociation.org/competitions/FacaMaispelasCriancas2026) |
 | 13 | [Farum Meet the Cats 2023](https://www.worldcubeassociation.org/competitions/FarumMeettheCats2023) |
 | 13 | [FMC and More Maine 2025](https://www.worldcubeassociation.org/competitions/FMCandMoreMaine2025) |
 | 13 | [FMCats Wisconsin 2023](https://www.worldcubeassociation.org/competitions/FMCatsWisconsin2023) |
@@ -1163,6 +1167,7 @@
 | 15 | [Qualifornia 2018](https://www.worldcubeassociation.org/competitions/Qualifornia2018) |
 | 15 | [Quiet Seattle Summer 2024](https://www.worldcubeassociation.org/competitions/QuietSeattleSummer2024) |
 | 15 | [Riga Open 2015](https://www.worldcubeassociation.org/competitions/RigaOpen2015) |
+| 15 | [Río Grande TDF 2026](https://www.worldcubeassociation.org/competitions/RioGrandeTDF2026) |
 | 15 | [Ropaži Winter 2025](https://www.worldcubeassociation.org/competitions/RopaziWinter2025) |
 | 15 | [SacQuiet 2022](https://www.worldcubeassociation.org/competitions/SacQuiet2022) |
 | 15 | [SacQuiet Winter 2026](https://www.worldcubeassociation.org/competitions/SacQuietWinter2026) |
@@ -1189,6 +1194,7 @@
 | 15 | [Uberlândia Specials 2018](https://www.worldcubeassociation.org/competitions/UberlandiaSpecials2018) |
 | 15 | [UL 1: Lycium Barbarum 2023](https://www.worldcubeassociation.org/competitions/UL1LyciumBarbarum2023) |
 | 15 | [UL Final: Octahedron 2023](https://www.worldcubeassociation.org/competitions/ULFinalOctahedron2023) |
+| 15 | [Unión Bolivariana Open TJA 2026](https://www.worldcubeassociation.org/competitions/UnionBolivarianaOpenTJA2026) |
 | 15 | [Uppsalaligan 5: X - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan5X2024) |
 | 15 | [Uppsalaligan 5: X2 - 2025](https://www.worldcubeassociation.org/competitions/Uppsalaligan5X22025) |
 | 15 | [U.R.A. Blind Open 2017](https://www.worldcubeassociation.org/competitions/URABlindOpen2017) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -537,7 +537,7 @@
 | 2163 | [Michael Conard](https://www.worldcubeassociation.org/persons/2013CONA01) |
 | 2176 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
 | 2177 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) |
-| 2177 | [Samuel Moliver](https://www.worldcubeassociation.org/persons/2017MOLI05) |
+| 2177 | [Sam Moliver](https://www.worldcubeassociation.org/persons/2017MOLI05) |
 | 2189 | [Víctor Adán Solis Martinez](https://www.worldcubeassociation.org/persons/2017MART94) |
 | 2197 | [Emeline Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
 | 2213 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |

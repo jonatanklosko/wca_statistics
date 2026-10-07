@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 
 ### Rubik's Cube
@@ -122,7 +122,7 @@
 | 25.67 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
 | 26.33 | [Evan Waters](https://www.worldcubeassociation.org/persons/2023WATE01) |
 | 26.67 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
-| 27.00 | [Wu Chun Yin (胡俊賢)](https://www.worldcubeassociation.org/persons/2012YINW01) |
+| 27.00 | [Rodney Kinney](https://www.worldcubeassociation.org/persons/2025KINN03) |
 
 ### 3x3x3 One-Handed
 
@@ -136,8 +136,8 @@
 | 10.86 | [Xiangmin Zhou (周向民)](https://www.worldcubeassociation.org/persons/2023ZHOU35) |
 | 11.27 | [Artem Sosnovskikh](https://www.worldcubeassociation.org/persons/2026SOSN01) |
 | 11.90 | [Alexander Rey C. Alejandro](https://www.worldcubeassociation.org/persons/2025ALEJ01) |
+| 12.31 | [Yuchen Gao (高雨宸)](https://www.worldcubeassociation.org/persons/2025GAOY04) |
 | 12.66 | [Youyu Peng (彭宥裕)](https://www.worldcubeassociation.org/persons/2023PENG14) |
-| 12.74 | [Zhou Chen (陈宙)](https://www.worldcubeassociation.org/persons/2025CHEZ08) |
 
 ### Megaminx
 
@@ -165,8 +165,8 @@
 | 2.58 | [Xuanbin Jin (金玄彬)](https://www.worldcubeassociation.org/persons/2025JINX01) |
 | 2.62 | [Yifan Luo (骆奕帆)](https://www.worldcubeassociation.org/persons/2021LUOY02) |
 | 2.62 | [Guran Li (李顾然)](https://www.worldcubeassociation.org/persons/2026LIGU01) |
-| 2.63 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) |
 | 2.63 | [Zizhen Li (李子贞)](https://www.worldcubeassociation.org/persons/2024LIZI01) |
+| 2.63 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) |
 | 2.65 | [Zihao Wang (王梓豪)](https://www.worldcubeassociation.org/persons/2026WANZ07) |
 
 ### Rubik's Clock
@@ -270,8 +270,8 @@
 | 1.07 | [Ricardo Angulo Mora](https://www.worldcubeassociation.org/persons/2011MORA01) |
 | 1.08 | [Kacper Szumigaj](https://www.worldcubeassociation.org/persons/2012SZUM01) |
 | 1.09 | [Jian Xing (邢建)](https://www.worldcubeassociation.org/persons/2010XING03) |
-| 1.11 | [Xiao Liu (刘潇)](https://www.worldcubeassociation.org/persons/2011LIUX02) |
 | 1.11 | [Yizhuo Zhao (赵毅卓)](https://www.worldcubeassociation.org/persons/2010ZHAO20) |
+| 1.11 | [Xiao Liu (刘潇)](https://www.worldcubeassociation.org/persons/2011LIUX02) |
 
 ### Master Magic
 

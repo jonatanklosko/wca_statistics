@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -49,6 +49,7 @@
 | 90 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) |
 | 90 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |
 | 89 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
+| 89 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 88 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |
 | 88 | [Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01) |
 | 88 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
@@ -56,17 +57,16 @@
 | 87 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
 | 86 | [Lars Petrus](https://www.worldcubeassociation.org/persons/1982PETR01) |
 | 86 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) |
+| 86 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 86 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
 | 86 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
-| 86 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
+| 86 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 85 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) |
 | 84 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
 | 84 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 83 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 83 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 82 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
-| 81 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 81 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 80 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 80 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
@@ -95,6 +95,7 @@
 | 70 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
 | 70 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 70 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
+| 70 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 70 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
 | 70 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 68 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
@@ -102,7 +103,6 @@
 | 68 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 68 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
 | 67 | [Fumiki Koseki (古関章記)](https://www.worldcubeassociation.org/persons/2005KOSE01) |
-| 67 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 67 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 67 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 

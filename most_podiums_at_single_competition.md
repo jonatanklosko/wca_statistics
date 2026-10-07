@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1053,6 +1053,7 @@
 | 11 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [Novo Hamburgo Open 2011](https://www.worldcubeassociation.org/competitions/NovoHamburgoOpen2011/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/podiums) |
 | 12 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Nuevo Chimbote Speedcube 2026](https://www.worldcubeassociation.org/competitions/NuevoChimboteSpeedcube2026/results/podiums) |
+| 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Nuti Estonian Championship 2026](https://www.worldcubeassociation.org/competitions/NutiEstonianChampionship2026/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Nyköping Side Events 2023](https://www.worldcubeassociation.org/competitions/NykopingSideEvents2023/results/podiums) |
 | 12 | [Jack McDougall](https://www.worldcubeassociation.org/persons/2020MCDO01) | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025/results/podiums) |
 | 11 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022/results/podiums) |

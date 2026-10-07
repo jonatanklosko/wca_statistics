@@ -1,23 +1,23 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 
 ### Rubik's Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Yunzhi Lian (连允之)](https://www.worldcubeassociation.org/persons/2025LIAN01) | 3.92 | **4.57** | [Beijing Autumn Rivalry 2026](https://www.worldcubeassociation.org/competitions/BeijingAutumnRivalry2026/results/all#e333_f) | 4 |
+| [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 3.87 | **4.65** | [Beijing Autumn Rivalry 2026](https://www.worldcubeassociation.org/competitions/BeijingAutumnRivalry2026/results/all#e333_f) | 5 |
+| [Yize Dong (董一泽)](https://www.worldcubeassociation.org/persons/2023DONG20) | 4.04 | **4.67** | [Beijing Autumn Rivalry 2026](https://www.worldcubeassociation.org/competitions/BeijingAutumnRivalry2026/results/all#e333_f) | 6 |
+| [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 4.28 | **4.69** | [Guangzhou Grand Open 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGrandOpen2026/results/all#e333_f) | 4 |
 | [Yi Shen (沈懿)](https://www.worldcubeassociation.org/persons/2026SHEN01) | 3.60 | **4.77** | [Deqing Small & Special 2026](https://www.worldcubeassociation.org/competitions/DeqingSmallSpecial2026/results/all#e333_f) | 4 |
+| [Yunzhi Lian (连允之)](https://www.worldcubeassociation.org/persons/2025LIAN01) | 4.17 | **4.77** | [Guangzhou Grand Open 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGrandOpen2026/results/all#e333_f) | 5 |
+| [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 4.16 | **4.81** | [Guangzhou Grand Open 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGrandOpen2026/results/all#e333_f) | 6 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.38 | **4.83** | [Guangzhou Grand Open 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGrandOpen2026/results/all#e333_f) | 7 |
+| [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) | 4.42 | **4.83** | [Guangzhou Grand Open 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGrandOpen2026/results/all#e333_f) | 8 |
 | [Yi Shen (沈懿)](https://www.worldcubeassociation.org/persons/2026SHEN01) | 4.63 | **4.84** | [Wuhan Crimson Autumn 2026](https://www.worldcubeassociation.org/competitions/WuhanCrimsonAutumn2026/results/all#e333_f) | 4 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.71 | **5.01** | [Zhanjiang Open 2026](https://www.worldcubeassociation.org/competitions/ZhanjiangOpen2026/results/all#e333_f) | 4 |
-| [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 3.74 | **5.02** | [Deqing Small & Special 2026](https://www.worldcubeassociation.org/competitions/DeqingSmallSpecial2026/results/all#e333_f) | 5 |
-| [Yize Dong (董一泽)](https://www.worldcubeassociation.org/persons/2023DONG20) | 4.01 | **5.02** | [Nanchang Summer 2026](https://www.worldcubeassociation.org/competitions/NanchangSummer2026/results/all#e333_f) | 4 |
-| [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 4.80 | **5.05** | [Chengdu Welcoming Summer 2026](https://www.worldcubeassociation.org/competitions/ChengduWelcomingSummer2026/results/all#e333_f) | 4 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.51 | **5.11** | [Guangzhou GraDUAL 3x3 I 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGraDUAL3x3I2026/results/all#e333_f) | 4 |
-| [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 4.62 | **5.12** | [Wuhan Crimson Autumn 2026](https://www.worldcubeassociation.org/competitions/WuhanCrimsonAutumn2026/results/all#e333_f) | 5 |
-| [Yi Shen (沈懿)](https://www.worldcubeassociation.org/persons/2026SHEN01) | 4.93 | **5.12** | [Xianju NxN 2026](https://www.worldcubeassociation.org/competitions/XianjuNxN2026/results/all#e333_f) | 4 |
-| [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) | 4.48 | **5.15** | [Jiajiang Open 2026](https://www.worldcubeassociation.org/competitions/JiajiangOpen2026/results/all#e333_f) | 4 |
 
 ### 2x2x2 Cube
 
@@ -39,20 +39,21 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 19.49 | **22.31** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e444_f) | 4 |
+| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 20.68 | **22.32** | [Guangzhou Grand Open 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGrandOpen2026/results/all#e444_f) | 4 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 20.90 | **22.69** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e444_f) | 5 |
+| [Kaichen Huang (黄楷宸)](https://www.worldcubeassociation.org/persons/2023HUAN21) | 19.44 | **22.87** | [Guangzhou Grand Open 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGrandOpen2026/results/all#e444_f) | 5 |
 | [Ari Randers-Pehrson](https://www.worldcubeassociation.org/persons/2017RAND06) | 20.97 | **22.95** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e444_f) | 6 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21.63 | **23.02** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e444_f) | 4 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 21.01 | **23.03** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e444_f) | 7 |
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 17.86 | **23.09** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e444_f) | 8 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 20.52 | **23.40** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e444_f) | 4 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 21.23 | **23.72** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e444_f) | 5 |
-| [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 23.18 | **23.90** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e444_f) | 4 |
-| [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 20.09 | **23.96** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e444_f) | 4 |
 
 ### 5x5x5 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 38.10 | **39.75** | [Beijing Autumn Rivalry 2026](https://www.worldcubeassociation.org/competitions/BeijingAutumnRivalry2026/results/all#e555_f) | 4 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 33.72 | **41.38** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e555_f) | 4 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 35.36 | **41.63** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e555_f) | 4 |
 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 37.75 | **41.65** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e555_f) | 5 |
@@ -62,12 +63,12 @@
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 39.81 | **42.80** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e555_f) | 8 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 38.61 | **42.89** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e555_f) | 4 |
 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 40.34 | **43.24** | [Start of Summer Beijing 2026](https://www.worldcubeassociation.org/competitions/StartofSummerBeijing2026/results/all#e555_f) | 4 |
-| [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 36.26 | **43.37** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e555_f) | 9 |
 
 ### 6x6x6 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:10.36 | **1:12.18** | [Beijing Autumn Rivalry 2026](https://www.worldcubeassociation.org/competitions/BeijingAutumnRivalry2026/results/all#e666_f) | 4 |
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:13.59 | **1:15.89** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e666_f) | 4 |
 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | 1:13.22 | **1:17.09** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e666_f) | 4 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:15.85 | **1:17.22** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e666_f) | 4 |
@@ -77,12 +78,12 @@
 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:15.13 | **1:18.65** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e666_f) | 7 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1:14.59 | **1:18.76** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e666_f) | 6 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 1:16.07 | **1:18.95** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e666_f) | 8 |
-| [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:12.89 | **1:18.96** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e666_f) | 9 |
 
 ### 7x7x7 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:36.32 | **1:45.78** | [Beijing Autumn Rivalry 2026](https://www.worldcubeassociation.org/competitions/BeijingAutumnRivalry2026/results/all#e777_f) | 4 |
 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:44.95 | **1:49.40** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e777_f) | 4 |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:51.87 | **1:52.50** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e777_f) | 4 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1:46.25 | **1:53.14** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e777_f) | 5 |
@@ -92,7 +93,6 @@
 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:52.81 | **1:55.26** | [Balam Cubes Bekasi Comeback 2026](https://www.worldcubeassociation.org/competitions/BalamCubesBekasiComeback2026/results/all#e777_f) | 4 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:52.49 | **1:57.08** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e777_f) | 7 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 1:55.35 | **1:57.84** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e777_f) | 4 |
-| [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:46.76 | **1:58.63** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e777_f) | 5 |
 
 ### 3x3x3 Blindfolded
 

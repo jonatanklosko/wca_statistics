@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on  7 October 2026*
+*Updated on 10 October 2026*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -15,7 +15,7 @@
 | 8 | 3x3x3 Multi-Blind | Single | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | [Keep Portland Quiet 2018](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2018) | 5.73 |
 | 8 | 4x4x4 Cube | Average | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Thanks for the InFive 2018](https://www.worldcubeassociation.org/competitions/ThanksfortheInFive2018) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025) | 6.75 |
 | 8 | 7x7x7 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) | [Puget Sound Fall 2017](https://www.worldcubeassociation.org/competitions/PugetSoundFall2017) | 2.19 |
-| 8 | 4x4x4 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Mental Breakdown Washington 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownWashington2019) |  | 7.45 |
+| 8 | 4x4x4 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Mental Breakdown Washington 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownWashington2019) |  | 7.46 |
 | 8 | 5x5x5 Blindfolded | Single | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023) | 4.81 |
 | 7 | 5x5x5 Cube | Single | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024) | 6.34 |
 | 7 | 4x4x4 Blindfolded | Average | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |  | 7.25 |
@@ -220,7 +220,7 @@
 | 2 | 7x7x7 Cube | Average | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Czech Open 2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010) | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) | 0.12 |
 | 2 | 7x7x7 Cube | Average | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2013](https://www.worldcubeassociation.org/competitions/AustralianNationals2013) | [Austrian BCO 2014](https://www.worldcubeassociation.org/competitions/AustrianBigCubeOpen2014) | 1.19 |
 | 2 | 7x7x7 Cube | Average | [Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01) | [Austrian BCO 2014](https://www.worldcubeassociation.org/competitions/AustrianBigCubeOpen2014) | [Clock N' Stuff 2015](https://www.worldcubeassociation.org/competitions/ClockNStuff2015) | 0.52 |
-| 2 | 7x7x7 Cube | Average | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026) |  | 0.03 |
+| 2 | 7x7x7 Cube | Average | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026) |  | 0.04 |
 | 2 | 3x3x3 Blindfolded | Single | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) | [World Championship 2005](https://www.worldcubeassociation.org/competitions/WC2005) | [Canadian Open 2007](https://www.worldcubeassociation.org/competitions/CanadianOpen2007) | 1.53 |
 | 2 | 3x3x3 Blindfolded | Single | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) | [Tampere Open 2008](https://www.worldcubeassociation.org/competitions/TampereOpen2008) | [Beijing Metropolis Open 2009](https://www.worldcubeassociation.org/competitions/BeijingMetropolisOpen2009) | 0.52 |
 | 2 | 3x3x3 Blindfolded | Single | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) | [China Championship 2015](https://www.worldcubeassociation.org/competitions/ChinaChampionship2015) | 1.11 |

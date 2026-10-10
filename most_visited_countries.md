@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  7 October 2026*
+*Updated on 10 October 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -19,8 +19,8 @@
 | 35 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 34 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
+| 33 | [Oscar Luigi M. Gravador](https://www.worldcubeassociation.org/persons/2016GRAV02) |
 | 33 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
-| 32 | [Oscar Luigi M. Gravador](https://www.worldcubeassociation.org/persons/2016GRAV02) |
 | 31 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
 | 30 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 30 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
@@ -51,19 +51,19 @@
 | 23 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 22 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
+| 22 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
 | 22 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 21 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
+| 21 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 21 | [Linus Buck](https://www.worldcubeassociation.org/persons/2016BUCK01) |
 | 21 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 21 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 21 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
-| 21 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
-| 21 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 21 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
-| 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
-| 21 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 21 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
+| 21 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
+| 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
+| 21 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
+| 21 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 20 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 20 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 20 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |

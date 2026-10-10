@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on  7 October 2026*
+*Updated on 10 October 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -38,8 +38,8 @@
 | 622 | 8 | 80 | 534 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) |
 | 620 | 11 | 36 | 573 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) |
 | 585 | 7 | 15 | 563 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
+| 584 | 3 | 38 | 543 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 583 | 15 | 33 | 535 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
-| 583 | 3 | 38 | 542 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 577 | 16 | 86 | 475 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) |
 | 571 | 9 | 159 | 403 | [Dave Campbell](https://www.worldcubeassociation.org/persons/2005CAMP01) |
 | 562 | 2 | 44 | 516 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
@@ -56,17 +56,17 @@
 | 511 | 3 | 20 | 488 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 505 | 33 | 13 | 459 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 504 | 14 | 58 | 432 | [Chatchawan Jaruwattanakun (ชัชวาลย์ จารุวัฒนกุล)](https://www.worldcubeassociation.org/persons/2009JARU02) |
+| 504 | 21 | 71 | 412 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 502 | 0 | 19 | 483 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 501 | 15 | 96 | 390 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 500 | 1 | 2 | 497 | [Roman Ostapenko (Роман Остапенко)](https://www.worldcubeassociation.org/persons/2009OSTA01) |
 | 499 | 6 | 12 | 481 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) |
 | 497 | 3 | 11 | 483 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
-| 497 | 21 | 71 | 405 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 486 | 8 | 39 | 439 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 486 | 0 | 125 | 361 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) |
 | 480 | 8 | 227 | 245 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) |
+| 476 | 2 | 16 | 458 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 475 | 11 | 35 | 429 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
-| 475 | 2 | 16 | 457 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 468 | 2 | 20 | 446 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 466 | 34 | 60 | 372 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 460 | 4 | 31 | 425 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |

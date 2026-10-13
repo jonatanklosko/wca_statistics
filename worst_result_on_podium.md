@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### Rubik's Cube
@@ -188,7 +188,9 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Eloy Bastian Fortuna](https://www.worldcubeassociation.org/persons/2026FORT04) | 59.46 | **1:24.12** | [Puerto Iguazú 2026](https://www.worldcubeassociation.org/competitions/PuertoIguazu2026/results/podiums#eskewb) | 3 |
 | [Nguyễn Ngọc Minh Châu](https://www.worldcubeassociation.org/persons/2011NGUY09) | 46.86 | **1:17.02** | [Ha Noi Open 2014](https://www.worldcubeassociation.org/competitions/HaNoiOpen2014/results/podiums#eskewb) | 3 |
+| [Franco Romero](https://www.worldcubeassociation.org/persons/2026ROME26) | 16.68 | **1:07.07** | [Puerto Iguazú 2026](https://www.worldcubeassociation.org/competitions/PuertoIguazu2026/results/podiums#eskewb) | 2 |
 | [Rahim Məmmədli](https://www.worldcubeassociation.org/persons/2018MAMM02) | 41.18 | **1:05.54** | [Lagom är Bäst 2018](https://www.worldcubeassociation.org/competitions/LagomarBast2018/results/podiums#eskewb) | 2 |
 | [Kent Henry Zoé González Rivas](https://www.worldcubeassociation.org/persons/2013RIVA02) | 37.49 | **1:04.77** | [GuateRubik 2014](https://www.worldcubeassociation.org/competitions/GuateRubik2014/results/podiums#eskewb) | 3 |
 | [Konan Kouadio Espérance](https://www.worldcubeassociation.org/persons/2025ESPE01) | 24.85 | **59.47** | [Côte d'Ivoire Cubing 2026](https://www.worldcubeassociation.org/competitions/CotedIvoireCubing2026/results/podiums#eskewb) | 2 |
@@ -196,8 +198,6 @@
 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | 37.28 | **52.93** | [Faria Brito 2014](https://www.worldcubeassociation.org/competitions/FariaBritoOpen2014/results/podiums#eskewb) | 3 |
 | [Carlos Alexander Zelaya Alberto](https://www.worldcubeassociation.org/persons/2019ALBE05) | 26.74 | **47.37** | [Destino Maya Honduras 2019](https://www.worldcubeassociation.org/competitions/DestinoMayaHonduras2019/results/podiums#eskewb) | 3 |
 | [Allan Ricardo Rodriguez Colindres](https://www.worldcubeassociation.org/persons/2014COLI01) | 32.31 | **47.16** | [GuateRubik 2014](https://www.worldcubeassociation.org/competitions/GuateRubik2014/results/podiums#eskewb) | 2 |
-| [Oureana Trezentos Borges](https://www.worldcubeassociation.org/persons/2026BORG03) | 24.89 | **43.91** | [Madeira Open 2026](https://www.worldcubeassociation.org/competitions/MadeiraOpen2026/results/podiums#eskewb) | 3 |
-| [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | 33.25 | **43.56** | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014/results/podiums#eskewb) | 3 |
 
 ### Square-1
 

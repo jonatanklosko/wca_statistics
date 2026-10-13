@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -53,6 +53,7 @@
 | 442 | [Rodrigo Ángeles Montes de Oca](https://www.worldcubeassociation.org/persons/2023OCAR01) |
 | 447 | [Xiaoliang Zhu (朱校良)](https://www.worldcubeassociation.org/persons/2017ZHUX01) |
 | 448 | [Jáchym Střelec](https://www.worldcubeassociation.org/persons/2022STRE03) |
+| 448 | [Saleh Janem](https://www.worldcubeassociation.org/persons/2025JANE01) |
 | 456 | [Juan Miguel C. Manalo](https://www.worldcubeassociation.org/persons/2024MANA05) |
 | 461 | [Amian Born](https://www.worldcubeassociation.org/persons/2025BORN04) |
 | 475 | [Maxime Madrzyk](https://www.worldcubeassociation.org/persons/2018MADR02) |
@@ -255,6 +256,7 @@
 | 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 1042 | [Meng Chon Kuok (郭明臻)](https://www.worldcubeassociation.org/persons/2023KUOK01) |
 | 1043 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
+| 1043 | [Miguel Valero Olmo](https://www.worldcubeassociation.org/persons/2023VALE42) |
 | 1044 | [Rodrigo Queiroz Teixeira](https://www.worldcubeassociation.org/persons/2023TEIX03) |
 | 1056 | [Renske Idzenga](https://www.worldcubeassociation.org/persons/2022IDZE01) |
 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |

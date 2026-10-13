@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### Rubik's Cube
@@ -178,11 +178,11 @@
 | 2.15 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | 2.21, 2.07, 2.44, 2.10, 2.14 |
 | 2.29 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | 3.50, 2.11, 2.34, 2.32, 2.20 |
 | 2.38 | [Alessandro Diomampo](https://www.worldcubeassociation.org/persons/2023DIOM01) | 2.35, 2.16, 6.45, 2.43, 2.35 |
+| 2.39 | [Ivan ThanhDanh Duong](https://www.worldcubeassociation.org/persons/2022DUON09) | 2.18, 2.47, 3.05, 2.51, 2.12 |
 | 2.40 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.19, 2.49, 3.67, 2.45, 2.27 |
 | 2.41 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.33, 2.32, 2.25, 2.97, 2.58 |
 | 2.50 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | 2.82, 2.46, 2.48, 2.35, 2.57 |
 | 2.53 | [Max McGill](https://www.worldcubeassociation.org/persons/2023MCGI02) | 2.61, 2.40, 3.23, 2.34, 2.57 |
-| 2.53 | [Dylan Heerikhuisen](https://www.worldcubeassociation.org/persons/2022HEER01) | 2.72, 2.41, DNF, 2.47, 2.36 |
 
 ### Skewb
 
@@ -236,10 +236,10 @@
 | 2:33.18 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | DNF, 2:32.48, 2:28.80, 2:21.62, 2:38.27 |
 | 2:49.30 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | 3:02.50, DNF, 2:44.59, 2:07.11, 2:40.81 |
 | 3:07.33 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 2:54.75, 3:54.58, 3:14.17, 2:30.97, 3:13.06 |
+| 3:08.81 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | 2:53.58, 3:22.04, 3:10.82, DNF, 2:51.04 |
 | 3:13.43 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 3:00.62, 3:24.37, 3:15.30, DNF, 2:56.68 |
 | 3:27.90 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:21.84, 3:33.47, 3:06.91, DNF, 3:28.38 |
 | 3:27.90 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 3:15.68, 3:34.04, DNF, 3:33.97, 2:58.31 |
-| 3:37.59 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | 3:43.16, 3:21.59, DNF, 3:30.31, 3:39.29 |
 | 3:52.27 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 3:51.43, 3:36.36, 4:09.03, DNF, 3:16.09 |
 | 4:01.04 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 3:06.34, 3:27.92, DNF, 4:44.85, 3:50.35 |
 | 4:08.52 | [Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21) | 3:47.84, 4:20.44, DNF, 4:05.01, 4:00.12 |

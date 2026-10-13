@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -64,10 +64,11 @@
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 21 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 21 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
-| 20 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 20 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 20 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
+| 20 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
+| 20 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 20 | [Jochen Bauer](https://www.worldcubeassociation.org/persons/2018BAUE04) |
+| 20 | [Yuxuan Huang (黄宇轩)](https://www.worldcubeassociation.org/persons/2015HUAN32) |
 | 20 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
 | 20 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 19 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
@@ -77,15 +78,14 @@
 | 19 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
 | 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 19 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 19 | [Justin Vinckenbosch](https://www.worldcubeassociation.org/persons/2016VINC03) |
 | 19 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
+| 19 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 19 | [Takumi Tamura (田村匠)](https://www.worldcubeassociation.org/persons/2019TAMU01) |
-| 19 | [Yuxuan Huang (黄宇轩)](https://www.worldcubeassociation.org/persons/2015HUAN32) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 19 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 19 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 19 | [Justin Vinckenbosch](https://www.worldcubeassociation.org/persons/2016VINC03) |
 | 18 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 18 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |

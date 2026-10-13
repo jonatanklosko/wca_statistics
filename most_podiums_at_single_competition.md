@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -791,6 +791,8 @@
 | 10 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022/results/podiums) |
 | 12 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Jordan Nationals 2023](https://www.worldcubeassociation.org/competitions/JordanNationals2023/results/podiums) |
 | 11 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Jordan Nationals 2025](https://www.worldcubeassociation.org/competitions/JordanNationals2025/results/podiums) |
+| 11 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Jordan Nationals 2026](https://www.worldcubeassociation.org/competitions/JordanNationals2026/results/podiums) |
+| 11 | [Abdallah Almaharmeh](https://www.worldcubeassociation.org/persons/2022ALMA01) | [Jordan Nationals 2026](https://www.worldcubeassociation.org/competitions/JordanNationals2026/results/podiums) |
 | 11 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Juhannus 2024](https://www.worldcubeassociation.org/competitions/Juhannus2024/results/podiums) |
 | 10 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Juhannus 2024](https://www.worldcubeassociation.org/competitions/Juhannus2024/results/podiums) |
 | 14 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Jukkasjärvi Midnight Sun 2024](https://www.worldcubeassociation.org/competitions/JukkasjarviMidnightSun2024/results/podiums) |

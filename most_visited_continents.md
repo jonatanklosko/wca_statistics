@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -232,6 +232,7 @@
 | 4 | [Henry Syn](https://www.worldcubeassociation.org/persons/2021SYNH01) |
 | 4 | [Thomas Pierroz](https://www.worldcubeassociation.org/persons/2021PIER01) |
 | 4 | [Mitchell Anderson](https://www.worldcubeassociation.org/persons/2022ANDE01) |
+| 4 | [Daniel Wang](https://www.worldcubeassociation.org/persons/2022WANG06) |
 | 4 | [Joseph Liu (劉睿博)](https://www.worldcubeassociation.org/persons/2023LIUJ01) |
 | 4 | [Catherine Rush](https://www.worldcubeassociation.org/persons/2023RUSH01) |
 | 4 | [Kyle Rongkai Wang](https://www.worldcubeassociation.org/persons/2023WANG90) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -82,6 +82,7 @@
 | 5 | [São Miguel Blind Sides 2024](https://www.worldcubeassociation.org/competitions/SaoMiguelBlindSides2024) |
 | 5 | [São Miguel Cubikon 2025](https://www.worldcubeassociation.org/competitions/SaoMiguelCubikon2025) |
 | 5 | [Vardagscubing II - Hive B 2022](https://www.worldcubeassociation.org/competitions/VardagscubingIIHiveB2022) |
+| 5 | [VERK XIX 2026](https://www.worldcubeassociation.org/competitions/VERKXIX2026) |
 | 5 | [Winter in Pavlodar 2026](https://www.worldcubeassociation.org/competitions/WinterinPavlodar2026) |
 | 6 | [Akiba Expo Open 2018](https://www.worldcubeassociation.org/competitions/AkibaExpoOpen2018) |
 | 6 | [Arena Bernô City FM 2025](https://www.worldcubeassociation.org/competitions/ArenaBernoCityFM2025) |
@@ -353,6 +354,7 @@
 | 9 | [PBQ CBC 2022](https://www.worldcubeassociation.org/competitions/PBQCBC2022) |
 | 9 | [PBQ UCLA 2017](https://www.worldcubeassociation.org/competitions/PBQUCLA2017) |
 | 9 | [Perdiendo el Tiempo Granada 2025](https://www.worldcubeassociation.org/competitions/PerdiendoelTiempoenGranada2025) |
+| 9 | [Plaza ao Cubo Sides Manaus 2026](https://www.worldcubeassociation.org/competitions/PlazaaoCuboSidesManaus2026) |
 | 9 | [Please Be Quiet Frisco 2020](https://www.worldcubeassociation.org/competitions/PleaseBeQuietFrisco2020) |
 | 9 | [Please Be Quiet Joburg 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietJoburg2023) |
 | 9 | [Please Be Quiet Johor 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietJohor2025) |
@@ -593,6 +595,7 @@
 | 11 | [Pocos Cupos Bogotá X 2024](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaX2024) |
 | 11 | [Pocos Cupos Bogotá XIX 2026](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaXIX2026) |
 | 11 | [Pocos Cupos Bogotá XXI 2026](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaXXI2026) |
+| 11 | [Puerto Iguazú 2026](https://www.worldcubeassociation.org/competitions/PuertoIguazu2026) |
 | 11 | [San Gil Plaza 2024](https://www.worldcubeassociation.org/competitions/SanGilPlaza2024) |
 | 11 | [Selangor PBQ 2026](https://www.worldcubeassociation.org/competitions/SelangorPBQ2026) |
 | 11 | [Side Events Aves María 2024](https://www.worldcubeassociation.org/competitions/SideEventsAvesMaria2024) |
@@ -973,6 +976,7 @@
 | 14 | [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019) |
 | 14 | [Michigan Mini FMC 2023](https://www.worldcubeassociation.org/competitions/MichiganMiniFMC2023) |
 | 14 | [Mini Mental Breakdown SD 2022](https://www.worldcubeassociation.org/competitions/MiniMentalBreakdownSanDiego2022) |
+| 14 | [MN Quiet Championship 2026](https://www.worldcubeassociation.org/competitions/MNQuietChampionship2026) |
 | 14 | [Monastir Spring Open 2019](https://www.worldcubeassociation.org/competitions/MonastirSpringOpen2019) |
 | 14 | [Nalsar Cube Open D 2025](https://www.worldcubeassociation.org/competitions/NalsarCubeOpenD2025) |
 | 14 | [Naoned Open 2011](https://www.worldcubeassociation.org/competitions/NaonedOpen2011) |
@@ -992,6 +996,7 @@
 | 14 | [Pickering Blindfolded 2026](https://www.worldcubeassociation.org/competitions/PickeringBlindfolded2026) |
 | 14 | [Pinoy Big Cubes Open 2009](https://www.worldcubeassociation.org/competitions/PinoyBigCubesOpen2009) |
 | 14 | [Pit Bomba Sides Goiânia 2026](https://www.worldcubeassociation.org/competitions/PitBombaSidesGoiania2026) |
+| 14 | [Plattsburgh 2026](https://www.worldcubeassociation.org/competitions/Plattsburgh2026) |
 | 14 | [Please Be Quiet Bergen 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBergen2025) |
 | 14 | [Please Be Quiet Johor 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietJohor2024) |
 | 14 | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) |
@@ -1115,6 +1120,7 @@
 | 15 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) |
 | 15 | [Israel PBQ Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelPBQChampionship2023) |
 | 15 | [Juhannus 2024](https://www.worldcubeassociation.org/competitions/Juhannus2024) |
+| 15 | [Kaisaniemi Cubing 2026](https://www.worldcubeassociation.org/competitions/KaisaniemiCubing2026) |
 | 15 | [Kimberley Open 2015](https://www.worldcubeassociation.org/competitions/KimberleyOpen2015) |
 | 15 | [Koalafication Tauranga 2022](https://www.worldcubeassociation.org/competitions/KoalaficationTauranga2022) |
 | 15 | [KS al Cubo Viña 2026](https://www.worldcubeassociation.org/competitions/KSalCuboVina2026) |

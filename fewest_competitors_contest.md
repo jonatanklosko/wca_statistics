@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -1211,6 +1211,7 @@
 | 15 | [Viljandi Open 2024](https://www.worldcubeassociation.org/competitions/ViljandiOpen2024) |
 | 15 | [Wedding Day Serokomla 2023](https://www.worldcubeassociation.org/competitions/WeddingDaySerokomla2023) |
 | 15 | [Wellington Mind Games 2025](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2025) |
+| 15 | [Wembley Quimbaya IV 2026](https://www.worldcubeassociation.org/competitions/WembleyQuimbayaIV2026) |
 | 15 | [X CUBIFMA 2025](https://www.worldcubeassociation.org/competitions/XCUBIFMA2025) |
 
 

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -285,6 +285,7 @@
 | 11 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/podiums) |
 | 11 | [Andrey Conceição](https://www.worldcubeassociation.org/persons/2016SANT03) | [Cariri Open 2016](https://www.worldcubeassociation.org/competitions/CaririOpen2016/results/podiums) |
 | 11 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Casal Catalunya Baires Open 2019](https://www.worldcubeassociation.org/competitions/CasalCatalunyaBairesOpen2019/results/podiums) |
+| 11 | [Juliano Paloma Gemin Hoffmam](https://www.worldcubeassociation.org/persons/2016HOFF07) | [Cascavel ao Cubo 2026](https://www.worldcubeassociation.org/competitions/CascavelaoCubo2026/results/podiums) |
 | 11 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Castellon Open 2011](https://www.worldcubeassociation.org/competitions/CastellonOpen2011/results/podiums) |
 | 10 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Castellon Open 2011](https://www.worldcubeassociation.org/competitions/CastellonOpen2011/results/podiums) |
 | 13 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Castellon Open 2012](https://www.worldcubeassociation.org/competitions/CastellonOpen2012/results/podiums) |
@@ -855,6 +856,7 @@
 | 12 | [Ahmad Alolaimi](https://www.worldcubeassociation.org/persons/2022ALOL01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
 | 11 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Kuwaiti Nationals 2024](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2024/results/podiums) |
 | 11 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Kuwaiti Nationals 2025](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2025/results/podiums) |
+| 13 | [Mikhail Nikitin](https://www.worldcubeassociation.org/persons/2022NIKI03) | [Kuwait Nationals 2026](https://www.worldcubeassociation.org/competitions/KuwaitNationals2026/results/podiums) |
 | 11 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Kvissel Fall 2017](https://www.worldcubeassociation.org/competitions/KvisselFall2017/results/podiums) |
 | 15 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Kvissel Fall 2018](https://www.worldcubeassociation.org/competitions/KvisselFall2018/results/podiums) |
 | 10 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Kvissel Fall 2018](https://www.worldcubeassociation.org/competitions/KvisselFall2018/results/podiums) |
@@ -1170,6 +1172,7 @@
 | 12 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Porfyrkuben 2026](https://www.worldcubeassociation.org/competitions/Porfyrkuben2026/results/podiums) |
 | 12 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024/results/podiums) |
 | 11 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024/results/podiums) |
+| 12 | [Tiago Morais](https://www.worldcubeassociation.org/persons/2023MORA20) | [Portugal Championship 2026](https://www.worldcubeassociation.org/competitions/PortugalChampionship2026/results/podiums) |
 | 13 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Prague Open 2014](https://www.worldcubeassociation.org/competitions/PragueOpen2014/results/podiums) |
 | 11 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Prague Open 2015](https://www.worldcubeassociation.org/competitions/PragueOpen2015/results/podiums) |
 | 11 | [Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15) | [Pre-Nacionales Arequipa 2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019/results/podiums) |

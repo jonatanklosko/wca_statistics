@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### Rubik's Cube
@@ -117,12 +117,12 @@
 | 19.67 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 19, 20, 22, 20, 19 |
 | 20.00 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 20, 24, 21, 19, 19 |
 | 20.00 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 21, 19, 21, 20, 19 |
-| 20.00 | [Nachuan Sun (孙纳川)](https://www.worldcubeassociation.org/persons/2017SUNN02) | 20, 23, 21, 19, 19 |
 | 20.33 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 23, 19, 20, 21, 20 |
 | 20.33 | [Adrien Neveu](https://www.worldcubeassociation.org/persons/2018NEVE02) | 21, 21, 20, 19, 20 |
 | 20.33 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 19, 22, 22, 19, 20 |
 | 20.33 | [Quentin Rivault](https://www.worldcubeassociation.org/persons/2017RIVA09) | 19, 19, 21, 25, 21 |
 | 20.33 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 24, 21, 20, 20, 20 |
+| 20.67 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 17, DNF, 18, 22, 22 |
 
 ### 3x3x3 One-Handed
 

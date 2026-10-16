@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -265,7 +265,7 @@
 | 1065 | [Jakob Kogler](https://www.worldcubeassociation.org/persons/2011KOGL01) |
 | 1071 | [Patrick Kern](https://www.worldcubeassociation.org/persons/2011KERN02) |
 | 1078 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
-| 1078 | [Jacob Tucker](https://www.worldcubeassociation.org/persons/2023TUCK04) |
+| 1078 | [Luna Tucker](https://www.worldcubeassociation.org/persons/2023TUCK04) |
 | 1084 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 1085 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 1085 | [Pranav Veera](https://www.worldcubeassociation.org/persons/2015VEER01) |
@@ -757,6 +757,7 @@
 | 3549 | [David Martins](https://www.worldcubeassociation.org/persons/2016MART16) |
 | 3585 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
 | 3619 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
+| 3632 | [Rui Alexandre Reis Lopes](https://www.worldcubeassociation.org/persons/2016LOPE48) |
 | 3639 | [Alexander Wheeler](https://www.worldcubeassociation.org/persons/2014WHEE01) |
 | 3659 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
 | 3668 | [Xiangjie Li (李祥杰)](https://www.worldcubeassociation.org/persons/2016LIXI04) |

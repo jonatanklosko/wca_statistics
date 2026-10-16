@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### Rubik's Cube
@@ -13,11 +13,11 @@
 | 0.01 | [Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01) | 10.99 | 11.00 | [SJTU Winter Open 2018](https://www.worldcubeassociation.org/competitions/SJTUWinterOpen2018/results/by_person#2017YINX01) |
 | 0.01 | [Michael](https://www.worldcubeassociation.org/persons/2010MICH03) | 25.03 | 25.04 | [Indonesian Open 2011](https://www.worldcubeassociation.org/competitions/IndonesianOpen2011/results/by_person#2010MICH03) |
 | 0.02 | [Micah Heckerling](https://www.worldcubeassociation.org/persons/2023HECK01) | 7.18 | 7.20 | [GA Cuber Jackets Spring 2026](https://www.worldcubeassociation.org/competitions/GACuberJacketsSpring2026/results/by_person#2023HECK01) |
+| 0.02 | [Itthikorn Wu (อิทธิกร หวู)](https://www.worldcubeassociation.org/persons/2023WUIT01) | 7.62 | 7.64 | [Thailand Championship 2026](https://www.worldcubeassociation.org/competitions/ThailandChampionship2026/results/by_person#2023WUIT01) |
 | 0.02 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | 7.71 | 7.73 | [Brown Fall Seongnam 2024](https://www.worldcubeassociation.org/competitions/BrownFallSeongnam2024/results/by_person#2014GUMI01) |
 | 0.02 | [Ethan Yeh](https://www.worldcubeassociation.org/persons/2020YEHE01) | 7.93 | 7.95 | [Agoura Cubing Returns 2024](https://www.worldcubeassociation.org/competitions/AgouraCubingReturns2024/results/by_person#2020YEHE01) |
 | 0.02 | [Vishal Chandrasekar](https://www.worldcubeassociation.org/persons/2022CHAN59) | 8.30 | 8.32 | [Malaysia Cube Championship 2024](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2024/results/by_person#2022CHAN59) |
 | 0.02 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | 8.64 | 8.66 | [San Diego's Final Cube-Down 2022](https://www.worldcubeassociation.org/competitions/SanDiegosFinalCubeDown2022/results/by_person#2015BROW03) |
-| 0.02 | [Yongting You (尤永庭)](https://www.worldcubeassociation.org/persons/2010YOUY01) | 9.40 | 9.42 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/by_person#2010YOUY01) |
 
 ### 2x2x2 Cube
 

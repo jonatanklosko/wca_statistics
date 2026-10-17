@@ -62,7 +62,7 @@
 | 501 | 15 | 96 | 390 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 499 | 6 | 12 | 481 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) |
 | 497 | 3 | 11 | 483 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
-| 486 | 8 | 39 | 439 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
+| 487 | 8 | 39 | 440 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 486 | 0 | 125 | 361 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) |
 | 481 | 2 | 16 | 463 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
 | 480 | 8 | 227 | 245 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) |

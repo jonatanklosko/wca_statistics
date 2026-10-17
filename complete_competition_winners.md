@@ -409,7 +409,7 @@
 | 2 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) | Germany | [V-Cube Spiel B 2022](https://www.worldcubeassociation.org/competitions/VCubeSpielB2022) |
 | 2 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | Iceland | [Greenland Open 2023](https://www.worldcubeassociation.org/competitions/GreenlandOpen2023) |
 | 2 | [Parham Saeed Nia (پرهام سعیدنیا)](https://www.worldcubeassociation.org/persons/2011NIAP01) | Iran | [Iran FMC 2019](https://www.worldcubeassociation.org/competitions/IranFMC2019) |
-| 2 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | United States | [ OSU Spring First-Timers C 2023](https://www.worldcubeassociation.org/competitions/OhioStateSpringFirstTimersC2023) |
+| 2 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | United States | [OSU Spring First-Timers C 2023](https://www.worldcubeassociation.org/competitions/OhioStateSpringFirstTimersC2023) |
 | 2 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | Australia | [Kensington Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/KensingtonSummerSunday2023) |
 | 2 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | Australia | [St Oliver's Speedy Sunday 2023](https://www.worldcubeassociation.org/competitions/StOliversSpeedySunday2023) |
 | 2 | [Sean Cutshaw](https://www.worldcubeassociation.org/persons/2016CUTS01) | United States | [OSU Spring First-Timers A 2023](https://www.worldcubeassociation.org/competitions/OhioStateSpringFirstTimersA2023) |
@@ -516,7 +516,7 @@
 | 1 | [Bogdan Grigoruţă](https://www.worldcubeassociation.org/persons/2013GRIG01) | Romania | [FMC Romania 2nd 2024](https://www.worldcubeassociation.org/competitions/FMCRomania2nd2024) |
 | 1 | [Bogdan Grigoruţă](https://www.worldcubeassociation.org/persons/2013GRIG01) | Romania | [FMC Bulgaria x Romania 2024](https://www.worldcubeassociation.org/competitions/FMCBulgariaxRomania2024) |
 | 1 | [Branson Lau (劉朗朗)](https://www.worldcubeassociation.org/persons/2025LAUB01) | Hong Kong, China | [Glasgow 3x3 Evening March 2025](https://www.worldcubeassociation.org/competitions/Glasgow3x3EveningMarch2025) |
-| 1 | [Brayan Alexander Sandoval Camacho](https://www.worldcubeassociation.org/persons/2022CAMA04) | Colombia | [ Fewest Moves Santander 2025](https://www.worldcubeassociation.org/competitions/FewestMovesSantander2025) |
+| 1 | [Brayan Alexander Sandoval Camacho](https://www.worldcubeassociation.org/persons/2022CAMA04) | Colombia | [Fewest Moves Santander 2025](https://www.worldcubeassociation.org/competitions/FewestMovesSantander2025) |
 | 1 | [Brayan Alexander Sandoval Camacho](https://www.worldcubeassociation.org/persons/2022CAMA04) | Colombia | [FMC Colombia IX 2026](https://www.worldcubeassociation.org/competitions/FMCColombiaIX2026) |
 | 1 | [Brayan Alexander Sandoval Camacho](https://www.worldcubeassociation.org/persons/2022CAMA04) | Colombia | [FMC Colombia VI 2025](https://www.worldcubeassociation.org/competitions/FMCColombiaVI2025) |
 | 1 | [Brayan Alexander Sandoval Camacho](https://www.worldcubeassociation.org/persons/2022CAMA04) | Colombia | [FMC Colombia VIII 2025](https://www.worldcubeassociation.org/competitions/FMCColombiaVIII2025) |

@@ -297,7 +297,7 @@
 | 9 | [Fewest Moves Bogotá II 2025](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaII2025) |
 | 9 | [Fewest Moves Bogotá IV 2025](https://www.worldcubeassociation.org/competitions/FewestMovesBogotaIV2025) |
 | 9 | [Fewest Moves LA 2019](https://www.worldcubeassociation.org/competitions/FewestMovesLA2019) |
-| 9 | [ Fewest Moves Santander 2025](https://www.worldcubeassociation.org/competitions/FewestMovesSantander2025) |
+| 9 | [Fewest Moves Santander 2025](https://www.worldcubeassociation.org/competitions/FewestMovesSantander2025) |
 | 9 | [Finnish FMC Championship 2021](https://www.worldcubeassociation.org/competitions/FinnishFMCChampionship2021) |
 | 9 | [Finnish Quiet Championship 2026](https://www.worldcubeassociation.org/competitions/FinnishQuietChampionship2026) |
 | 9 | [FMCats Georgia 2023](https://www.worldcubeassociation.org/competitions/FMCatsGeorgia2023) |

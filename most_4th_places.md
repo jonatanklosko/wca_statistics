@@ -38,8 +38,8 @@
 | 141 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 136 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 136 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
-| 133 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) |
 | 133 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
+| 133 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) |
 | 131 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 131 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 130 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
@@ -52,12 +52,12 @@
 | 125 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 125 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 124 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 124 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 123 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
-| 123 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 121 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
-| 121 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
-| 121 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 121 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 121 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
+| 121 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 119 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 117 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 117 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
@@ -91,10 +91,10 @@
 | 100 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) |
 | 99 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 99 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
+| 98 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
 | 98 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 | 98 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) |
 | 98 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
-| 98 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
 | 98 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
 | 97 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 95 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |

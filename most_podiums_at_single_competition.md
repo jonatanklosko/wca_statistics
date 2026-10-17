@@ -1211,6 +1211,7 @@
 | 10 | [Angel Jesus Panebra Rodriguez](https://www.worldcubeassociation.org/persons/2016RODR37) | [Real Geekcuber Pucallpa 2023](https://www.worldcubeassociation.org/competitions/RealGeekcuberPucallpa2023/results/podiums) |
 | 11 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | [Rebild Open 2014](https://www.worldcubeassociation.org/competitions/RebildOpen2014/results/podiums) |
 | 10 | [Cristian Castellanos Guevara](https://www.worldcubeassociation.org/persons/2024GUEV01) | [Regionales Santander 2025](https://www.worldcubeassociation.org/competitions/RegionalesSantander2025/results/podiums) |
+| 11 | [Cristian Castellanos Guevara](https://www.worldcubeassociation.org/persons/2024GUEV01) | [Regionales Santander 2026](https://www.worldcubeassociation.org/competitions/RegionalesSantander2026/results/podiums) |
 | 10 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Rheinland-Pfalz Open 2022](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2022/results/podiums) |
 | 12 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Ribeirão ao Cubo 2026](https://www.worldcubeassociation.org/competitions/RibeiraoaoCubo2026/results/podiums) |
 | 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Ribeirão ao Cubo 2026](https://www.worldcubeassociation.org/competitions/RibeiraoaoCubo2026/results/podiums) |

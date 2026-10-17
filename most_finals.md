@@ -44,7 +44,7 @@
 | 1296 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 1291 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 1288 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
-| 1279 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
+| 1288 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 1262 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 1261 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 1251 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |

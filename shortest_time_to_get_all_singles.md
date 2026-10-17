@@ -365,6 +365,7 @@
 | 1406 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) |
 | 1414 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 | 1421 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
+| 1421 | [Brayan Alexander Sandoval Camacho](https://www.worldcubeassociation.org/persons/2022CAMA04) |
 | 1428 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) |
 | 1430 | [Liew Yee Voon (劉倚文)](https://www.worldcubeassociation.org/persons/2015VOON01) |
 | 1435 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) |

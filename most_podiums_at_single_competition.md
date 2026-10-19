@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -757,6 +757,8 @@
 | 11 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Íslandsmótið 2024](https://www.worldcubeassociation.org/competitions/Islandsmotid2024/results/podiums) |
 | 11 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Íslandsmótið 2025](https://www.worldcubeassociation.org/competitions/Islandsmotid2025/results/podiums) |
 | 10 | [Kasper Warberg Borg](https://www.worldcubeassociation.org/persons/2020BORG01) | [Íslandsmótið 2025](https://www.worldcubeassociation.org/competitions/Islandsmotid2025/results/podiums) |
+| 13 | [Yuxuan Huang (黄宇轩)](https://www.worldcubeassociation.org/persons/2015HUAN32) | [Íslandsmótið 2026](https://www.worldcubeassociation.org/competitions/Islandsmotid2026/results/podiums) |
+| 12 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | [Íslandsmótið 2026](https://www.worldcubeassociation.org/competitions/Islandsmotid2026/results/podiums) |
 | 12 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2022](https://www.worldcubeassociation.org/competitions/IsraelChampionship2022/results/podiums) |
 | 10 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelChampionship2023/results/podiums) |
 | 13 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | [Israel Championship 2024](https://www.worldcubeassociation.org/competitions/IsraelChampionship2024/results/podiums) |
@@ -1058,6 +1060,7 @@
 | 11 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [Novo Hamburgo Open 2011](https://www.worldcubeassociation.org/competitions/NovoHamburgoOpen2011/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/podiums) |
 | 12 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Nuevo Chimbote Speedcube 2026](https://www.worldcubeassociation.org/competitions/NuevoChimboteSpeedcube2026/results/podiums) |
+| 11 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Nuntorp Open 2026](https://www.worldcubeassociation.org/competitions/NuntorpOpen2026/results/podiums) |
 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Nuti Estonian Championship 2026](https://www.worldcubeassociation.org/competitions/NutiEstonianChampionship2026/results/podiums) |
 | 10 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Nyköping Side Events 2023](https://www.worldcubeassociation.org/competitions/NykopingSideEvents2023/results/podiums) |
 | 12 | [Jack McDougall](https://www.worldcubeassociation.org/persons/2020MCDO01) | [NZ North Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2025/results/podiums) |

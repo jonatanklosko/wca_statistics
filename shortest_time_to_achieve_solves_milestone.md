@@ -1,6 +1,6 @@
 ## Shortest time to achieve solves milestone
 
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### 20000 Solves
@@ -76,13 +76,13 @@
 | 1169 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 1184 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
 | 1197 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
+| 1198 | [David Nesiba](https://www.worldcubeassociation.org/persons/2023NESI01) |
 | 1199 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) |
 | 1224 | [Lucy Grace Bryson](https://www.worldcubeassociation.org/persons/2023BRYS01) |
 | 1233 | [Paolo Marino](https://www.worldcubeassociation.org/persons/2021MARI04) |
 | 1247 | [Luukas Lempinen](https://www.worldcubeassociation.org/persons/2021LEMP01) |
 | 1255 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 1269 | [Leo Alanen](https://www.worldcubeassociation.org/persons/2022ALAN02) |
-| 1275 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 
 ### 1000 Solves
 

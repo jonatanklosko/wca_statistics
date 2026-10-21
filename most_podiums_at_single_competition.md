@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1479,6 +1479,7 @@
 | 10 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Winter Open 2018](https://www.worldcubeassociation.org/competitions/TunisiaWinterOpen2018/results/podiums) |
 | 10 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | [Tunisia Winter Open Day 2017](https://www.worldcubeassociation.org/competitions/TunisiaWinterOpenDay2017/results/podiums) |
 | 11 | [Samuel Barbosa Pinheiro](https://www.worldcubeassociation.org/persons/2023PINH03) | [Tuparendi Open Quati 2025](https://www.worldcubeassociation.org/competitions/TuparendiOpenQuati2025/results/podiums) |
+| 12 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Tupper Lake 2026](https://www.worldcubeassociation.org/competitions/TupperLake2026/results/podiums) |
 | 10 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Cubing Tour Ankara 2020](https://www.worldcubeassociation.org/competitions/TurkishCubingTourAnkara2020/results/podiums) |
 | 12 | [Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01) | [Turkish Nationals 2023](https://www.worldcubeassociation.org/competitions/TurkishNationals2023/results/podiums) |
 | 14 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Turkish Nationals 2024](https://www.worldcubeassociation.org/competitions/TurkishNationals2024/results/podiums) |

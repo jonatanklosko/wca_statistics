@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -101,6 +101,7 @@
 | 2632 | [Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02) |
 | 2639 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 2647 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) |
+| 2652 | [Earl Bien D. Celestino](https://www.worldcubeassociation.org/persons/2019CELE01) |
 | 2653 | [Danny Buschert](https://www.worldcubeassociation.org/persons/2017BUSC03) |
 | 2660 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 2664 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |

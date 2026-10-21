@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.45 | World | 18870 |
+| 1.45 | World | 18883 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.71 | Europe | 6119 |
+| 1.71 | Europe | 6127 |
 | 1.48 | Oceania | 817 |
 | 1.45 | South America | 2418 |
-| 1.40 | Asia | 3810 |
-| 1.31 | Africa | 260 |
-| 1.21 | North America | 5446 |
+| 1.40 | Asia | 3811 |
+| 1.31 | Africa | 261 |
+| 1.21 | North America | 5449 |
 
 ### Countries
 
@@ -43,19 +43,20 @@
 | 1.82 | Slovenia | 49 |
 | 1.81 | Austria | 43 |
 | 1.81 | Croatia | 43 |
-| 1.80 | United Kingdom | 384 |
 | 1.80 | Bosnia and Herzegovina | 15 |
 | 1.80 | Luxembourg | 5 |
+| 1.80 | United Kingdom | 387 |
 | 1.79 | Lithuania | 39 |
 | 1.79 | Mexico | 290 |
 | 1.78 | Switzerland | 197 |
 | 1.78 | Slovakia | 67 |
-| 1.76 | Czech Republic | 117 |
 | 1.76 | Guatemala | 70 |
+| 1.75 | Czech Republic | 118 |
 | 1.75 | Sri Lanka | 16 |
 | 1.75 | Ireland | 107 |
 | 1.74 | Ukraine | 163 |
-| 1.71 | Poland | 683 |
+| 1.70 | Poland | 684 |
+| 1.67 | Madagascar | 6 |
 | 1.66 | Argentina | 145 |
 | 1.65 | Italy | 303 |
 | 1.63 | Brazil | 756 |
@@ -64,7 +65,6 @@
 | 1.61 | Dominican Republic | 31 |
 | 1.61 | Indonesia | 265 |
 | 1.60 | Iran | 43 |
-| 1.60 | Madagascar | 5 |
 | 1.59 | Bulgaria | 32 |
 | 1.59 | Netherlands | 155 |
 | 1.57 | New Zealand | 188 |
@@ -81,7 +81,7 @@
 | 1.51 | South Africa | 123 |
 | 1.50 | Laos | 2 |
 | 1.50 | Montenegro | 8 |
-| 1.49 | Sweden | 437 |
+| 1.49 | Sweden | 438 |
 | 1.48 | Peru | 271 |
 | 1.45 | Australia | 626 |
 | 1.42 | Vietnam | 83 |
@@ -101,8 +101,8 @@
 | 1.33 | Tajikistan | 3 |
 | 1.32 | Bangladesh | 31 |
 | 1.30 | Jordan | 30 |
-| 1.28 | Portugal | 78 |
 | 1.28 | Uruguay | 64 |
+| 1.28 | Portugal | 79 |
 | 1.27 | Hong Kong, China | 33 |
 | 1.27 | Philippines | 441 |
 | 1.26 | Colombia | 581 |
@@ -110,20 +110,20 @@
 | 1.25 | Chile | 178 |
 | 1.24 | El Salvador | 42 |
 | 1.23 | Egypt | 13 |
-| 1.23 | China | 797 |
+| 1.23 | China | 798 |
 | 1.22 | United Arab Emirates | 23 |
 | 1.21 | Singapore | 126 |
 | 1.21 | Panama | 34 |
 | 1.19 | Morocco | 16 |
 | 1.17 | Japan | 287 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 4368 |
+| 1.16 | United States | 4371 |
 | 1.16 | Canada | 542 |
 | 1.15 | Armenia | 13 |
 | 1.15 | Azerbaijan | 59 |
+| 1.14 | Cyprus | 21 |
 | 1.14 | Mongolia | 64 |
 | 1.12 | Honduras | 25 |
-| 1.10 | Cyprus | 20 |
 | 1.04 | Georgia | 48 |
 | 1.00 | Albania | 4 |
 | 1.00 | Algeria | 10 |

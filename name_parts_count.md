@@ -1,18 +1,18 @@
 ## Name parts count
 
 *Note: Local names within parentheses are ignored.*
-*Updated on 20 October 2026*
+*Updated on 22 October 2026*
 
 | Parts | People | Countries of origin |
 | :--: | ---: | :--- |
-| 1 | 502 | India *(27.89 %)*, Indonesia *(20.32 %)*, United States *(10.36 %)*, China *(5.78 %)*, Australia *(2.99 %)* |
-| 2 | 219394 | United States *(25.51 %)*, China *(13.52 %)*, India *(7.37 %)*, Australia *(5.06 %)*, Canada *(4.53 %)* |
-| 3 | 50666 | United States *(12.07 %)*, India *(9.34 %)*, Spain *(8.15 %)*, Brazil *(7.13 %)*, Philippines *(5.60 %)* |
-| 4 | 25830 | Brazil *(14.38 %)*, Colombia *(12.78 %)*, Peru *(9.61 %)*, Mexico *(9.52 %)*, Philippines *(7.33 %)* |
-| 5 | 3404 | Brazil *(53.50 %)*, Malaysia *(11.75 %)*, Philippines *(5.73 %)*, Peru *(4.82 %)*, Spain *(2.97 %)* |
-| 6 | 723 | Brazil *(42.19 %)*, Malaysia *(32.64 %)*, Mexico *(4.29 %)*, Peru *(4.15 %)*, Spain *(1.52 %)* |
-| 7 | 84 | Brazil *(44.05 %)*, Malaysia *(38.10 %)*, Portugal *(8.33 %)*, Egypt *(2.38 %)*, Brunei *(1.19 %)* |
-| 8 | 11 | Brazil *(36.36 %)*, Malaysia *(27.27 %)*, Angola *(9.09 %)*, Dominican Republic *(9.09 %)*, Egypt *(9.09 %)* |
+| 1 | 503 | India *(27.83 %)*, Indonesia *(20.28 %)*, United States *(10.34 %)*, China *(5.77 %)*, Canada *(2.98 %)* |
+| 2 | 219430 | United States *(25.52 %)*, China *(13.52 %)*, India *(7.37 %)*, Australia *(5.05 %)*, Canada *(4.53 %)* |
+| 3 | 50696 | United States *(12.07 %)*, India *(9.33 %)*, Spain *(8.14 %)*, Brazil *(7.17 %)*, Philippines *(5.60 %)* |
+| 4 | 25864 | Brazil *(14.48 %)*, Colombia *(12.77 %)*, Peru *(9.60 %)*, Mexico *(9.52 %)*, Philippines *(7.32 %)* |
+| 5 | 3411 | Brazil *(53.59 %)*, Malaysia *(11.73 %)*, Philippines *(5.72 %)*, Peru *(4.81 %)*, Spain *(2.96 %)* |
+| 6 | 726 | Brazil *(42.29 %)*, Malaysia *(32.64 %)*, Mexico *(4.27 %)*, Peru *(4.13 %)*, Spain *(1.52 %)* |
+| 7 | 84 | Brazil *(44.05 %)*, Malaysia *(38.10 %)*, Portugal *(8.33 %)*, Egypt *(2.38 %)*, Spain *(1.19 %)* |
+| 8 | 11 | Brazil *(36.36 %)*, Malaysia *(27.27 %)*, Dominican Republic *(9.09 %)*, Egypt *(9.09 %)*, Angola *(9.09 %)* |
 | 9 | 1 | Malaysia *(100.00 %)* |
 | 10 | 1 | Malaysia *(100.00 %)* |
 | 11 | 1 | Malaysia *(100.00 %)* |

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 20 October 2026*
+*Updated on 22 October 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -21,7 +21,7 @@
 | 179 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 170 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 168 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
-| 167 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
+| 168 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 160 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 159 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 158 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
@@ -30,14 +30,14 @@
 | 154 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 153 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 146 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
+| 146 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 145 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
-| 144 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 143 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
 | 142 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) |
 | 142 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 141 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
+| 137 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 137 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
-| 136 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 135 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 133 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) |
 | 132 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |

@@ -1,6 +1,6 @@
 ## Shortest time to achieve solves milestone
 
-*Updated on 20 October 2026*
+*Updated on 22 October 2026*
 
 
 ### 20000 Solves
@@ -27,6 +27,7 @@
 | 4418 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 4789 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 4907 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 5159 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 5237 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 5328 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 5398 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |

@@ -1,7 +1,7 @@
 ## Most frequent delegate pairs
 
 *Note: Shows the most frequent cases of co-delegation between 2 Delegates*
-*Updated on 20 October 2026*
+*Updated on 22 October 2026*
 
 | Names | Competitions Co-Delegated |
 | :--- | ---: |
@@ -27,17 +27,17 @@
 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) & [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) | 71 |
 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 71 |
 | [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) & [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 71 |
+| [Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01) & [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 71 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) & [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) | 70 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) & [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | 70 |
-| [Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01) & [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 70 |
 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) & [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) | 69 |
 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 69 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | 69 |
 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) & [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | 69 |
 | [Alex Lehman](https://www.worldcubeassociation.org/persons/2015LEHM01) & [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | 68 |
+| [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) & [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 67 |
 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) & [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 66 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) & [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 66 |
-| [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) & [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 66 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) & [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) | 65 |
 | [Cady Shields](https://www.worldcubeassociation.org/persons/2014SHIE03) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 65 |
 | [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) & [Michael Larsen](https://www.worldcubeassociation.org/persons/2017LARS03) | 65 |
@@ -98,6 +98,7 @@
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) & [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 48 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) & [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) | 47 |
 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) & [Kerrie Jarman](https://www.worldcubeassociation.org/persons/2019JARM01) | 47 |
+| [Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01) & [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) | 47 |
 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) & [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 47 |
 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) & [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 47 |
 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) & [Mihai Soare](https://www.worldcubeassociation.org/persons/2019SOAR03) | 47 |
@@ -113,7 +114,6 @@
 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) & [Vianne Chang](https://www.worldcubeassociation.org/persons/2017CHAN47) | 46 |
 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) & [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 46 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) & [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 46 |
-| [Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01) & [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) | 46 |
 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) & [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 46 |
 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) & [Matheus Casassa](https://www.worldcubeassociation.org/persons/2017VIAN01) | 46 |
 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) & [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | 46 |
@@ -225,6 +225,7 @@
 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) & [Kalani Oliveira](https://www.worldcubeassociation.org/persons/2018OLIV28) | 35 |
 | [Kerrie Jarman](https://www.worldcubeassociation.org/persons/2019JARM01) & [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) | 35 |
 | [Miles Walcott](https://www.worldcubeassociation.org/persons/2021WALC02) & [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) | 35 |
+| [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) & [Shanglin Ye](https://www.worldcubeassociation.org/persons/2013YESH01) | 35 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

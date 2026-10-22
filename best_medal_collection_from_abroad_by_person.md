@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 20 October 2026*
+*Updated on 22 October 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -84,6 +84,7 @@
 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | **52** | 25 | 13 | 90 |
 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **51** | 19 | 16 | 86 |
 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | **50** | 60 | 56 | 166 |
+| [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | **50** | 51 | 36 | 137 |
 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) | **50** | 36 | 49 | 135 |
 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **50** | 24 | 10 | 84 |
 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **50** | 16 | 9 | 75 |
@@ -91,7 +92,6 @@
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **50** | 6 | 3 | 59 |
 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **49** | 57 | 40 | 146 |
 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) | **49** | 52 | 47 | 148 |
-| [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | **49** | 50 | 33 | 132 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | **49** | 44 | 40 | 133 |
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | **49** | 39 | 33 | 121 |
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **49** | 13 | 2 | 64 |

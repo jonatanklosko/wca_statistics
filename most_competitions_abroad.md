@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 20 October 2026*
+*Updated on 22 October 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -56,7 +56,7 @@
 | 96 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 94 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 93 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
-| 91 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
+| 92 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
 | 90 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 90 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
 | 89 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |

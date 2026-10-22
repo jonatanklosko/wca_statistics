@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 20 October 2026*
+*Updated on 22 October 2026*
 
 
 ### Rubik's Cube
@@ -32,7 +32,7 @@
 | 0.92 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 1.26, 1.02, 0.81, 0.80, 0.92 |
 | 0.93 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 0.74, 0.69, 1.32, 1.06, 0.98 |
 | 0.93 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 0.91, 1.39, 0.90, 0.94, 0.95 |
-| 0.96 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | 0.70, 0.99, 3.28, 1.02, 0.87 |
+| 0.95 | [William Lavoie](https://www.worldcubeassociation.org/persons/2023LAVO01) | 0.84, 1.10, 1.32, 0.84, 0.90 |
 
 ### 4x4x4 Cube
 

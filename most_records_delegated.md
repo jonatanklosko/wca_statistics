@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 20 October 2026*
+*Updated on 22 October 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -10,7 +10,7 @@
 | 1638 | 16 | 43 | 1579 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 1219 | 8 | 41 | 1170 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1202 | 25 | 101 | 1076 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 1093 | 54 | 151 | 888 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
+| 1092 | 54 | 150 | 888 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 1049 | 23 | 101 | 925 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 1047 | 97 | 245 | 705 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
 | 991 | 24 | 147 | 820 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
@@ -29,7 +29,7 @@
 | 677 | 8 | 54 | 615 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 675 | 14 | 17 | 644 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 669 | 13 | 32 | 624 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
-| 664 | 45 | 107 | 512 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
+| 663 | 45 | 106 | 512 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 663 | 1 | 3 | 659 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) |
 | 659 | 8 | 70 | 581 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 647 | 6 | 24 | 617 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
@@ -89,7 +89,7 @@
 | 395 | 2 | 25 | 368 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 392 | 2 | 4 | 386 | [İskender Aznavur](https://www.worldcubeassociation.org/persons/2013AZNA01) |
 | 389 | 35 | 143 | 211 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
-| 386 | 27 | 65 | 294 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
+| 385 | 27 | 64 | 294 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 385 | 5 | 74 | 306 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 385 | 12 | 65 | 308 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 378 | 7 | 19 | 352 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |

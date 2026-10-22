@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 20 October 2026*
+*Updated on 22 October 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -377,6 +377,7 @@
 | 12 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Italian Open 2010](https://www.worldcubeassociation.org/competitions/CubeNRoll2010/results/podiums) |
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Italian Open 2010](https://www.worldcubeassociation.org/competitions/CubeNRoll2010/results/podiums) |
 | 12 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Cube Plan Baie 2025](https://www.worldcubeassociation.org/competitions/CubePlanBaie2025/results/podiums) |
+| 11 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | [Cuber Brasil Sumaré 2026](https://www.worldcubeassociation.org/competitions/CuberBrasilSumare2026/results/podiums) |
 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Cubes Masters Zhytomyr 2019](https://www.worldcubeassociation.org/competitions/CubesMastersZhytomyr2019/results/podiums) |
 | 11 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) | [Cube Ta Bai sa Cebu 2022](https://www.worldcubeassociation.org/competitions/CubeTaBaisaCebu2022/results/podiums) |
 | 14 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Cubing At PASB 2022](https://www.worldcubeassociation.org/competitions/CubingAtPASB2022/results/podiums) |
@@ -1142,6 +1143,7 @@
 | 13 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [Parets Open 2024](https://www.worldcubeassociation.org/competitions/ParetsOpen2024/results/podiums) |
 | 10 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [Parets Open 2026](https://www.worldcubeassociation.org/competitions/ParetsOpen2026/results/podiums) |
 | 11 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Partage Open 2023](https://www.worldcubeassociation.org/competitions/PartageOpen2023/results/podiums) |
+| 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Partage Open 2026](https://www.worldcubeassociation.org/competitions/PartageOpen2026/results/podiums) |
 | 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Patna Cube Challenge 2025](https://www.worldcubeassociation.org/competitions/PatnaCubeChallenge2025/results/podiums) |
 | 11 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Patna Cube Challenge 2026](https://www.worldcubeassociation.org/competitions/PatnaCubeChallenge2026/results/podiums) |
 | 11 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | [Pavlodar Open 2025](https://www.worldcubeassociation.org/competitions/PavlodarOpen2025/results/podiums) |

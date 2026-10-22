@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 20 October 2026*
+*Updated on 22 October 2026*
 
 
 ### Rubik's Cube
@@ -23,7 +23,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 0.97 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.12, 0.80, 1.07, 1.00, 1.25, 0.86, 2.21, 0.92, 0.78, 0.85, 0.69, 1.09 |
+| 0.97 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 0.84, 0.76, 0.82, 0.84, 3.90, 1.22, 0.83, 1.09, 1.18, 1.04, 1.05, 0.71 |
 | 0.98 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | 0.86, 0.77, 0.82, 0.94, 3.19, 0.99, 0.94, 0.89, 1.33, 1.11, 0.88, 1.03 |
 | 0.99 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.05, 0.99, 1.09, 1.00, 1.10, 1.07, 1.85, 0.66, 0.82, 0.94, 0.98, 0.87 |
 | 1.02 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.06, 4.65, 1.19, 0.86, 1.10, 0.78, 1.02, 1.04, 1.22, 0.89, 0.58, 1.02 |

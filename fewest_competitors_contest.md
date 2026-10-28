@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 October 2026*
+*Updated on 28 October 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -373,6 +373,7 @@
 | 9 | [Taraz Open 2025](https://www.worldcubeassociation.org/competitions/TarazOpen2025) |
 | 9 | [TKTK Side Events II 2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsII2024) |
 | 9 | [Try Not To DNF Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryNotToDNFRzeszow2023) |
+| 9 | [TX MBLD Champs - DFW 2026](https://www.worldcubeassociation.org/competitions/TXMBLDChampsDFW2026) |
 | 9 | [U-Cube Gronau Silent 2025](https://www.worldcubeassociation.org/competitions/UCubeGronauSilent2025) |
 | 9 | [Uppsala Christmas Special 2025](https://www.worldcubeassociation.org/competitions/UppsalaChristmasSpecial2025) |
 | 9 | [Vltava FMC 2025](https://www.worldcubeassociation.org/competitions/VltavaFMC2025) |
@@ -747,6 +748,7 @@
 | 12 | [San Gil Plaza V 2026](https://www.worldcubeassociation.org/competitions/SanGilPlazaV2026) |
 | 12 | [Shhherborn Summer 2026](https://www.worldcubeassociation.org/competitions/ShhherbornSummer2026) |
 | 12 | [Silence in Cebu 2022](https://www.worldcubeassociation.org/competitions/SilenceinCebu2022) |
+| 12 | [Silencio en Q'umarkaj 2026](https://www.worldcubeassociation.org/competitions/SilencioenQumarkaj2026) |
 | 12 | [Silent Brasília 2024](https://www.worldcubeassociation.org/competitions/SilentBrasilia2024) |
 | 12 | [Silent Winter Tashkent 2020](https://www.worldcubeassociation.org/competitions/SilentWinterTashkent2020) |
 | 12 | [Skårup Last Chance 2011](https://www.worldcubeassociation.org/competitions/SkarupLastChance2011) |
@@ -1121,6 +1123,7 @@
 | 15 | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019) |
 | 15 | [Ignus Open 2015](https://www.worldcubeassociation.org/competitions/IgnusOpen2015) |
 | 15 | [I IFMA ao Cubo 2025](https://www.worldcubeassociation.org/competitions/IIFMAaoCubo2025) |
+| 15 | [II Mossoró Open 2026](https://www.worldcubeassociation.org/competitions/IIMossoroOpen2026) |
 | 15 | [Roorkee Open 2014](https://www.worldcubeassociation.org/competitions/IITRoorkeeOpen2014) |
 | 15 | [Indonesia Masters 2023](https://www.worldcubeassociation.org/competitions/IndonesiaMasters2023) |
 | 15 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) |

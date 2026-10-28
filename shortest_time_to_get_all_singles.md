@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 October 2026*
+*Updated on 28 October 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -265,7 +265,7 @@
 | 1065 | [Jakob Kogler](https://www.worldcubeassociation.org/persons/2011KOGL01) |
 | 1071 | [Patrick Kern](https://www.worldcubeassociation.org/persons/2011KERN02) |
 | 1078 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
-| 1078 | [Luna Tucker](https://www.worldcubeassociation.org/persons/2023TUCK04) |
+| 1078 | [Rachel Tucker](https://www.worldcubeassociation.org/persons/2023TUCK04) |
 | 1084 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 1085 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 1085 | [Pranav Veera](https://www.worldcubeassociation.org/persons/2015VEER01) |
@@ -805,6 +805,7 @@
 | 4460 | [Shiori Yanai](https://www.worldcubeassociation.org/persons/2013SATO01) |
 | 4571 | [Lindsay Hans](https://www.worldcubeassociation.org/persons/2014HANS01) |
 | 4583 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
+| 4591 | [Gabriel Barrios](https://www.worldcubeassociation.org/persons/2014BARR02) |
 | 4675 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
 | 4682 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) |
 | 4690 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) |

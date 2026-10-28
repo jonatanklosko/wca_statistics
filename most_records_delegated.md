@@ -1,23 +1,23 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 22 October 2026*
+*Updated on 28 October 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
 | 4176 | 184 | 306 | 3686 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
-| 2022 | 43 | 128 | 1851 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 2024 | 43 | 128 | 1853 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 1638 | 16 | 43 | 1579 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 1219 | 8 | 41 | 1170 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1202 | 25 | 101 | 1076 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 1092 | 54 | 150 | 888 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
+| 1100 | 54 | 150 | 896 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 1049 | 23 | 101 | 925 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 1047 | 97 | 245 | 705 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
 | 991 | 24 | 147 | 820 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 957 | 22 | 140 | 795 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 904 | 13 | 79 | 812 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 887 | 9 | 34 | 844 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
-| 878 | 7 | 33 | 838 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
+| 879 | 7 | 33 | 839 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
 | 832 | 5 | 22 | 805 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 826 | 8 | 46 | 772 | [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) |
 | 749 | 4 | 47 | 698 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
@@ -39,7 +39,7 @@
 | 620 | 11 | 36 | 573 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) |
 | 585 | 7 | 15 | 563 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
 | 585 | 15 | 33 | 537 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
-| 584 | 3 | 38 | 543 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
+| 585 | 3 | 38 | 544 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 577 | 16 | 86 | 475 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) |
 | 571 | 9 | 159 | 403 | [Dave Campbell](https://www.worldcubeassociation.org/persons/2005CAMP01) |
 | 565 | 2 | 44 | 519 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
@@ -75,8 +75,8 @@
 | 443 | 6 | 34 | 403 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 442 | 10 | 30 | 402 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
 | 440 | 0 | 0 | 440 | [Ivo Kruusamägi](https://www.worldcubeassociation.org/persons/2018KRUU01) |
+| 439 | 6 | 55 | 378 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 438 | 35 | 67 | 336 | [Gilles Roux](https://www.worldcubeassociation.org/persons/2004ROUX01) |
-| 438 | 6 | 55 | 377 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 432 | 15 | 112 | 305 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
 | 417 | 9 | 25 | 383 | [Philippe Lucien](https://www.worldcubeassociation.org/persons/2011LUCI01) |
 | 413 | 5 | 29 | 379 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
@@ -89,9 +89,9 @@
 | 395 | 2 | 25 | 368 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 392 | 2 | 4 | 386 | [İskender Aznavur](https://www.worldcubeassociation.org/persons/2013AZNA01) |
 | 389 | 35 | 143 | 211 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
+| 388 | 12 | 66 | 310 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 385 | 27 | 64 | 294 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 385 | 5 | 74 | 306 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
-| 385 | 12 | 65 | 308 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 378 | 7 | 19 | 352 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 375 | 4 | 15 | 356 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 | 370 | 9 | 23 | 338 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |

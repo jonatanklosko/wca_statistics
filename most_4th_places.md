@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 28 October 2026*
+*Updated on 29 October 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -13,8 +13,8 @@
 | 211 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 203 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 199 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 193 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 191 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 191 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 190 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 188 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 180 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
@@ -33,8 +33,8 @@
 | 146 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 146 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 144 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
+| 143 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) |
 | 143 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
-| 142 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) |
 | 141 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 137 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) |
 | 137 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
@@ -46,18 +46,18 @@
 | 130 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 129 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 129 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) |
-| 128 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
+| 129 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 127 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 126 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 125 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
 | 125 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 124 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 124 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
-| 123 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 123 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
+| 123 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 121 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |
-| 121 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 121 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
+| 121 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 119 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 118 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 117 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
@@ -78,8 +78,8 @@
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 104 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 104 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
-| 103 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 103 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
+| 103 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 103 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 103 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |

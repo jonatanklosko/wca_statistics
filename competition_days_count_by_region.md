@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 28 October 2026*
+*Updated on 29 October 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.45 | World | 18946 |
+| 1.45 | World | 18954 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.71 | Europe | 6153 |
-| 1.47 | Oceania | 819 |
-| 1.45 | South America | 2422 |
-| 1.40 | Asia | 3818 |
+| 1.71 | Europe | 6154 |
+| 1.48 | Oceania | 821 |
+| 1.45 | South America | 2424 |
+| 1.40 | Asia | 3819 |
 | 1.31 | Africa | 262 |
-| 1.21 | North America | 5472 |
+| 1.21 | North America | 5474 |
 
 ### Countries
 
@@ -51,7 +51,7 @@
 | 1.78 | Croatia | 45 |
 | 1.78 | Slovakia | 67 |
 | 1.75 | Czech Republic | 118 |
-| 1.75 | Guatemala | 72 |
+| 1.75 | Guatemala | 73 |
 | 1.75 | Ireland | 108 |
 | 1.75 | Sri Lanka | 16 |
 | 1.74 | Ukraine | 163 |
@@ -59,14 +59,14 @@
 | 1.67 | Madagascar | 6 |
 | 1.66 | Argentina | 145 |
 | 1.65 | Italy | 304 |
-| 1.64 | Brazil | 759 |
+| 1.63 | Brazil | 760 |
 | 1.63 | Belgium | 117 |
 | 1.63 | Hungary | 86 |
 | 1.61 | Dominican Republic | 31 |
 | 1.61 | Indonesia | 265 |
 | 1.60 | Iran | 43 |
+| 1.60 | Netherlands | 156 |
 | 1.59 | Bulgaria | 32 |
-| 1.59 | Netherlands | 155 |
 | 1.57 | New Zealand | 189 |
 | 1.57 | North Macedonia | 7 |
 | 1.57 | San Marino | 7 |
@@ -83,7 +83,7 @@
 | 1.50 | Montenegro | 8 |
 | 1.49 | Sweden | 439 |
 | 1.48 | Peru | 271 |
-| 1.45 | Australia | 627 |
+| 1.45 | Australia | 629 |
 | 1.42 | Vietnam | 83 |
 | 1.42 | Costa Rica | 36 |
 | 1.41 | Israel | 87 |
@@ -99,13 +99,13 @@
 | 1.33 | Belize | 3 |
 | 1.33 | Ghana | 3 |
 | 1.33 | Tajikistan | 3 |
-| 1.32 | Bangladesh | 31 |
+| 1.31 | Bangladesh | 32 |
 | 1.30 | Jordan | 30 |
 | 1.28 | Uruguay | 64 |
 | 1.28 | Portugal | 79 |
 | 1.27 | Hong Kong, China | 33 |
 | 1.27 | Philippines | 445 |
-| 1.26 | Colombia | 581 |
+| 1.26 | Colombia | 582 |
 | 1.25 | Pakistan | 4 |
 | 1.25 | Venezuela | 109 |
 | 1.25 | Chile | 179 |
@@ -119,7 +119,7 @@
 | 1.17 | Japan | 287 |
 | 1.17 | Tunisia | 24 |
 | 1.16 | United States | 4390 |
-| 1.16 | Canada | 543 |
+| 1.16 | Canada | 544 |
 | 1.15 | Armenia | 13 |
 | 1.15 | Azerbaijan | 59 |
 | 1.14 | Cyprus | 21 |

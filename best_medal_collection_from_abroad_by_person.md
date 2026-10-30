@@ -1,12 +1,12 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 28 October 2026*
+*Updated on 29 October 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **578** | 366 | 247 | 1191 |
-| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **415** | 91 | 40 | 546 |
+| [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **419** | 91 | 41 | 551 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 204 | 125 | 663 |
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **282** | 235 | 135 | 652 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **280** | 153 | 114 | 547 |
@@ -17,7 +17,7 @@
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **212** | 78 | 44 | 334 |
 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **206** | 62 | 21 | 289 |
 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **164** | 127 | 66 | 357 |
-| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **154** | 166 | 140 | 460 |
+| [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **155** | 167 | 142 | 464 |
 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **150** | 79 | 43 | 272 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | **148** | 48 | 26 | 222 |
 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **146** | 159 | 95 | 400 |
@@ -71,9 +71,9 @@
 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | **59** | 38 | 41 | 138 |
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **57** | 40 | 25 | 122 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **56** | 68 | 71 | 195 |
+| [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | **55** | 52 | 43 | 150 |
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
-| [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | **54** | 50 | 43 | 147 |
 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | **54** | 35 | 21 | 110 |
 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | **54** | 30 | 14 | 98 |
 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 24 | 19 | 97 |

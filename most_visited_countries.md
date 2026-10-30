@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 28 October 2026*
+*Updated on 29 October 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -69,23 +69,23 @@
 | 20 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
 | 20 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 20 | [Jochen Bauer](https://www.worldcubeassociation.org/persons/2018BAUE04) |
+| 20 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
 | 20 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 20 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 20 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 19 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 19 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 19 | [Justin Vinckenbosch](https://www.worldcubeassociation.org/persons/2016VINC03) |
-| 19 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
 | 19 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
 | 19 | [Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01) |
 | 19 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 19 | [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 19 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 19 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 19 | [Takumi Tamura (田村匠)](https://www.worldcubeassociation.org/persons/2019TAMU01) |
-| 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
+| 19 | [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 18 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 18 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |

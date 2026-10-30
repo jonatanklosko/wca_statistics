@@ -1,6 +1,6 @@
 ## Shortest time to achieve solves milestone
 
-*Updated on 28 October 2026*
+*Updated on 29 October 2026*
 
 
 ### 20000 Solves
@@ -34,6 +34,7 @@
 | 5762 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 5811 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 6137 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
+| 6713 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 
 ### 10000 Solves
 

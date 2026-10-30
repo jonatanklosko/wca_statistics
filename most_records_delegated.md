@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on 28 October 2026*
+*Updated on 29 October 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -34,7 +34,7 @@
 | 659 | 8 | 70 | 581 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 647 | 6 | 24 | 617 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 646 | 8 | 58 | 580 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) |
-| 625 | 0 | 0 | 625 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) |
+| 628 | 0 | 0 | 628 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) |
 | 622 | 8 | 80 | 534 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) |
 | 620 | 11 | 36 | 573 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) |
 | 585 | 7 | 15 | 563 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |

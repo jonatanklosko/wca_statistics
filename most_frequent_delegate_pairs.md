@@ -1,7 +1,7 @@
 ## Most frequent delegate pairs
 
 *Note: Shows the most frequent cases of co-delegation between 2 Delegates*
-*Updated on 28 October 2026*
+*Updated on 29 October 2026*
 
 | Names | Competitions Co-Delegated |
 | :--- | ---: |
@@ -212,7 +212,6 @@
 | [Fabian Tomasović](https://www.worldcubeassociation.org/persons/2020TOMA01) & [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 36 |
 | [Jakob Jernsletten](https://www.worldcubeassociation.org/persons/2018JERN01) & [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 36 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) & [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 36 |
-| [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) & [Kalani Oliveira](https://www.worldcubeassociation.org/persons/2018OLIV28) | 36 |
 | [Michael Larsen](https://www.worldcubeassociation.org/persons/2017LARS03) & [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) | 36 |
 | [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) & [Tarandeep Mittal](https://www.worldcubeassociation.org/persons/2014MITT02) | 36 |
 | [Miles Walcott](https://www.worldcubeassociation.org/persons/2021WALC02) & [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) | 36 |
@@ -227,6 +226,7 @@
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) & [Nolan Lata Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | 35 |
 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 35 |
 | [Fiona Wang](https://www.worldcubeassociation.org/persons/2015WANF02) & [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) | 35 |
+| [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) & [Kalani Oliveira](https://www.worldcubeassociation.org/persons/2018OLIV28) | 35 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) & [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 35 |
 | [Kerrie Jarman](https://www.worldcubeassociation.org/persons/2019JARM01) & [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) | 35 |
 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) & [Shanglin Ye](https://www.worldcubeassociation.org/persons/2013YESH01) | 35 |

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 29 October 2026*
+*Updated on 31 October 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -10,7 +10,7 @@
 | 275 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 263 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 222 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
-| 211 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 212 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 203 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 199 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 193 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |

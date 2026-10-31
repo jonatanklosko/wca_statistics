@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 29 October 2026*
+*Updated on 31 October 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -1016,6 +1016,7 @@
 | 14 | [Poznań Mental Breakdown 2026](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2026) |
 | 14 | [PST: FMC Poznań 2025](https://www.worldcubeassociation.org/competitions/PSTFMCPoznan2025) |
 | 14 | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016) |
+| 14 | [Quiet Belgian Nationals 2026](https://www.worldcubeassociation.org/competitions/QuietBelgianNationals2026) |
 | 14 | [Reto del Guaz 2022](https://www.worldcubeassociation.org/competitions/RetodelGuaz2022) |
 | 14 | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022) |
 | 14 | [Roskilde by Night 2024](https://www.worldcubeassociation.org/competitions/RoskildebyNight2024) |

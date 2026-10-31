@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 29 October 2026*
+*Updated on 31 October 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -331,6 +331,7 @@
 | 1261 | [Francisco Israel Ortiz Pimentel](https://www.worldcubeassociation.org/persons/2023PIME02) |
 | 1267 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) |
 | 1267 | [Marcus Moberg](https://www.worldcubeassociation.org/persons/2016MOBE01) |
+| 1281 | [Focco Postmus](https://www.worldcubeassociation.org/persons/2023POST04) |
 | 1288 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 1288 | [Alexis Tremellat](https://www.worldcubeassociation.org/persons/2022TREM02) |
 | 1293 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) |

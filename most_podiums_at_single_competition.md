@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 29 October 2026*
+*Updated on 31 October 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1456,6 +1456,7 @@
 | 12 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | [THC 2017](https://www.worldcubeassociation.org/competitions/ThailandChampionship2017/results/podiums) |
 | 10 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | [Thankscubing 2009](https://www.worldcubeassociation.org/competitions/Thankscubing2009/results/podiums) |
 | 12 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015/results/podiums) |
+| 10 | [Enrique Adolfo Delgado](https://www.worldcubeassociation.org/persons/2017DELG12) | [The Last Solve Oruro 2026](https://www.worldcubeassociation.org/competitions/TheLastSolveOruro2026/results/podiums) |
 | 11 | [Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01) | [Thessaloniki Open 2022](https://www.worldcubeassociation.org/competitions/ThessalonikiOpen2022/results/podiums) |
 | 10 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Tianjin Open 2012](https://www.worldcubeassociation.org/competitions/TianjinOpen2012/results/podiums) |
 | 10 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [Ticino Open 2018](https://www.worldcubeassociation.org/competitions/TicinoOpen2018/results/podiums) |

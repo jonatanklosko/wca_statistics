@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 29 October 2026*
+*Updated on 31 October 2026*
 
 
 ### Rubik's Cube
@@ -16,18 +16,18 @@
 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 20 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 19 |
 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 18 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 17 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | 17 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 17 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 17 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 15 |
-| [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 12 |
 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) | 12 |
-| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 12 |
 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | 12 |
 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | 12 |
-| [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 11 |
-| [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 11 |
+| [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 12 |
+| [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 12 |
 | [Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01) | 11 |
+| [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 11 |
+| [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 11 |
 
 ### 2x2x2 Cube
 
@@ -216,18 +216,18 @@
 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | 21 |
 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 19 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 17 |
-| [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) | 15 |
 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 15 |
+| [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) | 15 |
 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | 14 |
 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) | 13 |
-| [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 12 |
 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | 12 |
-| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 11 |
-| [Justin Mallari](https://www.worldcubeassociation.org/persons/2010MALL01) | 11 |
+| [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 12 |
 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) | 11 |
-| [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 9 |
+| [Justin Mallari](https://www.worldcubeassociation.org/persons/2010MALL01) | 11 |
+| [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 11 |
+| [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) | 9 |
+| [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | 9 |
 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | 9 |
-| [Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01) | 9 |
 
 ### Megaminx
 

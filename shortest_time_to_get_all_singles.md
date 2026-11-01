@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 31 October 2026*
+*Updated on  1 November 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -336,6 +336,7 @@
 | 1288 | [Alexis Tremellat](https://www.worldcubeassociation.org/persons/2022TREM02) |
 | 1293 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) |
 | 1295 | [Marco Edoardo Cittar](https://www.worldcubeassociation.org/persons/2015CITT01) |
+| 1295 | [YongGeal Lee (이용걸)](https://www.worldcubeassociation.org/persons/2023LEEY01) |
 | 1303 | [Rainer Fürstenfeld](https://www.worldcubeassociation.org/persons/2022FURS03) |
 | 1307 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 1316 | [Marco Guarasci](https://www.worldcubeassociation.org/persons/2020GUAR01) |

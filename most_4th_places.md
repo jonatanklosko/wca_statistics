@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 31 October 2026*
+*Updated on  1 November 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -19,7 +19,7 @@
 | 188 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 180 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 179 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 170 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 171 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 168 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) |
 | 168 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 163 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
@@ -96,8 +96,8 @@
 | 98 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) |
 | 98 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 98 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
-| 97 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 97 | [Federico da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) |
+| 97 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 96 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
 | 95 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
 | 95 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |

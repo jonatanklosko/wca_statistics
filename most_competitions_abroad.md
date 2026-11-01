@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 31 October 2026*
+*Updated on  1 November 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -13,14 +13,14 @@
 | 160 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 156 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 155 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
+| 151 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 150 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
-| 150 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
 | 150 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 144 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 140 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 140 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
+| 138 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 138 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
-| 137 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 137 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 135 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 134 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) |

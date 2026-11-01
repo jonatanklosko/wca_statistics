@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 31 October 2026*
+*Updated on  1 November 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.45 | World | 18973 |
+| 1.45 | World | 18980 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
 | 1.71 | Europe | 6163 |
-| 1.48 | Oceania | 821 |
+| 1.48 | Oceania | 822 |
 | 1.45 | South America | 2424 |
-| 1.40 | Asia | 3825 |
+| 1.40 | Asia | 3827 |
 | 1.31 | Africa | 262 |
-| 1.21 | North America | 5478 |
+| 1.21 | North America | 5482 |
 
 ### Countries
 
@@ -35,9 +35,9 @@
 | 1.91 | Turkey | 141 |
 | 1.89 | Palestine | 9 |
 | 1.88 | Kazakhstan | 82 |
-| 1.85 | Thailand | 112 |
 | 1.84 | Finland | 206 |
 | 1.84 | Serbia | 32 |
+| 1.84 | Thailand | 113 |
 | 1.84 | Spain | 548 |
 | 1.83 | Norway | 185 |
 | 1.82 | Slovenia | 49 |
@@ -67,10 +67,10 @@
 | 1.60 | Iran | 43 |
 | 1.60 | Netherlands | 156 |
 | 1.59 | Bulgaria | 32 |
-| 1.57 | New Zealand | 189 |
 | 1.57 | North Macedonia | 7 |
 | 1.57 | San Marino | 7 |
 | 1.57 | Latvia | 58 |
+| 1.57 | New Zealand | 190 |
 | 1.56 | Nepal | 25 |
 | 1.56 | Andorra | 9 |
 | 1.55 | Denmark | 260 |
@@ -113,12 +113,12 @@
 | 1.23 | Egypt | 13 |
 | 1.23 | China | 799 |
 | 1.22 | United Arab Emirates | 23 |
-| 1.21 | Singapore | 126 |
+| 1.21 | Singapore | 127 |
 | 1.21 | Panama | 34 |
 | 1.19 | Morocco | 16 |
 | 1.17 | Japan | 287 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 4394 |
+| 1.16 | United States | 4396 |
 | 1.16 | Canada | 544 |
 | 1.15 | Armenia | 13 |
 | 1.15 | Azerbaijan | 59 |
@@ -130,7 +130,7 @@
 | 1.00 | Algeria | 10 |
 | 1.00 | Angola | 9 |
 | 1.00 | Bahamas | 1 |
-| 1.00 | Barbados | 2 |
+| 1.00 | Barbados | 3 |
 | 1.00 | Botswana | 1 |
 | 1.00 | Cabo Verde | 1 |
 | 1.00 | Cambodia | 4 |
@@ -149,6 +149,7 @@
 | 1.00 | Mozambique | 1 |
 | 1.00 | Namibia | 1 |
 | 1.00 | Oman | 2 |
+| 1.00 | Saint Vincent and the Grenadines | 1 |
 | 1.00 | Samoa | 1 |
 | 1.00 | Syria | 1 |
 | 1.00 | Tonga | 1 |

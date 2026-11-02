@@ -187,6 +187,7 @@
 | [Ryutaro Miyazaki (宮崎隆太郎)](https://www.worldcubeassociation.org/persons/2017MIYA04) & [Yuichi Hamada (濵田祐一)](https://www.worldcubeassociation.org/persons/2012HAMA02) | 39 |
 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) & [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) | 38 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) & [Fiona Wang](https://www.worldcubeassociation.org/persons/2015WANF02) | 38 |
+| [Carmen Teo (张斌婕)](https://www.worldcubeassociation.org/persons/2012JIET01) & [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) | 38 |
 | [Gianluca Placenti](https://www.worldcubeassociation.org/persons/2012PLAC01) & [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 38 |
 | [Han Wu (吳翰)](https://www.worldcubeassociation.org/persons/2008WUHA01) & [Yuichi Hamada (濵田祐一)](https://www.worldcubeassociation.org/persons/2012HAMA02) | 38 |
 | [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) & [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 38 |
@@ -197,13 +198,13 @@
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) & [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 37 |
 | [Brendan Bakker (貝庭笙)](https://www.worldcubeassociation.org/persons/2015BAKK01) & [Cade Beck](https://www.worldcubeassociation.org/persons/2018BECK05) | 37 |
 | [Cade Beck](https://www.worldcubeassociation.org/persons/2018BECK05) & [Joey Day](https://www.worldcubeassociation.org/persons/2022DAYJ01) | 37 |
-| [Carmen Teo (张斌婕)](https://www.worldcubeassociation.org/persons/2012JIET01) & [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) | 37 |
 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) & [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 37 |
 | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) & [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 37 |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) & [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 37 |
 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) & [Shanglin Ye](https://www.worldcubeassociation.org/persons/2013YESH01) | 36 |
 | [Alex Lehman](https://www.worldcubeassociation.org/persons/2015LEHM01) & [Sherry Tao (陶心仪)](https://www.worldcubeassociation.org/persons/2022TAOS01) | 36 |
 | [Asami Ohkusa](https://www.worldcubeassociation.org/persons/2014SHIO01) & [Yuichi Hamada (濵田祐一)](https://www.worldcubeassociation.org/persons/2012HAMA02) | 36 |
+| [Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01) & [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 36 |
 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) & [Ricky Martin](https://www.worldcubeassociation.org/persons/2017MART29) | 36 |
 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) | 36 |
 | [Dan Smith](https://www.worldcubeassociation.org/persons/2018SMIT42) & [Lydia Workman](https://www.worldcubeassociation.org/persons/2018WORK01) | 36 |
@@ -218,7 +219,6 @@
 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) & [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | 36 |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) & [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) | 36 |
 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) & [Sherry Tao (陶心仪)](https://www.worldcubeassociation.org/persons/2022TAOS01) | 35 |
-| [Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01) & [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 35 |
 | [Bence Kiácz](https://www.worldcubeassociation.org/persons/2016KIAC01) & [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | 35 |
 | [Bence Kiácz](https://www.worldcubeassociation.org/persons/2016KIAC01) & [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | 35 |
 | [Cailyn Sinclair](https://www.worldcubeassociation.org/persons/2016HOOV01) & [Rainier Feiler](https://www.worldcubeassociation.org/persons/2015FEIL02) | 35 |

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 November 2026*
+*Updated on  2 November 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -974,6 +974,7 @@
 | 10 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | [Molina Open 2016](https://www.worldcubeassociation.org/competitions/MolinaOpen2016/results/podiums) |
 | 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [Mölnlycke Open 2023](https://www.worldcubeassociation.org/competitions/MolnlyckeOpen2023/results/podiums) |
 | 10 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Mölnlycke Open 2023](https://www.worldcubeassociation.org/competitions/MolnlyckeOpen2023/results/podiums) |
+| 11 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | [Momias Quinto Open 2026](https://www.worldcubeassociation.org/competitions/MomiasQuintoOpen2026/results/podiums) |
 | 10 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | [MCC 2017](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2017/results/podiums) |
 | 10 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | [Monnem City Cubing 2018](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2018/results/podiums) |
 | 11 | [Dominik Vidaković](https://www.worldcubeassociation.org/persons/2013VIDA03) | [Montenegro Nationals 2019](https://www.worldcubeassociation.org/competitions/MontenegroNationals2019/results/podiums) |

@@ -1,16 +1,16 @@
 ## Most visited countries
 
-*Updated on  1 November 2026*
+*Updated on  2 November 2026*
 
 | Countries | Person |
 | ---: | :--- |
-| 81 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
+| 82 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 67 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
-| 65 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
+| 66 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 59 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 51 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 44 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 45 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 42 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 40 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 40 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
@@ -19,9 +19,9 @@
 | 35 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 35 | [Oscar Luigi M. Gravador](https://www.worldcubeassociation.org/persons/2016GRAV02) |
 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
+| 34 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
 | 34 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 33 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
-| 33 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
 | 32 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 30 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 28 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -31,12 +31,12 @@
 | 27 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 27 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 26 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 26 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 26 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 25 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
-| 25 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 25 | [Roman Sokolovskyi](https://www.worldcubeassociation.org/persons/2021SOKO03) |
-| 25 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 25 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 24 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 24 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |

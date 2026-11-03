@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 November 2026*
+*Updated on  2 November 2026*
 
 
 ### Rubik's Cube - Single
@@ -122,7 +122,7 @@
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **38.12** | Malaysia | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 39.31, 36.29, 34.97, 38.76, 47.79 |
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **38.78** | Chinese Taipei | [Chien Kuo Cubing Party 2026](https://www.worldcubeassociation.org/competitions/ChienKuoCubingParty2026) | 36.79, 37.86, 41.70, 42.58, 35.85 |
 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | **38.84** | Singapore | [Odd July Singapore 2026](https://www.worldcubeassociation.org/competitions/OddJulySingapore2026) | 37.26, 43.26, 38.22, 39.64, 38.66 |
-| [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **39.43** | United States | [4x4 Off US-40 IL 2026](https://www.worldcubeassociation.org/competitions/4x4OffUS40IL2026) | 39.35, 31.98, 44.37, 39.41, 39.52 |
+| [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | **39.35** | United States | [Larchmont TGIF 2026](https://www.worldcubeassociation.org/competitions/LarchmontTGIF2026) | 39.76, 42.10, 37.53, 38.53, 39.75 |
 
 ### 6x6x6 Cube - Single
 
@@ -136,7 +136,7 @@
 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | **1:01.49** | United States | [Temecula Valley Summer 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySummer2026) | 1:12.16, 1:01.49, 1:11.56 |
 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | **1:01.79** | China | [Start of Summer Beijing 2026](https://www.worldcubeassociation.org/competitions/StartofSummerBeijing2026) | 1:06.28, 1:12.27, 1:01.79 |
 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **1:02.16** | Malaysia | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:16.29, 1:11.02, 1:02.16 |
-| [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | **1:05.86** | South Africa | [Farewell Strathclyde 2026](https://www.worldcubeassociation.org/competitions/FarewellStrathclyde2026) | 1:18.18, 1:05.86, 1:32.91 |
+| [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | **1:03.89** | South Africa | [Cubestuff Centurion Q4 2026](https://www.worldcubeassociation.org/competitions/CubestuffCenturionQ42026) | 1:19.00, 1:15.37, 1:03.89 |
 | [Arhaan Sareen](https://www.worldcubeassociation.org/persons/2017SARE03) | **1:06.14** | Canada | [Pickering Favourites Summer 2026](https://www.worldcubeassociation.org/competitions/PickeringFavouritesSummer2026) | 1:21.08, 1:06.14, 1:19.44 |
 
 ### 6x6x6 Cube - Average
@@ -331,8 +331,8 @@
 | [Milan Vincent Andric](https://www.worldcubeassociation.org/persons/2023ANDR25) | **1.40** | United States | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 1.12, 1.31, 1.55, 2.18, 1.34 |
 | [Clem Tucker](https://www.worldcubeassociation.org/persons/2022TUCK09) | **1.42** | United States | [Mystic Cubikon 2026](https://www.worldcubeassociation.org/competitions/MysticCubikon2026) | 2.08, 1.20, 1.38, 1.54, 1.33 |
 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | **1.44** | New Zealand | [NZ Cubing Decathlon 2026](https://www.worldcubeassociation.org/competitions/NZCubingDecathlon2026) | 1.71, 1.40, 1.43, 1.10, 1.50 |
+| [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | **1.44** | India | [Kentucky Championship 2026](https://www.worldcubeassociation.org/competitions/KentuckyChampionship2026) | 2.27, 1.09, 1.78, 1.31, 1.22 |
 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | **1.45** | United States | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026) | 1.74, 1.31, 1.24, 1.31, 2.05 |
-| [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **1.45** | United Kingdom | [Darlington Spring 2026](https://www.worldcubeassociation.org/competitions/DarlingtonSpring2026) | 1.47, 1.32, 1.43, 1.46, 2.64 |
 
 ### Rubik's Clock - Single
 
@@ -448,10 +448,10 @@
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **1:36.73** | Sweden | [Jonsered Open 2026](https://www.worldcubeassociation.org/competitions/JonseredOpen2026) | 1:24.96, 1:38.37, 1:46.85 |
 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **1:42.15** | United States | [Multi Mayhem VA 2026](https://www.worldcubeassociation.org/competitions/MultiMayhemVA2026) | 1:38.06, 1:47.91, 1:40.49 |
 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **1:44.10** | Australia | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) | 1:48.64, 1:33.13, 1:50.52 |
+| [Daniel Wang](https://www.worldcubeassociation.org/persons/2022WANG06) | **1:45.36** | Australia | [Ljubljana Big & Blind 2026](https://www.worldcubeassociation.org/competitions/LjubljanaBigBlind2026) | 1:37.56, 1:42.56, 1:55.96 |
 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | **1:45.48** | United States | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026) | 1:23.84, 2:01.09, 1:51.51 |
 | [Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21) | **1:46.16** | China | [Beijing Autumn Rivalry 2026](https://www.worldcubeassociation.org/competitions/BeijingAutumnRivalry2026) | 1:56.03, 1:48.71, 1:33.74 |
 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | **1:46.37** | United States | [Multi Mayhem VA 2026](https://www.worldcubeassociation.org/competitions/MultiMayhemVA2026) | 1:36.08, 1:40.36, 2:02.66 |
-| [Daniel Wang](https://www.worldcubeassociation.org/persons/2022WANG06) | **1:46.69** | Australia | [Ljubljana Big & Blind 2026](https://www.worldcubeassociation.org/competitions/LjubljanaBigBlind2026) | 1:37.56, 1:42.56, 1:59.96 |
 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **1:49.12** | United States | [Florida Championship 2026](https://www.worldcubeassociation.org/competitions/FloridaChampionship2026) | 1:47.50, 1:32.88, 2:06.98 |
 
 ### 5x5x5 Blindfolded - Single

@@ -1,6 +1,6 @@
 ## Shortest time to achieve solves milestone
 
-*Updated on  1 November 2026*
+*Updated on  2 November 2026*
 
 
 ### 20000 Solves
@@ -10,6 +10,7 @@
 | 4425 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 4502 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 5748 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 6363 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 
 ### 15000 Solves
 

@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on  1 November 2026*
+*Updated on  2 November 2026*
 
 
 ### Rubik's Cube
@@ -62,7 +62,7 @@
 | 39.95 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 44.86, 41.86, 39.58, 41.01, 39.59, 44.11, 44.35, 37.62, 31.61, 38.39, DNF, 39.97, 35.31, 35.50, 37.65, 41.01, 43.99, 37.81, 42.57, 39.19, 36.79, 37.86, 41.70, 42.58, 35.85 |
 | 40.67 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 41.37, 39.30, 43.98, 42.98, 43.39, 35.54, 43.24, 40.64, 41.71, 38.87, 45.14, 41.44, 40.21, 40.75, 46.88, 37.25, 37.26, 43.26, 38.22, 39.64, 38.66, 38.20, 38.56, 48.92, 34.82 |
 | 41.06 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 43.73, 36.26, 41.23, 39.58, 42.99, 44.71, 39.78, 41.65, 40.89, 38.67, 42.69, 38.49, 41.89, 39.79, 40.93, 59.76, 41.10, 37.93, 42.36, 44.33, 41.85, 41.12, 41.70, 39.60, 37.23 |
-| 41.30 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 39.43, 36.00, 38.67, 42.62, 42.84, 43.75, 43.87, 38.89, 38.03, 46.70, 42.64, 41.23, 38.66, DNF, 43.01, 39.19, 40.70, 42.60, 43.14, 46.92, 39.24, 41.28, 38.70, 39.72, 40.38 |
+| 41.21 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 43.18, 44.48, 44.96, 40.11, 37.98, 40.52, 42.72, 44.23, 44.35, 40.05, 46.48, 40.31, 40.91, 38.26, 39.88, 38.17, 46.92, 41.74, 38.61, 42.76, 39.76, 42.10, 37.53, 38.53, 39.75 |
 
 ### 6x6x6 Cube
 
@@ -115,14 +115,14 @@
 | ---: | :--- | :--- |
 | 20.95 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 20, 24, 22, 20, 20, 23, 22, 23, 21, 20, 21, 21, 21, 23, 21, 21, 19, 21, 20, 19, 22, 21, 19, 19, 22 |
 | 21.05 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 20, 21, 22, 22, 22, 23, 18, 21, 23, 28, 21, 21, 20, 20, 20, 20, 23, 21, 19, 24, 22, 19, 20, 18, 22 |
-| 21.29 | [Joseph Guzman](https://www.worldcubeassociation.org/persons/2015GUZM03) | 22, 22, 22, 20, 23, 21, 24, 19, 22, 22, 21, 22, 19, 23, 19, 21, 22, 21, 21, 22, 21, 23, 21, 20, 19 |
+| 21.19 | [Joseph Guzman](https://www.worldcubeassociation.org/persons/2015GUZM03) | 19, 22, 22, 21, 22, 19, 23, 19, 21, 22, 21, 21, 22, 21, 23, 21, 20, 19, 22, 23, 25, 21, 21, 20, 21 |
 | 21.33 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 21, 28, 22, 24, 24, 21, 22, 21, 18, 22, 20, 24, 21, 19, 19, 21, 21, 23, 19, 23, 20, 19, 22, 22, 21 |
 | 21.33 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 21, 21, 23, 22, 22, 21, 21, 22, 19, 21, 22, 21, 23, 22, 20, 20, 21, 22, 21, 21, 21, 24, 21, 21, 21 |
 | 21.71 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 22, 19, 22, 22, 19, 20, 23, 20, 23, 23, 22, 22, 24, 23, 18, 23, 24, 26, 24, 20, 22, 21, 21, 20, 20 |
 | 21.76 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 22, 21, 25, 23, 19, 21, DNF, DNF, 26, 20, 22, 20, 21, 20, 24, 21, 23, 20, 24, 21, 19, 22, 21, 20, 20 |
+| 21.76 | [Elliot Wiecek](https://www.worldcubeassociation.org/persons/2016WIEC02) | 21, 19, 19, 23, 23, 22, 22, 21, 25, 22, 23, 22, 23, 21, 20, 21, 21, 23, 24, 23, 24, 21, 21, 19, 21 |
 | 21.90 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 21, 21, 19, 25, 23, 20, 23, 23, 20, 22, 21, 22, 23, 21, 22, 25, 20, 22, 23, 20, 23, 24, 24, 20, 22 |
 | 21.90 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 20, 24, 22, 23, 22, 24, 23, 22, 21, 24, 22, 21, 20, 22, 21, 22, 26, 22, 20, 22, 21, 19, 21, DNF, 21 |
-| 21.90 | [Elliot Wiecek](https://www.worldcubeassociation.org/persons/2016WIEC02) | 22, 20, 24, 25, 21, 21, DNF, 22, 21, 19, 19, 23, 23, 22, 22, 21, 25, 22, 23, 22, 23, 21, 20, 21, 21 |
 
 ### 3x3x3 One-Handed
 

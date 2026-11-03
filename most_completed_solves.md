@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  1 November 2026*
+*Updated on  2 November 2026*
 
 
 ### Competition
@@ -32,10 +32,10 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **24102** | 24541 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **23181** | 25134 |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **24198** | 24638 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **23213** | 25169 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **21909** | 22840 |
-| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **19986** | 20967 |
+| [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **20085** | 21066 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **19803** | 20360 |
 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **19748** | 20346 |
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **19360** | 20198 |
@@ -47,9 +47,9 @@
 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **17180** | 18087 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **16856** | 18129 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **16563** | 16995 |
-| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **16011** | 16412 |
+| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **16065** | 16467 |
+| [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | **15294** | 15504 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **15287** | 16003 |
-| [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | **15230** | 15439 |
 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | **15065** | 15555 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **15064** | 15507 |
 
@@ -57,15 +57,15 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United States | **6916166** | 7240328 |
-| China | **1650222** | 1728394 |
+| United States | **6930330** | 7255053 |
+| China | **1652807** | 1731037 |
 | Poland | **1531320** | 1613676 |
-| Australia | **1217344** | 1283787 |
+| Australia | **1217591** | 1284088 |
 | United Kingdom | **1187047** | 1246937 |
-| Spain | **1144572** | 1199577 |
+| Spain | **1147317** | 1202521 |
 | India | **1130520** | 1188766 |
-| Germany | **922814** | 965641 |
-| Canada | **842730** | 878825 |
+| Germany | **925033** | 968015 |
+| Canada | **844623** | 880755 |
 | France | **820546** | 868246 |
 | Brazil | **721950** | 755885 |
 | Colombia | **680763** | 713646 |
@@ -76,18 +76,18 @@
 | Netherlands | **490453** | 511906 |
 | Russia | **430990** | 455777 |
 | Chinese Taipei | **407910** | 420689 |
-| Switzerland | **353663** | 372500 |
+| Switzerland | **355795** | 374701 |
 
 ### Continent
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **11900021** | 12493371 |
-| North America | **8519629** | 8912301 |
-| Asia | **6062160** | 6346343 |
+| Europe | **11912167** | 12506336 |
+| North America | **8535686** | 8928956 |
+| Asia | **6064745** | 6348986 |
 | South America | **2553652** | 2671925 |
-| Oceania | **1536773** | 1618823 |
-| Africa | **239756** | 250423 |
+| Oceania | **1537020** | 1619124 |
+| Africa | **241788** | 252575 |
 | Multiple Continents | **7356** | 9503 |
 
 ### Year
@@ -97,7 +97,7 @@
 | 2024 | **4728904** | 4946141 |
 | 2025 | **4533052** | 4737160 |
 | 2023 | **3999170** | 4182829 |
-| 2026 | **3633781** | 3818821 |
+| 2026 | **3666848** | 3853537 |
 | 2019 | **2537001** | 2656542 |
 | 2018 | **2218482** | 2324544 |
 | 2022 | **2118011** | 2217441 |
@@ -119,26 +119,26 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **9268342** | 9461224 |
-| 2x2x2 Cube | **5223847** | 5356839 |
-| Pyraminx | **3402063** | 3489692 |
-| 4x4x4 Cube | **2668547** | 2765512 |
-| 3x3x3 One-Handed | **2420469** | 2497636 |
-| Skewb | **2245145** | 2299664 |
-| 5x5x5 Cube | **1416856** | 1459897 |
-| Clock | **1048184** | 1206190 |
-| Megaminx | **1015354** | 1056391 |
-| Square-1 | **883617** | 919494 |
-| 6x6x6 Cube | **356721** | 369110 |
-| 7x7x7 Cube | **291520** | 304320 |
-| 3x3x3 Blindfolded | **217009** | 588411 |
-| 3x3x3 Fewest Moves | **131035** | 176797 |
+| 3x3x3 Cube | **9277133** | 9470182 |
+| 2x2x2 Cube | **5228864** | 5361962 |
+| Pyraminx | **3404407** | 3492098 |
+| 4x4x4 Cube | **2671321** | 2768385 |
+| 3x3x3 One-Handed | **2423777** | 2501035 |
+| Skewb | **2247651** | 2302222 |
+| 5x5x5 Cube | **1419126** | 1462237 |
+| Clock | **1050082** | 1208384 |
+| Megaminx | **1016384** | 1057444 |
+| Square-1 | **885090** | 921011 |
+| 6x6x6 Cube | **357375** | 369788 |
+| 7x7x7 Cube | **292096** | 304928 |
+| 3x3x3 Blindfolded | **217278** | 589162 |
+| 3x3x3 Fewest Moves | **131160** | 176955 |
 | Magic | **78268** | 86498 |
 | 3x3x3 With Feet | **51884** | 56650 |
 | Master Magic | **39964** | 41445 |
-| 3x3x3 Multi-Blind | **31724** | 53113 |
-| 4x4x4 Blindfolded | **19905** | 73585 |
-| 5x5x5 Blindfolded | **8488** | 39630 |
+| 3x3x3 Multi-Blind | **31734** | 53130 |
+| 4x4x4 Blindfolded | **19920** | 73642 |
+| 5x5x5 Blindfolded | **8495** | 39656 |
 
 
 <a href="https://github.com/jonatanklosko/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

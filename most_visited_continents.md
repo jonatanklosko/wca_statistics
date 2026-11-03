@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  1 November 2026*
+*Updated on  2 November 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -70,6 +70,7 @@
 | 5 | [Ricardo Olea Catalán](https://www.worldcubeassociation.org/persons/2017CATA04) |
 | 5 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) |
 | 5 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
+| 5 | [Tom Noble](https://www.worldcubeassociation.org/persons/2019NOBL01) |
 | 5 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 5 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 5 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
@@ -224,7 +225,6 @@
 | 4 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 4 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) |
 | 4 | [Takumi Tamura (田村匠)](https://www.worldcubeassociation.org/persons/2019TAMU01) |
-| 4 | [Tom Noble](https://www.worldcubeassociation.org/persons/2019NOBL01) |
 | 4 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
 | 4 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) |
 | 4 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  2 November 2026*
+*Updated on  4 November 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -473,6 +473,7 @@
 | 10 | [Minx Open PM 2022](https://www.worldcubeassociation.org/competitions/MinxOpenPM2022) |
 | 10 | [MIT FMC 2014](https://www.worldcubeassociation.org/competitions/MITFMC2014) |
 | 10 | [Mombasa Twist & Turn 2026](https://www.worldcubeassociation.org/competitions/MombasaTwistTurn2026) |
+| 10 | [Nada Que Ver BGA III 2026](https://www.worldcubeassociation.org/competitions/NadaQueVerBGAIII2026) |
 | 10 | [Nānākuli Liʻi ʻOkakopa A 2026](https://www.worldcubeassociation.org/competitions/NanakuliLiiOkakopaA2026) |
 | 10 | [New England FMC Warmup 2023](https://www.worldcubeassociation.org/competitions/NewEnglandFMCWarmup2023) |
 | 10 | [North Idaho Big Cubes 2026](https://www.worldcubeassociation.org/competitions/NorthIdahoBigCubes2026) |

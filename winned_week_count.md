@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  2 November 2026*
+*Updated on  4 November 2026*
 
 
 ### Rubik's Cube
@@ -92,8 +92,8 @@
 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 27 |
 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 27 |
 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 21 |
-| [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 20 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 20 |
+| [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | 20 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 19 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 19 |
 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 16 |
@@ -101,8 +101,8 @@
 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 15 |
 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 13 |
 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) | 13 |
-| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 12 |
-| [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 10 |
+| [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 11 |
+| [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) | 10 |
 
 ### 6x6x6 Cube
 
@@ -188,21 +188,21 @@
 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 27 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 23 |
 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 20 |
-| [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 19 |
 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | 19 |
-| [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 17 |
+| [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 19 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 17 |
-| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 16 |
+| [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 17 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 16 |
+| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 16 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 15 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 15 |
 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) | 14 |
 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 13 |
 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | 13 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | 13 |
-| [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 13 |
-| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 13 |
 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 13 |
+| [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 13 |
+| [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 13 |
 
 ### 3x3x3 One-Handed
 

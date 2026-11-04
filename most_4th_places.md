@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  2 November 2026*
+*Updated on  4 November 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -24,8 +24,8 @@
 | 168 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 163 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) |
 | 159 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
+| 158 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 158 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 156 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 154 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 154 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 153 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
@@ -50,9 +50,9 @@
 | 127 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 127 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 125 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) |
+| 125 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 125 | [Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01) |
 | 124 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
-| 124 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
 | 123 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 123 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 121 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) |

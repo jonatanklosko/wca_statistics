@@ -1,7 +1,7 @@
 ## Most frequent delegate pairs
 
 *Note: Shows the most frequent cases of co-delegation between 2 Delegates*
-*Updated on  2 November 2026*
+*Updated on  4 November 2026*
 
 | Names | Competitions Co-Delegated |
 | :--- | ---: |
@@ -9,7 +9,7 @@
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 135 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) & [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 135 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) & [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 117 |
-| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) & [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 112 |
+| [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) & [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 113 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) & [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 106 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) & [Malte Oliver Bøgh Kjøller](https://www.worldcubeassociation.org/persons/2018KJOL01) | 106 |
 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) & [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 105 |
@@ -19,7 +19,7 @@
 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) & [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) | 86 |
 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) & [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 85 |
 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) & [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | 85 |
-| [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 79 |
+| [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 80 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) & [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 78 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) & [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 76 |
 | [Raymos Castillo](https://www.worldcubeassociation.org/persons/2017CAST41) & [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) | 75 |
@@ -31,10 +31,10 @@
 | [Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01) & [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 71 |
 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) & [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) | 70 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) & [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) | 70 |
+| [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 70 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | 70 |
 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) & [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | 70 |
 | [Alex Lehman](https://www.worldcubeassociation.org/persons/2015LEHM01) & [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | 69 |
-| [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 69 |
 | [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) & [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 68 |
 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) & [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 66 |
 | [Cady Shields](https://www.worldcubeassociation.org/persons/2014SHIE03) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 66 |
@@ -79,6 +79,7 @@
 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) & [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) | 50 |
 | [Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01) & [Ruby van Vliet](https://www.worldcubeassociation.org/persons/2018VLIE03) | 50 |
 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 50 |
+| [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 50 |
 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) & [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) | 50 |
 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) & [Nicholas McKee](https://www.worldcubeassociation.org/persons/2015MCKE02) | 49 |
 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) & [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 49 |
@@ -86,7 +87,6 @@
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) & [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | 49 |
 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) & [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | 49 |
 | [Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01) & [Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01) | 49 |
-| [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) & [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 49 |
 | [Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03) & [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) | 49 |
 | [Alex Cohen](https://www.worldcubeassociation.org/persons/2015COHE02) & [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | 48 |
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) & [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) | 48 |
@@ -179,6 +179,7 @@
 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) & [Roxana Johnson](https://www.worldcubeassociation.org/persons/2019JOHN03) | 39 |
 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) & [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 39 |
 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) & [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | 39 |
+| [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) & [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 39 |
 | [Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04) & [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) | 39 |
 | [Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01) & [Tarandeep Mittal](https://www.worldcubeassociation.org/persons/2014MITT02) | 39 |
 | [Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17) & [Nicholas McKee](https://www.worldcubeassociation.org/persons/2015MCKE02) | 39 |
@@ -190,7 +191,6 @@
 | [Carmen Teo (张斌婕)](https://www.worldcubeassociation.org/persons/2012JIET01) & [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) | 38 |
 | [Gianluca Placenti](https://www.worldcubeassociation.org/persons/2012PLAC01) & [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 38 |
 | [Han Wu (吳翰)](https://www.worldcubeassociation.org/persons/2008WUHA01) & [Yuichi Hamada (濵田祐一)](https://www.worldcubeassociation.org/persons/2012HAMA02) | 38 |
-| [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) & [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 38 |
 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) & [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | 38 |
 | [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) & [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 38 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) & [James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02) | 37 |

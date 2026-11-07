@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 
 ### Rubik's Cube
@@ -9,7 +9,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 3.48 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 4.61, 3.39, 3.41, 3.45, 3.59 |
-| 3.66 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 3.37, 5.30, 3.80, 3.80, 3.25 |
+| 3.63 | [Xuanyi Geng (耿暄一)](https://www.worldcubeassociation.org/persons/2023GENG02) | 3.28, 3.77, 3.74, 4.04, 3.39 |
 | 4.04 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 4.04, 4.38, 5.64, 3.41, 3.70 |
 | 4.07 | [Yize Dong (董一泽)](https://www.worldcubeassociation.org/persons/2023DONG20) | 4.06, 5.05, 3.15, 4.23, 3.92 |
 | 4.20 | [Yufang Du (杜昱方)](https://www.worldcubeassociation.org/persons/2023DUYU01) | 3.65, 4.37, 4.46, 6.15, 3.77 |
@@ -105,9 +105,9 @@
 | 15.64 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | DNF, 15.23, 15.83, 14.87, 15.87 |
 | 15.90 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 15.83, 16.95, 15.72, 15.39, 16.15 |
 | 15.98 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 14.52, 15.23, 17.90, 18.57, 14.82 |
+| 16.00 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | DNF, 16.45, 14.96, 15.96, 15.58 |
 | 16.03 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) | 15.51, 15.47, 15.12, DNF, 17.12 |
 | 16.25 | [Keita Hayakawa (早川慶太)](https://www.worldcubeassociation.org/persons/2022HAYA03) | 16.31, 15.75, 16.69, DNF, 15.51 |
-| 16.44 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | 15.67, 17.28, 17.51, 15.68, 16.36 |
 
 ### 3x3x3 Fewest Moves
 

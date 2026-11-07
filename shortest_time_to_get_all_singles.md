@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -701,6 +701,7 @@
 | 3108 | [Tomas Kristiansson](https://www.worldcubeassociation.org/persons/2007KRIS01) |
 | 3109 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 3115 | [Michael Ngan (顏律言)](https://www.worldcubeassociation.org/persons/2016NGAN02) |
+| 3115 | [Carlos Augusto Gianesi Seller](https://www.worldcubeassociation.org/persons/2018SELL01) |
 | 3116 | [Ahsanul Insan Hamid](https://www.worldcubeassociation.org/persons/2011HAMI01) |
 | 3129 | [Levin Houghton](https://www.worldcubeassociation.org/persons/2016HOUG01) |
 | 3129 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |

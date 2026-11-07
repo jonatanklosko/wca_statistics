@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 
 ### World
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.45 | World | 19001 |
+| 1.45 | World | 19026 |
 
 ### Continents
 
 | Days | Region | Competitions |
 | ---: | :--- | ---: |
-| 1.71 | Europe | 6170 |
-| 1.48 | Oceania | 822 |
-| 1.45 | South America | 2426 |
-| 1.40 | Asia | 3831 |
+| 1.71 | Europe | 6177 |
+| 1.48 | Oceania | 824 |
+| 1.45 | South America | 2430 |
+| 1.40 | Asia | 3836 |
 | 1.31 | Africa | 262 |
-| 1.21 | North America | 5490 |
+| 1.21 | North America | 5497 |
 
 ### Countries
 
@@ -31,23 +31,23 @@
 | 1.93 | Belarus | 42 |
 | 1.92 | Kyrgyzstan | 13 |
 | 1.92 | Russia | 220 |
-| 1.91 | France | 414 |
+| 1.91 | France | 415 |
 | 1.91 | Turkey | 141 |
 | 1.89 | Palestine | 9 |
 | 1.88 | Kazakhstan | 82 |
-| 1.84 | Finland | 206 |
 | 1.84 | Serbia | 32 |
-| 1.84 | Thailand | 113 |
-| 1.84 | Spain | 548 |
+| 1.84 | Finland | 207 |
+| 1.84 | Spain | 549 |
+| 1.83 | Thailand | 114 |
 | 1.82 | Norway | 188 |
 | 1.82 | Slovenia | 49 |
 | 1.81 | Austria | 43 |
 | 1.80 | Bosnia and Herzegovina | 15 |
 | 1.80 | Luxembourg | 5 |
 | 1.79 | Lithuania | 39 |
-| 1.79 | United Kingdom | 393 |
-| 1.79 | Mexico | 290 |
-| 1.78 | Switzerland | 203 |
+| 1.79 | United Kingdom | 394 |
+| 1.78 | Mexico | 291 |
+| 1.78 | Switzerland | 204 |
 | 1.78 | Croatia | 45 |
 | 1.78 | Slovakia | 67 |
 | 1.75 | Guatemala | 73 |
@@ -59,9 +59,9 @@
 | 1.67 | Madagascar | 6 |
 | 1.66 | Argentina | 145 |
 | 1.65 | Italy | 304 |
-| 1.63 | Brazil | 760 |
+| 1.63 | Brazil | 762 |
 | 1.63 | Belgium | 117 |
-| 1.63 | Hungary | 86 |
+| 1.62 | Hungary | 88 |
 | 1.61 | Dominican Republic | 31 |
 | 1.61 | Indonesia | 265 |
 | 1.60 | Iran | 43 |
@@ -75,7 +75,7 @@
 | 1.56 | Andorra | 9 |
 | 1.54 | Denmark | 261 |
 | 1.53 | Greece | 58 |
-| 1.53 | India | 809 |
+| 1.53 | India | 810 |
 | 1.52 | Bolivia | 193 |
 | 1.52 | Malaysia | 142 |
 | 1.52 | South Africa | 124 |
@@ -83,7 +83,7 @@
 | 1.50 | Montenegro | 8 |
 | 1.49 | Sweden | 439 |
 | 1.48 | Peru | 271 |
-| 1.45 | Australia | 629 |
+| 1.45 | Australia | 631 |
 | 1.42 | Vietnam | 83 |
 | 1.42 | Costa Rica | 36 |
 | 1.41 | Israel | 87 |
@@ -92,10 +92,10 @@
 | 1.38 | Nigeria | 8 |
 | 1.36 | Romania | 159 |
 | 1.36 | Bahrain | 11 |
-| 1.36 | Ecuador | 77 |
 | 1.36 | Paraguay | 44 |
+| 1.36 | Ecuador | 78 |
 | 1.36 | Kuwait | 14 |
-| 1.34 | Republic of Korea | 138 |
+| 1.35 | Republic of Korea | 139 |
 | 1.33 | Belize | 3 |
 | 1.33 | Ghana | 3 |
 | 1.33 | Tajikistan | 3 |
@@ -104,22 +104,22 @@
 | 1.28 | Uruguay | 65 |
 | 1.28 | Portugal | 80 |
 | 1.27 | Hong Kong, China | 33 |
-| 1.27 | Philippines | 445 |
+| 1.26 | Philippines | 446 |
 | 1.26 | Colombia | 582 |
 | 1.25 | Pakistan | 4 |
 | 1.25 | Chile | 179 |
-| 1.25 | Venezuela | 110 |
+| 1.24 | Venezuela | 111 |
 | 1.23 | El Salvador | 43 |
 | 1.23 | Egypt | 13 |
-| 1.23 | China | 799 |
+| 1.23 | China | 800 |
 | 1.23 | Panama | 35 |
 | 1.22 | United Arab Emirates | 23 |
 | 1.21 | Singapore | 127 |
 | 1.19 | Morocco | 16 |
 | 1.17 | Japan | 288 |
 | 1.17 | Tunisia | 24 |
-| 1.16 | United States | 4402 |
-| 1.16 | Canada | 545 |
+| 1.16 | United States | 4407 |
+| 1.16 | Canada | 546 |
 | 1.15 | Armenia | 13 |
 | 1.15 | Azerbaijan | 59 |
 | 1.14 | Cyprus | 21 |

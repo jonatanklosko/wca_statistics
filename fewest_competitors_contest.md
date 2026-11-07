@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -333,6 +333,7 @@
 | 9 | [Honolulu Hippocampus 2024](https://www.worldcubeassociation.org/competitions/HonoluluHippocampus2024) |
 | 9 | [Hvidovre i Mange Træk 2024](https://www.worldcubeassociation.org/competitions/HvidovreiMangeTraek2024) |
 | 9 | [Hvidovre med Dessert 2025](https://www.worldcubeassociation.org/competitions/HvidovremedDessert2025) |
+| 9 | [InTents Cubing Anza-Borrego 2026](https://www.worldcubeassociation.org/competitions/InTentsCubingAnzaBorrego2026) |
 | 9 | [Jönköpingsligan 1: Waterloo 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan1Waterloo2023) |
 | 9 | [Jönköpingsligan 5: Calzone 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan5Calzone2023) |
 | 9 | [Jönköpingsligan 5: Euphoria 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan5Euphoria2023) |

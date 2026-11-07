@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -42,8 +42,8 @@
 | [VERK XVI 2026](https://www.worldcubeassociation.org/competitions/VERKXVI2026) | 9.80 | 15 | Finland |
 | [Cyprus Nationals 2025](https://www.worldcubeassociation.org/competitions/CyprusNationals2025) | 9.79 | 42 | Cyprus |
 | [Indonesian Championship 2023](https://www.worldcubeassociation.org/competitions/MYHMIndonesianChampionship2023) | 9.77 | 35 | Indonesia |
-| [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | 9.77 | 39 | Poland |
 | [Dvärsätt Open 2026](https://www.worldcubeassociation.org/competitions/DvarsattOpen2026) | 9.77 | 26 | Sweden |
+| [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | 9.77 | 39 | Poland |
 | [Bogotá No Duerme 2024](https://www.worldcubeassociation.org/competitions/BogotaNoDuerme2024) | 9.75 | 28 | Colombia |
 | [Val d'Aran Open 2024](https://www.worldcubeassociation.org/competitions/ValdAranOpen2024) | 9.75 | 28 | Spain |
 | [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021) | 9.72 | 25 | Sweden |
@@ -66,8 +66,8 @@
 | [Autotalo Anime Adventure VI 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureVI2024) | 9.46 | 24 | Finland |
 | [Kublördag Uppsala V - 2026](https://www.worldcubeassociation.org/competitions/KublordagUppsalaV2026) | 9.41 | 32 | Sweden |
 | [Twixmas Flen 2024](https://www.worldcubeassociation.org/competitions/TwixmasFlen2024) | 9.39 | 57 | Sweden |
-| [GA Cubers Mashed Potatoes 2022](https://www.worldcubeassociation.org/competitions/GACubersMashedPotatoes2022) | 9.36 | 25 | United States |
 | [Lyon Winter Open 2012](https://www.worldcubeassociation.org/competitions/LyonWinterOpen2012) | 9.36 | 25 | France |
+| [GA Cubers Mashed Potatoes 2022](https://www.worldcubeassociation.org/competitions/GACubersMashedPotatoes2022) | 9.36 | 25 | United States |
 | [Romanian Nationals 2026](https://www.worldcubeassociation.org/competitions/RomanianNationals2026) | 9.36 | 56 | Romania |
 | [Solving in Sayre 2025](https://www.worldcubeassociation.org/competitions/SolvinginSayre2025) | 9.33 | 3 | United States |
 | [Kārķi Open 2024](https://www.worldcubeassociation.org/competitions/KarkiOpen2024) | 9.31 | 32 | Latvia |
@@ -84,8 +84,8 @@
 | [Denmark & Friends 2019](https://www.worldcubeassociation.org/competitions/DenmarkFriends2019) | 9.13 | 126 | Denmark |
 | [Empire State Winter Whirl 2023](https://www.worldcubeassociation.org/competitions/EmpireStateWinterWhirl2023) | 9.13 | 30 | United States |
 | [Vitba Winter 2015](https://www.worldcubeassociation.org/competitions/VitbaWinter2015) | 9.13 | 23 | Belarus |
-| [Kansas Championship 2026](https://www.worldcubeassociation.org/competitions/KansasChampionship2026) | 9.12 | 40 | United States |
 | [24 Horas El Tambo 2024](https://www.worldcubeassociation.org/competitions/24HorasElTambo2024) | 9.12 | 8 | Ecuador |
+| [Kansas Championship 2026](https://www.worldcubeassociation.org/competitions/KansasChampionship2026) | 9.12 | 40 | United States |
 | [Rocky Mountain Championship 2025](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2025) | 9.11 | 97 | United States |
 | [Copper Country Cubing Fall 2019](https://www.worldcubeassociation.org/competitions/CopperCountryCubingFall2019) | 9.10 | 48 | United States |
 | [Romanian 24h Championship 2024](https://www.worldcubeassociation.org/competitions/Romanian24hChampionship2024) | 9.10 | 50 | Romania |
@@ -96,10 +96,10 @@
 | [Poções 2019](https://www.worldcubeassociation.org/competitions/Pocoes2019) | 9.06 | 18 | Brazil |
 | [Capelle Chaos B 2026](https://www.worldcubeassociation.org/competitions/CapelleChaosB2026) | 9.05 | 41 | Netherlands |
 | [Southern Indiana Qualifier 2025](https://www.worldcubeassociation.org/competitions/SouthernIndianaQualifier2025) | 9.04 | 53 | United States |
-| [Bulacan Open 2010](https://www.worldcubeassociation.org/competitions/BulacanOpen2010) | 9.00 | 16 | Philippines |
 | [Sint Michielsgestel 2019](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2019) | 9.00 | 45 | Netherlands |
-| [NZ South Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2025) | 9.00 | 34 | New Zealand |
 | [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026) | 9.00 | 228 | United States |
+| [Bulacan Open 2010](https://www.worldcubeassociation.org/competitions/BulacanOpen2010) | 9.00 | 16 | Philippines |
+| [NZ South Island Champs 2025](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2025) | 9.00 | 34 | New Zealand |
 | [Danish Open 2014](https://www.worldcubeassociation.org/competitions/DanishOpen2014) | 8.97 | 36 | Denmark |
 | [Heartland Championship 2019](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2019) | 8.96 | 93 | United States |
 | [Maribor Open 2014](https://www.worldcubeassociation.org/competitions/MariborOpen2014) | 8.95 | 20 | Slovenia |

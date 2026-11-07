@@ -1,11 +1,11 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
-| 4176 | 184 | 306 | 3686 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
+| 4180 | 184 | 306 | 3690 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 2024 | 43 | 128 | 1853 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 1638 | 16 | 43 | 1579 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 1219 | 8 | 41 | 1170 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
@@ -19,7 +19,7 @@
 | 887 | 9 | 34 | 844 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 879 | 7 | 33 | 839 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
 | 832 | 5 | 22 | 805 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
-| 826 | 8 | 46 | 772 | [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) |
+| 828 | 8 | 46 | 774 | [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) |
 | 749 | 4 | 47 | 698 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 742 | 5 | 16 | 721 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) |
 | 722 | 4 | 31 | 687 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
@@ -29,7 +29,7 @@
 | 681 | 8 | 54 | 619 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 675 | 14 | 17 | 644 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 669 | 13 | 32 | 624 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
-| 663 | 45 | 106 | 512 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
+| 664 | 45 | 107 | 512 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 663 | 1 | 3 | 659 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) |
 | 659 | 8 | 70 | 581 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 647 | 6 | 24 | 617 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |

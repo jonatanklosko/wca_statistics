@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 
 ### Rubik's Cube
@@ -72,7 +72,7 @@
 | 1:06.89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 1:06.08, 1:02.14, 1:16.67, 1:04.60, 1:04.80, 1:05.73, 1:11.61, 1:06.99, 1:08.88, 1:08.92, 1:07.67, 1:03.59 |
 | 1:07.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:02.69, 1:09.37, 1:08.52, 1:10.08, 1:08.86, 1:04.71, 1:11.65, 1:06.90, 1:08.43, 1:13.81, 1:03.93, 1:05.72 |
 | 1:08.45 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:08.42, 1:11.27, 1:02.79, 1:05.32, 1:10.25, 1:09.18, 1:06.71, 1:10.89, 1:11.56, 1:14.26, 1:08.08, 1:00.08 |
-| 1:08.82 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:05.42, 1:13.85, 1:11.50, 1:04.68, 1:12.14, 1:11.65, 1:05.42, 1:10.64, 1:04.58, 1:09.61, 1:01.23, 1:12.53 |
+| 1:08.72 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 1:11.50, 1:04.68, 1:12.14, 1:11.65, 1:05.42, 1:10.64, 1:04.58, 1:09.61, 1:01.23, 1:12.53, 1:12.18, 1:04.81 |
 | 1:09.07 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | 1:08.11, 1:03.68, 1:03.04, 1:19.24, 1:07.96, 1:12.98, 1:10.32, 1:10.31, 1:11.84, 1:13.62, 1:06.74, 1:05.15 |
 | 1:09.34 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 1:06.81, 1:07.04, 1:08.74, 1:05.02, 1:15.16, 1:19.19, 1:12.92, 1:13.23, 1:06.28, 1:12.27, 1:01.79, 1:05.90 |
 | 1:09.60 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:08.68, 1:07.83, 1:07.88, 1:07.60, 1:13.42, 1:07.10, 1:09.36, 1:12.11, 1:05.66, 1:20.22, 1:08.77, 1:13.25 |

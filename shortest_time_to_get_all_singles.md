@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -36,6 +36,7 @@
 | 357 | [Yu Zhou (周煜)](https://www.worldcubeassociation.org/persons/2017YUZH03) |
 | 357 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 363 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
+| 364 | [Ella Jelenská](https://www.worldcubeassociation.org/persons/2025JELE02) |
 | 384 | [Valerii Klymenko](https://www.worldcubeassociation.org/persons/2023KLYM02) |
 | 398 | [Mara Oprea](https://www.worldcubeassociation.org/persons/2017OPRE02) |
 | 405 | [Benton Tolley](https://www.worldcubeassociation.org/persons/2023TOLL02) |
@@ -230,6 +231,7 @@
 | 966 | [Luis Armando Guerra Garcia](https://www.worldcubeassociation.org/persons/2023GARC48) |
 | 967 | [Karthikeyan Eswaran](https://www.worldcubeassociation.org/persons/2014ESWA01) |
 | 980 | [Matt Mao](https://www.worldcubeassociation.org/persons/2023MAOS01) |
+| 986 | [Ruben Norén Gustafsson](https://www.worldcubeassociation.org/persons/2024GUST01) |
 | 987 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 987 | [Eng Dickson (黄迪胜)](https://www.worldcubeassociation.org/persons/2016DICK03) |
 | 987 | [Beatriz Hernandes Bernardes](https://www.worldcubeassociation.org/persons/2022BERN01) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -120,6 +120,7 @@
 | 6 | [Panama Nationals FMC-BLD 2026](https://www.worldcubeassociation.org/competitions/PanamaNationalsFMCBLD2026) |
 | 6 | [PBQ Toledo Fall 2025](https://www.worldcubeassociation.org/competitions/PBQToledoFall2025) |
 | 6 | [Please Be Clocked Cape Town 2024](https://www.worldcubeassociation.org/competitions/PleaseBeClockedCapeTown2024) |
+| 6 | [Sides Bahia X 2026](https://www.worldcubeassociation.org/competitions/SidesBahiaX2026) |
 | 6 | [Silentia 2 - BLD 2023](https://www.worldcubeassociation.org/competitions/Silentia2BLD2023) |
 | 6 | [Spokane Winter Big Cubes 2024](https://www.worldcubeassociation.org/competitions/SpokaneWinterBigCubes2024) |
 | 6 | [Stockholm Mental Meltdown 2023](https://www.worldcubeassociation.org/competitions/StockholmMentalMeltdown2023) |
@@ -374,6 +375,7 @@
 | 9 | [Supermiya PBQ in Tashkent 2024](https://www.worldcubeassociation.org/competitions/SupermiyaPBQinTashkent2024) |
 | 9 | [Taraz Open 2025](https://www.worldcubeassociation.org/competitions/TarazOpen2025) |
 | 9 | [TKTK Side Events II 2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsII2024) |
+| 9 | [Toledo Big & Blind Fall 2026](https://www.worldcubeassociation.org/competitions/ToledoBigBlindFall2026) |
 | 9 | [Try Not To DNF Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryNotToDNFRzeszow2023) |
 | 9 | [TX MBLD Champs - DFW 2026](https://www.worldcubeassociation.org/competitions/TXMBLDChampsDFW2026) |
 | 9 | [U-Cube Gronau Silent 2025](https://www.worldcubeassociation.org/competitions/UCubeGronauSilent2025) |
@@ -408,6 +410,7 @@
 | 10 | [Big in Bahia 2024](https://www.worldcubeassociation.org/competitions/BiginBahia2024) |
 | 10 | [Black Unicorn Budapest 2023](https://www.worldcubeassociation.org/competitions/BlackUnicornBudapest2023) |
 | 10 | [Blind in Aveiro 2025](https://www.worldcubeassociation.org/competitions/BlindinAveiro2025) |
+| 10 | [Blind Ukrainian Nationals 2026](https://www.worldcubeassociation.org/competitions/BlindUkrainianNationals2026) |
 | 10 | [Boards & Cubes Venteira III 2025](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraIII2025) |
 | 10 | [Bucharest Blind 2023](https://www.worldcubeassociation.org/competitions/BucharestBlind2023) |
 | 10 | [Campeonato Mineiro FMC 2026](https://www.worldcubeassociation.org/competitions/CampeonatoMineiroFMC2026) |
@@ -631,6 +634,7 @@
 | 11 | [UnOrono-thodox Blocks 2025](https://www.worldcubeassociation.org/competitions/UnOronothodoxBlocks2025) |
 | 11 | [Uppsalaligan 4: Galaxy - 2026](https://www.worldcubeassociation.org/competitions/Uppsalaligan4Galaxy2026) |
 | 11 | [VERK XV 2026](https://www.worldcubeassociation.org/competitions/VERKXV2026) |
+| 11 | [VERK XXI 2026](https://www.worldcubeassociation.org/competitions/VERKXXI2026) |
 | 11 | [Westerns PBQ Los Angeles 2026](https://www.worldcubeassociation.org/competitions/WesternsPBQLosAngeles2026) |
 | 11 | [Westerville Weeknight 2026](https://www.worldcubeassociation.org/competitions/WestervilleWeeknight2026) |
 | 11 | [Zigzag Zambia Cubing 2026](https://www.worldcubeassociation.org/competitions/ZigzagZambiaCubing2026) |
@@ -647,6 +651,7 @@
 | 12 | [Bheja Fry Dec Bangalore 2024](https://www.worldcubeassociation.org/competitions/BhejaFryDecBangalore2024) |
 | 12 | [Big and Blind Rīga 2024](https://www.worldcubeassociation.org/competitions/BigandBlindRiga2024) |
 | 12 | [Big N Blind Bengaluru Oct 2025](https://www.worldcubeassociation.org/competitions/BigNBlindBengaluruOct2025) |
+| 12 | [Big n Blind Finprov 2026](https://www.worldcubeassociation.org/competitions/BignBlindFinprov2026) |
 | 12 | [Blind in Aveiro 2024](https://www.worldcubeassociation.org/competitions/BlindinAveiro2024) |
 | 12 | [Boards & Cubes Mini B 2026](https://www.worldcubeassociation.org/competitions/BoardsCubesVenteiraMiniB2026) |
 | 12 | [Bojacá Cundinamarca II 2026](https://www.worldcubeassociation.org/competitions/BojacaCundinamarcaII2026) |

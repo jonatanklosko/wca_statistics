@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 
 ### Rubik's Cube

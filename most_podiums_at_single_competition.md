@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -1447,6 +1447,7 @@
 | 10 | [Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15) | [TCG Spring 2019](https://www.worldcubeassociation.org/competitions/TCGSpring2019/results/podiums) |
 | 10 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Temple Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/TempleCubingWinter2026/results/podiums) |
 | 11 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | [Teresina Open 2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019/results/podiums) |
+| 10 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) | [Teslavi Open Sucre 2026](https://www.worldcubeassociation.org/competitions/TeslaviOpenSucre2026/results/podiums) |
 | 11 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2023](https://www.worldcubeassociation.org/competitions/TexasChampionship2023/results/podiums) |
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2024](https://www.worldcubeassociation.org/competitions/TexasChampionship2024/results/podiums) |
 | 12 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Texas Championship 2025](https://www.worldcubeassociation.org/competitions/TexasChampionship2025/results/podiums) |
@@ -1582,6 +1583,7 @@
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XV 2026](https://www.worldcubeassociation.org/competitions/VERKXV2026/results/podiums) |
 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XVII 2026](https://www.worldcubeassociation.org/competitions/VERKXVII2026/results/podiums) |
 | 12 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XVIII 2026](https://www.worldcubeassociation.org/competitions/VERKXVIII2026/results/podiums) |
+| 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [VERK XXI 2026](https://www.worldcubeassociation.org/competitions/VERKXXI2026/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/podiums) |
 | 10 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025/results/podiums) |
 | 11 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums) |

@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 
 ### Rubik's Cube
@@ -38,8 +38,8 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 19.15 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 20.91, 21.92, 19.53, 18.39, 17.25, 19.87, 20.42, 17.50, 19.44, 18.79, 19.39, 17.20 |
 | 19.21 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 19.95, 19.87, 20.26, 19.41, 17.70, 17.78, 17.30, 22.68, 19.84, 20.72, 18.85, 17.76 |
-| 19.54 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 17.21, 24.58, 19.53, 21.19, 20.81, 20.30, 17.85, 18.32, 18.18, 19.46, 20.59, 19.15 |
 | 19.55 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 18.55, 20.81, 18.04, 20.45, 17.73, 24.52, 21.18, 18.45, 19.65, 19.52, 21.11, 16.70 |
 | 20.15 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 20.89, 17.17, 20.99, 19.00, 23.64, 19.04, 23.57, 19.54, 20.63, 20.35, 18.01, 19.49 |
 | 20.47 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 20.68, 20.90, 17.46, 20.03, 19.21, 20.83, 20.51, 21.39, 20.30, 24.02, 19.75, 21.07 |

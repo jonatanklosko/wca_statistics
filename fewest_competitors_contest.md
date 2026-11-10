@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -657,6 +657,7 @@
 | 12 | [Bojacá Cundinamarca II 2026](https://www.worldcubeassociation.org/competitions/BojacaCundinamarcaII2026) |
 | 12 | [Buckeye Blind Off 2022](https://www.worldcubeassociation.org/competitions/BuckeyeBlindOff2022) |
 | 12 | [Cagayan Valley Open 2016](https://www.worldcubeassociation.org/competitions/CagayanValleyOpen2016) |
+| 12 | [Campulung Moldovenesc Open 2026](https://www.worldcubeassociation.org/competitions/CampulungMoldovenescOpen2026) |
 | 12 | [Campus Classic Cape Town 2019](https://www.worldcubeassociation.org/competitions/CampusClassicCapeTown2019) |
 | 12 | [Chalmers Open 2006](https://www.worldcubeassociation.org/competitions/ChalmersOpen2006) |
 | 12 | [Chia-yi Pyraminx Competition 2009](https://www.worldcubeassociation.org/competitions/ChiayiPyraminx2009) |

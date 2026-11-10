@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -729,6 +729,7 @@
 | 3296 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) |
 | 3304 | [Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01) |
 | 3310 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
+| 3311 | [Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13) |
 | 3325 | [Ananthan Rajiv](https://www.worldcubeassociation.org/persons/2017RAJI01) |
 | 3332 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 3347 | [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) |

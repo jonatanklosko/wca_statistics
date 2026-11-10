@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -140,6 +140,7 @@
 | 3262 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) |
 | 3282 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
 | 3282 | [Michael Ngan (顏律言)](https://www.worldcubeassociation.org/persons/2016NGAN02) |
+| 3311 | [Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13) |
 | 3402 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) |
 | 3471 | [James Moore](https://www.worldcubeassociation.org/persons/2016MOOR07) |
 | 3542 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |

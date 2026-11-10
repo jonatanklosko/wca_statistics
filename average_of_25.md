@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 
 ### Rubik's Cube
@@ -182,7 +182,7 @@
 | 2.95 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 2.26, 2.49, 2.02, 3.27, 1.93, 2.27, 2.43, 2.15, 4.15, DNF, 2.62, 1.70, 3.58, 2.70, DNF, 4.67, 2.27, 2.38, 2.34, 6.72, 2.55, 5.03, 2.07, 1.97, 1.60 |
 | 2.95 | [Aaron Jake Wong](https://www.worldcubeassociation.org/persons/2021WONG02) | 2.96, 3.47, 3.13, 2.29, 2.79, 2.47, 2.96, 2.48, 2.57, 5.63, 3.08, 3.18, 2.35, 3.91, 2.48, 2.50, 3.19, 3.15, 3.14, 2.67, 2.81, 4.19, DNF, 2.43, 2.35 |
 | 2.98 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 2.00, 3.07, 3.07, DNF, 3.56, 2.44, 3.04, 2.99, 3.17, 2.72, 3.05, 2.68, 4.15, 2.36, DNF, 2.65, 2.34, 2.67, 3.35, 3.25, 3.34, 2.41, 2.63, 3.45, 2.58 |
-| 3.05 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | 2.35, 2.70, 2.88, 2.61, 2.36, 2.93, 4.05, 2.78, 4.27, 3.85, DNF, 2.82, 3.36, 2.54, 2.58, 4.74, 2.34, 4.23, 2.49, 2.78, 2.97, 3.11, 3.13, 2.58, 3.05 |
+| 3.03 | [Ivan ThanhDanh Duong](https://www.worldcubeassociation.org/persons/2022DUON09) | 2.72, 2.18, 2.47, 3.05, 2.51, 2.12, 3.03, 2.44, 2.89, 4.49, 3.30, 2.39, 2.84, 3.40, 6.27, 2.48, 3.65, 2.92, DNF, 3.75, 2.22, 2.73, 1.97, 3.97, 4.24 |
 
 ### Skewb
 

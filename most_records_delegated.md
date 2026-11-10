@@ -1,12 +1,12 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
 | 4187 | 184 | 306 | 3697 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
-| 2024 | 43 | 128 | 1853 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 2027 | 43 | 128 | 1856 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 1638 | 16 | 43 | 1579 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 1219 | 8 | 41 | 1170 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 1202 | 25 | 101 | 1076 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
@@ -43,7 +43,7 @@
 | 577 | 16 | 86 | 475 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) |
 | 571 | 9 | 159 | 403 | [Dave Campbell](https://www.worldcubeassociation.org/persons/2005CAMP01) |
 | 566 | 2 | 44 | 520 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
-| 558 | 3 | 26 | 529 | [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) |
+| 559 | 3 | 26 | 530 | [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) |
 | 546 | 3 | 17 | 526 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 545 | 5 | 11 | 529 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 543 | 8 | 39 | 496 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) |

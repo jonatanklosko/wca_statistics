@@ -1,14 +1,14 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **578** | 366 | 247 | 1191 |
 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **423** | 92 | 41 | 556 |
 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **334** | 204 | 125 | 663 |
-| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **287** | 238 | 136 | 661 |
+| [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **292** | 239 | 138 | 669 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **280** | 153 | 114 | 547 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **273** | 35 | 14 | 322 |
 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **244** | 73 | 37 | 354 |
@@ -70,7 +70,7 @@
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | **59** | 38 | 41 | 138 |
 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | **57** | 40 | 25 | 122 |
-| [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **56** | 68 | 71 | 195 |
+| [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **56** | 69 | 71 | 196 |
 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | **55** | 52 | 43 | 150 |
 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
@@ -85,7 +85,7 @@
 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | **52** | 25 | 13 | 90 |
 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | **51** | 53 | 36 | 140 |
 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **51** | 19 | 16 | 86 |
-| [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | **50** | 60 | 56 | 166 |
+| [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | **50** | 60 | 58 | 168 |
 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) | **50** | 36 | 49 | 135 |
 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **50** | 24 | 10 | 84 |
 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **50** | 16 | 9 | 75 |

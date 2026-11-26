@@ -14,7 +14,7 @@ class MostCompetitionsBeforeWinning < GroupedStatistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         event_id,
-        pos place,
+        global_pos place,
         round_type.final is_final,
         best
       FROM results

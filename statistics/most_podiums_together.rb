@@ -18,7 +18,7 @@ class MostPodiumsTogether < GroupedStatistic
       JOIN round_types round_type ON round_type.id = round_type_id
       WHERE 1
         AND round_type.final = 1
-        AND pos <= 3
+        AND global_pos <= 3
         AND best > 0
       GROUP BY event_id, competition_id
     SQL

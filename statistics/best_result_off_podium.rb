@@ -23,8 +23,7 @@ class BestResultOffPodium < GroupedStatistic
       FROM results
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       JOIN competitions competition ON competition.id = competition_id
-      JOIN preferred_formats preferred_format ON preferred_format.event_id = results.event_id AND ranking = 1
-      JOIN formats format ON format.id = preferred_format.format_id
+      JOIN formats format ON format.id = results.format_id
       WHERE round_type_id IN ('c', 'f') AND pos > 3
     SQL
   end

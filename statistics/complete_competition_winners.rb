@@ -20,7 +20,7 @@ class CompleteCompetitionWinners < Statistic
           GROUP_CONCAT(DISTINCT person_id) person_id,
           COUNT(DISTINCT event_id) events_count
         FROM results
-        WHERE round_type_id IN ('c', 'f') AND pos = 1 AND best > 0
+        WHERE round_type_id IN ('c', 'f') AND global_pos = 1 AND best > 0
         GROUP BY competition_id
         HAVING COUNT(DISTINCT person_id) = 1
       ) AS competitions_with_complete_winners

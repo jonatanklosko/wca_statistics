@@ -19,13 +19,13 @@ class BestResultOffPodium < GroupedStatistic
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/all#e', results.event_id, '_', round_type_id, ')') podium_link,
-        pos place
+        global_pos place
       FROM results
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       JOIN competitions competition ON competition.id = competition_id
       JOIN preferred_formats preferred_format ON preferred_format.event_id = results.event_id AND ranking = 1
       JOIN formats format ON format.id = preferred_format.format_id
-      WHERE round_type_id IN ('c', 'f') AND pos > 3
+      WHERE round_type_id IN ('c', 'f') AND global_pos > 3
     SQL
   end
 

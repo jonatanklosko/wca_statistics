@@ -17,9 +17,9 @@ class WorldChampionshipPodiumsByCountry < Statistic
       FROM (
         SELECT
           result.country_id,
-          SUM(IF(pos = 1, 1, 0)) gold_medals,
-          SUM(IF(pos = 2, 1, 0)) silver_medals,
-          SUM(IF(pos = 3, 1, 0)) bronze_medals
+          SUM(IF(global_pos = 1, 1, 0)) gold_medals,
+          SUM(IF(global_pos = 2, 1, 0)) silver_medals,
+          SUM(IF(global_pos = 3, 1, 0)) bronze_medals
         FROM results result
         JOIN competitions competition ON competition.id = competition_id
         JOIN championships ON championships.competition_id = result.competition_id

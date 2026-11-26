@@ -16,7 +16,7 @@ class LongestStreakOfPodiums < Statistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         round_type.final is_final,
-        pos place,
+        global_pos place,
         best single
       FROM results
       JOIN events event ON event.id = event_id

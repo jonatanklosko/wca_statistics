@@ -21,7 +21,7 @@ class MostPodiumsAtSingleCompetition < Statistic
         WHERE 1
           AND round_type_id IN ('f', 'c')
           AND best > 0
-          AND pos IN (1, 2, 3)
+          AND global_pos IN (1, 2, 3)
         GROUP BY person_id, competition_id
         HAVING podiums_count >= 10
         ORDER BY podiums_count DESC
